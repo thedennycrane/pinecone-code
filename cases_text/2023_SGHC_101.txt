@@ -1,0 +1,1089 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 101
+
+Originating Application No 624 of 2022
+
+Between
+
+| CYY  
+---|---  
+  
+… Claimant
+
+And
+
+| CYZ  
+---|---  
+  
+… Respondent
+
+judgment
+
+[Arbitration — Arbitral tribunal — Jurisdiction — Section 10(3)(a)
+International Arbitration Act 1994]
+
+[Arbitration — Agreement — Scope — Distinction between jurisdiction and
+admissibility]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+CYY
+
+  
+v
+
+  
+
+CYZ
+
+[2023] SGHC 101
+
+General Division of the High Court — Originating Application No 624 of 2022  
+Philip Jeyaretnam J  
+21 March 2023
+
+18 April 2023 Judgment reserved.
+
+Philip Jeyaretnam J:
+
+Introduction
+
+1 CYY, the claimant in this application, challenges a positive jurisdictional
+ruling by an arbitral tribunal (“the Tribunal”) dated 31 August 2022 (“the
+Ruling”). Pursuant to s 10(3)(a) of the International Arbitration Act 1994
+(2020 Rev Ed) (“IAA”), CYY seeks a declaration that the Tribunal does not have
+jurisdiction to hear certain claims brought by CYZ, the respondent.
+
+2 CYY does so, however, only in respect of one of the jurisdictional
+objections that it had made before the Tribunal. Its objection is essentially
+that the claims made do not fall within the terms, or the scope, of one of the
+contractual clauses, because that clause should be interpreted narrowly. That
+clause is part of the body of the agreement and records or establishes an
+obligation to pay for certain services at a specified mark up. This raises the
+question whether it is even an objection that goes to jurisdiction rather than
+the merits.
+
+Facts
+
+Background to the dispute
+
+3 The parties, CYY and CYZ, are companies involved in the marine salvage
+industry. CYZ, the respondent, is the owner of a crane barge (“the Crane
+Barge”). 1
+
+##### Foot Note 1
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at para 12.
+
+For readability, I will refer to CYY as “the Charterer” and CYZ as “the
+Owner”, their respective positions in relation to the Crane Barge.
+
+4 On 24 December 2019, the Charterer was engaged to provide urgent salvage
+services in respect of a vessel (“the Casualty”) which had run aground (“the
+Salvage Operation”). 2
+
+##### Foot Note 2
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at para 13.
+
+The Charterer immediately appointed a salvage master to oversee the Salvage
+Operation, who I shall refer to as Mr X. 3
+
+##### Foot Note 3
+
+×
+
+1st Affidavit of [Mr X] dated 24 October 2022 at para 3.
+
+The Charterer and Mr X share a long working history, as the Charterer had
+previously hired Mr X as their salvage master on “many salvage cases”. 4
+
+##### Foot Note 4
+
+×
+
+2nd Affidavit of [CYY] dated 18 January 2023 at para 7.
+
+5 That same day, Mr X, on behalf of the Charterer, contacted the Owner to
+charter the Crane Barge. The Owner was represented by its managing director,
+who I shall refer to as Mr Y. Unlike the Charterer, the Owner is physically
+established in the region of the Salvage Operation. Mr X specifically sought
+to hire the Crane Barge as it was purpose-built and uniquely equipped to
+assist with the Salvage Operation. Mr X also had prior experience working with
+the Crane Barge. As the salvage site was offshore, the Crane Barge was to
+serve as an offshore command centre for the Salvage Operation, hosting salvage
+personnel, equipment, and cargo. Given the urgency of the Salvage Operation,
+this course of action was determined to be more pragmatic than the alternative
+of repeatedly ferrying salvage personnel to and from the closest port. 5
+
+##### Foot Note 5
+
+×
+
+1st Affidavit of [Mr X] dated 24 October 2022 at paras 5–6; 1st Affidavit of
+[Mr Y] dated 9 November 2022 at paras 8–9, 12.
+
+6 On 26 December 2019, Mr X provided the Owner with a preliminary list of
+equipment and personnel required to enable the Crane Barge to carry out its
+role as the offshore command centre of the Salvage Operation. 6
+
+##### Foot Note 6
+
+×
+
+1st Affidavit of [Mr Y] dated 9 November 2022 at para 10.
+
+Given the complexity of the Salvage Operation, the Owner had to procure
+various permits from regional authorities, hire professional salvage
+specialists, logistical support staff and equipment, and arrange for visas,
+supplies and accommodation for personnel. 7
+
+##### Foot Note 7
+
+×
+
+1st Affidavit of [Mr Y] dated 9 November 2022 at para 10; 1st Affidavit of [Mr
+X] dated 24 October 2022 at para 7.
+
+The list of requirements was gradually expanded as the Salvage Operation
+progressed.
+
+7 Thereafter, the Charterer and the Owner entered into an agreement to charter
+the Crane Barge dated 3 January 2020 (“the Contract”). 8
+
+##### Foot Note 8
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at para 14.
+
+The parties used the Baltic and International Maritime Council Supplytime 2017
+Contract for the Time Charter Party for Offshore Support Vessels (“BIMCO
+Supplytime 2017”), a standard form contract used for the hire of offshore
+support vessels. 9
+
+##### Foot Note 9
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at paras 14 and 16; 1st
+Affidavit of [Mr Z] dated 24 January 2023 at para 23.
+
+The Contract
+
+8 The Contract is expressly governed by Singapore law and contains an
+arbitration clause naming Singapore as the seat of arbitration. The
+arbitration clause, cl 37 of the Contract, was chosen by the parties out of
+several alternative options offered by BIMCO Supplytime 2017 and encompasses
+“any dispute arising out of or in connection with this Charter Party”.
+
+9 In addition to the standard clauses of BIMCO Supplytime 2017, the Contract
+also includes several additional clauses agreed between the parties. One such
+additional clause, cl 39 of the Contract, is of central importance to the
+dispute:
+
+Clause 39
+
+All Consumables, communications and medicine on the Vessel which are used or
+taken by Charterers shall be charged at Cost + 15%
+
+All procurement services by Owner at the request of the Charterers shall be
+charged at Cost + 15%
+
+10 According to both Mr Y and Mr X, the Owner was entrusted with procuring the
+staff and equipment necessary to enable the Crane Barge to be used as an
+offshore command centre, because the Owner was established in the region of
+the Salvage Operation and had a network of local contacts. In contrast, the
+Charterer did not have any physical presence in the region and essentially
+relied on the Owner to procure everything it needed for the Salvage Operation.
+Mr X therefore agreed with Mr Y that all procurement services undertaken by
+the Owner at the Charterer’s request would be paid at cost plus a 15% margin.
+This agreement was then eventually reflected as cl 39 of the Contract. 10
+
+##### Foot Note 10
+
+×
+
+1st Affidavit of [Mr X] dated 24 October 2022 at paras 7–9; 1st Affidavit of
+[Mr Y] dated 9 November 2022 at paras 15–17.
+
+According to Mr Y, a clause requiring a service provider to simply procure
+whatever the other counterparty requests is not unusual in the context of
+emergency marine salvage operations. 11
+
+##### Foot Note 11
+
+×
+
+1st Affidavit of [Mr Y] dated 9 November 2022 at para 19.
+
+11 The Charterer does not dispute that Mr X and Mr Y agreed that the Owner
+would provide assistance for, and on behalf of, the Charterer in the Salvage
+Operation and does not dispute that the Owner might “potentially be entitled”
+to charge a 15% markup for procurement services. What the Charterer does
+dispute is that such an agreement was incorporated into the Contract. 12
+
+##### Foot Note 12
+
+×
+
+2nd Affidavit of [CYY] dated 18 January 2023 at paras 9, 46; Claimant’s
+Written Submissions dated 15 March 2023 at para 24.
+
+The Disputed Claims
+
+12 Throughout the Salvage Operation, the Charterer requested various services,
+personnel, equipment, and craft, which the Owner procured (the “Disputed
+Claims”). Contemporaneous invoices incorporating a 15% markup were issued in
+respect of the Disputed Claims, which were signed by Mr X on behalf of the
+Charterer. 13
+
+##### Foot Note 13
+
+×
+
+1st Affidavit of [Mr Y] dated 9 November 2022 at paras 30–31; 2nd Affidavit of
+[CYY] dated 18 January 2023 at para 48.
+
+13 The Salvage Operation concluded on or around 9 March 2020. 14
+
+##### Foot Note 14
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at para 21.
+
+The arbitration proceedings
+
+14 On 23 June 2021, the Owner issued a letter of demand in respect of the
+Disputed Claims. 15
+
+##### Foot Note 15
+
+×
+
+1st Affidavit of [Mr Y] dated 9 November 2022 at para 36.
+
+The Charterer did not pay. Accordingly, on 6 July 2021, the Owner commenced
+arbitration proceedings against the Charterer. 16
+
+##### Foot Note 16
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at para 22.
+
+The parties’ cases before the Tribunal
+
+15 The Owner claimed that it was entitled to the cost of procuring all the
+services, personnel, equipment, and craft requested by the Charterer plus a
+15% margin, pursuant to cl 39. Alternatively, the Owner claimed that it was
+entitled to damages on a quantum meruit basis for the procurement services
+rendered. 17
+
+##### Foot Note 17
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at 221–224.
+
+16 In response, the Charterer raised a jurisdictional challenge based on two
+main grounds. First, the Charterer disputed the existence of the arbitration
+agreement. In this application, the Charterer now concedes the existence of
+the arbitration agreement which provides for a Singapore seated arbitration.
+18
+
+##### Foot Note 18
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at para 9.
+
+17 Second, the Charterer took the position that the Contract and cl 39 therein
+are strictly limited to procurement services rendered only in relation to the
+charter of the Crane Barge, and not services rendered in relation to the
+Salvage Operation generally. Accordingly, as the Disputed Claims relate to
+procurement services provided in relation to the Salvage Operation generally,
+they fall outside the scope of the Contract and the Tribunal has no
+jurisdiction to determine the Disputed Claims. 19
+
+##### Foot Note 19
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at paras 24–25, 46; 1st
+Affidavit of [CYY] dated 30 September 2022 at paras 27–28.
+
+To elucidate this distinction, the Charterer gives examples of inspections and
+surveys of the Crane Barge and the provision of food and supplies to it as
+services that would fall within the scope of cl 39. 20
+
+##### Foot Note 20
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at para 52.
+
+As the Charterer has already paid all sums owed in relation to the charter of
+the Crane Barge, there are no claims over which the Tribunal has jurisdiction.
+21
+
+##### Foot Note 21
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at paras 24–25.
+
+As for the quantum meruit claim, the Charterer similarly submitted that the
+arbitration clause was strictly limited to matters relating to the charter of
+the Crane Barge. Thus, the Tribunal has no jurisdiction to determine the
+quantum meruit claim. 22
+
+##### Foot Note 22
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at para 58.
+
+The Ruling
+
+18 In the Ruling, the Tribunal found that it had the jurisdiction to determine
+the Disputed Claims.
+
+19 In relation to the first objection, the argument that there was no
+arbitration agreement sprang from how the box layout that forms Part I of the
+BIMCO Supplytime 2017 standard form had been filled out. This box layout when
+filled out provides the brief particulars of the contract. Part II of the
+BIMCO Supplytime 2017 contains the full standard terms. Box 33, which concerns
+dispute resolution, provides for a choice between several alternative forms
+for cl 37. 23
+
+##### Foot Note 23
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at 26.
+
+Although parties filled in “(c)** Singapore law, Singapore arbitration” in Box
+33, alternative (c) was deleted in Part II and alternative (d) was retained.
+24
+
+##### Foot Note 24
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at 49–50.
+
+The Tribunal held that parties’ intention for “Singapore law, Singapore
+arbitration” was clear. 25
+
+##### Foot Note 25
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at 622–623.
+
+Before me, the first objection is not pursued as it is accepted that the
+insertion of the letter (c) was merely a typographical error and alternative
+(d) applied.
+
+20 In relation to the second objection, the Tribunal observed that the scope
+of cl 39 was uncertain when considered in a vacuum. The Tribunal thus adopted
+a contextual interpretation and determined that cl 39 encompassed all
+procurement services rendered by the Owner in relation to the entire Salvage
+Operation. This was an interpretation that the express words of cl 39 could
+reasonably bear. The Contract had been concluded in the context of an
+emergency and the “overall commercial purpose of the [Contract] was to
+urgently salvage [the Casualty]”. The Charterers had no presence, equipment,
+or resources in the locality, and it was thus “intended that the [Owner] was
+to play an important role in procuring and providing resources, equipment and
+personnel to support the Salvage Operation”. Although the Contract was a
+standard form contract, the fact remained that cl 39 was an additional clause
+specifically added by the parties and was therefore intended to address
+matters not covered by BIMCO Supplytime 2017. The Tribunal did not take into
+consideration any purported oral agreement reached between Mr X and Mr Y prior
+to the Contract. Having reached this conclusion, the Tribunal found that it
+was unnecessary to determine whether it had jurisdiction to determine the
+quantum meruit claim. Nevertheless, the Tribunal concluded that, considering
+the aforementioned context of the Contract and the fact that the Contract
+expressly named the Casualty as the area of operation of the Crane Barge, the
+quantum meruit claim also fell within the scope of the arbitration clause. 26
+
+##### Foot Note 26
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at 625–627.
+
+The Tribunal thus concluded that it has jurisdiction to determine the Disputed
+Claims on the basis of cl 39 or as a quantum meruit claim.
+
+The parties’ cases
+
+21 In this application, the crux of the dispute as presented by the parties is
+the interpretation of cl 39 of the Contract. The Charterer submits that cl 39
+must be strictly limited to procurement services rendered in relation to the
+charter of the Crane Barge, and not services rendered in relation to the
+Salvage Operation generally. Conversely, the Owner submits that cl 39 should
+encompass all procurement services requested by the Charterer.
+
+The Charterer’s case
+
+22 In a nutshell, the Charterer submits that because cl 39 is contained in a
+contract based on BIMCO Supplytime 2017, a standard form contract for the
+charter of offshore support vessels, cl 39 must be construed to apply only to
+procurement services rendered in relation to the charter of the Crane Barge.
+
+23 Although it is undisputed that cl 39 was an additional clause included by
+the parties and extraneous to BIMCO Supplytime 2017, the Charterer submits
+that a restrained interpretative approach should be adopted because BIMCO
+Supplytime 2017 is a standard form contract. The predictability of standard
+form contracts, and hence their value, will be damaged if the interpretation
+of standard terms is inconsistent. Thus, the Charterer submits that the
+background context and factual matrix should have little relevance to the
+interpretation of cl 39. Instead, the choice of BIMCO Supplytime 2017, a time
+charter, evinces the objective intention to confine the scope of cl 39 to the
+procurement of services relating only to the charter of the Crane Barge. 27
+
+##### Foot Note 27
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at paras 36–39, 43, 52–53.
+
+24 Further and in any event, the Charterer submits that the relevant context
+demonstrates that the parties intended for cl 39 to be circumscribed in scope.
+
+25 The Charterer emphasises that BIMCO Supplytime 2017 is not an appropriate
+form to use for an entire salvage operation as it is merely a time charter.
+Instead, it would have been more appropriate to use a broader master agreement
+such as the Wreckhire 2010, another BIMCO standard form contract designed to
+govern entire salvage operations. The Wreckhire 2010 explicitly contemplates
+matters that must be addressed when dealing with an entire salvage operation,
+such as daily rates and third-party expenses, and is better able to
+accommodate requests for additional services as an operation progresses. As
+both parties are experienced industry players familiar with the available
+standard forms, the choice of BIMCO Supplytime 2017 must have been a conscious
+decision to limit the scope of their agreement. Furthermore, the Contract does
+not explicitly state that the Contract is for the purpose of the Salvage
+Operation. Thus, the Contract is no more than a time charter for the Crane
+Barge. It is commercially inconceivable and there is no indication that the
+parties intended that the entire costs incurred by the Salvage Operation would
+be covered by a single line in cl 39 rather than by an appropriate master
+contract. 28
+
+##### Foot Note 28
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at paras 9, 31–33, 48–58,
+103.
+
+However, I note that both the Owner and Charterer agree that it is not
+strictly speaking necessary, even as a matter of practice, for the parties to
+have entered into a further contract for the Salvage Operation in addition to
+the Contract. 29
+
+##### Foot Note 29
+
+×
+
+1st Affidavit of [Mr Y] dated 9 November 2022 at para 18; 2nd Affidavit of
+[CYY] dated 18 January 2023 at para 36.
+
+During the oral hearing, the Charterer also placed considerable emphasis on
+email correspondence regarding the additional clauses. The Charterer points to
+this as contemporaneous evidence that cl 39 pertains only to the charter of
+the Crane Barge, because the correspondence does not explicitly state that cl
+39 relates to the entire Salvage Operation. 30
+
+##### Foot Note 30
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at paras 89–96.
+
+The Charterer submits that the foregoing should provide all the context
+necessary to objectively ascertain the parties’ intention at the time of
+contracting. As it did before the Tribunal, the Charterer submits that this
+interpretation should equally apply to constrain the scope of the arbitration
+clause and exclude the quantum meruit claim from arbitration. 31
+
+##### Foot Note 31
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at para 106.
+
+26 The Charterer submits that the Tribunal over-stated the effect of urgency,
+as salvage operations inherently involve a degree of urgency which salvage
+operators are accustomed to dealing with. 32
+
+##### Foot Note 32
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at para 103.
+
+Although the Charterer accepts that it has no physical presence in the region
+of the Salvage Operation, it asserts that it would have no difficulty
+conducting the Salvage Operation and would not necessarily have intended that
+the Owner would play an important role. The Charterer therefore submits that
+the Tribunal erred in giving weight to this fact. 33
+
+##### Foot Note 33
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at paras 72–76.
+
+Additionally, the fact that the Casualty was named as the area of operation of
+the Crane Barge and the fact that the Crane Barge was hired for the purpose of
+aiding in the Salvage Operation should not change the Contract’s essential
+nature as a mere time charter. 34
+
+##### Foot Note 34
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at para 108.
+
+27 As the Charterer’s propounded interpretation would mean that the Disputed
+Claims do not fall under any written agreement, the Charterer suggests (but
+does not admit) that it remains open to the Owner to base its claim on a
+separate oral agreement or other non-contractual cause of action. 35
+
+##### Foot Note 35
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at paras 60–61.
+
+The Charterer suggests that the arbitration is an attempt by the Owner to
+shoehorn the Disputed Claims into the Contract because of foreseeable
+difficulties in pursuing a claim on the basis of an oral agreement. 36
+
+##### Foot Note 36
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at para 102.
+
+28 The Charterer also alleged that it entered into several other separate
+agreements with the Owner and other third parties for the charter of other
+vessels to assist in the Salvage Operation. 37
+
+##### Foot Note 37
+
+×
+
+1st Affidavit of [CYY] dated 30 September 2022 at para 20; Claimant’s Written
+Submissions dated 15 March 2023 at para 21.
+
+The Charterer submits that the fact that it entered into multiple other
+separate contracts in relation to the Salvage Operation shows that the
+Contract could not have been intended to cover the entire Salvage Operation,
+as the other contracts would then be otiose. 38
+
+##### Foot Note 38
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at paras 63–71.
+
+The Owner’s case
+
+29 The Owner contends that the Disputed Claims fall within the ambit of cl 39
+of the Contract, which encompasses all procurement services rendered by the
+Owner at the Charterer’s request. Even if the Disputed Claims do not fall
+within the ambit of cl 39, the Owner submits that the quantum meruit claim
+nevertheless falls within the scope of the arbitration clause.
+
+30 Textually, the parties did not expressly confine the scope of “procurement
+services” in the second proviso of cl 39 to the Crane Barge, unlike the first
+proviso, which is limited to “[c]onsumables, communications and medicine on
+the Vessel which are used or taken by the Charterers” [emphasis added] (see
+above at [9]). 39
+
+##### Foot Note 39
+
+×
+
+Respondent’s Written Submissions dated 14 March 2023 at paras 29–31, 43.
+
+31 Contextually, the Owner submits that the choice of BIMCO Supplytime 2017 is
+neither here nor there, as it is undisputed that parties can and did in fact
+supplement the standard terms. Indeed, cl 39 is precisely one such additional
+term. The context supports the Owner’s interpretation of cl 39. The Contract
+had been concluded in the context of an emergency, where the Charterer had to
+rely on the resources of the Owner as a local operator. In the circumstances,
+cl 39 was left open ended to ensure that the Crane Barge could be properly
+staffed and equipped as the needs of the Salvage Operation evolved. 40
+
+##### Foot Note 40
+
+×
+
+Respondent’s Written Submissions dated 14 March 2023 at paras 34–36, 61–67.
+
+The commercial purpose of the Contract was for the Crane Barge to operate as
+the offshore command centre for the Salvage Operation. Even on a narrower
+interpretation of cl 39, the Disputed Claims remain linked to the charter of
+the Crane Barge, as they concern procurement services requested for the
+purpose of properly equipping the Crane Barge to act as the offshore command
+centre. 41
+
+##### Foot Note 41
+
+×
+
+Respondent’s Written Submissions dated 14 March 2023 at para 45, 53–55.
+
+If cl 39 did not cover the Disputed Claims, the Contract would have been
+pointless as the Crane Barge would not have been able to serve its intended
+purpose. 42
+
+##### Foot Note 42
+
+×
+
+Respondent’s Written Submissions dated 14 March 2023 at paras 53–55.
+
+32 Importantly, the direct evidence of Mr Y and Mr X, the representatives who
+actually negotiated and witnessed the conclusion of the Contract,
+unequivocally supports the Owner’s propounded interpretation of cl 39. 43
+
+##### Foot Note 43
+
+×
+
+Respondent’s Written Submissions dated 14 March 2023 at paras 50–51, 56–57.
+
+The Charterer had never (until the oral hearing) raised any issue regarding Mr
+X’s authority to act on their behalf. 44
+
+##### Foot Note 44
+
+×
+
+Respondent’s Written Submissions dated 14 March 2023 at para 50, 60.
+
+In contrast, the Charterer provides no direct evidence of the circumstances
+surrounding the execution of the Contract. Instead, the Charterer relies on
+the affidavit of a broker, who I shall refer to as Mr Z. Mr Z only provides
+post-hoc subjective opinions based on hypothetical situations as he was not
+personally involved in the negotiation of the Contract. Mr Z’s hypothetical
+views were not disclosed to any other party and are therefore irrelevant to
+the construction of the Contract. 45
+
+##### Foot Note 45
+
+×
+
+Respondent’s Written Submissions dated 14 March 2023 at paras 71–74.
+
+33 The Owner submits that the court generally accords a generous
+interpretation to the scope of arbitration agreements, unless there is good
+reason to conclude that the claim should fall outside its scope. As the
+purpose of the Contract was to charter the Crane Barge to assist in the
+Salvage Operation, and the procured services were in relation to the Salvage
+Operation, the Disputed Claims clearly arise “in connection with” the
+Contract. Accordingly, the quantum meruit claims fall within the scope of the
+arbitration clause. 46
+
+##### Foot Note 46
+
+×
+
+Respondent’s Written Submissions dated 14 March 2023 at paras 86–91.
+
+34 The Owner takes the view that the Charterer makes the present application
+in bad faith and for the purpose of delaying the resolution of the Disputed
+Claims. 47
+
+##### Foot Note 47
+
+×
+
+Respondent’s Written Submissions dated 14 March 2023 at paras 4–6.
+
+Issues to be determined
+
+35 Parties therefore agree that the key issue is whether the Disputed Claims
+fall within the scope of cl 39 of the Contract. If the Disputed Claims do not
+fall within the scope of cl 39, the next issue is whether a claim in quantum
+meruit falls within the scope of the arbitration clause.
+
+36 However, the parties’ focus on the interpretation of cl 39 raises the
+preliminary issue of whether its interpretation truly goes to jurisdiction or
+to the admissibility of the claims. I posed this question to counsel at the
+oral hearing.
+
+Jurisdictional review under s 10(3)(a) IAA
+
+37 It is established that a review on jurisdiction pursuant to s 10(3)(a) IAA
+is conducted de novo with no deference granted to the Tribunal’s findings,
+though the court is entitled to consider what the Tribunal has said: Sanum
+Investments Ltd v Government of the Lao People’s Democratic Republic [2016] 5
+SLR 536 at [41]–[43]. Nevertheless, the court must guard against ingenious
+attempts to disguise substantive challenges as challenges to jurisdiction: BTN
+and another v BTP and another [2020] 5 SLR 1250 at [45].
+
+38 In this case, the Ruling is expressly framed as a determination of the
+jurisdiction challenge and the Tribunal appears to refrain from addressing the
+merits. However, cl 39 imposes a substantive obligation on the Charterer and
+is the basis upon which the Owner brings its claim. I therefore directed the
+Charterer to clarify why the interpretation of a substantive clause of the
+Contract is appropriate for jurisdictional review under s 10(3)(a) IAA.
+
+The Charterer’s arguments
+
+39 The Charterer submits that the Tribunal’s jurisdiction stems from the
+arbitration clause contained in the Contract. As the arbitration clause refers
+to disputes arising out of or in connection with the Contract, the Tribunal’s
+jurisdiction therefore depends on the scope of the Contract. If a matter falls
+outside the scope of the Contract, the Tribunal has no jurisdiction. The
+argument therefore goes that a determination by the Tribunal on the scope of
+the Contract is necessarily a jurisdictional decision which is subject to
+review. According to the Charterer, the Tribunal erred in finding that the
+overall commercial purpose of the Contract was to urgently salvage the
+Casualty. Instead, the Contract is limited to matters relating to the Charter
+of the Crane Barge. This means that cl 39 is similarly limited to procurement
+services rendered only in relation to the charter of the Crane Barge. This
+issue of interpretation is, in the Charterer’s submission, appropriate for
+jurisdictional review under s 10(3)(a) IAA.
+
+Whether the interpretation of cl 39 goes to jurisdiction
+
+40 In my judgment, the interpretation of cl 39 is a matter that comes within
+the merits of the dispute referred to arbitration. The Charterer has now
+accepted that there was a binding arbitration agreement. Thus, the question of
+whether the Owner’s claims in respect of procurement services fall within cl
+39 is a matter for the Tribunal to determine as part of the dispute referred
+by parties. Questions of what a clause within the body of a contract applies
+to are common. For example, in a sale of goods contract there is often an
+issue of whether the goods delivered are of the type contracted for.
+Sometimes, this depends on how the clause is interpreted. I gave the example
+during the oral hearing of a contract for sale of English apples. This could
+mean apples of any traditional English variety wherever grown, or apples of
+any variety grown in England. If there is an arbitration clause applying to
+the contract and the arbitrator decides on one of the two possible
+interpretations of the clause concerning the nature of the goods to be sold
+and delivered, and thus either allows or rejects the claim, she would be
+acting within her jurisdiction: precisely deciding an issue that has been
+submitted to her. It is an error to recast this question as her having
+jurisdiction only to allow claims that come within the clause as properly
+interpreted. The effect of this error would be to change the decision maker
+for a question of contractual interpretation concerning a substantive
+obligation of parties from the arbitrator appointed by agreement of the
+parties to the court upon a jurisdictional challenge.
+
+41 Interpretation of a substantive clause within the contract ordinarily
+concerns the admissibility of the claim made. This differs from interpretation
+of the arbitration agreement contained within the contract. Interpretation of
+the arbitration clause might go to jurisdiction where the difference between
+the parties relates to the scope of the arbitration agreement. As the Court of
+Appeal explained in Swissbourgh Diamond Mines (Pty) Ltd and others v Kingdom
+of Lesotho [2019] 1 SLR 263 at [207]:
+
+Jurisdiction is commonly defined to refer to “the power of the tribunal to
+hear a case”, whereas admissibility refers to “whether it is appropriate for
+the tribunal to hear it”: Waste Management, Inc v United Mexican States ICSID
+Case No ARB(AF)/98/2, Dissenting Opinion of Keith Highet (8 May 2000) at [58].
+To this, Zachary Douglas adds clarity to this discussion by referring to
+“jurisdiction” as a concept that deals with “the existence of [the]
+adjudicative power” of an arbitral tribunal, and to “admissibility” as a
+concept dealing with “the exercise of that power” and the suitability of the
+claim brought pursuant to that power for adjudication: Douglas at paras 291
+and 310. Finally, in Chin Leng Lim, Jean Ho & Martins Paparinskis,
+International Investment Law and Arbitration: Commentary, Awards and other
+Materials (Cambridge University Press, 2018) (“Chin Leng Lim”), it is usefully
+observed that there are two ways of drawing the distinction between
+jurisdiction and admissibility (at p 118):
+
+… The more conceptual reading would focus on the legal nature of the
+objection: is it directed against the tribunal (and is hence jurisdictional)
+or is it directed at the claim (and is hence one of admissibility)? The more
+draftsmanlike reading would focus on the place that the issue occupies in the
+structure of international dispute settlement: is the challenge related to the
+interpretation and application of the jurisdictional clause of the
+international tribunal (and hence jurisdictional), or is it related to the
+interpretation and application of another rule or instrument (and is hence one
+of admissibility)?
+
+42 In my view, the interpretation of cl 39, and specifically what was meant to
+be covered by the phrase “all procurement services” is a matter of
+admissibility. The objection is directed at the claim rather than the
+Tribunal’s authority under the arbitration agreement. Consequently, its
+interpretation is not a matter for this court, even if the Tribunal reached
+what the court might consider to be the wrong conclusion on it.
+
+43 Nonetheless, as counsel and the Tribunal appear to have proceeded on the
+basis that the interpretation of cl 39 goes to jurisdiction, I will now
+consider its interpretation.
+
+The correct interpretation of cl 39
+
+Context
+
+44 The Charterer contended before me that its filing of affidavits in these
+proceedings has provided me with more of the relevant context than had been
+available to the Tribunal. However, it is readily apparent that the Charterer
+is not relying upon any direct evidence of the negotiations and context
+surrounding the execution of the Contract. This is because Mr X, who
+represented the Charterer at all material times during the negotiations, has
+filed an affidavit on behalf of the Owner in this application. The
+relationship between Mr X and the Charterer broke down after the Salvage
+Operation. 48
+
+##### Foot Note 48
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at para 85.
+
+According to the Charterer, this was due to their dissatisfaction with Mr X’s
+performance in the Salvage Operation, specifically in the quantity of craft,
+equipment and personnel requested from the Owners, which resulted in
+“excessive costs” being claimed by the Owners. 49
+
+##### Foot Note 49
+
+×
+
+2nd Affidavit of [CYY] dated 18 January 2023 at para 7.
+
+45 The Charterer instead relies on the affidavit of a broker, Mr Z, which
+contains statements of opinion that support the Charterer’s views on the use
+of master agreements. 50
+
+##### Foot Note 50
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at paras 79–82.
+
+Mr Z did not give evidence in the arbitration. In their written submissions,
+the Charterer refers to Mr Z as the broker who was contacted by Mr X to liaise
+with the Owner for the charter of the Crane Barge. 51
+
+##### Foot Note 51
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at paras 4 and 79.
+
+The Charterer also submitted that Mr Z was a “neutral party in these
+proceedings”, such that his evidence ought to be accorded greater weight than
+that of Mr X and Mr Y. 52
+
+##### Foot Note 52
+
+×
+
+Claimant’s Written Submissions dated 15 March 2023 at para 88.
+
+However, during the oral hearing, counsel for the Charterer gave a drastically
+different description of Mr Z’s role, submitting that Mr Z was the main person
+representing the Charterer and negotiating on its behalf. As Mr Z was never
+informed that the 15% markup would apply to procurement services provided in
+relation to the Salvage Operation generally, 53
+
+##### Foot Note 53
+
+×
+
+1st Affidavit of [Mr Z] dated 24 January 2023 at para 36.
+
+the Charterer submitted that the evidence of Mr X and Mr Y should be
+disregarded for the purpose of interpretation. Instead, the context should be
+limited to Mr Z’s opinion and understanding of the email correspondence as the
+true representative of the Charterer. The Charterer also sought to downplay Mr
+X’s involvement and suggested that Mr X did not have the authority to
+represent the Charterer. However, when I invited them to do so, the Charterer
+declined to take a firm position on the issue of actual or apparent authority.
+
+46 These allegations, which were first made at the oral hearing, are not
+supported by the evidence. Mr Z’s own affidavit states that he was brought on
+to “finalise” the Contract only after Mr X had already commenced negotiations
+with Mr Y. Critically, Mr Z explicitly confirms that he did not negotiate the
+Contract, as its terms were agreed by Mr X locally on behalf of the Charterer.
+Mr Z’s role was therefore confined, in his own words, to “finalis[ing] the
+contract” and “[commenting] on the wording of the contract and [making]
+suggested additions/corrections”. 54
+
+##### Foot Note 54
+
+×
+
+1st Affidavit of [Mr Z] dated 24 January 2023 at paras 5 and 10.
+
+Rather than a leading role, it appears from the email correspondence that Mr Z
+instead took instructions from Mr X on the form and drafting of the Contract.
+Mr Z described his own role as “suggest[ing]” the appropriate contractual form
+and “advis[ing]” Mr X. 55
+
+##### Foot Note 55
+
+×
+
+1st Affidavit of [Mr Z] dated 24 January 2023 at paras 15–17.
+
+Other than representing the Charterer in two separate agreements with other
+third-parties, Mr Z states that he “had no involvement in chartering any other
+craft, equipment or personnel” for the Salvage Operation. 56
+
+##### Foot Note 56
+
+×
+
+1st Affidavit of [Mr Z] dated 24 January 2023 at paras 18–19.
+
+Indeed, Mr Z told the Owners to liaise directly with Mr X, who was on the
+ground, and deferred to Mr X’s decision on cl 39. 57
+
+##### Foot Note 57
+
+×
+
+1st Affidavit of [Mr Z] dated 24 January 2023 at paras 27, 40–41.
+
+47 In fact, when cl 39 in its current form was first suggested by the Owner in
+an email, Mr Z simply replied “Agreed proposed Additional Clause 39 (subject
+[Mr X] has agreed the 15 pct mark-up)”. 58
+
+##### Foot Note 58
+
+×
+
+1st Affidavit of [Mr Z] dated 24 January 2023 at 149–150.
+
+Although there was no express explanation concerning the scope of cl 39
+communicated on behalf of the Owner to Mr Z at that time, it is evident that
+Mr Z simply accepted it provided that Mr X had agreed to it.
+
+48 Consequently, the context as it appears in the evidence before me is drawn
+from the objective evidence of what “crossed the table” between Mr X and Mr Y
+as representatives of the parties. I accept that the Contract was concluded
+under circumstances of urgency, and that the Charterer had to rely on the
+resources of the Owner as a local operator. These facts would support the
+broader reading of cl 39 as they would be consistent with the need for the
+Crane Barge to be properly staffed and equipped as the needs of the Salvage
+Operation evolved. I also accept that parties envisaged that the Crane Barge
+would operate as the offshore command centre for the Salvage Operation. This
+also supports the broader reading of cl 39 in that it would make sense to
+consider the Contract (which was for charter of the Crane Barge) as the key
+contract and thus bring ancillary and broadly related procurement services
+within it.
+
+49 There is logic in the Charterer’s submissions that ordinarily additional
+clauses inserted into the charterparty for one vessel should be read as
+relating to that vessel. There might conceivably have been more appropriate or
+more logical ways of organising the contractual provisions, including by
+entering into a contract based instead on Wreckhire 2010 or having some other
+form of master agreement. But this argument effectively concedes the point
+that parties needed to place their agreement on general procurement services
+relating to the Salvage Operation somewhere. Once that is accepted, there is
+nothing illogical about including that agreement in the Contract.
+
+Text
+
+50 Turning to the text of cl 39, the second sentence is drafted broadly (see
+above at [9]). There is no reason to restrict the meaning of the word “all”.
+The controlling requirement is that the procurement services so chargeable
+must have been “at the request of the Charterer”. Thus, whatever procurement
+services were requested by the Charterer and supplied by the Owner had to be
+paid for.
+
+51 Moreover, the first and second sentences of cl 39 concern different matters
+and can and should be read independently. The second sentence is not
+subsidiary or ancillary to the first. What unites the two sentences is that
+they both concern things that the Charterer will have to pay for. The first is
+what the Charterer might take or use on board the Crane Barge, while the
+second is what the Charter might request the Owner to supply. The fact that
+the first sentence includes the limiting words “on board” does not suggest
+that similar limiting words should be read into the second sentence. The
+control that the Charterer could exercise over what it had to pay was via what
+it chose to request from the Owner.
+
+52 Accordingly, even if the interpretation of cl 39 went to jurisdiction, I
+agree with the Tribunal’s interpretation. In fact, I would add that in my view
+the clause is phrased plainly and clearly, and there is little need to
+consider the context to interpret it. It reads as a free-standing obligation
+to pay at the specified mark up for procurement services requested. In any
+case, the context supported this plain meaning of the clause.
+
+A further point
+
+53 There is a further point. Before me, the submissions of both parties delved
+into how related to the Crane Barge the various services supplied were, as set
+out in the invoices that formed the Disputed Claims. A cursory review of the
+invoices established that there were indeed many items that on their face
+appeared to be linked to the Crane Barge. As noted at [12] above, they were
+issued contemporaneously and countersigned by Mr X on behalf of the Charterer.
+
+54 This reinforces my view that the application of cl 39 went to the merits
+and not to the jurisdiction of the Tribunal. It is obviously a merits question
+whether all the invoiced items or only some of them should be recoverable.
+This question remains to be decided by the Tribunal.
+
+Conclusion
+
+55 I dismiss the Charterer’s application and hold that the Tribunal has
+jurisdiction. Parties are to file and exchange within 14 days of the date of
+this judgment submissions on costs limited to ten pages each exclusive of any
+schedules or breakdown of time spent or disbursements incurred. Parties are to
+seek to agree costs within 7 days after exchange of submissions, failing which
+either party may write in for a hearing before me.
+
+Philip Jeyaretnam  
+Judge of the High Court  
+---  
+  
+25Vergis S Abraham SC and Leo Zhi Wei (Liang Zhiwei) (Providence Law Asia LLC)
+(instructed), Cai Jianye Edwin and Tay Xi Ying (Dai Xiying) (Clasis LLC) for
+the claimant;
+
+Tham Lijing and Lim Qiu Yi, Regina (Tham Lijing LLC) (instructed), Parhar
+Sunita Sonya (S.S Parhar Law Corporation) for the respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 18 Apr 2023 (11:38 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

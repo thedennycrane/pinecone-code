@@ -1,0 +1,2003 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 256
+
+Suit No 1046 of 2020 (Registrar’s Appeal No 92 of 2022 and Registrar’s Appeal
+No 234 of 2022)
+
+Between
+
+| Vibrant Group Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| Tong Chi Ho  
+---|---  
+(2)| Peng Yuguo  
+(3)| Findex (Aust) Pty Ltd  
+  
+… Defendants
+
+judgment
+
+[Conflict of Laws — Jurisdiction]
+
+[Conflict of Laws — Natural forum]
+
+[Civil Procedure — Service]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Vibrant Group Ltd
+
+  
+v
+
+  
+
+Tong Chi Ho and others
+
+[2022] SGHC 256
+
+General Division of the High Court — Suit No 1046 of 2020 (Registrar’s Appeal
+No 92 of 2022 and Registrar’s Appeal No 234 of 2022)  
+Teh Hwee Hwee JC  
+1 September, 3 October 2022
+
+12 October 2022 Judgment reserved.
+
+Teh Hwee Hwee JC:
+
+Introduction
+
+1 The plaintiff, Vibrant Group Limited, commenced Suit 1046 of 2020 (“Suit
+1046”) against the defendants in relation to its acquisition of a company
+incorporated in Australia, Blackgold International Holdings Pty Ltd
+(“Blackgold Australia”). The plaintiff alleges that the first and second
+defendants made fraudulent or, in the alternative, negligent
+misrepresentations that induced the plaintiff to acquire Blackgold Australia,
+causing the plaintiff to suffer loss and damage. The plaintiff alleges that
+the third defendant’s negligence in conducting the audit of Blackgold
+Australia and in preparing the audit report caused the plaintiff to suffer
+loss and damage.
+
+2 The second defendant applied by HC/SUM 423/2022 (“SUM 423/2022”) to set
+aside two orders of court 1
+
+##### Foot Note 1
+
+×
+
+HC/ORC 6732/2020 and HC/ORC 7109/2021 of HC/S 1046/2020.
+
+granting the plaintiff leave to serve its writ of summons and statement of
+claim (and amended versions thereof) out of jurisdiction on the second
+defendant in the People’s Republic of China (“PRC”) or, in the alternative,
+for Suit 1046 to be stayed on the ground of forum non conveniens. The third
+defendant made a similar application by HC/SUM 1361/2022 (“SUM 1361/2022”) to
+set aside an order 2
+
+##### Foot Note 2
+
+×
+
+HC/ORC 7110/2021 of HC/S 1046/2020.
+
+granting the plaintiff leave to serve its amended writ of summons and
+statement of claim out of jurisdiction on the third defendant in Australia.
+
+3 SUM 423/2022 and SUM 1361/2022 were heard by the learned Assistant Registrar
+Justin Yeo (the “learned AR”). The learned AR declined to set aside the
+service out of jurisdiction orders or to stay the proceedings in respect of
+the second defendant and dismissed SUM 423/2022 on 1 April 2022, 3
+
+##### Foot Note 3
+
+×
+
+[2022] SGHCR 4 at [42] and [49].
+
+but granted the application in SUM 1361/2022 to set aside the service out of
+jurisdiction order in respect of the third defendant on 4 July 2022. 4
+
+##### Foot Note 4
+
+×
+
+[2022] SGHCR 8 at [48].
+
+HC/RA 92/2022 (“RA 92/2022”) and HC/RA 234/2022 (“RA 234/2022”) are appeals
+against the decisions of the learned AR in SUM 423/2022 (by the second
+defendant) and SUM 1361/2022 (by the plaintiff) respectively. I heard both
+appeals together on 1 September 2022. For the reasons set out in this
+judgment, I dismiss both appeals in their entirety.
+
+Facts
+
+The parties
+
+4 The plaintiff is a company incorporated in Singapore and listed on the
+Singapore Exchange (the “SGX”). 5
+
+##### Foot Note 5
+
+×
+
+Khua Kian Keong’s 1st Affidavit of 9 December 2020 (“Khua’s 1st Affidavit”) at
+para 7.
+
+The first defendant is a Singapore citizen and was, at the material time, the
+Chairman of Blackgold Australia. 6
+
+##### Foot Note 6
+
+×
+
+Khua’s 1st Affidavit at para 8.
+
+The second defendant is a citizen of the PRC and was, at the material time,
+the Executive Director and Chief Executive Officer of Blackgold Australia. 7
+
+##### Foot Note 7
+
+×
+
+Khua’s 1st Affidavit at para 9.
+
+Prior to the plaintiff’s acquisition of Blackgold Australia, the management of
+Blackgold Australia included, among others, the first and second defendants,
+and Blackgold Australia’s Chief Financial Officer at the material time, one
+Tin It Phong (“Tin”). 8
+
+##### Foot Note 8
+
+×
+
+Khua’s 1st Affidavit at para 22.
+
+5 Leave was granted to the plaintiff to add the third defendant as a party on
+1 December 2021, 9
+
+##### Foot Note 9
+
+×
+
+HC/ORC 6702/2021 of HC/S 1046/2020.
+
+slightly more than a year after Suit 1046 was commenced against the first and
+second defendants on 30 October 2020. 10
+
+##### Foot Note 10
+
+×
+
+Writ of Summons.
+
+The third defendant is a company incorporated in Australia that provides
+financial advisory and accounting services. In or around 2013, the third
+defendant changed its name from “WHK Pty Ltd” to “Crowe Horwath (Aust) Pty
+Ltd”. Subsequently, in or around 2019, the third defendant changed its name
+from “Crowe Horwath (Aust) Pty Ltd” to “Findex (Aust) Pty Ltd”. 11
+
+##### Foot Note 11
+
+×
+
+Khua Kian Keong’s 3rd Affidavit of 23 December 2021 (“Khua’s 3rd Affidavit”)
+at para 10.
+
+At the material time, the third defendant and seven individuals were trading
+as a partnership under the name “Crowe Horwath Perth” (the “Partnership”). 12
+
+##### Foot Note 12
+
+×
+
+Khua’s 3rd Affidavit at para 11.
+
+The Partnership was engaged by Blackgold Australia, by way of an engagement
+letter dated 24 October 2016 (the “Engagement Letter”) to audit the annual
+financial report for the year ending on 31 October 2016 (the “FY 2016
+financial report”) of a group of companies for which Blackgold Australia was
+the ultimate holding company (the “Blackgold Group”). The Partnership was also
+engaged to prepare an auditor’s report in respect of the said annual financial
+report (the “audit report”) (collectively, the “Financial Reports”), 13
+
+##### Foot Note 13
+
+×
+
+Khua’s 3rd Affidavit at paras 19–20.
+
+in accordance with Part 2M.3 of the Australia Corporations Act 2001 (Cth). 14
+
+##### Foot Note 14
+
+×
+
+Khua’s 3rd Affidavit at para 11.
+
+The plaintiff’s claim against the third defendant is for the Partnership’s
+alleged negligence in doing this work. 15
+
+##### Foot Note 15
+
+×
+
+Statement of Claim (Amendment No. 1) at paras 53A–53D.
+
+The plaintiff’s acquisition of Blackgold Australia
+
+6 Blackgold Australia was listed on the Australia Securities Exchange (the
+“ASX”) on 22 February 2011 through an initial public offering. 16
+
+##### Foot Note 16
+
+×
+
+Khua’s 1st Affidavit at para 11.
+
+As the ultimate holding company of the Blackgold Group, Blackgold Australia
+controlled, via a corporate structure involving various subsidiaries,
+companies incorporated in the PRC (the “PRC subsidiaries”) which were
+purportedly in the business of coal mining, coal trading and/or commodity
+logistics. 17
+
+##### Foot Note 17
+
+×
+
+Khua’s 1st Affidavit at para 12.
+
+7 In or around 2014, the first defendant approached the plaintiff’s CEO, Khua
+Kian Keong (“Khua”), to discuss the prospect of acquiring the Blackgold
+Group’s business as a whole, by acquiring Blackgold Australia. 18
+
+##### Foot Note 18
+
+×
+
+Khua’s 1st Affidavit at para 15.
+
+However, the plaintiff was not interested in acquiring Blackgold Australia at
+that time. In or around 2016, the first defendant approached Khua again, in
+Singapore, to discuss the possibility of the plaintiff fully acquiring
+Blackgold Australia. 19
+
+##### Foot Note 19
+
+×
+
+Khua’s 1st Affidavit at paras 15–16.
+
+Flowing from those discussions, the plaintiff conducted a review that included
+an evaluation of the Blackgold Group’s financial position from August to
+October 2016 (the “Review Process”). 20
+
+##### Foot Note 20
+
+×
+
+Khua’s 1st Affidavit at para 17.
+
+8 The Review Process was led by the plaintiff’s finance team, which met the
+first defendant and Tin at the plaintiff’s offices in Singapore in September
+2016 for an introduction to the Blackgold Group. 21
+
+##### Foot Note 21
+
+×
+
+Khua’s 1st Affidavit at paras 21–22; Yong Kar Ming’s Affidavit dated 18
+February 2022 (“Yong Kar Ming’s Affidavit”) at para 13.
+
+The finance team raised queries and requested documents relating to the
+Blackgold Group’s financial records, accounts and business operations,
+including the internal unaudited financial and accounting records of the
+Blackgold Group entities, as well as the audited financial reports of
+Blackgold Australia. The finance team also collected information relating to
+the Blackgold Group’s financial status and business operations. During this
+period, the first and second defendants allegedly procured and/or provided
+responses to the finance team’s queries by making available, among other
+things, information and documents that had been prepared, presented, reported,
+endorsed or provided by them. 22
+
+##### Foot Note 22
+
+×
+
+Khua’s 1st Affidavit at paras 22–23.
+
+9 The plaintiff claims that the first and second defendants made various
+representations (the “Alleged Misrepresentations”) between early-2016 and July
+2017 about the value and business of Blackgold Australia, orally and by the
+provision of information and documents, to induce the plaintiff to acquire
+Blackgold Australia. 23
+
+##### Foot Note 23
+
+×
+
+Khua’s 1st Affidavit at paras 24–25.
+
+10 In addition, the plaintiff alleges that it relied on the Financial Reports,
+in deciding to proceed with the acquisition of Blackgold Australia (the
+“Acquisition”). 24
+
+##### Foot Note 24
+
+×
+
+Khua’s 3rd Affidavit at para 21.
+
+The plaintiff asserts that the Partnership was engaged in connection with the
+proposed Acquisition, and the Partnership was aware that the shareholders of
+Blackgold Australia intended to dispose of their interest in Blackgold
+Australia to potential acquirers, including the plaintiff. In particular, the
+Partnership was aware that the plaintiff was in discussions with Blackgold
+Australia in relation to the Acquisition. 25
+
+##### Foot Note 25
+
+×
+
+Khua’s 3rd Affidavit at para 18–19.
+
+11 On 28 October 2016, the plaintiff and Blackgold Australia entered into a
+scheme implementation deed (the “Scheme Implementation Deed”), which provided
+that the Acquisition was to take place through a scheme of arrangement (the
+“scheme”), in accordance with the Australia Corporations Act 2001 (Cth). 26
+
+##### Foot Note 26
+
+×
+
+Peng Yuguo’s 1st Affidavit dated 24 February 2022 at para 30 (“Peng’s 1st
+Affidavit”).
+
+The Federal Court of Australia granted leave on 24 May 2017 for Blackgold
+Australia to convene a scheme meeting, for the shareholders of Blackgold
+Australia to consider approving the scheme. 27
+
+##### Foot Note 27
+
+×
+
+Peng’s 1st Affidavit at paras 32–33.
+
+12 According to the second defendant, in the course of negotiations leading up
+to the scheme meeting, he, as a majority shareholder in Blackgold Australia,
+28
+
+##### Foot Note 28
+
+×
+
+Peng’s 1st Affidavit at para 9.
+
+requested an increase in the cash consideration for the scheme. 29
+
+##### Foot Note 29
+
+×
+
+Peng’s 1st Affidavit at paras 41 and 45.
+
+The second defendant claims that as a result, Khua proposed that the parties
+enter into an agreement whereby, in exchange for the second defendant
+supporting the scheme and not seeking an increase in cash consideration for
+the scheme, Khua would warrant on the plaintiff’s behalf that Khua had
+conducted his own due diligence and that he had fully understood the
+underlying operations and financial and legal positions of the Blackgold
+Group, including any unfavourable information, and had nonetheless decided to
+proceed with the Acquisition. 30
+
+##### Foot Note 30
+
+×
+
+Peng’s 1st Affidavit at paras 47–48.
+
+Shortly before the scheme meeting, the parties signed a letter of undertaking
+(the “LOU”) drafted in Chinese dated 25 June 2017, setting out those terms. 31
+
+##### Foot Note 31
+
+×
+
+Peng’s 1st Affidavit at para 50 and p 466.
+
+There was an undertaking in the LOU not to hold the second defendant liable:
+32
+
+##### Foot Note 32
+
+×
+
+Peng’s 1st Affidavit at p 466.
+
+… [Khua and the first defendant] will not hold [the second defendant]
+accountable or make any claim against him, or ask to reduce the acquisition
+price or require [the second defendant] to make an economic compensation or
+bear any liabilities of the management and operation of [Blackgold Australia],
+neither will [the plaintiff] make such claims.
+
+13 Khua, however, disputes the second defendant’s version of the event. His
+evidence is that the second defendant presented the LOU to him to sign shortly
+before the scheme meeting because the second defendant wanted assurance that
+the plaintiff would not look to him for compensation or hold him accountable
+for the management and operation of Blackgold Australia after the Acquisition.
+33
+
+##### Foot Note 33
+
+×
+
+Khua Kian Keong’s Affidavit dated 18 February 2022 (“Khua’s 4th Affidavit”) at
+paras 42–45.
+
+14 The scheme meeting took place in Perth, Western Australia, on 26 June 2017,
+34
+
+##### Foot Note 34
+
+×
+
+Peng’s 1st Affidavit at para 73(b).
+
+and the Acquisition was eventually completed for a price of AUD37,635,863 on
+13 July 2017. 35
+
+##### Foot Note 35
+
+×
+
+Khua’s 1st Affidavit at para 18.
+
+15 The plaintiff claims that subsequent to the Acquisition, it discovered that
+the first and second defendants had made false representations to it. The
+Alleged Misrepresentations came to light following a special investigation
+(the “special audit”) into certain irregularities and discrepancies in the
+trading receipts and sale invoices of some of the PRC subsidiaries (the
+“Irregularities”). The special audit was carried out by a special auditor,
+Ernst & Young Advisory Pte Ltd (“EY”), appointed by the plaintiff’s audit
+committee. The special audit by EY allegedly revealed, among other things,
+widespread falsification of financial and accounting information, records and
+other documents, and questionable transactions by and/or involving the
+management of the Blackgold Group, which included the first and second
+defendants. 36
+
+##### Foot Note 36
+
+×
+
+Khua’s 1st Affidavit at paras 41–42.
+
+The law
+
+The requirements for service out of jurisdiction
+
+16 The Singapore courts’ in personam jurisdiction is properly founded over a
+defendant when the defendant has been duly served with an originating process,
+either inside or outside of Singapore, in a manner authorised by the law (in
+respect of service outside of Singapore, see, eg, PT Gunung Madu Plantations v
+Muhammad Jimmy Goh Mashun [2018] 4 SLR 1420 at [16]). The statutory basis for
+the in personam jurisdiction of the Singapore courts over a defendant who is
+outside Singapore is found in s 16(1)(a)(ii) of the Supreme Court of
+Judicature Act (Cap 322, 2007 Rev Ed), which provides as follows:
+
+Civil jurisdiction — general
+
+16.—(1) The General Division shall have jurisdiction to hear and try any
+action in personam where —
+
+(a) the defendant is served with a writ of summons or any other originating
+process —
+
+…
+
+(ii) outside Singapore in the circumstances authorised by and in the manner
+prescribed by Rules of Court or Family Justice Rules ...
+
+17 Order 11 r 1 of the presently revoked Rules of Court (Cap 322, R 5, 2014
+Rev Ed) as in force immediately before 1 April 2022 (the “ROC”) sets out the
+grounds and conditions for the court to grant leave for service out of
+jurisdiction.
+
+18 It is trite that the following three requirements must be met for the
+plaintiff to obtain leave to serve originating processes out of jurisdiction
+(see, eg, Oro Negro Drilling Pte Ltd and others v Integradora de Servicios
+Petroleros Oro Negro SAPI de CV and others and another appeal (Jesus Angel
+Guerra Mendez, non-party) [2020] 1 SLR 226 (“Oro”) at [54], referring to Zoom
+Communications Ltd v Broadcast Solutions Pte Ltd [2014] 4 SLR 500 (“Zoom
+Communications”) at [26]):
+
+(a) First, the plaintiff must have a good arguable case that its claim falls
+within one of the “jurisdictional gateways” under O 11 r 1 of the ROC.
+
+(b) Second, there must be a sufficient degree of merit to the plaintiff’s
+claim.
+
+(c) Third, Singapore must be the more appropriate forum for the trial or
+determination of the action.
+
+19 The plaintiff bears the burden of showing that all three requirements are
+met (MAN Diesel & Turbo SE and another v IM Skaugen SE and another [2020] 1
+SLR 327 (“MAN Diesel (CA)”) at [29]). This applies both at the stage of the ex
+parte application by the plaintiff seeking leave to serve out of jurisdiction,
+and at the inter partes stage after the defendant has entered an appearance
+and seeks to set aside the order.
+
+20 Furthermore, at the stage of the ex parte application, the plaintiff is
+required to make full and frank disclosure of all material facts within the
+plaintiff’s knowledge (see The “Vasiliy Golovnin” [2008] 4 SLR(R) 994 at
+[83]). A failure to do so may be a ground to set aside an order granting leave
+for service out of jurisdiction (Oro at [54], referring to Zoom Communications
+at [68]–[69]).
+
+21 In both the appeals before me, there is no dispute that the first two
+requirements are met. Only the third requirement, ie, that Singapore must be
+the proper forum for the trial of the action, is in dispute.
+
+22 The applicable legal principles for determining whether Singapore is the
+more appropriate forum for the purpose of service of process out of
+jurisdiction are well established (see Oro at [80]):
+
+(a) The question of whether Singapore is the more appropriate forum for the
+action only arises for determination if the court is first satisfied that
+there is at least another available forum. Singapore can only be forum non
+conveniens if there is a more appropriate forum other than Singapore.
+
+(b) The plaintiff bears the burden of demonstrating that Singapore is, on
+balance, the more appropriate forum. It is strictly irrelevant whether
+Singapore is the more appropriate forum “by a hair or by a mile”.
+
+(c) The inquiry for determining whether Singapore is the more appropriate
+forum is the same as that undertaken at the first stage of the Spiliada test.
+This means that Singapore will be the more appropriate forum if it has the
+most real and substantial connection with the disputes raised. The court
+should weigh the connecting factors that have the most relevant and
+substantial associations with the dispute rather than undertake a mechanical
+application of established connecting factors. The court should also be
+primarily concerned with the quality of the connecting factors rather than the
+quantity of factors on each side of the scale.
+
+23 As explained in Halsbury’s Laws of Singapore vol 6(2) (LexisNexis, 2020
+Reissue) (“Halsbury’s Laws of Singapore”) at para 75.090, at the first stage
+of the Spiliada test, general connecting factors are considered. In examining
+these factors, it is important to have regard to what the case is about.
+Connections that have little or no bearing on the adjudication of the issues
+in dispute between the parties will carry little weight. The search is for
+connecting factors that have the most relevant and substantial associations
+with the dispute (see Rappo, Tania v Accent Delight International Ltd and
+another and another appeal [2017] 2 SLR 265 (“Tania Rappo”) at [70]).
+
+24 The Court of Appeal set out in JIO Minerals FZC and others v Mineral
+Enterprises Ltd [2011] 1 SLR 391 (“JIO Minerals”) five indicators for
+consideration at the first stage of the Spiliada test at [42] (see also
+Halsbury’s Laws of Singapore at paras 75.091–75.095):
+
+(a) the personal connections of the parties and the witnesses to the competing
+fora;
+
+(b) the connections between relevant events and transactions to the competing
+fora;
+
+(c) the law applicable to the dispute;
+
+(d) the existence of parallel proceedings elsewhere (ie, lis alibi pendens);
+and
+
+(e) the “shape of the litigation”, which includes the manner in which the
+claim and the defence have been pleaded.
+
+25 Ultimately, in this exercise of determining the proper forum for the trial
+of the action, the court seeks to identify the jurisdiction in which the case
+may be “tried more suitably for the interests of all the parties and for the
+ends of justice” (see Tania Rappo at [72]).
+
+RA 92/2022
+
+26 As mentioned (at [1] and [3] above), the plaintiff claims against the
+second defendant for fraudulent, or in the alternative, negligent
+misrepresentations, and RA 92/2022 is the second defendant’s appeal against
+the learned AR’s decision declining to set aside the service out of
+jurisdiction orders or to stay the proceedings in respect of the second
+defendant. I shall refer to the alleged wrongful actions of the first and
+second defendants in the misrepresentation claims collectively as the “torts”.
+
+27 The issues raised in RA 92/2022 are as follows. First, whether the learned
+AR erred in finding that Singapore is the proper forum for the trial of the
+action against the second defendant. In connection with this point, the
+following sub-issues are raised:
+
+(a) whether the place of the torts is Australia (or Singapore);
+
+(b) whether the connecting factors point towards Australia as the more
+appropriate forum; and
+
+(c) whether there is a risk of conflicting decisions if the plaintiff’s claim
+against the second defendant continues in Singapore while its claim against
+the third defendant is pursued in Australia.
+
+28 Further, there is an issue of whether the learned AR erred in declining to
+set aside the orders for service out of jurisdiction in respect of the second
+defendant on the basis of the plaintiff’s failure to disclose all material
+facts when obtaining the orders for service out of jurisdiction.
+
+Whether the service out of jurisdiction orders should be set aside because
+Singapore is not the proper forum
+
+The place of the torts
+
+29 The second defendant disagrees with the learned AR’s finding that the place
+of the torts is Singapore (see Vibrant Group Ltd v Tong Chi Ho and others
+[2022] SGHCR 4 (“Vibrant Group Ltd 1”) at [35]) and submits that the place of
+the torts is Australia. The second defendant argues that this is because the
+plaintiff is relying on statements contained in the audited financial reports
+of Blackgold Australia, management accounts of the Blackgold Group and several
+documents, which were prepared and made in accordance with the applicable law
+and standards in Australia. 37
+
+##### Foot Note 37
+
+×
+
+Second Defendant’s Written Submissions dated 26 August 2022 (“D2WS”) at paras
+68–69.
+
+Further, the acts of reliance on the Alleged Misrepresentations by the
+plaintiff took place in Australia, since the steps that were taken to acquire
+Blackgold Australia were taken in Australia. These steps include, among other
+things, the entry into the Scheme Implementation Deed, the convening of a
+scheme meeting, obtaining the approval of the scheme by the Federal Court of
+Australia and paying the consideration for the scheme in Australia dollars to
+an Australia Custodian appointed by the ASX. 38
+
+##### Foot Note 38
+
+×
+
+D2WS at paras 71 and 77.
+
+The second defendant further contends that the fact that the plaintiff had
+remitted the purchase price from Singapore is merely a reflection of the fact
+that the plaintiff is a Singapore-based company, and the source of the
+plaintiff’s funds would presumably be Singapore. 39
+
+##### Foot Note 39
+
+×
+
+D2WS at para 82.
+
+Relatedly, the fact that the plaintiff’s alleged loss and damage was suffered
+in Singapore is fortuitous, and this is to be expected given that the
+plaintiff is a Singapore-based company. 40
+
+##### Foot Note 40
+
+×
+
+D2WS at para 86.
+
+30 In relation to tortious claims, the place of the tort is prima facie the
+natural forum for determining such claims. Although this is only one of the
+factors in the overall forum conveniens analysis, it is a significant factor
+(see Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull [2007] 1
+SLR(R) 377 at [37]–[40] (“Rickshaw Investments”); JIO Minerals at [106]).
+
+31 The general test for determining the place of the tort is the “substance
+test” (see MAN Diesel (CA) at [102]; JIO Minerals at [90]). The “substance
+test” looks at the events constituting the tort and asks where, in substance,
+the cause of action arose. As explained in Halsbury’s Laws of Singapore at
+para 75.378, what these events are, and their respective significance, depend
+on what the plaintiff pleads as the tort that he is relying on. This is
+evident in the present case, where the reliance of the plaintiff on the
+alleged wrongful actions of the first and second defendants in the
+misrepresentation claim is a weighty factor in determining the place of the
+tort. After all, it is one element that goes towards establishing a claim in
+misrepresentation (see [86]–[87] below). In contrast, the reliance of the
+plaintiff on the alleged wrongful actions of the third defendant in the
+negligence claim does not feature as centrally in the determination of the
+place of the tort, considering that the element of reliance is merely one of
+the considerations when determining whether a duty of care has arisen (as
+further elaborated on at [53] below).
+
+32 The “substance test” is a general one that is applicable to all torts,
+although legal principles on the application of the “substance test” to
+specific torts have also been developed. In the context of misrepresentation,
+the Court of Appeal held in JIO Minerals (at [93]) that if the representation
+was received and acted upon in a single jurisdiction, that place should be the
+place of the tort, unless that place was fortuitous or if the receipt and
+reliance occur in different countries.
+
+33 Based on the facts of this case, the key elements of the torts of
+fraudulent misrepresentation and negligent representation, ie, the receipt of
+the representations and the reliance upon the representations, all took place
+in Singapore. There is evidence that the Alleged Misrepresentations were made
+and received in Singapore. Those representations include representations that
+were made during the meeting between the first defendant and Khua in Singapore
+in early-2016, 41
+
+##### Foot Note 41
+
+×
+
+Khua’s 1st Affidavit at para 16.
+
+and the meeting between the plaintiff’s finance team and the first defendant
+and Tin at the plaintiff’s offices in Singapore in September 2016 for an
+introduction to the Blackgold Group (see above at [8]). In addition,
+representations were made by the first and second defendants through documents
+prepared, presented, provided or endorsed by them, including documents
+contained in thumb drives which the plaintiff received or accessed in
+Singapore. 42
+
+##### Foot Note 42
+
+×
+
+Khua’s 1st Affidavit at para 26(b) and Khua’s 4th Affidavit at para 25.
+
+The plaintiff’s finance team relied on the information and documents, which it
+reviewed and summarised in Singapore, 43
+
+##### Foot Note 43
+
+×
+
+Yong Kar Ming’s Affidavit at para 21.
+
+to make its recommendations to the plaintiff’s management. The chain of
+reliance continued with a board resolution that was passed in Singapore by the
+plaintiff’s management to acquire Blackgold Australia. 44
+
+##### Foot Note 44
+
+×
+
+Yong Kar Ming’s Affidavit at para 21; Khua’s 4th Affidavit at paras 29–30.
+
+These events form the substance of the plaintiff’s case that the first and
+second defendants made misrepresentations to induce it to acquire Blackgold
+Australia, and that those misrepresentations were received and relied upon in
+Singapore. 45
+
+##### Foot Note 45
+
+×
+
+Plaintiff’s Written Submissions for RA 92/2022 dated 26 August 2022 (“PWS1”)
+at paras 19–22.
+
+34 The second defendant, while contending that the place of the torts is
+Australia, did not proffer any evidence that the Alleged Misrepresentations
+were received by the plaintiff in Australia. Instead, the second defendant
+points to the fact that the financial statements and reports that the
+plaintiff is relying on to advance its case were prepared and made in
+accordance with the applicable law and standards in Australia (see [29]
+above). 46
+
+##### Foot Note 46
+
+×
+
+D2WS at paras 67–69.
+
+Here, the second defendant is referring to the location where the information
+that the plaintiff relied on originated from, but the inquiry under the
+substance test is the location where the plaintiff relied on the information.
+This argument therefore does not assist the second defendant. The second
+defendant also points to the steps that were taken by the plaintiff in
+Australia to acquire Blackgold Australia. 47
+
+##### Foot Note 47
+
+×
+
+D2WS at para 71.
+
+But these steps do not have a strong bearing on the determination of the
+action in misrepresentation relative to other factors that are relevant to the
+inquiry. There is merit in the plaintiff’s submission 48
+
+##### Foot Note 48
+
+×
+
+PWS1 at para 91.
+
+that the Acquisition is merely a culmination of the Alleged Misrepresentations
+and the plaintiff’s reliance on those representations. In and of themselves,
+the steps of acquisition taken in Australia have less to do with the
+substantive elements of the plaintiff’s claim in misrepresentation than the
+matters that occurred in Singapore, which took place before the plaintiff’s
+decision to proceed with the Acquisition. As earlier explained (at [23]
+above), the weight to be given to a connecting factor depends on whether that
+factor has a bearing on the adjudication of the issues in dispute.
+
+35 As the Alleged Misrepresentations were received and relied upon in
+Singapore, Singapore is the place of the torts and is prima facie the natural
+forum. There is nothing on the facts to suggest that Singapore, as the place
+of the torts, was fortuitous so as to displace the prima facie position. I do
+not agree with the second defendant’s argument that the fact that receipt of
+some of the representations took place in Singapore is entirely happenstance
+since the plaintiff is based in Singapore (see above at [29]). The fact that
+the plaintiff is based in Singapore is, as the learned AR correctly observed,
+“one of the significant reasons that most of the constituent acts in the
+alleged torts occurred in Singapore” (Vibrant Group Ltd 1 at [35]).
+
+Other connecting factors
+
+36 The second defendant relies heavily on the steps taken by the plaintiff in
+Australia to acquire Blackgold Australia and the LOU as connecting factors to
+Australia. As observed earlier (see [34] above), these steps taken to acquire
+Blackgold Australia are more in the nature of consequences flowing from the
+commission of the torts. They are therefore not weighty connecting factors
+since they have little bearing on the adjudication of the issues in the
+plaintiff’s action in misrepresentation against the second defendant.
+
+37 I will now turn to consider the LOU as a connecting factor. The second
+defendant claims that the plaintiff’s alleged covenant in the LOU not to make
+any claim against him (see [12] above) is a connecting factor to Australia. He
+asserts that the circumstances leading up to the signing of the LOU and the
+interpretation of its terms will be key issues for determination at trial. The
+second defendant further contends that since the signing of the LOU took place
+in Australia and the preamble of the LOU makes reference to the scheme, which
+was to be implemented in Australia (see [11] above), the LOU is governed by
+Australia law. 49
+
+##### Foot Note 49
+
+×
+
+D2WS at para 91–94.
+
+38 In my view, the LOU is a relevant connecting factor that must be weighed in
+the balance. However, while the second defendant relies on it as an alleged
+agreement in his defence, the issue as regards its existence and effect is
+separate from the main issues for adjudication in the misrepresentation
+action. Even if it is accepted for the sake of argument that the LOU is
+governed by Australia law, as the learned AR correctly found, greater weight
+should be placed on the law applicable to the torts in this action than on the
+governing law of the LOU (Vibrant Group Ltd 1 at [40(c)]). In other words,
+even if the LOU is governed by Australia law, it would be insufficient to
+outweigh the competing consideration that the applicable law of the
+misrepresentation action is Singapore law, given my finding that Singapore is
+the place of the torts (see [35] above).
+
+39 In fact, there are a number of other connecting factors pointing to
+Singapore as the more appropriate forum to determine the action between the
+plaintiff and the second defendant.
+
+40 First, the plaintiff is a company incorporated and publicly listed in
+Singapore. The second defendant is a PRC citizen. Neither of them is based in
+Australia.
+
+41 Second, the key witnesses for the suit in misrepresentation are located in
+Singapore. These witnesses include:
+
+(a) Tin, who was Blackgold Australia’s Chief Financial Officer at the material
+time and heavily involved in the Review Process leading up to the plaintiff’s
+decision to acquire Blackgold Australia, 50
+
+##### Foot Note 50
+
+×
+
+Statement of Claim (Amendment No. 1) at para 21(a).
+
+and who resides in Singapore. 51
+
+##### Foot Note 51
+
+×
+
+Khua’s 4th Affidavit at para 66.
+
+The plaintiff submits that Tin cannot be compelled to testify before the
+Australia courts (Australian Securities and Investments Commission (ASIC) v
+Rich [2004] NSWSC 467 at [4]) 52
+
+##### Foot Note 52
+
+×
+
+PWS1 at para 88.
+
+and the second defendant did not dispute this in his submissions before me.
+
+(b) The first defendant, who has filed his defence in Suit 1046. The
+plaintiff’s claim against the first defendant, which is largely connected to
+the claim against the second defendant, will proceed in the Singapore courts.
+
+(c) Khua, the CEO of the plaintiff, who was involved in the Acquisition right
+from the start.
+
+(d) The plaintiff’s financial team, which led the Review Process, during which
+the second defendant’s misrepresentations were purportedly made. Given that
+the plaintiff’s case involves allegations of fraudulent misrepresentations,
+the evidence of the witnesses who were involved in the Review Process will be
+crucial.
+
+42 The personal connections of the plaintiff and the potential witnesses are
+particularly important in an action for fraudulent misrepresentation and/or
+negligent misrepresentation, where reliance on a witness’ testimony, such as
+Tin’s evidence on the events leading up to the decision to acquire Blackgold
+Australia, will be necessary to resolve disputed questions of fact. The
+location of the witnesses therefore carries great weight, in view of the
+savings in time and resources that follow from having the trial in the forum
+in which the key witnesses reside and where they are clearly compellable to
+testify (see Rickshaw Investments at [19]).
+
+43 As explained in the analysis above (at [29]–[35]) on the place of the
+misrepresentations, the material events and transactions are connected to
+Singapore. The applicable law is Singapore law. Further, the plaintiff’s
+alleged losses were suffered in Singapore. Other than the acquisition price of
+AUD37,635,863 that was paid by the plaintiff by way of transfer of funds from
+the plaintiff’s Singapore bank accounts, 53
+
+##### Foot Note 53
+
+×
+
+Khua’s 4th Affidavit at para 59.
+
+the plaintiff incurred costs and expenses in Singapore as a result of the
+discovery of the Irregularities. Such costs and expenses included professional
+fees for the engagement of EY to carry out the special audit to look into the
+Irregularities and management time costs incurred to investigate the
+Irregularities (see [15] above). 54
+
+##### Foot Note 54
+
+×
+
+Statement of Claim (Amendment No. 1) at para 54(b).
+
+Additionally, after the Irregularities came to light, SGX undertook
+investigations and the plaintiff incurred costs and expenses to address and
+comply with SGX’s queries and directions, as well as the SGX Mainboard Rules.
+55
+
+##### Foot Note 55
+
+×
+
+Statement of Claim (Amendment No. 1) at para 54(c).
+
+44 As for proceedings elsewhere, I will explain later in this judgment that
+any potential proceedings that the plaintiff may commence against the third
+defendant in Australia will not present any real risk of re-litigation or
+conflicting decisions (see [83]–[90] below).
+
+45 In the premises, I agree with the learned AR that Singapore is the proper
+forum for the trial of the action against the second defendant (see Vibrant
+Group Ltd 1 at [41]).
+
+Whether the service out of jurisdiction orders should be set aside because of
+the plaintiff’s failure to make full and frank disclosure of all material
+facts
+
+46 The second defendant submits that the existence of the LOU is a material
+fact that the plaintiff must have deliberately chosen not to disclose, and
+that such non-disclosure would justify the exercise of discretion to set aside
+the service out of jurisdiction orders. 56
+
+##### Foot Note 56
+
+×
+
+D2WS at para 103.
+
+The second defendant therefore contends that the learned AR has erred in
+declining to set aside the service out of jurisdiction orders, citing the
+Court of Appeal’s observation in Tay Long Kee Impex Pte Ltd v Tan Beng Huwah
+(trading as Sin Kwang Wah) [2000] 1 SLR(R) 786 (“Tay Long Kee Impex”) at [35]
+that “[w]here there [was] suppression [of material facts in an ex parte
+application], instead of innocent omission, it must be a special case for the
+court to exercise its discretion not to [set aside the remedy granted,
+notwithstanding such omission]”. 57
+
+##### Foot Note 57
+
+×
+
+D2WS at para 109.
+
+47 I am of the view that on the facts of this case, the undisclosed fact did
+not “displace [the judgment] that the connecting factors, taken as a whole,
+point to Singapore as the proper forum for the trial of the [action]” (see
+Zoom Communications at [69] and [91]). I agree with the learned AR that it
+would not be proportionate to set aside the service out of jurisdiction orders
+for this non-disclosure (see Vibrant Group Ltd 1 at [47]), and I find no
+reason to interfere with the learned AR’s exercise of discretion.
+
+RA 234/2022
+
+48 As mentioned (at [1] and [3]), the plaintiff is claiming against the third
+defendant for negligence in the Partnership’s audit. RA 234/2022 is the
+plaintiff’s appeal against the learned AR’s decision to set aside the service
+out of jurisdiction order in respect of the third defendant.
+
+49 The key issue raised in RA 234/2022 is whether the learned AR erred in
+finding that Australia is the proper forum for the trial of the dispute
+between the plaintiff and the third defendant. The sub-issues are as follows:
+
+(a) whether the place of the tort is Singapore (or Australia);
+
+(b) whether the other connecting factors raised point towards Singapore as the
+proper forum for the dispute; and
+
+(c) whether there is a risk of conflicting decisions if the plaintiff’s claims
+against the first and second defendants continue in Singapore while its claim
+against the third defendant is pursued in Australia.
+
+50 The learned AR had observed that there was no failure by the plaintiff to
+give full and frank disclosure, even though it was not necessary for the
+learned AR to make any finding on this issue, given his conclusions on the
+issue of the proper forum of the dispute. 58
+
+##### Foot Note 58
+
+×
+
+[2022] SGHCR 8 at [47].
+
+Parties have addressed this point for completeness, and I will do the same
+below.
+
+Whether the service out of jurisdiction orders should be set aside because
+Singapore is not the proper forum
+
+The place of the tort
+
+51 The plaintiff submitted that the key elements of the tort of negligence
+inform the place of the tort, and that the place of the tort is Singapore for
+the following reasons:
+
+(a) With regard to the duty of care allegedly owed by the third defendant to
+the plaintiff, the plaintiff emphasised that the Partnership had voluntarily
+assumed responsibility towards a Singapore-incorporated company and that the
+plaintiff had relied on the Financial Reports, prepared by the Partnership, in
+Singapore. 59
+
+##### Foot Note 59
+
+×
+
+Plaintiff’s Written Submissions for RA 234/2022 dated 26 August 2022 (“PWS2”)
+at paras 42-45.
+
+(b) With regard to the standard of care, it was contended that even though the
+Australia accounting standards are applicable, this is a neutral factor as
+both the Singapore and Australia standards are largely similar. 60
+
+##### Foot Note 60
+
+×
+
+Minute sheet in RA 92/2022 and RA 234/2022 dated 1 September 2022.
+
+The plaintiff also refers to the possibility of transferring this case to the
+Singapore International Commercial Court (“SICC”) and thus being able to
+adduce foreign law on the basis of submissions rather than proof. 61
+
+##### Foot Note 61
+
+×
+
+PWS2 at paras 54–56.
+
+(c) With regard to loss and damage, the plaintiff points out that it remitted
+funds from Singapore to acquire Blackgold Australia and incurred costs and
+expenses to investigate the Irregularities in Singapore. 62
+
+##### Foot Note 62
+
+×
+
+PWS2 at paras 49–51.
+
+52 The plaintiff contends that the learned AR had “under-emphasised the place
+of reliance” by the plaintiff. 63
+
+##### Foot Note 63
+
+×
+
+PWS2 at para 41.
+
+I do not agree with the plaintiff. The learned AR had considered the fact of
+reliance by the plaintiff on the audit report to be relevant in the
+determination of the place of the tort and accorded due weight to it (see
+Vibrant Group Ltd v Tong Chi Ho and others [2022] SGHCR 8 (“Vibrant Group Ltd
+2”) at [32(c)]). The authorities are clear that in cases of pure economic loss
+where the links between the parties are not “bounded by the physical laws of
+nature”, a duty of care would generally arise “where the defendant has
+voluntarily assumed responsibility to the plaintiff and/or the plaintiff has
+reasonably relied on the defendant to take care to avoid such loss” (NTUC
+Foodfare Co-operative Ltd v SIA Engineering Co Ltd and another [2018] 4 SLR
+762 at [21]). On appeal, the Court of Appeal in NTUC Foodfare Co-operative Ltd
+v SIA Engineering Co Ltd and another [2018] 2 SLR 588 further observed (at
+[41]) that:
+
+… in cases of pure economic loss, there may be sufficient legal proximity
+between the parties even if the defendant does not voluntarily assume
+responsibility to the plaintiff and the latter does not specifically rely on
+the former not to cause it loss … We agree with the Judge that there was no
+assumption of responsibility or specific reliance. However, in our judgment,
+these are neither essential nor inflexible conditions for the requirement of
+proximity to be fulfilled in cases of pure economic loss. Other aspects of the
+relationship between the parties may establish a sufficiently close relation
+between them for a duty of care to arise; it is thus necessary to consider
+physical, circumstantial and causal proximity and the proximity factors
+referred to … above.
+
+53 Having regard to the reliance that the plaintiff placed on the Partnership,
+I agree with the conclusion of the learned AR and the third defendant’s
+submissions, 64
+
+##### Foot Note 64
+
+×
+
+Third Defendant’s Written Submissions dated 26 August 2022 (“D3WS”) at para
+103.
+
+that the duty of care, if any arises, emanates from the Partnership’s duty to
+take reasonable care in complying with Australia law and the applicable
+accounting or auditing principles, standards and practices in Australia. The
+plaintiff’s argument that is premised on the reliance of the plaintiff as one
+of the proximity factors does not shift the balance towards Singapore as the
+proper forum. The element of reliance, which must be established to succeed in
+a misrepresentation claim, is only one of the possible ways by which a duty of
+care could arise in a negligence claim. Any reliance by the plaintiff is
+therefore accorded greater significance in the misrepresentation action
+against the second defendant and less significance in the negligence action
+against the third defendant. Accordingly, I am of the view that the learned AR
+did not err in the amount of emphasis that he gave to the place of reliance.
+
+54 The principles guiding the application of the “substance test” in respect
+of the tort of negligence appears to be a relatively unexplored point of law
+in our local jurisprudence. 65
+
+##### Foot Note 65
+
+×
+
+PWS2 at para 40; D3WS at para 108.
+
+I turn now to examine the English and Australian authorities cited by the
+third defendant on this point.
+
+55 In Base Metal Trading Ltd v Shamurin [2005] 1 WLR 1157 (“Base Metal
+Trading”), the defendant and two Russian nationals were in the business of
+investing and trading in metal. They had formed a number of Russian companies
+for this purpose but wanted to set up a foreign company that would attract
+customers who were reluctant to trade with the existing Russian companies in
+view of the prevailing banking, legal and regulatory situation in Russia at
+the time. The claimant company was thus set up and incorporated in Guernsey,
+and the defendant and one of the Russian nationals (“Yuri”) were made
+directors of the claimant company. The defendant was responsible for selling
+metal to foreign purchasers and was generally responsible for the claimant
+company’s activities outside of Russia. The defendant and Yuri had agreed that
+the claimant company would hedge the company’s exposure on resale price on
+physical trades by means of future trades made on the London Metal Exchange.
+Subsequently, the claimant company alleged that the defendant made a series of
+speculative trades in the name of the claimant company that resulted in losses
+of over £6m. The claimant company thus brought a claim for the damages and
+losses suffered as a result of the defendant’s alleged breach of duty of care.
+At first instance, the judge found, among other things, that the claim in tort
+was governed by Russian law, under which it was undisputed that the claims
+were not actionable.
+
+56 The judge at first instance answered the question “where in substance was
+the tort committed?” by identifying “the gravamen of the case against [the
+defendant] as being [his] decision to speculate” (Base Metal Trading at [16]).
+This was a decision made in Moscow, Russia, where all aspects of the claimant
+company’s business were conducted. The judge also found that although the
+trades were done in London where the claimant company had its bank account,
+the place where the loss was in fact felt by the claimant company was Russia,
+manifested by its lack of liquidity (Base Metal Trading at [16]). The judge’s
+decision was affirmed in part on appeal to the English Court of Appeal.
+
+57 Tuckey LJ (delivering the leading judgment of the English Court of Appeal)
+reasoned (at [46]):
+
+… the wrongful acts, being the decisions to speculate and give instructions
+accordingly, all took place in Russia. The place where the loss occurs is not
+determinative. When damage has occurred which makes the tort complete the
+right approach is to look back over the series of events constituting it and
+ask where in substance the cause of action arose: see Distillers Co
+(Biochemicals) Ltd v Thompson [1971] AC 458, 468. The judge after this long
+trial was entitled to conclude that [the claimant] really felt its loss in
+Russia. As part of its claim it had alleged that it had been unable to fulfil
+a contract in Russia because of the liquidity crisis caused by [the
+defendant’s] activities. The judge obviously did not ignore the fact that the
+trading losses occurred in London where [the claimant] had its bank account,
+but again it does not seem to me that these factors compelled the judge to
+conclude that all [the claimant company’s] loss had occurred here, still less
+that the substance of the tort was committed here [in the United Kingdom].
+[emphasis added]
+
+58 Distillers Co (Biochemicals) Ltd v Laura Anne Thompson [1971] AC 458
+(“Distillers Co”) is a case that was cited with approval by our Court of
+Appeal in JIO Minerals (at [90]) and MAN Diesel (CA) (at [101] and [103]) as
+authority for the “substance test”. In Distillers Co, the first defendant was
+an English company which manufactured a drug containing thalidomide. The drug
+was distributed to an Australian company which sold it in New South Wales. The
+claimant’s mother bought and ingested the drug while pregnant, which allegedly
+caused the claimant to be born without arms and with defective eyesight. The
+claimant commenced an action in the Supreme Court of New South Wales, alleging
+that the first defendant’s negligence as the manufacturer and supplier of the
+drug caused the claimant to be born with disabilities.
+
+59 In upholding the decision of the Court of Appeal of the Supreme Court of
+New South Wales refusing the first defendant’s attempt at setting aside the
+writ, the Privy Council reasoned (at 469B–469E) that:
+
+So far as appears, the goods were not defective or incorrectly manufactured.
+The negligence was in failure to give a warning that the goods would be
+dangerous if taken by an expectant mother in the first three months of
+pregnancy … The plaintiff is entitled to complain of the lack of such
+communication in New South Wales [even though the warning could have been put
+in place when the drug was manufactured in England] as negligence by the
+defendant in New South Wales causing injury to the plaintiff there. That is
+the act (which must include omission) on the part of the English company which
+has given the plaintiff a cause of complaint in law. The cause of action arose
+within the jurisdiction.
+
+60 Importantly, the Privy Council also cautioned that it would be
+inappropriate to determine the place of the tort based only on the place where
+damage happened (at 467H–468A):
+
+In a negligence case the happening of damage to the plaintiff is a necessary
+ingredient in the cause of action, and it is the last event completing the
+cause of action. But the place where it happens may be quite fortuitous and
+should not by itself be the sole determinant of jurisdiction.
+
+61 In Dow Jones & Company Inc v Gutnick [2002] 194 ALR 433 (“Dow Jones”), a
+case involving the tort of defamation, the High Court of Australia made the
+following general observation (at [43]):
+
+Attempts to apply a single rule of location (such as a rule that intentional
+torts are committed where the tortfeasor acts, or that torts are committed in
+the place where the last event necessary to make the actor liable has taken
+place) have proved unsatisfactory if only because the rules pay insufficient
+regard to the different kinds of tortious claims that may be made … In the end
+the question is ‘where in substance did this cause of action arise’? In cases,
+like trespass or negligence, where some quality of the defendant’s conduct is
+critical, it will usually be very important to look to where the defendant
+acted, not to where the consequences of the conduct were felt. [emphasis
+added]
+
+62 In my view, the decisions in Base Metal Trading, Distillers Co and Dow
+Jones provide instructive guidance, considering that the “substance test” was
+identified as the applicable test for determining the place of the tort in
+each of those cases. Distillers Co is also the very authority that our Court
+of Appeal in JIO Minerals and MAN Diesel (CA) relied upon for the “substance
+test” (see [58] above). Read together with Dow Jones (see [61] above), the
+place where the alleged wrongful act was committed is to be given greater
+significance in a case involving the tort of negligence. On the other hand,
+the place where the loss was suffered is not, by itself, determinative. It is
+on this basis that in Base Metal Trading, the place of the tort was adjudged
+to be Russia, where the wrongful decisions to speculate were taken and
+instructions to trade were given accordingly (see [55]–[57] above). Similarly,
+in Distillers Co, the place of the tort was found to be Australia, where the
+defendant failed to provide any warning of possible side effects of the drug
+for pregnant women (see [58]–[59] above).
+
+63 The crux of the plaintiff’s action against the third defendant is premised
+on the Partnership’s alleged negligence in conducting the audit and in
+rendering the audit report, and its alleged failure to uncover the
+Irregularities. Since the Partnership is alleged to have fallen short of an
+alleged duty of care owed to the plaintiff in relation to professional
+services provided by the Partnership in Australia, the place of the alleged
+wrongdoing is Australia. As such, even if the provision of the third
+defendant’s professional services in Australia involved an audit exercise that
+may have spanned across various jurisdictions, the conclusion remains
+unchanged. I therefore find that the learned AR did not err in concluding that
+“the fact that parts of the audit may possibly have been conducted in the PRC
+or Malaysia does not aid the plaintiff’s attempt to demonstrate that Singapore
+is the proper forum” (see Vibrant Group Ltd 2 at [32(b)]).
+
+64 I note additionally that beyond the cases cited by the third defendant,
+there appears to be further support for giving significant weight to the place
+where the negligent act occurred in determining the place of the tort. In
+Martin Davies et al, Nygh’s Conflict of Laws in Australia (LexisNexis
+Butterworths, 10th Ed, 2020) (“Nygh’s Conflict of Laws”) at paras 20.9 and
+20.12, the position in Australia is as follows:
+
+20.9 If the tort alleged is based on a negligent act or omission of the
+defendant causing physical harm, the tort is committed in the place where that
+negligent act or omission occurred, even though consequential injury was
+suffered elsewhere … The same is true in cases of negligent acts causing
+purely economic loss; the tort is committed where the negligent act occurred,
+not where the loss was suffered.
+
+20.12 If the negligence consists of a failure to provide services or advice
+without proper care, the tort is committed in the place where those services
+were or ought to have been rendered …
+
+[emphasis added]
+
+65 For the proposition at para 20.12, Nygh’s Conflict of Laws refers to the
+case of Voth v Manildra Flour Mills Pty Ltd (1990) 97 ALR 124 (“Voth”). I am
+mindful that Voth concerned a stay application, and that the test of whether
+the forum in which a stay was sought was a “clearly inappropriate forum”
+endorsed in Voth has been rejected by the Court of Appeal in JIO Minerals at
+[45]. For avoidance of doubt, I reference Voth only in relation to the
+reasoning adopted in respect of identifying the place of the tort, given the
+similarities in the fact patterns in Voth and the present case.
+
+66 In Voth, the respondent companies were incorporated and resident in New
+South Wales and were members of a group of companies (the “Group”). The
+respondents obtained leave to serve their statement of claim outside New South
+Wales and in the State of Missouri, United States of America (the “US”), in
+order to commence professional negligence proceedings in the Supreme Court of
+New South Wales against the appellant, who was an accountant practising in the
+State of Missouri. The appellant had provided accounting, auditing and related
+services to the Group’s operating company in the US (“MMC”), which was a
+corporation established under the laws of the State of Kansas. The Internal
+Revenue Code of the US imposed upon the first respondent liability to income
+tax in respect of interest paid to it by MMC and also imposed an obligation
+upon MMC to deduct and withhold the tax. The required deductions and payments
+of withholding tax were not made, and the respondents alleged that the failure
+to do so was the result of negligent acts or omissions by the appellant. The
+damage to the respondents was largely suffered in New South Wales. The
+appellant submitted, among other things, that New South Wales was a clearly
+inappropriate forum (this being the test in Australian jurisprudence for cases
+concerning service out of jurisdiction) because the cause of action sued on by
+the respondents is a foreign tort, given that the acts or omissions complained
+of occurred outside New South Wales (Voth at 142). The High Court of Australia
+(per Mason CJ, Dean, Dawson, Toohey and Gaudron JJ, with Brennan J
+dissenting), held that the allegedly negligent act was initiated and completed
+in Missouri and thus the tort, if there was one, was committed in Missouri. In
+arriving at this conclusion, the majority reasoned as follows (Voth at
+143–144):
+
+It was held in Jackson v Spittall (1870) LR 5 CP 542 [(“Jackson v Spittall”)]
+at 552, that the question whether a cause of action is to be classified as
+local or foreign is to be answered by ascertaining the place of ‘the act on
+the part of the defendant which gives the plaintiff his cause of complaint’ …
+
+The authority of Jackson v Spittall was expressly affirmed in [Distillers Co],
+at 467 [in which the Privy Council adopted the “substance test”] …
+
+The approach formulated in Distillers [ie, the “substance test”] does no more
+than lay down an approach by which there is to be ascertained, in a common
+sense way, that which is required by Jackson v Spittall, namely, the place of
+‘the act on the part of the defendant which gives the plaintiff his cause of
+complaint’ …
+
+One thing that is clear from Jackson v Spittall and from Distillers is that it
+is some act of the defendant, and not its consequences, that must be the focus
+of attention. Thus, in Distillers the act of ingestion of the drug Distaval by
+the plaintiff’s mother was ignored, the place of that act being treated like
+the place of the happening of damage, as one that might have been ‘quite
+fortuitous’.
+
+…
+
+The act of the appellant giving the respondents their cause of complaint was
+committed in Missouri and thus the tort, if there was one, was committed in
+Missouri.
+
+[emphasis added]
+
+67 As can be gleaned from the above extract, the majority held that it was the
+location of the defendant’s actions and not the location where the
+consequences of those actions were felt that must be the focus of attention.
+The place of the tort was found to be Missouri in the US, because the
+negligent audit was done there. This line of reasoning is consistent with the
+authorities of Base Metal Trading, Distillers Co and Dow Jones, which I relied
+on for my conclusion (at [62] above) as to the relevant principles for
+determining the place of the tort in the context of negligence.
+
+68 The majority in Voth ultimately decided to allow the appeal and order that
+the action be stayed. In arriving at that decision, the majority considered,
+among other things, that: (a) the action had a substantial connection with the
+law of Missouri; (b) the appellant resided and worked in Missouri and the
+professional standards of accountants in Missouri would therefore be relevant
+to his liability; and (c) the greater part of the evidence in any trial of the
+action would be found in Missouri (Voth at 145).
+
+69 Brennan J, the dissenting judge, proceeded on a different basis in
+analysing the facts of Voth. He found that the appellant’s negligence did not
+lie in carelessness in auditing, but rather in failure to communicate the
+results of the audit to the respondents so as to reveal their liability to pay
+the withholding tax which occurred in New South Wales (see Voth at 151–152).
+
+70 The plaintiff argues in its further written submissions that Voth is not
+good law in Singapore, 66
+
+##### Foot Note 66
+
+×
+
+Plaintiff’s Further Written Submissions dated 3 October 2022 (“PFWS”) at para
+5.
+
+and is of limited assistance. According to the plaintiff, the majority’s
+decision in Voth is “questionable” because, among other things, it did not
+apply or consider the principles elucidated in JIO Minerals at [91] and [93]
+for identifying the place of the tort in the context of misrepresentation. 67
+
+##### Foot Note 67
+
+×
+
+PFWS at para 9.
+
+It appears that the plaintiff has conflated the tort of negligent
+misrepresentation with the tort of negligence. It is clear from the majority’s
+decision that “[each respondent company sued] for damages for the tort of
+negligence” [emphasis added] (see Voth at 127). I am cognisant that the
+majority in Voth made reference to the phrase “negligent misstatement”, for
+instance, when it stated at 144 that “[t]he present case is one that may be
+properly described either as a failure to advise (ie, an omission) or as a
+negligent misstatement of fact (ie, a positive act)”, but this is distinct
+from the tort of negligent misrepresentation. Further, it is unclear how the
+plaintiff’s argument (ie, that the principles in JIO Minerals specific to the
+tort of misrepresentation should be applied here) advances its case, given
+that the plaintiff’s pleaded case is one of negligence. In particular, the
+plaintiff has pleaded that “[t]he Partnership owed the [p]laintiff a duty of
+care to exercise reasonable skill and care … to be expected of reasonably
+skilled, competent and/or prudent auditors …”, the duty of care encompassed
+taking reasonable care to, among other things, “[a]ct in accordance with the
+applicable auditing standards in Australia …” and the Partnership had
+“negligently conducted its audit …”. 68
+
+##### Foot Note 68
+
+×
+
+Statement of Claim (Amendment No 1) at paras 53A, 53B(c) and 53C.
+
+There is no allegation of misrepresentation against the Partnership.
+
+71 In relation to the standard of care that is owed, the applicable accounting
+and auditing standards, being Australian, are connecting factors to Australia,
+even if it is accepted that they are largely similar to the standards in
+Singapore as counsel for the plaintiff contends (see [51(b)] above). The
+learned AR was correct to give due weight to the fact that the duty of care
+allegedly owed by the Partnership is based on Australia law and that the
+Partnership was bound by Australia auditing standards, which will determine if
+there was any wrongdoing on the Partnership’s part by virtue of their falling
+short of the standard of care required of them.
+
+72 The plaintiff’s reliance on the possibility of transfer to the SICC to
+argue that Singapore is the proper forum is misplaced. The Court of Appeal
+held in MAN Diesel (CA) at [144] that: “… the good arguable case in favour of
+a transfer to the SICC, in and of itself, will not be sufficient to displace a
+foreign jurisdiction which is the more appropriate forum based on an
+application of the conventional connecting factors”.
+
+73 As for the place where loss and damage was suffered, it is clear from the
+authorities that it is not determinative and may be of less significance in
+comparison to the place where the allegedly negligent/wrongful act took place.
+I find no reason to come to a different view in this case.
+
+74 Finally, it is significant that various connecting factors that point
+towards Australia as the proper forum are also present in this case, as
+discussed below at [80].
+
+Other connecting factors to Singapore and Australia
+
+75 The plaintiff argues that the key witnesses, including Khua, the
+plaintiff’s finance team, the plaintiff’s special auditor, EY, the first
+defendant, and Tin are based in Singapore, and that Tin and the first
+defendant cannot be compelled to give evidence in any Australian proceedings.
+69
+
+##### Foot Note 69
+
+×
+
+PWS2 at paras 72–76.
+
+However, this argument fails to take into account the third defendant’s
+conduct of its defence, which would entail the admission of witness evidence
+of six named individuals whom the third defendant says were involved in the
+conduct of the audit by the third defendant that the plaintiff is complaining
+about. 70
+
+##### Foot Note 70
+
+×
+
+D3WS at paras 38 and 45–46.
+
+In respect of the claim in negligence against the third defendant, besides the
+location of the witnesses, it is also necessary to consider the compellability
+of the witnesses to testify. Importantly, the six named individuals are no
+longer in the third defendant’s employ, 71
+
+##### Foot Note 71
+
+×
+
+D3WS at para 38 and Kim Lawrence Perry’s Affidavit dated 7 April 2022 (“Kim
+Lawrence Perry’s Affidavit”) at paras 36–39.
+
+and are not compellable to give evidence in Singapore, because they are
+foreign witnesses who are not compellable by the Singapore courts to testify
+in a Singapore court (JIO Minerals at [71]). On the other hand, if necessary,
+several of the plaintiff’s key witnesses are presumably willing to testify in
+Australia to advance the plaintiff’s case in Australia even if they are not
+compellable to give evidence there. These witnesses include Khua, the finance
+team in the plaintiff’s employ, and the persons involved in the special audit
+by EY engaged by the plaintiff. Furthermore, the evidence of the persons who
+conducted the audit by the third defendant is likely to be directly relevant
+and more critical to the claim that the third defendant was negligent in
+conducting the audit of Blackgold Australia and in preparing the audit report,
+compared to the evidence of the individuals based in Singapore who may be
+unwilling to testify in Australia. Those Singapore-based individuals, such as
+Tin and the first and second defendants, are unlikely to be in a position to
+shed much light on the manner in which the audit was conducted by the third
+defendant.
+
+76 The plaintiff argues that absent any evidence or explanation as to the
+type, nature, relevance and/or significance of the evidence that the
+individuals who conducted the allegedly negligent audit will be giving for the
+third defendant’s defence, little to no weight should be placed on the third
+defendant’s arguments that those individuals may potentially be unavailable to
+give evidence. 72
+
+##### Foot Note 72
+
+×
+
+PWS2 at para 78.
+
+On this point, the ruling of the Court of Appeal in JIO Minerals (at [67]) is
+instructive:
+
+… It would not be appropriate to require the Appellants to demonstrate exactly
+how they would use the testimony of the Indonesian Witnesses at this
+interlocutory stage. The Appellants have not yet prepared their Defence. We
+acknowledge, on the other hand, that a defendant applying for a stay should
+not be permitted to assert, without substantiation, that it requires foreign
+witnesses because that would make it easy for defendants to manufacture a
+connecting factor. Our view was that a defendant should at least show that
+evidence from foreign witnesses is at least arguably relevant to its defence.
+… [emphasis added]
+
+77 In the present case, the third defendant has explained that the named
+individuals who conducted the audit reside in Australia and are no longer
+employed by the third defendant. 73
+
+##### Foot Note 73
+
+×
+
+D3WS at paras 38 and 46.
+
+In my view, the evidence of those individuals is at least arguably relevant to
+the third defendant’s defence to the plaintiff’s action in negligence against
+the third defendant.
+
+78 The plaintiff also argues that “the connection to Australia is
+significantly diluted due to the fact that parts of the audit may have been
+conducted in the PRC or Malaysia”. 74
+
+##### Foot Note 74
+
+×
+
+PWS2 at para 82.
+
+In this regard, the plaintiff relies on Siemens AG v Holdrich Investment Ltd
+[2010] 3 SLR 1007, in which the Court of Appeal held (at [4]) that:
+
+… The purpose of the forum conveniens analysis is to identify the most
+appropriate forum in which to try the substantive dispute. It is wrong to say
+that Singapore is forum non conveniens simply because the connecting factors
+which point to Singapore are outweighed by all the connecting factors which
+point away from Singapore. The connecting factors which point away from
+Singapore must point to a more appropriate forum than Singapore, and they
+might not do so if those connections are dispersed amongst several
+jurisdictions. Quite simply, Singapore is forum non conveniens only if there
+is a more appropriate forum than Singapore.
+
+79 I am not persuaded by the plaintiff’s argument. As I have already explained
+above, the heart of the dispute between the plaintiff and the third defendant
+relates to the third defendant’s provision of professional services in
+Australia (see [63] above). That is not diminished by the fact that parts of
+the audit may have been conducted in the PRC or Malaysia. In any event, it is
+the plaintiff’s burden to show that Singapore is the proper forum. So, even if
+parts of the audit may have been conducted outside Australia, that does not
+assist the plaintiff in showing that Singapore is the proper forum,
+particularly when it is not the plaintiff’s case that any part of the third
+defendant’s audit was conducted in Singapore.
+
+80 In my judgment, the learned AR was correct in concluding that the plaintiff
+failed to discharge its burden to show that Singapore is the proper forum,
+having regard to the various connecting factors. The third defendant is an
+Australia-incorporated company that does not have any business presence in
+Singapore. 75
+
+##### Foot Note 75
+
+×
+
+Kim Lawrence Perry’s Affidavit at paras 32–33.
+
+The Partnership was engaged to audit the FY 2016 financial report and to
+prepare the audit report via an Engagement Letter that is governed by
+Australia law and that contains an exclusive jurisdiction clause in favour of
+the “Courts of Australia or that State”. 76
+
+##### Foot Note 76
+
+×
+
+Kim Lawrence Perry’s Affidavit at para 11(h) and p 37.
+
+I cannot agree with the plaintiff’s argument that the location of the parties
+to the contract between Blackgold Australia and the third defendant, and the
+governing law and exclusive jurisdiction clauses therein, are mere “red
+herring[s]”. 77
+
+##### Foot Note 77
+
+×
+
+PWS2 at para 79.
+
+The plaintiff’s action against the third defendant is directed at the audit
+that flowed from this contract between Blackgold Australia and the
+Partnership. The location of the parties to the contract, the contract’s
+governing law, and the fact that the applicable standards required of the
+third defendant in conducting its audit emanate from Australia, are therefore
+important considerations even though the plaintiff is suing for negligence.
+
+81 Finally, I also consider the indemnity clause incorporated in the contract
+between the Partnership and Blackgold Australia, 78
+
+##### Foot Note 78
+
+×
+
+Kim Lawrence Perry’s Affidavit at para 11(g) and p 32.
+
+which is governed by Australia law and contains an exclusive jurisdiction
+clause in favour of the Australia courts. Pursuant to this indemnity clause,
+the Partnership is contractually entitled to bring third party proceedings or
+a counterclaim against Blackgold Australia to seek a contribution or
+indemnity. The learned AR observed (in Vibrant Group Ltd 2 at [37]) that the
+indemnity clause is a factor pointing towards Australia as the proper forum
+because any third party proceedings or counterclaims brought by the third
+defendant to seek a contribution or indemnity must be brought in Australia, in
+light of the exclusive jurisdiction clause in favour of the Australia courts.
+The learned AR nevertheless found that this factor was to be accorded less
+weight because whether any such proceedings will eventually be brought is
+speculative at this stage and in any event, the exclusive jurisdiction clause
+does not bind the plaintiff, who is not a party to the contract. The plaintiff
+takes issue with the learned AR’s observations, arguing that this factor is
+wholly irrelevant to the plaintiff’s claim against the third defendant because
+“no prejudice or injustice will be suffered by [the third defendant] even if
+it is required to bring indemnity proceedings against Blackgold Australia in
+Australia, while the [plaintiff’s] action against [the third defendant] is
+determined in Singapore”. 79
+
+##### Foot Note 79
+
+×
+
+PWS2 at para 80.
+
+Considering the other connecting factors to Australia, the outcome of the
+analysis remains the same even if no weight is ascribed to this indemnity
+clause.
+
+The risk of re-litigation and conflicting decisions
+
+82 I will turn next to deal with the arguments relating to the risk of re-
+litigation and conflicting decisions if the action by the plaintiff against
+the first and second defendants is to proceed in Singapore and the one against
+the third defendant is to proceed in Australia.
+
+83 The second defendant refers to the learned AR’s decision to set aside the
+service out of jurisdiction orders in respect of the third defendant, which
+means that the plaintiff would have to pursue its claim against the third
+defendant in Australia. On that basis, the second defendant argues that given
+the “interconnectedness between the [plaintiff’s] claims against both the
+[first and second defendants as well as the third defendant]”, Australia would
+be the more proper forum for the trial of the main action. 80
+
+##### Foot Note 80
+
+×
+
+D2WS at paras 98–100.
+
+84 As for the plaintiff, it argues that its case against all three defendants
+relies largely on the same evidence in so far as they relate to the Alleged
+Misrepresentations by the first and second defendants and the Irregularities.
+The plaintiff makes the argument that “the falsity of the [first and second
+defendants’ representations] and the existence of the Irregularities are
+intrinsically relevant to the question of whether the Partnership had breached
+its duty of care to the [plaintiff] in failing to detect these untruths”
+[emphasis added]. 81
+
+##### Foot Note 81
+
+×
+
+PWS2 at para 66.
+
+In particular, counsel for the plaintiff provided, in the course of oral
+submissions, the example of having to argue for a second time before the
+Australia court that the first and second defendants made fraudulent (or
+negligent) misrepresentations that caused damage to the plaintiff, and take
+the risk that the Australia court may come to a different conclusion from the
+Singapore court. 82
+
+##### Foot Note 82
+
+×
+
+Minute sheet in RA 92/2022 and RA 234/2022 dated 1 September 2022.
+
+Accordingly, the plaintiff argues that the real risk of conflicting decisions
+militates against the setting aside of the service out of jurisdiction order
+that was granted with respect to the third defendant.
+
+85 Indeed, the existence of parallel proceedings and the consequent
+undesirability of two actions raising common issues being tried in two
+jurisdictions is relevant in determining the proper forum (see, eg, PT Hutan
+Domas Raya v Yue Xiu Enterprises (Holdings) Ltd and another [2001] 1 SLR(R)
+104 at [24]). However, the weight to be given to the existence of parallel
+proceedings depends on the circumstances, which includes factors such as the
+degree of overlap of issues and parties and the degree to which the respective
+proceedings have advanced (Virsagi Management (S) Pte Ltd v Welltech
+Construction Pte Ltd and another appeal [2013] 4 SLR 1097 at [39]).
+
+86 The overlap between the plaintiff’s case against the first and second
+defendants and the plaintiff’s case against the third defendant should be
+considered in perspective based on the facts. In the action for fraudulent
+misrepresentation against the first and second defendants, the plaintiff has
+to establish five cumulative requirements as follows (Panatron Pte Ltd and
+another v Lee Cheow Lee and another [2001] 2 SLR(R) 435 at [14]):
+
+(a) a false representation of fact by words or conduct;
+
+(b) the representation must be made with the intention that it should be acted
+upon by the plaintiff, or a class of persons which includes the plaintiff;
+
+(c) the plaintiff acted upon the false statement;
+
+(d) the plaintiff suffered damage by so doing; and
+
+(e) the representation must be made with the knowledge that it is false, or in
+the absence of any genuine belief that it is true.
+
+87 As for the action in negligent misrepresentation, the plaintiff would have
+to establish five cumulative elements as follows (Yong Khong Yoong Mark and
+others v Ting Choon Meng and another [2021] SGHC 246 at [91]):
+
+(a) the representor made a false representation of fact to the representee;
+
+(b) the representation induced the representee’s actual reliance;
+
+(c) the representor owed the representee a duty to take reasonable care in
+making the representation;
+
+(d) the representor breached that duty of care; and
+
+(e) the breach caused damage to the representee.
+
+88 On the facts of the present case, the inquiry would be focused on (for the
+purposes of the claims in both fraudulent and negligent misrepresentation):
+(a) whether the first and second defendants did make the Alleged
+Misrepresentations about Blackgold Australia’s value and business; (b) whether
+these representations were in fact false; (c) whether the plaintiff did
+proceed with the Acquisition because it relied on the representations; and (d)
+whether it suffered damage as a result. In respect of the claim in fraudulent
+misrepresentation, the first and second defendants’ states of mind at the time
+of making the representations would be in issue. In particular, the question
+would be whether they had knowledge of the falsity of their representations or
+lacked any genuine belief in their truth. Further, the inquiry would also
+focus on whether the first and second defendants intended for the plaintiff to
+proceed with the Acquisition in reliance on their representations. In respect
+of the claim in negligent misrepresentation, the plaintiff would have to show
+that the first and second defendants owed the plaintiff a duty to take
+reasonable care in making the representations and that the first and second
+defendants breached that duty.
+
+89 On the other hand, for the plaintiff’s claim in negligence against the
+third defendant, the plaintiff would have to establish five cumulative
+elements as follows (Spandeck Engineering (S) Pte Ltd v Defence Science &
+Technology Agency [2007] 4 SLR(R) 100 at [21]):
+
+(a) the defendant owes the plaintiff a duty of care;
+
+(b) the defendant has breached that duty of care by acting (or omitting to
+act) below the standard of care required of it;
+
+(c) the defendant’s breach has caused the plaintiff damage;
+
+(d) the plaintiff’s losses arising from the defendant’s breach are not too
+remote; and
+
+(e) such losses can be adequately proved and quantified.
+
+The inquiry for the claim in negligence against the third defendant, in
+contrast to the inquiry for the claims in fraudulent and/or negligent
+misrepresentation against the first and second defendants, will be centred on
+what the Partnership was engaged to do, the level of skill that is to be
+expected of a reasonably competent auditor and the investigation or steps that
+would have been taken by a reasonably competent auditor to uncover “irregular
+or unusual matters” (Clerk & Lindsell on Torts (Sweet & Maxwell, 23rd Ed,
+2020) at paras 9-231 to 9-232, citing Pacific Acceptance Corporation Ltd v
+Forsyth (1970) 92 WN (NSW) 29 at 62). Contrary to what the plaintiff contends,
+in dealing with the plaintiff’s claim against the third defendant for
+professional negligence in its role as auditor, an Australia court would
+likely not need to determine any substantial issue about whether the first and
+second defendants in fact made any misrepresentations to induce the plaintiff
+to acquire Blackgold Australia. Rather, as submitted by the third defendant,
+the inquiry would be focused on whether a reasonable auditor in the same
+position as the Partnership would have reached the same conclusions which it
+arrived at. 83
+
+##### Foot Note 83
+
+×
+
+D3WS at paras 154–157.
+
+The inquiry would be undertaken by examining, in the main, the financial and
+accounting records that were before the Partnership. It would focus on matters
+such as, eg, whether the auditor was put on inquiry by the existence of
+irregularities within the records (PlanAssure PAC (formerly known as Patrick
+Lee PAC) v Gaelic Inns Pte Ltd [2007] 4 SLR(R) 513 at [54], [65], [69], [73]
+and [77]) or whether the auditor failed to qualify its audit report when faced
+with the inability to obtain audit evidence (JSI Shipping (S) Pte Ltd v
+Teofoongwonglcloong (a firm) [2007] 4 SLR(R) 460 at [113]). As provided by the
+contract between the Partnership and Blackgold Australia: 84
+
+##### Foot Note 84
+
+×
+
+Kim Lawrence Perry’s Affidavit at para 11(d) and page 28.
+
+[The Partnership’s] work will be based on documents and information provided
+to it, or obtained by it in connection with the Services. [The Partnership]
+will not verify the accuracy and completeness of such documentation or
+information.
+
+The contractual clause provides context for the scope of the duty of care owed
+by the Partnership and goes towards showing that the Partnership’s duty did
+not extend to warranting against misrepresentations that would not have been
+detected by a reasonable auditor in the shoes of the Partnership. Seen in this
+context, the risk of re-litigation and conflicting decisions must not be
+overstated.
+
+90 As for the plaintiff’s claims against the second defendant for fraudulent
+and/or negligent misrepresentation, not only do the connecting factors point
+to Singapore; the claims are also clearly more closely connected with the
+plaintiff’s claims against the first defendant based on the same causes of
+action than the claims against the third defendant based on negligence. The
+plaintiff’s claims against the second defendant should therefore be tried in
+Singapore together with the claims against the first defendant as there are
+common facts and issues involved. Indeed, if the plaintiff’s action against
+the first defendant were tried in Singapore but the plaintiff’s action against
+the second defendant were tried in Australia, that would lead to an even
+greater risk of conflicting decisions.
+
+Whether the service out of jurisdiction orders should be set aside because of
+the plaintiff’s failure to make full and frank disclosure of all material
+facts
+
+91 For completeness, I address the issue of the plaintiff’s alleged failure to
+make full and frank disclosure of all material facts in obtaining leave to
+serve the originating process on the third defendant outside Singapore. This
+is strictly not necessary given that I have affirmed the learned AR’s decision
+to set aside the service out of jurisdiction order in respect of the third
+defendant.
+
+92 Before the learned AR, the third defendant took issue with the plaintiff’s
+omission to mention certain facts that point to the connection between the
+dispute and Australia. The learned AR found that the only such omission by the
+plaintiff was the failure to draw the court’s attention specifically to the
+exclusive jurisdiction clause in the Engagement Letter, which was, in his
+view, not a material omission, since the plaintiff had already disclosed other
+linkages to Australia and the plaintiff is not bound by the Engagement Letter
+nor the exclusive jurisdiction clause found therein (Vibrant Group Ltd 2 at
+[47]). I have no reason to disagree with the learned AR’s exercise of
+discretion.
+
+93 The third defendant also argues on appeal that the plaintiff had failed to
+state whether Singapore was the more appropriate forum. In addition, the
+defendant contends that the plaintiff had failed to state that it did not know
+where the audit was conducted. 85
+
+##### Foot Note 85
+
+×
+
+D3WS at paras 173–179.
+
+As stated by the Court of Appeal in Tay Long Kee Impex at [21], material facts
+are those which would have been material for the court to know in dealing with
+the application, and includes those facts that the applicant would have known
+if it had made proper inquiries.
+
+94 In my view, the omission of the plaintiff to state whether Singapore was
+the more appropriate forum would be more appropriately regarded as a failure
+to substantiate a relevant factor in its application. By that omission, the
+plaintiff put its application at risk of a dismissal. As for the fact that the
+plaintiff did not know where the audit was conducted, I am unable to agree
+with the third defendant that the plaintiff’s lack of knowledge is itself
+material information which the court would necessarily have considered at the
+ex parte stage, in deciding whether to grant the order for service out of
+jurisdiction. It would have had little bearing on whether the requirements to
+obtain leave to serve out of jurisdiction were satisfied. The circumstances of
+the case also do not suggest any deliberate attempt by the plaintiff to
+mischaracterise the situation or to convey any false impression that the issue
+of proper forum was not in dispute.
+
+Conclusion and orders made
+
+95 For the above reasons, I dismiss RA 92/2022 and RA 234/2022, and uphold the
+orders made by the learned AR.
+
+96 I will hear parties on the question of costs separately.
+
+Teh Hwee Hwee  
+Judicial Commissioner|  
+---|---  
+  
+Thio Shen Yi SC, Chan Kah Keen Melvin, Ee Eng Yew Justin, Yong Wei Jie Timothy
+and Terence Yeo (TSMP Law Corporation) for the plaintiff;
+
+Cham Shan Jie Mark (Zhan Shanjie) and Matthew Tan Jun Ye (Aquinas Law Alliance
+LLP) for the second defendant;
+
+Gary Leonard Low, Tan Wee Kio Terence (Chen Weiqiao) and Tan Jia Yi (Drew &
+Napier LLC) for the third defendant;
+
+The first defendant absent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 12 Oct 2022 (11:02 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

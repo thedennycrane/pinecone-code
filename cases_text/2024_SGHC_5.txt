@@ -1,0 +1,1840 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2024] SGHC 5
+
+Originating Application No 876 of 2023
+
+In the matter of Order 13 Rule 1 of the Rules of Court 2021
+
+Between
+
+| Shanghai Chong Kee Furniture & Construction Pte Ltd  
+---|---  
+  
+… Claimant
+
+And
+
+| Church of St Teresa  
+---|---  
+  
+… Defendant
+
+grounds of decision
+
+[Building and Construction Law — Performance bond — Injunction]
+
+[Injunctions — Unconscionability]
+
+[Injunctions – Erinford injunctions]
+
+[Building and Construction Law — Statutes and regulations — Covid-19 — Reliefs
+under the COVID-19 (Temporary Measures) Act 2020]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Shanghai Chong Kee Furniture & Construction Pte Ltd
+
+  
+v
+
+  
+
+Church of St Teresa
+
+[2024] SGHC 5
+
+General Division of the High Court — Originating Application No 876 of 2023  
+Wong Li Kok, Alex JC  
+7, 17 November, 6 December 2023
+
+11 January 2024
+
+Wong Li Kok, Alex JC:
+
+Introduction
+
+1 This was an application by the claimant for a declaration that the defendant
+had acted unconscionably in making a call on the whole of the performance bond
+(the “Bond”) issued by Lonpac Insurance Bhd (“Lonpac”) in the amount of
+$629,998.70 for a project to conduct restoration works (the “Project”) at the
+premises of the defendant church (the “Church”). The claimant was the
+contractor for the Project pursuant to a contract (the “Contract”) signed with
+the defendant. Consequently, the claimant applied for an injunction to
+restrain the defendant from receiving payment under the Bond. In the
+alternative, the claimant also prayed for an order that the amount which the
+defendant was entitled to receive under the call on the bond be assessed and
+reduced to reasonably account for retention sums that were already held by the
+defendant in the sum of $233,116.67. An interim injunction had been granted by
+the court on 30 August 2023. I dismissed the claimant’s application and the
+claimant has appealed against the decision.
+
+Further background
+
+2 On 19 August 2019, the claimant and the defendant entered into the Contract
+for the Project. 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Harry Tan Chin Choon dated 29 August 2023 (“HTCC-2023 08 29”) at
+para 2.1.3.
+
+3 The Contract incorporated the Articles and Conditions of Contract for Minor
+Works 2012, First Edition, December 2012 published by the Singapore Institute
+of Architects (the “Conditions of Contract”). 2
+
+##### Foot Note 2
+
+×
+
+Affidavit of John Joseph Fenelon dated 4 October 2023 (“JJF-2023 10 04”) at
+para 9.
+
+4 Clause 26 of the Conditions of Contract required the claimant to provide a
+performance bond, in the name of the defendant, for an amount equal to 10% of
+the contract sum (the “Contract Sum”) of $6,299,987.00. 3
+
+##### Foot Note 3
+
+×
+
+HTCC-2023 08 29 at pp 47 and 73.
+
+I set out Clause 26 in full for reference:
+
+26\. PERFORMANCE BOND (OPTIONAL CLAUSE)*delete if not applicable
+
+(1) The Contractor shall within 14 days from the Commencement Date under
+Clause 16.(2) provide a Performance Bond in the form of an approved banker’s
+guarantee or insurance bond, in the name of the Employer, for an amount equal
+to 10% of the original Contract Sum (unless otherwise stated in the Appendix),
+as security for the Contractor’s due performance under the Contract.
+
+(2) If the Contractor fails to provide the Performance Bond, the Architect may
+certify retention of a sum equal to the value of the Performance Bond in an
+Interim Certificate pursuant to Clause 17.(3). Such sum shall be released to
+the Contractor upon receipt of a conforming Performance Bond, or upon issuance
+of the Final Certificate or Cost of Termination Certificate, subject to sub-
+clause(3). The Contractor shall not be entitled to any claim for interest in
+respect of any sum so retained.
+
+(3) The Employer may deduct from any sum retained under sub-clause (2) or call
+upon all or part of the Performance Bond to:
+
+(a) offset any sums due from the Contractor to the Employer as certified by
+the Architect; and/or
+
+(b) compensate the Employer for any loss or damage suffered as a result of the
+Contractor’s failure to fulfil his contractual obligations. The Architect
+shall have no certifying powers as to such sum due to the Employer.
+
+(4) The Performance Bond shall remain in full force until four months after
+the expiry of the Maintenance Period pursuant to Clause 21.(1).
+
+[Emphasis in original]
+
+5 In discharge of the claimant’s obligation to furnish a performance bond for
+an amount equal to 10% of the Contract Sum, the claimant delivered the Bond
+dated 9 October 2019 to the defendant. 4
+
+##### Foot Note 4
+
+×
+
+HTCC-2023 08 29 at para 2.2.1; JJF-2023 10 04 at para 12.
+
+Parties are agreed that the Bond is an unconditional performance bond, 5
+
+##### Foot Note 5
+
+×
+
+HTCC-2023 08 29 at para 2.2.3; JJF-2023 10 04 at para 16.
+
+with Lonpac binding itself to “unconditionally and irrevocably undertake,
+covenant and firmly bind ourselves to pay in full forthwith upon demand in
+writing any sum or sums that may from time to time be demanded by [the
+defendant] up to a maximum aggregate of [$629,998.70] …”. 6
+
+##### Foot Note 6
+
+×
+
+HTCC-2023 08 29 at p 1003, para 1.
+
+The original validity period for the Bond was 3 September 2019 to 2 September
+2021 7
+
+##### Foot Note 7
+
+×
+
+HTCC-2023 08 29 at p 1003, para 2.
+
+, but the Bond was subsequently extended until 31 July 2023. 8
+
+##### Foot Note 8
+
+×
+
+HTCC-2023 08 29 at p 1007; JJF-2023 10 04 at para 15.
+
+6 The Contract further made provision for Jiudong LLP to serve as the
+architect (the “Architect”) for the Project. Clause 3 of the Contract sets out
+the Architect’s functions and obligations: 9
+
+##### Foot Note 9
+
+×
+
+HTCC-2023 08 29 at p 48.
+
+3\. ARCHITECT
+
+(a) The Architect in this Contract shall mean [sic] of the firm Jiudong LLP
+whose address is [address of Architect]
+
+The Architect shall administer the Contract as agent of the Employer, except
+where the Contract requires him to act independently between the Employer and
+the Contractor in exercising discretion and professional judgement, he shall
+be impartial under the Architects Act, Architects Rules, The Schedule (Code of
+Professional Conduct and Ethics), Part I, Rule 3.-(1), particularly in regard,
+but not limited, to the following:
+
+(i) in issuing Architect’s Instructions pursuant to Clause 7.(6)(a), 15.(4),
+(5) or (6);
+
+(ii) in assessing defective work pursuant to Clause 13;
+
+(iii) in issuing Interim Certificates and the Final Certificate, and all
+associated valuations, retention and deductions, pursuant to Clauses 17.(3)
+and 17.(9);
+
+(iv) in assessing and granting Extensions of Time pursuant to Clauses 16.(6)
+and 16.(7);
+
+(v) in issuing Certificates of Liquidated Damages Entitlement pursuant to
+Clause 16.(8);
+
+(vi) in issuing the Completion Certificate pursuant to Clause 20;
+
+(vii) in issuing the Maintenance Certificate pursuant to Clause 21.(4);
+
+(viii) in issuing the Termination Certificate pursuant to Clause 23.(2); and
+
+(ix) in issuing the Cost of Termination Certificate, and all associated
+valuations and deductions, pursuant to Clause 23.(1)(c), 23.(5) or 24.(4).
+
+(b) The Architect shall certify strictly in accordance with the terms of the
+Contract and issue all certificates to the Contractor with a copy to the
+Employer, unless otherwise stated. Both parties shall be bound by the
+Architect’s certificates which, in the absence of fraud or improper pressure
+or interference by either party, shall have full effect by way of Summary
+Judgment or Interim Award, until such time as final judgment or award is made,
+or a legally binding decision is made in an alternative dispute resolution
+mechanism.
+
+…
+
+[Emphasis in original]
+
+7 The Contract provided for a commencement date of 3 September 2019, with a
+completion date of 2 September 2020. 10
+
+##### Foot Note 10
+
+×
+
+HTCC-2023 08 29 at p 74.
+
+Unfortunately, restrictions related to the COVID-19 pandemic impacted the
+works and progress was delayed. 11
+
+##### Foot Note 11
+
+×
+
+JJF-2023 10 04 at para 18.
+
+Around 9 January 2022, the claimant submitted a Notification for Relief under
+s 9 of the Covid-19 (Temporary Measures) Act 2020 (Act 14 of 2020) (“COTMA”)
+to the defendant to seek COTMA relief. 12
+
+##### Foot Note 12
+
+×
+
+HTCC-2023 08 29 at para 2.4.1.
+
+More will be said on this below.
+
+8 The claimant also encountered other difficulties in its business, and by way
+of an Order of Court (HC/ORC 1912/2023) dated 19 April 2023, the claimant was
+placed under a moratorium pursuant to s 64 of the Insolvency, Restructuring
+and Dissolution Act 2018 (2020 Rev Ed), which restrained the commencement and
+continuation of legal proceedings against the claimant for six months until 20
+September 2023. 13
+
+##### Foot Note 13
+
+×
+
+HTCC-2023 08 29 at para 2.1.1.
+
+The claimant had sought moratorium relief to facilitate ongoing restructuring
+of the claimant’s business. 14
+
+##### Foot Note 14
+
+×
+
+HTCC-2023 08 29 at para 2.1.1.
+
+9 On 20 July 2023, the defendant, having lost patience with the claimant for
+the delays in completion and with works still outstanding, made a call on the
+Bond. 15
+
+##### Foot Note 15
+
+×
+
+JJF-2023 10 04 at para 46.
+
+According to the Parish Priest of the Church, the Reverend Father John Joseph
+Fenelon (“Father Fenelon”), the defendant was making a claim for the following
+sums which make up the Bond sum:
+
+(a) a claim for liquidated damages imposed for the claimant’s alleged delay
+which was estimated to be $345,000;
+
+(b) outstanding warranties not yet received which were estimated to be valued
+at $87,000;
+
+(c) outstanding rectification works which were estimated to cost $393,660; and
+
+(d) further anticipated costs which the claimant’s alleged delay would
+continue to incur.
+
+On the defendant’s calculation, the total of these sums add up to $825,660
+excluding further anticipated costs yet to be determined.
+
+10 On 29 August 2023, the claimant took out the present originating
+application (“HC/OA 876/2023”) seeking a declaration that the defendant’s call
+on the Bond was unconscionable in whole or in part and an injunction to
+restrain the defendant from receiving payment from Lonpac on the Bond. The
+claimant also prayed, in the alternative, for a reduction in the Bond sum that
+the defendant is allowed to call on and receive in order to account for the
+retention sum of $233,116.67 which is currently held by the defendant. 16
+
+##### Foot Note 16
+
+×
+
+HC/OA 876/2023.
+
+Pending the final disposal of HC/OA 876/2023, the claimant also took out
+HC/SUM 2627/2023 on 29 August 2023 for a related interim injunction. On 30
+August 2023, Chan Seng Onn SJ granted the requested interim injunction
+restraining the defendant from receiving payment from Lonpac under the Bond
+until the hearing of HC/OA 876/2023. 17
+
+##### Foot Note 17
+
+×
+
+HC/ORC 4098/2023.
+
+Parties’ cases
+
+11 There were four issues on which the claimant relied to demonstrate
+unconscionability on the part of the defendant. I went through each of those
+issues in turn and the parties’ arguments with respect to the same.
+
+Entitlement to Liquidated Damages
+
+12 The claimant asked me to infer unconscionability on the part of the
+defendant on the basis that the Architect’s certification of liquidated
+damages payable by the claimant (“LDs”) was wrong, the defendant knew the
+certification was wrong and that was the reason why there had not been any
+clear claims for LDs on the part of the defendant against the claimant until
+after the Bond had been called. 18
+
+##### Foot Note 18
+
+×
+
+Claimant’s written submissions dated 27 October 2023 (“CWS”) at para 52.
+
+One of the bases for the claimant’s assertion that the LDs certification was
+wrong was based on s 6(5) of COTMA. 19
+
+##### Foot Note 19
+
+×
+
+CWS at paras 42–44.
+
+The claimant argued that it had rightly made applications under COTMA for time
+relief in relation to COVID-19-related delays which fell within the prescribed
+periods set out in the COTMA (and the defendant had not contested these
+through the prescribed COTMA mechanisms). 20
+
+##### Foot Note 20
+
+×
+
+CWS at paragraph 49(a).
+
+The claimant was consequently entitled to not just the time relief sought
+under the COTMA but also relief from liability for LDs pursuant to s 6(5)
+COTMA.
+
+13 The COTMA was enacted to provide temporary measures to alleviate the impact
+of the COVID-19 pandemic on society. Two key reliefs offered by the COTMA are
+of relevance for this dispute.
+
+(a) Firstly, Part 8A of the COTMA creates a framework for extensions of time
+for construction contracts. In gist, ss 39A and 39B COTMA provide that for
+constructions contracts:
+
+(i) which were entered into before 25 March 2020;
+
+(ii) which remain in force on 2 November 2020; and
+
+(iii) where the construction works under the contract have not been certified
+as complete as at 7 April 2020,
+
+the completion date for those works is extended by up to 122 days from and
+including the original contractual completion date.
+
+(b) Secondly, s 6(5) COTMA reduces the liability of contractors to pay LDs
+under a construction contract impacted by the COVID-19 pandemic. In gist, s
+6(5) COTMA, read with Order 3(a) of the COVID-19 (Temporary Measures)
+(Extension of Prescribed Period) (No. 4) Order 2021 and ss 5(1) and 6(1)
+COTMA, provides that for the purpose of calculating the LDs payable under the
+construction contract, where:
+
+(i) the contractor was unable to perform its obligation under the contract due
+to COVID-19 restrictions;
+
+(ii) the contractor had served a notification for relief; and
+
+(iii) the contractor suffered an inability to perform due to COVID-19
+restrictions for a period of time (the “Inability Period”),
+
+the portion of the Inability Period that fell within the period of 1 February
+2020 to 28 February 2022 is to be disregarded in determining the period of
+delay in performance by the contractor when calculating LDs. In other words,
+referring to Example 2 to clause 6 in the Explanatory Statement to the
+COVID-19 (Temporary Measures) Bill, the contractor is not liable for
+liquidated or other damages for the period of delay so long as the delay
+occurs within the prescribed period (1 February 2020 to 28 February 2022) and
+in so far as the delay was caused to a material extent by the disruptions
+caused by the COVID-19 pandemic.
+
+14 The claimant asked me to make the inference of unconscionability referred
+to at [12] above on the basis that the defendant knew as early as August 2022
+that they intended to make an LDs claim, 21
+
+##### Foot Note 21
+
+×
+
+CWS at para 52(b).
+
+as seen from an e-mail from the defendant to the Architect dated 3 August 2022
+expressing the defendant’s wish to assert its entitlement to claim LDs. 22
+
+##### Foot Note 22
+
+×
+
+Claimants bundle of documents (“CBOD”) at p 1923.
+
+According to the claimant, it was then telling that in subsequent certificates
+of payment issued by the Architect (Certificates of Payment 31 and 32 dated 10
+October 2022 and 10 November 2022 respectively), 23
+
+##### Foot Note 23
+
+×
+
+CBOD at pages 1262 and 1280 respectively.
+
+the issue of LDs was not mentioned.
+
+15 Further, the claimant argued that it had properly applied for COTMA relief
+for an extension of time. 24
+
+##### Foot Note 24
+
+×
+
+CWS at para 47; CBOD at page 1026.
+
+However, the defendant had not only neglected to dispute the claimant’s
+entitlement to such relief, 25
+
+##### Foot Note 25
+
+×
+
+CWS at para 49.
+
+but the defendant also knew that s 6(5) COTMA afforded the claimant relief
+against LDs during the COTMA relief period. The inference I was asked to draw
+was that, based on the defendant’s and the Architect’s conduct, they knew full
+well that the defendant was not entitled to the LDs claimed or a substantial
+portion of the LDs claimed (and that explains why the LDs had not been
+addressed in Certificates of Payment 31 and 32). 26
+
+##### Foot Note 26
+
+×
+
+CWS at para 52.
+
+The defendant had thus acted unconscionably by subsequently making the call on
+the Bond and retrospectively justifying it in a much later letter of 16 August
+2023 27
+
+##### Foot Note 27
+
+×
+
+CBOD at page 1333.
+
+which the claimant submitted was the first time that LDs had been mentioned to
+them.
+
+16 The claimant also pointed to the “Certificate of Liquidated Damages (LD)
+Entitlement” document dated 6 September 2022 (“Certificate of LD Entitlement”)
+28
+
+##### Foot Note 28
+
+×
+
+CBOD at page 1644.
+
+which was addressed to the defendant from the Architect (but also copied to
+the claimant) as further evidence that there was unseemly conduct between the
+two in that the Certificate of LD Entitlement precedes the Certificates of
+Payment 31 and 32 and the footnote at the bottom of the Certificate of LD
+Entitlement showed that the Architect was hesitant to explicitly say that LDs
+were payable, bearing in mind s 6(5) COTMA. 29
+
+##### Foot Note 29
+
+×
+
+CWS at para 52(a).
+
+That footnote is reproduced in full below:
+
+Note
+
+Pursuant to Clauses 16.(8) and 16.(9)(a) of the Conditions of Contract, the
+Employer shall be entitled, but not obliged, to deduct or recover LD from the
+Contractor in the amount stated in the Certificate of LD Entitlement issued by
+the Architect, from any balance due from the Employer to the Contractor.
+
+17 The defendant took the opposite view with respect to the Certificate of LD
+Entitlement. The defendant submitted that the claimant’s argument was a
+convenient way to dispose of a document that clearly shows contemporaneous
+intentions on the part of the defendant to impose LDs. 30
+
+##### Foot Note 30
+
+×
+
+Defendant’s written submissions dated 27 October 2023 (“DWS”) at paras 29–33;
+Minute Sheet for hearing on 7 November 2023 (“Minute sheet”).
+
+The footnoted words at the bottom of that certificate were likely standard
+text that parrots the defendant’s entitlement to LDs as set out in the
+Contract rather than a convoluted inference of guilt on the part of the
+Architect. The defendant further submitted that the Architect had gone through
+the claimant’s extension of time entitlements carefully (including the COTMA
+entitlements – pointing to a circular issued by the Building and Construction
+Authority dated 3 March 2022) 31
+
+##### Foot Note 31
+
+×
+
+CBOD at page 1491.
+
+before arriving at the final extension of time entitlements. 32
+
+##### Foot Note 32
+
+×
+
+DWS at para 29.
+
+18 The defendant did not make any submission on the interpretation of s 6(5)
+COTMA with respect to the LDs claim but asserted that they were entitled to
+and did rely on the Architect’s interpretation of and approach to the issue of
+extensions of time and LDs. 33
+
+##### Foot Note 33
+
+×
+
+DWS at paras 67–70.
+
+The defendant added that, pursuant to clause 3 of the Contract (see [6]
+above), the Architect was obligated to act independently with respect to
+extensions of time and LDs so the defendant relied on the Architect’s
+decisions on those issues. 34
+
+##### Foot Note 34
+
+×
+
+DWS at paras 65–66.
+
+The defendant also submitted that the claimant was far from an innocent party
+in that, notwithstanding any COTMA relief to which the claimant was entitled,
+35
+
+##### Foot Note 35
+
+×
+
+DWS at para 12.
+
+the claimant was nonetheless in constant delay in completing the works and
+there was e-mail correspondence that clearly pointed to this, 36
+
+##### Foot Note 36
+
+×
+
+CBOD at pages 1461 to 1465.
+
+along with cogent evidence of this as described in the affidavit of 4 October
+2023 of Father Fenelon at paragraphs 17 to 21. 37
+
+##### Foot Note 37
+
+×
+
+JJF-2023 10 04 at paras 17–21.
+
+19 Finally, the defendant also pointed to the Completion Certificate of 31
+August 2022 (the “Completion Certificate”) 38
+
+##### Foot Note 38
+
+×
+
+CBOD at pages 1106–1108.
+
+which they contend further demonstrated the tardiness of the claimant’s work.
+In particular, the defendant pointed to the conditions attached to the
+Completion Certificate 39
+
+##### Foot Note 39
+
+×
+
+CBOD at page 1108.
+
+which required the retention sum (typically released in full upon issue of the
+completion certificate) to be released in two tranches bearing in mind
+significant defects still to be rectified by the claimant. 40
+
+##### Foot Note 40
+
+×
+
+Minute sheet.
+
+Repair Works to the Tarmac
+
+20 This brings us to two disputed parts of the work (the tarmac and the dome)
+which the claimant argued did not accurately represent the actual work the
+claimant had agreed to carry out. 41
+
+##### Foot Note 41
+
+×
+
+CWS at paras 55 and 60.
+
+The claimant pointed to the quote the defendant obtained from Roman Builders
+Pte Ltd (“RBPL”) as demonstrating a claim from the defendant that was out of
+proportion to what the defendant should be entitled to, hence pointing to
+unconscionability on the defendant’s part. 42
+
+##### Foot Note 42
+
+×
+
+CWS at paras 56–57.
+
+It was noted that the quote from RBPL was in the middle of three quotes
+obtained by the defendant to carry out the outstanding work which the
+defendant alleges had not been completed by the claimant 43
+
+##### Foot Note 43
+
+×
+
+CBOD at page 1837.
+
+and these quotations had been made available to the claimant
+contemporaneously. 44
+
+##### Foot Note 44
+
+×
+
+JJF-2023 10 04 at paras 109 and 110.
+
+21 The tarmac issue relates to the tarmac of the driveway of the Church. The
+claimant’s case was that the original scope of work only required the claimant
+to carry out resurfacing work to the driveway which did not require work to
+the substrata (or underlying foundation works) of the driveway. 45
+
+##### Foot Note 45
+
+×
+
+CWS at para 56(a).
+
+The claimant pointed to the original quotes provided for making good the
+“driveway affected by the works” of about $16,000 to $21,000 46
+
+##### Foot Note 46
+
+×
+
+CBOD at page 567.
+
+compared to the claim in the RBPL quote for the driveway amounting to $227,000
+for tarmac milling and repair. 47
+
+##### Foot Note 47
+
+×
+
+CWS at para 56; CBOD at page 1837.
+
+In short, the claimant stated that the staggering difference in pricing must
+point to unconscionability.
+
+22 Further, the claimant avers that the defendant had in fact expressly
+excluded the driveway works from further work required by the claimant in
+amendments made to the Completion Certificate issued by the Architect on 31
+August 2022 (pointing to the deletion of “Driveway Tarmac levelling” from the
+list of major outstanding works as set out in the Completion Certificate – see
+full extract from the Completion Certificate below) 48
+
+##### Foot Note 48
+
+×
+
+CBOD at page 1107.
+
+as further evidence of unconscionability on the part of the defendant. 49
+
+##### Foot Note 49
+
+×
+
+CWS at para 55(a).
+
+COMPLETION CERTIFICATE CLAUSE 20(2)
+
+Pursuant to Clause 20(2) of the Conditions of Contract, I hereby certify that:
+
+1) On 1 October 2021, the Works appear to be substantially completed and to
+comply with the Contract in all respects, except the outstanding works listed
+in the Schedule to this Certificate.
+
+…
+
+Schedule of Minor Outstanding Works Pursuant to Clause 20(2)(a) of Articles
+and Conditions of Contract for Minor Works 2012
+
+1) 4 3 major outstanding and urgent defective works listed below to be
+completed latest by 31 October 2022:
+
+a) Shanghai Plaster Repair Works on Exterior Façade
+
+b) Driveway Tarmac levelling
+
+c) Replacement of Waterproofing System at South Facing Flat Roof
+
+d) Repair Waterproofing work to Dome
+
+…
+
+[Emphasis in original]
+
+23 The claimant sought to buttress this argument further by pointing to the
+Architect’s Instructions 23 (“AI 23”) 50
+
+##### Foot Note 50
+
+×
+
+CBOD at page 1282.
+
+which was issued after the Completion Certificate, and which made no mention
+of the tarmac works consistent with the position in the Completion
+Certificate. 51
+
+##### Foot Note 51
+
+×
+
+CWS at para 55(d).
+
+24 The defendant disagreed. It argued that the claimant had damaged the
+driveway significantly in the course of their work (as evidenced by potholes
+(into which some worshippers had tripped and fallen)) 52
+
+##### Foot Note 52
+
+×
+
+JJF-2023 10 04 at para 94.
+
+and that if the repair to that damage required substrata work, then this had
+to be carried out. 53
+
+##### Foot Note 53
+
+×
+
+Minute sheet.
+
+The quote obtained by RBPL was in the mid-range of three quotes obtained by
+the defendant and so represented a reasonable sum reflecting the work
+required. 54
+
+##### Foot Note 54
+
+×
+
+JJF-2023 10 04 at paras 113–114.
+
+25 The defendant also denied that the tarmac works had been excluded from the
+claimant’s scope through the deletion in the Completion Certificate and that a
+formal omission of these would require a formal Architect’s instruction and
+there was no such instruction. 55
+
+##### Foot Note 55
+
+×
+
+DWS at paras 41–48.
+
+The defendant noted that this deletion in the Completion Certificate only
+reflected the fact that the claimant did not have to complete the tarmac works
+within the same period of time (31 October 2022) as the other works stated in
+the schedule of outstanding works in the Completion Certificate because the
+tarmac works can only be started after the claimant’s heavy equipment had been
+removed from the site. 56
+
+##### Foot Note 56
+
+×
+
+DWS at para 42; JJF-2023 10 04 at para 86.
+
+The defendant referred to the following condition of the Completion
+Certificate as evidence of this: 57
+
+##### Foot Note 57
+
+×
+
+HTCC-2023 08 29 at p 1097.
+
+3\. In accordance with Clause 20(2)(b) of the Articles and Conditions of
+Contract, the first half of the retention sums is SGD157,499.68. [The
+claimant] agrees that the sum of SGD75,617.00 shall be withheld by [the
+defendant] for the purpose of completion of the outstanding items l(a), (c)
+and (d) on page 2 herein, as stated further in paragraph 5 below;
+
+26 Further, the defendant made the point that correspondence following the
+Completion Certificate clearly showed that the claimant was well aware of the
+required work on the tarmac that they had to complete. 58
+
+##### Foot Note 58
+
+×
+
+DWS at paras 45–46.
+
+In an e-mail from the claimant to the defendant dated 17 October 2022 (some
+months after the Completion Certificate was issued), the claimant had
+expressly acknowledged that work on tarmac would start in November 2022. 59
+
+##### Foot Note 59
+
+×
+
+CBOD at page 1775.
+
+The defendant’s consultants (Studio Lapis) had also included tarmac works in
+their outstanding defects list issued in April 2023 60
+
+##### Foot Note 60
+
+×
+
+CBOD at page 1754.
+
+and the defendant submitted that this was not denied by the claimant. 61
+
+##### Foot Note 61
+
+×
+
+DWS at para 45.4.
+
+Repair Works to the Dome
+
+27 The repair works to the dome of the Church was another area where the
+claimant sought to adduce evidence of unconscionability on the part of the
+defendant. The claimant made the case that the works on the dome were clearly
+excluded by omission in Architect’s Instruction 18 (“AI 18”) which had
+referred to the omission of “Provisional sum for the structural repair work to
+Rotunda, Dome and Tower” 62
+
+##### Foot Note 62
+
+×
+
+CBOD at page 1020.
+
+and any work that was to be carried out on the dome was clearly excluded from
+the claimant’s scope of work and had to be the subject of additional costs or
+a variation order. 63
+
+##### Foot Note 63
+
+×
+
+CWS at paras 59–63.
+
+The claimant contended that a Method Statement dated 26 October 2022 (the
+“Method Statement”) the claimant had prepared for repair works on the dome 64
+
+##### Foot Note 64
+
+×
+
+CBOD at page 1796.
+
+was without prejudice to the fact that such repair works required a separate
+engagement (although the claimant conceded that there was no correspondence or
+other written evidence to demonstrate such separate engagement). 65
+
+##### Foot Note 65
+
+×
+
+CWS at paras 60–61.
+
+28 The claimant also pointed to the fact that there was no separate line item
+in the RBPL quote 66
+
+##### Foot Note 66
+
+×
+
+CBOD at page 1837.
+
+for repairs to the dome, which shows that these repairs were not contemplated
+by the defendant as part of the claimant’s work scope. 67
+
+##### Foot Note 67
+
+×
+
+CWS at para 62.
+
+29 The defendant pointed out that the omission set out in AI 18 was with
+respect to a provisional sum allocated towards structural works to the dome.
+68
+
+##### Foot Note 68
+
+×
+
+CBOD at page 533.
+
+There was a separate requirement in the claimant’s original work scope to
+repair and make good the dome following waterproofing and other works carried
+out on the dome 69
+
+##### Foot Note 69
+
+×
+
+CBOD at page 543.
+
+so it was incongruous to suggest that the Method Statement was prepared for a
+separate engagement or variation works to the dome when the claimant knew they
+had to carry out and complete certain works to the dome as part of the
+original work scope. The defendant stated that this is further supported by
+the fact that the e-mail attaching the Method Statement referred to in [27]
+acknowledged that this work had to be done 70
+
+##### Foot Note 70
+
+×
+
+CBOD at page 1795.
+
+and the claimant had never denied that they had to carry out this work.
+
+30 In response to the point that the RBPL quote had no specific line item for
+the dome repair works, the defendant pointed out in their oral submissions
+that the quotes sought by the defendant for outstanding works (including the
+RBPL quote) were not meant to be comprehensive and there were also substantial
+other items that were excluded from the RBPL quote. 71
+
+##### Foot Note 71
+
+×
+
+Minute sheet.
+
+In that regard, the fact that the dome repairs were not included as a line
+item here was not definitive of the fact that the dome repair works were not
+part of the claimant’s work scope. 72
+
+##### Foot Note 72
+
+×
+
+DWS at paras 49–54.
+
+Outstanding Warranties and other claims
+
+31 The defendant alleged that another reason for the call on the Bond was that
+certain warranties under the Contract had not been provided by the claimant
+(such as the waterproofing warranties). 73
+
+##### Foot Note 73
+
+×
+
+DWS at paras 34–38.
+
+The claimant’s counsel asserted in written submissions that they had
+instructions that the claimant had submitted a “10-year Waterproofing and
+Water Tightness for Rising Damp” warranty on 10 October 2023. 74
+
+##### Foot Note 74
+
+×
+
+CWS at para 65.
+
+The defendant complained that the warranties provided by the claimant did not
+comply with the contractual requirement that they had to be provided jointly
+by the claimant and the relevant subcontractors furnishing those warranties
+(based on the form of warranties under the Contract). 75
+
+##### Foot Note 75
+
+×
+
+CBOD at page 823.
+
+No copies of the warranties in question were provided in evidence and the
+claimant fairly submitted orally that there was a limit to which they could
+rely on this argument bearing in mind the warranties that had supposedly been
+provided were not in evidence. 76
+
+##### Foot Note 76
+
+×
+
+Minute sheet.
+
+32 A mention should also be made with respect to a claim made by the defendant
+for consultancy work from the defendant’s consultants, Studio Lapis, for a
+monthly fee of $7,500 to carry out supervision work for the additional works
+required for, amongst other things, the dome and the tarmac now that these
+remain to be completed by RBPL or other third parties as the claimant was no
+longer carrying out work and had vacated the site. 77
+
+##### Foot Note 77
+
+×
+
+CBOD at page 1840.
+
+The claimant takes the view that this claim is not sustainable bearing in mind
+the dome and the tarmac works claimed by the defendant were not within the
+claimant’s scope of work. 78
+
+##### Foot Note 78
+
+×
+
+CWS at paras 68–69.
+
+33 In the course of their arguments, the parties took to justifying or
+admonishing the call on the Bond (as the case may be) on the basis of the
+contingent loss that the defendant would suffer as against the amount of the
+security held by the defendant (in the form of the amount of the call on the
+Bond and the retention sums under the Contract). For example, the claimant
+took the view that the value of the warranties claimed by the defendant
+($87,000) was well below the value of the retention sums that the defendant
+still held in the amount of $233,116.67 79
+
+##### Foot Note 79
+
+×
+
+CWS at para 66.
+
+(and bearing in mind the claimant’s position that the defendant was not
+entitled to any LDs or any claims pursuant to the tarmac and dome works). The
+defendant presented its own calculation of how a call on the Bond combined
+with the retention sums under the Contract would be insufficient to cover the
+likely damage the defendant would suffer as a result of the claimant’s
+actions. 80
+
+##### Foot Note 80
+
+×
+
+DWS at Annex A.
+
+Issues to be determined
+
+34 The sole issue to be determined was whether the defendant had acted
+unconscionably when it made the call on the Bond. A related supplementary
+issue is, even if I find that the defendant had not acted unconscionably,
+whether the amount of the call on the Bond should be reduced in light of the
+fact that the defendant had sufficient security to cover any damages that they
+may suffer as a result of the claimant’s acts under the Contract.
+
+Law
+
+35 The law on unconscionability in the context of calls on performance (on-
+demand) bonds in construction contracts is most helpfully summarised by the
+Court of Appeal in the leading case of BS Mount Sophia Pte Ltd v Join-Aim Pte
+Ltd [2012] 3 SLR 352 (“BS Mount Sophia”).
+
+36 It is settled law that unconscionability is a ground upon which the court
+can grant an injunction restraining a beneficiary of a performance bond from
+calling on the bond: BS Mount Sophia at [18]. The case law has shown that a
+finding of unconscionability is a conclusion applied to conduct which the
+court finds to be so lacking in bona fides such that an injunction restraining
+the beneficiary’s substantive rights is warranted: BS Mount Sophia at [45].
+Unconscionability includes elements of abuse, unfairness and dishonesty: BS
+Mount Sophia at [19]. The Court of Appeal emphasised at [20] of BS Mount
+Sophia that the threshold of unconscionability “is a high one, and the burden
+that the applicant has to discharge is to demonstrate a strong prima facie
+case of unconscionability”. The Court of Appeal went on to say, at [21]–[22]:
+
+21 When determining if a strong prima facie case has been made out, the entire
+context of the case must be thoroughly considered, and it is only if the
+entire context of the case is particularly malodorous that such an injunction
+should be granted. We must emphasise that the courts’ discretion to grant such
+injunctions must be sparingly exercised and it should not be an easy thing for
+an applicant to establish a strong prima facie case.
+
+22 The reason for setting the barrier at such a high level is that the
+equitable remedy of the interim prohibitive injunction is a very harsh one. It
+restricts the person in whose favour the performance bond was issued (“the
+beneficiary”) from doing that which he was entitled by agreement of the
+parties to do, and which he in all probability had bargained for during the
+negotiations leading up to the contract concerned. In essence, he would be
+prevented from enforcing a substantive right which he had contracted for.
+
+37 Importantly, the Court of Appeal also provided guidance in respect of calls
+on performance bonds on mistaken premises. The Court of Appeal stated at [52]
+that even if the bond beneficiary called on the bond on the basis of a
+mistakenly held belief that the counterparty was in breach, “the call could
+still be legitimate if this position was genuinely adopted and the
+[beneficiary] honestly believed that the [counterparty] was in breach.” The
+Court of Appeal emphasised that it “is not the court’s role in such
+proceedings to appraise the merits of the parties’ decisions; but, rather, it
+is the court’s role to be alive to the lack of bona fides in those decisions.”
+Implicit in the Court of Appeal’s holding – that a mistaken but bona fide call
+on a performance bond would not fall foul of the doctrine of unconscionability
+– is the notion that the court examines the bond beneficiary’s decision at the
+time the decision to call on the bond was made to determine the bona fides or
+lack thereof in that decision. Applying the Court of Appeal’s guidance, the
+court in JK Integrated (Pte Ltd) v 50 Robinson Pte Ltd and another [2015] SGHC
+57 at [72] opined that even if the court took the injunction applicant’s case
+at its highest and found that the applicant did not commit contractual
+breaches, so long as the bond beneficiary had the honest but mistaken belief
+that the applicant had done so, the call on the bond would still have been
+legitimate.
+
+Decision
+
+No strong prima facie case of unconscionability
+
+38 Looking at the conduct of the parties as a whole, I found the evidence
+pointing to a distracted claimant who seemed preoccupied by wider (solvency)
+issues surrounding the company (see [54] below). Notwithstanding the relief
+provided by the COTMA, the claimant still appeared to be in delay and behind
+the curve in their undertaking of the project. The defendant seemed frustrated
+(and even exasperated at times) by the claimant’s lack of progress. Against
+this background, the claimant had not made out their case and satisfied their
+burden of proof that there was a a strong prima facie case of
+unconscionability on the part of the defendant.
+
+39 The starting point for my decision had to be the fact that the claimant had
+a high burden to overcome to demonstrate unconscionability. A high degree of
+strictness had to be applied to the claimant’s case, with the claimant
+required to establish a clear case of fraud or unconscionability, and mere
+allegations are insufficient: Dauphin Offshore Engineering & Trading Pte Ltd v
+The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan [2000]
+1 SLR(R) 117 at [57], citing Bocotra Construction Pte Ltd and others v
+Attorney-General [1995] 2 SLR(R) 262 at [48]. I had to be satisfied that the
+defendant’s conduct was so lacking in good faith that unconscionability was
+demonstrated and hence an injunction on the call on the Bond would be
+justified: BS Mount Sophia at [45].
+
+40 There is good reason for such a strict standard to be applied. A
+performance bond in the context of a construction contract is a contractual
+bargain between the parties to that contract allowing the beneficiary to call
+on that bond as a safeguard for the contractor’s performance. The Bond was
+required under the Contract per Clause 26 of the Conditions of Contract, as
+reproduced above at [4]. The Bond was part of the parties’ bargain in this
+case and, putting it crudely, was as good as cash. I needed to be very careful
+before I interfered in this contractual bargain, and I also needed to be very
+careful not to set a precedent which expanded the scope of the court’s
+interference in these bargains such that greater commercial uncertainty in
+their application was created.
+
+The LDs claim
+
+41 Looking at the specific issues in turn and starting with the LDs, I was not
+convinced that an inference of unconscionability should be found because of
+the Architect’s supposed error in the calculation of the LDs and the
+defendant’s hesitancy in failing to expressly demand for those LDs. There was
+no express written evidence pointing to any bad faith on the part of the
+Architect and the defendant, but I was asked to make an inference based on
+their conduct. Whilst I agree that the Architect and the defendant were not as
+cogent as they could have been with respect to an explicit claim for LDs, that
+does not amount to unconscionability. I failed to infer any unconscionable
+conduct on the part of the defendant in its dealings with the Architect (as
+described at [14] and [16]). In fact, the claimant had been aware of the
+defendant’s LD entitlement as certified by the Architect as early as September
+2022 (through the Certificate of LD Entitlement – see [16]) even if an express
+claim for such LDs had not been made until later (see [16]). I also agreed
+with the defendant’s assertion that the notes found at the bottom of the
+Certificate of LD Entitlement were most likely to be stock language used
+together with this form of certificate (see [17]) as the Architect (acting
+independently) would have been more explicit if there was an honest belief
+that they knew of any error with their LD calculation.
+
+42 In that regard, the claimant felt that it had a stronger case with respect
+to its submission that the Architect had either erred in their interpretation
+of s 6(5) of the COTMA or was unaware of its existence (see [12] and [15]),
+thus resulting in some sort of collusive unconscionable conduct as between the
+Architect and the defendant. I am not required to rule on the merits of
+whether the LDs claim was contractually and legally justified as part of this
+application, so I was not required to rule on the interpretation of s 6(5) of
+the COTMA. The Architect may well have been mistaken in not taking this into
+account when LDs were certified but the Architect’s error does not equal
+unconscionability on the part of the defendant. In Anwar Siraj and another v
+Teo Hee Lai Building Construction Pte Ltd [2003] 1 SLR(R) 394 (“Anwar Siraj”),
+one of the issues before the Court of Appeal was whether the appellants ought
+not to have made a demand for payment under a performance bond as they had
+sufficient security in their hands for the cost of rectification work (Anwar
+Siraj at [13]). It was argued that the appellants held a substantial sum of
+the contractor’s money because the latter’s claim for a progress payment,
+which amounted to $265,190.17, had not been certified by the architect. The
+Court of Appeal held at [13] of Anwar Siraj that it was not the court’s task
+to determine which party’s estimated cost for the rectification of defects is
+more realistic, nor was it the court’s task to determine whether or not the
+architect should have certified the contractor’s claim for $265,190.17.
+Ultimately, the Court of Appeal was not convinced that it was unconscionable
+for the appellants to make a demand under the terms of the performance bond
+because they had sufficient security. The court does not engage in a detailed
+merits review when hearing an application to injunct the call on a performance
+bond. Such applications for an injunction are interlocutory proceedings, so
+the court would not be equipped to undertake a full, detailed, and exhaustive
+review of the merits of the parties’ respective allegations.
+
+43 Furthermore, the parties had agreed in the Contract for the Architect to
+act independently and to exercise its judgment on the certification of LDs and
+the defendant was entitled to and did rely on the Architect’s decision in this
+regard (see [18]) even if the Architect had acted in error. I found no
+unconscionable conduct in that reliance as there was no explicit impropriety
+in the behaviour of the Architect or the defendant and I could not infer any
+such unconscionability based on the circumstantial evidence the claimant had
+placed before me in their submissions ([12] to [16]). In this regard, the
+decision of CEX v CEY and another [2021] 3 SLR 571 (“CEX (Judgment)”) provides
+useful guidance. In CEX (Judgment), the court found that when the architect is
+called on to exercise his independent judgment and issue certificates, he
+cannot be the agent of the employer (CEX (Judgment) at [61]). At [62], the
+court further found that in so far as the architect was expected to act
+independently, his alleged errors were not attributable to the employer and
+his conduct in issuing his certificates was “simply irrelevant in determining
+whether [the employer] had acted unconscionably”. The court caveated its
+holding by noting that if the employer had been put on notice about something
+improper about the architect’s certification process and had proceeded to call
+on the bond regardless, there may be an argument that the employer had acted
+unconscionably.
+
+44 In this case, as noted above at [6], the Architect had a duty under the
+Contract to act independently and impartially, in accordance with professional
+codes of conduct, when issuing certificates relating to liquidated damages and
+assessing and granting extensions of time. When executing these duties, the
+Architect was not acting as the defendant’s agent: CEX (Judgment) at [61],
+citing Hiap Hong & Co Pte Ltd v Hong Huat Development Co (Pte) Ltd [2001] 1
+SLR(R) 458 at [35]. There is no evidence to suggest that the defendant had
+been put on notice about something improper about the Architect’s
+certification process and had proceeded to call on the bond regardless. In
+fact, there is evidence of meeting minutes 81
+
+##### Foot Note 81
+
+×
+
+JJF-2023 10 04 at p 260–263.
+
+recording a discussion held on 11 April 2023 between the defendant, the
+restoration consultant, the Architect, and the quantity surveyors where the
+issue of COTMA reliefs were expressly discussed. The quantity surveyor
+“confirmed that COTMA claims have already been taken into account in the draft
+Statement of Final Account” and that “valid COTMA relief claims have already
+been taken into account”. The architect agreed to issue a letter stating that
+“valid COTMA relief claims have already been taken into account, and stating
+there are no more valid EOT claims to be assessed”. Faced with such advice
+from their advisors, there is nothing that would put the defendant on notice
+that their architect had not considered the COTMA reliefs, or had done
+something improper. The defendant should not be put in a position where it had
+to second guess the decisions of an independent architect in the absence of
+knowledge of a clear error.
+
+Dome and tarmac issues
+
+45 I tackled the dome and tarmac issues together as both involved disputes on
+issues of the interpretation of the Contract and disputes of fact as to
+whether works had been omitted. The claimant had fundamentally disagreed that
+the dome and tarmac works were within the claimant’s work scope (see [21],
+[22], [27] and [28] above) and thus asked me to conclude that when these works
+were taken away from the claimant’s responsibilities, it was impossible to
+conclude that the defendant was entitled to the damages that they sought and
+had thus acted unconscionably. The claimant’s arguments however lost their
+shine when the defendant pointed to correspondence which showed clear
+acknowledgement by the claimant that it was to undertake the tarmac and dome
+repair works (see [26] and [29] above respectively). The defendant’s
+explanation as to why the tarmac repairs were supposedly struck out from the
+Completion Certificate (when read in context with the conditions set out in
+the Completion Certificate) were also convincing (see [25] above).
+
+46 The defendant’s arguments were by no means always cogent. It was not clear
+to me whether the cost of the tarmac repair works (within the claimant’s work
+scope) consisted of just the repairs to the tarmac damaged by the claimant’s
+heavy lifting equipment or wider works to other parts of the tarmac as well.
+The defendant pointed to the latter and, in particular, to the defects list of
+6 April 2023 82
+
+##### Foot Note 82
+
+×
+
+CBOD at page 1754.
+
+which the defendant mentioned in its oral submissions as “undisputed”.
+However, looking at this document, it was not clear to me whether this was as
+conclusive as the defendant made it out to be. The claimant’s argument on the
+disparity between the cost of tarmac works in the Contract as compared to the
+quote from RBPL (see [21] above) also deserves an answer. Looking at the range
+of three quotes obtained by the defendant, 83
+
+##### Foot Note 83
+
+×
+
+CBOD at page 1837.
+
+it is noted that RBPL is the middle of the three quotes (looking at the
+totality of works quoted) and yet the most expensive of the three quotes (by
+totality of works quoted) only quoted $36,120 for the tarmac works, compared
+to $227,040 from RBPL (for the tarmac works) and $81,700 for the tarmac works
+(from the lowest of the three quotes by totality of works quoted). The only
+conclusion to be drawn from this wide range of quotes seems to be that the
+quotes provided were likely on a “desktop” basis and not based on a detailed
+study of the work involved. Unfortunately for the claimant, looking at the
+quotes obtained by the defendant as a whole (rather than cherry picking the
+specific quote for tarmac works from RBPL), this lessens the impact of its
+argument that there was impropriety in an excessive claim for tarmac works
+whilst making the defendant’s argument that the quotes sought were rough and
+incomplete even more plausible..
+
+47 Ultimately, the conduct of the parties, the correspondence, the Architect’s
+instructions and whether and to what extent the dome and tarmac works were
+within the claimant’s work scope are clearly issues in dispute that would need
+to be addressed by the tribunal taking charge of the substantive dispute. For
+the purposes of this application, which is interlocutory in nature, I am not
+engaged to delve deeply into those disputes and to determine the merits of the
+parties’ respective cases on each of their disputes. I was asked to consider
+if the conduct of the defendant reflected a strong prima facie case of
+unconscionability. I found that there was no such unconscionable conduct.
+
+Warranties
+
+48 Given there was no cogent evidence to allow for a proper examination of the
+warranty issue, I had to conclude that the claimant did not make out an
+element of unconscionability on the part of the defendant with respect to this
+issue.
+
+Should the defendant’s call on the Bond be reduced?
+
+49 The claimant had also complained about the difference between (a) the total
+amount claimed by the defendant and (b) the sum of the amounts called on the
+Bond plus the retention sum. The claimant alleged that the sums in (b) still
+showed an excess in favour of the defendant and it should not be entitled to
+benefit from this excess (see [33] above). In the claimant’s written
+submissions, the claimant had further argued that the court should apply a
+reduction to the quantum of the Bond call to take into account the value of
+the claims for “Additional Preliminaries amounting to SGD 600,000, which the
+Claimant has submitted to the Architect”. 84
+
+##### Foot Note 84
+
+×
+
+CWS at para 73(b).
+
+50 In making my decision on this point, I was guided by the Court of Appeal’s
+decisions in Eltraco International Pte Ltd v CGH Development Pte Ltd [2000] 3
+SLR(R) 198 (“Eltraco”) and in Anwar Siraj (canvassed above at [42]). In
+Eltraco, the Court of Appeal had reduced the amount that the employer was
+permitted to call and receive from the bond from $1.6m to $600,000 (Eltraco at
+[42]). This was because the Court of Appeal was satisfied that the main
+contractor was owed moneys under a progress claim (“progress claim No 32”)
+that was quantified by the main contractor at around $1,253,240 (Eltraco at
+[40]). The Court of Appeal reasoned as follows at [41]:
+
+… Notwithstanding this uncertainty, progress claim No 32 is a factor which
+ought to have been taken into account. Bearing in mind that we are not here
+involved in an exercise in quantifying damages but only in ensuring that the
+amount of the bond called for is not unconscionable and taking a broad
+approach, we think there should be a reduction of $1m from the sum which the
+court below had directed that the respondents should be entitled to call. That
+should give the respondents ample security, without being that inordinate as
+to be unconscionable.
+
+[emphasis added]
+
+51 In Anwar Siraj, the Court of Appeal had considered and cited its earlier
+decision in Eltraco. As noted above at [42]), the Court of Appeal in Anwar
+Siraj declined to go into a detailed merits review of the parties’ dispute.
+
+52 Ultimately, taking guidance from Eltraco and Anwar Siraj, I was cognisant
+that my task for the present application is not to engage in “an exercise in
+quantifying damages” (Eltraco at [41]). I was called upon to take a “broad
+approach” and I had to decide whether the present call on the Bond gave the
+defendant “ample security, without being that inordinate as to be
+unconscionable” (Eltraco at [41]). I was ultimately unconvinced that the
+present call on the Bond was that inordinate as to cross the unconscionability
+threshold. The defendant had quantified their claims against the claimant at a
+total sum of $825,660.00, taking into account the claims for liquidated
+damages, outstanding warranties and outstanding works. 85
+
+##### Foot Note 85
+
+×
+
+DWS at paras 24–25.
+
+I have found above that the defendant did not lack bona fides when making
+their claims for these sums. Adding the Bond sum of $629,998.70 and the
+retention sum of $233,116.67, the resulting total of $863,115.37 is not
+incommensurate with the total claim of $825,660.00. I take the defendant’s
+point that as of the date of the call on the Bond, the Statement of Final
+Account has not been issued, so the claim estimates are rough estimations, and
+there is some uncertainty in the quantification of the claims. 86
+
+##### Foot Note 86
+
+×
+
+DWS at paras 74–76.
+
+Prima facie, looking at the figures in the round and taking a broad approach,
+I do not find the defendant’s call to be inordinate relative to the bona fide
+claims that they had.
+
+53 I deal briefly with the claimant’s submission that “Additional
+Preliminaries amounting to SGD 600,000” should be taken into account in
+reducing the Bond call. The claimant flagged in its written submissions that
+on 11 October 2023, the claimant submitted a “Claim for Additional
+Preliminaries Cost for 8 months extension of time” to the Architect by way of
+e-mail. 87
+
+##### Foot Note 87
+
+×
+
+CWS at para 29.
+
+I was unable to give any weight to this argument. The present originating
+application was filed on 29 August 2023. The defendant’s call on the Bond was
+on 20 July 2023. This “Claim for Additional Preliminaries”, having been raised
+nearly three months after the Bond call and one-and-a-half months after this
+originating application was filed, is not relevant to the assessment of the
+defendant’s bona fides at the time the Bond call was made.
+
+Other issues
+
+54 For the sake of completeness, it should also be noted that the claimant’s
+managing director, Mr Harry Tan Chin Choon (“Mr Tan”), filed a second
+affidavit in this application to explain that a number of allegations made
+against the defendant in Mr Tan’s first affidavit (which was used to obtain
+the interim injunction) were inaccurate. Harry Tan’s first affidavit had
+failed to disclose that the Architect had in fact issued a certificate of LDs
+and its assessment as to the extension of time claims made by the claimant. 88
+
+##### Foot Note 88
+
+×
+
+Affidavit of Harry Tan Chin Choon dated 13 October 2023 (“HTCC-2023 10 13”) at
+paras 2.2–2.4.
+
+The claimant had used these alleged omissions by the Architect to bolster its
+case on unconscionability on the part of the defendant during the hearing for
+the interim injunction. In Mr Tan’s second affidavit, he conceded that,
+because of staff turnover and the fact that he was preoccupied with the
+moratorium issues concerning the claimant, he had inadvertently forgotten that
+the Architect had in fact made these certifications and assessments. Whilst my
+decision on this application did not turn on Mr Tan’s forgetfulness, these
+were glaring and material omissions on his part (even if innocent) and helped
+to corroborate the defendant’s position that the claimant was not well
+organised in their carrying out of the project.
+
+Conclusion
+
+55 Ultimately, an applicant seeking to injunct a call on an unconditional
+performance bond bears a high burden. Such an applicant has to convince the
+court that it is just and fair for the court to assist him in reneging on a
+contractual promise that he has made. This is why, as the Court of Appeal
+emphasised at [20] of BS Mount Sophia, “the burden that the applicant has to
+discharge is to demonstrate a strong prima facie case of unconscionability”.
+The claimant in the present case has not discharged this high burden. Upon a
+review of all the evidence, I found bona fide disputes between the parties,
+and I found that the defendant had justifiably relied on its advisors’ advice
+in calling on the Bond. I did not find the defendant’s behaviour
+unconscionable. I therefore dismissed the claimant’s application.
+
+Costs
+
+56 Costs were ordered for the defendant in the amount of $22,000 (excluding
+disbursements), which included costs for the earlier hearing on the interim
+injunction.
+
+Post-judgment addendum – Erinford injunction
+
+57 On 17 November 2023, I delivered my oral decision dismissing the claimant’s
+application for an injunction. On 22 November 2023, the claimant filed a
+notice of appeal against my decision, and on the same day, the claimant’s
+counsel wrote to court seeking an order for an Erinford injunction in the
+following terms: 89
+
+##### Foot Note 89
+
+×
+
+Letter from claimant dated 22 November 2023 at para 3.
+
+Subject to the Claimant’s usual undertaking as to damages, the Defendant be
+restrained, whether by itself or by its agents or howsoever otherwise from
+calling on, demanding or receiving payment from Lonpac Insurance Bhd under
+[the Performance Bond] until the determination of the Claimant’s appeal of the
+decision in OA 876.
+
+58 The claimant argued that:
+
+(a) There was a reasonable likelihood that the appeal would succeed because
+the court, in dismissing the originating application, did not consider the
+claimant’s reasons for bringing the application to be completely untenable. 90
+
+##### Foot Note 90
+
+×
+
+Letter from claimant dated 22 November 2023 at para 5(d)(i).
+
+Moreover, in respect of the LDs issue, the claimant contended that there was a
+reasonable argument that the defendant’s reliance on the LD claim, in the
+light of the COTMA, was unconscionable. 91
+
+##### Foot Note 91
+
+×
+
+Letter from claimant dated 22 November 2023 at para 5(d)(ii).
+
+As for the tarmac and dome works, the claimant submitted that the documentary
+evidence was sufficient to show that the defendant’s reliance on these matters
+to call on the Bond was unconscionable. 92
+
+##### Foot Note 92
+
+×
+
+Letter from claimant dated 22 November 2023 at para 5(d)(iii).
+
+(b) The appeal would be rendered nugatory if the Erinford injunction was not
+granted. 93
+
+##### Foot Note 93
+
+×
+
+Letter from claimant dated 22 November 2023 at para 5(e).
+
+The claimant asserted that it was in the process of seeking investors to
+restructure its debts. Should Lonpac pay out on the Bond, Lonpac would look to
+the claimant to reimburse the payment and this significant debt on the
+claimant’s balance sheet might deter potential investors.
+
+(c) The claimant added that the defendant would not be unduly prejudiced by
+the Erinford injunction as any prejudice can be quantified in damages. 94
+
+##### Foot Note 94
+
+×
+
+Letter from claimant dated 22 November 2023 at para 5(f).
+
+The claimant also pointed out that Lonpac might be placed in a disadvantageous
+position if it paid out on the Bond and the claimant thereafter became
+insolvent, leaving Lonpac as an unsecured creditor proving in the claimant’s
+insolvency. 95
+
+##### Foot Note 95
+
+×
+
+Letter from claimant dated 22 November 2023 at para 5(g).
+
+(d) If the Erinford injunction was not granted, there would be a negative
+perception created on the claimant’s case, particularly in light of the
+investment prospects being sought.
+
+59 The defendant resisted the claimant’s application for an Erinford
+injunction by arguing: 96
+
+##### Foot Note 96
+
+×
+
+Letter from defendant dated 24 November 2023.
+
+(a) The claimant’s application made via letter was in breach of the Rules of
+Court 2021, which required such applications to be made by summons supported
+by affidavit. 97
+
+##### Foot Note 97
+
+×
+
+Letter from defendant dated 24 November 2023 at para 3.
+
+(b) The claimant’s arguments for why there was a reasonable likelihood that
+the appeal would succeed traversed the same ground as that in the originating
+application before this court, and there is no basis to argue that these
+arguments will succeed on appeal. 98
+
+##### Foot Note 98
+
+×
+
+Letter from defendant dated 24 November 2023 at para 5.
+
+(c) The appeal would not be rendered nugatory if the Erinford injunction was
+not granted as the defendant could repay the amounts received from Lonpac if
+the appeal was successful. 99
+
+##### Foot Note 99
+
+×
+
+Letter from defendant dated 24 November 2023 at para 6.
+
+(d) It was irrelevant that a successful call on the Bond might deter potential
+investors from assisting the claimant with restructuring its debts as this
+point did not relate to the appeal or the dispute between the parties. 100
+
+##### Foot Note 100
+
+×
+
+Letter from defendant dated 24 November 2023 at para 7(b).
+
+A lack of prejudice to the defendant from the grant of an Erinford injunction
+is also not a relevant factor for the court’s consideration. 101
+
+##### Foot Note 101
+
+×
+
+Letter from defendant dated 24 November 2023 at para 7(c).
+
+Similarly, any alleged prejudice to Lonpac from the Bond call is also
+completely irrelevant. 102
+
+##### Foot Note 102
+
+×
+
+Letter from defendant dated 24 November 2023 at para 7(d).
+
+60 On the form of application for the Erinford injunction, I noted that in SH
+Design & Build Pte Ltd v BD Cranetech Pte Ltd [2018] SGHC 133 (“SH Design &
+Build”), the application was made via an oral application (SH Design & Build
+at [78]) and in Sin Herh Construction Pte Ltd v Hyundai Engineering &
+Construction Co Ltd and another [2017] SGHC 3 (“Sin Herh”), the application
+was made via letter (Sin Herh at [27]). In the spirit of O 3 r 1 of the Rules
+of Court 2021, I took the view that the courts should adopt a practical
+approach to such applications and I allowed the claimant to proceed with this
+application made by way of letter. A formal application by summons is not
+discouraged or wrong but Erinford injunctions, by their nature, are often
+sought as a matter of urgency, so there should be no rule disallowing an oral
+application or an application by letter following a court’s decision on a
+particular matter where the applicant can demonstrate that the practicalities
+of the case demands such an approach.
+
+61 Following SH Design & Build at [92]–[93], which quoted the seminal
+authority in Erinford Properties Ltd and Another v Cheshire County Council
+[1974] 2 WLR 749, the grounds on which an Erinford injunction should be
+granted are:
+
+(a) First, whether there is a likelihood that the appeal will succeed.
+
+(b) Second, whether the appeal will be rendered nugatory if a stay was not
+granted.
+
+62 I accepted the claimant’s arguments that there was a likelihood that the
+appeal would succeed. The claimant’s submissions were not frivolous or a bare
+denial and disagreement with the reasons behind my decision. There was a fair
+argument that I should have gone behind the architect’s decision with respect
+to s 6(5) of the COTMA and there was an equally fair submission that my
+judgment to dismiss the claims relating to the tarmac and the dome repairs as
+bona fide contractual disputes was too hasty. The standard should not be set
+so strictly that there must be a high likelihood of success in the appeal, but
+the applicant for an Erinford injunction should be ready to state with
+sufficiently detailed particulars the reasons why its arguments on appeal will
+succeed based on a fair and objective standard.
+
+63 I however disagreed that the appeal will be rendered nugatory if an
+injunction was not granted.
+
+64 Firstly, the negation test must stand on its own two feet and the test for
+whether an appeal will be rendered nugatory cannot depend on other issues
+outside the four corners of this case. As the court stated at [30] of Sin
+Herh, “[f]or an Erinford Order to be granted, the risk of negation must relate
+to the appeal or the dispute between the parties”. In Sin Herh, the applicant
+for the Erinford injunction had submitted that it would suffer prejudice
+without the injunction because the disclosure of a successful call on the bond
+would prejudice its chances of securing other projects. The court held that
+this potential prejudice to the applicant in securing other projects was not
+related to either the appeal or the dispute between the parties (Sin Herh at
+[30]). In the present case, the fact that the claimant was in a precarious
+commercial position was outside the control of the defendant and it cannot be
+the case that the claimant’s solvency issues were used as an excuse not to
+comply with its contractual obligations – whether with the defendant or
+otherwise.
+
+65 The substance of the dispute between parties would survive whether the
+claimant survived their solvency woes, or if they are placed under liquidation
+or judicial management. In other words, if it is found that the amounts called
+under the Bond by the defendant are excessive, those amounts can be recovered
+by the claimant, its liquidators or judicial managers. Put yet another way,
+the amounts called under the Bond would be reflected in the claimant’s
+accounts in insolvency as a contingent liability (even if the Erinford
+injunction was granted). From the perspective of an investor or other
+interested party looking at the claimant’s accounts, there is likely little
+difference between an actual liability due to the bond issuer, Lonpac (once
+the bond amounts are released to the defendant) and a contingent liability to
+Lonpac pending the appeal. Indeed, I note that in Sin Herh at [29], the court
+then was equally untroubled by this point as it held that the plaintiff would
+not be denied its primary remedy in the event its appeal is successful since
+the success of the appeal would come with the grant of an interim injunction
+such that any sum received by the bond beneficiary pursuant to the bond call
+would have to be paid back.
+
+66 Finally, and with respect to the perception point, the application for an
+injunction on the payment under the Bond has already been dismissed. The
+negative perception of that dismissal is already present and the denial of an
+Erinford injunction pending the appeal will do little to worsen those
+perceptions.
+
+67 In relation to the claimant’s argument on the lack of irreparable prejudice
+caused to the defendant from the grant of the Erinford injunction, I was not
+convinced by this argument. Referring to the grounds for the grant of an
+Erinford injunction as stated at [61] above, prejudice to the defendant is not
+one of the grounds. As for the claimant’s argument that Lonpac would be
+prejudiced from having to pay out on the Bond, this is plainly irrelevant.
+Lonpac, as bond issuer, had participated in a commercial bargain where it
+agreed to undertake unconditionally and irrevocably to pay on demand the Bond
+sum (see [5] above). Undoubtedly, the commercial risks associated with such a
+business would have been priced in. There is nothing untoward with holding
+Lonpac to this bargain it had made.
+
+68 I therefore dismissed the claimant’s application for an Erinford
+injunction. I ordered costs to the defendant in the sum of $1,500 (including
+disbursements).
+
+Wong Li Kok, Alex  
+Judicial Commissioner|  
+---|---  
+  
+Lim Chong Guang Charles, Ryan Mark Lopez and Nilesh Khetan (Shook Lin & Bok
+LLP) for the claimant;
+
+Tan Spring and Farahna Alam (Withers KhattarWong LLP) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 2: 11 Jan 2024 (13:02 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

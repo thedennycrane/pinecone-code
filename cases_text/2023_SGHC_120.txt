@@ -1,0 +1,1999 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 120
+
+Originating Application No 738 of 2022
+
+In the matter of Section 27 of the Building and Construction Industry Security
+of Payment Act 2004
+
+And
+
+In the matter of Order 36, Rule 3 of the Rules of Court 2021
+
+And
+
+In the matter of the Adjudication Determination dated 27 October 2022 made in
+Adjudication Application 164 of 2022
+
+Between
+
+| Builders Hub Pte Ltd  
+---|---  
+  
+… Claimant
+
+And
+
+| JP Nelson Equipment Pte Ltd  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Building and Construction Law — Jurisdictional objection]
+
+[Building and Construction Law — Standard form contracts]
+
+[Building and Construction Law — Termination — Repudiation of contract]
+
+[Building and Construction Law — Termination — Termination under terms of
+contract]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Builders Hub Pte Ltd
+
+  
+v
+
+  
+
+JP Nelson Equipment Pte Ltd
+
+[2023] SGHC 120
+
+General Division of the High Court — Originating Application No 738 of 2022  
+Teh Hwee Hwee JC  
+5, 20 January 2023
+
+3 May 2023 Judgment reserved.
+
+Teh Hwee Hwee JC:
+
+Introduction
+
+1 It is trite that the legislative framework laid down in the Building and
+Construction Industry Security of Payment Act 2004 (2020 Rev Ed) (“SOPA”) is
+intended to expedite the process by which a contractor may receive payment
+through the payment certification and adjudication process in lieu of
+commencing arbitral or legal proceedings: see the Court of Appeal decision of
+Far East Square Pte Ltd v Yau Lee Construction (Singapore) Pte Ltd [2019] 2
+SLR 189 (“Yau Lee”) at [30]. This legislative objective balances the desire to
+ensure that contractors are paid their dues in a timely fashion against the
+need to respect the parties’ bargain as reflected in their agreed contractual
+terms. Hence, in the speech of the then Minister of State for National
+Development, Mr Zaqy Mohamad, at the Second Reading of the Building and
+Construction Industry Security of Payment (Amendment) Bill on 2 October 2018,
+the minister stated that it is common industry practice for a contract to
+provide for the suspension of payment until a later date if the contract is
+terminated upon a contractor’s default. Where there is such a provision, a
+contractor that has defaulted will have to abide by the terms of the contract
+and will only be able to submit a payment claim under the SOPA after the
+conditions in the contract have been met (see Singapore Parliamentary Debates,
+Official Report (2 October 2018) vol 94 (“Second Reading Speech”)). The
+present case is one where these competing considerations are engaged.
+
+Facts
+
+2 The claimant is Builders Hub Pte Ltd (“BH”). The defendant is JP Nelson
+Equipment Pte Ltd (“JP”). Both companies are incorporated in Singapore.
+
+3 On or around 8 June 2018, BH was awarded a contract (“Contract”) by JP for
+the construction of a building in a project (“Project”). 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Lawrence Lee dated 4 November 2022 (“LL”) at para 5; Affidavit of
+Seh Yin Yoke dated 28 November 2022 (“SYY”) at para 6.
+
+The Contract incorporated the REDAS Design and Build Conditions of Contract
+(3rd Ed, October 2010) (the “REDAS Conditions”). 2
+
+##### Foot Note 2
+
+×
+
+LL at para 6; SYY at para 6.
+
+4 On 2 August 2022, the Employer’s Representative nominated by JP, Infield
+Projects Pte Ltd (“Infield”), served on BH a notice entitled “Notice under
+Clause 30.2.1 of the REDAS Conditions (3rd Edition) and Imposition of
+Liquidated Damages”. 3
+
+##### Foot Note 3
+
+×
+
+SYY at pp 15–16.
+
+The notice states that the revised contract completion date was 19 December
+2021, after including all applicable extensions of time. According to BH, this
+was a unilateral backward revision of the previously-granted extensions of
+time, which revised the contract completion date from 19 December 2021 to 19
+May 2022. 4
+
+##### Foot Note 4
+
+×
+
+LL at para 31(c).
+
+In addition, the notice states that BH was liable to JP for liquidated damages
+amounting to the sum of $678,000 for the 226 days’ delay in the completion of
+the Project. 5
+
+##### Foot Note 5
+
+×
+
+SYY at p 15, paras 3–4.
+
+The notice further specifies that it was issued under cl 30.2.1 of the REDAS
+Conditions, which empowered the Employer’s Representative to give written
+notice to the contractor requiring him to recommence the design or the
+construction of the works, or to proceed with due diligence and expedition in
+the works. According to the notice, BH was required to complete the Project by
+no later than 30 September 2022, failing which JP would be entitled to
+terminate the Contract for default. 6
+
+##### Foot Note 6
+
+×
+
+SYY at p 15, para 7.
+
+5 On 18 August 2022, BH served Payment Claim 40 (“PC 40”) on JP for the sum of
+$2,471,258.29. 7
+
+##### Foot Note 7
+
+×
+
+LL at para 7; SYY at para 8.2.
+
+A few days later, on 22 August 2022, BH sent a letter to JP setting out
+various alleged repudiatory breaches of the Contract by JP. 8
+
+##### Foot Note 8
+
+×
+
+LL at para 24 and pp 761–764.
+
+The allegations made by BH included claims that JP had failed to make full
+payment to BH for work done, 9
+
+##### Foot Note 9
+
+×
+
+LL at para 25 and p 761, paras 3–4 and pp 763–764, para 8C.
+
+obstructed BH’s access to the work site, 10
+
+##### Foot Note 10
+
+×
+
+LL at p 762, paras 5–6 and p 764, para 8D.
+
+unreasonably refused to recognise BH’s entitlement to extensions of time for
+the Project, 11
+
+##### Foot Note 11
+
+×
+
+LL at pp 762–763, para 8A.
+
+and wrongfully claimed to be entitled to be paid liquidated damages by BH. 12
+
+##### Foot Note 12
+
+×
+
+LL at p 763, para 8B.
+
+BH thus demanded that JP retract its allegedly wrongful imposition of
+liquidated damages on BH and make payment of all sums due to BH within two
+days of the 22 August 2022 letter. 13
+
+##### Foot Note 13
+
+×
+
+LL at p 764, paras 10–11.
+
+6 On 25 August 2022, JP sent a letter to BH rebutting the allegations
+contained in BH’s 22 August 2022 letter. 14
+
+##### Foot Note 14
+
+×
+
+SYY at pp 21–23.
+
+JP refused to pay BH the sums that BH had demanded in the said letter. 15
+
+##### Foot Note 15
+
+×
+
+SYY at p 21, para 2 and p 22, paras 7–8.
+
+Instead, JP accused BH of committing several acts of repudiation in relation
+to the Contract, including the failure to provide an updated schedule for
+completion, attempted wrongful removal of equipment from the Project site, and
+demand for undue payments. 16
+
+##### Foot Note 16
+
+×
+
+SYY at p 21, para 1 and pp 22–23, paras 9–10.
+
+JP asserted that the sums demanded by BH were not due 17
+
+##### Foot Note 17
+
+×
+
+SYY at p 23, para 9(c).
+
+and insisted that the completion date of the Project was 19 December 2021,
+which BH had allegedly missed by over 226 days. 18
+
+##### Foot Note 18
+
+×
+
+SYY at p 21, para 4.
+
+JP also insisted that it had promptly paid all sums due to BH. 19
+
+##### Foot Note 19
+
+×
+
+SYY at p 22, paras 6–8.
+
+JP demanded that BH retract its 22 August 2022 notice and confirm that it
+would immediately perform the Contract with due expedition, failing which JP
+would “consider all options, including to accept [BH’s] repudiatory breach of
+the [C]ontract”. 20
+
+##### Foot Note 20
+
+×
+
+SYY at p 23, para 11.
+
+7 On 26 August 2022, BH replied to JP stating that JP had indicated by its
+conduct that it would continue with its alleged repudiatory conduct and
+breaches of contract. 21
+
+##### Foot Note 21
+
+×
+
+LL at p 765.
+
+As a result, BH stated that it was accepting the alleged repudiatory breach of
+contract by JP. 22
+
+##### Foot Note 22
+
+×
+
+LL at p 765.
+
+In that regard, it is important to note that BH’s evidence in this present
+application is that the reference to “repudiatory breach” meant that it was
+terminating the Contract at “common law”. 23
+
+##### Foot Note 23
+
+×
+
+LL at paras 20 and 43.
+
+According to BH, this legal basis was to be contrasted with JP’s response
+letter on the same day, 24
+
+##### Foot Note 24
+
+×
+
+LL at p 766, para 1.
+
+in which JP purported to terminate BH’s employment for the Project under cl
+30.2.2 of the REDAS Conditions by issuing a notice of termination under that
+clause. 25
+
+##### Foot Note 25
+
+×
+
+LL at para 9 and p 766, para 5; SYY at paras 8.6 and 28.
+
+JP’s cited justifications for its notice of termination were: (a) BH’s alleged
+failure to comply with Infield’s 2 August 2022 notice under cl 30.2 within 28
+days from the date of its receipt; and/or (b) BH’s alleged abandonment of the
+works for the Project. 26
+
+##### Foot Note 26
+
+×
+
+LL at p 766, para 4.
+
+In response to JP’s purported termination of BH’s employment, BH sent a
+further letter on the same day stating that JP’s purported termination was
+“too late” as JP “cannot terminate a contract in the afternoon that has
+already come to an end in the morning” and “cannot rely on clauses in a
+contract that has already been repudiated”. 27
+
+##### Foot Note 27
+
+×
+
+LL at p 768.
+
+In this judgment, I will refer to 26 August 2022, which is the date on which
+the Contract was purportedly terminated by BH, as well as the date on which
+the employment of BH was purportedly terminated by JP, as the “Date of
+Termination”.
+
+8 On 15 September 2022, JP served Payment Response 40 (“PR 40”) in response to
+BH's PC 40. In PR 40, JP instead asserted that BH owed JP a sum of
+$416,503.30. 28
+
+##### Foot Note 28
+
+×
+
+LL at para 10; SYY at para 6.
+
+In a letter from JP enclosing PR 40, JP stated that it would “be deducting a
+sum of $765,000 in liquidated damages from the amount certified to [BH] in
+[JP’s] Payment Response No. 40”. 29
+
+##### Foot Note 29
+
+×
+
+LL at p 613, para 4.
+
+The $765,000 sum for liquidated damages was stated to be calculated based on
+alleged delay in the Project amounting to 226 days between 20 December 2021
+and 31 August 2022. 30
+
+##### Foot Note 30
+
+×
+
+LL at p 613, para 6.
+
+9 On 22 September 2022, BH made an adjudication application (“SOP/AA 164 of
+2022”) in respect of PC 40 under s 13(1) of the SOPA, claiming for the sum of
+$940,246.97, inclusive of Goods and Services Tax. 31
+
+##### Foot Note 31
+
+×
+
+LL at para 12; SYY at para 6.
+
+On 30 September 2022, JP lodged its adjudication response for SOP/AA 164 of
+2022. 32
+
+##### Foot Note 32
+
+×
+
+LL at para 14; SYY at para 6.
+
+As JP had raised jurisdictional objections in its submissions, an adjudication
+conference was held on 13 October 2022 to determine the jurisdictional issues
+prior to any consideration of the merits. 33
+
+##### Foot Note 33
+
+×
+
+LL at para 15; SYY at para 6.
+
+10 On 27 October 2022, the learned Adjudicator released his written
+adjudication determination (the “Adjudication Determination”) dismissing
+SOP/AA 164 of 2022 on the basis that PC 40 fell outside the purview of the
+SOPA and that consequently he had no jurisdiction to adjudicate the
+proceedings that were commenced on the basis of PC 40. 34
+
+##### Foot Note 34
+
+×
+
+Adjudication Determination dated 27 October 2022 (“AD”) at paras 3 and 89.
+
+Decision of the learned Adjudicator in SOP/AA 164 of 2022
+
+11 The learned Adjudicator identified and framed four issues for determination
+in SOP/AA 164 of 2022. Only two are relevant for the purposes of the present
+application. As I understand it, they were namely: (a) whether BH was entitled
+to lodge the adjudication application on the basis of PC 40 even though
+“[BH’s] employment under the Contract [had] been terminated as at the date of
+lodgement” of the adjudication application; and (b) whether BH was entitled to
+proceed with the adjudication even though the designated payment certifier
+under the Contract had become functus officio upon either JP’s alleged
+termination of BH’s employment under the Contract or BH’s alleged termination
+of the Contract. 35
+
+##### Foot Note 35
+
+×
+
+AD at paras 27.3 and 27.4.
+
+12 While the learned Adjudicator noted that BH and JP had disagreed on which
+party had validly issued a termination notice for the Contract, he took the
+position that he could “use the phrases termination of the Contract and
+termination of employment under the Contract interchangeably … as nothing
+turn[ed] on any particular difference between both phrases”. 36
+
+##### Foot Note 36
+
+×
+
+AD at para 47.
+
+Accordingly, he rendered his determination on the basis that “it [was] not
+disputed between the parties that the Claimant’s employment under the Contract
+had been terminated as of 26 August 2022” [emphasis in original omitted;
+emphasis added in italics]. 37
+
+##### Foot Note 37
+
+×
+
+AD at para 10.
+
+13 In relation to issue (a), the learned Adjudicator opined that his review of
+the Court of Appeal authorities in Yau Lee, Shimizu Corp v Stargood
+Construction Pte Ltd [2020] 1 SLR 1338 (“Shimizu”) and Orion-One Residential
+Pte Ltd v Dong Cheng Construction Pte Ltd and another appeal [2021] 1 SLR 791
+(“Orion-One”) led him to the view that a claimant making a claim for progress
+payment under the SOPA must show that there was an entitlement to be paid
+under the contract. The entitlement to be paid was key in determining whether
+a payment claim could form the basis for adjudication under the SOPA. 38
+
+##### Foot Note 38
+
+×
+
+AD at para 76.
+
+The learned Adjudicator found, at paragraph 79 of the Adjudication
+Determination, that in considering whether a claimant was entitled to be paid
+under the contract, the correct approach is as follows:
+
+… the “default” position is that unless the material contract expressly
+provided that a contractor is entitled to submit further payment claims post-
+termination or that it is entitled to be paid progress payments post-
+termination, then no such entitlement can arise under the said contract. I
+find this to be the correct position, with the qualification that this is the
+case only where there is an express termination clause providing for the
+termination of the employment of the contractor and the consequences of such
+termination, as in the present case. …
+
+14 Applying this “default position”, the learned Adjudicator found that there
+was no express provision in the Contract providing that BH would be entitled
+to have its payment claims that were submitted prior to termination evaluated
+and paid after termination. 39
+
+##### Foot Note 39
+
+×
+
+AD at para 77.
+
+In making this finding, he observed that upon the termination of BH’s
+employment, BH lost its entitlement to be paid notwithstanding that PC 40
+might have been served prior to the Date of Termination, as cl 30.3 of the
+REDAS Conditions contemplated that no further payments shall be paid pending
+the determination of all costs incurred as a result of the said termination
+(“Termination Costs”). 40
+
+##### Foot Note 40
+
+×
+
+AD at paras 78, 81, 82 and 84.
+
+Further or in the alternative, BH lost its entitlement to be paid as the
+general payment term in cl 22 of the REDAS Conditions would no longer be
+applicable in the event of termination. 41
+
+##### Foot Note 41
+
+×
+
+AD at para 82.
+
+15 As BH no longer had any entitlement to be paid progress payments under PC
+40 prior to the lodgement of the adjudication application, the learned
+Adjudicator found that BH’s claim fell outside the purview of the SOPA and
+that as a result he had no jurisdiction to adjudicate SOP/AA 164 of 2022. 42
+
+##### Foot Note 42
+
+×
+
+AD at para 89.
+
+In this regard, he decided that the questions of who had terminated the
+Contract and on what basis were immaterial, because the fact remained that BH
+no longer had any contractual right to be paid progress payments upon the said
+termination. 43
+
+##### Foot Note 43
+
+×
+
+AD at para 88.
+
+Accordingly, the learned Adjudicator dismissed SOP/AA 164 of 2022.
+
+16 In relation to issue (b), the learned Adjudicator took the position that it
+was not necessary for him to decide whether the designated payment certifier
+under the Contract (which was Infield, the Employer’s Representative nominated
+by JP) had become functus officio upon the termination of the Contract, and
+the consequences of the designated payment certifier becoming so. He opined,
+however, that the designated payment certifier’s duties under cl 22.2 of the
+REDAS Conditions would appear to end in the event of any termination of the
+employment of BH under cl 30.2 of the REDAS Conditions. This was because cl
+30.3 of the REDAS Conditions provided that upon such termination, no further
+payment shall be made to BH until the determination of the Termination Costs.
+44
+
+##### Foot Note 44
+
+×
+
+AD at para 92.
+
+The learned Adjudicator, while declining to make a conclusive finding, 45
+
+##### Foot Note 45
+
+×
+
+AD at para 92.
+
+also went on to note that if the designated payment certifier had become
+functus officio at the Date of Termination, he would no longer be empowered
+under the Contract to certify PC 40 after the Date of Termination. 46
+
+##### Foot Note 46
+
+×
+
+AD at para 93.
+
+If that were the case, by the time the adjudication application was filed
+after the Date of Termination, BH would no longer be entitled to be paid any
+progress payments under PC 40 as it had not been certified before the Date of
+Termination. In turn, this meant that there would be nothing to adjudicate
+under the SOPA and no jurisdiction for the learned Adjudicator to do so. 47
+
+##### Foot Note 47
+
+×
+
+AD at para 93.
+
+The parties’ cases in this application
+
+BH’s case as the claimant
+
+17 In the present application to this court, BH is applying, inter alia, to
+set aside the Adjudication Determination and to remit SOP/AA 164 of 2022 to
+the learned Adjudicator for the determination of its merits. 48
+
+##### Foot Note 48
+
+×
+
+Originating Application filed on 4 November 2022 at para 2.
+
+18 BH argues that the learned Adjudicator was wrong to dismiss SOP/AA 164 of
+2022 on the basis of a lack of jurisdiction. 49
+
+##### Foot Note 49
+
+×
+
+BH’s Written Submissions dated 23 December 2022 (“CWS”) at para 25.
+
+BH asserts that the right to trigger the adjudication process under the SOPA
+is founded on the valid service of a payment claim under the SOPA 50
+
+##### Foot Note 50
+
+×
+
+CWS at paras 14–16.
+
+and, so long as that is done, any subsequent termination of the contract does
+not affect a contractor’s right to apply for adjudication of that payment
+claim. 51
+
+##### Foot Note 51
+
+×
+
+CWS at paras 36–44.
+
+In the present case, BH contends that since it is undisputed that PC 40 was
+validly served on 18 August 2022, which was prior to the Date of Termination,
+52
+
+##### Foot Note 52
+
+×
+
+CWS at paras 23–24.
+
+BH’s entitlement to payment had crystallised at that time, and it did not lose
+the right to trigger the SOPA adjudication process pursuant to PC 40 simply
+because the Contract was subsequently terminated. 53
+
+##### Foot Note 53
+
+×
+
+CWS at paras 34–46.
+
+19 BH further argues that it had terminated the Contract at common law in the
+morning of 26 August 2022 and therefore JP could not have and did not
+terminate the Contract under cl 30.2.2 of the REDAS Conditions by issuing its
+notice of termination later on that day. 54
+
+##### Foot Note 54
+
+×
+
+CWS at paras 69–70.
+
+In support of this, BH reasons that (a) JP represented in the cover letter to
+PR 40 that JP had not terminated the Contract under cl 30.2.2; 55
+
+##### Foot Note 55
+
+×
+
+CWS at paras 71–72.
+
+(b) JP did not raise any objections in PR 40 on the ground that it had
+terminated the Contract under cl 30.2.2; 56
+
+##### Foot Note 56
+
+×
+
+CWS at para 73.
+
+and (c) as BH had filed its adjudication application in reliance on JP’s
+response in PR 40, JP was estopped from contending that it had terminated the
+Contract under cl 30.2.2. 57
+
+##### Foot Note 57
+
+×
+
+CWS at paras 74–75.
+
+Furthermore, BH contends that the learned Adjudicator could not have had
+regard to an objection that was not included in the payment response. 58
+
+##### Foot Note 58
+
+×
+
+CWS at para 75.
+
+20 In relation to the issue of whether the designated payment certifier under
+the Contract was functus officio, BH asserts that this is irrelevant, because
+it is the employer himself who was to provide the payment response which takes
+precedence over any certification by the designated payment certifier. 59
+
+##### Foot Note 59
+
+×
+
+CWS at para 94.
+
+Furthermore, BH adds that JP’s failure to raise the functus officio argument
+in its payment response precluded it from raising this issue as an objection
+at the adjudication stage. 60
+
+##### Foot Note 60
+
+×
+
+CWS at para 96.
+
+BH argues that, in any event, PC 40 was submitted prior to the termination of
+the Contract, during which the designated payment certifier was in office and
+could not be said to have been functus officio. 61
+
+##### Foot Note 61
+
+×
+
+CWS at para 91.
+
+21 BH further submits that the learned Adjudicator breached the rules of
+natural justice. This is because his decision to dismiss SOP/AA 164 of 2022
+turned on (a) there being no express contractual provision entitling BH to be
+paid after termination, and (b) that PC 40 fell outside the purview of the
+SOPA at the time of the adjudication application. However, BH says that these
+arguments were not part of JP’s submissions and the parties were not given a
+chance to submit on these issues. 62
+
+##### Foot Note 62
+
+×
+
+CWS at paras 54–55.
+
+BH submits that it was deprived of the opportunity of making submissions that
+“could reasonably have made a difference” to the outcome and, in this regard,
+s 27(6)(g) of the SOPA provides that an adjudication determination may be set
+aside for such breaches of the rules of natural justice. 63
+
+##### Foot Note 63
+
+×
+
+CWS at paras 64–65.
+
+JP’s case as the defendant
+
+22 In response, JP argues that BH’s application to set aside the Adjudication
+Determination should be dismissed. 64
+
+##### Foot Note 64
+
+×
+
+JP’s Written Submissions dated 23 December 2022 (“DWS”) at para 72.
+
+23 JP first argues that the learned Adjudicator correctly recognised that a
+claimant must be contractually entitled to payment before it is entitled to
+adjudication under the SOPA. 65
+
+##### Foot Note 65
+
+×
+
+DWS at para 21.
+
+In this regard, JP asserts that BH was not entitled to adjudication of PC 40
+under the SOPA “once the Contract was terminated (either under the common law
+or under Clause 30.2 of the REDAS Conditions), as there [was] no contractual
+right to progress payments after termination” [emphasis omitted]. 66
+
+##### Foot Note 66
+
+×
+
+DWS at para 37.
+
+Further, under cl 30.3 of the REDAS Conditions, it was not liable to pay BH
+until the Termination Costs had been ascertained. 67
+
+##### Foot Note 67
+
+×
+
+DWS at para 30.
+
+Therefore, JP contends that once the Contract was terminated, BH lost its
+entitlement to progress payments and adjudication, notwithstanding that PC 40
+was served before termination. 68
+
+##### Foot Note 68
+
+×
+
+DWS at paras 33–34.
+
+24 JP also contends that BH was not entitled to seek adjudication because s
+4(2)(c) of the SOPA provides that the SOPA does not apply to any terminated
+contract to the extent that the terminated contract contains provisions
+relating to termination that permit the respondent to suspend progress
+payments to the claimant until a date or the occurrence of a contractual
+event, and that date has not passed or that event has not occurred. 69
+
+##### Foot Note 69
+
+×
+
+DWS at paras 50–51.
+
+In the present case, JP argues that it had terminated BH’s employment pursuant
+to cl 30.2.2 of the REDAS Conditions. As such, under cl 30.3.1 of the REDAS
+Conditions, JP was permitted to suspend progress payments until the
+Termination Costs had been ascertained. 70
+
+##### Foot Note 70
+
+×
+
+DWS at paras 52–53.
+
+Since the Termination Costs were not yet ascertained at the time SOP/AA 164 of
+2022 was filed, JP asserts that s 4(2)(c) of the SOPA would prevent BH from
+seeking adjudication. 71
+
+##### Foot Note 71
+
+×
+
+DWS at para 60.
+
+25 JP further submits that SOP/AA 164 of 2022 was rightly dismissed because BH
+would not be entitled to seek adjudication once the designated payment
+certifier had become functus officio. 72
+
+##### Foot Note 72
+
+×
+
+DWS at para 38.
+
+Here, the designated payment certifier became functus officio on 26 August
+2022 when the Contract was terminated as there were no contractual provisions
+for the designated payment certifier to certify progress payments to BH,
+except under cl 30.3.1 of the REDAS Conditions. 73
+
+##### Foot Note 73
+
+×
+
+DWS at para 39.
+
+JP adds that it was not estopped from raising a jurisdictional objection about
+the designated payment certifier being functus officio because no estoppel can
+arise for claims falling outside the purview of the SOPA. 74
+
+##### Foot Note 74
+
+×
+
+Presentation slides used by JP at the hearing on 20 January 2023 (“Slides”) at
+41–42.
+
+26 In relation to the issue of natural justice, JP disputes BH’s assertion
+that the learned Adjudicator relied on different grounds from the parties’
+submissions in reaching his decision. 75
+
+##### Foot Note 75
+
+×
+
+DWS at para 62.
+
+JP asserts that the learned Adjudicator’s determination as to whether there
+was a contractual provision entitling BH to be paid after termination was
+canvassed by JP in its submissions before the learned Adjudicator. 76
+
+##### Foot Note 76
+
+×
+
+DWS at paras 63–64.
+
+Moreover, JP asserts that BH had also made submissions on the same issue. 77
+
+##### Foot Note 77
+
+×
+
+DWS at paras 65–68.
+
+In any event, even if BH failed to directly address the issue in its
+submissions, it had identified the issue and had the opportunity to submit on
+it, which made plain that there was no breach of natural justice. 78
+
+##### Foot Note 78
+
+×
+
+DWS at paras 69–71
+
+Issues
+
+27 The following issues arise for my decision in this application:
+
+(a) whether BH was precluded from applying for adjudication of PC 40 by virtue
+of a contractual termination event occurring before the relevant adjudication
+application was filed, even though PC 40 itself was validly served prior to
+the termination event;
+
+(b) whether BH was precluded from applying for adjudication of PC 40 on the
+basis that the designated payment certifier was functus officio; and
+
+(c) whether the learned Adjudicator acted in breach of the rules of natural
+justice.
+
+BH’s entitlement to apply for adjudication based on PC 40
+
+28 In my judgment, the valid service of PC 40 prior to the termination of the
+Contract or the employment of BH did not, in and of itself, give BH an
+unqualified entitlement to adjudication after termination. Neither did the
+occurrence of the contractual termination event per se disentitle BH to an
+adjudication of a payment claim that was validly served prior to the
+termination. The foremost consideration would be the terms of the Contract
+(Orion-One at [23], citing Yau Lee at [31] and Shimizu at [2], [21] and [28]).
+In this case, the question is whether, upon the contractual termination event,
+there is any applicable provision in the Contract that negates or suspends
+BH’s entitlement to be paid based on a validly served payment claim. If there
+is such a provision, BH would lose its right to apply for adjudication of the
+claim in PC 40 even though PC 40 was validly served prior to the termination.
+If no such contractual provision was engaged, BH’s entitlement to apply for
+adjudication of the claim in PC 40 would remain unaffected notwithstanding the
+termination.
+
+29 For reasons which I will explain below, I conclude that if JP had invoked
+cl 30.2 of the REDAS Conditions to terminate BH’s employment under the
+Contract, BH would no longer have a contractual right to be paid any progress
+payment by virtue of cl 30.3 of the REDAS Conditions, and BH would
+consequently lose its entitlement to the adjudication of PC 40. If, however,
+the Contract was terminated by BH pursuant to its general contractual right to
+terminate the Contract for JP’s alleged repudiatory breaches, or if the
+provisions for the termination of BH’s employment in cl 30.2 and the
+consequences of such termination in cl 30.3 were not otherwise engaged, BH’s
+entitlement to apply for adjudication would remain intact in the absence of
+any other terms in the Contract providing to the contrary.
+
+30 In explaining my conclusion, I will consider: (a) the learned Adjudicator’s
+analysis of BH’s entitlement to progress payments which undergirded his
+determination that he had no jurisdiction to determine SOP/AA 164 of 2022; (b)
+the relevant provisions in the SOPA; and (c) the case authorities referred to
+by the learned Adjudicator and the parties. Thereafter, I will turn to the
+facts and examine how the application of the relevant provisions in the
+Contract will affect BH’s entitlement to apply for an adjudication on the
+basis of PC 40.
+
+The “default position” adopted by the learned Adjudicator
+
+31 As I have summarised above (see [13]–[14]), the learned Adjudicator found
+that where a contract bears an express termination clause providing for the
+termination of a contractor’s employment and the consequences of such
+termination (the “employment termination clause”), the “default position” is
+that the contractor has no right to submit further payment claims, or to be
+paid progress payments, even if the relevant payment claim was served prior to
+such termination unless the contract expressly provides otherwise. 79
+
+##### Foot Note 79
+
+×
+
+AD at para 79.
+
+The reason for this “default position” is that there is no need for the SOPA
+to perform a “gap-filling” function in such cases, since the express terms of
+the contract ought to apply instead. 80
+
+##### Foot Note 80
+
+×
+
+AD at paras 75, 77 and 79.
+
+In this regard, the learned Adjudicator noted that this was the case here,
+given that there was an express general payment term in cl 22 and an express
+termination term in cl 30 (ie, the employment termination clause) of the REDAS
+Conditions. 81
+
+##### Foot Note 81
+
+×
+
+AD at para 77.
+
+32 With respect, I do not agree with this “default position”. The “default
+position” does not consider the critical point of whether the employment
+termination clause is engaged in the first place. In my view, the mere
+existence of an employment termination clause in the Contract should not and
+does not affect a contractor’s entitlement under the contract if it is not
+engaged on the facts. It is only if the contract was in fact terminated
+pursuant to that employment termination clause that the contents and effect of
+that clause and its constituent parts become engaged. Where the clause is not
+engaged, the question should be whether there are other contractual terms that
+preclude, negate or suspend the contractor’s right to be paid based on a
+payment claim that is served prior to termination, rather than whether there
+are contractual terms that provide for entitlement to post-termination
+progress payments.
+
+Section 4(2)(c) of the SOPA does not exclude the application of the SOPA where
+no suspension of payment term is applicable on the facts
+
+33 I begin my analysis with reference to the relevant provisions in the SOPA.
+In this regard, there is no legislative support for any requirement that the
+contract must expressly preserve a contractor’s entitlement to progress
+payments in respect of payment claims that had been validly served prior to
+termination, in order for that claim to be amenable to adjudication under the
+SOPA. The entitlement to progress payments is provided in s 5 of the SOPA,
+which states that “[a]ny person who has carried out any construction work, or
+supplied any goods or services, under a contract is entitled to a progress
+payment”. There is no reference here to the general defeasibility or
+suspension of the entitlement to progress payments upon the occurrence of any
+event.
+
+34 So far as contractual termination is concerned, s 4(2)(c) of the SOPA
+provides only for a limited situation where the SOPA does not apply to a
+terminated contract. Section 4(2)(c) reads as follows:
+
+Application of Act
+
+4.— …
+
+…
+
+(2) This Act does not apply to —
+
+(c) any terminated contract to the extent that —
+
+(i) the terminated contract contains provisions relating to termination that
+permit the respondent to suspend progress payments to the claimant until a
+date or the occurrence of an event specified in the contract; and
+
+(ii) that date has not passed or that event has not occurred;
+
+35 In my view, s 4(2)(c) of the SOPA only applies to exclude the application
+of the SOPA to a terminated contract if there are terms in that contract
+“relating to termination that permit the respondent to suspend progress
+payments” that have been engaged. This conclusion may be gleaned from the
+Second Reading Speech:
+
+…we understand that it is common industry practice for contract terms to
+suspend payment until a later date if a contractor has defaulted, leading to
+the termination of the contract. When this happens, the SOP Act will pay heed
+to terms pre-agreed by parties. As such, clause 3 will require adjudicators to
+respect the contract clauses on suspension of payment for terminated
+contracts. This means that claimants that have defaulted on the contract will
+need to abide by contract terms, and they will be able to submit a payment
+claim under the SOP Act only after the conditions in the contract have been
+met.
+
+[emphasis added]
+
+36 From the extract above, it is telling that the purpose of s 4(2)(c) is
+simply to require parties to “respect the contract clauses on suspension of
+payment for terminated contracts” by not allowing claimants to rely on the
+progress payment mechanism in the SOPA if the conditions for payment under the
+contract have not been met. By parity of reasoning, where there is no
+suspension of payment clause that is engaged, there is no indication of
+parliamentary intent to exclude the application of the SOPA to the terminated
+contract as there will be no contractual bargain that needs to be upheld. As
+such, in my view, the contractual terms relating to termination must be
+engaged on the facts before the SOPA is disapplied pursuant to s 4(2)(c) of
+the SOPA. This is clear from the plain reading of s 4(2)(c), which envisages
+the invocation or engagement of the clause that permits the suspension of
+progress payments until a specified date or event. Where the suspensory
+provision in the contract is not invoked or engaged on the facts, s 4(2)(c)
+does not operate to disentitle a contractor to progress payments.
+
+37 On the facts, s 5 of the SOPA undeniably applies – there is no dispute that
+PC 40 relates to construction work under the Contract. There is also no
+question that BH was entitled to serve PC 40, when it was served, and that PC
+40 was validly served. The question is whether BH “lost” its entitlement to be
+paid based on PC 40 upon the termination of the Contract or its employment. In
+this regard, under the REDAS Conditions that have been incorporated into the
+Contract, unless a contractor’s employment is terminated under cl 30.2 due to
+a contractor’s default and cl 30.3 applies to suspend progress payments until
+a specified date or event, s 4(2)(c) of the SOPA simply does not come into
+play. Any contention that cll 30.2 and 30.3 of the REDAS Conditions should be
+construed as satisfying the conditions in s 4(2)(c) of the SOPA, even when
+those clauses are not invoked on the facts, is misconceived.
+
+The case authorities do not support the “default position”
+
+38 Moreover, I am of the view that case authorities that were referred to by
+the learned Adjudicator and cited by JP do not support the proposition that a
+payment claim validly served prior to termination is not amenable to
+adjudication, if the adjudication application is not filed before the
+termination event, unless the contract expressly provides otherwise. Indeed,
+as I will elaborate, the case authorities support the converse proposition –
+that an entitlement to be paid based on a payment claim that is validly served
+before the termination event remains unaffected provided that there are no
+contractual provisions to the contrary.
+
+39 The first decision to be considered is the Court of Appeal’s judgment in
+Yau Lee. One of the main questions, in that case, was whether payment claims
+could be submitted after a final certificate had been issued by the designated
+architect under the contract. The Court of Appeal answered the question in the
+negative, explaining that once the designated architect has issued a final
+certificate that was prima facie valid, he is rendered functus officio and his
+role under the contract comes to an end, such that there is “simply no basis
+to submit further payment claims” [emphasis in original] (at [39]).
+
+40 I should note from the outset that Yau Lee concerned a contract that
+incorporated, with amendments, the Singapore Institute of Architects Articles
+and Conditions of Building Contract (Measurement Contract) (7th Ed, April
+2005) (“SIA Conditions”), in contrast to the REDAS Conditions that are
+applicable in the present case. The certification regime under the SIA
+Conditions has been observed to be “categorically different” from that under
+the REDAS Conditions, in that, unlike an architect under the SIA Conditions,
+the designated payment certifier under the REDAS Conditions is an agent of the
+employer and is thus neither independent nor objective. His certificates are
+thus “no more than steps in a payment procedure, and hardly carry the same
+weight as a certificate issued by an architect … [under the SIA Conditions]”
+(see CEQ v CER [2020] SGHC 70 (“CEQ”) at [25]–[28]). In this regard, I note
+that the appeal from the decision in CEQ was allowed by the Court of Appeal in
+Orion-One. The Court of Appeal, however, did not comment on the learned
+Judge’s observations about the differences between the REDAS Conditions and
+the SIA Conditions, and disposed of the appeal based on a different point.
+Furthermore, in Yau Lee, the payment claim that was being challenged was
+served after the material event in question – which was the issuance of the
+final certificate – whereas in the present case, there is no dispute that PC
+40 was issued prior to the Date of Termination. I therefore consider Yau Lee
+to be distinguishable from the present case.
+
+41 I turn then to consider the two Court of Appeal decisions of Shimizu and
+Orion-One which were canvassed by the parties. I begin with Shimizu, where the
+material issue before the Court of Appeal was whether the terms of the
+contract entitled the contractor to serve payment claims on the employer
+following the termination of the contract pursuant to a term of that contract.
+The court held that on a proper construction of the contract, there was “no
+contractually provided right to serve a payment claim for work done prior to
+termination if the [contract was] terminated for [the contractor’s] default”
+[emphasis added] (at [47]), and that s 10 of the SOPA did not apply to perform
+any “gap-filling” role to change this status since the contract was not silent
+as to the entitlement to submit post-termination payment claims in the first
+place (Shimizu at [48]). On the facts of that case, the employer had exercised
+its rights under a termination clause in the contract on the basis of the
+contractor’s alleged default. The Court of Appeal held that since there were
+provisions in the contract that precluded the service of payment claims
+following contractual termination, this meant that the payment claims served
+by the contractor following the termination of the contractor’s employment
+were invalid (at [38]).
+
+42 In Orion-One, the Court of Appeal considered the validity of a payment
+claim served more than two years following the termination of the contractor’s
+employment. In its decision, the court stressed that “the starting point of
+the analysis must always be the terms of the contract” (Orion-One at [23]),
+and held that on proper construction, none of the clauses relied upon by the
+contractor served as a valid basis to entitle it to submit payment claims
+after the termination of its employment.
+
+43 I accept that Shimizu and Orion-One are more pertinent to the present case,
+in the sense that the material event being considered was a contractual
+termination event and how that affected the contractor’s entitlement to submit
+or serve payment claims. However, it must be borne in mind that unlike the
+present case, in both cases the relevant payment claims were served after the
+respective dates of termination in those cases. Therefore, while the Court of
+Appeal’s guidance as to the general approach that should be taken in
+evaluating the basis for a payment claim is salient and helpful, the specific
+manner in which certain provisions have been construed and applied to the
+facts may not be directly applicable. Critically, like Yau Lee, neither of
+these cases support a finding that an entitlement arising from a validly
+served pre-termination payment claim will be “lost”, negated or suspended upon
+the termination of the contract or the contractor’s employment, if the
+contract does not expressly provide for the contractor to be paid post-
+termination.
+
+44 On the contrary, the Court of Appeal clarified in Shimizu that the
+applicability of the SOPA to progress payments after termination “does not and
+was not intended to override the terms of the contract which provide the
+contrary” [emphasis added] (at [36]). Again, the Court of Appeal held in
+Orion-One at [48] that the “SOPA can in principle apply to progress payment
+claims served post-termination … subject always to any terms of the contract
+which provide to the contrary” [emphasis in original in italics; emphasis
+added in bold italics]. These observations support the view that as far as a
+validly served pre-termination payment claim is concerned, the question is not
+whether there are provisions in the contract that permit the contractor to
+pursue its adjudication post-termination, but whether the contract precludes
+the contractor from doing so, which is the converse position of the “default
+position”.
+
+45 Indeed, there is some authority for the proposition that subsequent
+termination does not negate, suspend or otherwise affect a contractor’s right
+to apply for adjudication under the SOPA on the basis of a payment claim that
+has been validly served before that termination.
+
+46 In the High Court decision of Choi Peng Kum and another v Tan Poh Eng
+Construction Pte Ltd [2014] 1 SLR 1210 (“Choi Peng Kum”), the contractor
+issued a payment claim seeking a progress payment under a contract that
+incorporated the SIA Conditions. In response, the employer terminated the
+contract and did not serve any payment response. When the contractor lodged an
+adjudication application under the SOPA, the adjudicator found in favour of
+the contractor and ordered that the employer make certain progress payments.
+The employer applied to set aside that adjudication determination on, among
+others, the ground that the adjudicator had no jurisdiction to consider the
+payment claim as the contract had been terminated. The High Court disagreed
+and held that the contractor was not precluded from lodging the adjudication
+application and that the adjudicator was not deprived of jurisdiction to hear
+the payment claim simply because the contract had been subsequently terminated
+after issuance of the payment claim.
+
+47 The High Court arrived at this conclusion despite the fact, acknowledged at
+[9], [10] and [18] of the decision, that the respondent to the payment claim
+(the employer in that case) did not provide a payment response, and had
+terminated the contract before the adjudication application was lodged. In
+this regard, I highlight [35] of the judgment:
+
+The question therefore was whether cl 32(8)(a) precluded the [contractor] from
+engaging the adjudication process under SOPA and precluded the Adjudicator
+from making an AD under SOPA …
+
+48 It should be noted that the learned Judge framed the issue as whether a
+term of the contract precluded the SOPA adjudication process, rather than
+whether a term of the contract permitted the adjudication process. Therefore,
+so far as a payment claim that had been validly served prior to termination is
+concerned, the inquiry focuses on whether the relevant contract extinguishes
+the right to adjudicate that payment claim. In the absence of such a
+provision, the law does not consider the entitlement under the payment claim
+extinguished, “lost” (in the learned Adjudicator’s words), or otherwise
+affected simply by the fact of a subsequent termination.
+
+49 At this juncture, it is apposite to note that Choi Peng Kum pre-dated the
+2018 amendments to the SOPA, where s 4(2)(c) was inserted to clarify that the
+SOPA does not apply to certain terminated contracts. 82
+
+##### Foot Note 82
+
+×
+
+Slides at 28.
+
+However, its consideration of the effect of a subsequent contractual
+termination on a contractor’s right to apply for adjudication based on a
+payment claim that had been validly served was referred to with approval by
+the Court of Appeal in Shimizu, which post-dated the 2018 amendments. In
+Shimizu, the Court of Appeal placed significance on the fact that the payment
+claim in Choi Peng Kum had been served prior to termination, and observed at
+[25] that Choi Peng Kum “was decided on the basis that the [contractor] had
+validly served the payment claim in question in accordance with the terms of
+the contract before the termination” [emphasis in original]. Thereafter at
+[34], the Court of Appeal held that Choi Peng Kum is “entirely consistent with
+our interpretation of the SOPA” and went on to explain:
+
+… In Choi Peng Kum, the payment claim in question had been validly served
+prior to the termination of the contract. It was on this basis that the
+adjudication application was found to have been validly made pursuant to s
+12(2)(b) of the SOPA, notwithstanding the fact that no payment response was
+provided to the defendant by the quantity surveyor.
+
+[emphasis added]
+
+50 While it is true that the courts have repeatedly stressed that primacy must
+be accorded to the terms of the contract in determining the parties’ rights
+even within the context of the SOPA, it does not follow that where an
+adjudication application relating to a validly served payment claim is filed
+after a contractual termination event, the payment claim is amenable to
+adjudication only if the contract expressly provides for it.
+
+51 Indeed, I consider it a point of principle that, ordinarily, the
+termination of a contract does not affect rights which have accrued before
+that termination (see the High Court decision of LW Infrastructure Pte Ltd v
+Lim Chin San Contractors Pte Ltd [2011] 4 SLR 477 at [15]). In the context of
+construction contracts, the High Court in Tiong Seng Contractors (Pte) Ltd v
+Chuan Lim Construction Pte Ltd [2007] 4 SLR(R) 364 also quoted with approval
+the following passage by Philip Jeyaretnam SC (as he then was) who was the
+adjudicator in that case (at [17]):
+
+… Nonetheless, I am of the view that the Act does apply even after a contract
+is terminated. First, the intention to protect cash flow would not be achieved
+if the interpretation put forward by the Respondent is adopted. If cash flow
+is blocked on one project, that will affect a contractor or service provider’s
+financial resources for other projects. Secondly, although one always speaks
+of termination of a contract when it is really the right and obligation to do
+work and be paid for it which is terminated for the future, the contract
+continues to govern the relationship between the parties in relation to the
+work already done.
+
+[emphasis added]
+
+52 In the present case, there is no dispute that PC 40 relates to construction
+work under the Contract. There is also no dispute that BH was entitled to
+serve PC 40 under cl 22 of the REDAS Conditions, when it was served, and that
+PC 40 was validly served. The application of the foregoing principle means
+that the rights of BH which accrued from the valid service of PC 40 prior to
+the termination event will give rise to an entitlement to a progress payment
+that remains amenable to adjudication, unless the contract provides otherwise.
+In other words, if there are no express provisions that negate or suspend the
+entitlement that has accrued before termination, the entitlement continues to
+exist. Thus, the court’s inquiry should turn to whether the contract has
+provided for the negation or suspension of that subsisting right in the event
+of termination. This, in my view, better accords with principle and coheres
+with the court’s desire to give effect to the contractual bargain of the
+parties.
+
+Application to the facts
+
+53 Given the foregoing analysis, it is necessary to turn to examine whether
+the Contract provides for the negation or suspension of BH’s entitlement to
+the progress payment under PC 40 upon the occurrence of a termination event
+under the Contract. As I will elaborate, this issue is in turn dependent on
+the basis upon which the Contract was terminated.
+
+54 At the outset, I set out the Court of Appeal’s guidance in Alliance
+Concrete Singapore Pte Ltd v Comfort Resources Pte Ltd [2009] 4 SLR(R) 602
+("Alliance Concrete") at [31]–[32]:
+
+31 … [The] actual termination of a contract is always legally “dangerous”.
+This is due, in part, to the fact that if a party terminates the contract
+without legal justification, it will itself be in breach of contract ...
+
+32 Whether or not the innocent party is legally justified in terminating the
+contract depends on whether one of the situations set out in [RDC Concrete Pte
+Ltd v Sato Kogyo (S) Pte Ltd and another appeal (“RDC Concrete”) [2007] 4
+SLR(R) 413] has been satisfied. These situations were, in fact, summarised by
+this court in Man Financial (S) Pte Ltd v Wong Bark Chuan David [2008] 1
+SLR(R) 663 (“Man Financial”), as follows (at [153]–[158]):
+
+153 As stated in RDC Concrete, there are four situations which entitle the
+innocent party … to elect to treat the contract as discharged as a result of
+the other party’s … breach.
+
+154 The first (‘Situation 1’) is where the contractual term in question
+clearly and unambiguously states that, should an event or certain events
+occur, the innocent party would be entitled to terminate the contract (see RDC
+Concrete at [91]).
+
+155 The second (‘Situation 2’) is where the party in breach of contract (‘the
+guilty party’), by its words or conduct, simply renounces the contract
+inasmuch as it clearly conveys to the innocent party that it will not perform
+its contractual obligations at all (see RDC Concrete at [93]).
+
+156 The third (‘Situation 3(a)’) is where the term breached … is a condition
+of the contract. Under what has been termed the ‘condition-warranty approach’,
+the innocent party is entitled to terminate the contract if the term which is
+breached is a condition (as opposed to a warranty): see RDC Concrete at [97].
+The focus here, unlike that in the next situation discussed below, is not so
+much on the (actual) consequences of the breach, but, rather, on the nature of
+the term breached.
+
+157 The fourth (‘Situation 3(b)’) is where the breach of a term deprives the
+innocent party of substantially the whole benefit which it was intended to
+obtain from the contract (see RDC Concrete at [99]). (This approach is also
+commonly termed the ‘Hongkong Fir approach’ after the leading English Court of
+Appeal decision of Hongkong Fir Shipping Co Ltd v Kawasaki Kisen Kaisha Ltd
+[1962] 2 QB 26; see especially id at 70.) The focus here, unlike that in
+Situation 3(a), is not so much on the nature of the term breached, but,
+rather, on the nature and consequences of the breach.
+
+158 Because of the different perspectives adopted in Situation 3(a) and
+Situation 3(b), respectively (as briefly noted above), which differences
+might, depending on the precise factual matrix, yield different results when
+applied to the fact situation, this court in RDC Concrete concluded that, as
+between both the aforementioned situations, the approach in Situation 3(a)
+should be applied first, as follows (id at [112]):
+
+If the term is a condition, then the innocent party would be entitled to
+terminate the contract. However, if the term is a warranty (instead of a
+condition), then the court should nevertheless proceed to apply the approach
+in Situation 3(b) (viz, the Hongkong Fir approach). [emphasis in original]
+
+[emphasis in original]
+
+55 In the present case, as I have summarised above (see [19] and [24]), BH
+submits that it had terminated the Contract in the morning of 26 August 2022
+at common law, whereas JP appears to prefer the position that it terminated
+BH’s employment under the Contract under cl 30.2.2 of the REDAS Conditions by
+issuing the notice of termination later on that same day. 83
+
+##### Foot Note 83
+
+×
+
+CWS at paras 69–70.
+
+In any event, JP’s primary submission before me is that the basis of the
+termination is “a distinction without a difference”. 84
+
+##### Foot Note 84
+
+×
+
+DWS at para 35.
+
+This submission reflects substantively the same position as that adopted by
+the learned Adjudicator in his determination (see [12] above). With respect, I
+disagree and consider the basis of the termination to be material.
+
+56 I begin the analysis by reproducing the salient portions of cl 30 of the
+REDAS Conditions, which is titled “Termination by Employer”:
+
+30\. TERMINATION BY EMPLOYER
+
+…
+
+30.2. Termination For Default
+
+30.2.1. In the event that the Contractor
+
+30.2.1.1. has wholly suspended the carrying out of the design or construction
+of the Works without justification, or
+
+30.2.1.2. has failed to proceed with due diligence and expedition in the
+Works,
+
+the Employer’s Representative may give Written notice to the Contractor
+requiring him to recommence the design or the construction of the Works or to
+proceed with due diligence and expedition in the Works.
+
+30.2.2. If the Contractor commits any of the following:
+
+30.2.2.1. fails to comply with the Employer’s Representative’s Written Notice
+under clause 30.2 within 28 days from the date of receipt of the same, or
+
+30.2.2.2. abandons the Works, or
+
+…
+
+then, the Employer, may without prejudice to any other rights and remedies
+under the Contract (including the right to treat the Contract as repudiated
+under general law), give a Notice of Termination of the employment of the
+Contractor. Upon receipt of such Notice, the Contractor’s employment shall
+immediately terminate.
+
+…
+
+30.3. Effects of Termination for Default
+
+In the event of the termination of the employment of the Contractor under
+clause 30.2,
+
+30.3.1. the Employer shall not be liable to make any further payments to the
+Contractor until such time when the costs of the design, execution and
+completion of the incomplete Works, rectification costs for remedying any
+defects, liquidated damages for delay and all other costs incurred by the
+Employer as a result of the termination has been ascertained.
+
+57 As is evident from the chapeau of cl 30.3, cl 30.3 of the REDAS Conditions
+would only apply to suspend further payments if BH’s employment was terminated
+by JP due to the occurrence of any of the events of default listed under cl
+30.2. If cl 30.2 was not engaged, then cl 30.3 would similarly not be engaged,
+in which case there appears to be no other provision in the Contract that
+would disentitle BH to the adjudication of, or the receipt of payment under,
+PC 40.
+
+58 Therefore, in order to decide whether cl 30.2 was engaged, it was
+necessary, as an antecedent inquiry, to decide whether BH had validly
+terminated the Contract pursuant to its general contractual right to terminate
+the Contract for JP’s alleged repudiatory breaches before JP issued the notice
+of termination under cl 30.2.2 later on the same day.
+
+59 If it is found that BH’s termination of the Contract was legally justified
+and its allegations concerning JP’s alleged repudiatory breaches of the
+Contract fell within one or more of the situations set out in RDC Concrete,
+then there was no basis for JP’s purported invocation of cl 30.2.2 of the
+REDAS Conditions to terminate BH’s employment under the Contract subsequently,
+given that the Contract had already been terminated by the time of issuance of
+the notice of termination. In such a case, cl 30.3 of the REDAS Conditions,
+which suspends a contractor’s entitlement to a progress payment upon the
+termination of the employment of the contractor under the Contract, would
+simply not be engaged and the entitlement to progress payments pursuant to PC
+40 would have continued to subsist.
+
+60 For completeness, I refer to my observation earlier at [36] that the
+contractual terms relating to termination must be engaged on the facts before
+the SOPA is disapplied pursuant to s 4(2)(c) of the SOPA. Accordingly, if cl
+30.3 of the REDAS Conditions was not invoked and operative on the facts of
+this case, then s 4(2)(c) does not come into play to affect BH’s entitlement
+to post-termination progress payments.
+
+61 On the other hand, if it is found on the facts that BH’s purported
+termination of the Contract for JP’s alleged repudiatory breaches was
+unjustified, then, as noted at [31] of Alliance Concrete, it is likely that BH
+would itself be in breach of the Contract. In such a situation, if JP had
+validly terminated BH’s employment under the Contract under cl 30.2.2 of the
+REDAS Conditions, then cl 30.3.1 of the REDAS Conditions would operate to
+disentitle BH from making an adjudication application, which would therefore
+place SOP/AA 164 of 2022 outside the purview of the SOPA. Under cl 30.3.1 of
+the REDAS Conditions, if the employment of the contractor was terminated under
+cl 30.2, the employer shall not be liable to make any further payments to the
+contractor until the Termination Costs have been ascertained. The effect of cl
+30.3.1 was explained by the Court of Appeal in Orion-One at [44]:
+
+… cl 30.3.1 goes one step further to preclude the contractor from claiming any
+payments (including progress payments) until the project is completed and the
+relevant costs ascertained and deducted. In other words, by virtue of cl
+30.3.1, the progress payment regime set out in cl 22 no longer applies once
+the contractor’s employment is terminated for breach. …
+
+[emphasis added]
+
+62 There are two points to be made here. First, whether BH had exercised its
+general contractual right to terminate the Contract for JP’s alleged
+repudiatory breaches before JP purported to terminate BH’s employment under cl
+30.2.2 of the REDAS Conditions is a necessary antecedent issue that has to be
+addressed before any conclusion may be made about whether the learned
+Adjudicator has jurisdiction to adjudicate SOP/AA 164 of 2022 on its merits. I
+caveat that as this is an issue that goes into the merits of the dispute that
+the learned Adjudicator has yet to consider, I express no view on its
+substantive merits.
+
+63 Second, the Court of Appeal’s analysis at [44] in Orion-One on the effect
+of cl 30.3.1 of the REDAS Conditions is instructive. The Court of Appeal noted
+that “the progress payment regime set out in cl 22 no longer applies” by
+virtue of the operation of another term (cl 30.3.1), which, by implication,
+means that an express provision is required to negate the operation of cl 22.
+This supports the view I expressed earlier (at [48] and [52]) that if there
+are no provisions that negate or suspend a subsisting right to payment in the
+event of termination, the entitlement continues to exist. There is no need for
+an express provision to preserve a subsisting entitlement in that case.
+
+64 For the foregoing reasons, before a finding is made as to whether cl 30.2.2
+was in fact invoked on the facts, there is no basis for JP’s contention that,
+by virtue of cl 30.3 of the REDAS Conditions, JP was not liable to pay BH
+until the Termination Costs have been ascertained, 85
+
+##### Foot Note 85
+
+×
+
+DWS at para 30.
+
+or that once the Contract was terminated, BH lost its entitlement to progress
+payments and adjudication, notwithstanding that PC 40 was served before
+termination. 86
+
+##### Foot Note 86
+
+×
+
+DWS at paras 33–34.
+
+Before the finding is made, I am also unable to agree with JP’s contention
+that BH was not entitled to seek adjudication since s 4(2)(c) of the SOPA
+provides that the SOPA does not apply to any terminated contract as long as
+the terminated contract contains provisions permitting the respondent to
+suspend progress payments, 87
+
+##### Foot Note 87
+
+×
+
+DWS at para 51.
+
+and that JP was permitted to suspend progress payments under cl 30.3 of the
+REDAS Conditions until the Termination Costs have been ascertained. 88
+
+##### Foot Note 88
+
+×
+
+DWS at paras 50, 52 and 53.
+
+Relevance of the status of the designated payment certifier
+
+65 In my view, whether the Employer’s Representative, as the designated
+payment certifier, was functus officio or not in the present case is
+immaterial to BH’s right to file the adjudication application in SOP/AA 164 of
+2022. This is because, on an analysis of the scheme of the REDAS Conditions,
+read with the SOPA, all the necessary conditions for BH’s entitlement under s
+12(2) of the SOPA to make an adjudication application had arisen when SOP/AA
+164 of 2022 was lodged. On the facts, BH’s right to make its adjudication
+application was unaffected by the availability or otherwise of the designated
+payment certifier. I explain the reasons for my conclusion.
+
+66 Section 12(2) of the SOPA specifies that any adjudication application made
+under s 13 would be “in relation to the relevant payment claim”. The relevant
+payment claim in this case is PC 40, and its validity is therefore an
+essential foundation for the validity of the adjudication application in
+SOP/AA 164 of 2022. In the present case, the validity of PC 40 was an issue
+canvassed before the learned Adjudicator, who found that PC 40 was validly
+served. 89
+
+##### Foot Note 89
+
+×
+
+AD at paras 38–46.
+
+In any event, JP did not make any submissions before me that PC 40 was not
+validly served.
+
+67 Clause 22.2.1 of the REDAS Conditions provides that after a payment claim
+is served by the contractor, the Employer’s Representative shall, within 14
+days of the receipt of the payment claim and supporting documents, issue an
+Interim Payment Certificate to the employer with a copy to the contractor
+setting out the amount which the Employer’s Representative considers to be due
+to the contractor. Under cl 22.4, the Interim Payment Certificate shall be
+deemed to be the payment response from the employer to the contractor under
+the SOPA in the event the employer fails to provide a payment response to the
+contractor within 21 days after the payment claim is served on the employer by
+the contractor. However, where the employer provides a payment response within
+21 days, the employer’s payment response shall take precedence over the
+Interim Payment Certificate. Section 11(1) of the SOPA similarly provides that
+a respondent named in a payment claim served in relation to a construction
+contract must respond to the payment claim by providing, or causing to be
+provided, a payment response to the claimant by the timelines stated in that
+provision.
+
+68 The crux of this framework is that the Interim Payment Certificate issued
+by the Employer’s Representative is subordinate to the payment response if one
+is issued by the employer. Where the employer issues a payment response within
+21 days after the relevant payment claim is served, the employer’s payment
+response takes precedence and “shall constitute the Payment Response to the
+Contractor” (see cl 22.4 of the REDAS Conditions).
+
+69 I note that in the present case, there is in evidence a document titled
+“Interim Payment Certificate No. 40” dated 15 September 2022 that was issued
+by Infield, the designated payment certifier, who is the Employer’s
+Representative nominated by JP. 90
+
+##### Foot Note 90
+
+×
+
+LL at pp 615–681.
+
+However, the status of the Employer’s Representative when it issued this
+certificate is immaterial because JP served PR 40 on BH on 15 September 2022
+(see [8] above). In fact, at paragraph 5 of JP’s letter dated 15 September
+2022, which formed part of JP’s PR 40, JP stated that “[o]ur Payment Response
+40 [would] take precedence over the Interim Valuation No. 40 as certified by
+Infield Projects, and our Payment Response 40 [would] be the operative payment
+response under the SOP Act and clause 22.4 of the REDAS Conditions”. 91
+
+##### Foot Note 91
+
+×
+
+LL at p 613.
+
+JP did not argue that PR 40 is invalid or should be disregarded for any
+reason. On the basis of cl 22.4 of the REDAS Conditions, the service of the
+payment response itself supersedes the need for an Interim Payment Certificate
+to be issued. This means that BH is entitled to rely on PR 40 in making its
+adjudication application under s 13(1) of the SOPA, regardless of whether a
+valid Interim Payment Certificate had been issued.
+
+70 I next examine the functus officio point with particular attention paid to
+the terms of the SOPA and the contractual clauses in the present contract, and
+the application of these provisions to the specific facts of this case.
+
+71 I set out portions of s 12 of the SOPA, which contains provisions on the
+entitlement to make adjudication applications. Sections 12(2) and 12(3) are of
+particular relevance:
+
+Entitlement to make adjudication applications
+
+12.—
+
+…
+
+(2) Where, in relation to a construction contract —
+
+(a) the claimant disputes a payment response provided by the respondent; or
+
+(b) the respondent fails to provide a payment response to the claimant by the
+date or within the period mentioned in section 11(1),
+
+the claimant is entitled to make an adjudication application under section 13
+in relation to the relevant payment claim if, by the end of the dispute
+settlement period, the dispute is not settled or the respondent does not
+provide the payment response, as the case may be.
+
+(3) For the purpose of subsection (2)(a), a claimant is considered to dispute
+a payment response if the claimant does not in writing accept the payment
+response.
+
+72 Leaving aside the issue of whether there were contractual terms that kick
+in after termination to negate or suspend BH’s right to the progress payments,
+the conditions for BH’s entitlement under s 12(2) of the SOPA to make an
+adjudication application appears to be satisfied regardless of the status of
+the designated payment certifier. This is because (a) BH had served PC 40 on
+JP on 18 August 2022 (see [5] above), (b) PC 40 was served prior to the Date
+of Termination (see [7] above), and (c) JP served PR 40 on BH on 15 September
+2022 (see [8] above). Under s 12(2) of the SOPA, BH was entitled to make an
+adjudication application under s 13 of the SOPA in relation to PC 40 by the
+end of the dispute settlement period if BH disputed the payment response
+provided by JP. As BH did not accept PR 40 in writing, it was considered to
+have disputed PR 40 under s 12(3). BH availed itself of its entitlement by way
+of its adjudication application in SOP/AA 164 of 2022 under s 13(1) of the
+SOPA on 22 September 2022 (see [9] above). I note that it is not JP’s case
+that SOP/AA 164 of 2022 is defective for failure to comply with any of the
+requirements imposed by s 13 of the SOPA. In summary, I find on the facts that
+whether the Employer’s Representative was functus officio or not does not
+affect the adjudicator’s jurisdiction to determine SOP/AA 164 of 2022.
+
+The rules of natural justice
+
+73 In my view, the learned Adjudicator did not breach the rules of natural
+justice in arriving at his decision.
+
+74 The law on the breach of the fair hearing rule, which is one of the rules
+of natural justice, was considered by the Court of Appeal in Glaziers
+Engineering Pte Ltd v WCS Engineering Construction Pte Ltd [2018] 2 SLR 1311
+(“Glaziers Engineering”) at [54]–[55]. In essence, a decision-maker may be in
+breach of the fair hearing rule if he decides a dispute on a point on which
+the parties have not had a fair opportunity to address. A surprising or
+unforeseen outcome from the decision-maker may indicate that there has been a
+breach of the fair hearing rule, but this is not conclusive. The true question
+is whether the parties have been deprived of a fair opportunity to be heard,
+and fairness in this context is to be understood not in terms of equal
+treatment between the parties, but in terms of reasonableness.
+
+75 In this regard, a fair and reasonable opportunity of being heard may or may
+not require a decision-maker to take the overt step of inviting submissions
+from the parties on a given issue. The Court of Appeal in Glaziers Engineering
+proceeded at [60]–[65] to elaborate on a situation where the outcome of a
+dispute may be surprising to one or more of the parties, but which does not
+breach the fair hearing rule. This is a situation “where the decision-maker
+has decided the dispute on a premise which, though not directly raised by the
+parties, is reasonably connected to an argument which the parties have raised”
+(Glaziers Engineering at [61], citing TMM Division Maritima SA de CV v Pacific
+Richfield Marine Pte Ltd [2013] 4 SLR 972 (“TMM”) at [63]).
+
+76 As summarised in Glaziers Engineering at [61]–[62], in TMM, the main issue
+in dispute between a ship purchaser and a ship seller was whether the ship
+purchaser was entitled to terminate the contract on the basis of an alleged
+repudiatory breach on the ship seller’s part. At the heart of this question
+was whether the term which the ship seller had breached (“cl 11”) was a
+condition of the contract. The ship purchaser alleged that cl 11 was a
+condition, whereas the ship seller alleged that it was an innominate term. The
+parties referred the dispute to arbitration, where the arbitrator found that
+cl 11 was not a condition, but a collateral warranty. The ship purchaser
+applied to the High Court to have the arbitrator’s decision set aside. On the
+facts, Chan Seng Onn J (as he then was) found that it was in fact the seller’s
+case before the arbitrator that cl 11 was a collateral warranty and therefore
+dismissed the application to have the decision set aside. He nevertheless went
+further to opine in obiter that the arbitrator could not be said to have
+deprived the purchaser of its right to be heard by deciding that the term was
+a collateral warranty. This was because the finding that cl 11 was a
+collateral warranty was not only reasonably connected to the arguments raised
+by the parties, but also a reasonable follow-through from the arbitrator’s
+finding that cl 11 was not a condition.
+
+77 In the present case, BH takes issue with two particular findings of the
+learned Adjudicator: (a) that there was no express contractual provision
+entitling BH to be paid after termination; and (b) that PC 40 fell outside the
+purview of the SOPA at the time of the adjudication application. 92
+
+##### Foot Note 92
+
+×
+
+CWS at para 54.
+
+78 In relation to finding (a), I take the view that the learned Adjudicator
+had “decided the dispute on a premise which, though not directly raised by the
+parties, is reasonably connected to an argument which the parties have raised”
+(Glaziers Engineering at [61]). In JP’s reply submissions filed in SOP/AA 164
+of 2022 dated 11 October 2022, JP had argued that BH was “not entitled to seek
+adjudication under the SOP Act because there is no contractual entitlement to
+payment after termination either under the common law or under the contract”.
+93
+
+##### Foot Note 93
+
+×
+
+JP’s Reply Submissions dated 11 October 2022 (“JP’s AA Reply Submissions”) at
+para 7 (LL at p 738).
+
+In those written submissions, JP proceeded to elaborate on how, on JP’s
+reading of the authorities, the Court of Appeal had decided that a claimant
+“must be contractually entitled to payment, before it is entitled to
+adjudication under the SOP Act”. 94
+
+##### Foot Note 94
+
+×
+
+JP’s AA Reply Submissions at para 8 (LL at p 738).
+
+JP then argued that a claimant’s contractual entitlement to payment is
+assessed by whether the payment mechanism under the Contract is operational.
+95
+
+##### Foot Note 95
+
+×
+
+JP’s AA Reply Submissions at para 10 (LL at p 739).
+
+In my view, the Adjudicator’s determination that there was no express
+contractual provision entitling BH to be paid after termination is a point
+that is “reasonably connected” to JP’s argument that BH had no contractual
+entitlement to payment after termination either at common law or under the
+Contract. In particular, I note that a submission that there is no general
+contractual entitlement to post-termination payment logically implies that
+there is no express contractual provision giving rise to such an entitlement.
+
+79 Turning to finding (b), I am unable to agree with BH that the learned
+Adjudicator breached the fair hearing rule by making a finding that PC 40 fell
+outside the purview of the SOPA at the time of the adjudication application.
+It is helpful here to reproduce a relevant section of the learned
+Adjudicator’s determination: 96
+
+##### Foot Note 96
+
+×
+
+AD at para 85.
+
+… Where it is not entitled to receive any such progress payment under the
+terms of the material contract at the time of lodgement of the adjudication
+application then surely there is nothing to adjudicate under the SOP Act, and
+any purported payment claim relied upon for purposes of adjudication under the
+SOP Act must be deemed to fall outside the purview of the SOP Act. As such,
+the claimant would not be entitled to proceed with adjudication under the SOP
+Act based on any such aforementioned payment claim. This is the case
+presently.
+
+[emphasis added]
+
+80 It will be seen that the learned Adjudicator’s determination that PC 40
+fell outside the purview of the SOPA at the time of the adjudication
+application was predicated on his finding that BH was not entitled to receive
+any relevant progress payment under the terms of the Contract at the time of
+the lodgement of the adjudication application. This brings us back to the
+issue canvassed earlier – ie, that JP had argued that BH was “not entitled to
+seek adjudication under the SOP Act because there is no contractual
+entitlement to payment after termination either under the common law or under
+the contract”. 97
+
+##### Foot Note 97
+
+×
+
+JP’s AA Reply Submissions at para 7 (LL at p 738).
+
+More broadly, I note that both BH and JP made submissions on the applicability
+and legal effect of s 4(2)(c) of the SOPA before the learned Adjudicator, 98
+
+##### Foot Note 98
+
+×
+
+JP’s AA Reply Submissions at pp 11–21 (LL at pp 745–755); Claimant’s Further
+Written Submissions (Preliminary Issues) dated 6 October 2022 (“BH’s AA
+Further Written Submissions”) paras 23–41 (LL at pp 725–729).
+
+and this provision sets out situations where the SOPA does not apply to
+terminated contracts. In my view, a dispute concerning the applicability and
+legal effect of s 4(2)(c) of the SOPA may logically and reasonably give rise
+to a finding that PC 40 fell outside the purview of the SOPA at the time of
+the adjudication application.
+
+81 For the foregoing reasons, the learned Adjudicator cannot be said to have
+reached the two impugned findings without giving the parties a fair and
+reasonable chance to be heard on those issues.
+
+Other issues
+
+82 For completeness, I deal with BH’s arguments on the doctrines of waiver and
+estoppel, and the rule in s 15(3) of the SOPA which precludes a respondent
+from including in its adjudication response an objection unless the objection
+was included in the relevant payment response provided by the respondent to
+the claimant.
+
+83 In this regard, the law on waiver and estoppel (in relation to the SOPA
+regime) and s 15(3) of the SOPA was examined in detail by the Court of Appeal
+in Audi Construction Pte Ltd v Kian Hiap Construction Pte Ltd [2018] 1 SLR 317
+(“Audi Construction”), where it held that “if a respondent wants to raise a
+jurisdictional objection before the adjudicator, he must include that
+objection in the payment response” (at [66]). However, the Court of Appeal
+later clarified in Yau Lee that the holding in Audi Construction “in relation
+to the respondent’s duty to speak was never intended to apply to a situation
+where the payment claim fell outside the purview of the SOPA from the outset”
+[emphasis in original] (at [56]). For this reason, the court found that the
+doctrines of waiver and estoppel could not bar the raising of a jurisdictional
+objection where the objection was that the payment claim fell outside the
+ambit of the SOPA (Yau Lee at [65]).
+
+84 Taking guidance from the legal principle expressed in Yau Lee, BH could not
+rely on the doctrines of waiver and estoppel, or s 15(3) of the SOPA, to
+prevent JP from raising or relying on s 4(2)(c) of the SOPA. Indeed, when s
+4(2)(c) is engaged, it has the effect of placing any payment claims outside
+the purview of the SOPA. Section 4(2)(c) of the SOPA was inserted by way of
+amendments to the SOPA in 2018 to add to the list of contracts enumerated in s
+4 to which the SOPA does not apply. Section 4(2)(c) applies to certain types
+of terminated contracts and has the same effect as the other provisions in s
+4(2) of the SOPA in placing any payment claims made under such contracts
+outside the purview of the SOPA. Understood in the context of the present
+case, s 4(2)(c) would be engaged if cl 30.3 of the REDAS Conditions is engaged
+on the facts. As such, the question of whether cl 30.3 is applicable is, in
+substance, a question of whether the payment claims fell outside the purview
+of the SOPA. In other words, it is a jurisdictional objection to which the
+doctrines of waiver and estoppel cannot operate. Support for this conclusion
+is best expressed in the Court of Appeal’s statement in Yau Lee: that “the
+duty to speak does not extend to payment claims which are outside the ambit of
+the SOPA” [emphasis in original] (at [70]); instead, the duty to speak applies
+to jurisdictional objections “in respect of payment claims that were otherwise
+within the purview of the SOPA” (at [56]). The doctrines such as estoppel and
+waiver therefore cannot apply to extend the learned Adjudicator’s jurisdiction
+to claims which the SOPA was never intended to regulate.
+
+85 Lastly, as for the issue of whether JP’s failure to raise the functus
+officio argument in its payment response precluded it from raising it as an
+objection at the adjudication stage, it is now moot given my findings that the
+functus officio argument has, in any event, no bearing on the learned
+Adjudicator’s jurisdiction to determine SOP/AA 164 of 2022.
+
+Conclusion
+
+86 For the above reasons, I exercise my powers under ss 27(8)(a) and 27(8)(b)
+of the SOPA to set aside the Adjudication Determination and to remit it to the
+learned Adjudicator for his determination on whether cl 30.3 of the REDAS
+Conditions, which suspends further payments to BH, has any application in this
+case. If cl 30.3 applies, PC 40 would fall outside the ambit of the SOPA and
+SOP/AA 164 of 2022 should be dismissed on the basis that the learned
+Adjudicator has no jurisdiction. If, however, cl 30.3 is not engaged because
+the Contract had already been terminated by BH pursuant to its general
+contractual right to terminate the Contract for JP’s alleged repudiatory
+breaches, before JP futilely purported to terminate BH’s employment under cl
+30.2.2 of the Contract, then PC 40 should be assessed on the merits.
+
+87 To conclude, I express my gratitude to the learned counsel for both parties
+for their comprehensive written and oral submissions, from which I derived
+substantial assistance in the rendering of this judgment.
+
+88 I will hear the parties on costs.
+
+Teh Hwee Hwee  
+Judicial Commissioner|  
+---|---  
+  
+Lee Peng Khoon Edwin and Amanda Koh Jia Yi (Eldan Law LLP) for the claimant;
+
+Chuah Chee Kian Christopher, Tan Jia Wei Justin and Huang Zixian
+(WongPartnership LLP) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 03 May 2023 (15:35 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,1540 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 234
+
+Originating Claim No 158 of 2022 (Summons No 3376 of 2022)
+
+Between
+
+| Leong Quee Ching Karen  
+---|---  
+  
+… Claimant
+
+And
+
+(1) | Lim Soon Huat  
+---|---  
+(2) | Lim Soon Heng  
+(3) | Lim Kim Chong Investments Pte Ltd  
+(4) | Sin Soon Lee Realty Company (Private) Limited  
+(5) | Lim Yong Yeow, Thomas  
+(6) | Seng Lee Holdings Pte Ltd  
+  
+… Defendants
+
+JUdgment
+
+[Civil Procedure — Privileges — Without prejudice privilege]
+
+[Civil Procedure — Privileges — Waiver]
+
+[Civil Procedure — Privileges — Muller exception]
+
+[Abuse of Process — Inconsistent positions — Non approbation and reprobation]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Leong Quee Ching Karen
+
+  
+v
+
+  
+
+Lim Soon Huat and others
+
+[2023] SGHC 234
+
+General Division of the High Court — Originating Claim No 158 of 2022 (Summons
+No 3376 of 2022)  
+Goh Yihan JC  
+20 June 2023
+
+23 August 2023 Judgment reserved.
+
+Goh Yihan JC:
+
+1 The claimant, Ms Leong Quee Ching Karen, is a minority shareholder of the
+sixth defendant, Seng Lee Holdings Pte Ltd (“SLH”). The claimant commenced
+HC/OC 158/2022 (“OC 158”) against the majority shareholders of SLH for alleged
+minority oppression. As part of OC 158, the claimant applied in HC/SUM
+2781/2022 (“SUM 2781”) for an interlocutory injunction to restrain the
+majority shareholders from transferring certain properties out of the
+ownership of SLH. The majority shareholders filed affidavits to oppose SUM
+2781 and introduced email correspondence therein, which the claimant alleges
+is protected by “without prejudice” privilege (the “Emails”). Therefore, again
+as part of OC 158, the claimant has taken out the present application to
+strike out: (a) these Emails which were exhibited in the affidavits; and (b)
+the relevant paragraphs in the affidavits.
+
+2 Having taken some time to carefully consider the parties’ submissions, I
+allow the claimant’s application to strike out all the Emails, save for the
+last email from Mr Robert Wee (“Mr Wee”) sent on 9 November 2020 at 4.42pm. I
+provide the reasons for my decision in this judgment.
+
+Background facts
+
+The background to the parties’ dispute
+
+3 The dispute in OC 158 arose out of the conduct of the majority shareholders
+in SLH. The late Dato Lim Kim Chong (“Dato Lim”) set up SLH to hold assets
+that he wished to distribute for the benefit of certain members of his family.
+The claimant is one of Dato Lim’s eight children. The first to third
+defendants are the majority shareholders of SLH. The first defendant is Mr Lim
+Soon Huat (“Soon Huat”) and the second defendant is Mr Lim Soon Heng (“Soon
+Heng”). The third defendant is Lim Kim Chong Investments Pte Ltd (“LKCI”).
+
+4 On 25 July 2013, Dato Lim and his children entered into a Deed of Family
+Arrangement (the “Original Deed”) to, among others, distribute a portion of
+his assets to his eight children in Singapore. To effect this, Dato Lim
+divided his eight children into two groups (“Group A” and “Group B”). Dato Lim
+then caused his various companies (and the properties they owned) to be
+divided between the fourth defendant, Sin Soon Lee Realty Company (Private)
+Limited (“SSLRC”), and SLH. The Group A beneficiaries, which include Soon
+Huat, became shareholders of SSLRC and the beneficial owners of the assets
+held by SSLRC and its subsidiaries. The Group B beneficiaries, which include
+Dato Lim, the claimant, and Soon Heng, became shareholders of SLH and the
+beneficial owners of the assets held by SLH and its subsidiaries. On 15
+September 2016, Dato Lim supposedly gave his personal and beneficial stake in
+LKCI to Soon Huat. On 23 August 2017, Dato Lim also supposedly gave his
+personal and beneficial stake in SLH to Soon Huat. As a result, in addition to
+being a member of the Group A beneficiaries, Soon Huat also became a member of
+the Group B beneficiaries.
+
+5 The Original Deed has been amended twice. On 28 February 2015, the members
+of the Lim family entered into an Amending and Restating Deed of Family
+Arrangement to amend certain terms of the Original Deed (the “Amended Deed”).
+Subsequently, on 11 January 2019, the parties to the Original Deed and the
+Amended Deed entered into a third deed, to provide, among others, for the
+disposal and handling of certain shares in an asset in Australia.
+
+6 The obligations relevant to the present application are as follows. Under cl
+9.1 of the Amended Deed, the Group A beneficiaries were obliged to procure
+SSLRC to make a gift or transfer two properties to SLH and/or its nominees.
+These two properties are known as the “Geylang Property” and the “Tamarind
+Road Property”. For convenience, I will refer to the two properties as the
+“Properties”. In addition, under cl 12.5 of the Amended Deed, the Group A
+beneficiaries were obliged to procure SSLRC to pay a sum of $9m, being part of
+the “Group B Assignment Amount” as defined in the Amended Deed, to SLH and/or
+its nominees. Again, for convenience, I will refer to this sum of $9m as the
+“Assignment Amount”.
+
+The events leading to the Emails between the parties
+
+7 Sometime in July 2020, Dato Lim proposed a meeting between the Group A and
+Group B beneficiaries to resolve the transfers mentioned above. On Soon Heng’s
+initiative, the meeting was eventually scheduled to take place on 7 August
+2020. Soon Heng set out the agenda for the meeting in an email dated 15 July
+2020: 1
+
+##### Foot Note 1
+
+×
+
+1st Affidavit of Lim Soon Heng dated 22 August 2022 at pp 163–164 (“Soon
+Heng’s 1st Affidavit”).
+
+Since the ABSD is unlikely to be reduced or abolished by the Singapore
+government, we would like to proceed with the transfer of [the Geylang
+Property] and [the Tamarind Road Property] and also the net income earned from
+these properties to us immediately.
+
+Group B would like the properties to be transferred in the following manner:
+
+A) [the Geylang Property] to Lim Soon Huat and/or his nominee
+
+B) [the Tamarind Road Property] to be transferred to Lim Soon Huat’s son,
+Thomas Lim Yong Yeow.
+
+Group B would also like Group A to transfer the balance assignment sum of S$9m
+to Dato Lim Kim Chong immediately.
+
+For the meeting agenda we would like to focus only on the following matters as
+Group B is not involved in Soon Huat’s exit negotiation from SSLR:
+
+A) Transfer of [the Geylang Property] and [the Tamarind Road Property]
+
+B) To consolidate [the Geylang Property] under a single title before transfer
+
+C) Transfer of net income earned from the properties
+
+D) Transfer of balance assignment sum to Dato Lim Kim Chong
+
+As the claimant points out, what Soon Huat proposed in his email in relation
+to the Properties and the Assignment Amount departed from that provided for in
+the Amended Deed. 2
+
+##### Foot Note 2
+
+×
+
+Claimant’s Written Submissions dated 9 June 2023 (“CWS”) at para 18.
+
+8 The above-mentioned meeting between the Group A and Group B beneficiaries
+took place as scheduled on 7 August 2020. It was attended by, among others:
+(a) certain members of Group A; (b) Mr Wee of Ho & Wee LLP, as the solicitor
+representing the Group A beneficiaries; (c) Soon Heng and the claimant, as
+members of Group B; (d) Mr Tan Teng Muan (“Mr Tan”) of Mallal & Namazie, as
+the solicitor representing the Group B beneficiaries at the time; (e) Dato
+Lim; (f) Mr Yang Shi Yong of Drew & Napier LLC, as Dato Lim’s solicitor; (g)
+Soon Huat; and (h) Mr Sarbjit Singh (“Mr Singh”) and Mr Thomas Ang of Selvam
+LLC, as the solicitors representing Soon Huat.
+
+9 However, the meeting was cut short after thirty minutes when Dato Lim left
+the meeting room. In the days following 7 August 2020, the lawyers who
+attended the meeting exchanged email correspondence – that is, the Emails –
+about the issues discussed at the meeting. It is not disputed that several of
+the Emails were marked by the lawyers as being “without prejudice” or “without
+prejudice save as to costs”.
+
+The events leading to the present application
+
+10 On 27 July 2022, the claimant commenced OC 158 against, among others, the
+majority shareholders of SLH, including Soon Huat and Soon Heng, for minority
+oppression. For present purposes, it suffices to state that one of the alleged
+oppressive acts was that Soon Huat and Soon Heng intended for Soon Huat and
+his son, Mr Lim Yong Yeow Thomas (“Thomas”), to receive the Properties instead
+of SLH. Thus, the claimant filed SUM 2781, where she sought, among others, an
+injunction to restrain the transfer of the Properties to Soon Huat and Thomas
+pending the final determination of OC 158 and any appeals therefrom.
+
+11 Against this background, on 22 August 2022, Soon Heng and Soon Huat filed
+affidavits to oppose SUM 2781. Soon Huat exhibited the Emails in his
+affidavit. 3
+
+##### Foot Note 3
+
+×
+
+1st Affidavit of Lim Soon Huat dated 22 August 2022 at pp 213–235.
+
+In that affidavit, Soon Huat explained that he did so because three of the
+Group A beneficiaries sent a letter dated 15 June 2022 (the “15 June 2022
+Letter”) that made reference to one of the said Emails, which Soon Huat took
+to be the Group A beneficiaries waiving the “without prejudice” privilege
+which attached to the Emails. Soon Heng also exhibited the Emails in his
+affidavit. 4
+
+##### Foot Note 4
+
+×
+
+Soon Heng’s 1st Affidavit at pp 178–205.
+
+He also relied on the 15 June 2022 Letter for exhibiting the Emails.
+
+12 After the claimant discovered that Soon Heng and Soon Huat had exhibited
+the Emails, she sought, through her solicitors, for Soon Heng and Soon Huat to
+voluntarily strike out the Emails from their respective affidavits. When Soon
+Heng and Soon Huat refused to do so, the claimant filed the present
+application to strike out the Emails exhibited in Soon Heng’s and Soon Huat’s
+affidavits filed to oppose SUM 2781, as well as the relevant paragraphs in the
+said affidavits.
+
+The parties’ positions
+
+The claimant’s position
+
+13 The claimant asserts that the Emails are protected by “without prejudice”
+privilege for the following reasons. First, they concerned disputed issues
+that had not been resolved during the meeting on 7 August 2020. 5
+
+##### Foot Note 5
+
+×
+
+CWS at paras 45(a) and 46–50.
+
+As such, the Emails were sent as a continuation of the discussions at the
+meeting. Second, several of the Emails were marked “without privilege” and
+were sent by lawyers, including lawyers who represented the claimant at the
+time. 6
+
+##### Foot Note 6
+
+×
+
+CWS at paras 45(b) and 51–55.
+
+Third, the emails were sent as part of a continuing discussion to resolve
+certain disputes, and via these emails some of the parties attempted, through
+their lawyers, to compromise on certain issues. 7
+
+##### Foot Note 7
+
+×
+
+CWS at paras 45(c) and 56–59.
+
+Fourth, Soon Heng and Soon Huat implicitly recognised that the Emails are
+protected by “without prejudice” privilege. 8
+
+##### Foot Note 8
+
+×
+
+CWS at paras 45(d) and 60–65.
+
+Finally, the claimant has not waived the “without prejudice” privilege over
+the Emails. 9
+
+##### Foot Note 9
+
+×
+
+CWS at paras 68–75.
+
+The defendants’ positions
+
+14 The defendants maintained largely similar positions even though they were
+represented by two sets of lawyers. Mr Singh appeared for the first, third,
+and fifth defendants. Mr Tan appeared for the second defendant. As Mr Singh
+and Mr Tan indicated that they adopt each other’s submissions, I will refer to
+them collectively as the “defendants”.
+
+15 The first (being Soon Huat), third, and fifth defendants make three points.
+First, the claimant does not have standing to assert “without prejudice”
+privilege over the Emails. 10
+
+##### Foot Note 10
+
+×
+
+1st, 3rd, and 5th Defendants’ Written Submissions dated 9 June 2023 (“D1WS”)
+at paras 21–25.
+
+Second, contrary to the claimant’s assertions, the Emails do not constitute
+admissions as part of a course of negotiations to settle a dispute. 11
+
+##### Foot Note 11
+
+×
+
+D1WS at paras 47–58.
+
+As such, the Emails are not protected by “without prejudice” privilege. Third,
+even if the Emails are protected by “without prejudice” privilege, the
+exception in the English Court of Appeal decision of Muller v Linsley and
+Mortimer (a firm) [1994] EWCA Civ 39 (“Muller”) applies to prevent the
+claimant from relying on such privilege. 12
+
+##### Foot Note 12
+
+×
+
+D1WS at paras 69–73.
+
+For convenience, I shall term this as the “Muller exception”. In addition, Mr
+Singh submitted before me that the claimant cannot be allowed to hide behind
+the “without prejudice” privilege to avoid making material disclosures in SUM
+2781.
+
+16 The second defendant (being Soon Heng) makes two points. First, the Emails
+are not protected by “without prejudice” privilege because they were not
+written in the nature of a compromise or a genuine attempt to settle the
+parties’ dispute. 13
+
+##### Foot Note 13
+
+×
+
+2nd Defendant’s Written Submissions dated 9 June 2023 (“D2WS”) at para 24.
+
+On the contrary, the Emails were, in substance, communications wherein the
+respective parties simply asserted their rights. 14
+
+##### Foot Note 14
+
+×
+
+D2WS at para 25.
+
+Second, the claimant acquiesced to the disclosure of the Emails because she
+accepts that the 15 June 2022 Letter can be relied upon in these proceedings.
+15
+
+##### Foot Note 15
+
+×
+
+D2WS at paras 34(c) and 35.
+
+The claimant cannot therefore be allowed to approbate and reprobate, in
+accordance with the English High Court decision of Express Newspapers plc v
+News (UK) Ltd and others [1990] 1 WLR 1320 (“Express Newspapers”). 16
+
+##### Foot Note 16
+
+×
+
+D2WS at para 35.
+
+When I asked Mr Tan about the legal basis of this principle, Mr Tan alluded to
+broad public policy reasons but could not point me to an authority that
+regarded this principle as a specific exception to “without prejudice”
+privilege.
+
+The relevant issues
+
+17 With the parties’ positions in mind, there are, in my view, four relevant
+issues that I will need to address.
+
+(a) First, whether the claimant has standing to assert “without prejudice”
+privilege.
+
+(b) Second, whether the Emails are protected by “without prejudice” privilege.
+
+(c) Third, assuming that the claimant has standing to assert “without
+prejudice” privilege, and the Emails are protected by “without prejudice”
+privilege, whether the claimant has waived such privilege.
+
+(d) Fourth, even if the claimant has not waived “without prejudice” privilege,
+whether any exception to the privilege applies in the present case.
+
+18 I turn now to deal with each of these issues.
+
+Whether the claimant has standing to assert “without prejudice” privilege over
+the Emails
+
+The applicable law
+
+19 It is trite law that “communications in the course of negotiations
+genuinely aimed at settlement of a dispute are protected by ‘without
+prejudice’ privilege” (see the High Court decision of Cytec Industries Pte Ltd
+v APP Chemicals International (Mau) Ltd [2009] 4 SLR(R) 769 (“Cytec”) at [14],
+citing Rush & Tompkins Ltd v Greater London Council [1989] AC 1280 (“Rush &
+Tompkins”) at 1299). However, as a threshold issue, a third party cannot claim
+“without prejudice” privilege if it took “no part in the ‘without prejudice’
+negotiations, either personally or through an agent” (see the High Court
+decision of A-B Chew Investments Pte Ltd v Lim Tjoen Kong [1989] 2 SLR(R) 149
+(“A-B Chew (HC)”) at [16]).
+
+20 The High Court decision of Yeo Hiap Seng v Australia Food Corp Pte Ltd and
+another [1991] 1 SLR(R) 336 provides guidance. There, a contractual dispute
+arose between the plaintiff and the two defendants in relation to the supply
+of fruit juice by the plaintiff to the first defendant. The second defendant,
+being the director of the first defendant, applied to expunge parts of the
+plaintiff’s affidavit which exhibited negotiations between the plaintiff and
+the first defendant protected by “without prejudice” privilege. The High Court
+upheld the Assistant Registrar’s decision to dismiss the second defendant’s
+application. In doing so, the court reiterated the principle in A-B Chew (HC)
+as follows (at [14]–[15]):
+
+14 … The issue in the instant case is whether the second defendant who was
+never at or represented in the negotiations can now claim that certain
+exhibits in the affidavit of James Loke filed on 6 September 1990 are
+privileged from disclosure … In my view, the second defendant can only succeed
+if she can show that she is entitled to claim the privilege.
+
+15 In the case of A-B Chew Investments Pte Ltd v Lim Tjoen Kong [1989] 2
+SLR(R) 149, P Coomaraswamy J held that the privilege on “without prejudice”
+negotiations applies to statements by the parties and the solicitors
+respectively acting for them. If a party took no part in the “without
+prejudice” negotiations either personally or through an agent, he cannot claim
+the privilege. Accordingly, I am of the view that the second defendant’s
+appeal against the decision of the learned assistant registrar of 10 January
+1991 cannot succeed.
+
+21 Accordingly, the defendants are correct that a party needs to show, as a
+threshold issue, that he or she has standing by having taken part in the
+“without prejudice” privilege negotiations or communications either personally
+or through an agent.
+
+My decision: the claimant has standing to assert “without prejudice” privilege
+over the Emails
+
+22 In my judgment, the claimant has standing to assert “without prejudice”
+privilege over the Emails. This is because, at the times when the Emails were
+exchanged, the claimant was a party to these exchanges through Mallal &
+Namazie, who was representing her and Soon Heng. Indeed, Soon Heng expressly
+admitted to this in his affidavit dated 12 May 2023, when he said that “Group
+B (comprising myself and the Claimant and excluding Soon Huat) was represented
+by Mallal & Namazie” [emphasis added]. 17
+
+##### Foot Note 17
+
+×
+
+2nd Affidavit of Lim Soon Heng dated 12 May 2023 at para 21.
+
+Since the defendants have not successfully challenged the fact of this
+representation, I find that the claimant has the requisite standing.
+
+Whether the Emails are protected by “without prejudice” privilege
+
+23 I turn then to the issue of whether the Emails are protected by “without
+prejudice” privilege. I first set out some important, and well-established,
+principles of law in this regard.
+
+The applicable law
+
+24 The common law rule on “without prejudice” privilege is statutorily
+embodied in s 23 of the Evidence Act 1893 (2020 Rev Ed) (the “EA”), which
+states as follows:
+
+Admissions in civil cases when relevant
+
+23.—(1) In civil cases, no admission is relevant if it is made —
+
+(a) upon an express condition that evidence of it is not to be given; or
+
+(b) upon circumstances from which the court can infer that the parties agreed
+together that evidence of it should not be given.
+
+(2) Nothing in subsection (1) is to be taken —
+
+(a) to exempt any advocate or solicitor from giving evidence of any matter of
+which he or she may be compelled to give evidence under section 128; or
+
+(b) to exempt any legal counsel in an entity from giving evidence of any
+matter of which he or she may be compelled to give evidence under section
+128A.
+
+25 There are two well-established rationales for “without prejudice”
+privilege. They were summarised in the Court of Appeal decision of Mariwu
+Industrial Co (S) Pte Ltd v Dextra Asia Co Ltd and another [2006] 4 SLR(R) 807
+(“Mariwu”) (at [24]):
+
+Section 23 of the Evidence Act is a statutory enactment of the common law
+principle relating to the admissibility of “without prejudice” communications
+based on the policy of encouraging settlements. In Muller v Linsley and
+Mortimer [1996] PNLR 74 (“Muller”) at 77, Hoffmann LJ (as he then was)
+explained this principle in these words:
+
+Cutts v Head [[1984] Ch 290] shows that the [“without prejudice”] rule has two
+justifications. Firstly, the public policy of encouraging parties to negotiate
+and settle their disputes out of court and, secondly, an implied agreement
+arising out of what is commonly understood to be the consequences of offering
+or agreeing to negotiate without prejudice. In some cases both these
+justifications are present; in others, only one or the other.
+
+The words in s 23 contemplate two different situations that invoke the
+underlying rationales of the “without prejudice” rule. The first situation is
+where there is an express condition that any admission made by either party in
+the context of negotiations to settle a dispute is not to be “given”, ie,
+admissible in evidence against the party making the admission. The situation
+applies to all communications made expressly “without prejudice”. The second
+situation is where an admission is made “under circumstances from which the
+court can infer that the parties agreed together that evidence of it should
+not be given”. This situation will cover cases where even though a statement
+is not expressly made “without prejudice” the law holds that it is made
+without prejudice because it was made in the course of negotiations to settle
+a dispute: see the judgment of Lord Hoffmann in Bradford & Bingley plc v
+Rashid [2006] 1 WLR 2066 at [13] (“Bradford & Bingley”).
+
+26 The first, and the primary rationale, is public policy. Indeed, as the
+Court of Appeal explained in Greenline-Onyx Envirotech Phils, Inc v Otto
+Systems Singapore Pte Ltd [2007] 3 SLR(R) 40 (“Greenline-Onyx”), “without
+prejudice” privilege “is founded on the public policy of encouraging litigants
+to settle their differences rather than to litigate them to the finish” (at
+[14], citing Rush & Tompkins at 1299). As such, “parties should not be
+discouraged by the knowledge that anything said in the course of negotiations
+may be used to their prejudice in the course of proceedings” (at [14], citing
+Cutts v Head [1984] Ch 290 at 306). The second rationale is grounded in
+contract, in that “without prejudice” communications constitute an implied
+agreement arising out of what is commonly understood to be the consequences of
+offering or agreeing to negotiate without prejudice (see Mariwu at [24]).
+
+27 In so far as s 23 of the EA expresses only the broad principles behind
+“without prejudice” privilege and does not specify the scope of its operation,
+many of the detailed rules governing the operation of “without prejudice”
+privilege must be discerned from the common law (see, eg, A-B Chew (HC) at
+[15]). I turn to examine these rules.
+
+28 First, the existence of a dispute and an attempt to compromise it are at
+the core of the “without prejudice” privilege. As such, “without prejudice”
+privilege cannot be involved where no dispute exists (see Mariwu at [30]).
+Indeed, the communications in respect of which privilege is claimed must arise
+in the course of genuine negotiations to settle a dispute (see the Court of
+Appeal decision of Ernest Ferdinand Perez De La Sala v Compañia De Navegación
+Palomar, SA and others and other appeals [2018] 1 SLR 894 (“Ernest Ferdinand”)
+at [67]). In addition to the existence of a dispute, communications are
+protected by “without prejudice” privilege when such communications involve
+statements or conduct amounting to admissions against a party’s interests. The
+rationale behind this was explained by Sundaresh Menon JC (as he then was) in
+the High Court decision of Sin Lian Heng Construction Pte Ltd v Singapore
+Telecommunications Ltd [2007] 2 SLR(R) 433 (“Sin Lian Heng”) in the following
+terms (at [43]):
+
+… A statement or action that appears on its face to go against the interest of
+the maker might be seized upon by the opposite party as an admission. This may
+take the form of statements which are prejudicial in any number of ways. Where
+one party enters into negotiations with another to explore the possibilities
+of settlement, it makes sense of course to attempt to convince the opponent of
+the weaknesses of his position; but it is not unusual – even common – to seem
+to acknowledge possible weaknesses in one’s own case. Even the level of an
+offer may be seen as a barometer of the offering party’s enthusiasm for the
+merits of his own position, and while that may be quite irrelevant if the
+communication was cloaked by the privilege, one can see that most litigants
+would avoid any attempt at settlement if there was a risk that their offers to
+settle were later going to be raised against them as a sign of weakness. It is
+thus in the overall spirit of encouraging negotiations that parties be
+sufficiently protected when they “lay their cards on the table”. ...
+
+As such, where correspondence shows an intention to compromise a dispute, or
+contains such an offer, this would amount to an admission against interest
+that can attract “without prejudice” privilege. This, as Menon JC explained in
+Sin Lian Heng, is entirely consistent with the rationale of encouraging
+parties to speak frankly in the course of their negotiations, without concern
+that anything which they have said can be used against them in the event of
+litigation.
+
+29 Second, when determining whether a particular correspondence is protected
+by “without prejudice” privilege, the use of the label “without prejudice” is
+important but not conclusive. As the High Court explained in Swee Wan
+Enterprises Pte Ltd v Yak Thye Peng [2017] SGHC 313 (“Swee Wan”) (at [10],
+citing Cytec at [16]), “attaching a ‘without prejudice’ label to a
+communication does not conclusively or automatically render it privileged”.
+This is consistent with the focus that the law has on the substantive rather
+than just the form. However, this does not mean that the use of a “without
+prejudice” label should be completely disregarded. On the contrary, as the
+High Court also explained in Swee Wan (at [10]), “[t]he presence of such words
+would, however, place the burden of persuasion on the party who contends that
+they should be ignored”. This is again consistent with the idea that the law
+attributes importance to a person’s conduct, especially if it was knowing and
+intentional. As such, the intentional use of the “without prejudice” label has
+to mean something, and the very least that should lead to is that the party
+who contends that it should be ignored bears the burden of proving so.
+Further, correspondence that is not expressly labelled as being “without
+prejudice” will be privileged if it is written in reply to a correspondence
+that is so labelled, or is part of a continuing sequence of negotiations,
+whether by correspondence or orally (see Bankim Thanki QC, The Law of
+Privilege (Oxford University Press, 2nd Ed, 2011) at para 7.13).
+
+30 Third, “without prejudice” privilege can also arise in a multi-party
+situation. In this regard, the Court of Appeal in Mariwu recognised (at [28])
+that because “the rationale of the s 23 [EA] privilege is to encourage
+settlements … [there is] no inconsistency between that section and Rush &
+Tompkins”. In the House of Lords decision of Rush & Tompkins, a dispute arose
+between the plaintiffs, the first defendant, and the second defendants over
+the construction of some buildings. As the plaintiffs and the first defendant
+reached an out-of-court settlement, this left only the plaintiffs and the
+second defendants engaged in litigation. The court denied the second
+defendants’ application for discovery of the correspondence between the
+plaintiffs and the first defendant leading to their settlement, because the
+correspondence was protected by “without prejudice” privilege. Lord Griffiths
+explained why it was important for “without prejudice” privilege to apply to a
+multi-party situation (at 1301):
+
+… Suppose the main contractor in an attempt to settle a dispute with one
+subcontractor made certain admissions[. It is] clear law that those admissions
+cannot be used against him if there is no settlement. The reason they are not
+to be used is because it would discourage settlement if he believed that the
+admissions might be held against him. But it would surely be equally
+discouraging if the main contractor knew that if he achieved a settlement
+those admissions could then be used against him by any other subcontractor
+with whom he might also be in dispute. The main contractor might well be
+prepared to make certain concessions to settle some modest claim which he
+would never make in the face of another far larger claim. It seems to me that
+if those admissions made to achieve settlement of a piece of minor litigation
+could be held against him in a subsequent major litigation it would actively
+discourage settlement of the minor litigation and run counter to the whole
+underlying purpose of the “without prejudice” rule. …
+
+Indeed, in so far as “without prejudice” privilege applies in a two-party
+situation to promote settlement negotiations, the same privilege applies to a
+multi-party situation to protect settlement negotiations between some of the
+parties, even if the other parties are not willing to resolve the matter
+amicably.
+
+31 Further, the High Court decision of United Overseas Bank v Lippo Marina
+Collection Pte Ltd and others [2018] 4 SLR 391 provides a useful summary on
+the application of “without prejudice” privilege to a multi-party situation
+(at [103]):
+
+As noted by Prof Pinsler, s 23(1) of the EA does not itself contemplate multi-
+party litigation (Pinsler on Evidence at para 15.014). However, in Mariwu, the
+Court of Appeal recognised as applicable at common law the leading House of
+Lords decision in Rush & Tompkins v Greater London Council [1988] 3 All ER 737
+(“Rush & Tompkins”): “Given our interpretation that the rationale of the s 23
+privilege is to encourage settlements, I can see no inconsistency between that
+section and Rush & Tompkins” (at [28]). In Rush & Tompkins, the doctrine of
+without prejudice privilege was applied in a multi-party litigation to address
+the likelihood that if the privilege did not protect settlement negotiations
+between a sub-group of the parties, that would “place a serious fetter on
+negotiations between [them] if they knew that everything that passed between
+them would ultimately have to be revealed to the one obdurate litigant” (at
+744). Accordingly, the common law principles on without prejudice privilege
+apply in this case: the privilege protects from disclosure admissions made in
+the course of genuine negotiations to settle actual or contemplated litigation
+(see Matthews & Malek at para 14.02).
+
+My decision: some of the Emails are protected by “without prejudice” privilege
+
+32 With the above principles in mind, I find that all of the Emails are
+protected by “without prejudice” privilege, save for the last email from Mr
+Wee sent on 9 November 2020 at 4.42pm, for the following reasons.
+
+The Emails were intended to further discuss the issues in dispute that the
+meeting of 7 August 2020 was meant to resolve
+
+33 Generally, I agree with the claimant that there remained disputed issues
+that were not resolved at the meeting of 7 August 2020. As such, the Emails
+were sent as a continuation of the discussions at the meeting.
+
+34 As a starting point, I agree with Mr Singh’s reliance on the English High
+Court decision of BE v DE [2014] EWHC 2318 (Fam) (“BE”) for the proposition
+that the court must have regard to the circumstances of the meeting of 7
+August 2020 in assessing whether the Emails were meant to follow up on
+discussions therefrom. In BE, the husband and wife had dinner in an attempt to
+reconcile their marriage. During the dinner, the husband presented his wife
+with an agreement to sign. This agreement stated, among others, that the wife
+shall continue to live in her property in London. The wife did not sign the
+agreement. She later sought to adduce the agreement as evidence to prove that
+she was domiciled in England, in support of her argument that the English
+court had jurisdiction. The husband sought to redact the agreement on the
+basis that it was made in the course of settlement negotiations. The English
+High Court, proceeding on the assumption that there was a dispute between the
+parties, held that the parties could not be said to have met to compromise the
+dispute as the wife merely attended a dinner with her husband and was not
+aware that it was an opportunity to negotiate (at [24]). Applying this to the
+present application, I have no difficulty agreeing with Mr Singh that the
+court must have regard to the circumstances from which the Emails originated
+from, when assessing whether they are protected by “without prejudice”
+privilege.
+
+35 With this general premise in mind, I, however, disagree with the
+defendants’ characterisation of the meeting as being “less a discussion and
+more a declaration of the position taken by the Group A Beneficiaries”. 18
+
+##### Foot Note 18
+
+×
+
+D1WS at para 49.
+
+This is because the circumstances in which the Emails originated against the
+backdrop of the meeting of 7 August 2020, which shows that they were exchanged
+with the aim of compromising the parties’ dispute. I say this for the
+following reasons.
+
+36 First, the meeting of 7 August 2020 was apparently called for because it
+had been proposed that the transfer of the Properties and the Assignment
+Amount take place in a manner which departed from what was stated in the
+Amended Deed. Second, the members of the opposing Group A and Group B
+beneficiaries attended with their lawyers, a fact which shows that they
+anticipated needing to go into negotiations requiring the assistance of their
+lawyers. Third, the meeting was cut short because it was “tense”, 19
+
+##### Foot Note 19
+
+×
+
+D1WS at para 49.
+
+as suggested by Soon Heng, which showed that there was a dispute between the
+parties that needed to be settled. Thus, when the Emails were exchanged
+between the parties’ lawyers, starting with the email sent by Mr Wee on 18
+August 2020 at 10.47am, it was clear that the Emails were sent as a
+continuation of the discussion of the various issues raised at the meeting on
+7 August 2020.
+
+37 The fact that the Emails were meant to continue the parties’ discussion of
+the issues that had remained unresolved from the meeting on 7 August 2020 can
+be seen from the email that Mr Tan had sent on 24 August 2020 at 1.38pm, in
+which Mr Tan wrote at paragraph 28 that: 20
+
+##### Foot Note 20
+
+×
+
+Soon Heng’s 1st Affidavit at pp 193–199.
+
+In respect of your email of 17 August 2020, I had expected a substantive
+response that eventually came the following day. Your 18 August 2020 email
+elaborated on what you very briefly stated on 7 August 2020. I think
+correspondence should remain focused on the matters our respective clients
+want to move forward on. We should work together to address the outstanding
+matters in Clauses 9 and 12 of the Amended Deed.
+
+[emphasis added]
+
+The italicised words speak for themselves. It is clear that, from the
+perspective of Mr Tan, that all of the parties “want to move forward”, and the
+parties should “work together to address the outstanding matters in Clauses 9
+and 12 of the Amended Deed”. As such, far from each Group being resolute in
+their respective positions, Mr Tan’s email clearly suggests that the parties
+were attempting to reach a compromise in their dispute.
+
+38 A further example of the attempt to compromise the dispute can be seen in
+the email sent by Mr Ang on 24 September 2020 at 4.25pm. 21
+
+##### Foot Note 21
+
+×
+
+Soon Heng’s 1st Affidavit at pp 180–181.
+
+In that email, Mr Ang stated that Soon Huat “also confirms that he is prepared
+for the S$ 9 million [ie, the Assignment Amount] to be transferred to the
+Group B Holding Company immediately”. This is different from what Soon Heng
+promised in his email of 15 July 2020, where he suggested that the Assignment
+Amount be paid to Dato Lim instead. 22
+
+##### Foot Note 22
+
+×
+
+Soon Heng’s 1st Affidavit at pp 163–164.
+
+This is thus a concession on the part of Soon Huat, presumably in an attempt
+to compromise the dispute between the parties.
+
+39 More holistically, I find that the Emails were, generally speaking,
+exchanges for the parties to negotiate on the conditions for the transfers of
+the Properties and the Assignment Amount. Indeed, while the language used may
+have been firm at times, it is clear that Mr Wee, on behalf of the Group A
+beneficiaries, was proposing certain conditions, which the other parties had
+not agreed to. The parties were trying to find a middle ground to resolve
+their dispute. Although, as we now know, the parties did not manage to resolve
+their dispute amicably, this does not mean that the Emails had not been an
+attempt to compromise that dispute.
+
+40 However, I do not think that all of the Emails reveal such an attempt to
+resolve the parties’ dispute. In my judgment, the last of the Emails sent by
+Mr Wee on 9 November 2020 at 4.42pm cannot amount to such an attempt. 23
+
+##### Foot Note 23
+
+×
+
+Soon Heng’s 1st Affidavit at pp 178–179.
+
+While marked as being “without prejudice”, this email contains a host of
+allegations and contains no hint of an attempt to settle or compromise the
+parties’ dispute. Indeed, it expressly states at paragraph 5.2 that “[y]ou and
+your clients are free to do as they wish”. There is no attempt to settle or
+compromise the dispute.
+
+41 Accordingly, I find that all the Emails, save for the one sent by Mr Wee on
+9 November 2020 at 4.42pm, were intended to further discuss the issues in
+dispute that the meeting on 7 August 2020 was meant to resolve. This therefore
+cloaks them with “without prejudice” privilege.
+
+The Emails were marked as being “without prejudice” and were sent by lawyers
+
+42 I am fortified in my conclusion above by the fact that some of the Emails
+were marked as being “without prejudice” and were sent by lawyers. In my view,
+it is significant that several of the Emails were marked as being “without
+prejudice”. Notably, the first of the Emails, which was sent by Mr Wee on 18
+August 2020 at 10.47am, was marked “without prejudice”. 24
+
+##### Foot Note 24
+
+×
+
+Soon Heng’s 1st Affidavit at pp 199–202.
+
+This shows that Mr Wee, who, being a lawyer, obviously can be taken to know
+the effect of the “without prejudice” label, regarded the purpose of his email
+to be for the discussion of the issues arising from the meeting on 7 August
+2020, and with a view of settling them with the other parties. Moreover, Mr
+Wee continued to label his other emails (which are part of the Emails) as
+“without prejudice”.
+
+43 Indeed, when the other lawyers replied to this first email, there were
+indications that they regarded the subsequent correspondence to be “without
+prejudice”. First, in his email sent on 23 September 2020 at 6.15pm, Mr Tan
+ended his email at paragraph 27 by stating that his firm “will send your firm
+an open letter on the foregoing shortly” [emphasis added]. 25
+
+##### Foot Note 25
+
+×
+
+Soon Heng’s 1st Affidavit at pp 181–187.
+
+Although this email of 23 September 2020 was not marked as “without
+prejudice”, Mr Tan must have regarded this to be so, otherwise there would be
+no need for his firm to send an open letter that is distinct from the said
+email. Second, the email sent by Mr Ang on 24 September 2020 at 4.25pm was
+expressly marked as “without prejudice save as to costs”. 26
+
+##### Foot Note 26
+
+×
+
+Soon Heng’s 1st Affidavit at pp 180–181.
+
+Third, none of the other lawyers protested the use of the “without prejudice”
+label by Mr Wee and others, even when they were responding directly or
+indirectly to Mr Wee.
+
+44 Thus, as the High Court noted in Swee Wan (at [24]), it is important that
+correspondence is marked as “without prejudice” and more so if the
+correspondence was written by lawyers. This places the burden on the
+defendants, who are now urging the court to ignore the “without prejudice”
+label, to explain why the Emails are not privileged. Apart from the last email
+sent by Mr Wee on 9 November 2020 at 4.42pm, I am not satisfied that the
+defendants have provided a satisfactory explanation in this regard. Indeed, I
+do not think that it is satisfactory for the defendants to now explain before
+me that the “without prejudice” labels were used by the lawyers at the time
+only “out of caution”, when it is not clear what this caution is about.
+Instead, for the reasons I explained earlier, I do not think that the parties
+were so resolute in their positions that there was no compromise to be made.
+
+45 For all of these reasons, I find that all of the Emails, save for the last
+email from Mr Wee sent on 9 November 2020 at 4.42pm, are protected by “without
+prejudice” privilege.
+
+Whether the claimant has waived “without prejudice” privilege over the Emails
+
+46 Having decided that all but one of the Emails are protected by “without
+prejudice” privilege, I turn now to consider if the claimant has waived such
+privilege.
+
+The applicable law
+
+47 Although s 23 of the EA does not address the doctrine of waiver, the
+Singapore courts have accepted that the doctrine of wavier applies to “without
+prejudice” privilege (see Swee Wan at [14]). The applicable law in relation to
+waiver is trite. First, waiver requires the consent of both parties (see Swee
+Wan at [14], citing the High Court decision of Krishna Kumaran s/o K
+Ramakrishnan v Kuppusamy s/o Ramakrishnan [2014] 4 SLR 232 at [22]). Apart
+from an express waiver, an implied waiver of privilege can only be effective
+if it is clear and involves “conduct that unequivocally points to an intention
+not to rely on the privilege” (see Sin Lian Heng at [61]). This must be proven
+to the standard of a balance of probabilities based on “clear evidence” (see
+the High Court decision of Lau Chin Eng and another v Lau Chin Hu and others
+[2009] SGHC 225 at [17]). As such, the fact that a party makes reference to
+the existence of a privileged document (but not its contents) cannot be taken
+as a waiver of “without prejudice” privilege.
+
+48 Thus, in Sin Lian Heng, Menon JC noted that a “single reference to the
+letter in the context of correspondence between the parties themselves” did
+not amount to a waiver of privilege (at [61]). This can be contrasted with A-B
+Chew (HC), in which there was a waiver of privilege because the parties had
+not only referred to “without prejudice” communications, but also on affidavit
+“descended into the details of what had actually transpired” (at [24]).
+Indeed, “[r]ather than close the door of privilege, the defendant and his
+solicitors opened it even wider” (at [24]). Similarly, in Greenline-Onyx, the
+defendant failed to assert “without prejudice” privilege over certain
+documents that had been included in the agreed bundle of documents for the
+trial of the matter (at [20]–[22]).
+
+49 Second, a party cannot unilaterally waive privilege only to claim it later
+when his opponent makes reference to those communications (see A-B Chew (HC)
+at [22]). This is consistent with the rule against cherry picking, that one
+party may not cherry pick parts of documents that were favourable and retain
+privilege for parts that were unfavourable (see the High Court decision of
+Tentat Singapore Pte Ltd v Multiple Granite Pte Ltd and others [2009] 1 SLR(R)
+42 at [24]).
+
+50 Third, there is no requirement that waiver must result in injustice or
+detriment to the other party. This is because waiver is a rule of evidence and
+should not be confused with waiver as a form of proprietary estoppel, which is
+a rule of equity (see the Court of Appeal decision of Lim Tjoen Kong v A-B
+Chew Investments Pte Ltd [1991] 2 SLR(R) 168 at [25]).
+
+My decision: the claimant did not waive “without prejudice” privilege over the
+Emails
+
+51 With the above principles in mind, I find that the claimant did not waive
+“without prejudice” privilege over the Emails. First, I do not think the fact
+that the Group A beneficiaries referred to one of the Emails in the 15 June
+2022 Letter is material because the claimant was not even a party to that
+Letter. Thus, she cannot be taken to have waived any privilege. Second, if the
+defendants’ argument is that the claimant has waived privilege by not
+objecting to the contents of the 15 June 2022 Letter being disclosed in Soon
+Heng’s and Soon Huat’s affidavits, I disagree. This is because the claimant
+did not discuss the contents of the Emails. Further, the 15 June 2022 Letter
+only contains a passing reference to one of the Emails, and did not discuss
+its contents. As such, this cannot, without more, amount to unequivocal
+conduct that is sufficient to waive privilege.
+
+52 Accordingly, I find that the claimant did not waive “without prejudice”
+privilege over the Emails.
+
+Whether any exception to “without prejudice” privilege over the Emails applies
+
+53 The final issue that I must consider is whether any exception to “without
+prejudice” privilege over the Emails applies. The defendants have raised two
+exceptions: (a) the Muller exception; and (b) the doctrine of approbation and
+reprobation, which I shall consider in turn.
+
+The applicable law on the Muller exception
+
+54 Although the Muller exception has received considerable judicial attention
+in the UK, little – if at all – has been said about it in Singapore. In this
+regard, I will set out the relevant cases discussing the Muller exception in
+the UK, before turning to how it may potentially apply in Singapore.
+
+The Muller exception in the UK
+
+55 It is appropriate to begin with the English Court of Appeal decision of
+Muller, from which the Muller exception emanated. The brief facts are as
+follows. The plaintiffs sued the defendants – who were their solicitors – for
+negligence. The plaintiffs had consulted the defendants about a dispute
+between the plaintiffs and shareholders and directors of a company, which
+eventually culminated in a settlement. In the course of that dispute, the
+plaintiffs claimed the defendants negligently submitted an unstamped transfer
+document that led to the first plaintiff’s dismissal from the said company. As
+a result, the first plaintiff was forced to sell his shares in the company.
+The share price subsequently increased. One of the issues in the parties’
+dispute was whether the settlement constituted a reasonable attempt by the
+plaintiffs to mitigate their damage. The plaintiffs sought to withhold
+disclosure of documents leading to the settlement based on “without prejudice”
+privilege. The court, which comprised Hoffmann, Swinton Thomas, and Leggatt
+LJJ, ordered the plaintiffs to disclose the documents. Hoffmann LJ reasoned
+his decision on an exception to “without prejudice” privilege:
+
+If one analyses the relationship between the without prejudice rule and the
+other rules of evidence, it seems to me that the privilege operates as an
+exception to the general rule on admissions (which can itself be regarded as
+an exception to the rule against hearsay) that the statement or conduct of a
+party is always admissible against him to prove any fact which is thereby
+expressly or impliedly asserted or admitted. The public policy aspect of the
+rule is not in my judgment concerned with the admissibility of statements
+which are relevant otherwise than as admissions, i.e. independently of the
+truth of the facts alleged to have been admitted.
+
+Many of the alleged exceptions to the rule will be found on analysis to be
+cases in which the relevance of the communication lies not in the truth of any
+fact which it asserts or admits, but simply in the fact that it was made.
+Thus, when the issue is whether without prejudice letters have resulted in an
+agreed settlement, the correspondence is admissible because the relevance of
+the letters has nothing to do with the truth of any facts which the writers
+may have expressly or impliedly admitted. They are relevant because they
+contain the offer and acceptance forming a contract which has replaced the
+cause of action previously in dispute. Likewise, a without prejudice letter
+containing a threat is admissible to prove that the threat was made. A without
+prejudice letter containing a statement which amounted to an act of bankruptcy
+is admissible to prove that the statement was made; see [Re Daintrey [1893] 2
+QB 116]. Without prejudice correspondence is always admissible to explain
+delay in commencing or prosecuting litigation. Here again, the relevance lies
+in the fact that the communications took place and not the truth of their
+contents. Indeed, I think that the only case in which the rule has been held
+to preclude the use of without prejudice communications, otherwise than as
+admissions, is in the rule that an offer may not be used on the question of
+costs; a rule which, as I have said, has been held to rest purely upon
+convention and not upon public policy.
+
+Hoffmann LJ’s reasoning was that the public policy rationale of “without
+prejudice” privilege did not apply to statements that are relevant, not
+because of the truth of any fact it asserts or admits, but simply on the fact
+that it was made. On the other hand, Swinton Thomas and Leggatt LJJ reasoned
+their decisions on the basis that the plaintiffs had waived any “without
+prejudice” privilege that protected the negotiations.
+
+56 The subsequent cases and the discussions of the Muller exception therein
+have centered around the following concerns: (a) whether the exception
+undermines the rationales behind “without prejudice” privilege; (b) what the
+basis for the exception is; and (c) what the test for the exception is. The
+upshot of these concerns is that the status of the Muller exception is very
+much in doubt in the UK.
+
+57 The first concern is that the exception undermines the rationales behind
+“without prejudice” privilege. As mentioned earlier, the primary rationale is
+the public policy of encouraging parties to settle their disputes rather than
+litigate them. Indeed, in the English Court of Appeal decision of Unilever plc
+v Procter & Gamble Co [2000] 1 WLR 2436 (“Unilever”), Walker LJ stated as
+follows (at 2443–2444 and 2448–2449):
+
+Without in any way underestimating the need for proper analysis of the rule, I
+have no doubt that busy practitioners are acting prudently in making the
+general working assumption that the rule, if not “sacred” (Hoghton v Hoghton
+(1852) 15 Beav. 278, 321), has a wide and compelling effect. That is
+particularly true where the ‘without prejudice’ communications in question
+consist not of letters or other written documents but of wide-ranging
+unscripted discussions during a meeting which may have lasted several hours.
+
+At a meeting of that sort the discussions between the parties’ representatives
+may contain a mixture of admissions and half-admissions against a party’s
+interest, more or less confident assertions of a party’s case, offers,
+counter-offers, and statements (which might be characterised as threats, or as
+thinking aloud) about future plans and possibilities. As Simon Brown LJ put it
+in the course of argument, a threat of infringement proceedings may be deeply
+embedded in negotiations for a compromise solution. Partial disclosure of the
+minutes of such a meeting may be, as Leggatt LJ put it in Muller, a concept as
+implausible as the curate’s egg (which was good in parts). …
+
+…
+
+… But to dissect out identifiable admissions and withhold protection from the
+rest of without prejudice communications (except for a special reason) would
+not only create huge practical difficulties but would be contrary to the
+underlying objective of giving protection to the parties, in the words of Lord
+Griffiths in [Rush & Tompkins at p.1300]: “to speak freely about all issues in
+the litigation both factual and legal when seeking compromise and, for the
+purpose of establishing a basis of compromise, admitting certain facts.”
+Parties cannot speak freely at a without prejudice meeting if they must
+constantly monitor every sentence, with lawyers or patent agents sitting at
+their shoulders as minders.
+
+As such, Walker LJ proposed adopting a broader approach in respect of the
+Muller exception, such that communications between negotiating parties are
+protected by “without prejudice” privilege as a whole, and the court should
+not dissect parts of such communications as not being privileged. For
+convenience, I term this the “Broad Approach”.
+
+58 Walker LJ’s concern was echoed in the House of Lords decision in Ofulue v
+Bossert [2009] AC 990 (“Ofulue v Bossert”). In Lord Rodger’s words, although
+“it would be possible to carve out an exception along those lines”, ie, the
+Muller exception, “[t]he question is whether creating such an exception would
+be consistent with the overall policy behind the rule” (at [39]). In the same
+judgment, Lord Neuberger also highlighted that the Muller exception does not
+consider the contractual rationale behind “without prejudice” privilege (at
+[95]):
+
+Despite the very great respect I have for any view expressed by Lord Hoffmann,
+and the intellectual attraction of the distinction which he draws, I am
+inclined to think that it is a distinction which is too subtle to apply in
+practice; I consider that its application would often risk falling foul of the
+problem identified by Robert Walker LJ in the passage quoted above. In any
+event, the observation appears to be limited to the public policy reason for
+the rule, and says nothing about the contractual reason, which plainly applies
+here.
+
+59 For completeness, I note that in the UK Supreme Court decision of Oceanbulk
+Shipping and Trading SA v TMT Asia Ltd and others [2011] 1 AC 662, Lord Clarke
+stated as follows (at [27]):
+
+The without prejudice rule is thus now very much wider than it was
+historically. Moreover, its importance has been judicially stressed on many
+occasions, most recently perhaps in Ofulue v Bossert [2009] AC 990, where the
+House of Lords identified the two bases of the rule and held that
+communications in the course of negotiations should not be admissible in
+evidence. It held that the rule extended to negotiations concerning earlier
+proceedings involving an issue that was still not resolved and refused, on the
+ground of legal and practical certainty, to extend the exceptions to the rule
+so as to limit the protection to identifiable admissions.
+
+60 The second concern is the unclear basis for the exception. As Fancourt J
+held in the English High Court decision of Briggs and others v Clay and others
+[2019] EWHC 102 (Ch) (“Briggs”), the exception may be justified on two
+alternative bases, and it was unclear which was the true basis for Hoffmann
+LJ’s decision (at [49]):
+
+There therefore appear to be two bases for Hoffmann LJ’s decision. The first
+is that the without prejudice rule only applies to protect admissions, not
+facts that are relevant independently of their truth or falsity, and the
+defendant was not seeking to rely on the content of the without prejudice
+negotiations to prove any admissions. The second basis is that the plaintiff
+himself had raised (or “put in issue”) the reasonableness of the negotiations;
+that issue could not be determined without disclosure of the negotiations, and
+the public policy underlying the rule was not infringed by ordering disclosure
+in favour of the defendant for the purpose of the second claim. The
+shareholders were not parties to the second claim or (apparently) affected by
+its outcome.
+
+61 Briggs is additionally relevant for the gloss that it adds to the test set
+out in the Muller exception, ie, the third concern I have identified above.
+Indeed, it is clear that there is no one settled test in the application of
+the Muller exception. As Fancourt J puts it in Briggs, “the general principle
+that bringing a claim or making an allegation does not disentitle a party to
+rely on without prejudice privilege may well be qualified where an issue is
+raised that is only justiciable upon proof of without prejudice negotiations”
+(at [99]) [emphasis added]. In his view, this test is reflected in the
+reasoning in Muller, where all three judges “considered it to be material that
+the plaintiff had put in issue the reasonableness of his negotiations with the
+shareholders and that that issue would not be justiciable without disclosure
+of the negotiations” (at [98]). However, as later cases show, the test only
+resulted in further confusion as to what the test for the Muller exception
+really is.
+
+62 Thus, in the English High Court decision of Berkeley Square Holdings and
+others v Lancer Property Asset Management Ltd and others [2020] EWHC 1015 (Ch)
+(“Berkeley (HC)”), Roth J applied the Muller exception as developed in Briggs.
+His interpretation of “fairly justiciable” was whether “the evidence is so
+central to an issue which the party resisting disclosure has introduced that
+there is a serious risk that there will not be a fair trial if that evidence
+is excluded” (at [83]). On the facts of Berkeley (HC), Roth J admitted the
+relevant evidence, because “if the material is not admitted, the court at the
+trial will be misled” (at [88(iii)]).
+
+63 When Berkeley (HC) went on appeal, the English Court of Appeal, however,
+voiced concerns about the seeming extension of the Muller exception (see
+Berkley Square Holdings Ltd and others v Lancer Property Asset Management Ltd
+and others [2021] 1 WLR 4877 (“Berkley (CA)”)). Richards LJ raised the
+following concerns:
+
+(a) A new exception was developed by Fancourt J in Briggs and Roth J in
+Berkeley (HC). This exception “would apply where one party raises an issue
+which cannot, or cannot fairly, be decided without recourse to evidence of
+without prejudice negotiations or communications but the party raising the
+issue resists disclosure or use of such evidence” (at [84]).
+
+(b) There is uncertainty over the word “justiciable”. The word is
+conventionally used to describe an issue that the court will not consider
+because of its subject matter, ie, it must be impossible to determine the
+issue without recourse to the “without prejudice” evidence. However, Roth J in
+Berkeley (HC) set the bar lower, by referencing whether the court is able to
+fairly determine an issue and to the centrality of the evidence (at [87]).
+
+(c) It is unclear whether the exception “is available in both two-party cases
+and three-party cases. If it is available where the person resisting
+disclosure or admission has not waived privilege, it would logically appear to
+be as applicable in a two-party case as in a three-party case” (at [88]).
+
+(d) There “would need to be careful consideration of whether this exception
+would involve an unacceptable interference with the public policy of
+encouraging compromises which is the reason for the without prejudice rule”
+(at [89]).
+
+Despite his concerns, Richards LJ ultimately concluded that Berkeley (CA) was
+“not the case to decide whether a new exception of this type exists” because
+it was unnecessary on the facts of the case (at [90]). That said, it is clear
+that Richards LJ had expressed considerable doubt about the Muller exception.
+
+64 I conclude my analysis of the development of the Muller exception in the UK
+by stating that there is uncertainty over whether the exception should even
+apply as a matter of principle, and even if it applies, what the scope of the
+exception is.
+
+The Muller exception in Singapore
+
+(1) The relevant cases
+
+65 Turning then to how the Muller exception may apply in Singapore, I begin
+with the Court of Appeal decision of Quek Kheng Leong Nicky and another v Teo
+Beng Ngoh and others and another appeal [2009] 4 SLR(R) 181 (“Quek Nicky”),
+which discussed Unilever (at [23]):
+
+The rule against the admission of “without prejudice” communications is,
+however, subject to a number of exceptions. The most important instances were
+set out by Robert Walker LJ in the English Court of Appeal decision of
+Unilever Plc v The Procter & Gamble Co [2000] 1 WLR 2436 at 2444–2445
+(“Unilever”) (where the comprehensive article by David Vaver, “‘Without
+Prejudice’ Communications – Their Admissibility and Effect” (1974) 9 UBC Law
+Rev 85 (which was justly described by Lord Mance in the House of Lords
+decision of Bradford & Bingley plc v Rashid [2006] 1 WLR 2066 at [84] as being
+“an article of great learning and continuing value”) was cited; see also the
+House of Lords decision of Ofulue v Bossert [2009] 2 WLR 749 at [86]).
+
+66 I note that Quek Nicky considers that Unilever (at 2444–2445) sets out “the
+most importance instances” of exceptions to the rule on “without prejudice”
+privilege. For brevity, I reproduce only what Walker LJ in Unilever said about
+the Muller exception (at 2444–2445):
+
+(1) As Hoffmann LJ noted in Muller’s case, when the issue is whether without
+prejudice communications have resulted in a concluded compromise agreement,
+those communications are admissible. Tomlin v Standard Telephones and Cables
+Ltd. [1969] 1 WLR 1378 is an example.
+
+…
+
+(6) In Muller’s case (which was a decision on discovery, not admissibility)
+one of the issues between the claimant and the defendants, his former
+solicitors, was whether the claimant had acted reasonably to mitigate his loss
+in his conduct and conclusion of negotiations for the compromise of
+proceedings brought by him against a software company and its other
+shareholders. Hoffmann LJ treated that issue as one unconnected with the truth
+or falsity of anything stated in the negotiations, and as therefore falling
+outside the principle of public policy protecting without prejudice
+communications. The other members of the court agreed but would also have
+based their decision on waiver.
+
+67 Contrary to the defendants’ submission, I do not think that Quek Nicky can
+be taken as authority that the Muller exception applies in Singapore. In my
+view, when the Court of Appeal referred to Unilever and the exceptions to
+“without prejudice” privilege therein, the court did not go so far as to say
+that those exceptions apply in Singapore, and more specifically, that the
+Muller exception applies. Even if the Muller exception applies in Singapore,
+the development of the exception in the UK since Quek Nicky was decided in
+2009 requires that I nevertheless determine the true scope of the exception.
+
+68 There are two High Court decisions that I consider to be relevant to my
+decision: Sin Lian Heng and CSO v CSP and another [2023] SGHC 24 (“CSO v
+CSP”). First, in Sin Lian Heng, Menon JC considered the issue of whether
+“without prejudice” privilege applies to negotiations on quantum even if there
+has been an admission of liability. Menon JC cited Unilever and alluded to the
+Broad Approach (at [49]–[51]):
+
+49 It was not disputed that the letter, at the very least, involved
+negotiations over the amount that might be paid and this was not as a matter
+of pure indulgence. The policy reasons behind the “without prejudice”
+privilege have been shortly stated in the cases referred to above at [9]. In a
+nutshell, the underlying policy justification for the rule is:
+
+[P]arties should be encouraged so far as possible to settle their disputes
+without resort to litigation and should not be discouraged by the knowledge
+that anything that is said in the course of such negotiations … may be used to
+their prejudice in the course of the proceedings. [Per Oliver LJ in Cutts v
+Head [1984] Ch 289 at 306, quoted with approval by the House of Lords in Rush
+& Tompkins ([9] supra) at 1299.]
+
+50 In my view, this rationale applies with equal force to negotiations on
+quantum where there is a real dispute over this. In such situations, even
+though one party may have admitted to liability, as long as there remains a
+dispute as to the extent of that liability, the policy interests are
+implicated. The privilege is thus equally well justified since it is just as
+important to the avoidance of the litigation of such matters. It is plain that
+if parties cannot agree on the specific settlement amount, they will continue
+to litigate that issue.
+
+51 In my judgment, the same result can also be seen to be justified in
+principle. In Unilever ([12] supra), Robert Walker LJ stated that it would be
+undesirable to “dissect out identifiable admissions and withhold protection
+from the rest of without prejudice communications”. The rationale for this
+proposition is that if there is a risk that some part of the communications
+that take place in circumstances where the parties are trying to come to a
+settlement may later be found not to be privileged, it would inhibit the
+discussions as a practical matter. In my judgment, the same sort of practical
+difficulties would arise if the “without prejudice” rule were held not to
+apply to negotiations directed at settling disputes on quantum.
+
+[emphasis in original]
+
+69 Second, in CSO v CSP, the High Court discussed the interaction between s 23
+of the EA and the common law rule on “without prejudice” privilege, holding
+that such privilege applied to the whole of “without prejudice” communications
+and not only admissions. The court considered that the Broad Approach in
+Unilever applies in Singapore (at [51]–[58]):
+
+51 In Unilever, Walker LJ explained (at 2448–2449) that the Broad Approach
+furthers the public policy objective of encouraging settlements; indeed,
+protecting only admissions (and not the whole of “without prejudice”
+communications) would go against that policy …
+
+…
+
+57 Walker LJ recognised (at 2448) that “the protection of admissions against
+interest is the most important practical effect of the rule”, but admissions
+are not the only communications that “without prejudice” privilege would
+cover.
+
+58 Admissions against interest made during “without prejudice” negotiations
+might be seized upon by the opposing party if they were not privileged, and it
+is “thus in the overall spirit of encouraging negotiations that parties be
+sufficiently protected when they ‘lay their cards on the table’” (Sin Lian
+Heng at [43]). Admissions against interest are, however, not the only
+communications made during “without prejudice” negotiations that might
+prejudice their author if the communications were not protected by privilege.
+One example would be actionable threats such as that pleaded in Unilever.
+Likewise, a party might during negotiations assert a claim or defence that is
+not later pursued in court proceedings – it should not be prejudiced by the
+other party being able to make forensic use of that discrepancy. So too, if an
+exaggerated claim sum is put forward in negotiations, or if a party emphasises
+the strength of his case to an unreasonable extent, or indeed in an
+unreasonable manner. It would encourage settlements if the whole of “without
+prejudice” communications are protected, and not merely admissions against
+interest.
+
+59 The Broad Approach furthers the objective of encouraging settlements, as a
+matter of policy and principle; and it is the position at common law. Is the
+Broad Approach, however, precluded in Singapore by the Evidence Act or by
+binding authority (in particular, the Court of Appeal’s decision in Ernest
+Ferdinand)?
+
+[emphasis in original]
+
+70 The court in CSO v CSP (at [73]–[76]) also considered the compatibility of
+the Broad Approach with the Court of Appeal decision of Ernest Ferdinand,
+which I reproduce:
+
+73 Indeed, the very formulation of the second pre-requisite (Ernest Ferdinand
+at [67]) that “the communication must constitute or involve an admission
+against the maker’s interest” [emphasis added in italics and bold italics]
+itself shows that admissions are not the only aspects that are privileged. It
+is not only communications that “constitute” admissions that are privileged;
+communications that “involve” admissions (and also involve non-admissions) are
+privileged too.
+
+74 The Court of Appeal (at [86]) noted the argument that “the broader purpose
+of without prejudice privilege is to provide parties with a general freedom to
+negotiate, and therefore things which go beyond admissions against interest
+should be capable of being protected” [emphasis added]. The court did not
+disagree with this. On the contrary, the court (at [68] and [90]) approved of
+the observations in Schering Corporation v CIPLA Ltd [2004] EWHC 2587 (Ch)
+(“Schering”)[, ]a decision that applied the Broad Approach.
+
+75 In Schering, the court held that a certain letter was a “negotiating
+document”, ie, a document indicating a willingness to negotiate, and as such
+the letter was protected by “without prejudice” privilege. The letter
+contained two paragraphs asserting the author’s confidence, on the basis of
+legal advice, that the other party’s patent was invalid, and a further
+paragraph to the effect that the author’s confidence in the correctness of its
+position was so great that it felt it is safe to proceed without regard to the
+other side’s position if negotiations were not entered into and resolved
+satisfactorily. The court however held that “the overall message continues to
+be one of wishing to negotiate” (at [21]). The court did not dissect out
+identifiable admissions (such as references to willingness to negotiate) and
+withhold protection from the rest of the “without prejudice” communications
+(such as the author’s assertions of the strength of its own position). The
+whole letter was privileged, not just the identifiable admissions in it.
+
+76 Ernest Ferdinand (which endorsed Schering) does not preclude the Broad
+Approach. On the contrary, Ernest Ferdinand supports the Broad Approach.
+
+(2) My decision: the Muller exception does not apply in Singapore
+
+71 As a starting point, I am bound by s 2(2) of the EA, which states “all
+rules of evidence not contained in any written law, so far as such rules are
+inconsistent with any of the provisions of this Act, are repealed”. As the EA
+codified only the law of evidence existing at the time of its enactment, new
+rules of evidence can be given effect to only if they are not inconsistent
+with the provisions of the EA or their underlying rationale (see the High
+Court decision of Law Society of Singapore v Tan Guat Neo Phyllis [2008] 2
+SLR(R) 239 at [117], cited with approval in the Court of Appeal decisions of
+Lee Chez Kee v Public Prosecutor [2008] 3 SLR(R) 447 at [116] and ARX v
+Comptroller of Income Tax [2016] 5 SLR 590 at [32]).
+
+72 With s 2(2) of the EA in mind, I find that the Muller exception does not
+apply in Singapore. This is because the Muller exception is incompatible with
+the public policy and contract rationales behind “without prejudice”
+privilege. For the public policy rationale, I broadly agree with Walker LJ’s
+explanation in Unilever that parties will be unable to speak freely in
+negotiations if they are preoccupied with determining which portion of their
+negotiations falls within the Muller exception and is admissible as evidence.
+For the contract rationale, as Lord Neuberger alluded to in Ofulue v Bossert,
+it is unclear how the Muller exception is compatible with the contract
+rationale for “without prejudice” privilege. This is because if the basis for
+“without prejudice” privilege is the implied agreement between negotiating
+parties that their communications are privileged, for the Muller exception to
+apply, a similar implied agreement must apply. Yet, I find it difficult to
+fathom how there can be such an implied agreement, especially when the Muller
+exception requires dissecting parties’ negotiations into admissions and all
+other communications.
+
+73 Further, in so far as the Broad Approach applies in Singapore, I consider
+that it will be inconsistent to adopt the Muller exception in Singapore. This
+is because, as I mentioned above, the Broad Approach prevents the court from
+dissecting communications that are protected by “without prejudice” privilege.
+Yet, an application of the Muller exception requires the court to undertake
+this exact process of dissection.
+
+My decision on the Muller exception: the exception does not apply
+
+74 Given my finding that the Muller exception does not apply in Singapore, I
+reject the defendants’ argument that the claimant is precluded from relying on
+“without prejudice” privilege for the Emails.
+
+75 In the event that I am wrong, and the Muller exception applies in
+Singapore, I similarly reject the defendants’ argument that the claimant is
+precluded from relying on “without prejudice” privilege for the Emails. This
+is because, applying the test for the extended Muller exception as developed
+in Briggs and Berkeley (HC), I do not find that the defendants have
+satisfactorily particularised an issue which cannot, or cannot fairly, be
+decided without recourse to the Emails. In any event, when Mr Singh realised
+that the Muller exception had been subject to such trenchant criticism in
+Berkeley (CA), he dropped his reliance on the exception without more.
+
+The applicable law on the doctrine of approbation and reprobation
+
+76 I turn then to Mr Tan’s argument that the claimant should not be allowed to
+approbate and reprobate. The law on the doctrine of approbation and
+reprobation has been comprehensively explored by the Court of Appeal in BWG v
+BWF [2020] 1 SLR 1296 (at [101]–[118]) and I need not add to it. To briefly
+summarise, the doctrine is a principle of equity that a person who accepts a
+benefit under an instrument must adopt it in its entirety and renounce any
+other rights that are inconsistent with it. For instance, a person who has
+benefitted from a judgment cannot allege the invalidity of the judgment that
+conferred him the benefit. The doctrine extends more broadly to a situation of
+inconsistent positions asserted against different parties in different
+proceedings, as long as the party has received an actual benefit as a result
+of an earlier inconsistent position, as reflected in the English decisions of
+Express Newspapers and First National Bank plc v Walker [2001] 1 FLR 505.
+
+77 Unlike the common law doctrine of election, the doctrine of approbation and
+reprobation does not require the electing party to make a conscious choice
+between alternative rights and remedies, but a party’s election that gives
+rise to a prior position must still be reasonably clear to be effective (see
+the Court of Appeal decision of Aries Telecoms (M) Bhd v ViewQwest Pte Ltd
+[2018] 1 SLR 108 at [5]).
+
+78 In the context of the present application, I consider that there may also
+be a related issue of whether a party may use “without prejudice” privilege to
+escape disclosure obligations, such as in without notice applications under
+the Rules of Court 2021 (the “ROC 2021”). In my view, no such concern arises.
+This is because when communications are protected by “without prejudice”
+privilege, the parties have no obligations to disclose this to the court. I
+raise O 9 r 3 of the ROC 2021 as an example, which states that “without
+prejudice” communications must not be disclosed to the court:
+
+Non‑disclosure (O. 9, r. 3)
+
+3. Subject to the law governing the admissibility of evidence at trial, any communication made in the course of a case conference in any action or proceedings must not be disclosed to the Court conducting the trial of the action or proceedings if such communication —
+
+(a) has been stated by any of the parties to the action or proceedings to be
+“confidential” or “without prejudice”; or
+
+(b) has been marked by the Registrar or Judge (as the case may be) as being
+“confidential” or “without prejudice”.
+
+Accordingly, in so far as communications are protected by “without prejudice”
+privilege, parties have no obligation to disclose them to the court. On the
+contrary, they are obliged to not disclose them to the court.
+
+My decision on the doctrine of approbation and reprobation: the doctrine does
+not apply
+
+79 With the above principles in mind, I find that the doctrine of approbation
+and reprobation does not apply here. In my judgment, the claimant has not
+simultaneously accepted a benefit and renounced any rights inconsistent with
+that benefit. The claimant is seeking only to strike out the Emails, and not
+the 15 June Letter. As a result, the defendants can rely on the 15 June Letter
+in SUM 2781. Accordingly, and contrary to the defendants’ submission, the
+doctrine of approbation and reprobation does not apply in the present
+application.
+
+80 I also do not find that the claimant has, by relying on “without prejudice”
+privilege, failed to make any material disclosure in SUM 2781. This is
+because, as I set out above, when communications are protected by “without
+prejudice” privilege, the parties have no obligation to disclose them to the
+court.
+
+Conclusion
+
+81 For all these reasons, I allow the claimant’s application to the extent
+that I find that all of the Emails, save for the one sent by Mr Wee on 9
+November 2020 at 4.42pm, are protected by “without prejudice” privilege. I
+accordingly order that all these Emails, as well as the relevant paragraphs,
+be expunged from the affected affidavits as set out in the present
+application. The defendants are to refile the affected affidavits, without the
+expunged materials, within 14 days of this decision.
+
+82 Unless the parties are able to agree on costs, they are to write in with
+their submissions limited to seven pages each, also within 14 days of this
+decision.
+
+Goh Yihan  
+Judicial Commissioner|  
+---|---  
+  
+Ng Ka Luon Eddee, Tnee Zixian Keith, Lee Pei Hua Rachel and Natalie Ng Hai Qi
+(Tan Kok Quan Partnership) for the claimant;
+
+Sarbjit Singh Chopra, Roshan Singh Chopra and Sakthi Vel s/o Raman (Selvam
+LLC) for the first, third and fifth defendants;
+
+Tan Teng Muan and Loh Li Qin (UniLegal LLC) for the second defendant;
+
+Eugene Jedidiah Low Yeow Chin (Ark Law Corporation) for the fourth defendant
+(watching brief).
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 23 Aug 2023 (15:54 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

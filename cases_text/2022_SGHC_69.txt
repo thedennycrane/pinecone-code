@@ -1,0 +1,960 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 69
+
+Suit No 1073 of 2016
+
+Between
+
+| Thio Keng Thay  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Sandy Island Pte Ltd  
+---|---  
+  
+… Defendant
+
+JUDGMENT
+
+[Building and Construction Law — Damages — Assessment of Damages]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Thio Keng Thay
+
+  
+v
+
+  
+
+Sandy Island Pte Ltd
+
+[2022] SGHC 69
+
+General Division of the High Court — Suit No 1073 of 2016  
+Lee Seiu Kin J  
+13, 14 April, 23 August, 8 November, 20 December 2021; 25 February,  
+21 March 2022
+
+31 March 2022 Judgment Reserved
+
+Lee Seiu Kin J:
+
+Introduction
+
+1 This judgment is the second one issued in this suit, in which the plaintiff
+is seeking to recover damages from the defendant for breach of a sale and
+purchase agreement (“the SPA”). Under the SPA, the Plaintiff purchased a
+property (“the Property”) developed by the Defendant at Sandy Island, Sentosa
+at the price of $14.32m. The first tranche of the trial was heard over eight
+days in 2018 and was adjourned on 25 October 2018 while the hearing on quantum
+was still ongoing. As the evidence on liability was completed by then, I gave
+my decision on the issue of liability on 29 July 2019 in Thio Keng Thay v
+Sandy Island Pte Ltd [2019] SGHC 175 (“the First Judgment”). The Defendant
+appealed against my decision, and the Court of Appeal dismissed the appeal on
+28 August 2020 and gave its grounds in Sandy Island Pte Ltd v Thio Keng Thay
+[2020] SGCA 86 (“the CA Judgment”).
+
+2 Having settled the issue of liability, the trial was scheduled to resume on
+13 April 2021 with the hearing of the remaining evidence pertaining to the
+quantum of damages. However, on the following day counsel for both parties
+informed me that they had reached an agreement to dispense with cross-
+examination of the remaining witnesses (who were all expert witnesses) and
+were prepared to proceed on the basis of their affidavits evidence-in-chief
+(“AEIC”) and admitted documents. The trial was therefore adjourned for counsel
+to prepare written submissions which were eventually filed on 4 October 2021.
+On 8 November 2021, counsel appeared before me for oral reply submissions
+after which I reserved judgment. On 20 December 2021, at my request, counsel
+submitted further written submissions on a specific issue. I now give my
+decision concerning the quantum of damages in this suit.
+
+Two Categories of Defects
+
+3 As the background to the matter is set out in the First Judgment and the CA
+Judgment, I shall not go into the full details of the matter here and will
+only set out the facts relevant to this judgment. After taking possession of
+the Property on 15 March 2012, the Plaintiff discovered numerous defects. He
+engaged a building surveyor to inspect the Property and prepare a list of
+defects. What took place thereafter was several months of toing and froing
+between the Plaintiff and the Defendant, with the Plaintiff sending to the
+Defendant one defects list after another as new defects were discovered. The
+parties were in communication on arrangements for joint inspection, methods of
+rectification, and on whether certain items were truly defects that the
+Defendant was liable for. Although the Defendant offered to repair many of the
+defects in the list, the Plaintiff did not permit it to enter the Property to
+do so, on the ground that he was not satisfied with the method statement put
+up by the Defendant for the repairs. This standoff continued and in February
+2013, the Plaintiff called a tender based on specifications prepared by his
+building surveyor. The lowest tenderer submitted a price of $1,880,350. The
+Defendant took the view that this was excessive and informed the Plaintiff
+that it would not reimburse him on this basis. The Plaintiff called another
+tender based on specifications drawn up by a new building surveyor and the
+lowest bid for this was submitted by JTA Construction Pte Ltd (“JTA”) at
+$1,213,200. The Plaintiff eventually awarded the contract to JTA (“JTA
+Contract”) and the work was carried out from 1 September 2014 to 30 May 2015.
+
+4 Therefore, there are two categories of defects. The first is those defects
+that the Defendant had admitted as defects under the SPA and were prepared to
+enter the premises to rectify (“Admitted Defects”). The second is those
+defects that the Defendant denied were defects under the SPA and had taken the
+position that it was not liable to rectify (“Non-admitted Defects”). In
+respect of the Admitted Defects, the first issue is whether the Plaintiff had
+failed to mitigate his damages because he had refused the Defendant access to
+the Property for the purpose of rectifying those defects. For the Non-admitted
+Defects, this will entail a determination of: (a) whether each item is a
+defect under the SPA such that the Defendant would be liable to rectify; and
+if so, (b) what would be the reasonable cost that would be incurred by the
+Plaintiff to rectify such defects.
+
+5 There is a sub-category of the Admitted Defects. This concerns the passenger
+lift and vehicle lift (collectively, “the Lifts”) in the Property. The
+Defendant’s main contractor had engaged Gylet Elevator Co Pte Ltd (“Gylet”) to
+supply and install the Lifts. The Plaintiff complained to the Defendant about
+defects in the Lifts, but did not permit Gylet access to the Property to
+rectify those defects. I had found that the Defendant was in breach of the SPA
+in that the Lifts were defective, and that the Plaintiff was in breach of his
+obligation under cl 17 of the SPA to give an opportunity to the Defendant to
+rectify the defects. The issue concerning the Lifts will be dealt with
+separately from the Admitted Defects as special considerations apply.
+
+Mitigation of Damages
+
+6 I turn to the issue of mitigation of damages in relation to the Admitted
+Defects, excluding the defects in the Lifts.
+
+7 At [103] of the First Judgment, I had found the Plaintiff to be in breach of
+cl 17 of the SPA which obliged him to give an opportunity to the Defendant to
+rectify the Admitted Defects. I have stated, in [117] of the First Judgment,
+that this issue will be dealt with when considering the quantum of damages.
+This was affirmed by the Court of Appeal at [104] of the CA Judgment, and that
+court stated the following:
+
+“The final point that the appellant raises, which is related to its point on
+circuity, is that there would be no costs involved if the appellant had been
+allowed to rectify the admitted defects. This was despite the fact that [the]
+Judge had explicitly stated that the question of whether it “would have cost
+the [appellant] nothing at all to rectify the said defects” would be addressed
+in the second tranche of proceedings (see the Judgment at [117]).”
+
+8 The issue is, in the circumstances of the present case, how is that
+mitigation to be assessed. It is the Defendant’s position that, where an owner
+is in breach of a defects liability clause, he cannot recover more than what
+it would have cost the contractor to rectify the defects. The Defendant cited
+the English case of Pearce and High Ltd v Baxter (1999) 66 Con LR 110
+(“Pearce”) and stated the following in written submissions: 1
+
+##### Foot Note 1
+
+×
+
+Defendant’s Written Submission at para 50.
+
+“In Pearce, the English Court of Appeal recognised at 752 that the effect of
+breaching a defects liability clause was that the owner could not recover more
+than it would have cost the contractor to rectify the defects, given that the
+cost of employing a third-party repairer was likely to be higher than the cost
+to the contractor of doing the work itself. This was achieved through the lens
+of mitigation of damages, by setting off the amount by which the contractor
+has been disadvantaged against the owner’s damages claim.”
+
+9 I agree fully with this statement. Had the Plaintiff permitted the Defendant
+to enter the Property to undertake the rectification, the Admitted Defects
+would have been repaired by the Defendant or its contractors who would,
+between themselves, have borne all costs in accordance with the contract
+between the latter two parties. Therefore, the damages that the Plaintiff is
+entitled to in this situation would be the amount that the Defendant would
+have incurred had the rectification been undertaken in accordance with the
+defects liability clause of the SPA. I therefore hold that the Plaintiff is
+only entitled to recover from the Defendant the sum of money that the
+Plaintiff would have incurred had the Plaintiff permitted the Defendant to
+enter the Property to carry out the rectification works for the Admitted
+Defects.
+
+10 The issue then, is: what would it have cost the Defendant to undertake the
+repairs to the Admitted Defects? At the first tranche of the trial, the
+Defendant had submitted that it would not have incurred any costs in this
+regard, as noted in the First Judgment at [117]:
+
+“… the defendant has claimed that since it would have cost the defendant
+nothing at all to rectify the said defects (given that YTL was allegedly
+obligated to rectify the defects at no cost to the defendant), the plaintiff
+cannot claim for any damages in respect of the rectification works ...”.
+
+The law is clear that the burden of proving this (that it would have caused
+the Defendant nothing to rectify the Admitted Defects), or indeed, how much it
+would have cost the Defendant to undertake the repairs, is a fact wholly
+within the Defendant’s knowledge. In particular, s 108 of the Evidence Act
+(Cap 97, 1997 Rev Ed) provides that “[w]hen any fact is especially within the
+knowledge of any person, the burden of proving that fact is upon him”.
+
+11 It is therefore surprising that the Defendant has not given any evidence at
+all in this regard. The Defendant did submit that under the contract it had
+entered into with its contractor, the latter was liable to rectify any defects
+within the defects liability period. However, the Defendant did not exhibit
+that contract nor produce any evidence of the sum that it would have incurred
+(whether zero or otherwise) to repair the Admitted Defects. I therefore find
+that the Defendant has not proven that the Plaintiff had failed to mitigate
+damages and proceed, on that basis, to assess the quantum of damages that the
+Plaintiff is entitled to for all defects (both Admitted Defects and Non-
+admitted Defects) that fall within the Defendant’s liability under the SPA.
+
+12 The upshot of this is that there is no difference between the Admitted
+Defects and Non-Admitted Defects. The only issue is whether a particular
+defect claimed to be such by the Plaintiff is one for which the Defendant is
+liable to rectify under the SPA. And if so, what is the reasonable cost to
+rectify that defect.
+
+The JTA Contract
+
+13 As a starting point, I find the pricing in the JTA Contract to be an
+accurate reflection of the reasonable costs for the rectification of those
+works that pertain to this assessment. I find that the manner in which that
+tender was called and awarded was reasonable under the circumstances. Although
+the Defendant’s expert gave reasons why this or that item was too high, I was
+not satisfied with the basis for those figures. With respect, while an
+expert’s opinion might be useful in making estimates, this cannot compare with
+the real-world pricing manifested in the JTA Contract. So long as the tender
+was called in a competitive manner and properly conducted, which I find it
+was, that has to be the best measure of the reasonable cost of carrying out
+the works. The final account for the JTA Contract came in at $897,338.10 plus
+$47,924.87 for the swimming pool, totalling $945,262.97.
+
+14 There is also the issue of whether each item of work in the JTA Contract
+amounts to a defect under the SPA and whether other factors are in play that
+would reduce the quantum that the Defendant would be contractually liable for.
+The Defendant submitted that in relation to certain items, the quantum of
+damages is affected on account of the following factors:
+
+(a) Betterment: the scope of the works carried out went beyond simply
+rectifying the defect in question;
+
+(b) Deterioration: the damage to the item had deteriorated because of the
+Plaintiff’s delay in carrying out the works;
+
+(c) Neglect: the damage to the item had worsened due to the Plaintiff’s
+failure to maintain the Property;
+
+(d) Architectural intent: certain items were built in a particular manner due
+to architectural intent and should not be considered defects; and
+
+(e) Warranty: these items came with third party warranties which could have
+been invoked without charge.
+
+15 I shall deal with these factors in turn. As I have stated above, the
+starting point is the pricing under the JTA Contract and I shall consider
+whether the prices are affected by any of the considerations listed in (a) to
+(e) above. In doing so I have referred to two documents submitted jointly by
+the parties:
+
+(1) The Scott Schedule (“SS”);
+
+(2) Summary of Plaintiff’s Position on Quantum (with Defendant’s responses)
+(“SPQ”).
+
+Betterment
+
+16 The Defendant submitted that some of the works carried out by JTA went
+beyond mere rectification and entail improvement to the item of work. I agree
+that the Plaintiff is only entitled to rectification of the defects and not to
+any additional costs to any works that improve the original works. However,
+there may be situations where the most reasonable or cheapest method of
+rectification results in an improvement to the item. In such a case the
+Plaintiff should be entitled to the full sum for that item. With these
+principles in mind, I turn to examine the individual items. The Defendant
+submitted that there are six items in the betterment category.
+
+17 The first item in the SPQ is the addition of a glass canopy over the
+atrium, which is an open area leading to the front door of the Property. 2
+
+##### Foot Note 2
+
+×
+
+SPQ at p 1.
+
+The Plaintiff found that when it rained, water flowed under the front door as
+the atrium did not have a roof. The Plaintiff submitted that providing a glass
+canopy over the atrium was the most practical and least costly solution that
+is in keeping with the design philosophy and the overall aesthetics of the
+Property. The Defendant has not proposed anything that can solve this problem
+in a practical, and aesthetically acceptable manner. It seems to me that the
+problem is that the Italian themed design of the Property has not taken into
+account the high rainfall experienced in Singapore and has used aspects of
+design that might be applicable in a Mediterranean environment. I therefore
+agree that the Plaintiff’s solution of a glass canopy is the most reasonable
+solution to the defect and there should not be any reduction in the award on
+the ground of betterment.
+
+18 The second item involves the installation of powder coated aluminium
+coating. 3
+
+##### Foot Note 3
+
+×
+
+SPQ at p 3.
+
+The Plaintiff’s position is that this is the most effective and practical
+method of rectifying the defect. I agree with the Plaintiff that its solution
+is a reasonable one. Further, the Defendant’s solution is estimated to cost
+$9,180 as opposed to the Plaintiff’s which costs $12,000, which is 25%
+cheaper. However, the Defendant’s costing is an estimate as opposed to the
+Plaintiff’s which is the actual price paid. In these circumstances, there may
+not be a substantive difference were the Defendant’s method to go out to
+tender. I therefore agree with the Plaintiff’s solution and pricing.
+
+19 The third item is the glass screen and door to the attic bedroom. 4
+
+##### Foot Note 4
+
+×
+
+SPQ at p 4.
+
+The Defendant’s position here turns mainly on there being no functional
+deficiency. However, given the quality of the Property, I am of the view that
+aesthetic deficiency is a substantive defect. In addition, there were a number
+of issues with the swing of the door. I agree with the Plaintiff’s solution
+and pricing.
+
+20 The fourth item relates to the glass screen at the shower cubicle in the
+master bedroom. 5
+
+##### Foot Note 5
+
+×
+
+SPQ at p 5.
+
+The Plaintiff’s complaint is that the cubicle was only 840mm wide, which is
+too narrow for a high-end master bedroom that is designed for two people.
+Firstly, the Defendant has denied that it was designed for two people and the
+Plaintiff has not produced any evidence of this rather unusual design.
+Secondly, there would be floor plans in the brochure for the Property and the
+Plaintiff did not produce those to show that the cubicle actually built was
+not what was shown in the brochure. I therefore agree with the Defendant on
+this item. The Plaintiff’s pricing for this is $11,200 (at items 180 and 181
+of the SS), compared to the Defendant’s pricing of $3,435. After taking into
+account GST, this amounts to a deduction of $8,308.55.
+
+21 The fifth item is the installation of full height glass screen at the
+living room to replace the door that opened out to the patio. 6
+
+##### Foot Note 6
+
+×
+
+SPQ at p 6.
+
+The Plaintiff’s position is that, like in the case of the front door, the
+exposed door here is vulnerable to water seepage during heavy rain. The
+Plaintiff pointed out that the brochure featured double height glass panels
+without a door. The Defendant does not dispute this but claimed that the
+design that was finally submitted to BCA provided for the door which was set
+into the double height glass panel. There is no evidence that the final design
+was shown to the Plaintiff, let alone approved by him. The Defendant had
+represented to the Plaintiff that this was what he was getting, but gave him
+something different, and more importantly, something that does not work in our
+climate. This was not what the Plaintiff had bargained for. I therefore hold
+that the Plaintiff is entitled to his rectification.
+
+22 The sixth item is the installation of skylight canopy at the Airwell of
+bathroom 5 and the reading room. 7
+
+##### Foot Note 7
+
+×
+
+SPQ at p 8.
+
+I agree with the Plaintiff’s position that this is the most practical and
+effective manner of rectification.
+
+23 The seventh item concerns the installation of the swing door to the shower
+cubicle. 8
+
+##### Foot Note 8
+
+×
+
+SPQ at p 10.
+
+I find the Plaintiff’s method to be reasonable.
+
+24 The eighth and last item under betterment deals with tiling work to the
+Airwell. 9
+
+##### Foot Note 9
+
+×
+
+SPQ at p 10.
+
+I find the Plaintiff’s method to be reasonable.
+
+Deterioration
+
+25 As a result of the Plaintiff not permitting the Defendant to enter the
+Property to effect the repairs and the resulting standoff, the rectification
+works only started on 1 September 2014. I find that, had the Plaintiff acted
+reasonably, the rectification works could have commenced, at the latest, by 1
+January 2013, about nine months after the Property was handed over. Hence
+there was a delay of one year and eight months caused by the Plaintiff’s
+unreasonable conduct. During this period, the Property was vacant. The
+Defendant claimed that there was extensive deterioration during this period
+which the Plaintiff denied. From the evidence of the experts, I am satisfied
+that there was some degree of deterioration, the only issue is its extent. The
+items are set out in 25 pages of the SPQ. Given the quantity and nature of the
+items I find that it is expedient to put an overall percentage discount on the
+cost of rectification for these items as a detailed examination of each item
+would not be worthwhile, nor would it necessarily result in a more accurate
+figure. I therefore invited counsel to make further submissions on a
+deterioration discount, based on my finding of a delay of one year and eight
+months.
+
+26 The Plaintiff’s submission was that there should be no deterioration
+discount because, essentially, the methods proposed by the Plaintiff generally
+involved wholesale replacement of the affected parts. The Plaintiff also
+submitted that there was no evidence of deterioration. However, I find that
+there was evidence of deterioration as it is the Plaintiff’s own case that
+there was flooding and roof leaks. In my view, the Plaintiff’s submission
+disregards the fact that had the rectification works been done timeously, some
+of the parts may not have deteriorated to such an extent that wholesale
+replacement is required.
+
+27 I am therefore of the view that there should be a deterioration discount
+for the period of delay of one year and eight months. The Defendant had
+submitted various discounts for items that have suffered deterioration. I am
+of the view that it is appropriate in this case to take it in the round and
+apply a flat discount for those items. Taking into account the Defendant’s
+submissions on the individual items, I assess the discount to be a flat 10%
+applied over the sum assessed for the items listed in [133] of the Defendant’s
+Closing Submissions (Quantum). This amounts to $20,000 (rounded off).
+
+Neglect
+
+28 The SPQ also contains numerous items that the Defendant claimed were the
+result of neglect or lack of maintenance by the Plaintiff. 10
+
+##### Foot Note 10
+
+×
+
+SPQ at pp 35 – 49. These are listed in the Scott Schedule (“SS”) as item
+numbers 7, 12, 23, 33, 41, 53, 78, 88, 89, 100, 105, 113, 115, 126, 129, 154,
+158, 160, 163, 165, 167, 195, 197, 202, 208, 209, 210, 222, 223, 224, 225,
+229, 233, 269, 282, 285, 290, 296, 300, 301, 310, 321, 325, 330, 336, 341,
+345, 346, 347, 352, 353, 356, 358, 368, 371, 372, 374, 377, 378, 382, 386,
+387, 400, 402, 406, 408, 409, 417, 418, 419, 423, 426, 428, 430, 432, 445,
+447, 448, 455, 460, 465, 475, 477, 480 and 492.
+
+29 Considering the description for those items, it is difficult to conclude
+that the condition of those parts of the Property was a natural outcome of the
+defect or that a lack of maintenance had worsened it. What is described were
+certainly defects in the Property. If the Defendant alleged that this was
+caused by neglect or lack of maintenance, then the burden of proof lies on
+them. I accept that it is difficult for the Defendant to mount such evidence,
+but that does not alter or relieve them of that burden. I find that the
+Defendant has not made out its case that these items were caused by or
+aggravated by neglect of lack of maintenance.
+
+Architectural intent
+
+30 The Defendant contends that the following five items listed in the SPQ are
+not defects as claimed by the Plaintiff, but were designed in that manner by
+the architect. 11
+
+##### Foot Note 11
+
+×
+
+SPQ at pp 49 – 51.
+
+I shall consider each item in turn.
+
+31 The first is the timber flooring. The Plaintiff complained that the finish
+to the timber flooring throughout the Property was patchy and poorly sanded.
+The Defendant does not deny that this was the condition of the timber flooring
+but claims that this state of the flooring was intended by the architect. The
+Defendant cited marketing material which stated that the Property would
+feature “undecorated planes”, an absence of “embellishment of any kind” and an
+“uncompromising” use of natural material, which supported an intention to
+leave the timber in its natural, unembellished state to produce a rustic look.
+I am not sure with all that fine marble in the Property, that it can be
+described as “rustic”. Patchy, unpolished timber floors certainly do not
+feature in the marketing material exhibited by the Plaintiff. In my view, the
+Defendant’s submission had used words in the marketing material out of context
+in a vain attempt to reject these defects. I find that this is a defect that
+the Defendant is liable for.
+
+32 The second is the sealant to the guard screen listed as item 177 in the SS.
+There is no evidence that the architectural intent was to have different
+colours on either side.
+
+33 The third is the cabinet doors in the wet kitchen (SS item 252). The
+Plaintiff stated there were neither handles nor finger pulls to enable the
+doors to be opened easily. The Defendant asserts that they can be opened
+without explaining how. I find for the Plaintiff on this item.
+
+34 The fourth is the external door to the guest room (SS item 302). The
+Plaintiff complained of poor finishing to both sides of the door. The
+Defendant stated that this staining is part of the architectural intent. I
+find it puzzling that this should be the only door that the architect intended
+to have such staining. I find for the Plaintiff on this item.
+
+35 The fifth is the timber lattice screen (SS item 490). This is erected at
+one side of the atrium and is an architectural feature. The Plaintiff
+complained that this was constructed without any weather protection.
+Furthermore, it sits directly on the stone flooring and is affected by
+rainwater. The Plaintiff contends that this is wholly unacceptable in the high
+rainfall environment. The Defendant contends that this being an external
+architectural feature, would be susceptible to the weather and, while some
+degree of maintenance would be necessary, it is not a defect. I would agree
+with the Defendant. The architect had designed the atrium to be bordered at
+one side with a wooden lattice structure. Wood, left in the open, would be
+susceptible to much quicker deterioration than most other building material.
+It is not a design defect like that of an unroofed atrium which results in
+water flooding through the front door. It is a matter of choice of material,
+and the one chosen requires more maintenance. I therefore hold for the
+Defendant on this item and agree with their cost estimation of $500 for this
+item. This amounts to a deduction of $3,745.00.
+
+Warranty
+
+36 The Defendant claims that the following four items listed in the SPQ are
+covered by warranties and the Plaintiff ought to have invoked them for
+rectification of those items. 12
+
+##### Foot Note 12
+
+×
+
+SPQ at pp 51 – 52.
+
+37 The first is SS item 43, a leak in the base of the wall in the Attic lift
+lobby through which an air-conditioning pipe passes. The Plaintiff states that
+this is not a matter that is covered by the water-proofing. The Defendant
+merely takes the position that the water leakage is a seepage through the slab
+and not through the hole where the pipe passes. I find for the Plaintiff on
+this item.
+
+38 The second is SS item 95, leakage beneath the glass screen at the staircase
+between the Attic and the second storey. Again, I agree with the Plaintiff
+that this is not covered by the warranty.
+
+39 The third is SS item 340, water ingress from the swimming pool. The
+Plaintiff stated that the warranty for basement substructure waterproofing
+would generally not cover a swimming pool as it is a water retaining
+structure. The Defendant, on whom the burden rests to prove this point, did
+not show how the warranty covered the swimming pool. I find for the Plaintiff
+on this point.
+
+40 The fourth is SS item 494, leakage above swimming pool pump room door in
+the Laundry Room which is located in the basement. This is related to the
+leakage from the swimming pool. As with the swimming pool, I find for the
+Plaintiff on this point.
+
+High Value Items
+
+41 The parties have very helpfully provided detailed submissions on 18 high
+value items, to which it is worthwhile to pay special attention. I shall deal
+with each in turn.
+
+Preliminaries
+
+42 The JTA Contract was awarded at $1,213,200 comprising of:
+
+(1) Preliminaries: $100,000
+
+(2) Rectification works: $998,000
+
+(3) Provisional sum: $115,200
+
+43 The Defendant submits that “the preliminaries form 13.91% of the total cost
+in JTA’s progress claim 6”. However, JTA’s progress claim 6 is for $228,381.52
+and it is not clear what is the relevance of this fact. If the Defendant’s
+argument is that $100,000 is too high a figure for a building contract of this
+scale, it should be made by comparing it with the total contract sum of
+$1,213,200 (which is 8.2%) or the total contract sum less provisional sum of
+$1,098,000 (which is 9.1%). By no measure is the preliminaries item anywhere
+near the rather puzzling 13.91% relied on by the Defendant in their
+submission. This puts paid to the Defendant’s submission that as a percentage
+of the total contract this is too high because that is based on the figure of
+13.91%. I would state that a preliminaries percentage of 8% to 10% appears,
+from my experience, to be a reasonable figure.
+
+44 The Plaintiff submits that this pricing was obtained by way of a
+competitive tender and done at arm’s length. I should state that at that time,
+it was by no means certain that the Plaintiff would succeed in its claim
+against the Defendant, particularly in view of the uncertainty on the issue of
+the defects liability clause. The Plaintiff had no reason to award a contract
+in which the price is not a competitive one.
+
+45 Finally, I would add that it is well known that a contractor sets his
+figure for the preliminaries item in accordance with his pricing strategy. He
+may have front loaded some costs into the preliminaries, or distributed some
+of his overheads into the prices of the individual items of work. So long as a
+substantive part of the contract was performed, as was the case here, it is
+not fair to complain the preliminaries sum is too high, which in any event
+does not appear to be the case here.
+
+46 I therefore find that the preliminaries sum is fair and reasonable.
+However, to the extent that the cost of any item is deducted because the
+Defendant is not found to be liable for it, I agree with the Defendant that
+the preliminaries should be reduced pro rata. The denominator should include
+the provisional sum as JTA is obliged to undertake additional works up to the
+entire provisional sum without entitlement to additional preliminaries. This
+entails a reduction of $28,374.23.
+
+Paintwork
+
+47 Extensive painting was carried out on the Property after the repairs were
+done. The Defendant’s main submission on this is that approximately half of
+the rectification works were due to maintenance and deterioration concerns. In
+view of my finding that the Defendant had failed to prove lack of maintenance,
+and that the deterioration would only justify a 10% reduction, I find that the
+extensive rectification works that had to be carried out over virtually the
+entirety of the Property justified the painting works claimed for.
+
+Timber strip flooring
+
+48 This item is considered at [31] above.
+
+Aluminium capping and lightning conductor tape
+
+49 This item is considered at [18] above.
+
+Aluminium glazing
+
+50 The bone of contention between the parties is an item for scaffolding
+priced at $3,000. The Plaintiff had altered the scope of works from the
+original JTA tender, but argued that it was brought down from the original
+price for this item of $50,000, to $38,950. The Defendant argued that a sum of
+$3,000 was priced in the revised works which should have been covered under
+the preliminaries. I am of the view that JTA would have priced for substantial
+scaffolding as there is much work at heights, including painting and works at
+the upper levels and therefore the scaffolding ought not to have been priced
+in. There will therefore be a reduction of $3,210 under this item.
+
+Attic bedroom glass door
+
+51 This item is considered at [19] above.
+
+Shower cubicles in attic, 2F, 1F bedrooms
+
+52 The Plaintiff’s position is that the shower cubicles in the various
+bedrooms were defective ranging from poor position of cut off drains to
+corroded screws and lack of panel to cut off water splashing from the showers.
+I accept the Plaintiff’s evidence on these items.
+
+Timber decking
+
+53 I accept the Plaintiff’s submission that the timber decking was defective
+and, in any event, needed to be removed for access to repair other defects.
+
+Flat roof
+
+54 The Defendant does not deny the Plaintiff’s allegations of leaks to the
+flat roof over the attic bedroom, but avers that the Plaintiff should have
+made a claim on the warranty. I agree with the Plaintiff’s submission that
+this is not covered by the warranty.
+
+Timber lattice in living/dining area
+
+55 I agree with the Plaintiff that this is defective and find for the
+Plaintiff on this issue.
+
+Replacement of full height glass door with glass panel at patio
+
+56 This is covered at [21] above.
+
+Basement toilet
+
+57 I find for the Plaintiff that the bathroom construction was defective in
+that the floor did not drain properly and that the repairs were necessary.
+
+Skylight at basement airwell
+
+58 This item is dealt with at [22] above.
+
+Repair works to basement walls
+
+59 The Plaintiff’s expert noted that there was rainwater seepage due to poor
+detailing. The Defendant’s expert accepted that there was water ingress. I
+find for the Plaintiff on this issue.
+
+Timber decking at patio
+
+60 The Plaintiff provided details of the defects affecting the timber decking
+at the patio. The Defendant’s main contention is that the extent of the works
+carried out is not justified. I agree with the Plaintiff on this issue.
+
+Repair work to timber lattice
+
+61 The parties agree that there is a missing piece to the timber lattice above
+the air well, but disagree on costs. The Plaintiff’s claim is for $6,000,
+which the Defendant submits is “astronomical”. I also think that this appears
+high. I therefore accept the Defendant’s estimate of $500. This results in a
+deduction of $5,885.00.
+
+Turfing adjacent to car lift
+
+62 The Plaintiff complained that the turfed area adjacent to the car lift was
+uneven. The Plaintiff produced photographs to show the uneven ground. The
+Defendant contends that this was due to lack of maintenance of the grass and
+underlying soil. I accept that if there was subsidence over the 2-year period
+between TOP and the repair works, it would not be a defect. However, the
+evidence appears to be that the ground was uneven from TOP. I therefore find
+for the Plaintiff on this issue.
+
+Glass canopy
+
+63 This issue has been dealt with at [17] above.
+
+Leak at basement laundry room
+
+64 I have dealt with the issue of warranty at [40] above.
+
+Lifts
+
+65 The issue concerning the lifts is a bit of a saga, which is set out in [28]
+to [34] and [118] to [130] of the First Judgment. I found the lifts to be
+defective and held that the Plaintiff had a right to claim damages even though
+he had denied access to the lift supplier, Gylet, to perform the repairs
+(First Judgment at [131]). I further held, at [132] of the First Judgment,
+that whether this refusal constituted failure on the part of the Plaintiff to
+mitigate damages would be determined at this assessment of damages.
+
+66 The Plaintiff’s main reason for his refusal to permit Gylet to undertake
+the rectification is that its managing director, Er Gay Yun Lin (“Gay”), had
+falsely declared that he had made an inspection of the Car Lift on 16 March
+2012. Gay had certified that he had conducted a load test on that day when in
+fact he did not turn up at the Property at all. When the Plaintiff asked for
+photographs of the test, Gay compounded the lie by producing photographs of
+tests done at a neighbouring unit. The Plaintiff complained that Gay had also
+provided signed but undated certificates to a neighbouring unit and that Gylet
+was not registered with BCA to carry out lift maintenance works.
+
+67 The Plaintiff also gave evidence that two of Gylet’s technicians had told
+him on two separate occasions that the car lift was unsafe for use and yet Gay
+had sent him an email to state that it was safe. The final straw for the
+Plaintiff was when “copious amounts of rain” were entering the car lift, an
+event that the Plaintiff recorded on video. The Plaintiff found that the
+Defendant was dismissive of his complaint, telling him that Gylet had informed
+them that the car lift was safe to use if he adhered to their recommendations
+and were cautious during usage. This was despite video evidence of substantial
+water coming in from the car lift.
+
+68 The Plaintiff set out a litany of other issues with the Lifts and his
+efforts to deal with it. Although the Plaintiff did appear somewhat abrasive
+towards the Defendant and Gylet, I find that on such an important matter of
+safety as passenger and car lifts, the response of the Defendant and Gylet did
+appear cavalier and dismissive. In addition, the clear dishonesty of Gay on a
+matter as important as certification and testing is something that would be
+alarming to anyone, what more the owner of the property in which Gay had
+installed potentially dangerous equipment. I find that the rather unique
+circumstances of the case justified the Plaintiff in taking the position that
+Gylet can no longer be trusted to rectify the defects in the lifts. I
+therefore find for the Plaintiff on this issue and award the sum of
+$297,500.00.
+
+Other Claims
+
+Loss of use of the Property
+
+69 The Plaintiff claimed for loss of use of the Property from the date of
+possession, 15 March 2012 until 27 May 2015, when JTA completed the works
+under the JTA Contract, on the ground that the Property was uninhabitable
+during this period on account of the defects as well as rectification works.
+The Plaintiff quantified these damages as follows:
+
+(a) $845,225.71 based on a rental rate of $22,000 for the entire period; and
+
+(b) $22,293.93 being the maintenance charges and other fees paid to Sentosa
+Cove Resort Management Pte Ltd over the same period.
+
+70 The Plaintiff gave the following evidence in respect of this item of claim.
+In his AEIC, he said that he was claiming for: 13
+
+##### Foot Note 13
+
+×
+
+Plaintiff’s AEIC at para 220(c).
+
+“loss of use of the Property arising from the Plaintiff’s deprivation of the
+use of the Property from the time I took possession on 15 March 2012 till 27
+May 2015, when JTA Construction completed the rectification works, amounting
+to $845,225.71 (calculated at a rate of S$22,000 per month or $709.67 per day,
+as reflected in the Letter of Intent) plus maintenance charges and other fees
+paid to Sentosa Cove Resort Management Pte Ltd amounting to $22,293.93. Copies
+of a Letter of Intent for tenancy of the Property and supporting invoices for
+maintenance charges and other fees paid to Sentosa Cove Resort Management Pte
+Ltd are annexed hereto …”
+
+71 The Letter of Intent (“LOI”) exhibited by the Plaintiff is on a standard
+form of ERA Realty Network Pte Ltd (“ERA”). It is dated 22 May 2015 and states
+that it is “Subject to Contract”. It is not addressed specifically to the
+Plaintiff, but to “Owner”. However, the address of the premises it relates to
+is not specified. The tenor of the LOI is a statement by ERA that it has a
+tenant who has the intention to rent the unspecified premises from the “Owner”
+of the said unspecified premises at $22,000 per month from 1 June 2015. The
+LOI states that a cheque for $22,000 is enclosed but the space for the cheque
+number is left blank. The LOI is signed by one Moh Kim Choo, a registered
+housing agent and by one Zhang Qiao Wen as the tenant. The section for the
+landlord’s acceptance is blank. Neither the agent nor the prospective tenant
+was called by the Plaintiff to give evidence. The Plaintiff bears the burden
+of proof on this issue and I find the evidence he has adduced to be
+insufficient to prove that the market rental was $22,000.
+
+72 During cross-examination, the Plaintiff agreed that the Property was never
+tenanted out after 27 May 2015. He said that his primary residence was on the
+mainland and his intention was to stay at the Property from time to time. His
+loss of use of the Property, therefore, did not extend to the full period he
+is claiming but only to the unspecified periods that he had intended to stay
+in it.
+
+73 Furthermore, I have found that the Plaintiff had breached the defects
+liability clause in not permitting the Defendant to enter the premises to
+carry out rectification works. I had also found that he had acted unreasonably
+in dealing with this matter and this had caused delays to the rectification.
+Even if the Plaintiff were entitled on the basis of equivalent rental, it
+cannot be for the entire period.
+
+74 Therefore, having rejected his claim that the loss should be computed at
+$22,000 per month for the entire period, and in the absence of any other
+evidence, this part of his loss of use claim must fail entirely. In relation
+to the fees that the Plaintiff had paid to Sentosa Cove Resort Management Pte
+Ltd amounting to $22,293.93, the Defendant does not dispute that this sum had
+been paid. However, as I have found above, the Plaintiff is not entitled to
+his loss over the entire period that he had claimed. As he had also claimed
+for a specific sum, this claim also fails.
+
+Investigation costs
+
+75 In his statement of claim, the Plaintiff claimed the following: 14
+
+##### Foot Note 14
+
+×
+
+Plaintiff’s Statement of Claim (Amendment No 1) at para 66(B).
+
+“costs incurred in engaging independent third parties to investigate the
+defects in the Property, to prepare lists to notify the Defendant of these
+defects and to engage architects and engineers in respect of the rectification
+works, amounting to $135,405.29 to date, and all and any such continuing
+costs.”
+
+76 The evidence in support of this claim is found in the Plaintiff’s AEIC. 15
+
+##### Foot Note 15
+
+×
+
+Plaintiff’s AEIC at para 220(b).
+
+He said that he had engaged independent third parties to investigate the
+defects in the Property, to prepare lists to notify the Defendant of the
+defects and to engage architects and engineers in respect of the rectification
+works. He exhibited invoices from a number of building professionals and other
+entities.
+
+77 The Defendant submitted that the Plaintiff was not entitled to the fees for
+the following consultants:
+
+(a) IAQ Consultants Pte Ltd, as the Plaintiff had not provided evidence to
+justify their engagement.
+
+(b) RG Building Surveyors as the Plaintiff had provided no valid reason for
+engaging them when he had already engaged Mr Casimir whose fees are claimed
+under CC Building Surveyors Pte Ltd.
+
+(c) YF Chan Consulting Engineers as the Plaintiff had not provided evidence to
+justify this engagement.
+
+78 The Plaintiff had asserted in his AEIC that these three consultants were
+necessary and was not cross-examined on his reasons. In my view, given the
+extent of the defects, it was reasonable for the Plaintiff to engage these
+three consultants. The Defendant did not challenge the fees paid to the other
+entities. I therefore allow the Plaintiff’s claim of $135,405.29 for
+investigation costs.
+
+Conclusion
+
+79 I have therefore found six deductions from [20], [27], [35], [46], [50],
+[61] above, totalling $69,522.78. There are two additions, $297,500.00 for the
+Lifts at [68] and $135,405.29 for Investigation costs at [78]. The final
+figure is computed as follows:
+
+Final sum under JTA:| $ 945,262.97  
+---|---  
+Less Deductions:| $ 69,522.78  
+Add|  
+Lifts: | $ 297,500.00  
+Investigation costs:| $ 135,405.29  
+Total: | $1,308,645.48  
+  
+80 Accordingly, I give judgment for the Plaintiff in the sum of $1,308,645.48.
+Unless any party has a submission that a different costs order ought to be
+made, for which there is liberty to apply, I make the usual order of costs to
+be paid by the Defendant to the Plaintiff to be taxed unless agreed.
+
+81 Finally, I wish to record my deep gratitude to both Mr Daniel Cai and Mr
+Qabir Singh Sandhu for their written submissions and invaluable assistance
+which facilitated the swift conclusion of this rather complicated assessment
+of damages.
+
+Lee Seiu Kin  
+Judge of the High Court  
+---  
+  
+Daniel Cai and Tan Sih Si (Drew &Napier LLC) for the plaintiff.
+
+Joseph Lee and Qabir Singh Sandhu (LVM Law Chambers LLC) for the defendant.
+
+Certified True Copy
+
+Manager, Judge’s Chambers
+
+Supreme Court
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 2: 31 Mar 2022 (12:24 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

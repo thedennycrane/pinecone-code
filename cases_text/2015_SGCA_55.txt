@@ -1,0 +1,1478 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+##  Y.E.S. F&B Group Pte Ltd _v_ Soup Restaurant Singapore Pte Ltd (formerly
+known as Soup Restaurant (Causeway Point) Pte Ltd)  
+[2015] SGCA 55
+
+Case Number| :| Civil Appeal No 193 of 2014  
+---|---|---  
+Decision Date| :| 02 October 2015  
+Tribunal/Court| :| Court of Appeal  
+Coram| :|  Sundaresh Menon CJ; Chao Hick Tin JA; Andrew Phang Boon Leong JA  
+Counsel Name(s)| :|  Tan Gim Hai Adrian, Ong Pei Ching, Loh Jien Li and Lim
+Siok Khoon (Morgan Lewis Stamford LLC) for the appellant; Edwin Tong SC,
+Kenneth Lim Tao Chung, Lee May Ling and Chua Xinying (Allen & Gledhill LLP)
+for the respondent.  
+Parties| :|  Y.E.S. F&B GROUP PTE LTD — SOUP RESTAURANT SINGAPORE PTE LTD
+(PREVIOUSLY KNOWN AS SOUP RESTAURANT (CAUSEWAY POINT) PTE LTD)  
+  
+[LawNet Editorial Note: This was an appeal from the decision of the High Court
+in [2014] SGHC 246.]
+
+2 October 2015| Judgment reserved.  
+---|---  
+  
+Andrew Phang Boon Leong JA (delivering the judgment of the court):
+
+Introduction
+
+1 Not surprisingly, the issue of interpretation has – in the nature of things
+– always been a central one in the common law of contract. As Lord Steyn aptly
+observed in an extrajudicial context (in “Contract Law: Fulfilling the
+Reasonable Expectations of Honest Men” (1997) 113 LQR 433 at 439), “[d]isputes
+about the meaning of contracts is one of the largest sources of contractual
+litigation”.
+
+2 Indeed, if the relatively recent proliferation of extremely scholarly texts
+on this particular issue from both England and Australia by an eminent judge
+as well as eminent professors and practitioners is anything to go by (see, for
+example, Sir Kim Lewison, _The Interpretation of Contracts_ (Sweet & Maxwell,
+5th Ed, 2011) (adapted for Australia in Sir Kim Lewison & David Hughes, _The
+Interpretation of Contracts in Australia_ (Sweet & Maxwell, 2011)); Gerard
+McMeel, _The Construction of Contracts – Interpretation, Implication, and
+Rectification_ (Oxford University Press, 2nd Ed, 2011); Richard Calnan,
+_Principles of Contractual Interpretation_ (Oxford University Press, 2013);
+and J W Carter, _The Construction of Commercial Contracts_ (Hart Publishing,
+2013)), this issue has become even more important in recent times. In the
+final analysis, however, much depends – as this court has observed in
+_Fairview Developments Pte Ltd v Ong & Ong Pte Ltd and another appeal_ [2014]
+2 SLR 318 (“ _Fairview Developments_ ”) at [47] (see below at [30]) – on _both
+the_** __text__**** _as well as_** _the_** __context__** of the contract. This
+is no mere catchphrase. In our view, it captures _the essence_ of what the
+court does – _and_ ought to do – in the context of the **_interpretation_** of
+contracts. However, since the context of each case can vary so greatly, much
+of the difficulty for the court concerned lies in the sphere of
+**__application__**. The present appeal is yet another illustration in this
+particular regard.
+
+The background facts
+
+The parties
+
+3 The appellant, Y.E.S F&B Group Pte Ltd (“YES”), was the defendant in the
+proceedings below. It is a Singapore incorporated company in the business of
+running food and beverage outlets, in particular, a chain of Chinese
+restaurants under the name _Dian Xiao Er_. YES was incorporated in 2002. It
+was founded by the husband and wife team of Mr Yik Kuen Koon (“Yik”) – who
+appeared as the sole witness for YES in the trial below – and Ms Eliza Gunawan
+(“Eliza”). They are the current shareholders and directors of YES.
+
+4 The respondent, Soup Restaurant Singapore Pte Ltd (“Soup”), was the
+plaintiff in the proceedings below. It is also a Singapore incorporated
+company which operates a chain of Chinese restaurants. These restaurants are
+run under the name _Soup Restaurant_. Soup is wholly-owned by its parent
+company, Soup Restaurant Group Limited (“SRGL”). Mr Mok Yip Peng (“Mok”), a
+director of Soup, appeared as its only witness in the trial below.
+
+5 Today, YES and Soup are _competitors_ in the food and beverage industry.
+However, it is important to bear in mind that, when the contract which is the
+subject of the present appeal was entered into (in October 2009 (see below at
+[13])), the complexion of their relationship was very different. At that time,
+YES and Soup were in fact _related companies_ within the same corporate
+structure. By way of background, their previous relationship as sister
+companies began sometime in 2006. This was when SRGL and another of its
+subsidiaries, Soup Restaurant Investments Pte Ltd (“SRI”), acquired a majority
+stake of 50.98% in YES, thereby bringing YES into the SRGL group of companies,
+which included Soup. Yik and Eliza held the remaining 49.02% of shares in YES
+pursuant to this acquisition. However, as will become apparent in due course,
+fractures in the SRGL corporate group began to emerge in early 2010 and, by
+June 2012, Yik and Eliza had bought over all of SRGL and SRI’s shareholding in
+YES; this was done pursuant to a settlement agreement that had been entered
+into to resolve a minority oppression suit commenced by Yik and Eliza (see
+below at [18]–[19]). The corporate relationship between YES and Soup was thus
+brought to a formal end, and this explains their present-day status as
+competitors.
+
+6 The competition between the parties today is particularly evident in the
+shopping mall known as Vivocity where they occupy adjacent units under their
+respective leases with the landlord. At present, YES operates its _Dian Xiao
+Er_ restaurant out of Unit #02-137/138 (“Unit 137”) while Soup operates its
+_Soup Restaurant_ business out of the neighbouring Unit #02-141 (“Unit 141”).
+However, this has not always been the case. At one point, when the
+relationship between the parties as sister companies was still good, they had
+entered into a sub-lease agreement pertaining to a part of Unit 141 with Soup
+as the sub-lessor and YES as the sub-lessee. Essentially, that agreement
+allowed for the space in Unit 141 to be shared and it is the interpretation of
+the terms of this agreement – in particular, for the purpose of discerning the
+_duration_ for which it remains valid and subsisting – that forms the central
+focus of this appeal. The context surrounding the execution of this sub-lease
+agreement is, as alluded to earlier, of utmost importance; hence we turn to
+set out the relevant factual matrix in that regard.
+
+YES’s lease of Unit 137
+
+7 YES was first to set up shop in Vivocity. This was sometime in October 2006
+when it entered into a lease with the landlord to operate a _Dian Xiao Er_
+outlet. This lease was for a period of three years and so expired in October
+2009. However, it did contain an option to renew for a further period of three
+years.
+
+8 At the end of the aforementioned lease, the option was exercised by YES upon
+which it entered into a second lease with the landlord for Unit 137. For
+reasons which will become apparent later, it is of some importance to note two
+aspects of this second lease – first, that its expiry date was fixed as at 6
+October 2012 and, secondly, that, unlike YES’s initial lease in 2006, this
+subsequent lease did not contain an option to renew.
+
+9 Presently, YES occupies Unit 137 on the terms set out in a third lease. This
+was negotiated with the landlord at the expiry of the second lease.
+
+Soup’s lease of Unit 141
+
+10 It is undisputed that, during the period of YES’s first lease (which began
+in 2006), its _Dian Xiao Er_ outlet performed well. Therefore, sometime in
+April 2009, which was prior to the expiry of the said lease, the landlord
+offered YES the opportunity to expand its pre-existing business at Unit 137 by
+taking up a new lease of the adjoining Unit 141. YES was keen on the idea of
+expanding its business and approached Soup to inform the latter about the
+landlord’s offer. YES and Soup, it should be mentioned, were already sister
+companies by this time. Discussions ensued between the parties. Importantly,
+it appears that Soup did not need the entire premises at Unit 141 as it
+expressed only an interest to be the main tenant of Unit 141; in this
+connection, Soup seemed happy to accommodate YES’s interest in expanding its
+pre-existing outlet at Unit 137 as Soup was willing to set aside a part of
+Unit 141 for YES’s use.
+
+11 Based on the understanding reached in these discussions, Yik (of YES)
+brought Mok (of Soup) to meet representatives of the landlord in respect of
+Unit 141. It was duly made known to the landlord that Soup intended to lease
+Unit 141 to operate a _Soup Restaurant_ outlet but that a part of this unit
+would be sub-leased to YES to expand its existing _Dian Xiao Er_ outlet from
+Unit 137. In this last-mentioned regard, it is important to note that an email
+from Soup to the landlord dated 1 July 2009 demonstrates that Soup was aware
+that YES also had _specific_ designs for its additional space in Unit 141,
+namely, that it was to be used for the expansion of _Dian Xiao Er’s_ kitchen
+and VIP rooms. Indeed, it was only after Soup had (as evidenced by this email)
+obtained the landlord’s confirmation that YES could use the additional space
+for this purpose that it (_ie_ , Soup) accepted the landlord’s letter of offer
+dated 19 June 2009 for the lease of Unit 141.
+
+12 The said letter of offer was subsequently reduced into a formal lease
+agreement dated 11 October 2010 (“the 2010 Lease Agreement”). Its terms
+provided that Soup’s lease of Unit 141 was for a three year term, commencing
+on 19 October 2009 and expiring on 18 October 2012. It also provided that the
+fixed rent (inclusive of GST) payable would be $42,117.28 per month.
+
+Soup sub-leases a part of Unit 141 to YES
+
+13 On the same day that Soup’s lease of Unit 141 commenced under the 2010
+Lease Agreement, _viz_ , 19 October 2009, it also entered into a sub-lease
+agreement with YES (“the Sub-Lease Agreement”) to let out a strip of Unit 141
+amounting to an area of 742.70 square feet (“the Sub-Leased Premises”). This
+was done pursuant to the parties’ agreement to share Unit 141 which, as stated
+above, Soup had communicated to the landlord prior to accepting the 19 June
+2009 letter of offer.
+
+14 The Sub-Lease Agreement is a simple two-page document. According to Mok, it
+was drafted by the company secretary of Soup, and apparently without any legal
+assistance. As the terms of this agreement are central to the present dispute,
+we set them out here in their entirety:
+
+1\. Soup Restaurant (Causeway Point) Pte Ltd (the “Company”) had entered into
+an agreement (the “Agreement”) with VivoCity Pte Ltd as trustee of VivoCity
+Trust (the “Landlord”) on 19 June 2009 in respect of the lease of 1
+HarbourFront Walk #02-141 VivoCity S(098585) to operate both “Soup Restaurant”
+and “Dian Xiao Er” (“DXE”) brands.
+
+2\. Y.E.S F & B Group Pte Ltd (“YES”) had sub-leased a part of the above space
+to operate DXE with the consent from the Landlord.
+
+3\. By entering into this agreement, YES agrees:
+
+i) To be bounded by the same terms and conditions in the lease agreement
+between the Company and the Landlord on a back-to-back basis; and
+
+ii) To pay the Company a monthly fixed rental of $9,284.64 (excluding
+prevailing GST) for an area of 742.70 square feet in advance on the first day
+of each month without demand.
+
+4\. _This agreement shall survive as long as_** _the Company’s lease_** _with
+the Landlord is not terminated._
+
+[emphasis added in italics and bold italics]
+
+15 The construction of cl 4 is the subject of much disagreement between the
+parties, in particular, the meaning to be attributed to the term “ _the
+Company’s lease_ ”. What does this refer to? It was clear that the choice
+between the parties essentially boiled down to what, in broad terms, may be
+described as either a _generic_ lease or a _particular_ lease. At this
+juncture, it is convenient to elaborate upon the parties’ respective
+positions:
+
+(a) Soup preferred the narrower interpretation of cl 4. According to Soup,
+“the Company’s lease” in cl 4 referred specifically to _that particular lease_
+which was in force between Soup and the landlord at the time the Sub-Lease
+Agreement was entered into, namely, the lease that was later formalised in the
+2010 Lease Agreement. Soup therefore submitted that, by cl 4, the Sub-Lease
+Agreement terminated in tandem with the expiry of the 2010 Lease Agreement on
+18 October 2012. From that point onwards, Soup argued that YES’s continued
+occupation of the Sub-Leased Premises, despite Soup’s requests for vacant
+possession (see below at [22]), was wrongful and thus claimed for damages
+flowing therefrom.
+
+(b) YES adopted the alternative interpretation of cl 4. According to YES, “the
+Company’s lease” in cl 4 was, in a sense, a blanket term that was not tied to
+any one particular lease – it was, instead, a broad reference to _any lease_
+which Soup had with the landlord in respect of Unit 141. The practical
+consequence of this reading of cl 4 was that, so long as Soup continued to
+lease Unit 141 from the landlord, Soup was in turn obliged to sub-lease the
+Sub-Leased Premises to YES on terms, as cl 3(i) makes clear, which were back-
+to-back with the head lease in force for the time being. On this view, YES
+submitted that Soup had no basis for demanding vacant possession of the Sub-
+Leased Premises from 18 October 2012 onwards because Soup had entered into a
+fresh lease for Unit 141 with the landlord (which expires only in April 2016
+(see below at [26])); hence the Sub-Lease Agreement remained valid and
+subsisting by virtue of cl 4.
+
+16 Which of these interpretations is correct is the central issue in this
+appeal. For the moment, though, we return to our narration of the facts.
+
+17 Following on from the entry into the Sub-Lease Agreement, renovation works
+to extend _Dian Xiao Er’s_ VIP rooms and kitchen were, as contemplated by the
+parties, duly commenced on the Sub-Leased Premises. These works took place in
+November 2009 and the total cost came up to the not insubstantial sum of about
+$210,000. This sum was paid by YES but it appears from the evidence that Soup
+was very much involved in the renovations of the Sub-Leased Premises as well.
+For example, an email dated 2 November 2009 demonstrates that it was Soup
+which had requested the landlord’s permission for renovation works to be
+carried out on the Sub-Leased Premises. Further, in a separate email
+correspondence, it also appears that Soup made payment of the security deposit
+for the renovation works before seeking reimbursement from YES. This is
+reflective of the parties’ then-existing good commercial relationship.
+
+The minority oppression suit
+
+18 However, not long after the renovation works were completed, the
+relationship between Soup and YES turned sour. In February 2010, Yik and Eliza
+were removed as directors of YES while Mok was appointed as its Chief
+Executive Officer. This led to a minority oppression suit commenced by Yik and
+Eliza against YES, SRGL and SRI on 4 November 2010. It is relevant to note,
+however, that Soup was not a party to this action.
+
+19 The minority oppression suit was eventually resolved on 14 June 2012. This
+was when all the relevant parties (which did not include Soup) entered into a
+settlement agreement (“the Settlement Agreement”). It bears highlighting cl
+5.4 of this agreement, which reads as follows:
+
+… [T]he Parties agree that the sub-leases in respect of the Dian Xiao Er
+outlets at the following locations shall not be terminated and shall continue
+up to the expiry of the current sub-leases without any change in the terms
+thereof:-
+
+_Outlet Location_ |  _Current Expiry Date_  
+---|---  
+Ang Mo Kio Hub |  17 January 2013  
+Vivocity |  _6 October 2012_  
+  
+  
+
+[emphasis added in italics]
+
+20 It will be noticed from the preceding paragraph that the expiry date of the
+Sub-Lease Agreement was stated in cl 5.4 of the Settlement Agreement as 6
+October 2012; this is different from the date on which Soup’s head lease for
+Unit 141 was due to expire (_viz_ , 18 October 2012) but mirrors exactly the
+expiry date of YES’s second lease for Unit 137 (see above at [8]). This point
+is of some relevance to Soup’s submissions on appeal and we will return to
+elaborate on it in due course. For present purposes, it suffices to note that
+the 6 October 2012 expiry date in the Settlement Agreement was the original
+basis upon which Soup commenced the present action although, as alluded to at
+[15(a)] above, its claim finally came to rest on the wording in cl 4 of the
+Sub-Lease Agreement. This appears clearly from the procedural history of this
+matter.
+
+21 Before turning to the procedural history, it should be mentioned for
+completeness that YES has since handed over the Sub-Leased Premises to Soup.
+This was pursuant to an offer made by YES, without admission of liability, on
+22 May 2014. Soup accepted this offer and the handover was completed on 1
+October 2014.
+
+The procedural history
+
+22 On 1 October 2012, Soup’s solicitors wrote to YES, giving the latter notice
+to deliver vacant possession of the Sub-Leased Premises by 6 October 2012. YES
+did not comply with the notice and, after some further correspondence between
+the parties’ solicitors, Soup commenced these proceedings on 22 October 2012.
+
+23 In its original Statement of Claim, Soup pleaded that, pursuant to cl 5.4
+of the Settlement Agreement, the Sub-Lease Agreement had expired by effluxion
+of time on 6 October 2012. Accordingly, Soup claimed that, by wrongfully
+refusing to yield up possession of the Sub-Leased Premises, YES was retaining
+possession of it as a trespasser. Soup thus sought, _inter alia_ , vacant
+possession of the Sub-Leased Premises and damages.
+
+24 During the course of proceedings, YES applied to strike out Soup’s claim
+and this interlocutory matter came before Tay Yong Kwang J who made the
+observation that Soup was not a party to the Settlement Agreement; hence its
+reliance on that agreement appeared to raise an issue of privity.
+Nevertheless, Tay J refrained from striking out Soup’s entire claim because,
+by then, Soup had proposed amendments to its original Statement of Claim,
+pleading the Settlement Agreement as an alternative basis for its claim of
+wrongful occupation while premising its claim primarily on cl 4 of the Sub-
+Lease Agreement. Tay J therefore ordered Soup to delete all references to the
+Settlement Agreement and refused to strike out Soup’s entire claim.
+
+The pleadings
+
+25 In its Statement of Claim amended pursuant to Tay J’s order, Soup duly
+removed all references to the Settlement Agreement. Its case was now based
+entirely on the Sub-Lease Agreement, the duration of which, as elaborated
+above at [15(a)], it further claimed was tied by cl 4 to the 2010 Lease
+Agreement. Since the 2010 Lease Agreement expired on 18 October 2012, Soup
+argued that so too did the Sub-Lease Agreement.
+
+26 YES pleaded, on the other hand, that the Sub-Lease Agreement did not cease
+to have effect on 18 October 2012. This was because, prior to the expiry of
+the 2010 Lease Agreement, Soup had reached an agreement with the landlord over
+the renewal of its lease for Unit 141, which later came to be formalised in an
+agreement dated 26 November 2012. This new lease is the lease upon which Soup
+continues to occupy Unit 141 at present. It is for a term of three and a half
+years, commencing on 19 October 2012 and expiring only on 30 April 2016. Since
+YES understood cl 4 of the Sub-Lease Agreement as entitling it to possession
+of the Sub-Leased Premises for as long as Soup leased Unit 141 from the
+landlord, its case, given Soup’s renewal of the head lease, was that the Sub-
+Lease Agreement continued in force beyond 18 October 2012.
+
+The decision below
+
+27 The Judge below agreed with Soup’s construction of the Sub-Lease Agreement;
+hence he arrived at the conclusion that this agreement terminated on 18
+October 2012 (in tandem with the 2010 Lease Agreement) and, accordingly, that
+YES was in wrongful possession of the Sub-Leased Premises therefrom and liable
+to pay damages (see _Soup Restaurant Singapore Pte Ltd (formerly known as Soup
+Restaurant (Causeway Point) Pte Ltd) v Y.E.S. F &B Group Pte Ltd_ [2014] SGHC
+246 (“the Judgment”)). The essence of the Judge’s reasoning may be found at
+[17] of the Judgment, where he observed as follows:
+
+… [T]he Head Lease [_ie_ , the 2010 Lease Agreement] commenced on 19 October
+2009 and terminated by effluxion of time on 18 October 2012 when its three-
+year term came to an end. It follows that the sub-lease also terminated on 18
+October 2012 because:
+
+(a) cl 1 of the sub-lease agreement refers to the Head Lease and not to any
+other lease agreement;
+
+(b) Schedule 1 of the Head Lease states that the term of the Head Lease was
+for three years and expired on 18 October 2012;
+
+(c) in law, the existence of a sub-lease is premised on the subsistence of the
+head lease from which it is derived (see [13] above); and
+
+(d) cl 4 of the sub-lease agreement acknowledges the legal position stated
+above …, _ie_ , the sub-lease would end upon the termination of the Head
+Lease.
+
+Our decision
+
+28 The crux of both parties’ arguments on appeal remain broadly the same – YES
+continues to advance the interpretation that “the Company’s lease” in cl 4 of
+the Sub-Lease Agreement refers to a _generic_ head lease for Unit 141, while
+Soup stands by its view (as adopted by the Judge below) that the duration of
+the Sub-Lease Agreement is tied to the _particular_ head lease that was in
+force at the time of entry into the Sub-Lease Agreement, _viz_ , the lease as
+embodied in the 2010 Lease Agreement (see above at [15]).
+
+29 In order to determine which of these contrasting interpretations is
+correct, it is no doubt important to first have regard to the applicable
+principles that govern the interpretation of contracts.
+
+The applicable principles
+
+The principles stated
+
+30 As already alluded to at the outset of this judgment, what is crucial in
+relation to the resolution of the present appeal is a nuanced consideration of
+both the text as well as the context of the contract in question, _viz_ , the
+Sub-Lease Agreement. As this court observed in _Fairview Developments_ (at
+[47]):
+
+The reality is that there is often more than one immutable meaning to words,
+and _a fortiori_ , to phrases (see the decision of this court in [_PT Bakrie
+Investindo v Global Distressed Alpha Fund 1 Ltd Partnership_ [2013] 4 SLR
+1116] at [1]–[3]). When faced with rival meanings, the court must, in carrying
+out its role of giving effect to the objective intentions of the contracting
+parties, consider the relevant contractual, contextual and commercial
+background against which the document containing the disputed words and
+phrases came about. This can be summed up in the fundamental principle
+referred to above (at [4]), _viz_ , _text and context_ (and on the concept of
+context, see generally J W Carter, _The Construction of Commercial Contracts_
+(Hart Publishing, 2013) at chs 6 and 7). [emphasis in original]
+
+31 It is, of course, not inconceivable that the _text_ itself might be _plain
+and unambiguous inasmuch as it admits of one clear meaning_. Correlatively,
+this would also mean that there is a _coincidence_ between both text and
+context inasmuch as there is nothing untoward in the context which militates
+against what is the plain language of the text itself. But what if the meaning
+of the text concerned is plain and unambiguous but would lead to an absurd
+result (based on the objective evidence available (this would include, in a
+commercial case, arriving at a result which demonstrated an absence of
+business common sense))? As we shall see, this is not the situation in the
+present appeal as the relevant contractual text is _not_ , in fact, plain and
+unambiguous. However, we should think – at least by way of a preliminary
+observation – that, in such a situation, the court concerned ought to
+undertake a very careful analysis of the text and context in order to
+ascertain whether the text is indeed plain and unambiguous. It seems to us
+that, if the text is in fact plain and unambiguous, giving effect to it would
+usually _not_ (simultaneously) engender an _absurd_ result. Indeed, should an
+absurd result ensue, this would, in our view, be a strong indication that the
+text concerned is probably _inconsistent with_ the relevant _context_. The
+question then arises as to whether or not, _having regard to the relevant
+context_ , the text (on a _re_ -examination) is in fact as plain and
+unambiguous as was originally _thought_ to be the case (see also the
+observations of this court in _Sandar Aung v Parkway Hospitals Singapore Pte
+Ltd (trading as Mount Elizabeth Hospital) and another_ [2007] 2 SLR(R) 891 at
+[29]). We do note, however, that there may be _exceptional cases_ where the
+text is so clearly plain and unambiguous that the court is compelled to give
+effect to the meaning contained therein, _notwithstanding_ that an _absurd_
+result would ensue (a point which we deal with in more detail in _the next
+paragraph_). Nevertheless, we are also of the view that, in the nature of
+things, this would be _an extremely rare_ situation – not least because the
+law ought generally to lead to a _just and fair_ result (as opposed to an
+_absurd_ one). As we note below (at [35]), both text and context tend to
+_interact_ with each other and that the courts ought therefore to eschew an
+excessively formulaic and/or mechanistic approach.
+
+32 _However_ , _an important caveat_ is necessary at this particular juncture:
+there must be a _balance_ between the text and the context. In other words,
+the context _cannot_ be utilised as an excuse by the court concerned to
+_rewrite_ the terms of the contract according to _its_ (_subjective_) view of
+what it thinks the result ought to be in the case at hand. To this end, the
+court must always base its decision on _objective_ evidence. More
+specifically, whilst there is a need to avoid an absurd result, this aim
+cannot be pursued at all costs; it must necessarily give way if the objective
+evidence clearly bears out a **_causative connection_** between the absurd
+result or consequences on the one hand and the intention of the parties at the
+time they entered into the contract on the other. What we mean by this,
+essentially, is that if the objective evidence demonstrates that the parties
+had contemplated the absurd result or consequence, the court is not free to
+disregard this to reach what may seem to it to be a more commercially sensible
+interpretation of the contract. Avoiding an absurd result is thus **_one
+factor_** (albeit a not unimportant one) which is considered in the entire
+process of interpretation by the court. Put simply, the court **_must_**
+ascertain, based on **_all the relevant objective evidence_** , **_the
+intention of the parties_**** __at the time they entered into the
+contract__**. In this regard, the court should **_ordinarily_** start from the
+working position that the parties did not intend that the term(s) concerned
+were to produce an absurd result. _However_ , this is _only_ a _starting
+point_ – _and no more_. It might, for example, well be the case that the
+_objective_ evidence demonstrates that the parties were _aware of_ the absurd
+result that might ensue from the said term(s), but _nevertheless proceeded_ to
+enter into the contract in question (this was indeed what was, in effect, the
+finding of the majority of the court in the recent UK Supreme Court decision
+of _Arnold v Britton and others_ [2015] 2 WLR 1593 (“ _Arnold_ ”), which we
+will consider in a little more detail below). In this last-mentioned
+situation, the fact that an absurd result might ensue is **_irrelevant_**
+inasmuch as the **_causative connection_** referred to above is
+**__present__**. It bears reiterating that what the court _cannot_ do is to
+_ignore and disregard_ the _intention of the parties_ (based on the objective
+evidence), thus _rewriting_ the term(s) of the contract for them based on _the
+court’s_ (_subjective_) view of what is just and fair by way of looking at an
+absurd result through the lenses of _ex post facto_ rationalisation when,
+_instead_ , the parties were, on the objective evidence, perfectly cognisant
+of the possibility of an absurd result ensuing _at the time they entered into
+the contract (but nevertheless chose to proceed with entry into the said
+contract)_. Admittedly, the line between interpreting the terms of a contract
+and rewriting it is a very fine one, and much will, in the final analysis,
+depend upon _the precise facts and context_ before the court (as _manifested
+in the objective evidence_ itself). Finally, it should also never be forgotten
+that, although the relevant context is also important, the **_text_** ought
+always to be **_the first port of call_** for the court (see also the
+Singapore High Court decision of _HSBC Trustee (Singapore) Ltd v Lucky Realty
+Co Pte Ltd_ [2015] 3 SLR 885 (“ _HSBC Trustee_ ”) at [59] (citing the decision
+of this court in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior
+Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 (“ _Zurich Insurance_ ”)
+at [57]) as well as _per_ Lord Hope DP in the UK Supreme Court decision in
+_Multi-Link Leisure Developments Ltd v North Lanarkshire Council_ [2011] 1 All
+ER 175 (“ _Multi-Link Leisure Developments_ ”) at [11]).
+
+33 It is also very important to emphasise that the role of context set out in
+the preceding two paragraphs relates _only_ to the need to place the court in
+the position of the party which drafted the instrument and _not_ the drafter’s
+subjective intention as such (a distinction which was emphasised by this court
+in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_
+[2013] 4 SLR 193 (“ _Sembcorp Marine_ ”) (see below at [40])).
+
+34 On the _opposite end_ of the spectrum, the _text_ concerned might itself be
+_ambiguous_ (_ie_ , without even considering the relevant context). In such a
+situation, it is clear that the relevant _context_ will _generally_ be of _the
+first importance_.
+
+35 However, as already noted, one ought not to take the propositions set out
+in the preceding paragraphs too far for, depending on the precise facts of the
+case, the text and context would often **_interact_** with each other. For
+example, as already noted above (at [31]), what might look like a plain and
+unambiguous text might not in fact be so if one has regard to the relevant
+context – at which point the context is also helpful in aiding the court in
+interpreting the text concerned. Much would, in the final analysis, turn on
+the **_precise facts_** of the case (which would, holistically speaking,
+include not only the text but also the context as well). It is important to
+observe that the process of contractual **_interpretation_** is a _dynamic_
+one. It is certainly not an unbridled exercise in raw judicial discretion:
+hence, the _general principles_ which constitute the _legal_** _structure_**
+within which the process of contractual interpretation takes place. However,
+we also need to acknowledge the _practical reality_ to the effect that, in the
+sphere of **_application_** of these general principles, the **_precise
+facts_** are (as just noted) of the first importance. There is – and can be –
+no magic formula or legal silver bullet. Contractual interpretation is (often
+at least) hard work, centring on a meticulous and nuanced (yet practically-
+oriented) analysis of the relevant text and context. **_Put simply, the court
+is always to pay close attention to both the text_**** __and__**** _context in
+every case – noting that both_**** __interact__**** _with each other._**
+
+36 This may be an apposite point at which to address related issues arising
+from the relevant provisions of the Evidence Act (Cap 97, 1997 Rev Ed) (“the
+Act”) (see also generally Goh Yihan, “Contractual Interpretation in Indian
+Evidence Act Jurisdictions: Compatibility with Modern Contextual Approach?”
+(2013) 13 Oxford Univ Commonwealth LJ 17). Section 94(_f_) of the Act (“s
+94(_f_)”) is (especially in the context of the present appeal) of particular
+significance, and reads as follows:
+
+**Exclusion of evidence of oral agreement**
+
+**94**. When the terms of any such contract, grant or other disposition of
+property, or any matter required by law to be reduced to the form of a
+document, have been proved according to section 93, no evidence of any oral
+agreement or statement shall be admitted as between the parties to any such
+instrument or their representatives in interest for the purpose of
+contradicting, varying, adding to, or subtracting from its terms subject to
+the following provisions:
+
+…
+
+(_f_) any fact may be proved which shows in what manner the language of a
+document is related to existing facts.
+
+37 It has been firmly established that s 94(_f_) constitutes not an exception
+to s 94 as such but is, rather, a substantive and fundamental rule of
+interpretation in its own right (although it must also be read with ss 95 to
+100 of the Act). Reference may be made to the comprehensive analysis of this
+court in _Zurich Insurance_ (especially at [67]–[133]). More importantly
+(particularly for the purposes of the present appeal), the court in _Zurich
+Insurance_ clearly endorsed the _contextual approach_ to contractual
+interpretation – interpreting, in this particular regard, s 94(_f_) in a
+“permissive” manner “which does _not_ make _ambiguity a prerequisite for_ the
+admissibility of extrinsic evidence in aid of contractual interpretation”
+[emphasis added] (see at [114] and [115]). Indeed, the court also observed (at
+[121]) that “the contextual approach to contractual interpretation, as
+accepted by our courts … is _statutorily embedded_ in proviso (_f_) to s 94”
+[emphasis added]. **_This approach is wholly consistent with that which we
+have set out above (at [31]) in relation to the role of context in a situation
+where the language of the term(s) is clear and unambiguous._**
+
+38 However, the court in _Zurich Insurance_ also proceeded (at [122]) to
+furnish the following observation as a safeguard of sorts:
+
+One qualification to our endorsement of the contextual approach, must,
+however, be made. In the light of the continued robustness of the parol
+evidence rule in our law, the courts must remain ever vigilant to ensure that,
+in interpreting a contract, extrinsic evidence is only employed to illuminate
+the contractual language and not as a pretext to contradict or vary it. The
+courts are allowed to depart from the plain and ordinary meaning of the
+contract to some extent. The very recognition that surrounding circumstances
+may create ambiguity about the language used in a contract involves acceptance
+that words do not have fixed and clearly delineated meanings. Rather, words
+are sometimes penumbral; the context of the contract breaks down the rigidly-
+defined boundaries of meaning, introduces hues and shades, and defines the
+contours and limits of the penumbra. Thus, even in its ostensibly conservative
+reasoning in [_Citicorp Investment Bank (Singapore) Ltd v Wee Ah Kee_ [1997] 2
+SLR(R) 1], the Court of Appeal only required that the meaning imputed by the
+court be one which “the words are reasonably adequate to convey” (_id_ at [63]
+(see the passage quoted at [83] above)). The question of whether this
+restriction has been breached is one of degree.
+
+39 The court also elaborated upon what extrinsic evidence is admissible in aid
+of contractual interpretation as well as the way in which the task of
+interpretation is to be carried out. The guidance is both comprehensive and
+nuanced and we will say no more about it (see generally at [124]–[133]), save
+to note the following summary by the court (at [132]):
+
+132 To summarise, the approach adopted in Singapore to the admissibility of
+extrinsic evidence to affect written contracts is a pragmatic and principled
+one. The main features of this approach are as follows:
+
+(a) A court should take into account the essence and attributes of the
+document being examined. The court’s treatment of extrinsic evidence at
+various stages of the analytical process may differ depending on the nature of
+the document. In general, the court ought to be more reluctant to allow
+extrinsic evidence to affect standard form contracts and commercial documents
+(see [110] above).
+
+(b) If the court is satisfied that the parties intended to embody their entire
+agreement in a written contract, no extrinsic evidence is admissible to
+contradict, vary, add to, or subtract from its terms (see ss 93–94 of the
+Evidence Act). In determining whether the parties so intended, our courts may
+look at extrinsic evidence and apply the normal objective test, subject to a
+rebuttable presumption that a contract which is complete on its face was
+intended to contain all the terms of the parties’ agreement (see [40] above).
+In other words, where a contract is complete on its face, the language of the
+contract constitutes _prima facie_ proof of the parties’ intentions.
+
+(c) Extrinsic evidence is admissible under proviso (_f_) to s 94 to aid in the
+interpretation of the written words. Our courts now adopt, via this proviso,
+the modern contextual approach to interpretation, in line with the
+developments in England in this area of the law to date. Crucially, ambiguity
+is not a prerequisite for the admissibility of extrinsic evidence under
+proviso (_f_) to s 94 (see [114]–[120] above).
+
+(d) The extrinsic evidence in question is admissible so long as it is
+relevant, reasonably available to all the contracting parties and relates to a
+clear or obvious context (see [125] and [128]–[129] above). However, the
+principle of objectively ascertaining contractual intention(s) remains
+paramount. Thus, the extrinsic evidence must always go towards proof of what
+the parties, from an objective viewpoint, ultimately agreed upon. Further,
+where extrinsic evidence in the form of prior negotiations and subsequent
+conduct is concerned, we find the views expressed in McMeel’s article ([62]
+_supra_) and Nicholls’ article ([62] _supra_) persuasive. For this reason,
+there should be no absolute or rigid prohibition against evidence of previous
+negotiations or subsequent conduct, although, in the normal case, such
+evidence is likely to be inadmissible for non-compliance with the requirements
+set out at [125] and [128]–[129] above. (We should add that the relevance of
+subsequent conduct remains a controversial and evolving topic that will
+require more extensive scrutiny by this court at a more appropriate juncture.)
+Declarations of subjective intent remain inadmissible except for the purpose
+of giving meaning to terms which have been determined to be latently ambiguous
+(see [50] above; see also sub-para (e) below).
+
+(e) In some cases, the extrinsic evidence in question leads to possible
+alternative interpretations of the written words (_ie_ , the court determines
+that latent ambiguity exists). A court may give effect to these alternative
+interpretations, always bearing in mind s 94 of the Evidence Act. In arriving
+at the ultimate interpretation of the words to be construed, the court may
+take into account subjective declarations of intent (see [50] above).
+Furthermore, the normal canons of interpretation apply in conjunction with the
+relevant provisions of the Evidence Act, _ie_ , ss 95–100 (see [75]–[80] and
+[131] above).
+
+(f) A court should always be careful to ensure that extrinsic evidence is used
+to explain and illuminate the written words, and not to contradict or vary
+them. Where the court concludes that the parties have used the wrong words,
+rectification may be a more appropriate remedy (see [123] above).
+
+40 The decision in _Zurich Insurance_ should also be read with the decision of
+this court in _Sembcorp Marine_ , which not only affirmed the principles laid
+down in _Zurich Insurance_ but also _supplemented_ them. Whilst the relevant
+part of this particular decision (at [24]–[75]) merits close study, the
+following extracts from [54]–[55], [64]–[65] and [72]–[75] are particularly
+germane in the context of the present appeal:
+
+54 Lord Penzance rejected this contention. Referring to a principle laid down
+by Lord Abinger in _Doe D Simon Hiscocks v John Hiscocks_ (1839) 5 M & W 363,
+Lord Penzance held (at 317–318):
+
+It is beyond dispute, that _evidence as to the circumstances_ under which the
+testator wrote his will, as to the different names and circumstances of the
+people about him, and other surrounding matters, _is admissible_ in such a
+case. … so that I am at liberty to put myself in the position of the testator
+in order, from the surrounding circumstances, _to judge under what state of
+things he wrote his will_. [emphasis added]
+
+However, Lord Penzance did not stop there, for this principle by Lord Abinger
+was one of general application rather than one governing the admissibility of
+the declarations of the testator, which was the real issue in the case. As to
+that, Lord Penzance held (at 324):
+
+And if there has been a mistake, whether of omission or otherwise, in
+consequence of which neither of the two sons is distinctly or accurately
+described, _is not an ambiguity created_ ; and is any other course open to the
+Court, _if the rest of the will and the surrounding circumstances do not solve
+the difficulty_ , **_than to admit parol evidence of the testator’s
+intention?_** [emphasis added in italics and bold italics]
+
+55 Three points are clear. First, the admissibility of surrounding
+circumstances to place the court in the position of the party which drafted
+the instrument (dealt with in the first extract quoted at [54] above) is a
+separate and distinct question from whether parol evidence of the drafter’s
+subjective intention (dealt with in the second extract quoted at [54] above)
+may be admitted. Evidence of surrounding circumstances is admissible without
+restriction. Second, ambiguity is required before the court would be permitted
+to admit parol evidence of the drafter’s intentions. Third, if surrounding
+circumstances are sufficient to resolve the interpretative exercise, there
+would be no ambiguity and such parol evidence should not be admitted.
+
+…
+
+64 A lingering question remains: what exactly is extrinsic evidence of
+surrounding circumstances that is admissible without restriction under s
+94(_f_) of the EA? The short answer, as suggested by the cases referred to by
+Sir James, would be such extrinsic evidence of “facts and circumstances which
+were (or ought to have been) in the mind of the [drafter] when he used those
+words” (see [62] above). Parol evidence of the drafter’s subjective intention
+does not constitute such surrounding circumstances. Of course, the line
+between these two types of evidence may not always be clear, but that is an
+issue that can be developed through case law.
+
+65 Where then does this leave us in relation to the robust approach? The
+following propositions seem clear:
+
+(a) First, the admissibility of extrinsic evidence generally is governed by
+the rules of evidence and not by the rules of contractual interpretation
+(which are governed by the substantive law of contract).
+
+(b) Second, the rules governing the admissibility of extrinsic evidence in
+Singapore are to be found first in the EA, then in the common law.
+
+(c) Third, the general admissibility of extrinsic evidence under s 94(_f_) of
+the EA must be read together with the exclusionary provisions of the EA, in
+particular, ss 95 and 96.
+
+(d) Fourth, extrinsic evidence of surrounding circumstances is generally
+admissible under s 94(_f_). However, it was and properly remains the position
+that extrinsic evidence in the form of parol evidence of the drafter’s
+intentions is generally inadmissible unless it can in some way be brought
+within the exceptions in ss 97 to 100.
+
+...
+
+72 From this perspective, a robust approach unaccompanied by sufficient
+safeguards may be counterproductive. More fog, not less, might ensue. In our
+judgment, it is time to refine our approach by synchronising our rules of
+pleading and evidence with the contextual approach to contractual construction
+laid down in _Zurich Insurance_ ([34] _supra_). This is necessary because the
+broad language associated with the contextual approach is susceptible to being
+misunderstood and misapplied. The utility of the contextual approach is to
+place the court in the best possible position to ascertain the parties’
+objective intentions by interpreting the expressions used by the parties in
+the relevant instrument in their proper context; it is not a licence to admit
+all manner of extrinsic evidence. To do otherwise would be to ignore the
+salutary words of caution in _Zurich Insurance_ (at [127] and [129]):
+
+127 Thus, the extrinsic material sought to be admitted must always go towards
+proof of what the parties, from an objective viewpoint, ultimately agreed
+upon. … _[T]he focus on the narrow task of ascertaining the parties’ objective
+intention ought to prevent parties from adducing or trawling through large
+amounts of allegedly useful background material, often in misguided
+Micawberian attempts to persuade a court to favour their subjective
+interpretations of the contract_. …
+
+129 We have already emphasised the importance of contractual certainty … In
+our view, the benefits of adopting … the contextual approach to contractual
+interpretation (_viz_ , flexibility and accord with commercial common sense)
+will be maximised and its costs (_viz_ , increased uncertainty and added
+litigation costs) minimised if, as a threshold requirement for the court’s
+adoption of a different interpretation from that suggested by the plain
+language of the contract, the context of the contract should be clear and
+obvious. … _It is necessary and desirable to lay down this threshold
+requirement in order to achieve the right balance between commercial certainty
+and the imperative of giving effect to the objective intentions of the
+contracting parties_.
+
+[emphasis added]
+
+73 We hasten to add that although the contextual approach is most frequently
+engaged in the context of interpretation, this is not to say that the
+contextual approach is irrelevant when it comes to other aspects of
+construction such as implication or rectification. Indeed, it is trite that
+the court must have regard to the context at the time of contracting when
+considering the issue of implication. Therefore, to buttress the evidentiary
+qualifications to the contextual approach to the construction of a contract,
+the imposition of four requirements of civil procedure are, in our view,
+timely and essential:
+
+(a) first, parties who contend that the factual matrix is relevant to the
+construction of the contract must plead with specificity each fact of the
+factual matrix that they wish to rely on in support of their construction of
+the contract;
+
+(b) second, the factual circumstances in which the facts in (a) were known to
+both or all the relevant parties must also be pleaded with sufficient
+particularity;
+
+(c) third, parties should in their pleadings specify the effect which such
+facts will have on their contended construction; and
+
+(d) fourth, the obligation of parties to disclose evidence would be limited by
+the extent to which the evidence are relevant to the facts pleaded in (a) and
+(b).
+
+74 These four requirements are entirely consonant with the limits prescribed
+in _Zurich Insurance_ at [132(d)] that for extrinsic evidence to be
+admissible, it must be “relevant, reasonably available to all the contracting
+parties and [must relate] to a clear or obvious context”. Further, this would
+go some way towards ameliorating the practical concerns we have traced above.
+In general, extrinsic facts that are placed before the court in a manner that
+is not consistent with the above requirements will not be accorded any weight
+when a court is construing a contract. Adverse cost consequences may also be
+imposed, where appropriate. We are mindful that the courts cannot actively
+police the parties in the documents that they voluntarily disclose.
+Conversely, we should not be thought, in any way, to be inviting parties or
+their counsel to withhold relevant documents. The key point is that parties
+should be clear about the specific aspects and purpose of the factual matrix
+which they intend to rely on. These pleading requirements should result in the
+evidence on the record being aligned accordingly.
+
+75 Before leaving this issue, we make one final observation. Asst Prof Goh
+has, after a comprehensive survey of the historical literature on the law
+governing the admissibility of prior negotiations, argued that the seemingly
+blanket exclusionary rule against the admissibility of prior negotiations was
+a product of a historical misstep by the courts and is inconsistent with the
+EA: Goh Yihan, “The Case for Departing From the Exclusionary Rule Against
+Prior Negotiations in the Interpretation of Contracts in Singapore” (2013) 25
+SAcLJ 182. We prefer to leave for another occasion the consideration of
+whether this argument is to be accepted in principle; and if so, whether
+evidence of prior negotiations should nonetheless be excluded as irrelevant or
+unhelpful for the policy reasons set out by Lord Hoffmann in _Chartbrook_
+([25] _supra_) at [34]–[36] and [38]; or on the ground that it may amount to
+parol evidence of subjective intent and not fall within ss 97 to 100 of the
+EA. Whichever way that may eventually be resolved, any future attempt to rely
+on such material should be made with full consciousness of the concerns
+already expressed and in compliance with the pleading requirements we have
+just prescribed.
+
+41 _Zurich Insurance_ and _Sembcorp Marine_ represent the lodestars in the
+Singapore legal landscape in so far as contractual interpretation is concerned
+(see also _HSBC Trustee_ at [25] as well as the useful exposition on both
+these decisions in Goh Yihan, “The New Contractual Interpretation in
+Singapore: From _Zurich Insurance_ to _Sembcorp Marine_ ” [2013] Sing JLS
+301). Both decisions emphasise, _inter alia_ , the signal importance of
+context in the sphere of contractual interpretation.
+
+42 Finally, it should also be noted that the idea that the use of context is
+not only very important but also does not contravene the parol evidence rule
+inasmuch as it is utilised merely as an aid to interpretation is one that has
+also been articulated in other jurisdictions. In the recent Supreme Court of
+Canada decision of _Sattva Capital Corporation (formerly Sattva Capital Inc) v
+Creston Moly Corporation (formerly Georgia Ventures Inc)_ [2014] 2 SCR 633,
+for example, Rothstein J (delivering the judgment of the court) observed thus
+(at [60]):
+
+The parol evidence rule does not apply to preclude evidence of surrounding
+circumstances. Such evidence is consistent with the objectives of finality and
+certainty because it is used as _an interpretive aid_ for determining the
+meaning of those words. The surrounding circumstances are facts known or facts
+that reasonably ought to have been known to both parties at or before the date
+of contracting; therefore, the concern of unreliability does not arise.
+[emphasis added]
+
+However, we should also note that the role of context in contractual
+interpretation appears still to be in a state of flux in certain other
+jurisdictions – for example, in Australia (see, for instance, the recent and
+comprehensive article by Prof J W Carter, “Context and Literalism in
+Construction” (2014) 31 JCL 100 at 108–111, which also comprises an excellent
+comparative analysis of the positions in other jurisdictions as well).
+
+43 At this juncture, we pause to note that there have also been a few recent
+UK Supreme Court decisions focusing on contractual interpretation. We shall
+consider a couple of them briefly but, for reasons which we shall state, they
+do not – we hasten to add – detract from the general principles which we have
+set out above.
+
+A coda – recent UK Supreme Court decisions
+
+44 Not surprisingly, there have been numerous decisions on contractual
+interpretation across the Commonwealth (one, from the Supreme Court of Canada,
+has already been referred to briefly above at [42]). In particular, there have
+been a few UK Supreme Court decisions, a couple of which merit our brief
+attention (in addition to _Multi-Link Leisure Developments_ which was also
+referred to briefly above at [32]).
+
+45 The first decision is _Rainy Sky SA v Kookmin Bank_ [2011] 1 WLR 2900 (“
+_Rainy Sky_ ”) (which was also referred to briefly by this court in _Master
+Marine AS v Labroy Offshore Ltd and others_ [2012] 3 SLR 125). It concerned
+the interpretation of a particular clause in advance payment bonds issued by
+the defendant bank and which was relied upon by the plaintiffs in claiming the
+refund of instalments paid pursuant to contracts entered into with a
+shipbuilder. Lord Clarke of Stone-cum-Ebony JSC handed down the judgment (with
+whom Lord Phillips of Worth Matravers PSC, Lord Mance, Lord Kerr of Tonaghmore
+and Lord Wilson JJSC agreed). Lord Clarke observed thus (at [14]):
+
+For the most part, the correct approach to construction of the bonds, as in
+the case of any contract, was not in dispute. The principles have been
+discussed in many cases, notably of course, as Lord Neuberger of Abbotsbury MR
+said in _Pink Floyd Music Ltd v EMI Records Ltd_ [2010] EWCA Civ 1429, para
+17, by Lord Hoffmann in _Mannai Investment Co Ltd v Eagle Star Life Assurance
+Co Ltd_ [1997] AC 749, passim, in _Investors Compensation Scheme Ltd v West
+Bromwich Building Society_ [1998] 1 WLR 896, 912F–913G and in _Chartbrook Ltd
+v Persimmon Homes Ltd_ [2009] AC 1101, paras 21–26. I agree with Lord
+Neuberger (also at para 17) that those cases show that the ultimate aim of
+interpreting a provision in a contract, especially a commercial contract, is
+to determine what the parties meant by the language used, which involves
+ascertaining what a reasonable person would have understood the parties to
+have meant. As Lord Hoffmann made clear in the first of the principles he
+summarised in the _Investors Compensation Scheme_ case [1998] 1 WLR 896, 912H,
+the relevant reasonable person is one who has all the background knowledge
+which would reasonably have been available to the parties in the situation in
+which they were at the time of the contract.
+
+46 And, in a similar vein, the learned judge later observed as follows (at
+[30]):
+
+… As stated in a little more detail in para 21 above [quoted below at [48]],
+it is in essence that, where a term of a contract is open to more than one
+interpretation, it generally appropriate to adopt the interpretation which is
+most consistent with business common sense. …
+
+47 However, it should be noted that Lord Clarke also observed (at [23]) that
+“[w]here the parties have used _unambiguous_ language, the court _must_ apply
+it” [emphasis added]. We do not think that this observation is to be taken so
+strictly as to _wholly_ discount the possibility of utilising the relevant
+_context_ to assist in the process of contractual interpretation in the manner
+we have set out above at [31]–[42] (and _cf_ Paul S Davies, “Interpreting
+Commercial Contracts: A Case of Ambiguity?” [2012] LMCLQ 26 at 27–28). Indeed,
+this particular issue was raised squarely before the UK Supreme Court in a
+subsequent decision, _viz_ , _Arnold_ – which we will consider in more detail
+below (at [50]–[56]).
+
+48 Lord Clarke also observed (more generally) thus (at [21]):
+
+The language used by the parties will often have more than one potential
+meaning. I would accept the submission made on behalf of the appellants that
+the exercise of construction is _essentially one_** _unitary_** _exercise_ in
+which the court must consider the language used and ascertain what a
+reasonable person, that is a person who has all the background knowledge which
+would reasonably have been available to the parties in the situation in which
+they were at the time of the contract, would have understood the parties to
+have meant. In doing so, the court must have regard to all the relevant
+surrounding circumstances. If there are two possible constructions, the court
+is entitled to prefer the construction which is consistent with business
+common sense and to reject the other. [emphasis added in italics and bold
+italics]
+
+It should be noted, at this juncture, that Lord Clarke’s observations which
+have just been quoted are wholly consistent with the interactive approach
+towards contractual interpretation which we have mooted above (at [35]).
+
+49 In _Rainy Sky_ itself, both parties had accepted that there were two
+possible interpretations of the clause concerned and the court held – in
+accordance with the principles noted above – that it ought to adopt the
+interpretation which was most consistent with business common sense.
+
+50 The second decision from the UK Supreme Court is that in _Arnold_ (which we
+mentioned briefly above at [32]). As already alluded to, this was a decision
+in which the court gave effect to what it found to be the clear and
+unambiguous language of the term concerned. A similar approach was also
+adopted in its earlier decision (on appeal from Scotland) in _Aberdeen City
+Council v Stewart Milne Group Ltd_ 2012 SLT 205 (“ _Aberdeen City Council_ ”).
+However, as _Arnold_ is a very recent decision and includes a discussion of
+_Aberdeen City Council_ as well, we will focus on it instead.
+
+51 _Arnold_ concerned the interpretation of service charge contribution
+provisions with regard to the leases of a number of chalets in a caravan park
+in South Wales. There was a common thread (or, more accurately, consequence)
+running throughout the various clauses: if the respondent landlord were
+correct in its interpretation of the clauses concerned, the initial service
+charge of £90 per annum was to be increased on a compound basis by 10% every
+three years. The appellant lessees, on the other hand, argued that the
+respondent’s interpretation could not be the correct interpretation as it
+would result in “an increasingly absurdly high annual service charge in the
+later years of each of the 25 leases” (see _Arnold_ at [10]). The court held
+that the language of the clauses was clear and unambiguous and ought to be
+given effect to. The fact that such an interpretation would work out very
+badly against the appellants was not a relevant legal factor, given the
+clarity of the clauses in question. Lord Neuberger of Abbotsbury PSC (with
+whom Lord Sumption and Lord Hughes JJSC agreed) emphasised (at [16]–[23])
+seven factors which we think are useful and which we therefore set out in full
+as follows:
+
+16 For present purposes, I think it is important to emphasise seven factors.
+
+17 First, the reliance placed in some cases on commercial common sense and
+surrounding circumstances (eg in _Chartbrook_ , paras 16-26) should not be
+invoked to undervalue the importance of the language of the provision which is
+to be construed. The exercise of interpreting a provision involves identifying
+what the parties meant through the eyes of a reasonable reader, and, save
+perhaps in a very unusual case, that meaning is most obviously to be gleaned
+from the language of the provision. Unlike commercial common sense and the
+surrounding circumstances, the parties have control over the language they use
+in a contract. And, again save perhaps in a very unusual case, the parties
+must have been specifically focussing on the issue covered by the provision
+when agreeing the wording of that provision.
+
+18 Secondly, when it comes to considering the centrally relevant words to be
+interpreted, I accept that the less clear they are, or, to put it another way,
+the worse their drafting, the more ready the court can properly be to depart
+from their natural meaning. That is simply the obverse of the sensible
+proposition that the clearer the natural meaning the more difficult it is to
+justify departing from it. However, that does not justify the court embarking
+on an exercise of searching for, let alone constructing, drafting infelicities
+in order to facilitate a departure from the natural meaning. If there is a
+specific error in the drafting, it may often have no relevance to the issue of
+interpretation which the court has to resolve.
+
+19 The third point I should mention is that commercial common sense is not to
+be invoked retrospectively. The mere fact that a contractual arrangement, if
+interpreted according to its natural language, has worked out badly, or even
+disastrously, for one of the parties is not a reason for departing from the
+natural language. Commercial common sense is only relevant to the extent of
+how matters would or could have been perceived by the parties, or by
+reasonable people in the position of the parties, as at the date that the
+contract was made. Judicial observations such as those of Lord Reid in
+_Wickman Machine Tools Sales Ltd v L Schuler AG_ [1974] AC 235, 251 and Lord
+Diplock in _Antaios Cia Naviera SA v Salen Rederierna AB (The Antaios)_ [1985]
+AC 191, 201, quoted by Lord Carnwath JSC at para 110, have to be read and
+applied bearing that important point in mind.
+
+20 Fourthly, while commercial common sense is a very important factor to take
+into account when interpreting a contract, a court should be very slow to
+reject the natural meaning of a provision as correct simply because it appears
+to be a very imprudent term for one of the parties to have agreed, even
+ignoring the benefit of wisdom of hindsight. The purpose of interpretation is
+to identify what the parties have agreed, not what the court thinks that they
+should have agreed. Experience shows that it is by no means unknown for people
+to enter into arrangements which are ill-advised, even ignoring the benefit of
+wisdom of hindsight, and it is not the function of a court when interpreting
+an agreement to relieve a party from the consequences of his imprudence or
+poor advice. Accordingly, when interpreting a contract a judge should avoid
+re-writing it in an attempt to assist an unwise party or to penalise an astute
+party.
+
+21 The fifth point concerns the facts known to the parties. When interpreting
+a contractual provision, one can only take into account facts or circumstances
+which existed at the time that the contract was made, and which were known or
+reasonably available to both parties. Given that a contract is a bilateral, or
+synallagmatic, arrangement involving both parties, it cannot be right, when
+interpreting a contractual provision, to take into account a fact or
+circumstance known only to one of the parties.
+
+22 Sixthly, in some cases, an event subsequently occurs which was plainly not
+intended or contemplated by the parties, judging from the language of their
+contract. In such a case, if it is clear what the parties would have intended,
+the court will give effect to that intention. An example of such a case is
+_Aberdeen City Council v Stewart Milne Group Ltd_ 2012 SCLR 114, where the
+court concluded that “any … approach” other than that which was adopted “would
+defeat the parties’ clear objectives”, but the conclusion was based on what
+the parties “had in mind when they entered into” the contract: see paras 21
+and 22.
+
+23 Seventhly, reference was made in argument to service charge clauses being
+construed “restrictively”. I am unconvinced by the notion that service charge
+clauses are to be subject to any special rule of interpretation. Even if
+(which it is unnecessary to decide) a landlord may have simpler remedies than
+a tenant to enforce service charge provisions, that is not relevant to the
+issue of how one interprets the contractual machinery for assessing the
+tenant’s contribution. The origin of the adverb was in a judgment of Rix LJ in
+_McHale v Earl Cadogan_ [2010] HLR 412, para 17. What he was saying, quite
+correctly, was that the court should not “bring within the general words of a
+service charge clause anything which does not clearly belong there”. However,
+that does not help resolve the sort of issue of interpretation raised in this
+case.
+
+52 However, what are the more general implications of _Arnold_ in situations
+where the language of the term(s) is clear and unambiguous? In particular, has
+_Arnold_ reduced (even drastically) the role of _context_ in such a situation?
+More importantly, is _Arnold_ at variance with what we have stated (above at
+[31]–[42]) is the position in _Singapore_ in such situations – especially the
+proposition to the effect that _context_ is _still important_** _even in_**
+_situations where the language of the term(s) is clear and unambiguous_? We
+would suggest that _Arnold_ is in fact **_consistent with_** the Singapore
+position. Let us elaborate.
+
+53 It is significant that Lord Hodge JSC (who agreed with Lord Neuberger) was
+of the view that the _context_ in _Arnold_ was of _limited_ assistance; as he
+observed (at [72] and [75]):
+
+72 The _context_ , whether internal to the contract or otherwise, _provides
+little assistance_ in this case. Beyond the words of the relevant clauses,
+there is the context of the other provisions of each of the 25 individual
+leases which are at issue. They are long leases, having a term of 99 years.
+The court in interpreting the leases can and should take into account the
+great difficulty in predicting economic circumstances in the distant future
+and ask itself whether the parties really intended to do so.
+
+…
+
+75 While there are infelicities in the language of the relevant clauses in
+some of the leases and no clear explanation of minor changes in drafting, I am
+not persuaded that the meaning of the language is open to question when full
+weight is given to _the very limited factual matrix_ with which the courts
+have been presented in this case. We are invited to construe that which reads
+on a first consideration as a fixed service charge with an escalator to deal
+with future inflation, as a variable service charge which is subject to a cap
+to which the escalator applies. I find that very difficult. In my view there
+is nothing in the relevant context to support the construction of the clause
+as creating a cap, other than the view, which events have fully justified,
+that it was unwise of the lessees to agree to a fixed service charge with an
+escalator based on an assumption that the value of money would diminish by 10%
+per year.
+
+[emphasis added]
+
+54 As (if not more) significantly, Lord Carnwath JSC (who _dissented_) was
+_also_ of a similar view; in his words (at [94]), “[w]e know _very little_
+about the background to the present dispute” [emphasis added].
+
+55 Given that the _context_ in _Arnold_ was of _limited_ assistance, it is not
+surprising, in our view, that the majority of the court gave full effect to
+what it felt was the clear and unambiguous language in the clauses concerned.
+In this regard, the absurd result in that decision was – consistently with our
+analysis above (at [32]) – **_aptly justified as being in accord_** with the
+intention of the parties at the time that they entered into the contract
+concerned. We would venture to suggest that the situation might have been
+quite different had the relevant context been clearer and therefore more
+helpful. Indeed, even though Lord Carnwath was of the view that the context
+was of limited assistance, he nevertheless proceeded to consider much more
+general and broader facts (including the historic inflation figures), thereby
+expanding, so to speak, the scope of the factual matrix which (in turn)
+assisted him in arriving at a different decision from that of the majority.
+Thus, it is not that the context was not referred to; it is that, pursuant to
+the unitary approach, the context was looked at but it did not change anything
+with regard to the text. The learned judge was clearly influenced by the
+result of the case that ensued from the decision of the majority. He clearly
+felt that this was “an unusual case” (see at [108]). And this brings us back
+to the balance which we observed (above at [32]) ought to be sought –
+especially in hard cases such as these. The majority in _Arnold_ had, it is
+suggested, in mind the old adage that hard cases make bad law and that they
+could not arrive at a decision in favour of the appellants in a _principled_
+fashion in that case. This harks back to (in particular) the third and fourth
+points enunciated by Lord Neuberger (and quoted above at [51]). Indeed, Lord
+Neuberger himself was (at [32]) cognisant of “the unattractive consequences”
+arising from the decision of the majority (_cf_ also _HSBC Trustee_ at
+[147]–[149]).
+
+56 It should also be noted that Lord Hodge reiterated (at [76] and [77]) Lord
+Clarke’s observation in _Rainy Sky_ to the effect that interpretation is a “
+_unitary_ ” process or exercise which (as we have already noted above at [48])
+is wholly consistent with the _interactive_ approach we have mooted above (at
+[35]).
+
+57 In summary, it is our view that the UK Supreme Court decisions (in
+particular, _Rainy Sky_ and _Arnold_) are in fact _consistent with_ the
+principles which obtain in the Singapore context (and which, as already
+mentioned, are contained in the decisions of this court in both _Zurich
+Insurance_ and _Sembcorp Marine_).
+
+Application of the law to the facts
+
+58 Turning to the facts of the present appeal, the crucial text is deceptively
+simple. It is to be found in cl 4 of the Sub-Lease Agreement and bears
+reproduction once again, as follows:
+
+This agreement shall survive as long as **_the Company’s lease_** with the
+Landlord is not terminated. [emphasis added in bold italics]
+
+59 As we alluded at [31] above, the text in this case is neither plain nor
+unambiguous. In particular, the lack of clarity pertains to the use of the
+term “the Company’s lease” in cl 4, the interpretation of which carries no
+little practical significance given that it has a direct bearing on the
+duration of the Sub-Lease Agreement itself and, therefore, the outcome of this
+appeal. However, the Judge appears to be of the view that there was _no_
+ambiguity in cl 4. Examining his reasoning at [17] of the Judgment (which we
+have reproduced earlier at [27] above), it is clear that, although he did not
+explicitly focus on the particular words “the Company’s lease” in cl 4, he had
+taken this to refer to the lease which was formalised in _the 2010 Lease
+Agreement_. He relied, for this purpose, on _cl 1_ of the Sub-Lease Agreement,
+which he first read as referring to the 2010 Lease Agreement and then
+implicitly took as being the same agreement that was being referred to in cl 4
+as “the Company’s lease”.
+
+60 With respect, we disagree with the Judge’s reasoning. It is useful to
+reproduce cl 1 of the Sub-Lease Agreement again in order to scrutinise it
+carefully:
+
+1\. Soup Restaurant (Causeway Point) Pte Ltd (the “Company”) had entered into
+an agreement (the “Agreement”) with VivoCity Pte Ltd as trustee of VivoCity
+Trust (the “Landlord”) on 19 June 2009 in respect of the lease of 1
+HarbourFront Walk #02-141 VivoCity S(098585) to operate both “Soup Restaurant”
+and “Dian Xiao Er” (“DXE”) brands.
+
+61 It may be observed from a close reading of cl 1 that the Judge’s reasoning
+is doubtful in two respects. First, it is clear that cl 1 does not refer to
+the 2010 Lease Agreement as such. It makes reference, instead, to the
+landlord’s letter of offer dated 19 June 2009 (which was later accepted by
+Soup). It might be said that this is not a material error because the lease
+agreement as contained in the letter of offer was, in any event, reduced
+formally into the 2010 Lease Agreement. That may well be so but the second
+(and more important) observation we make regarding cl 1 is that the letter of
+offer to which it refers has already been defined as the “Agreement”. On a
+plain and ordinary reading of the Sub-Lease Agreement as a whole, we think
+that this in itself provides good ground for the view that “the Company’s
+lease” in cl 4 might in fact mean _something other than_ the letter of offer.
+In short, what could be said of the Judge’s reasoning is that it seems, with
+respect, to mistake the precise document that is being referred to in cl 1 of
+the Sub-Lease Agreement but, even if that is immaterial, there is, at a more
+fundamental level, no apparent connection between cl 1 and cl 4 because the
+relevant terms used (the “Agreement” as opposed to “the Company’s lease”) are
+clearly different; hence, it is questionable to rely on the language in the
+former in order to interpret the latter.
+
+62 This leaves us in the position of being unable to agree with the Judge
+that, _looking purely at the face of the Sub-Lease Agreement itself_ , it may
+be said with the requisite certainty that “the Company’s lease” in cl 4 refers
+to the 2010 Lease Agreement. This is not the equivalent of saying, however,
+that “the Company’s lease” in cl 4 does _not_ refer to the 2010 Lease
+Agreement. The point, simply, is that such an interpretation (which is the one
+that Soup prefers) is not one that is _plain and unambiguous_ from the
+**_text_** alone – and not that this interpretation is foreclosed as a
+possibility. This is especially so given that there is, importantly, still the
+**_context_** to be considered. After all, as we have explained at [35] above,
+text and context **_interact_** with one another in the holistic exercise of
+contractual interpretation and, particularly in situations such as this where
+the text is ambiguous, it is the context that comes to the fore (see above at
+[34]). While the context may ultimately turn out to be only of limited
+assistance, as was the case in _Arnold_ , we do not find that to be the case
+here. A proper appreciation of the context surrounding the parties’ entry into
+the Sub-Lease Agreement is helpful in shedding light on what the text – in
+particular “the Company’s lease” in cl 4 of the Sub-Lease Agreement – truly
+means. In this regard, we find that the relevant context supports the
+interpretation advanced by YES, namely, that “the Company’s lease” in cl 4 in
+fact refers to a _generic_ head lease that Soup had with the landlord in
+respect of Unit 141.
+
+63 What, then, is the relevant context in this case? We commence with the fact
+that the Sub-Lease Agreement was a document drafted without any legal
+assistance. It was drafted, instead, by laypersons in the business context.
+This is an important factor inasmuch as it informs and guides the way in which
+the court should construe the document. As was emphasised in the recent
+decision of this court in _Xia Zhengyan v Geng Changqing_ [2015] 3 SLR 732 (“
+_Xia_ ”) (especially at [50]), there may – depending on the precise facts and
+context concerned – be cases where the court ought to eschew a strict
+construction of the relevant language of the contract and adopt instead a more
+_common-sense_ approach that considers _the reasonable and probable
+expectations that the parties would have had_. This would, for example, be the
+case where, in _Xia_ , the contract had been drafted by laypersons without the
+benefit of legal advice in a language other than the English language (in that
+case, in Chinese). The context of the present case was, broadly speaking,
+somewhat similar.
+
+64 In determining the parties’ reasonable and probable expectations when
+entering into the Sub-Lease Agreement, we are led to the second important
+contextual factor, which is the fact that both YES and Soup were commercially-
+related sister companies within the SRGL group of companies at that point in
+time. This is a weighty consideration as it helps to contextualise one’s
+understanding of the overall environment within which the negotiations leading
+up to the Sub-Lease Agreement had taken place. In our view, it is only a
+natural consequence of the parties’ then subsisting commercial relationship
+that their negotiations, while still conducted at arms’ length, would
+nevertheless have been attended by a degree of mutuality and a desire to
+explore and develop synergies with one another; this was how Unit 141 came to
+be _shared_ in an arrangement which met the objectives of both parties in so
+far as Soup was able to establish a presence in Vivocity and YES could expand
+its business incrementally. Indeed, such collaboration was reflected in how,
+despite being offered Unit 141 first, YES brought Soup into discussions with
+the landlord and, after further deliberations, it was finally agreed that Soup
+would lease Unit 141 on the basis that it would be shared with YES. In fact,
+Soup made certain that it had obtained the landlord’s approval for this
+sharing arrangement before accepting the letter of offer dated 19 June 2009.
+
+65 Given the good relationship of the parties which prevailed at the time –
+and the absence of anything to suggest otherwise – we find it reasonable to
+infer that the parties would have expected their close commercial partnership
+to continue for the foreseeable future. Conflict was not at the forefront of
+their minds; _sharing_ the premises at Unit 141 in a way which met both their
+respective aims was. That being so, it militates against Soup’s preferred
+construction of cl 4 which effectively attributes to the parties the mutual
+expectation at the material time that, come what may after the expiry of the
+2010 Lease Agreement in three years, Soup could eject YES from the Sub-Leased
+Premises without being required to even have any recourse to its views.
+
+66 We are fortified in what we have just stated by a third contextual factor
+which, in the final analysis, is perhaps also the most compelling in the
+entire factual matrix. This concerns the fact that both parties were aware of
+the particular purpose for which the Sub-Leased Premises was to be used by
+YES, namely, that it was for expanding YES’s kitchen and VIP rooms. It was
+thus common knowledge between the parties that the Sub-Leased Premises was to
+constitute an _integral_ part of YES’s business. This is particularly
+important because, if Soup knew full well of the precise purpose for which the
+Sub-Leased Premises was to be used, then it is hardly a leap of logic to
+surmise that, as an established player within the same industry, it would also
+have been able to appreciate the scale and costs of the renovation works
+necessary to fulfil that purpose. Therefore, even though the actual renovation
+works on the Sub-Leased Premises were in fact only carried out _after_ the
+Sub-Lease Agreement was entered into – and the total incurred cost of about
+$210,000 known only subsequent to that – we think that it is fair to say that
+Soup must certainly have had a general idea of the kind of resources YES was
+intending to pour into the renovation _at the time of the Sub-Lease Agreement
+itself_.
+
+67 This supports our view that it would be highly incongruous to find that,
+with no say whatsoever in the matter, YES could legitimately be forced out of
+the Sub-Leased Premises at the end of three years. That would entail fairly
+drastic commercial consequences for YES as it involved YES having to scrap all
+of the renovation works that it had invested in a mere three years ago, the
+disruption and consequential reorganisation of its operations on Unit 137,
+and, as Yik gave evidence on, the retrenchment of staff who would no longer be
+required for a downsized restaurant business. As counsel for YES, Mr Adrian
+Tan (“Mr Tan”) persuasively pointed out, it would not have made any business
+sense at all for YES to have invested so much in expanding its operations if
+it had known all along that the Sub-Lease Agreement was only to be for a fixed
+period of three years. Simply put, the investment was **_disproportionate_**
+to a three year lease. Therefore, the better view of cl 4 is, as YES submits,
+that it provides for the Sub-Lease Agreement to subsist for so long as Soup
+had a valid head lease in respect of Unit 141.
+
+68 These were not, however, the only relevant contextual factors. Counsel for
+Soup, Mr Edwin Tong SC (“Mr Tong”), did highlight others in his attempt to
+buttress Soup’s interpretation of cl 4 but, ultimately, we do not find these
+to be particularly weighty in comparison with those which we have just
+canvassed above.
+
+69 First, Mr Tong pointed out that it was highly significant that, when the
+Sub-Lease Agreement was concluded in October 2009, YES could not have been
+certain that its own lease for Unit 137 – which expired on 6 October 2012
+without an option to renew – would continue. We accept that this is true as a
+matter of fact. Short of a contractual provision which _guaranteed_ that YES
+could continue to lease Unit 137 beyond 6 October 2012 (of which there was
+none), it could _not_ have been said with _absolute certainty_ then that the
+landlord would be agreeable to renewing YES’s lease. That having been said,
+this argument should be considered within the wider context prevailing at the
+material time. One should recall that YES had been in Vivocity since 2006, its
+_Dian Xiao Er_ business at Unit 137 was performing well, the landlord
+recognised this, and this recognition was reflected in the fact that the
+landlord approached YES to offer YES the opportunity to expand its business
+into Unit 141. Given the totality of the circumstances, we are of the view
+that, notwithstanding the lack of a contractual option to renew in its lease
+of Unit 137, YES had _good grounds_ to believe that, when the time came, it
+would be able to reach a satisfactory agreement with the landlord in respect
+of continuing on Unit 137. Indeed, it seems to us that, absent a swift
+downturn in the fortunes of YES, it would have been illogical for the landlord
+to have, with one hand, invited YES to expand its business into Unit 141 and,
+with the other, take away the main frontage of its restaurant at Unit 137 by
+refusing to renew the lease for those premises.
+
+70 Secondly, Mr Tong also sought to impress upon us that it was commercially
+absurd that cl 4 could refer to a generic lease because, if that
+interpretation were correct, then YES was effectively agreeing to bind itself
+(as cl 3(i) of the Sub-Lease Agreement provided) on a back-to-back basis to
+contractual terms as yet unknown and over which it had no control. In
+particular, Mr Tong argued that a party in YES’s position at the time of
+signing the Sub-Lease Agreement in 2009 could not have been certain of what
+the rent for Unit 141 might be in subsequent head leases between Soup and the
+landlord. The rent could well increase, as indeed it has under the terms of
+Soup’s current lease with the landlord.
+
+71 This argument might appear attractive at first blush but, on closer
+examination, we find that it says no more than that what YES had agreed to
+accept were the ordinary risks and vagaries associated with the property
+rental market which, it should be added, YES was _already_ exposed to in
+respect of its own lease over Unit 137. In other words, as Mr Tan pointed out,
+an increase in the rent for Unit 141 was, from YES’s perspective, an expected
+business expense which would have to be factored in with regard to its
+existing premises as well. Moreover, it is not inconceivable that YES would
+have been ready and willing to pay its proportionate share of any increase in
+the rent under the back-to-back arrangement – simultaneously with any increase
+in the rent of its _existing_ premises in Unit 137 – bearing in mind the fact
+that (as we have also already noted above) both its existing premises as well
+as the Sub-Leased Premises in Unit 141 formed an _integral_ part of its
+business.
+
+72 Mr Tong also sought to introduce another closely related element of
+uncertainty into the factual matrix as at 2009 which, in his submission,
+undermined YES’s preferred construction of cl 4. In this regard, he pointed
+out that another possible consequence of the landlord raising the rent for the
+head lease of Unit 141 was that it might also turn out to be too high _from
+Soup’s perspective_. In such a scenario, Soup might legitimately decide not to
+renew the lease with the landlord. If so, would that not lead to the same
+result as the one entailed by Soup’s preferred construction of the Sub-Lease
+Agreement, _viz_ , that YES would have to vacate the Sub-Leased Premises by 18
+October 2012? It therefore appeared that, even on YES’s own construction of
+the Sub-Lease Agreement, it risked having its considerable investment in the
+renovation of the Sub-Leased Premises unwound after just three years. In our
+view, this was indeed a possible outcome. However, we consider that this was
+yet another business risk which YES would have factored into its consideration
+at the time of entering into the Sub-Lease Agreement. In our view, what YES
+did _not_ accept was the _additional_ risk of _not_ being able to continue
+operating out of the Sub-Leased Premises _even if_ Soup had continued leasing
+Unit 141 from the landlord. That seems to us to be inconsistent with the
+parties’ predominant purpose at the time of contracting, which was simply to
+_share_ the Sub-Leased Premises.
+
+73 Finally, Mr Tong moved beyond the context surrounding the parties’ entry
+into the Sub-Lease Agreement to rely, further, on the parties’ _subsequent
+conduct_. In particular, and as alluded to earlier at [20] above, he said that
+it was of some significance that the expiry date of the Sub-Lease Agreement as
+stated in cl 5.4 of the Settlement Agreement was 6 October 2012 instead of 18
+October 2012. According to Mr Tong, Yik had specifically requested for the
+expiry date to be brought forward from the latter to the former and that this
+gave rise to a telling inference – it was clearly because _Yik knew that the
+Sub-Lease Agreement expired on 18 October 2012 in tandem with the lease under
+the 2010 Lease Agreement_ that he was so keen to bring the expiry date forward
+to coincide with YES’s own lease for Unit 137 (which expired on 6 October
+2012); this was in order to avoid YES having to pay unnecessarily for an
+additional 12 days’ rent in respect of the Sub-Leased Premises should YES’s
+lease for Unit 137 not be renewed. As Mr Tong submitted, this conduct on the
+part of YES when negotiating the Settlement Agreement helped to shed light on
+when YES itself understood the Sub-Lease Agreement to expire (_viz_ , 18
+October 2012).
+
+74 As we pointed out to counsel during the hearing, there was not much
+assistance to be derived from the parties’ _subsequent_ conduct when the
+object of the interpretive exercise was to discern the parties’ intentions _at
+the time of entering into the contract_. Indeed, there are dangers in placing
+too much weight on such evidence because it can, with the benefit of
+hindsight, be shaped to suit each party’s position (see, for similar
+observations, _HSBC Trustee_ at [50]). In any event, we have difficulties with
+the inference that Mr Tong had sought to draw from the mere fact that the
+expiry date of the Sub-Lease Agreement was stated as 6 October 2012 in the
+Settlement Agreement. This is because, as Mr Tan pointed out, the evidence
+appeared to suggest that YES did not have sight of the 2010 Lease Agreement
+until _after_ these proceedings were commenced _in October 2012_ ; hence, it
+is unclear how YES would have even known that Soup’s lease for Unit 141
+expired on 18 October 2012 when the Settlement Agreement was entered into _in
+June 2012_. For example, in an email dated 5 October 2012, Soup’s solicitors
+rejected a request by YES’s solicitors for a copy of the 2010 Lease Agreement
+on grounds that YES was not entitled to this document, and not that YES was
+already in possession of this document. In any event, there is an innocuous
+explanation for the 6 October 2012 expiry date in the Settlement Agreement,
+which is simply that, with the parties’ relationship having already broken
+down by the time of the Settlement Agreement, they no longer wanted to carry
+on with any sharing arrangement in respect of Unit 141. From YES’s
+perspective, therefore, what it had hoped to do was to merge its lease of the
+Sub-Leased Premises with its own lease for Unit 137 and, to that end, to have
+the expiry dates of both coincide on 6 October 2012. Indeed, subsequent to the
+Settlement Agreement, YES did propose such a merger to the landlord and Soup
+was initially receptive of this (although it subsequently changed its mind and
+claimed possession over Unit 141 in its entirety) (see the Judgment at [25]).
+Accordingly, we do not think that much can be read into the terms of the
+Settlement Agreement as informing the construction of the Sub-Lease Agreement.
+
+75 Having taken into account the relevant context as a whole, it appears to us
+that Mr Tan’s emphasis on the specific language in cl 4 is not a mere exercise
+in semantics. As we have already noted, this is a contract that was drafted by
+business people who oversaw related (and sister) business entities. It is a
+very rough and ready agreement – short and clearly not drafted with the
+benefit of legal advice. It is clear, in our view, that the parties had
+intended (in cl 4) that YES would continue to be a sub-lessee of Soup with
+regard to the Sub-Leased Premises so long as Soup continued to lease Unit 141
+from the landlord. With this business expectation in mind, YES embarked on the
+expansion of its kitchen and VIP rooms and took the risk that it would – in
+the medium to long term – be able to recoup the costs that it had incurred for
+this purpose.
+
+76 We therefore find that it is inconsistent with this context to read the
+specific text in cl 4 as entitling Soup to sole possession of Unit 141 the
+moment the 2010 Lease Agreement expired on 18 October 2012. That does not
+reflect the reasonable commercial expectations of the parties at the time of
+the Sub-Lease Agreement, when relations were still good. Accordingly, we hold
+that YES was not in wrongful possession of the Sub-Leased Premises beyond 18
+October 2012; hence, Soup’s claim for damages on this basis fails.
+
+Conclusion
+
+77 For the reasons set out above, we allow the appeal with costs. The usual
+consequential orders will follow.
+
+Copyright © Government of Singapore.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 0: 02 Oct 2015 (00:00 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

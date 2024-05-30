@@ -1,0 +1,465 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 49
+
+Originating Claim No 49 of 2022 (Summons No 2031 of 2022)
+
+Between
+
+| Lakshmi Anil Salgaocar (suing as the administratrix of the estate of Anil
+Vassudeva Salgaocar, deceased)  
+---|---  
+  
+… Claimant
+
+And
+
+| Purnima Anil Salgaocar  
+---|---  
+  
+… Defendant
+
+grounds of decision
+
+[Contract — Contractual terms — Rules of construction]
+
+[Civil Procedure — Injunctions — Enforcement of negative covenant]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Lakshmi Anil Salgaocar (suing as the administratrix of the estate of Anil
+Vassudeva Salgaocar, deceased)
+
+  
+v
+
+  
+
+Purnima Anil Salgaocar
+
+[2023] SGHC 49
+
+General Division of the High Court — Originating Claim No 49 of 2022 (Summons
+No 2031 of 2022)  
+Lai Siu Chui SJ  
+28 June 2022
+
+28 February 2023
+
+Lai Siu Chiu SJ:
+
+1 This case arose out of a long-running dispute between the claimant mother
+and the defendant daughter, over the former’s administration of the estate of
+Anil Vassudeva Salgaocar (“the Deceased”). At some point, the two parties
+entered into a settlement agreement, which inter alia restricted either party
+from bringing proceedings against the other until a separate action between
+the estate and a third party had been resolved.
+
+2 When the defendant initiated separate probate proceedings against the
+claimant, the claimant sought to hold the defendant to the negative covenant
+by way of an interim injunction.
+
+3 The question which arose was whether the claimant’s alleged but unproven
+breaches of the settlement agreement meant that the negative covenant
+contained therein was not binding on the defendant, and so could not serve as
+the basis for an interim injunction against her.
+
+4 After hearing the parties, this court found that even if the claimant had
+breached the terms of the settlement agreement, the appropriate course of
+action would have been to sue on the agreement. The defendant’s commencement
+of separate probate proceedings was thus a breach of the negative covenant,
+which justified the grant of the interim injunction sought by the claimant. As
+the defendant has appealed against my decision (in Civil Appeal No 81 of 2022
+after first obtaining leave of court to appeal in OA 10 of 2022), I now give
+my reasons.
+
+The facts
+
+The parties
+
+5 The claimant is Lakshmi Anil Salgaocar, who was the wife of the Deceased and
+the sole administratrix of his estate.
+
+6 The defendant is Purnima Anil Salgaocar, who is the claimant’s daughter and
+a beneficiary of the Deceased’s estate.
+
+Background facts
+
+7 The Deceased passed away in Singapore on 1 January 2016, leaving behind
+assets located both inside and outside of India. The latter shall be referred
+to as the “non-India assets”, in accordance with the terminology adopted by
+parties in their written submissions. Prior to his passing, the Deceased had
+commenced HC/S 821/2015 against a third party, which was a dispute over the
+ownership of assets which his estate now alleges to comprise a large portion
+of the non-India assets. 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Purnima Anil Salgaocar (15 June 2022) at [12].
+
+His estate continued the action after his passing.
+
+8 After the Deceased passed away, the claimant became the sole administratrix
+of his estate. Over the next few years, the defendant became increasingly
+dissatisfied with the way in which the claimant had been administering the
+estate, and alleged that the claimant had refused to provide a proper account
+of the estate’s assets, reneged on a promised interim distribution of S$1
+million, and treated the defendant inequitably as compared to her fellow
+siblings and beneficiaries. 2
+
+##### Foot Note 2
+
+×
+
+Defendant’s Skeletals at [39].
+
+9 The dispute arising from these allegations was temporarily resolved when the
+parties entered into a settlement agreement on 13 April 2020 (“first
+settlement agreement”), according to which the claimant was to appoint an
+independent accountant to draw up and provide an account of the estate’s
+assets, make an interim payment of S$1 million to the defendant, and make
+arrangements for the defendant to be paid S$15,000 per month.
+
+10 Subsequently however, the defendant alleged that the claimant had failed to
+fulfil the terms of the first settlement agreement, and so commenced a claim
+for specific performance thereof by way of HC/OS 928/2020. This was eventually
+resolved, albeit again only for a time, when parties entered into another
+settlement agreement (“second settlement agreement”) on 27 May 2021. 3
+
+##### Foot Note 3
+
+×
+
+Affidavit of Purnima Anil Salgaocar (15 June 2022) at pg. 138–140
+
+Pursuant to the second settlement agreement, the claimant was to provide the
+defendant with an account of the estate’s assets drawn up by an independent
+accountant, and make to the defendant two lump sum payments as well as regular
+monthly payments of S$15,000 until the final distribution of the estate. HC/OS
+928/2020 would be discontinued, and the first settlement agreement would have
+no further force or effect. Finally, the second settlement agreement contained
+two clauses which were aimed at restricting further litigation between the
+claimant and defendant until HC/S 821/2015 was resolved.
+
+11 A dispute subsequently arose between the parties as to whether the claimant
+had fulfilled the terms of the second settlement agreement, in respect of the
+provision of accounts. 4
+
+##### Foot Note 4
+
+×
+
+Affidavit of Purnima Anil Salgaocar (15 June 2022) at [84]–[95]; Affidavit of
+Lakshmi Anil Salgaocar (31 May 2022) at [65].
+
+The defendant thus filed HCF/OSP 6/2022, seeking to compel the claimant to
+provide her an account of the non-India assets, and the appointment of an
+independent auditor to ensure that the information provided was complete and
+accurate. 5
+
+##### Foot Note 5
+
+×
+
+Defendant’s Skeletals at [82].
+
+12 Being of the view that the defendant’s bringing of HCF/OSP 6/2022 was a
+breach of the second settlement agreement, the claimant ceased making the
+monthly payments of S$15,000. 6
+
+##### Foot Note 6
+
+×
+
+Affidavit of Lakshmi Anil Salgaocar (31 May 2022) at [84].
+
+Additionally, the claimant filed the present application on 31 May 2022,
+seeking an injunction against the defendant from proceeding with HCF/OSP
+6/2022 on the basis of the negative covenant.
+
+Parties’ arguments
+
+13 The claimant’s case was that Clauses 11 and 18 of the second settlement
+agreement constituted a negative covenant whose effect was to absolutely
+restrict either party from bringing any proceedings against the other, save
+for breach of the second settlement agreement, until the final disposition of
+HC/S 821/2015. This being the case, as the defendant had breached the negative
+covenant by bringing HCF/OSP 6/2022, an interim injunction should be granted
+as a matter of course (RGA Holdings International Inc v Loh Choon Phing Robin
+and another [2017] 2 SLR 997 (“RGA Holdings”) at [32]).
+
+14 The defendant’s case was that the operation of the negative covenant was
+conditional on the claimant fully complying with the terms of the second
+settlement agreement. As the claimant had not done so, Clause 11 was not
+effective to restrain the defendant from bringing any kind of proceedings and
+could not be the basis for an interim injunction to that effect. In any event,
+as the claimant had withheld the S$15,000 monthly payment on the basis that
+the defendant had allegedly repudiated the second settlement agreement, the
+claimant was no longer entitled to rely on it. Accordingly, the appropriate
+test for the grant of an interim injunction was the balance of convenience
+test in American Cyanamid Company v Ethicon Limited [1975] AC 396, which in
+the present case weighed against the grant of the injunction.
+
+Issues to be determined
+
+15 The issues which arose for my determination were therefore as follows:
+
+(a) Was the operation of the negative covenant contained in Clauses 11 and 18
+conditional on the claimant’s fulfilment of the terms of the second settlement
+agreement?
+
+(b) If the answer to the above question is “yes”, had the claimant breached
+the terms of the second settlement agreement?
+
+(c) In any case, in refusing to make payment to the defendant, had the
+claimant forgone her right to rely on the second settlement agreement?
+
+(d) Based on the answers to the previous questions, what were the appropriate
+principles which governed the present application for an interim injunction?
+
+Issue 1: whether the negative covenant was conditional
+
+16 The first issue was whether the operation of the negative covenant was
+conditional upon the claimant’s fulfilment of the terms of the settlement
+agreement, which was ultimately a question of contractual interpretation. For
+convenience, Clause 11 of the second settlement agreement is reproduced below:
+7
+
+##### Foot Note 7
+
+×
+
+Affidavit of Purnima Anil Salgaocar (15 June 2022) at pg. 138–140
+
+Clause 11
+
+Provided that the terms of this Agreement are fully complied with by the
+[claimant], the [defendant] also agrees not to commence any further litigation
+against the Estate or any of the other beneficiaries of the Estate, in
+relation to the Non-India Assets and/or matters connected with HC/Suit
+821/2015 and/or by using any information, correspondence and/or documents
+arising in relation to and pursuant to this Agreement, until after the trial
+in HC/Suit 821/2015 has been concluded and any appeal(s) thereafter has been
+finally determined and/or when HC/Suit 821/2015 is withdrawn and/or settled.
+[emphasis added]
+
+17 The defendant’s position was that the phrase “Provided that the terms of
+this Agreement are fully complied with” rendered the operation of Clause 11
+conditional upon the claimant’s compliance with all the terms of the second
+settlement agreement. However, while this may have been a sensible
+interpretation of Clause 11 if it was read in isolation, the “whole contract”
+approach to contractual interpretation directs the court to adopt a holistic
+approach that is based on the whole contract, and not to fixate upon a
+particular word, phrase, sentence, or clause (Zurich Insurance (Singapore) Pte
+Ltd v B-Gold Interior Design & Construction Pte Ltd [2008] 3 SLR(R) 1029 at
+[131]). Clause 11 therefore had to be read together with Clause 18, which
+reads as follows:
+
+Clause 18
+
+In the event of any breach of this Agreement, the Parties shall only be
+entitled to sue on this Agreement and shall not be entitled to revive or
+pursue OS 928.
+
+18 Thus read together, the effect of Clauses 11 and 18 was that parties were
+prohibited from bringing any claim against each other in relation to the non-
+India assets, except for a breach of the second settlement agreement. The
+restriction in Clause 18 was expressed as applying to “parties”, which could
+only have meant both the claimant and the defendant. It therefore applied to
+situations in which the claimant might have been in breach of the second
+settlement agreement, and stipulated that in such cases, the defendant would
+only have been entitled to sue on the second settlement agreement. This would
+have made little sense if a breach by the claimant would have meant that the
+defendant was free to bring fresh proceedings to enforce the same claims and
+underlying causes of action with which the second settlement agreement had
+been concerned – in this case the defendant’s rights qua beneficiary to an
+account of the estate, as would have been the logical consequence of the
+defendant’s conditional interpretation of Clause 11.
+
+19 On the contrary, the effect of a settlement agreement is to put an end to
+prior proceedings, preclude the taking of further steps not provided for in
+the settlement agreement, and supersede the original cause of action
+altogether (Rakna Arakshaka Lanka Ltd v Avant Garde Maritime Services (Pte)
+Ltd [2019] 2 SLR 131 at [95]), and this applies equally to both the first and
+second settlement agreements. In other words, the defendant’s right to an
+account under the law would have been superseded by her contractual rights
+under the first settlement agreement, which would have in turn been superseded
+by her rights under the second settlement agreement. It therefore mattered not
+that the category of claims articulated in Clause 11 was wider than simply for
+breaches of the second settlement agreement, nor that the second settlement
+agreement did not expressly purport to curtail the defendant’s “general rights
+at law”, as the defendant had observed. 8
+
+##### Foot Note 8
+
+×
+
+Defendant’s Skeletals at [165].
+
+20 Any action conceived of as being directed towards enforcement of rights
+dealt with by the second settlement agreement, or justified with reference to
+a breach thereof as the defendant has attempted to do, could only be brought
+on the basis of that agreement. This did not change simply because the
+defendant had in HCF/OSP 6/2022 cleverly sought a remedy not expressly
+provided for under the second settlement agreement.
+
+21 The defendant also argued that “Clause 11 is not stated to be defined by or
+subject to Clause 18.” 9
+
+##### Foot Note 9
+
+×
+
+Defendant’s Skeletals at [170], [172].
+
+However, the force of this argument, and the observation that Clause 18
+neither cross-referenced, addressed, nor appeared in the same section as
+Clause 11, was somewhat undermined by the fact that the section in which
+Clause 18 resides was titled “General”. Indeed, several of the other clauses
+appearing in that section had also necessarily to be read as applying to the
+second settlement agreement as a whole, and all the other provisions therein.
+For example, Clause 20 provided that time shall be of the essence in the
+performance of the second settlement agreement. This could not sensibly have
+been read as imposing any standalone obligation, but rather as applying to and
+governing the performance of the obligations contained in all the other
+clauses. The same may also have been said of Clause 19, which prohibited the
+variation of the second settlement agreement save by in writing and by
+agreement and signature of all parties, and Clause 21, which directed parties
+to act in good faith and so as to give full effect to the intent, spirit, and
+provisions of the second settlement agreement. Indeed, the location of Clause
+18 supported the claimant’s interpretation, that it applied to all other
+clauses such that the only permissible remedy for any breach of the second
+settlement agreement would have been to sue for breach thereof.
+
+22 Accordingly, the proper interpretation of Clauses 11 and 18 was that they
+imposed an absolute prohibition on either party from bringing proceedings
+against the other until HC/S 821/2015 is resolved, except for breaches of the
+second settlement agreement. In view of this conclusion, there was no need to
+consider whether the claimant had in fact failed to comply with her obligation
+to render accounts of the estate under the second settlement agreement.
+
+Issue 2: whether the claimant had forgone her right to rely on the second
+settlement agreement
+
+23 The defendant further argued that the claimant was no longer entitled to
+rely on the second settlement agreement. This was because the claimant had
+ceased making the monthly payments of S$15,000, claiming that she was no
+longer bound to do so owing to the defendant’s “repudiatory breach” in
+commencing HCF/OSP 6/2022. 10
+
+##### Foot Note 10
+
+×
+
+Defendant’s Skeletals at [156]–[157].
+
+Additionally, the claimant had in HC/OS 49/2022 also included a claim against
+the defendant for all sums already paid to and received by the latter under
+the second settlement agreement, on the basis of the same “repudiatory
+breach”. In doing so, the claimant had effectively taken the position that the
+second settlement agreement was no longer binding on her.
+
+24 This court found that neither the claimant’s cessation of monthly payments
+nor her claim for sums paid prevented her from relying on the second
+settlement agreement. Insofar as the cessation of monthly payments was
+concerned, this was as much a breach of the second settlement agreement as was
+the defendant’s bringing of HCF/OSP 6/2022.
+
+25 Pursuant to the above analysis at [16]–[22], the only available remedy to
+the innocent party is to sue on the second settlement agreement. This was in
+fact precisely what the defendant had done in respect of the claimant’s
+failure to make the monthly payments, 11
+
+##### Foot Note 11
+
+×
+
+Defendant’s Defense and Counterclaim in HC/OC 49/2022.
+
+although curiously not for the claimant’s alleged failure to provide the
+accounts. It did not relieve her of her own obligations under the second
+settlement agreement, nor preclude the claimant from seeking enforcement
+thereof.
+
+26 The claimant’s attempt to reclaim sums already paid to the defendant was
+not also inconsistent with the present application for an injunction. By
+parity of reasoning, insofar as a plea for specific performance does not
+necessarily constitute an affirmation of a contract or waiver of prior
+repudiatory breaches (CSDS Aircraft Sales & Leasing Inc v Singapore Airlines
+Ltd [2022] 1 SLR 284 at [48]), the institution of an action for damages should
+likewise not constitute acceptance of repudiation. It is also not inconsistent
+to seek damages for past breaches, while also seeking to hold the breaching
+party to their obligations going forward. The claimant thus remained entitled
+to seek performance of the second settlement agreement, as did the defendant.
+
+Issue 3: what were the appropriate principles governing the grant of an
+injunction?
+
+27 Having found that the restriction in Clauses 11 and 18 was not conditional
+and that the claimant remained entitled to rely upon the second settlement
+agreement, the relevant principles were therefore those articulated in RGA
+Holdings at [32], that where a breach of a negative covenant has occurred or
+is imminent, an injunction to restrain a prospective or further breach would
+normally be granted as a matter of course. The balance of convenience test
+would not apply in such cases, and the injunction would only be refused if
+granting it would cause the defendant particular hardship(s) over and above
+simply having to observe the contract.
+
+28 In this case, in view of the defendant’s commencement of HCF/OSP 6/2022,
+there was no real question as to whether she had breached the negative
+covenant. It was also difficult to see what particular hardship(s) would have
+been caused by granting the injunction sought by the claimant, given that the
+defendant remained entitled to seek an account of the estate’s assets from the
+claimant by suing for specific performance of the second settlement agreement.
+
+29 This court therefore granted the injunction restraining the defendant from
+bringing any proceedings other than for breach of the second settlement
+agreement, until such time as HC/S 821/2015 is disposed of.
+
+Lai Siu Chiu
+
+Senior Judge
+
+Niru Pillai, Liew Teck Huat and Phang Cun Kuang (Niru & Co LLC) for the
+claimant;
+
+Lim Gerui, Estad Amber Joy and Melinna Teo (Drew & Napier LLC) for the
+defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 28 Feb 2023 (15:28 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,4306 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2021] SGHC 191
+
+Suit No 1007 of 2018
+
+Between
+
+| Jason Grendus  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| Stephen David Lynch  
+---|---  
+(2)| Brett Dawkins  
+(3)| William John Patrick Dale  
+(4)| Aryan Search Pte Ltd  
+  
+… Defendants
+
+JUDGMENT
+
+[Tort] — [Misrepresentation] — [Fraud and deceit]
+
+[Tort] — [Misrepresentation] — [Negligent misrepresentation]
+
+[Tort] — [Conspiracy]
+
+[Tort] — [Misrepresentation] — [Negligent misrepresentation]
+
+[Evidence] — [Admissibility of evidence] — [Similar facts]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Jason Grendus
+
+  
+v
+
+  
+
+Stephen David Lynch and others
+
+[2021] SGHC 191
+
+General Division of the High Court — Suit No 1007 of 2018
+
+Andre Maniam JC  
+16, 17, 18 March, 18 May 2021
+
+17 August 2021 Judgment reserved.
+
+Andre Maniam JC:
+
+Introduction
+
+1 A long drinking session is not the best occasion for a discussion on
+investments.
+
+2 The plaintiff (“Mr Grendus”) sued in respect of US$200,000 in investments
+(the “Investments”) he made: US$100,000 into DataCore Innovations LLC
+(“DataCore”) (the “DataCore Subscription”), and another US$100,000 into
+DataCore’s holding company CorePlus Innovations LLC (“CorePlus”) (the
+“CorePlus Debenture”). He says the Investments turned out to be worthless, or
+worth far less. He claims he had been induced to invest by fraudulent or
+negligent misrepresentations, and that he was the victim of a conspiracy to
+defraud.
+
+3 This judgment deals with Mr Grendus’ claims against the second defendant
+(“Mr Dawkins”) and the fourth defendant (“Aryan Search”), which is Mr Dawkins’
+employer. Mr Grendus had earlier obtained default judgment against the first
+and third defendants, Mr Lynch and Mr Dale.
+
+Background
+
+The parties
+
+4 Mr Grendus is a trained accountant. 1
+
+##### Foot Note 1
+
+×
+
+Transcript, 16 Mar, p 78 lines 29-31.
+
+At the material time, he was on garden leave from his full-time employer, 2
+
+##### Foot Note 2
+
+×
+
+Transcript, 16 Mar, p 6 line 27.
+
+and was teaching part-time at the National University of Singapore (“NUS”). 3
+
+##### Foot Note 3
+
+×
+
+Transcript, 16 Mar, p 62 lines 31-32.
+
+5 Mr Dale is the chairman and Chief Executive Officer (“CEO”) of both DataCore
+and CorePlus. 4
+
+##### Foot Note 4
+
+×
+
+Affidavit of Evidence-in-Chief of Jason Grendus (“Mr Grendus’ AEIC”) at para
+9.
+
+Mr Lynch was, at the material time, DataCore’s Chief Operating Officer (or
+equivalent). 5
+
+##### Foot Note 5
+
+×
+
+Mr Grendus’ AEIC at para 17.
+
+6 Mr Dawkins is a recruiter, the head of the IT and Technology recruitment
+department of Aryan Search, a company that has been in the recruitment
+business since 2008. 6
+
+##### Foot Note 6
+
+×
+
+Affidavit of Evidence-in-Chief of Shervani Vikram (“Mr Vikram’s AEIC”) at para
+4.
+
+Aryan Search’s director and shareholder, Shervani Vikram (“Mr Vikram”),
+testified on its behalf.
+
+7 Mr Dawkins told Mr Grendus about a potential opportunity for Mr Grendus to
+work for DataCore. Mr Dawkins also mentioned that DataCore was looking for
+investors. Mr Grendus expressed interest in investing in DataCore. 7
+
+##### Foot Note 7
+
+×
+
+Mr Grendus’ AEIC at para 16.
+
+Mr Grendus and Mr Dawkins then met with Mr Lynch, who told Mr Grendus more
+about DataCore. The meeting lasted from the evening of 24 May 2016 till the
+early hours of 25 May 2016 (the “24 May 2016 Meeting”). 8
+
+##### Foot Note 8
+
+×
+
+Mr Grendus’ AEIC at para 17.
+
+They all drank a lot of alcohol, smoked cigars, 9
+
+##### Foot Note 9
+
+×
+
+Transcript, 16 Mar, p 44 lines 26-32; p 45 lines 1-5.
+
+and evidently enjoyed themselves.
+
+8 On 10 June 2016, Mr Lynch emailed Mr Grendus information and documents about
+investing in DataCore (the “10 June 2016 Email”). 10
+
+##### Foot Note 10
+
+×
+
+Mr Grendus’ AEIC at para 20(c); Plaintiff’s Bundle of Affidavit of Evidence-
+in-Chief Volume II (“AEIC Bundle Vol II”) at p 82.
+
+This included a document titled “DataCore Innovations LLC: Financial Pro Forma
+and Business Assumptions: 2016”, which contained pro forma financial
+statements of DataCore (the “Pitch Document”). 11
+
+##### Foot Note 11
+
+×
+
+Mr Grendus’ AEIC at para 20(b); AEIC Bundle Vol II at pp 72-81; Statement of
+Claim (Amendment No 2) dated 15 Jul 2020 (“SOC”) at para 13(b).
+
+On 24 June 2016, Mr Grendus made the Investments. 12
+
+##### Foot Note 12
+
+×
+
+Mr Grendus’ AEIC at para 31.
+
+9 Mr Grendus’ case against Mr Dawkins is largely based on what happened at the
+24 May 2016 Meeting. He claims that Mr Dawkins made certain representations
+orally, and certain other representations by remaining silent in the face of
+what Mr Lynch said.
+
+The proceedings
+
+10 Mr Grendus sued in October 2018. He claimed that Mr Lynch and Mr Dawkins
+had induced into him making the Investments, by fraudulent or negligent
+misrepresentations. 13
+
+##### Foot Note 13
+
+×
+
+SOC at paras 9-25; Plaintiff’s Written Submissions (“PWS”) at para 1(a).
+
+He also claimed that Mr Lynch, Mr Dawkins, and Mr Dale had conspired to
+defraud him. 14
+
+##### Foot Note 14
+
+×
+
+PWS at para 1(b); SOC at paras 26–30.
+
+Mr Grendus claimed against Aryan Search on the basis that it was vicariously
+liable for Mr Dawkins’ conduct. 15
+
+##### Foot Note 15
+
+×
+
+PWS at para 1(c); SOC at para 37.
+
+11 By the time Mr Grendus sued, Mr Lynch was already bankrupt (as of 4 January
+2018). 16
+
+##### Foot Note 16
+
+×
+
+AEIC Bundle Vol II at pp 461-462.
+
+Still, Mr Lynch entered an appearance; but he did not file a defence in time,
+and on 23 November 2018 Mr Grendus obtained default judgment against him. 17
+
+##### Foot Note 17
+
+×
+
+HC/JUD 57/2019.
+
+12 Mr Dale did not enter an appearance, and on 14 September 2019 Mr Grendus
+obtained default judgment against him. 18
+
+##### Foot Note 18
+
+×
+
+HC/JUD 502/2019.
+
+13 Mr Dawkins and Aryan Search defended the claims against them, which
+proceeded to trial.
+
+Executive summary of decision
+
+14 I dismiss Mr Grendus’ claims against Mr Dawkins and Aryan Search.
+
+15 Mr Grendus has not proved that Mr Dawkins fraudulently made any false
+representations which induced Mr Grendus to make the Investments.
+
+16 There are several inconsistencies between Mr Grendus’ pleadings, his
+Affidavit of Evidence-in-Chief (“AEIC”), and his testimony at trial, as to the
+alleged representations supposedly made by Mr Dawkins. Mr Grendus’ case is
+built on shaky grounds:
+
+(a) his recollection of what was said to him (mainly by Mr Lynch rather than
+Mr Dawkins) over a lot of alcohol at the 24 May 2016 Meeting;
+
+(b) a mistaken assumption that Mr Dawkins had in his possession, by the time
+of the 24 May 2016 Meeting, the “Pitch Document” which was sent to Mr Grendus
+with the 10 June 2016 Email, such that Mr Dawkins could quote figures from the
+Pitch Document at the 24 May 2016 Meeting – what Mr Dawkins had was in fact an
+earlier version of the Pitch Document (the “May Pro Forma”), which contained
+figures that differed materially from the Pitch Document; moreover, I accept
+Mr Dawkins’s evidence that he had not read the May Pro Forma, or at least not
+fully or properly;
+
+(c) an assertion that Mr Dawkins and Aryan Search had done (financial) due
+diligence to check on what Mr Lynch and Mr Dale were saying about DataCore,
+and in particular to verify the figures in the Pitch Document (and if Mr
+Dawkins and Aryan Search had not done such due diligence, they were at least
+negligent); and
+
+(d) rationalisation after the fact, from what Mr Grendus found out about
+DataCore after he invested, and documents which he obtained in discovery.
+
+17 Mr Dawkins and Aryan Search were recruiting for DataCore; they were not
+engaged to solicit investments for DataCore. Mr Dawkins did mention the
+possibility of investing in DataCore to Mr Grendus and others – Mr Grendus
+decided to invest, but others such as the Shanda Group (“Shanda”) decided not
+to. Mr Dawkins and Aryan Search were not obliged to do financial due diligence
+on DataCore, and they never did. In effect, Mr Grendus’ case is that he could
+invest on the faith of financial due diligence that Mr Dawkins and Aryan
+Search ought to have done – that is unsound.
+
+18 Mr Grendus was informed in writing – by documents sent to him by Mr Lynch
+with the 10 June 2016 Email – that he might lose what he decided to invest in
+DataCore. This fundamentally contradicts Mr Grendus’ allegation that there
+was, at least, reassuring silence in response to him sharing his strategic
+investment objectives.
+
+19 Mr Dawkins did not conspire with Mr Lynch and Mr Dale to defraud Mr Grendus
+(or anyone else). If there were any conspiracy between Mr Lynch and Mr Dale,
+Mr Dawkins was not involved in it.
+
+20 As Mr Dawkins is not liable, it follows that Aryan Search is not
+vicariously liable. In any event, as the complaints about Mr Dawkins do not
+relate to anything done by him as a recruiter, Aryan Search ought not to be
+vicariously liable.
+
+Mr Dawkins’ role in the matter
+
+Mr Dawkins spoke to Mr Grendus about DataCore looking for investors, but Mr
+Dawkins did not “pitch” an investment in DataCore
+
+21 It is common ground that Mr Dawkins told Mr Grendus that DataCore was
+looking for investors. 19
+
+##### Foot Note 19
+
+×
+
+Transcript, 17 Mar, p 24 lines 26-32; p 25 lines 1-22.
+
+Mr Dawkins says that this was done as part and parcel of him introducing
+DataCore to Mr Grendus, in the context of an opportunity for Mr Grendus to
+work for DataCore. 20
+
+##### Foot Note 20
+
+×
+
+Transcript, 17 Mar, p 25 lines 22-31; p 32 lines 17-26.
+
+Mr Grendus says that Mr Dawkins was “pitching” to him an investment in
+DataCore: that Mr Dawkins was soliciting investments for DataCore for reward,
+that Mr Dawkins had the financial acumen to do so, and that Mr Dawkins had
+done financial due diligence on DataCore (including verifying whether the pro
+forma financial statements in the Pitch Document were accurate).
+
+22 I accept Mr Dawkins’ account of the context in which he had mentioned to Mr
+Grendus that DataCore was looking for investors – Mr Dawkins was acting as a
+recruiter, providing information about the company that he was recruiting for,
+and incidentally making investor introductions, but he did not “pitch” any
+investment in DataCore to Mr Grendus – he left it to Mr Grendus to discuss
+that directly with DataCore’s representatives.
+
+Mr Dawkins’ initial contacts with Mr Grendus were about work opportunities,
+not investment opportunities
+
+23 Mr Dawkins was first introduced to Mr Grendus in December 2015, when Mr
+Dawkins did not even know about DataCore. Their initial exchanges were also
+about work opportunities rather than investment opportunities.
+
+24 In December 2015, Mr Grendus’ flatmate shared Mr Grendus’ LinkedIn profile
+with Mr Dawkins. Mr Dawkins then made attempts in December 2015 and January
+2016 (via LinkedIn) to contact Mr Grendus. 21
+
+##### Foot Note 21
+
+×
+
+AEIC Bundle Vol II at pp 65-66.
+
+At that time, Mr Dawkins did not even know about DataCore (which he would only
+hear about from Mr Lynch in February 2016) (see [29] below).
+
+25 In the event, Mr Dawkins and Mr Grendus did not speak until around 13 May
+2016 as Mr Grendus did not respond to Mr Dawkins’ earlier LinkedIn invite. 22
+
+##### Foot Note 22
+
+×
+
+Affidavit of Evidence-in-Chief of Brett Dawkins (“Mr Dawkins’ AEIC”) at paras
+10-10.1.
+
+They then proceeded to exchange messages on LinkedIn. 23
+
+##### Foot Note 23
+
+×
+
+Plaintiff’s Bundle of Affidavit of Evidence-in-Chief Volume I (“AEIC Bundle
+Vol I”) at pp 68-70.
+
+Mr Grendus says he recalls receiving a LinkedIn message with a generic
+reference to “Opportunities”. 24
+
+##### Foot Note 24
+
+×
+
+Reply to the Defence of the 2nd and 4th Defendants dated 24 Dec 2018 (“Reply”)
+at para 7.
+
+The messages themselves are, however, more specific:
+
+(a) Mr Grendus said he was in Singapore and would split his time between
+Singapore and Saigon for the next few months, and that he was teaching at NUS
+part-time. He then said, “I would stay in Singapore for the right opportunity,
+but it has not surfaced up to this point.” [emphasis added]
+
+(b) Mr Dawkins then said, “I might have some options for you.”
+
+26 I accept Mr Dawkins’ evidence that they were then discussing possible work
+opportunities rather than investment opportunities. 25
+
+##### Foot Note 25
+
+×
+
+Mr Dawkins’ AEIC at paras 10.1-10.3.
+
+The “right opportunity” which Mr Grendus was willing to stay in Singapore for
+was work-related rather than investment-related; up to that point investment
+had not come up as a topic between them.
+
+27 The two of them spoke again on 24 May 2016. Over the telephone, Mr Dawkins
+provided Mr Grendus with information on two potential work opportunities, one
+of which was with DataCore. 26
+
+##### Foot Note 26
+
+×
+
+Mr Dawkins’ AEIC at paras 10.4-10.6.
+
+DataCore did not engage Mr Dawkins or Aryan Search to solicit investments
+
+28 There is no evidence that DataCore had engaged Mr Dawkins or Aryan Search
+to solicit investments; the evidence points to the contrary.
+
+February 2016 – Mr Lynch told Mr Dawkins about DataCore, and Mr Dawkins
+introduced Shanda to DataCore
+
+29 On 4 February 2016, Mr Lynch sent Mr Dawkins an email captioned,
+“Introduction to DataCore Innovations and Dominant Factor Indices” (the “4
+February 2016 Email”). 27
+
+##### Foot Note 27
+
+×
+
+Mr Dawkins’ AEIC at para 10.8; AEIC Bundle Vol I at pp 71-72.
+
+Mr Lynch attached various documents to that email. He said this was:
+
+(c) “updated collateral introducing our business and Dominant Factor Indices”;
+
+(d) “a few performance reports featuring index products that may be of
+interest to your client”; and
+
+(e) a “Smart Beta market survey” which he thought “you and your clients” will
+find very interesting.
+
+30 Mr Lynch concluded by saying he had included a brief description of
+DataCore along with some background information that may be helpful as Mr
+Dawkins introduced Dominant Factor Indices (the products which DataCore
+offered as its main business activity) “to [his] contacts at Harvest Global”.
+
+31 I accept Mr Dawkins’ evidence that he did not know why Mr Lynch was
+referring to Harvest Global; Mr Dawkins did not know who Harvest Global was.
+28
+
+##### Foot Note 28
+
+×
+
+Transcript, 17 Mar, p 14 lines 28-32, p 15 lines 6-14.
+
+There is also no evidence that Mr Dawkins ever spoke to anyone from Harvest
+Global about DataCore.
+
+32 Instead, Mr Dawkins spoke with Mr Lynch the day he received the 4 February
+2016 Email, with a view to recruiting for DataCore. 29
+
+##### Foot Note 29
+
+×
+
+Transcript, 17 Mar, p 15 lines 16-17.
+
+33 Mr Dawkins also proceeded to introduce Shanda to DataCore later the same
+day. Mr Dawkins spoke to his contact at Shanda, and sent him an email saying,
+[a]s discussed I think this is a phenomenal concept and its [sic] going to
+fly, it looks like a cracking fintech startup with great potential”. 30
+
+##### Foot Note 30
+
+×
+
+AEIC Bundle Vol II at pp 487-489.
+
+He forwarded the 4 February 2016 Email from Mr Lynch, save that he edited out
+the phrase “to your contacts at Harvest Global” (which made no sense to him).
+Mr Dawkins also copied Mr Lynch in that email and asked that his contact at
+Shanda reach out to Mr Lynch directly, whose mobile number he provided in that
+same email. Having introduced the parties, and added his endorsement, Mr
+Dawkins then stepped away and left it to Shanda and DataCore to deal directly
+with each other. Thereafter, it was DataCore rather than Mr Dawkins that
+pursued potential financing from Shanda. That behaviour is not consistent with
+Mr Grendus’ theory that Mr Dawkins was engaged to solicit investments for
+DataCore.
+
+34 Mr Lynch sent Mr Dawkins an email on 20 February 2016 to express gratitude
+on behalf of himself and Mr Dale, for the Shanda introduction (the “20
+February 2016 Email”). Mr Lynch also said in that email: 31
+
+##### Foot Note 31
+
+×
+
+AEIC Bundle Vol II at p 486.
+
+If anything is to come out of this [referring to the Shanda introduction], and
+Shanda group invests, we will make sure you are looked after for this. We are
+also going to have a number of technology hires required around scaling the
+platform for multiple custom indices creation, so we will certainly be using
+you as our point recruitment for those hires.
+
+[emphasis added]
+
+35 The 20 February 2016 Email indicates that Mr Dawkins had not introduced
+Shanda to DataCore because he had been engaged by DataCore to do so. In that
+email, Mr Lynch said that if Shanda invested, he and Mr Dale would make sure
+Mr Dawkins was “looked after” – had Mr Dawkins been engaged to solicit
+investments from Shanda (and others), that assurance would have been
+unnecessary, and indeed out of place. Mr Lynch also said that they would be
+using Mr Dawkins for DataCore’s recruitment needs - that is consistent with Mr
+Dawkins’ evidence that he made investor introductions for DataCore in hope of
+becoming its exclusive recruitment partner (see [67] below).
+
+36 I accept Mr Dawkins’ evidence that he had not asked or expected anything
+for the Shanda introduction to DataCore. He fairly accepted that by saying he
+would be “looked after” if Shanda invested, Mr Lynch could have meant a
+finder’s fee; but it could also have just meant Mr Lynch taking him out for a
+beer and a steak. 32
+
+##### Foot Note 32
+
+×
+
+Transcript, 17 Mar, p 18 lines 18-32.
+
+In the end, neither Mr Dawkins nor Aryan Search were paid anything by DataCore
+for these introductions Mr Dawkins had made: Shanda never invested; Mr Grendus
+did; one Mr Paul Lee-Simion (“Mr Lee-Simion”) did not agree to invest, but he
+put some monies in escrow and said they had been misappropriated. It does not
+appear that any of the other DataCore investors Mr Grendus later became
+acquainted with and whom he says were similarly “defrauded”, 33
+
+##### Foot Note 33
+
+×
+
+Mr Grendus’ AEIC at para 135.
+
+had spoken with Mr Dawkins.
+
+April 2016 – Mr Lynch and Mr Dawkins discussed Shanda, and also the
+possibility of Mr Dawkins and Aryan Search investing in DataCore
+
+37 Mr Lynch and Mr Dawkins continued to discuss the possibility of DataCore
+obtaining financing from Shanda, in an email exchange between 21-23 April 2016
+(the “April 2016 Email Exchange”): 34
+
+##### Foot Note 34
+
+×
+
+AEIC Bundle Vol II at pp 497-498.
+
+Mr Lynch: I have some more VC’s [venture capitalists] I am seeing when I am
+back in Singapore … In terms of Shanda we have re-written the deck 3-4 times
+to tailor the story to their CEO needs [sic] … What I need now is to get these
+guys to pull the trigger …
+
+Mr Dawkins: I can get you some more funds if you need. Some of my business
+partners will be able to help 100-200k also Even I am tempted to put in 100K
+:) but they wont [sic] bring business value. Im [sic] sure Shanda will come
+through if not I have 2 other VCs who will be ready. They are not anywhere
+near Shanda but can help if you really need it …
+
+Mr Lynch: That would be absolutely awesome its [sic] not that we are tight but
+to be honest with you it may take Shanda 1-2 more months and then we get tight
+… Shanda are taking a long time because Legg Mason is a 350 million deal its
+massive [sic] and Jingkhan is the man in the middle of that. We wont [sic] get
+his attention till that is done and dusted.
+
+38 The above exchange shows that neither Mr Lynch nor Mr Dawkins then
+considered the Shanda financing to be “guaranteed” (in the sense of it being a
+certainty). Mr Dawkins recognised the possibility that financing from Shanda
+might not come through, and indicated that he could introduce two other
+venture capitalists. I will return to this point again below (at [142]).
+
+39 In his email reply on 23 April 2016, Mr Lynch also said: 35
+
+##### Foot Note 35
+
+×
+
+AEIC Bundle Vol II at p 497.
+
+Well if you guys want to take some stock I would love to send you over the new
+deck and details. Please advise if you want to proceed no pressure thanks so
+much for your support.
+
+[emphasis added]
+
+40 Mr Lynch was seeking to interest Mr Dawkins and Aryan Search in investing
+in DataCore – he would only send over further documents and details, if there
+was that interest. This is inconsistent with Mr Grendus’ theory that all along
+Mr Dawkins was engaged to solicit investments for DataCore – if so, Mr Lynch
+would simply have sent him documents and details to facilitate such
+solicitation, without it being a pre-condition that Mr Dawkins and Aryan
+Search themselves be interested in investing.
+
+41 On 26 April 2016, Mr Lynch followed up with his earlier email and asked Mr
+Dawkins whether he wanted subscription documents to be sent over that day, or
+whether he would like to have a Skype call with Mr Lynch and Mr Dale first. Mr
+Dawkins responded to say, “[s]end over what you have for me to look at, I need
+to then call you back a bit later”. 36
+
+##### Foot Note 36
+
+×
+
+AEIC Bundle Vol II at p 497.
+
+The discussion thus continued in a similar vein - Mr Lynch was trying to get
+Mr Dawkins and Aryan Search to invest; Mr Dawkins and Aryan Search were not
+engaged to solicit investments for DataCore.
+
+May-June 2016 – Mr Dawkins received the May Pro Forma, and DataCore tried to
+get Mr Dawkins and Aryan Search to invest
+
+42 On 1 May 2016, Mr Lynch emailed Mr Dawkins (copying in Mr Dale). He said Mr
+Dale would send over DataCore subscription documents in the next few days and
+they could meet to have a discussion. 37
+
+##### Foot Note 37
+
+×
+
+AEIC Bundle Vol II at p 545.
+
+43 On 3 May 2016, Mr Dale emailed Mr Dawkins, thanking him for his “interest
+and support of [DataCore]” and provided him with “information circulars
+related to [DataCore’s] current Equity Offering”, including an attachment
+named “DataCore Innovations – Business Plan Financial Pro Forma and
+Assumptions – Q2 2016 – Confidential” (the “3 May 2016 Email”). 38
+
+##### Foot Note 38
+
+×
+
+AEIC Bundle Vol II at pp 544-545; Exhibit 2D1.
+
+That attachment was the May Pro Forma, which is an earlier version of the
+Pitch Document that Mr Lynch would later send to Mr Grendus in the 10 June
+2016 Email.
+
+44 In response, on 9 May 2016, Mr Dawkins said, “I’ve got some questions with
+regards to some of the details, a few colleagues and business partners are
+keen to learn more, hopefully tomorrow with Stephen [Mr Lynch] I’ll have a
+face to face catch up.” 39
+
+##### Foot Note 39
+
+×
+
+AEIC Bundle Vol II at p 544.
+
+45 On 10 May 2016, Mr Lynch met with Mr Dawkins and Mr Vikram of Aryan Search
+(the “10 May 2016 Meeting”). Mr Lynch tried to interest Mr Vikram into
+investing in DataCore, but Mr Vikram was not interested. 40
+
+##### Foot Note 40
+
+×
+
+Transcript, 18 Mar, p 85 lines 28-32; p 86 lines 1-22.
+
+46 The next day, 11 May 2016, Mr Lynch emailed Mr Dawkins and Mr Vikram (the
+“11 May 2016 Email”). 41
+
+##### Foot Note 41
+
+×
+
+AEIC Bundle Vol II at p 544.
+
+In the email, Mr Lynch set out “follow ups from the meeting, with some defined
+action points that we need to work through in order to satisfy the remainder
+of your due-diligence process”. 42
+
+##### Foot Note 42
+
+×
+
+AEIC Bundle Vol II at p 544.
+
+Mr Grendus cites that and contends that Mr Dawkins and Aryan Search must have
+already done financial due diligence on DataCore. 43
+
+##### Foot Note 43
+
+×
+
+Transcript, 17 Mar, p 69 lines 27-32.
+
+As I discuss below (at [50]), that is not the case.
+
+47 On 17 May 2016, Mr Dale emailed Mr Dawkins to say, “[t]hank you for your
+continued interest in our Dominant Factor index business and our Datacore
+Innovations LLC equity offering. Stephen [Mr Lynch] asked me to resend the
+attached documentation (originally sent May 2nd)” (the “17 May 2016 Email”).
+44
+
+##### Foot Note 44
+
+×
+
+AEIC Bundle Vol II at p 500.
+
+Mr Dale was referring to documents which he had sent earlier in his 3 May 2016
+Email (see [43] above).
+
+48 The attachments to the 17 May 2016 Email also included a copy of the May
+Pro Forma. Mr Dale concluded by saying: 45
+
+##### Foot Note 45
+
+×
+
+AEIC Bundle Vol II at p 500.
+
+The subscription forms and wire instructions required to execute the
+investment transaction can be found on pages 4-22 of the Membership Unit
+Offering Materials documentation package.
+
+If you or your business partners have any questions, please do not hesitate to
+call me directly at the number below.
+
+49 The 17 May 2016 Email too was in similar vein to the earlier emails – Mr
+Dale was trying to get Mr Dawkins and his “business partners” (in the context,
+Mr Vikram of Aryan Search) to invest in DataCore. Mr Dawkins and Aryan Search
+were not engaged to solicit investors for DataCore.
+
+No financial due diligence was done by Mr Dawkins or Aryan Search
+
+50 Mr Grendus contends that the reference to a “due diligence process” in the
+11 May 2016 Email showed that Mr Dawkins and Aryan Search must have already
+done financial due diligence on DataCore. 46
+
+##### Foot Note 46
+
+×
+
+Transcript, 17 Mar, p 69 lines 27-32.
+
+However, as Mr Dawkins says, the 11 May 2016 Email appeared to just be a
+standard email which Mr Lynch also sent to other of his own business contacts:
+“[w]e [Mr Dawkins and Mr Vikram] had done no due diligence, we had no in-depth
+discussions, we saw no numbers, we saw no profile”. 47
+
+##### Foot Note 47
+
+×
+
+Transcript, 17 Mar, p 70 lines 4-6.
+
+In particular, neither Mr Dawkins nor Mr Vikram were ever sent actual
+financial statements of DataCore (whether audited accounts or unaudited
+management accounts), they only received pro forma financial statements (viz,
+the May Pro Forma) – with figures based on stated assumptions.
+
+51 It is noteworthy that in cross-examining Mr Dawkins, Mr Grendus’ counsel
+took the position that Mr Dawkins first received the Pitch Document on 17 May
+2016, 48
+
+##### Foot Note 48
+
+×
+
+Transcript, 17 Mar, p 149 lines 26-32.
+
+which was after the 11 May 2016 Email – on that premise, even if Mr Dawkins
+and Aryan Search had performed any financial due diligence up to the point of
+the 11 May 2016 Email, they could not have done so in relation to figures in
+the Pitch Document which (on Mr Grendus’ own case) was not sent to them yet.
+In actual fact, the Pitch Document was never sent to Mr Dawkins or Aryan
+Search – it was only sent to Mr Grendus (see [120] below).
+
+52 It is also significant that the “follow ups” / “action points” mentioned in
+the 11 May 2016 Email from Mr Lynch do not cover checking the actual financial
+state of DataCore then, but only a Skype meeting with Mr Dale “to walk through
+the projected financials of the company and complete a formal introduction”
+[emphasis added], and introductions to two other individuals. 49
+
+##### Foot Note 49
+
+×
+
+AEIC Bundle Vol II at p 544.
+
+I accept Mr Dawkins’ evidence that the proposed Skype meeting never happened.
+50
+
+##### Foot Note 50
+
+×
+
+Transcript, 17 Mar, p 70 lines 8-13.
+
+53 Mr Grendus also submits that Mr Vikram confirmed that it was standard
+practice for Aryan Search to do “due diligence” on their customers (including
+DataCore), which would extend to satisfying themselves that their customers
+are “doing well” and “have money to pay our services”. 51
+
+##### Foot Note 51
+
+×
+
+PWS at para 59(e); Transcript, 18 Mar, p 77 lines 5–30.
+
+54 Mr Vikram, however, did not say that Aryan Search would do financial due
+diligence on its customers, to the extent of verifying their actual or pro
+forma financial statements (which is what Mr Grendus contends Aryan Search
+did, or ought to have done). Mr Vikram’s evidence was to the contrary. He
+explained that Aryan Search’s protocol was to “do some checks, whether the
+client is doing well”, 52
+
+##### Foot Note 52
+
+×
+
+Transcript, 18 Mar, p 77 lines 13-14.
+
+to “make sure … [they] have money to pay [for] our services”. 53
+
+##### Foot Note 53
+
+×
+
+Transcript, 18 Mar, p 77 lines 23-24.
+
+However, not only were these checks limited to ascertaining a prospective
+client’s ability to pay for Aryan Search’s services, they were also limited to
+publicly available information. Mr Vikram explained that Aryan Search did not
+request documents from prospective clients; he said, “[w]e don’t ask them
+anything … we’ll check it online”. 54
+
+##### Foot Note 54
+
+×
+
+Transcript, 18 Mar, p 77 lines 18-30; p 78 lines 5-6.
+
+55 When Mr Vikram was asked why the 11 May 2016 Email - sent as a follow-up to
+the 10 May 2016 Meeting - mentioned a “due-diligence process”, he said he had
+very clearly told Mr Lynch at the 10 May 2016 Meeting that he was not
+interested in what Mr Lynch pitched, because his mind had been occupied with
+other matters (his mother in India was sick and he was preparing to return to
+India for some time); and DataCore’s products (the Dynamic Factor indices) -
+which he perceived as not being IT-related - were not within his area of
+expertise. 55
+
+##### Foot Note 55
+
+×
+
+Transcript, 18 Mar, p 88 lines 5-22.
+
+Mr Vikram was also 100 per cent sure that he had told Mr Lynch at the 10 May
+2016 Meeting that he was not keen on investing in DataCore, 56
+
+##### Foot Note 56
+
+×
+
+Transcript, 18 Mar, p 91 lines 27-32; p 92 lines 1-3 and 11-12.
+
+and 100 per cent sure that he did not mention the need to conduct due
+diligence on DataCore or anything along those lines. 57
+
+##### Foot Note 57
+
+×
+
+Transcript, 18 Mar, p 91 lines 4-25.
+
+I accept Mr Vikram’s evidence on this.
+
+56 Moreover, DataCore never sent Mr Dawkins, Mr Vikram, or Aryan Search, any
+actual financial statements of DataCore. The May Pro Forma contained figures
+that were expressly based on assumptions (with a summary of those assumptions
+on page five of that document). Figures were provided for periods into the
+future (viz, from 2016 Q3 until 2018), for which there could be no actual
+figures. Where figures were provided for periods in the past (viz, from 2015
+Q4 to 2016 Q2), however, there was no indication whether these were actual
+figures, or still pro forma figures that might not have been updated to
+reflect actual figures.
+
+57 Pages four to eight of the May Pro Forma, which carried the pro forma
+figures, each had the following prominent statement: “All figures provided in
+these materials are for discussion purposes only and do not represent any
+forecast of future financial performance of the Venture or its affiliates”. So
+even the figures for future periods were not regarded as a forecast; they were
+just figures based on assumptions, for discussion.
+
+58 The May Pro Forma concluded with a “Disclaimer” on page nine which stated:
+
+This document does not constitute an offer to sell or a solicitation of an
+offer to buy any investment or any interest in the businesses described herein
+(collectively, the ‘Venture’) … No such offers or solicitations related to the
+Venture will be made prior to the delivery of a definitive documentation and
+other materials relating to the matters herein.
+
+This summary does not purport to be complete and is qualified in its entirety
+by reference to the more detailed discussions contained in the definitive
+documents or other materials provided by the Venture. This document is being
+provided to you on a confidential basis solely to facilitate further
+discussion between interested parties contemplating a business relationship …
+
+59 I accept Mr Dawkins’ evidence that he did not read the documents sent to
+him in the 3 May 2016 Email (including the May Pro Forma) or at least he had
+not read them “fully” or “properly”. 58
+
+##### Foot Note 58
+
+×
+
+Transcript, 17 Mar, p 153 lines 28-32; p 154 lines 1-8.
+
+This was vividly demonstrated when Mr Dawkins did not realise, when cross-
+examined on the contents of the Pitch Document on the mistaken premise that it
+was identical to the May Pro Forma, that the two documents were materially
+different. I elaborate on this below (at [160], [172] and [215]).
+
+60 Finally, Mr Grendus’ position is that on the face of the Pitch Document,
+which contained pro forma financials, he could not tell if the figures in it
+were accurate. 59
+
+##### Foot Note 59
+
+×
+
+Transcript, 16 Mar, p 36 lines 13-19.
+
+Mr Dawkins and Aryan Search would have been in no better position in relation
+to the May Pro Forma, which similarly contained pro forma financials.
+
+61 In the event, as neither Mr Dawkins nor Aryan Search (ie, Mr Vikram)
+decided to invest in DataCore, there was no reason for them to verify the
+accuracy of the figures in the May Pro Forma.
+
+62 Unlike Mr Dawkins and Aryan Search, Mr Grendus decided to invest in
+DataCore (and CorePlus). He was free to conduct whatever financial due
+diligence he wished on DataCore (including verifying whether the figures in
+the Pitch Document were accurate for periods in the past, and evaluating the
+assumptions made as to the future). But he cannot blame Mr Dawkins and Aryan
+Search, both of whom never decided to invest their monies into DataCore, for
+not doing such financial due diligence on DataCore.
+
+63 Mr Grendus contends that Mr Dawkins and Aryan Search did do financial due
+diligence on DataCore, and so they knew the truth and defrauded him;
+alternatively, if Mr Dawkins and Aryan Search did no financial due diligence,
+then they were reckless or careless – and so they still defrauded him, 60
+
+##### Foot Note 60
+
+×
+
+SOC at para 19.
+
+or negligently misrepresented matters to him. 61
+
+##### Foot Note 61
+
+×
+
+SOC at para 20.
+
+I reject all of this.
+
+64 Mr Dawkins and Aryan Search were not negligent in not verifying the
+accuracy of figures in pro forma financial statements of DataCore, a company
+which they were recruiting for, but decided not to invest in. They owed Mr
+Grendus no duty to do financial due diligence so that he could invest in the
+belief that they had done such due diligence.
+
+DataCore was not obliged to pay finder’s fees to Mr Dawkins or Aryan Search
+
+65 Mr Dawkins did mention “finder fees” in an email on 20 June 2016 to Mr Dale
+(the “20 June 2016 Email”), 62
+
+##### Foot Note 62
+
+×
+
+AEIC Bundle Vol II at p 490.
+
+but that needs to be viewed in context. In that email, Mr Dawkins informed Mr
+Dale that he had been working on “recruitment introduction” and “investor
+introductions”. Under “recruitment introduction” he listed “Paul Szego” and
+“Jason Grendus (was a dual conversation when introduced, e.g. work and
+investment)”. Under “investor introductions”, he listed “Shanda Group – WIP”,
+“Jason Grendus – agreed”, “Paul Simion Lee – WIP” and another “[S] – TBC for
+tomorrow”. Mr Dawkins concluded his email saying:
+
+Recruitment fees, can be settled normally in due course for Paul [Szego], but
+anything for finder fees for investment I would be keen to know what you
+typically look, I’m not going to be one dimensional about this so if you have
+suggestions or would be open to talk, I’d also like a little more air time to
+see where this can go[.]
+
+66 It is evident from Mr Dawkins’ 20 June 2016 Email (and the earlier email
+correspondence, including the 20 February 2016 Email, 3 May 2016 Email, 11 May
+2016 Email, and 17 May 2016 Email) that no agreement had been reached on Mr
+Dawkins being remunerated for the investor introductions he had made on behalf
+of DataCore (if any resulted in investment) – and in the event no agreement
+was ever reached, nor any payment made.
+
+67 I accept Mr Dawkins’ evidence that he made investor introductions as part
+of networking, and adding value to clients and potential clients; what he
+really wanted was recruitment work, and investor introductions were a way of
+strengthening that relationship – he wanted to be DataCore’s exclusive
+recruitment partner. 63
+
+##### Foot Note 63
+
+×
+
+Transcript, 17 Mar, p 19 lines 19–32; p 20 lines 1-13.
+
+68 Of course, if DataCore were to give Mr Dawkins more recruitment work (and
+were able to pay for it), that would benefit Aryan Search and by extension Mr
+Dawkins. Not only was Mr Dawkins an employee of Aryan Search, there was an
+understanding between him and Mr Vikram, that if Mr Dawkins obtained permanent
+resident status in Singapore he would become a part-owner of the business; 64
+
+##### Foot Note 64
+
+×
+
+Transcript, 16 Mar, p 84 lines 11-25.
+
+and if the business were sold he would be entitled to a share of its proceeds.
+65
+
+##### Foot Note 65
+
+×
+
+Transcript, 16 Mar, p 99 lines 13-32; p 100 lines 1-4.
+
+The fact that Mr Dawkins would have been incentivised to get business for
+Aryan Search, however, does not show that Mr Dawkins was soliciting
+investments for reward, as distinct from making investor introductions as part
+of, or incidental to, his work as a recruiter.
+
+Mr Dawkins did not have the financial acumen of a financial advisor
+
+69 Mr Grendus points to Mr Dawkins’ job scope in his employment contract,
+which includes: “[r]aise the profile of Aryan Search and implement a strategy
+(to) attract investment”. 66
+
+##### Foot Note 66
+
+×
+
+PWS at para 11.
+
+Mr Grendus argues that this shows that Mr Dawkins was capable of attracting
+investments for Aryan Search and others, and that Mr Dawkins’ description of
+his financial literacy should not be believed. 67
+
+##### Foot Note 67
+
+×
+
+PWS at paras 10-13.
+
+70 In this regard, Mr Dawkins says this about the 24 May 2016 Meeting in his
+AEIC: 68
+
+##### Foot Note 68
+
+×
+
+Mr Dawkins’ AEIC at para 10.14.
+
+… I was not too focussed [sic] and/or engaged in his [Mr Grendus’] talk about
+financials [with Mr Lynch] as I was not a numbers person and that my training
+and experience did not allow me to fully understand the details. I am and had
+always been a recruiter all my professional life. I know nothing about the
+world of investments. Unlike me, [Mr Grendus] clearly exhibited a competent
+degree of knowledge about investments.
+
+71 I accept Mr Dawkins’ evidence on this. He had worked as a recruiter for
+some 24 years since 1997, after finishing his A levels. 69
+
+##### Foot Note 69
+
+×
+
+Mr Dawkins’ AEIC at para 6; Transcript, 16 Mar, p 69 lines 31-32; p 70 lines
+1-9.
+
+Mr Dawkins was not a trained accountant like Mr Grendus. Indeed, one theme
+running through Mr Grendus’ case is that Mr Dawkins should have been able to
+read financial statements like Mr Grendus could, to the extent of appreciating
+the significance of cashflow projections and headcount figures, and being able
+to quote figures from financial statements without referring to them. That is
+unfounded.
+
+72 At trial, Mr Dawkins was cross-examined on a mistaken premise: that he had
+received the Pitch Document (when he had not) by the time of the 24 May 2016
+Meeting and so he provided Mr Grendus with information from it (see [59]
+above). Mr Dawkins did not realise that this was erroneous until after he was
+off the stand, when he checked the documents he had actually received and
+found that they did not include the Pitch Document – instead he had an earlier
+version of the pro forma financial statements (ie, the May Pro Forma), with
+materially different figures. 70
+
+##### Foot Note 70
+
+×
+
+Transcript, 18 Mar, p 2 lines 6-32, p 3 lines 1-6.
+
+I will return to this when I discuss the representations to which this
+relates.
+
+73 As for the reference in Mr Dawkins’ employment contract to him raising the
+profile of Aryan Search and implementing a strategy to attract investment,
+that was in the context of Aryan Search itself; it did not concern soliciting
+investments for others. Mr Vikram explained that Evo-AI was a recruitment
+product that Aryan was using, and he wanted Mr Dawkins to see if he could get
+some investment for that particular product. 71
+
+##### Foot Note 71
+
+×
+
+Transcript, 18 Mar, p 81 lines 19-32.
+
+That evidence, which I accept, is worlds apart from Mr Dawkins being expected
+to solicit investments for Aryan Search’s recruitment clients. He was never
+engaged for that. Mr Dawkins was not hired to act as a financial advisor,
+investment broker, or anything of the sort.
+
+Fraud
+
+Mr Grendus’ case on the representations allegedly made to him
+
+The representations as pleaded in the SOC
+
+74 Mr Grendus pleaded at para 11 of his statement of claim (the “SOC”) that Mr
+Lynch and Mr Dawkins made 11 “Representations”, and at para 14 that Mr Lynch
+and/or Mr Dawkins and/or Mr Dale made certain “Further Representations”, all
+of which induced him to make the Investments.
+
+75 The 11 Representations are: 72
+
+##### Foot Note 72
+
+×
+
+SOC at para 11.
+
+(a) the figures in the Pitch Document are accurate;
+
+(b) Mr Dale was a cash-contributing investor in DataCore;
+
+(c) DataCore was a going concern;
+
+(d) DataCore was on the verge of closing a Series A round financing at thrice
+its alleged current valuation of US$10 million (the “Financing”) and that the
+Financing was guaranteed;
+
+(e) the guaranteed Financing was provided by Shanda, which is based in China
+with a recently opened investment office in Singapore (the “Shanda
+Financing”);
+
+(f) if the subscription of the seed units were not fully subscribed, Shanda
+would purchase the remining units in the Series A round, in accordance with
+the guaranteed Financing;
+
+(g) DataCore had a pre-Financing head count of nine with payroll costs of
+US$95,000 per month;
+
+(h) DataCore had “a lot of interest from the insurance industry” and a deep
+sales pipeline had already been in development for some time with initial
+sales forecasted for June 2016 and US$965,000 total sales expected by end-of-
+year 2016;
+
+(i) DataCore was already involved in due-diligence processes with multiple
+banks and exchange traded fund (“ETF”) companies;
+
+(j) entering into the CorePlus Debenture will allow Mr Grendus to enjoy
+participation in DataCore as well as other projects CorePlus was involved in;
+and
+
+(k) of the said CorePlus projects referred to in (j) above were the
+underwriting of pet owner insurance, a “Green Energy” bond fund, a “Liquified
+Natural Gas” (LNG) fund and Skybridge Financial Pte Ltd (“Skybridge”) and a
+“Foreign Film Rights” fund said to be for and between Skybridge and Struans
+Capital Partners.
+
+(I shall refer to these as Representations (a) to (k).)
+
+76 In the SOC, Mr Grendus described the context in which Mr Lynch and/or Mr
+Dawkins and/or Mr Dale made the Further Representation as follows: 73
+
+##### Foot Note 73
+
+×
+
+SOC at para 14.
+
+After hearing the Representations, [he] informed Mr Lynch and/or Mr Dawkins
+and/or Mr Dale that after the Series-A Financing, he intended to wait for a
+Series-B and then either de-risk or divest a portion of the position. He
+further shared that his intention was for [the Investments] to function as
+long-term strategic investments within his portfolio. Mr Lynch and/or Mr
+Dawkins and/or Mr Dale assured him that his strategic investment objectives
+would be achieved and/or did not inform him otherwise that the said objectives
+may not be attained.
+
+[emphasis added]
+
+Mr Grendus’ particulars
+
+77 On 3 December 2018, Mr Grendus provided further and better particulars of
+“[w]hether the alleged representation was made by [Mr Lynch] or [Mr Dawkins]”
+pursuant to a request by Mr Dawkins and Aryan Search. 74
+
+##### Foot Note 74
+
+×
+
+Particulars Served by the Plaintiff pursuant to the 2nd and 4th Defendants’
+Request for Further and Better Particulars by Letter dated 15 November 2018,
+dated 3 December 2018 (“the Particulars”).
+
+Mr Grendus clarified that although he had pleaded that Mr Lynch and Mr Dawkins
+had made the 11 Representations:
+
+(a) Representation (h) was just made by Mr Lynch;
+
+(b) Representations (d) and (e) were made by both Mr Lynch and Mr Dawkins
+orally; and
+
+(c) Representations (a), (b), (c), (f), (g), (i), (j) and (k) were made by Mr
+Lynch in the presence of Mr Dawkins; and Mr Dawkins by being present, the
+circumstances, and him not offering any contrary views, affirmed the
+representations made by Mr Lynch.
+
+78 Mr Grendus treated Representation (h) differently from Representations (a),
+(b), (c), (f), (g), (i), (j) and (k): he did not say that Representation (h)
+was made by Mr Lynch in Mr Dawkins’ presence; he simply said Representation
+(h) was made by Mr Lynch, and he did not say that Mr Dawkins had affirmed it
+in any way. Mr Grendus’ particulars in effect abandoned the allegation in para
+11 of the SOC that Mr Dawkins had made Representation (h).
+
+When and how were the Representations and Further Representations made?
+
+79 As pleaded, the focus of Mr Grendus’ case against Mr Dawkins, is what
+happened at the 24 May 2016 Meeting. Mr Grendus pleads that it was after
+hearing the Representations, that he shared his investment objectives with Mr
+Dawkins at the 24 May 2016 Meeting, whereupon Mr Dawkins made the Further
+Representations at the same meeting by “not inform[ing] him otherwise that the
+said objectives may not be attained” (see [76] above). 75
+
+##### Foot Note 75
+
+×
+
+SOC at para 14; the Particulars.
+
+80 Mr Grendus pleaded at para 13 of the SOC that the Representations and
+Further Representations were made by and/or are to be inferred from: 76
+
+##### Foot Note 76
+
+×
+
+SOC at para 13.
+
+(d) oral statements by Mr Lynch, Mr Dawkins, and Mr Dale;
+
+(e) the Pitch Document circulated by Mr Lynch and Mr Dale;
+
+(f) the 10 June 2016 Email from Mr Lynch to Mr Grendus and the documents
+attached thereto (including the Pitch Document); and
+
+(g) all other documents provided by Mr Lynch, Mr Dawkins, and Mr Dale to him.
+
+81 The Pitch Document ((b) above) and the 10 June 2016 Email ((c) above) are
+not attributed to Mr Dawkins. The reference to “all other documents” provided
+by Mr Lynch, Mr Dawkins and Mr Dale ((d) above) was then omitted from para 20
+of Mr Grendus’ AEIC, where he had set out the various sources from which the
+Representations and Further Representations were made and/or are to be
+inferred from. In relation to Mr Grendus’ claim against Mr Dawkins, that
+leaves oral statements by Mr Dawkins ((a) above), although from Mr Grendus’
+particulars, he evidently also relies on silence by Mr Dawkins – specifically
+Mr Dawkins not contradicting what was said by Mr Lynch at the 24 May 2016
+Meeting, and Mr Dawkins not telling Mr Grendus that his strategic investment
+objectives may not be attained.
+
+82 Mr Grendus says that the Representations were made “[d]uring the 24 May
+Meeting and in subsequent conversations [and/or discussions]” with Mr Lynch
+and Mr Dawkins. 77
+
+##### Foot Note 77
+
+×
+
+PWS at para 35; Mr Grendus’ AEIC at para 19.
+
+Specifically, in his AEIC, Mr Grendus says that Mr Lynch and Mr Dawkins had
+“continued to repeat the representations” regarding the Shanda Financing even
+after the 24 May 2016 Meeting. 78
+
+##### Foot Note 78
+
+×
+
+Mr Grendus’ AEIC at para 24.
+
+83 However, Mr Grendus’ pleadings were focused on the 24 May 2016 Meeting, and
+his evidence is thin on what those subsequent conversations or discussions
+are. From his pleadings and particulars, Representations (a), (b), (c), (f),
+(g), (i), (j) and (k) were made by Mr Lynch in the presence of Mr Dawkins; and
+affirmed by Mr Dawkins not contradicting Mr Lynch. That could only have
+happened at the 24 May 2016 Meeting. Mr Grendus does not point to any further
+meeting between the three of them, before he made the Investments on 24 June
+2016 and so Mr Dawkins could not have affirmed anything said in any subsequent
+discussion just between Mr Lynch and Mr Grendus.
+
+84 I will address whether Mr Dawkins had made (and repeated) Representations
+(d) and (e), which relate to the Shanda Financing, and are the only ones Mr
+Grendus pleaded Mr Dawkins made orally (rather than by keeping silent), below
+(at [131]).
+
+The Submission Representations
+
+85 Having pleaded 11 Representations and certain Further Representations, Mr
+Grendus’ written submissions (the “Submissions”) instead identified eight
+representations (the “Submission Representations”). He repeated some of the
+pleaded Representations, reformulated some of them, split some of them,
+combined some of them, and dropped some of them. Representations (f), (i), (j)
+and (k) do not appear to feature in the Submissions – I will, for
+completeness, deal with them as they were pleaded, although they appear to
+have been abandoned.
+
+86 The loose way in which Mr Grendus’ allegations are made, does not inspire
+confidence. Confusingly, Mr Grendus refers to the Submission Representations
+as “Representations and Further Representations”, in the same way as his
+pleadings were structured in the SOC. I shall refer to the each of the eight
+representations in the Submissions as Submission Representations (1) to (8),
+which are to be distinguished from Representations (a) to (k) pleaded in the
+SOC. I will address the Submission Representations in turn, save that I will
+collectively deal with the various allegations relating to the Shanda
+Financing.
+
+Did Mr Dawkins make the representations?
+
+The 24 May 2016 Meeting
+
+87 I first make some observations about what happened at the 24 May 2016
+Meeting.
+
+88 It is common ground that when Mr Dawkins and Mr Grendus spoke over the
+telephone on 24 May 2016, Mr Dawkins told Mr Grendus about a potential
+opportunity to work for DataCore (see [27] above). 79
+
+##### Foot Note 79
+
+×
+
+Mr Grendus’ AEIC at para 16, Mr Dawkins’ AEIC paras 10.4, 10.5, 10.6, 10.10.
+
+It is also common ground that Mr Dawkins mentioned that DataCore was looking
+for potential investors. 80
+
+##### Foot Note 80
+
+×
+
+Mr Grendus’ AEIC at para 16; Mr Dawkins’ AEIC at para 10.10.
+
+Mr Grendus then asked that Mr Dawkins arrange a meeting with DataCore. 81
+
+##### Foot Note 81
+
+×
+
+Mr Grendus’ AEIC at para 16; Mr Dawkins’ AEIC at paras 10.10-10.11.
+
+89 Mr Dawkins contacted Mr Lynch and made arrangements for a meeting that day
+with Mr Grendus (ie, the 24 May 2016 Meeting). 82
+
+##### Foot Note 82
+
+×
+
+Mr Dawkins’ AEIC at para 10.10.
+
+Mr Dawkins says that the three of them first met at a coffee shop in Geylang
+which was near his office, and then adjourned to a cigar bar. 83
+
+##### Foot Note 83
+
+×
+
+Defence of the 2nd Defendant (Amendment No. 1) dated 29 July 2020 (“Mr
+Dawkins’ Defence”) at para 10(b); Mr Dawkins’ AEIC at paras 10.11–10.15.
+
+Mr Grendus pleaded that he cannot recall with particularity whether they first
+met at a coffee shop in Geylang, but he agrees that the three of them did meet
+at the cigar bar. 84
+
+##### Foot Note 84
+
+×
+
+Reply to the Defence of the 2nd and 4th Defendants dated 24 December 2018 (“Mr
+Grendus’ Reply”) at para 10.
+
+90 Mr Grendus says that during the 24 May 2016 Meeting, Mr Lynch and Mr
+Dawkins spent over five hours from 5pm to 10pm pitching potential investment
+opportunities in DataCore and CorePlus to him. 85
+
+##### Foot Note 85
+
+×
+
+Mr Grendus’ AEIC at para 17.
+
+91 Mr Dawkins says that the meeting started at around 5pm, 86
+
+##### Foot Note 86
+
+×
+
+Mr Dawkins’ Defence at para 10(b).
+
+but they only adjourned to the cigar bar at around 10pm, 87
+
+##### Foot Note 87
+
+×
+
+Mr Dawkins’ AEIC at 10.15.
+
+and stayed there till around 2.30am the next day. 88
+
+##### Foot Note 88
+
+×
+
+Mr Dawkins’ Defence at para 10(b).
+
+92 Under cross-examination, Mr Grendus acknowledged that the 24 May 2016
+Meeting did not just last till 10pm (as para 17 of his AEIC suggests). 89
+
+##### Foot Note 89
+
+×
+
+Mr Grendus’ AEIC at para 17.
+
+When asked what time the three of them left the cigar bar, he said it may have
+been “past midnight”, “late in the morning”, potentially 1am; he could not
+remember exactly, but only that it was “late”. 90
+
+##### Foot Note 90
+
+×
+
+Transcript, 16 Mar, p 45 lines 1-3.
+
+On this point, Mr Dawkins’ recollection is more specific and more reliable.
+
+93 Mr Grendus acknowledged that they all had “quite a fair bit of drinking”.
+91
+
+##### Foot Note 91
+
+×
+
+Transcript, 16 Mar, p 45 lines 4-5.
+
+He agreed that “there was a whole lot of alcohol”, which could “have affected
+[his] recollection of some of the details”, but he said, “[t]he same goes for
+[Mr Dawkins]”. 92
+
+##### Foot Note 92
+
+×
+
+Transcript, 16 Mar, p 55 lines 9-10 and 15-16.
+
+Mr Dawkins said “every single one of [them]” was “hammered drunk” by the end
+of the nine-hour session. 93
+
+##### Foot Note 93
+
+×
+
+Transcript, 17 Mar, p 40 lines 6-8.
+
+According to Mr Dawkins, they had been drinking pretty heavily, having had 20
+bottles of beer before leaving Geylang for the cigar bar. 94
+
+##### Foot Note 94
+
+×
+
+Transcript, 17 Mar, p 40 lines 8-9.
+
+Mr Dawkins also said that Mr Grendus was “inebriated”. 95
+
+##### Foot Note 95
+
+×
+
+Transcript, 17 Mar, p 40 lines 13-14.
+
+94 Mr Dawkins acknowledged there were discussions between Mr Grendus and Mr
+Lynch regarding investments. 96
+
+##### Foot Note 96
+
+×
+
+Transcript, 17 Mar, p 41 lines 3-4 and 7-10, p 42 lines 8-10.
+
+Mr Dawkins said Mr Grendus and Mr Lynch were each showing off their knowledge
+about financial products and investments, but he was not too focussed or
+engaged in that discussion, indeed, he was “completely lost”. 97
+
+##### Foot Note 97
+
+×
+
+Mr Dawkins’ AEIC at para 10.14; Transcript, 17 Mar, p 41 lines 27 and 32; p 42
+lines 1-7.
+
+He was, however, quite happy to stay on for drinks and cigars, rather than to
+return home early to his partner (with whom he was having a difficult
+relationship). 98
+
+##### Foot Note 98
+
+×
+
+Transcript, 17 Mar, p 41 lines 14-29.
+
+95 Mr Dawkins’ account of his involvement (rather, non-involvement) in the
+discussion on investments at the 24 May 2016 Meeting is largely consonant with
+Mr Grendus’ pleaded position on the Representations, where he asserts that:
+
+(a) it was Mr Lynch that made Representations (a), (b), (c), (f), (g), (i),
+(j) and (k), though Mr Dawkins affirmed those by not contradicting Mr Lynch
+(see [77(c)] above); and
+
+(b) the only representations which Mr Dawkins made orally (together with Mr
+Lynch) were those in relation to DataCore’s Financing and the Shanda Financing
+(Representations (d) and (e)) (see [77(b)] above). Mr Dawkins agrees that he
+did mention Shanda when he first spoke to Mr Grendus over the telephone about
+a potential opportunity to work for DataCore, 99
+
+##### Foot Note 99
+
+×
+
+Transcript, 17 Mar, p 96, lines 27-31.
+
+but denies representing that the Shanda Financing was “guaranteed”. 100
+
+##### Foot Note 100
+
+×
+
+Transcript, 17 Mar, p 24 lines 1-5.
+
+96 It was a long meeting, Mr Grendus had been drinking heavily, and his case
+against Mr Dawkins is largely based on what Mr Dawkins allegedly said (or,
+mostly, did not say). The circumstances of the 24 May 2016 Meeting diminish
+the reliability of Mr Grendus’ evidence of what happened. Moreover, when asked
+at trial if Mr Dawkins had actually made Representations (a)-(k), Mr Grendus
+then gave evidence that varied from his pleaded position. 101
+
+##### Foot Note 101
+
+×
+
+Transcript, 16 Mar, p 54 lines 6-32; p 55 lines 1-8.
+
+97 I turn now to consider each of the Submission Representations and
+Representations.
+
+Submission Representation (1) / Representation (c)
+
+98 Submission Representation (1), which corresponds with pleaded
+Representation (c) is: “DataCore was a going concern”.
+
+99 Mr Grendus’ pleaded that this representation was made by Mr Lynch, and
+affirmed by Mr Dawkins not contradicting him (see [77(c)] above). However, in
+his evidence, Mr Grendus says that it was made by both of them, 102
+
+##### Foot Note 102
+
+×
+
+Transcript, 16 Mar, p 54 lines 18-21.
+
+and that is what he submits happened. 103
+
+##### Foot Note 103
+
+×
+
+PWS at para 36.
+
+100 In response to the letter of demand from Mr Grendus’ solicitors (the
+“Letter of Demand”), 104
+
+##### Foot Note 104
+
+×
+
+Plaintiff’s Bundle of Documents Volume I (“PBOD Vol I”) at pp 148-150.
+
+Mr Lynch said in his letter of 17 September 2018 (the “17 September 2018
+Letter”) that he did say at the 24 May 2016 Meeting that DataCore was “an
+ongoing concern”. 105
+
+##### Foot Note 105
+
+×
+
+AEIC Bundle Vol II at p 409.
+
+However, Mr Dawkins’ evidence (which I accept) is that Mr Dawkins never heard
+Mr Lynch say that DataCore is a going concern. 106
+
+##### Foot Note 106
+
+×
+
+Transcript, 17 Mar, p 96 lines 11-19.
+
+Indeed, it would not be natural in a discussion on investments to expressly
+say that the company in question “is a going concern”.
+
+101 However, DataCore was portrayed as a going concern, ie, expected to
+continue in business for the foreseeable future. It was not presented as a
+company that was insolvent, or about to go into liquidation. The work
+opportunity with DataCore (which Mr Dawkins spoke to Mr Grendus about), and
+the potential investment in DataCore (which Mr Lynch spoke to Mr Grendus
+about), were both premised on DataCore being a going concern. In undertaking
+recruitment work for DataCore in the first place, Mr Dawkins too assumed
+DataCore to be a going concern that could subsequently pay fees to Aryan
+Search.
+
+102 In the circumstances, notwithstanding that this representation was not
+expressly made at the 24 May 2016 Meeting, I accept that Mr Grendus was given
+the impression that DataCore was a going concern. This is also supported by Mr
+Dawkins’ own account of what he had told Mr Grendus when he shared about the
+potential work opportunity with DataCore: 107
+
+##### Foot Note 107
+
+×
+
+Transcript, 17 Mar, p 24 lines 9-17.
+
+… when I profiled the company, I told him everything about the business. I
+told him about what I know about the founders, what I know about the company,
+a high level about the product … I told him about what the challenges were
+about the company. … I said the company is funding, it’s looking for seed,
+it’s expanding. The company is going to be growing, the company is going to
+have a very, you know, high potential opportunity.
+
+Submission Representation (2) / Representation (a)
+
+103 Submission Representation (2) is: “[t]he financial figures in the Pitch
+Documents were accurate and that there was imminent financing from Shanda”
+[emphasis added]. This is a combination of pleaded Representations (a), (d)
+and (e). I will deal with the aspects relating to Representations (d) and (e)
+(which concern the Shanda Financing) later. For the present, I will only focus
+on Representation (a), viz, that the figures in the Pitch Document were
+accurate.
+
+104 The Submissions also broaden the reference to the Pitch Document that Mr
+Grendus received from Mr Lynch in the 10 June 2016 Email to Pitch Documents.
+Presumably Mr Grendus is referring to the rest of the documents that he
+received from Mr Lynch and Mr Dale, not just the pro forma financials
+contained in the Pitch Document. But this does not assist Mr Grendus – those
+documents include a Subscription Agreement 108
+
+##### Foot Note 108
+
+×
+
+AEIC Bundle Vol II at pp 83 and 89.
+
+containing various qualifications, warnings, and disclaimers. I will deal with
+these when I address the Further Representations. Moreover, on Mr Grendus’
+pleadings, those documents are attributed to Mr Lynch and Mr Dale, not to Mr
+Dawkins. 109
+
+##### Foot Note 109
+
+×
+
+SOC at paras 13(b)-13(d).
+
+105 For now, I will focus on the Pitch Document which Mr Grendus received from
+Mr Lynch with the 10 June 2016 Email.
+
+106 Mr Grendus’ case that Mr Dawkins quoted figures from the Pitch Document is
+fatally flawed, for at the time of the 24 May 2016 Meeting, Mr Dawkins had not
+received the Pitch Document – he only had the May Pro Forma, which was
+materially different. Mr Dawkins could not have quoted figures from the Pitch
+Document (which he did not have), and if he quoted figures from the May Pro
+Forma, the figures were different.
+
+107 The Submissions compound the problem. Mr Grendus continues to assert that
+Mr Dawkins “received the Pitch Documents containing this information [ie, the
+pro forma financial figures] prior to the meeting with [Mr Grendus] on 24 May
+2016” 110
+
+##### Foot Note 110
+
+×
+
+PWS at para 62.
+
+and that Mr Dawkins “knew that the figures in the Pitch Document were false”,
+or “could not have any genuine grounds to believe that the figures were true”.
+111
+
+##### Foot Note 111
+
+×
+
+PWS at para 60.
+
+108 The Submissions were filed on 12 May 2021, almost two months after it had
+been pointed out (on the last day of trial on 18 March 2021) that the May Pro
+Forma sent to Mr Dawkins in May 2016 was not the Pitch Document, 112
+
+##### Foot Note 112
+
+×
+
+Transcript, 18 Mar, p 2 lines 6-32, p 3 lines 1-6.
+
+and there were differences in the figures contained in both documents. There
+is no evidence that Mr Dawkins ever received the Pitch Document, or that the
+Pitch Document even existed at the time of the 24 May 2016 Meeting.
+
+109 In Mr Grendus’ solicitors’ letter of 18 May 2021 to the court (the “18 May
+2021 Letter”), it was then acknowledged that the May Pro Forma and the Pitch
+Document were different, but it was submitted that they did not differ in any
+material or meaningful aspect. 113
+
+##### Foot Note 113
+
+×
+
+Letter from Solicitors for the Plaintiff dated 18 May 2021 (“Mr Grendus’
+Letter”) at para 6.
+
+Differences in relation to financing and headcount figures were noted, but
+were characterised as “minor”. 114
+
+##### Foot Note 114
+
+×
+
+Mr Grendus’ Letter at para 6.
+
+I do not agree with this characterisation. I will deal with the differences
+between the figures for financing, headcount, and also revenue, when I discuss
+the representations they pertain to.
+
+110 The simple point is: Mr Dawkins had not received the Pitch Document, and
+so he could not have quoted figures from it, or affirmed that the figures in
+the Pitch Document were accurate. Yet Mr Grendus maintains that Mr Dawkins
+quoted figures from the Pitch Document, including the valuation and the
+million dollars of expected revenue in the year 2016. 115
+
+##### Foot Note 115
+
+×
+
+Transcript, 16 Mar, p 54 lines 12-14; PWS at para 37.
+
+I reject this. I also accept Mr Dawkins’ evidence that he had not quoted
+figures to Mr Grendus.
+
+111 Indeed, it is not Mr Grendus’ pleaded case that Mr Dawkins had quoted
+revenue or headcount figures. Mr Grendus says it was Mr Lynch who said
+DataCore had a pre-Financing head count of nine, and that Mr Dawkins affirmed
+that by not contradicting Mr Lynch (Representation (g), as particularised: see
+[77(c)] above). Mr Grendus also says that Mr Lynch said US$965,000 total sales
+were expected by end-of-year 2016, but critically, he does not say that Mr
+Dawkins affirmed that (Representation (h), as particularised: see [77(a)]
+above). Had Mr Dawkins quoted revenue or headcount figures from the Pitch
+Document at the 24 May 2016 Meeting, Mr Grendus would not have limited Mr
+Dawkins’ role in relation to Representations (g) and (h) in the way he did in
+his pleadings.
+
+112 Furthermore, Mr Grendus’ pleaded case is that Representation (a) was made
+by Mr Lynch, and affirmed by Mr Dawkins not contradicting him, ie, Mr Lynch
+said the figures in the Pitch Document are accurate, and Mr Dawkins did not
+say otherwise (see [77(c)] above).
+
+113 By now saying that Mr Dawkins (rather than Mr Lynch) was quoting figures
+from the Pitch Document, Mr Grendus is departing from his pleaded case (except
+in relation to representations relating to DataCore’s Financing, in the
+context of the Shanda Financing, viz, Representations (d) and (e)). As Denning
+LJ (as he then was) said in Lazarus Estates Ltd v Beasley [1956] 1 QB 702:
+“The court is careful not to find fraud unless it is distinctly pleaded and
+proved” (at 712). It would not be right to allow Mr Grendus to now allege that
+Mr Dawkins quoted figures from the Pitch Document, when that is not his
+pleaded case.
+
+114 Mr Grendus’ case thus reduces to this: Mr Lynch orally said things about
+DataCore at the 24 May 2016 Meeting which seemed to match what Mr Grendus
+later saw in the Pitch Document, and Mr Dawkins did not contradict Mr Lynch at
+the time of the 24 May 2016 Meeting. However, Mr Grendus can only sue Mr
+Dawkins for not contradicting Mr Lynch, in circumstances where one would
+expect Mr Dawkins to contradict Mr Lynch. That is not the case here. Mr Lynch
+was an insider to DataCore, Mr Dawkins was not. Mr Dawkins had no reason to
+believe that what Mr Lynch was saying about DataCore was untrue.
+
+115 If there is no duty to speak (and there was none in the present case),
+silence is not actionable as a misrepresentation: Wang Xiaopu v Goh Seng Heng
+and another [2019] SGHC 284 (“Wang Xiaopu”) at [59]–[60]; EA Apartments Pte
+Ltd v Tan Bek and others [2017] 3 SLR 559 (“EA Apartments”) at [29]–[30].
+
+116 At trial, Mr Grendus’ counsel told Mr Dawkins that the Pitch Document had
+been sent to him on 17 May 2016. 116
+
+##### Foot Note 116
+
+×
+
+Transcript, 17 Mar, p 35 lines 6–8.
+
+That was factually wrong – on the evidence, Mr Dawkins never received the
+Pitch Document. In response, Mr Dawkins said he had not read the Pitch
+Document, 117
+
+##### Foot Note 117
+
+×
+
+Transcript, 17 Mar, p 33 lines 22–25, p 35 line 8, p 37 lines 28–29.
+
+indeed he had never seen that document. 118
+
+##### Foot Note 118
+
+×
+
+Transcript, 17 Mar, p 37 lines 28–29.
+
+Mr Dawkins was right: what was sent to him on 17 May 2016 was not the Pitch
+Document which was sent to Mr Grendus by Mr Lynch in the 10 June 2016 Email
+(see [120] below).
+
+117 The cross-examination of Mr Dawkins thus proceeded on the mistaken premise
+that he had been sent the Pitch Document on 17 May 2016 when the attachments
+to the 17 May 2016 Email (or indeed, the 3 May 2016 Email) (see [43] and [48]
+above) were not included in the trial bundles, and evidently had not been
+looked at.
+
+118 At the end of Mr Dawkins’ testimony, I queried the basis on which it was
+asserted that the Pitch Document had been sent to Mr Dawkins prior to the 24
+May 2016 Meeting. 119
+
+##### Foot Note 119
+
+×
+
+Transcript, 17 Mar, p 148 lines 19-31.
+
+I was informed that “the earliest” Mr Dawkins would have received it, was with
+the 17 May 2016 Email, 120
+
+##### Foot Note 120
+
+×
+
+Transcript, 17 Mar, p 149 lines 26-32, p 150 lines 23-26.
+
+I was then informed that Mr Dawkins may have received the Pitch Document even
+earlier than 17 May 2016, that is, with the 3 May 2016 Email. 121
+
+##### Foot Note 121
+
+×
+
+Transcript, 17 Mar, p 151 lines 8-27.
+
+119 Mr Dawkins maintained that he did not read any of the documents sent to
+him in the 3 May 2016 Email or the 17 May 2016 Email, or at least he had not
+read them “fully” or “properly”. 122
+
+##### Foot Note 122
+
+×
+
+Transcript, 17 Mar, p 153 lines 28-32, p 154 lines 1-10.
+
+120 The position was checked overnight, and the next day (the third and final
+day of trial) I was informed that what Mr Dawkins received from Mr Dale in the
+3 May 2016 Email and the 17 May 2016 Email was not the Pitch Document sent to
+Mr Grendus in the 10 June 2016 Email, but a different version of that
+document, with different figures (ie, the May Pro Forma). 123
+
+##### Foot Note 123
+
+×
+
+Transcript, 18 Mar, p 2 lines 6-32, p 3 lines
+
+Mr Dawkins offered to retake the stand and be examined on what he had in fact
+received in May 2016, 124
+
+##### Foot Note 124
+
+×
+
+Transcript, 18 Mar, p 4 lines 16-17.
+
+whereas counsel for Mr Grendus objected to the May Pro Forma even being
+introduced in evidence. 125
+
+##### Foot Note 125
+
+×
+
+Transcript, 18 Mar, p 5 lines 14-27.
+
+In the event, the trial continued with the evidence of other witnesses. By the
+time those witnesses had completed their testimony, though, Mr Dawkins had had
+to leave court to pick his daughters, and could not be recalled the same day.
+126
+
+##### Foot Note 126
+
+×
+
+Transcript, 18 Mar, p 95 lines 6-7.
+
+The matter was then left on the basis that the May Pro Forma would be marked
+2D1(i) for identification, and parties could address the matter further. 127
+
+##### Foot Note 127
+
+×
+
+Transcript, 18 Mar, p 97 lines 15-20.
+
+Mr Grendus’ solicitors, in the 18 May 2021 Letter, did not object to the May
+Pro Forma being introduced into evidence (see [109] above). For good order, I
+formally admit the May Pro Forma as Exhibit 2D1.
+
+121 I accept Mr Dawkins’ evidence that he did not read through the May Pro
+Forma, at least not fully or properly. Indeed, on the stand, he had not even
+realised that what Mr Grendus’ counsel was saying to him about his having
+received the Pitch Document in May 2016 was wrong.
+
+122 On a related note, all of Mr Grendus’ evidence that is premised on Mr
+Dawkins having in his possession the Pitch Document before the 24 May 2016
+Meeting, is flawed, including the following:
+
+(c) that financial figures from documents circulated by Mr Lynch and Mr Dale
+“subsequent to the meeting” were quoted by Mr Dawkins at the 24 May 2016
+Meeting, including “the valuation and the million dollars of expected revenue
+in the year 2016”; 128
+
+##### Foot Note 128
+
+×
+
+Mr Grendus’ AEIC at para 19; Transcript, 16 Mar, p 54 lines 11-14.
+
+(d) that while Mr Dawkins did not provide financial statements, he quoted
+figures from the financial statements in conjunction with Mr Lynch at the 24
+May 2016 Meeting and Mr Grendus believed him. 129
+
+##### Foot Note 129
+
+×
+
+Transcript, 16 Mar, p 53 lines 13-15.
+
+123 Mr Grendus relies on the Pitch Document as proof that Mr Dawkins must have
+said the same things to him at the 24 May 2016 Meeting, but that is unsound
+for the simple reason that Mr Dawkins did not have the Pitch Document. This
+passage from Mr Grendus’ testimony illustrates his thinking: 130
+
+##### Foot Note 130
+
+×
+
+Transcript, 16 Mar, p 63 lines 8-17.
+
+Q You are an educated person, with quite a fair bit of working experience. You
+do investments. Yet you choose to place heavy reliance on information
+communicated to you over a night of drinking.
+
+A. A fair statement. The representations made in that evening were
+corroborated by the financial pro forma that was sent to me from [Mr Lynch]
+subsequent to that meeting. Numbers quoted in that previous meeting that
+evening matched what was represented.
+
+Q. And you were so certain that-
+
+A The same pro forma, financial statements were provided to [Mr Dawkins] prior
+to that meeting.
+
+[emphasis added]
+
+124 I do not accept that Mr Dawkins represented that the figures in the Pitch
+Document are accurate – I thus reject Mr Grendus’ case on Submission
+Representation (1) (in relation to the Pitch Document) / Representation (a).
+
+Submission Representation (3) / Representation (b)
+
+125 Submission Representation (3) is: “[Mr Dale] was a cash-contributing
+investor in DataCore”. 131
+
+##### Foot Note 131
+
+×
+
+PWS at para 38.
+
+This corresponds with pleaded Representation (b).
+
+126 In the 17 September 2018 Letter by Mr Lynch to Mr Grendus’ solicitors, Mr
+Lynch admitted representing to Mr Grendus at the 24 May 2016 Meeting that Mr
+Dale was a cash-contributing investor in DataCore. 132
+
+##### Foot Note 132
+
+×
+
+AEIC Bundle Vol II at p 409.
+
+Mr Dawkins’ evidence (which I accept) is that he does not recall if that was
+said at the 24 May 2016 Meeting; it may have been discussed between Mr Lynch
+and Mr Grendus, but he (Mr Dawkins) did not discuss that with Mr Grendus. 133
+
+##### Foot Note 133
+
+×
+
+Transcript, 17 Mar, p 94 lines 11-21.
+
+127 Mr Grendus’ pleaded case is that Representation (b) was made by Mr Lynch,
+and affirmed by Mr Dawkins not contradicting him. In his evidence, however, Mr
+Grendus seemed to suggest that Mr Dawkins himself had said this, 134
+
+##### Foot Note 134
+
+×
+
+Transcript, 16 Mar, p 15 lines 20-24; p 54 lines 15-17.
+
+and that was then asserted in the Submissions. 135
+
+##### Foot Note 135
+
+×
+
+PWS at para 38.
+
+Again, I do not allow Mr Grendus to depart from his pleaded case and make a
+new allegation of fraud against Mr Dawkins.
+
+128 In any event, there was no way Mr Dawkins could have known if Mr Dale was
+a cash-contributing investor. He was not privy to DataCore’s internal
+financial affairs, and any limited checks which he and/or Aryan Search might
+have performed (see [54] above) would not have shed light on this. I do not
+believe Mr Dawkins said anything about whether Mr Dale was a cash-contributing
+investor.
+
+129 Indeed, if Mr Lynch had said at the 24 May 2016 Meeting that Mr Dale was a
+cash-contributing investor in DataCore (and that had made an impression on Mr
+Dawkins), there would have been no reason at all for Mr Dawkins to disbelieve
+Mr Lynch, and contradict him.
+
+130 I thus reject Mr Grendus’ case on Submission Representation (3) /
+Representation (b).
+
+Submission Representations (4) to (6) / Representations (d) and (e)
+
+131 I take Submission Representations (4) to (6) together with the aspect of
+Submission Representation (2) relating to the Shanda Financing.
+
+132 Submission Representation (4) is: “DataCore was on the verge of closing
+Series A financing at thrice its alleged valuation of US$10 million”. 136
+
+##### Foot Note 136
+
+×
+
+PWS at paras 39-40.
+
+133 Submission Representation (5) is: “the Financing was to be provided by a
+wealthy Chinese global investment firm called the Shanda Group, based in China
+and which had recently opened an investment office in Singapore”. 137
+
+##### Foot Note 137
+
+×
+
+PWS at para 41.
+
+134 Submission Representation (6) is: “the Shanda Financing was guaranteed”.
+138
+
+##### Foot Note 138
+
+×
+
+PWS at para 42.
+
+135 An aspect of Submission Representation (2) is: “there was imminent
+financing from Shanda”. 139
+
+##### Foot Note 139
+
+×
+
+PWS at para 37.
+
+136 Taken together, these representations correspond with pleaded
+Representations (d) and (e), which I reproduce in full below:
+
+(a) DataCore was on the verge of closing a Series A round financing at thrice
+its alleged current valuation of US$10 million (the “Financing”) and that the
+Financing was guaranteed;
+
+(b) The guaranteed Financing was provided by a wealthy Chinese Global
+Investment Firm “Shanda” based in China with a recently opened investment
+office in Singapore.
+
+137 Representations (d) and (e) are the only two which Mr Grendus pleaded that
+Mr Dawkins himself made orally (rather than by Mr Dawkins merely affirming
+Representations which Mr Lynch made, by not contradicting Mr Lynch) (see
+[77(b)] above).
+
+138 The most significant aspect of these representations is that the Shanda
+Financing was allegedly “guaranteed” (in the sense of it being a certainty). I
+do not believe that either Mr Lynch or Mr Dawkins represented that the Shanda
+Financing was “guaranteed”.
+
+139 Mr Dawkins said in his AEIC that the allegation that he had represented
+that the Shanda Financing was guaranteed, was baseless. 140
+
+##### Foot Note 140
+
+×
+
+Mr Dawkins’ AEIC at paras 14.2-14.3.
+
+His evidence at trial was also consistent with his pleadings 141
+
+##### Foot Note 141
+
+×
+
+Mr Dawkins’ Defence at para 11(b)
+
+and AEIC. Mr Dawkins candidly acknowledged that he had mentioned to Mr Grendus
+that he had referred Shanda as a potential investor looking at Series A
+financing to DataCore. 142
+
+##### Foot Note 142
+
+×
+
+Transcript, 17 Mar, p 96 lines 29-32; p 97 lines 1-8.
+
+Mr Dawkins had mentioned this to Mr Grendus as part of him telling Mr Grendus
+about the job opportunity with DataCore. 143
+
+##### Foot Note 143
+
+×
+
+Transcript, 17 Mar, p 96 lines 29-31; p 97 lines 8-9 and 14-15.
+
+140 Similarly, in the 17 September 2018 Letter from Mr Lynch, he says that
+DataCore were marketing and trying to close a Series A financing, and that he
+had told Mr Grendus that Shanda was one of the investors DataCore was
+approaching for Series A financing. 144
+
+##### Foot Note 144
+
+×
+
+AEIC Bundle Vol II at p 409.
+
+141 The 17 September 2018 Letter by Mr Lynch was sent in response to Mr
+Grendus’ Letter of Demand, where Mr Grendus alleged that Mr Lynch had
+represented to him that DataCore was on the verge of closing its Series A,
+which was to be financed by Shanda. However, in the Letter of Demand, Mr
+Grendus did not allege that it was represented to him that the Shanda
+Financing was “guaranteed”. The same applies to Mr Grendus’ letter of demand
+to Mr Dawkins. 145
+
+##### Foot Note 145
+
+×
+
+PBOD Vol I at pp 151-153.
+
+The complaint was simply that “the [Shanda Financing] did not materialize”,
+rather than Mr Grendus having been lied to about “guaranteed” Financing.
+
+142 From the April 2016 Email Exchange between Mr Lynch and Mr Dawkins (see
+[37]-[38] above), it is clear that neither of them considered the Shanda
+Financing to be “guaranteed”. It was a possibility. Mr Dawkins expressed
+confidence that the Shanda Financing would come through, in response to Mr
+Lynch’s update on the situation, but Mr Dawkins also recognised the
+possibility that the Shanda Financing might not come through, and so he
+indicated that he could introduce two other venture capitalists in that event.
+Mr Lynch acknowledged that it might take another one to two more months for
+Shanda to reach a decision on financing. Mr Dawkins’ evidence at trial on his
+understanding of how Series A financing for start-ups generally worked was
+also consistent with that. 146
+
+##### Foot Note 146
+
+×
+
+Transcript, 17 Mar, p 101 lines 22-31.
+
+143 Mr Dawkins denied that he or Mr Lynch had at the 24 May 2016 Meeting
+represented that the Shanda Financing was imminent, let alone “guaranteed”.
+147
+
+##### Foot Note 147
+
+×
+
+Transcript, 17 Mar, p 102 lines 3-7.
+
+I accept his evidence on this.
+
+144 For his case that Mr Dawkins had made Representations (d) to (e), Mr
+Grendus also relies on the fact that the Pitch Document had “budgeted” an
+investment of US$10m in DataCore (which he says was to be made by Shanda) in
+August 2016. 148
+
+##### Foot Note 148
+
+×
+
+Transcript, 16 Mar, p 65 lines 5-8.
+
+However, the May Pro Forma had different figures in that regard.
+
+145 The Pitch Document had a figure of US$10,115,000 in the August 2016 column
+for Investment Capital (Financing), 149
+
+##### Foot Note 149
+
+×
+
+Mr Grendus’ Letter at Tab 2 p 7.
+
+but the May Pro Forma Mr Dawkins received has no US$10m figure as an injection
+of investment capital in the month of August 2016. Instead, there is a figure
+of US$5m in the July 2016 column, and another figure of US$5m in the October
+2016 column. 150
+
+##### Foot Note 150
+
+×
+
+Mr Grendus’ Letter at Tab 3 p 6.
+
+146 Mr Grendus’ evidence was that “the numbers that were represented tie up to
+the representations in the documents”. 151
+
+##### Foot Note 151
+
+×
+
+Transcript, 16 Mar, p 65 lines 5-7.
+
+Specifically, referring to the Pitch Document, Mr Grendus said: 152
+
+##### Foot Note 152
+
+×
+
+Transcript, 16 Mar, p 57 lines 12-15.
+
+2016, Q3 investment capital (financing) – 10.385 million, of which Q3 includes
+August, which is when Shanda was supposed to be paid, which is what was
+represented to me on May 24th, 25th.
+
+[emphasis added]
+
+147 If (as Mr Grendus says), the impression he was given at the 24 May 2016
+Meeting was that there would be US$10m in financing from Shanda in August
+2016, that could not have come from Mr Dawkins. The May Pro Forma, which is
+what Mr Dawkins had, instead had US$5m in the July 2016 column, and another
+US$5m in October 2016 column.
+
+148 If Mr Lynch had represented at the 24 May 2016 Meeting that DataCore were
+trying to close US$10m in financing from Shanda by August 2016, Mr Dawkins had
+no reason to disbelieve Mr Lynch, and contradict him. From what Mr Dawkins
+knew, DataCore were seeking to close the Shanda Financing, and Mr Lynch had
+indicated in his email in the April 2016 Email Exchange between himself and Mr
+Dawkins that it would take another one to two months for Shanda to decide (see
+[37]-[38] above).
+
+149 As for the alleged reference to the Shanda Financing being at triple the
+current US$10m valuation of DataCore, I accept Mr Dawkins’ evidence that he
+had not presented any specific numbers or facts to Mr Grendus. 153
+
+##### Foot Note 153
+
+×
+
+Transcript, 17 Mar, p 79 lines 24-25, p 96 lines 1-10.
+
+If Mr Dawkins did not read through the May Pro Forma, at least not fully or
+properly, which I accept (see [121] above), he could not have put forward any
+specific numbers or facts premised on figures in the May Pro Forma \- and, if
+he had, that would not have corresponded with the figures that Mr Grendus
+later saw from the Pitch Document. I do not believe Mr Dawkins said that
+DataCore’s current valuation was US$10m, or that if Shanda invested it would
+be at a valuation that was triple of that. If Mr Lynch had represented this,
+Mr Dawkins had no reason to disbelieve Mr Lynch, and contradict him.
+
+150 Mr Grendus also says Mr Dawkins repeatedly said he (Mr Dawkins) would
+triple his money by investing in DataCore. 154
+
+##### Foot Note 154
+
+×
+
+Transcript, 16 Mar, p 41 lines 29-30; PWS at para 53.
+
+This was not pleaded as a separate representation on which Mr Grendus was
+suing, but Mr Grendus referred to it in the context of the Shanda Financing
+being at triple DataCore’s current valuation. 155
+
+##### Foot Note 155
+
+×
+
+Transcript, 16 Mar, p 10 lines 30-32.
+
+151 Mr Dawkins acknowledges he had said that he was interested in investing in
+DataCore. 156
+
+##### Foot Note 156
+
+×
+
+Transcript, 17 Mar, p 78 lines 21-28.
+
+The April 2016 Email Exchange between Mr Lynch and Mr Dawkins also indicates
+that Mr Dawkins was interested in investing in DataCore; he said so to Mr
+Lynch, and there was nothing false about him saying so to Mr Grendus too.
+
+152 If Mr Dawkins further said anything about tripling his money by investing
+in DataCore (and I am not convinced he did say this), this would only have
+been a response to Mr Lynch saying that the Shanda Financing would be at
+triple the current valuation of DataCore. Mr Dawkins had no reason to
+disbelieve Mr Lynch, and contradict him.
+
+153 After the 24 May 2016 Meeting, Mr Dawkins and Mr Grendus continued to
+exchange messages (the “Messages”). 157
+
+##### Foot Note 157
+
+×
+
+AEIC Bundle Vol II pp 68-71.
+
+In the Messages, there was further mention of:
+
+(a) the possibility of Mr Grendus working for DataCore;
+
+(b) the possibility of Mr Grendus and Mr Dawkins investing in DataCore; and
+
+(c) continued discussions between DataCore and Shanda.
+
+154 Mr Grendus says the Messages corroborate his allegation that it had been
+represented at the 24 May 2016 Meeting that the Shanda Financing was
+“guaranteed”. 158
+
+##### Foot Note 158
+
+×
+
+Transcript, 16 Mar, p 42 lines 6-11, p 46 lines 11-15, p 50 lines 4-6.
+
+However, the Messages do not support his allegation. If it had been
+represented at the 24 May 2016 Meeting that the Shanda Financing was
+“guaranteed”, there would have been be no need for Mr Dawkins to update Mr
+Grendus on the progress of such financing, but that was precisely what was
+discussed in the Messages. This extract from the Messages gives a flavour of
+the discussion:
+
+25 May 2016, 12:56:15 (Mr Grendus) I have someone really good that can work
+with me
+
+25 May 2016, 12:56:15 (Mr Grendus) where I come in fix things in about three
+months and have her working full time
+
+25 May 2016, 12:56:32 (Mr Dawkins) Gr8 u can discuss with steve [Mr Lynch]
+
+25 May 2016, 12:56:40 (Mr Grendus) obviously we have to see on both sides if
+it is a fit
+
+…
+
+26 May 2016, 16:33:18 (Mr Dawkins) … just spoke to Steve he has a meeting with
+Shanda today was delayed from the morning. He is in there now. Not sure how
+late but keep the pressure on for you
+
+26 May 2016, 16:33:46 (Mr Grendus) OK, I haven’t had something this
+interesting come along in awhile.
+
+26 May 2016, 16:34:19 (Mr Grendus) I have Big 4 experience as well, so
+compliance doesn’t worry me either.
+
+……
+
+26 May 2016, 18:02:44 (Mr Dawkins) He is still in there. No news. Possible it
+might be a long one as he was supposed to go in 930 but delayed to 3
+
+26 May 2016, 18:03:07 (Mr Grendus) well, I recognize the importance as this is
+related to Series A
+
+26 May 2016, 18:03:17 (Mr Dawkins) Yes this is the big final meeting
+
+…
+
+26 May 2016, 18:04:41 (Mr Grendus) this is a project that interests me, and
+besides myself, I have someone I would want to bring in after I’ve spent a
+month setting everything up
+
+26 May 2016, 18:05:05 (Mr Grendus) if I need to be in Singapore full time for
+a month to work on this, that’s fine, but I think I will be able to work
+remotely
+
+…
+
+27 May 2016, 13:20:16 (Mr Dawkins) Afternoon Jas [Mr Grendus]. Heard they r
+[sic] pushing on quickly with talks with their Series A today another chat. Im
+all ears and eyes waiting fr [sic] an update
+
+27 May 2016, 13:22:30 (Mr Grendus) OK, are we both going to be able to get in
+pre-Series A, assuming they want to bring me in?
+
+…
+
+30 May 2016, 15:49:45 (Mr Grendus) Brett [Mr Dawkins], I am sorry to pester
+you, but if it turns out that Steve is not interested in working with me, I am
+not going to blame you for that
+
+…
+
+30 May 2016, 17:02:02 (Mr Dawkins) Jist [sic] spoke to steve. Seems like they
+had a guy in the usa to do the backend they already have it covered. Steve was
+not aware until today. He will chat to Bill Dale CEO [Mr Dale] re all of our
+interests to seed them tonight and arrange a call with you before weds [sic]
+with Bill
+
+30 May 2016, 18:24:18 (Mr Grendus) well, on the one hand, disappointing
+
+30 May 2016, 18:24:29 (Mr Grendus) but I’d still like to participate if
+they’re willing
+
+30 May 2016, 18:24:44 (Mr Grendus) hopefully they’d be willing to go over all
+the numbers with me.
+
+[emphasis added]
+
+155 In June 2016, Mr Grendus met with Mr Dale and Mr Lynch, and spoke with
+them. 159
+
+##### Foot Note 159
+
+×
+
+Mr Grendus’ AEIC at para 31.
+
+It was open to him to get an update from them on the Financing, in particular
+whether the Shanda Financing had gone through; and to ask them to “go over all
+the numbers” with him. Whatever transpired between Mr Grendus, Mr Dale, and Mr
+Lynch, however, did not involve Mr Dawkins.
+
+156 I thus reject Mr Grendus’ case on the representations relating to the
+DataCore’s Financing and the Shanda Financing, ie, Submissions Representations
+(4) to (6) and part of Submissions Representation (2) / Representations (d)
+and (e).
+
+Submission Representation (7) / Representation (g)
+
+157 Submission Representation (7) is: “DataCore had a pre-Financing head count
+of nine (9) employees with payroll costs of US$95,000 per month”. 160
+
+##### Foot Note 160
+
+×
+
+PWS at paras 43-44.
+
+This corresponds with pleaded Representation (g).
+
+158 Mr Grendus’ pleaded position is that Representation (g) was made by Mr
+Lynch, and affirmed by Mr Dawkins not contradicting him (see [77(c)] above);
+but when asked which of the pleaded Representations were actually made by Mr
+Dawkins, he said: “[Representation (g)] comes from the financial statements as
+in the pro forma”. 161
+
+##### Foot Note 161
+
+×
+
+Transcript, 16 Mar, p 54 lines 6-29.
+
+That contrasts with what he said of the other pleaded Representations, eg,
+what he said about Representation (f), “is the first defendant, Stephen Lynch”
+162
+
+##### Foot Note 162
+
+×
+
+Transcript, 16 Mar, p 54 line 28.
+
+and about Representation (h), “would be that meeting, first and second
+defendant”. 163
+
+##### Foot Note 163
+
+×
+
+Transcript, 16 Mar, p 54 line 30.
+
+159 In so far as Mr Grendus attributes Representation (g) to “the pro forma”,
+ie, the Pitch Document Mr Lynch sent him with the 10 June 2016 Email, Mr
+Dawkins was not responsible for that document – Mr Dawkins was not copied in
+that email and was not even sent that document.
+
+160 The May Pro Forma, which Mr Dawkins received, had different figures, in
+relation to headcount, from the Pitch Document, as shown in the following
+table:
+
+Period | Salary Staff or Consultants – part & full| Total Global Head Count  
+---|---|---  
+Pitch Document| May Pro Forma| Pitch Document| May Pro Forma  
+2016 Q1| 9| 9| 9| 9  
+April 2016| 9| 9| 9| 9  
+May 2016| 9| 11| 9| 14  
+June 2016| 12| 12| 17| 16  
+2016 Q2| 12| 12| 17| 16  
+  
+161 Mr Grendus seeks to downplay the difference in figures, especially the
+figures for May 2016 (the very month when the 24 May 2016 Meeting took place)
+by saying – through the 18 May 2021 Letter from his solicitors – that the
+total global headcount numbers for 2016 Q1 (which are identical in both the
+Pitch Document and May Pro Forma) are what matter. That is a clear shift in
+his case:
+
+(a) Mr Grendus’ complaint is that “pre-Financing head count” of 9 is what was
+represented to him. Representation (g) therefore relates to the relevant
+headcount numbers of DataCore before any such Financing, which (as is common
+ground) did not yet take place at the time of the 24 May 2016 Meeting. As
+such, the headcount numbers for April and May 2016 were as relevant as those
+for 2016 Q1 (January to March 2016) were.
+
+(b) In Mr Grendus’ testimony, referring to the Pitch Document, he said:
+“Headcount – 9, line item ‘Head Count (Salary Staff or Consultants – part &
+full) – 9’. 2016 Q1. 2016 Q2. Further misrepresentation. As it stands, in the
+end there were only 6”. 164
+
+##### Foot Note 164
+
+×
+
+Transcript, 16 Mar, p 57 lines 15-17.
+
+In his testimony, Mr Grendus did not restrict himself only to the headcount
+numbers for 2016 Q1, contrary to his present position that only the numbers
+for 2016 Q1 matter.
+
+(c) Mr Grendus’ counsel had cross-examined Mr Dawkins on what DataCore’s
+headcount was in May 2016: 165
+
+##### Foot Note 165
+
+×
+
+Transcript, 17 Mar, p 36 lines 10-12, p 79 lines 3-5, p 80 lines 29-32.
+
+Q. Wouldn’t you agree with me that on this pro forma forecast, a reader would
+believe that as at May 2016, the company has a global head count of 9
+individuals?
+
+…
+
+Q. … as of May 2016, this forecast [in the Pitch Document] represents that
+there was a head count of 9 in the company;
+
+…
+
+Q. I put it to you, Mr Dawkins, that you knew exactly what the head count was
+of the company… at or around May 2016.
+
+[emphasis added]
+
+(d) In saying that Representation (g) was false, Mr Grendus complains that
+instead of a headcount of 9, DataCore only had a headcount of 6, all of whom
+(including Mr Lynch) he says were overpaid 166
+
+##### Foot Note 166
+
+×
+
+SOC at para 17(d).
+
+– but the financial statements of DataCore exhibited in Mr Grendus’ AEIC show
+that Mr Lynch was only paid from April 2016 onwards, ie, after 2016 Q1. 167
+
+##### Foot Note 167
+
+×
+
+AEIC Bundle Vol II at pp 436 and 442.
+
+(e) As a prospective investor, it makes no sense for Mr Grendus only to be
+interested in the historical headcount of DataCore up to 2016 Q1, and not what
+its current and prospective headcount was. Mr Grendus’ interest would not only
+have been in the company’s past, but also its present and future.
+
+162 It was not Mr Grendus’ pleaded case that Mr Dawkins had said DataCore’s
+headcount was 9: he said that came from Mr Lynch and Mr Dawkins did not
+contradict him (see [158] above). In his testimony, Mr Grendus then said the
+headcount figure came from the Pitch Document (see [159] above). It was,
+however, put to Mr Dawkins that he had represented to Mr Grendus that DataCore
+already had a headcount of 9, which Mr Dawkins denied. 168
+
+##### Foot Note 168
+
+×
+
+Transcript, 17 Mar, p 81 lines 2–4.
+
+Mr Dawkins maintained that he did not present a number to Mr Grendus. 169
+
+##### Foot Note 169
+
+×
+
+Transcript, 17 Mar, p 80 lines 19-21.
+
+He knew there were only a handful of people, but he never gave a specific
+figure. 170
+
+##### Foot Note 170
+
+×
+
+Transcript, 17 Mar, p 80 lines 21-23.
+
+163 I believe Mr Dawkins on this. If he had looked at the May Pro Forma to see
+what was stated as the headcount for May 2016, he would have seen a figure of
+11 (not 9) for “Head Count (Salary Staff or Consultants – part & full)”, and
+14 (not 9) for “Total Global Head Count” (see [160] above). As stated earlier,
+I accept Mr Dawkins’ evidence that he had not read the May Pro Forma, or at
+least not fully or properly (see [121] above); but even if he had, he would
+not have put forward a figure of 9 as DataCore’s headcount.
+
+164 In any event, I do not allow Mr Grendus to depart from his pleaded case,
+and add to his allegations of fraud in this way.
+
+165 Mr Grendus saw the figure of 9 for DataCore’s May 2016 headcount in the
+Pitch Document, and so he alleged that that must have been what was
+represented to him at the 24 May 2016 Meeting – I reject that.
+
+166 In any event, if Mr Lynch had mentioned a headcount of 9 (and I am not
+convinced he did), Mr Dawkins would have had no reason to think that was
+false, such that he should contradict Mr Lynch. As Mr Dawkins says, he “had
+never been presented with a hard number” of persons actually employed by
+DataCore at the time. 171
+
+##### Foot Note 171
+
+×
+
+Transcript, 17 Mar, p 80 lines 27-28.
+
+167 I thus reject Mr Grendus’ case on Submission Representation (7) /
+Representation (g).
+
+Submission Representation (8) / Representation (h)
+
+168 Submission Representation (8) is: “DataCore had a lot of interest from the
+insurance industry and a deep sales pipeline had been in development for some
+time, with initial sales forecasted for June 2016 and US$965,000 total sales
+expected by the end of 2016”. 172
+
+##### Foot Note 172
+
+×
+
+PWS at paras 45-46.
+
+This corresponds with pleaded Representation (h).
+
+169 As I noted above, in his pleadings, Mr Grendus had attributed
+Representation (h) to Mr Lynch alone (see [77(a)] above). Mr Grendus did not
+say that Mr Dawkins had affirmed that by not contradicting Mr Lynch (as he had
+said about most of the other Representations). In effect, Mr Grendus had
+abandoned his claim on Representation (h) against Mr Dawkins.
+
+170 In his evidence, though, Mr Grendus said about Representation (h): “would
+be that meeting, first and second defendant”. 173
+
+##### Foot Note 173
+
+×
+
+Transcript, 16 Mar, p 54 line 30.
+
+I do not allow Mr Grendus to add to his allegations of fraud in this way.
+
+171 There are other problems with Representation (h) besides Mr Grendus’
+pleadings. Mr Grendus says what was represented to him was US$965,000 in total
+sales by the end of 2016. However, the very Pitch Document he received has a
+different figure of US$936,000, 174
+
+##### Foot Note 174
+
+×
+
+Mr Grendus’ Letter at Tab 2 p 5.
+
+which was also what Mr Grendus referred to in his testimony about
+Representation (h): “[referring to the Pitch Document] This is the year 2016,
+revenue is 936,000, consistent with representations made to me at the meeting
+at the Cigar Bar.” [emphasis added] 175
+
+##### Foot Note 175
+
+×
+
+Transcript, 16 Mar, p 57 lines 6–8 and 12.
+
+Mr Grendus seemed unaware that the figure of US$936,000 in the Pitch Document
+was not the same as the US$965,000 he claimed had been orally represented to
+him at the 24 May 2016 Meeting.
+
+172 The May Pro Forma, which is what Mr Dawkins had, had yet another figure
+for 2016 sales / revenue: US$955,000. 176
+
+##### Foot Note 176
+
+×
+
+Mr Grendus’ Letter at Tab 3 p 4.
+
+173 Mr Dawkins never represented to Mr Grendus that a figure of US$965,000 (or
+indeed, any particular figure) was expected as sales / revenue for 2016. I do
+not believe that Mr Lynch represented that figure either, but if he had, Mr
+Dawkins would have had no reason to disbelieve him, and contradict him.
+
+174 I thus reject Mr Grendus’ case on Submission Representation (8) /
+Representation (h).
+
+Representations (f), (i), (j) and (k)
+
+175 As I noted above, Representations (f), (i), (j), and (k) though pleaded,
+do not seem to feature in the Submissions. They appear to have been abandoned
+in relation to Mr Dawkins.
+
+176 Representation (f) is: “[i]f the subscription of the seed units were not
+fully subscribed, Shanda would purchase the remaining units in the Series A
+round, in accordance with the guaranteed Financing”. 177
+
+##### Foot Note 177
+
+×
+
+SOC at para 11(f).
+
+Mr Grendus’ pleaded case is that Representation (f) was made by Mr Lynch, and
+affirmed by Mr Dawkins not contradicting him (see [77(c)] above). In Mr
+Grendus’ evidence, however, he simply said this about Representation (f): “is
+the first defendant, Stephen Lynch”. 178
+
+##### Foot Note 178
+
+×
+
+Transcript, 16 Mar, p 54 line 28.
+
+On Mr Grendus’ own testimony, Mr Dawkins never made Representation (f). If Mr
+Lynch had said it, there was no reason for Mr Dawkins to disbelieve him, and
+contradict him.
+
+177 Representation (i) is: “DataCore was already involved in due-diligence
+processes with multiple banks and exchange traded fund (“ETF”) companies”. 179
+
+##### Foot Note 179
+
+×
+
+SOC at para 11(i).
+
+Mr Grendus’ pleaded position is that Representation (i) was made by Mr Lynch,
+and affirmed by Mr Dawkins not contradicting him (see [77(c)] above). However,
+in his evidence Mr Grendus said, “that would have more come from the first
+defendant” [emphasis added]. 180
+
+##### Foot Note 180
+
+×
+
+Transcript, 16 Mar, p 54 line 31.
+
+Mr Dawkins never made Representation (i). If Mr Lynch had said it, there was
+no reason for Mr Dawkins to disbelieve him, and contradict him.
+
+178 Representation (j) is: “[e]ntering into the CorePlus Debenture will allow
+[Mr Grendus] to enjoy participation in DataCore as well as other projects
+CorePlus was involved in”. 181
+
+##### Foot Note 181
+
+×
+
+SOC at para 11(j).
+
+Representation (k) is: “Of the said CorePlus projects referred to in
+[Representation (j)] were the underwriting of pet owner insurance, a ‘Green
+Energy’ bond fund, a ‘Liquified Natural Gas’ (LNG) fund and Skybridge
+Financial Pte Ltd (‘Skybridge’), a ‘Foreign Film Rights’ fund … for and
+between Skybridge and Struans Capital Partners”. 182
+
+##### Foot Note 182
+
+×
+
+SOC at para 11(k).
+
+179 Mr Grendus’ pleaded position is that Representations (j) and (k) were made
+by Mr Lynch, and affirmed by Mr Dawkins not contradicting him (see [77(c)]
+above). However, in his evidence, when asked who had made these
+representations, Mr Grendus simply said, “first defendant”. 183
+
+##### Foot Note 183
+
+×
+
+Transcript, 16 Mar, p 54 line 32, p 55 line 1.
+
+If these representations had been made by Mr Lynch at the 24 May 2016 Meeting,
+there was no reason for Mr Dawkins to disbelieve him, and contradict him.
+
+180 Even if Mr Grendus had not abandoned his claims against Mr Dawkins on
+Representations (f), (i), (j) and (k), I reject them all.
+
+181 In summary, I find that none of the pleaded Representations (a) to (k) can
+be attributed to Mr Dawkins, save for an implied representation that DataCore
+was a going concern (viz, Submission Representation (1) / Representation (c))
+(see [98]-[102] above).
+
+182 I go on to consider whether that representation was false, and if so,
+whether it was fraudulently made.
+
+Were the representations false?
+
+The “going concern” representation: Submission Representation (1) /
+Representation (c)
+
+183 I find that Mr Grendus has not proved that DataCore was not a going
+concern at the time of the 24 May 2016 Meeting, or indeed when he invested on
+24 June 2016.
+
+184 Mr Grendus says DataCore was technically insolvent at the time of the 24
+May 2016 Meeting: he says the financial statements of DataCore show that the
+liabilities of DataCore exceeded its assets. 184
+
+##### Foot Note 184
+
+×
+
+Mr Grendus’ AEIC at para 39.
+
+However, the 2016 financial statements of DataCore which Mr Grendus exhibited
+in his AEIC do not show this. The balance sheet as of 31 December 2016 (the
+“2016 Balance Sheet”) shows that as at 31 March 2016 (before Mr Grendus
+invested), DataCore’s total assets of US$285,040.73 exceeded its total
+liabilities of US$92,500; and as at 30 June 2016 (after Mr Grendus invested),
+DataCore’s total assets of US$146,369.77 exceeded its total liabilities of
+US$102,500. 185
+
+##### Foot Note 185
+
+×
+
+AEIC Bundle Vol II p 440.
+
+185 Perhaps Mr Grendus deducted from the total asset figure as at 30 June 2016
+his investment of US$100,000 (thereby leaving a figure of US46,369.77); but I
+cannot conclude thereby that as at the 24 May 2016 Meeting, or as at 24 June
+2016 when Mr Grendus invested, that DataCore’s liabilities exceeded its
+assets. DataCore may have spent money, or incurred liabilities, with Mr
+Grendus’ investment in hand, that it otherwise might not have. Indeed, the
+financial statements show that DataCore did spend money after Mr Grendus
+invested, bringing down the total asset figure as at 30 June 2016 – eg,
+salaries were paid to various persons including Mr Lynch on 30 June 2016. 186
+
+##### Foot Note 186
+
+×
+
+AEIC Bundle Vol II at p 442.
+
+The profit and loss statement covering the period of April to June 2016 also
+shows various other expenses, some of which may have been incurred in the
+period between 24 to 30 June 2016. 187
+
+##### Foot Note 187
+
+×
+
+AEIC Bundle Vol II at p 441.
+
+186 More fundamentally, even if DataCore’s total assets were less than its
+total liabilities, that does not mean it was insolvent (in the sense of being
+unable to pay its debts as they fall due), and it does not mean DataCore was
+not a going concern.
+
+187 In Sun Electric Power Pte Ltd v RCMA Asia Pte Ltd (formerly known as Tong
+Teik Pte Ltd) [2021] SGCA 60, the Court of Appeal explained that a company
+whose total liabilities exceed its total assets is not thereby “unable to pay
+its debts” – “it is not the total asset to total liability ratio which
+determines a company’s present ability to pay its debts. Instead, this is
+determined by the liquidity of the assets and when the debts fall due” (at
+[62]). What is more pertinent is “whether the company’s current assets exceed
+its current liabilities” [emphasis added] (at [65]).
+
+188 DataCore’s 2016 Balance Sheet show that as at 31 March 2016 it had current
+assets of US$260,665.73, more than its current liabilities of US$92,500. And
+as at 30 June 2016 it had current assets of US$121,994.77, more than its
+current liabilities of US$102,500. Those financial statements do not show that
+DataCore was unable to pay its debts as at the 24 May 2016 Meeting, or 24 June
+2016 when Mr Grendus invested.
+
+189 I am also not persuaded by the Submissions that DataCore was not a going
+concern. 188
+
+##### Foot Note 188
+
+×
+
+PWS at para 59.
+
+190 First, Mr Grendus relies on a supposed debt of $120,000 owed by DataCore
+to Aryan Search, which Mr Grendus says Mr Dawkins had informed him of by a
+WhatsApp message sometime in May 2018 when the both of them and Mr Lee-Simion
+had been discussing what they might claim against Mr Lynch if legal
+proceedings were commenced. 189
+
+##### Foot Note 189
+
+×
+
+PWS at para 59(a).
+
+Mr Dawkins wrote: “Recruitment fees not paid and salary for Paul Szego 60k amd
+[sic] 60k sgd”. 190
+
+##### Foot Note 190
+
+×
+
+AEIC Bundle Vol II at p 531.
+
+However, DataCore did not owe Aryan Search $120,000 (or any sum). The first
+$60,000 represented recruitment fees that Aryan Search might have earned for
+the placement of Paul Szego (“Mr Szego”) with DataCore, but DataCore never
+hired Mr Szego. As such, strictly speaking, no recruitment fees were payable
+by DataCore. Mr Dawkins mentioned that he might claim $60,000 nevertheless,
+but that was not pursued. 191
+
+##### Foot Note 191
+
+×
+
+Transcript, 17 Mar, p 111 lines 12-18.
+
+The other $60,000 was salary that had been promised by Mr Lynch to Mr Szego,
+which Mr Dawkins thought he could try to get for Mr Szego’s benefit; 192
+
+##### Foot Note 192
+
+×
+
+Transcript, 17 Mar, p 128 lines 17-24.
+
+it was not due to Aryan Search.
+
+191 Second, Mr Grendus relies on a personal loan of S$10,000 extended by Mr
+Dawkins to Mr Lynch in or around June 2017 for Mr Lynch’s personal expenses.
+193
+
+##### Foot Note 193
+
+×
+
+PWS at para 59(b); AEIC Bundle Vol II at p 493; Transcript, 17 Mar, p 110
+lines 17-25.
+
+That says nothing about DataCore’s situation as at 24 May 2016 or 24 June
+2016.
+
+192 Third, Mr Grendus relies on Mr Lynch’s email to Mr Dawkins in the April
+2016 Email Exchange about funding being needed if DataCore were to hire Mr
+Szego. There is nothing unusual about DataCore, a start-up, not taking on
+additional hires unless it had the means to support those hires. In Mr Lynch’s
+further email to Mr Dawkins (also part of the April 2016 Email Exchange), he
+said “[it’s] not that we are tight but to be honest with you it may take
+Shanda 1-2 more months and then we get tight and it does restrict me
+[bringing] on [Mr Szego]”. Mr Lynch was only talking about whether the
+additional hire of Mr Szego might be restricted by finances in one to two
+months’ time, because of the time it was taking to close financing from
+Shanda. There was no indication that DataCore would be insolvent, or would
+cease to be a going concern, by 24 May 2016 or 24 June 2016.
+
+193 Fourth, Mr Grendus relies on Mr Dawkins’ acknowledgement that on 23 May
+2016 he had offered for Aryan Search to payroll Mr Szego upfront on behalf of
+DataCore. 194
+
+##### Foot Note 194
+
+×
+
+PWS at paras 59(c)-(d); AEIC Bundle Vol II at p 494.
+
+Mr Grendus says this shows Mr Dawkins knew DataCore was insolvent or
+impecunious. As Mr Dawkins explains, however, his offer to payroll Mr Szego
+points the other way: 195
+
+##### Foot Note 195
+
+×
+
+Transcript, 17 Mar, p 59 lines 16-20.
+
+If we payroll [Mr Szego], we would have taken that entire loss on our
+business. We wouldn’t have got that money back. So why would I offer something
+that would cost us money, if I believe that [DataCore] [is] insolvent? I
+wouldn’t do it. I say I am not payrolling for you, you haven’t got any money,
+I am not going to do it. Quite the opposite.
+
+194 Fifth, Mr Grendus asserts that Mr Dawkins and Aryan Search would have done
+(financial) due diligence on DataCore and/or CorePlus, and would have known
+that DataCore and/or CorePlus were insolvent or close to it. 196
+
+##### Foot Note 196
+
+×
+
+PWS at paras 59(e)-(f).
+
+I have already rejected Mr Grendus’ assertion that Mr Dawkins and Aryan Search
+did due diligence (in the sense of financial due diligence) on DataCore and
+CorePlus (see [64] above).
+
+195 Mr Grendus has not proven that DataCore and CorePlus were insolvent or
+close to it. It follows that although he was given the impression at the 24
+May 2016 Meeting that DataCore was a going concern, he has not proved that
+that was a false representation.
+
+The Shanda representations: Submission Representations (4) to (6) /
+Representations (d) and (e)
+
+196 For completeness, I find that Mr Grendus has also not proven that DataCore
+did not have a current valuation of US$10m, or that the Shanda Financing was
+not at triple that valuation.
+
+197 Mr Grendus puts forward no evidence to prove that DataCore did not have a
+valuation of US$10m when he invested.
+
+198 He also puts forward no evidence on the parameters of the Shanda
+Financing. In particular, he offers no evidence that DataCore was not seeking
+US$10m in financing from Shanda or that any such financing from Shanda was not
+based on a valuation of some US$30m.
+
+199 Thus, even if Mr Dawkins had said he would triple his money if he invested
+(which Mr Grendus said pointed to the Shanda Financing being at triple
+DataCore’s current valuation) (see [150] above), Mr Grendus has not proved
+that this was a false representation.
+
+Did Mr Dawkins fraudulently make any false statements to Mr Grendus?
+
+200 For completeness, I find that Mr Dawkins did not fraudulently make any
+false statements to Mr Grendus. Mr Dawkins did not lack an honest belief in
+what he said to Mr Grendus. In so far as Mr Lynch said things about DataCore,
+Mr Dawkins did not believe any of that to be false, such that he ought to
+contradict Mr Lynch (see [114], [129], [148], [166], [173], [176]-[177] and
+[179] above).
+
+201 In particular, Mr Dawkins honestly believed that DataCore was a going
+concern, and that it was not insolvent. That was the premise upon which he and
+Aryan Search were undertaking recruitment for DataCore, and upon which he had
+offered to payroll Mr Szego (see [193] above).
+
+The Further Representations
+
+202 Mr Grendus’ case on the Further Representations is that after he had
+allegedly shared his strategic investment objectives, he was not informed that
+they may not be attained.
+
+203 This is fatally flawed, because he was informed that his strategic
+investment objectives may not be attained. Mr Lynch had sent Mr Grendus in his
+10 June 2016 Email (alongside the Pitch Document) DataCore’s Membership Unit
+Offering Materials (the “Materials”). The Materials contained a Summary of
+Terms (on the second page), which specified “Investment Risks” 197
+
+##### Foot Note 197
+
+×
+
+AEIC Bundle Vol II p 84.
+
+that are elaborated upon in the “Risk Factors” section. 198
+
+##### Foot Note 198
+
+×
+
+AEIC Bundle Vol II at pp 105-112.
+
+That section described the securities offered (which Mr Grendus purchased when
+he invested in DataCore) as “speculative” and involving a “high degree of
+risk”. 199
+
+##### Foot Note 199
+
+×
+
+AEIC Bundle Vol II at p 105.
+
+It was highlighted that there could be “the complete loss of all investments
+in the company”. 200
+
+##### Foot Note 200
+
+×
+
+AEIC Bundle Vol II at p 105.
+
+DataCore’s lack of an operating history was highlighted: “Due to the lack of
+an operating history, no assurance can be made that the Company will ever be
+profitable or generate any return on investment.” 201
+
+##### Foot Note 201
+
+×
+
+AEIC Bundle Vol II at p 105.
+
+204 The Materials also included a Subscription Agreement, 202
+
+##### Foot Note 202
+
+×
+
+AEIC Bundle Vol II at p 89.
+
+which Mr Grendus became a party to when he invested in DataCore. The
+Subscription Agreement contained “Representations and Covenants of the
+Investor”, including the following: 203
+
+##### Foot Note 203
+
+×
+
+AEIC Bundle Vol II at p 95.
+
+B. The Investor has received and read a copy of the Operating Agreement
+outlining, among other things, the organization and investment objectives and
+policies of, and the risks and expenses of an investment in the Company. The
+Investor acknowledges that in making a decision to subscribe for the Units,
+the Investor has relied solely upon the terms of the Operating Agreement and
+independent investigations made by the Investor, and is not investing as a
+result of any advertisement, article, notice or other communication published
+in any newspaper, magazine or similar media or broadcast over television or
+radio, or presented at any seminar or meeting, or any solicitation of a
+subscription by a person not previously known to the Investor in connection
+with investments in securities generally. The Investor’s investment in the
+Units is consistent with the investment purposes and objectives and cash flow
+requirements of the Investor and will not adversely affect the Investor’s
+overall need for diversification and liquidity.
+
+…
+
+The Investor has carefully considered and to the extent it believes necessary,
+discussed with its professional tax, legal and financial advisors, the
+suitability of an investment in the Company and has determined that such
+investment is suitable for it.
+
+C. The Investor has such knowledge and experience in financial and business
+matters that the Investor is capable of evaluating the merits and risks of the
+Investor’s investment in the Units and is able to bear such risks, and has
+obtained, in the Investor’s judgment, sufficient information from the Company
+or its authorized representatives to evaluate the merits and risks of such
+investment. The Investor has evaluated the risks of investing in the Units and
+has determined that the Units is a suitable investment for the Investor. The
+Investor has not utilized any other person as a purchaser representative in
+connection with evaluating such merits and risks.
+
+D. The Investor can afford a complete loss of its investment in the Units, can
+afford to hold its investment in the Units for an indefinite period of time,
+and acknowledges that distributions, including, without limitation, withdrawal
+proceeds, may be paid in cash or in kind.
+
+…
+
+G. The Investor agrees and is aware that:
+
+(1) the Company does not have a financial or operating history;
+
+…
+
+(3) there are substantial risks of loss of investment incidental to the
+purchase of the Units, including those summarized in the Executive Summary.
+
+[emphasis added]
+
+205 Paragraph G(1) specifically warned that DataCore did not have a financial
+or operating history; para G(3) warned of substantial risks of loss of
+investment; and by para D investors like Mr Grendus agreed that they could
+afford a complete loss of their investment.
+
+206 Furthermore, paras B and C would have indicated to Mr Grendus that, in
+investing in DataCore, he would be representing:
+
+(a) that his investment in DataCore was consistent with his investment
+purposes and objectives;
+
+(b) that he had carefully considered the suitability of the investment in
+DataCore and determined that such investment was suitable for him; and
+
+(c) that he had evaluated the risks of investing in DataCore and had
+determined that that was a suitable investment for him, and that he had not
+utilised any other person as a purchaser representative in connection with
+evaluating such merits and risks.
+
+207 The Materials in the 10 June 2016 Email from Mr Lynch thus told Mr Grendus
+that his strategic investment objectives may not be attained – indeed, he was
+told that he might suffer a complete loss of his investment in DataCore.
+Concomitantly, if DataCore were to fail (as Mr Grendus had been warned it
+might), that would have a negative impact on its holding company CorePlus,
+which Mr Grendus was also investing in.
+
+208 Furthermore, Mr Grendus’ case against Mr Dawkins on the Further
+Representations is again based on Mr Dawkins’ silence. That is not actionable
+unless Mr Dawkins had a duty to speak (see [115] above), and there was no such
+duty.
+
+209 It would have been naïve of Mr Grendus to think that DataCore, the start-
+up that he was investing in, would surely proceed to a Series B financing, and
+would certainly be a good long-term investment. It would also have been naïve
+of him to believe that if Mr Dawkins remained silent after he allegedly
+expressed his strategic investment objectives, Mr Dawkins was somehow
+promising that those objectives would be attained. Mr Grendus does not however
+seek to enforce any such promise as a promise; instead he claims for
+misrepresentation and conspiracy.
+
+210 Silence of this sort is not an actionable misrepresentation. Failing to
+disabuse a person of a mistaken belief does not, without more, constitute
+misrepresentation (EA Apartments ([115] above) at [29]–[30]); passively
+acquiescing in another’s self-deception is not sufficient (EA Apartments at
+[30]; see also Wang Xiaopu ([115] above) at [59]–[60]).
+
+211 In any event, Mr Lynch had, by the 10 June 2016 Email, expressly warned Mr
+Grendus about the risks of investing in DataCore, and Mr Grendus invested
+despite those warnings. He was given no assurance (expressly or by silence)
+that his strategic investment objectives would be attained.
+
+Was Mr Grendus induced to make the Investments by what Mr Dawkins said (or
+failed to say) to him?
+
+212 I find that Mr Grendus was not induced to make the Investments by what Mr
+Dawkins said to him, or any silence on Mr Dawkins’ part.
+
+213 Rather, Mr Grendus relied on information and documents (eg, the Pitch
+Documents) from DataCore, and his own investigations, in making his decision
+to invest.
+
+214 By para B in the section on “Representations and Covenants of the
+Investor” in the Subscription Agreement (see [204] above), Mr Grendus
+acknowledged that, in making a decision to invest in DataCore, he has “relied
+solely upon the terms of the Operating Agreement and independent
+investigations made by [him]”. Further, he acknowledged that he was not
+investing as a result of (among others) “any solicitation of a subscription by
+a person not previously known to [himself] in connection with investments in
+securities generally”. Even if Mr Dawkins had solicited the Investments
+(rather than just having made an introduction), Mr Grendus represented to
+DataCore that he was not investing as a result of any solicitation by Mr
+Dawkins.
+
+215 Besides there being differences in figures between the May Pro Forma and
+the Pitch Document, I would highlight differences in the nature of those
+documents:
+
+(d) Each page with pro forma figures in the May Pro Forma had a prominent
+statement: “All figures provided in these materials are for discussion
+purposes only and do not represent any forecast of future financial
+performance of the Venture or its affiliates”. The corresponding pages in the
+Pitch Document did not.
+
+(e) The May Pro Forma concluded with a “Disclaimer” page which made it plain
+that it “[did] not constitute an offer to sell or a solicitation of an offer
+to buy any investment … in the businesses described herein” and “[did] not
+purport to be complete”, and was provided “solely to facilitate further
+discussion”. The corresponding “Disclaimer” page in the Pitch Document merely
+had one word: “Disclaimer” on an otherwise blank page.
+
+216 Mr Dawkins, of course, would not know of those differences – he never
+received the Pitch Document (see [120] above).
+
+217 Mr Grendus, on the other hand, evidently regarded the Pitch Document as
+information from DataCore on which he could base his decision to make the
+Investments. In his testimony, he agreed that his decision to invest was made
+“subsequent to receiving the financial statements [ie, the Pitch Document]”.
+204
+
+##### Foot Note 204
+
+×
+
+Transcript, 16 Mar, p 55 lines 12-13.
+
+He specifically identified pages three and five of the Pitch Document (with
+figures for investment capital (financing) and headcount, 205
+
+##### Foot Note 205
+
+×
+
+AEIC Bundle Vol II at pp 76 and 78.
+
+as having influenced him to invest. 206
+
+##### Foot Note 206
+
+×
+
+Transcript, 16 Mar, p 57 lines 1-21.
+
+Mr Grendus said that he had reviewed the Pitch Document in detail, checked the
+listings on the US SEC to confirm that the indices DataCore were offering (its
+main business activity) were actually listed, and also verified the curriculum
+vitae and credentials of Mr Raphael Douady (“Mr Douady”), the ‘brainchild’ of
+DataCore’s indices products. 207
+
+##### Foot Note 207
+
+×
+
+Transcript, 16 Mar, p 23 lines 8–19, p 36 lines 22–27.
+
+218 Mr Grendus also says that Mr Dale was responsible for some of the
+representations that induced him to make the Investments. 208
+
+##### Foot Note 208
+
+×
+
+SOC at para 32.
+
+Mr Grendus pleads that the Representations were made by and/or are to be
+inferred from (among others), not only oral statements by Mr Lynch and Mr
+Dawkins, but also those made by Mr Dale. 209
+
+##### Foot Note 209
+
+×
+
+SOC at para 13.
+
+Mr Grendus also says that Mr Dale made the Further Representations by assuring
+him, after he had shared his strategic investment objectives with Mr Dale,
+that they may be achieved (or by being silent that his objectives may not be
+attained). 210
+
+##### Foot Note 210
+
+×
+
+SOC para 14.
+
+219 Mr Dawkins bears no responsibility for what Mr Dale represented to Mr
+Grendus, what Mr Lynch represented to Mr Grendus, the contents or the Pitch
+Document or other documents from Mr Lynch and/or Mr Dale, or what Mr Grendus
+had uncovered from his own investigations before deciding to invest in
+DataCore. Mr Dawkins is not responsible for Mr Grendus’ decision to make the
+Investments.
+
+Conclusion on the fraud claim
+
+220 For the above reasons, Mr Grendus’ claim in fraud fails. I should mention
+that I had also considered his allegations of conspiracy, and the evidence of
+Mr Lee-Simion, in reaching that conclusion; I deal with those matters in the
+section on conspiracy (see [225] below).
+
+Negligence
+
+221 The only alleged representation Mr Dawkins had made, was an implied
+representation that DataCore was a going concern. That is what Mr Dawkins
+honestly believed, and he was not negligent in conveying the same to Mr
+Grendus. In this regard, I have already stated that Mr Dawkins and Aryan
+Search were not obliged to conduct financial due diligence on DataCore (see
+[64] above). Mr Lynch was someone that Mr Dawkins had known from earlier (when
+Mr Lynch was with Nomura), 211
+
+##### Foot Note 211
+
+×
+
+Transcript, 17 Mar, p 20 line 32, p 21 lines 1-5.
+
+and in these circumstances, there was no reason for Mr Dawkins to disbelieve
+what Mr Lynch was saying about DataCore. Indeed, Mr Lynch says, in the 17
+September 2018 Letter responding to Mr Grendus’ Letter of Demand, that he too
+believed that DataCore was a going concern at the time (see [100] above). 212
+
+##### Foot Note 212
+
+×
+
+AEIC Bundle Vol II at p 409.
+
+222 In so far as Mr Grendus’ case against Mr Dawkins is based on silence, that
+silence is not actionable as a misrepresentation – whether in fraud or
+negligence. There was no duty to speak on Mr Dawkins’ part.
+
+223 Mr Dawkins was a recruiter – he was not Mr Grendus’ investment advisor
+(and Mr Grendus does not assert that Mr Dawkins acted in such a capacity).
+There was no advisory relationship between them, and the facts do not give
+rise to a duty of care such that Mr Dawkins ought to have advised Mr Grendus
+on whether he should invest in DataCore (see Deutsche Bank AG v Chang Tse Wen
+and another appeal [2013] 4 SLR 886 at [38] and [49]–[58]).
+
+224 In the circumstances, Mr Grendus’ negligence claim fails: Mr Dawkins owed
+Mr Grendus no relevant duty of care; he was not negligent in giving Mr Grendus
+the impression that DataCore was a going concern (which he honestly believed);
+in any event, Mr Grendus did not make the Investments because of anything Mr
+Dawkins said (or did not say) to him.
+
+Conspiracy
+
+225 I find that Mr Dawkins was not part of any conspiracy to defraud Mr
+Grendus. If there were any conspiracy between Mr Lynch and Mr Dale, Mr Dawkins
+was not part of it.
+
+Mr Lee-Simion’s evidence
+
+226 In support of his allegation of conspiracy, Mr Grendus called Mr Lee-
+Simion as a witness: Mr Lee-Simion too was aggrieved for having lost money in
+relation to DataCore, some US$50,000. Mr Lee-Simion did not however commence
+proceedings against anyone in respect of his loss.
+
+The law on similar fact evidence
+
+227 Mr Lee-Simion’s evidence was used as similar fact evidence, ie, if Mr Lee-
+Simion was defrauded, Mr Grendus must have been defrauded too.
+
+228 Such evidence, if relevant, must in the first place be admissible, but
+even if it is, the court has a discretion to exclude it if its prejudicial
+effect outweighs its probative value (Law Society of Singapore v Tan Guat Neo
+Phyllis [2008] 2 SLR(R) 239 at [126]). That discretion has also been
+acknowledged in criminal cases, in relation to the admission of similar fact
+evidence (see Tan Meng Jee v PP [1996] 2 SLR(R) 178 (at [41]) and voluntary
+statements from accused persons (see Muhammad bin Kadar and another v Public
+Prosecutor [2011] 3 SLR 1205 at [51]–[55]). In Hin Hup Bus Service (a firm) v
+Tay Chwee Hiang and another [2006] 4 SLR(R) 723 (“Hin Hup”), it was recognised
+that “[t]he principles relating to similar fact evidence in criminal cases are
+equally applicable to civil cases” (at [40]).
+
+229 The relevant provisions on similar fact evidence in the Evidence Act (Cap
+97, 1997 Rev Ed) (“the EA”) are ss 14 and 15. Both provisions allow for the
+admission of evidence of similar facts to prove a person’s state of mind
+(Jeffrey Pinsler, SC, Evidence and the Litigation Process (LexisNexis, 7th Ed,
+2020) (“Pinsler”) at para 3.016). Section 14 of the EA provides as follows:
+
+14\. Facts showing the existence of any state of mind, such as intention,
+knowledge, good faith, negligence, rashness, ill-will or good-will towards any
+particular person, or showing the existence of any state of body or bodily
+feeling, are relevant when the existence of any such state of mind or body or
+bodily feeling is in issue or relevant.
+
+230 Illustration (o) to s 14 of the EA is instructive:
+
+A is tried for the murder of B by intentionally shooting him dead.
+
+The fact that A on other occasions shot at B is relevant as showing his
+intention to shoot B.
+
+The fact that A was in the habit of shooting at people with intent to murder
+them is irrelevant.
+
+231 As illustration (o) demonstrates, for similar fact evidence to be
+admissible under s 14 of the EA, it must have distinct and immediate reference
+to the particular matter in question and not simply be evidence of general
+disposition or a tendency to do the act in question (Public Prosecutor v Mas
+Swan bin Adnan and another [2011] SGHC 107 (“Mas Swan”) at [109]; see also
+Pinsler at para 3.016). Purported evidence that Mr Dawkins was in the habit of
+cheating others on other occasions, is irrelevant to whether Mr Dawkins
+cheated Mr Grendus in the present case.
+
+232 Section 15 of the EA provides as follows:
+
+15\. When there is a question whether an act was accidental or intentional or
+done with a particular knowledge or intention, the fact that such act formed
+part of a series of similar occurrences, in each of which the person doing the
+act was concerned, is relevant.
+
+233 Illustration (a) to s 15 states:
+
+A is accused of burning down his house in order to obtain money for which it
+is insured.
+
+The facts that A lived in several houses successively, each of which he
+insured, in each of which a fire occurred, and after each of which fires A
+received payment from a different insurance office, are relevant as tending to
+show that the fire was not accidental.
+
+234 For similar fact evidence to be admissible under s 15 of the EA, it must
+constitute a “series” of similar occurrences that are unlikely to have been
+produced by accident or inadvertence (see Mas Swan at [110]; Pinsler at
+3.017). A “series” of similar occurrences connotes a recurring pattern which
+would ordinarily require proof of more than one other similar act (Hin Hup
+([228] above) at [37]). A significant similarity as to modus operandi may
+amount to striking resemblances or unusual features such that the court should
+find there was a series of similar occurrences involving the person in
+question (Hin Hup at [36]). In Hin Hup, the driver had been involved in seven
+other similar road accidents within a period of ten months prior to the
+accident that was the subject of the suit; the driver would also ask about
+insurance coverage whenever he applied for a job. The court found that the
+eight similar road accidents constituted a systemic course of conduct (at
+[29]) and so evidence relating to the seven previous accidents were admissible
+as similar fact evidence (at [50]).
+
+235 The present case is quite different. Mr Grendus only puts forward Mr Lee-
+Simion as someone else that Mr Dawkins allegedly cheated. Just the two of them
+would tend not to constitute a series of alleged victims.
+
+236 Pursuant to s 15 of the EA, one might seek to prove a pre-existing plan or
+design, with the act in question being only one of a class or series designed
+to bring about a similar result or object (Mas Swan at [110]; Pinsler at
+3.018). Mr Grendus’ case, however, is that he was cheated first, then Mr Lee-
+Simion; 213
+
+##### Foot Note 213
+
+×
+
+Mr Grendus’ AEIC at para 132.
+
+Mr Lee-Simion’s evidence is only about matters after the 24 May 2016 Meeting.
+Mr Grendus’ argument is that Mr Dawkins must have cheated Mr Grendus at the 24
+May 2016 Meeting because he also cheated Mr Lee-Simion later. There is no
+evidence of any pre-existing plan or design at the time of the 24 May 2016
+Meeting.
+
+237 I would also regard reliance on subsequent conduct as generally being of
+lower probative value than prior conduct. I note that Explanation 2 to s 14 of
+the EA provides that where the previous commission by the accused of an
+offence is relevant within the meaning of that section, the accused’s
+conviction for that shall also be a relevant fact. Nothing is said about
+offences committed after the one for which the accused is charged. In so far
+as Mr Grendus seeks to rely on Mr Lee-Simion’s evidence to show that Mr
+Dawkins, by virtue of having made the alleged representations to Mr Lee-Simion
+on a subsequent occasion, must also have made similar representations to him
+at the 24 May 2016 Meeting, such evidence relates to what Mr Dawkins
+supposedly had done and not his intentions at the time of the 24 May 2016
+Meeting. It is not admissible under ss 14 and 15 of the EA, which only allow
+for the admission of similar facts to prove a person’s state of mind (see
+[229]–[232] above).
+
+238 For completeness, I would also mention s 11(b) of the EA, which provides
+that:
+
+Facts not otherwise relevant are relevant —
+
+…
+
+(b) if by themselves or in connection with other facts they make the existence
+or non-existence of any fact in issue or relevant fact highly probable or
+improbable.
+
+239 Section 11(b) of the EA is limited to facts which are specifically
+connected to the facts in issue; similar facts which are unconnected with the
+facts in issue and which are inadmissible under ss 14 and 15 cannot be
+admitted under this provision (Pinsler at 3.026). Therefore, if Mr Lee-
+Simion’s evidence is inadmissible under ss 14 and 15 of the EA, it cannot then
+become admissible under s 11(b) for it relates to an incident other than that
+involving Mr Grendus, and so is not specifically connected to the facts in
+issue.
+
+What happened between Mr Dawkins and Mr Lee-Simion?
+
+240 As between Mr Dawkins and Mr Lee-Simion, I accept Mr Dawkins’ account of
+their interaction. Mr Dawkins denied Mr Lee-Simion’s version of events. 214
+
+##### Foot Note 214
+
+×
+
+Transcript, 17 Mar, p 39 line 8.
+
+He said that Mr Lee-Simion already knew Mr Lynch from 2013. 215
+
+##### Foot Note 215
+
+×
+
+Transcript, 17 Mar, p 43 lines 27-28.
+
+In or around May 2016, Mr Dawkins had updated Mr Lee-Simion about what Mr
+Lynch was doing in DataCore. He provided Mr Lee-Simion with Mr Lynch’s contact
+details, and Mr Lee-Simion then dealt directly with Mr Lynch. 216
+
+##### Foot Note 216
+
+×
+
+Transcript, 17 Mar, p 39 lines 9-17, p 100 lines 17-20.
+
+In or around June 2016, at Mr Lynch’s suggestion, the three of them met for
+beers. 217
+
+##### Foot Note 217
+
+×
+
+Transcript, 17 Mar, p 39 lines 18-20.
+
+Mr Dawkins did not pitch to Mr Lee-Simion an investment in DataCore.
+
+241 In his AEIC, Mr Lee-Simion referred to an email of 19 June 2016 from Mr
+Lynch which he said Mr Lynch enclosed “the documents for DataCore/Dominant
+Factors and repeated his pitch about DataCore” (the “19 June 2016 Email”). 218
+
+##### Foot Note 218
+
+×
+
+Affidavit of Evidence-in-Chief of Paul Lee-Simion (“Mr Lee-Simion’s AEIC”) at
+para 22.
+
+Mr Lee-Simion exhibited the text of the 19 June 2016 Email in his AEIC. 219
+
+##### Foot Note 219
+
+×
+
+AEIC Bundle Vol I at p 204.
+
+He asserted that Mr Lynch had copied Mr Dawkins in that email, 220
+
+##### Foot Note 220
+
+×
+
+Mr Lee-Simion’s AEIC at para 22.
+
+but that was not so – it was Mr Dale, not Mr Dawkins, that Mr Lynch had copied
+in.
+
+242 When Mr Lee-Simion was shown the 19 June 2016 Email in cross-examination,
+he acknowledged that what had been said in his AEIC was erroneous – Mr Dawkins
+was not copied in the 19 June 2016 Email. 221
+
+##### Foot Note 221
+
+×
+
+Transcript, 18 Mar, p 34 lines 23-32; p 35 lines 1-5.
+
+Disappointingly, the Submissions continue to assert that Mr Dawkins was copied
+in the 19 June 2016 Email, 222
+
+##### Foot Note 222
+
+×
+
+PWS at para 91(d).
+
+although it was plain from the email itself that this is not so; and Mr Lee-
+Simion had conceded the point.
+
+243 This error was significant. In his AEIC, Mr Lee-Simion prefaced his
+reference to the 19 June 2016 Email, by stating at para 21: “Following this
+meeting [which Mr Lee-Simion claims took place between himself, Mr Lynch and
+Mr Dawkins on or around the beginning of June 2016 at a bar in Boat Quay (the
+“Boat Quay Bar Meeting”)], the 1st and 2nd Defendants continued to communicate
+with me about the DataCore investment via email.” [emphasis added] 223
+
+##### Foot Note 223
+
+×
+
+Mr Lee-Simion’s AEIC at para 21.
+
+Mr Lee-Simion then referred to the following emails:
+
+(a) The 19 June 2016 Email, claiming that Mr Dawkins was copied in it;
+
+(b) Mr Dale’s email to Mr Lee-Simion dated 22 June 2016, which Mr Dale then
+forwarded to Mr Lynch and to a law firm that Mr Lee-Simion would pay his
+US$50,000 to (the “Law Firm”); 224
+
+##### Foot Note 224
+
+×
+
+AEIC Bundle Vol I at p 205.
+
+(c) Mr Dale’s email of 29 June 2016 to Mr Lee-Simion with Mr Lynch copied in
+it. 225
+
+##### Foot Note 225
+
+×
+
+AEIC Bundle Vol I at p 206.
+
+244 Mr Dawkins is conspicuously not a recipient of any of those emails, and
+there was no basis for Mr Lee-Simion to assert that Mr Lynch and Mr Dawkins
+continued to communicate with him about the DataCore investment via email.
+
+245 In the 19 June 2016 Email, Mr Lynch had proposed a meeting between Mr Lee-
+Simion, Mr Dale, and him on Tuesday 21 June 2016. He did not say Mr Dawkins
+would also be there. Mr Lee-Simion claims that Mr Dawkins also attended that
+meeting, 226
+
+##### Foot Note 226
+
+×
+
+Mr Lee-Simion’s AEIC at para 25.
+
+but Mr Dawkins denies this. 227
+
+##### Foot Note 227
+
+×
+
+Transcript, 17 Mar, p 42 lines 23-25.
+
+I believe Mr Dawkins on this.
+
+246 After Mr Lee-Simion decided to go ahead with his investment in DataCore,
+he emailed Mr Lynch (copying in Mr Dale) on 21 July 2016. 228
+
+##### Foot Note 228
+
+×
+
+Mr Lee-Simion’s AEIC at paras 33-34.
+
+This was another email in which Mr Dawkins was not copied (see [243] above).
+In the email, Mr Lee-Simion asked Mr Lynch to “check these few sheets with
+Bill [Mr Dale] and get back to me”, 229
+
+##### Foot Note 229
+
+×
+
+AEIC Bundle Vol I at p 204.
+
+and also referred to what “you [Mr Lynch] and Bill have stated”. 230
+
+##### Foot Note 230
+
+×
+
+AEIC Bundle Vol I at p 204.
+
+Mr Lee-Simion also said that he was ready to transfer his US$50,000 for the
+DataCore investment (which was to be placed in escrow with the Law Firm).
+Nowhere in this email was any reference made to Mr Dawkins. Neither was Mr
+Dawkins involved in the subsequent process by which Mr Lee-Simion parted with
+US$50,000 in relation to DataCore. 231
+
+##### Foot Note 231
+
+×
+
+Mr Lee-Simion’s AEIC at para 35; Transcript, 18 Mar, p 41 line 14.
+
+Therefore, in relation to Mr Lee-Simion, Mr Dawkins’ only involvement was the
+Boat Quay Bar Meeting.
+
+There is no significant similarity as to modus operandi, concerning Mr Dawkins
+
+247 The alleged evidence of Mr Dawkins’ cheating Mr Lee-Simion does not show
+any significant similarity as to modus operandi with what Mr Grendus alleges.
+
+248 First, unlike Mr Grendus who invested in DataCore and CorePlus, Mr Lee-
+Simion says he had never heard of CorePlus, nor was he ever introduced to
+CorePlus. 232
+
+##### Foot Note 232
+
+×
+
+Transcript,18 Mar, p 57 lines 9-11.
+
+249 Second, unlike Mr Grendus who decided to invest, Mr Lee-Simion says he
+only agreed to put monies into an escrow account – he had eventually decided
+not to invest. 233
+
+##### Foot Note 233
+
+×
+
+Transcript, 18 Mar, p 28 lines 23-29.
+
+One of the four representations Mr Lee-Simion says was made to him by Mr Lynch
+and Mr Dawkins is that any monies transferred would be placed in escrow with
+the Law Firm, and only released upon his instructions. 234
+
+##### Foot Note 234
+
+×
+
+Mr Lee-Simion’s AEIC at para 19(d).
+
+Mr Dale’s email of 22 June 2016 to Mr Lee-Simion had also asked for payment
+into an escrow account with the Law Firm (see [243(b)] above). Mr Grendus does
+not say this was represented to him, and there was no similar arrangement.
+
+250 Third, the centrepiece of Mr Grendus’ case against Mr Dawkins is that Mr
+Dawkins had allegedly represented that the Shanda Financing was “guaranteed”;
+Mr Lee-Simion had not heard of Shanda. 235
+
+##### Foot Note 235
+
+×
+
+Transcript, 18 Mar, p 55 lines 17-18.
+
+If there were a similar modus operandi, one would have expected the Shanda
+Financing to be mentioned to Mr Lee-Simion, but it was not.
+
+251 Fourth, Mr Lee-Simion says it was represented to him that DataCore was a
+fully functional and operationally profitable company with paying clients. 236
+
+##### Foot Note 236
+
+×
+
+Mr Lee-Simion’s AEIC at para 19(a).
+
+In Mr Dale’s email of 29 June 2016 to Mr Lee-Simion with Mr Lynch copied (see
+[243(c)] above), he said:
+
+Just wanted to confirm the following that we discussed yesterday. [DataCore]
+is a profitable company with SEC filings. I will send you the management
+accounts which show significant income from our clients. These clients are
+already using our indices.
+
+[emphasis added]
+
+252 This representation was not made to Mr Lee-Simion by Mr Dawkins, and it
+was also not a representation that Mr Grendus says was made to him. Instead,
+Mr Grendus received from Mr Lynch the Materials containing a Subscription
+Agreement on which he invested in DataCore while expressly agreeing he was
+aware that “the Company does not have a financial or operating history” (see
+[204] above). Mr Lee-Simion too signed a Subscription Agreement with the same
+statement. 237
+
+##### Foot Note 237
+
+×
+
+AEIC Bundle Vol II at p 513.
+
+253 Fifth, Mr Lee-Simion says it was represented to him that all the DataCore
+principals were independently wealthy and there was no need for an additional
+cash injection; the investment opportunity was a favour to him given his
+friendship with Mr Dawkins. 238
+
+##### Foot Note 238
+
+×
+
+Mr Lee-Simion’s AEIC at para 19(b).
+
+Mr Grendus does not say any such representation was made to him.
+
+254 Sixth, Mr Lee-Simion says it was represented to him that Mr Dale himself
+had invested US$100,000. Mr Grendus says it was represented to him that Mr
+Dale was a cash-contributing investor, but he does not say that any specific
+amount was told to him (see [125] above). Under cross-examination, Mr Lee-
+Simion agreed that Mr Dale had orally represented to him that he (Mr Dale) had
+made cash investments in DataCore. 239
+
+##### Foot Note 239
+
+×
+
+Transcript, 18 Mar, p 54 lines 31-32.
+
+Mr Lee-Simion added, “And so what you would expect from someone starting a
+company?”; but he did not then say that this was also represented to him by Mr
+Dawkins. I find that Mr Dawkins did not make that representation to Mr Lee-
+Simion.
+
+255 Sixth, Mr Lee-Simion says Mr Dawkins had said that he too would be
+personally investing US$100,000 into DataCore. 240
+
+##### Foot Note 240
+
+×
+
+Mr Lee-Simion’s AEIC at para 27.
+
+However, whether Mr Dawkins actually invested does not appear to have been
+significant in Mr Lee-Simion’s decision to transfer the US$50,000 as he did.
+Similarly, Mr Grendus said it was not important for Mr Dawkins to have
+invested in DataCore before he took the plunge and invested; he was content to
+have simply been told that Mr Dawkins would be investing. 241
+
+##### Foot Note 241
+
+×
+
+Transcript, 16 Mar, p 64 lines 12-17.
+
+As I noted above, Mr Grendus does not say this indication of interest by Mr
+Dawkins was itself an actionable representation; although he does refer to it
+in the context of the Shanda Financing being at triple DataCore’s then-current
+valuation (see [199] above) – and Shanda was never mentioned to Mr Lee-Simion.
+
+Mr Lee-Simion’s evidence ought properly to be excluded, and in any event is
+not accepted
+
+256 The prejudicial effect of Mr Lee-Simion’s evidence outweighs its probative
+value, and so even if it were admissible, I would have excluded it.
+
+257 I find Mr Lee-Simion’s evidence unreliable. Besides asserting that Mr
+Dawkins was copied in the 19 June 2016 Email (which Mr Dawkins was in fact not
+copied in), and saying that there were email communications from Mr Dawkins to
+him (when there were none), he seems to have attributed to Mr Dawkins the
+contents of emails that he had later received from Mr Lynch and Mr Dale (which
+Mr Dawkins was not copied in). He also seems to have drawn on emails between
+Mr Lynch and Mr Dale (discussed in the next section) to say that Mr Dawkins
+had told him certain things, which in fact Mr Dawkins had not said.
+
+258 Ultimately, even if Mr Lee-Simion’s evidence were admissible and not
+excluded, I believe Mr Dawkins’ version of events over Mr Lee-Simion’s.
+
+The emails between Mr Lynch and Mr Dale do not implicate Mr Dawkins
+
+259 Besides testifying to matters that might have been within their personal
+knowledge, Mr Grendus and Mr Lee-Simion also refer to emails between Mr Lynch
+and Mr Dale (but not Mr Dawkins), which they only later obtained copies of. Mr
+Grendus contends these emails show that Mr Lynch, Mr Dale and Mr Dawkins were
+in a conspiracy to defraud him and Mr Lee-Simion.
+
+260 There is a series of emails exchanged between Mr Lynch and Mr Dale on 3
+July 2016. At 6.45pm, Mr Lynch emailed Mr Dale to say: 242
+
+##### Foot Note 242
+
+×
+
+AEIC Bundle Vol I at p 207.
+
+Paul [Mr Lee-Simion] is chasing the SEC filings, client references and
+management account that show Datacore’s profitability … I can persuade him to
+transfer the money into escrow by repeating that he’ll get it back if he does
+not proceed. I’ll also have a word with Brett [Mr Dawkins].
+
+261 In his reply at 9.22pm, Mr Dale replied Mr Lynch and copied in Mr Douady,
+and the Law Firm that would receive Mr Lee-Simion’s US$50,000; but he did not
+copy in Mr Dawkins, and neither had Mr Lynch in his original email of 6.45pm.
+Mr Dale told Mr Lynch, “For now go with it. We may reconsider, Raphael [Mr
+Douady] and I personally need the money.” 243
+
+##### Foot Note 243
+
+×
+
+AEIC Bundle Vol I at p 207.
+
+262 Mr Dale then sent a further email at 11.31pm to Mr Lynch and Mr Douady
+(but, this time, not the Law Firm). 244
+
+##### Foot Note 244
+
+×
+
+AEIC Bundle Vol I at p 208.
+
+Again, Mr Dawkins was not a recipient. Mr Dale told Mr Lynch: “Get Brett [Mr
+Dawkins] to tell Paul [Mr Lee-Simion] that all the principals are
+independently wealthy and we will use his investment as leverage for further
+capital to onboard more clients. Paul’s money will therefore remain in
+escrow.”
+
+263 I accept Mr Dawkins’ evidence that although there were references to him
+in the 3 July 2016 emails between Mr Lynch and Mr Dale, Mr Lynch never
+followed up to ask him to tell Mr Lee-Simion anything; 245
+
+##### Foot Note 245
+
+×
+
+Transcript, 17 Mar, p 99 lines 14-16.
+
+and Mr Dawkins did not tell Mr Lee-Simion anything of the sort suggested in
+the emails: 246
+
+##### Foot Note 246
+
+×
+
+Transcript, 17 Mar, p 99 lines 28-31, p 100 lines 5-25.
+
+Mr Dawkins did not tell Mr Lee-Simion that his money would be held in escrow,
+or that DataCore’s principals were independently wealthy, or what his money
+would be used for.
+
+264 Indeed, Mr Lee-Simion’s evidence (which I reject) is that Mr Dawkins had
+already represented to him at the Boat Quay Bar Meeting with Mr Lynch that
+DataCore’s principals were independently wealthy, and that his money would be
+held in escrow (see [253] above). Had this been said pursuant to some
+conspiracy, one would expect Mr Dale to know, in which case he would not be
+asking Mr Lynch on 3 July 2016 to get Mr Dawkins to say these things. If Mr
+Dale did not know that had already been represented, one would expect a reply
+from Mr Lynch to Mr Dale’s final email on 3 July 2016 to apprise him of this –
+but there is no evidence of that.
+
+265 The fact that Mr Dawkins was not a recipient of any of these emails
+between Mr Lynch and Mr Dale points to Mr Dawkins not being a conspirator.
+There would have been no need for Mr Lynch to say he would have a word with Mr
+Dawkins, no need for Mr Dale to tell Mr Lynch to get Mr Dawkins to say certain
+things – either Mr Lynch or Mr Dale could simply have copied Mr Dawkins in
+those emails. After all, they both had Mr Dawkins’ email address – they had
+sent him emails previously (see, eg [29] and [43] above). Mr Dawkins was not
+put in the loop, because he was not part of what was discussed and agreed
+between Mr Lynch and Mr Dale. Instead, the only recipients Mr Dale added were
+Mr Douady, and for one of Mr Dale’s two emails, the Law Firm as well.
+
+266 Mr Dale’s 3 July 2016 email at 9.22pm about him and Mr Douady personally
+needing the money, says nothing about DataCore’s financial situation.
+Moreover, this was on 3 July 2016, after Mr Grendus had already invested on 24
+June 2016.
+
+267 Mr Grendus’ real grievance is not so much that DataCore was already in a
+poor financial state (if that were even the case), but rather that Mr Dale
+improperly took away investment monies received by DataCore. Thus, Mr Grendus
+says Mr Dale withdrew the funds injected by investors like him shortly after
+receipt without proper account; and that he believes that Mr Dale effectively
+ran DataCore and CorePlus as his personal bank account and misappropriated
+investor monies by deception for his personal pecuniary gain. 247
+
+##### Foot Note 247
+
+×
+
+Mr Grendus’ AEIC at para 112.
+
+268 Although Mr Dale is the one that Mr Grendus in his AEIC accuses of having
+withdrawn investor funds, Mr Grendus pleaded in his SOC that “once the funds
+are paid by the potential investor, they would be withdrawn by [Mr Dale]
+and/or [Mr Dawkins] shortly thereafter”. 248
+
+##### Foot Note 248
+
+×
+
+SOC at para 29.
+
+Curiously, Mr Grendus does not plead that Mr Lynch withdrew investor funds,
+although Mr Lynch was a representative of DataCore and Mr Dawkins was not.
+
+269 There was no basis for Mr Grendus to make that accusation against Mr
+Dawkins. When asked in cross-examination how Mr Dawkins could possibly have
+withdrawn investor funds from DataCore, Mr Grendus sought to explain his
+accusation against Mr Dawkins as “verbiage”, in this convoluted answer: 249
+
+##### Foot Note 249
+
+×
+
+Transcript, 16 Mar, p 28 lines 21-25.
+
+The verbiage is they would be withdrawn as it was indicated that they would
+either be paid out to [Mr Dawkins] and the term ‘and/or’ was used here. So in
+this particular case, the withdrawing of funds happened via [Mr Dale] who then
+paid [Mr Lynch] and potentially could have paid [Mr Dawkins] and did not.
+
+270 That answer is somewhat incomprehensible. If Mr Dale withdrew money and
+could have paid Mr Dawkins but did not, that is no basis to say there was a
+conspiracy that Mr Dale and/or Mr Dawkins would withdraw investor funds. Mr
+Dawkins was just a recruiter for DataCore – he had no means to withdraw any
+funds from DataCore.
+
+271 Mr Dawkins was not part of any conspiracy to defraud. As Mr Dawkins’ email
+to Mr Lynch from the April 2016 Email Exchange shows, Mr Dawkins himself was
+interested to invest in DataCore (see [37] above). He did not know that
+DataCore and CorePlus were just a scheme to defraud investors (if that were
+the case). If Mr Grendus is right about that scheme, had Mr Dawkins invested,
+he would have found himself in the same boat as Mr Grendus. The fact that Mr
+Dawkins proceeded to lend S$10,000 to Mr Lynch in June 2017 (see [191] above)
+(which was never repaid, with Mr Lynch then going bankrupt) is a further
+indication that, even until then (more than a year after the 24 May 2016
+Meeting), Mr Dawkins did not think that Mr Lynch was a fraudster cheating
+people of their money.
+
+272 Mr Grendus’ claim in conspiracy fails, and with it, all of Mr Grendus’
+claims against Mr Dawkins.
+
+Vicarious liability
+
+273 As I find Mr Dawkins not liable to Mr Grendus in any way, it follows that
+there is no vicarious liability on the part of Aryan Search.
+
+274 In any event, I accept Aryan Search’s contention that even if Mr Dawkins
+were liable in some way, Aryan Search should not be held vicariously liable.
+
+275 In Ng Huat Seng and another v Munib Mohammad Madni and another [2017] 2
+SLR 1074, the Court of Appeal indicated that even if there were an employment
+or equivalent relationship, a second stage consideration is whether there is a
+sufficient connection between the relationship on the one hand, and the
+commission of the tort on the other – that relationship must have created or
+significantly enhanced, the very risk of the tort being committed (see [44]
+and [67]).
+
+276 In the present case, there was an employment relationship between Aryan
+Search and Mr Dawkins. But Mr Dawkins was employed as a recruiter, he was not
+employed to solicit investments. Mr Dawkins says that as part of his job, or
+incidental to it, he would make introductions that could lead to investments –
+as he did with Shanda, Mr Grendus, and Mr Lee-Simion; he saw that as part of
+networking, providing value to clients and potential clients. In that regard,
+he told Mr Grendus that DataCore was looking for investors, and he also
+mentioned that he had introduced Shanda for DataCore’s Financing.
+
+277 But those introductions are not what Mr Grendus is suing about. Mr
+Grendus’ case is centred on a discussion with Mr Dawkins at a cigar bar, when
+they were no longer talking about job opportunities, but only investment. He
+does not say he was continuing to interact with Mr Dawkins because he was a
+recruiter. Indeed, Mr Grendus’ evidence is that he only agreed to meet Mr
+Dawkins because he heard that DataCore was looking for investors. 250
+
+##### Foot Note 250
+
+×
+
+Mr Grendus’ AEIC at para 15.
+
+278 Aryan Search’s employment of Mr Dawkins as a recruiter did not create or
+significantly enhance the risk of Mr Dawkins committing the torts that Mr
+Grendus accuses him of. It would not be fair, just, and reasonable to impose
+liability on Aryan Search for the conduct complained of.
+
+Relief claimed
+
+279 In his SOC, Mr Grendus claimed a declaration that the DataCore
+Subscription and the CorePlus Debenture have been validly rescinded;
+alternatively, rescission of the DataCore Subscription and the CorePlus
+Debenture. These are properly matters as between Mr Grendus, on the one hand,
+and DataCore and CorePlus on the other hand. Neither DataCore nor CorePlus
+were parties to these proceedings, and in the circumstances, I make no orders
+on those prayers for relief.
+
+280 Mr Grendus then claimed, jointly and severally against each of the four
+defendants:
+
+(a) the sum of US$200,000;
+
+(b) damages;
+
+(c) interest at the rate of 12% per annum or such other rate as ordered by the
+Court;
+
+(d) costs; and
+
+(e) further or other relief.
+
+281 I dismiss all of Mr Grendus’ claims against Mr Dawkins and Aryan Search.
+
+282 I would add that Mr Grendus’ claim for interest at the rate of 12% per
+annum was based on the return he was to receive from the CorePlus Debenture.
+He did not, however, prove that he would have obtained a return of 12% per
+annum had he instead put his US$200,000 to some other use. If I had found him
+entitled to any sum, I would not have awarded him interest at 12% per annum,
+but only at the usual rate of 5.33% per annum. But I have found that he is not
+entitled to recover anything from Mr Dawkins or Aryan Search.
+
+283 In any event, the effective interest rate under the CorePlus Debenture was
+not 12% per annum – there was an interest-free period from 24 June 2016 (when
+Mr Grendus made the Investments) until but not including 8 September 2016, and
+interest only ran from 8 September 2016 till maturity on 8 June 2017. 251
+
+##### Foot Note 251
+
+×
+
+Clauses 3.1 and 3.2 of the CorePlus Debenture in AEIC Bundle Vol II at pp
+422-424.
+
+The effective interest rate under the CorePlus Debenture was thus some 9.39%
+per annum, not 12% per annum.
+
+Conclusion
+
+284 For the above reasons, I dismiss Mr Grendus’ claim against Mr Dawkins and
+Aryan Search. I will hear the parties on costs.
+
+Andre Maniam  
+Judicial Commissioner| |   
+---|---|---  
+  
+Ramachandran Doraisamy Raghunath, Gerard Quek, Mato Kotwani
+
+(PD Legal LLC) for the plaintiff;
+
+Roche Eng Keng Loon (R E Law LLC) for the second defendant;
+
+Noor Mohamed Marican, Mohd Munir Marican
+
+(Marican & Associates) for the fourth defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 17 Aug 2021 (10:33 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

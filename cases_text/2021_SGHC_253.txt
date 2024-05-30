@@ -1,0 +1,980 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2021] SGHC 253
+
+Suit No 176 of 2019
+
+Between
+
+| Urs Eller  
+---|---  
+|  
+  
+… Plaintiff
+
+And
+
+| Cheong Kiat Wah  
+---|---  
+|  
+  
+… Defendant
+
+judgmenT
+
+[Trusts] — [Breach of trust] — [Remedies]
+
+[Evidence] — [Admissibility of evidence] — [Hearsay] — [Section 32(1)(j)(iv)
+of the Evidence Act (Cap 97, 1997 Rev Ed)]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Eller, Urs
+
+  
+v
+
+  
+
+Cheong Kiat Wah
+
+[2021] SGHC 253
+
+General Division of the High Court — Suit No 176 of 2019  
+Philip Jeyaretnam J  
+24–26 August, 24 September 2021
+
+10 November 2021 Judgment reserved.
+
+Philip Jeyaretnam J:
+
+Introduction
+
+1 The plaintiff and defendant both invested equally in a Malaysian company
+that was to take over distribution of a line of hearing aids manufactured by
+the principal for whose corporate group they had worked. Of the company’s 100
+shares, the defendant held 50 as express trustee for the plaintiff pursuant to
+a trust deed. It follows that the defendant was obliged to exercise the voting
+rights attached to those shares in accordance with the plaintiff’s
+instructions, but in addition the trust deed recorded the defendant’s express
+promise that he would on certain reserved matters including any increase in
+share capital exercise his rights, including those attached to other shares in
+the company beneficially owned by him, “in agreement with the instructions of
+the” plaintiff.
+
+2 Without the plaintiff’s knowledge, the defendant issued 350,000 additional
+shares to himself, turning the plaintiff from a 50% shareholder into a 0.0143%
+shareholder only.
+
+3 The trial judge held that the plaintiff succeeded on the issue of liability
+but not on the issue of quantum as claimed. He ordered that a separate
+assessment be held to ascertain the quantum of compensatory relief (if any)
+payable by the defendant to the plaintiff: see Eller, Urs v Cheong Kiat Wah
+[2020] SGHC 106 at [3].
+
+4 The trial judge (whom, for sake of clarity, I will refer to as the liability
+trial judge) framed the issue for assessment of damages as follows:
+
+134 The plaintiff submits that his loss must be calculated “on the basis of
+what [his] 50% beneficial shareholding in the Company should be worth”, as the
+defendant has deprived him of the same by diluting his shareholding in breach
+of the Trust Deed.
+
+135 I disagree with the plaintiff’s proposed measure of loss. The purpose of a
+reparative remedy is to compensate the plaintiff for the losses he would not
+have suffered had the breach of trust not taken place. Consequently, I agree
+with the defendant that the plaintiff’s loss should instead be equivalent to:
+
+(a) the value that the plaintiff’s beneficially-owned 50 shares in the Company
+would have been had the Share Issuance not occurred (“Value A”); less
+
+(b) the current value of the 50 shares in the Company which are beneficially
+owned by the plaintiff (“Value B”).
+
+If Value B is higher than Value A, the plaintiff cannot be said to have
+suffered any loss and therefore would not be entitled to any form of
+compensatory relief for the defendant’s breach.
+
+5 The liability trial judge contemplated assessment by the registrar, but, in
+view of the amount claimed, the assessment was fixed before me. I will adopt
+the abbreviations used by the liability trial judge.
+
+Findings of the liability trial judge
+
+6 The plaintiff, a Swiss national, and the defendant, a Malaysian citizen,
+first met each other in mid-2011. During this time, the plaintiff was employed
+by Sonova Holding AG (“Sonova”), a Switzerland-incorporated company which
+specialises in manufacturing and distributing hearing aid devices. 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Evidence-in-Chief (“AEIC”) of Urs Eller, dated 16 September 2019,
+at p 2, para 3; Notes of Evidence (“NE”), 11 November 2019, p 4, ln 19.
+
+The defendant was employed by Phonak Singapore Pte Ltd (“Phonak”), Sonova’s
+Singapore-incorporated subsidiary. 2
+
+##### Foot Note 2
+
+×
+
+AEIC of Cheong Kiat Wah, dated 17 September 2019, at pp 1–2, para 3; AEIC of
+Urs Eller, dated 16 September 2019, at p 4, para 17.
+
+The defendant managed Sonova’s Malaysian sales and reported directly to the
+plaintiff, who was one of Sonova’s regional managers. 3
+
+##### Foot Note 3
+
+×
+
+AEIC of Urs Eller, dated 16 September 2019, at p 2, para 4.
+
+7 In or around April 2014, the defendant decided, on the advice of Sonova’s
+headquarters, to incorporate a company in Malaysia to take over the
+distribution of Sonova’s products in the Malaysian region. 4
+
+##### Foot Note 4
+
+×
+
+AEIC of Cheong Kiat Wah, dated 17 September 2019, at p 2, para 4.
+
+The defendant began to explore how to finance this company as he knew that its
+start-up costs would be substantial.
+
+8 The plaintiff wished to invest in the defendant’s company. After discussion,
+both parties agreed that they would each invest RM 350,000 in the company as
+start-up capital. 5
+
+##### Foot Note 5
+
+×
+
+AEIC of Urs Eller, dated 16 September 2019, at p 5, para 21; AEIC of Cheong
+Kiat Wah, dated 17 September 2019, at pp 2–3, para 7.
+
+Based on this agreement, the defendant proceeded to register Swiss Medicare
+Sdn Bhd (“the Company”) on 19 September 2014. 6
+
+##### Foot Note 6
+
+×
+
+AEIC of Urs Eller, dated 16 September 2019, at p 4, para 17.
+
+The Company had 100 shares at the time of its incorporation, which were
+allotted as follows: 7
+
+##### Foot Note 7
+
+×
+
+AEIC of Urs Eller, dated 16 September 2019, at p 4, para 18.
+
+(a) 80 shares to the defendant;
+
+(b) ten shares to the defendant’s wife, Ms Tan Poh Guan; and
+
+(c) ten shares to the defendant’s mother, Ms Tan Kim Siew.
+
+9 Subsequently, the parties separately consulted their solicitors on the
+possible ways in which they could formalise their joint investment in the
+Company. In or around early November 2014, the defendant instructed his
+solicitors, to draft a partnership agreement (“the Proposed Partnership
+Agreement”), which was presented to the plaintiff for his consideration. Among
+other things, the terms of the Proposed Partnership Agreement provided that
+the plaintiff and the defendant would each hold 350,000 shares in the Company.
+8
+
+##### Foot Note 8
+
+×
+
+Agreed Bundle of Documents, Vol 2 (“2LAB”), at p 385, cl 2.1.
+
+10 At that time, the plaintiff owed a contractual non-compete duty to Sonova
+which prohibited him from, among other things, directly holding shares in the
+Company until end-2015. 9
+
+##### Foot Note 9
+
+×
+
+AEIC of Urs Eller, dated 16 September 2019, at p 11, paras 32–33; NE, 11
+November 2019, p 13, ln 22.
+
+Consequently, the plaintiff did not accept the Proposed Partnership Agreement.
+Instead, he proposed an alternative arrangement with the defendant holding 50
+of the Company’s 100 issued shares on trust for the plaintiff. 10
+
+##### Foot Note 10
+
+×
+
+AEIC of Urs Eller, dated 16 September 2019, at p 11, para 35.
+
+The plaintiff would then lend a sum of RM 350,000 to the defendant in his
+personal capacity. 11
+
+##### Foot Note 11
+
+×
+
+AEIC of Urs Eller, dated 16 September 2019, at p 11, para 37.
+
+It was mutually understood that the parties would use the loan to further the
+Company’s business.
+
+11 The defendant agreed to the plaintiff’s proposal. Accordingly, the parties
+executed a loan agreement (“the Loan Agreement”) for a sum of RM 350,000 (“the
+Loan Sum”), as well as a trust deed (“the Trust Deed”), dated 29 November 2014
+and 30 November 2014 respectively. 12
+
+##### Foot Note 12
+
+×
+
+AEIC of Urs Eller, dated 16 September 2019, at p 13, para 50 and p 14, para
+52.
+
+12 The Trust Deed created an express trust in favour of the plaintiff. Among
+its terms were the following: 13
+
+##### Foot Note 13
+
+×
+
+2LAB, at pp 510–511.
+
+1\. DECLARATION OF TRUST
+
+The Nominee declares that he:
+
+(a) holds 50 ordinary shares in the Company (the “Shares”) as nominee and on
+trust for the Beneficial Owner; and
+
+(b) has no beneficial interest in the Shares.
+
+…
+
+3\. DIRECTORSHIP
+
+…
+
+3.3 The Nominee shall, in relation to the Reserved Matters, exercise his
+rights as the legal and beneficial shareholder of the ordinary shares in the
+Company in agreement with the instructions of the Beneficial Owner.
+
+3.4 For the purposes of this clause 3, “Reserved Matters” shall mean:
+
+…
+
+(b) Increase the amount of the Company’s issued share capital [except as
+provided in this agreement], granting any option or other interest (in the
+form of convertible securities or in any other form) over or in its share
+capital, redeeming or purchasing any of its own shares or effecting any other
+reorganisation of its share capital, including and not being limited to the
+transfer of the legal and/or beneficial interests in the shares of the Company
+held in the Nominee’s name from the Nominee to any other person, including
+existing shareholders;
+
+…
+
+[emphasis added]
+
+13 Shortly after receiving the Loan Sum from the plaintiff, the defendant
+caused the Company to allot an additional 350,000 shares to himself through an
+ordinary resolution dated 15 January 2015 (“the Share Issuance”). 14
+
+##### Foot Note 14
+
+×
+
+AEIC of Urs Eller, dated 16 September 2019, at p 17, para 67; AEIC of Cheong
+Kiat Wah, dated 17 September 2019, at p 7, para 28.
+
+Consequently, the Company’s share capital was increased from 100 shares to
+350,100 shares.
+
+14 The liability trial judge held, at [69] and [70], that the plaintiff only
+learned of the Share Issuance about 13 months later. In coming to this
+conclusion, he specifically rejected, at [60], the defendant’s claim to have
+told the plaintiff about his intention in December 2014, before the Share
+Issuance. Accordingly, it was unauthorised, and the defendant had committed a
+breach of Clause 3.3 read with Clause 3.4(b) of the Trust Deed. He went on to
+consider and reject the defendant’s defences of unclean hands, laches,
+acquiescence, estoppel and waiver.
+
+15 The liability trial judge, at [54] made no finding on the question of
+whether both parties intended that the plaintiff would hold a 50% share as
+opposed to 50 shares, because in his view this question only affected the
+quantum of relief and not liability. This question thus remains for me to
+answer.
+
+16 When the liability trial judge turned to remedies, he considered, at [121],
+that the plaintiff had conflated the substitutive remedy of falsification with
+the reparative remedy of equitable compensation. The liability trial judge
+held at [132]–[133] that the defendant owed a non-custodial duty not to issue
+the additional shares (without the plaintiff’s agreement) and so would be
+liable to pay equitable compensation if this breach caused a fall in the value
+of the trust assets (the 50 shares beneficially owned by the plaintiff).
+
+17 On this basis, it was important that the plaintiff prove that the Company
+would have been able to find potential purchasers such as hospitals and
+medical centres if its share capital had not been increased from RM 100 to RM
+350,100.
+
+18 The liability trial judge decided, at [144], that it would be fair and just
+to give the plaintiff the opportunity to prove this in a separate assessment,
+rather than proceeding to give only a declaratory judgment in his favour.
+
+19 A trustee is the steward of the property entrusted to him, with a custodial
+stewardship duty not to misuse or misapply that property as well as a
+management stewardship duty to administer the property in accordance with his
+equitable duties. A share in a company is a chose in action that carries with
+it the right to vote in general meetings in accordance with the statutory
+contract that is the articles of association. The unauthorised exercise by a
+trustee of voting rights attached to shares held on trust for a beneficiary in
+order to cause the company to issue shares to the trustee with the immediate
+intended result of turning the trustee into the majority owner of the company
+is in substance the trustee treating the trust property as his own. Such
+unauthorised use of trust property mandates potential options of restorative
+or substitutive remedies to return the beneficiary to the position he was in
+before the misuse occurred, or, as ordered by the liability trial judge, a
+reparative remedy to compensate him for the difference between the position he
+is in today and the position he would have been in if the breach of trust had
+not occurred. In this case, the position of the plaintiff prior to the misuse
+of the voting rights was that of a 50% shareholder of the Company, entitled to
+50% of its profits via the declaration of dividends. Moreover, by virtue of
+his having 50% of the Company, the plaintiff could block even an ordinary
+resolution, such as that required to issue additional shares. The trustee’s
+surreptitious and unauthorised misuse of the voting rights in the shares
+circumvented the beneficiary’s veto.
+
+20 I proceed to assess equitable compensation in accordance with the issue
+framed by the liability trial judge and reproduced at [4] above.
+
+The plaintiff’s case
+
+21 The plaintiff’s case is that it was always understood and agreed that he
+and the defendant would be equal shareholders in the Company. The Trust Deed
+restricted the defendant from altering the proportion of shareholding without
+the plaintiff’s consent, and so it follows that unless and until the plaintiff
+agreed to a change, they would be equal shareholders. 15
+
+##### Foot Note 15
+
+×
+
+Plaintiff’s closing submissions, dated 23 September 2021, paras 58–59.
+
+The plaintiff buttressed this point by reference to the defendant’s own
+evidence at the trial on liability that he treated the plaintiff “equally” as
+a shareholder. 16
+
+##### Foot Note 16
+
+×
+
+NE, 13 September 2019, p 100, ln 7–10.
+
+22 The plaintiff contended that if the defendant had told him that it was
+necessary or desirable to increase the share capital then this could have been
+done without diluting him, given that he had lent RM 350,000 to the Company.
+Leaving aside whether their financial contributions were classed as equity or
+debt, the plaintiff and defendant each provided the same amount of funds to
+the Company, namely RM 350,000 each. 17
+
+##### Foot Note 17
+
+×
+
+AEIC of Urs Eller, dated 16 September 2019, p 5, para 21; AEIC of Cheong Kiat
+Wah, dated 17 September 2019, at p 3, paras 10–11; Eller, Urs v Cheong Kiat
+Wah [2020] SGHC 106 at [8].
+
+23 The plaintiff also contended that in any case the amount of share capital
+was not material to the value of the Company, contrary to the defendant’s
+allegation. First, the plaintiff pointed out that Maybank granted credit
+facilities to the Company based on personal guarantees from him and the
+defendant. 18
+
+##### Foot Note 18
+
+×
+
+Plaintiff’s closing submissions, dated 23 September 2021, paras 81 and 85.
+
+The fact that an applicant has to fill in the amount of share capital in a
+bank’s due diligence checklist does not mean credit facilities would not have
+been granted even if the Company had kept its share capital at RM 100. The
+plaintiff relied on the defendant’s admission that nothing in the documents
+relating to the credit facilities showed any requirement of minimum share
+capital. 19
+
+##### Foot Note 19
+
+×
+
+Plaintiff’s closing submissions, dated 23 September 2021, para 76.
+
+24 Secondly, turning to suppliers, the plaintiff pointed out that the most
+important part of its business was the exclusive distributorship under its
+agreement with Phonak for the territories of Malaysia and Brunei on 22
+September 2014 for a fixed term of four years from 1 December 2014 to 31 March
+2019. 20
+
+##### Foot Note 20
+
+×
+
+Plaintiff’s closing submissions, dated 23 September 2021, paras 87–92.
+
+This was put in place before the Share Issuance (which was resolved upon on 15
+January 2015) when the share capital was only RM 100.
+
+25 Thirdly, and in general, the plaintiff pointed out that there was no
+evidence from any bank, supplier, service provider or customer (including
+government hospitals and medical centres) that they required any particular
+level of share capital for the Company, other than a testimonial from one
+customer, and so the defendant’s allegation that the Company would be worth
+much less with a lower share capital was merely speculative.
+
+26 Fourthly, the plaintiff pointed out the specific nature of the Company’s
+business, which was not capital intensive. The Company is simply a
+distributor. He noted that the warranties on the products distributed are
+performed by the principal. 21
+
+##### Foot Note 21
+
+×
+
+Plaintiff’s closing submissions, dated 23 September 2021, para 128.
+
+27 The plaintiff called Mr Aditya Gupta (“Mr Gupta”) as its expert valuer. In
+his report dated 21 January 2021, he adopted 31 October 2020 as the date for
+valuation, but principally relied on Company’s audited financial statements
+for financial year 2018 (“FY2018”). These were the latest financial statements
+made available to him. He compared a valuation of 50% equity interest on a
+significant influence basis with the valuation of a 0.0143% equity interest on
+a minority interest basis using a market approach cross-checked against an
+income approach. For the market approach he referred to listed public
+companies in a comparable industry from whose publicly traded market value and
+publicly available accounts he could derive an EV/EBITDA multiple. EV stands
+for enterprise value which means the market value of the company as a whole.
+EBITDA stands for earnings before interest, tax, depreciation and
+amortisation. He described this as the Guideline Public Company or GPC method.
+
+28 For the income approach that he used by way of cross check, Mr Gupta
+adopted the discounted cash flow or DCF method, referring to the free cash
+flow to firm, being the cash flows left over after covering capital
+expenditure and working capital needs, and then discounting that to present
+value. This required him to make supportable cash flow forecasts, which he
+based on financial projections, to estimate the terminal value at the end of
+the forecast period and then apply an appropriate discount rate.
+
+29 Using the GPC method, Mr Gupta arrived at the value of a 100% equity
+interest in the Company on a significant influence basis as ranging from RM
+6,953,081 to RM 7,355,972 and on a minority interest basis as ranging from RM
+6,782,383 to RM 7,148,647.
+
+30 Under the DCF cross check, Mr Gupta arrived at lower values, which he
+ascribed to the impact of the COVID-19 pandemic incorporated in the projected
+FY2020 earnings. 22
+
+##### Foot Note 22
+
+×
+
+AEIC of Aditya Gupta, p 16.
+
+The value under the DCF method of a 100% equity interest in the Company was,
+on a significant influence basis a range from RM 5,798,591 to RM 6,055,686 and
+on a minority interest basis a range from RM 5,491,545 to RM 5,705,790.
+
+31 Mr Gupta did not average the values arrived at by the two methods or
+otherwise moderate the figures arrived at by the GPC method. He took the GPC
+method as having been validated by the cross-check and so put the economic
+loss at between RM 3,475, 572 and RM 3,676,965.
+
+32 On this basis the plaintiff submits that it has established a loss of RM
+3.5–3.7 million and seeks an award of RM 3.7 million. 23
+
+##### Foot Note 23
+
+×
+
+Plaintiff’s closing submissions, dated 23 September 2021, paras 205 and 207.
+
+The defendant’s case
+
+33 The defendant’s case is that in assessing quantum (based on the formula
+that it proposed and which was accepted by the liability trial judge) the
+court should find that in the absence of the increase in share capital the
+Company would not be what it is today, as it would not have been able to
+secure business from medical centres or hospitals, nor participate in
+government tenders. 24
+
+##### Foot Note 24
+
+×
+
+Defendant’s closing submissions, dated 23 September 2021, paras 37.11–37.12.
+
+34 The defendant also contended that the plaintiff’s evidence that, if asked,
+he would have agreed to an increase in share capital so long as he continued
+to beneficially own 50% of the Company should be rejected as a convenient and
+self-serving declaration. 25
+
+##### Foot Note 25
+
+×
+
+Defendant’s closing submissions, dated 23 September 2021, paras 82–86.
+
+35 Accordingly, Value B should be ascertained based on the Company’s current
+success, while Value A would have to assume that the Company’s business would
+have been severely impaired by having a low share capital.
+
+36 The defendant also argued that the date for valuation should be the end of
+FY2018. The main contention in support of this date was an evidentiary one,
+that the Company’s audited financial reports for FY2018 were the latest ones
+provided to the experts. 26
+
+##### Foot Note 26
+
+×
+
+Defendant’s closing submissions dated 23 September 2021, paras 101–103.
+
+37 On this basis, while noting that the court does not necessarily have to
+choose either expert’s evidence, 27
+
+##### Foot Note 27
+
+×
+
+Defendant’s closing submissions dated 23 September 2021, para 112.
+
+the defendant contended that his expert’s evidence was more reliable. 28
+
+##### Foot Note 28
+
+×
+
+Defendant’s closing submissions dated 23 September 2021, para 122.
+
+38 The defendant’s expert was Mr Arul Gunendran (“Mr Arul”). He considered
+three possible approaches, namely an assets-based approach, a market approach
+and an income approach. He opined that the income approach was the most
+reliable in the circumstances of the Company. He adopted what he described as
+the Price Earnings (“PE”) ratio method for this purpose. He referred to
+certain Malaysian private companies as comparables for the purpose of
+calculating an appropriate PE ratio to apply to the Company. He used the past
+year earnings of the Company, but when considering Value A he discounted those
+earnings on the basis that certain sales would not have been achieved if the
+Share Issuance had not happened. He assumed that without the increased share
+capital, the Company would not have achieved those sales. 29
+
+##### Foot Note 29
+
+×
+
+AEIC of Arul Gunendran, p 10.
+
+39 Ultimately, he concluded that Value A was negative, and therefore the
+plaintiff was not entitled to any compensatory relief. 30
+
+##### Foot Note 30
+
+×
+
+AEIC of Arul Gunendran, pp 40–41.
+
+Issues to be determined
+
+40 There are three issues for me to determine:
+
+(a) whether the plaintiff and defendant both intended that the plaintiff
+should be a 50% shareholder;
+
+(b) whether, if not for the Share Issuance, the Company would have achieved
+its current level of sales; and
+
+(c) what Values A and B should be.
+
+Issue 1: Plaintiff as 50% shareholder
+
+41 In my view, this issue can be very simply dealt with. When a party agrees
+that no new shares will be issued without the consent of the other, this must
+reflect an intention that the other’s percentage shareholding will remain the
+same, unless and until agreed otherwise. Here, the defendant declared a trust
+over 50 of the 80 shares held in his name in favour of the plaintiff and
+promised that he would not increase the share capital without the plaintiff’s
+agreement. It is straight-forward that unless and until the plaintiff agreed
+to a change in his percentage of the shareholding he would beneficially own
+50% of the Company, namely 50 out of the 100 issued shares.
+
+42 This conclusion is all the more compelling given that regardless of what
+was in the Trust Deed, the Company’s share capital could only be increased if
+51 of the 100 shares were voted in favour of an increase. In other words,
+without the vote of at least one of the plaintiff’s 50 shares, it was not
+possible to increase the share capital anyway. The plaintiff’s beneficial
+ownership of 50% of the Company thus gave him the power to block any increase
+in share capital. Even without the express language of the Trust Deed, a
+trustee of shares must vote in accordance with any directions of the
+beneficiary or beneficiaries: see Butt v Kelson [1952] 1 Ch 197, per Romer LJ
+at 207. Romer LJ considered that:
+
+…the beneficiaries are entitled to be treated as though they were the
+registered shareholders in respect of trust shares… and can compel the trustee
+directors if necessary to use their votes as the beneficiaries… think proper…
+
+43 This also means that a trustee of shares in a company should certainly
+inform the beneficiary or beneficiaries of upcoming shareholders’ meetings and
+proposed resolutions, in order that he may obtain their directions, when the
+trustee has an interest in the subject matter of such resolution that may
+conflict with the interests of the beneficiary or beneficiaries. Moreover, in
+this case, the terms of the Trust Deed made clear the defendant had no
+discretion in relation to the exercise of the voting rights attached to the 50
+shares he held on trust for the plaintiff when it came to the issuance of new
+shares in the Company.
+
+44 For completeness, I should also add that there is other evidence apart from
+the Trust Deed that clearly shows that the intention was always one of equal
+shareholding. For example, in an email of 15 September 2016, 31
+
+##### Foot Note 31
+
+×
+
+2LAB, at p 766.
+
+the defendant described himself and the plaintiff as equal shareholders. He
+wrote: “As equal ownership shareholder of [Swiss Medicare Sdn Bhd] – I hope to
+see more fairness between both of us.” Equality of shareholding also
+underpinned clauses 2.1 and 2.2 of the Proposed Partnership Agreement that was
+circulated prior to the Trust Deed but not executed. 32
+
+##### Foot Note 32
+
+×
+
+2LAB, at p 385.
+
+45 Accordingly, I find and hold that the parties always intended the plaintiff
+to be a 50% shareholder and not merely the beneficial owner of 50 shares
+regardless of the total number of shares issued from time to time. Of course,
+such intention was subject to later variation by agreement, which in itself
+presupposes that the defendant would first inform the plaintiff and seek his
+agreement before causing any share issuance that would change the plaintiff’s
+proportion. Moreover, it presupposes that the defendant would not proceed
+without the plaintiff’s knowledge and agreement.
+
+Issue 2: Level of sales if the Share Issuance had not happened
+
+46 This question is also quite simple to answer. The first point to make is
+that if the defendant genuinely believed that the Company needed additional
+share capital to be successful or more successful, he would have raised it
+with the plaintiff. He never did so, and instead surreptitiously issued
+additional shares to himself. This in itself supports the conclusion that he
+caused the Share Issuance because he wanted to own (virtually all) of the
+Company rather than because he considered that the Company needed additional
+share capital to secure customers or otherwise aid the Company’s business
+prospects.
+
+47 The defendant also did not adduce evidence of even one instance of a
+supplier or customer insisting on a higher share capital prior to the Share
+Issuance. By contrast, the plaintiff pointed out that, with the original share
+capital, the Company was able to take on the 18 customers that Sonova migrated
+to it. It was also able to secure the exclusive distributorship of the hearing
+aid products.
+
+48 The closest the defendant came to a third party’s expression of concern
+about the Company’s share capital was an out-of-court statement 33
+
+##### Foot Note 33
+
+×
+
+AEIC of Cheong Kiat Wah, dated 9 April 2021, at pp 785–786.
+
+from one Woo Wan Kui. Mr Woo describes himself as the managing director of
+Hearlife Centre Sdn Bhd and says that his company “views seriously the
+supplier’s financial health and adequate capital setup… We would have no
+confidence in working with any supplier that do not show enough financial
+strength, for example a ‘RM2’ company or companies with very low paid up
+capital which may imply or have risk of their short existence in the market”.
+
+49 In seeking the admission of this statement despite Mr Woo’s not being
+called as a witness and so not being subject to cross-examination, the
+defendant relies on Evidence Act (Cap 97, 1997 Rev Ed) (“Evidence Act”) s
+32(1)(j)(iv), which provides that the statement of a person who is competent
+to give evidence but not compellable to do so, and who refuses to give
+evidence, is a relevant fact. Mr Woo is a Malaysian residing in Malaysia and
+so not compellable to give evidence. The defendant also testified that he had
+invited Mr Woo to give evidence but he had declined to do so. 34
+
+##### Foot Note 34
+
+×
+
+AEIC of Cheong Kiat Wah, dated 9 April 2021, at p 18, para 46.
+
+50 Ordinarily, a party should adduce correspondence with such a potential
+witness so as to clearly establish the refusal to give evidence and the
+reasons for that refusal. Nonetheless, I am prepared to admit this document,
+which has been referred to as the Hearlife Testimonial. However, I am unable
+to give it much weight because, in the absence of cross-examination, it
+remains vague. It does not, for example, say that Hearlife would not have used
+the Company as a supplier if the Share Issuance had not taken place, let alone
+provide cogent reasons why Hearlife would not have done so. All it does is
+express the truism that a businessman would only have confidence in working
+with a supplier that has adequate financial strength. This begs the question
+of what adequate financial strength was for a mere distributor such as the
+Company, as well as whether, for example, such financial strength can be shown
+by shareholders’ loans rather than shareholders’ equity.
+
+51 I also find that the Company’s business was not a capital-intensive one,
+and accept that the warranties on the products were to be performed by the
+principal and not by the distributor.
+
+52 For completeness, I also find that if the defendant had convinced the
+plaintiff of the need for an increase in share capital, this would have
+happened on the basis of the plaintiff remaining the 50% shareholder of the
+Company. The contention of the defendant that the plaintiff would not have had
+the funds to subscribe for additional shares is belied by the fact that the
+plaintiff was owed RM 350,000 by the Company. Half of that could have been
+converted into equity, with the other half of the increase coming from the
+defendant.
+
+Issue 3: Values A and B
+
+53 It follows from my decision on the first two issues that there is no reason
+to assess Value A on the basis that the Company would have prospered to a
+lesser degree had the Share Issuance not taken place. I find that the increase
+in share capital had no bearing on the overall sales achieved by the Company.
+
+54 Turning to Mr Arul’s evidence first, I derived no assistance from it at
+all. His evidence was illogical and unsupported. Plaintiff’s counsel began his
+cross-examination by pointing out that Mr Arul had very little experience in
+valuation. I agree that his experience in valuation is thin to say the least,
+but of much more concern to me was the quality of his evidence.
+
+55 Mr Arul adopted the PE ratio method. PE is calculated by dividing share
+price by earnings per share. He chose private companies in Malaysia as
+comparables from which he wished to derive an appropriate PE ratio to apply to
+the Company’s earnings so as to calculate a price for the Company. This posed
+problems for both the P (price) and the E (earnings) components. For
+determining any comparable private company’s earnings, the quality and
+quantity of accounting information available were necessarily constrained, as
+compared to using public listed companies as comparable companies. But he was
+also unable to determine in any objective way the market value of any of these
+comparable private companies because he did not have any information of the
+price at which their shares might be bought and sold. He did not attempt to
+establish their market value. Instead, he assumed that the value of each
+comparable private company was the same as its share capital, taking par value
+as the market value for its issued shares. Thus, if a company had 100 shares
+of par value RM 1, its value was taken to be RM 100. Whether it had average
+annual earnings of RM 100, RM 1,000 or RM 10,000, its value and price per
+share would be taken to remain the same. What would change would be the PE
+ratio of that assumed share price to its earnings per share: if it earned RM
+100 per year its PE ratio would be 1, if RM 1,000, then 0.1 and if RM 10,000
+then 0.01. This is obviously illogical. In fact, all else being equal, if a
+private company had higher earnings its value would go up and the price that
+potential buyers might offer for its shares would also go up, because they
+would consider the company’s past performance relevant to its likely
+prospective performance following their purchase of it. His method treated the
+value of each company as remaining the same regardless of its performance. Mr
+Arul had no response when I pointed out to him this illogicality. 35
+
+##### Foot Note 35
+
+×
+
+NE, 26 August 2021, pp 62–64.
+
+56 For completeness, I add that I do not hold against Mr Arul his initial
+mistaken formulation of how to calculate the PE ratio as he may just have been
+momentarily confused. 36
+
+##### Foot Note 36
+
+×
+
+NE, 26 August 2021, pp 60–61.
+
+57 Mr Gupta’s general approach was, by contrast, sound. He sought to establish
+market value by referring to comparable companies that were publicly listed so
+that there was information from which to establish both enterprise value and
+EBITDA. He then cross-checked that by considering the Company’s cash flows.
+
+58 Nonetheless, there are specific steps within his approach that need to be
+considered more carefully, to determine whether any adjustment should be made.
+I would comment before doing so that the defendant has not put forward any
+adjusted or reduced number to which the plaintiff’s expert’s opinion should be
+recalculated in the light of his criticisms of that opinion. Instead, the
+defendant asks me to disregard the entirety of the plaintiff’s expert’s
+evidence as unsafe. I do not agree with the defendant that I should disregard
+Mr Gupta’s evidence as unsafe. Rather, I accept it as sound in principle but
+possibly subject to some adjustments that I will proceed to consider.
+
+59 The first is whether his opinion of an EV/EBITDA multiple of 7.5x to 8.0x
+is correct. This depends on two things, first his establishment of the
+EV/EBITDA average and median multiples (excluding outliers) in the comparable
+companies of 16.2x and 19.0x’s smaller size of business and secondly his
+application of a discount to take account, among other things, of the
+Company’s smaller size, key man risk and private company status (requiring a
+discount for lack of marketability). 37
+
+##### Foot Note 37
+
+×
+
+NE, 25 August 2021, p 15, ln 17 to p 16, ln 30.
+
+60 As Mr Gupta noted: 38
+
+##### Foot Note 38
+
+×
+
+NE 25 August 2021, p 15 lns 17–19.
+
+Valuation is not a science. It’s an opinion. It’s an opinion based on analysis
+and valuer’s judgment which is exactly what it is.
+
+61 I accept that the companies chosen by him were reasonably comparable and
+that his working of the average and median multiples is supportable. However,
+I consider that the discount applied when carrying over the multiple to the
+Company is somewhat low, especially given the difference in size between the
+comparable companies and the Company. I would apply a slightly higher discount
+and arrive instead at an EV/EBITDA multiple for the Company of 7x.
+
+62 Secondly, I agree that Mr Gupta fairly deducted the amount of RM 350,000
+when considering Value A 39
+
+##### Foot Note 39
+
+×
+
+AEIC of Aditya Gupta, p 43, para 124.
+
+(where no Share Issuance would have occurred and the Company would not have
+had this money as equity).
+
+63 Thirdly, I do not agree with his applying a significant influence premium
+to raise the value of the plaintiff’s shareholding. In the context of a
+private company, it may be more appropriate to apply a discount for lack of
+control rather than a premium for influence. Where a private company has two
+equal shareholders, an outside buyer of one of those two equal stakes may be
+more struck by the potential for deadlock than the prospect of significant
+influence. Consequently, I will remove the significant influence premium from
+Value A, and instead apply a discount of 10% for lack of control to Value B.
+
+64 Fourthly, I agree with Mr Gupta’s treatment of surplus assets, specifically
+the investment fund of RM 1,225,398.
+
+65 Accordingly, I would adjust Mr Gupta’s calculation under the GPC method as
+shown in the following table:
+
+All figures in RM| Without Share Issuance| With Share Issuance  
+---|---|---  
+Historical EBITDA – FY 2018| 732,529| 732,529  
+EV/EBITDA multiple (times)| 7| 7  
+Enterprise Value| 5,127,703| 5,127,703  
+Less (net debt) / Add (net cash)| (286,983)| 63,017  
+Add surplus asset| 1,225,398| 1,225,398  
+Equity value| 6,066,118| 6,416,118  
+  
+66 I then cross-check this value against the value derived from the DCF
+method. It is closer to that value than Mr Gupta’s original number derived by
+his GPC method. The midpoint for his DCF method is RM 6,055,686. While I also
+acknowledge that Mr Gupta had some errors in his projections used for the DCF
+method, I consider that the result of his cross-check lends support to the
+number I have arrived at.
+
+67 Applying the equity values from the table above, I calculate Values A and B
+as follows:
+
+(a) Value A is 50% of RM 6,066,118, namely RM 3,033,059.
+
+(b) Value B is 0.0143% of RM 6,416,118 x 90%, namely RM 825.75.
+
+68 The reference to multiplication by 90% reflects the application of a 10%
+minority discount.
+
+69 The difference between Value A and Value B is therefore RM 3,032,233.25.
+This is the amount that the defendant should pay to the plaintiff as
+compensatory relief.
+
+70 I turn to the date for valuation. Generally, when equitable compensation
+operates as a reparative remedy for a non-custodial breach, the date for
+assessing loss should be the date of judgment or as close to it as the
+evidence and the course of proceedings allow, unless justice requires the
+clock to be stopped earlier, for example where there is evidence that the
+beneficiary intended to sell the asset at an earlier time. Here, Mr Gupta
+conducted his valuation based on the FY2018 audited accounts which were the
+latest available to him, with some updating of certain aspects to about
+October 2020. 40
+
+##### Foot Note 40
+
+×
+
+AEIC of Aditya Gupta, p 14 and 24.
+
+I am satisfied by this approach as being practical and accept it.
+
+Conclusion
+
+71 I award the plaintiff equitable compensation in the sum of RM 3,032,233.25.
+I will hear parties on interest and costs.
+
+Philip Jeyaretnam  
+Judge of the High Court|  
+---|---  
+  
+Cai Enhuai Amos, Tian Keyun and Yong Ying Jie (Yuen Law LLC) for the
+plaintiff;
+
+Pang Khin Wee (Peng Qinwei) (Hoh Law Corporation) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 10 Nov 2021 (10:07 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

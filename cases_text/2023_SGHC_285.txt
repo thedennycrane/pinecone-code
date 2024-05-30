@@ -1,0 +1,805 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 285
+
+Originating Application No 657 of 2023
+
+In the matter of Sections 361 and 438 of the Insolvency, Restructuring and
+Dissolution Act 2018  
+---  
+  
+And
+
+In the matter of Order 4, Rule 7 of the Rules of Court 2021  
+---  
+  
+Between
+
+(1)| DDPIn his capacity as the joint and several trustees of the bankruptcy
+estate of [B]  
+---|---  
+(2)| DDQIn his capacity as the joint and several trustees of the bankruptcy
+estate of [B]  
+  
+… Claimants
+
+And
+
+(1)| DDR (a minor)  
+---|---  
+(2)| The Registrar of Titles  
+  
+… Defendants
+
+judgment
+
+[Insolvency Law — Avoidance of transactions — Transactions at an undervalue]
+
+[Insolvency Law — Avoidance of transactions — Transactions defrauding
+creditors]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+DDP (in his capacity as the joint and several trustees of the bankruptcy
+estate of [B]) and another
+
+  
+v
+
+  
+
+DDR (a minor) and another
+
+[2023] SGHC 285
+
+General Division of the High Court — Originating Application No 657 of 2023  
+Goh Yihan J  
+14 August 2023
+
+10 October 2023 Judgment reserved.
+
+Goh Yihan J:
+
+1 This is an application brought by the claimants, who are the joint and
+several trustees (“Private Trustees”) of the bankruptcy estate of [B], for the
+following principal reliefs against the defendants:
+
+(a) a declaration that the transfer (the “Transfer”) of the beneficial
+interest in the property located at [address redacted] (the “Property”) by [B]
+to the first defendant, ie, his son, pursuant to a Declaration of Trust dated
+3 July 2020 (the “Trust Deed”) is an undervalue transaction within the meaning
+of s 361 of the Insolvency, Restructuring and Dissolution Act 2018 (2020 Rev
+Ed) (the “IRDA”);
+
+(b) further and/or in the alternative, a declaration that the Transfer was
+made with the intent to defraud the creditors of [B] within the meaning of s
+438 of the IRDA;
+
+(c) pursuant to an order made in terms of (a) and/or (b) above, that the Trust
+Deed be set aside;
+
+(d) pursuant to an order made in terms of (a) and/or (b) above, that the
+beneficial ownership of the Property shall vest in the bankruptcy estate of
+[B]; and
+
+(e) pursuant to an order made in terms of (a) and/or (b) above, that the
+second defendant, ie, the Registrar of Titles, be directed to rectify the land
+register to reflect that the Property vests in the bankruptcy estate of [B]
+absolutely and is not held on trust for the benefit of the first defendant.
+
+2 To be clear, the first defendant, [DDR], is the son of [B] and his wife,
+[C]. [C] filed an affidavit stating that she is not taking a position on
+whether this application should be granted in favour of the claimants. 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of [C] dated 2 August 2023 (“[C]’s affidavit”) at para 5.
+
+[C] was content for the claimants, in their capacities as the Private
+Trustees, to persuade the court that this application satisfies the necessary
+legal requirements.
+
+3 After considering the claimants’ submissions, I make an order in terms of
+prayers (a), (c), (d), and (e), as set out at [1] above. I make no order as to
+prayer (b) because I have not had the benefit of full arguments from both
+sides on the application of s 438 of the IRDA, which has not been fully
+interpreted and applied in Singapore before. However, because the claimants do
+make submissions on s 438, I take this opportunity to make some tentative
+observations on its application.
+
+Background facts
+
+4 I begin with the background facts. [B] is the beneficial owner of several
+companies (the “Companies”). The Companies first applied to place themselves
+in judicial management, which the High Court granted. 2
+
+##### Foot Note 2
+
+×
+
+Affidavit of [DDP] dated 28 June 2023 (“[DDP]’s affidavit”) at pp 25–30.
+
+Later, the interim judicial managers applied to wind up the Companies, on the
+basis that “none of the purposes of a judicial management as set out in
+section 89(1) of the IRDA [could] be achieved”. 3
+
+##### Foot Note 3
+
+×
+
+[DDP]’s affidavit at p 70, paras 6.1.1–6.1.2.
+
+The High Court ordered that each of the Companies be wound up by orders of
+court. 4
+
+##### Foot Note 4
+
+×
+
+[DDP]’s affidavit at pp 165–170.
+
+5 Subsequently, some of the Companies and the liquidators (“the plaintiffs”)
+commenced a suit in the High Court against, amongst other defendants, [B]. The
+plaintiffs’ case against [B] was principally premised on the latter’s illegal
+transfer of investors’ assets to himself without any proper or legitimate
+basis. The plaintiffs obtained summary judgment against [B] for the investors’
+assets. 5
+
+##### Foot Note 5
+
+×
+
+[DDP]’s affidavit at pp 341–343.
+
+6 Subsequently, the plaintiffs served a statutory demand on [B]. The
+plaintiffs demanded repayment of the sums awarded in the summary judgment. [B]
+failed to satisfy this statutory demand. The plaintiffs then applied for a
+bankruptcy order against [B]. The High Court ordered that [B] be adjudged a
+bankrupt. The court also appointed the claimants to act as the Private
+Trustees of the bankruptcy estate of [B].
+
+7 During their ensuing investigations into [B]’s affairs, the claimants
+discovered the Trust Deed. The Trust Deed was made by [B] on 3 July 2020 in
+the following terms: 6
+
+##### Foot Note 6
+
+×
+
+[DDP]’s affidavit at p 353.
+
+THIS DECLARATION OF TRUST is made this day of 3rd JULY 2020 by the following
+parties:-
+
+[B] (NRIC NO. redacted) of [address redacted] (Hereinafter called “the
+Trustee”).
+
+[emphasis in original]
+
+8 The Trust Deed recorded that upon [B]’s purchase of the Property, [B] would
+hold the Property on trust for the first defendant, even though the first
+defendant did not pay for the purchase of the Property. The relevant terms of
+the Trust Deed are as follows: 7
+
+##### Foot Note 7
+
+×
+
+[DDP]’s affidavit at p 353.
+
+WHEREAS:-
+
+(1) The Trustee [ie, [B]] intends to purchase the property known as [address
+redacted] (“the Property”),
+
+(2) The purchase of the Property is entirely for the benefit of [the first
+defendant] … (“the Beneficiary”) who is the SON of the Trustee [B].
+
+(3) Upon the purchase of the Property, the Beneficiary [ie, the first
+defendant] shall at all times be the beneficial owner of the Property
+notwithstanding that the Beneficiary did not pay for the purchase of the
+Property.
+
+(4) The Trustee has agreed to execute this Declaration in respect of the
+Property in the manner hereinafter appearing.
+
+NOW THIS INDENTURE WITNESSETH that in pursuance of the premises the Trustee
+[ie, [B]] hereby declares that the Trustee shall hold the Property as sole
+proprietor in trust for the Beneficiary [ie, the first defendant] and that the
+Trustee will at his own discretion or at the requests of the Beneficiary
+transfer the Property to such person or persons at such time or times and in
+such manner or otherwise deal with the Property as the Trustee deems fit or as
+the Beneficiary shall direct.
+
+[emphasis in original in bold; emphasis added in italics]
+
+9 Following the execution of the Trust Deed, [B] purchased the Property by way
+of a contract dated 8 July 2020. On 30 September 2020, by way of a
+registration of the Transfer Instrument, the legal title in the Property was
+transferred to [B]. 8
+
+##### Foot Note 8
+
+×
+
+[DDP]’s affidavit at pp 357–360.
+
+As such, pursuant to the Trust Deed, the beneficial ownership of the Property
+was passed to the first defendant on 30 September 2020.
+
+10 The claimants have therefore commenced this application to, among other
+things, set aside the Trust Deed, and return the beneficial interest in the
+Property to the bankruptcy estate of [B].
+
+My decision: the application is granted pursuant to s 361 of the IRDA
+
+11 I find that the Transfer of the beneficial interest in the Property by [B]
+to the first defendant pursuant to the Trust Deed is a transaction at an
+undervalue within the meaning of s 361 of the IRDA.
+
+The generally applicable law
+
+12 Sections 361(1) and (2) of the IRDA provide as follows:
+
+Transactions at undervalue
+
+361.—(1) Subject to this section and sections 363 and 365, where an individual
+is adjudged bankrupt and the individual has at the relevant time (as defined
+in section 363) entered into a transaction with any person at an undervalue,
+the Official Assignee may apply to the Court for an order under this section.
+
+(2) The Court may, on such an application, make such order as it thinks fit
+for restoring the position to what it would have been if that individual had
+not entered into that transaction.
+
+13 Accordingly, pursuant to s 361 read with the other relevant provisions of
+the IRDA, the court is entitled to set aside a transaction entered into by an
+adjudged bankrupt with any person if:
+
+(a) the transaction was at an undervalue (as defined in s 361(3) of the IRDA);
+
+(b) the individual entered into the transaction within the relevant time, ie,
+three years before commencement of the bankruptcy application in court (see s
+361(1) read with s 363(1)(a)(ii) of the IRDA); and
+
+(c) the individual was insolvent at the time of the transaction or becomes
+insolvent in consequence of the transaction (see s 363(2) of the IRDA).
+
+14 For the reasons that I explain below, I find that the three elements set
+out above are satisfied in the present case.
+
+The requirements under s 361(1) of the IRDA are satisfied
+
+The transfer of beneficial interest in the Property to the first defendant is
+a transaction at an undervalue
+
+15 First, I am satisfied that the transfer of the beneficial interest in the
+Property to the first defendant is a transaction at an undervalue. In this
+regard, s 361(3) of the IRDA defines a transaction at an undervalue in the
+following terms:
+
+(3) For the purposes of this section and sections 363 and 365, an individual
+enters into a transaction with a person at an undervalue if —
+
+(a) the individual makes a gift to that person or the individual otherwise
+enters into a transaction with that person on terms that provide for the
+individual to receive no consideration;
+
+(b) the individual enters into a transaction with that person in consideration
+of marriage; or
+
+(c) the individual enters into a transaction with that person for a
+consideration the value of which, in money or money’s worth, is significantly
+less than the value, in money or money’s worth, of the consideration provided
+by the individual.
+
+16 It is clear that [B]’s disposal of his beneficial interest in the Property
+pursuant to the Trust Deed for the benefit of the first defendant, was a gift
+inter vivos and is thus a transaction at an undervalue under s 361(3)(a) of
+the IRDA. This is because in [C]’s first affidavit, she states that “[she]
+asked [B] to purchase the Property as a gift for [their] son [ie, the first
+defendant] as well” [emphasis added]. 9
+
+##### Foot Note 9
+
+×
+
+[C]’s affidavit at para 7.
+
+17 In the alternative, it is also clear that [B]’s disposal of his beneficial
+interest in the Property is a transaction at an undervalue under s 361(3)(a)
+of the IRDA because [B] received no consideration from the transaction.
+Indeed, the Trust Deed expressly states that “the [first defendant] shall at
+all times be the beneficial owner of the Property notwithstanding that the
+[first defendant] did not pay for the purchase of the Property”. 10
+
+##### Foot Note 10
+
+×
+
+[DDP]’s affidavit at p 353.
+
+18 Finally, in the further alternative, it is also clear that the transaction
+is a transaction at an undervalue under s 361(3)(c) of the IRDA because [B]
+received no consideration at all in return for his transfer of beneficial
+interest in the Property. This must mean that the value of the consideration
+that [B] received in exchange (of which there was none) must necessarily be,
+in money or money’s worth, significantly less than the value, in money or
+money’s worth, of the consideration provided by [B] (see the Court of Appeal
+decision of Rothstar Group Ltd v Leow Quek Shiong and other appeals [2022] 2
+SLR 158 at [25]–[26], [29], and [34]).
+
+The transaction was made within the relevant time
+
+19 Second, I am satisfied that the transaction was made within the relevant
+time. [B]’s transfer of the beneficial interest in the Property to the first
+defendant on 30 September 2020, which was pursuant to the Trust Deed, occurred
+within three years before the bankruptcy application was filed on 12 July
+2022.
+
+[B] was insolvent when he transferred the beneficial interest in the Property
+to the first defendant
+
+20 Third, I am satisfied that [B] was insolvent when he transferred the
+beneficial interest in the Property to the first defendant. In this regard,
+under s 363(3) of the IRDA, because the first defendant is an associate of
+[B], [B] is presumed to have been insolvent at the time of the transaction.
+Section 363(3) provides as follows:
+
+(3) Where a transaction is entered into at an undervalue by an individual with
+a person who is an associate of the individual (otherwise than by reason only
+of being the individual’s employee), the requirements under subsection (2) are
+presumed to be satisfied unless the contrary is shown.
+
+For clarity, s 363(2), which is referred to in s 363(3), pertains to the
+requirement that the individual who enters into a transaction at an undervalue
+is insolvent.
+
+21 In this regard, it is clear that an “associate” for the purposes of s
+363(3) includes a “relative”, which is in turn defined in s 364(7) of the IRDA
+as a “lineal ancestor or lineal descendant”. The first defendant, being [B]’s
+son, is his “associate” for the purposes of s 363(3). Therefore, the
+presumption of insolvency in s 363(3) operates against [B]. The burden thus
+lies on the first defendant, as the transferee of the beneficial interest in
+the Property, to disprove [B]’s insolvency at the time of the transaction (see
+the High Court decision of Sim Guan Seng and others v One Organisation Ltd and
+others [2023] 3 SLR 590 at [156]).
+
+22 However, the first defendant has not adduced any evidence to disprove [B]’s
+insolvency at the time of the transaction. Accordingly, for the purposes of s
+361 read with s 363(2) of the IRDA, [B] was insolvent at the time when he
+transferred beneficial interest in the Property to the first defendant.
+
+No good reason not to make the order under s 361(2) of the IRDA
+
+23 In the circumstances, I am of the view that it is appropriate to make an
+order under s 361(2) of the IRDA. However, it is clear that the court has a
+discretion not to make the order restoring the position to what it would have
+been had the bankrupt individual not entered into the transaction (see the
+High Court decision of Christie, Hamish Alexander (as private trustee in
+bankruptcy of Tan Boon Kian) v Tan Boon Kian and others [2021] 4 SLR 809
+(“Christie, Hamish Alexander”) at [79]). That said, the court will usually
+make the order if all the statutory requirements are satisfied (see Christie,
+Hamish Alexander at [89]). Since the first defendant has not advanced any
+reason for me to exercise my discretion not to make the order under s 361(2),
+I accordingly do so.
+
+Some observations on s 438 of the IRDA
+
+24 The claimants further prayed for an alternative order that the Transfer was
+made with the intent to defraud the creditors of [B] within the meaning of s
+438 of the IRDA. As mentioned above (at [3]), I make no order as to this
+prayer because I have not had the benefit of full arguments from both sides on
+the application of s 438(4) of the IRDA, which has not been fully interpreted
+and applied in Singapore before. However, since the claimants have made
+submissions on the application of this section, I take the opportunity to make
+some observations on its application.
+
+25 As a preliminary point, it bears mentioning that reg 15 of the Insolvency,
+Restructuring and Dissolution (Saving and Transitional Provisions) Regulations
+2020 provides that s 73B of the Conveyancing and Law of Property Act (Cap 61,
+1994 Rev Ed) (the “CLPA 1994”) continues to apply to any conveyance of
+property before 30 July 2020. In the present case, the Trust Deed entered into
+on 3 July 2020 merely expressed [B]’s intention to purchase the Property. It
+was only on 30 September 2020 that the legal title in the Property was passed
+to [B] by way of the registration of the Transfer Instrument on that date. As
+such, the beneficial ownership of the Property was transferred to the first
+defendant only on 30 September 2020. On the basis of these facts, the
+“conveyance” of the Property for the purposes of reg 15 should be 30 September
+2020. Therefore, s 438 of the IRDA, and not s 73B of the CLPA, applies to the
+present case.
+
+The generally applicable law
+
+26 With the above in mind, s 438 of the IRDA provides, in so far as relevant,
+as follows:
+
+Transactions defrauding creditors
+
+438.—(1) This section relates to any transaction entered into by a person
+(called in this section and section 439 the debtor) with another person at an
+undervalue.
+
+(2) For the purposes of subsection (1), a debtor enters into a transaction
+with another person at an undervalue if —
+
+(a) the debtor makes a gift to the other person or the debtor otherwise enters
+into a transaction with the other person on terms that provide for the debtor
+to receive no consideration;
+
+(b) the debtor enters into a transaction with the other person in
+consideration of marriage; or
+
+(c) the debtor enters into a transaction with the other person for a
+consideration the value of which, in money or money’s worth, is significantly
+less than the value, in money or money’s worth, of the consideration provided
+by the debtor.
+
+(3) Where a debtor enters into a transaction at an undervalue, the Court may,
+if satisfied under subsection (4), make such order as the Court thinks fit for
+—
+
+(a) restoring the position to what it would have been if the transaction had
+not been entered into; and
+
+(b) protecting the interests of any person who is, or is capable of being,
+prejudiced by the transaction (called in this section a victim).
+
+(4) An order under subsection (3) may only be made if the Court is satisfied
+that a transaction at an undervalue was entered into by a debtor for the
+purpose —
+
+(a) of putting assets beyond the reach of a person who is making, or may at
+some time make, a claim against the debtor; or
+
+(b) of otherwise prejudicing the interests of any person in relation to a
+claim which the person is making or may make against the debtor.
+
+…
+
+27 Accordingly, under s 438 of the IRDA, the court can set aside a transaction
+at an undervalue that a debtor entered into with another person, if the
+transaction was entered into for the purposes set out in s 438(4). Under s
+438(2), a transaction at an “undervalue” is defined in identical terms with s
+361(3) of the IRDA. Where these requirements are met, the court has the
+discretion to make an order under the terms of s 438(3).
+
+28 It is relevant to highlight that s 438 was introduced into the IRDA to
+replace s 73B of the CLPA 1994. The following observations made by the Law
+Reform Committee in 2013 are instructive (see Singapore, Ministry of Law,
+Report of the Insolvency Law Review Committee: Final Report (2013)
+(Chairperson: Lee Eng Beng SC) (the “Report”) at pp 184–185).
+
+(a) Section 73B of the CLPA 1994 mirrors the language of s 172 of the Law of
+Property Act 1925 (c 20) (UK), the latter having since been repealed and
+replaced with s 423 of the Insolvency Act 1986 (c 45) (UK) (the “UK IA”).
+
+(b) There are three main differences between s 73B of the CLPA 1994 and s 423
+of the UK IA. First, s 423 focuses on transactions at an undervalue, which is
+a narrower category than s 73B that applies to “every conveyance of property”.
+Second, s 423 eschews the requirement of having to prove an “intention to
+defraud creditors” in favour of a subjective inquiry into the purpose of the
+transaction. Third, s 423 provides prescriptive remedies, while s 73B simply
+provides that a successfully impugned transaction is voidable.
+
+(c) Given that claims under s 73B of the CLPA 1994 are closely intertwined
+with insolvency proceedings, s 73B should be shifted to the IRDA and amended
+to mirror s 423 of the UK IA. This has the advantage of, among others,
+ensuring that the scope of the provision coincides with its underlying policy
+rationale, ie, preserving the net asset value of the company for distribution
+amongst its creditors.
+
+29 In my view, these observations are instructive as to how s 438 of the IRDA
+is to be interpreted. It is clear from these observations that s 438 of the
+IRDA is not meant to be an exact replica of s 73B of the CLPA 1994. Therefore,
+the cases interpreting s 73B may be of limited value in the interpretation of
+s 438. Conversely, as noted in the Report, the new s 438 of the IRDA is meant
+to mirror s 423 of the UK IA. This must mean that the cases interpreting s 423
+of the UK IA are highly persuasive in the interpretation of s 438 of the IRDA.
+Of course, s 438 is to be interpreted with its underlying policy rationale in
+mind, which is to preserve the net asset value of the company concerned so as
+to maximise the possible distribution to the creditors.
+
+The requirements under s 438 of the IRDA
+
+30 I come now to the requirements under s 438 of the IRDA, which can be
+applied in three steps:
+
+(a) first, pursuant to s 438(1) of the IRDA, the court must be satisfied that
+the transaction concerned was entered into at an undervalue, as defined by s
+438(2);
+
+(b) second, the court must then be satisfied that the transaction at an
+undervalue was entered into by the debtor for the purposes spelt out in s
+438(4) of the IRDA, which broadly relate to the transaction being entered into
+with the intent to defraud or prejudice creditors;
+
+(c) third, the court can then make an order under s 438(3) of the IRDA.
+
+First step: the transaction concerned must be one entered into at an
+undervalue
+
+31 To begin, since s 438(2) defines a transaction at an undervalue in
+identical terms as s 361(3) of the IRDA, it follows that the same principles
+used to determine whether a transfer was a transaction at an undervalue for
+the purposes of s 361(3) must apply equally to s 438(2). There is therefore an
+established body of case law to guide the courts’ application of s 438(2), in
+satisfaction of the requirement under s 439(1) that the transaction concerned
+being one that was entered into at an undervalue.
+
+Second step: the court must be satisfied that the transaction at an undervalue
+was entered into by the debtor for the purposes spelt out in s 438(4) of the
+IRDA
+
+32 I come now to s 438(4) of the IRDA, which requires a court to be satisfied
+that the transaction at an undervalue was entered into by a debtor for the
+purpose of either: (a) putting assets beyond the reach of a person who is
+making, or may at some time make, a claim against the debtor; or (b) otherwise
+prejudicing the interests of any person in relation to a claim which the
+person is making or may make against the debtor. Since there is no Singapore
+decision that has interpreted s 438(4) of the IRDA, for the reasons that I
+have set out above in relation to the Report, I am of the view that the
+English Court of Appeal’s interpretation of s 423 of the UK IA, which is in
+pari materia with s 438, would be instructive.
+
+33 I turn first to the relevant sub provisions of s 423 of the UK IA, which
+are as follows:
+
+423 Transactions defrauding creditors.
+
+(1) This section relates to transactions entered into at an undervalue; and a
+person enters into such a transaction with another person if—
+
+(a) he makes a gift to the other person or he otherwise enters into a
+transaction with the other on terms that provide for him to receive no
+consideration;
+
+(b) he enters into a transaction with the other in consideration of marriage;
+or
+
+(c) he enters into a transaction with the other for a consideration the value
+of which, in money or money’s worth, is significantly less than the value, in
+money or money’s worth, of the consideration provided by himself.
+
+(2) Where a person has entered into such a transaction, the court may, if
+satisfied under the next subsection, make such order as it thinks fit for—
+
+(a) restoring the position to what it would have been if the transaction had
+not been entered into, and
+
+(b) protecting the interests of persons who are victims of the transaction.
+
+(3) In the case of a person entering into such a transaction, an order shall
+only be made if the court is satisfied that it was entered into by him for the
+purpose—
+
+(a) of putting assets beyond the reach of a person who is making, or may at
+some time make, a claim against him, or
+
+(b) of otherwise prejudicing the interests of such a person in relation to the
+claim which he is making or may make.
+
+…
+
+34 In BAT Industries plc and others v Sequana SA [2019] Bus LR 2178, the
+English Court of Appeal held (at [66]) that it is sufficient to demonstrate
+that the debtor, who entered into the transaction at an undervalue sought to
+be set aside, subjectively intended to put assets beyond the reach of actual
+or potential creditors. This therefore eschews the requirement of having to
+prove an “intention to defraud creditors”, which was found in s 73B of the
+CLPA 1994. In this regard, the specified purpose need not be the sole or
+dominant purpose of the transaction.
+
+35 Thus, in the English Court of Appeal decision of Inland Revenue
+Commissioners v Hashmi [2002] 2 BCLC 489, the Inland Revenue Commissioners
+(“IRC”) brought a claim under s 423 against a debtor. The debtor had purchased
+a property and on the same day executed a trust deed to transfer his
+beneficial interest therein to his son, in consideration of natural love and
+affection. The son claimed there were two purposes in making the trust deed:
+(a) the primary purpose of providing for the son; and (b) a secondary purpose
+of transferring the property to the son at an undervalue. However, the court
+found that the purpose of putting assets beyond the reach of a potential
+creditor did not have to be the dominant purpose for the transaction to be
+caught under s 423, and it sufficed if it was a substantial purpose. On the
+facts, the court found that the requirements in s 423 were satisfied and set
+aside the trust deed.
+
+Third step: the court’s exercise of discretion to make an order under s 438(3)
+of the IRDA
+
+36 Once the requirements under s 438(3), read with ss 438(1), (2), and (4) of
+the IRDA, are satisfied, the court has a discretion to decide on the type of
+relief to be granted. The relief granted should be for the purposes laid out
+in ss 438(3)(a) and 438(3)(b) of the IRDA. In this regard, the examples of
+possible reliefs are set out in s 439 of the IRDA:
+
+Provisions which may be made by order under section 438
+
+439.—(1) Without limiting section 438(3) but subject to subsection (2), an
+order made under that section with respect to a transaction may —
+
+(a) require any property transferred as part of the transaction to be vested
+in any person, either absolutely or for the benefit of all the persons on
+whose behalf the application for the order is deemed to be made;
+
+(b) require any property to be so vested in any person, either absolutely or
+for the benefit of all the persons on whose behalf the application for the
+order is deemed to be made, if the property represents, in any person’s hands,
+the application either of the proceeds of sale of property transferred as part
+of the transaction or of money so transferred;
+
+(c) release or discharge (in whole or in part) any security given by the
+debtor;
+
+(d) require any person to pay to any other person in respect of benefits
+received from the debtor such sums as the Court may direct;
+
+(e) provide for any surety or guarantor whose obligations to any person were
+released or discharged (in whole or in part) under the transaction to be under
+such new or revived obligations as the Court thinks appropriate; and
+
+(f) provide for security to be provided for the discharge of any obligation
+imposed by or arising under the order, for such an obligation to be charged on
+any property and for such security or charge to have the same priority as a
+security or charge released or discharged (in whole or in part) under the
+transaction.
+
+(2) An order under section 438 may affect the property of, or impose any
+obligation, on any person whether or not that person is the person with whom
+the debtor entered into the transaction, but must not —
+
+(a) prejudice any interest in property which was acquired from a person other
+than the debtor and was acquired in good faith, for value and without notice
+of the relevant circumstances, or prejudice any interest deriving from such an
+interest; and
+
+(b) require a person who received a benefit from the transaction in good
+faith, for value and without notice of the relevant circumstances to pay any
+sum unless the person who received the benefit was a party to the transaction.
+
+…
+
+37 Section 425 of the UK IA is substantially similar:
+
+425 Provision which may be made by order under s. 423.
+
+(1) Without prejudice to the generality of section 423, an order made under
+that section with respect to a transaction may (subject as follows)—
+
+(a) require any property transferred as part of the transaction to be vested
+in any person, either absolutely or for the benefit of all the persons on
+whose behalf the application for the order is treated as made;
+
+(b) require any property to be so vested if it represents, in any person’s
+hands, the application either of the proceeds of sale of property so
+transferred or of the money so transferred;
+
+(c) release or discharge (in whole or in part) any security given by the
+debtor;
+
+(d) require any person to pay to any other person in respect of benefits
+received from the debtor such sums as the court may direct;
+
+(e) provide for any surety or guarantor whose obligations to any person were
+released or discharged (in whole or in part) under the transaction to be under
+such new or revived obligations as the court thinks appropriate;
+
+(f) provide for security to be provided for the discharge of any obligation
+imposed by or arising under the order, for such an obligation to be charged on
+any property and for such security or charge to have the same priority as a
+security or charge released or discharged (in whole or in part) under the
+transaction.
+
+(2) An order under section 423 may affect the property of, or impose any
+obligation on, any person whether or not he is the person with whom the debtor
+entered into the transaction; but such an order—
+
+(a) shall not prejudice any interest in property which was acquired from a
+person other than the debtor and was acquired in good faith, for value and
+without notice of the relevant circumstances, or prejudice any interest
+deriving from such an interest, and
+
+(b) shall not require a person who received a benefit from the transaction in
+good faith, for value and without notice of the relevant circumstances to pay
+any sum unless he was a party to the transaction.
+
+38 Applying ss 423 and 425 of the UK IA, in the English High Court decision of
+4Eng Ltd v Harper and others [2010] 1 BCLC 176 (“4Eng Ltd”) (at [13]), Sales J
+said that the making of any order requires a “further balancing of the
+interests of the transferor’s creditors and of the transferee to be determined
+by the court”. The learned judge laid down the following principles (at
+[13]–[14]), which I respectfully think could apply in the Singapore context:
+
+(a) The nature of any order and the extent of the relief granted by the court
+should take into account the mental state of the transferee, and the degree of
+their involvement in the fraudulent scheme of the debtor/transferor to put
+assets out of the reach of his creditors.
+
+(b) Where an asset has been transferred to a transferee who has no knowledge
+that the transferor acted with a relevant purpose in making the transfer, and
+the transferee has simply held the asset, ordinarily the appropriate order
+should be an order for the transfer of the asset to the transferor or to the
+creditors directly.
+
+(c) However, if the transferee has changed his position on the basis of the
+receipt in a way that would make it unfair to him to repay the money, it would
+not be appropriate for the court to make an order requiring the transferee to
+pay back a sum equivalent to the amount he received.
+
+39 Subsequently, the English High Court in In re Fowlds (A Bankrupt) Bucknall
+and another v Wilson [2022] 1 WLR 61 (“Re Fowlds”) added a gloss to the
+analysis in 4Eng Ltd by drawing a distinction between the court’s exercise of
+its discretion under s 423 of the UK IA, and statutory clawback claims under
+ss 339 and 340 of the UK IA. Trower J found (at [69]) that it may be more
+appropriate to carry out a balancing exercise in s 423 cases, which is between
+the interests of the creditors or victims of the transferor on the one hand
+and the transferee on the other. This is because s 423 contemplates single
+victim or limited victim cases, in which it is more likely to be possible to
+strike a balance between the victim of the transferor and an innocent
+transferee (at [71]). On the other hand, in statutory clawback claims, the
+balancing exercise is between the interests of the transferee and all of those
+interested in the statutory scheme, which “will rarely be an exercise on which
+it is appropriate for the court to embark or even practical if it were to
+attempt to do so” (at [71]) [emphasis added].
+
+40 Returning to the present case, while I have endeavoured to suggest how s
+438 of the IRDA could be applied, I make no order as to prayer (b) of the
+present application in the absence of full arguments.
+
+Conclusion
+
+41 For all of these reasons, I make an order in terms of prayers (a), (c),
+(d), and (e), as set out at [1] above.
+
+42 Unless the parties are able to agree on costs, they are to tender written
+submissions on the appropriate costs order within 14 days of this decision,
+limited to seven pages each.
+
+Goh Yihan  
+Judge of the High Court|  
+---|---  
+  
+Lin Weiwen Moses and Manvindar Kaur Sethi d/o Sarwan Singh (Shook Lin & Bok
+LLP) for the claimants;  
+Loo Chieh Ling Kate and Jerelyn Tay Yee Ying (Ling Law Corporation) for the
+first defendant;
+
+The second defendant absent and unrepresented.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 10 Oct 2023 (15:09 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,1852 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF THE high court of the republic of singapore
+
+[2021] SGHC 63
+
+Suit No 1298 of 2018
+
+Between
+
+| Vim Engineering Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Deluge Fire Protection (SEA) Pte Ltd  
+---|---  
+  
+… Defendant
+
+grounds of decision
+
+[Building and Construction Law] — [Building and construction contracts]
+
+[Building and Construction Law] — [Scope of works] — [Variations]
+
+[Building and Construction Law] — [Quantum meruit]
+
+[Building and Construction Law] — [Damages]
+
+[Evidence] — [Admissibility of evidence] — [Hearsay]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Vim Engineering Pte Ltd
+
+  
+v
+
+  
+
+Deluge Fire Protection (SEA) Pte Ltd
+
+[2021] SGHC 63
+
+General Division of the High Court — Suit No 1298 of 2018  
+Andre Maniam JC  
+30 June, 1- 3, 7- 9 July 2020, 9 February 2021
+
+22 March 2021
+
+Andre Maniam JC:
+
+Introduction
+
+1 Where a construction contract stipulates that variation works shall be
+carried out only with written instructions from a designated person, can a
+contractor nevertheless get paid on his variation claims because he trusted
+that he would be paid notwithstanding what the contract said? The contractor
+(“Vim”) argued that “a gentleman’s word is his bond”, 1
+
+##### Foot Note 1
+
+×
+
+Plaintiff’s Closing Submissions (“PCS”) at para 6.
+
+and so its employer (“Deluge”) should pay for variation works that had been
+orally requested, although the contract between the parties stipulated that
+variation works shall be carried out only with written instructions from
+Deluge’s project manager (and there were no such written instructions).
+
+2 After reserving my decision, I gave judgment substantially in favour of
+Deluge, with oral grounds. Vim has appealed and these are my written grounds
+of decision.
+
+The parties
+
+3 The defendant, Deluge, was a subcontractor of Samsung C&T Corporation
+(“SCT”), the main contractor for a building and construction project. Deluge
+in turn subcontracted certain plumbing and sanitary works for part of the
+project to the plaintiff, Vim (the “Subcontract”).
+
+Vim left the site before the main works were completed, and before the end of
+the defects liability period
+
+4 On 5 February 2018, Vim left the project site, and did not do any further
+work there. This was after the temporary occupation permit (“TOP”) was
+obtained on 20 October 2017, but before the end of the defects liability
+period (“DLP”) which ran for 12 months from the date the TOP was obtained.
+
+Vim’s claims
+
+5 Vim’s Subcontract sum was $1,750,000 for its original scope of works (main
+works), excluding payment for any variations. 2
+
+##### Foot Note 2
+
+×
+
+Statement of Claim (“SOC”) at para 1.
+
+Vim pleaded that a balance payment of $458,772.85 was due to it for the main
+works. 3
+
+##### Foot Note 3
+
+×
+
+SOC at para 1.
+
+It claimed a further $697,130.58 for alleged variation works. 4
+
+##### Foot Note 4
+
+×
+
+SOC at para 3.
+
+Vim thus claimed a total of $1,155,903.43; 5
+
+##### Foot Note 5
+
+×
+
+SOC at para 18.
+
+alternatively, it claimed a fair and reasonable sum based on quantum meruit. 6
+
+##### Foot Note 6
+
+×
+
+SOC at para 18.
+
+6 It was common ground that the value of the main works when Vim left the site
+was $1,742,537.74, ie, $7,462.26 less than Vim’s Subcontract sum of
+$1,750,000. $7,462.26 was reflected as an omission from the Subcontract sum in
+Vim’s revised final progress claim, which was sent to Deluge by email on 2
+June 2018. 7
+
+##### Foot Note 7
+
+×
+
+Affidavit of Evidence-in-Chief of Muruganandham Mathi Selvan (“Mr Anand’s
+AEIC”) at pp 2154 and 2157.
+
+Deluge’s counterclaims
+
+7 Deluge said that it incurred costs of $7,200 in completing the remaining
+main works (which was less than the $7,462.26 contractual value of those
+remaining works), 8
+
+##### Foot Note 8
+
+×
+
+Defence & Counterclaim (Amendment No. 1) (“D&CC”) at para 20.
+
+and a further $105,300 in attending to rectification works during the balance
+of the DLP, after Vim left the site. 9
+
+##### Foot Note 9
+
+×
+
+D&CC at para 21.
+
+These costs, totalling $112,500, exceeded the balance Subcontract sum of
+$7,462.26 by $105,037.74. Deluge thus asserts a set-off and counterclaim for
+that sum of $105,037.74. 10
+
+##### Foot Note 10
+
+×
+
+D&CC at paras 22-23.
+
+8 Deluge also claimed against Vim for back-charges (which Vim disputed) for:
+11
+
+##### Foot Note 11
+
+×
+
+D&CC at paras 12-19 and 53.
+
+(a) supply of manpower by Deluge to complete Vim’s works (due to shortage of
+manpower provided by Vim and/or the failure of Vim to complete its works);
+
+(b) corresponding back-charges from SCT to Deluge for supply of manpower to
+complete works within the scope of Vim’s Subcontract due to shortage of
+manpower provided by Vim and/or the failure of Vim to complete its works; and
+
+(c) penalties imposed by SCT on Deluge for health and safety infractions
+attributable to Vim.
+
+9 Back-charges amounting to $116,722.93 were incorporated into Deluge’s
+payment certificates 10, 13, 14 and 15 (as deductions). 12
+
+##### Foot Note 12
+
+×
+
+D&CC at paras 15-16; Agreed Bundle of Documents (“ABOD”) at pp 927, 2221, 2501
+and 2837.
+
+Deluge asserted a set-off and counterclaim in respect of a further $870,507.09
+comprised in its back-charge invoices 16A, 17, 18 and 19. 13
+
+##### Foot Note 13
+
+×
+
+D&CC at paras 17-19; ABOD at pp 2799, 3404, 4238 and 4471.
+
+Issues
+
+10 I address the following in turn:
+
+(a) what did Deluge pay Vim for the main works?
+
+(b) Vim’s variation claims;
+
+(c) Deluge’s claim for costs incurred in completing Vim’s works; and
+
+(d) Deluge’s claim for back-charges and/or damages.
+
+What did Deluge pay Vim for the main works?
+
+11 The following was common ground:
+
+(a) When Vim left the site, the value of the main works completed was
+$1,742,537.74. 14
+
+##### Foot Note 14
+
+×
+
+D&CC at para 10; SOC at para 1.
+
+(b) Deluge’s payment certification was based on the main works being valued at
+$1,742,537.74 as aforesaid, but Deluge deducted $116,722.83 in back-charges.
+
+(c) Vim issued invoices for the sums certified by Deluge, which Deluge paid.
+
+(d) Deluge had paid Vim $1,302,549.13 (which included payment for materials
+purchased by Vim). 15
+
+##### Foot Note 15
+
+×
+
+Defendant’s Further Submissions (“DFS”) at para 4.
+
+12 A range of figures was provided for what Deluge had paid (or certified in
+favour of) Vim for the main works:
+
+(a) according to Vim, Deluge had paid $1,283,764.89, and so Vim pleaded that
+$458,772.85 was still due for the main works; 16
+
+##### Foot Note 16
+
+×
+
+SOC at paras 1, 10 and 18.
+
+(b) according to Deluge, it had paid $1,288,624.80; 17
+
+##### Foot Note 17
+
+×
+
+D&CC at para 6.
+
+(c) according to Deluge, it had certified $1,292,997.37; 18
+
+##### Foot Note 18
+
+×
+
+D&CC at para 7.
+
+and
+
+(d) according to Deluge’s written submissions, it had certified and paid
+$1,293,104.90. 19
+
+##### Foot Note 19
+
+×
+
+Defendant’s Closing Submissions (“DCS”) at paras 25-27.
+
+13 I invited further submissions from the parties on this point. In response:
+
+(a) Vim put forward yet another figure: that Deluge had paid $1,291,987.72 (on
+the basis that Deluge had paid $10,561.41 for materials); 20
+
+##### Foot Note 20
+
+×
+
+Plaintiffs’ Further Submissions (“PFS”) at para 3.
+
+and
+
+(b) Deluge said it had paid $1,288,624.80 (see [12(b)] above, ie, what was
+pleaded in its Defence and Counterclaim) 21
+
+##### Foot Note 21
+
+×
+
+D&CC at para 6.
+
+– Deluge said it had paid $13,924.33 for materials. 22
+
+##### Foot Note 22
+
+×
+
+DFS at para 5.
+
+14 Vim’s figure of $1,291,987.72 meant that it was claiming from Deluge
+$450,550.02 as balance payment, 23
+
+##### Foot Note 23
+
+×
+
+PFS at para 3.
+
+down from $458,772.85 as pleaded (see [5] above).
+
+15 I accepted Deluge’s explanation that there were clerical errors in the
+certification process, which led to incorrect figures being certified for
+payment, and that the correct figure for what Deluge paid Vim for the main
+works is $1,288,624.80. That is less than Vim’s figure of $1,291,987.72, so
+more is due to Vim as balance payment for the main works (and I would expect
+Vim to have no complaint about this).
+
+16 The value of the main works up to the point Vim left the site was
+$1,742,537.74 (see [11(a)] above), and accordingly there is a difference of
+$453,912.94, ie, $1,742,537.74 - $1,288,624.80.
+
+17 That, Deluge contended, was offset by: (a) the net sum of $105,037.74 which
+Deluge incurred in completing Vim’s works as described in [7] above (after
+giving credit for the $7,462.26 balance of the Subcontract sum); 24
+
+##### Foot Note 24
+
+×
+
+D&CC at para 11(b).
+
+(b) initial back-charges amounting to $116,722.93 (see [9] above); 25
+
+##### Foot Note 25
+
+×
+
+D&CC at paras 15-16.
+
+and (c) further back-charges of $870,507.09 (see [9] above). 26
+
+##### Foot Note 26
+
+×
+
+D&CC at paras 11(a) and 17-19.
+
+Vim’s variation claims
+
+18 Clause 16 of the Subcontract provides that “[a]ny variation work such as
+[additions] or [omissions] or [modifications], shall be on a back-to-back
+basis with the Main Contract. Such variation shall be carried out only with
+written [instructions] from [Deluge’s] Project Manager … [Vim] shall be
+entitled to ninety percent (90%) … or shall allow a discount of 10% (Profit &
+Attendance) for [Deluge], on any approved variation claim for additional work
+orders” [emphasis added]. 27
+
+##### Foot Note 27
+
+×
+
+ABOD at p 231.
+
+19 I found that Vim’s variation claims failed because: (a) there were no
+written instructions from Deluge’s project manager as required under the
+Subcontract; 28
+
+##### Foot Note 28
+
+×
+
+DCS at paras 78-87 and 101-108.
+
+and (b) there was no waiver or estoppel in this regard. 29
+
+##### Foot Note 29
+
+×
+
+DCS at paras 71–77 and 234–250.
+
+The lack of written instructions from Deluge’s project manager
+
+20 The need to comply with contractual conditions for variation claims was
+emphasised in Mansource Interior Pte Ltd v CSG Group Pte Ltd [2017] 5 SLR 203
+(“Mansource v CSG”). In that case, the court dismissed the variation claims
+although certain variation works had been carried out pursuant to verbal
+instructions (see Mansource v CSG at [94]). The contract had contained an
+express term precluding variation claims save for variation works authorised
+and approved by the main contractor (Mansource v CSG at [7]). It was
+undisputed that the main contractor had not authorised or approved any of the
+variation works for which the subcontractor claimed payment. Accordingly, the
+contractual conditions for a successful variation claim were not satisfied
+(Mansource v CSG at [101]).
+
+21 The same reasoning applied here: the Subcontract expressly provides that
+variation works shall be carried out only with written instructions from
+Deluge’s Project Manager.
+
+22 Vim did not plead that it had any written instructions to support its
+variation claims; instead, it asserted that Deluge was estopped from denying
+its claims because Deluge allegedly: 30
+
+##### Foot Note 30
+
+×
+
+Reply and Defence to Counterclaim (Amendment No. 1) dated 3 September 2019
+(“Reply”) at para 33; SOC at paras 11-16.
+
+(a) waived the requirement for “written instructions”;
+
+(b) verbally instructed Vim to carry out the variation works;
+
+(c) assured and/or represented to Vim that Deluge will pay the claim for
+variation works (and what was outstanding under the Subcontract for the main
+works); and/or
+
+(d) accepted Vim’s invoices for variation works by signing on them.
+
+23 Both of Vim’s witnesses, Arun Meyyappan (“Mr Arun”) and Muruganandham Mathi
+Selvan (“Mr Anand”), admitted on the stand that Vim did not have written
+instructions for the alleged variations works that it was claiming payment
+for. 31
+
+##### Foot Note 31
+
+×
+
+Transcript, 30 June 2020, p 45 lines 25-32; p 46 line 1; 1 July 2020, p 47
+lines 5-20.
+
+Likewise, Deluge’s project manager Veeraiah Nagasundarapandian (“Mr Sundar”)
+denied having issued any such written instructions. 32
+
+##### Foot Note 32
+
+×
+
+Affidavit of Evidence-in-Chief of Veeraiah Nagasundarapandian (“Mr Sundar’s
+AEIC”) at paras 44–61.
+
+24 Initially, Vim thus seemed to accept that it did not have written
+instructions from Deluge’s project manager, but it belatedly tried to say that
+for some of the variation claims, it had received drawings from SCT which
+constituted the necessary written instructions. However, what clause 16 of the
+Subcontract requires is written instructions from Deluge’s project manager,
+not from SCT.
+
+25 Vim had, moreover, not pleaded that those drawings were written
+instructions for the purposes of its variation claims, and its witnesses
+admitted that there were no such written instructions (see [23] above).
+
+26 Further, of the 49 purported variation works for which Vim claimed payment,
+only six involved any shop drawings: UIC/DE/002, 33
+
+##### Foot Note 33
+
+×
+
+ABOD at pp 2946 and 2948.
+
+UIC/DE/005, 34
+
+##### Foot Note 34
+
+×
+
+ABOD at pp 2982 and 3022-3025.
+
+UIC/DE/006, 35
+
+##### Foot Note 35
+
+×
+
+ABOD at pp 3026, 3064, 3067, 3074, 3083-3087.
+
+UIC/DE/008, 36
+
+##### Foot Note 36
+
+×
+
+ABOD at pp 3091-3092.
+
+UIC/DE/016, 37
+
+##### Foot Note 37
+
+×
+
+ABOD at pp 3184 and 3188-3193.
+
+UIC/DE/018. 38
+
+##### Foot Note 38
+
+×
+
+ABOD at pp 3219 and 3223-3234.
+
+27 I was not satisfied that any of these six claims involved written
+instructions for variation works, let alone written instructions from Deluge’s
+project manager:
+
+(a) the drawing for UIC/DE/002, dated 6 January 2016, predates the Subcontract
+(dated 2 August 2016) and would not involve a variation of what Vim contracted
+to do;
+
+(b) the drawings for UIC/DE/005 and UIC/DE/006 have references to
+rectification, and rectification of Vim’s defective work would not be a
+variation;
+
+(c) the drawings for UIC/DE/008, UIC/DE/016 and UIC/DE/018 were not explained
+by Vim in evidence.
+
+28 I found that there were no written instructions from Deluge’s project
+manager for the purpose of variation works and variation claims under clause
+16 of the Subcontract. Accordingly, the contractual conditions for a
+successful variation claim by Vim were not satisfied.
+
+Was there waiver or estoppel?
+
+29 Vim asserted that, notwithstanding the lack of written instructions from
+Deluge’s project manager, Deluge has waived this requirement, or is estopped
+from relying on it (see [22] above).
+
+30 I found that there was no such waiver or estoppel.
+
+31 Vim asserted that it acted on verbal instructions; but that, in itself,
+cannot amount to a waiver or estoppel in relation to a contractual clause
+requiring written instructions (ie, clause 16 of the Subcontract). The alleged
+giving of verbal instructions simply means that the contractual requirement of
+written instructions has not been complied with.
+
+32 Vim argued that “a gentleman’s word is his bond” and so Deluge should pay
+notwithstanding the lack of written instructions. 39
+
+##### Foot Note 39
+
+×
+
+PCS at para 6.
+
+In the first place, however, Vim gave its word, as embodied in clause 16 of
+the Subcontract, that it would only carry out variation works with written
+instructions from Deluge’s project manager. In not paying for alleged
+variation works carried out without such written instructions, Deluge was
+simply honouring what parties had contractually agreed to in clause 16 of the
+Subcontract.
+
+33 Vim pleaded that it trusted that Deluge would pay, 40
+
+##### Foot Note 40
+
+×
+
+PCS at para 5.
+
+but that does not avail Vim. Given that Vim contracted on the basis that it
+would only carry out variation work with written instructions from Deluge’s
+project manager, it should have expected its variation claims to be rejected
+for the lack of such instructions. If Vim truly trusted Deluge to pay it
+nevertheless (which I am not persuaded of), that trust was truly misplaced.
+
+34 Vim also relied on the signatures of Mr Sundar and Mr Manickam Tamilarasan
+(“Mr Tamil”), Deluge’s project manager and Mr Sundar’s subordinate, on various
+purported variation works invoices, to say that Deluge thereby accepted that
+Vim had carried out variation works, and that Deluge would pay for them. 41
+
+##### Foot Note 41
+
+×
+
+PCS at para 12.
+
+I rejected this.
+
+35 I accepted the evidence of Mr Tamil and Mr Sundar that they were simply
+acknowledging that the works in question had been carried out, and not that
+those works were variation works or that Vim would be paid for them. 42
+
+##### Foot Note 42
+
+×
+
+Affidavit of Evidence-in-Chief of Manickam Tamilarasan (“Mr Tamil’s AEIC”) at
+para 65; Mr Sundar’s AEIC at para 49; Transcript, 7 July 2020, p 38 lines
+27-31; p 39 lines 1- 3; 8 July 2020, p 65 lines 18-20, p 67 lines 9 and 11, p
+76 lines 24-25.
+
+Moreover, Mr Sundar had, on all the acknowledgment pages signed by him, added
+a comment to this effect: “[w]e will submit to SCT accordingly. Upon approval
+respond to [Vim]”. 43
+
+##### Foot Note 43
+
+×
+
+ABOD pp 3350, 3352, 3355, 3357, 3359, 3361, 3363 and 3365.
+
+That does not mean Mr Sundar acknowledged that variation works had been done
+by Vim for which Vim should be paid. To the contrary, Mr Sundar was saying
+that the claims would be submitted to SCT for approval, and he would let Vim
+know the outcome of that. At most, Mr Sundar was saying that if SCT were to
+approve and pay Deluge for those claims, Deluge would in turn pay Vim. There
+was, however, no evidence that SCT approved or paid Deluge for any of Vim’s
+variation claims.
+
+36 In any event, I found that neither Mr Sundar himself nor Mr Tamil (who was
+Mr Sundar’s subordinate) had the authority to waive the requirement of written
+instructions under clause 16 of the Subcontract.
+
+37 The requirement of written instructions from a designated person serves
+various objectives. First, it provides for a written record, thus obviating
+disputes as to what was allegedly said (which happened in the present case).
+Second, it focuses the parties’ attention, at the time, on whether in
+principle there may be an adjustment to the contract sum. If, without written
+instructions, Vim proceeded to do work that it considered to be a variation,
+it did so at its own risk. As a corollary, if there had been written
+instructions from Deluge’s project manager, Deluge would be recognising that –
+in principle – Vim might get additional payment. Firming up the parties’
+positions contemporaneously as to whether variation works are involved is
+better than fighting about it in court (and in hindsight) long after the
+project.
+
+38 These objectives would be defeated if the designated person (or his
+subordinate) could dispense with written instructions, which the parties had
+contractually stipulated for.
+
+39 Vim however said that a director of Deluge, Mr Tan Ann Kiong (“Mr AK Tan”),
+had promised that Vim would be paid. 44
+
+##### Foot Note 44
+
+×
+
+SOC at para 12.
+
+What did Mr AK Tan supposedly promise Vim? As pleaded, it was just that Vim
+would be paid “upon Deluge receiving payment from SCT”. 45
+
+##### Foot Note 45
+
+×
+
+SOC at para 12.
+
+In conjunction with that, Vim pleaded that Deluge had been paid by SCT (in
+respect of Vim’s variation claims) but had refused to pay Vim in turn. 46
+
+##### Foot Note 46
+
+×
+
+SOC at para 12.
+
+But Vim had no evidence of this.
+
+40 In its particulars, Vim put the alleged promise by Mr AK Tan in a more
+extreme form: that Deluge “will settle all outstanding [amounts] claimed by
+Vim”. 47
+
+##### Foot Note 47
+
+×
+
+Plaintiff’s Further and Better Particulars dated 29 Jan 2019 (“Plaintiff’s
+FBP”) at paras 11 and 18.
+
+Mr AK Tan is said to have promised this on various occasions or during various
+meetings, specifically at meetings in October 2017, May 2018, and September
+2018. Vim’s particulars of this representation were however internally
+inconsistent: on the one hand, Vim says that Mr AK Tan attended those meetings
+with Deluge’s contract officer (Joey Teng) and contract manager (Vince Tho);
+48
+
+##### Foot Note 48
+
+×
+
+Plaintiff’s FBP at para 11.
+
+on the other hand, Vim says that Mr AK Tan attended those meetings with Mr
+Sundar instead. 49
+
+##### Foot Note 49
+
+×
+
+Plaintiff’s FBP at para 18.
+
+41 It made no commercial sense for Deluge to have promised to pay Vim on its
+variation claims, regardless of whether they were accepted and paid for by
+SCT. Vim had been sending invoices for variation claims since 6 April 2017
+when it emailed to Deluge the first six such invoices (all dated 27 March
+2017). 50
+
+##### Foot Note 50
+
+×
+
+ABOD at pp 1587–1700.
+
+Vim continued sending variation claim invoices until those dated 2 October
+2017, in conjunction with progress claim 19. 51
+
+##### Foot Note 51
+
+×
+
+ABOD at p 4266
+
+Up until then, Deluge did not certify any of the variation claim invoices for
+payment. Instead, Deluge had been deducting back-charges, starting from its
+email of 23 February 2017 enclosing payment certificate 10 and its first four
+back-charge invoices all dated 10 February 2017. 52
+
+##### Foot Note 52
+
+×
+
+ABOD at pp 926–957.
+
+On 3 October 2017, Deluge sent Vim payment certificate 17 with back-charges of
+over $800,000. That certified payment of a negative amount of $694,674,78. 53
+
+##### Foot Note 53
+
+×
+
+ABOD at p 3392.
+
+42 Given that history, it was incongruous and unlikely for Deluge to have done
+a U-turn in October 2017 and promised to pay Vim “all outstanding [amounts]
+claimed by Vim”. By that time, Deluge and SCT had both carried out certain
+works within Vim’s scope on account of defects and delays. The TOP was then
+obtained on 20 October 2017. The evidence did not support an inference that in
+October 2017, Deluge was prepared to pay Vim hundreds of thousands of dollars
+to secure Vim’s cooperation on the verge of the TOP being obtained, or after
+the TOP was obtained.
+
+43 It made even less sense that in May and September 2018 (after Vim had left
+the site in February 2018 while the DLP was still running), Deluge would make
+any promises of payment to Vim.
+
+44 There was nothing in writing, whether in an email, a WhatsApp message, or
+otherwise, recording Mr AK Tan’s alleged promise to pay Vim. Given the
+significance of the promise, one would have expected Vim to put it in writing.
+Vim’s excuse for not doing so was that it had trusted Deluge. This was a
+hollow excuse given that Vim left the site in February 2018, without the main
+works having been completed, and it did not return to attend to any
+rectification of defects thereafter (although the DLP had not ended). On Vim’s
+case, by the time Mr AK Tan promised in September 2018 that Deluge would pay
+Vim, this was at least the third time he was promising this (after promising
+the same at meetings in October 2017 and May 2018) - almost a year had passed,
+and Deluge had not made any payment to Vim. It was unbelievable that in
+September 2018, Vim still trusted Deluge to honour these promises and so chose
+not to put them in writing.
+
+45 In Vim’s lawyers’ letter of demand dated 4 October 2018, there was no
+mention of Deluge having made any promises of payment. 54
+
+##### Foot Note 54
+
+×
+
+ABOD at p 4563.
+
+In December 2018, Vim sued Deluge and asserted for the first time that there
+were such promises (albeit only on the basis that Deluge would pay Vim if SCT
+paid Deluge).
+
+46 I accepted Mr AK Tan’s evidence that there was a meeting in October 2017,
+and that he did not promise then (or ever) that Deluge would pay Vim its
+variation claims. 55
+
+##### Foot Note 55
+
+×
+
+Affidavit of Evidence-in-Chief of Tan Ann Kiong (“Mr AK Tan’s AEIC”) at paras
+22(a)-(d); Transcript, 9 July 2020, p 84 lines 10-29; p 86 lines 27-32; p 87
+lines 1-19.
+
+47 I was reinforced in my conclusion by the fact that one Velumani (“Mr Mani”)
+– identified by Vim as one of its two representatives at the meetings – was
+not called by Vim as a witness (see further [54] below). Vim only had the
+evidence of Mr Anand, which I did not accept.
+
+48 In all the circumstances, there was no waiver or estoppel in relation to
+the requirement for written instructions from Deluge’s project manager for
+variation works (and claims) in clause 16 of the Subcontract.
+
+49 With my findings above, I dismissed Vim’s variation claims.
+
+Other issues concerning Vim’s variation claims
+
+50 I made the following observations on the nature, and quantification, of
+Vim’s variations claims.
+
+Were the alleged variation works truly “variations”, or just afterthoughts?
+
+51 I do not need to specifically find which of Vim’s variation claims (if any)
+concerned true “variations”, ie, work done at Deluge’s request, beyond the
+scope of Vim’s main works. 56
+
+##### Foot Note 56
+
+×
+
+D&CC at para 28; DCS at paras 65–70.
+
+I would, however, observe that one reason for having a clause which stipulates
+that variation works are only to be carried out with written instructions from
+a designated person, is to avoid precisely this kind of a dispute.
+
+52 Moreover, Vim’s witnesses (Mr Arun and Mr Anand) were not well placed to
+testify from their own personal knowledge as to any oral instructions given
+for variation works to be carried out.
+
+53 Mr Arun admitted that he did not attend site meetings or go to the site; he
+did not have personal knowledge of what happened there – he would learn about
+that from his colleagues, principally Mr Mani. 57
+
+##### Foot Note 57
+
+×
+
+Transcript, 30 June 2020, p 22 lines 26-32; p 23 lines 1-6.
+
+Mr Anand said he would be on site for a while in the morning, about four days
+a week, before leaving for his other job. 58
+
+##### Foot Note 58
+
+×
+
+Transcript, 1 July 2020, p 9 lines 6-27.
+
+54 As I noted above (at [47]), Mr Mani was not called as a witness. This was
+despite Mr Anand saying that Mr Mani “[was] often present at the site during
+the [p]roject” 59
+
+##### Foot Note 59
+
+×
+
+Mr Anand’s AEIC at para 19.
+
+and him agreeing that Mr Mani was “the man who was really in charge of the
+project.” 60
+
+##### Foot Note 60
+
+×
+
+Transcript, 1 July 2020, p 32 lines 7-9.
+
+55 If Mr Arun and Mr Anand were relying on what they had heard from Mr Mani or
+others on site, that was hearsay.
+
+56 I would further observe that the variation invoices appeared to have been a
+reaction to Deluge levying back-charges (see [41] above). Indeed, the invoices
+for variation claims 27 and 36 to 47 were only provided after proceedings had
+commenced, in conjunction with the provision of particulars. 61
+
+##### Foot Note 61
+
+×
+
+D&CC at para 26; Reply at para 30; Transcript, 30 June 2020, p 58 lines 9-32;
+p 59 lines 1-10.
+
+None of those late invoices bears Mr Sundar’s signature, and it was not put to
+him that he had received them before proceedings were commenced.
+
+Were Vim’s variation claims excessive?
+
+57 Likewise, I did not need to find if Vim’s variation claims (which I have
+dismissed) were in any event excessive, as Deluge contended. 62
+
+##### Foot Note 62
+
+×
+
+DCS at paras 133–150 and Annex A.
+
+58 I did, however, accept that Vim did not quantify its variation claims in
+accordance with the Subcontract.
+
+59 Clause 16 of the Subcontract provides that “[Vim] shall be entitled to
+ninety percent (90%) … or shall allow a discount of 10% (Profit & Attendance)
+for [Deluge], on any approved variation claim for additional work orders”. 63
+
+##### Foot Note 63
+
+×
+
+ABOD at p 231.
+
+60 Besides there being no approved variation claims for additional work orders
+to begin with, Vim did not give Deluge the stipulated 10% discount. 64
+
+##### Foot Note 64
+
+×
+
+Transcript, 30 June 2020, p 56 lines 31-32; p 57 lines 1-6.
+
+Instead, Vim compounded its non-compliance with clause 16 of the Subcontract
+by adding on a 15% admin charge, that it was not entitled to. 65
+
+##### Foot Note 65
+
+×
+
+Transcript, 30 June 2020, p 57 lines 7-20.
+
+61 Vim also claimed payment with reference to an email dated 31 May 2017 by
+Susan Ngu (“Ms Ngu”) (Deluge’s quantity surveyor), 66
+
+##### Foot Note 66
+
+×
+
+ABOD at p 2263.
+
+characterising that as an agreed schedule of rates. 67
+
+##### Foot Note 67
+
+×
+
+PCS at para 18.
+
+Ms Ngu’s email was not an agreed schedule of rates – it was sent to Vim “for
+[Vim’s] reference only”. Vim had already sent its rates to Deluge on 14 July
+2016 68
+
+##### Foot Note 68
+
+×
+
+ABOD at p 84.
+
+but it did not use those in claiming payment for variations.
+
+Quantum meruit
+
+62 Vim pleaded that Deluge had received and accepted its variation works and
+further that Deluge had been paid for the same by SCT. 69
+
+##### Foot Note 69
+
+×
+
+SOC at para 17.
+
+However, Vim had no evidence that Deluge had received any additional payment
+from SCT for what Vim claimed were variation works. On the evidence before the
+court, Deluge was not unjustly enriched, bearing in mind that the Subcontract
+stipulated in clause 16 that variation works shall be carried out only with
+written instructions from Deluge’s project manager, and if Vim had in fact
+performed any variation works, it did so contrary to clause 16. Accordingly, I
+dismissed Vim’s quantum meruit claim.
+
+Costs incurred by Deluge in completing Vim’s works
+
+63 I accepted that Deluge incurred costs in completing Vim’s works, which
+Deluge is entitled to counterclaim and set-off against what may be due to Vim.
+
+64 It was common ground that a small amount of main works was not completed by
+Vim, contractually valued at $7,462.26 (see [6] above). Deluge incurred a
+lesser sum of $7,200 finishing up those works, 70
+
+##### Foot Note 70
+
+×
+
+Affidavit of Evidence-in-Chief of Mr Cheo Hwee Kwang (“Mr Cheo’s AEIC”) at
+para 119.
+
+and indeed gave credit to Vim for the cost savings of $262.26. I allowed this
+claim by Deluge.
+
+65 Deluge also claimed $105,300 for rectification of defects during the
+balance of the DLP after Vim left the site. 71
+
+##### Foot Note 71
+
+×
+
+Mr Cheo’s AEIC at para 120.
+
+Deluge assigned one supervisor and two workers for that purpose, 72
+
+##### Foot Note 72
+
+×
+
+Mr Cheo’s AEIC at para 120.
+
+which I accepted as reasonable.
+
+66 Accordingly, for completing Vim’s works I found that Deluge had a good
+counterclaim and set-off in the sum of $105,037.74, ie $7,200 – $7,462.26 +
+$105,300.
+
+Deluge’s claim for back-charges and/or damages
+
+Contractual provisions
+
+67 Clause 19 of the Subcontract (on “Back-Charge”) provides as follows: 73
+
+##### Foot Note 73
+
+×
+
+ABOD at p 231.
+
+19.1 If, under the provisions of this Subcontract, [Vim] is notified by
+[Deluge] to correct defective or non-conforming Subcontract works, or to
+perform Subcontract works in accordance with (and so as to comply with) the
+Subcontract’s Programme, and [Vim] states or, by its actions, indicates that
+it is unable or unwilling to proceed with the Subcontract works or corrective
+action or otherwise fails to do so in a reasonable time, [Deluge] may, upon
+written notice, perform or procure the performance of the redesign, repair,
+rework or replacement of nonconforming or non-performed Subcontract works by
+any reasonable means available at [Vim’s] cost including any cost for
+supervision and/or overhead.
+
+19.2 [Deluge] will notify [Vim] of any work performed or procured by it
+pursuant to [Clause 19.1]. The performance or procurement of such work by the
+[Deluge] shall not relieve the [Vim] of any of its responsibilities under the
+Subcontract including, but not limited to, express or implied warranties,
+specified standards for quality, contractual liabilities and indemnifications
+and [Deluge’s] Programme.
+
+19.3 If at any time [Deluge] performs or procures the performance of work
+pursuant to [Clause 19.1], [Deluge] shall have the right to retain, deduct,
+withhold or set-off the cost thereof from any payment to be made by [Deluge]
+to [Vim] or otherwise claim such amount from [Vim] without the need for a
+notice or an order of a court or tribunal sanctioning the intent of any such
+notice.
+
+68 Further, clause 21 of the Subcontract (on “Delay and Liquidated Damages”)
+provides as follows: 74
+
+##### Foot Note 74
+
+×
+
+ABOD at p 232.
+
+[Vim] shall perform all its obligations stated in this Subcontract and shall
+be liable for any delay in the completion of the services which are due to
+[Vim’s] negligence or fault.
+
+If the completion of services is likely to cause a delay, [Deluge] is entitled
+to take all necessary actions to mitigate the delay in the delivery or
+completion of services at [Vim’s] cost. …
+
+In the event of any delay due to [Vim’s] own fault, [Vim] is required to
+reimburse [Deluge] all losses, damages and expenses incurred because of the
+delay cause solely by [Vim].
+
+Vim did not accept Deluge’s back-charges
+
+69 Deluge contended that Vim had accepted the first $116,722.93 in back-
+charges, because Vim only invoiced for the amounts that Deluge certified
+(after Deluge had deducted those back-charges), and moreover Vim had not
+commenced proceedings under the Building and Construction Industry Security of
+Payment Act (Chapter 30B, 2006 Rev Ed) (“the SOPA”). 75
+
+##### Foot Note 75
+
+×
+
+DCS at paras 28–53.
+
+I did not agree with Deluge on this.
+
+70 First, notwithstanding Deluge’s deduction of back-charges, Vim’s subsequent
+progress claims sought payment for the full value of Vim’s main works, and
+also variation claims. In invoicing only for the amounts certified by Deluge,
+Vim was not accepting that Deluge was correct to deduct back-charges. It was
+simply invoicing the amounts that Deluge indicated it would pay (which Deluge
+then paid).
+
+71 Second, the fact that Vim did not make an application under the SOPA is not
+an admission that Deluge’s deduction of back-charges was correct. It was up to
+Vim whether to make an application under the SOPA, or simply to sue (as Vim
+did). In view of the back-charges that Deluge asserted, an application by Vim
+under the SOPA might not have resulted in Vim getting any additional payment
+on an interim basis.
+
+72 The question remained whether Deluge was entitled to the back-charges.
+
+Deluge’s case on back-charges
+
+73 Deluge supported its claim for back-charges by the evidence of its
+witnesses, 76
+
+##### Foot Note 76
+
+×
+
+Mr Tamil’s AEIC at paras 82–101; Mr Sundar’s AEIC at paras 29–43; Mr Cheo’s
+AEIC at paras 49–54 and 113–116.
+
+documents, and submissions, albeit that Deluge’s written submissions were
+focused on its later back-charges, totalling $870,507.09. 77
+
+##### Foot Note 77
+
+×
+
+DCS at para 168; also see [9] above.
+
+74 In Vim’s pleadings, it denied liability for the back-charges, and put
+Deluge to strict proof of them; 78
+
+##### Foot Note 78
+
+×
+
+Reply at para 13.
+
+Vim also asserted that Deluge had not given notice as required under clause 19
+of the Subcontract. 79
+
+##### Foot Note 79
+
+×
+
+Reply at paras 19-28.
+
+75 The evidence shows that there were delays and defects in Vim’s works, about
+which there were various SCT site memoranda. 80
+
+##### Foot Note 80
+
+×
+
+DCS at para 172.
+
+76 Based on the evidence of Mr Tamil and Deluge’s submissions, I accepted that
+Vim would have needed some 80 or more workers on site per day to carry out its
+works successfully; but the evidence showed that Vim never had more than 53
+workers present on any one day, and on average only 27 workers were there per
+day. This was borne out by the daily toolbox meeting attendance records of
+Vim’s workers (including third party “supply workers”). 81
+
+##### Foot Note 81
+
+×
+
+Defendant’s Supplementary Bundle of Documents (“DSBD”); Transcript, 2 July
+2020, p 4 lines 2-7.
+
+77 Further, it was questionable whether Vim’s workers (and especially the
+supply workers it used to supplement its own workforce) had certificates
+issued by the Building and Construction Authority for plumbing and pipe
+fitting. In particular, the supply workers were likely general labour rather
+than skilled in the specific tasks Vim had contracted with Deluge to carry out
+under the Subcontract.
+
+78 Vim also placed orders for materials on very short notice, even for items
+that Vim itself was expected to provide.
+
+79 The delays and defects culminated in two site meetings with SCT, where Vim
+was informed that SCT would mobilise workers if the situation did not improve.
+
+80 There was a site meeting on 21 December 2016 which was attended by Vim’s Mr
+Manikandan and Mr Mani, and Deluge’s Mr Tamil. The minutes record: 82
+
+##### Foot Note 82
+
+×
+
+ABOD at p 710.
+
+Deluge [plumbing and sanitary] to catch up progress [sic] within [two] weeks
+[by] [4th Jan 2017].
+
+… They agreed that SCT [is to] [mobilise] other party for Residential
+[plumbing and sanitary] [works], if they do not catch up progress by [4th Jan
+2017].
+
+81 There was then a meeting on 3 February 2017 attended by Vim’s Mr Manikandan
+and Mr Anand, and Deluge’s representatives including Mr Tamil. A site
+memorandum from SCT about that meeting records the following: 83
+
+##### Foot Note 83
+
+×
+
+ABOD at p 3591.
+
+1\. Deluge take note and committed to improve site work progress and
+supervision for [plumbing and sanitary] works as highlighted by SCT of the
+following during meeting:
+
+I) Unit Ceiling Clearance for lower stack are delayed for more than [two]
+weeks based on revised schedule due to pipe was installed wrongly [sic].
+
+II) SCT also noted one of the reasons for [Deluge’s] work delay is due to lack
+of manpower and supervision.
+
+III) SCT highlighted that SCT with no other alternative had to [mobilise] our
+workforce to rectify [Deluge’s] faulty pipe installation and to catch up delay
+work which had caused “bottle neck” to other subsequent works [sic].
+
+2\. Deluge shall increase the manpower (currently 47) and improve situation to
+prevent rework as affected site progress [sic].
+
+3\. Deluge agreed [with] the manpower [mobilised] by SCT working together to
+catch up schedule until site progress is stabilising [sic].
+
+[emphasis added]
+
+82 In its minutes and site memoranda, SCT collectively referred to Deluge and
+Vim as “Deluge”. Vim knew from the first meeting on 21 December 2016 that on
+account of delays in its works, SCT would be placing manpower to attend to
+works within Vim’s scope, if the situation did not improve. Vim knew from the
+second meeting on 3 February 2017 that SCT had done so. Vim would have
+expected SCT to look to Deluge for the costs of doing so, and for Deluge in
+turn to look to Vim.
+
+Vim’s reasons for not being liable for back-charges
+
+83 Vim put forward a range of reasons why it should not be held liable for the
+back-charges asserted by Deluge.
+
+84 First, Vim suggested that it had not caused any delays or defects. Mr Anand
+said “all work was done properly and in a timely manner by [Vim]” 84
+
+##### Foot Note 84
+
+×
+
+Mr Anand’s AEIC at para 16.
+
+and “all our works were always done properly without any delay”. 85
+
+##### Foot Note 85
+
+×
+
+Mr Anand’s AEIC at para 28.
+
+In similar vein, Vim suggested that SCT’s workers had “purposely” damaged
+Vim’s completed pipe work, 86
+
+##### Foot Note 86
+
+×
+
+Transcript, 30 June 2020, p 51 lines 8-17.
+
+and SCT had “purposely” complained about delays. 87
+
+##### Foot Note 87
+
+×
+
+Transcript, 1 July 2020, p 18, lines 7-10;
+
+I rejected this given the evidence of Deluge’s witnesses, which was consistent
+with the contemporaneous site memoranda issued by SCT. 88
+
+##### Foot Note 88
+
+×
+
+Mr Tamil’s AEIC at paras 82–101; Mr Sundar’s AEIC at paras 29–43; Mr Cheo’s
+AEIC at paras 49–54.
+
+It was also absurd to suggest that SCT, the main contractor, had purposely
+damaged Vim’s completed work and made up claims to incriminate Vim – this was
+not borne out by the evidence.
+
+85 Second, Vim suggested that any delays 89
+
+##### Foot Note 89
+
+×
+
+ABOD at pp 533 and 548.
+
+were caused by Deluge – in delaying the supply of materials or payment to Vim,
+90
+
+##### Foot Note 90
+
+×
+
+Transcript, 30 June 2020, p 110 lines 3-15 and 23-29.
+
+or because Mr Tamil did not conduct regular checks on Vim’s works “at least
+twice a day or whatever”. 91
+
+##### Foot Note 91
+
+×
+
+Transcript, 2 July 2020, p 94 lines 29–32, p 95 lines 1–2.
+
+These allegations were not made out:
+
+(a) The evidence shows that if materials were supplied late, it was because
+Vim had ordered the materials late.
+
+(b) Vim did not say that it had delayed its works because of payment issues
+(at least not prior to it leaving the site, as it did). Moreover, in relation
+to Vim’s progress claims 6 through 11 there were no delays in payment.
+
+(c) Vim had its own project supervisor, Mr Manikandan, and it could not blame
+Deluge’s Mr Tamil for not supervising its workers.
+
+86 Third, Vim suggested that any delays and defects were merely “minor”. 92
+
+##### Foot Note 92
+
+×
+
+Transcript, 2 July 2020, p 172 lines 16 – 19; 7 July 2020, p 59 lines 12–16, p
+83 lines 8–10.
+
+There was nothing in this point: Deluge’s right to levy back-charges was not
+dependent on delays and defects being “major” rather than “minor”.
+
+87 Fourth, Vim argued that some of the contemporaneous documentation,
+including the following, amounts to hearsay evidence: (a) documents issued by
+SCT, such as site memoranda; (b) documents issued by third parties engaged to
+complete Vim’s works or rectify defects, such as Systems Engineering &
+Resources Pte Ltd (“SER”); and (c) records of attendance of Vim’s workers at
+daily toolbox meetings.
+
+88 A basic problem with Vim’s hearsay objection, was that Deluge did not just
+have the above documents as evidence of the matters they relate to. Deluge
+also had the Affidavits of Evidence-in-Chief and oral testimony of its
+witnesses, in particular, Mr Tamil and Mr Sundar, as to what happened in
+relation to matters covered by those documents: delays; defects; the manpower
+situation on site; meetings; and what Deluge, SCT, and third parties did to
+address delays and defects caused by Vim.
+
+89 Further, all these categories of documents which Vim objected to, were in
+the nature of business records, for which s 32(1)(b)(iv) of the Evidence Act
+(Cap 97, 1997 Rev Ed) makes an exception to the hearsay rule. In so far as
+Deluge was relying on documents issued by SCT and SER not for the truth of
+their contents, but for the fact that those documents were issued, and that
+the statements in them were made, that did not offend the hearsay rule in the
+first place. Thus, Deluge could rely on the fact that it had sent site
+memoranda to Vim, as constituting notice to Vim of what the site memoranda
+were about. Deluge could also rely on the documents it received from SER to
+support its witnesses’ evidence that Deluge had engaged SER.
+
+90 As for the toolbox records: when they were admitted and marked as trial
+exhibits by Deluge’s counsel, Vim’s counsel was asked “[if he had] any issue
+with [those] documents being admitted”. He responded that he “[did not] really
+have an issue, but [he did not] really see … how [those documents] [were]
+going to help [Deluge] in their case”. 93
+
+##### Foot Note 93
+
+×
+
+Transcript, 30 June 2020, p 91 lines 8–11.
+
+In the event, the admission of the toolbox records was not objected to, and
+neither were their contents.
+
+91 Finally, Vim argued that Deluge had not given written notice as required
+under clause 19.1 of the Subcontract. Although Vim sought to distinguish the
+case of Mansource v CSG ([20] supra) in relation to the lack of written
+instructions to support its variation claims under clause 16 of the
+Subcontract, Vim embraced Mansource v CSG as an authority to say that the lack
+of written notice under clause 19.1 of the Subcontract was fatal to Deluge’s
+claim for back-charges. I disagreed with Vim.
+
+92 Clause 16 and clause 19 are drafted differently. Clause 16 says variation
+works “shall be carried out only with written instructions from [Deluge’s]
+Project Manager” [emphasis added]. 94
+
+##### Foot Note 94
+
+×
+
+ABOD at p 231.
+
+Clause 19, on the other hand, does not say that Deluge can take action to
+redress defects and delays in Vim’s works only upon written notice. Clause
+19.1 says that “ [Deluge] may, upon written notice, perform or procure the
+performance of the redesign, repair, rework or replacement of nonconforming or
+non-performed Subcontract works by any reasonable means available at the
+[Vim’s] cost” [emphasis added] 95
+
+##### Foot Note 95
+
+×
+
+ABOD at p 231.
+
+and clause 19.3 states that “[Deluge] shall have the right to retain, deduct,
+withhold or set-off the cost thereof from any payment to be made by [Deluge]
+to [Vim] or otherwise claim such amount from [Vim]”. 96
+
+##### Foot Note 96
+
+×
+
+ABOD at p 231.
+
+93 If Deluge acted without written notice to Vim, Deluge could not thereafter
+levy a back-charge within clause 19 of the Subcontract. However, clause 19
+does not preclude Deluge from claiming against Vim for breach of contract, and
+indeed Deluge had (as an alternative to counterclaiming for a specific sum)
+sought damages to be assessed. 97
+
+##### Foot Note 97
+
+×
+
+D&CC at para 54.
+
+94 Clause 21 of the Subcontract (which contains no requirement of notice or
+written notice) stipulates that: 98
+
+##### Foot Note 98
+
+×
+
+ABOD at p 232.
+
+(a) Vim shall be liable for any delay in the completion of the services which
+are due to its negligence or fault;
+
+(b) if the completion of services is likely to cause a delay, Deluge is
+entitled to take all necessary actions to mitigate the delay at Vim’s cost;
+and
+
+(c) in the event of any delay due to Vim’s own fault, Vim is required to
+reimburse Deluge all losses, damages and expenses incurred because of the
+delay caused solely by Vim.
+
+95 Deluge did not need to rely on clause 19 of the Subcontract to seek damages
+for breaches on Vim’s part – Deluge also has clause 21, and its remedies for
+breach of contract at general law. Vim, on the other hand, needed clause 16 of
+the Subcontract in order to get additional payment for variation works – there
+is no general contractual right to be paid for the doing of additional work as
+“variations”.
+
+96 In any event, Deluge had given Vim written notice that action would be
+taken if Vim did not redress defects and delays in its works. 99
+
+##### Foot Note 99
+
+×
+
+DCS at paras 205, 206, 214, 228-229; Defendant’s Reply Submissions (“DRS”) at
+para 26; Mr Tamil’s AEIC at para 90; Mr Sundar’s AEIC at para 37.
+
+97 In so far as the back-charges were in respect of manpower placed by SCT
+(rather than by Deluge itself), or were for health and safety infractions by
+Vim (for which SCT charged Deluge), those fall outside the ambit of clause
+19.1 of the Subcontract (which deals with Deluge “[performing] or [procuring]
+the performance of the redesign, repair, rework or replacement of
+nonconforming or non-performed Subcontract works”). 100
+
+##### Foot Note 100
+
+×
+
+ABOD at p 231.
+
+Accordingly, any lack of written notice from Deluge would not avail Vim for
+the SCT-related back-charges. Moreover, in relation to the delays and defects
+in its works, Vim was aware of what SCT would do, and had done, from the site
+meetings it had attended (see [79]-[81] above), which were then recorded in
+minutes and a site memorandum.
+
+98 Vim relied on the fact that when it complained by its email of 20 February
+2017 to Deluge about SCT’s supply of manpower for Vim’s scope of works, 101
+
+##### Foot Note 101
+
+×
+
+ABOD at p 880.
+
+Deluge adopted what Vim said and complained to SCT by way of a letter dated 21
+February 2017. 102
+
+##### Foot Note 102
+
+×
+
+ABOD at p 916.
+
+Vim argued this shows that Deluge agreed that SCT’s back-charges to Deluge
+(that were related to the complaints) were unjustified, and consequently
+Deluge’s back-charges to Vim were unjustified. I did not accept this.
+
+99 As Deluge’s Mr AK Tan explained, 103
+
+##### Foot Note 103
+
+×
+
+Mr AK Tan’s AEIC at paras 9–16.
+
+Deluge was simply trying to convince SCT not to impose any back-charges;
+however, if any back-charges were imposed by SCT against Deluge, Deluge would
+have passed on the same to Vim (as Vim was ultimately responsible for the
+works in question).
+
+What should Deluge be allowed for back-charges and/or damages?
+
+100 On the evidence, I found that Deluge had substantiated its claims against
+Vim in respect of the back-charges asserted and/or damages, save for the 15%
+admin charge which Deluge added to some of its back-charge invoices.
+
+101 I note that what Deluge did in performing or procuring the performance of
+non-conforming or non-performed works pursuant to clause 19.1 of the
+Subcontract is “at [Vim’s] cost including any cost for supervision and/or
+overhead” [emphasis added]. 104
+
+##### Foot Note 104
+
+×
+
+ABOD at p 231.
+
+However, Deluge’s claims also included what SCT did (rather than what Deluge
+did) in supplying manpower in respect of matters that were within Vim’s scope
+of works. On the evidence, Deluge did not undertake any supervision of the
+manpower supplied by SCT.
+
+102 When Deluge back-charged Vim $1,100 in back-charge invoice 4 for health
+and safety infractions that SCT had charged Deluge for, 105
+
+##### Foot Note 105
+
+×
+
+ABOD at p 950.
+
+Deluge did not add a 15% admin charge. However, Deluge’s back-charge invoice
+17 included an amount for “safety fine” and another amount for “waste
+disposal”, and a 15% admin charge was added to those. 106
+
+##### Foot Note 106
+
+×
+
+D&CC at Annex A1.
+
+103 I did not consider it justified for Deluge to add 15% to the back-charges
+which SCT imposed on Deluge, in back-charging the same to Vim.
+
+104 As for the manpower which Deluge itself supplied, that already included
+the cost of supervisors. 107
+
+##### Foot Note 107
+
+×
+
+ABOD at pp 843, 848 and 854.
+
+Deluge did not satisfy me that an additional 15% admin charge should be
+allowed as costs for “supervision and/or overhead” allowed under clause 19.1
+of the Subcontract. Nothing extra in this regard was claimed by Deluge for
+completing Vim’s works (including defect rectification): see [63]–[66] above.
+As for third parties engaged by Deluge, Deluge did not substantiate what costs
+it incurred by way of supervision and/or overhead.
+
+105 Accordingly, I disallowed the following amounts representing Deluge’s 15%
+admin charge: 108
+
+##### Foot Note 108
+
+×
+
+D&CC at para 15.
+
+(a) $1,242 on back-charge invoice 1; 109
+
+##### Foot Note 109
+
+×
+
+ABOD at p 935.
+
+(b) $5,940 on back-charge invoice 2; 110
+
+##### Foot Note 110
+
+×
+
+ABOD at p 939.
+
+(c) $483 on back-charge invoice 3; 111
+
+##### Foot Note 111
+
+×
+
+ABOD at p 944.
+
+(d) $300 on back-charge invoice 5; 112
+
+##### Foot Note 112
+
+×
+
+ABOD at p 1043.
+
+(e) $378.98 on back-charge invoice 8; 113
+
+##### Foot Note 113
+
+×
+
+ABOD at pp 2230 and 2846.
+
+(f) $45 on back-charge invoice 9; 114
+
+##### Foot Note 114
+
+×
+
+ABOD at pp 2231 and 2846.
+
+(g) $168 on back-charge invoice 10; 115
+
+##### Foot Note 115
+
+×
+
+ABOD at pp 2232 and 2846.
+
+(h) $240 on back-charge invoice 11; 116
+
+##### Foot Note 116
+
+×
+
+ABOD at pp 2233 and 2846.
+
+(i) $2,316.26 on back-charge invoice 12; 117
+
+##### Foot Note 117
+
+×
+
+ABOD at pp 2511 and 2846.
+
+(j) $2,244.90 on back-charge invoice 13; 118
+
+##### Foot Note 118
+
+×
+
+ABOD at pp 2405-2408 and 2846.
+
+(k) $619.50 on back-charge invoice 14; 119
+
+##### Foot Note 119
+
+×
+
+ABOD at pp 2217 and 2846.
+
+(l) $1,103.62 on back-charge invoice 15; 120
+
+##### Foot Note 120
+
+×
+
+ABOD at pp 2634 and 2846.
+
+(m) $232.05 on back-charge invoice 16A; 121
+
+##### Foot Note 121
+
+×
+
+ABOD at pp 2799 and 4544.
+
+(n) $93,323.31 on back-charge invoice 17; 122
+
+##### Foot Note 122
+
+×
+
+D&CC at Annex A1.
+
+(o) $3,159 on back-charge invoice 18; 123
+
+##### Foot Note 123
+
+×
+
+ABOD at pp 4238 and 4543.
+
+and
+
+(p) $16,830.04 on back-charge invoice 19. 124
+
+##### Foot Note 124
+
+×
+
+D&CC at Annex B1.
+
+106 These amounts totalled $128,625.66. I thus allowed Deluge’s claim for
+back-charges and/or damages, as follows: $116,722.93 + $870,507.09 -
+128,625.66 = $858,604.36. As mentioned at [66] above, I also allowed Deluge’s
+claim for $105,037.74 for completing Vim’s works (including rectification of
+defects). The sums of $105,037.74 + $858,604.36 allowed to Deluge were to be
+offset against the sum of $453,912.94 mentioned at [16] above, being the value
+of main works for which Vim has not been paid.
+
+107 On the basis of the calculations above, a net sum of $105,037.74 +
+$858,604.36 - $453,912.94 = $509,729.16 was thus to be paid by Vim to Deluge.
+
+Costs
+
+108 Deluge is the successful party in this lawsuit. Deluge claimed legal costs
+of $141,000 and disbursements of $40,100, totalling $181,100. The matter had
+been scheduled for eight days of trial, but with the cooperation of the
+parties and counsel (for which I am grateful), and longer hearing hours, it
+was concluded in seven days (avoiding the matter being part heard, since the
+8th day was polling day). There was a substantial volume of documents, a range
+of claims on both sides, and several rounds of written closing submissions and
+post-trial correspondence. The parties’ costs schedules were submitted at or
+around the time of the first round of submissions, and more work was done in
+correspondence and submissions thereafter.
+
+109 I considered Deluge’s claim for costs to be reasonable. I was fortified in
+this conclusion by Vim’s claim for costs, which was higher both as regards
+legal costs, and the total claimed: Vim claimed $166,000 in legal costs and
+disbursements of $32,940, totalling $198,940.
+
+110 I thus awarded Deluge costs in the total sum of $181,100, as claimed.
+
+Conclusion
+
+111 I found that Vim was entitled to $453,912.94 as the unpaid value of the
+main works. Other than that, I dismissed Vim’s claims.
+
+112 I allowed Deluge’s counterclaims for $105,037.74 for completing Vim’s
+works (including rectification of defects), and for $858,604.36 in back-
+charges and/or damages. Those amounts were to be set-off against the
+$453,912.94 due to Vim for the main works.
+
+113 I thus granted Deluge judgment in the net sum of $509,729.16 together with
+costs in the sum of $181,100.
+
+Postscript
+
+114 When I granted judgment, I had relied on Deluge’s back-charges summary for
+work done until 31 May 2017 125
+
+##### Foot Note 125
+
+×
+
+ABOD p 2835 at p 2846.
+
+in determining the amounts claimed by Deluge as 15% admin charge in back-
+charge invoices 5, and 8 to 15 (see [105(d)] to [105(l)] above). In preparing
+these written grounds of decision, however, I noticed that back-charge
+invoices 8 and 10 themselves included certain amounts as a 15% admin fee:
+$166.50 and $133.23 in back-charge invoice 8, and $52.17 in back-charge
+invoice 10. Deluge then claimed a 15% admin charge on the invoiced amounts.
+Had I noticed this at the time I gave oral judgment, I would not only have
+disallowed the 15% admin charge claimed on the back-charge invoices (see [105]
+above), I would also have disallowed the 15% admin charges invoiced in back-
+charge invoices 8 and 10, totalling $166.50 + 133.23 + $52.17 = $351.90. The
+net sum allowed to Deluge would then have been $509,377.26 instead of
+$509,729.16.
+
+Andre Maniam  
+Judicial Commissioner
+
+Charan Singh s/o Bantar Singh (Charan & Co) for the plaintiff;
+
+Namazie Mirza Mohamed, Ong Ai Wern (Mallal & Namazie)
+
+for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 22 Mar 2021 (17:35 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

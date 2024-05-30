@@ -1,0 +1,2042 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE high court of the republic of singapore
+
+[2023] SGHC 92
+
+Suit No 445 of 2020
+
+Between
+
+| Amberwork Source Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| QA Systems Pte Ltd  
+---|---  
+(2)| Yeo Chow Wah  
+  
+… Defendants
+
+JUDGMENT
+
+[Commercial Transactions — Sale of goods — Breach of contract]
+
+[Contract — Formation — Acceptance]
+
+[Contract — Illegality and public policy]
+
+[Credit and Security — Money and moneylenders — Illegal moneylending]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Amberwork Source Pte Ltd
+
+  
+v
+
+  
+
+QA Systems Pte Ltd and another
+
+[2023] SGHC 92
+
+General Division of the High Court — Suit No 445 of 2020  
+S Mohan J  
+26–29 July, 23 September 2022
+
+11 April 2023 Judgment reserved.
+
+S Mohan J:
+
+Introduction
+
+1 The parties to this suit were presented with attractive business
+propositions by a third party known as Ronald Wee (“Ronald”). The plaintiff,
+Amberwork Source Pte Ltd (“Amberwork”), was told that Ronald’s business, Weroc
+Group Pte Ltd (“Weroc”), was looking to buy goods (specifically,
+telecommunications/fibre optic cables and related goods) for on-sale to its
+customers in China but lacked the funds to do so. Amberwork was thus invited
+by Ronald to purchase these goods and sell them to Weroc, but on deferred
+payment terms. On the other side of the fence, the defendants were told by
+Ronald that he had (via Weroc) goods to resell to customers in Singapore but
+needed to sell them through a reseller that was an established enterprise in
+Singapore. The first defendant, QA Systems Pte Ltd (“QA”), became that
+enterprise, and proceeded (as Weroc’s authorised reseller) to sell goods to
+Amberwork. Amberwork purchased those goods and resold them to Weroc for a
+profit.
+
+2 This dispute has arisen because Amberwork has not been paid by Weroc.
+Amberwork sues QA as the first defendant for the sums Amberwork has paid on
+QA’s invoices, claiming that QA (as seller) has failed to deliver the goods it
+sold to Amberwork. It also sues QA’s director, the second defendant Yeo Chow
+Wah (“Sandra Yeo” or “Sandra”), for dishonestly assisting Weroc and/or Ronald
+to commit acts that amounted to a breach of trust. Sandra Yeo is a director
+and shareholder of QA, and also Ronald’s aunt. 1
+
+##### Foot Note 1
+
+×
+
+Defence of the first defendant (Amendment No 2) paras 3–4.
+
+3 Both defendants disavow any liability. QA contends that it was a mere
+payment agent for Ronald/Weroc, that Amberwork and QA did not share any
+contractual relationship as they were never ad idem, and even if they were,
+that the sale and purchase contracts were sham transactions or tainted by
+illegality as they were in substance unlicensed moneylending transactions.
+Sandra Yeo also denies liability for the claims made against her personally.
+
+4 The parties fiercely contest the proper characterisation of the transactions
+that form the subject matter of this action. The difficulty with this case is
+that the key protagonist, Ronald, passed away in March 2020 in unnatural and
+somewhat tragic circumstances. As a result, all the court is left with to
+piece the puzzle together are the parties’ contemporaneous communications and
+the opposing narratives of their witnesses.
+
+Background
+
+5 The plaintiff, Amberwork, is in the business of trading cables. 2
+
+##### Foot Note 2
+
+×
+
+Statement of Claim (Amendment No 2) amended on 30 June 2021 (“SOC (Amendment
+No 2)”) para 1.
+
+6 In 2017, its sole director Ang Say Cheong (“Roger Ang” or “Roger”) and/or
+its finance manager Pua Poh Lim Pauline (“Pauline Pua” or “Pauline”) received
+a business proposition from Ronald. 3
+
+##### Foot Note 3
+
+×
+
+SOC (Amendment No 2) paras 1 and 6.
+
+Ronald was Roger’s long-time acquaintance from the cable industry. 4
+
+##### Foot Note 4
+
+×
+
+SOC (Amendment No 2) para 6.
+
+He was also the sole director and shareholder of Weroc, a Singapore-
+incorporated private equity firm. 5
+
+##### Foot Note 5
+
+×
+
+SOC (Amendment No 2) paras 4, 6 and 7.
+
+7 According to Amberwork’s pleaded case, the business proposition envisaged
+that: 6
+
+##### Foot Note 6
+
+×
+
+SOC (Amendment No 2) para 8.
+
+(a) Roger/Pauline would purchase cables and related goods from an authorised
+reseller (the “Reseller”) recommended by Ronald and resell the same goods to
+Weroc;
+
+(b) the Reseller would make the goods available for Weroc’s collection, ex-
+factory in China; and
+
+(c) Weroc would then pay Roger/Pauline for the goods (within 60 days of
+receiving their invoice).
+
+8 In this way, Weroc (which, according to Amberwork’s pleaded case, lacked
+sufficient funds to pay for the goods upfront 7
+
+##### Foot Note 7
+
+×
+
+SOC (Amendment No 2) para 7.
+
+) would benefit from the deferred payment terms. In consideration for this,
+Weroc would pay Roger/Pauline a higher price than that which Roger/Pauline
+would pay to the Reseller, thereby enabling Roger/Pauline to earn the
+difference as profit. 8
+
+##### Foot Note 8
+
+×
+
+Transcript 26 July 2022 p 24 line 31 to p 25 line 6.
+
+Roger/Pauline would not be told of the identity of the ultimate supplier of
+the goods in China as Ronald wished to protect those details as his trade
+secrets. 9
+
+##### Foot Note 9
+
+×
+
+SOC (Amendment No 2) paras 8(a) and 8(b).
+
+9 In 2018, Roger/Pauline entered into sale and purchase transactions based on
+this arrangement. The transactions were conducted through various entities
+that they controlled. 10
+
+##### Foot Note 10
+
+×
+
+SOC (Amendment No 2) para 9.
+
+10 The present suit concerns two such transactions (individually, the “First
+Transaction” and “Second Transaction”; and collectively, the “Transactions”).
+The Transactions were between Amberwork and QA.
+
+11 The Transactions relate to two invoices issued by QA to Amberwork on 10
+September 2019 and 26 September 2019, for the sums of $605,132 and $80,460
+respectively (individually, the “First Invoice” and “Second Invoice”; and
+collectively, the “Invoices”). 11
+
+##### Foot Note 11
+
+×
+
+SOC (Amendment No 2) para 12.
+
+The Invoices were issued on QA’s letterhead, bore its company stamp, and were
+signed by its representative. 12
+
+##### Foot Note 12
+
+×
+
+Agreed Bundle of Documents vol 1 (“AB1”) pp 70 and 80.
+
+They were described as invoices for the supply of the items and materials that
+were stated therein. Both Invoices stated that the goods were to be collected
+ex-factory in Shenzhen, China, and stated when they were ready to be collected
+by. The Invoices also specified that payment was to be made by Amberwork to QA
+“T/T Immediate upon bill”. 13
+
+##### Foot Note 13
+
+×
+
+AB1 pp 70 and 80.
+
+12 It is undisputed that Amberwork paid the First Invoice in two tranches, on
+10 September and 12 September 2019. 14
+
+##### Foot Note 14
+
+×
+
+SOC (Amendment No 2) para 13; Defence of the first defendant (Amendment No 2)
+para 13(c); Defence of the second defendant para 10(c).
+
+It is also undisputed that Amberwork paid the Second Invoice fully on 26
+September 2019. 15
+
+##### Foot Note 15
+
+×
+
+SOC (Amendment No 2) para 13; Defence of the first defendant (Amendment No 2)
+para 13(c); Defence of the second defendant para 10(c).
+
+Amberwork claims that the goods stated in the Invoices were not delivered. 16
+
+##### Foot Note 16
+
+×
+
+SOC (Amendment No 2) para 14.
+
+13 Almost half a year later, on 19 March 2020, Amberwork informed QA that it
+was cancelling its orders and requested a refund of $685,592 (ie, the total
+sum that Amberwork paid under the Transactions). 17
+
+##### Foot Note 17
+
+×
+
+SOC (Amendment No 2) para 14(a).
+
+A refund was never effected. Instead, on 21 March 2020, Sandra responded by
+e-mail stating, among other things, that it “dutifully made the payment to
+Ronald … in good faith that the goods will be delivered to [Amberwork] without
+unnecessary delay”. 18
+
+##### Foot Note 18
+
+×
+
+AEIC of Yeo Chow Wah pp 156 and 157.
+
+Amberwork interpreted this as QA’s repudiation of the agreements to supply the
+goods. In the present suit, it claims against QA for the sum of $685,592. 19
+
+##### Foot Note 19
+
+×
+
+SOC (Amendment No 2) paras 14 to 16.
+
+Parties’ cases
+
+Amberwork’s case
+
+14 Amberwork’s case is that it is entitled to the return of the sum of
+$685,592. It says that contracts had been concluded between itself and QA for
+the sale and purchase of goods (the “Agreements”), on the back of or as
+evidenced by the Invoices. 20
+
+##### Foot Note 20
+
+×
+
+SOC (Amendment No 2) para 12.
+
+The Agreements satisfied the three crucial elements for determining the
+existence of a contract for the sale of goods: it provided for the identity of
+the parties, the price to be paid, and the specifications of the goods. 21
+
+##### Foot Note 21
+
+×
+
+Plaintiff’s closing submissions (“PCS”) paras 9 and 10; Reply to the Defence
+of the first defendant (Amendment No 1) para 10(a); Reply to the Defence of
+the second defendant para 7(a).
+
+Moreover, these were legitimate transactions, structured as they were for the
+purposes of trade financing. 22
+
+##### Foot Note 22
+
+×
+
+PCS para 5.
+
+Consequently, Amberwork was entitled to the sum of $685,592 it paid under the
+Agreements as QA had repudiated the same. Further, or in the alternative,
+there was a total failure of consideration. 23
+
+##### Foot Note 23
+
+×
+
+SOC (Amendment No 2) paras 15 and 16; PCS para 1.
+
+15 In the alternative, if QA is found not to be party to the Agreements, it
+would instead be liable for fraudulently misrepresenting that it could supply
+the goods when it could not. 24
+
+##### Foot Note 24
+
+×
+
+SOC (Amendment No 2) paras 17 to 20; PCS para 6.
+
+16 Finally, even if QA was merely Weroc’s or Ronald’s “payment agent”, the
+wrongful retention by Weroc/Ronald of the sum of $685,592 would constitute a
+breach of trust. Sandra would be personally liable to account for that sum as
+a constructive trustee, for dishonestly assisting Ronald/Weroc in their breach
+of trust. 25
+
+##### Foot Note 25
+
+×
+
+SOC (Amendment No 2) paras 21 to 25; PCS para 6.
+
+QA’s and Sandra’s case
+
+17 QA and Sandra deny all liability for the Transactions. They say that the
+impugned transactions were all orchestrated by Ronald. In July or August 2019,
+Ronald had represented to Sandra that he had clients (like Amberwork) who
+wished to purchase goods from him, but who preferred to work with established
+counterparts. 26
+
+##### Foot Note 26
+
+×
+
+Defence of the first defendant (Amendment No 2) para 11; Defence of the second
+defendant para 9(d).
+
+Weroc was unsuitable as it was only incorporated in 2017. 27
+
+##### Foot Note 27
+
+×
+
+Defence of the first defendant (Amendment No 2) para 11; Defence of the second
+defendant para 9(d).
+
+Ronald proposed that Sandra use one of her companies to take advantage of this
+opportunity, and represented to her that he would make the necessary
+arrangements with Amberwork. 28
+
+##### Foot Note 28
+
+×
+
+Defence of the first defendant (Amendment No 2) paras 10 to 12; Defence of the
+second defendant para 9.
+
+Moneys received by QA from Amberwork (with QA acting as Amberwork’s agent)
+would be sent onward to Weroc, less an agreed administrative fee that QA would
+keep for its role in the transaction. 29
+
+##### Foot Note 29
+
+×
+
+Defence of the first defendant (Amendment No 2) paras 13(c) and 26; Defence of
+the second defendant paras 10 and 22.
+
+Any communications and documents from QA to Amberwork were sent on Ronald’s
+instructions. 30
+
+##### Foot Note 30
+
+×
+
+Defence of the first defendant (Amendment No 2) para 13(b); Defence of the
+second defendant para 10(b).
+
+18 There was therefore no common understanding that QA would supply or deliver
+the goods, and there was no contract between Amberwork and QA or any past
+dealings to this effect. Instead, the common understanding among all parties,
+including Amberwork and Roger, was that the delivery of goods would be
+fulfilled by Weroc and that QA’s role was limited to receiving payment from
+Amberwork and sending this on to Weroc less its administrative fee. 31
+
+##### Foot Note 31
+
+×
+
+Defence of the first defendant (Amendment No 2) paras 13(a) and 14; Defence of
+the second defendant paras 10(a) and 11.
+
+19 Furthermore, the Transactions were sham transactions which were in reality
+unlicensed moneylending transactions. Amberwork/Roger was in substance lending
+to Weroc/Ronald the sums stated in QA’s Invoices; Amberwork would obtain
+repayment through issuing its own invoices to Weroc and the profit element in
+Amberwork’s invoices was in fact interest on the loan. The Transactions could
+therefore not be enforced, as they were illegal and unenforceable under s 14
+of the Moneylenders Act (Cap 188, 2010 Rev Ed) (“MLA”), and Amberwork was not
+an excluded moneylender under the MLA. 32
+
+##### Foot Note 32
+
+×
+
+Defence of the first defendant (Amendment No 2) paras 16 to 18; Defence of the
+second defendant paras 13 to 15.
+
+20 Notwithstanding QA’s earlier contention that the common understanding of
+the parties was that the delivery of goods would be fulfilled by Weroc (and
+not QA) (see [18] above), it also avers later in its pleaded Defence that it
+was the only contracting party who believed the Transactions to be genuine
+business transactions. QA pleads this point to suggest that any contract it
+was party to was void and unenforceable as a result of this unilateral mistake
+of fact. 33
+
+##### Foot Note 33
+
+×
+
+Defence of the first defendant (Amendment No 2) para 25; Defence of the second
+defendant para 21.
+
+Issues to be decided
+
+21 In the main, two issues fall to be decided:
+
+(a) whether QA was under an enforceable contractual obligation to deliver the
+goods to Amberwork; and
+
+(b) if so, whether this obligation was breached.
+
+22 While parties have raised other issues related to misrepresentation,
+dishonest assistance, etc, given my findings and conclusions below, these
+issues do not arise for consideration.
+
+Analysis
+
+Whether QA was under an enforceable contractual obligation to deliver the
+goods
+
+23 I address this issue in three parts:
+
+(a) whether QA was merely Weroc’s or Ronald’s payment agent;
+
+(b) whether the putative contracts between QA and Amberwork were part of sham
+transactions and/or unenforceable under the MLA; and
+
+(c) whether there were validly constituted contracts between Amberwork and QA.
+
+The payment agent defence
+
+24 I reject QA’s submission that it was merely a payment agent or billing
+party with no obligation to supply goods under the Agreements.
+
+25 In the first place, QA did not clearly plead that its role in the
+transactions was merely that of an agent, with no personal obligation to
+supply goods to Amberwork. Neither has it pleaded that it was merely a
+“billing party”. At paragraph 14 of its defence, QA pleads that its role “was
+limited to receiving payment from [Amberwork] and sending this on to Weroc
+less its administrative fee” 34
+
+##### Foot Note 34
+
+×
+
+Defence of the first defendant (Amendment No 2) para 14(c).
+
+– I do not consider this to be a sufficient pleading that QA’s role was merely
+that of a “payment agent” or “billing party”, or a sufficiently clear
+statement of what those phrases mean in terms of QA’s legal obligations and
+role in the Transactions. The closest the defendants’ pleaded defences come to
+as far as agency is concerned, is a pleading that QA was Amberwork’s agent. 35
+
+##### Foot Note 35
+
+×
+
+Defence of the first defendant (Amendment No 2) para 26; Defence of the second
+defendant para 22.
+
+However, this contention that it was Amberwork’s agent (and not Weroc’s or
+Ronald’s agent) was not advanced at trial nor in the defendants’ closing
+submissions, and I regard the defendants as having abandoned this position.
+
+26 In any case, quite apart from the pleading point, the defendants’ evidence
+does not make out any agency relationship between QA and Weroc/Ronald.
+
+27 For one, if QA was indeed merely an agent (specifically, Weroc’s or
+Ronald’s agent), and genuinely understood its role to be that of an agent,
+then it is unusual that there are no invoices from QA to Weroc or Ronald for
+its “administrative fee”. Instead, it is undisputed that Weroc issued invoices
+as seller, to QA as buyer, for each of QA’s resale transactions with
+Amberwork; 36
+
+##### Foot Note 36
+
+×
+
+AB1 pp 111 and 116.
+
+a mere payment agent or billing party would not have needed such invoices or
+have expected to receive such invoices from its alleged “principal”. Instead,
+Weroc’s issuance of invoices is more consistent with QA’s (and Sandra’s)
+subjective understanding from Ronald that QA would be buying goods from Weroc,
+for on-sale to Amberwork. Under cross-examination, Sandra was unable to
+explain why invoices would need to be issued by Weroc as seller, to QA as
+buyer, and even more perplexingly, why they had to be issued even after the
+moneys that QA received from Amberwork had already been paid over to Weroc
+(less QA’s administrative fee). 37
+
+##### Foot Note 37
+
+×
+
+Transcript 28 July 2022 p 81 line 1 to p 82 line 24.
+
+28 The contention that QA and Sandra tended to simply follow Ronald’s
+instructions is neither here nor there. Such conduct is not consistent only
+with an agency relationship. Given that this was a business arrangement put in
+place by Ronald, and it was primarily Ronald who liaised with the other key
+players, following Ronald’s instructions would equally have just been good
+commercial and practical sense. More relevantly, it would also be entirely
+consistent with the existence of a seller-buyer relationship between Weroc and
+QA.
+
+29 A third observation I would make is that QA did not describe its role as
+merely that of an agent in the contemporaneous documents. The Invoices and
+quotations issued at the time do not, on their face, state that QA was an
+agent. When payment was received from Amberwork, QA never suggested that it
+was under no obligation to deliver the goods to Amberwork as it was merely an
+agent. In cross-examination, Sandra admitted that she never once informed
+Roger or Pauline that she was merely a “billing party”. 38
+
+##### Foot Note 38
+
+×
+
+Transcript 28 July 2022 p 40 lines 8 to 10.
+
+In her e-mail of 21 March 2020, where she responded to Roger’s allegation that
+the goods had not been delivered, Sandra did not say that QA was a mere agent.
+39
+
+##### Foot Note 39
+
+×
+
+AEIC of Yeo Chow Wah pp 156 and 157.
+
+On the stand, Sandra explained this apparent silence on the basis that she had
+already spoken to Roger about QA’s role as a billing party over the phone. 40
+
+##### Foot Note 40
+
+×
+
+Transcript 29 July 2022 p 25 line 9 to p 26 line 4.
+
+30 This evidence refers to a telephone conversation that took place on or
+about 19 March 2020 between Sandra and Roger, by which time Ronald’s
+whereabouts were unknown and he was completely unresponsive to messages from
+Roger and Sandra. Evidence of this conversation was given by way of an
+allegedly contemporaneous note. 41
+
+##### Foot Note 41
+
+×
+
+AEIC of Yeo Chow Wah paras 75 to 78 and p 159.
+
+As matters unfolded during the trial, Sandra conceded on the stand that the
+note was not in fact made contemporaneously with the telephone conversation,
+but was prepared nearly a month after the fact on or about 12 April 2020. 42
+
+##### Foot Note 42
+
+×
+
+Transcript 29 July 2022 p 20 line 10 to p 22 line 16.
+
+There is no other evidence of what was said during the conversation: the
+conversation was not recorded, nor was Sandra’s daughter (who assisted her
+with typing out the note 43
+
+##### Foot Note 43
+
+×
+
+Transcript 29 July 2022 p 22 line 19.
+
+) present during the conversation. In the circumstances, the allegedly
+contemporaneous note can be given very little weight in terms of its probative
+value in evidencing the contents of the 19 March 2020 telephone conversation.
+
+31 The defendants sought to apply a further spin to Sandra’s 21 March 2020
+e-mail in their reply submissions. They sought to draw these words from the
+e-mail to the court’s attention (with emphasis added by the defendants to the
+italicised words below): 44
+
+##### Foot Note 44
+
+×
+
+Defendants’ Reply Submissions (“DRS”) para 40.
+
+Upon receiving your full payment, we have also dutifully made the payment to
+Ronald Wee. This is in good faith that the goods will be delivered to your
+company without unnecessary delay.
+
+We have the supporting evidence that all payment from you, has been made to
+Ronald.
+
+[emphasis in original]
+
+32 Ostensibly, the defendants’ point is that these words are consistent with
+what a payment agent or billing party might say. However, in my judgment, they
+are equally consistent with the existence of a series of back-to-back sale and
+purchase transactions – with Amberwork making payment to QA in the Amberwork-
+QA leg, followed by QA making “the payment” or “all payment” to Ronald in the
+QA-Weroc leg. Thus, the 21 March 2020 e-mail does not assist the defendants’
+case considerably, even with the further spin they sought to put on it.
+
+33 Even as between the defendants and Weroc/Ronald, the evidence pointing to
+an understanding that QA’s role was merely to act as Weroc’s or Ronald’s
+billing agent is weak. The defendants’ closing submissions refer to paragraphs
+11 to 17 of Sandra’s affidavit of evidence-in-chief (“AEIC”), but those
+paragraphs do not refer to any evidence (beyond an assertion from Sandra) of
+QA being a billing agent. When pressed on the absence of evidence in her AEIC
+during cross-examination, Sandra was unable to point to any specific page or
+paragraph from her AEIC that would change this conclusion. 45
+
+##### Foot Note 45
+
+×
+
+Transcript 28 July 2022 p 54 line 5 to p 56 line 14.
+
+The defendants’ reply submissions only refer additionally to WhatsApp
+conversations between Sandra and Ronald which mentioned that QA could take or
+keep 2% as an “admin charge” or “admin fees”, and which used the word
+“billing” in relation to another entity. 46
+
+##### Foot Note 46
+
+×
+
+DRS para 27.
+
+But as highlighted above at [27], it is striking that there are no invoices
+from QA for these “admin fees”. Without more evidence and context on what
+parties regarded these fees to be, I am not prepared to place much weight on
+two brief references to the words “admin charge” and “admin fees”.
+
+34 In short, QA’s purported agency relationship with Weroc/Ronald has not been
+substantiated. QA’s conduct and the contemporaneous documents instead show
+that QA acted as principal and transacted as such with both Amberwork and
+Weroc. QA issued invoices as buyer (from Weroc) and seller (to QA)
+respectively, in its own name, and without any suggestion on their face that
+it was merely a billing party or payment agent.
+
+The sham transaction and unlicensed moneylending defences
+
+35 The defendants raise two intertwined defences for why the Transactions are
+unenforceable (see [19] above):
+
+(a) they were sham, round-tripping transactions involving fictitious goods;
+and
+
+(b) they were unlicensed moneylending transactions that contravened the MLA,
+involving Amberwork as the lender and Weroc as the borrower.
+
+36 In my judgment, both defences fail. Let me elaborate.
+
+(1) The sham transaction defence
+
+37 On the first defence, the defendants have failed to show that the
+transactions were a sham. I note from the written submissions that none of the
+parties has developed this argument in its own right, as distinct from the MLA
+argument. In my view, it is important to first decide if the legal test for
+whether a transaction is a sham is met – only then can one go on to consider
+if the transaction in question was in fact something else. It is well-
+established that a sham transaction requires a common subjective intention
+between all the parties to, inter alia, create documents that are in fact not
+intended to create the legal rights and obligations which they give the
+appearance (to third parties or to a court) of creating (Crédit Agricole
+Corporate & Investment Bank, Singapore Branch v PPT Energy Trading Co Ltd and
+another suit [2022] 4 SLR 1 (“Crédit Agricole”) at [120], citing the often
+quoted test laid down by Diplock LJ (as he then was) in Snook v London and
+West Riding Investments Ltd [1967] 2 QB 786 at 802). In this regard, “[w]hat
+is required for a sham is a finding the parties to the sham were dishonest in
+creating a pretence of a transaction in order to deceive others when there was
+in reality no such transaction” (Crédit Agricole at [120]). Because a finding
+of a sham carries with it a finding of dishonesty, there is a strong and
+natural presumption against holding a provision or document a sham (Chng Bee
+Kheng and another (executrixes and trustees of the estate of Fock Poh Kum,
+deceased) v Chng Eng Chye [2013] 2 SLR 715 at [51]).
+
+38 In the case before me, there is no evidence of any such common intention
+existing, whether as between Amberwork and the defendants, or as between
+Amberwork, the defendants and Weroc/Ronald.
+
+39 In addition, the defendants’ characterisation of the transactions as a form
+of “round-tripping” does not take their case very far, and there are a number
+of reasons for this. First, round-tripping is not in and of itself illegal or
+fraudulent. This was explained in Crédit Agricole at [123]:
+
+123 There was no evidence that any of the traders in the chain did not intend
+property to pass in the Cargo in accordance with the terms of the sale and
+purchase contracts which they concluded. Whether or not the parties to those
+transactions ever expected original shipping documents to be provided (and the
+evidence was that those represented in court did not: see [49] above) is
+nothing to the point. Trading in oil products frequently involves what amounts
+to little more than trading in documents with the product being delivered to
+the ultimate purchaser, with money and documents being exchanged by the
+intervening participants in the chain from original supplier to that ultimate
+purchaser. That does not make the transactions any the less genuine or mean
+that property in the goods does not pass. Whether or not the round-tripping
+transactions were concluded for the purpose of securing funds for Zenrock from
+its sale to Shandong greater in amount and more quickly than its sale to
+TOTSA, and whether or not a fraud was committed by Zenrock against CACIB in
+the provision of the Fabricated Zenrock-TOTSA Sale Contract and the issue of
+the Duplicate NOAs to the two banks which financed its purchases from SOCAR
+and PPT, the round-tripping transactions were genuine sales and purchases
+under which it was intended that the Cargo should be sold, title in it should
+pass and payment should be made. To label them as “financing transactions”,
+“sleeve transactions” or “credit sleeve transactions” does not change their
+character as real transactions whatever the underlying purpose of them might
+be, as long as the intention of the parties to them was to effect a sale or
+purchase as the case might be. [emphasis added]
+
+40 Crédit Agricole is but one case in a line of cases which have recognised
+that round-tripping transactions are not ipso facto illegal. These cases have
+recently been analysed in detail in UniCredit Bank AG v Glencore Singapore Pte
+Ltd [2022] SGHC 263 at [34]–[74], and I see no reason to depart from that
+analysis.
+
+41 To be sure, a different conclusion might be reached if these were round-
+tripping transactions involving fictitious goods. This distinction was
+explained in Goodwood Associates Pte Ltd v Southernpec (Singapore) Shipping
+Pte Ltd and another suit [2020] SGHC 242 at [47]–[48]:
+
+47 For the purposes of the Snook test, it seems to me necessary to distinguish
+between circular trading transactions in which no delivery of the subject-
+matter commodity is contemplated and those in which no trading in any subject-
+matter commodity is contemplated at all. In the first scenario, the parties
+fully intend the legal title in the subject-matter commodity to pass through
+the various parties in the circular chain of transactions. The intention to be
+bound to the various trade contracts constituting the circular chain is
+therefore present. In contrast, in the second scenario, the parties do not
+intend to trade in any commodity at all. They do not intend to take legal
+title in the subject-matter commodity, and do not intend the creation of any
+legal obligation to pay for the trades in the subject-matter commodity. The
+entire circular series of transactions, therefore, is nothing more than
+fiction. This is, in fact, Southernpec’s characterisation of the July
+Arrangements.
+
+48 I should add that nothing in what I have said should be taken to be an
+endorsement of circular trades in fictitious commodities. In my judgment,
+there may be nothing uncommercial in parties seeking to make arbitrage profits
+or brokerage fees by exploiting the rapid and often capricious ebbs and flows
+of the commodities market as long as they trade in genuine commodities, albeit
+in a circular fashion. It is an entirely different matter if the parties seek
+to manipulate their reported financial performance by purporting to trade in
+commodities which in fact do not exist, or which the parties know are not
+available for trading eg commodities which are legally owned by none of the
+parties to the trading arrangement. Accordingly, if any party to a circular
+trading arrangement has such knowledge at the time the relevant trades are
+entered into, this is, in my view, prima facie evidence of his knowledge of a
+sham trading arrangement.
+
+[emphasis added in italics; original emphasis omitted]
+
+42 In the case before me, however, there is no pleading to the fact that the
+transactions involved fictitious goods or that they were in this sense not
+real sale and purchase contracts. The evidence also does not objectively
+suggest that there were no goods or that the parties were (knowingly)
+transacting on the basis of fictitious goods. For instance, the WhatsApp
+conversations between Roger and Ronald clearly implied that goods in fact
+existed, and there is no suggestion that these WhatsApp exchanges were
+themselves shams intended to create a pretence. In one exchange, a concern was
+raised that customers might not be able to collect the goods if paperwork was
+delayed. In that same exchange, a suggestion was made as to whether paperwork
+could be settled “[w]ithout actual [taking of] goods yet”. 47
+
+##### Foot Note 47
+
+×
+
+Agreed Bundle of Documents vol 2 (“AB2”) p 633.
+
+At best, there is some oblique suggestion in the defendants’ case that there
+is no evidence of anyone physically seeing the goods. 48
+
+##### Foot Note 48
+
+×
+
+Defendants’ Closing Submissions (“DCS”) para 106.
+
+Reference was made to the AEIC of Bak Kai Wei (“Daniel”), who was Ronald’s
+personal assistant and was involved in managing Weroc’s affairs (which
+included the issuance of purchase orders to Amberwork and payment on
+Amberwork’s invoices). 49
+
+##### Foot Note 49
+
+×
+
+AEIC of Bak Kai Wei paras 5 and 6.
+
+In his AEIC, Daniel stated that over the course of Weroc’s transactions with
+Amberwork, he had never seen any physical goods being transacted or delivered
+by Amberwork to Weroc. Furthermore, when he asked Ronald about this, Ronald
+represented to him that the deliveries were conducted by his counterparts in
+China, and that Daniel “did not have to concern [himself] with the actual
+transfer of goods”. 50
+
+##### Foot Note 50
+
+×
+
+AEIC of Bak Kai Wei paras 6 and 7.
+
+In my judgment, these statements are inconclusive. The quoted statement
+suggests that Daniel was not involved with the actual transfer of goods. If
+so, it is entirely unsurprising that he had not seen any goods. As Roger
+explained on the stand (when discussing some earlier transactions with another
+Reseller), since delivery was to be ex-factory and the factory was in China,
+it was to be expected that Amberwork would not see the physical goods. 51
+
+##### Foot Note 51
+
+×
+
+Transcript 26 July 2022 p 25 lines 18 to 30, and p 88 lines 2 to 7.
+
+More generally, this is not an uncommon or unexpected feature of transactions
+governed by a string of back-to-back contracts, as illustrated in Garnac Grain
+Company Incorporated v HMF Faure & Fairclough Ltd and another [1966] 1 QB 650
+(“Garnac Grain”). Garnac Grain concerned a genuine chain of contracts for the
+sale and purchase of lard. Megaw J observed at 683 that:
+
+No doubt it was contemplated by all parties to all four contracts that if all
+went well those who knew themselves to be intermediate parties, that is, both
+buyers and sellers, would not insist upon handling the shipping documents but
+differences in price would be settled in account. The actual property in the
+goods would never pass to them and the contracts would not be performed
+according to their terms. No doubt [A] and [D], who knew that the contracts
+formed a circle, contemplated that if all went well no documents would be
+delivered at all and no lard shipped pursuant to any of the contracts. …
+[emphasis added]
+
+43 The true essence of the sham argument, as alluded to above, is that the
+arrangements that were put in place were intended to be used as a disguise or
+pretence for what they really were, ie, unlicensed moneylending transactions
+(see, eg, the defendants’ closing submissions at para 110). As I explain next,
+even on this footing, the unlicensed moneylending defence also fails.
+
+(2) The unlicensed moneylending defence
+
+44 The defendants contend that Amberwork cannot seek to enforce its purported
+contracts by virtue of s 14(2) of the MLA, which provides that:
+
+Unlicensed moneylending
+
+14.— …
+
+(2) Where any contract for a loan has been granted by an unlicensed
+moneylender, or any guarantee or security has been given for such a loan —
+
+(a) the contract for the loan, and the guarantee or security, as the case may
+be, shall be unenforceable; and
+
+(b) any money paid by or on behalf of the unlicensed moneylender under the
+contract for the loan shall not be recoverable in any court of law.
+
+The purported contracts would constitute contracts for a loan, as Amberwork’s
+payments had the practical effect of giving a loan to Ronald/Weroc at an
+effective interest rate of 11% to 13% over two months. 52
+
+##### Foot Note 52
+
+×
+
+Defence of the first defendant (Amendment No 2) para 16; Defence of the second
+defendant para 13; DCS para 107.
+
+45 The defendants also refer to the prohibition on moneylending in s 5(1) of
+the MLA, but the thrust of their argument focuses on s 14(2). I note for
+completeness that s 5(1) states:
+
+No moneylending except under licence, etc.
+
+5.—(1) No person shall carry on or hold himself out in any way as carrying on
+the business of moneylending in Singapore, whether as principal or as agent,
+unless —
+
+(a) he is authorised to do so by a licence;
+
+(b) he is an excluded moneylender; or
+
+(c) he is an exempt moneylender.
+
+46 Returning to s 14(2), the central issue is whether Amberwork is an
+“unlicensed moneylender”. In their pleadings and submissions, the defendants
+do not appear to rely on the presumptive provision in s 3 to establish that
+Amberwork is a person presumed to be a moneylender. Instead, they rely on the
+approach set out in GA Machinery Pte Ltd and another v Yue Xiang Pte Ltd and
+others [2020] SGHC 264 at [18]:
+
+18 Section 2 defines a “moneylender” as a person who, whether as principal or
+agent, carries on or holds himself out in any way as carrying on the business
+of moneylending, whether or not he carries on any other business, “but does
+not include any excluded moneylender”. Thus, in order to rely on s 14(2) of
+the MLA, the burden lies on the borrower to prove:
+
+(a) First, that the lender is not an “excluded moneylender” (see Sheagar s/o T
+M Veloo v Belfield International (Hong Kong) Ltd [2014] 3 SLR 524 (“Sheagar”)
+at [73]). An excluded moneylender includes, inter alia, any person who lends
+money solely to corporations (see limb (e) of the definition of “excluded
+moneylender” under s 2 MLA).
+
+(b) Second, that the lender is in the business of moneylending (see Sheagar at
+[75]).
+
+I note that QA (despite not being the purported borrower as such, since that
+label would only be applicable to Weroc) has not suggested that the burden
+ought to fall on Amberwork to instead show that it is an excluded moneylender.
+Nonetheless, these questions of burden of proof are not material in this case,
+for reasons that will become clear below.
+
+47 Excluded moneylenders are not regulated by the MLA: see Sheagar s/o T M
+Veloo v Belfield International (Hong Kong) Ltd [2014] 3 SLR 524 (“Sheagar”) at
+[67]. The defendants submit that Amberwork does not fall within the definition
+of an “excluded moneylender” in s 2:
+
+“excluded moneylender” means —
+
+(a) any body corporate, incorporated or empowered by an Act of Parliament to
+lend money in accordance with that Act;
+
+(b) any person licensed, approved, registered or otherwise regulated by the
+Authority under any other written law, to the extent that such person is
+permitted or authorised to lend money or is not prohibited from lending money
+under that other written law;
+
+(c) any society registered as a credit society under the Co-operative
+Societies Act (Cap. 62);
+
+(d) any pawnbroker licensed under the Pawnbrokers Act 2015;
+
+(e) any person who —
+
+(i) lends money solely to his employees as a benefit of employment;
+
+(ii) lends money solely to accredited investors within the meaning of section
+4A of the Securities and Futures Act (Cap. 289);
+
+(iii) lends money solely to —
+
+(A) corporations;
+
+(B) limited liability partnerships;
+
+(C) trustees or trustee-managers, as the case may be, of business trusts for
+the purposes of the business trusts;
+
+(D) trustees of real estate investment trusts for the purposes of the real
+estate investment trusts,
+
+or who carries on any combination of such activities or services; or
+
+(f) any person carrying on any business not having for its primary object the
+lending of money in the course of which and for the purposes whereof he lends
+money[.]
+
+48 They centre their submission on para (e)(iii)(A) in particular, and contend
+that Amberwork did not lend only to corporations (particularly, Weroc),
+because it was actually making direct, personal loans to individuals such as
+Ronald. Reference is made to other transactions where Roger appears to have
+assisted Ronald with his own personal dealings and/or paid moneys into
+Ronald’s personal bank account, based on motivations similar to those
+underlying the arrangements in the Transactions. 53
+
+##### Foot Note 53
+
+×
+
+DCS paras 112 and 113.
+
+49 In my judgment, the defendants have not shown that the Transactions were
+actually personal loans from Amberwork to Ronald. The evidence concerning the
+other transactions does little to change the complexion of what were, on their
+face, commercial transactions in this case involving the sale and purchase of
+goods, structured with a view to enabling trade financing. To begin with, the
+examples cited by the defendants concern only a subset of the other
+transactions involving Ronald, most of which were between corporate entities.
+In addition, some of the examples of other transactions cited by the
+defendants in their closing submissions (at para 112) involved Roger using his
+personal funds – so those examples did not even involve Amberwork at all. Yet
+other examples were met with an explanation. For instance, according to
+Sandra, Ronald had explained that certain moneys for one other transaction had
+to be exchanged with a moneychanger (presumably into foreign currency), and so
+were not to be paid directly to Weroc’s account but to Ronald’s personal
+account. It appears that Sandra believed this explanation and had even
+explained to her bank that the transaction in question was a genuine one. 54
+
+##### Foot Note 54
+
+×
+
+Transcript 28 July 2022 p 28 line 21 to p 30 line 22.
+
+I am thus far from satisfied that the defendants have proven that Amberwork
+was lending moneys to individuals and therefore not lending “solely to
+corporations”.
+
+50 More fundamentally, the defendants have made no serious attempt in their
+submissions 55
+
+##### Foot Note 55
+
+×
+
+DCS paras 112 and 113.
+
+to explain why the court can and ought to disregard the separate legal
+personality of Amberwork and QA – these being the contracting parties by and
+to whom obligations were owed – and to instead recharacterise the Transactions
+as personal loans to Ronald. The foundational quality of the doctrine of
+separate legal personality cannot be overstated: see Goh Chan Peng and others
+v Beyonics Technology Ltd and another and another appeal [2017] 2 SLR 592 at
+[71]–[75].
+
+51 In any case, as the Court of Appeal explained in Sheagar at [66], as far as
+para (e) of the definition of “excluded moneylender” is concerned, Parliament
+regarded corporations as a less vulnerable class of borrowers that do not need
+the protection afforded by the MLA as a piece of social legislation.
+Similarly, as noted in City Hardware Pte Ltd v Kenrich Electronics Pte Ltd
+[2005] 1 SLR 733 at [47] (and affirmed in Donald McArthy Trading Pte Ltd and
+others v Pankaj s/o Dhirajlal (trading as TopBottom Impex) [2007] 2 SLR(R) 321
+at [9]):
+
+… [The MLA] should be viewed as a scheme of social legislation designed to
+regulate rapacious and predatory conduct by unscrupulous unlicensed
+moneylenders. Its pro-consumer protection ethos was never intended to impede
+legitimate commercial intercourse or to sterilise the flow of money. It is not
+meant to curtail the legitimate financial activity of commercial entities that
+are capable of making considered business decisions. The court has always
+taken and will continue to take a pragmatic approach in assessing situations
+when this defence is raised. …
+
+52 In my judgment, para (e) was not intended to extend to commercial trading
+firms in circumstances like the present.
+
+53 After addressing the issue of whether Amberwork was an excluded
+moneylender, I note that the defendants’ closing and reply submissions do not
+go on to positively explain why Amberwork was an unlicensed moneylender. That
+is a crucial link that needs to be made in order for the defendants to rely on
+s 14(2) of the MLA. Be that as it may, and having considered the submissions
+and evidence, I agree with Amberwork’s position that it was not a
+“moneylender” in the business of moneylending.
+
+54 In determining whether a person is engaged in the business of moneylending,
+the following considerations identified in Agus Anwar v Orion Oil Ltd [2010]
+SGHC 6 at [9] and [11] and Ochroid Trading Ltd and another v Chua Siok Lui
+(trading as VIE Import & Export) and another [2018] 3 SLR 617 (“Ochroid”) at
+[74] are germane:
+
+(a) whether there exists system and continuity, ie, not merely occasional
+loans, but an organised scheme of moneylending (based on indicators such as
+fixed rates, the rate of interest being dependent on a borrower’s
+creditworthiness, the past conduct of the borrower, and a clear and definite
+repayment plan); and
+
+(b) even if no system and continuity exists, whether the alleged moneylender
+is one who is ready and willing to lend to all and sundry provided that they
+are from his point of view eligible.
+
+55 I agree with Amberwork that neither test is satisfied in this case. I
+acknowledge from the authorities that a person can be carrying on the business
+of moneylending even if that person is selective in lending on a commercial
+basis to only a few or even only one trusted, regular borrower: Ochroid at
+[76], citing Pankaj s/o Dhirajlal v Donald McArthy Trading Pte Ltd and others
+[2006] 4 SLR(R) 79 at [31]. However, in my judgment, Amberwork’s transactions
+lack the requisite systematicity envisaged under the “system and continuity”
+test. For example, as Amberwork submitted, even after Weroc had defaulted on
+its own 60-day credit terms, there is no evidence of any penalty interest
+having been imposed. Nor is there any evidence in the correspondence or
+transaction documents of any repayment plan or scheme for accruing interest.
+It is also clear that Amberwork was not lending to all and sundry, but entered
+into a specific arrangement with Ronald/Weroc to exploit the specific business
+opportunity surfaced by Ronald, Roger’s long-term business acquaintance. In
+short, Amberwork was first and foremost a trading business and not a
+moneylending business.
+
+(3) Conclusion on the sham transaction defence and the unlicensed moneylending
+defence
+
+56 For these reasons, neither the sham transaction defence nor the unlicensed
+moneylending defence succeeds. In my judgment, Amberwork and QA entered into
+the Transactions as a means of enabling trade financing, such that the goods
+could be sold and purchased on credit, 56
+
+##### Foot Note 56
+
+×
+
+Transcript 26 July 2022, p 11 lines 10 to 17, and p 13 line 27 to p 14 line 3.
+
+with Amberwork taking a profit (this being the difference between what it paid
+to QA and what it invoiced Weroc). 57
+
+##### Foot Note 57
+
+×
+
+Transcript 26 July 2022 p 24 line 31 to p 25 line 6, and p 34 lines 1 to 10.
+
+57 Contrary to the defendants’ submissions, this is not an absurd commercial
+arrangement. The defendants contend that this arrangement was commercially
+unnecessary, because if the goods were always ready to be collected from the
+factory once payment was made, and the usual course in sale and purchase
+agreements is for the purchaser to first make payment, then Weroc could have
+easily paid the factory using moneys received from its end customer.
+Alternatively, the Resellers could have simply agreed to accepting delayed
+payment from Weroc. On the defendants’ argument, either of these would have
+rendered Amberwork’s role nugatory. 58
+
+##### Foot Note 58
+
+×
+
+DCS para 88.
+
+58 I disagree. These alternative scenarios respectively depend on end
+customers having in fact first made payment (instead of paying, for example,
+on credit in full or in part), and the Resellers being willing to accept
+delayed payment. In the event, neither of these has been established as being
+likely to occur. Instead, Roger gave evidence that based on his experience
+doing business in China, upfront payment, and sometimes even advance payment,
+was required before suppliers might be prepared to do business. 59
+
+##### Foot Note 59
+
+×
+
+Transcript 26 July 2022 p 14 lines 1 to 7.
+
+This seems to be a credible explanation for how Ronald structured the
+Transactions too. In any event, even if either scenario envisaged by the
+defendants was likely, businesses can have a multitude of other reasons or
+other expenses for which obtaining credit would be commercially explicable.
+
+59 I also accept Roger’s observation that it is not uncommon for trading
+companies to not reveal their suppliers, out of concern that downstream
+purchasers may bypass the trading company to purchase from its supplier
+directly. 60
+
+##### Foot Note 60
+
+×
+
+Transcript 26 July 2022 p 13 lines 6 to 26, and p 109 lines 1 to 12.
+
+This is another possible reason for why the Transactions were structured in
+this manner. In response to this, the defendants point to other, earlier
+transactions involving Weroc and other Resellers, where the relevant factory’s
+address appears to have been identified. 61
+
+##### Foot Note 61
+
+×
+
+DCS para 82.
+
+They also point to an apparent concession from Roger that it would not have
+been easy for Amberwork to find substitute buyers for the same goods to
+undercut Weroc. 62
+
+##### Foot Note 62
+
+×
+
+DCS para 85.
+
+In my judgment, whether there was in fact a significant risk of Weroc being
+undercut in this case, and whether Weroc/Ronald has in fact succeeded in
+structuring and implementing the arrangements in a failproof manner, are not
+of critical importance. After all, businesses do not all approach risks in the
+same manner or respond to risks with the same effectiveness. What matters is
+whether these concerns shape the way business may be conducted by trading
+companies, such that it would have been unremarkable for Weroc to adopt
+similar practices. In my judgment, it appears likely that those in the trading
+business would generally be concerned with disclosing details of their
+suppliers, and it was unremarkable for Ronald to have also felt the same. I
+would add that even in an e-mail to QA dated 1 October 2019, Ronald had stated
+that “[Weroc] doesn’t wants [sic] you to know the exact factory location
+because that is a trade secret, we cannot reveal our source in case our
+customers approach them directly. [T]his is market practice.” 63
+
+##### Foot Note 63
+
+×
+
+AB1 p 301.
+
+Whether there were validly constituted contracts between Amberwork and QA
+
+60 Finally, the defendants challenge the existence of any contractual
+relationship between Amberwork and QA, on the primary basis that there was no
+offer and acceptance or that parties were not ad idem. 64
+
+##### Foot Note 64
+
+×
+
+DCS paras 4 and 16 to 30.
+
+61 This challenge has been mounted on two levels, each framing the “offer” and
+“acceptance” slightly differently:
+
+(a) First, on the premise that the contracts were either formed through QA’s
+quotations (offer) and Amberwork’s purchase orders (acceptance), or
+Amberwork’s purchase orders (offer) and QA’s Invoices (acceptance), the
+difficulty is that the First Transaction’s purchase order was only sent on 10
+October 2019. 65
+
+##### Foot Note 65
+
+×
+
+AB1 p 120.
+
+This was after the date of contract formation pleaded by Amberwork of 10
+September 2019. As for the Second Transaction, no purchase order was even sent
+to begin with. 66
+
+##### Foot Note 66
+
+×
+
+DCS paras 12 to 14.
+
+(b) Second, on the alternative premise that the Invoices constituted the
+purported offers, the defendants highlight that Amberwork’s pleaded case was
+that payment was made “pursuant to the Agreements” [emphasis added]. This
+referred to the “agreements dated 10 September 2019 and 26 September 2019 … on
+terms that were stated on the [Invoices]”. 67
+
+##### Foot Note 67
+
+×
+
+SOC (Amendment No 2) paras 12 and 13.
+
+The defendants argue that if payment had been made “pursuant” to already-
+established contracts, then this must mean that Amberwork had conveyed its
+acceptance of the Invoices prior to making payment. But there was no such
+prior communication of acceptance from Amberwork. 68
+
+##### Foot Note 68
+
+×
+
+DCS paras 9 to 11.
+
+62 I reject both arguments, and find that Amberwork has proven on balance that
+the Agreements were formed.
+
+63 At the outset, I note that the defendants did not plead that there was no
+contract because there was no offer and acceptance or because parties were not
+ad idem. Such a pleading would, if it had been made, naturally proceed to
+identify and particularise what the purported “offer” and “acceptance” were,
+and why these did not reflect a meeting of minds. Instead, what was pleaded at
+paragraph 14 of QA’s Defence was that there was no contract involving a sale
+between Amberwork and QA, that any sale was instead between Amberwork and
+Weroc, and that this arrangement was a sham. 69
+
+##### Foot Note 69
+
+×
+
+Defence of the first defendant (Amendment No 2) para 14.
+
+64 Leaving this observation aside, my starting point is that, as a general
+matter, the courts will lean in favour of finding that a contract exists
+between commercial parties so as to not defeat the expectations of commercial
+men. As the Court of Appeal held in Gay Choon Ing v Loh Sze Ti Terence Peter
+and another appeal [2009] 2 SLR(R) 332 at [63], in the context of addressing a
+battle of forms, “[w]hat is required … is a less mechanistic or dogmatic
+application of [the concepts of offer and acceptance] and this can be achieved
+by having regard to the context in which the agreement was concluded”
+[emphasis in original omitted]. I also take guidance from the following
+summary by V K Rajah JC (as he then was) in Midlink Development Pte Ltd v The
+Stansfield Group Pte Ltd [2004] 4 SLR(R) 258 at [52]:
+
+… In the final analysis, the touchstone is whether, in the established matrix
+of circumstances, the conduct of the parties, objectively ascertained,
+supports the existence of a contract. Reduced to its rudiments, it can be said
+that this is essentially an exercise in intuition. Legal intentions, whether
+articulated or unarticulated, should not be viewed in isolation but should be
+filtered through their factual prism. …
+
+65 I begin with the argument described at [61(a)] above. I reject it as
+Amberwork’s case on contractual formation was never based on the purchase
+orders. Indeed, as a matter of principle, it need not be. In this regard, the
+law on offer and acceptance prioritises substance over form, and in the main,
+does not categorically require that a party expresses his contractual assent
+in one particular form or other. Neither was the presentation of purchase
+orders fundamental to these parties, based on their objectively-ascertained
+intentions. If it had been, one would not have expected to see QA proceed to
+issue the Invoices even in the absence of purchase orders. It is relevant to
+note Roger’s testimony that it was not unusual for purchase orders not to be
+issued. Purchase orders were “good to have … to countercheck for [Amberwork’s]
+own in-house bookkeeping purpose”, but there could be several reasons why a
+purchase order would not be issued in a given transaction, for instance
+because pre-existing arrangements had been made on the “back-end”, or because
+circumstances of urgency left no time for the purchase order to be prepared.
+70
+
+##### Foot Note 70
+
+×
+
+Transcript 26 July 2022 p 68 line 5 to p 69 line 21, and p 110 line 8 to p 111
+line 15.
+
+Pauline’s evidence was likewise that what was important to securing bank
+financing and internal bookkeeping were the invoices and signed delivery
+orders, and not the purchase orders. 71
+
+##### Foot Note 71
+
+×
+
+Transcript 27 July 2022 p 52 lines 13 to 28.
+
+In my judgment, an artificial and rigid insistence on the prior issuance of
+purchase orders being a necessary formal step would be at odds with the
+objective intentions of parties and the commercial realities underlying how
+they transacted and contracted.
+
+66 The second form of QA’s submission (described at [61(b)] above) appears to
+be a more direct response to Amberwork’s pleaded case. However, I am unable to
+agree that the implication of Amberwork’s pleadings is that Amberwork’s
+contractual acceptance had to come in some separate communication prior to
+making payment. What Amberwork pleaded was that the Agreements were dated 10
+September 2019 and 26 September 2019. In my judgment, that is consistent with
+the Agreements being constituted in part by the Invoices sent by QA on those
+dates (offer) and the payments made by Amberwork on those Invoices on those
+same dates (acceptance).
+
+67 There is also nothing remarkable about Amberwork describing its payments as
+being made “pursuant to the Agreements”. Particularly in contracts constituted
+in part by conduct, it is entirely logical and likely that conduct (such as
+the making of payment) could simultaneously represent contractual assent and
+contractual performance. Furthermore, in stating that the payments had been
+made “pursuant to the Agreements”, Amberwork’s emphasis does not appear to be
+on the timing of contract formation. Rather, viewed in context, its point was
+that the payments had been made in accordance with the Invoices’ terms – that
+they were of the contracted sum and made in the contractually stipulated
+manner. Put another way, the point was that they had been made in connection
+with the Agreements, and not in connection with some other arrangement or
+basis.
+
+68 Pleadings aside, the contemporaneous evidence positively supports the
+existence of the offers in the Invoices being accepted by way of payment by
+Amberwork. The arrangements were such that:
+
+(a) Ronald would contact Roger with the details of upcoming transactions and
+Roger would acknowledge the same; 72
+
+##### Foot Note 72
+
+×
+
+For the First Transaction, see AB2 p 628 (8/9/19, 11:09:26, 11:12:59,
+18:16:27) and AB2 p 629 (9/9/19, 09:34:53). For the Second Transaction, see p
+633 (26/9/19, 14:18:16, 14:41:32, 14:50:51, 14:54:03).
+
+(b) QA would issue its quotations 73
+
+##### Foot Note 73
+
+×
+
+For the First Transaction, see AB1 pp 68–69. For the Second Transaction, see p
+77–78.
+
+and invoices; 74
+
+##### Foot Note 74
+
+×
+
+AB1 pp 70 and 79–80.
+
+and
+
+(c) Amberwork would make payment of the sums stated. 75
+
+##### Foot Note 75
+
+×
+
+For the First Transaction, see AB2 p 629 (9/9/19, 11:38:59). For the Second
+Transaction, see AB2 p 634 (26/9/19, 20:21:13; 27/9/19, 10:17:13, 10:55:19).
+
+69 At the very least, this would constitute acceptance by conduct.
+
+70 I also reject paragraph 20 of the defendants’ closing submissions, that
+there was no consensus ad idem because the Invoices did not indicate who was
+to take or make delivery of the goods, or where the factory from which the
+goods were to be collected was located. In my judgment, it was clear from both
+Invoices that QA took on the obligation to supply the stated items. In
+exchange, Amberwork had an obligation to pay for these goods. As must be the
+case with most manner of business, the precise details of how these
+obligations were to be performed and operationalised could be worked out
+separately. Even if some other entity or agent would make delivery or take
+delivery of the goods (for instance, as an agent), the legal obligation to
+perform would simply still rest with the contracting parties. It is the
+legally enforceable obligation which parties ultimately contract for.
+
+71 To the extent that the defendants’ argument was instead one of the
+completeness or certainty of terms 76
+
+##### Foot Note 76
+
+×
+
+DCS paras 20 and 30.
+
+– that the identity of the party making or taking delivery had not been made
+apparent in the contract – they have not shown that this would have
+constituted a material term without which no contract could be established. As
+Amberwork submitted, citing Dukkar S.A v Thailand Integrated Services Pte Ltd
+[2015] SGHC 234 (“Dukkar”) at [6], the essential terms for any contract for
+the sale of goods are the identity of the parties, the price, and the
+specification of the goods. These were all stipulated in the Invoices.
+Notably, delivery was not envisaged to be carried out via delivery to a named
+party, but to be ex-factory, ie, made available by the seller for collection
+at the factory, with the buyer making its own arrangements for collection: see
+PT Sandipala Arthaputra v STMicroelectronics Asia Pacific Pte Ltd and others
+[2017] SGHC 102 at [239].
+
+72 The defendants then say that the lack of a specific address for delivery
+renders the contracts uncertain. They attempt to distinguish Dukkar, as the
+putative contracts in this case envisage not only sale but also delivery. The
+problem is that delivery was to be at a location unknown to both parties. As
+such, performance cannot be enforced and this renders the contract uncertain.
+77
+
+##### Foot Note 77
+
+×
+
+DRS para 19.
+
+In my judgment, however, this argument is entirely contrary to the parties’
+arrangements. The precise location of the factory was never once a concern to
+the parties, and the parties were prepared to fulfil their respective ends of
+the bargain on that basis. This argument is, in my view, plainly an
+afterthought. As emphasised in Chan Tam Hoi (alias Paul Chan) v Wang Jian and
+other matters [2022] SGHC 192 at [100]–[101], the law is generally anxious to
+uphold a contract and it usually takes a rather uncertain or incomplete
+contract for a court to make a finding of unenforceability (see similarly
+Andrew Phang Boon Leong et al, The Law of Contract in Singapore (Andrew Phang
+Boon Leong gen ed) (Academy Publishing, 2nd Ed, 2022) at para 03.206).
+
+73 Likewise, to the extent that the defendants take issue with the Invoices
+not reflecting the “full picture”, 78
+
+##### Foot Note 78
+
+×
+
+DCS para 22.
+
+particularly the existence of other legs in the overall commercial
+arrangement, it is hard to see how this affects the existence of the contracts
+governing this leg of the arrangement.
+
+74 For all these reasons, I hold that QA was contractually obliged to deliver
+the goods as pleaded by Amberwork. QA was not merely acting as a billing party
+or payment agent. Neither were the Transactions a sham or unenforceable by
+virtue of s 14(2) of the MLA.
+
+75 For completeness, I should note that the defendants have objected to
+Amberwork’s reliance on extrinsic evidence for the purposes of contractual
+interpretation. 79
+
+##### Foot Note 79
+
+×
+
+DRS paras 21 to 30.
+
+It suffices for me to state that the present dispute was never about competing
+interpretations of any particular term. The rules concerning extrinsic
+evidence are different in the context of ascertaining the existence of a
+contract. This was clearly explained by the Court of Appeal in The “Luna” and
+another appeal [2021] 2 SLR 1054 at [38]:
+
+… Thus, when ascertaining whether the parties intended for the Vopak BLs to
+have contractual effect, the court is not limited by the more restrictive
+approach applied to the interpretation of a contract, which includes the parol
+evidence rule and the Zurich Insurance ([30] supra) principles governing the
+admission of extrinsic evidence to aid interpretation of its terms. Instead,
+the court is entitled to take into account all the relevant circumstances of
+the case in order to draw the appropriate inferences as to what the parties
+had objectively intended by the issuance of the Vopak BLs.
+
+Whether QA breached its contractual obligation to deliver the goods
+
+76 Having found that QA was contractually obliged to deliver the goods to
+Amberwork and that the Transactions are not void and unenforceable, the next
+issue is whether QA breached its obligations.
+
+77 Having carefully considered the available documentary and oral evidence, I
+find on a balance of probabilities that the goods were more likely than not
+taken by Weroc or its customers in China. Significantly, given the nature of
+the arrangements agreed to by Weroc, QA and Amberwork, delivery by Amberwork
+to Weroc (or its customer) ex-factory in China would simultaneously mean, in
+this case, that QA would also have fulfilled its delivery obligations to
+Amberwork under the Agreements. This is because the Transactions were
+essentially structured as part of back-to-back transactions where Weroc would
+sell to QA, QA would resell the goods to Amberwork (with payment by Amberwork
+immediate upon invoice issuance, by telegraphic transfer), followed by
+Amberwork selling the goods back to Weroc (on 60-day payment terms). Delivery
+in all three legs would always be ex-factory in China.
+
+78 Amberwork’s recourse, then, is properly against Weroc and not QA. It is not
+disputed that Weroc has failed to pay Amberwork. The reason for Weroc’s non-
+payment is not clearly before me, but this is not an issue because as far as
+Amberwork’s action against QA is concerned, it is ultimately unnecessary for
+me to reach a conclusion on why Weroc did not pay Amberwork.
+
+79 The legal burden lies on Amberwork to prove, on the balance of
+probabilities, that QA failed to deliver the goods to Amberwork. Amberwork
+focuses much of its case on QA’s inability to produce a signed delivery order
+on QA’s letterhead, as evidence of proof of collection. 80
+
+##### Foot Note 80
+
+×
+
+Transcript 26 July 2022 p 96 lines 17 to 18; PCS para 66; PRS paras 22 and 23.
+
+80 The difficulty with this argument, at least in relation to the Second
+Transaction, is that QA has sent a delivery order to Amberwork. The reason
+there is no signed order is because Amberwork did not provide its signature,
+even after it was requested to provide one. 81
+
+##### Foot Note 81
+
+×
+
+Transcript 26 July 2022 p 80 line 17 to p 81 line 23.
+
+Pauline conceded, in the context of a transaction involving another Reseller,
+that it ought to be for the addressee to sign on the delivery order to
+acknowledge receipt of goods. 82
+
+##### Foot Note 82
+
+×
+
+DCS para 45; Transcript 27 July 2022 p 17 line 19 to p 18 line 13 (referring
+to AB1 p 239).
+
+This would be Amberwork. Although QA did not chase for Amberwork’s signature,
+Amberwork cannot rely on its own failure or refusal to sign the delivery order
+as evidence that there was a failure by QA to deliver the goods to Amberwork.
+
+81 Pauline’s evidence was that Amberwork did not sign QA’s delivery order
+because Weroc did not similarly “commit to sign” Amberwork’s delivery order.
+83
+
+##### Foot Note 83
+
+×
+
+Transcript 27 July 2022 p 81 line 25 to p 82 line 32.
+
+In my view, this was not a credible or logical explanation.
+
+82 I disagree with Amberwork’s submission that the defendants have obfuscated
+the role of each party in relation to the signing of delivery orders. 84
+
+##### Foot Note 84
+
+×
+
+PRS para 23.
+
+Leaving aside what may have been the ordinary case in other transactions,
+there is in my view no reason why QA’s delivery order would first have to be
+signed before Amberwork’s delivery order could be signed by Weroc. First, a
+signed delivery order is merely evidence of delivery, and not performance of a
+contractual obligation as such. Second, Amberwork’s submission contradicts the
+evidence on the Second Transaction where Amberwork declined to sign QA’s
+delivery order because Weroc “did not commit to sign” 85
+
+##### Foot Note 85
+
+×
+
+Transcript 27 July 2022 p 82 lines 28 to 30.
+
+Amberwork’s delivery order. It appears to me that Amberwork was seeking to
+have its cake and eat it too. But, more fundamentally, Pauline’s explanation
+is untrue. The evidence, as Roger acknowledged, 86
+
+##### Foot Note 86
+
+×
+
+Transcript 26 July 2022 p 83 line 24 to p 84 line 5.
+
+showed that Ronald did say that he would arrange to have the delivery order
+signed, and asked Amberwork to prepare a delivery order on its letterhead
+which Weroc would then sign to confirm that it accepted the goods in good
+condition. This can be seen in this WhatsApp exchange between Roger and Ronald
+on 26 September 2019, which is the date of the Second Invoice: 87
+
+##### Foot Note 87
+
+×
+
+AB2 p 634.
+
+26 September 2019
+
+Roger : Must send Packing List and DO. I need to present to bank to release
+payment
+
+Ronald : Packing list n DO combined. It’s understood once u look at it.
+
+QA sending to u soon
+
+Roger : Must have company stamp and signature on DO
+
+Ronald : Bro. QA sent to you. You need use your company letterhead to redo and
+let Weroc sign.
+
+Unless u want me to sign direct on QA. Also can.
+
+I can send Daniel go ur office chop sign.
+
+That’s the correct way. [Cause] Weroc is your customer. Your DO must show
+Weroc accepts goods in good condition.
+
+Bro. DOs sent to u already. Pls use your letterhead redo and send to my Weroc
+email. Will chop stamp sign back
+
+Roger : Ok
+
+…
+
+[emphasis added]
+
+83 Put plainly, Ronald had already said he would arrange for Weroc to sign the
+delivery order, so it was unclear what further “commit[ment]” Pauline or
+Amberwork required.
+
+84 The WhatsApp exchange between Roger and Ronald goes on to suggest that
+Amberwork did send a delivery order to Ronald/Weroc. Roger had said, “DO send
+to Weroc already, pls sign & stamp and email back”. 88
+
+##### Foot Note 88
+
+×
+
+AB1 p 634.
+
+A delivery order dated 26 September 2019, on Amberwork’s letterhead and
+addressed to Weroc, also appears in the evidence. 89
+
+##### Foot Note 89
+
+×
+
+AB1 p 100.
+
+However, as Amberwork’s witnesses confirmed during the trial, the reality is
+that no delivery order was in fact sent by Amberwork. After the commencement
+of this suit, in response to a request from the defendants’ solicitors,
+Amberwork’s solicitors indicated that Amberwork did not have in its
+possession, custody or power any e-mail or other correspondence enclosing this
+delivery order. 90
+
+##### Foot Note 90
+
+×
+
+AB2 at p 675, row 7, and p 683, para 4.
+
+On the stand, Pauline conceded that she did not send the delivery orders for
+the Transactions from Amberwork to Weroc. 91
+
+##### Foot Note 91
+
+×
+
+Transcript 27 July 2022 p 62 lines 18 to 21, p 77 line 31 to p 78 line 1, p 82
+lines 3 to 4, and p 84 lines 14 to 18.
+
+Instead, while she “didn’t send the DO to Weroc”, her position was that she
+“could send him anytime upon request”. 92
+
+##### Foot Note 92
+
+×
+
+Transcript 27 July 2022 p 81 line 31 to p 82 line 6.
+
+It is difficult to understand why this should have been on Weroc’s request,
+when Weroc was the buyer vis-à-vis Amberwork. Neither is there evidence of
+Amberwork chasing Weroc to sign any delivery order from Amberwork. There was
+therefore no factual basis, even having regard to Pauline’s expressed
+concerns, for Amberwork to refuse to sign the delivery order issued by QA.
+
+85 If Amberwork’s point was instead not the absence of a signed delivery order
+from Weroc as such, but a delivery order signed specifically by Weroc’s
+customer, this concern was not apparent from the contemporaneous evidence. Nor
+was it a point mentioned in its pleadings or developed in its closing
+submissions.
+
+86 I would also note that Weroc appears to have sent a signed delivery order
+back to Pauline for another transaction involving a different entity (Satoo
+Comtech) on 26 September 2019, ie, in the same period of time as the
+Transactions. While this is not conclusive to my findings in respect of the
+Weroc-Amberwork delivery orders, it serves to reinforce the impression that
+Weroc was prepared to sign on Amberwork’s delivery orders. 93
+
+##### Foot Note 93
+
+×
+
+AB2 pp 701 and 702; Transcript 26 July 2022 p 70 lines 8 to 14.
+
+87 As for the First Transaction, there is an e-mail from Pauline to Sandra
+stating that Amberwork needed the delivery order for the bank to approve its
+application for financing. This e-mail was dated 10 September 2019, 1.55pm.
+However, this was before payment on the First Invoice was made at around
+2.40pm on the same day, and before the fact of payment was confirmed via
+e-mail by Pauline at 2.58pm. 94
+
+##### Foot Note 94
+
+×
+
+AB1 pp 71 to 73.
+
+Following the 1.55pm e-mail, there was no further request from Amberwork for a
+signed delivery order. This undermines Amberwork’s claim that it placed
+importance on receiving delivery orders as evidence of delivery.
+
+88 As between Amberwork and Weroc, there is in evidence a delivery order
+addressed to Weroc on Amberwork’s letterhead. 95
+
+##### Foot Note 95
+
+×
+
+AB1 p 95.
+
+However, the date printed on the delivery order – “18/09/2019” – had a
+handwritten correction from “18” to “10” (ie, changing the date to 10
+September 2019). Crucially, there is no evidence of this having been sent to
+Weroc, be it on 10 September, 18 September, or some other date. For instance,
+there is evidence of an e-mail dated 10 September 2019 from Ronald to
+Amberwork apparently attaching Weroc’s purchase order, 96
+
+##### Foot Note 96
+
+×
+
+AB1 p 93.
+
+and another e-mail dated 16 September 2019 from Amberwork to Daniel apparently
+enclosing an invoice, 97
+
+##### Foot Note 97
+
+×
+
+AB1 p 96.
+
+but there is no similar covering e-mail for the delivery order.
+
+89 In any case, and more fundamentally, the circumstances as to the issuance
+and signing of the delivery orders are not conclusive of whether delivery in
+fact occurred. No doubt, they appear important to Amberwork for Amberwork’s
+own book-keeping purposes, 98
+
+##### Foot Note 98
+
+×
+
+Transcript 26 July 2022 p 65 lines 9 to 28.
+
+and to ensure that bank financing could be smoothly obtained by having the
+documents in order. 99
+
+##### Foot Note 99
+
+×
+
+Transcript 26 July 2022 p 58 lines 13 to 27.
+
+But that is a different issue from whether delivery is contingent on or proven
+by delivery orders being issued. As I indicated above at [82], delivery orders
+merely provide a way of evidencing that delivery did occur. The court can and
+must consider all relevant evidence (or the absence of evidence as the case
+may be) to conclude whether delivery did in fact take place.
+
+90 In this regard, it is notable that there is no evidence of any allegation
+of non-delivery being made at the material time by either Weroc or Amberwork.
+The tone and contents of the relevant WhatsApp exchanges between Roger and
+Ronald, and between Ronald and Sandra, do not give any impression that Weroc
+or its customer had not collected the goods. The correspondence centred on
+Amberwork or Roger chasing for payment under Amberwork’s invoices, and Ronald
+responding with various reasons for requesting more time to pay. 100
+
+##### Foot Note 100
+
+×
+
+Transcript 26 July 2022 p 91 lines 1 to 9.
+
+Roger testified that he continued to trust Ronald, and was under the
+impression that Ronald/Weroc had not only obtained the goods but had also on-
+sold them to another customer, but was unable to pay Amberwork due to
+difficulties with his/Weroc’s bank. 101
+
+##### Foot Note 101
+
+×
+
+Transcript 26 July 2022 p 88 lines 13 to 31.
+
+As far as Roger was concerned, Ronald never gave any reason for Roger to
+believe the goods were not collected, and Roger “assumed the goods [were]
+collected based on the WhatsApp messages”. 102
+
+##### Foot Note 102
+
+×
+
+Transcript 26 July 2022 p 92 lines 15 to 23; AEIC of Ang Say Cheong paras 57
+to 59.
+
+Pertinently, Weroc never once said that it did not receive the goods. 103
+
+##### Foot Note 103
+
+×
+
+Transcript 26 July 2022 p 57 lines 25 and 26.
+
+There is also no evidence of Roger asking Ronald whether he was unable to
+collect the goods. Pauline’s evidence was similarly that she had no reason to
+believe that Ronald/Weroc never obtained the goods. 104
+
+##### Foot Note 104
+
+×
+
+Transcript 27 July 2022 p 86 lines 20 to 25.
+
+The overall tenor of the evidence is that the goods had been delivered or
+collected at the material time (ex-factory in Shenzhen), and that the only
+issue that remained was Weroc’s obligation to pay Amberwork under the second
+(Amberwork-Weroc) leg of the back-to-back transactions within 60 days. The
+same point can be made in relation to Amberwork’s issuance of a Statement of
+Account to Weroc for outstanding invoices and threats of legal action. 105
+
+##### Foot Note 105
+
+×
+
+Plaintiff’s Core Bundle of Documents p 53; Transcript 27 July 2022 p 84 line
+22 to p 86 line 25.
+
+Had delivery of the goods not taken place (which, as I explained above at
+[77], would occur simultaneously under the QA-Amberwork leg and the Amberwork-
+Weroc leg), there would be no basis upon which Amberwork could have regarded
+itself as being entitled to chase Ronald or Weroc for payment.
+
+91 This is an important point to be underscored. If Amberwork took the view
+that it was entitled to payment from Weroc, it must be because it also took
+the view that it had fulfilled its delivery obligations to Weroc under its leg
+of the transactions. Following from that, QA must also have fulfilled its
+delivery obligations under its leg of the transactions to deliver the goods to
+Amberwork. Otherwise, if QA had not delivered, Amberwork would in turn be
+unable to deliver to Weroc, and it would have had no basis to seek payment
+from Weroc. Viewed in this light, Amberwork’s conduct was, in my judgment,
+ultimately more consistent with QA having fulfilled its obligations to
+Amberwork to deliver the goods.
+
+92 Ultimately, inasmuch as the first (QA-Amberwork) and second (Amberwork-
+Weroc) legs of the transactions involved distinct contracts, the reality
+remained that delivery of the goods under both legs would occur
+simultaneously. Amberwork knew that the goods would be collected from the
+factory in China almost immediately. It was in these circumstances, then, that
+there was no communication from Amberwork to QA asserting that QA had not
+delivered the goods to Amberwork under the first leg, nor any assertion by
+Weroc or Ronald that the goods for the Transactions had not been delivered by
+Amberwork in respect of the second leg. It was only on 19 March 2020, close to
+six months after the Transactions, that Roger e-mailed Sandra for the first
+time, complaining about the alleged delay in delivery of the contracted goods,
+and asking QA to cancel the allegedly outstanding orders. As Sandra’s reply of
+21 March 2020 noted, this was the first time QA received an e-mail from Roger
+stating that the goods had not been delivered. 106
+
+##### Foot Note 106
+
+×
+
+AEIC of Yeo Chow Wah pp 156 and 157.
+
+93 On the whole, based on the evidence adduced (and not adduced), I find on
+balance that the more reasonable and plausible conclusion to be reached is
+that the goods were delivered to Weroc or its customers in China, but Weroc
+failed to pay Amberwork. More precisely, this means that Amberwork has not met
+its burden of proving that the goods had not been delivered to it by QA. To be
+sure, the evidence from both parties has been unsatisfactory in some respects,
+in large part because Ronald has passed on (see [4]). Nevertheless, the legal
+burden is and remains on Amberwork to prove that QA breached its contractual
+obligations to Amberwork. In my judgment, Amberwork has failed to meet this
+burden.
+
+Conclusion
+
+94 I find that the Transactions were not shams but legitimate commercial
+transactions involving Amberwork extending trade financing to Weroc via back-
+to-back transactions with QA. While the arrangements may have involved an
+element of round-tripping, that does not, without more, make the Transactions
+shams. Neither were they devices to circumvent the MLA; there was no
+unlicensed moneylending in this case.
+
+95 Although I find that Amberwork has established that QA was contractually
+obliged as a seller to deliver the goods that formed the subject matter of the
+Transactions, Amberwork has failed to prove that QA breached this obligation.
+Amberwork’s claim for breach of contract thus fails and for this reason, the
+claim by Amberwork is dismissed.
+
+96 Given my finding that there were validly concluded contracts between
+Amberwork and QA, there is no need for me to decide on Amberwork’s alternative
+claims grounded on misrepresentation and dishonest assistance. Those claims,
+as framed by Amberwork in its Statement of Claim, were predicated on the court
+finding that there were no concluded contracts between Amberwork and QA.
+
+97 In the light of my conclusions on Amberwork’s contract claim, it is also
+unnecessary for me to decide on QA’s defence of unilateral mistake. However,
+even if this had been necessary for my decision, this defence would have
+failed in any event. The pleaded mistake is not made out on the facts as I
+have found, and in any case, contradicts QA’s defence that the Transactions
+were shams.
+
+98 I shall hear the parties separately on costs.
+
+S Mohan  
+Judge of the High Court|  
+---|---  
+  
+Tan Chee Meng SC, Paul Loy Chi Syann and Calvin Ong Yik Lin (WongPartnership
+LLP) for the plaintiff;
+
+Chooi Jing Yen and Chen Yongxin (Eugene Thuraisingam LLP) for the defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 11 Apr 2023 (11:47 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

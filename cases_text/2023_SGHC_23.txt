@@ -1,0 +1,3348 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 23
+
+Suit No 941 of 2018
+
+Between
+
+(1)| Tritech Water Technologies Pte Ltd  
+---|---  
+(2)| Tritech Environmental Group Co Ltd  
+(3)| Tritech Engineering & Testing (Singapore) Pte Ltd  
+  
+… Plaintiffs
+
+And
+
+(1)| Duan Wei  
+---|---  
+(2)| Luo Zhuobiao  
+  
+… Defendants
+
+judgment
+
+[Tort — Misrepresentation — Fraud and deceit]
+
+[Tort — Misrepresentation — Negligent misrepresentation]
+
+[Tort — Negligence]
+
+[Intellectual Property — Law of confidence — Breach of confidence]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Tritech Water Technologies Pte Ltd and others
+
+  
+v
+
+  
+
+Duan Wei and another
+
+[2023] SGHC 23
+
+General Division of the High Court — Suit No 941 of 2018  
+Valerie Thean J  
+29, 30 September, 4–7, 11–13, 18–21 October, 2 December 2022.
+
+22 February 2023 Judgment reserved.
+
+Valerie Thean J:
+
+1 Tritech Group Limited (“TGL”) is an engineering services provider listed on
+the Singapore Stock Exchange. It has two principal businesses: urban
+infrastructure, and water and environmental technology. 1
+
+##### Foot Note 1
+
+×
+
+Wang Xiaoning’s Affidavit of Evidence-in-Chief (“AEIC”) (“WXN”) at para 3.
+
+The three plaintiffs are subsidiaries of TGL. The first plaintiff (“TWT”) is
+incorporated in Singapore and is in the business of providing water and
+environmental solutions, specialising in the manufacture and supply of
+membranes, membrane-related products and services. It also serves as the
+research and development (“R&D”) centre for water treatment and environmental
+technologies of TGL in Singapore. 2
+
+##### Foot Note 2
+
+×
+
+WXN at para 4.
+
+The second plaintiff (“TEG”) is incorporated in the People’s Republic of
+China. It is a one-stop water treatment solutions provider in China and the
+region. 3
+
+##### Foot Note 3
+
+×
+
+WXN at para 5.
+
+The third plaintiff (“TET”) is incorporated in Singapore. It is a provider of
+urban geotechnical instrumentation monitoring and site investigation services
+associated with tunnelling, deep excavation, underground construction, slope
+cutting, piling, settlement and other geotechnical problems. 4
+
+##### Foot Note 4
+
+×
+
+WXN at para 7.
+
+I refer to the three plaintiffs collectively as “Tritech”. Dr Wang Xiaoning
+(“Dr Wang”) is the managing director and chief executive officer of TGL. 5
+
+##### Foot Note 5
+
+×
+
+WXN at para 1.
+
+2 By this suit, Tritech brings action against two former employees who were
+integral to its China operations. The first defendant (“Dr Duan”) was employed
+by TWT from 1 August 2011, initially as a “Principal Engineer”. 6
+
+##### Foot Note 6
+
+×
+
+WXN at para 29.
+
+He subsequently became Chief Technical Officer of TWT and the Water &
+Environment Group of Tritech’s companies. 7
+
+##### Foot Note 7
+
+×
+
+3 JBOD 111; WXN at para 32.
+
+He resigned on 12 March 2017 and left TWT’s employment on 31 March 2017. 8
+
+##### Foot Note 8
+
+×
+
+WXN at para 36.
+
+3 The second defendant (“Mr Luo”) was employed by TET as an engineer from 3
+November 2006. 9
+
+##### Foot Note 9
+
+×
+
+3 JBOD 221.
+
+His employment was transferred from TET to TWT by way of an internal
+memorandum in September 2011. From 2012, he was appointed to a series of key
+positions within Tritech’s companies, and by 2018, he was Chief Commercial
+Officer and Chief Supervisor of network marketing promotion at TEG. 10
+
+##### Foot Note 10
+
+×
+
+WXN at paras 40-41; SOC at para 3B.
+
+4 There are two parts to Tritech’s claim. The first is a claim for breach of
+confidence against the defendants. Near the end of 2017, Mr Luo was observed
+by staff to be unduly interested in operations that lay outside of his scope
+of work. Rumours began circulating that Mr Luo and Dr Duan, who had left by
+then, were working together. Dr Wang was informed at the beginning of 2018.
+Subsequently, Tritech discovered Dr Duan had incorporated another company,
+Dreamem, on 1 March 2017, before he resigned from Tritech. In June 2018,
+Tritech conducted a trap purchase of Dreamem’s products. Mr Luo represented
+Dreamem on that occasion, where Tritech obtained products which are alleged to
+be identical or substantially similar to Tritech’s. Tritech followed on to
+commence a suit in the PRC Guangdong Shenzhen Intermediate People’s Court.
+Court preservation proceedings were conducted on Dreamem’s premises on 31
+August 2018. Mr Luo was summarily dismissed for misconduct on the same day. 11
+
+##### Foot Note 11
+
+×
+
+3 JBOD 205.
+
+5 The second aspect of Tritech’s claim relates to Dr Duan, who had worked on a
+series of unsuccessful projects during the period of his employment. Arising
+out of facts that emerged after investigations into the breach of confidence
+allegations began, Tritech now advances claims in breach of fiduciary duty,
+fraudulent misrepresentation, negligent misrepresentation and breach of Dr
+Duan’s implied contractual duty to exercise reasonable skill and care in the
+performance of his duties.
+
+Facts
+
+6 In 2009, the board of TGL decided to expand its water and environmental
+business. Membrane-related technology was new then, and the plan was to
+conduct R&D before developing a manufacturing base in China to produce
+membrane-related products. 12
+
+##### Foot Note 12
+
+×
+
+WXN at para 13.
+
+7 The membrane-related technology that Tritech was exploring concerned
+artificial membranes, which are used for water filtration, and water and
+wastewater treatment. Depending on the specific purpose of the membrane,
+different types of membranes with different properties may be required. Two
+categories are pertinent to this case: hollow fibre membranes and flat sheet
+membranes. Typically, hollow fibre membranes are used for the process of
+ultrafiltration. Flat sheet membranes, on the other hand, are used for
+nanofiltration, forward osmosis (“FO”) and reverse osmosis (“RO”). 13
+
+##### Foot Note 13
+
+×
+
+Dr Tan Chien Hsiang’s AEIC (“TCH”) at para 16.
+
+Flat sheet membranes and hollow fibre membranes are fabricated using different
+production processes, with different equipment. 14
+
+##### Foot Note 14
+
+×
+
+TCH at para 20.
+
+8 Tritech’s R&D initially focused on hollow fibre membranes. 15
+
+##### Foot Note 15
+
+×
+
+WXN at para 14.
+
+Flat sheet membrane work started in 2010, when Dr Wang started a collaboration
+with Associate Professor Ng How Yong (“Prof Ng”) at the National University of
+Singapore (“NUS”). The collaboration was to conduct R&D on flat sheet
+membranes to be used in an FO process. A laboratory setting was used to
+determine the method and process of fabricating flat sheet membranes with the
+desired qualities. 16
+
+##### Foot Note 16
+
+×
+
+WXN at para 15.
+
+9 At the time, Dr Duan was a post-doctoral research assistant in Prof Ng’s
+team. His main scope of work was the R&D of novel membranes, including FO
+membranes. 17
+
+##### Foot Note 17
+
+×
+
+WXN at para 20; Dr Duan Wei’s AEIC (“DW”) at para 7.
+
+As part of a plan to set up a commercial production line for FO membranes (the
+“FO Project”), Dr Wang invited Dr Duan to be the expert to lead the Tritech
+team. An agreement was reached with Dr Duan to allow him to complete his work
+with the NUS-Tritech collaboration before joining TWT as an employee. Dr Wang
+obtained Prof Ng’s permission for Dr Duan to start work on the FO Project
+during the interim period when he was still at NUS. Tritech paid him an
+allowance each month during this interim period. 18
+
+##### Foot Note 18
+
+×
+
+WXN at paras 22–23.
+
+An exclusive licence agreement was also entered into with NUS in respect of
+the formula that was used within NUS, to be used in the planned commercial
+production line. 19
+
+##### Foot Note 19
+
+×
+
+8A JBOD 437.
+
+10 In 2011, Tritech began to source for suppliers of the production line to be
+used in the FO Project. 20
+
+##### Foot Note 20
+
+×
+
+WXN at para 102.
+
+Two Tritech employees, Mr Gong Zhao and Mr Xie, worked together with Dr Duan.
+Three companies were shortlisted: Shanghai Dahe New Material Technology Co Ltd
+(“Shanghai Dahe”), Changzhou Dongfeng Textile Machinery Factory and Dalian
+Kena Science Technology Development Co Ltd. Dr Wang was keen for Dr Duan to be
+involved in the vendor selection process as he was the only one who had
+technical expertise in FO membranes and was aware of the existing issues faced
+by the test equipment at NUS. 21
+
+##### Foot Note 21
+
+×
+
+WXN at paras 103–104.
+
+Thus, Dr Duan participated in the second set of visits to the shortlisted
+companies which took place between 22 and 25 March 2011. 22
+
+##### Foot Note 22
+
+×
+
+WXN at para 108.
+
+After these visits, Mr Gong put together a summary of the three companies’
+estimated fees and plans and sent them to Dr Wang, Dr Duan and Mr Xie, seeking
+their views. Dr Duan responded that “the one in Dalian [was] basically
+rejected” and “[t]he Wuxi one … did not show a sincere desire to cooperate”
+and while “they probably have the best design and machining capabilities”,
+they had not given Tritech a basic sketch so one could not tell what their
+real processing capabilities were. As for Shanghai Dahe, Dr Duan said that
+their offer price was too high, but “[i]f they can quote a realistic price,
+[he thought] it would be ideal for them to do it” because “they [had] some
+experience in design and machining and have made some similar equipment”. 23
+
+##### Foot Note 23
+
+×
+
+1 JBOD 162.
+
+11 Tritech eventually agreed that Shanghai Dahe would supply the production
+line for the FO Project. This was completed in a two-stage process. On 8 May
+2011, TEG first signed a “Film Manufacturing Equipment Design Commissioning
+Agreement” with Shanghai Dahe (the “Design Commissioning Agreement”). 24
+
+##### Foot Note 24
+
+×
+
+3 JBOD 316.
+
+Discussions then followed between Tritech and Shanghai Dahe about the
+specifics of the design of the production line. Subsequently, on 1 November
+2011, TEG entered into a purchase agreement with Shanghai Dahe (the “FO
+Purchase Contract”) for the supply of the production line for the FO Project
+(the “FO Production Line”). 25
+
+##### Foot Note 25
+
+×
+
+3 JBOD 388.
+
+12 On 28 February 2012 and in May 2012, Dr Duan conducted pre-delivery
+inspections of the assembled equipment at Shanghai Dahe’s premises. He
+notified Dr Wang by e-mail of the following: 26
+
+##### Foot Note 26
+
+×
+
+WXN at paras 124–125.
+
+(a) He had not been able to test the full production line. The workshop was
+too small and the production line could not be fully extended. Further,
+plumbing and wiring needed to be cut and installed according to the actual
+conditions of Tritech’s plant. It was not possible to test individual
+components separately as the entire production line was programmed for
+automatic control. Thus, the trials could only be carried out in Tritech’s
+factory.
+
+(b) He had checked every part of the equipment from start to finish against
+the design drawings, and his conclusion was that the equipment was
+manufactured exactly according to the design drawings and was capable of
+meeting the technical requirements set out in the design. He qualified this by
+saying that the accuracy of the control could only be tested during
+commissioning.
+
+13 Following this confirmation, Mr Gong arranged for delivery of the FO
+Production Line, which took place on 15 September 2012. 27
+
+##### Foot Note 27
+
+×
+
+Gong Zhao’s AEIC (“GZ”) at para 56.
+
+The FO Production Line was assembled in one of TEG’s factories in China
+(“Factory Three”). Dr Duan was appointed director of Factory Three once its
+construction was completed in the second half of 2012. 28
+
+##### Foot Note 28
+
+×
+
+WXN at para 31; 12 October 2022 Transcript, p 103 line 19 to p 104 line 3.
+
+14 Upon delivery, Mr Gong realised that the FO Production Line contained
+various external defects. 29
+
+##### Foot Note 29
+
+×
+
+GZ at para 56.
+
+After the installation and during the commissioning of the FO Production Line,
+further defects surfaced. Another list of defects was set out by Dr Duan,
+copying Mr Gong, on 25 October 2013 (the “25 October 2013 List”). 30
+
+##### Foot Note 30
+
+×
+
+1 JBOD at 551.
+
+Ultimately, the FO Production Line was, and remains, non-functional. 31
+
+##### Foot Note 31
+
+×
+
+WXN at para 132.
+
+15 On 4 November 2013, Dr Duan arranged the purchase of membrane-rolling
+machines (the “MR Machines”) from Shanghai Dahe. 32
+
+##### Foot Note 32
+
+×
+
+GZ at para 88.
+
+The MR Machines were complementary to the FO Production Line. Their function
+was to roll the flat sheet membranes produced by the FO Production Line. 33
+
+##### Foot Note 33
+
+×
+
+GZ at para 77.
+
+Dr Duan was involved in reviewing the technical drawings for these machines.
+34
+
+##### Foot Note 34
+
+×
+
+1 JBOD 534–540, 543–567.
+
+He also conducted an inspection of the MR Machines and informed Dr Wang that
+the machines were manufactured in accordance with Tritech’s design and were
+satisfactory. 35
+
+##### Foot Note 35
+
+×
+
+1 JBOD 594.
+
+16 There were, however, defects present in the MR Machines. In an e-mail dated
+24 April 2014, Dr Duan compiled a list of defects that were present in the MR
+Machines and sent it to Mr Gong. 36
+
+##### Foot Note 36
+
+×
+
+1 JBOD 634.
+
+On 28 September 2014, Mr Gong told Shanghai Dahe that the MR Machines were
+“basically non-functional”. 37
+
+##### Foot Note 37
+
+×
+
+2 JBOD 67.
+
+Later, in an e-mail to Shanghai Dahe with Mr Gong copied, on 4 November 2014,
+Dr Duan said that Tritech had solved the issues with the MR Machines
+themselves. 38
+
+##### Foot Note 38
+
+×
+
+2 JBOD 72.
+
+Mr Gong’s evidence is that he has no knowledge of how this was done, and that
+the MR Machines are still unused. 39
+
+##### Foot Note 39
+
+×
+
+GZ at para 95.
+
+17 Due to the failure to complete the FO Production Line, Dr Wang decided that
+a good back-up plan was to set-up an RO production line in Factory Three
+instead (RO membranes are the other type of flat sheet membranes, see [7]
+above). Dr Duan advised him that it was possible to adapt the FO Production
+Line into an RO production line. 40
+
+##### Foot Note 40
+
+×
+
+WXN at paras 146–147.
+
+Dr Duan was tasked to conceptualise an RO production line, conduct site visits
+of vendors, and select a vendor who would be able to put together an RO
+production line in accordance with Tritech’s technical requirements. 41
+
+##### Foot Note 41
+
+×
+
+WXN at para 149.
+
+18 On 5 July 2014, Dr Wang asked Dr Duan to inspect two potential vendors to
+assess their suitability, one of which was Zhejiang Shengshi Machinery Co Ltd
+(“Zhejiang Shengshi”). 42
+
+##### Foot Note 42
+
+×
+
+1 JBOD 641.
+
+Dr Duan visited the site and confirmed that Zhejiang Shengshi had the capacity
+to design, manufacture and install an RO production line to produce RO
+membranes on a commercial scale; had prior experience in supplying production
+lines for RO membranes; and would be able to supply an RO production line
+using technical solutions which were its own technology. 43
+
+##### Foot Note 43
+
+×
+
+WXN at para 152.
+
+On 30 July 2014, Dr Duan informed Mr Gong that Zhejiang Shengshi had provided
+a quotation with technical documents for an RO production line, and he had
+reviewed them and made some changes. He said that he hoped the goods could be
+supplied as soon as possible. 44
+
+##### Foot Note 44
+
+×
+
+2 JBOD 10.
+
+On 22 August 2014, TEG entered into an agreement (“RO Purchase Contract”) with
+Zhejiang Shengshi for the supply and manufacture of an RO production line (the
+“RO Production Line”). 45
+
+##### Foot Note 45
+
+×
+
+4 JBOD 185–207.
+
+19 Dr Duan inspected the RO Production Line prior to delivery alone at
+Zhejiang Shengshi’s factory and informed Dr Wang and Mr Gong of his findings
+on 1 December 2014. 46
+
+##### Foot Note 46
+
+×
+
+2 JBOD 80–81.
+
+He stated that the water and drying tank were finished, but it was impossible
+to conduct a site inspection to determine if they had been manufactured with
+the correct stainless steel. However, “[t]he appearance and the structure
+compl[ied] with the requirements described in the Contract” and it had a
+“beautiful appearance”. All the bearings for the water tank were ceramic
+bearings which satisfied the requirements described in the contract. There was
+some defect on the surface of the drying tank, and he had requested that it be
+rectified.
+
+20 TEG accepted delivery of the RO Production Line, and it was delivered in
+batches between December 2014 and January 2015. Installation and commissioning
+then commenced. Similar to the FO Production Line, the RO Production Line was
+dogged by defects. 47
+
+##### Foot Note 47
+
+×
+
+WXN at para 159.
+
+No RO membrane has been produced. 48
+
+##### Foot Note 48
+
+×
+
+WXN at para 160.
+
+21 In the course of finding solutions to the problems with the RO Production
+Line, Dr Duan selected two companies to be technical consultants, and sought
+Dr Wang’s approval of payment of RMB400,000 to them. 49
+
+##### Foot Note 49
+
+×
+
+2 JBOD 239.
+
+The money was disbursed to Dr Duan in two debit cards on 19 August 2016.
+Tritech did not receive any technical consultancy services and TEG reported Dr
+Duan to the Chinese police when this discrepancy was discovered in July 2019,
+after Dr Duan had left Tritech’s employment. 50
+
+##### Foot Note 50
+
+×
+
+WXN at para 172.
+
+Dr Duan was subsequently convicted of bribery in China and sentenced to seven
+months’ imprisonment with a fine of RMB100,000. 51
+
+##### Foot Note 51
+
+×
+
+6 JBOD 187.
+
+The facts supporting his plea of guilt reflected that Dr Duan had paid the
+RMB400,000 to one Mr He. He agreed with Mr He that Tritech would engage Mr He
+to provide technical support to Tritech at RMB400,000, with Dr Duan receiving
+a kick-back of one-third of that sum (RMB149,800). 52
+
+##### Foot Note 52
+
+×
+
+6 JBOD 185.
+
+22 In the meanwhile, the commissioning of the FO Production Line continued. At
+Mr Gong’s request, Dr Duan set out the full list of defects in a copy of the
+FO Purchase Contract containing annotations identifying various technical
+requirements that the FO Production Line did not satisfy. This annotated copy
+of the contract was prepared on 7 November 2016 (the “7 November 2016 List”).
+53
+
+##### Foot Note 53
+
+×
+
+2 JBOD 338.
+
+The contract with Shanghai Dahe was terminated four days later.
+
+23 On 12 March 2017, Dr Duan resigned as an employee of Tritech. He told Dr
+Wang that the work was taking a toll on him, and he wanted to rest for some
+time. 54
+
+##### Foot Note 54
+
+×
+
+3 JBOD 190.
+
+He was still at this juncture a trusted employee despite the failure of both
+the FO and RO Production Lines, and Dr Wang told him that he was always
+welcome to return. 55
+
+##### Foot Note 55
+
+×
+
+2 JBOD 429.
+
+24 The FO Production Line and RO Production Line were in Tritech’s Factory
+Three, which was focused on the production of flat sheet membranes. Tritech
+was producing hollow fibre membranes in “Factory One”. 56
+
+##### Foot Note 56
+
+×
+
+WXN at para 17.
+
+I will refer to the hollow fibre membrane production line in Factory One as
+the “UF Production Line”. Tritech first launched hollow fibre membrane
+ultrafiltration products in April 2013 after approximately four years of R&D.
+57
+
+##### Foot Note 57
+
+×
+
+TCH at para 9.
+
+This area of work was under the purview of Dr Tan Chien Hsiang (“Dr Tan”), who
+was appointed Principal Membrane Engineer by Tritech in February 2013 and
+seconded to Tritech’s office in China to oversee the commissioning of the UF
+Production Line. 58
+
+##### Foot Note 58
+
+×
+
+TCH at para 8.
+
+25 Tritech produced two hollow fibre membrane products: a curtain-style
+membrane and a column-style membrane. The column-style membrane was first
+launched in December 2013, and the curtain-style membrane was first launched
+in April 2013. The main difference between the two types of membrane lies in
+the way the fibres are packed, either as a column or as a curtain. 59
+
+##### Foot Note 59
+
+×
+
+TCH at para 22.
+
+One of Tritech’s subsidiaries holds a patent in respect of these two products,
+which discloses a range of operating parameters that would allow replication
+of the production process to manufacture hollow fibre membranes. However, the
+precise combination of parameters and steps required to produce the hollow-
+fibre membranes with uniform, desired properties and consistently on a
+commercial scale are confidential within Tritech and are not disclosed in the
+patent. 60
+
+##### Foot Note 60
+
+×
+
+TCH at para 29.
+
+26 By 2017, Mr Luo held a number of key management and senior executive
+positions within Tritech. 61
+
+##### Foot Note 61
+
+×
+
+WXN at para 41.
+
+In November 2017, Dr Tan was informed by the lead of his production team (“Mr
+Xiao”) that Mr Luo had been at the UF Production Line a few times that month,
+observing the production process and taking detailed notes. Mr Luo had also
+asked members of the production team various technical questions. Because of
+Mr Luo’s seniority within Tritech, the production employees initially answered
+his queries. Eventually, they grew suspicious and thus reported Mr Luo’s
+behaviour to Dr Tan. 62
+
+##### Foot Note 62
+
+×
+
+TCH at para 77.
+
+Dr Tan told Mr Xiao that the production team should not be disclosing any
+information relating to the production of UF products to anyone not involved
+in the production process, including Mr Luo. 63
+
+##### Foot Note 63
+
+×
+
+TCH at para 78.
+
+In December 2017, Mr Xiao told Dr Tan that Mr Luo still came to the production
+line and asked the production team questions. Around the same time, a research
+engineer in one of the R&D teams that reported to Dr Tan (“Ms Zhang”), told Dr
+Tan that Mr Luo had asked for a technical flowchart of Tritech’s production
+process. 64
+
+##### Foot Note 64
+
+×
+
+TCH at para 79.
+
+Dr Tan reported Mr Luo’s behaviour to Dr Wang in January 2018.
+
+27 This prompted an investigation into Mr Luo, which extended to Dr Duan
+because there were rumours that Mr Luo was working with Dr Duan. 65
+
+##### Foot Note 65
+
+×
+
+WXN at paras 43–44.
+
+It was then discovered that Dr Duan had incorporated a company, Dreamem, on 1
+March 2017, before he resigned from Tritech. The shareholders of Dreamem were:
+Dr Duan (22.5%), Ms Chen Yu Lan (“Ms Chen”) (22.5%) and Mr Yang Han (55%). 66
+
+##### Foot Note 66
+
+×
+
+WXN at para 45; 6 JBOD 600.
+
+It was also discovered that Ms Chen is Mr Luo’s mother. 67
+
+##### Foot Note 67
+
+×
+
+WXN at para 48.
+
+28 Dr Wang instructed a Chinese law firm to conduct a trap purchase of
+Dreamem’s products. Ms Guo Ying (“Ms Guo”), a lawyer, contacted Dreamem as
+“Emily” from an advertising agency. 68
+
+##### Foot Note 68
+
+×
+
+WXN at para 49.
+
+From 6 June 2018, she corresponded with Mr Luo at the e-mail address
+“luozhuobiao@dreamem.cn”. 69
+
+##### Foot Note 69
+
+×
+
+3 JBOD 18–32.
+
+She was able to obtain name cards bearing the Dreamem logo listing Dr Duan as
+“PhD” and Mr Luo as “Manager”, 70
+
+##### Foot Note 70
+
+×
+
+7 JBOD 7–9.
+
+and a copy of Dreamem’s brochure (the “Dreamem Brochure”). 71
+
+##### Foot Note 71
+
+×
+
+5 JBOD 543–566.
+
+She also went to Dreamem’s premises and took a picture with Mr Luo. 72
+
+##### Foot Note 72
+
+×
+
+6 JBOD 540.
+
+The Dreamem Brochure indicated that Dreamem was selling, amongst other things,
+a curtain-style UF membrane, a column-style UF membrane and a RO
+nanofiltration membrane. 73
+
+##### Foot Note 73
+
+×
+
+WXN at para 51; 5 JBOD 546, 550 and 554.
+
+Ms Guo purchased four curtain-style UF membranes and three column-style UF
+membranes from Dreamem. 74
+
+##### Foot Note 74
+
+×
+
+WXN at para 52.
+
+Together with a notary public, she photographed and collected the goods on 22
+June 2018 and these were later delivered to Mr Gong and Dr Tan at Tritech on 1
+July 2018. 75
+
+##### Foot Note 75
+
+×
+
+Guo Ying’s AEIC at para 8–9.
+
+Dr Tan’s evidence is that the products purchased from Dreamem are identical,
+or at least substantially similar to, the products sold by Tritech described
+at [25] above. 76
+
+##### Foot Note 76
+
+×
+
+TCH at paras 61–73.
+
+29 On 22 June 2018, the second plaintiff’s wholly owned subsidiary commenced
+an action against the defendants in the PRC Guangdong Shenzhen Intermediate
+People’s Court. An evidence preservation order was granted on 27 August 2018.
+The evidence preservation was conducted on 31 August 2018 at Dreamem’s
+premises. Ms Wu Ling, a Tritech representative at the raid, reported to Dr
+Wang that she saw Mr Luo run away from the premises. 77
+
+##### Foot Note 77
+
+×
+
+WXN at para 54–55.
+
+30 Mr Luo was dismissed by Tritech on 31 August 2018. 78
+
+##### Foot Note 78
+
+×
+
+WXN at para 56.
+
+Following this, investigations were carried out in relation to his Tritech
+e-mail account. It was discovered that on numerous occasions, he had forwarded
+e-mails containing documents with confidential information to his personal
+e-mail: 79
+
+##### Foot Note 79
+
+×
+
+WXN at para 57–59; TCH at para 81.
+
+(a) On 13 March 2017, Mr Luo forwarded documents containing pricing
+information for some products manufactured by Tritech, which bore the name
+“VaVie”, to his personal e-mail.
+
+(b) On 8 June 2017, Mr Luo forwarded documents containing pricing information
+for RO membrane products to his personal e-mail.
+
+(c) On 28 September 2017, an employee of Tritech, Ms Zhang, sent Mr Luo a .rar
+folder containing various documents relating to Tritech’s ultrafiltration
+operating procedures and RO membrane quality control at his request. After the
+folder was sent to him, he asked Ms Zhang if there were any other inspection
+or operations procedures and guidelines, and she replied that there were none.
+He did not explain (in e-mail) what he wanted these documents for. He
+forwarded this e-mail chain to his personal e-mail address on 24 October 2017.
+
+(d) On 24 October 2017, at Mr Luo’s request, assistant factory manager and
+head of the Quality Check (“QC”) centre, Ms Hou, sent him a .rar folder
+containing documents relating to the quality, environmental and safety (“QES”)
+management system and the “VaVie” products. He forwarded these e-mails to his
+personal e-mail that same day. There is no explanation in the e-mail chain as
+to why he required the documents.
+
+(e) On 26 March 2018, Mr Luo forwarded to his personal e-mail documents
+relating to the hollow fibre manufacturing process. 80
+
+##### Foot Note 80
+
+×
+
+3 JBOD 11–13.
+
+31 Tritech commenced this suit on 25 September 2018.
+
+Parties’ cases
+
+Plaintiffs’ case
+
+32 Tritech brings, broadly, three claims against Dr Duan: a claim in
+fraudulent or negligent misrepresentation; a claim in breach of contract
+involving an implied contractual duty to exercise reasonable skill and care in
+the performance of his duties; and a claim for RMB400,000.
+
+33 Tritech claims that Dr Duan represented, expressly or impliedly, that
+Shanghai Dahe was a suitable vendor to supply the FO Production Line, that the
+FO Production Line to be supplied by Shanghai Dahe was technically feasible,
+and that the FO Production Line met Tritech’s technical requirements. 81
+
+##### Foot Note 81
+
+×
+
+Plaintiffs’ Closing Submissions dated 21 November 2022 (“PWS”) at para 93.
+
+These representations were false, and Tritech relied on them to its detriment
+by, amongst other things, entering into a contract for the supply of the FO
+Production Line with Shanghai Dahe, accepting delivery of the FO Production
+Line, and paying the sums due to Shanghai Dahe under the Design Commissioning
+Agreement and the FO Purchase Contract. 82
+
+##### Foot Note 82
+
+×
+
+PWS at para 105.
+
+34 Tritech claims that Dr Duan misrepresented that the MR Machines satisfied
+Tritech’s technical requirements and would properly function. 83
+
+##### Foot Note 83
+
+×
+
+PWS at para 120.
+
+Relying on this, Tritech purchased the MR Machines from Shanghai Dahe and made
+payments to them.
+
+35 As for the RO Production Line, prior to entering into the contract with
+Zhejiang Shengshi, Dr Duan orally informed Dr Wang that Zhejiang Shengshi had
+the capacity to design, manufacture and install an RO Production Line, it had
+prior experience in supplying production lines for RO membranes, and it would
+be able to supply the RO Production Line using technical solutions which were
+its own technology. 84
+
+##### Foot Note 84
+
+×
+
+PWS at para 67.
+
+Later, after conducting the pre-delivery inspection alone, Dr Duan informed Dr
+Wang that the RO Production Line satisfied Tritech’s technical requirements.
+85
+
+##### Foot Note 85
+
+×
+
+PWS at para 80.
+
+Induced by Dr Duan’s representations, Tritech entered into the RO Purchase
+Contract, paid the sums required to Zhejiang Shengshi, and entered into a
+contract for the manufacture of a cleanroom and partition to house the RO
+Production Line. 86
+
+##### Foot Note 86
+
+×
+
+PWS at para 145.
+
+36 The representations were made by Dr Duan fraudulently, or at least
+recklessly. 87
+
+##### Foot Note 87
+
+×
+
+PWS at paras 110, 123 and 146.
+
+Alternatively, Dr Duan’s conduct showed a lack of reasonable care, which gives
+rise to both a claim against him in tort and a claim against him for breach of
+his implied contractual obligation to use reasonable care and skill in the
+performance of his duties. 88
+
+##### Foot Note 88
+
+×
+
+PWS at paras 119, 124 and 150–152.
+
+37 Tritech also claims that Dr Duan misappropriated RMB400,000 that was given
+to him by Tritech, in breach of his fiduciary duties and duties of good faith
+and fidelity. 89
+
+##### Foot Note 89
+
+×
+
+PWS at para 264.
+
+38 As against Dr Duan and Mr Luo both, Tritech brings a claim in breach of
+confidence. Dr Duan, with the assistance of Mr Luo, took calculated steps to
+take Tritech’s confidential information for their own, and Dreamem’s, benefit.
+Dr Duan resigned on the same day he incorporated Dreamem together with Mr
+Luo’s mother and Mr Yang Han. He did not tell Tritech that he was leaving to
+set up a competitor business with Mr Luo. He retained vast amounts of
+information when he left Tritech, including archives of his Tritech e-mail
+account. Mr Luo stayed in Tritech’s employment and made use of his position to
+gather further confidential information for Dreamem. Through this
+collaboration, Dreamem was able to replicate Tritech’s UF production process
+seamlessly. 90
+
+##### Foot Note 90
+
+×
+
+PWS at para 153.
+
+39 Thus, Tritech argues, Dr Duan and Mr Luo were in breach of both their
+equitable and contractual duties of confidence. 91
+
+##### Foot Note 91
+
+×
+
+PWS at para 154.
+
+They were also in breach of their duties of good faith and fidelity, as well
+as their fiduciary duties. 92
+
+##### Foot Note 92
+
+×
+
+PWS at paras 252–253; 262–263.
+
+Their collaboration to take Tritech’s confidential information for their own
+benefit also amounted to an unlawful means conspiracy. 93
+
+##### Foot Note 93
+
+×
+
+PWS at para 275.
+
+Defendants’ case
+
+40 Dr Duan’s defence is that he did not make the alleged misrepresentations.
+94
+
+##### Foot Note 94
+
+×
+
+Submissions for the 1st and 2nd Defendants dated 21 November 2022 (“DWS”) at p
+2 paras 4(a)–(b).
+
+41 Dr Duan contends he was not an expert on FO production equipment; he simply
+had expertise in FO membrane science. 95
+
+##### Foot Note 95
+
+×
+
+DW at paras 5, 7 and 12.
+
+The production line technology for manufacturing FO membranes was very
+complex, and in 2011 there was only one company in the world that was capable
+of industrially producing FO production lines: Hydration Technology Innovation
+LLT in the US. It was common knowledge that there was no company in China that
+produces FO membranes. 96
+
+##### Foot Note 96
+
+×
+
+DWS at p 8 paras 25–26.
+
+While Prof Ng’s team at NUS was able to produce FO membranes, they were only
+able to do so manually. Their production line never managed to successfully
+make an FO membrane because the commissioning and controlling of the machine
+was too difficult for the research team. 97
+
+##### Foot Note 97
+
+×
+
+DW at para 21.
+
+When Dr Wang approached Prof Ng and Dr Duan, they cautioned him of the risks
+involved in attempting an FO project on an industrial scale. Dr Wang confirmed
+that he was prepared to take the risk. 98
+
+##### Foot Note 98
+
+×
+
+DWS at p 10 paras 33.1–33.2.
+
+He also argues that the claim relating to the FO Production Line is barred by
+the Limitation Act (Cap 163, 1996 Rev Ed). 99
+
+##### Foot Note 99
+
+×
+
+DWS at p 15.
+
+42 As for the RO Production Line, he had attended Zhejiang Shengshi’s premises
+and saw similar equipment that was meant to be shipped to other companies. 100
+
+##### Foot Note 100
+
+×
+
+DW at para 60.
+
+When he conducted the pre-delivery inspection, all he was asked to do was to
+check on the state of assembly of the equipment and the number of spare parts.
+Overall, it was Mr Gong who was in charge of the purchase of the RO Production
+Line from Zhejiang Shengshi.
+
+43 The RMB400,00 that Tritech wishes to recover was given to him to purchase
+an RO formula from one Mr He Guanghui. 101
+
+##### Foot Note 101
+
+×
+
+DWS at p 39 paras 1 and 2.
+
+He duly purchased this formula and gave it to Tritech.
+
+44 Regarding the confidential information, the defendants contend the
+information was not taken by them, nor was it used by Dreamem. While the
+confidential information that Tritech alleges was taken and used relates to
+hollow fibre membrane products, they assert that what Dreamem produced were
+“MBR reinforced hollow fibre membrane products”, which were something quite
+different. 102
+
+##### Foot Note 102
+
+×
+
+DWS at p 43 at para 3.
+
+Organisation of judgment
+
+45 This suit covers three distinct factual areas. First, there is Dr Duan’s
+involvement in the FO Production Line (including the procurement of the MR
+Machines) and in the RO Production Line. Second, there is Dr Duan’s conduct in
+relation to the RMB400,000 that he received from Tritech. Finally, there is Dr
+Duan and Mr Luo’s involvement in Dreamem. I deal with Tritech’s claim in these
+three component parts.
+
+46 Regarding the first and third components, the suit was bifurcated by
+consent on 5 September 2022 at a pre-trial conference and I deal only with the
+issue of liability in this judgment.
+
+The FO Production Line, MR Machines and RO Production Line
+
+Legal context and issues
+
+47 Tritech’s claims in respect of the FO Production Line, MR Machines, and RO
+Production Line follow the same legal framework. Tritech’s primary case is
+that Dr Duan is liable for fraudulent misrepresentation. Alternatively, he is
+liable for negligent misrepresentation. As a second alternative, he is liable
+for failure to perform his duties with reasonable skill and care, in either
+contract or tort.
+
+48 The requirements for a claim in fraudulent misrepresentation (also referred
+to as the tort of deceit) were set out by the Court of Appeal in Panatron Pte
+Ltd and another v Lee Cheow Lee and another [2001] 2 SLR(R) 435 at [13]–[14],
+citing Derry v Peek (1889) 14 App Cas 337 (“Derry v Peek”). The plaintiff must
+show that:
+
+(a) a false representation of fact has been made by words or conduct;
+
+(b) the plaintiff had acted upon the false statement;
+
+(c) the plaintiff suffered damage by so doing;
+
+(d) the representation was made with the intention that it should be acted
+upon by the plaintiff, or by a class of persons which includes the plaintiff;
+and
+
+(e) it was made with knowledge that it is false, or at least made in the
+absence of any genuine belief that it is true.
+
+49 For a claim in negligent misrepresentation, the plaintiff must also prove
+the first, second and third elements above. Instead of the fourth and fifth
+elements, however, the plaintiff must establish that (see Yong Khong Yoong
+Mark and others v Ting Choon Meng and another [2021] SGHC 246 at [91]):
+
+(a) the representor owed the plaintiff a duty to take reasonable care in
+making the representation; and
+
+(b) the representor breached that duty of care.
+
+50 Common to negligent and fraudulent misrepresentation is the requirement
+that a false statement of fact is made by the representor.
+
+51 As an alternative, Tritech alleges that Dr Duan failed to perform his
+duties with reasonable skill and care. As established by the Court of Appeal
+in Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S)
+Pte Ltd) v Wong Bark Chuan David [2008] 1 SLR(R) 663 (“Man Financial”) at
+[193], there is an implied term in an employment contract that the employee
+will use reasonable skill and care in the performance of his or her duties
+pursuant to the employment contract.
+
+52 Thus, given the above legal context and the structure of Tritech’s claim,
+the following issues arise for my determination in respect of each of the FO
+Production Line, MR Machines and RO Production Line:
+
+(a) First, was there an actionable misrepresentation by Dr Duan; if so, was
+this misrepresentation made fraudulently or negligently?
+
+(b) Depending on the answer above, was this misrepresentation relied on by
+Tritech, and did Tritech suffer damage as a result of this misrepresentation?
+
+(c) As an alternative if the above is not established, did Dr Duan fail to
+exercise reasonable skill and care in the performance of his duties?
+
+FO Production Line
+
+Was there an actionable misrepresentation by Dr Duan?
+
+53 Tritech must first show that Dr Duan made an actionable misrepresentation.
+Tritech contends that these are as follows: 103
+
+##### Foot Note 103
+
+×
+
+PWS at para 93.
+
+(a) Shanghai Dahe was a suitable vendor to supply the FO Production Line;
+
+(b) the FO Production Line to be supplied by Shanghai Dahe was technically
+feasible; and
+
+(c) the FO Production line met Tritech’s technical requirements and could
+produce FO membranes.
+
+I deal with these in turn.
+
+54 Regarding the first alleged misrepresentation, whether or not Shanghai Dahe
+was a “suitable” vendor to supply the FO Production Line, this would have been
+a matter of opinion. Statements of opinion are themselves not actionable (see
+Goldrich Venture Pte Ltd and another v Halcyon Offshore Pte Ltd [2015] 3 SLR
+990 at [107]), but statements of opinion can involve implied statements of
+fact. A statement of opinion by one who knows the facts best often involves an
+implied statement that he knows facts which justify his opinion: Smith v Land
+and House Property Corporation (1884) 24 ChD 7 (“Smith”) at 15, cited in
+Bestland Development Pte Ltd v Thasin Development Pte Ltd [1991] SGHC 27.
+Whether or not the maker of the statement genuinely held the opinion at the
+time of expressing it is also a matter of fact: Bisset v Wilkinson and another
+[1927] 1 AC 177 at 182. Thus, an expression of an opinion that is not
+genuinely held may be an actionable misrepresentation.
+
+55 The onus is on Tritech, then, to show that Dr Duan did not, or could not,
+genuinely believe Shanghai Dahe was a suitable vendor at the time the
+representation was made. Tritech has not identified any facts that would have
+made it apparent to Dr Duan then that would suggest that Shanghai Dahe was not
+a suitable vendor for the FO Production Line. Nor is there any expert evidence
+to show that a person of Dr Duan’s capabilities would have concluded that
+Shanghai Dahe was not suitable. It was not disputed that Shanghai Dahe had
+produced a coating machine (which was a machine used in NUS’s FO project) for
+another company, SAIC-GE. 104
+
+##### Foot Note 104
+
+×
+
+GZ at para 13.
+
+There was then a plausible basis to consider that Shanghai Dahe would be
+suitable to supply related technology, in the light of the other checks that
+were made. The first representation is not shown to be false.
+
+56 The second alleged representation pertains to whether or not the FO
+Production Line was technically feasible. Again, this is a matter of fact.
+However, Tritech has not established that the FO Production Line was not
+technically feasible. What they have established is that the FO Production
+Line was completely non-functional after attempts were made to use it, and
+that it failed to meet a number of the technical requirements specified by
+Tritech. This does not necessarily mean that the technical requirements were
+impossible to meet, or that Shanghai Dahe was incapable of meeting the
+technical requirements from the outset. It simply means that Shanghai Dahe
+ultimately failed to do so. Nor is there evidence before the court to suggest
+that, even if the technical requirements for the FO Production Line had been
+met, the FO Production Line would not be able to function. The provision of a
+defective FO Production Line by Shanghai Dahe does not mean that the FO
+Production Line, as designed, was not “technically feasible”. Thus, Tritech
+has not shown that the second alleged misrepresentation is false.
+
+57 The third representation comprises two distinct parts, that the FO
+Production Line met Tritech’s technical requirements and that the FO
+Production Line could produce FO membranes. These concern facts that are
+undisputed, that the FO Production Line did not meet Tritech’s technical
+requirements and could not produce any FO membrane. The third representation
+alleged is therefore the only potentially actionable misrepresentation.
+
+58 The issue that follows is whether Dr Duan made these representations.
+Tritech’s case is that Dr Duan made this representation in an e-mail after his
+second pre-delivery inspection of the FO Production Line. 105
+
+##### Foot Note 105
+
+×
+
+PWS at para 98.
+
+After his second pre-delivery inspection in May 2012, Dr Duan informed Dr Wang
+that “the equipment is manufactured exactly according to the design drawings;
+the equipment is capable of meeting the technical requirements set out in the
+design …”. 106
+
+##### Foot Note 106
+
+×
+
+1 JBOD 411.
+
+However, he began the e-mail by telling Dr Wang that he had been unable to
+test the production line for various reasons provided by Shanghai Dahe (see
+[12] above). He also mentioned that the equipment was not completely assembled
+yet. He further concluded the quoted statement above with “but the accuracy of
+the control can only be tested during commissioning.” Dr Duan was clear that
+he had not tested the equipment. His conclusion was simply based on comparing
+the drawings with what he saw. Given the nature of the “technical
+requirements” of the FO Production Line, this cannot have been a
+representation that they were met. I explain by reference to some examples of
+the technical requirements that the FO Production Line did not meet, as
+identified in the 7 November 2016 List. 107
+
+##### Foot Note 107
+
+×
+
+PWS at para 55.
+
+59 One such technical requirement was that “The deflection device must ensure
+that the non-woven fabric or mesh yarn does not deviate from the reference
+position when applying the film solution. The film does not deviate from the
+precise position when moving, the film does not deviate from the precise
+position during winding, the ends of the film roll are flat when winding and
+the film does not produce wrinkles.” 108
+
+##### Foot Note 108
+
+×
+
+2 JBOD 342.
+
+This requirement was not met because of “the lack of precision in the
+manufacture of the drive rollers themselves, the drive rollers cannot be
+adjusted precisely and the tension control system is not perfect, resulting in
+obvious wrinkling of the film when winding, which does not meet the production
+requirements”. 109
+
+##### Foot Note 109
+
+×
+
+2 JBOD 342.
+
+Evidently, this technical requirement related to the operation of the FO
+Production Line. To assess whether this technical requirement was fulfilled,
+one would have to attempt winding, and to check whether the film produced
+wrinkles. Another example is that the temperature inside the oven was required
+to be uniform and not to fluctuate by more than one degree. 110
+
+##### Foot Note 110
+
+×
+
+2 JBOD 344.
+
+This was not met because the temperature fluctuated by more than one degree.
+111
+
+##### Foot Note 111
+
+×
+
+2 JBOD 344.
+
+Certainly, one could only determine that this was the case after turning on
+the oven, and testing it for some time. I do not see how one could determine
+that these problems existed simply by reference to the drawings. Dr Duan was
+clear that he had not done any testing at the pre-delivery inspection. Thus,
+when his update to Dr Wang is read in totality, he was not representing that
+all the technical requirements were met. He would have no way of knowing this
+until the equipment was tested.
+
+60 At best, he was representing to Dr Wang that there was nothing that could
+be gleaned from a simple comparison of the drawings and the FO Production Line
+that would suggest that the technical requirements were not met. Tritech has
+not adduced evidence to show that a comparison of the drawings and the state
+of the FO Production Line in May 2012 would have suggested that the technical
+requirements were not met. All that Tritech has is the testimony of Mr Gong
+that, when the FO Production Line was delivered in September 2012, it
+contained various external defects. The first issue is that this was some four
+months after Dr Duan’s pre-delivery inspection. The second issue is that these
+external defects were essentially scratches, dents, grease stains and
+corrosion. 112
+
+##### Foot Note 112
+
+×
+
+GZ at para 56.
+
+Mr Gong’s evidence is that, based on what Dr Duan had told him and his own
+engineering knowledge, these defects would affect the FO membrane production
+process. 113
+
+##### Foot Note 113
+
+×
+
+GZ at para 60.
+
+However, that does not mean that these external defects showed that the
+technical requirements were not met. It is Tritech’s case that Dr Duan would
+have been aware of many of these defects at the second pre-delivery inspection
+in May 2011, and Dr Duan could not have been honest when he notified Dr Wang
+by email that he had “checked every part from start to finish”. It was not,
+however, clear why, if there were so many defects that could not be rectified,
+Mr Gong, who photographed them, did not raise any alarm. Dr Duan’s case at
+trial was that these were caused by oil and dust at the Shanghai Dahe factory
+because of the delay in delivery that was caused by the tardy completion of
+the construction of Factory Three. 114
+
+##### Foot Note 114
+
+×
+
+Transcript, 19 October 2022, pp 10–11.
+
+While Dr Duan raised this for the first time at trial, the fact remains that
+there is no objective evidence as to the state of the products at the pre-
+delivery inspection, and the evidential onus on this issue is on Tritech.
+
+61 Further, Dr Duan’s e-mail must be taken in the context of what he had said
+following his first pre-delivery inspection, which was three months prior. On
+5 March 2012, shortly after he carried out his first pre-delivery inspection
+of the FO Production Line on 28 February 2012, he informed Dr Wang that
+“[b]asically, the equipment is manufactured according to the drawings we have
+discussed. The structure of the frame is relatively firm, and there should be
+no jerry-built ones.” 115
+
+##### Foot Note 115
+
+×
+
+1 JBOD 400.
+
+This was a qualified statement. He said that the equipment basically had been
+built according to the drawings and that there should be no poorly built ones.
+That this statement was qualified is brought home by what Dr Duan said in the
+next line, which was that “[t]he structure of the membrane scraping machine is
+very complicated, and the actual situation is a bit beyond my expectations”.
+116
+
+##### Foot Note 116
+
+×
+
+1 JBOD 400.
+
+He then stated that “[t]he upper end of the device is fully covered with
+rollers and brackets. The space looks very crowded, and this may cause trouble
+for future operation and maintenance.” Dr Duan was clearly not representing
+that the FO Production Line was free of issues.
+
+62 Following these two pre-delivery inspections, Tritech does not allege that
+Dr Duan made any further positive representations that the technical
+requirements were all met. Rather, the contention is that he did not disclose
+the full extent of the technical defects. 117
+
+##### Foot Note 117
+
+×
+
+PWS at para 54.
+
+This was not a representation that the FO Production Line complied with
+Tritech’s technical requirements. It was clear to everyone at Tritech that the
+FO Production Line could not produce FO membranes. When the full list of
+technical defects was finally compiled and sent to Mr Gong on 7 November 2016,
+no one complained that they were caught by surprise. Dr Wang gave evidence
+that he decided to pursue the RO Production Line because “there were so many
+issues with the FO Production Line and there was little hope of them being
+rectified in a short period of time”. 118
+
+##### Foot Note 118
+
+×
+
+WXN at para 146.
+
+Thus, by 2014, Dr Wang was aware of serious problems with the FO Production
+Line. While Dr Wang may not have known the precise nature of the problems, it
+is clear that Tritech was not labouring under the misapprehension that the FO
+Production Line complied with all the technical requirements and could produce
+FO membranes. There was no misrepresentation of this sort from Dr Duan.
+
+Was there a failure to exercise reasonable care and skill in the performance
+of his duties?
+
+63 Tritech does not succeed on the misrepresentation claims. Nevertheless, it
+is plain from the correspondence and the course of trial that Dr Wang’s
+fundamental assumption that Dr Duan was doing his competent best was
+unfounded.
+
+64 As a preliminary matter, Dr Duan’s role should be clarified. Dr Duan’s case
+was that he was not in charge of the FO Production Line. Rather, he took
+instructions from Dr Wang or even Mr Gong. This assertion is absurd. Dr Wang’s
+expertise was in geological and geotechnical engineering. 119
+
+##### Foot Note 119
+
+×
+
+WXN at para 9.
+
+Dr Duan was specifically hired to lead the team for FO flat sheet work. Nor is
+it believable that he took instructions from Mr Gong. Mr Gong’s assistance was
+of an administrative and contractual nature. 120
+
+##### Foot Note 120
+
+×
+
+GZ at para 4.
+
+65 Dr Duan revealed the true state of the FO Production Line to Tritech on 7
+November 2016, which led to the termination of the contract with Shanghai Dahe
+four days later. For reasons that follow, I find that between 25 October 2013
+and 7 November 2016, Dr Duan continued to “work” on a project that he knew was
+bound to fail, with his employer none the wiser.
+
+66 Following installation at Factory Three in December 2012, Dr Duan began
+commissioning the FO Production Line in early 2013. Defects emerged which Dr
+Duan did not promptly disclose to Tritech. Instead, from 22 April 2013, he
+started communicating privately with Shanghai Dahe. Tritech’s premise for the
+claim concerning the FO Production Line was a discovery after these
+proceedings began that Dr Duan was constantly in private communication with
+Shanghai Dahe’s Mr Chen regarding serious defects with the FO Production Line
+that he concurrently hid from Mr Gong. Most of this correspondence was not
+copied to anyone else at Tritech. The first such e-mail was sent by Dr Duan to
+Mr Chen on 22 April 2013. 121
+
+##### Foot Note 121
+
+×
+
+1 JBOD 492.
+
+On 16 August 2013, Dr Duan sent a list of defects (the "16 August 2013 List")
+arising from the August commissioning process. Many items were serious or
+basic, such as rust, motors that stopped suddenly, the absence of equipment
+manuals, mechanical or electrical drawings. Discussions took place between 16
+August to 27 September 2013, with Mr Chen and technicians attending at the
+Factory Three. Tritech submits that Dr Duan did not involve Tritech in his
+communications with Mr Chen because he did not want the true state of the FO
+Production Line to come to light. 122
+
+##### Foot Note 122
+
+×
+
+PWS at para 56.
+
+67 Dr Duan’s intention in doing so is pivotal. While some of the contents of
+the emails could reflect an employee trying to troubleshoot problems on his
+own, such as the initial 22 April 2013 email about installing an air knife,
+that was not Dr Duan’s explanation. When confronted with the question as to
+why he kept these emails private, Dr Duan’s response was that he did not keep
+defects secret from Tritech and that Mr Gong was aware of the problems with
+the FO Production Line because he regularly visited Factory Three. 123
+
+##### Foot Note 123
+
+×
+
+Transcript, 19 October 2022, p 35 line 9 to p 36 line 6.
+
+Notably, Dr Duan’s response was not that there was no need to keep Mr Gong
+informed of all the specific details of the FO Production Line. Instead, he
+appeared to recognise that the contents of his e-mails with Mr Chen should
+have been brought to Mr Gong and Dr Wang’s attention when he testified that:
+124
+
+##### Foot Note 124
+
+×
+
+Transcript, 19 October 2022, p 32 line 24 to p 33 line 5.
+
+… these work emails between me and Chen Dahe, at this time, when you just see
+the email, it may not be sent to Gong Zhao and Jeffrey Wang but, later,
+normally I will reattach these emails and communicate this content of the
+email to Gong Zhao and Jeffrey Wang. Why I should keep these emails between
+only Chen Dahe and me? I would not do such a thing.
+
+[emphasis added in italics]
+
+This was a lie. Dr Duan did not produce any specific emails reattaching any of
+his communications with Mr Chen to either Mr Gong or Dr Wang. Further, it was
+the unchallenged evidence of Mr Gong that, other than through the e-mails in
+evidence on which he was copied, he was not made aware of the problems with
+the FO Production Line. 125
+
+##### Foot Note 125
+
+×
+
+GZ at para 62.
+
+Thus, I am unable to accept Dr Duan’s explanation. He did indeed keep the
+e-mails between him and Mr Chen from Mr Gong and Dr Wang. This raises the
+obvious question of why he did so.
+
+68 Dr Duan’s motivation becomes clear when one considers the contents of the
+correspondence that was copied to Mr Gong. The first time that Mr Gong was
+apprised of a detailed list of the defects present in the FO Production Line
+was through the 25 October 2013 List, in an email written to Mr Chen and
+copied to Mr Gong. 126
+
+##### Foot Note 126
+
+×
+
+GZ at para 64; 1 JBOD 551.
+
+Tritech’s submission is that, in the 25 October 2013 List, Dr Duan whitewashed
+the defects in the FO Production Line. He omitted certain key defects that had
+not been resolved, and downplayed others.
+
+69 For example, the 25 October 2013 List referred to the following issue with
+oil leaking from bearings:
+
+Roller bearing grease in all the tanks contaminate the water quality.
+Currently, there is a small amount of spilled grease, when the wear increases
+in the future, oil contamination will become a major problem and will lead to
+poor bearing lubrication. Is it possible to find an oil-free bearing
+alternative?
+
+This description of the issue was quite different from reality. The true
+severity of the issue can be seen from Dr Duan’s private (and earlier)
+communications with Mr Chen regarding the same. On 26 July 2013, Dr Duan told
+Mr Chen that there was “oil leaking from another roller of the bearing inside
+the membrane scraping water tank … causing oil to remain on the surface of the
+water, which made it impossible … to scrape the membrane” and asked him to
+provide a solution as soon as possible. 127
+
+##### Foot Note 127
+
+×
+
+1 JBOD 516.
+
+In a later e-mail on 6 August 2013, Dr Duan told Mr Chen that he had found a
+bearing with a wide crack and that there was a serious oil leak. 128
+
+##### Foot Note 128
+
+×
+
+1 JBOD 518.
+
+Four days after the 25 October 2013 List, on 29 October 2013, Dr Duan
+described the true extent of the problem to Mr Chen privately: 129
+
+##### Foot Note 129
+
+×
+
+1 JBOD 566.
+
+The bearing posed a big hidden hazard. It is impossible for oil to evaporate
+because this is lubricating oil. If the oil leaks and there is no oil
+lubrication in the future, the bearings will wear out fast. After the oil
+seeps out, firstly, it cannot be guaranteed that the oil will float on the
+water surface. Secondly, the membrane at both ends of each water tank will
+come out of the water and pass through the pressure roller, where the oil will
+stick onto the surface of the membrane.
+
+Crucially, Dr Duan was explaining that the oil leak would lead to problems
+with the membranes themselves, in that oil would stick to their surface. This
+echoed what he had said on 26 July 2013 about the impossibility of “scraping”
+the membranes. Dr Duan accepted during cross-examination that this was
+unacceptable and the issue of the oil leaks from the bearings was a serious
+problem. 130
+
+##### Foot Note 130
+
+×
+
+Transcript, 19 October 2022, p 22 lines 13–14.
+
+This was not, however conveyed in the 25 October 2013 List, which simply
+identified the problem as one that would become a major one in the future, and
+one that could lead to “poor bearing lubrication”. Dr Duan hid the fact that
+the oil leak issue was already hindering the production of membranes.
+
+70 The oil leak was not the only significant defect that Dr Duan had raised
+privately with Mr Chen earlier. In the 16 August 2013 List, Dr Duan raised
+issues regarding a faulty tension control system, defective rollers and
+winders, and defective servo motors. 131
+
+##### Foot Note 131
+
+×
+
+1 JBOD 520.
+
+These issues were not present in the 25 October 2013 List. Tellingly,
+correspondence after that list (private communication between Dr Duan and Mr
+Chen and the 7 November 2016 List) shows that these problems were not
+subsequently resolved. 132
+
+##### Foot Note 132
+
+×
+
+PWS at para 56(b)(i).
+
+Dr Duan’s act of omitting serious issues from the 25 October 2013 List
+reflected the state of his knowledge at the time, and his intention to conceal
+the true gravity of the situation from Tritech.
+
+71 The final piece of evidence is the 7 November 2016 List, prepared pursuant
+to a request by Mr Gong, who sought to avoid making payment to Shanghai Dahe
+because of the various defects. 133
+
+##### Foot Note 133
+
+×
+
+2 JBOD 339.
+
+The 7 November 2016 List highlighted 27 critical defects with the FO
+Production Line and formed the basis for Tritech’s termination of the Shanghai
+Dahe contract. Mr Gong’s evidence was that some of these issues were being
+raised for the first time, more than four years after the FO Production Line
+was delivered, and more than three years after the 25 October 2013 List. 134
+
+##### Foot Note 134
+
+×
+
+GZ at para 75.
+
+Dr Duan did not offer any satisfactory explanation as to why this was the
+case. In his affidavit of evidence-in-chief (“AEIC”), when setting out the
+sequence of events, Dr Duan states that by May 2016, it became obvious that
+the FO Production Line would not be successful. 135
+
+##### Foot Note 135
+
+×
+
+DW at para 31(t).
+
+There is a failure to explain, however, how this became obvious to him only in
+May 2016, and why he still tarried thereafter until Mr Gong prompted him in
+November 2016.
+
+72 The inference to be drawn from the above is that, between 22 April and 25
+October 2013, Dr Duan formed the view that the FO Production Line that had
+been supplied by Shanghai Dahe was not viable. It was for this reason that he
+started a long chain of private communication with Mr Chen. While he was still
+taking steps to rectify issues, his concealment of serious defects from
+Tritech reflected a growing certainty that the FO Production Line was not
+viable. On 25 October 2013, he updated Mr Gong with a list that was not
+accurate. If Dr Duan were exercising reasonable care, he would have at the
+minimum kept Mr Gong properly informed through that list. Instead, he gave
+Tritech the impression that the issues with the FO Production Line could be
+resolved, and that there was a chance that the commissioning process would
+eventually be successful. This allowed him to continue working on the FO
+Production Line project for another three years, until he finally gave the
+full picture to Tritech on 7 November 2016. Dr Duan’s conduct amounted to a
+failure to perform his duties as the engineer in charge of the FO Production
+Line project with reasonable diligence, skill and care.
+
+73 The assessment of damages arising from his failure to discharge his duty to
+exercise reasonable care and skill should therefore start from 25 October
+2013. Tritech has sought to impose liability from the time that Shanghai Dahe
+was chosen. There is, nonetheless, insufficient evidence that Dr Duan was not
+taking reasonable care up to that point. It is not disputed that there was, at
+the time that Dr Duan commenced work with Tritech, no known FO production line
+producer in China, and the only known producer in the world was a company
+based in the US. 136
+
+##### Foot Note 136
+
+×
+
+DWS at p 8 paras 25–26.
+
+This aspect of the need for cutting edge innovation was not disputed. From Dr
+Wang’s point of view, he was taking a reasonable risk, because the NUS
+laboratory-scale production line worked; Dr Duan was the person responsible
+for that pilot; and he was able to task the same person to commercialise the
+pilot. 137
+
+##### Foot Note 137
+
+×
+
+Transcript, 7 October 2022, p 13 lines 19-22.
+
+This was consistent with Dr Wang’s assumption throughout, despite the lack of
+success of the FO or RO Production Lines, that Dr Duan was indeed trying his
+level best. It was only after the private communication with Mr Chen emerged
+showing Dr Duan’s state of mind, and subsequent events such as the bribery
+conviction, that Dr Wang suspected a different set of circumstances. 138
+
+##### Foot Note 138
+
+×
+
+WXN para 134.
+
+On a related note, the bribery conviction described at [21] above was not Dr
+Duan’s only bribery conviction. There was another conviction involving a bribe
+from a vendor, Qingdao Danjia, where the PRC Criminal Court found that Dr Duan
+had received a kickback of RMB 100,000 on 26 January 2017. In 2016, Dr Duan
+had recommended Qingdao Danjia to TEG, and TEG had entered into three
+contracts with them. With the benefit of hindsight, Dr Wang was suspicious
+that, similarly, a bribe from Shanghai Dahe may have resulted in its
+selection. This is plausible. It is equally plausible, however, that the
+kickbacks, if any, started in the 22 April to 25 October 2013 period, rather
+than at the outset of Shanghai Dahe’s selection. Dr Wang relies on incidents
+after 25 October 2013 when explaining his suspicions: 139
+
+##### Foot Note 139
+
+×
+
+WXN at para 182; 6 JBOD 185.
+
+the earliest being the inexplicable choice of Shanghai Dahe for the MR
+Machines, and subsequently, Dr Duan’s line to Mr Chen in a 7 July 2014 email
+in the context of payment for the defective MR Machines, “I have also
+discussed final payment with [Mr Gong] and asked him to apply for a portion of
+the money. The most important thing is that we work well together”. 140
+
+##### Foot Note 140
+
+×
+
+1 JBOD 643.
+
+74 In this context, I deal with a related point raised by Dr Duan for the
+first time in his AEIC. His evidence was that NUS’s laboratory-scale FO
+production line was a failure and that the only FO membranes successfully
+produced were produced by hand. 141
+
+##### Foot Note 141
+
+×
+
+Transcript, 12 October 2022, p 80 line 17 to p 81 line 15.
+
+I am sceptical that the NUS laboratory version was produced by hand. This
+deception on Dr Duan’s part would have been difficult in the light of the NUS
+supervision and specific oversight of Prof Ng. The formula that was said to
+have been used in the NUS laboratory production line was also verified by NUS
+and the subject of an exclusive licence agreement between Tritech and NUS.
+Because this contention was not pleaded, Tritech had no opportunity to address
+the allegation. Nor was it put to Tritech’s witnesses in cross-examination. I
+accept Dr Wang’s evidence that he was told the NUS laboratory-scale version
+was a working production line that possessed potential to be built on a
+commercial-scale; in his words, a “complete prototype” to “size-up, or
+commercialise”. 142
+
+##### Foot Note 142
+
+×
+
+Transcript, 7 October 2022, p 11 lines 20-22.
+
+75 An associated issue is whether Dr Duan breached his duties to Tritech prior
+to 25 October 2013, for example, on 16 August 2013, when he sent a substantive
+list to Mr Chen privately, or on 27 September 2013, around the time Mr Chen
+and his technicians visited at Factory Three. Nevertheless, Dr Duan was the
+Director of Factory Three. His role would have given him a measure of
+discretion in exercising his responsibility. While Mr Gong criticised some
+measures taken by Dr Duan as “stopgap”, such as a 28 June 2013 suggestion to
+use a vacuum pump, there was no expert evidence on the specific ad-hoc
+measures that Dr Duan employed to rectify issues as they arose. Dr Duan was
+expected to resolve issues on the ground and did not need to report every
+issue to management. That the accusation from Tritech now is that he only
+copied Mr Gong on 28 June 2013 and 25 October 2013 in the context of numerous
+communications with Mr Chen 143
+
+##### Foot Note 143
+
+×
+
+Wong Partnership’s 7 December 2022 letter at para 10(b), PWS at para 56.
+
+lends weight to the view that Dr Duan was trusted to report as he saw fit. On
+25 October 2013, he chose to update Mr Gong by copy in the context of the
+commissioning of the FO Production Line. Mr Gong was in charge of payment and
+contract issues. The onus was on Dr Duan to exercise due care and honesty in
+preparing the 25 October List that was copied to Mr Gong. As explained above,
+Dr Duan failed to do so.
+
+MR Machines
+
+Was there an actionable misrepresentation by Dr Duan?
+
+76 Tritech’s case is that Dr Duan misrepresented that the MR Machines
+satisfied Tritech’s technical requirements and would properly function. 144
+
+##### Foot Note 144
+
+×
+
+PWS at para 120.
+
+This representation was made in Dr Duan’s e-mail to Dr Wang on 18 December
+2013 (“18 December E-mail”), where he stated that “[t]he acceptance of the
+film roller equipment is quite satisfactory”, “the equipment is manufactured
+in accordance with our design” and “The test run met the requirements we set
+out”. 145
+
+##### Foot Note 145
+
+×
+
+1 JBOD 594.
+
+The only qualification in this e-mail was that it had been discovered that a
+further part was required, and Dr Duan had asked Shanghai Dahe to provide this
+part.
+
+77 Dr Duan explained at trial that the test run conducted at Shanghai Dahe’s
+premises was simply starting the machine and letting it run. There was no
+product used to test how the machine would deal with the product. Based on the
+test run conducted, it would therefore be impossible to tell whether a
+successful product could be produced from the MR Machines. 146
+
+##### Foot Note 146
+
+×
+
+Transcript, 19 October 2022, p 39 lines 2–11; p 39 line 24 to p 40 line 1.
+
+Dr Duan’s e-mail does not imply that a product was used in the test run. Nor
+is there any evidence from Dr Wang or Mr Gong that Tritech expected Dr Duan to
+conduct a full test run with a product.
+
+78 It then becomes clear that the defects with the MR Machines that Dr Duan
+later identified on 24 April 2014 were not defects that could have been
+ascertained during his pre-delivery inspection. As such, he could not have
+made any representation that they did not exist. His representation that all
+the contractual requirements were complied with only extended to those
+requirements that could have been checked. During cross-examination, Dr Duan
+was able to explain why it was not possible for him to identify the various
+defects during the test run. For example: 147
+
+##### Foot Note 147
+
+×
+
+Transcript, 19 October 2022, p 39 lines 12–19.
+
+Q. Item 4, whether the motor can be turned or not, that would be something you
+should have tested during the test run at Shanghai Dahe, correct?
+
+A. So when we don't use this motor to roll the membrane, the motor runs, and
+when we put membrane and start the motor to roll the membrane, the motor did
+not run. The problems resolved after we changed the motor to a more powerful
+motor.
+
+79 Dr Duan’s representation in his e-mail was not a confirmation that there
+were no issues with the MR Machines whatsoever. It was a confirmation that
+there were no issues with the MR Machines that could be detected from a visual
+inspection and a test run without product. Tritech has not shown that this
+confirmation was false. It was, rather, the assumption Dr Wang had, after
+receiving Dr Duan’s news, that was false. Dr Wang’s assumption was that Dr
+Duan had conducted a proper inspection, which cross-examination has shown Dr
+Duan wholly failed to do. While this may have been negligent (see [81] below),
+the fact remains that Dr Duan did not represent that he did so to Dr Wang.
+
+Was there a failure to exercise reasonable care and skill in the performance
+of his duties?
+
+80 Again, and more so as time went on, Dr Duan’s emails were crafted with a
+view to mislead. While Tritech is not able to establish its case on
+misrepresentation, it is plain that Dr Duan’s lack of care grew more audacious
+with time.
+
+81 Dr Duan was, in the run-up to the 25 October 2013 List, aware of a number
+of serious defects with the FO Production Line. As I have found at [72] above,
+he had in fact come to the view that the FO Production Line was not viable.
+The MR Machines were supplied by Shanghai Dahe, the same company. A reasonable
+employee in Dr Duan’s position would have been well aware of the risk that the
+MR Machines would also be non-functional. Despite this, Dr Duan chose to
+conduct the peremptory inspection that he did and thereafter to send the 18
+December E-mail. While I have found that, strictly speaking, this e-mail was
+not factually inaccurate, it certainly conveyed the impression that the MR
+Machines were acceptable. Giving Tritech this impression without fully testing
+the MR Machines, despite what he knew about the FO Production Line, was a
+breach of Dr Duan’s duty to perform his duties with reasonable care and skill.
+
+82 There is a more fundamental reason why Dr Duan was in breach of duty. The
+MR Machines were ancillary to the FO Production Line. They were meant to
+configure membranes that were produced by the FO Production Line. Unless the
+FO Production Line was functional, they would be of no use at all. 148
+
+##### Foot Note 148
+
+×
+
+GZ at para 77; Transcript, 19 October 2022, p 11 line 22 to p 12 line 20.
+
+On 9 October 2013, Dr Duan in a private email to Mr Chen stated in the context
+of the FO Production Line, “the rollers are not adjusted properly, and the
+cloth running generated wrinkles easily.” 149
+
+##### Foot Note 149
+
+×
+
+1 JBOD 541.
+
+Despite his knowledge that the FO Production Line was not going to be
+functional (and that the MR Machines would be superfluous), Dr Duan arranged
+for the purchase of the MR Machines in November 2013 and thereafter induced
+Tritech to accept the MR Machines in December 2013.
+
+83 In doing so, Dr Duan fell short of the standards expected of a reasonable
+employee in his position. He failed to exercise reasonable skill and care in
+the performance of his duties.
+
+RO Production Line
+
+Was there an actionable misrepresentation by Dr Duan?
+
+84 In respect of the RO Production Line, Tritech alleges that Dr Duan made
+four representations: 150
+
+##### Foot Note 150
+
+×
+
+SOC at para 43 and 46.
+
+(a) Zhejiang Shengshi had the capacity to design, manufacture and install the
+RO Production Line equipment of a quality that is fit for its intended purpose
+(ie. to produce RO Membranes on a commercial scale);
+
+(b) Zhejiang Shengshi had prior experience in supplying the RO Production Line
+equipment;
+
+(c) Zhejiang Shengshi’s technical solutions were its own technology; and
+
+(d) the RO Production Line was free of defects and could be accepted by
+Tritech.
+
+85 On the first alleged representation, Dr Wang’s evidence is that Zhejiang
+Shengshi must have lacked the capability to deliver the RO Production Line
+because otherwise, it would not have delivered equipment that was so
+fundamentally defective that it would fail to function even after two years of
+trials and commissioning. 151
+
+##### Foot Note 151
+
+×
+
+WXN at para 160.
+
+Mr Gong’s evidence is that in 2018, in anticipation of litigation with
+Zhejiang Shengshi, he discovered that the funds in Zhejiang Shengshi’s bank
+account were almost zero, Zhejiang Shengshi did not own any land, and its
+factory premises were leased. Further, its factory was an old simple steel
+structure workshop that was unsuitable for manufacturing production line
+equipment such as the RO Production Line. The processing equipment there was
+also very simple. This was the factory that Dr Duan had visited twice: once
+before the contract with Zhejiang Shengshi was signed, and once more for the
+pre-delivery inspection. 152
+
+##### Foot Note 152
+
+×
+
+GZ at paras 121–123.
+
+Thus, this sets the RO Production Line apart from the FO Production Line. I
+accept that when Dr Duan visited Zhejiang Shengshi’s premises, he would have
+become aware that it was not going to be able to supply a viable RO Production
+Line. This means that, in July 2014, he misrepresented to Dr Wang that
+Zhejiang Shengshi had the capacity to design, manufacture and install a
+production line to produce RO Membranes on a commercial scale. 153
+
+##### Foot Note 153
+
+×
+
+WXN at para 152.
+
+86 As for the second and third representations, Tritech has not produced clear
+evidence to prove that they were false, even if they were made. Tritech simply
+asserts in submissions that they were “unlikely” to be true. 154
+
+##### Foot Note 154
+
+×
+
+PWS at para 148.
+
+This is not sufficient.
+
+87 Regarding the fourth representation, I find that this was made by Dr Duan,
+and that it was false at the time it was made. In his e-mail dated 1 December
+2014 to Dr Wang, Dr Duan confirmed that the “appearance and structure [of the
+water tank and drying tank] comply with the requirements described in the
+Contract.” 155
+
+##### Foot Note 155
+
+×
+
+2 JBOD 80.
+
+Nonetheless, like in his e-mail after the FO Production Line pre-delivery
+inspection, Dr Duan explained that he had not been able to test the machinery
+and that there were some issues with it. On the whole, I find that this
+amounted to a representation by Dr Duan that the water and drying tank of the
+RO Production Line complied with the contractual requirements. The only
+qualification to this was that he was unable to check if the correct material
+was used. As became evident once Dr Duan left Tritech, the water and drying
+tank did not meet the specifications in the contract – specifically, the
+thickness of the water tank was 2.75mm rather than the stipulated 4mm and the
+tank could deform under force. 156
+
+##### Foot Note 156
+
+×
+
+GZ at para 119(d)(i).
+
+At trial, Dr Duan explained that he had not checked the thickness of the water
+tank, because it would have been impossible to do so. 157
+
+##### Foot Note 157
+
+×
+
+Transcript, 19 October 2022, p 80 lines 4–11.
+
+However, in his e-mail, he made a clear statement that the “structure” of the
+water tank complied with specifications. A reasonable interpretation of this
+statement was that “structure” would include the thickness of the walls. He
+did not expressly qualify his statement by saying that he was unable to check
+the thickness of the water tank, nor would this qualification be apparent from
+the rest of this e-mail. When Dr Duan represented that the water tank met the
+contractual requirements, he thus represented that the thickness of the water
+tank walls was 4mm. This was not true. Further, it is telling that, in this
+suit, Dr Duan does not even attempt to justify his statement by highlighting
+the contractual specifications that he checked and found the RO Production
+Line to comply with. Dr Duan’s defence was that he was not in charge of the RO
+Production Line, that he “worked under [Wang Bo]” in the context of the RO
+Production Line and was his “assistant”. 158
+
+##### Foot Note 158
+
+×
+
+Transcript, 19 October 2022, p 57 lines 16–23.
+
+This was a repetition of a similarly absurd assertion made in the context of
+the FO Production Line. Dr Duan was by this time the Chief Technical Officer
+of TWT and the Water & Environment Group of Tritech’s companies, director of
+Factory Three and resident expert on flat sheet membranes.
+
+Were the misrepresentations fraudulent?
+
+88 For a representation to have been made fraudulently, it must have been made
+knowingly, without belief in its truth or recklessly: Derry v Peek as cited in
+Wishing Star Ltd v Jurong Town Corp [2008] 2 SLR(R) 909 at [16].
+
+89 I begin with the fourth misrepresentation. In light of Dr Duan’s evidence
+that he omitted to check the structure of the water tank against all the
+requirements in the contract, it cannot be said that he knew his
+representation was false. However, I find that he did not care whether it was
+true or false. In my view, it is telling that Dr Duan specifically attended
+the pre-delivery inspection alone despite the suggestion from Mr Wang Bo to
+bring an electrical engineer along because the equipment “has electrical and
+mechanical processing”. 159
+
+##### Foot Note 159
+
+×
+
+2 JBOD 76.
+
+Dr Duan said that the electrical engineer was not needed because the trip was
+just to check the state of assembly of the equipment and the number of spare
+parts, and the equipment was not electrically-operational. 160
+
+##### Foot Note 160
+
+×
+
+2 JBOD 78.
+
+Having seen what he had seen on his first inspection, Dr Duan knew that he
+could not bring an electrical engineer in the light of the report he would
+thereafter make. This is confirmed by the fact that Dr Duan’s report after the
+pre-delivery inspection was indeed inaccurate. He was not concerned with the
+truth of his report, but simply with securing Tritech’s acceptance of the RO
+Production Line.
+
+90 Tritech also highlights that Dr Duan hid the defects in the RO Production
+Line from it for a significant period of time. Despite commissioning beginning
+in January 2015, he only made known some of the serious defects more than a
+year later in April 2016. After that, he falsely assured Dr Wang that “trial
+production was smooth” and that the RO Production Line was in a “relatively
+stable state” despite the fact that the RO Production Line was not producing
+membranes of good quality. 161
+
+##### Foot Note 161
+
+×
+
+2 JBOD 234; 19 October Transcript, p 99 lines 12–17.
+
+Dr Duan was clearly being dishonest by this time. That Dr Duan was prepared to
+be dishonest to hide issues with the RO Production Line supplied by Zhejiang
+Shengshi lends support to my finding that he was being dishonest when he made
+the pre-delivery misrepresentation.
+
+91 Once this conclusion is reached, it follows that he was fraudulent when he
+made the first, pre-contractual, misrepresentation as well. The facts show
+that Zhejiang Shengshi could not and did not provide a satisfactory RO
+Production Line. And Dr Duan has not provided any explanation for why he
+thought otherwise.
+
+Reliance and loss
+
+92 Dr Duan’s two representations were in his reports following his site visits
+to Zhejiang Shengshi’s premises. They were undoubtedly intended to be relied
+on by Tritech and Tritech did rely upon them, to its detriment. Tritech
+entered into the contract with Zhejiang Shengshi for the purchase of the RO
+Production Line, and subsequently accepted delivery of the RO Production Line
+from Zhejiang Shengshi, in reliance on Dr Duan’s representations that Zhejiang
+Shengshi was capable and that the RO Production Line was acceptable. 162
+
+##### Foot Note 162
+
+×
+
+WXN at para 159.
+
+Purchasing and accepting the defective and non-functional RO Production Line
+did cause Tritech loss, which should be subsequently assessed in accordance
+with the bifurcation order.
+
+Conclusion
+
+93 I summarise my conclusions in this section as follows:
+
+(a) For the FO Production Line, Dr Duan was in breach of his implied
+contractual duty to exercise reasonable skill and care in the performance of
+his duties from 25 October 2013 onwards.
+
+(b) For the MR Machines, Dr Duan was in breach of his implied contractual duty
+to exercise reasonable skill and care in the performance of his duties in
+ordering and accepting the machines.
+
+(c) For the RO Production Line, Dr Duan fraudulently misrepresented that
+Zhejiang Shengshi was capable of producing a suitable production line in July
+2014, and fraudulently misrepresented that the RO Production Line was
+acceptable in December 2014.
+
+94 Because the earliest breach occurred in 2013, and this suit commenced in
+2018, I need not deal with the limitation issues raised by Dr Duan. Tritech is
+entitled to damages for loss suffered as a result of Dr Duan’s breaches and
+fraudulent misrepresentations. The extent of these damages will be determined
+at the next stage of proceedings.
+
+Breach of duty of good faith and fidelity
+
+95 Employees are subject to a duty of good faith and fidelity to their
+employers as an implied term in their employment contracts: Man Financial at
+[193]. To determine whether there has been a breach of this duty, Lord Esher
+MR in Robb v Green [1895] 2 QB 315 (cited in Smile Inc Dental Surgeons Pte Ltd
+v Lui Andrew Stewart [2012] 4 SLR 308 at [64]), stated (at 316) that the
+appropriate question is whether:
+
+… such conduct was not what any person of ordinary honesty would look upon as
+dishonest conduct towards his employer and a dereliction from the duty which
+the defendant owed to his employer to act towards him with good faith.
+
+96 I find that Dr Duan was in breach of his duty of good faith and fidelity in
+relation to the RMB400,000 that he was given by Dr Wang in two debit cards on
+19 August 2016. Dr Wang’s evidence is that this sum was given to Dr Duan as
+fees for two technical consultants which Dr Duan had selected. 163
+
+##### Foot Note 163
+
+×
+
+WXN at para 168–169.
+
+This is confirmed by an e-mail from Dr Duan to Dr Wang the day prior, stating
+that he had selected two companies as technical consultants, and seeking Dr
+Wang’s approval of payment of RMB400,000 to them. 164
+
+##### Foot Note 164
+
+×
+
+2 JBOD 239.
+
+Dr Wang’s evidence is that Tritech never received any technical consultancy
+services. When this was discovered in July 2019, TEG reported Dr Duan to the
+Chinese police. 165
+
+##### Foot Note 165
+
+×
+
+WXN at para 172.
+
+97 It is not disputed that Dr Duan had paid the RMB400,000 to one Mr He. He
+agreed with Mr He that Tritech would engage Mr He to provide technical support
+to Tritech at RMB400,000, with Dr Duan receiving a kick-back of one-third of
+that sum (RMB149,800). 166
+
+##### Foot Note 166
+
+×
+
+6 JBOD 185.
+
+He was convicted of bribery in China and sentenced to seven months’
+imprisonment with a fine of RMB100,000. 167
+
+##### Foot Note 167
+
+×
+
+6 JBOD 187.
+
+98 Dr Duan now claims that the RMB400,000 was given to him to purchase a
+formula from one Mr He, which he did, and which formula he sent to Tritech on
+25 August 2016. 168
+
+##### Foot Note 168
+
+×
+
+DWS at p 39 para 2 and p 40 para 6.
+
+I do not accept this new explanation. It wholly contradicts the 18 August 2016
+e-mail, which makes no reference to a formula or Mr He. It also contradicts
+the PRC Criminal Court judgment, which reflects agreed facts that the
+RMB400,000 was paid for “technical support”. This reflects that Dr Wang
+approved the payment of RMB400,000 for consultancy services for Tritech. It is
+not disputed that the transaction involved a significant secret commission for
+himself. Dr Duan’s lawyer stated at trial that Dr Duan was in principle
+prepared to return the RMB149,000 commission. 169
+
+##### Foot Note 169
+
+×
+
+Transcript, 29 September 2022, p 46 lines 18–25.
+
+This rendered his use of the RMB400,000 a breach of his duty of good faith and
+fidelity. It was dishonest.
+
+99 Thus, Dr Duan used Tritech’s RMB400,000 for an unauthorised purpose. But
+for Dr Duan’s misappropriation, Tritech would still have this sum. There is no
+evidence that Tritech obtained anything of value in return for this RMB400,000
+spent by Dr Duan. Consequently, Dr Duan’s breach of the implied term in his
+employment contract caused loss to Tritech amounting to RMB400,000. He is thus
+liable to return this sum: Piattchanine, Iouri v Phosagro Asia Pte Ltd [2015]
+5 SLR 1257 (at [242] and [244]) and Enjin Pte Ltd v Pritchard, Lilia [2022]
+SGHC 201 (at [89]–[95]).
+
+100 Tritech also submits that Dr Duan’s misappropriation of RMB400,000 was a
+breach of the fiduciary duties that he owed to Tritech. 170
+
+##### Foot Note 170
+
+×
+
+PWS at para 264.
+
+Tritech argues that, by virtue of his position in “top management” with broad
+discretionary powers, he owed Tritech the same fiduciary duties ordinarily
+owed by a director to its company. 171
+
+##### Foot Note 171
+
+×
+
+PWS at para 260.
+
+In view of my earlier finding on Dr Duan’s contractual duty, it is not
+necessary for me to deal with this point, save to note that Clearlab SG Pte
+Ltd v Ting Chong Chai and others [2015] 1 SLR 163 (“Clearlab”) lists at [275]
+as a feature of a fiduciary the ability to unilaterally exercise the
+particular power or discretion under discussion. Dr Duan obtained Dr Wang’s
+authorisation for the expenditure in question. 172
+
+##### Foot Note 172
+
+×
+
+WXN at para 169.
+
+He was remiss in failing to carry out his specific duty, instead of wrongly
+exercising a discretion given to him. While it could be argued that he was
+appointed as agent to use the RMB400,000 to purchase the consultancy services,
+Tritech has not put its case on this basis. In any event, the contractual duty
+of good faith and fidelity is sufficient to ground Dr Duan’s liability for the
+return of the RMB400,000.
+
+Confidential information
+
+Claim in equity
+
+101 A claim in breach of confidence in equity comprises three elements
+(I-Admin (Singapore) Pte Ltd v Hong Ying Ting and others [2020] 1 SLR 1130
+(“I-Admin”) at [43]):
+
+(a) The information is confidential in nature.
+
+(b) The information was imparted in circumstances of confidence.
+
+(c) The information has been used without authorisation and to the detriment
+of the plaintiff.
+
+These requirements are satisfied for reasons that follow.
+
+Necessary quality of confidence
+
+102 Tritech identifies the following allegedly confidential information as
+having been taken and misused by the defendants: 173
+
+##### Foot Note 173
+
+×
+
+PWS at paras 156–157.
+
+(a) the “Membrane Making Liquid Formula” for use in the production of
+ultrafiltration products;
+
+(b) the operating parameters for use in the production of ultrafiltration
+products;
+
+(c) the operating procedures for use in the production of ultrafiltration
+products;
+
+(d) QES management system for use in the production of ultrafiltration
+products;
+
+(e) quality control information for RO membrane products;
+
+(f) production methodologies, operating procedures and quality control test
+methods for “VaVie” products;
+
+(g) pricing information relating to a number of TEG’s products; and
+
+(h) Tritech’s supplier and customer information.
+
+103 In their defence, the defendants only assert that lists and identities of
+suppliers, vendors and customers, as well as price lists, are not confidential
+in nature. 174
+
+##### Foot Note 174
+
+×
+
+Defence (Amendment No 6) at paras 9–10.
+
+They do not suggest that the other information is not confidential. In closing
+submissions, the defendants do not even pursue their objection to the
+confidentiality of Tritech’s pricing, supplier and customer information.
+
+104 Information possesses the necessary quality of confidence so long as it
+remains relatively secret or relatively inaccessible to the public as compared
+to information already in the public domain: Invenpro (M) Sdn Bhd v JCS
+Automation Pte Ltd and another [2014] 2 SLR 1045 (“Ivenpro”) at [130(a)]. I am
+satisfied that all the information identified by Tritech possess the necessary
+quality of confidence. The documents that contained the information in
+question were created internally by Tritech, inaccessible to the public, and
+access to them was restricted even within Tritech.
+
+105 The formula, operating parameters, operating procedures and QES management
+system were described by Dr Tan as being crucial to Tritech’s production of
+ultrafiltration products on a commercial scale. 175
+
+##### Foot Note 175
+
+×
+
+TCH at para 48.
+
+As such, save for senior management of Tritech, no other employee would have
+access to the internally-created documents containing such information. The
+information would only be shared with production employees in so far as it was
+relevant to the specific step of production that they were involved in. 176
+
+##### Foot Note 176
+
+×
+
+TCH at para 51.
+
+The documents containing the QES management system were also internally-
+created, and the handling of them was limited to authorised personnel only.
+177
+
+##### Foot Note 177
+
+×
+
+TCH at para 52–53.
+
+The RO QC information was contained in documents that were created by the
+production team and were accessible by them only. 178
+
+##### Foot Note 178
+
+×
+
+TCH at para 98.
+
+The information relating to the “VaVie” products was stored in a .rar file and
+had been collated based on years of production tuning and continuous
+optimisation of the production process. 179
+
+##### Foot Note 179
+
+×
+
+TCH at para 98.
+
+The documents which contained the pricing information were also kept strictly
+confidential to those involved in sales and marketing of the respective
+products. 180
+
+##### Foot Note 180
+
+×
+
+WXN at para 60.
+
+Imparted in circumstances of confidence
+
+106 Where there is a contract expressly or impliedly imposing an obligation of
+confidence, this element may be satisfied simply by reference to that
+contract: Clearlab at [65]. This is consistent with the general test
+articulated in Adinop Co Ltd v Rovithai Ltd and another [2019] 2 SLR 808 at
+[88], of whether a reasonable person in the shoes of the recipient of the
+information would have known on reasonable grounds that the information was
+confidential and given to him in confidence.
+
+107 Both Dr Duan and Mr Luo signed non-disclosure agreements with TWT
+(“NDAs”). Dr Duan’s was signed on 1 September 2011. 181
+
+##### Foot Note 181
+
+×
+
+3 JBOD 361.
+
+Mr Luo’s was signed in 2010. 182
+
+##### Foot Note 182
+
+×
+
+3 JBOD 273.
+
+Under the NDAs, the following are specifically stipulated to be confidential
+information: 183
+
+##### Foot Note 183
+
+×
+
+3 JBOD 274 and 362.
+
+“all financial, marketing, sales, technical, operational, commercial and human
+resource information, trade secrets, business plans … models, product
+information, processes, formulae, designs, specifications, drawings, data,
+manuals and instructions, and product and service price information” and
+“customer lists and data”. This encompasses all the information set out at
+[103] above. Pursuant to the NDAs, the defendants were obliged to keep said
+information “in strict confidence”.
+
+108 Further, Tritech’s Service Guidelines (“the Guidelines”), which were
+incorporated into both defendants’ employment contracts, stipulated that: 184
+
+##### Foot Note 184
+
+×
+
+3 JBOD 308.
+
+Employees should refrain from activities such as … disclosing to unauthorised
+persons confidential information or company secrets, demanding or accepting
+bribes, personal gifts from subordinates, suppliers or customers, or
+committing other misconduct generally not accepted in work place. …
+
+And that:
+
+Upon cessation of service:
+
+a) Employees have to return all company properties and document to the
+company.
+
+b) They have to keep company information and business contacts (including in-
+house software, worksheet, spread sheets, list of suppliers, list of vendors,
+and all other information) confidential and non-disclosure [sic] to any
+parties, except with the order form relevant Authorities. …
+
+109 Clause IV(2) of Mr Luo’s Employment Contract stipulated that: 185
+
+##### Foot Note 185
+
+×
+
+3 JBOD 101.
+
+[Mr Luo] shall undertake not to privately disclose or transfer the technical
+achievements and technical data of [TET]. Upon termination or cancellation of
+the contract, [Mr Luo] shall return all experiment recordings, work reports
+and data to his Department.
+
+110 It would therefore have been abundantly clear to Dr Duan or Mr Luo that
+they were subject to an obligation of confidence in respect of any of the
+confidential information that they acquired while working for Tritech.
+
+Misuse of confidential information
+
+111 The trap purchase evidence (summarised at [28] above) was not disputed by
+the defendants, whose counsel did not cross-examine Ms Guo. Tritech relies on
+the following key points to show that the defendants were able to manufacture
+the near-identical products at Dreamem by misusing Tritech’s confidential
+information: 186
+
+##### Foot Note 186
+
+×
+
+PWS at paras 178–243.
+
+(a) Dreamem sold products that were identical to, or at least substantially
+similar to, Tritech’s products.
+
+(b) Dreamem was able to produce these membranes within a very short period of
+time, despite not having the requisite expertise.
+
+(c) The timing of Mr Luo’s taking of confidential information coincided with
+the commencement of Dreamem’s production.
+
+(1) Dreamem sold products that were identical to, or at least substantially
+similar to, Tritech’s products.
+
+112 After the trap purchase of Dreamem’s products, Dr Tan carried out various
+tests. His findings can be summarised as follows:
+
+(a) First, the products were physically similar. The length of the fibres in
+Dreamem’s curtain-style membrane was very close to the length of the fibres in
+Tritech’s curtain-style membrane, with a deviation of only 0.33%. The length
+of fibres used in Tritech’s curtain-style membrane is not information that is
+disclosed to the public in Tritech’s brochure. Dreamem’s column-style membrane
+had the same length and diameter as Tritech’s column-style membrane. 187
+
+##### Foot Note 187
+
+×
+
+TCH at para 67.
+
+(b) Second, the properties displayed by the Dreamem products were either
+identical to or closely similar to those of the Tritech products. Dr Tan’s
+evidence is that a substantial amount of R&D was conducted by Tritech over
+approximately a decade to determine how to achieve these properties through
+adjusting the various parameters and steps in the production process. 188
+
+##### Foot Note 188
+
+×
+
+TCH at para 68.
+
+Dreamem’s products bore similar properties to Tritech’s even in specifications
+for which Tritech was class-leading in China. These properties could only be
+achieved if the parameters in the fabrication process were well-controlled.
+Any deviation from Tritech’s operating parameters and procedures would result
+in a difference in these properties. 189
+
+##### Foot Note 189
+
+×
+
+TCH at para 71.
+
+(c) Third, the vessels and components of the casing used to house Dreamem’s
+curtain-style membrane were substantially similar to those used to house
+Tritech’s. While some of these vessels and components were simply bought off
+the shelf, some had been customised to fit Tritech’s product optimally. 190
+
+##### Foot Note 190
+
+×
+
+TCH at para 72–73.
+
+113 Dr Tan’s explanation for the near-identical products was that Mr Luo had
+obtained and misused confidential information through his position at Tritech,
+as reported by staff nearer the end of 2017. Photographs taken at the evidence
+preservation process in Dreamem’s factory showed similarities between the
+production line at Factory One and Dreamem. Dr Duan, on his part, was one of
+two key verification engineers (the other being Dr Tan) who had access to the
+verification process used and reports generated in the R&D work for the hollow
+fibre membrane.
+
+114 In response, the defendants asserted that their product, termed by Dr Duan
+as “MBR reinforced hollow fibre membrane” was different from Tritech’s. The
+defendants did not test the trap purchase products or deny that the specific
+products tested by Tritech were sold by Dreamem to Ms Guo. Nor does Dr Duan
+explain any difference. The defendants called as an expert witness Dr Yang
+Xinhao (“Dr Yang”). Expert witnesses owe a duty to the court to ensure the
+reliability and usefulness of their report: Wong Tian Jun De Beers v Public
+Prosecutor [2022] 4 SLR 805 (“Wong Tian Jun”) at [19]. It is also critical for
+an expert to provide the reasoning behind his or her conclusions; the mere
+stating of conclusions will be of little utility to the court: Public
+Prosecutor v Chia Kee Chen and another appeal [2018] 2 SLR 249 (“Chia Kee
+Chen”) at [118]. Notwithstanding, Dr Yang’s affidavit baldly stated that he
+was given two test reports of Dreamem and Tritech products by the defendants,
+and that they show that there is no evidence of copying. 191
+
+##### Foot Note 191
+
+×
+
+Dr Yang Xinhao’s AEIC (“YXH”) at para 13.
+
+Dr Yang does not provide any explanation for his conclusion. He did not
+conduct any tests, and the test reports (from an unknown third party source)
+enclosed within his affidavit are not self-explanatory. Therefore, on the key
+question of whether Dreamem’s products were similar to Tritech’s, Dr Yang’s
+report shed absolutely no light beyond its bare conclusion.
+
+115 Dr Yang’s evidence is both irrelevant and non-compliant with the
+requirements for expert evidence. Under the O 40A r 3 of the Rules of Court
+(2014 Rev Ed), there are various requirements that an expert report must
+fulfil. These requirements include providing details of any literature or
+other material which the expert has relied on in making the report, and,
+crucially, confirming that the expert recognises that his duty is to the
+court, and that he complies with that duty. Dr Yang’s expert report is lacking
+on both these points. When it was put to Dr Yang that he is required to give
+details of the literature he relied on, he responded that he was “not obliged
+to support evidences” and he “can give [his] contribution according to [his]
+professional knowledge in these membrane products”. 192
+
+##### Foot Note 192
+
+×
+
+Transcript, 21 October 2022, p 25 lines 3–11.
+
+116 Even more concerning was the fact that Dr Yang’s expert report was little
+more than a repetition of facts that came not from his experience as an expert
+in the field, but from Dr Duan. He admitted this in cross-examination: 193
+
+##### Foot Note 193
+
+×
+
+Transcript, 21 October 2022, p 21 lines 3–14.
+
+Q. Let me put it to you that your evidence here for paragraphs 19.1 all the
+way to 21, under “RO component” is not your own opinion, but you are just
+simply giving evidence on Dr Duan’s behalf by repeating what he told you.
+Agree or disagree?
+
+A. (Answer not yet interpreted).
+
+Q. It’s agree or disagree.
+
+A. (Through an interpreter) I agree, and some of the – most of the – some of
+the informations I checked online, for example, the manufacturers, so that
+part I contributed based on my own online search, and some of the informations
+[sic] were told by Duan to me.
+
+On the topic of FO membranes, Dr Yang conceded that he had no experience
+whatsoever in its fabrication or production. 194
+
+##### Foot Note 194
+
+×
+
+Transcript, 21 October 2022, p 23 lines 2–6.
+
+One portion of his expert report that dealt with FO membranes contained
+wording identical to that found in Dr Duan’s AEIC. Dr Yang explained that
+“things like the details of the research work they have done were told to me
+by [Dr Duan], and also I learnt some of the informations during the discussion
+with the lawyer.” 195
+
+##### Foot Note 195
+
+×
+
+Transcript, 21 October 2022, p 24 line 22 to p 25 line 2.
+
+While an expert report could be premised on stipulated facts furnished by his
+instructions, the purpose of an expert would be to assess the conclusions to
+be drawn from those facts, and not to merely repeat them. Dr Yang’s evidence
+was therefore entirely unhelpful. The defendants do not attempt to explain Dr
+Yang’s performance on the stand in their closing submissions. Instead they
+state that Dr Yang “attested that the manufacturer or producer can commence
+business operation to manufacture membrane product within a short period of
+time if the said manufacturer or producer can buy the formula and production
+machines from a third party.” 196
+
+##### Foot Note 196
+
+×
+
+DW at para 42.
+
+Presumably this submission was made to bolster the argument I deal with at
+[123] below; nevertheless, it was not the object of calling Dr Yang as a
+witness and is not dealt with in his affidavit of evidence-in-chief (nor would
+it be necessary for an expert to make such a general assertion).
+
+117 In closing submissions, the defendants raise a new argument that was not
+pleaded but was referred to in Mr Luo’s AEIC. 197
+
+##### Foot Note 197
+
+×
+
+LZ at para 23.
+
+They allege that the column-style membranes bought from Dreamem in the trap
+purchase were not in fact manufactured by Dreamem, but had been purchased by
+Dreamem from a third party, Zhejiang Dongyang Environmental Engineering Co
+Ltd. 198
+
+##### Foot Note 198
+
+×
+
+DWS at p 56 paras 51–52.
+
+No proper evidence was adduced; only untranslated Chinese invoices and a
+reference in a Chinese judgment were referred to in passing. 199
+
+##### Foot Note 199
+
+×
+
+LZ exhibits; DWS para 18(c).
+
+For the reasons that follow, I do not accept that this is true.
+
+118 First, the Dreamem Brochure lists the column-style membrane as one of its
+products and describes it as being “[m]ade of superior Dreamem PVDF hollow
+fiber UF membrane”. 200
+
+##### Foot Note 200
+
+×
+
+5 JBOD 550.
+
+Dreamem describes itself in the Dreamem Brochure as being a “high-tech
+enterprise committed to R & D and production of high quality separation
+membrane … ultrafiltration(UF), nanofiltration(NF), reverse osmosis(RO)
+membranes and membrane related equipments … ” [emphasis added]. It also states
+that “Dreamem uses the latest technologies to manufacture the different types
+of advanced separation membrane products … ” [emphasis added] and that
+“Dreamem developed all the membrane products and owns their independent
+intellectual property rights”. 201
+
+##### Foot Note 201
+
+×
+
+5 JBOD 545.
+
+Dreamem therefore clearly purported to produce and sell the column-style
+membranes that were listed in that brochure. Dr Duan’s evidence is that this
+brochure was just for marketing purposes and that Dreamem did not actually
+produce or sell all the products in the said brochure. 202
+
+##### Foot Note 202
+
+×
+
+DW at para 110.
+
+I do not find this explanation to be credible.
+
+119 Second, according to Dr Tan, a photograph taken of Dreamem’s premises
+during the trap purchase shows two structures hanging from the ceiling, which
+was part of the production process of porting the column-style membrane module
+into its casing. 203
+
+##### Foot Note 203
+
+×
+
+Transcript, 29 September 2022 p 166 lines 3–23.
+
+Dr Duan’s evidence was that this hanging structure was just a sample to be
+shown to customers. 204
+
+##### Foot Note 204
+
+×
+
+Transcript, 13 October 2022, p 82 line 22 to p 83 line 19.
+
+This evidence is unconvincing, as there would be no need to show customers
+part of the production process of column-style membranes.
+
+120 Thus, I conclude that Dreamem did produce the column-style membranes that
+were purchased in the trap purchase. Dreamem was able to do so because Mr Luo
+and Dr Duan must have used Tritech’s confidential information to produce
+similar products.
+
+(2) Dreamem was able to produce these membranes within a very short period of
+time, despite not having the requisite expertise.
+
+121 Tritech launched its hollow fibre membrane products after approximately
+four years of R&D led by Dr Tan and three teams of engineers. 205
+
+##### Foot Note 205
+
+×
+
+TCH at para 8.
+
+Dreamem was incorporated on 1 March 2017 and was able to produce membranes by
+the end of the year.
+
+122 Dreamem did not conduct any R&D into the design and production of
+membranes. In response to a request by Tritech for specific discovery of all
+documents relating to such R&D, Dr Duan confirmed on affidavit that there were
+no such documents and that no R&D was conducted. 206
+
+##### Foot Note 206
+
+×
+
+DW’s Affidavit dated 23 June 2022 at para A(a)–(c).
+
+123 The defendants’ explanation for Dreamem’s speed was that Dreamem purchased
+the membrane production line from one Huizhou Ruikeda Water Treatment
+Equipment Co Ltd (“Ruikeda”) and the membrane formula from one Mr Liao Nai
+Shang (“Mr Liao”). Having purchased these two things from third parties,
+Dreamem was able to produce its membranes. The formula that was purchased from
+Mr Liao included the operating procedures and parameters. 207
+
+##### Foot Note 207
+
+×
+
+DWS at p 54 para 41.
+
+124 This assertion is absurd. What was allegedly purchased from Mr Liao is not
+before the court. Mr Liao has not given evidence in these proceedings. All
+that is before the court is a purported agreement between Mr Liao and Dr Duan
+for the sale of “fabrication technology of hollow fibre MBR reinforcement
+membrane and hollow fibre UF membrane”. 208
+
+##### Foot Note 208
+
+×
+
+4 JBOD 652.
+
+Dr Duan’s evidence was that this agreement obliged Mr Liao to hand over a
+formula along with operating procedures and parameters. 209
+
+##### Foot Note 209
+
+×
+
+Transcript, 13 October 2022, p 52 lines 9–19.
+
+Of course it is impossible to verify this because the defendants have not
+adduced anything which was allegedly given to them by Mr Liao. Moreover, the
+price that was paid to Mr Liao was allegedly RMB106,000. 210
+
+##### Foot Note 210
+
+×
+
+4 JBOD 653.
+
+For this sum, the defendants claim that they acquired everything necessary to
+produce reinforced hollow fibre membranes. Dr Tan’s evidence was that Tritech
+had spent approximately five years on R&D into the production of such
+membranes. 211
+
+##### Foot Note 211
+
+×
+
+Transcript, 29 September 2022, p 77 line 18 to p 78 line 1.
+
+Further, no one at Dreamem had any expertise that could be used to integrate a
+production line and a formula to create, as the defendants suggested, hollow
+fibre membranes. Mr Yang Han’s experience was in membranes for use in water
+dispensers, which were very different from the industrial membranes produced
+by Dreamem. 212
+
+##### Foot Note 212
+
+×
+
+Transcript, 13 October 2022, p 42 line 21 to p 43 line 3.
+
+It was not suggested that Mr Luo or Dr Duan had sufficient expertise in hollow
+fibre membrane production.
+
+(3) The timing of Mr Luo’s taking of confidential information coincided with
+the commencement of Dreamem’s production.
+
+125 As set out at [30] above, Mr Luo forwarded some of Tritech’s confidential
+documents to his personal e-mail around September 2017. Dr Tan explained that
+the information in these documents was enough to replicate Tritech’s entire
+production process. 213
+
+##### Foot Note 213
+
+×
+
+TCH at para 82.
+
+I have rejected Mr Luo’s explanation that he asked for these documents and
+sent them to his personal e-mail address for Tritech work-related reasons. His
+taking of these documents therefore remains completely unexplained. Dreamem
+must have started production of its membranes sometime between the time of its
+incorporation on 1 March 2017 and the time when it sold UF membranes to
+customers in December 2017. 214
+
+##### Foot Note 214
+
+×
+
+6 JBOD 46.
+
+Mr Luo was clearly involved in Dreamem even before he was dismissed by
+Tritech; he was the one who liaised with Ms Guo during the trap purchase. In
+these circumstances, the most likely explanation for Mr Luo’s taking of
+Tritech’s confidential documents is that they were to be used by Dreamem for
+the production of its membrane products.
+
+Conclusion on the equitable claim
+
+126 I therefore find that Dr Duan and Mr Luo were in breach of their equitable
+duty of confidence to Tritech. They took confidential information from
+Tritech, and used this confidential information in Dreamem to produce similar
+products. I have dealt with specific arguments raised by the defence above. In
+addition, when viewed holistically, the defendants’ case lacks logical
+coherence. The assertion that Dreamem's products were wholly different from
+Tritech's was inconsistent with the argument that they were able to
+manufacture products similar to Tritech’s through the purchase of production
+line information and formula from third parties. At the same time, no attempt
+was made to render these two arguments consistent with the assertion that the
+products sold in the trap purchase were procured from yet another third party.
+
+Wrongful gain; wrongful loss
+
+127 Tritech frames its case as being one involving both the wrongful loss
+interest and the wrongful gain interest. 215
+
+##### Foot Note 215
+
+×
+
+PWS pp 56–92.
+
+In I-Admin, the Court of Appeal distinguished these two distinct interests at
+[50] and [53] and set out a modified approach easing the criteria for wrongful
+loss at [61]. As I have found that the (more stringent) criteria for wrongful
+gain are satisfied, it is not necessary for me to deal with the modified
+criteria for wrongful loss. The relevant remedy ought to be pursued by Tritech
+at the next stage of proceedings.
+
+Contractual claim
+
+128 Following from my finding above, the defendants were also in breach of
+their contractual duties of confidence, mentioned at [107]–[108] above. The
+defendants, in retaining Tritech’s confidential information after their
+employment and disclosing it to Dreamem, committed a breach of both the NDAs
+and their employment contracts.
+
+Unlawful means conspiracy
+
+129 For a conspiracy by unlawful means to arise, Tritech must establish that
+(per EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and
+another [2014] 1 SLR 860 at [112]):
+
+(a) Dr Duan and Mr Luo combined to do certain acts;
+
+(b) they intended to cause damage to Tritech by those acts;
+
+(c) the acts were unlawful;
+
+(d) the acts were performed in furtherance of an agreement; and
+
+(e) Tritech suffered loss as a result of the conspiracy.
+
+130 In Clearlab at [242], the court accepted that breach of confidence could
+form the requisite unlawful means for establishing unlawful means conspiracy.
+The court also accepted at [241] that by taking their employer’s confidential
+information and using it in a separate company to set up a competing business
+in the same market, the employees intended to injure their employer. This
+followed from the finding of the Court of Appeal in Chew Kong Huat and others
+v Ricwil (Singapore) Pte Ltd [1999] 3 SLR(R) 1167 at [35] that damage to the
+plaintiff was a necessary corollary of the profit accruing to the defendant, a
+direct competitor.
+
+131 In the present case, requirement (a) is made out as the defendants clearly
+acted in concert through Dreamem. Requirements (b), (c) and (d) are satisfied
+because Dreamem sold substantially the same products manufactured with the
+confidential information that Mr Luo and Dr Duan obtained as a result of their
+employment at Tritech. I therefore find that the claim in unlawful means
+conspiracy succeeds against Dr Duan and Mr Luo.
+
+Conduct of defence
+
+132 This judgment has highlighted many issues raised by the defendants for the
+first time in their affidavits of evidence-in-chief, in the course of trial or
+in closing submissions. Various aspects of their case were not credible: see,
+for example, [64], [67], [74], [87], [98], [114]–[116], [124] and [126].
+
+133 The reliability of the defendants’ evidence is called into further doubt
+by the conduct of their counsel. While Dr Duan was on the stand, there were
+three occasions where his counsel spoke to him without seeking the permission
+of the court. The first incident, stopped by counsel for Tritech at the first
+break in Dr Duan’s cross-examination, may have been innocuous if not for the
+second and third. Counsel for the defendants was in any event reminded at that
+point of the rule against discussing evidence with a witness giving evidence.
+216
+
+##### Foot Note 216
+
+×
+
+Transcript, 12 October 2022, p 90 line 3 to p 93 line 22.
+
+Second, an application was made, during Dr Duan’s cross-examination, to amend
+the Defence. 217
+
+##### Foot Note 217
+
+×
+
+Letter to court dated 17 October 2022.
+
+No permission had been sought from the court to obtain instructions from Dr
+Duan for the purpose of the application. Third, after cross-examination,
+counsel for the defendants asked for re-examination to be adjourned to the
+next day. It was admitted the next day that the content of the re-examination
+was discussed during the adjournment. 218
+
+##### Foot Note 218
+
+×
+
+Transcript, 20 October 2022, p 19 line 5 to p 21 line 12.
+
+134 Rule 12(2) of the Legal Profession (Professional Conduct) Rules 2015
+(“PCR”) provides that:
+
+A legal practitioner must not, except with the permission of a court or
+tribunal, interview or discuss, with a witness whom the legal practitioner has
+called in proceedings before the court or tribunal, at any time after the
+start and before the end of the cross‑examination of that witness, the
+evidence given or to be given by that witness or any other witness.
+
+While Rule 12(2) refers to the period of cross-examination, its rationale – to
+maintain the integrity of evidence – would extend to discussion of evidence to
+be given in re-examination. The principle expressed in Rule 12(1) that guides
+the interpretation of the rule is that a legal practitioner must act in a
+manner consistent with the administration of justice. It would be clear by any
+reasonable expectation, and certainly to a practitioner with as many years at
+the Bar as the practitioner in this case, that discussing the content of
+proposed re-examination after cross-examination would detract from the
+integrity of proceedings and the administration of justice.
+
+135 A similar disrespect for court rules and the basic principle of relevance
+was reflected in the choice of an expert who knew nothing about the tests
+which he was in court to testify about, and the filing of an incorrect form of
+affidavit with irrelevant content that obfuscated rather than aided the trial
+process: see [114]–[116] above. An expert’s failure to comply with his duties
+raises doubt as to the solicitors who have instructed the expert: Wong Tian
+Jun at [19]. Rule 9(1) of the PCR, moreover, points to the need for officers
+of the court to have respect for the efficacy of court processes and the
+administration of justice.
+
+Conclusion
+
+136 Accordingly, Dr Duan is liable for:
+
+(a) Damages to be assessed in respect of his breach of duty to exercise
+reasonable care and skill in the performance of his duties from 25 October
+2013 for the FO Production Line, including the MR Machines;
+
+(b) Damages to be assessed in respect of his fraudulent misrepresentations
+regarding the RO Production Line; and
+
+(c) The return of RMB400,000, with interest at 5.33% from the date of the
+writ.
+
+137 In respect of Dr Duan and Mr Luo, the following are ordered:
+
+(a) An injunction to restrain the defendants, and their servants or agents,
+from using any confidential information belonging to Tritech acquired by them
+during the course of or after their employment by Tritech;
+
+(b) Delivery up of all Tritech documents; and
+
+(c) Damages to be assessed and/or an account of profits for the breach of
+confidence, to be determined at the next stage of proceedings.
+
+138 Parties are to write in within 14 days regarding with their submissions on
+costs.
+
+Valerie Thean  
+Judge of the High Court|  
+---|---  
+  
+Lin Weiqi Wendy, Leow Jiamin, Leau Jun Li (WongPartnership LLP) for the
+plaintiffs;
+
+Leong Keng Kheong (Leong Chua & Wong) for the defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 22 Feb 2023 (11:26 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

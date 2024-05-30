@@ -1,0 +1,585 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the high court of the republic of singapore
+
+[2019] SGHC 55
+
+Originating Summons No 1568 of 2018  
+
+Between
+
+| Chuang Long Engineering Pte Ltd  
+---|---  
+  
+… Applicant
+
+And
+
+| Nan Huat Aluminium & Glass Pte Ltd  
+---|---  
+  
+… Respondent
+
+JUDGMENT
+
+[Building and Construction Law] — [Statutes and regulations] — [Building and
+Construction Industry Security of Payment Act] — [Valuation of materials]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Chuang Long Engineering Pte Ltd
+
+  
+
+v
+
+  
+
+Nan Huat Aluminium & Glass Pte Ltd
+
+[2019] SGHC 55
+
+High Court — Originating Summons No 1568 of 2018  
+Chan Seng Onn J  
+11 February 2019
+
+5 March 2019 Judgment reserved.
+
+Chan Seng Onn J:
+
+Introduction
+
+1 This is an application by the applicant, Chuang Long Engineering Pte Ltd, to
+set aside the Adjudication Determination dated 30 November 2018, which was
+amended and re-dated 18 December 2018 (“the AD”). 1
+
+##### Foot Note 1
+
+×
+
+Applicant’s Skeletal Submissions (“ASS”) at para 1.
+
+2 The application turns on the interpretation of s 7(2)(c) of the Building and
+Construction Industry Security of Payment Act (Cap 30B, 2006 Rev Ed) (“SOPA”).
+2
+
+##### Foot Note 2
+
+×
+
+ASS at para 5.
+
+Having considered the parties’ arguments, I dismiss the application.
+
+Facts
+
+3 The applicant is the main contractor for a project for the “Proposed new
+erection of a 2-storey envelope control detached dwelling house with an attic
+and a basement” (“the Project”). 3
+
+##### Foot Note 3
+
+×
+
+ASS at para 6; Applicant’s Bundle of Affidavits (“ABA”) (Vol 1) at p 21
+(header).
+
+Pursuant to a sub-contract agreement worth $323,282.50 (excluding GST), the
+applicant appointed the respondent, Nan Huat Aluminium & Glass Pte Ltd, as the
+sub-contractor for the Project (“the Contract”). 4
+
+##### Foot Note 4
+
+×
+
+ABA (Vol 1) at pp 18–19.
+
+4 On 3 September 2018, owing to an alleged breach of completion deadlines and
+schedule of the works, the applicant terminated the Contract. 5
+
+##### Foot Note 5
+
+×
+
+ABA (Vol 1) at pp 51–52.
+
+5 On 24 September 2018, the respondent filed a payment claim for unpaid works,
+claiming the sum of $237,421.35. 6
+
+##### Foot Note 6
+
+×
+
+ABA (Vol 1) at pp 150–152.
+
+On 8 October 2018, the applicant served its payment response. 7
+
+##### Foot Note 7
+
+×
+
+ABA (Vol 1) at pp 173–209.
+
+6 Dissatisfied with the payment response, the respondent submitted the matter
+for adjudication via SOP/AA 385/2018. 8
+
+##### Foot Note 8
+
+×
+
+ABA (Vol 1) at p 60.
+
+7 The adjudicator, after considering the works completed by the respondent and
+deducting the retention sum and previous payments made by the applicant,
+determined that $165,683.91 (inclusive of GST) was payable by the applicant to
+the respondent (“the Sum”). 9
+
+##### Foot Note 9
+
+×
+
+ABA (Vol 3) at p 1396.
+
+The uninstalled materials
+
+8 In arriving at the Sum, the adjudicator had determined that the respondent
+was entitled to $75,651.00, being the value of materials which, while
+fabricated by the respondent for the purposes of the Project, 10
+
+##### Foot Note 10
+
+×
+
+ABA (Vol 3) at p 1368, para 91: “It is not in dispute that the materials
+claimed ‘are to form part of any building, structure or works arising from the
+construction work’”.
+
+had not been delivered nor installed by the respondent (“the uninstalled
+materials”). 11
+
+##### Foot Note 11
+
+×
+
+ABA (Vol 3) at p 1370, para 95; For The Record 11 January 2019 (Chamber 4C) at
+10:38 (“FTR 11 Jan”).
+
+The value of the uninstalled materials comprised the sum of $45,831.00 (for
+aluminium fins) and $29,820.00 (for cladding). 12
+
+##### Foot Note 12
+
+×
+
+ABA (Vol 3) at p 1370, para 96.
+
+9 The adjudicator had found that he could include the value of the uninstalled
+materials as s 7(2)(c) SOPA entitled him to include, for the purposes of the
+valuation exercise, the value of “materials or components that are to form
+part of any building, structure or works arising from the construction work …
+that … on payment, will become the property of the party for whom the
+construction work is being carried out” 13
+
+##### Foot Note 13
+
+×
+
+ABA (Vol 3) at p 1369, para 94.
+
+[emphasis added].
+
+10 The applicant then applied to set aside the AD on the ground that the
+adjudicator did not have jurisdiction to award the Sum (in particular, the
+amount of $75,651.00, being the value of the uninstalled materials) as he had
+wrongly applied s 7(2)(c) SOPA in coming to his determination. 14
+
+##### Foot Note 14
+
+×
+
+ASS at para 18.
+
+The issue
+
+11 Before me, the sole issue is whether the adjudicator had properly
+interpreted s 7(2)(c) SOPA.
+
+12 For ease of reference, the material portions of s 7 SOPA are as follows:
+
+Valuation of construction work, goods and services
+
+7.—(1) Construction work carried out, or goods or services supplied, under a
+contract are to be valued —
+
+(a) in accordance with the terms of the contract; or
+
+(b) if the contract does not contain such provision, having regard to the
+matters specified in subsection (2).
+
+(2) For the purpose of subsection (1)(b), construction work carried out, or
+goods or services supplied, under a contract are to be valued —
+
+…
+
+(c) in the case of materials or components that are to form part of any
+building, structure or works arising from the construction work, having regard
+to the basis that the only materials or components to be included in the
+valuation are those that have become or, on payment, will become the property
+of the party for whom the construction work is being carried out.
+
+[emphasis added in italics and bold italics]
+
+13 In this case, it was agreed that the contract was silent on how the works
+were to be valued, and hence s 7(2) SOPA applied for the valuation exercise.
+15
+
+##### Foot Note 15
+
+×
+
+FTR (11 Jan) at 10:42:40–10:42:50.
+
+14 As can be seen, s 7(2)(c) SOPA allows the adjudicator to value two types of
+materials “that are to form part of any building, structure or works arising
+from the construction work”:
+
+(a) first, materials that have become the property of the party for whom the
+construction work is being carried out (“the first limb”); or
+
+(b) second, materials that on payment, will become the property of the party
+for whom the construction work is being carried out (“the second limb”).
+
+The parties’ arguments
+
+15 Preliminarily, the parties were in agreement that the proper interpretation
+of s 7(2)(c) had not been raised before the courts. 16
+
+##### Foot Note 16
+
+×
+
+ASS at para 5; ABA (Vol 3) at p 1362, para 77.
+
+The Property Passing Test
+
+16 Given the unsettled state of the law, the applicant argued that, under s
+7(2)(c) SOPA, the test ought to be whether property to the materials have
+passed or will pass to the party for whom the construction work is being
+carried out (“the Property Passing Test”). 17
+
+##### Foot Note 17
+
+×
+
+ASS at para 30.
+
+This, the applicant submitted, was supported by the plain reading of the
+phrase “those that have become or, on payment, will become the property of the
+party for whom the construction work is being carried out” in s 7(2)(c) SOPA.
+18
+
+##### Foot Note 18
+
+×
+
+ASS at para 30.
+
+17 To determine whether the property to the materials have passed or will pass
+for the purposes of the Property Passing Test, the applicant urged me to adopt
+the common law position as set out in Hudson’s Building and Engineering
+Contracts (Nicholas Dennys, Mark Raeside & Robert Clay gen eds) (Sweet and
+Maxwell, 12th Ed, 2010) at p 1142, para 8-080: “[t]he well-known rule is that
+the property in all materials and fittings, once incorporated in or affixed to
+a building, will pass to the freeholder”. 19
+
+##### Foot Note 19
+
+×
+
+ASS at para 31 r/w para 49; Applicant’s Bundle of Authorities Tab 3.
+
+18 Hence, under the applicant’s proposed test, only materials that have been
+incorporated or affixed to a building ought to be valued under s 7(2)(c) SOPA.
+20
+
+##### Foot Note 20
+
+×
+
+ASS at paras 30–31 r/w para 49.
+
+19 The applicant submitted that under their proposed test, the second limb (at
+[14(b)] above) would continue to remain relevant in cases when there is a
+retention of title clause in the construction contract. 21
+
+##### Foot Note 21
+
+×
+
+ASS at para 65.
+
+To explain, when the contract includes a retention of title clause, such a
+clause may stipulate that full legal ownership in the materials is to remain
+with the sub-contractor or supplier until payment is made, notwithstanding
+that property may have passed under the common law once the materials had been
+affixed to a building. 22
+
+##### Foot Note 22
+
+×
+
+ASS at para 65.
+
+When such a retention of title clause exists, the words “on payment, will
+become the property” in s 7(2)(c) SOPA would entitle the sub-contractor or
+supplier to cause the materials that had been affixed (but which remain
+unpaid) to be valued during adjudication even though property would not have
+passed by virtue of the retention of title clause. 23
+
+##### Foot Note 23
+
+×
+
+ASS at para 66.
+
+The adjudicator’s test
+
+20 In contrast, the respondent proposed the test adopted by the adjudicator,
+24
+
+##### Foot Note 24
+
+×
+
+Defendant’s Skeletal Submissions (“DSS”) at para 45; ABA (Vol 3) at p 1367.
+
+whereby under s 7(2)(c) SOPA, a party may claim for materials under two
+scenarios:
+
+(a) first, where the materials or components have become the property of the
+party for whom the construction work is carried out; (“Situation A”); or
+
+(b) second, where the material or components have yet to become the property
+of the party for whom the construction work is carried out, but will become so
+once payment is made. (“Situation B”)
+
+21 Situation A incorporated the common law position of when property passes
+(see [17] above). Hence, under Situation A, affixed or incorporated materials
+may be the subject of valuation, for they would have become the property of
+the main contractor for whom the construction work is carried out.
+
+22 On the other hand, Situation B went beyond the common law affixation test.
+Instead, the materials could be subject to valuation even if they have neither
+been delivered nor affixed to the building/structure, as long as they were
+fabricated for the construction contract. 25
+
+##### Foot Note 25
+
+×
+
+DSS at para 47.
+
+23 Applying this interpretation of s 7(2)(c) SOPA, the adjudicator concluded
+that Situation B applied in relation to the undelivered materials, which were
+fabricated to form part of the building/structure in the Contract. 26
+
+##### Foot Note 26
+
+×
+
+ABA (Vol 3) at p 1368, para 91.
+
+Hence, the respondent was entitled to claim for the undelivered materials. 27
+
+##### Foot Note 27
+
+×
+
+ABA (Vol 3) at p 1370, para 95.
+
+Section 7(2)(c) SOPA extended beyond affixed or incorporated materials
+
+24 I agree with the respondent’s and adjudicator’s interpretation of s 7(2)(c)
+SOPA, and accordingly reject the applicant’s constrained interpretation of the
+provision.
+
+Section 7(2)(c) SOPA is not constrained by s 36(4) SOPA
+
+25 In this regard, the applicant submitted that Situation B as proposed by the
+respondent (at [20(b)] above) was against Parliamentary intention, 28
+
+##### Foot Note 28
+
+×
+
+ASS at para 37.
+
+as s 36(4) SOPA provides that “[n]othing in this Act shall, except as provided
+in subsection (1), limit or otherwise affect the operation of any other law in
+relation to any right, title, interest … or liability of a person arising
+under or by virtue of a contract or an agreement.”
+
+26 Thus, in enacting s 7(2)(c) SOPA, Parliament intended simply to incorporate
+the existing body of common law whereby property only passes upon affixation
+or incorporation of the material. 29
+
+##### Foot Note 29
+
+×
+
+ASS at paras 34–37.
+
+Since property passes upon payment under Situation B (see “have yet to become
+the property … but will become so once payment is made”), Situation B went
+beyond the common law, and was therefore against Parliamentary intention for
+it would “drastically affect the law in relation to passing of property”. 30
+
+##### Foot Note 30
+
+×
+
+ASS at para 36.
+
+27 I do not agree with the applicant’s contention.
+
+28 First, s 36(4) SOPA must be read in its proper context. Herein, s 36(1)
+SOPA prohibits parties from contracting out of the terms in SOPA, such as a
+payee’s right to progress payments or adjudication (see Chow Kok Fong,
+Security of Payments and Construction Adjudication (LexisNexis, 2nd Ed, 2013)
+(“Chow”) at para 4.26). Section 36(4) SOPA is then a qualifier to s 36(1)
+SOPA, and provides that “except as provided in subsection (1)”, SOPA does not
+“limit or otherwise affect the operation of any other law in relation to any
+right, title, interest … of a person arising under or by virtue of a contract
+or an agreement.”
+
+29 It is therefore immediately apparent that the operation and effect of s
+7(2)(c) SOPA is not to be constrained by s 36(4) SOPA. As Chow observed,
+reading ss 36(1) and 36(4) SOPA together, “except where a contract provision
+excludes, modifies, restricts or in any way prejudices the operation of the
+regime, the Singapore SOP Act does not seek to reconfigure, alter or amend the
+effect of the terms of the underlying contract” (Chow at para 4.24).
+
+30 Hence, s 36(4) SOPA does not affect the interpretation of other SOPA
+provisions, nor does it dictate, as the applicant submits, that they can only
+“incorporate the existing body of common law”. 31
+
+##### Foot Note 31
+
+×
+
+ASS at para 36.
+
+Situation B accords with SOPA’s intention of facilitating cash flow for
+downstream players in the construction industry
+
+31 More crucially, I find that the respondent’s interpretation of s 7(2)(c)
+SOPA better accords with Parliamentary intention. In this regard, the
+overriding Parliamentary intention in enacting SOPA is to preserve the right
+to payment for works done and goods supplied for all parties in the
+construction industry (Singapore Parliamentary Debates, Official Report (16
+November 2004) vol 78 at col 1113 (Cedric Foo Chee Keng, Minister of State for
+National Development) 32
+
+##### Foot Note 32
+
+×
+
+Applicant’s Bundle of Authorities Tab 1.
+
+(“the Debates”).
+
+32 Hence, it would certainly run counter to the legislative intent to adopt
+the applicant’s interpretation of s 7(2)(c) SOPA, whereby materials fabricated
+for the construction contract would only be valued when such materials have
+been affixed onto the building/structure. This interpretation would place the
+sub-contractors and suppliers at the mercy of the main contractor, as the main
+contractor could avoid having to make payment for any of such materials simply
+by refusing delivery and/or affixation of such materials. Yet, this is
+precisely the problem that SOPA sought to mitigate (the Debates at col
+1112–1113):
+
+The financial problems affecting some construction firms have in turn affected
+sub-contractors and suppliers further downstream along the construction value
+chain. They face delays or non-payments for work done or materials supplied …
+
+Progress payments are made periodically throughout the project’s duration.
+Parties lower down the value chain usually fund their work in advance and
+collect payments thereafter. These downstream players will therefore be
+adversely affected if those upstream fail to make prompt payment for work done
+or materials supplied. Contractual terms also tend to favour those higher up
+the chain. … 33
+
+##### Foot Note 33
+
+×
+
+Applicant’s Bundle of Authorities Tab 1.
+
+[emphasis added]
+
+33 As a result, I prefer the respondent’s interpretation of s 7(2)(c) SOPA.
+Under their interpretation, Situation B unequivocally allows the sub-
+contractor or supplier to be able to receive payment for materials fabricated
+for the construction contract, thereby facilitating cash flow and enabling the
+construction project to move along. Alternatively, in cases such as the
+present whereby the construction contract has been terminated, Situation B
+ensures that the sub-contractor or supplier may nonetheless be paid for
+fabricated materials which it produced for the project, and which can be
+costly and would be of little use to them outside the project. This mitigates
+the significant cash flow issues that may flow from non-payment of such
+fabricated materials simply due to a (possibly wrongful) termination.
+
+Conclusion
+
+34 In conclusion, I rejected the applicant’s constrained interpretation of s
+7(2)(c) SOPA, and find that the adjudicator had correctly interpreted the
+provision. Accordingly, I dismiss the application to set aside the AD.
+
+35 For the avoidance of doubt, I stress that my decision does not seek to
+amend the common law position as to when property passes. Rather, it merely
+interprets the scope of s 7(2)(c) SOPA, and the materials which may be valued
+by the adjudicator under the provision. Valuation by the adjudicator under
+SOPA is a totally different and separate question from when property in fact
+passes under the common law for the undelivered materials purchased and/or
+fabricated by the sub-contractor for the project, which remains unpaid by the
+main contractor at the time of the adjudicator’s determination.
+
+36 I will hear the parties on costs, if not agreed.
+
+Chan Seng Onn  
+Judge
+
+Lim Ker Sheon and Zeng Hanyi (Characterist LLC)  
+for the applicant;  
+Satinder Pal Singh (Selvam LLC)  
+for the respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 27 Oct 2020 (22:41 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,694 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE high court of the republic of singapore
+
+[2023] SGHC 54
+
+Tax Appeal No 6 of 2022
+
+In the matter of Section 54(2) of the Goods and Services Tax Act 1993
+
+And
+
+In the matter of Goods and Services Tax Board of Review Appeal No 2 of 2019
+and a Grounds of Decision delivered on 6 June 2022 ensuing therefrom
+
+Between
+
+Herbalife International Singapore Pte Ltd
+
+… Appellant
+
+And
+
+Comptroller of Goods and Services Tax
+
+… Respondent
+
+judgment
+
+[Revenue Law — Goods and Services Tax (GST) — value of supply]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Herbalife International Singapore Pte Ltd
+
+  
+v
+
+  
+Comptroller of Goods and Services Tax
+
+[2023] SGHC 54
+
+General Division of the High Court — Tax Appeal No 6 of 2022  
+Choo Han Teck J  
+
+6 March 2023 Judgment reserved.
+
+Choo Han Teck J:
+
+1 The appellant, Herbalife International Singapore Pte Ltd, is a Singapore
+incorporated company in the business of marketing, selling and the
+distributing of nutritional supplements, weight-management products and other
+personal care products (“Nutritional Products”, each a “Nutrition Product”).
+The appellant adopts a “direct selling” business model — it does not sell
+directly to consumers. Instead, it sells only to members who are registered
+with the appellant (“Members”, each a “Member”), who in turn sell them to
+consumers. This means that the public may only buy Nutritional Products from
+the appellant’s Members. The Members retain as profit the difference between
+the price they pay to the appellant and the price they are contractually bound
+to sell the Nutritional Products. Members are not contractually bound to sell
+the products they purchase from the appellant, and may instead consume them
+personally.
+
+2 This appeal concerns the Goods and Services Tax (“GST”) liability of the
+transactions between the appellant and its Members. The appellant sells
+Nutritional Products to its Members at varying discount tiers. The discounts
+begin at 25% (“Standard Discount”), which all Members are entitled to. There
+are three further tiers of 35%, 42% and 50% (“Tiered Discounts”). Members move
+up the discount tiers as they accumulate volume points (“Volume Points”), the
+appellant’s internal metric to measure the volume of each Member’s purchases.
+Volume Points are credited for the Members’ own purchases as well as the
+purchases of new members referred to the appellant by the Member (termed by
+the appellant as “Downlines”). Members also receive commission payments from
+the sales of their Downlines, but this is not in issue in this appeal.
+
+3 It is not disputed that Nutritional Products supplied by the appellant to
+its Members are liable to GST. The issue in this appeal concerns the value of
+such supplies on which GST is levied – whether the discounted rate is taken as
+the value of the supply, as the appellant taxpayer says, or the open market
+value of the Nutritional Products, as the respondent Comptroller of Goods and
+Services Tax (“the Comptroller”) says. The Comptroller issued Notices of
+Assessment and Additional Assessments for the accounting periods of 1 January
+2012 to 31 March 2017 on the basis that the supplies were valued at open
+market value. The disputed amount of GST on appeal is $2,187,089.99 (inclusive
+of the 5% late payment penalty).
+
+4 The Comptroller asserts that the appellant’s business structure results in
+revenue leakage. The essence of the Comptroller’s point is that if the
+appellant’s Members were GST registered, the final sale to end-consumers would
+be taxable supplies and GST would be levied on the full price, which is the
+contractually stated retail price of the Nutritional Products without the
+Tiered Discounts. However, because the Members are not GST registered, the
+only taxable supply is the supply between the appellant and the Members. Thus,
+by interposing a non-taxable intermediary between the appellant and the final
+consumer, the difference between the price at which Nutritional Products are
+sold to the intermediaries and the final retail price consumers pay is not
+brought to tax, hence the revenue leakage. There is no doubt that the revenue
+leakage ought to be plugged, but the question is, how? The Comptroller says
+that this revenue leakage is addressed by s 17(3) of the Goods and Services
+Tax Act (Cap 117A, 2005 Rev Ed) (“GST Act”). Conversely, the appellant argues
+that s 17(3) does not cover this instance of revenue leakage, and there exists
+a lacuna in the GST Act which must be closed by Parliament.
+
+5 Section 17 of the GST Act governs how the value of the Nutritional Product
+is determined. The relevant portions of s 17 of the GST Act provide that:
+
+Value of supply of goods or services
+
+17.–(1) For the purposes of this Act and subject to the Third Schedule, the
+value of any supply of goods or services shall be determined in accordance
+with this section.
+
+(2) If the supply (other than one from which a reverse charge supply arises)
+is for a consideration in money, its value shall be taken to be such amount
+as, with the addition of the tax chargeable, is equal to the consideration.
+
+(3) If the supply (including one from which a reverse charge supply arises) is
+not for a consideration or is for a consideration not consisting or not wholly
+consisting of money, the value of the supply shall be taken to be its open
+market value.
+
+6 According to s 17 of the GST Act, the value of the supply of Nutritional
+Products depends on the nature of the consideration that Members furnished. If
+the consideration consisted wholly of money, as the appellant says, then s
+17(2) of the GST Act will apply and the value of the supply will be the net
+price of the Nutritional Product less the applicable individual discount which
+a purchasing Member is entitled to. However, if the consideration does not
+consist wholly of money but includes some form of non-monetary consideration,
+as the Comptroller says, then the value of the supply ought to be the open
+market value. The Comptroller’s position is that the open market value is the
+retail price of the Nutritional Products less the Standard Discount of 25%.
+
+7 The arguments of the appellant’s counsel, Mr Vikna Rajah, may be summarised
+as follows. First, he says that s 19 of the UK Value Added Tax Act 1994 (c 23)
+(“VAT Act 1994”), which is in pari materia with s 17 of the GST Act, was
+unable to bring to tax goods sold via a direct selling business model such as
+the appellant’s in the present appeal, thereby requiring the enactment of a
+special valuation provision in the paragraph 2 of the Sixth Schedule of the
+VAT Act 1994 (the “special valuation provision”). Since this special valuation
+provision is absent in the GST Act, the appellant says that there is a lacuna
+in our GST Act that has to be filled by Parliament. Second, he argues that in
+any case, the consideration furnished by the Members does not fulfil the
+requirements to be considered non-monetary consideration under the GST Act,
+and thus consists wholly of money and falls to be valued under s 17(2) of the
+GST Act.
+
+8 In response, counsel for the Comptroller, Mr Bjorn Lee, says that the
+absence of the special valuation provision is misleading because it was
+enacted pursuant to legislative constraints faced by the UK in respect of
+European Union (“EU”) Law. He further contends that the UK tax authorities
+were able to tax direct selling structures under their equivalent provision of
+s 17(3) of the GST Act. Secondly, the Comptroller says that the undertaking of
+obligations by the Members fulfil the requirements to constitute non-monetary
+consideration. In the alternative, the Comptroller argues that the Members
+provided non-monetary consideration in the form of marketing services to the
+appellant in exchange for the Nutritional Products.
+
+Comparison with the UK VAT Act 1994
+
+9 The special valuation provision is found in paragraph 2 of the Sixth
+Schedule of the VAT Act 1994. Whereas s 19(3) of the VAT Act 1994 (like s
+17(3) of the GST Act) focussses on the nature of the consideration furnished,
+the special valuation provision in the Sixth Schedule of the VAT Act 1994 is
+directly worded to address a specific business structure involving the sale of
+goods through non-taxable agents. These include mail-order businesses, party-
+plan sales and direct selling businesses. It reads:
+
+Where —
+
+(a) the whole or part of a business carried on by a taxable person consists in
+supplying to a number of persons goods to be sold, whether by them or others,
+by retail, and
+
+(b) those persons are not taxable persons,
+
+the Commissioners may by notice in writing to the taxable person direct that
+the value of any such supply by him after the giving of the notice or after
+such later date as may be specified in the notice shall be taken to be its
+open market value on a sale by retail.
+
+Under the UK VAT regime, the valuation of the goods sold via direct selling
+models (such as the appellant’s) would be decided under this special valuation
+provision: see the House of Lords decision in Fine Art Developments plc v
+Customs and Excise Commissioners [1996] 1 WLR 1054 at 1062 (“Fine Art
+Developments”).
+
+10 Counsel for the Comptroller argues that direct selling models fall within s
+17(3) of the GST Act because the UK enacted the special valuation provision as
+a derogation from EU Council Directive 77/338/EC (the “EU Sixth Directive”).
+Although the EU Sixth Directive has now been superseded by another Council
+Directive 2006/112/EC, this provision is not materially affected. Counsel says
+that unlike the UK, Singapore does not face the same legislative constraints
+as the UK and thus such a derogation is unnecessary. Secondly, counsel relies
+on Customs and Excise Commissioners v Pippa-Dee Parties Ltd [1981] STC 495
+(“Pippa-Dee”) and Rosgill Group Ltd v Customs and Excise Commissioners [1997]
+3 All ER 1012 (“Rosgill”) for the proposition that the UK was able to value
+the supply of goods in direct selling models at open market value by reference
+to s 19(3) of the VAT Act 1994.
+
+11 I am unable to accept the Comptroller’s arguments. The special valuation
+provision is not a recent enactment. This provision has existed since the
+introduction of VAT in the UK by the Finance Act 1972 (c 41) (“Finance Act
+1972”), located in paragraph 4 of the Third Schedule: see Fine Art
+Developments at 1059. It has endured through the evolution of UK’s VAT
+legislation since the introduction of VAT in the Finance Act 1972, the
+amendments by the UK Finance Act 1977 (c 36) and now the VAT Act 1994. The
+special valuation provision was in force at the time that Pippa-Dee and
+Rosgill were decided — but the taxable supplies in those cases were not
+brought to tax under this provision, and rightly so, because those cases
+concerned different facts that did not fall within the special valuation
+provision. Although those cases concerned direct selling structures, the
+supply in question was not the supply of the goods sold as part of their
+direct selling business which were on-sold to consumers, but rather a supply
+of “reward goods” to the agents at a discounted rate in lieu of a cash
+commission which they would otherwise have received for the sale of the
+suppliers’ goods. In other words, it was not the direct selling model itself
+that was the subject of those cases, but the specific discount scheme
+available to all agents engaged in their direct selling business. Thus, Pippa-
+Dee and Rosgill at best apply when the issue is whether a supply is for non-
+monetary consideration, as opposed to a general authority that taxable
+supplies made under a direct selling model falls within s 17(3) of the GST
+Act.
+
+12 Furthermore, although the Comptroller is correct in pointing out that the
+UK enacted this special valuation provision as a derogating measure from the
+EU Sixth Directive, the more accurate question is why did the UK have to do
+so? If s 19(3) of the VAT Act 1994, which is consistent with EU Law, applied
+such that taxable supplies made by direct selling companies to their agents
+could have been taxed at the retail price at which their agents on-sold the
+products, there would have been no need for the UK to seek this derogation to
+specially value the taxable supplies made in direct selling structures at
+retail price. Instead, the derogating measure had to be enacted because of the
+same revenue leakage as we observe in this appeal, which could not be
+addressed by s 19(3) of the VAT Act 1994. This difficulty was well stated in
+Avon Cosmetics Ltd v Revenue and Customs Commissioners [2018] 4 WLR 73 at [16]
+to [19]:
+
+16 Avon is engaged in the manufacture and sale of products, mostly cosmetics.
+Their retail sale is carried out through independent female representatives
+(“representatives”), almost all of whom operating in the United Kingdom are
+not subject to VAT, as they are not registered for VAT and their turnover is
+not sufficient to make it compulsory for them to be subject to it.
+
+17 Avon’s sales to those representatives are at a price below the retail price
+envisaged by it and are subject to VAT. On the other hand, as the
+representatives are not accountable for VAT, the retail sales which they make
+are not subject to VAT.
+
+18 The effect of that system is that the difference between the retail selling
+price and the price paid by the representatives to Avon is not subject to VAT.
+
+19 To remedy that situation, the United Kingdom, in particular by the Finance
+Act 1977, granted the commissioners the power to issue persons liable to pay
+VAT with directions so that the tax payable by them would be calculated by
+reference to the retail selling price.
+
+[emphasis added]
+
+13 More specifically, the derogation was needed because the special valuation
+provision in the UK VAT legislation was inconsistent with Article 11(A)(1)(a)
+of the EU Sixth Directive (see Fine Art Developments at 1058-9), which
+requires that the value of a taxable supply is to be:
+
+in respect of supplies of goods and services other than those referred to in
+(b), (c) and (d) below, everything which constitutes the consideration which
+has been or is to he obtained by the supplier from the purchaser, the customer
+or a third party for such supplies including supplies directly linked to the
+price of such supplies”.
+
+[emphasis added]
+
+14 If, as the Comptroller asserts, the taxable supplies between direct selling
+companies and their agents ordinarily consist of non-monetary consideration,
+then the UK tax authorities would have had no difficulty in ascribing a
+taxable value to that non-monetary consideration, as the position under EU Law
+is that the value of a taxable supply is “everything which constitutes the
+consideration”. However, the UK’s enactment of the special valuation provision
+strongly suggests that consideration furnished for transactions between
+suppliers and agents in direct selling models do not have non-monetary
+consideration and thus did not meet the requirements to be valued by reference
+to s 19(3) of the VAT Act.
+
+15 Although there is a slight difference between the s 17(3) of the GST Act
+and s 19(3) of the VAT Act 1994 as to the implication of finding non-monetary
+consideration, it does not affect the analysis above because the mischief
+which the special valuation provision sought to address was not an
+indeterminacy of valuation (as demonstrated in Pippa-Dee and Rosgill where the
+UK tax authority was able to ascribe a value to the non-monetary consideration
+without difficulty), but rather the absence of non-monetary consideration.
+Thus, if supplies similar to the ones in this appeal were able to be brought
+to tax, there would not have been difficulty with valuation — the problem
+there was that the UK VAT regime could not bring it to tax in the first place.
+
+16 For the above reasons, I agree with the appellant that the special
+valuation provision in the UK’s VAT Act 1994 and its corresponding absence in
+our GST Act is a strong indicator that direct selling cases ordinarily do not
+involve supplies made for non-monetary consideration which would cause it to
+fall within s 17(3) of the GST Act.
+
+Position under Singapore revenue law
+
+17 Notwithstanding the above, the question remains as to whether the supply of
+the Nutritional Products in this appeal falls to be valued by s 17(3) of the
+GST Act. Although persuasive, the fact that direct selling structures do not
+fall within the ambit of s 19(3) of the VAT Act 1994 does not dispose of this
+appeal. Section 17(1) of the GST Act provides that the valuation provisions in
+s 17 of the GST Act are “subject to the Third Schedule”. Thus, although the
+Third Schedule does not specifically address this issue, owing to the absence
+of a special valuation provision similar to that under the VAT Act 1994, the
+court must nevertheless determine whether, on the facts, the supply in
+question was made in exchange for some form of non-monetary consideration.
+This requires an examination of the scope of the word “consideration” under s
+17 of the GST Act.
+
+18 A distinction must first be drawn between the concept of consideration in
+the law of contract and the statutory definition of consideration in the GST
+Act. Whereas UK precedents have held that consideration ought to bear its
+ordinary meaning under English Law (see Theatres Consolidated Ltd v The
+Commissioners [1975] VATTR 13), I am of the view that the contractual doctrine
+of consideration is wider than the intended scope of the word “consideration”
+in s 17(3) of the GST Act for several reasons. The doctrine of consideration
+in contract at common law is concerned with the regulation of the formation
+and enforceability of contractual relationships rather than the valuation of
+the obligations owed under the contract. On the other hand, consideration in
+revenue law is concerned not only with the taxability of a supply, but the
+taxable value to be ascribed to a supply. Consideration in revenue law is thus
+concerned with the question of “what was the payment in the taxable
+transaction?”, and not, “was there sufficient consideration furnished for that
+transaction to be valid and binding?” Seen in this light, it becomes clear why
+the rules of consideration that apply to contract law cannot be directly
+applied to revenue law. For example, it is accepted in contract law that
+consideration must move from the promisee to the promisor: see Gay Choon Ing v
+Loh Tze Ti Terence Peter and another appeal [2009] 2 SLR(R) 332 (“Gay Choon
+Ing”) at [66]. However, in revenue law, it is well accepted that consideration
+for a supply may be furnished by a third party: see the UK Supreme Court
+decision of Airtours Holidays Transport Ltd v Revenue and Customs
+Commissioners [2016] 4 WLR 87. Furthermore, the fact that consideration is
+non-existent because a contract was executed by way of deed is no bar to the
+imputation of open market value to that taxable supply under the GST Act.
+Finally, and of particular relevance to this appeal, once consideration is
+sufficient for the purposes of contractual formation, contract law is not
+concerned with the issue of adequacy of consideration, its valuation, and the
+form which it takes – monetary or non-monetary. Conversely, the scrutiny of
+its exact contents and value in revenue law is fundamental to the assessment
+of the value of any taxable supply.
+
+19 Thus, the concept of what constitutes valuable consideration in contract
+law, which include “some right, interest, profit, or benefit accruing to one
+party or some forbearance, detriment, loss or responsibility” (Gay Choon Ing
+at [67]), is not necessarily the same as what constitutes consideration within
+the meaning of the GST Act. The UK VAT regime accommodates the expansive
+definition of consideration because the taxable value of the supply includes
+the valuation of such consideration (see s 19(3) of the VAT Act 1994).
+However, our GST regime is different because the mechanism to value taxable
+supplies made for non-monetary consideration is valuation at open market
+value. If non-monetary items of de minimis value are accepted to fall within
+the scope of non-monetary consideration in s 17(3) of the GST Act, it could
+lead to draconian taxing outcomes.
+
+20 For example, it is common for taxable supplies to be made at discounts
+(such as, buy-one-get-one-free discount schemes or prompt payment discounts).
+Suppose that such a taxable supply is made for a consideration consisting of
+money and the proverbial peppercorn valued at $1.00, which is accepted as
+sufficient consideration under contract law. Under the UK VAT regime, the
+taxable value of that supply would be the money and $1.00, being the value of
+the peppercorn (assuming it is accepted as non-monetary consideration under s
+19(3) of the VAT Act 1994). However, under our GST regime, if the peppercorn
+was an accepted form of non-monetary consideration, the taxable value must,
+according to s 17(3) of the GST Act, be the open market value of that supply.
+The open market value of such taxable supplies would be the full price without
+the discount, which would be wholly disproportionate to the actual value of
+the consideration furnished. Since GST is a tax on consumption, the taxable
+value for purposes of assessment must be the value of the consideration which
+the consumer furnishes. Moreover, being a self-assessed tax, it is necessary
+for the scope of non-monetary consideration under s 17(3) of the GST Act to be
+easily ascertainable by GST registered taxpayers for GST accounting purposes.
+
+21 For this reason, I am of the view that the Board below was correct in
+narrowing the scope of consideration for GST purposes, which the parties did
+not dispute on appeal. Specific to the question of whether the undertaking of
+obligations can constitute non-monetary consideration, the Board laid down two
+requirements (which was referred to as “touchstones” at [36]-[37]), which I
+endorse broadly with further refinements. These requirements, as laid down by
+the Board are first, whether the undertakings were independent of, and not
+ancillary to the supply of the Nutritional Products; and second, whether the
+undertakings provided a benefit which goes beyond the monetary transaction in
+question.
+
+22 On the first requirement, I am of the view that regular terms of trade
+would not ordinarily be “independent of, and not ancillary to” the supply of
+goods. Thus, these terms of trade would not constitute non-monetary
+consideration except where they contractually demand the provision of
+something non-monetary in exchange for the supply. Terms of trade provide the
+contractual structure to regulate the functioning of a business model, which
+in this case is a direct selling business model. The fact that a contractual
+term requires a recipient of a supply to act in a particular way does not
+necessarily mean that the act of the recipient is consideration within the
+meaning of s 17(3) of the GST Act. A distinction must be drawn between
+contractual conditions which are imposed on the recipient of a supply that
+regulates what the recipient can or cannot do with that good, and the
+contractual obligations which stipulate the consideration that the recipient
+must furnish in exchange for the supply. For example, if a country club sells
+a club membership directly to a new member, the new member has to undertake to
+abide by the code of conduct expected of members, the various by-laws of the
+club, and rules concerning on-sale of club memberships. However, such
+conditions do not constitute the consideration moving from the member to the
+club because they are not furnished in exchange for the club membership.
+Instead, they are merely conditions which must be fulfilled before the sale
+can occur.
+
+23 On the second requirement, I am of the view the word “benefit” which the
+Board used is susceptible to an overly broad interpretation. An overly broad
+conception of “benefit” would render nugatory any attempt to restrict the
+scope of consideration for GST purposes. It flows from the previous paragraph
+that “benefits” which arise from regular terms of trade would not constitute
+non-monetary consideration. As contracting parties do not contract in vain,
+every contractual term could be said to “benefit” the contracting parties in
+some way. For example, a non-compete clause would benefit the business of any
+company by preventing its employees from poaching its clients. Even governing
+law clauses can be said to provide the procedural benefits of resolving
+disputes in a particular jurisdiction. Although there is some “benefit” that
+the supplier receives from recipients conducting themselves according to those
+contractual terms of trade, it does not mean that these “benefits” were
+furnished in exchange for the supply. For something to be considered non-
+monetary consideration furnished by the recipient of a supply (in the context
+of s 17(3) of the GST Act specifically), it must be sufficiently valuable, and
+it must be clear that it was given by the recipient in exchange for the supply
+of goods (for example, a trade-in of an item or a provision of a service).
+
+24 I disagree with the Board’s reasoning (at [38]) that the fact that the
+suite of contractual obligations enabled the business model to function
+constituted a “benefit” which the Members provided to the appellant in
+exchange for the goods. The Board reasoned (at [38]) that:
+
+It is evident that in the appeal before us, the host of terms and conditions
+that are found in the terms of Membership constituted obligations that were
+independent of the underlying transactions, and which presented a clear and
+practical benefit to the Appellant in a manner which was separate from the
+benefit of the transaction itself. The combined effect of the obligations
+undertaken by Members was not only of practical and commercial benefit to the
+Appellant, it was in fact integral to their business model, and was critical
+to allowing the Appellant to run a direct sales infrastructure that remained
+exclusive to its Members only
+
+25 To hold that the result of a contractual arrangement is the “benefit” the
+supplier receives is tautological because every contractual arrangement has a
+result. That alone is not a “benefit” that is furnished by the counterparty to
+the contract, it is merely a by-product — the result.
+
+26 On the contrary, the alleged “benefit” to the supplier asserted to be non-
+monetary consideration must be something that the recipient of the supply
+provides in exchange for the goods supplied. In this regard, a useful
+indicator of whether a “benefit” is provided in exchange for the supply is
+whether there is parity of value between the non-monetary “benefit” and the
+good received. The non-monetary benefit should “make up” for the discrepancy
+between the money paid and the regular price of the product. A paradigm
+example where there is parity of value is where a new car is purchased partly
+with money and partly with the trade-in of an old car and the supplier
+ascribes a “trade-in value” for the non-monetary consideration: see Lex
+Services plc v Customs Excise Commissioners [2004] 1 WLR 1. In this situation,
+the non-monetary benefit (the traded in car) makes up for the difference
+between what the consumer would have to pay in monetary consideration but for
+the trade-in.
+
+27 Where parity of value is subjectively recognised by parties, the
+identification of the non-monetary benefit is easy because parties have made
+clear that the non-monetary benefit supplements the monetary consideration
+such that the value of the supply is justifiably the open market value.
+
+28 However, this does not mean that there can never be non-monetary
+consideration in the absence of contractual apportionment of value. In such
+cases, where parties do not explicitly provide for the value apportioned to
+the non-monetary consideration, the contractual arrangement when construed by
+the court may evince tangible monetary value attributed to non-monetary
+elements. In such cases, parity of value may be determined objectively by the
+court. For example, in Naturally Yours Cosmetics Ltd v Customs and Excise
+Commissioners [1988] STC 879, the supplier was a wholesaler of cosmetic
+products for resale by retail agents who approached friends for sale and
+received a commission for it. The taxable supply which fell to be valued was
+the sale of a pot of cream retailing at £10.14 sold to agents at £1.50. The
+pot of cream was sold at £1.50 on the basis that it had to be used for
+promotional purposes and if the agent did not do so, the agent would have to
+pay the full price for it. Although the parties there did not ascribe a
+subjective value to the pot of cream, the court, looking at the transaction,
+was satisfied that the promotional services rendered by the agents accounted
+for the difference between the retail and discounted price and accordingly
+valued the transaction at £10.14.
+
+29 With these principles in mind, I now consider the facts of this case. The
+Comptroller relies on a suite of obligations which all Members undertake when
+they join the appellant. The essence of this contractual relationship is
+contained in the declaration by the appellant’s director, Mr Leng Song Oon
+(“Mr Leng”), in his affidavit dated 8 July 2022, which sets out the
+contractual obligations that bind all Members:
+
+The Applicant and all its Members are mutually bound by an agreement as set
+out in the Herbalife Nutrition Member Application and Agreement (the
+“Membership Agreement”), which incorporates the Terms and Conditions of Doing
+the Herbalife Nutrition Business, the Statement of Average Gross Compensation
+Paid by the Herbalife Nutrition (Compensation Statement), and Books 1 & 2
+which include the Sales & Marketing Plan and the Rules of Conduct, as well as
+the Business Tools and Other Optional Expenses and other documents
+(collectively, the “Materials”).
+
+[emphasis in original]
+
+30 This clause is found in Clause 3 of the application form that potential
+Members sign when joining the appellant. The significance of this is that
+whether Members choose to consume or resell the Nutritional Products bought,
+or not buy any at all, they are in exactly the same contractual position.
+
+31 Counsel for the appellant invited me to find that the contractual
+entitlement to resell the Nutritional Products amounted to a legally binding
+option, which upon exercise, creates binding obligations concerning the resale
+of Nutritional Products on Members. I do not agree. Although the membership
+application form suggests that some terms are conditional on reselling (for
+example, “I agree that if I chose to conduct the Herbalife Nutrition business
+in any respect […]), Clause 3 of Section A of the membership application form
+defines the Member Pack to include the “Terms and Conditions of Doing the
+Herbalife Nutrition Business”. Ultimately, the appellant’s own concession that
+all Members are bound by every contractual obligation incorporated in the
+Membership Agreement (which includes those governing the resale of the
+Nutritional Products) contradicts counsel’s arguments that there were
+different binding obligations depending on whether a Member decided to consume
+or to resell the Nutritional Products. I thus affirm the finding of the Board
+that all Members are bound by all the obligations of the Member Pack
+regardless of their subjective intention.
+
+32 The issue is whether these terms and conditions in the Member Pack are non-
+monetary consideration moving from the Members to the appellant in exchange
+for the supplies of Nutritional Products. In its submissions, the Comptroller
+highlighted the following undertakings by Members, which the Board below found
+to constitute non-monetary consideration:
+
+(a) Undertaking to not use the appellant’s infrastructure for private benefit;
+
+(b) Undertaking to not promote the business of another Multi-Level Marketing
+or direct-selling company to any Member or customer;
+
+(c) Undertaking to not give media interviews without the appellant’s consent;
+
+(d) Undertaking to not engage in any business activity of the appellant in any
+country the appellant is not officially open for business in;
+
+(e) Undertaking to not display the appellant’s products in retail
+establishments;
+
+(f) Undertaking to be kind and courteous when selling the appellant’s
+products;
+
+(g) Undertaking not to sell the appellant’s products to non-Members who intend
+to resell them;
+
+(h) Undertaking to sell the appellant’s products at the stipulated prices if
+they decide to sell;
+
+(i) Undertaking not to auction the appellant’s products;
+
+(j) Undertaking not to use social media for the sale of the appellant’s
+products; and
+
+(k) Agreement to grant to the appellant the right to use its photograph, story
+and name in the appellant’s publicity materials.
+
+33 On the principles discussed above on non-monetary consideration, I am of
+the view that the Board erred in holding so. First, regarding the requirement
+that the undertakings are independent and not ancillary to the supply of the
+goods, I am of the view that those terms of undertaking constitute the terms
+of trade which were imposed by the appellant on its Members either to qualify
+to receive the supply, to regulate the use of Nutritional Products once
+obtained or to regulate the conduct of the Members as members of the
+appellant. As I have said above, I do not think that terms of trade, without
+more, constitute non-monetary consideration. Furthermore, nowhere in the
+appellant’s terms and conditions does it state that Members are contractually
+bound to provide marketing services to the appellant — thus distinguishing it
+from the cases of Rosgill and Pippa-Dee where the transactions in question
+indisputably involved services of value rendered by agents to the taxpayer
+companies in return for a commission which was directly converted into a
+discount on goods. These obligations only govern how the Member should act as
+a member of the appellant as opposed to being the consideration furnished in
+exchange for obtaining Nutritional Products.
+
+34 Secondly, I think that the Board erred in finding that these obligations
+provide the appellant a benefit which amounted to consideration because it was
+pivotal to the functioning of the appellant’s direct selling structure. A
+contract defining a business relationship between parties would necessarily be
+integral to the business model in question. But it does not mean that all the
+undertakings would constitute consideration. While it is factually accurate
+that the appellant obtains some “benefit” in that it is always better to have
+Members being courteous as opposed to being rude, or having Members as
+exclusive Members as opposed to non-exclusive Members, I am of the view that
+these “benefits” received by the appellant were just the compliance of its
+members with the contractual terms of trade as opposed to valuable
+consideration within the meaning of s 17 of the GST Act. On an objective
+interpretation of the contract, these obligations are not furnished in
+exchange for the Nutritional Products, but rather, obligations that the
+Members undertake as conditions to purchase the good for consideration in
+money.
+
+35 The Comptroller has not pointed to a tangible thing, whether in the form of
+a good, service, or something else furnished by the Members to the appellant
+which has objective parity of value with the discount that the Members
+receive, thereby bringing it within s 17(3) of the GST Act. The Comptroller
+attempted to characterise the Members of the appellant as commission agents.
+However, the difficulty with this argument is twofold. First, if the Members
+were truly commission agents, then the supply would not be between the
+appellant and its Members but between the appellant and end-consumers. The
+mark of agency is that the agent binds its principal in the contract. However,
+the Comptroller did not raise this as a basis of taxation in its notice under
+s 49(3) of the GST Act, and rightly so since the contractual arrangement
+permits the Members to choose what they wish to do with these Nutritional
+Products. This is unlike Rosgill where the title to the goods did not pass to
+the hostesses at any point in time, and the only role was for the hostesses to
+persuade end-consumers to contract with the Rosgill Group to purchase their
+products. Secondly, even if I were to accept that the Members are agents of
+the appellant, the taxable supply in question would then be between the
+appellant and the end-consumer, as the agents would merely be a conduit, which
+is not the basis on which the Comptroller issued its notices of assessment.
+
+36 Thus, I am of the view that the Members stand as principals as opposed to
+agents in relation to the goods sold. Although Members have the commercial
+incentive to sell these goods for profit, they retain the legal discretion to
+do as they pleased with the goods, subject to the rules of conduct they
+undertake to the appellant. I do not agree with the Board that the supply is
+of a “blended nature”. There can only be one objective contractual
+interpretation of the Members’ position vis-à-vis the appellant, and the fact
+that title passes to Members, amongst other factors, weighs in favour of a
+finding that the Members are principals.
+
+37 Section 17(3) of the GST Act is intended to cover situations where valuing
+a supply by reference only to its monetary value is underinclusive, because
+what the consumer gives in exchange for that supply is not only money, but
+something additional of value in non-monetary form. But if the meaning of
+consideration in s 17(3) of the GST Act is interpreted too broadly, such that
+items of de minimis value fall within the meaning of non-monetary
+consideration, there may be implications on all kinds of commercial practices
+that may not be intended to so be covered. For example, it is not uncommon for
+companies to run promotional campaigns which require purchasers to do certain
+acts to qualify for the discount such as sharing the purchaser’s campaign on
+their social media or liking their posts. It is also commercial practice for
+distributorship agreements regulating the supply chain for the sale of goods
+to contain terms and conditions stipulating purchase price, advertising
+restrictions and on-sale prices. An overly broad conception of consideration
+threatens to introduce considerable uncertainty as to the taxable value of
+these supplies. Thus, the solution to the revenue leakage raised by the
+Comptroller lies not in expanding the scope of non-monetary consideration but
+in the adoption of a special valuation provision such as paragraph 2 of the
+Sixth Schedule of the VAT Act 1994, which specifically addresses business
+models akin to the appellant without the potential negative collateral effects
+on commercial practices. This, however, is beyond the power of the courts, and
+must be implemented legislatively. For the reasons above, the appeal is
+allowed.
+
+\- Sgd -  
+Choo Han Teck  
+Judge of the High Court
+
+Vikna Rajah and Koh Chon Kiat (Rajah & Tann Singapore LLP) for the appellant;  
+Bjorn Lee Long Jin and Flora Koh Swee Huang (Inland Revenue Authority of
+Singapore (Law Division)) for the respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 07 Mar 2023 (08:42 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

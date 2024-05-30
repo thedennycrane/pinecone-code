@@ -1,0 +1,740 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 48
+
+Originating Claim No 130 of 2022 (Summons No 3651 of 2022)
+
+Between
+
+(1)| Parastate Labs Inc  
+---|---  
+  
+… Claimant
+
+And
+
+(1)| Wang Li  
+---|---  
+(2)| Yang Zhou  
+(3)| Babel Asia Asset Management Private Limited  
+(4)| Babel Holding Limited  
+  
+… Defendants
+
+grounds of decision
+
+[Arbitration — Stay of court proceedings — Case management stay — Whether
+court proceedings should be stayed pending resolution of arbitration]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Parastate Labs Inc
+
+  
+v
+
+  
+
+Wang Li and others
+
+[2023] SGHC 48
+
+General Division of the High Court — Originating Claim No 130 of 2022 (Summons
+No 3651 of 2022)  
+Andre Maniam J  
+28 November 2022
+
+28 February 2023
+
+Andre Maniam J:
+
+Introduction
+
+1 I ordered a stay of the claims by the claimant (“Parastate”) against the
+third defendant (“Babel Asia”) pursuant to s 6 of the International
+Arbitration Act 1994 (“IAA”) – that stay was mandatory as there was an
+arbitration agreement between them.
+
+2 On the application of the first defendant, Mr Wang, I then ordered a case
+management stay of the rest of the action, pending the resolution of the
+putative arbitration between Parastate and Babel Asia. The claimant has
+appealed against the case management stay in Summons 3651 of 2022 (“SUM
+3651”), but not against the arbitration stay in relation to Babel Asia in
+Summons 3639 of 2022 (“SUM 3639”). These are my grounds of decision.
+
+Background
+
+Parties
+
+3 Parastate invested in the Babel Quant Alpha USDT Fund (“the Fund”), which
+was managed by a cryptocurrency financial services provider trading as “Babel
+Finance”.
+
+4 The Babel Finance entity that Parastate contracted with was Babel Asia, a
+company wholly owned by the fourth defendant (“Babel Holding”).
+
+5 Mr Wang and the second defendant, Mr Yang, were two of five co-founders of
+Babel Holding: at the time of incorporation, Mr Wang had a 30% shareholding,
+and Mr Yang had a 40% shareholding. 1
+
+##### Foot Note 1
+
+×
+
+Mr Yang’s 1st Affidavit, 28 October 2022, para 10.
+
+6 Mr Wang and Mr Yang were also directors of Babel Asia: Mr Wang from 21 June
+2022 to date, Mr Yang from 29 July 2021 to 18 January 2022.
+
+The management agreement and the arbitration agreement
+
+7 Parastate and Babel Asia entered into a management agreement, following
+which Parastate invested into the Fund.
+
+8 Clause 6.3 of the management agreement was a dispute resolution clause
+providing that disputes between Parastate and Babel Asia “shall first be
+resolved through consultation”, and if the parties fail to reach an agreement
+on the dispute within 14 days after a written request for such consultation,
+then either party may submit the dispute to the Singapore International
+Arbitration Centre for arbitration in Singapore.
+
+Procedural history
+
+9 By way of SUM 3639, Babel Asia applied for the court to decline jurisdiction
+as between it and Parastate, for Parastate’s failure to abide by the pre-
+arbitration condition (of consultation) in the dispute resolution clause;
+further or alternatively, for Parastate’s claims against Babel Asia in court
+to be stayed until further order pursuant to s 6 of the IAA as there was an
+agreement to arbitrate.
+
+10 Parastate filed written submissions to resist Babel Asia’s application, but
+at the hearing before me Parastate’s counsel accepted that the court had to
+stay Parastate’s claims against Babel Asia, in view of the arbitration
+agreement. Indeed, a stay under s 6 of the IAA is mandatory. Accordingly, I
+stayed Parastate’s claims against Babel Asia. Parastate has not appealed
+against that stay.
+
+11 By way of SUM 3651, Mr Wang applied for a case management stay of the whole
+action, pending the resolution of the putative arbitration between Parastate
+and Babel Asia. Having already stayed Parastate’s claims against Babel Asia, I
+granted a case management stay of the rest of the action, and that is the
+subject of Parastate’s present appeal.
+
+Parastate’s preliminary objection
+
+12 In its written submissions, Parastate submitted 2
+
+##### Foot Note 2
+
+×
+
+Parastate’s written submissions, paras 35 to 37.
+
+that Mr Wang could not apply for a case management stay without first getting
+approval from the court to make such an application. This was however not
+addressed by Parastate’s counsel in oral submissions; instead, he dealt
+directly with the substantive merits of the stay application.
+
+13 I agreed with Mr Wang’s submissions 3
+
+##### Foot Note 3
+
+×
+
+Mr Wang’s written submissions, paras 17 to 20.
+
+that he did not require prior approval of the court to apply for a case
+management stay. Order 9 rule 9(7)(i) of the Rules of Court 2021 provides
+that:
+
+(7) No application may be taken out by any party at any time other than as
+directed at the case conference or with the Court’s approval, except an
+application for –
+
+…
+
+Stay of the whole action…
+
+14 As Mr Wang’s application in SUM 3651 was for a stay of the whole action, he
+did not need prior approval of the court to make the application.
+
+Whether the whole action should be stayed
+
+Parastate’s claims
+
+15 The key events were as follows:
+
+(a) on 16 March 2022, Parastate was provided with a Babel Finance Presentation
+Deck;
+
+(b) on 17 March 2022, Parastate executed the Management Agreement with Babel
+Asia;
+
+(c) after the Management Agreement was executed, Parastate transferred US$5m
+of USDC coins (the “Management Assets”) to a designated wallet;
+
+(d) on or around 13 June 2022, Babel Finance announced that it was suspending
+all withdrawals and redemptions due to “unusual liquidity pressures”;
+
+(e) on 19 and 20 June 2022, Parastate informed Babel Finance that it wished to
+withdraw the Management Assets; and
+
+(f) Babel Finance has not returned the Management Assets to Parastate.
+
+16 Parastate framed four claims in its statement of claim:
+
+(a) breach of trustee and/or fiduciary duties – by Babel Asia and Babel
+Holding; 4
+
+##### Foot Note 4
+
+×
+
+Statement of claim (“SOC”) paras 4 to 6I.
+
+(b) dishonest assistance – by Mr Wang and Mr Yang of the aforesaid breaches of
+trustee and/or fiduciary duties by Babel Asia and Babel Holding; 5
+
+##### Foot Note 5
+
+×
+
+SOC paras 6J to 6M.
+
+(c) fraudulent misrepresentation – by Babel Asia and Babel Holding, 6
+
+##### Foot Note 6
+
+×
+
+SOC paras 6N to 11.
+
+and personal liability of Mr Wang and Mr Yang for those misrepresentations; 7
+
+##### Foot Note 7
+
+×
+
+SOC paras 12 to 15.
+
+(d) conspiracy – between any two (or more) of the defendants – a conspiracy to
+defraud and/or conspiracy to injure by unlawful means, in that the defendants
+conspired to defraud and/or fraudulently make misrepresentations to Parastate
+with the intention of causing Parastate to invest into the Fund. 8
+
+##### Foot Note 8
+
+×
+
+SOC paras 16 to 18.
+
+Principles regarding stay of court proceedings pending resolution of a related
+arbitration
+
+17 After Parastate’s claims against Babel Asia had been stayed in favour of
+arbitration, what should happen to Parastate’s claims against Mr Wang, Mr
+Yang, and Babel Holdings (the three defendants who were not parties to the
+arbitration agreement between Parastate and Babel Asia)?
+
+18 The Court of Appeal faced a similar fact situation in Tomolugen Holdings
+Ltd and another v Silica Investors Ltd and other appeals [2016] 1 SLR 373
+(“Tomolugen”). One matter in the court proceedings, as between the plaintiff
+(“Silica Investors”) and the second defendant (“Lionsgate”), was prima facie
+within the scope of an arbitration agreement, and thus subject to a mandatory
+stay under s 6 of the IAA (see [122], [136], [137]). The court stayed the rest
+of the court proceedings pending the resolution of that arbitration.
+
+19 Specifically, the court decided that if Silica Investors wished to proceed
+with the claim against Lionsgate that was subject to the arbitration clause,
+that claim would be stayed, and (subject to certain conditions) it was in the
+interests of case management for:
+
+(a) the rest of the court proceedings against Lionsgate to be stayed; and
+
+(b) the court proceedings against the other defendants to also be stayed.
+
+(See [190], in particular (c), (e), (f).)
+
+20 The court stated at [186] that in cases “where the dispute which is covered
+by the arbitration clause in question forms only part of a larger dispute with
+a broader horizon…the court, as the final arbiter, should take the lead in
+ensuring the efficient and fair resolution of the dispute as a whole.”
+
+21 At [188], the court further stated:
+
+This does not mean that if part of a dispute is sent for arbitration, the
+court proceedings relating to the rest of the dispute will be stayed as a
+matter of course. The court must in every case aim to strike a balance between
+three higher-order concerns that may pull in different considerations: first,
+a plaintiff’s right to choose whom he wants to sue and where; second, the
+court’s desire to prevent a plaintiff from circumventing the operation of an
+arbitration clause; and third, the court’s inherent power to manage its
+processes to prevent an abuse of process and ensure the efficient and fair
+resolution of disputes. The balance that is struck must ultimately serve the
+ends of justice. In this regard, we consider that the court’s discretion to
+stay court proceedings pending the resolution of a related arbitration, at the
+request of parties who are not subject to the arbitration agreement in
+question, can in turn be made subject to the agreement of those parties to be
+bound by any applicable findings that may be made by the arbitral tribunal.
+
+The whole action should be stayed
+
+22 Applying the principles from Tomolugen, the whole action should be stayed.
+
+23 Regarding the first higher-order concern mentioned in Tomolugen at [188] –
+“a plaintiff’s right to choose whom he wants to sue and where” – the court
+recognised the following at [187]:
+
+(a) “that right is not absolute”;
+
+(b) “that right may be curtailed or may even be regarded as subsidiary to
+holding the plaintiff to his obligation to arbitrate where he has agreed to do
+so”; and
+
+(c) that right “is restrained only to a modest extent when the plaintiff’s
+claim is stayed temporarily pending the resolution of a related arbitration,
+as opposed to when the plaintiff’s claim is shut out in its entirety” (citing
+Reichhold Norway ASA v Goldman Sachs International [1999] CLC 486 (“Reichhold
+Norway (HC)”) at 491 per Moore-Bick J).
+
+24 Regarding the second higher-order concern – the court’s desire to prevent a
+plaintiff from circumventing the operation of an arbitration clause – a stay
+under s 6 of the IAA is mandatory, and that necessarily prevails over the
+court’s desire “to avoid the complications inherent in having to resolve a
+dispute across two different fora” (Tomolugen at [2], [122], [136], [137]).
+
+25 Regarding the third higher-order concern – the court’s inherent power to
+manage its processes to prevent an abuse of process and ensure the efficient
+and fair resolution of disputes – the court can (as noted in Tomolugen at
+[139]):
+
+(a) “stay the whole of the court proceedings pending the resolution of the
+putative arbitration, ie, resolve the arbitration first” (which Mr Wang asked
+for);
+
+(b) “resolve that part of the court proceedings which falls outside [the
+arbitration stay] first”; or
+
+(c) “allow the putative arbitration and the remaining court proceedings to run
+in parallel” (which Parastate asked for).
+
+26 In Tomolugen, the claim that was subject to a mandatory stay under s 6 of
+the IAA was the “Management Participation Allegation” against Lionsgate (at
+[137]). That allegation also formed part of Silica Investors’ case against all
+eight defendants, in which Silica Investors alleged oppressive or unfairly
+prejudicial conduct towards it as a minority shareholder. The court decided
+that it would be logical to have the Management Participation Allegation
+determined first as between Silica Investors and Lionsgate, and thereafter the
+rest of the court proceedings could proceed, with the court having the benefit
+of the arbitral tribunal’s award on the Management Participation Agreement: at
+[189(a)(iii)].
+
+27 That reasoning applied with even greater force in the present case. In
+Tomolugen, the court regarded the Management Participation Allegation as “a
+narrow issue that is subsidiary in importance to the other issues and
+allegations which have been raised in the Suit.” In contrast, Parastate’s
+claims against Babel Asia (which were stayed in favour of arbitration) were
+foundational to all of Parastate’s claims against all of the defendants in the
+action.
+
+28 Parastate contracted with only one of the four defendants – Babel Asia –
+and all of Parastate’s claims were premised on Parastate establishing that
+Babel Asia had breached trustee and/or fiduciary duties, or made fraudulent
+misrepresentations that had induced Parastate to invest in the Fund.
+Parastate’s claims against Mr Wang and Mr Yang as individuals, and against
+Babel Holding as Babel Asia’s shareholder, were claims for accessory liability
+or personal liability, premised on Babel Asia being liable against Parastate
+to begin with. If Babel Asia had not breached any trustee or fiduciary duties
+owed to Parastate, and if Parastate had not been induced to invest by any
+fraudulent misrepresentations of Babel Asia, all of Parastate’s claims against
+all of the defendants would fail.
+
+29 The disputes that Parastate had agreed to resolve in arbitration with Babel
+Asia included:
+
+(a) whether (having regard to the Management Agreement) Babel Asia owed
+Parastate trustee and/or fiduciary duties which Babel Asia had breached (which
+Mr Wang and Mr Yang might have dishonestly assisted in, and which Babel
+Holdings as Babel Asia’s sole shareholder might be responsible for);
+
+(b) whether Parastate had been induced to invest in the Fund by fraudulent
+misrepresentations by Babel Asia, as contained in the Babel Finance
+Presentation Deck (which Parastate said Mr Wang and Mr Yang were also
+personally liable for); and
+
+(c) whether Babel Asia was a party to a conspiracy against Parastate, in
+relation to those breaches of duty or misrepresentations.
+
+30 It is logical to have all those issues as between Parastate and Babel Asia
+determined first in arbitration, before Parastate proceeds with its claims
+against Mr Wang, Mr Yang and Babel Holding in court.
+
+31 In its written submissions, Parastate appeared to accept that if the court
+were bound to stay its claims against Babel Asia pursuant to s 6 of the IAA,
+Parastate’s claim against the other defendants should “consequently” be
+stayed; 9
+
+##### Foot Note 9
+
+×
+
+Parastate’s submissions, para 55.
+
+Parastate simply said that in that event, conditions should be imposed to
+promote an expeditious resolution of the dispute. At that point Parastate was
+still resisting Babel Asia’s stay application, and arguing that Parastate’s
+claims against all the defendants should continue in court.
+
+32 The court was indeed bound to stay Parastate’s claims against Babel Asia
+pursuant to s 6 of the IAA, and at the hearing Parastate did not resist Babel
+Asia’s stay application, which was granted.
+
+33 Parastate, however, then argued that even though its claim against Babel
+Asia were stayed, it should be allowed to continue with its claims against the
+remaining defendants in court, in parallel with the arbitration between
+Parastate and Babel Asia.
+
+34 Parastate emphasised that Mr Wang had not offered to be part of the
+arbitration as between Parastate and Babel Asia, or to be bound by the
+findings of the arbitrator. 10
+
+##### Foot Note 10
+
+×
+
+Parastate’s submissions, para 50.
+
+Parastate’s submission was to the effect that Mr Wang would seek to “re-
+litigate” common issues, if Parastate won the arbitration against Babel Asia.
+
+35 This issue of “re-litigation” was addressed in Tomolugen at [142]:
+
+…if the court proceedings were stayed pending the resolution of the putative
+arbitration between Silica Investors and Lionsgate, then upon the completion
+of the arbitration, when the matter returns to the court, the remaining
+defendants may seek to challenge findings made in the arbitration to which
+they were not party and by which they might not be bound. In our judgment, if
+the remaining defendants were to do so, they would, in the broad sense, be
+“re-litigating” issues already decided in the arbitration, even though they
+were not parties to the arbitration and did not have the opportunity to
+address the arbitral tribunal on those issues.
+
+36 The fact that there might be an attempt to “re-litigate” common issues in
+court, after the completion of a related arbitration, did not prevent the
+court in Tomolugen from staying the court proceedings pending the resolution
+of that arbitration. The court in Tomolugen explained at [142]:
+
+…if the remaining defendants were to challenge the arbitral tribunal’s
+decision when this dispute returns to the court, that would be contrary to
+their present stance in seeking a stay of the court proceedings pending
+arbitration, and might potentially amount to an abuse of the process of the
+court. [emphasis added.]
+
+37 The court added at [190(d)] that if Silica Investors offered to arbitrate
+the Management Participation allegation with the remaining defendants, but the
+remaining defendants declined that offer:
+
+then that, coupled with their present stance of asking for a stay of the court
+proceedings against them on the basis of case management, will provide strong
+grounds for finding that it would be an abuse of process for them to seek to
+re-litigate (in the broad sense) the Management Participation Allegation in
+court after the conclusion of the arbitration between Silica Investors and
+Lionsgate. [emphasis added]
+
+38 In the event, the court granted a case management stay of the remaining
+claims pending the resolution of the related arbitration, “regardless of
+whether or not the remaining defendants accept any offer to arbitrate which
+Silica Investors may make”: at [191(b)(iii)].
+
+39 As explained in Tomolugen, an arbitration might only bind those who are
+party to it, but it does not follow that others in respect of whom court
+proceedings have been stayed are free to “re-litigate” common issues that have
+been decided in the arbitration – it may be an abuse of process for them to do
+so.
+
+40 Parastate relied on the High Court’s decision in Epoch Mineral Pte Ltd v
+Raffles Asset Management (S) Pte Ltd [2018] SGHC 223 (“Epoch”) where the
+plaintiff brought claims against four defendants; the plaintiff’s claims
+against one defendant (“Raffles” or “RAM”) were stayed in favour of
+arbitration, but the plaintiff was allowed to continue with its claims against
+the three remaining defendants in court. The court explained its decision as
+follows (at [10]–[11]):
+
+10 When a plaintiff is claiming that the four defendants had conspired to
+cause him harm, he is entitled to pursue his claim in court against them even
+when the court had granted one of them a stay in favour of arbitration. It is
+true that a potential conflict in the findings of fact may arise between the
+court and the arbitrator, but that alone is not a reason to stymie the
+plaintiff against the three defendants who are not concerned in the
+arbitration. My views here are largely what the Court of Appeal had already
+expressed in Tomolugen. That decision does not represent what counsel for the
+defendants claim it holds.
+
+11 Furthermore, whatever the decision between the plaintiff and Raffles, the
+arbitrator’s decision will not bind the plaintiff or the other defendants in
+this action. There is no good reason to delay the action by granting a stay so
+that the other defendants take their seats as spectators to watch the
+arbitration proceedings. Justice is best served in this case by having the
+action proceed forthwith and expeditiously.
+
+41 The court stated that the putative arbitration between the plaintiff and
+the first defendant (“RAM”) would not bind the plaintiff or the other
+defendants in the court proceedings, and noted a potential conflict in
+findings between the court and the arbitrator. At [10] of the judgment (quoted
+above) the court referred to Tomolugen in general terms, but there was no
+specific reference to the discussion in Tomolugen about “re-litigation” of
+findings from the arbitration possibly being an abuse of process. If “re-
+litigation” of findings from the arbitration might be an abuse of process, the
+other defendants would not (as the court in Epoch put it) be mere spectators
+watching the arbitration – that arbitration could substantively affect them in
+the court proceedings.
+
+42 The decision in Epoch must be understood in the context of that case. As
+the court in Tomolugen observed at [186], “[t]he precise measures which the
+court deploys to achieve [the efficient and fair disposal of the dispute as a
+whole] will turn on the facts and the precise contours of the litigation in
+each case.”
+
+43 The Epoch matter proceeded to trial before the General Division of the High
+Court and the plaintiff obtained judgment against the remaining defendants
+(Epoch Minerals Pte Ltd v Raffles Asset Management (S) Pte Ltd and others
+[2021] SGHC 288 (“Epoch (GD)”). The appeal to the Appellate Division by the
+fourth defendant (Mr Maroju) failed: Gangadhara Brhmendra Srikanth Maroju v
+Epoch Minerals Pte Ltd [2022] SGHC(A) 35 (“Epoch (AD)”).
+
+44 The claims for which the plaintiff (“EMPL”) obtained judgment may be
+summarised as follows (see Epoch (AD) at [1], [14], [16]):
+
+(a) Mr Maroju was found liable with the second defendant (“AKS”) and the third
+defendant (“Mr Kamil”) for conspiring to injure EMPL by unlawful means in
+respect of a total payment of US$700,000 that was given for a purpose that
+turned out to be untrue;
+
+(b) US$600,000 of the US$700,000 was paid by EMPL to AKS - Mr Maroju was found
+liable for dishonest assistance in aiding in AKS’s breach of trust of that
+US$600,000; and
+
+(c) US$100,000 of the US$700,000 was paid by EMPL to Mr Maroju - there was
+total failure of consideration in respect of that US100,000 and Mr Maroju was
+personally liable to repay that sum to EMPL.
+
+45 In that case (see Epoch (GD) at [2]–[5]):
+
+(a) EMPL had paid the US$700,000 based on oral representations by Mr Maroju;
+
+(b) the full sum was paid by 3 November 2016, before EMPL was informed that
+RAM was the party that would be making a US$10m loan (which EMPL had paid the
+US$700,000 to obtain); RAM was first named in the draft term sheet dated 2
+January 2017, and the arbitration agreement between EMPL and RAM came into
+being when the term sheet was executed;
+
+(c) even if RAM had never been named as the intended lender, or the term sheet
+between EMPL and RAM had never been signed, it is evident from the judgment in
+Epoch (GD) that the court would still have found Mr Maroju, AKS, and Mr Kamil
+liable to EMPL – EMPL’s claims against those defendants were not dependent on
+a finding that RAM was liable to the EMPL; indeed, it was only after EMPL had
+parted with its money, that RAM’s name was put forward as the intended lender.
+
+46 Each of those points stands in contrast with the present case:
+
+(a) Parastate’s case on misrepresentation was based on written representations
+in the Babel Finance Presentation Deck;
+
+(b) Parastate only invested in the Fund after it entered into the Management
+Agreement with Babel Asia;
+
+(c) Parastate’s claims against Babel Asia were foundational to its claims
+against Mr Wang, Mr Yang, and Babel Holding: [28]–[29] above.
+
+47 I was not persuaded that a case management was inappropriate in this case,
+just because such a stay was not granted in Epoch – the precise contours of
+the litigation in the two cases were very different; in particular, in Epoch
+the matter that was subject to an arbitration stay was not material to a
+determination of the rest of the action, but it was central in the present
+case.
+
+48 A closer analogy to the present case is Tomolugen, where the matter that
+was subject to an arbitration stay was relied upon by Silica Investors for its
+oppression claim against all eight defendants: see [26] above.
+
+49 Another analogous case where a case management stay was granted is
+Reichhold Norway (HC), discussed in Tomolugen at [164] to [170]. In that case,
+the plaintiffs (collectively, “Reichhold”) had brought a claim in arbitration
+against Jotun AS (“Jotun”) pursuant to the arbitration clause in the sale and
+purchase agreement between Jotun and Reichhold. But Reichhold also sued
+Goldman Sachs (Jotun’s agent in the transaction) in court. Moore-Bick J stayed
+the court proceedings against Goldman Sachs pending the resolution of the
+arbitration between Reichhold and Jotun, noting that under the engagement
+letter between Goldman Sachs and Jotun, Jotun had agreed to indemnify Goldman
+Sachs against any liability to Reichhold.
+
+50 The court in Tomolugen commented at [170]:
+
+Moore-Bick J concluded at 493 that “[i]n practical terms … an award [at the
+arbitration] might well determine the matter once and for all”. He was alive
+to the fact that the arbitral award would not bind Goldman Sachs. But,
+practically, in the context of the specific commercial arrangement between the
+parties, the outcome of the arbitration would have been dispositive of
+Reichhold’s claim against Goldman Sachs before the court.
+
+51 In Reichhold (HC), Goldman Sachs was sued because it was the agent of Jotun
+(with whom Reichhold had an arbitration agreement). Similarly, Parastate’s
+claims against Mr Wang, Mr Yang, and Babel Holding were all premised on those
+defendants’ connections with Babel Asia (with whom Parastate had an
+arbitration agreement). Parastate contended that Mr Wang, Mr Yang, and Babel
+Holding were liable on account of their ownership and/or control of Babel
+Asia: Babel Holding was Babel Asia’s sole shareholder; Mr Wang and Mr Yang
+were founding shareholders of Babel Holding, and directors of Babel Asia for
+certain periods of time. Parastate thus contended that Mr Wang, Mr Yang, and
+Babel Holding had accessory or personal liability for what Babel Asia had
+done.
+
+52 In such circumstances, as Moore-Bick J put it in Reichhold (HC), “[i]n
+practical terms…an award [at the arbitration] might well determine the matter
+once and for all” [emphasis added]. That was echoed somewhat by Parastate’s
+counsel when I queried at the hearing: what would happen if Parastate lost the
+arbitration against Babel Asia? He responded that Parastate would have to be
+practical and decide whether to proceed against the individuals. 11
+
+##### Foot Note 11
+
+×
+
+Notes of evidence, 28 November 2022 at p 4, ln 3–4.
+
+Indeed, if Parastate sought to “re-litigate” common issues that had been
+decided against it in the Parastate – Babel Asia arbitration, that might
+amount to an abuse of process as discussed in Tomolugen (see [35]–[39] above).
+
+53 At the very least, the court would have the benefit of the arbitral
+tribunal’s decision on the issues as between Parastate and Babel Asia, when
+the court turns to consider Parastate’s claims against Mr Wang, Mr Yang, and
+Babel Holding: Tomolugen at [189(a)(iii)].
+
+54 Parastate also relied on the English case of Mabey and Johnson v Jonathan
+Laszlo Danos [2007] EWHC 1094 (“Mabey”) where a case management stay was not
+granted. In Mabey, the court held at [37] that “[t]he claims against Mr Gibson
+[who was seeking a stay] are distinct, both legally and conceptually, from the
+claims against DAG [in respect of which there was a mandatory arbitration
+stay]”. DAG, the fourth defendant, was an agent of the claimant, Mabey. That
+agency relationship was governed by a Representative Agreement between DAG and
+Mabey that contained an arbitration clause; DAG was remunerated by commission.
+Mabey alleged fraud consisting of a conspiracy to inflate the level of
+commission and divide up the surplus between DAG and/or Mr Gibson (who was
+alleged to own or control DAG), and two ex-employees of Mabey – Mr Danos and
+Mr Joyce.
+
+55 Henderson J in Mabey described Reichhold (HC) as an “unusual case” and said
+that the circumstances of Mabey came nowhere near the “rare and compelling
+circumstances” envisaged by Reichhold (CA) as justifying a stay (at [38]). He
+further distinguished Reichhold (HC) on the basis that in Reichhold (HC)
+Goldman Sachs was the only defendant, whereas only one (Mr Gibson) of the
+three remaining defendants in Mabey was seeking a stay of the claims against
+him. In that regard, in the present case Mr Wang had applied for a stay of the
+whole action.
+
+56 Mabey was discussed in Tomolugen at [171]–[174] as part of the review of
+the position in England. The Court of Appeal went on to hold at [187] that it
+“would not set the bar for the grant of a case management stay at the “rare
+and compelling” threshold that the English and the New Zealand courts have
+adopted.”
+
+57 In any event, the facts of the present case are quite different from those
+in Mabey – in that case, Mabey had documents showing strong prima facie
+evidence of fraud involving Mr Gibson, Mr Danos and Mr Joyce as actors to
+inflate the commissions that DAG would receive from Mabey (at [5]). That does
+not feature in the present case. Instead, Parastate sought to hold Mr Wang, Mr
+Yang, and Babel Holding liable for what Babel Asia had done (in the form of
+representations in the Babel Finance Presentation Deck, or breaches of duties
+owed by Babel Asia to Parastate pursuant to the Management Agreement between
+Babel Asia and Parastate).
+
+Whether conditions should be imposed for a case management stay
+
+58 Finally, there was the issue of whether I should attach conditions to the
+case management stay.
+
+59 In Tomolugen, the court stated at [188] (quoted at [21] above) that the
+court could grant a case management stay subject to the agreement of the non-
+arbitrating parties to be bound by any applicable findings by the arbitral
+tribunal. The court did not, however, impose such a condition in that case
+(Tomolugen at [190(d)], see also [191(b)(iii)]).
+
+60 In a similar vein, I did not make the stay conditional upon the other
+defendants agreeing to be bound by the Parastate – Babel Asia arbitration. It
+remains open to Parastate to offer to arbitrate the issues in the arbitration
+with the other defendants (see Tomolugen at [190(d)])l; but I left it to
+Parastate whether to make such an offer, and to the other defendants whether
+to accept any such offer.
+
+61 Nor did I make the stay conditional upon the arbitration being expedited
+(which was a condition imposed in Tomolugen at [190(e)(i)]). In imposing that
+condition, the court in Tomolugen considered that the matter subject to an
+arbitration stay was “a narrow issue that is subsidiary in importance to the
+other issues and allegations which have been raised in the Suit.” In contrast,
+what is subject to an arbitration stay in the present case is the heart of the
+dispute between the parties: if the arbitration is decisive on the issue of
+Babel Asia’s liability to Parastate, only the question of accessory or
+personal liability of the other defendants remains to be determined thereafter
+(if at all).
+
+62 It remains open to Parastate to seek to expedite the arbitration if it
+truly wishes to do so. At the time of the case management conference on 28
+December 2022 (a month after my decision), Parastate had yet to commence
+arbitration. I do not know if Parastate has since done so.
+
+Conclusion
+
+63 Having granted a mandatory arbitration stay of Parastate’s claims against
+Babel Asia, I exercised my discretion to stay the rest of the action, to
+ensure the efficient and fair resolution of the dispute as a whole, and
+ultimately serve the ends of justice.
+
+Andre Maniam
+
+Judge of the High Court
+
+Foo Maw Shen, Chu Hua Yi and Mark Tan (FC Legal Asia LLC) for the claimant;
+
+Choo Zheng Xi and Carol Yuen (Remy Choo Chambers LLC) for the first defendant;
+
+Darius Chan and Michael Chan (Breakpoint LLC) for the second defendant;
+
+Ang Ann Liang and Yeoh Tze Ning (Allen & Gledhill LLP) for the third and
+fourth defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 2: 28 Feb 2023 (12:21 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

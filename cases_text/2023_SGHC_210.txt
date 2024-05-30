@@ -1,0 +1,1042 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 210
+
+Originating Application No 518 of 2022
+
+In the matter of Section 18(2) and the First Schedule of the Supreme Court of
+Judicature Act (Cap 322)
+
+And
+
+In the matter of Order 13 Rule 1 of the Rules of Court 2021
+
+And
+
+In the matter of a Performance Bond No Z/18/BP00/047925Between
+
+| Chian Teck Realty Pte Ltd  
+---|---  
+  
+… Applicant
+
+And
+
+(1)| SDK Consortium  
+---|---  
+(2)| Lonpac Insurance Bhd  
+  
+… Respondents
+
+judgment
+
+[Building and Construction Law — Building and construction related contracts —
+Guarantees and bonds]
+
+[Building and Construction Law — Terms — Implied terms]
+
+[Contract — Contractual terms — Implied terms]
+
+[Credit and Security — Performance bond]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Chian Teck Realty Pte Ltd
+
+  
+v
+
+  
+
+SDK Consortium and another
+
+[2023] SGHC 210
+
+General Division of the High Court — Originating Application No 518 of 2022  
+Lee Seiu Kin J  
+13 February, 28 March, 4 May 2023
+
+4 August 2023 Judgment reserved.
+
+Lee Seiu Kin J:
+
+Introduction
+
+1 The performance bond has assumed an essential role in the building and
+construction industry, serving as an instrument to facilitate cash flow while
+managing risks. In the course of the performance of a construction contract,
+the employer (or main contractor) makes periodic progress payments to the
+contractor (or sub-contractor), even when the work is far from complete. This
+arrangement reduces the cash flow requirement for the contractor. The employer
+benefits from being able to sub-contract work at lower prices due to the
+resultant lower financing costs for the contractor, and from the availability
+of a larger pool of contractors to bid for the job. The risk, of course, is in
+the contractor going under and the employer may be saddled with additional
+costs to complete the works with little recourse against the insolvent
+contractor. At one time, employers required contractors to pay a cash deposit
+to secure performance, but this increased the costs to the contractor and
+affected the price he could offer. Subsequently, the performance bond came
+into the picture, in which, for a comparatively small fee, financial
+institutions such as banks or insurance companies gave the beneficiary (the
+employer) an undertaking to pay a certain sum of money under certain
+conditions. The most common condition is a simple demand for payment made by
+the beneficiary. A performance bond drafted with this condition is known as a
+“first demand” or “on demand” bond. Such a performance bond has been described
+as “as good as cash” (Shanghai Electric Group Co Ltd v PT Merak Energi
+Indonesia and another [2010] 2 SLR 329 at [16]) because it provides certainty
+of payment from a reputable financial institution. The latter would, of
+course, secure its liability by way of a lien on some property belonging to
+the contractor or its directors.
+
+2 The perennial tension is this—under what circumstances would an employer be
+entitled to make a demand on a performance bond, and when would the courts be
+moved to injunct such a demand or order the financial institution not to make
+payment pursuant to the demand? Performance bonds, because they are imposed by
+the employer, are often drafted in such a way that the financial institution
+is obliged to pay the beneficiary upon written demand of the beneficiary. The
+courts have upheld such demands on the ground that the performance bond is a
+contract between the beneficiary and the financial institution, and as between
+them, the underlying contract is not relevant (Master Marine AS v Labroy
+Offshore Ltd and others [2012] 3 SLR 125 (“Master Marine”) at [26]). The court
+will only grant an injunction where the demand is made fraudulently, on the
+ground that “fraud unravels all” (Arab Banking Corp (B.S.C.) v Boustead
+Singapore Ltd [2016] 3 SLR 557 at [64] (“Arab Banking”)). If the beneficiary
+does not have an honest belief that the contractor has defaulted and become
+liable to him in damages, then the demand must be fraudulent. The practical
+difficulty is in proving fraud, as the burden of proof falls on the
+contractor, and the courts have set a high standard of proof for this: Bocotra
+Construction Pte Ltd and others v Attorney-General [1995] 2 SLR(R) 262
+(“Bocotra”) at [48]; Sunrise Industries (India) Ltd v PT OKI Pulp & Paper
+Mills and another [2018] SGHC 145 at [33]. However, this does not detract from
+the principle that the beneficiary must have an honest belief of the facts
+grounding its right to make the demand.
+
+3 In the mid-nineties, a line of authorities latched onto certain words in the
+judgment of the Court of Appeal in Bocotra, and developed the concept of
+unconscionability as being another ground for restraining such demands. This
+marked a conscious departure from English law. In Dauphin Offshore Engineering
+& Trading Pte Ltd v The Private Office of His Royal Highness Sheikh Sultan bin
+Khalifa bin Zayed bin Zayed Al Nahyan [1999] SGHC 201 at [35]–[43], I traced
+the development of this line of authorities. Unconscionability was confirmed
+as a ground to restrain demands on performance bonds in the decision of the
+Court of Appeal in GHL Pte Ltd v Unitrack Building Construction Pte Ltd and
+another [1999] 3 SLR(R) 44. Employers (or their legal advisors) continued to
+work their way around this by tweaking the language of the performance bonds.
+One way was to provide that the performance bond was governed by English law:
+see Shanghai Electric Group Co Ltd v PT Merak Energi Indonesia and another
+[2010] 2 SLR 329. Another way was to agree that the performance bond cannot be
+restrained on the ground of unconscionability: CKR Contract Services Pte Ltd v
+Asplenium Land Pte Ltd and another and another appeal and another matter
+[2015] 3 SLR 1041 at [24]. The parties before me agree that the performance
+bond in the present case contains such a provision and therefore
+unconscionability was not a ground for restraining a demand made on it. 1
+
+##### Foot Note 1
+
+×
+
+Mr Mak’s affidavit dated 14 November 2022 at para 9; Mr Tong’s affidavit dated
+9 January 2023 at paras 6–7.
+
+4 Having set out the background, I now proceed to the facts of this case.
+
+Facts
+
+The parties
+
+5 The first respondent is SDK Consortium (“SDK”), a consortium consisting of
+three companies incorporated in either Singapore or Korea and in the business
+of construction. The companies are: (a) Koh Brothers Building & Civil
+Engineering Contractor (Pte) Ltd; (b) SsangYong Engineering & Construction Co
+Ltd; and (c) Daewoo Engineering & Construction Co Ltd. 2
+
+##### Foot Note 2
+
+×
+
+Applicant’s written submissions dated 6 February 2023 at para 7; Mr Tong’s
+affidavit dated 6 September 2022 at para 30.
+
+SDK is the main contractor for a construction project at Woodlands Health
+Campus (the “Project”). 3
+
+##### Foot Note 3
+
+×
+
+Mr Mak’s affidavit dated 14 November 2022 at para 15; Mr Tong’s affidavit
+dated 6 September 2022 at para 30.
+
+6 The applicant is Chian Teck Realty Pte Ltd (“Chian Teck”), a Singapore-
+incorporated company in the business of reinforced concrete and precast
+installation works. 4
+
+##### Foot Note 4
+
+×
+
+Applicant’s written submissions dated 6 February 2023 at para 7.
+
+Chian Teck was a subcontractor of SDK for the Project.
+
+7 The second respondent is Lonpac Insurance Bhd (“Lonpac”), a foreign
+insurance company registered in Singapore. Lonpac issued a performance bond in
+favour of SDK, which was procured by Chian Teck in accordance with its
+subcontract obligations with SDK.
+
+Background to the dispute
+
+8 On 29 August 2018, by way of a letter of acceptance issued by SDK, Chian
+Teck was awarded the subcontract to carry out reinforced concrete works and
+precast installation works for the Project (the “Subcontract”). 5
+
+##### Foot Note 5
+
+×
+
+Mr Mak’s affidavit dated 14 November 2022 at para 16; Mr Tong’s affidavit
+dated 6 September 2022 at para 33.
+
+Chian Teck was obliged to procure a performance bond in favour of SDK of an
+amount equal to 5% of the total value of the Subcontract. 6
+
+##### Foot Note 6
+
+×
+
+Mr Mak’s affidavit dated 14 November 2022 at para 17; Mr Tong’s affidavit
+dated 6 September 2022 at para 14.
+
+On 23 November 2018, Lonpac issued Performance Bond No Z/18/BP00/047925 in
+favour of SDK (the “Bond”), for the sum of S$1,123,152.55 (based on the
+Subcontract sum of S$22,463,051.00). 7
+
+##### Foot Note 7
+
+×
+
+Mr Mak’s affidavit dated 14 November 2022 at para 17; Mr Tong’s affidavit
+dated 6 September 2022 at para 14.
+
+9 By 2020, the relationship between Chian Teck and SDK had deteriorated. That
+year, Chian Teck commenced adjudication proceedings against SDK pursuant to
+the Building and Construction Industry Security of Payment Act (Cap 30B, 2006
+Rev Ed). The proceedings related to, among other things, SDK’s certification
+of Chian Teck’s payment claim. 8
+
+##### Foot Note 8
+
+×
+
+Mr Mak’s affidavit dated 14 November 2022 at para 18; Mr Tong’s affidavit
+dated 6 September 2022 at paras 78–90.
+
+Parties also became embroiled in a dispute in relation to the performance of
+the Subcontract. This resulted in Chian Teck serving its notice on SDK to
+terminate the contract on 11 November 2020, on the basis that SDK had
+unilaterally decided to reduce the scope of the Subcontract substantially and
+had falsely accused Chian Teck of causing delay to the Subcontract works. 9
+
+##### Foot Note 9
+
+×
+
+Mr Mak’s affidavit dated 14 November 2022 at para 19; Mr Tong’s affidavit
+dated 6 September 2022 at paras 41–74.
+
+Events leading up to the call on the Bond
+
+10 One of the main issues in the present dispute is whether SDK made a valid
+call on the Bond on 29 July 2022 in accordance with the terms of the Bond. The
+terms relating to SDK’s entitlement to call on the Bond are found in cll 1, 3
+and 4 of the Bond: 10
+
+##### Foot Note 10
+
+×
+
+Mr Tong’s affidavit dated 6 September 2022 at pp 417–419.
+
+1\. [Lonpac] shall unconditionally pay to [SDK] any sum or sums up to a
+maximum aggregate sum of Singapore Dollars One Million One Hundred Twenty
+Three Thousand One Hundred Fifty Two and cents Fifty Five Only
+(S$1,123,152.55)(“the Guaranteed Sum”) upon receiving [SDK’s] written notice
+of claim for payment made pursuant to Clause 4 of this Guarantee without any
+proof of actual default on the part of [Chian Teck] and without need to
+satisfy any other condition.
+
+…
+
+3 [Lonpac’s] liability under this [Bond] shall continue and this [Bond] shall
+remain in full force and effect from 01/07/2018 until 01/08/2022 provided
+always that the expiry date of this [Bond] and [Lonpac’s] liability under this
+[Bond] shall be automatically extended for successive periods of 6 months
+unless [Lonpac] give[s] [SDK] 90 days’ written notice prior to the expiry of
+[Lonpac’s] liability (the “Notice Period”) of [Lonpac’s] intention not to
+extend this [Bond] in respect of any future extension and provided further
+that [SDK] shall be entitled,
+
+(a) upon receiving such notice of [Lonpac’s] intention either to:
+
+(i) make a claim under this [Bond]; or
+
+(b) direct [Lonpac] (within the Notice Period) to extend the validity of this
+[Bond] for a further period not exceeding 6 months (and this [Bond] shall then
+expire at the end of such further period).
+
+4\. This [Bond] is conditional upon a claim being made by [SDK] at any time
+and as many times as [SDK] may deem fit by way of a notice in writing
+addressed to [Lonpac] and the same being received by [Lonpac] at 300 Beach
+Road #17-04/07 The Concourse Singapore 199555 before the end of 90 days from
+the expiry of this [Bond].
+
+[emphasis in original]
+
+11 The material events preceding the call on the Bond are as follows. On 28
+April 2022, Lonpac sent a letter to SDK by AR-registered post, stating that it
+was giving SDK “90 days written notice from the expiry of the Bond of
+[Lonpac’s] intention not to extend the Bond”, pursuant to cl 3 of the Bond
+(the “28 April Notice”). The 28 April Notice also stated that the Bond was due
+to expire on 1 August 2022. 11
+
+##### Foot Note 11
+
+×
+
+Mr Mak’s affidavit dated 14 November 2022 at para 20 and MKC-1 at Tab 8; Mr
+Tong’s affidavit dated 6 September 2022 at para 23(a) and p 994.
+
+However, SDK claimed that it did not receive the 28 April Notice because it
+was sent to the old office address of SDK. On 19 July 2022, Lonpac sent a
+second letter informing SDK of the same (“the 19 July Notice”). It is
+undisputed that the 19 July Notice was received by SDK. 12
+
+##### Foot Note 12
+
+×
+
+Mr Tong’s affidavit dated 6 September 2022 at para 23(b) and p 995; Suliana
+Binte Sudh’s affidavit dated 27 February 2023 at paras 7–8.
+
+Subsequently, on 29 July 2022, by way of a letter to Lonpac, SDK issued a
+demand for payment of the entire amount secured under the Bond, ie,
+S$1,123,152.55 (“SDK’s Demand”). SDK’s Demand stated that the claim for
+S$1,123,152.55 was made “[p]ursuant to Clause 4 of the [Bond]” and that the
+letter constituted SDK’s written notice “pursuant to Clauses 4 and 5 of the
+[Bond]”. 13
+
+##### Foot Note 13
+
+×
+
+Mr Mak’s affidavit dated 14 November 2022 at para 20 and MKC-1 at Tab 9; Mr
+Tong’s affidavit dated 6 September 2022 at para 24 and pp 996–999.
+
+The parties’ cases
+
+The validity of the call
+
+12 In relation to whether SDK made a valid call on 29 July 2022, the
+fundamental dispute between parties is whether SDK made the call pursuant to
+cl 1 or cl 3 of the Bond.
+
+13 Chian Teck’s position is that the call was based on cl 3 of the Bond, and
+that the condition precedents set out in cl 3 were not met when SDK made the
+call. Therefore, the call was invalid. According to Chian Teck, the chain of
+correspondence between SDK and Lonpac leading up to 29 July 2022 shows that
+SDK called on the Bond on the basis that it was about to expire. 14
+
+##### Foot Note 14
+
+×
+
+Chian Teck’s written submissions dated 27 April 2023 at paras 13–17.
+
+Therefore, the call must conform with the terms set out in cl 3. Chian Teck
+argues that the call was made in breach of cl 3(a)(i) of the Bond because both
+the 28 April Notice and the 19 July Notice were invalid, such that SDK did not
+receive notice of Lonpac’s intention not to extend the Bond 90 days prior to
+the expiry of Lonpac’s liability. Consequently, SDK’s entitlement to make a
+call on the Bond pursuant to cl 3 had not been triggered, and the call on the
+Bond was invalid. 15
+
+##### Foot Note 15
+
+×
+
+Chian Teck’s written submissions dated 27 April 2023 at paras 18–23.
+
+Further, Chian Teck submits that another ground for the injunction was SDK’s
+conduct in making the call in breach of cl 3, and attempting to pass off the
+call as compliant with the Bond, is tantamount to a fraudulent call. 16
+
+##### Foot Note 16
+
+×
+
+Chian Teck’s written submissions dated 27 April 2023 at paras 24–26.
+
+14 Conversely, SDK avers that it called on the Bond pursuant to cl 1 of the
+Bond. This is evident from the language used in SDK’s Demand, which mirrors
+that of cl 1. 17
+
+##### Foot Note 17
+
+×
+
+SDK’s written submissions dated 23 March 2023 at paras 20–27.
+
+SDK argues that cl 1 entitles SDK to, at any point in time, make an
+unconditional demand on the Bond, provided that SDK makes a written demand
+pursuant to cl 4 of the Bond. 18
+
+##### Foot Note 18
+
+×
+
+SDK’s written submissions dated 23 March 2023 at para 15.
+
+Therefore, the validity of Lonpac’s notice of non-extension has no bearing on
+the validity of the call on the Bond. Aside from a finding of fraud, nothing
+can restrain SDK’s call on the Bond. 19
+
+##### Foot Note 19
+
+×
+
+SDK’s written submissions dated 23 March 2023 at paras 25 and 27.
+
+Implied term
+
+15 In the alternative, Chian Teck submits that there is an implied term in the
+Subcontract between Chian Teck and SDK, that SDK should not call on the Bond
+so long as Chian Teck extends the validity of the Bond (the “Implied Term”).
+Chian Teck argues that the Implied Term would satisfy the three-step
+requirement for the implication of contract terms set out in Sembcorp Marine
+Ltd v PPL Holdings Pte Ltd and another and another appeal [2013] 4 SLR 193
+(“Sembcorp Marine”). This is because the absence of the Implied Term renders
+cll 8.1 and 8.3 of the Subcontract nugatory and meaningless. Further, Chian
+Teck relies on the English case of Cargill International SA v Bangladesh Sugar
+and Food Industries Corp [1996] 4 All ER 563 for the proposition that terms
+can be implied into the underlying contract between contractor and sub-
+contractor which would circumscribe the buyer’s (ie, the contractor’s) rights
+under his collateral guarantee with the guarantor, notwithstanding that the
+guarantee and underlying contract are independent at law. 20
+
+##### Foot Note 20
+
+×
+
+Chian Teck’s written submissions dated 23 March 2023 at paras 31–41; Chian
+Teck’s written submissions dated 27 April 2023 at para 27.
+
+Finally, Chian Teck avers that SDK’s call was in breach of the Implied Term in
+the Subcontract and fraudulent, because SDK was of the view that the Bond had
+been extended until at least 1 February 2023 and yet decided to make the call.
+21
+
+##### Foot Note 21
+
+×
+
+Chian Teck’s written submissions dated 23 March 2023 at paras 31–61.
+
+16 Conversely, SDK is of the view that the term that Chian Teck seeks to imply
+cannot satisfy the three-step test espoused in Sembcorp Marine. The Implied
+Term is plainly inconsistent with cl 8.4 of the Subcontract, which stipulates
+that SDK will not be restrained from making any call on the Bond except in the
+case of fraud. 22
+
+##### Foot Note 22
+
+×
+
+SDK’s written submissions dated 13 April 2023 at paras 8–21.
+
+Further, SDK submits that the Implied Term would open the floodgates to a
+multitude of similar challenges to calls on unconditional performance bonds,
+because there are standard form contracts that are similar in substance and
+effect to cl 8.3 of the Subcontract insofar as they provide for the extension
+of the validity of the security until the contractor’s obligations are
+completed. 23
+
+##### Foot Note 23
+
+×
+
+SDK’s written submissions dated 13 April 2023 at paras 27–29.
+
+17 Based on its arguments, Chian Teck seeks the following orders, pending the
+determination of Chian Teck and SDK’s liability towards each other under the
+Subcontract: 24
+
+##### Foot Note 24
+
+×
+
+HC/OA 518/2022 filed 6 September 2022.
+
+(a) That SDK be restrained from making, claiming, receiving and/or directing
+Lonpac to make payment or transfer of the sum of $1,123,152.55 or any other
+sum under the Bond.
+
+(b) That Lonpac be restrained from making payment or transfer of the sum of
+$1,123,152.55, or any other sum under the Bond to SDK and/or its nominee.
+
+(c) Costs.
+
+(d) Such further or other relief as the court deems fit and just.
+
+Issues to be determined
+
+18 I will consider the following issues. First, whether the call on the Bond
+was invalid. This depends on whether the call on the Bond was made pursuant to
+cl 1 or cl 3 of the Bond. If the call was made pursuant to cl 3 of the Bond, I
+will inquire whether the conditions stipulated in cl 3 were satisfied.
+
+19 Second, I will consider whether SDK’s call on the Bond, if made in breach
+of cl 3, was made fraudulently.
+
+20 Third, I will consider whether a term to the effect that SDK shall not call
+on the Bond so long as Chian Teck extends the validity of the Bond may be
+implied into the Subcontract (ie, the Implied Term as pleaded by Chian Teck).
+If so, whether a call on the Bond in breach of the Implied Term is fraudulent
+and justifies restraining the call.
+
+Issue 1: The validity of the call
+
+The law
+
+21 An unconditional performance bond commonly refers to a performance bond
+where payment is not made subject to any conditions other than a simple demand
+for payment by a beneficiary: Poh Chu Chai, Guarantees and Performance Bonds
+(LexisNexis, 3rd Ed, 2017) at para 13.1.2. However, in both conditional and
+unconditional performance bonds, a demand can be made subject to: (a) the
+fulfilment of various condition precedents; and/or (b) compliance with the
+stipulated form. The doctrine of strict compliance equally applies to
+condition precedents and stipulated forms (Master Marine at [31]). This means
+that a call on the performance bond which stipulates such requirements would
+be restrained in the absence of strict compliance (Ryobi Tactics Pte Ltd v UES
+Holdings Pte Ltd and another and another matter [2019] 4 SLR 1324 at [23]).
+However, the doctrine of strict compliance does not undermine the
+raison-d’être of on-demand performance bonds as readily realisable security.
+Instead, it gives effect to the intention of the contracting parties and
+upholds commercial certainty.
+
+Whether the call on the Bond was made pursuant to cl 1 or cl 3
+
+22 In this case, notwithstanding that parties agree that the Bond is
+unconditional and on-demand, SDK must nonetheless make a claim on the Bond in
+accordance with the terms set out in the Bond. As mentioned earlier, these
+condition precedents and/or stipulated forms are set out in cll 1, 3 and 4 of
+the Bond. Clause 1 of the Bond provides that the Bond is unconditional without
+any proof of actual default on the part of Chian Teck and without the need to
+satisfy any other condition, except that the claim must be made in the form
+stipulated in cl 4. Clause 3 is a more complicated provision. It appears to
+provide for the Bond to be automatically extended for successive periods of
+six months. However its main effect is as a termination clause which only
+Lonpac may exercise upon provision to SDK of written notice of the intention
+to terminate at least 90 days before expiry of the Bond.
+
+23 There are thus two bases under which SDK is entitled to make a claim under
+the Bond. The first is under cl 1, where there is a default on the part of
+Chian Teck, or an honest belief on the part of SDK that Chian Teck is in
+default. In this situation, SDK is entitled to make a claim and cl 1 states
+that it may do so “without any proof of actual default”. Chian Teck can only
+obtain an injunction to restrain payment under such a claim if it can prove
+that the call was fraudulent, eg, that there was no honest belief on the part
+of SDK that Chian Teck was in default. The second basis is under cl 3 of the
+Bond. This is the situation where Lonpac has given 90 days’ written notice
+prior to the expiry of the Bond of its intention not to extend the Bond. Upon
+such written notice, SDK can elect to (a) make a claim under the Bond; or (b)
+direct Lonpac to extend its validity for a further period not exceeding six
+months, ie, SDK can force a final six-month extension of the Bond. If SDK
+elects to make a claim under cl 3, there is no requirement for there to be any
+default on the part of Chian Teck as the clear purpose of this provision is to
+preserve the security, either by way of obtaining a final extension or
+converting it to cash.
+
+24 I therefore have to first determine whether the demand on the Bond in SDK’s
+letter of 29 July 2022 (“the Demand Letter”) was made under cl 1 or cl 3 of
+the Bond. The letter itself does not, on its face, answer the question. It
+states as follows:
+
+1\. We refer to performance bond no. Z18BP00047925, which is an irrevocable
+and unconditional on-demand guarantee issued by you in favour of us (the
+“Performance Bond”). A copy of the Performance Bond is enclosed[.]
+
+2\. Pursuant to Clause 4 of the Performance Bond, we hereby make a claim for
+the sum of S$1,123,152.55. Please treat this letter as our notice in writing
+of our claim pursuant to Clauses 4 and 5 of the Performance Bond.
+
+3\. Pursuant to Clause 5 of the Performance Bond, kindly let us have payment
+of the above-mentioned sum within 30 business days of your receipt of this
+notice. Kindly acknowledge receipt of this letter by signing and returning a
+duplicate copy to us.
+
+4\. This letter does not set out our full position at law and all of our
+rights and remedies remain expressly reserved.
+
+[emphasis in original omitted]
+
+25 The Demand Letter merely asserts that the claim was made “pursuant to
+Clause 4”. However, cl 4 is not a ground for making a demand. It sets out how
+the demand is to be made, ie, by notice in writing to the address specified
+and by receipt of the same, before the end of 90 days prior to the expiry of
+the Bond. These requirements apply equally to a claim under cl 1 and cl 3. To
+determine the intent of SDK, it is necessary to examine the events prior to
+the Demand Letter, which I set out below.
+
+26 On 6 July 2022, SDK’s Contracts Manager Mak Kam Chin (“Mak”) telephoned
+Lonpac’s Serene Ang (“Ang”) to “convey SDK’s request for a confirmation from
+Lonpac that the Bond would be automatically extended pursuant to Clause 3 of
+the Bond”. 25
+
+##### Foot Note 25
+
+×
+
+Mr Mak’s affidavit dated 21 March 2023 at para 9.
+
+Ang told Mak that Lonpac had already issued the 28 April 2022 letter to notify
+SDK that the Bond would not be extended upon expiry on 1 August 2022. 26
+
+##### Foot Note 26
+
+×
+
+Mr Mak’s affidavit dated 21 March 2023 at para 10.
+
+Mak responded that SDK had not received the letter and, on the same day, Ang
+emailed to Mak a copy of that letter. Upon reading it, Mak realised that it
+was sent to SDK’s old address and that could be the reason SDK had not
+received it. On 13 July 2022, by way of a letter, SDK informed Lonpac that the
+28 April 2022 letter was not received by SDK and noted that it was sent to an
+old address. SDK highlighted the 90-day written notice requirement in cl 3 of
+the Bond and requested Lonpac to serve a new notice at the correct address (as
+SDK had since changed its registered address). 27
+
+##### Foot Note 27
+
+×
+
+Mr Mak’s affidavit dated 21 March 2023 at paras 11–13 and p 21.
+
+Subsequently, SDK received the 19 July Notice which states that Lonpac “hereby
+give you 90 days written notice … not to extend the Bond.”
+
+27 In an email to SDK dated 18 July 2022 and conveying a copy of the 19 July
+Notice, Lonpac pointed out that the 28 April 2022 letter was sent to SDK’s
+last known address by AR Registered Mail. 28
+
+##### Foot Note 28
+
+×
+
+Mr Mak’s affidavit dated 21 March 2023 at para 14 and MKC-2 at Tab 4.
+
+The combined effect of this email and the 19 July Notice suggests that Lonpac
+took the position that its service of the 28 April 2022 was valid and that,
+therefore, the 90-day requirement under cl 3 had been satisfied for the Bond
+to expire on 1 August 2022. That this was Lonpac’s position is confirmed in an
+email dated 28 July 2022 from Lonpac to SDK, which stated that Lonpac had
+“duly served the Notice not to extend the Bond … on 28 April 2022 via AR
+Registered Mail to [SDK’s] last known registered address.” 29
+
+##### Foot Note 29
+
+×
+
+Mr Mak’s affidavit dated 21 March 2023 at para 17 and MKC-2 at Tab 6.
+
+In that email, Lonpac reiterated that the Bond would expire on 1 August 2022.
+30
+
+##### Foot Note 30
+
+×
+
+Mr Mak’s affidavit dated 21 March 2023 at para 17 and p 30.
+
+One day later, on 29 July 2022, SDK sent the Demand Letter to make a claim on
+the Bond.
+
+28 Based on the foregoing, it is evident that, at least from 6 July 2022,
+SDK’s concern was whether the Bond would be extended beyond the original
+expiry date of 1 August 2022. It is clear from the evidence of Mak that he
+contacted Lonpac on 6 July 2022 with the intention that the Bond would be
+automatically extended by an additional period of six months pursuant to cl 3
+of the Bond. Indeed, Mak pointed out to Lonpac that there was a requirement of
+a 90-day written notice, which presumably Mak felt had not been given. Even
+after Lonpac sent the 19 July Notice, which on its face was unequivocal about
+the expiry date of the Bond, Mak telephoned Lonpac’s representative on 26 July
+2022 for confirmation of Lonpac’s position that it would expire on 1 August
+2022. It was only after Lonpac sent the email of 28 July 2022 that Mak was
+resigned to Lonpac’s position, as can be seen in para 18 of his affidavit of
+21 March 2023 in which he stated as follows, after referring to that email:
+
+In view of the above, I believe that Lonpac has made its position on the
+expiry of the Bond clear and unequivocal to SDK. Since July 2022 (when I first
+initiated the telephone call with Ms. Ang on the expiry of the Bond …), and
+notwithstanding the 28 April Notice and/or the 19 Jul Notice, Lonpac’s
+position to SDK has always been that the Bond will expire on 1 August 2022.
+
+29 It should be noted that nowhere in any affidavit from SDK is there an
+assertion that the claim was made because of a default on the part of Chian
+Teck. Indeed, Mak had indirectly admitted that the impending expiry of the
+Bond was a reason for SDK’s Demand. This is found in para 20 of his affidavit
+of 14 November 2022 in which he stated that: 31
+
+##### Foot Note 31
+
+×
+
+Mr Mak’s affidavit dated 14 November 2022 at para 20.
+
+On 28 April 2022, Lonpac wrote to SDK to inform SDK that the Bond was not
+extended and was due to expire on 1 August 2022 … It was against this backdrop
+and the long running dispute between the parties that SDK went on to issue a
+demand for the full sum of the Bond …
+
+[emphasis added]
+
+Although Mak also refers to “the long running dispute between the parties”
+which he had set out in that affidavit, it is clear that the proximate cause
+of the claim on the Bond was the belief by SDK of its imminent expiry. If SDK
+had intended to base its claim on the existence of a default by Chian Teck,
+there would not have been any need for SDK to go through several rounds of
+telephone calls, emails and letters with Lonpac to argue that the Bond had
+been extended because of the lack of the 90-day written notice and to seek
+clarification on the expiry date on more than one occasion.
+
+30 I therefore find that SDK had made the claim on the Bond on the basis of cl
+3, ie, that Lonpac had given notice of non-renewal and SDK elected to make a
+claim on it.
+
+Whether Lonpac provided valid notice of non-extension
+
+31 In my judgment, Lonpac did not validly provide notice of its intention not
+to extend the Bond in accordance with cl 3 of the Bond.
+
+32 I find that Lonpac had posted the 28 April Notice. However, as the Bond
+does not contain a provision to deem postage or delivery at a prescribed
+address as good service, Lonpac and SDK cannot rely on this finding. I also
+find that SDK did not receive the 28 April Notice because it was addressed and
+sent to 152 Beach Road, #15-01, Gateway East, Singapore 189721, the address of
+SDK’s previous office and hence there is no finding of delivery of the 28
+April Notice. My earlier decision of 1L30G Pte Ltd v EQ Insurance Co Ltd
+[2017] 5 SLR 1106 (“EQ Insurance”) is instructive. In EQ Insurance, the
+performance bond contained a clause that is pari materia with cl 3 of the
+Bond. In that case, the sticking point was whether the expiry of the
+performance bond under that clause was triggered upon the posting of the
+letter or upon actual receipt. I held that the postal acceptance rule did not
+apply to the clause, and that the clause was only satisfied when the plaintiff
+in that case had actually received the notice of non-renewal (EQ Insurance at
+[35]). This was because the plain text of the clause, such as the emphasis on
+the word “notice”, did not indicate the parties’ intention that the postal
+rule should apply to the giving of notice (EQ Insurance at [25]). Further, the
+defendant’s notice of non-renewal would vest in the plaintiff the right to
+respond in order to protect its interests; the plaintiff thus needed actual
+notice to exercise those rights (EQ Insurance at [34]). In my judgment, this
+analysis also applies to cl 3 of the Bond. Accordingly, as SDK did not receive
+the 28 April Notice, it did not constitute valid notice of Lonpac’s intention
+not to extend the Bond.
+
+33 As regards the 19 July Notice, I find that it was defective because it did
+not fulfil the 90 days’ written notice requirement stipulated in cl 3 of the
+Bond. The 19 July Notice merely reaffirms the 28 April Notice by stating that
+the Bond was to expire on 1 August 2022. However, as of 19 July 2022, Lonpac
+would have only given 13 days’ notice of the expiry of the Bond. As such, by
+the operation of cl 3, the Bond was automatically extended for a successive
+period of six months (ie, until 1 February 2023). For completeness, I also
+find that the 19 July Notice did not validly serve as notice that the Bond
+would not be renewed upon the subsequent expiry date of 1 February 2023
+because of its explicit reference to the date “1 August 2022”. This clearly
+showed that the intent of the 19 July Notice was to notify SDK of the non-
+renewal of the Bond on 1 August 2022 and not any other date.
+
+34 Therefore, as of 3 May 2022, which was 90 days prior to 1 August 2022, no
+valid notice of non-extension had been served by Lonpac on SDK, pursuant to cl
+3 of the Bond. Consequently, the Bond was automatically extended by six months
+from 1 August 2022 to 1 February 2023. Further, as SDK has not since received
+any further notices of non-extension from Lonpac since 1 February 2023, the
+Bond continues to be valid until at least 1 August 2023.
+
+35 As I have found that SDK had made the claim on the Bond on the basis of cl
+3, but the condition under cl 3 that Lonpac validly serve a notice of non-
+renewal did not exist, that basis falls and the claim is not valid.
+
+Issue 2: The fraud exception
+
+36 Chian Teck also submits that SDK’s call was made fraudulently, as SDK
+attempted to pass off the call as compliant with cl 3 of the Bond, when it was
+in fact non-compliant. Therefore, the call on the Bond should be restrained on
+the ground of fraud. 32
+
+##### Foot Note 32
+
+×
+
+Chian Teck’s written submissions dated 27 April 2023 at para 24.
+
+37 The fraud exception is generally regarded as a difficult exception to
+invoke (Halsbury’s Laws of Singapore vol 12 (Buttersworths Asia, 2022 issue)
+at para 140.646). In order to avail itself of the fraud exception, the
+subcontractor must establish a strong prima facie case that the beneficiary
+called on the bond: (a) with the knowledge that its demand was invalid; (b)
+without belief in the validity of its demand; or (c) with indifference to
+whether the demand was valid or not (Bintai Kindenko Pte Ltd v Samsung C&T
+Corp and another [2019] 2 SLR 295 (“Bintai Kindenko”) at [74]; Arab Banking at
+[61]–[63]). The Court of Appeal in Arab Banking has also held that the
+standard proof for fraud requires the plaintiff to show that the only
+realistic inference to be drawn on the available evidence was that the
+beneficiary had no honest belief that it was entitled to receive payment or
+was recklessly indifferent as to whether it had a right to receive payment
+(Arab Banking at [82]).
+
+38 I find that Chian Teck has not met the high standard of proof necessary for
+showing fraud. SDK’s actions in calling on the Bond were not mala fide and
+were in fact reasonable in the circumstances. On 6 July 2022, when SDK first
+queried whether the Bond was to be automatically extended, Lonpac informed SDK
+that the Bond was due to expire on 1 August 2022. This position was reaffirmed
+by Lonpac in the 19 July Notice. Subsequently, when SDK sought confirmation
+again on the expiry date of the Bond, Lonpac once again reaffirmed on 28 July
+2022 that “[t]he expiry of the Bond remains as 1 Aug (sic) 2022” [emphasis in
+original]. Notwithstanding the actual state of affairs that Lonpac had not in
+fact provided valid notice of the non-renewal of the Bond 90 days prior to 1
+August 2022 (see [32]–[33] above), what was relevant was the impression given
+by Lonpac that the Bond would expire on 1 August 2022. In my view, it cannot
+be said that SDK had made the call recklessly with indifference to whether the
+demand was valid or not (Bintai Kindenko at [74]). On multiple occasions, SDK
+had sought confirmation on the expiry date of the Bond, and Lonpac
+unequivocally made its position clear to SDK – that the Bond would expire on 1
+August 2022. The present case is unlike the facts of Arab Banking, as
+suggested by Chian Teck, where the calls on the performance bonds were held to
+be made fraudulently in the reckless sense. In that case, one critical
+consideration was that the calls were made notwithstanding that the notices
+seeking to extend the validity term of the performance bonds were obviously
+and manifestly non-compliant with the requirements for making a valid call
+(Arab Banking at [87]). Among other matters, the notices did not state that
+the sub-contractor was in breach of its obligations under the main contract
+let alone particularise the respect in which the sub-contractor was said to be
+in breach of the said obligations (Arab Banking at [23]). In the present case,
+I found that it was totally reasonable for SDK to have acted as it did as that
+would have been the prudent thing to do and therefore there was no fraud.
+
+Issue 3: The Implied Term
+
+The law
+
+39 The law on the implication of terms is set out in the seminal case of
+Sembcorp Marine. From the outset, I emphasise that the threshold for implying
+a term is a high one, ie, that of necessity (Sembcorp Marine at [100]). The
+Court of Appeal in Sembcorp Marine held that the implication of terms is to be
+considered using a three-step process (at [101]):
+
+(a) First, the court must discern that a gap in the contract arose because
+parties did not contemplate the gap.
+
+(b) Second, the court considers whether it is necessary in the business or
+commercial sense to imply a term in order to give the contract efficacy. The
+business efficacy test is applied to identify gaps in the contract that need
+to be filled for it to be commercially workable; a term will not be implied
+merely to improve the contract (Sembcorp Marine at [84]).
+
+(c) Third, the court considers the specific term to be implied. A term is only
+to be implied if it passes the “officious bystander” test – ie, the
+contracting parties, having regard to the need for business efficacy, would
+have responded “Oh, of course!” had the proposed term been put to them at the
+time of the contract.
+
+The decision
+
+40 Chian Teck avers that the court should imply a term into the Subcontract to
+the effect that SDK may not call on the Bond so long as Chian Teck extends the
+validity of the Bond. According to Chian Teck, cl 8.1 and cl 8.3 of the
+Subcontract prescribe that the Bond is to be valid at least until the expiry
+of the Defect Liability Period or the Maintenance Period, so a proper
+construction of the Subcontract does not envisage a call being made on the
+Bond unless the security is threatened. 33
+
+##### Foot Note 33
+
+×
+
+Chian Teck’s written submissions dated 23 March 2023 at para 26.
+
+Clause 8.1 and cl 8.3 of the Subcontract are as follows:
+
+8.1. Within 14 days of the Sub-Contract Effective Date, the Sub-Contractor
+shall provide a cash deposit or in lieu thereof, a performance bond
+(“Performance Bond”) in the Main Contractor's favour in exact accordance with
+the prescribed form in Appendix H of the Conditions of Sub-Contract Documents
+for an amount equivalent to the percentage stipulated in Appendix A of the
+Conditions of Sub-Contract (or 5% of the Sub-Contract Sum if no
+percentage/amount has been stipulated in Appendix A). The Performance Bond
+shall be validity until at least the expiry of the Sub-Contract Defect
+Liability Period or Maintenance Period. The Performance Bond shall in the form
+of an unconditional demand bond obtained from a licensed bank having a place
+of business in Singapore.
+
+…
+
+8.3 If the Sub-Contractor has not fulfilled all its obligations under the Sub-
+Contract by expiry date specified in the Performance Bond, the Sub-Contractor
+shall, prior to the expiry date, arrange for the extension of the validity of
+such Performance Bond by such period or periods as is considered necessary by
+the Main Contractor in order to meet the requirements of this entire Clause 8.
+
+[emphasis added]
+
+According to Chian Teck, cl 8.3 of the Subcontract suggests that the Bond was
+intended to act as a form of security for SDK, and that the Bond be extended
+if Chian Teck has not fulfilled all its obligations under the Subcontract. If
+SDK were allowed to call on the Bond, that would render cl 8.3 of the
+Subcontract nugatory and redundant against cl 8.1 of the Subcontract. 34
+
+##### Foot Note 34
+
+×
+
+Chian Teck’s written submissions dated 23 March 2023 at paras 28–30.
+
+Chian Teck submits that cl 8.3 “implies an equal and opposite exchange – if
+the Bond is valid, SDK should not call on the Bond”. 35
+
+##### Foot Note 35
+
+×
+
+Chian Teck’s written submissions dated 23 March 2023 at para 30.
+
+Consequently, Chian Teck submits that the call on the Bond should be
+restrained on the ground of fraud because SDK knowingly breached the Implied
+Term.
+
+41 In my judgment, there is no room to imply the Implied Term into the
+Subcontract. I say this for several reasons.
+
+42 First, the Implied Term flies in the face of a contrary express term, cl
+8.4 of the Subcontract. Where an express term of the contract governs the
+legal relationship between the parties, there is no scope for the implication
+of a term: Golden Harvest Films Distribution (Pte) Ltd v Golden Village
+Multiplex Pte Ltd [2007] 1 SLR(R) 940 at [47]. I set out cl 8.4 in full:
+
+8.4 Pursuant to the intent set out in the Clause 8.1 above, that the
+Performance Bond is to stand in lieu of a cash deposit, the Sub-Contractor
+agrees that except in the case of fraud, the Sub-Contractor shall not for any
+reason whatsoever be entitled to enjoin or restrain:
+
+a) The Main Contractor from making any call or demand on the Performance Bond
+or receiving any cash proceeds under the Performance Bond; and/or
+
+b) The obligor under the Performance Bond from paying any cash proceeds under
+the Performance Bond;
+
+on any other ground including the ground of unconscionability.
+
+[emphasis added]
+
+43 The Subcontract prescribes the nature and form of the performance bond to
+be provided by Chian Teck in SDK’s favour if Chian Teck opts to provide a
+performance bond in lieu of a cash deposit. Clause 8.4 sets out the
+circumstances where SDK is entitled to restrain a call on the Bond. In
+particular, cl 8.4 provides that “[Chian Teck] agrees that except in the case
+of fraud, [Chian Teck] shall not for any reason whatsoever be entitled to …
+restrain [SDK] from making any call … on the [Bond] … on any other ground …”.
+Based on the express wording of cl 8.4, parties have clearly agreed that SDK
+is entitled to call on the Bond in all other circumstances except fraud. In
+contrast, the Implied Term would impose an additional restraint on when SDK is
+entitled to call on the Bond, ie, when the validity of the Bond is extended. I
+therefore agree with SDK’s submission that the Implied Term clearly goes
+against the express agreement of the parties in cl 8.4.
+
+44 Second, the inclusion of cl 8.4 in the Subcontract means that there is no
+“true” gap in the Subcontract, in the sense that parties have not contemplated
+the issue of when SDK should be restrained from calling on the Bond (Sembcorp
+Marine at [94]). Based on cl 8.4, parties have clearly contemplated the
+circumstances under which SDK would be entitled to call on the Bond.
+
+45 Third, Chian Teck’s arguments that cll 8.1 and 8.3 create a redundancy in
+the Subcontract that warrants the implication of the Implied Term are
+unconvincing. In this respect, I am in agreement with SDK’s submissions.
+Clause 8.1 and cl 8.3 serve different functions. Clause 8.1 provides for the
+minimum validity period of the Bond, namely that it be valid “until at least
+the expiry of the Sub-Contract Defects Liability Period or Maintenance
+Period”. Conversely, cl 8.3 provides an express requirement for the continual
+extension of the performance bond in the event that there is a delay in the
+execution of the Subcontract. It does not imply that SDK is not allowed to
+call on the Bond after its validity is extended. Otherwise, that would defeat
+the purpose of extending the Bond to provide security for the completion of
+Chian Teck’s obligations and prevent SDK from accessing the security that SDK
+had contracted for. As I have alluded to earlier, there is a distinction
+between a claim under cl 1 and cl 3 of the Bond. Under cl 1, there must be a
+default on the part of Chian Teck, or SDK has an honest belief that there is
+one (although the burden of proof falls on Chian Teck to prove otherwise).
+However under cl 3, there is no requirement for any default, and the right to
+call is triggered by Lonpac’s notice of intention of non-renewal. Looked at in
+this light, it is clear that SDK is entitled to make a call under cl 1 at
+anytime a default has occurred, whether or not the Bond is due to expire and
+this is not inconsistent with cl 8.3 of the Subcontract which merely operates
+to extend the validity of the Bond.
+
+46 Based on the foregoing, there is no basis to imply the Implied Term into
+the Subcontract.
+
+Conclusion
+
+47 In conclusion, given that SDK’s Demand was invalid, there will be an order
+for Lonpac to be restrained from making payment of the sum of $1,123,152.55 to
+SDK, pursuant to the claim on the Bond made on 29 July 2022. Correspondingly,
+SDK is also restrained from claiming or directing Lonpac to make said payment.
+The Bond remains valid, at least until 1 August 2023. For the avoidance of
+doubt, this order does not restrain SDK from making a fresh call under the
+terms of the Bond. I will hear parties on costs.
+
+Lee Seiu Kin  
+Judge of the High Court  
+---  
+  
+Choo Poh Hua Josephine, Samuel Navindran and Yii Li-Huei, Adelle
+(WongPartnership LLP) for the applicant;
+
+Soh Lip San, Benny Santoso and Thawdar Soe Moe @ The Sandi Tun (Rajah & Tann
+Singapore LLP) for the first respondent;
+
+Mahendra Prasad Rai (Cooma & Rai) for the second respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 04 Aug 2023 (12:40 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,1127 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 164
+
+Originating Claim No 416 of 2022 (Summons No 1161 of 2023 and Registrar’s
+Appeals Nos 70 and 71 of 2023)
+
+Between
+
+Horizon Capital Fund  
+---  
+  
+… Claimant
+
+And
+
+Ollech David  
+---  
+  
+… Defendant
+
+judgment
+
+[Civil Procedure — Stay of proceedings]
+
+[Civil Procedure — Summary judgment]
+
+[Civil Procedure — Admission of new evidence on appeal]
+
+[Conflict of laws — Choice of law — Whether presumption of similarity applies
+in interlocutory proceedings that finally dispose of an action]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Horizon Capital Fund
+
+  
+v
+
+  
+
+Ollech David
+
+[2023] SGHC 164
+
+General Division of the High Court — Originating Claim No 416 of 2022 (Summons
+No 1161 of 2023 and Registrar’s Appeals Nos 70 and 71 of 2023)  
+Goh Yihan JC  
+16 May 2023
+
+8 June 2023 Judgment reserved.
+
+Goh Yihan JC:
+
+1 There are two appeals before me. First, HC/RA 71/2023 (“RA 71”) pertains to
+Ollech David’s (“the defendant”) application for a stay of HC/OC 416/2022 (“OC
+416”) (“the Stay Application”). Second, HC/RA 70/2023 (“RA 70”) relates to
+Horizon Capital Fund’s (“the claimant”) application for summary judgment in
+the same case (“the Summary Judgment Application”). The learned Assistant
+Registrar Deborah Tang (“the AR”) dismissed the Stay Application and allowed
+the Summary Judgment Application. In other words, the defendant failed in both
+applications below. He now appeals against the AR’s decisions. In addition to
+both appeals, the defendant also applies, via HC/SUM 1161/2023 (“SUM 1161”),
+for permission to admit new evidence for the appeals.
+
+2 Having taken some time to consider the matter after hearing the parties, I
+dismiss the defendant’s application in SUM 1161. I also dismiss the
+defendant’s appeals in RA 71 and RA 70. I explain the reasons for my decision
+in this judgment.
+
+Background facts
+
+3 I turn first to the background facts. These facts are common to both RA 71
+and RA 70, as well as SUM 1161.
+
+The Facility Agreement and the Guarantee
+
+4 The dispute between the parties started because of a Specific Credit
+Facility which the claimant had granted to Lemarc Agromond Pte Ltd (“LAPL”)
+pursuant to an agreement on 24 May 2022 (“the Facility Agreement”). The
+Facility Agreement is governed by Swiss law. By the Facility Agreement, the
+claimant extended a loan of US$1,500,000 (“the Facility Sum”) to enable LAPL
+to repay a debt it owed to Yueyang Guansheng Investment Development Company
+Limited. In particular, the Facility Agreement provided for interest at the
+rate of 8.5% per annum on the Facility Sum. The Facility Sum plus interest
+must be repaid by 31 July 2022.
+
+5 The Facility Agreement also provided that the defendant, the defendant’s
+father (“Daniel”), and one Mr William Rooz are to execute personal guarantees
+securing LAPL’s indebtedness to the claimant under the Facility Agreement.
+Thus, the defendant executed a guarantee in favour of the claimant on 24 May
+2022 (“the Guarantee”). The terms of the Guarantee provided that the claimant
+is entitled to an indemnity from the defendant for costs and expenses incurred
+in various circumstances. Daniel also executed a guarantee in almost identical
+terms as the Guarantee (“Daniel’s Guarantee”).
+
+6 Pursuant to cl 1 of the Guarantee, the defendant guaranteed the payment of
+any moneys for which LAPL may be liable to the claimant. This is, however,
+limited to the aggregate of the principal sum of US$1,500,000 and such further
+sums comprising interest at 8.5% per annum on the principal amount (“the
+Guaranteed Sum”). The Guaranteed Sum was to be payable on the claimant’s
+written demand.
+
+The claimant commenced OC 416 against the defendant in Singapore
+
+7 In the end, LAPL failed to repay the Facility Sum and interest by 31 July
+2022. The claimant issued a written demand to the defendant for payment of the
+Guarantee Sum on 18 August 2022 (“the First Demand”). The defendant did not
+respond to the First Demand. The claimant instructed its solicitors to issue
+another demand for the Guaranteed Sum on 7 October 2022 (“the Second Demand”).
+The defendant also did not respond to the Second Demand.
+
+8 On 24 November 2022, the claimant commenced OC 416 against the defendant in
+Singapore on the basis that he failed, refused, or otherwise neglected to
+repay the debt that has arisen under the Guarantee.
+
+The 16 Dec Letter and the defendant’s assertion that his liability under the
+Guarantee is discharged
+
+9 The defendant filed his Defence in OC 416 on 19 December 2022. In it, he
+relied on a letter that LAPL had sent to the claimant three days before on 16
+December 2022 (“the 16 Dec Letter”) and alleged that his liability under the
+Guarantee had been discharged. The 16 Dec Letter was written by one Mr Chow
+Wai San (“Mr Chow”), who is a director of LAPL. In so far as it is relevant to
+the present appeals, Mr Chow claimed to have been informed of the following
+matters.
+
+(a) The claimant and LAPL had entered into a Memorandum of Understanding dated
+20 March 2020 (“the MOU”).
+
+(b) Pursuant to the MOU, the claimant had agreed to provide LAPL with
+financing for various commodities transactions and shall not unreasonably
+withhold such financing for a period of five years. In this connection, para
+1.1 of the MOU provides as follows: 1
+
+##### Foot Note 1
+
+×
+
+Joint Bundle of Documents for HC/RA 70/2023, HC/RA 71/2023 and HC/SUM
+1161/2023 (“JBOD”) Vol 1 at p 140.
+
+1.1. In consideration for [LAPL] entering into the PACA, [the claimant] has
+agreed to provide [LAPL] with certain financing for the purpose of financing
+imports related to various commodities transactions, each transaction with a
+tenor of up to a maximum period of One Hundred and Eighty (180) days and
+subject to [the claimant’s] Sub-funds investment strategy(ies). [The claimant]
+confirms that it shall not unreasonably withhold financing form [sic] [LAPL]
+throughout the term of this arrangement. This arrangement shall continue for a
+duration of 5 years and will be subject to reasonable satisfactory terms and
+conditions for both Parties, which the Parties shall use their best endeavours
+to reasonably negotiate.
+
+(c) LAPL’s former directors and management had requested financing from the
+claimant pursuant to the MOU on multiple occasions between September 2020 and
+July 2022.
+
+(d) The claimant breached para 1.1 of the MOU when it rejected these requests
+for financing without using its best endeavours to reasonably negotiate with
+LAPL’s former directors and management on the terms of such financing.
+
+(e) The claimant is liable under the MOU to pay LAPL damages of US$2.25m per
+year for each full year that the claimant fails to provide financing. In this
+connection, para 1.2 of the MOU provides as follows: 2
+
+##### Foot Note 2
+
+×
+
+JBOD Vol 1 at p 140.
+
+1.2. In the event that [the claimant] does not abide by its obligation
+contained in Paragraph 1.1 of this MoU, [the claimant] agrees to pay [LAPL]
+the sum of USD 2.25 Million Dollars per year for each full year that [the
+claimant] does not provide financing to [LAPL] pursuant to Paragraph 1.1.
+
+(f) As such, the claimant is liable to pay LAPL a sum of US$4.5m (“the Alleged
+Claim”).
+
+10 Significantly, the 16 Dec Letter then stated LAPL would be applying this
+alleged right to damages to set off and fully discharge its debt to the
+claimant under the Facility Agreement. On this basis, the defendant claimed
+that his liability under the Guarantee has been discharged. Apart from this
+defence, it is important that the defendant does not dispute that, if LAPL is
+liable to the claimant for the Facility Sum plus interest, then the defendant
+would be liable to the claimant as well for the Guaranteed Sum on the basis of
+the Guarantee.
+
+The Summary Judgment Application
+
+11 On 16 January 2023, the claimant filed the Summary Judgment Application. In
+opposition to the application, the defendant’s solicitors filed the
+defendant’s affidavit in draft under their covering affidavit. In his draft
+affidavit, the defendant relied on the same reason in the 16 Dec Letter to
+show cause against the Summary Judgment Application, ie, that the claimant
+allegedly breached paragraph 1.1 of the MOU by unreasonably withholding
+financing to LAPL, thereby entitling LAPL to set off the sum it owed under the
+Facility Agreement and discharging the Guaranteed Sum. To support his defence,
+the defendant alleged one instance where the claimant had rejected a request
+by LAPL on 18 November 2021 to finance a trade of Ukrainian corn.
+
+Daniel commenced OC 55 against the claimant in Singapore
+
+12 On 27 January 2023, Daniel commenced HC/OC 55/2023 (“OC 55”) against the
+claimant. Daniel had done this instead of joining the defendant in OC 416
+because Daniel enjoyed the benefit of an Indemnity Agreement dated 9 April
+2019 (“the Indemnity Agreement”). By the Indemnity Agreement, LAPL is obliged
+to bring proceedings against any third party asserting a claim against Daniel.
+Since LAPL refused to bring an action against the claimant pursuant to the
+Indemnity Agreement, Daniel commenced OC 55 against the claimant, and joined
+LAPL as a defendant. Daniel had joined LAPL as a defendant because it is a
+necessary party to show that the debt under the Facility Agreement had been
+discharged. The defendant joined OC 55 as a claimant because both him and
+Daniel gave similarly worded guarantees. As of the hearing of the present
+appeals, the claimant has yet to be served with OC 55.
+
+The Stay Application and the AR’s decision
+
+13 After OC 55 was commenced, the defendant filed the Stay Application on 15
+February 2023 seeking, among others, a stay of OC 416 until the determination
+of OC 55. The Summary Judgment Application and the Stay Application were both
+heard by the AR on 23 March 2023.
+
+14 At the hearing of the Stay Application, the defendant changed his position
+and requested that the court consolidate OC 416 and OC 55 instead if it was
+not inclined to grant the stay of OC 416. The defendant further took the
+position that if consolidation was granted as an alternative relief, then the
+hearing of the Summary Judgment Application should not proceed on that day.
+
+15 The AR dismissed the Stay Application and the alternative relief of
+consolidation sought by the defendant. The AR then granted the Summary
+Judgment Application in full after finding that the defendant’s defence was
+bare, lacking in particulars, and unsubstantiated by evidence. The AR further
+found that the 16 Dec Letter was insufficient to support the alleged defence
+and was contradictory both internally and against external documents.
+
+16 With the above background facts in mind, I turn to consider SUM 1161 before
+turning to RA 71 and RA 70.
+
+SUM 1161: Application to admit new evidence
+
+The parties’ positions
+
+17 I first consider SUM 1161, which is the defendant’s application to admit
+evidence in his third affidavit consisting of: (a) various WhatsApp messages
+(“the WhatsApp Messages”) between Daniel and one Mr Dimitri Rusca (“Mr
+Rusca”), who is the Chief Executive Officer of SCCF Structured Commodity &
+Corporate Finance SA (“SCCF”), which is in turn the claimant’s agent and
+Facility Administrator; and (b) his explanation of the meaning and effect of
+the WhatsApp Messages. While it appears that the new evidence is more relevant
+to RA 70 (ie, the appeal in the Summary Judgment Application) as it concerns
+the merits of the claimant’s claim, the application is made to admit the new
+evidence for both RA 71 and RA 70. I accordingly deal with SUM 1161 at this
+juncture.
+
+18 As to why the new evidence should be admitted, the defendant says the
+following. First, the WhatsApp Messages were not in his possession prior to
+the hearing before the AR. This is because Daniel could not locate the
+WhatsApp Messages prior to the hearing despite the defendant having asked for
+them. Second, the new evidence is directly relevant to the determination of RA
+70, as it squarely addresses the AR’s reasoning that the 16 Dec Letter is
+insufficient and contradictory, both internally and as against external
+documents. Third, the defendant has explained on affidavit that the WhatsApp
+Messages have been given in their native format and hence should be regarded
+as credible. Fourth, whether the WhatsApp Messages are material should be
+fully investigated at trial, as opposed at this stage of the proceedings.
+
+19 In response, the claimant first submits that the applicable test to
+determine the admission of new evidence should be applied stringently given
+that both the Stay Application and the Summary Judgment Application are more
+similar to proceedings having the full characteristics of a trial. Second, the
+new evidence could have been obtained with reasonable diligence. Third, the
+new evidence is not material because the defendant’s primary defence in RA 70
+is legally unsustainable and, in any case, the new evidence does not support
+this defence. Fourth, the new evidence is not credible or reliable.
+
+The applicable law
+
+20 The applicable law is not in dispute. Under O 18 r 8(6) of the Rules of
+Court 2021 (“ROC 2021”), it is provided that:
+
+Powers of appellate Court (O. 18, r. 8)
+
+8.—(6) Subject to any written law, the appellate Court has power to receive
+further evidence, either by oral examination in court, by affidavit, by
+deposition taken before an examiner, or in any other manner as the appellate
+Court may allow, but no such further evidence (other than evidence relating to
+matters occurring after the date of the decision appealed against) may be
+given except on special grounds.
+
+21 Although the term “special grounds” in O 18 r 8(6) is not defined either in
+the ROC 2021 or the Supreme Court of Judicature Act 1969 (2020 Rev Ed), the
+courts have consistently interpreted the term to refer to the threefold
+requirements set out in the seminal English Court of Appeal decision of Ladd v
+Marshall [1954] 1 WLR 1489 (“Ladd v Marshall”) (see, eg, the Court of Appeal
+decisions of Toh Eng Lan v Foong Fook Yue and another appeal [1998] 3 SLR(R)
+833 at [34], ARW v Comptroller of Income Tax and another and another appeal
+[2019] 1 SLR 499 at [99], and Anan Group (Singapore) Pte Ltd v VTB Bank
+(Public Joint Stock Co) [2019] 2 SLR 341 (“Anan Group”) at [21]). In this
+regard, the three requirements in Ladd v Marshall are:
+
+(a) first, it must be shown that the evidence could not have been obtained
+with reasonable diligence for use at the trial or hearing;
+
+(b) second, the evidence must be such that, if given, it would probably have
+an important influence on the result of the case, though it need not be
+decisive; and
+
+(c) third, the evidence must be such as is presumably to be believed, or in
+other words, it must be apparently credible, though it need not be
+incontrovertible.
+
+These three requirements have often been referred to, respectively, as the
+criteria of non-availability, relevance, and credibility.
+
+22 I also observe, following the Court of Appeal’s comments in Anan Group at
+[35], that the cases applying the Ladd v Marshall requirements should be
+analysed as lying on a spectrum. On one end of the spectrum are appeals
+against trials or hearings having the full characteristics of a trial, where
+the requirements would apply with full rigour. On the other end, there are
+appeals against decisions not touching upon the merits at all, such as
+interlocutory applications, where the requirements, taken together, would
+serve as a guideline which the court is entitled but not obliged to refer to
+in the exercise of its unfettered discretion.
+
+My decision: SUM 1161 is dismissed
+
+23 Leaving aside the issue of whether the defendant could have obtained the
+WhatsApp Messages earlier with reasonable diligence, I dismiss SUM 1161 on the
+primary ground that the new evidence sought to be introduced is not relevant.
+In other words, I do not think that the evidence would have an important
+influence on the result of the appeal.
+
+24 First, the WhatsApp Messages do not show that the claimant breached para
+1.1 of the MOU by unreasonably withholding financing from LAPL, which is the
+main plank of the defendant’s defence. Indeed, the WhatsApp Messages do not
+show clearly that there was any withholding of financing to begin with. They
+also do not evidence the defendant’s sole example of the alleged instance
+where the claimant had unreasonably rejected a request by LAPL on 18 November
+2021 to finance a trade of Ukrainian corn. This is because the contents of the
+WhatsApp Messages end as of March 2021 and therefore do not evidence anything
+about an event that allegedly occurred on 18 November 2021. Moreover, while
+the 16 Dec Letter, which the defendant relies on, alleges that financing
+requests were made between September 2020 and July 2022, there are also no
+messages that cover the alleged financing requests for 2022.
+
+25 More significantly, I find that the WhatsApp Messages do not contradict the
+claimant’s account of the process by which financing requests from LAPL were
+approved. The claimant’s case is that all financing requests from LAPL were
+processed in accordance with a formal process and not through WhatsApp. The
+WhatsApp Messages not only do not contradict this account but support it. For
+example, in the messages dated 24 March 2020, Mr Rusca had advised Daniel to
+“[j]ust send deals” to one “Sahil”, 3
+
+##### Foot Note 3
+
+×
+
+JBOD Vol 2 at p 56.
+
+who was the claimant’s employee who handled LAPL’s financing requests.
+Further, in Daniel’s message dated 1 April 2020 at 4.37pm, he also alluded to
+a process where the claimant would “review the documents”. 4
+
+##### Foot Note 4
+
+×
+
+JBOD Vol 2 at p 57.
+
+Ultimately, this shows that the financing requests are not processed by
+WhatsApp messages.
+
+26 I also dismiss SUM 1161 on the secondary ground that the WhatsApp Messages
+do not appear credible or reliable. For one, there are references to “emails”
+from Sahil (see, eg, message on 1 April 2020 at 4.36pm). 5
+
+##### Foot Note 5
+
+×
+
+JBOD Vol 2 at p 57.
+
+It seems odd that the defendant would choose to rely on the WhatsApp Messages
+if there appears to be underlying emails to substantiate the discussion.
+Moreover, the WhatsApp Messages are presented in the format of lines that
+appear to have been typed out on a page. They are not presented in the form of
+screenshots taken from Daniel’s mobile phone nor in a comprehensive and
+continuous chat log. It is therefore not possible to conclude that these are
+reproductions of WhatsApp messages that were actually exchanged between Daniel
+and Mr Rusca. Moreover, the WhatsApp Messages are isolated examples of
+conversations between Daniel and Mr Rusca. Many of the WhatsApp Messages are
+cut off at inexplicable points. Indeed, there is no real context to them, and
+they do not reveal what the parties discussed before and after the immediate
+conversation. While counsel for the defendant, Mr Jordan Tan (“Mr Tan”),
+explained during the hearing that the defendant had tried to be concise in the
+messages tendered so as not to inundate the court with too many messages, the
+fact remains that the messages that were selected must be thought to be
+relevant. If the defendant nonetheless chose to advance incomplete messages,
+then that must be the basis on which the court should assess their credibility
+and reliability.
+
+27 Having decided that SUM 1161 should be dismissed, I now consider RA 71 and
+RA 70 without reference to the new evidence sought to be introduced by SUM
+1161.
+
+RA 71: Appeal in the Stay Application
+
+28 For the reasons that follow, I dismiss the defendant’s appeal in RA 71
+against the decision of the AR in the Stay Application below.
+
+RA 71 should not be determined as an application for a consolidation but for a
+stay
+
+29 I begin with a preliminary point. At the hearing before me, the defendant
+advanced the primary case that OC 416 and OC 55 should instead be consolidated
+pursuant to O 9 r 11 of the ROC 2021. This departs from his prayer below for a
+stay of OC 416, which he now relegates to a secondary prayer. The defendant
+justifies this approach by reference to the AR’s comment below that her order
+in relation to the Stay Application was to be “without prejudice to any
+application for consolidation or for the actions to be tried together or one
+immediately after another pursuant to O 9 r 11”. 6
+
+##### Foot Note 6
+
+×
+
+Certified Transcript of 23 March 2023 at p 14.
+
+30 In so far as this is a correct characterisation of what the defendant is
+seeking to do in RA 71, I disagree. While the AR did say that her order is
+without prejudice to any subsequent application for consolidation, this appeal
+is nevertheless in respect of a stay application. The defendant cannot slip in
+a new consolidation application. This remains the case even if the grounds for
+consolidation and stay are largely similar and premised on the grounds in O 9
+r 11 of the ROC 2021. Indeed, it is clear that summons filed below for the
+Stay Application had prayed specifically for a stay and not a consolidation.
+Moreover, the affidavit that was filed below in support of the Stay
+Application was expressly stated to be “in support of … application for a stay
+of proceedings in OC 416 pending the outcome of [OC 55]”. 7
+
+##### Foot Note 7
+
+×
+
+Ollech David’s 2nd Affidavit dated 30 March 2023 at para 4.
+
+Accordingly, I will not decide this appeal on the basis that the defendant’s
+application is for OC 416 and OC 55 to be consolidated. If the defendant
+wishes for that outcome, he will need to take out a fresh application.
+
+The parties’ positions
+
+31 I now set out the parties’ respective positions in relation to the
+defendant’s request for a stay. First, the defendant submits that he comes
+within two of the grounds in O 9 r 11 because (a) there are common questions
+of law that arise in both OC 416 and OC 55; and/or (b) the reliefs claimed in
+both OC 416 and OC 55 arise out of the same factual situation. In relation to
+ground (a), the defendant submits that the common question of law in both OC
+416 and OC 55 is the issue of whether the defendant’s and Daniel’s liabilities
+under their respective guarantees have been set off by the claimant’s
+liability for damages flowing from the alleged breach of the MOU. In respect
+of ground (b), the defendant similarly contends that the reliefs sought in
+both actions arise out of the claimant’s alleged breach of the MOU and the
+supposed set-off that would result from it, which will be relied upon in both
+OC 416 and OC 55.
+
+32 Second, on the basis that at least one of the grounds of O 9 r 11 is
+satisfied, the defendant submits that an order for a stay in OC 416 will save
+costs, time, and effort. He raises four reasons in that regard. First, the
+defendant says that the issues in both actions are practically identical as
+they involve guarantees with “practically the same terms” entered into in
+respect of the Facility Agreement. Second, the defendant argues that the
+parties in both actions are also similar. In particular, the defendant points
+out that any decision in relation to the extinguishment of the debt between
+LAPL and the claimant, who are both parties to OC 55, would have a direct
+impact on the liabilities of Daniel and the defendant under their respective
+guarantees. Therefore, any decision in OC 55 would also resolve the dispute in
+OC 416. Third, given the substantial overlap, a stay of OC 416 would avoid the
+risk of prejudging the merits of OC 55, as well as the risk of inconsistent
+judgments. Fourth, as both OC 416 and OC 55 are at relatively early stages,
+there would be no substantial delay to one action or the other if a stay were
+granted.
+
+33 In response, the claimant first submits that, as regards whether one or
+more of the grounds of O 9 r 11 is satisfied, the overlap between OC 416 and
+OC 55 that the defendant alleges is contrived. This is because OC 416 has no
+connection to Daniel. Thus, the reliefs that Daniel is claiming under OC 55
+have nothing to do with the defendant and, consequently, OC 416.
+
+34 Further, the claimant submits that a stay of OC 416 will not save costs,
+time, and effort. In a related vein, the claimant says that a stay of OC 416
+is simply not necessary. This is because a stay is an alternative relief to be
+granted only if other more convenient measures are not desirable or
+appropriate given the circumstances. In this regard, the defendant has not
+shown why the other measures are not desirable or appropriate. Also, the
+claimant says that a stay of OC 416 will deny the claimant of its right to
+fairly advance its claim. There is no telling when OC 55 will be determined,
+and the claimant will be prejudiced by being shut out of its claim in OC 416
+in the meantime. Finally, the claimant argues that the alleged risk of
+inconsistent judgments is predicated on OC 416 and OC 55 continuing apace
+because there is always the risk that OC 55 may be struck out.
+
+The applicable law
+
+35 I turn now to the applicable law. The starting point is O 9 r 11 of the ROC
+2021, which states:
+
+Consolidation, etc., of causes or matters (O. 9, r. 11)
+
+11\. The Court may order 2 or more actions to be consolidated, or order them
+to be tried together or one immediately after another, or order any of them to
+be stayed pending the determination of the other action or actions, if the
+Court is of the opinion that –
+
+(a) there is some common question of law in the actions;
+
+(b) the reliefs claimed in the actions concern or arise out of the same
+factual situation; or
+
+(c) it is appropriate to do so.
+
+36 In this regard, the parties rely on the two-step framework laid down in the
+High Court decision of Yeo Su Lan (alias Yang Shulan) v Hong Thomas and others
+[2023] SGHC 44 (“Yeo Su Lan”) that sets out the applicable principles
+governing this provision. In Yeo Su Lan, which concerned O 4 r 1(1) of the
+Rules of Court (2014 Rev Ed) (“ROC 2014”), I observed (at [17]) that O 4 r
+1(1) is framed in substantively the same terms as O 9 r 11 of the ROC 2021. I
+then said that there was no reason why the well-established principles in
+relation to O 4 r 1(1) of the ROC 2014 should not, subject to the Ideals in O
+3 r 1 of the ROC 2021, apply equally to O 9 r 11 of the ROC 2021. I take the
+opportunity in the present case, which concerns O 9 r 11, to state
+definitively that the well-established principles in relation to O 4 r 1(1) of
+the ROC 2014 do indeed apply to O 9 r 11 of the ROC 2021.
+
+37 Accordingly, I hold that the applicable framework to assess an application
+for two or more actions to be consolidated, tried in a particular sequence, or
+stayed pursuant to O 9 r 11 should proceed as follows:
+
+(a) First, an applicant has to show that he or she satisfies one of the three
+alternative grounds provided in O 9 r 11. While the grounds in O 9 r 11(a) and
+O 9 r 11(b) are largely self-explanatory, it should be noted that the clause
+in O 9 r 11(c) is a catch-all meant to cater for any other relevant ground.
+However, in the spirit of a harmonious interpretation of O 9 r 11, the ground
+advanced under O 9 r 11(c) must obviously be of a similar grain to the grounds
+expressly provided for in O 9 r 11(a) and O 9 r 11(b).
+
+(b) Second, even if an applicant can come within one of the three grounds in O
+9 r 11, he or she would still need to convince the court that for the actions
+to be consolidated, tried in a particular sequence, or stayed would satisfy
+the purpose of O 9 r 11, which is principally “to save costs, time and effort
+and for reasons of convenience” (see the High Court decision of Lee Kuan Yew v
+Tang Liang Hong and another and other actions [1997] 2 SLR(R) 141 (“Lee Kuan
+Yew”) at [4]). In particular, even if there is a common issue in the two
+matters, it may still be inappropriate to exercise the powers conferred under
+O 9 r 11 where there are distinctive differences between the matters in issue,
+having regard to the different defences put forward (see the English Court of
+Appeal decision of Daws v Daily Sketch & Daily Graphic Ltd and another [1960]
+1 WLR 126 at 130).
+
+38 In addition, I am also of the view that the second stage of the framework
+should be subject to the Ideals in O 3 r 1 of the ROC 2021. As I had the
+occasion to observe in the High Court decision of Dai Yi Ting v Chuang Fu Yuan
+(Grabcycle (SG) Pte Ltd and another, third parties) [2022] SGHC 253 (at
+[13]–[14]), these Ideals are “akin to constitutional principles by which the
+parties and the Court are guided in conducting civil proceedings” and they are
+“to be read conjunctively” (see Civil Justice Commission Report (29 December
+2017) at p 6 (Chairperson: Justice Tay Yong Kwang) (“Civil Justice Commission
+Report”)). In sum, these Ideals relate to the promotion of expeditious (O 3 r
+1(2)(b)) and cost-effective proceedings (O 3 r 1(2)(c)) that are achieved by
+the efficient use of court resources (O 3 r 1(2)(d)). They are all ultimately
+tailored towards the achievement of fair and practical results (O 3 r
+1(2)(e)), which ensures fair access to justice (O 3 r 1(2)(a)). In the context
+of O 9 r 11, this emphasises the importance of the second stage of the
+applicable framework, which relates to the saving of costs, time, and effort.
+Additionally, as I will explain below, it is also important to consider
+whether an application under O 9 r 11 is (a) necessary, (b) an abuse of
+process to stifle the ordinary course of justice, and (c) prejudicial to the
+respondent’s ability to advance his or her case fairly and expeditiously.
+
+My decision: RA 71 is dismissed
+
+39 Having considered the parties’ submissions, I dismiss RA 71. While I find
+that there are some common questions of law in the actions and that the
+reliefs claimed in the actions concern or arise out of the same factual
+situation, I do not think that it is appropriate to exercise my discretion to
+order a stay of OC 416 pending the determination of OC 55.
+
+First stage of the applicable framework: the grounds in O 9 r 11 are met
+
+40 Beginning with the first step of the applicable framework, I find that O 9
+r 11(a) and O 9 r 11(b) of the ROC 2021 are on their face satisfied. As
+regards O 9 r 11(a), I am of the view that the two actions broadly turn on the
+questions of whether the respective guarantees in each action have been
+satisfied and discharged as a result of the claimant’s alleged breach of the
+MOU. The answers to these questions are in turn contingent on the common legal
+issues of whether there was a breach of the MOU to begin with and, if so,
+whether the damages that are allegedly due to LAPL as a result of this breach
+can be set off against the sums that were due by Daniel and the defendant
+under their respective guarantees. In respect of O 9 r 11(b), I find that the
+common factual situation pleaded in both the Defence in OC 416 and the
+Statement of Claim in OC 55 is that there was a MOU that LAPL and the claimant
+entered into, and that this MOU was allegedly breached because the claimant
+had unreasonably withheld financing to LAPL.
+
+41 Notwithstanding my conclusion at the first step of this framework, I would
+parenthetically observe that it is unsatisfactory for the defendant in this
+case to now rely on its own conduct in bringing duplicative proceedings to
+argue that the limbs in O 9 r 11(a) and O 9 r 11(b) are satisfied. In this
+regard, the rules of civil procedure should not be used to delay the
+determination of a dispute without good cause. This is especially if multiple
+applications and/or proceedings are brought with the sole purpose of stymying
+a good claim. In such cases, while there might be a technical adherence to the
+conditions listed in O 9 r 11, a court may nevertheless have the power to find
+that the conditions enlivening the court’s discretion under O 9 r 11 are not
+satisfied if doing so would facilitate an abuse of process or some other
+injustice. Indeed, this position finds support from O 3 r 2(1) of the ROC
+2021, which provides that “all requirements in these Rules are subject to the
+Court’s discretion to order otherwise in the interests of justice”. However, I
+should qualify that I do not go so far as to say that the defendant’s conduct
+in the present case warrants a finding that the present appeal in RA 71
+amounts to an abuse of process. Accordingly, for the purposes of this
+decision, I will proceed on the basis that the first step of the applicable
+framework under O 9 r 11 is satisfied.
+
+Second stage of the applicable framework: the defendant has not shown that a
+stay will save costs, time, and effort
+
+42 I go on to consider the second step of the applicable framework. At this
+stage of the inquiry, I do not think that an order for a stay of OC 416 will
+fulfil the purpose underlying O 9 r 11, which is principally “to save costs,
+time and effort and for reasons of convenience”.
+
+(1) There is no saving of costs, time, and effort
+
+43 Primarily, it should be recalled that OC 416 is at a more advanced stage
+than OC 55, which has not even been served on the claimant as of the hearing
+of these appeals. More specifically, OC 416 is already at the post-pleadings
+and summary judgment stage. Therefore, even if I were to agree with the
+defendant that there is an overlap in questions of law and/or facts in both OC
+416 and OC 55, then what would really result in a saving of costs, time, and
+effort is to allow OC 416 to be determined before OC 55. By that approach,
+time would be saved because OA 416, by virtue of already being at a more
+advanced stage, would be determined earlier than OC 55. And if there were
+truly overlaps in issues between the two actions, then the determination of
+those issues would resolve the same in OC 55, leading to further savings of
+costs, time, and effort. Yet, the defendant has not asked for OC 416 to be
+tried before OC 55.
+
+44 Instead, the defendant has asked for the very relief in O 9 r 11 that does
+not achieve a saving of costs, time, and effort. This is curious because a
+stay lengthens rather than shortens the resolution of the dispute between the
+parties. Indeed, as the claimant rightly points out, if the defendant’s claim
+in OC 55 is dismissed after trial, then OC 416 would continue from where the
+parties last left it, which is at the post-pleadings and summary judgment
+stage. The parties would then have to resume OC 416 and be put through two
+sets of proceedings one after the other. The fact is that the defendant cannot
+be certain that he will prevail in OC 55. If there is such an uncertainty in
+the outcome of OC 55 – as there surely must be – then it is clear that a stay
+of OC 416 is not the relief under O 9 r 11 that would lead to a saving of
+costs, time, and effort.
+
+45 Further, as I said above (at [38]), it is important, in the light of the
+Ideals, to consider at the second stage of the applicable framework whether an
+application under O 9 r 11 is (a) necessary, (b) an abuse of process to stifle
+the ordinary course of justice, and (c) prejudicial to the respondent’s
+ability to advance his or her case fairly and expeditiously. There is no need
+to consider all of these factors but only those that are relevant in coming to
+the appropriate decision.
+
+(2) A stay is not necessary
+
+46 Considering these factors, I am first of the view that a stay is not
+necessary in the present case. In this regard, the claimant has suggested that
+a court will only order a stay pursuant to O 9 r 11 if the only procedural
+measures are not desirable or appropriate. In support of this contention, the
+claimant cites Lee Kuan Yew at [5], which reads:
+
+Where it is not desirable or appropriate to order a consolidation, a court may
+order that the several actions be tried at the same time or one immediately
+after the other, or it may order any one of them to be stayed until the
+determination of the action chosen for determination ahead of the others.
+Where it is not possible to consolidate several actions and in effect try them
+as one, the next best alternative way ahead to try multiple actions is to
+order that they be tried at the same time. …
+
+47 I am unable to agree with the claimant that this passage shows that the
+courts will only grant a stay as a last resort. Instead, the passage suggests
+that the court in Lee Kuan Yew treated a stay to be at least at the same level
+of desirability as trying several actions in a particular sequence. Be that as
+it may, I agree with the claimant’s submission that the courts only order a
+stay in limited circumstances.
+
+(a) First, a stay is granted where there are numerous actions by multiple
+claimants in relation to the same or similar factual matrix. In such a
+situation, a court will grant a stay of other cases so that one case can serve
+as a “test case” to set down a ruling of law or finding of fact that will
+determine the outcome of the other cases (see, eg, the English High Court
+decision of Amos v Chadwick (1877) 4 Ch D 869 (“Amos”) at 872).
+
+(b) Second, a stay is granted where there are “special circumstances”, such as
+where there is the possibility of contradictory decisions arising between
+criminal disposal proceedings and civil proceedings (see, eg, the Malaysian
+High Court decision of HSBC Bank (M) Bhd v Jejak Maju Resources Sdn Bhd & Ors
+[2015] 10 MLJ 645 (“HSBC”) at [28]–[29]).
+
+48 As such, if an applicant is unable to come within such circumstances, then
+that would prima facie show that a stay is not necessary in the case at hand.
+In the present case, OC 416 is not a “test case” like in Amos, nor does it
+raise the possibility of contradictory decisions in concurrent criminal and
+civil proceedings as in HSBC. Thus, in addition to the reasons I have already
+explained, this is yet another reason why I consider that a stay is not
+necessary here.
+
+(3) A stay will prejudice the claimant’s ability to advance its case fairly
+and expeditiously
+
+49 Furthermore, I find that a stay of OC 416 will prejudice the claimant’s
+ability to advance its case fairly and expeditiously. Thus, in the English
+High Court decision of Secretary of State for Health v Servier Laboratories
+Ltd [2014] EWHC 2720 (Ch) (“Servier”), the defendant was sued by the various
+national health authorities in three separate actions in the English High
+Court. Given the nature of the claimants, one action was termed the “English
+proceedings”, another action the “Scottish/NI proceedings”, and the last
+action the “Welsh proceedings”. The defendant applied to stay the Scottish/NI
+proceedings on the ground that the defendant should not simultaneously have to
+face multiple sets of proceedings based on the same underlying facts, with
+three different legal teams each incurring their own costs and imposing costs
+on the defendant and its legal representatives (at [17]). This is because, as
+the learned judge below observed, there was an almost complete overlap between
+the Scottish/NI proceedings and the English proceedings (at [12]).
+
+50 The English High Court dismissed the defendant’s application for a stay of
+the Scottish/NI proceedings. Instead, the court took the view at [30] that the
+right way to deal with the problem of duplicative effort was by active case
+management of the three actions as they proceeded in parallel. It observed
+that a blanket stay would, in effect, turn the English proceedings into a test
+case. In this regard, the court opined that it would be wrong to compel the
+other claimants to “wait in the wings, probably for several years, until the
+English proceedings have been finally resolved”.
+
+51 In the present case, I agree with the claimant that, following Servier, the
+practical effect of a stay of OC 461 is that the claimant will be precluded
+from advancing its claim until OC 51 is resolved. In my view, this unfairly
+prejudices the claimant because it is unclear when OC 51 will be disposed of.
+As such, this, in combination with the other reasons, shows that the defendant
+has not shown that a stay will advance the purposes behind O 9 r 11.
+
+52 For all of these reasons, I dismiss the defendant’s appeal in RA 71.
+
+RA 70: Appeal in the Summary Judgment Application
+
+53 Having dealt with RA 71, I turn now to RA 70, which is the defendant’s
+appeal against the AR’s decision to grant summary judgment to the claimant.
+
+The parties’ positions
+
+54 With the above background facts in mind, the claimant’s position is that it
+has demonstrated a prima facie case in relation to its claim on the Guarantee.
+In this regard, the claimant points out that cll 1, 9, 15, and 16 of the
+Guarantee provide that the claimant is entitled to payment from the defendant
+of the Guaranteed Sum. Having established a prima facie case, the claimant
+then says that the defendant’s sole defence, which is premised on the breach
+of the MOU, is without merit as it is completely bare, lacking in particulars,
+and unsubstantiated by evidence. Relatedly, and in connection with the alleged
+set-off that the defendant says occurred as a result of the breach of the MOU,
+the claimant responds in its affidavit dated 2 March 2022 that the Facility
+Agreement excludes the right of set-off. 8
+
+##### Foot Note 8
+
+×
+
+Philippe Berta’s Affidavit dated 2 March 2023 at paras 16–17.
+
+55 As for the claimant’s claim for other legal costs and expenses, this claim
+is premised on the terms of the Guarantee that entitle the claimant to an
+indemnity from the defendant for costs and expenses incurred in various
+circumstances (see [5] above). In this regard, the claimant says that it has
+established a prima facie case for its claim of S$13,000 on the basis of cll
+9(iii) and 16 of the Guarantee. Pursuant to these clauses, the defendant
+agreed to indemnify the claimant against costs and expenses which the claimant
+may incur as a result of loans or credit facilities granted to LAPL. These
+costs and expenses include (a) S$10,000 incurred in relation to HC/CWU
+189/2022 (“CWU 189”), and (b) S$3,000 from legal costs incurred before the
+commencement of OC 416.
+
+56 Finally, as for the claimant’s claim for the costs of the Summary Judgment
+Application and the action in OC 416, the claimant says that it is entitled to
+costs on an indemnity basis pursuant to cll 1, 9(iii), 15, and/or 16 of the
+Guarantee. The claimant says that there can be no doubt that under those
+clauses, the defendant is obliged to indemnify the claimant of all legal costs
+incurred in enforcing the Guarantee. The claimant submits that if the
+defendant’s defence founded on the MOU fails, then it must follow that the
+defendant has no defence to this particular claim for indemnity costs of
+HC/SUM 110/2023 and OC 416. For completeness, the claimant also argues that it
+is trite that such indemnity provisions in loan documentation and guarantee
+documents are enforceable and have been enforced by the courts.
+
+57 The defendant’s defence is that the claimant’s claim under the Guarantee is
+discharged if the underlying liability under the Facility Agreement has been
+set off because the claimant has allegedly breached the MOU. As such, the
+defendant says that the dispute between the claimant and LAPL in respect of
+the MOU raises at least the following triable issues in OC 416, namely:
+
+(a) whether the Guarantee imposes secondary liability on the defendant, such
+that the claimant cannot claim against the defendant under the Guarantee
+without first establishing LAPL’s liability under the Facility Agreement;
+
+(b) whether the claimant breached the MOU;
+
+(c) if the claimant breached the MOU, whether LAPL has a valid right of set-
+off that has been validly excluded by the Facility Agreement pursuant to Swiss
+law;
+
+(d) if there was such a right of set-off, whether LAPL validly exercised it in
+the 16 Dec Letter; and
+
+(e) if so, whether the defendant may avail himself of that right under the
+Guarantee.
+
+Accordingly, the defendant submits that the court is not in a position to
+grant summary judgment.
+
+The applicable law
+
+58 I first set out the applicable principles governing a summary judgment
+application under O 9 r 17 of the ROC 2021. Preliminarily, while the specific
+wording of O 9 r 17 of the ROC 2021 is not the same as that found in O 14 of
+the ROC 2014, I do not think that the applicable principles under the ROC 2021
+are now different. Indeed, there is nothing in the Civil Justice Commission
+Report or the Report of the Civil Justice Review Committee (2018)
+(Chairperson: Indranee Rajah SC) that suggests otherwise. I am therefore of
+the view that the earlier decisions that have guided the application of O 14
+of the ROC 2014 continue to be applicable under the ROC 2021.
+
+59 In this regard, it is trite law that the purpose of the summary judgment
+procedure is to enable a claimant to obtain a quick judgment where there is
+plainly no defence to the claim without trial (see the High Court decision of
+Ling Yew Kong v Teo Vin Li Richard [2014] 2 SLR 123 at [30], citing Singapore
+Civil Procedure 2013 (G P Selvam gen ed) (Sweet & Maxwell, 2013)).
+Accordingly, if the defendant’s only suggested defence is a point of law and
+the court can see at once that the point is misconceived (or, if arguable, can
+be shown shortly to be plainly unsustainable), then the claimant is entitled
+to summary judgment (see Singapore Civil Procedure 2021 vol 1 (Cavinder Bull
+gen ed) (Sweet & Maxwell, 2021) at para 14/1/2).
+
+60 Accordingly, to obtain summary judgment, a claimant must first show that he
+has a prima facie case for his claims. If he fails to do that, his application
+ought to be dismissed. However, once the claimant shows that he has a prima
+facie case, the tactical burden then shifts to the defendant who, in order to
+obtain permission to defend, must establish that there is a fair or reasonable
+probability that he has a real or bona fide defence (see the High Court
+decision of M2B World Asia Pacific Pte Ltd v Matsumura Akihiko [2015] 1 SLR
+325 (“M2B World”) at [17], citing Ritzland Investment Pte Ltd v Grace
+Management & Consultancy Services Pte Ltd [2014] 2 SLR 1342 at [43]–[47]). The
+tactical burden which shifts to the defendant is the burden to provide further
+evidence to rebut an inference that would otherwise be drawn from the evidence
+provided by the claimant. The court will not grant permission to defend if the
+defendant only provides a mere assertion, contained in an affidavit, of a
+given situation which forms the basis of his defence (see M2B World at [19],
+citing Prosperous Credit Pte Ltd v Gen Hwa Franchise International Pte Ltd
+[1998] 1 SLR(R) 53 at [14]). If the defendant cannot satisfy this tactical
+burden, the claimant would be entitled to summary judgment.
+
+My decision: RA 70 is dismissed
+
+The claimant has shown a prima facie case
+
+61 Applying this framework, I dismiss RA 70 for the following reasons. First,
+I am satisfied that the claimant has shown a prima facie case for its claims
+on the basis of the terms in the Guarantee. In this regard, it will be
+recalled that the claimant relies on cll 1, 9, 15, and 16 of the Guarantee.
+The defendant also does not dispute that, if LAPL is liable to the claimant,
+the defendant would be liable to the claimant as well on the basis of these
+terms. Having found that the claimant has established a prima facie case, the
+tactical burden therefore shifts to the defendant to show that there is a bona
+fide defence.
+
+The defendant has not raised a bona fide defence in relation to the claimant’s
+alleged breaches of the MOU
+
+62 I turn to consider the sole defence which the defendant raises, which is
+premised on the MOU outlined in the 16 Dec Letter. In sum, the defence is that
+the defendant’s liability under the Guarantee has been discharged because LAPL
+can apply its alleged right to damages under the MOU to fully discharge its
+debt to the claimant under the Facility Agreement. However, in my judgment,
+that issue is entirely contingent on the defendant proving that the claimant
+had breached the MOU in the first place. If the defendant is unable to raise a
+bona fide defence that the claimant breached the MOU to begin with, then no
+issue of set-off can arise.
+
+63 In this regard, I do not think that the defendant has raised any bona fide
+defence in relation to the claimant’s alleged breaches of the MOU. This is
+because this defence is bare and not supported by evidence. Indeed, absent the
+evidence sought to be adduced in SUM 1161, the only evidence of the breach of
+the MOU is the 16 Dec Letter that was written by Mr Chow. However, Mr Chow has
+not filed an affidavit and the source of his information is unclear. Moreover,
+it is curious that breaches of the MOU were only raised a few days before the
+Defence in OC 416 was due to be filed. Indeed, up to this point, LAPL had not
+claimed that it had repaid the sums due under the Facility Agreement.
+
+64 But above all, the 16 Dec Letter does not provide any objective evidence or
+particulars of the alleged breaches. It is clear that the alleged breaches of
+the MOU, specifically of para 1.1, cannot be sustained by a mere assertion
+from Mr Chow. Indeed, a plain reading of para 1.1 shows that the defendant
+must prove, among others, that the claimant had “unreasonably” withheld
+financing from LAPL. However, all that the 16 Dec Letter says in this regard
+is the following: 9
+
+##### Foot Note 9
+
+×
+
+JBOD Vol 1 at p 144.
+
+I have been informed that pursuant to paragraph 1.1 of the MOU, the former
+directors and management of [LAPL] had reached out to [the claimant] on
+several occasions between September 2020 and July 2022 to request that [the
+claimant] finances potential deals which the former directors and management
+of [LAPL] had identified. However, and in breach of paragraph 1.1 of the MOU,
+[the claimant] failed to use its best endeavours to reasonably negotiate with
+the former directors and management of [LAPL] on the terms of the financing
+and unreasonably withheld financing from [LAPL].
+
+65 This paragraph speaks for itself. Apart from Mr Chow’s bare assertion that
+the claimant had “unreasonably withheld financing” from LAPL, the paragraph,
+and indeed the rest of the 16 Dec Letter, provides no particulars, let alone
+evidence, of the alleged breaches. It is inconceivable that the defendant is
+unable to provide some kind of documentary evidence that one would expect for
+any request for financing, such as emails and the exchange of underlying sale
+contracts. Yet, the defendant has, until the belated application made in SUM
+1161 (which I have dismissed), adduced no evidence whatsoever to support the
+allegations that the claimant had committed multiple breaches of the MOU. This
+is plainly not a bona fide defence.
+
+66 Finally, even taking into account the new evidence sought to be admitted in
+SUM 1161, I would still not have found that there is a bona fide defence. The
+new evidence does not support the defendant’s account of the claimant’s
+alleged breaches at all. For instance, as I alluded to (see [24] above), the
+timespan of the WhatsApp Messages that the defendant sought to admit does not
+corroborate his allegation that the claimant had rejected LAPL’s financing
+requests on “multiple occasions” between September 2020 and July 2022. In
+fact, the WhatsApp messages do not even support the only example that the
+defendant provided about the claimant’s supposed unreasonable refusal to
+provide financing in relation to “a trade [of] Ukrainian corn”. 10
+
+##### Foot Note 10
+
+×
+
+Ollech David’s 1st Affidavit dated 30 March 2023 at para 15(a).
+
+Taken holistically, even if I had allowed SUM 1161, I am not convinced that it
+would have made a difference to my conclusion.
+
+67 Accordingly, for this reason alone, I find that the defendant has not
+raised any bona fide defence. Since the other issues that the defendant raises
+rest on the claimant having breached the MOU, this ground alone would be
+sufficient for me to dismiss RA 70, and I do so on this basis.
+
+It is immaterial that there may be a triable issue in relation to Swiss law
+
+68 For completeness, I conclude with some brief observations on an issue which
+was heavily contested at the hearing, which was whether it is appropriate to
+grant summary judgment on the basis that LAPL’s right of set-off was excluded
+by the Facility Agreement when the content of Swiss law, which is stated to
+govern the Facility Agreement, has not been pleaded or proven. Having
+considered the submissions of both parties, I am of the view that if I had
+found that there is a bona fide defence in relation to the claimant’s alleged
+breaches of the MOU, and had the issue of Swiss law been pleaded (which was
+not), there would be a triable issue as to what the content of Swiss law is.
+This is for the following reasons.
+
+69 First, even though the defendant has not proven the content of Swiss law, I
+do not think that the claimant can rely on the presumption of similarity to
+contend that the court should simply apply Singapore law in interpreting the
+Facility Agreement. This is because the cases that have invoked this
+presumption were largely not decided in the context of an application for
+summary judgment or striking out. These cases, such as the Court of Appeal
+decision of EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte
+Ltd and another [2014] 1 SLR 860 and the High Court decision of IM Skaugen SE
+and another v MAN Diesel & Turbo SE and another [2018] SGHC 123, were decided
+on the merits at trial or on appeal.
+
+70 Second, the English Court of Appeal decision of National Shipping Corp v
+Arab [1971] 2 Lloyd’s Rep 363 (“National Shipping”) stands as a helpful
+authority that cautions against summary judgment being granted on the
+presumption that foreign law is the same as the lex fori. In that case, the
+claimants and the defendant signed an agreement. The defendant signed under
+the name of certain agents. At first instance, the claimants obtained summary
+judgment against the defendant personally under the agreement. On appeal to
+the English Court of Appeal, the defendant argued that under Saudi Arabian
+law, the agents were a type of partnership and that he could not be sued
+personally until the agents had been sued and made default. The claimants
+contended that Pakistani law should apply, and that, in the absence of
+evidence to the contrary, the presumption was that foreign law (be it Saudi
+Arabian or Pakistani law) was the same as English law. The English Court of
+Appeal rejected the claimants’ contention and granted the defendant
+unconditional permission to defend. Most pertinently, Buckley LJ explained
+that while the presumption of similarity no doubt existed under English law,
+“it does not seem … satisfactory that the [claimants] should obtain summary
+judgment in a case in which foreign law is clearly involved upon the basis of
+that presumption” and that, therefore, “the case is shown to be not an
+appropriate one for summary judgment” (at 366). Likewise, in a learned article
+and in a similar context, Prof Tan Yock Lin also notes that the “[a]pplication
+of the presumption would contradict the interlocutory nature of the strike-out
+application” (see Tan Yock Lin, “Rationalising and Simplifying the Presumption
+of Similarity of Laws” (2016) 28 SAcLJ 172 at para 31).
+
+71 However, I would not go so far as to say that National Shipping stands for
+the absolute proposition that the presumption of similarity can never apply in
+interlocutory applications which seek to finally dispose of an action, or at
+least part of it, on its merits. As Chan Sek Keong CJ observed in the High
+Court decision of D’Oz International Pte Ltd v PSB Corp Pte Ltd and another
+appeal [2010] 3 SLR 267, whether the presumption applies depends on the
+circumstances of the case. The question that is ordinarily asked when this
+presumption is invoked is whether, in the circumstances of the case, it would
+be unjust to apply it against a party so as to make him liable on a claim
+subject to foreign law when the foreign law that applies has not been proved
+(at [25]).
+
+72 In my view, the outcome in National Shipping should be understood in light
+of these considerations. In interlocutory matters, where there is a dispute as
+to the content of foreign law, making a summary determination based on the
+presumption of similarity might occasion injustice if, for instance, it is
+improbable that the foreign law in question is similar to the lex fori. This
+can be the case if the lex fori belongs to a different legal tradition from
+the foreign law in question, or if the rule of the lex fori is clearly unique.
+In such circumstances, to shut out a defendant’s defence simply because he has
+not adduced sufficient evidence of the content of foreign law at the
+interlocutory stage would be premature. Indeed, one should bear in mind that
+the operation of the presumption of similarity can have a “startling effect”
+(see the observation of the Court of Appeal in Pacific Recreation Pte Ltd v S
+Y Technology Inc and another appeal [2008] 2 SLR(R) 491 at [33], albeit in a
+different context). Accordingly, these considerations might have explained the
+view taken by the court in National Shipping that it was inappropriate to
+grant summary judgment on the artificial assumption that English law was
+similar to the law of Saudi Arabia or the law of Pakistan.
+
+73 The same considerations are applicable in the present case. As the legal
+traditions of Switzerland and Singapore are different, it would be artificial
+and premature, at the interlocutory stage, to finally dispose of this action
+on the assumption that Swiss law is similar to Singapore law in matters of
+contractual interpretation. Therefore, had this issue arisen, I would have
+been inclined to find that the defendant raised a triable issue as to the
+content of Swiss law and, specifically, whether it provides that LAPL’s right
+of set-off was excluded by the Facility Agreement.
+
+74 In any event, I reiterate that my decision in RA 70 does not turn on my
+view of whether there is a triable issue in relation to the content of Swiss
+law. This is because, as the defendant says in its own submissions on appeal,
+this issue is entirely predicated on whether the claimant breached the MOU. 11
+
+##### Foot Note 11
+
+×
+
+Defendant’s Written Submissions dated 11 May 2023 at para 35.
+
+While the defendant need not show that the claimant had actually breached the
+MOU at this stage, he does need to show a bona fide defence to avoid summary
+judgment. As I have stated (at [67] above), I do not find that he has done so.
+Also, the defendant has clearly not pleaded that there was a triable issue in
+relation to the content of Swiss law in its defence.
+
+Conclusion
+
+75 In conclusion, for all the reasons I have given above, I dismiss the
+defendant’s application in SUM 1161, as well as his appeals in both RA 71 and
+RA 70.
+
+76 Unless the parties are able to agree on costs, they are to file brief
+submissions on the appropriate costs order limited to seven pages each, within
+14 days of this decision.
+
+77 In closing, I would like to thank Mr Nicholas Poon, who appeared for the
+claimant, and Mr Tan, as well as their respective teams, including the
+instructing solicitor for the defendant, Mr Keith Han, for all their helpful
+submissions, which were clearly and reasonably advanced both in writing and
+orally before me.
+
+Goh Yihan  
+Judicial Commissioner|  
+---|---  
+  
+Poon Guokun Nicholas and Lee Tat Weng Daniel (Breakpoint LLC) for the
+claimant;  
+Tan Zhengxian Jordan, Damien Chng Cheng Yee (Audent Chambers LLC)
+(instructed), Shankar Ray Shi-Wan, Han Guangyuan Keith and Ammani Mathivanan
+(Oon & Bazul LLP) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 08 Jun 2023 (12:04 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,3021 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 41
+
+Suit No 734 of 2018
+
+Between
+
+(1)| Alternative Advisors Investments Pte Ltd  
+---|---  
+(2)| Supreme Star Investments Ltd  
+  
+… Plaintiffs
+
+And
+
+(1)| Asidokona Mining Resources Pte Ltd  
+---|---  
+(2)| Soh Sai Kiang  
+  
+… Defendants
+
+judgment
+
+[Contract — Assignment]
+
+[Contract — Illegality and public policy — Statutory illegality]
+
+[Credit And Security — Guarantees and indemnities]
+
+[Damages — Liquidated damages or penalty]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Alternative Advisors Investments Pte Ltd and another
+
+  
+v
+
+  
+
+Asidokona Mining Resources Pte Ltd and another
+
+[2022] SGHC 41
+
+General Division of the High Court — Suit No 734 of 2018  
+Hoo Sheau Peng J  
+1–3, 7 September, 26 October 2021, 14 February 2022
+
+25 February 2022 Judgment reserved.
+
+Hoo Sheau Peng J:
+
+Introduction
+
+1 In this suit, the first plaintiff, Alternative Advisors Investments Pte Ltd
+(“AAI”), claims the outstanding sum and interest due and owing from the
+defendants pursuant to a S$2m loan granted to the first defendant, Asidokona
+Mining Resources Pte Ltd (“Asidokona”), and personally guaranteed by the
+second defendant, Soh Sai Kiang (“Mr Soh”). The loan was extended by the
+second plaintiff, Supreme Star Investments Ltd (“SSI”), in 2016. In 2018, SSI
+assigned the loan to AAI.
+
+2 The defendants do not dispute receipt of the loan amount and making certain
+repayments. They resist the claim on numerous grounds. That said, a core
+aspect of the pleaded defence – that the loan is a personal loan to Mr Soh,
+and not a corporate loan to Asidokona – was not pursued at the trial. With
+this late change in position, many factual disputes fall away. Specifically,
+allegations attacking AAI’s witnesses for forcing Mr Soh into accepting a
+last-minute increase to the interest rate, and of forgery and fabrication of
+the corporate loan and personal guarantee documents (after Mr Soh allegedly
+signed on blank pages merely to effect the personal loan to him), are
+abandoned. None of AAI’s witnesses were cross-examined on such matters.
+Instead, at the close of AAI’s case, the defendants submitted that there is no
+case to answer and elected not to adduce any evidence.
+
+3 Having considered the parties’ submissions and the evidence before me, I
+grant judgment in favour of the plaintiff. These are my reasons.
+
+Background
+
+The parties and other personalities
+
+4 AAI is a company registered in Singapore. As an independent boutique
+advisory firm, it is in the business of providing professional services to
+companies and investors. Mr Wong Joo Wan (“Mr Wong”) is the managing director
+of AAI. 1
+
+##### Foot Note 1
+
+×
+
+Wong Joo Wan’s Affidavit of Evidence-in-Chief (“AEIC”) dated 5 March 2020
+(“WJWA”) at para 3.
+
+Mr Wong is a chartered accountant, and an insolvency practitioner by
+profession. 2
+
+##### Foot Note 2
+
+×
+
+Transcript dated 1 September 2021 at p 16, lines 5–6.
+
+5 SSI is an investment holding company incorporated in the British Virgin
+Islands (“BVI”). 3
+
+##### Foot Note 3
+
+×
+
+WJWA at para 4.
+
+Ms Lou Swee Lan (“Ms Lou”), also known as Stephanie, is the sole shareholder
+and director of SSI. 4
+
+##### Foot Note 4
+
+×
+
+Lou Swee Lan’s AEIC dated 26 July 2021 (“LSLA”) at para 1.
+
+On 1 November 2019, SSI was struck off the BVI Register of Companies. 5
+
+##### Foot Note 5
+
+×
+
+Wong Joo Wan’s Affidavit in HC/SUM 1629/2020 dated 6 April 2020 at para 9.
+
+After SSI was restored to the BVI Register of Companies on 23 July 2021, 6
+
+##### Foot Note 6
+
+×
+
+Agreed Bundle of Documents (“AB”) (Vol 4) at p 174.
+
+it did not take any active steps to participate in the action.
+
+6 Ms Lou and her husband, Mr Wong Koon Lup, also known as William (“Mr William
+Wong”), were clients of Mr Ong Su Aun Jeffrey (“Mr Ong”), the former managing
+partner of JLC Advisors LLP (“JLC Advisors”). 7
+
+##### Foot Note 7
+
+×
+
+Ong Su Aun Jeffrey’s AEIC dated 7 July 2021 (“JOA”) at para 10.
+
+SSI was also a client of Mr Ong. According to AAI, in relation to the loan
+transaction, at all material times, Mr Ong was authorised to act as SSI’s
+solicitor, while Mr Wong was authorised to act as SSI’s agent. 8
+
+##### Foot Note 8
+
+×
+
+WJWA at paras 2, 9 and 10; Wong Joo Wan’s Supplementary Affidavit dated 26
+July 2021 (“WJWSA”) at para 6.
+
+The defendants, however, dispute the authority of Mr Ong and Mr Wong to
+represent SSI.
+
+7 Turning to the defendants, Asidokona is a company registered in Singapore
+and is in the business of mining activities. Mr Soh, also known as Philip, is
+the sole director and shareholder of Asidokona. He is an experienced banker
+and businessman. 9
+
+##### Foot Note 9
+
+×
+
+WJWA at paras 5–7.
+
+Mr Wong and Mr Soh are old acquaintances.
+
+Circumstances surrounding the loan
+
+8 According to Mr Wong, sometime in or around June 2016, Mr Soh contacted him
+to ask if he could assist to arrange a loan of S$2m to Asidokona for the
+purpose of funding its working capital. Mr Wong informed Mr Soh that he would
+reach out to Mr Ong as he was aware that Mr Ong had clients who may be willing
+to extend such a loan to Asidokona. 10
+
+##### Foot Note 10
+
+×
+
+WJWA at paras 11–12.
+
+9 When Mr Wong contacted Mr Ong, he was told that Mr Ong’s client, whom Mr Ong
+described as the “Hong Kong side”, was prepared to contribute only 50% of the
+loan amount, ie, S$1m. Further, Mr Ong’s client would like to “take charge” of
+the loan. As for the terms of the loan, it would be for three months with 5%
+interest per month coupled with security for the loan. 11
+
+##### Foot Note 11
+
+×
+
+WJWA at para 13.
+
+10 Mr Wong decided that he would personally contribute towards the remaining
+50% of the loan, ie, S$1m. On or around 30 June 2016, Mr Wong updated Mr Soh
+of the outcome of his discussion with Mr Ong. On or around 4 July 2016, Mr Soh
+confirmed that he would proceed with the loan. 12
+
+##### Foot Note 12
+
+×
+
+WJWA at para 14.
+
+Following Mr Soh’s confirmation that Asidokona would proceed with the loan, Mr
+Wong informed Mr Ong to prepare the necessary documents for the loan. 13
+
+##### Foot Note 13
+
+×
+
+WJWA at para 16.
+
+11 On 18 July 2016, at 5.10pm, Mr Ong sent the following email to Mr Soh
+(copying Mr Wong) regarding “Project Gold”: 14
+
+##### Foot Note 14
+
+×
+
+AB (Vol 1) at p 236.
+
+Dear Phillip
+
+Please find attached the draft loan documentation in respect of the $2 million
+loan for your review and confirmation.
+
+Briefly, the loan is guaranteed by you personally and a share charge shall be
+lodged against the share capital of [Asidokona] and blank share transfer forms
+shall be held in escrow pending the repayment of the loan.
+
+Kindly let us know should you have any comments.
+
+Regards  
+Jeffrey Ong
+
+The documents attached were a power of attorney between Mr Soh and SSI (“Power
+of Attorney”), a deed of charge between Mr Soh and SSI of the shares in
+Asidokona (“Deed of Charge”), an instrument of transfer for the transfer of
+the shares in Asidokona from Mr Soh to a corporate buyer (“Share Transfer Form
+(corporate buyer)”), an instrument of transfer for the transfer of the shares
+in Asidokona from Mr Soh to an individual buyer (“Share Transfer Form
+(individual buyer)”), directors’ resolutions in writing passed pursuant to
+article 90 of Asidokona’s Articles of Association (“Board Resolutions”) and a
+personal guarantee between Mr Soh and SSI (“Personal Guarantee”).
+
+12 On 19 July 2016 at 8.18am, Mr Soh replied to Mr Ong’s email highlighting
+that the draft loan agreement was not attached. 15
+
+##### Foot Note 15
+
+×
+
+AB (Vol 1) at p 293.
+
+In response, at 10.38am, Mr Ong sent Mr Soh (copying Mr Wong) the draft loan
+agreement between Asidokona and SSI (“Loan Agreement”). 16
+
+##### Foot Note 16
+
+×
+
+AB (Vol 1) at p 293.
+
+On 21 July 2016, Mr Soh decided to “sign off” on 22 July 2016 and confirmed
+the following with Mr Wong through WhatsApp messages: 17
+
+##### Foot Note 17
+
+×
+
+AB (Vol 2) at pp 130–132 and 135.
+
+Mr Soh: Shall we sign off tom mrg at 1030am?
+
+Mr Wong: … I can’t be there and in any event, Jeff is handling. I have to
+conduct a training …
+
+... Spoke to [Jeff]. All ready for tmr. Cheque release tmr after 2 pm.
+
+Can I take it that the interest is returned to investors immediately and they
+only hound me close to 3 mths period?
+
+Mr Soh: Basically. We will return 2 million based on 1.7 million. If we need
+to extend after 3 months we will continue to pay the 100k interest. Extension
+is up to 3 months.
+
+As per my understanding.
+
+Mr Wong: Yup.
+
+The hope is we get the CB in before 3 mths. No need to waste the interest.
+
+Rather we start the full productions as the earnings is impt.
+
+Mr Soh: Ok. As what we agreed bro
+
+…
+
+Can Jeff side do [telegraphic transfer] to us tom?
+
+Mr Wong: Yes
+
+But via cheque
+
+Mr Soh: Use uob cheque. Can?
+
+Mr Wong: They using DBS.
+
+If u want.. they can release in 2 cheques.. $1.1m and $600k.
+
+$1.1 m morning ok.
+
+Mr Soh: Ok. We do it this way. 2 cheques
+
+[emphasis added]
+
+Thus, the common understanding was that Mr Ong was to transfer only
+S$1,700,000 as the remaining S$300,000 was to be used for the interest payment
+for three months at the rate of 5% a month as set out in the draft loan
+agreement. 18
+
+##### Foot Note 18
+
+×
+
+WJWA at para 26.
+
+13 Meanwhile, Mr Ong informed Ms Pok Mee Yau (“Ms Pok”), also known as Karen,
+that Mr Soh would attend at the JLC Advisors’ office to sign the loan
+documents. Ms Pok was previously a partner of JLC Advisors. She had drafted
+the documents attached to Mr Ong’s emails to Mr Soh dated 18 and 19 July 2016
+(as mentioned at [11]–[12]), which I shall refer to collectively as the “Loan
+Documents”. Mr Ong requested Ms Pok to attend to the signing by Mr Soh as he
+would be occupied then. 19
+
+##### Foot Note 19
+
+×
+
+Pok Mee Yau’s AEIC dated 17 March 2020 (“PMYA”) at paras 1 and 3–6.
+
+14 According to Ms Pok, on 22 July 2016, Mr Soh attended at the JLC Advisors’
+office in the morning. Ms Pok introduced herself to Mr Soh as a partner of JLC
+Advisors. During the meeting which took about 25 minutes, Ms Pok flipped
+through the relevant documents and briefly explained them to Mr Soh. Ms Pok
+also told Mr Soh that he could take his time to review the documents before
+signing and he informed her that he was ready to sign. Ms Pok then asked Mr
+Soh to sign on the execution pages. 20
+
+##### Foot Note 20
+
+×
+
+PMYA at paras 10–12.
+
+Mr Soh did so. 21
+
+##### Foot Note 21
+
+×
+
+WJWA at pp 1172–1204 and 1205–1237; pp 1238–1255 and 1256–1273; pp 1274–1300
+and 1301–1327; pp 1328–1332 and 1333–1337; pp 1338–1339; and pp 1340–1343.
+
+After Mr Soh had signed the documents, Ms Pok stamped her name and profession
+and signed in the signature block as the witness for the Loan Agreement,
+Personal Guarantee, Deed of Charge and Power of Attorney. 22
+
+##### Foot Note 22
+
+×
+
+PMYA at para 13.
+
+15 I should point out that the defendants plead an entirely different version
+of events. In particular, the defendants aver that, at all times, the loan was
+meant to be personal to Mr Soh at an interest rate of 3% per month. Mr Ong and
+Mr Wong, who were present at the meeting at JLC Advisors on 22 July 2016,
+essentially compelled Mr Soh to agree to an increase of the interest rate from
+3% to 5% per month. Due to his urgent need for funds, Mr Soh agreed. Further,
+as Mr Soh was informed by a female staff that the agreements were not ready
+for his perusal, out of trust, he signed off on blank pages. 23
+
+##### Foot Note 23
+
+×
+
+Asidokona’s Defence (Amendment No 4) at paras 8–9; Mr Soh’s Defence (Amendment
+No 4) at paras 8–9.
+
+It is patently clear to me that this account is completely unbelievable. Even
+if one were to disregard the evidence of Mr Wong, Mr Ong or Ms Pok, the
+defendants’ version is completely undermined by the wealth of objective
+evidence in the form of the contemporaneous communications between the parties
+(including some crucial pieces which I have referred to in [11]–[12] above).
+As I observed at [2] above, at the trial, the defendants dropped these
+challenges.
+
+The Loan Agreement, Personal Guarantee and the Deed of Charge
+
+16 Turning to the Loan Agreement, the key terms are as follows: 24
+
+##### Foot Note 24
+
+×
+
+Plaintiff’s Bundle of Documents Volume 1 (“1PBD1”) at pp 1–66.
+
+(a) by the preamble read with Item 5 of Schedule 1, SSI is the lender,
+Asidokona is the “Borrower” and Mr Soh is the “Guarantor”;
+
+(b) by cl 2 read with Items 2 and 3 of Schedule 1, the “Principal Amount” of
+the loan is S$2m for an “Initial Term” of three months from the “Drawdown
+Date”. By cl 1.1, the Drawdown Date is “the date on which the Loan is
+disbursed, or is to be disbursed by the Lender to the Borrower”;
+
+(c) by cl 6.1 read with Items 11, 12 and 13 of Schedule 1, the “Interest” is
+“5% per month accruing on a daily basis from the commencement of the Initial
+Term” to be paid on the last day of each Interest Period (being one month)
+beginning from the Drawdown Date;
+
+(d) by cl 7.1, if the Borrower does not pay any amount it is obliged to when
+it is due, the Borrower shall pay interest on the unpaid amount outstanding
+“for the period beginning on its due date and ending on the date the Lender
+receives it, both before and after judgment”. Item 14 of Schedule 1 provides
+that such “Default Interest” is “6% per month accruing on a daily basis”;
+
+(e) by cl 3 read with Item 9 of Schedule 1, the “Security Documents” comprise
+of a charge on shares (the “Charged Shares”), share transfer forms in respect
+of the Charged Shares, a power of attorney, personal guarantee, and three
+cheques for certain amounts for the repayment of the loan; and
+
+(f) by cl 3 read with Item 8 of Schedule 1, the Charged Shares comprise
+500,000 ordinary shares, representing 100% of the issued and paid up capital
+of Asidokona.
+
+17 In the Personal Guarantee furnished by Mr Soh, pursuant to cl 1.1 read with
+cl 2.1(b), Mr Soh guaranteed that should Asidokona not pay any amount when due
+under or in connection with the Loan Agreement, Mr Soh would immediately on
+demand pay that amount to SSI as if he was the principal obligor up to the
+secured amounts, being the principal sum of S$2m, “all legal costs and other
+costs, charges and expenses whatsoever (on a full indemnity basis) and
+interest” accrued on the same. By cl 3, should Mr Soh not make any payment of
+any sum due and owing under the Personal Guarantee, he shall, to the extent
+permitted by law, pay interest on such amount due from and including the due
+date to the date of actual payment (whether before or after judgment) at 6%
+per month accruing on a daily basis. 25
+
+##### Foot Note 25
+
+×
+
+1PBD at pp 67–102.
+
+18 As for the Deed of Charge, by cll 1.1 and 2, as well as the Recital (D) of
+the Preamble, Mr Soh agreed to charge 100% of the entire shareholding in the
+issued and paid-up capital of Asidokona to SSI by way of a first fixed charge
+for due performance and discharge of all his obligations arising under the
+Loan Agreement. By cl 4, Mr Soh is to deliver to SSI the share certificates
+for the Charged Shares, together with two share transfer forms executed in
+blank, and a certified true copy of the Register of Members of Asidokona duly
+noting that the shares are subject to the charge. 26
+
+##### Foot Note 26
+
+×
+
+1PBD at pp 103–156.
+
+Disbursement of the loan and contributions towards the loan amount
+
+19 On 22 July 2016, the S$2m loan was fully disbursed by DBS cheques dated the
+same date for S$1.1m and S$590,000 to Asidokona. Apart from the actual
+disbursement of S$1.69m, interest for three months of S$300,000 and
+transaction expenses of S$10,000 under cl 9.2 of the Loan Agreement were
+accounted for. 27
+
+##### Foot Note 27
+
+×
+
+AB (Vol 1) at pp 205–206; WJWA at paras 57–58.
+
+20 Of the S$2m principal sum, Mr Wong contributed a total of S$1m to SSI. 28
+
+##### Foot Note 28
+
+×
+
+WJWA at para 68.
+
+Mr Wong contributed S$500,000 of his own money, and approached some other
+people to extend personal loans to him to raise the remaining S$500,000 as
+follows: 29
+
+##### Foot Note 29
+
+×
+
+WJWA at paras 64–65.
+
+(a) S$200,000 from Lee Thiam Seng, a director in Ecowise Holdings Limited
+which has an office located one floor above AAI’s office;
+
+(b) S$100,000 from Aveline Chen, a tenant in Mr Wong’s office;
+
+(c) S$100,000 from Wilson Chua, Mr Wong’s colleague in AAI; and
+
+(d) S$100,000 from Mr Yong Chor Ken (“Mr Yong”), Mr Wong’s colleague, director
+and shareholder of AAI.
+
+Due to the time constraints, Mr Wong told the four parties to make payments
+directly to the JLC Advisors’ clients’ account. Mr Wong has since repaid
+everyone for the full sums except for Mr Yong’s S$100,000. 30
+
+##### Foot Note 30
+
+×
+
+WJWA at paras 67 and 69.
+
+As for Mr Ong’s client, the “Hong Kong” investor contributed the remaining sum
+of S$1m. More will be said about this from [27] below.
+
+Asidokona’s default in repaying the loan
+
+21 As the loan was disbursed on 22 July 2016, the Initial Term of the loan
+expired on 21 October 2016. This was the common understanding among Mr Wong,
+Mr Soh and Mr Ong. According to Mr Wong, in accordance with cl 2 read with
+Item 3 of Schedule 1, Asidokona was granted an extension of the loan by a
+further three months to 21 January 2017. Thereafter, Mr Wong alleged that
+Asidokona unilaterally extended the loan on multiple occasions. 31
+
+##### Foot Note 31
+
+×
+
+WJWA at para 73.
+
+22 In October 2016, via a series of WhatsApp exchanges with Mr Wong, Mr Soh
+confirmed that he would renew the Loan Agreement on a “month to month basis”.
+As regards the interest payment, Mr Soh also agreed with Mr Wong’s
+confirmation that the interest payment liable would be S$100,000. 32
+
+##### Foot Note 32
+
+×
+
+AB (Vol 2) at pp 156–157; AB (Vol 1) at pp 341–342.
+
+Mr Soh stated that “[w]e will still pay interest. 5 per cent per month”. 33
+
+##### Foot Note 33
+
+×
+
+AB (Vol 2) at p 186.
+
+Further, on 5 March 2017, Mr Soh also confirmed that “[i]n terms of interest …
+[w]e will not dispute. Sin 100k …” and that he was of the view that “[they]
+should be [paying off the loan] by mid March as paper work delay due to [his]
+hospitalisation”. 34
+
+##### Foot Note 34
+
+×
+
+AB (Vol 2) at pp 252–253.
+
+23 According to AAI, during the period between July 2016 and May 2017,
+Asidokona made various interest payments to SSI aggregating S$900,000. 35
+
+##### Foot Note 35
+
+×
+
+WJWA at para 134; AB (Vol 4) at p 90.
+
+The defendants do not dispute making payments amounting to S$900,000. However,
+they plead that these were repayments towards the loan (not interest), and
+that the repayments were not made to SSI.
+
+24 In any event, Asidokona failed to comply fully with its payment obligations
+under the Loan Agreement. 36
+
+##### Foot Note 36
+
+×
+
+WJWA at para 73.
+
+As of 15 May 2017, Asidokona failed to redeem the loan and SSI issued a
+statutory demand (through its solicitor Mr Ong) to Mr Soh for the sum of
+S$2,128,904 on the same date. 37
+
+##### Foot Note 37
+
+×
+
+AB (Vol 4) at pp 85–88; WJWA at para 109.
+
+Between the period from end June 2017 to March 2018, Mr Soh reassured Mr Wong
+that Asidokona would repay the loan and interest. However, nothing
+materialised. 38
+
+##### Foot Note 38
+
+×
+
+WJWA at paras 114–120.
+
+Thus, SSI’s position is that it is clear from the correspondence that Mr Soh
+had “repeatedly admitted Asidokona’s liability under the Loan Agreement”. 39
+
+##### Foot Note 39
+
+×
+
+WJWA at para 122.
+
+The assignment of SSI’s rights to AAI
+
+25 According to Mr Wong, in and around March 2018, Mr Ong expressed to Mr Wong
+SSI’s disappointment and frustration with the empty promises made by the
+defendants. As the loan was referred to SSI by Mr Wong, Mr Wong decided to
+arrange for AAI to take over the loan from SSI to “manage the direction
+forward in recovering the loan debt”. Since Mr Wong had personally invested
+moneys to fund the loan for Asidokona and Mr Yong had indirectly contributed
+to the loan (as mentioned at [20] above), both Mr Yong and Mr Wong have an
+interest in the repayment of the loan. Thus, Mr Yong and Mr Wong decided that
+their company, AAI, would be the assignee of the Loan Agreement, Personal
+Guarantee and Deed of Charge. In that respect, Mr Wong “irrevocably assigned
+[his] interest of S$1,000,000 from SSI to AAI”. The arrangement pursuant to
+the assignment was that after the payment of costs, any sums recovered from
+the present proceedings are to be repaid to AAI and SSI in equal proportions.
+Thus, there is “no avenue for AAI to profit from these proceedings”. 40
+
+##### Foot Note 40
+
+×
+
+WJWA at paras 128–129.
+
+26 On 30 March 2018, all rights under the Loan Agreement and the Personal
+Guarantee were assigned from SSI to AAI (the “First Deed of Assignment”),
+notice of which was given to Asidokona and Mr Soh on 28 August 2018. 41
+
+##### Foot Note 41
+
+×
+
+Plaintiff’s Core Bundle (“PCB”) at pp 1–5; AB (Vol 1) at pp 232–233.
+
+However, due to an oversight, the Deed of Charge was not assigned from SSI to
+AAI under the First Deed of Assignment. The Deed of Charge was assigned only
+on 15 November 2018 (the “Second Deed of Assignment”), notice of which was
+likewise given on the same date. 42
+
+##### Foot Note 42
+
+×
+
+PCB at pp 6–11; AB (Vol 1) at pp 232–233.
+
+In relation to the two deeds of assignments which I shall refer to as the
+“Deeds of Assignments”, Mr Wong signed on behalf of SSI and Mr Yong signed on
+behalf of AAI.
+
+The source of the remaining S$1m
+
+27 According to Mr Wong, it was also only “during the assignment that [Mr
+Wong] found out from [Mr Ong] that the Hong Kong investor is [Ms Lou]”. At the
+time of signing the Loan Agreement, Mr Wong did not know the identity of the
+“Hong Kong” investor (see [9] above). 43
+
+##### Foot Note 43
+
+×
+
+WJWA at para 70.
+
+As such, Mr Wong referred to the other funder for the loan as the “HK” lender
+in his communications with Mr Soh at the material time. 44
+
+##### Foot Note 44
+
+×
+
+See, eg, AB (Vol 2) at pp 123–124, 301, 318.
+
+28 After Mr Wong became aware that the Hong Kong investor was in fact Ms Lou,
+Mr Wong called up Mr William Wong (ie, Ms Lou’s husband) sometime in June or
+July 2018. During that call, Mr William Wong confirmed that SSI had sufficient
+moneys in July 2016 to fund the loan, that Mr Wong could sign off on the Loan
+Documents on behalf of SSI, and that Mr Wong could initiate a suit against the
+defendants. 45
+
+##### Foot Note 45
+
+×
+
+WJWSA at para 10–11.
+
+29 Indeed, on 22 July 2016, when Mr Soh signed the Loan Documents, SSI did not
+execute them. Around the time of the assignment from SSI to AAI, this was
+discovered by Mr Wong. Based on what Mr William Wong communicated, Mr Wong
+executed the Loan Documents on behalf of SSI. 46
+
+##### Foot Note 46
+
+×
+
+Transcript dated 1 September 2021 at p 21, lines 13–21.
+
+This was witnessed by Mr Ong. 47
+
+##### Foot Note 47
+
+×
+
+JOA at para 28.
+
+30 Mr Ong’s evidence is broadly consistent with Mr Wong’s account. In
+particular, Mr Ong also referred to Ms Lou as the “Hong Kong” investor. 48
+
+##### Foot Note 48
+
+×
+
+JOA at para 16.
+
+According to Mr Ong, he referred to Ms Lou as such because “Mr William Wong
+and [Ms Lou] preferred to remain anonymous” behind SSI. Mr Ong remained the
+“point of contact” at all material times between Mr Wong and SSI. Ms Lou
+wanted to be a “‘sleeping’ contributor” and was “content to have the [l]oan
+administered by [Mr Wong] and/or his nominees” for SSI. In that regard, Ms Lou
+and SSI had “expressly authorised [Mr Wong] to act as SSI’s principal and
+agent”. 49
+
+##### Foot Note 49
+
+×
+
+JOA at paras 16–17.
+
+In his testimony, Mr Ong clarified that Mr William Wong was “the primary
+person who is in charge of the group of funds and William is based in Hong
+Kong”. Ms Lou and Mr William Wong were “often in Hong Kong” and they “often
+remit funds from Hong Kong”. 50
+
+##### Foot Note 50
+
+×
+
+Transcript dated 3 September 2021 at p 18.
+
+Mr Ong confirmed that the remaining sum of S$1m extended to Asidokona was
+deducted from the pool of funds which Mr William Wong and Ms Lou maintained in
+JLC Advisors’ client account. 51
+
+##### Foot Note 51
+
+×
+
+Plaintiff’s Closing Submissions at para 84; Transcript dated 3 September 2021
+at p 27, lines 1–18.
+
+31 In an interesting twist, Ms Lou denied that she knew about the Loan
+Documents or that SSI had authorised the same to be entered into at the
+material time. In a slightly incoherent fashion, she nevertheless said that
+she understood that Mr Ong was acting for SSI in relation to the Loan
+Documents. 52
+
+##### Foot Note 52
+
+×
+
+LSLA at para 9.
+
+Ms Lou deposed that since she had “no idea of the Loan Agreement at the
+material time”, the issue of the source of funds for the same is “best
+answered by Mr. Jeffrey Ong”. 53
+
+##### Foot Note 53
+
+×
+
+LSLA at para 12.
+
+In due course, I shall discuss Ms Lou’s evidence in more detail.
+
+The proceedings
+
+AAI’s claim
+
+32 On 20 July 2018, this action was filed by AAI in its capacity as the
+equitable assignee of the loan, and as the only plaintiff in the action. 54
+
+##### Foot Note 54
+
+×
+
+WJWSA at paras 10–12.
+
+AAI’s claim against the defendants is straightforward. While there was one
+round of amendments to the Statement of Claim on 8 February 2019 (the “Amended
+Statement of Claim”), the case remained substantially unchanged.
+
+33 In essence, AAI avers that Asidokona is “in default of its payment
+obligations under the Loan Agreement”. Therefore, AAI claims against Asidokona
+for: 55
+
+##### Foot Note 55
+
+×
+
+Statement of Claim (Amendment No 1) at para 27 and pp 23–24.
+
+(a) the outstanding principal sum due under the Loan Agreement;
+
+(b) the interest due under the Loan Agreement payable under cl 6.1 of the Loan
+Agreement (read with Schedule 1);
+
+(c) the default interest due under the Loan Agreement payable under cl 7.1 of
+the Loan Agreement (read with Schedule 1);
+
+(d) alternatively, interest assessed pursuant to s 12 of the Civil Law Act
+1909 (2020 Rev Ed) (“CLA”) on such sums as may be found payable to AAI; and
+
+(e) costs on an indemnity basis pursuant to cl 10 of the Loan Agreement.
+
+34 Based on the Personal Guarantee and the Deed of Charge, AAI claims against
+Mr Soh for:
+
+(a) the outstanding principal sum due under the Loan Agreement;
+
+(b) the interest due under the Loan Agreement payable under cl 6.1 of the Loan
+Agreement (read with Schedule 1);
+
+(c) the default interest due under the Loan Agreement payable under cl 7.1 of
+the Loan Agreement (read with Schedule 1) from 22 June 2017;
+
+(d) alternatively, interest assessed pursuant to s 12 of the CLA on such sums
+as may be found payable to AAI;
+
+(e) an order for delivery up of:
+
+(i) all share certificates representing the Charged Shares;
+
+(ii) two share transfer forms duly executed by Mr Soh, in blank, in respect of
+the Charged Shares; and
+
+(iii) a certified true copy of the Register of Members of Asidokona duly
+annotated by the company secretary of Asidokona to note that the Charged
+Shares are the subject of a charge in favour of AAI; and
+
+(f) costs on an indemnity basis pursuant to cl 2.1 of the Personal Guarantee.
+
+The defendants’ original Defences, and the first and second round of
+amendments
+
+35 The defendants made four rounds of amendments to their original Defences,
+on 30 August 2018, 22 February 2019, 18 September 2020 and 22 July 2021
+respectively.
+
+36 From the outset, the defendants deny that the loan was between SSI and
+Asidokona. Instead, they aver that the loan was between Mr Wong and Mr Soh in
+their personal capacities only “for a short term” at an interest of only 3%
+per month. 56
+
+##### Foot Note 56
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 8; Mr Soh’s Defence (Amendment No
+4) at para 8.
+
+In that regard, payments made (totalling S$900,000) in repayment of the
+principal amount and/or interest were never made to SSI and one payment of
+S$50,000 was made to Mr Ong’s personal bank account. 57
+
+##### Foot Note 57
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 13; Mr Soh’s Defence (Amendment
+No 4) at para 13.
+
+It was only at the signing on 22 July 2016 at the office of JLC Advisors that
+Mr Wong insisted for the interest to be increased to 5% per month. 58
+
+##### Foot Note 58
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 9(b); Mr Soh’s Defence (Amendment
+No 4) at para 9(b).
+
+37 The defendants contend that AAI/SSI is in breach of s 3 of the Moneylenders
+Act 2008 (2020 Rev Ed) (the “MLA”), as AAI/SSI “seeks to claim a sum … which
+is significantly larger than the sum … ‘lent’”. Also, AAI/SSI is not an
+“excluded moneylender” under s 2 of the MLA as it lent the money to Mr Soh,
+and not Asidokona. Relying on ss 2, 3, 5 and 14, the defendants contend that
+the Loan Agreement and Personal Guarantee fall foul of the MLA and are
+unenforceable. 59
+
+##### Foot Note 59
+
+×
+
+Asidokona’s Defence (Amendment No 4) at paras 16–17; Mr Soh’s Defence
+(Amendment No 4) at paras 17–18.
+
+This is the “Illegal Moneylending Defence”.
+
+38 Further, the interest rates under the Loan Agreement are unconscionable,
+and the interest clauses are unenforceable penalty clauses at law.
+Consequently, the interest provisions of the Personal Guarantee and Deed of
+Charge are also unenforceable. 60
+
+##### Foot Note 60
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 18; Mr Soh’s Defence (Amendment
+No 4) at para 19.
+
+I shall refer to this as the “Penalty Clause Defence”.
+
+39 In any event, the defendants also plead that default interest should only
+take effect after March 2018 (and not from 22 June 2017). This is based on
+AAI’s position that “SSI was not agreeable to any further extension … beyond
+March 2018” of the loan. 61
+
+##### Foot Note 61
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 19; Mr Soh’s Defence (Amendment
+No 4) at para 20.
+
+40 In the first round of amendments, in support of the Illegal Moneylending
+Defence, the defendants introduced their version of what happened at the
+meeting on 22 July 2016 at the office of JLC Advisors.
+
+41 In the second round of amendments, the defendants allege that the First
+Deed of Assignment, ie, the assignment of the Loan Agreement and the Personal
+Guarantee, is unenforceable as it falls foul of s 5A(2) of the CLA in that it
+savours maintenance and champerty. 62
+
+##### Foot Note 62
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 12; Mr Soh’s Defence (Amendment
+No 4) at para 12.
+
+This is the “Maintenance and Champerty Defence”.
+
+The third round of amendments to the Defences
+
+42 On 26 November 2018, AAI applied under O 15 r 6 of the Rules of Court (2014
+Rev Ed) (“ROC”) to join SSI as the second plaintiff to the action. This was to
+meet the defendants’ objection that as an equitable assignee, AAI may not
+proceed with the action without the presence of SSI. This application was
+granted on 7 February 2019, and SSI was joined as co-plaintiff to the action.
+
+43 By about mid-2019, Mr Ong had run into trouble with the law. At the time of
+the trial, he was in remand for a range of criminal charges, inter alia,
+involving misappropriation of clients’ funds. 63
+
+##### Foot Note 63
+
+×
+
+AB (Vol 4) at pp 169–172.
+
+44 On 27 September 2019, the defendants applied for specific discovery against
+the plaintiffs for communications between Mr Wong and the fellow contributors
+towards the loan, including Ms Lou. The plaintiffs were ordered to provide
+further discovery by 5 November 2019. As set out above at [5] above, on 1
+November 2019, SSI was struck off the BVI Register of Companies. 64
+
+##### Foot Note 64
+
+×
+
+Wong Joo Wan’s Affidavit in HC/SUM 1629/2020 dated 6 April 2020 at para 9 and
+Exhibit WKW–49 at p 10.
+
+Upon the defendants’ application, on 17 March 2020, an unless order was made
+against the plaintiffs that the claim be struck out unless they comply with
+the specific discovery order by 7 April 2020.
+
+45 One particular issue raised in the application was whether Mr Wong’s
+affidavits bound SSI. On 21 March 2020, Mr Wong sent a WhatsApp message to Ms
+Lou to explain the developments in the proceedings, including the question of
+his authority to act for SSI, and offered Ms Lou three options in respect of
+the action: 65
+
+##### Foot Note 65
+
+×
+
+AB (Vol 3) at pp 511–517.
+
+… At the assignment, Jeff passed me the loan agreement with the borrower.
+While the borrower side was signed, the lender being [SSI] was not. So I asked
+Jeff why do. He said that the HK side didn’t even know the details of the loan
+and have authorised me to sign off. The second document was the assignment of
+the loan to [AAI]. The agreement was that I would fund the litigation to
+recover the loan and when we succeed, half of the loan recovered less cost
+would be returned to SSI. I then enquired who is the owner of SSI. That was
+the first time I was told that you were the sole owner and sole director.
+
+I did at Jeff’s disclosure, call [Mr William Wong]. I asked him 3 things,
+namely does SSI have the funds to do the loan (in July 2016), I informed him
+that I signed the documents and lastly, I would commence the suit against the
+borrower. He replied that SSI should have sufficient funds to do this and ok
+to the other 2.
+
+With that a suit was commenced. Initially the plaintiff was Alternative
+Advisors Investment (my company). During the initial discovery process, the
+borrower challenged the assignment. So i instructed the lawyers to add SSI as
+the plaintiff. At no point was I even looking for cost from SSI and was
+prepared to fund this action.
+
+The hearing is fixed for May 2020. After 2 years of going thru discovery etc.
+The last hearing, the borrower challenged my authority of SSI.
+
+…
+
+… the judge during the discovery asked me to either confirm that I have
+authority to act for SSI or for the owner to file an affidavit to confirm SSI
+has no other documents requested. … along the way, I even asked [Mr William
+Wong] to keep SSI alive simply because SSI is a plaintiff and shouldnt be
+disposed.
+
+…
+
+My lawyers have essentially said there are 3 options:
+
+1\. If you as director or if u authorise [Mr William Wong] and he then
+authorise me, can confirm or rectify that I had the authority, the suit can
+continue. And also confirm that SSI has no other documents.
+
+2\. If u maintain that u knew nothing about the loan and I acted without
+authority, I respect your position … So if that is your position, I would
+discontinue the suit. But in doing so, both my lawyer and I would need your
+authority to file the notice of discontinuance. I will be liable for legal
+cost of the borrower.
+
+3\. If I cannot get your authority, then I can only file the notice of
+discontinuance for AAI but not SSI.
+
+…
+
+It is not my intention to have troubled u. It appears I trusted Jeffrey too
+much and relied on his representations. But I did check with William somewhat.
+
+[emphasis added]
+
+46 By 31 March 2020, Ms Lou replied to Mr Wong, “Joo Wan, thank you for your
+note. I want to help you and I believe our lawyers are meeting to work out how
+I can help you”. 66
+
+##### Foot Note 66
+
+×
+
+AB (Vol 3) at p 518.
+
+47 Meanwhile, on 6 April 2020 (ie, just one day prior to the ordered deadline
+of 7 April 2020), AAI filed an appeal against the unless order. AAI submitted
+“it would have been impossible to comply with the 31 March 2020 Unless Order”
+given that SSI “had been struck off” by that point. 67
+
+##### Foot Note 67
+
+×
+
+AAI’s Written Submissions in HC/RA 80/2020 dated 4 June 2020 at para 4.
+
+On 18 June 2020, the appeal was allowed. Justice Choo Han Teck held in
+Alternative Advisors Investments Pte Ltd and another v Asidokona Mining
+Resources Pte Ltd and another [2020] SGHC 125 that Mr Wong’s affidavits
+“expressly state that they were made on behalf of both plaintiffs and confirm
+that both plaintiffs do not have in their possession, custody or power the
+documents which the defendants seek”. Thus, it was not necessary to order that
+Ms Lou confirm that she and/or SSI are bound by Mr Wong’s affidavits, or that
+they do not have the relevant documents in their possession, custody or power
+(at [9]). As against AAI, the unless order was set aside (at [10]). Therefore,
+AAI’s claim survived.
+
+48 On 18 September 2020, in the third round of amendments, the defendants
+allege for the first time that Mr Wong “had no authority to sign the Loan
+Agreement, the Personal Guarantee, [and] the Deed of Charge” on behalf of SSI.
+68
+
+##### Foot Note 68
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 9(l); Mr Soh’s Defence (Amendment
+No 4) at para 9(l).
+
+Prior to that, the defendants previously admitted that Mr Wong was “SSI’s
+principal”. 69
+
+##### Foot Note 69
+
+×
+
+Asidokona’s Defence (Amendment No 2) at para 4; Mr Soh’s Defence (Amendment No
+2) at para 4.
+
+The defendants aver that SSI did not authorise the Loan Agreement and Deeds of
+Assignments. I shall refer to this as the “Lack of Authority Defence”.
+
+49 Relatedly, the defendants aver that the Loan Agreement and Personal
+Guarantee are tainted with illegality as part of the moneys used to disburse
+the loan were illegally obtained. 70
+
+##### Foot Note 70
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 14; Mr Soh’s Defence (Amendment
+No 4) at para 15.
+
+In that regard, Ms Lou, the sole director and shareholder of SSI at all
+material times, did not advance S$1m to JLC Advisors. As such, the money used
+to fund the loan were other client moneys from JLC Advisors’ client accounts
+which was misappropriated by Mr Ong. 71
+
+##### Foot Note 71
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 14; Mr Soh’s Defence (Amendment
+No 4) at para 15.
+
+I refer to this as the “Illegality Defence”.
+
+50 Further, the defendants deny that the Deeds of Assignments are valid under
+s 4(8) of the CLA by reason of AAI’s and/or SSI’s failure to give written
+notice for the assignment to the defendants and are thus ineffectual. The
+defendants plead that AAI, as equitable assignee, cannot carry on the action
+when SSI is no longer a party to the action. 72
+
+##### Foot Note 72
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 12(c); Mr Soh’s Defence
+(Amendment No 2) at para 12(c).
+
+I shall refer to this as the “Locus Standi Defence”.
+
+The fourth round of amendments to the Defences
+
+51 In early 2021, the parties applied for interrogatories against Ms Lou. In
+response to AAI’s interrogatories, Ms Lou stated that she had never appointed
+JLC Advisors to act for her or SSI. Ms Lou also stated that she was not the
+“HK investor” and was Singaporean. 73
+
+##### Foot Note 73
+
+×
+
+Defendants’ Bundle of Relevant Cause Papers at p 282 (Ms Lou’s Answer to
+Interrogatories dated 3 March 2021 at para 4(a)).
+
+Ms Lou’s position was that SSI did not contribute to the loan to Asidokona 74
+
+##### Foot Note 74
+
+×
+
+Defendants’ Bundle of Relevant Cause Papers at p 278 (Ms Lou’s Answer to
+Interrogatories dated 3 March 2021 at para 1(a)(iii)).
+
+and that she never maintained a pool of funds in JLC Advisors’ client account
+in her sole name or in joint names with her husband. 75
+
+##### Foot Note 75
+
+×
+
+Defendants’ Bundle of Relevant Cause Papers at p 288 (Ms Lou’s Answer to
+Interrogatories dated 19 April 2021 at para 1(a)).
+
+52 Subsequently, on 22 July 2021, the defendants introduced the fourth round
+of amendments to the Defences, and expressly disputed that SSI appointed JLC
+Advisors to act as SSI’s solicitors and that SSI authorised any moneys for the
+loan. 76
+
+##### Foot Note 76
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 13A; Mr Soh’s Defence (Amendment
+No 4) at para 14.
+
+Up to the defendants’ third amendment to the Defences on 18 September 2020,
+the defendants averred that JLC Advisors “were the appointed solicitors of SSI
+at the material time” and the partner “assigned to SSI’s case was [Mr] Ong”.
+77
+
+##### Foot Note 77
+
+×
+
+Asidokona’s Defence (Amendment No 3) at para 14(d); Mr Soh’s Defence
+(Amendment No 3) at para 15(d).
+
+I shall include this as another aspect of the Lack of Authority Defence.
+
+The ratification, AAI’s Reply and SSI’s Rejoinder
+
+53 AAI disputes all of defences raised by the defendants.
+
+54 On 23 July 2021, SSI was restored to the BVI Register of Companies. 78
+
+##### Foot Note 78
+
+×
+
+AB (Vol 4) at p 174.
+
+Shortly thereafter, SSI passed certain director’s resolutions (ie, signed by
+Ms Lou) on 26 July 2021 ratifying and adopting in entirety the Loan Documents,
+the Deeds of Assignments, AAI’s commencement of the action, and the execution
+of the Loan Documents and Deeds of Assignments by Mr Wong on SSI’s behalf (the
+“Ratification”). 79
+
+##### Foot Note 79
+
+×
+
+AB (Vol 4) at pp 179–180.
+
+A deed of undertaking was entered into between AAI, SSI and Ms Lou (the “Deed
+of Undertaking”) to provide for the arrangements for the Ratification, the
+funding of the action and the conduct of the action. 80
+
+##### Foot Note 80
+
+×
+
+AB (Vol 4) at pp 341–345.
+
+55 In response to the defendants’ contention that Mr Wong and Mr Ong lacked
+the authority to act for SSI, AAI relied on the Ratification. 81
+
+##### Foot Note 81
+
+×
+
+Plaintiff’s Reply Closing Submissions at para 11.
+
+SSI’s ratification is “sufficient, in and of itself, to dispose of the
+[d]efendants’ averments that SSI did not authorise the execution and
+assignment of the Loan Documents”. 82
+
+##### Foot Note 82
+
+×
+
+Plaintiff’s Closing Submissions at para 65.
+
+56 In this regard, the defendants aver that SSI’s Ratification is invalid. 83
+
+##### Foot Note 83
+
+×
+
+Asidokona’s Rejoinder at para 3; Mr Soh’s Rejoinder at para 3.
+
+I shall refer to this as the “Invalid Ratification Defence”.
+
+Issues to be determined
+
+57 As AAI highlights, AAI has clearly established that Asidokona took a loan
+of S$2m sometime in July 2016, Mr Soh personally guaranteed Asidokona’s
+obligation to repay the loan, and the defendants have not repaid the loan and
+interest in full to the present date. 84
+
+##### Foot Note 84
+
+×
+
+Plaintiff’s Reply Closing Submissions at para 2.
+
+The defendants have essentially not adduced any evidence to dispute the above.
+
+58 To deny liability for the claim, the defendants raise seven grounds. AAI
+challenges each one of them. Therefore, the issues to be determined are as
+follows: 85
+
+##### Foot Note 85
+
+×
+
+Defendants’ Closing Submissions at para 24.
+
+(a) the Locus Standi Defence – whether AAI, as the equitable assignee, may
+proceed with the action against Asidokona and Mr Soh when SSI, the equitable
+assignor, is no longer a party to the action;
+
+(b) the Lack of Authority Defence – whether SSI authorised the Loan Agreement
+and Deeds of Assignments (which turns on whether Mr Wong or Mr Ong possessed
+the requisite authority from SSI to do so);
+
+(c) the Invalid Ratification Defence – whether the Ratification is valid in
+the circumstances so as to cure any lack of authority on the part of Mr Wong
+and or Mr Ong;
+
+(d) the Illegality Defence – whether AAI’s claim is tainted by illegality on
+the basis that part of the funds used to finance the loan were in fact
+misappropriated client moneys from JLC Advisors’ client accounts (and thus
+illegal funds);
+
+(e) the Maintenance and Champerty Defence – whether the Deeds of Assignments
+contravene s 5A(2) of the CLA on the basis that they savour maintenance and
+champerty;
+
+(f) the Illegal Moneylending Defence – whether the loan is an illegal
+moneylending transaction under the MLA; and
+
+(g) the Penalty Clause Defence – whether the interest clauses under the Loan
+Agreement amount to penalty clauses in law, which are unenforceable.
+
+The applicable legal principles upon a submission of “no case to answer”
+
+59 I will deal with the applicable law in relation to the issues in due
+course. At this juncture, I set out the legal principles where the defendants
+submit that there is no case to answer.
+
+60 In relation to any cause of action pleaded by the plaintiff, the legal
+burden of proof lies on the plaintiff, and will only be discharged if the
+court is satisfied that the plaintiff has proved its pleaded case against the
+defendant on a balance of probabilities.
+
+61 It is, however, always open to a defendant, having heard the evidence
+adduced on behalf of the plaintiff, to elect to call no evidence on the basis
+that the evidence put forth by the plaintiff is insufficient to transfer the
+evidential burden onto the defendant so that the plaintiff has failed to prove
+its case. Hence the expression, “no case to answer” (O 35 r 4(3) and O 110 r
+3(1) of the ROC). While the legal burden rests on the plaintiff throughout the
+proceedings as the party making the claim against the defendant, the
+evidential burden can shift as the civil trial progresses. That evidential
+burden rests on the party on whom the responsibility lies to contradict,
+weaken or explain away the evidence that has been led (Ma Hongjin v SCP
+Holdings Pte Ltd [2021] 1 SLR 304 (“Ma Hongjin”) at [28]).
+
+62 Crucially, the establishment of a prima facie case by the plaintiff on a
+particular point on which it bears the legal burden denotes the point at which
+the evidential burden will shift to the defendant (Ma Hongjin at [30]).
+Following any shift in evidential burden at the point that a prima facie case
+against the defendant is established, the plaintiff would have succeeded in
+proving the case on a balance of probabilities since there is simply no
+evidence forthcoming from the defendant to disprove the plaintiff’s position
+or otherwise weaken the case against it (Ma Hongjin at [31]).
+
+63 The threshold to succeed on a “no case to answer” submission is a high one.
+In Lena Leowardi v Yeap Cheen Soo [2015] 1 SLR 581 at [23]–[24], the Court of
+Appeal held that it is established law that a submission of “no case to
+answer” will only succeed if the evidence led by the plaintiff, at face value,
+does not establish a case in law or is so unsatisfactory or unreliable that
+the plaintiff has not discharged its burden of proof. If circumstantial
+evidence is relied on, it does not have to give rise to an irresistible
+inference as long as the desired inference is one of the possible inferences.
+
+64 Bearing in mind the foregoing applicable principles, I turn to consider the
+issues.
+
+Whether AAI, as an equitable assignee, may proceed with the action against the
+defendants when SSI, the equitable assignor, is no longer a party
+
+The parties’ arguments
+
+65 I turn to address the Locus Standi Defence. Assuming that the Deeds of
+Assignments are valid, it is undisputed by the parties that the assignments of
+the Loan Agreement, Personal Guarantee and Deed of Charge pursuant to the
+Deeds of Assignments are not legal but equitable assignments. As the
+defendants argue, the statutory requirements for a legal assignment are found
+in s 4(8) of the CLA. In particular, express notice in writing to the obligor
+is necessary. 86
+
+##### Foot Note 86
+
+×
+
+Defendants’ Closing Submissions at paras 223–224.
+
+66 Contrary to such requirement, AAI did not give written notice of the
+assignments to Asidokona and Mr Soh before the commencement of the action. As
+such, the defendants submit that the Deeds of Assignments are equitable
+assignments such that the equitable assignor (ie, SSI) must remain a party to
+the proceedings for AAI to proceed. 87
+
+##### Foot Note 87
+
+×
+
+Defendants’ Closing Submissions at para 225.
+
+67 The defendants argue that AAI had effectively realised “the fatality in its
+action”, and thus applied to add SSI as a co-plaintiff in November 2018. The
+order was made on 7 February 2019. Thus, the facts are similar to the case of
+Parkway Hospitals Singapore Pte Ltd (trading as Mount Elizabeth Hospital) and
+another v Sandar Aung [2007] 1 SLR(R) 227 (“Parkway”). As such, “SSI as the
+named lender and the alleged assignor, is required to be added as a party” and
+“failing which, [AAI’s] claim fails”. However, SSI “has been struck off” from
+the action pursuant to the unless order. 88
+
+##### Foot Note 88
+
+×
+
+Defendants’ Closing Submissions at paras 228–232.
+
+In this connection, Cooperatieve Centrale Raiffeisen-Boerenleenbank BA
+(trading as Rabobank International), Singapore Branch v Motorola Electronics
+Pte Ltd [2010] 3 SLR 48 (“Cooperatieve Centrale”) “makes it clear that the
+“procedural bar” is still in place in Singapore” [emphasis in original]. 89
+
+##### Foot Note 89
+
+×
+
+Defendants’ Closing Submissions at paras 234–235.
+
+68 AAI does not dispute that it is an equitable assignee but disputes the
+requirement for SSI to remain a party in the unique circumstances of the
+present case. AAI submits that the requirement of joining an equitable
+assignor to an action for recovery of the debt is “only a procedural one”. 90
+
+##### Foot Note 90
+
+×
+
+Plaintiff’s Reply Closing Submissions at para 120.
+
+In that regard, the rationale for the procedural rule is to prevent double
+recovery by the equitable assignor. Relying on Yongnam Development Pte Ltd v
+Springleaves Tower Ltd and anor [2004] 1 SLR(R) 348 (“Yongnam”) at [68], AAI
+contends that the court has the discretion to dispense with the procedural
+requirement that assignor be joined as party to a claim by an assignee. Since
+Ms Lou has confirmed on affidavit that SSI will not be commencing any further
+action against the defendants in relation to the Loan Agreement, the Personal
+Guarantee and the Deed of Charge in view of the assignments of the same to
+AAI, 91
+
+##### Foot Note 91
+
+×
+
+LSLA at para 11.
+
+“there is absolutely no risk of the [d]efendants facing a claim in double
+recovery”. As such, AAI can, and should, be allowed to claim against the
+defendants. 92
+
+##### Foot Note 92
+
+×
+
+Plaintiff’s Reply Closing Submissions at paras 112–114 and Plaintiff’s Reply
+Closing Submissions at paras 120–122. See also the oral submissions on 14
+February 2022.
+
+Analysis and findings
+
+69 Based on the parties’ arguments, the issue is whether the claim of an
+equitable assignee (ie, AAI) against the obligor(s) (ie, Asidokona and Mr Soh)
+fails because the equitable assignor (ie, SSI) is no longer a party to the
+action.
+
+70 The starting point is Parkway, where Judith Prakash J (as she then was)
+held that the argument that “the assignee cannot sue in his own name and the
+assignor must be made a co-plaintiff” is a valid one (at [12]–[13]).
+Nonetheless, Prakash J granted an application to add the assignor as the
+second plaintiff “as “the problem was a technical one which could have easily
+been averted had notice of the assignment been given to the [obligor] before
+the commencement of the action or had [the equitable assignor] been made a co-
+plaintiff at the beginning” [emphasis added in italics] (at [13]).
+
+71 In Total English Learning Global Pte Ltd and another v Kids Counsel Pte Ltd
+and another suit [2014] SGHC 258 (“Total English”), Tay Yong Kwang J (as he
+then was) observed, obiter, that “an equitable assignment would generally
+require the assignee to join the assignor to the action” [emphasis added] (at
+[51]). Then, in Cooperatieve Centrale, Lai Siu Chiu J (as she then was) made
+similar remarks. In particular, Lai J held that one rationale for the
+requirement of recovering a debt in the name of the equitable assignor is “to
+protect the debtor from being exposed to double action for the same debt” (at
+[49]) and that the statutory assignment was created under s 4(8) of the CLA to
+“counter this procedural bar of having to add the assignor as a party to the
+action to recover the debt” (at [50]).
+
+72 One consistent point made by the cases is that the requirement of joining
+an equitable assignor as a co-plaintiff is a procedural requirement. Indeed,
+this is common ground between AAI and the defendants. The reason is to protect
+the obligor from the risk of double recovery (ie, by the equitable assignor
+and equitable assignee alike) arising from essentially the same obligation. In
+that sense, the rationale for such procedural requirement is both practical
+and protective of the interests of all the parties involved.
+
+73 Given that this is a procedural requirement, it seems to me that the court
+may dispense with it altogether in the appropriate circumstances. Indeed, in
+Halsbury’s Laws of Singapore vol 7 (LexisNexis, 2019) at para 80.446, it is
+stated that:
+
+Although actions founded on an assignment in equity may no longer have to be
+brought in the name of the assignor, the assignor may still have to be joined
+in the action, as co-plaintiff if he is willing to co-operate, and as co-
+defendant if not. … Even though the courts are now fused, a court hearing the
+issue would require that the assignor be joined so that it is bound by the
+judgment given in favour of the assignee. Without this procedural requirement,
+the debtor could subsequently still be sued by the assignor of the legal chose
+in action …
+
+… However, the need for joinder may be waived by the debtor or by the court.
+
+[emphasis added]
+
+74 Similarly, Snell’s Equity (Sweet & Maxwell, 32nd Ed) at 3–023 states:
+
+This requirement is only procedural however and proceedings will not be
+treated as a nullity where the assignor and assignee are not both joined. The
+court may at any stage remedy the defect by ordering that a party be added as
+a party. In special circumstances (e.g. where it is clear that the assignor
+has no further interest in the matter), the court may even dispense with the
+requirement that both assignor and assignee are joined.
+
+[emphasis added]
+
+75 In Yongnam, the court likewise accepted that “the court has a discretion to
+dispense with the requirement that both assignor and assignee be joined as
+parties” at [68], referring to the same excerpt from Snell’s Equity reproduced
+above. However, as the defendants highlighted, the court in that case declined
+to exercise its discretion in the circumstances of that case. In my judgment,
+even if SSI is no longer a party to the action, the totality of the
+circumstances would, unlike the case in Yongnam, justify the exercise of
+discretion in favour of AAI for the following reasons.
+
+76 First, AAI had in fact added SSI as co-plaintiff to the action. Second,
+while SSI has not chosen to participate in these proceedings after it was
+restored to the BVI Register of Companies, SSI has “adopted and ratified” the
+Loan Agreement, Personal Guarantee, Deed of Charge, Deeds of Assignments, and
+the commencement of the action by AAI. 93
+
+##### Foot Note 93
+
+×
+
+LSLA at para 9.
+
+Third, Ms Lou has confirmed on affidavit that “SSI will not be commencing any
+further action against Asidokona or [Mr Soh] in relation to the Loan
+Agreement, the Personal Guarantee and the Deed of Charge, given the assignment
+to AAI”. 94
+
+##### Foot Note 94
+
+×
+
+LSLA at para 11.
+
+Thus, I accept that the action is determinative of the subject matter of this
+action such that SSI cannot bring a fresh suit in respect of the same. There
+is no risk of double recovery in the circumstances. Fourth, the defendants’
+defences (or lack thereof in respect of failing to repay AAI or SSI, as
+mentioned at [57]) would not change (whether or not SSI is a party to the
+action).
+
+77 Indeed, I find the remarks of the House of Lords in Performing Right
+Society Ltd v London Theatre of Varieties Ltd [1924] AC 1 particularly helpful
+and applicable. Lord Sumner remarked (at p 31):
+
+If the assignor … was not made a party, he would not be bound; was it not
+possible that the debtors … might be exposed to claims by him or his trustee
+in bankruptcy? [The assignor], however, had already been settled with and the
+[debtors] held his receipt. … The respondents admitted that what they wanted
+was not the presence but the absence of the assignor, and that they did not
+propose to pay the assignor but desired to pay nobody, and this mere non-
+joinder of parties was not allowed to relieve them.
+
+[emphasis added]
+
+Likewise in the present case, the defendants in effect seek the absence of SSI
+and thereby deny liability for the repayment of the loan. In such
+circumstances, the defendants should not be allowed to succeed on the Locus
+Standi Defence and thereby escape any liability entirely.
+
+78 Before I leave this issue, I should add that in the first place, I have
+some reservations about the parties’ position that SSI is no longer a party to
+the action. Pursuant to AAI’s application made under O 15 r 6 of the ROC, SSI
+was joined as a party on 7 February 2019 (see [42] above). There has not been
+any specific order for SSI to cease being a party. If SSI has “for any reason
+ceased to be a proper or necessary party” to the action, such an order can be
+sought and made under O 15 r 6 of the ROC. Certainly, no such order has been
+made and counsel for the parties confirmed that no such order had been sought.
+In my view, the effect of the striking out of the action is not that SSI is
+removed as a party. SSI is simply unable to proceed with the action. However,
+from the time of the joinder, SSI did not seek any relief under the Statement
+of Claim. Its presence was, and is, for the purpose of satisfying the
+technical requirement so that SSI’s action may be sustained. Notwithstanding
+the subsequent developments, it seems to me that the procedural requirement
+has been met.
+
+79 Be that as it may, I have dealt with the arguments as raised by the
+parties. By all of the above, I find that AAI is able to sustain the claim
+against the defendants.
+
+Whether SSI authorised the Loan Agreement and Deeds of Assignments and whether
+the Ratification is valid
+
+80 The Lack of Authority and Invalid Ratification Defences are related, and I
+propose to deal with the Invalid Ratification Defence first. Specifically,
+even if the defendants could prove on the evidence that Mr Wong and Mr Ong
+lacked the requisite authority at all material times, the argument would be
+moot if the Ratification is valid. Indeed, it bears reminding that it was
+subsequent to Ms Lou’s unexpected stance on the loan that the defendants
+mounted challenges regarding the authority of Mr Wong and Mr Ong to act for
+SSI. These were contained in the third and fourth rounds of amendments to
+their Defences. In response, SSI ratified the various matters. Thereafter, the
+defendants plead in the Rejoinders that the Ratification is not valid.
+
+The parties’ arguments
+
+81 The defendants allege that any ratification (of the Loan Agreement,
+Personal Guarantee, Deed of Charge, and Deeds of Assignments) is invalid as:
+(a) SSI did not have full knowledge of the material facts pertaining to the
+unauthorised actions of Mr Wong at the time of the Ratification; (b) the
+Ratification did not take place within reasonable time and thus would unfairly
+prejudice the defendants; and (c) AAI should not be allowed to rely on the
+Ratification as it has acted in abuse of process. 95
+
+##### Foot Note 95
+
+×
+
+Defendants’ Closing Submissions at paras 70–71.
+
+The defendants submit that the Ratification is an abuse of process because
+“despite knowing from the very outset of the identity of SSI’s sole director
+and shareholder and his lack of authority to act on behalf of SSI, [Mr Wong]
+deliberately concealed the above material facts from the Court” throughout the
+pre-trial hearings. As early as AAI’s first amendment on 8 February 2019, when
+SSI was added as the second plaintiff, AAI pleaded that the “authorised
+Attorney for SSI is [Mr Wong]”. 96
+
+##### Foot Note 96
+
+×
+
+Statement of Claim (Amendment No 1) at para 1.
+
+Furthermore, Mr Wong filed “eight (8) affidavits … on SSI’s behalf wherein he
+expressly claimed he had authority to file the respective affidavits on SSI’s
+behalf” despite him knowing “from at least March 2018 that, SSI had not
+authori[s]ed him as SSI’s agent”. 97
+
+##### Foot Note 97
+
+×
+
+Defendants’ Closing Submissions at para 112(iii).
+
+82 AAI submits that the defendants’ allegation that the Ratification is
+invalid or is otherwise an abuse of process is simply without basis. In
+particular, AAI submits that: (a) the Ratification was made within a
+reasonable time; 98
+
+##### Foot Note 98
+
+×
+
+Plaintiff’s Closing Submissions at paras 69–72; Plaintiff’s Reply Closing
+Submissions at para 42.
+
+(b) the Ratification was made in full in respect of all of the Loan Documents
+as well as the legal proceedings; 99
+
+##### Foot Note 99
+
+×
+
+Plaintiff’s Closing Submissions at paras 73–74; Plaintiff’s Reply Closing
+Submissions at para 43.
+
+and (c) the Ratification is not an abuse of process. 100
+
+##### Foot Note 100
+
+×
+
+Plaintiff’s Reply Closing Submissions at para 45.
+
+Analysis and findings
+
+83 As mentioned at [81], the defendants merely challenge the validity of the
+Ratification but did not dispute the effect of a valid ratification. In that
+regard, ratification “is akin to an assent by the principal to the transaction
+entered into by the unauthorised agent by adopting the agent’s otherwise
+unauthorised acts” (Cavenagh Investment Pte Ltd v Kaushik Rajiv [2013] 2 SLR
+543 at [31]). This is to say that if the Ratification is valid, SSI will be
+accordingly bound by the acts of Mr Wong and Mr Ong. In that regard, and as
+mentioned at [80], any lack of authority on the part of Mr Wong and Mr Ong to
+act on behalf of SSI as alleged by the defendant would be of no legal
+significance if their acts were so ratified by SSI. Significantly, the
+defendants’ Lack of Authority Defence would also fall away. The parties’
+disagreements on this issue turn on the facts, to which I now turn.
+
+84 First, I am not convinced that SSI did not have full knowledge of the
+material facts pertaining to the unauthorised actions of Mr Wong at the time
+of the Ratification (ie, on 26 July 2021) as the defendants submit. 101
+
+##### Foot Note 101
+
+×
+
+Defendants’ Closing Submissions at paras 77–81.
+
+Such submission is plainly contradicted by the defendants’ own pleadings that
+from “around March 2020”, Ms Lou “knew of” the action and the Loan Agreement
+that was commenced and entered into “on behalf of SSI without SSI’s
+authority”. 102
+
+##### Foot Note 102
+
+×
+
+Asidokona’s Rejoinder at para 3; Mr Soh’s Rejoinder at para 3.
+
+If that is so, it cannot be seriously disputed that by March 2020 (ie, when
+there was the WhatsApp exchange between Mr Wong and Ms Lou as set out at
+[45]–[46] above), Ms Lou had full knowledge of the material facts on which Mr
+Wong and Mr Soh had acted. That same WhatsApp message by Mr Wong also
+confirmed that lawyers were on board to determine how Ms Lou could help Mr
+Wong in the action. The defendants’ submission is thus a mere afterthought
+that is, in any case, contrary to their own pleadings.
+
+85 The second allegation (ie, that the Ratification was not made within a
+reasonable period of time) is also linked to the first allegation. The
+defendants plead that, despite Ms Lou’s knowledge of the action from as early
+as March 2020 and that SSI’s action had been struck off in March 2021, it was
+only on 26 July 2021 that the Ratification was made. At first blush, there
+appears to be a considerable lapse in time. However, all of the circumstances
+must be borne in mind in determining the question. It is undisputed that SSI
+was struck off the BVI Register of Companies on 1 November 2019 (as mentioned
+at [5]) and was restored to the same only on 23 July 2021. Thus, the
+Resolution was passed a mere three days after it was restored to the BVI
+Register of Companies. Seen in that light, the Ratification can hardly be said
+not to have been made within a reasonable time.
+
+86 Thirdly, I disagree that the Ratification is an abuse of process. As
+mentioned at [81], the defendant’s complaint is essentially that Mr Wong had
+represented himself to be SSI’s authorised agent despite knowing that he was
+not (thus misleading the court). In my judgment, such a factual submission is
+not supported by the evidence. As described at [45] above, having set out the
+background of matters to Ms Lou, Mr Wong explained in his WhatsApp message of
+21 March 2020 to Ms Lou that he only found out that Ms Lou was the sole owner
+and director of SSI during the assignment (ie, March 2018). Mr Wong has
+consistently maintained that position (see [27]). In that regard, Mr Wong
+candidly admitted in his WhatsApp message that he had “trusted [Mr Ong] too
+much and relied on his representations”. In relation to the authority to act
+for SSI, Mr Wong testified: 103
+
+##### Foot Note 103
+
+×
+
+Transcript dated 1 September 2021 at p 87, lines 11–18.
+
+In the context leading up to March 2020 and the unless order, there was no
+doubt in my mind that I had authority to act for SSI and that was also the
+accepted defence\---defendant’s position. It was only at the unless order or
+at that point that when the AR ordered the two things, either Nicholas
+Narayanan files an affidavit or Mdm Lou, that I then reached out to William
+again in late February. And it was at that stage that William disclosed the
+full name of Mdm Lou Swee Lan to me.
+
+[emphasis added]
+
+87 The defendants have not produced any evidence that Mr Wong knew that he was
+not authorised by SSI at all material times. In this connection, I also accept
+AAI’s submission that in fact, the parties had, at all material times leading
+up to the time of the assignment, understood that both Mr Wong and Mr Ong were
+authorised to act on SSI’s behalf. 104
+
+##### Foot Note 104
+
+×
+
+Plaintiff’s Reply Closing Submissions at para 45.
+
+As such, I do not find that the Ratification is an abuse of process.
+
+88 For the foregoing reasons, I find that the Ratification is valid. For
+completeness, I should address the defendants’ pleading that the Ratification
+“has not been made in full”. 105
+
+##### Foot Note 105
+
+×
+
+Asidokona’s Rejoinder at para 3(x); Mr Soh’s Rejoinder at para 3(x).
+
+The director’s resolutions passed by SSI plainly ratified and approved the
+Loan Agreement, Personal Guarantee, Deed of Charge, Deeds of Assignments,
+AAI’s commencement of the action and the joinder of SSI to the action. 106
+
+##### Foot Note 106
+
+×
+
+AB (Vol 4) at pp 179–180 (Written Resolutions of the Sole Director of SSI
+dated 26 July 2021).
+
+For present purposes, the Ratification suffices. Having ruled the Invalid
+Ratification Defence in favour of AAI, it is not necessary for me to deal with
+the Lack of Authority Defence.
+
+Whether AAI’s claim is tainted with illegality
+
+The parties’ arguments
+
+89 Turning to the Illegality Defence, it is not seriously disputed that a
+partial sum of S$1m used to finance the loan to Asidokona was contributed by
+Mr Wong (albeit with initial assistance from other persons including Mr Yong).
+107
+
+##### Foot Note 107
+
+×
+
+Plaintiff’s Closing Submissions at para 76.
+
+It is also not disputed that the loan amount was then disbursed out of funds
+from JLC Advisors’ client account. 108
+
+##### Foot Note 108
+
+×
+
+Defendants’ Closing Submissions at para 120.
+
+The thorny issue is in respect of the remaining S$1m used to finance the loan.
+In this regard, the defendants contend that the money was not from SSI/Ms Lou
+(ie, the “Hong Kong” investor) but instead comprised money misappropriated
+from other clients of JLC Advisors, thus tainting AAI’s claim with illegality.
+109
+
+##### Foot Note 109
+
+×
+
+Defendants’ Closing Submissions at para 128.
+
+The defendants submit that Ms Lou could not have been the “Hong Kong” investor
+as she had denied maintaining any pool of funds in JLC Advisors’ client
+account or contributing S$1m to the same. 110
+
+##### Foot Note 110
+
+×
+
+Defendants’ Closing Submissions at paras 123–129.
+
+90 In response, AAI submits that AAI has “adduced evidence to establish that
+the said partial sum of S$1m did belong to [Ms Lou]” which disproves the
+defendants’ “bare allegation” that the money was misappropriated from other
+clients. 111
+
+##### Foot Note 111
+
+×
+
+Plaintiff’s Closing Submissions at para 80; Plaintiff’s Reply Closing
+Submissions at paras 69–70.
+
+To begin with, Mr Ong deposed that at the material time, Mr William Wong and
+Ms Lou were his “regular clients” who “regularly appointed JLC Advisors to act
+for them and/or their many offshore corporate entities in various commercial
+deals” such as SSI. Arising from such course of dealing, there was an existing
+client account of which Mr Wong and Ms Lou were the beneficial owners. 112
+
+##### Foot Note 112
+
+×
+
+JOA at paras 8–10.
+
+91 Pertinently, Mr Ong’s testimony is corroborated by the objective
+documentary evidence. As early as 14 April 2016 (ie, before the loan was
+disbursed), JLC Advisors’ finance manager, Ms Michelle Chan, informed him by
+email that SSI had made a transfer of S$1m into the JLC Advisors’ client
+account. 113
+
+##### Foot Note 113
+
+×
+
+JOA Exhibit JO–1 at p 16.
+
+Even after the loan money was disbursed, SSI maintained and actively funded
+its client account with JLC Advisors. Other substantial funds were also
+credited into the JLC Advisors’ client account from SSI accounts: HKD1.5m on 8
+December 2016 and S$30,000 on 19 July 2017. 114
+
+##### Foot Note 114
+
+×
+
+JOA Exhibit JO–2 at pp 18–19 and pp 20–21.
+
+92 More crucially, Mr Ong unequivocally confirmed that the remaining sum of
+S$1m extended to Asidokona was deducted from the pool of funds which Mr
+William Wong and Ms Lou maintained in JLC Advisors’ client account. 115
+
+##### Foot Note 115
+
+×
+
+Plaintiff’s Closing Submissions at para 84; Transcript dated 3 September 2021
+at p 27, lines 1–18.
+
+As mentioned at [30], Mr Ong also confirmed that Mr William Wong was “the
+primary person who is in charge of the group of funds”. According to Mr Wong,
+Mr William Wong also represented to him that money from SSI was used to fund
+the loan. Mr Wong’s evidence was as follows: 116
+
+##### Foot Note 116
+
+×
+
+Transcript dated 1 September 2021 at p 87, line 26 to p 88, line 1.
+
+I then called William and I asked William. Maybe this translation may not be
+an accurate translation in English, but I asked him in Hokkien, I say, “Ah
+Hia, SSI wu ze eh lui zo ze eh loan boh?” In direct translation, it’s I said,
+“Eh, brother, did SSI have the funds to do this loan?” Right? In no sense am I
+saying that it could have been just SSI’s loan or monies. It could have been
+that they also had art---some other investors, so I don’t know. So William’s
+---confirm to me, he says, “Yes”. It was at that stage when I---when I spoke
+to William that he said that this is SSI’s funds.
+
+93 In that regard, even Ms Lou herself admitted that she would unquestionably
+follow her husband’s instructions when transferring moneys to the JLC
+Advisors’ client account: 117
+
+##### Foot Note 117
+
+×
+
+Transcript dated 2 September 2021 at p 84, lines 14–22.
+
+A As I said, this money was asked by my husband to transfer to JLC. I trust my
+husband, I don’t question him. And I do not ask what the money was for and
+where the money go to.
+
+Q So your husband told you to take the money from SSI and send to JLC?
+
+A Yes.
+
+Q And you followed those instructions?
+
+A Correct.
+
+Q You didn’t query it?
+
+A No.
+
+94 Mr Ong likewise testified that Ms Lou agreed with her husband’s decision to
+fund part of the loan: 118
+
+##### Foot Note 118
+
+×
+
+Transcript dated 3 September 2021 at p 6, lines 14–18.
+
+… The loan was discussed with [Ms Lou] and with William Wong. Of course, it is
+correct that William Wong was the---William was the one who was---would lead
+the discussions and would give instructions. That is correct. But she was
+aware of it, and she did not disagree when William gave the confirmation to go
+ahead with the loans.
+
+[emphasis added]
+
+Analysis and findings
+
+95 As AAI highlights, the evidence of Mr Wong, Mr Ong and the objective
+evidence showed that the sum of S$1m belonged to SSI, and was forwarded by Ms
+Lou to JLC Advisors, and that the sum was contributed by SSI towards the loan.
+Against such prima facie evidence of a loan extended partially using funds of
+SSI, the “only evidence” relied on by the defendants to support their
+assertions that not only did SSI not contribute the money, but also that the
+money was misappropriated from other clients, is merely Ms Lou’s equivocal
+evidence that neither she nor SSI had contributed any money to the loan. 119
+
+##### Foot Note 119
+
+×
+
+Plaintiff’s Reply Closing Submissions at para 77.
+
+96 In this connection, I should mention that by 20 October 2020, Mr William
+Wong (then Chairman, CW Group Holdings Limited) was named as a co-conspirator
+of Mr Ong in charges of conspiracy to cheat CW Group Holdings Limited. 120
+
+##### Foot Note 120
+
+×
+
+AB (Vol 4) at pp 169–172.
+
+Against this backdrop, I assess that Ms Lou had sought to distance herself
+from any dealings with Mr Ong. This explains her somewhat inconsistent,
+evasive and unhelpful evidence in court.
+
+97 Seen in that light, I am not satisfied that Ms Lou’s testimony in and of
+itself is sufficient to undermine AAI’s claim that SSI contributed the sum of
+S$1m towards the loan (much less support the defendants’ positive assertion
+that the said sum was misappropriated from other clients). Ms Lou’s answers to
+interrogatories were that “SSI did not place a sum of S$1,700,000 in M/s JLC
+Advisors LLP’s client account at the material time” and that “SSI never owned
+or beneficially owned a pool of funds in JLC Advisors’ client account” (see
+[51] above). 121
+
+##### Foot Note 121
+
+×
+
+Defendants’ Bundle of Relevant Cause Papers at Tab 12 (Lou Swee Lan’s Answers
+to Interrogatories dated 3 March 2021 at para 4(d)) and Tab 13 (Lou Swee Lan’s
+Answers to Interrogatories dated 19 April 2021 at para 1(b)(ii)).
+
+Ms Lou also testified at the trial that she did not know about the loan until
+about March 2020 and that she did not use S$1m from the pooled funds to
+finance the loan. 122
+
+##### Foot Note 122
+
+×
+
+Transcript dated 2 September 2021 at p 28 line 30 to p 29 line 4 and p 43,
+lines 21–30.
+
+The defendants rely on the foregoing evidence, among other similar statements
+made by Ms Lou, in support of their contention.
+
+98 However, other parts of Ms Lou’s testimony contradict the above. In
+particular, Ms Lou expressly acknowledged the remittance of S$1m by SSI. Her
+explanation was that “[she] made the transaction. [Her] husband asked [her] to
+make the transfer”. 123
+
+##### Foot Note 123
+
+×
+
+Transcript dated 2 September 2021 at p 44 line 24 to p 45 line 7.
+
+In that regard, Ms Lou had simply trusted her husband, Mr William Wong, and
+did not ask him what the S$1m was to be used for. 124
+
+##### Foot Note 124
+
+×
+
+Transcript dated 2 September 2021 at p 45, lines 14–18.
+
+Ms Lou also confirmed that, in SSI’s accounts, she simply recorded the
+remittance as “transfer to JLC”. 125
+
+##### Foot Note 125
+
+×
+
+Transcript dated 2 September 2021 at p 70, lines 9–11.
+
+As such, the defendants’ position is plainly not substantiated by the totality
+of Ms Lou’s evidence.
+
+99 Further, Ms Lou confirmed that the S$1m never came back to SSI. 126
+
+##### Foot Note 126
+
+×
+
+Transcript dated 2 September 2021 at p 70, lines 14–17.
+
+In my judgment, this is a crucial fact which suggests that the S$1m was
+transferred out of the JLC Advisors’ client account. Based on the totality of
+Ms Lou’s evidence before me, a reasonable inference to be drawn is that the
+S$1m was used to finance part of the loan to Asidokona pursuant to the Loan
+Agreement. Furthermore, such inference is supported by other corroborative
+evidence such as Mr Wong’s WhatsApp message to Ms Lou on 21 March 2020 wherein
+Mr Wong stated that Mr William Wong confirmed that “SSI [had] the funds to do
+the loan (in July 2016)” (see [45] above).
+
+100 Thus, taking the defendants’ case at its very highest, even if Ms Lou had
+transferred S$1m from SSI’s account to JLC Advisors’ client account at the
+instruction of Mr William Wong without knowing the purpose of such transfer, I
+am satisfied that the money was prima facie used to finance the loan to
+Asidokona. However, I also note that, if it is true that Ms Lou was completely
+oblivious as to the purpose of the remittance (which itself is doubtful based
+on her testimony), one might argue that this would result in the question of
+whether SSI’s funds in the JLC Advisors’ client account were otherwise
+misused. Nevertheless, I am satisfied that no such issue arises on the facts
+in light of the Ratification whereby SSI ratified the Loan Agreement entered
+into between SSI and Asidokona. Based on the foregoing, I reject the
+Illegality Defence.
+
+Whether the Deeds of Assignments savour maintenance and champerty
+
+The parties’ arguments
+
+101 Parties do not dispute the applicable test for whether an assignment
+savours maintenance and champerty. In Lim Lie Hoa and another v Ong Jane
+Rebecca [1997] 1 SLR(R) 775 (“Lim Lie Hoa”), the Court of Appeal (at [36])
+followed the principles as redefined and stated in the classic case of
+Trendtex Trading Corporation and another v Credit Suisse [1982] AC 679
+(“Trendtex”). In particular, the Court of Appeal cited with approval the
+following passage by Lord Roskill in Trendtex at 702–703 as follows:
+
+My Lords, just as the law became more liberal in its approach to what was
+lawful maintenance, so it became more liberal in its approach to the
+circumstances in which it would recognise the validity of an assignment of a
+cause of action and not strike down such an assignment as one only of a bare
+cause of action. Where the assignee has by the assignment acquired a property
+right and the cause of action was incidental to that right, the assignment was
+held effective. Ellis v Torrington [1920] 1 KB 399 is an example of such a
+case. Scrutton LJ stated, at pp 412–413, that the assignee was not guilty of
+maintenance or champerty by reason of the assignment he took because he was
+buying not in order to obtain a cause of action but in order to protect the
+property which he had bought.
+
+…
+
+The court should look at the totality of the transaction. If the assignment is
+of a property right or interest and the cause of action is ancillary to that
+right or interest, or if the assignee had a genuine commercial interest in
+taking the assignment and in enforcing it for his own benefit, I see no reason
+why the assignment should be struck down as an assignment of a bare cause of
+action or as savouring of maintenance.
+
+[emphasis in italics]
+
+102 The parties rely on both cases. 127
+
+##### Foot Note 127
+
+×
+
+Plaintiff’s Closing Submissions at paras 104–105; Defendants’ Closing
+Submissions at paras 186–187.
+
+In particular, the parties dispute whether the assignments in the present case
+are of property rights or bare causes of action, or whether AAI has any
+genuine commercial interest in the assignments. 128
+
+##### Foot Note 128
+
+×
+
+Defendants’ Closing Submissions at para 189.
+
+103 AAI submits that the Deeds of the Assignments (and in particular, cl 2.1
+read with Recital (C) and Recital (D) for the First Deed of Assignment and
+Second Deed of Assignment respectively) expressly provide that the assignments
+are for all of AAI’s rights, title and interest in the Loan Agreement,
+Personal Guarantee and Deed of Charge. As such, SSI’s property rights (for the
+debt due and owing from the defendants, as well as the Charged Shares) were
+assigned, and not bare causes of action to sue the defendants. 129
+
+##### Foot Note 129
+
+×
+
+Plaintiff’s Closing Submissions at para 106.
+
+Also, AAI submits that it is not a disinterested party, but has a genuine
+commercial interest in the assignments. The controlling shareholder and
+director of AAI (ie, Mr Wong) contributed towards half of the loan, and there
+is evidence by way of two cheques to show that AAI had already given SSI a sum
+of S$500,000 for the assignment of the loan. 130
+
+##### Foot Note 130
+
+×
+
+AB (Vol 4) at pp 91–92.
+
+104 The defendants contend that AAI seeks to profit from the present action
+and ought to be prohibited from doing so. In that regard, AAI agreed to, inter
+alia, pass on half of the monies which it recovers from the action, having
+deducted all of its own costs and expenses, to SSI. This is pursuant to cll
+3.4 to 3.5 of the Deed of Undertaking. 131
+
+##### Foot Note 131
+
+×
+
+Defendants’ Closing Submissions at paras 206–212.
+
+The defendants also allege those same clauses incentivised SSI and Ms Lou into
+executing the Ratification. 132
+
+##### Foot Note 132
+
+×
+
+Defendants’ Closing Submissions at paras 98–100.
+
+Such circumstances must be taken into account in assessing the assignments.
+
+Analysis and findings
+
+105 In my judgment, the Maintenance and Champerty Defence is unmeritorious.
+
+106 It is plain from the Deeds of Assignments that the assignments are not
+over bare causes of action. The fact that the Deeds of Assignments also
+incidentally conferred causes of action does not mean that the assignments
+savour maintenance and champerty. In particular, Recital (C) of the First Deed
+of Assignment read with cl 2.1 clearly provides that: 133
+
+##### Foot Note 133
+
+×
+
+Plaintiff’s Core Bundle at pp 1–2 (First Deed of Assignment dated 30 March
+2018).
+
+(C) The Assignor has agreed to assign all its legal and beneficial right,
+title and interest in the Debt and the Loan Agreement and the Guarantee to the
+Assignee on the terms and conditions set out below.
+
+…
+
+2.1 Assignment of rights
+
+Subject to the terms of this deed, the Assignor unconditionally, irrevocably
+and absolutely assigns to the Assignee all of the Assignor’s rights, title,
+interest and benefits in and to:
+
+2.1.1 the Debt;
+
+2.1.2 the Loan Agreement; and
+
+2.1.3 the Guarantee,
+
+with effect from the Assignment Date.
+
+[emphasis in bold in original; emphasis added in italics]
+
+107 Recital (D) of the Second Deed of Assignment read with cl 2.1 likewise
+clearly provides that: 134
+
+##### Foot Note 134
+
+×
+
+Plaintiff’s Core Bundle at p 6 (Second Deed of Assignment dated 15 November
+2018).
+
+(D) The Assignor has agreed to assign all its rights, title, interest and
+benefits under the Deed of Charge to the Assignee on the terms and conditions
+set out below.
+
+…
+
+2.1 Assignment of rights
+
+Subject to the terms of this deed, the Assignor unconditionally, irrevocably
+and absolutely assigns to the Assignee all the Assignor’s rights, title,
+interest and benefits in and to the Charged Shares under the Deed of Charge,
+with effect from the Assignment Date.
+
+[emphasis in bold in original; emphasis added in italics]
+
+108 As stated in Lim Lie Hoa and Trendtex, where the assignee has by the
+assignment acquired a property right and the cause of action is incidental to
+that right, the assignment is effective. Based on the Deeds of Assignments, it
+is patently clear that SSI assigned to AAI its property rights (ie, the debt
+due and owing from the defendants and the Charged Shares), and not bare causes
+of action. In this regard, the defendants do not argue (nor do I think it
+would be tenable to argue) that debts and shares do not constitute property.
+Thus, the assignments are effective.
+
+109 I deal briefly with the contentions in relation to the Deed of
+Undertaking. An arrangement where the assignor and assignee “share the
+recovered sums … if the suit succeeds” does not ipso facto savour maintenance
+and champerty. In this regard, the court must be careful to look at “the
+totality of the transaction” (Trendtex at 703). By the Deed of Undertaking,
+AAI, SSI and Ms Lou agreed that upon a successful recovery of the sum by AAI
+from Asidokona and/or Mr Soh in the action, the sum shall first be used to
+reimburse AAI for all of its costs and expenses. The remaining balance shall
+be shared equally by AAI and SSI (ie, in a 50:50 split). As pointed out by
+AAI, there is “nothing sinister in AAI’s transfer of half of the monies
+recovered in the [action] to SSI”. Such an arrangement is “consistent with
+AAI’s case all along” that the monies loaned to Asidokona were contributed by
+Mr Wong and Ms Lou equally. 135
+
+##### Foot Note 135
+
+×
+
+Plaintiff’s Reply Closing Submissions at para 63.
+
+In fact, Ms Lou agreed that the arrangement under the Deed of Undertaking was
+the same one from the very beginning of the loan to Asidokona. 136
+
+##### Foot Note 136
+
+×
+
+Transcript dated 2 September 2021 at p 99, lines 9–20.
+
+In my view, the arrangement, which is in line with the respective parties’
+interests at all material times, only buttresses AAI’s case rather than
+defeats it.
+
+110 Having ruled in favour of AAI as stated above, I do not see it necessary
+to deal further with the question of whether AAI has any genuine commercial
+interest in the assignments. Thus, I move on to the Illegal Moneylending
+Defence.
+
+Whether the loan is an illegal moneylending transaction under the Moneylenders
+Act
+
+111 I begin by setting out the applicable legal principles. Section 5(1) of
+the MLA prohibits a person from carrying on the business of moneylending in
+Singapore as follows:
+
+A person must not carry on or hold out in any way that the person is carrying
+on the business of moneylending in Singapore, whether as principal or as
+agent, unless the person —
+
+(a) is authorised to do so by a licence;
+
+(b) is an excluded moneylender; or
+
+(c) is an exempt moneylender.
+
+[emphasis added]
+
+112 In Sheagar s/o T M Veloo v Belfield International (Hong Kong) Ltd [2014] 3
+SLR 524 (“Sheagar”) at [30], the Court of Appeal remarked that to put this in
+positive terms, the “business of moneylending” may be carried out by those who
+are licensed to do so, or by excluded or exempt moneylenders.
+
+113 The consequences of unlicensed moneylending are set out in s 19(3) of the
+MLA as follows:
+
+Where any contract for a loan has been granted by an unlicensed moneylender,
+or any guarantee or security has been given for such a loan —
+
+(a) the contract for the loan, and the guarantee or security (as the case may
+be) is unenforceable; and
+
+(b) any money paid by or on behalf of the unlicensed moneylender under the
+contract for the loan is not recoverable in any court of law.
+
+114 In Sheagar, the Court of Appeal summarised the framework in relation to s
+14(2) of the Moneylenders Act 2008 (Act 31 of 2008) (which is in pari materia
+with s 19(3) of the MLA) as follows (at [75]):
+
+(a) To rely on s 19(3) of the MLA, the borrower must prove that the lender was
+an “unlicensed moneylender”.
+
+(b) If the borrower can establish that the lender has lent money in
+consideration for a higher sum being repaid, he may rely on the presumption
+contained in s 3 of the MLA to discharge this burden. For completeness, s 3
+provides that “[a]ny person, other than an excluded moneylender, who lends a
+sum of money in consideration of a larger sum being repaid is presumed, until
+the contrary is proved, to be a moneylender.”
+
+(c) The burden then shifts to the lender to prove that he either does not
+carry on the business of moneylending or possesses a moneylending licence or
+is an “exempted moneylender”.
+
+(d) However, if there is an issue as to whether the lender is an excluded
+moneylender, the legal burden of proving that he is not will fall on the
+borrower. In this regard, by s 2 of the MLA, an “excluded moneylender”
+includes “any person” who “lends money solely” to “corporations” (under s
+2(e)(iii)(A) of the MLA).
+
+115 I should add that in E C Investment Holding Pte Ltd v Ridout Residence Pte
+Ltd and another (Orion Oil Ltd and another, interveners) [2011] 2 SLR 232 (“E
+C Investment”) at [135], two tests were put forth to determine if a person is
+carrying on the business of moneylending. The first is “whether there was a
+certain degree of system and continuity in the transactions” (the “Continuity
+Test”) and, if the answer is no, then the second is whether the alleged
+moneylender is one who is ready and willing to lend to all and sundry provided
+that they are from his point of view eligible” (the “All and Sundry Test”).
+
+The parties’ arguments
+
+116 As set out at [37] above, the Illegal Moneylending Defence relied on
+particulars which essentially alleged that the loan was de facto made to Mr
+Soh personally. 137
+
+##### Foot Note 137
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 17; Mr Soh’s Defence (Amendment
+No 4) at para 18.
+
+Therefore, SSI was not an “excluded moneylender”. At the trial, counsel for
+the defendants confirmed that they were no longer pursuing the defence that
+the loan was made to Mr Soh in his personal capacity. Nonetheless, the
+defendants maintain their position that the presumption under s 3 of the MLA
+that SSI is a moneylender applies in the present case as the “amount to be
+allegedly repaid” by the defendants “far exceeds the alleged loan amount”. 138
+
+##### Foot Note 138
+
+×
+
+Defendants’ Closing Submissions at para 219(a).
+
+117 Having already relied on s 3 of the MLA to presume SSI to be a
+moneylender, in a slightly confusing manner, the defendants argue that both
+the Continuity Test and the All and Sundry Test are satisfied, and the loan
+amounts to “illegal money lending”. 139
+
+##### Foot Note 139
+
+×
+
+Defendants’ Closing Submissions at paras 219(c)–(d).
+
+The defendants submit that the Continuity Test is satisfied because, during
+the course of the present proceedings, “it has become evident that SSI has
+been used as a front in respect of a ‘series of transactions’ mirroring an
+‘organised scheme of moneylending’” which has been revealed by AAI’s “own
+evidence”. For example, SSI was also involved in an “alleged loan between SSI
+and JC Global Concepts Pte Ltd … (“JC Global”)” 140
+
+##### Foot Note 140
+
+×
+
+Defendants’ Closing Submissions at para 219(c); JOA at para 13.
+
+and Mr Ong also deposed that SSI was allegedly involved in “various commercial
+deals”. 141
+
+##### Foot Note 141
+
+×
+
+JOA at para 10.
+
+Also, the defendants submit that the All and Sundry Test is satisfied. In that
+regard, the defendants submit that SSI lent moneys to ““all and sundry”, even
+to parties such as the [d]efendants and/or JC Global, that [Ms Lou] … had no
+knowledge of”. 142
+
+##### Foot Note 142
+
+×
+
+Defendants’ Closing Submissions at para 219(d).
+
+118 In response, AAI argues that the defendants have essentially “abandoned
+their entire pleaded position in relation to the [l]oan being a sham corporate
+loan” and as such, there is “no longer any basis” for the defendants to pursue
+the Illegal Moneylending Defence. 143
+
+##### Foot Note 143
+
+×
+
+Plaintiff’s Reply Closing Submissions at para 101.
+
+In arguing that the Continuity Test and the All and Sundry Test are satisfied,
+the defendants seek to “advance a case on an issue that is not pleaded” and
+furthermore, the “factual allegations” underpinning such submission are not
+pleaded. 144
+
+##### Foot Note 144
+
+×
+
+Plaintiff’s Reply Closing Submissions at para 103.
+
+In any event, the present loan cannot be rendered void under s 19(3) read with
+ss 2 and 5(1) of the MLA. 145
+
+##### Foot Note 145
+
+×
+
+Plaintiff’s Reply Closing Submissions at paras 104–107.
+
+AAI submits that SSI has not been shown, on the evidence, to have been in the
+business of moneylending 146
+
+##### Foot Note 146
+
+×
+
+Reply (Amendment No 5) to the Defence of the First Defendant (Amendment No 4)
+at para 14; Reply (Amendment No 5) to the Defence of the Second Defendant
+(Amendment No 4) at para 15; Plaintiff’s Reply Closing Submissions at para
+108.
+
+or that SSI is otherwise not an excluded moneylender under s 2(e)(iii)(A) of
+the MLA. 147
+
+##### Foot Note 147
+
+×
+
+Reply (Amendment No 5) to the Defence of the First Defendant (Amendment No 4)
+at para 15; Reply (Amendment No 5) to the Defence of the Second Defendant
+(Amendment No 4) at para 16; Plaintiff’s Reply Closing Submissions at paras
+113–115.
+
+In that regard, the loan was made to Asidokona and is thus a loan to a
+corporation which falls squarely within the definition of an “excluded
+moneylender”.
+
+Analysis and findings
+
+119 I turn to apply the framework which the Court of Appeal set out in
+Sheagar. To prove that SSI is a moneylender, the defendants rely on s 3 of the
+MLA since the amount to be repaid by the defendants “far exceeds” the loan
+amount. 148
+
+##### Foot Note 148
+
+×
+
+Defendants’ Closing Submissions at para 219(a).
+
+Thereafter, the pertinent issue is whether SSI is an “excluded moneylender”
+under the MLA. If so, then it does not matter whether SSI could be said to be
+a moneylender carrying out a business of moneylending in Singapore.
+Consequently, s 19(3) of the MLA would likewise not apply so as to render the
+contract, the guarantee, and the security for the loan unenforceable.
+
+120 On the evidence before me, SSI’s loan in the present case is extended only
+to a corporation (ie, Asidokona, which is a company registered in Singapore).
+As such, the evidence points to SSI falling squarely within the definition of
+an “excluded moneylender”. To reiterate, the defendants have abandoned their
+initial allegation that the loan is made to Mr Soh personally and not to
+Asidokona.
+
+121 As stated in Sheagar, the legal burden of proving that SSI is not an
+excluded moneylender falls on the defendants. In my judgment, the defendants
+fall far short of doing so. In fact, the defendants do not address the
+question of whether SSI falls within the definition of an excluded moneylender
+under s 2(e)(iii)(A) of the MLA at all. Instead, the defendants submit that
+there were “suspicious and dubious circumstances” surrounding the loan which
+“points towards an illegal moneylending transaction” such as: (a) Ms Lou
+denying that SSI entered into the loan transaction or disbursed any moneys;
+(b) Mr Ong using “SSI as a front to funnel illegal [moneys] from JLC Advisors’
+account”; (c) that the modus operandi adopted by Mr Ong was “similarly also
+adopted in at least one other case which has been disclosed in the course of
+the proceedings”; and (d) the interest rates imposed are “exorbitant”. 149
+
+##### Foot Note 149
+
+×
+
+Defendants’ Closing Submissions at para 220.
+
+122 In my judgment, none of these factors were relevant in determining the
+crucial issue of whether SSI is an “excluded moneylender” under the MLA. I
+elaborate. As regards Ms Lou’s initial denial, I have already dealt with the
+same factual contention in respect of the Illegality Defence and the
+Ratification Issue above and need not say more. The defendants’ related
+allegation that Mr Ong used SSI as a front to funnel moneys from the JLC
+Advisors’ account thus also falls away.
+
+123 Further, Mr Ong’s evidence does not support the contention that there was
+a modus operandi whereby SSI was used as a front for an organised scheme of
+moneylending. Taken in context, Mr Ong simply mentioned that Mr William Wong
+and Ms Lou “regularly appointed JLC Advisors to act for them and/or their many
+offshore corporate entities in various commercial deals”. 150
+
+##### Foot Note 150
+
+×
+
+JOA at para 10.
+
+In any event, the “one other case” uncovered in the proceedings which is an
+alleged loan between SSI and JC Global. Again, this alleged loan was to a
+corporation, and did not take SSI outside the ambit of “excluded moneylender”.
+
+124 Finally, the interest rate does not aid the defendants’ case any further.
+While there might be some link between the contractual interest rate in
+establishing whether SSI is a moneylender, it is altogether unhelpful in
+dealing with the issue of whether SSI is an excluded moneylender.
+
+125 Thus, I reiterate that the defendants fail to discharge their burden of
+proof and I accept that SSI is an “excluded moneylender” under the MLA. This
+is sufficient to dispose of the defendants’ Illegal Moneylending Defence.
+Nevertheless, I note that Quentin Loh J (as he then was) made a short remark
+in E C Investment, leaving open the question of whether the excluded
+moneylender exception would always apply if the borrower is a corporation (at
+[139(b)]). In this regard, Loh J commented:
+
+… the [Moneylenders Act (Cap 188, 2010 Rev Ed)] introduced a new concept of
+“excluded moneylender” which is defined, inter alia, as a party who lends
+money solely to corporations: s 2(e)(iii)(A). … If a literal interpretation of
+the Moneylenders Act is taken, even if the transaction was in substance a loan
+to the [Ridout Residence Pte Ltd], [E C Investment Holding Pte Ltd] would be
+an “excluded moneylender” under the Moneylenders Act. The result would be the
+same if a purposive interpretation was adopted. However I must not be taken to
+say that so long as a borrower is a corporation, no matter what the
+circumstances or nature of shareholding, the excluded moneylender exception
+would apply. Depending on the facts and circumstances, it may.
+
+[emphasis added]
+
+126 In my view, Loh J was careful to express that E C Investment should not be
+interpreted to stand for the proposition that the “excluded moneylender”
+exception would necessarily always apply so long as a borrower is a
+corporation no matter what the circumstances or the nature of the
+shareholding. The opposite, however, must also be true in that E C Investment
+does not set out any further requirements in addition to that set out under
+the MLA which must be satisfied before a person may be considered to be an
+“excluded moneylender” under the MLA. Indeed, Loh J’s holding was precisely
+that the loan in that case was made to a corporation such that the plaintiff
+was an “excluded moneylender”. In that regard, reading Loh J’s remarks in
+context, E C Investment should be understood as an expression of caution – the
+court should consider the substance of the loan in question (for example, by
+considering “the circumstances or nature of shareholding”) to consider who the
+actual borrower of the particular loan in question is.
+
+127 In any case, the issue does not arise here since the defendants have
+abandoned their allegation that the loan was de facto made to Mr Soh and not
+Asidokona. Having concluded that SSI is an “excluded moneylender”, I reject
+the Illegal Moneylending Defence. With that, I turn to the defendants’ final
+defence, the Penalty Clause Defence.
+
+Whether the interest clauses under the Loan Agreement are enforceable
+
+The parties’ arguments
+
+128 It is undisputed that under the Loan Agreement, the contractual interest
+rate is 5% a month while the contractual default interest rate is 6% a month.
+151
+
+##### Foot Note 151
+
+×
+
+Defendants’ Closing Submissions at para 240; Plaintiff’s Reply Closing
+Submissions at para 131.
+
+This amounts to S$100,000 and S$120,000 a month respectively based on the
+outstanding principal amount of S$2m.
+
+129 AAI submits that it is for the defendants to show that the contractual
+default interest rate amounts to a penalty clause. As the defendants cannot
+prove that the default interest is extravagant and unconscionable in
+comparison with the greatest loss that could conceivably be proved to have
+followed from the breach, the defendants cannot prove that it amounts to a
+penalty clause and thus unenforceable. AAI also distinguishes the present case
+from that of E C Investment as the security provided in the two cases are very
+different. 152
+
+##### Foot Note 152
+
+×
+
+Plaintiff’s Closing Submissions at paras 90–103.
+
+130 The defendants submit that both interest rates are clearly extortionate,
+especially in the light of the fact that there is no evidence that it is a
+genuine pre-estimate of AAI’s losses. In that regard, the defendants submit
+that it is for AAI to prove that the interest claimed is a reasonable estimate
+of their loss. The defendants also rely on E C Investment, where Loh J found
+that a monthly interest rate of 6% “can be considered extortionate or
+usurious” (at [138]). Thus, the respective interest rates are penal in nature
+and ought to be rendered enforceable. 153
+
+##### Foot Note 153
+
+×
+
+Defendants’ Closing Submissions at paras 239–247.
+
+Analysis and findings
+
+131 I set out the legal principles applicable to the issue as follows:
+
+(a) the rule against contractual penalties (the “Penalty Rule”) applies only
+to secondary obligations (ie, obligations which arise upon a breach of
+contract) and not primary obligations: Leiman, Ricardo and another v Noble
+Resources Ltd and another [2020] 2 SLR 386 at [100];
+
+(b) where parties stipulate in a contract the sum to be paid in the event of a
+breach, it is for the party being sued on the agreed sum to show that the term
+is a penalty: CLAAS Medical Centre Pte Ltd v Ng Boon Ching [2010] 2 SLR 386 at
+[63]; and
+
+(c) the test for penalty clauses is whether the sum stipulated for is
+extravagant and unconscionable in amount in comparison with the greatest loss
+that could conceivably be proved to have followed from the breach: Dunlop
+Pneumatic Tyre Co, Ltd v New Garage and Motor Co, Ltd [1915] AC 79 at 87,
+affirmed in Denka Advantech Pte Ltd and another v Seraya Energy Pte Ltd and
+another and other appeals [2021] 1 SLR 631 (“Denka”).
+
+132 To elaborate, the Court of Appeal held in Denka that the rule against
+penalties “applies only where there has first been a breach of contract”
+[emphasis in original] (at [99]). As explained by the Court of Appeal, “the
+utilisation of breach of contract as a prerequisite is not a mere arbitrary
+drawing of a legal line but is related to the objective of the Penalty Rule in
+regulating secondary (and not primary) obligations” [emphasis in original] (at
+[100]). Such prerequisite ensures that the Penalty Rule is “confined to the
+sphere of secondary obligations only – specifically, the obligation on the
+part of the defendant to pay damages to the plaintiff”, such that the “primary
+obligations between contracting parties are not interfered with at all”
+[emphasis in original] (at [92]).
+
+133 As the Penalty Rule applies only to secondary obligations, I accept AAI’s
+argument that it “cannot even be engaged” on the contractual interest rate of
+5% per month since that “concerns a primary obligation to repay the [l]oan,
+and is not one which comes into effect only upon a breach of the Loan
+Agreement” [emphasis in original]. 154
+
+##### Foot Note 154
+
+×
+
+Plaintiff’s Closing Submissions at para 96; Plaintiff’s Reply Closing
+Submissions at para 133.
+
+I note that this specific point is not addressed by the defendants. In
+particular, the defendants persist in their submissions that both the
+contractual interest and default interest clauses are unenforceable as they
+are penalty clauses without more. 155
+
+##### Foot Note 155
+
+×
+
+Defendants’ Closing Submissions at para 239.
+
+The defendants’ position is not legally tenable.
+
+134 Next, the defendants have no evidence to show that such rates are
+“extravagant and unconscionable in amount in comparison with the greatest loss
+that could conceivably be proved to have followed from the breach”. In that
+regard, the defendants merely assert that the interest rate of 6% per month is
+“clearly” extortionate (relying on E C Investment) and contend that it is for
+AAI to show that the clauses are reasonable estimates of its losses. 156
+
+##### Foot Note 156
+
+×
+
+Defendants’ Closing Submissions at paras 244–246.
+
+135 Again, the defendants’ position is not legally tenable since the burden of
+proof falls on the defendants (see [131(b)]). I note that Mr Soh is an
+experienced banker and businessman. From the communications produced before
+me, when he entered into the Loan Agreement, Mr Soh was well aware of the
+applicable interest rates. Once again, I reiterate that Mr Soh has dropped his
+allegations that the bargaining process was imbalanced, he was pressured into
+accepting the high interest rates, and that the interest rate was meant to be
+3% per month. Certainly, it is not for the court to question the commercial
+decision made by parties. It could be that, depending on the totality of the
+circumstances (such as the principal sum concerned, the urgency of the loan,
+and the type and nature of security for the loan, if any), such a default
+interest clause with such a default interest rate may amount to a penalty
+clause. Indeed, I note that in E C Investment, the loan of S$1.5m for 60 days
+was secured by real property worth S$29m, and it was in view of such
+circumstances that Loh J found the interest on the loan at 6% per month “can
+be considered extortionate or usurious” (at [138]). Here, the short-term loan
+was secured only by Mr Soh’s personal guarantee, and Mr Soh’s shares in
+Asidokona which is a private company incorporated a year prior to the loan.
+The defendants have simply failed to adduce evidence to show that the interest
+rate of 6% per month (which is 1% above the applicable interest rate of 5% per
+month) is extravagant and unconscionable.
+
+Commencement of default interest
+
+136 Having found that the default interest clause is valid and enforceable, a
+further issue arises as to when default interest should start running.
+
+137 According to Mr Wong, as at 5 March 2020, the balance sum due under the
+Loan Agreement (deducting the payments already made of S$900,000) as set out
+at [23] above is calculated to be as follows: 157
+
+##### Foot Note 157
+
+×
+
+WJWA at para 137.
+
+Particulars  
+---  
+S/N| Item Description| Outstanding Amount / S$  
+1\. | Loan Principal Amount| 2,000,000  
+2\. | Interest payable under cl 6.1 of the Loan Agreement| 200,000  
+3\. | Default interest payable under cl 7.1 of the Loan Agreement (calculated from 22 June 2017 to 20 July 2018)| 1,554,410.96  
+4\. | Default interest payable under cl 7.1 of the Loan Agreement (calculated from 21 July 2018 to 5 March 2020)| 2,335,092.75  
+Total| 6,089,503.71  
+  
+138 Mr Wong explained that the loan was extended until 21 January 2017 only
+(see [21] above). Even though Asidokona is liable for default interest from 22
+January 2017 onwards, on a goodwill basis, AAI calculated default interest
+from 22 June 2017 onwards at 6% per month of S$2m being S$120,000 per month.
+158
+
+##### Foot Note 158
+
+×
+
+WJWA at para 136.
+
+139 Indeed, in the Amended Statement of Claim, the table after paragraph 22
+shows a tabulation of default interest from 22 June 2017 to 20 July 2018
+(being the date of the Statement of Claim). However, I note that at paragraphs
+11, 14 and 15 of the Amended Statement of Claim, AAI states that the parties
+agreed to three extensions of the Loan Agreement until 21 January 2017, 31
+August 2017 and 30 September 2017 respectively. For each of these extensions,
+AAI pleads that the loan may be extended thereafter on a month-to-month basis
+at the discretion of AAI. At paragraph 19 of the Amended Statement of Claim,
+AAI pleads that “[a]s a result of the repeated delays and failure on the part
+of the [d]efendants to repay the Loan, SSI was not agreeable to any further
+extension of the Loan beyond March 2018”.
+
+140 In response, the defendants plead that in any event, the default interest
+should only take effect after March 2018. This is based on AAI’s position that
+“SSI was not agreeable to any further extension… beyond March 2018.” 159
+
+##### Foot Note 159
+
+×
+
+Asidokona’s Defence (Amendment No 4) at para 19; Mr Soh’s Defence (Amendment
+No 4) at para 20.
+
+However, at the trial, the defendants appeared to have conceded the point. The
+defendants accepted the calculations set out at [138] above, and made no
+mention of this in the closing submissions. 160
+
+##### Foot Note 160
+
+×
+
+Transcript dated 7 September 2021 at p 4, lines 24–30.
+
+Upon the issue being raised with the parties, the defendants retracted the
+concession, and maintains that the calculation of default interest should, in
+any event, commence on 1 April 2018. 161
+
+##### Foot Note 161
+
+×
+
+Oral Submissions of 14 February 2022.
+
+141 In my view, AAI cannot claim what has not been clearly and consistently
+pleaded. Despite the table after paragraph 22 of the Amended Statement of
+Claim setting out the calculation of default interest from 22 June 2017, the
+other paragraphs state AAI’s position to be that the Loan Agreement was
+extended to the end of March 2018 (apparently on the same basis as the very
+first extension to 21 January 2017 – which AAI does not dispute is based on
+the interest rate of 5% per month). Indeed, AAI does not plead that the second
+and third extensions were on terms different from the first extension.
+Further, from Mr Soh’s WhatsApp messages set out at [22] above, it appears to
+me that the parties’ understanding was that such extensions on a month-to-
+month basis would be based on the interest of $100,000 per month, ie, interest
+of 5% per month and not default interest of 6% per month. Therefore, I am of
+the view that default interest should only run from 1 April 2018.
+
+Conclusion
+
+142 To conclude, on the evidence before me, I am satisfied that AAI has proven
+its case against both defendants. I am also of the view that the defendants’
+grounds for disputing the claim are not made out on the law and evidence
+before me. As such, I grant judgment in favour of AAI against the defendants
+for the principal amount of the loan of S$2m, with interest payable under cl
+6.1 of the Loan Agreement at 5% per month to be calculated from 22 July 2016
+to end March 2018, and default interest under cl 7.1 of the Loan Agreement at
+6% per month from 1 April 2018 to date of payment. AAI is to give credit to
+the defendants for payment of the sum of S$900,000 which I accept to be made
+towards the interest on the Loan Agreement only (and not the principal
+amount). In my judgment, it is plain from the objective contemporary
+communications from Mr Soh to Mr Wong that the money set aside (being the
+initial sum of S$300,000) and subsequent payments of S$900,000 were intended
+for the payment of interest (see [12] and [22] above).
+
+143 Pursuant to cl 4 of the Deed of Charge, Mr Soh is also to deliver to AAI
+(a) all share certificates representing the Charged Shares; (b) two share
+transfer forms duly executed in respect of the Charged Shares; and (c) a
+certified true copy of the Register of Members of Asidokona duly annotated by
+the company secretary of Asidokona to note that the Charged Shares are the
+subject of a charge in favour of AAI.
+
+144 In relation to costs, AAI submits that the defendants should be ordered to
+pay costs on an indemnity basis for two reasons. First, it is contractually
+provided for at cl 10 of the Loan Agreement, as well as cl 2.1 of the Personal
+Guarantee. Second, this is an appropriate course for the present case given
+the defendants’ conduct of pursuing an entirely unmeritorious defence. 162
+
+##### Foot Note 162
+
+×
+
+Plaintiff’s Closing Submissions at paras 116–119.
+
+The defendants “vehemently deny and oppose” this submission, and argue that
+they have “only raised legitimate issues that have arisen over the course of
+the proceedings, specifically through [Ms Lou]”. 163
+
+##### Foot Note 163
+
+×
+
+Defendants’ Closing Submissions at para 248.
+
+145 Where there is a contractual agreement between parties prescribing that,
+in the event of a dispute, legal costs are to be paid by one party to another
+on an indemnity basis, the court “must have the power to override the parties’
+agreement as to costs in order to preserve the integrity of the administration
+of justice” such that “where the claim for costs on the basis of a contractual
+provision is manifestly unjust, the court can and should intervene to disallow
+the claim in the exercise of its discretion” (Abani Trading Pte Ltd v BNP
+Paribas and another appeal [2014] 3 SLR 909 (“Abani”) at [93]). In that
+regard, “in the absence of manifest injustice, the court will tend towards
+upholding the contractual bargain entered into by both parties” (Abani at
+[93]).
+
+146 On all the circumstances of the present case, I see no reason to depart
+from the contractual agreement that the defendants pay costs on an indemnity
+basis. No “manifest injustice” can be said to arise in the circumstances to
+justify the court exercising its discretion to override the parties’ agreement
+for indemnity costs. Such costs order should be unsurprising, given that the
+defendants had agreed to indemnity costs under the Loan Agreement and the
+Personal Guarantee. This is sufficient to dispose of the defendants’ objection
+to paying costs on an indemnity basis. Nevertheless, since both parties also
+submitted on the defendants’ conduct, I make the following remarks.
+
+147 This should have been a straightforward claim for the recovery of the
+loan. To support the Illegal Moneylending Defence, the defendants made many
+bare allegations contrary to the objective contemporaneous evidence, including
+unwarranted and unnecessary allegations against Ms Pok. In particular, the
+allegation that Mr Soh signed blank pages flies in the face of clear WhatsApp
+messages and emails exchanged at the material time. Indeed, the communications
+clearly show that at all material times, Mr Soh was fully aware that the loan
+was meant to be granted to Asidokona, with Mr Soh as the guarantor. Having
+made these unsubstantiated allegations, Mr Soh elected (unsurprisingly) not to
+testify to substantiate his assertions. Further, after Mr Ong’s legal troubles
+in 2019, Ms Lou began distancing herself from the loan transaction. In my
+view, the defendants capitalised on the situation and introduced a number of
+unmeritorious defences so as to evade liability. Accordingly, I have no
+hesitation in awarding costs to AAI on an indemnity basis against the
+defendants. Such costs are to be taxed (if not agreed).
+
+Hoo Sheau Peng  
+Judge of the High Court|  
+---|---  
+  
+Narayanan Sreenivasan SC, Rajaram Muralli Raja and Tan Si Xin Adorabelle (K&L
+Gates Straits Law LLC) for the plaintiff;
+
+Mulani Prakash P and Ruelia Nesaranjini d/o Ravindran Rufus
+
+(M & A Law Corporation) for the first and second defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 25 Feb 2022 (11:32 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

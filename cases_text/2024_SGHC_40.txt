@@ -1,0 +1,429 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2024] SGHC 40
+
+Originating Application No 28 of 2024
+
+In the matter of section 370 of the Insolvency, Restructuring and Dissolution
+Act 2018  
+---  
+  
+And
+
+In the matter of Order 4, Rule 7 of the Rules of Court 2021  
+---  
+  
+(1)| Chan Kwong Shing, Adrian  
+(in his capacity as the joint and several trustee of the bankruptcy estate of
+Ng Yu Zhi)  
+---|---  
+(2)| Lai Seng Kwoon  
+(in his capacity as the joint and several trustee of the bankruptcy estate of
+Ng Yu Zhi)  
+  
+… Applicants
+
+And
+
+| Invidia Capital Pte Ltd (in creditors’ voluntary liquidation)  
+---|---  
+  
+… Respondent
+
+judgment
+
+[Insolvency Law — Bankruptcy — Seizure of bankrupt’s books, papers or records]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Chan Kwong Shing Adrian (in his capacity as the joint and several trustee of
+the bankruptcy estate of Ng Yu Zhi) and another
+
+  
+v
+
+  
+Invidia Capital Pte Ltd (in creditors’ voluntary liquidation)
+
+[2024] SGHC 40
+
+General Division of the High Court — Originating Application No 28 of 2024  
+Goh Yihan J  
+8 February 2024
+
+9 February 2024 Judgment reserved.
+
+Goh Yihan J:
+
+1 The applicants, Mr Chan Kwong Shing, Adrian and Mr Lai Seng Kwoon, are the
+joint and several trustees (the “Private Trustees”) of the bankruptcy estate
+of Mr Ng Yu Zhi (“NYZ”). This is their application against the respondent,
+Invidia Capital Pte Ltd (in creditors’ voluntary liquidation) (“ICPL”), for,
+among other orders, the primary order that ICPL’s liquidator (the
+“Liquidator”) provide copies of certain emails (the “Extracted Email Results”)
+to them.
+
+2 Following discussions between the applicants and the Liquidator, the latter
+agreed to provide the Extracted Email Results to the former. However, the
+Liquidator asked that this be done by way of a consent application and for an
+order of court to be obtained for good order. The applicants have therefore
+brought this consent application for the Liquidator to provide the Extracted
+Email Results pursuant to s 370(1) of the Insolvency, Restructuring and
+Dissolution Act 2018 (2020 Rev Ed) (“IRDA”).
+
+3 While the present application is a consent application, the court still
+needs to be independently satisfied that it is appropriate to make the order
+premised on s 370(1) of the IRDA. After considering the applicants’
+submissions, I make an order in terms of the prayers sought in the present
+application. I provide my reasons in this judgment to offer some observations
+on the legal issues that the applicants have canvassed in their written
+submissions.
+
+Background facts
+
+4 By way of background, ICPL was placed into creditors’ voluntary liquidation
+on 25 May 2021. NYZ was a director and majority shareholder of ICPL. Indeed,
+NYZ and his wife held all of ICPL’s shares.
+
+5 In the course of the applicants’ investigations in their capacities as the
+Private Trustees of NYZ’s bankruptcy estate, they concluded that ICPL
+functioned as NYZ’s investment vehicle. The applicants therefore wrote to ICPL
+to request for NYZ’s devices and/or emails, that were in ICPL’s possession.
+The applicants made this request because they believed that such devices
+and/or emails would contain information relating to NYZ’s personal affairs,
+dealings, and/or property.
+
+6 So as to filter and extract only emails relating to NYZ’s personal affairs,
+dealings, and/or property, the applicants proposed a list of keywords for ICPL
+to search the emails with. The keyword searches resulted in a total of 6,171
+relevant emails. However, because NYZ’s ICPL email only contained 5,547
+emails, there was likely to have been some degree of duplication in the search
+results. Thus, the Liquidator only extracted a total of 4,177 unique emails
+out of the 6,171 relevant emails found by the keyword searches. These 4,177
+unique emails constitute the “Extracted Email Results” that I have referred to
+above.
+
+7 The applicants have thus filed the present consent application against the
+above background.
+
+Whether the applicants require permission pursuant to s 170(2) of the IRDA to
+commence this application
+
+The applicable law
+
+8 The applicants raise, as a preliminary point, whether they require
+permission from the court pursuant to s 170(2) of the IRDA to commence this
+application. In this regard, s 170(2) provides as follows:
+
+Property and proceedings
+
+170.—(2) After the commencement of the winding up, no action or proceeding may
+be proceeded with or commenced against the company except by the permission of
+the Court and subject to such terms as the Court may impose.
+
+I should observe that s 170(2) is similar to s 133(1) of the IRDA, in that
+both provisions contemplate that an action or proceeding may not be proceeded
+with or commenced against the company concerned except by the permission of
+the court. However, s 170(2), as opposed to s 133(1), is the correct provision
+in the present application because ICPL has commenced a creditors’ voluntary
+winding up. In contrast, s 133(1) is applicable “[w]hen a winding up order has
+been made or a provisional liquidator has been appointed” under a winding up
+by the court.
+
+9 It is well-established that the primary purpose of s 170(2) of the IRDA is
+“to prevent the company from being further burdened by expenses incurred in
+defending unnecessary litigation” (see the High Court decision of Korea Asset
+Management Corp v Daewoo Singapore Pte Ltd (in liquidation) [2004] 1 SLR(R)
+671 at [36]–[37], in which V K Rajah JC (as he then was) discussed s 262(3)
+and s 299(2) of the Companies Act (Cap 50, 1994 Rev Ed), which are similar to
+s 133(1) and s 170(2) of the IRDA). From this primary purpose, s 170(2) is
+meant to (a) prevent the fragmentation of the company’s assets and protect its
+creditors’ interests to the fullest extent; (b) prevent an unsecured creditor
+from “stealing a march” on his fellow unsecured creditors; and (c) maximise
+returns to the creditors at all practical speed (see Harold Foo and Beverly
+Wee, Annotated Guide to the Singapore Insolvency Legislation (Corporate
+Insolvency) (Academy Publishing, 2023) at paras 10.176–10.177).
+
+10 With the above in mind, whether permission is needed for the present
+application pursuant to s 170(2) must be informed by these purposes behind the
+provision.
+
+My decision: permission is not required to commence the present application
+under s 370(1) of the IRDA
+
+11 In my view, the applicants do not require permission to commence the
+present application under s 370(1) of the IRDA.
+
+12 First, the application does not involve litigating a claim against ICPL for
+the purposes of obtaining payment and/or an interest. In this regard, the
+Court of Appeal held in An Guang Shipping Pte Ltd (judicial managers
+appointed) and others v Ocean Tankers (Pte) Ltd (in liquidation) [2022] 1 SLR
+1232 (at [19]) that an application commenced by the judicial managers of Ocean
+Tankers (Pte) Ltd (in liquidation) (“OTPL”) to obtain directions from the
+court as to whether certain charterhire debts enjoyed priority over unsecured
+debts was not a “proceeding … against the company” as the expression is used
+in s 133(1) of the IRDA. Instead, the Court explained (at [20]) that the
+application concerned was in relation to the administration of winding up and
+not a claim against OTPL. Similarly, the present application does not involve
+the laying of any claim on ICPL’s assets. As such, the primary purpose behind
+s 170(2) is not engaged.
+
+13 Second, the application is really to obtain the court’s declaration as to
+the applicants’ rights in the administration of ICPL’s liquidation. This is in
+view of the applicants’ rights under the IRDA to NYZ’s property and personal
+affairs. Indeed, ICPL had itself requested for the present application to be
+made and for a court order to be granted for good order. Accordingly, this
+fortifies the conclusion that the present application is not a “proceeding …
+against the company”, as that expression is used in s 170(2) of the IRDA.
+
+14 Accordingly, I conclude that the applicants do not require permission to
+commence the present application under s 370(1) of the IRDA. However, this
+does not mean that every application under s 370(1) will not require the
+court’s permission under s 133(1) and s 170(2) of the IRDA.
+
+Whether the applicants are entitled to the Extracted Email Results
+
+The applicable law
+
+15 I turn now to consider whether the applicants are entitled to the Extracted
+Email Results. The present application is taken out under s 370(1) of the
+IRDA, which provides as follows:
+
+Seizure of bankrupt’s property held by bankrupt or other person
+
+370.—(1) At any time after a bankruptcy order has been made, the Official
+Assignee or any person authorised by the Official Assignee may take an
+inventory of and seize any property comprised in the bankrupt’s estate which
+is, or any books, papers or records relating to the bankrupt’s estate or
+affairs which are, in the possession or under the control of the bankrupt
+(including any which would be privileged from disclosure in any proceedings)
+or any other person who is required to deliver the property, books, papers or
+records to the Official Assignee.
+
+16 Section 370(1) is meant to give effect to s 369(1), which provides that the
+Official Assignee “must forthwith after the bankruptcy order, take possession
+of the deeds, books and documents which relate to the bankrupt’s estate or
+affairs, and which belong to the bankrupt or are under the bankrupt’s control”
+(under s 369(1)(a)), along with “all other parts of the bankrupt’s property
+capable of manual delivery” (under s 369(1)(b)). Section 370(1) gives effect
+to s 369(1) because it empowers the Official Assignee or any person authorised
+by the Official Assignee to “take an inventory of and seize any property
+comprised in the bankrupt’s estate”.
+
+17 In order to come within s 370(1), the Official Assignee or any person
+authorised by the Official Assignee (collectively, the “Official Assignee”)
+must fulfil two requirements. First, the Official Assignee must show that the
+article which it wants to “take an inventory of and seize” is either (a)
+property comprised in the bankrupt’s estate; or (b) books, papers or records
+relating to the bankrupt’s estate or affairs. This requires a consideration of
+the definition of “property” in s 370(1). Second, the Official Assignee must
+show that the article that belongs to either (a) or (b) is “in the possession
+or under the control of the bankrupt … or any other person who is required to
+deliver the property, books, papers or records to the Official Assignee”. In
+my view, breaking down s 370(1) in this manner assists in its practical
+application.
+
+My decision: the applicants are entitled to the Extracted Email Results
+
+18 In my view, the applicants are entitled to the Extracted Email Results
+under s 370(1) of the IRDA.
+
+The Extracted Email Results come within the articles defined in s 370(1) of
+the IRDA
+
+19 To begin with, I am satisfied that the Extracted Email Results constitute
+either (a) property comprised in the bankrupt’s estate; or (b) books, papers
+or records relating to the bankrupt’s estate or affairs, as those expressions
+are used in s 370(1) of the IRDA.
+
+20 First, s 2 of the IRDA defines “property” to include “money, goods, things
+in action, land and every description of property, wherever situated”, as well
+as “obligations and every description of interest, whether present or future
+or vested or contingent, arising out of or incidental to property”. This is
+similar to the definition of property in s 436(1) of the Insolvency Act 1986
+(c 45) (UK) (“UK Insolvency Act 1986”). In this regard, Arnold J in the
+English High Court decision of Shlosberg v Avonwick Holdings Ltd [2017] Ch 210
+(“Shlosberg”) pointed out (at [55]) that the courts have repeatedly emphasised
+the width of this definition. However, despite the width of this definition,
+it may not be boundless. Thus, as Morritt LJ stated in In re Celtic Extraction
+Ltd (in liquidation) [2001] Ch 475 (“In re Celtic Extraction”) (at [26]):
+
+The word “property” is not a term of art but takes its meaning from its
+context: see Nokes v Doncaster Amalgamated Collieries Ltd [1940] AC 1014,
+1051; Kirby v Thorn EMI plc [1988] 1 WLR 445, 452. In the context of
+insolvency there is, as Lord Atkinson observed in Hollinshead v Hazleton
+[1916] 1 AC 428, 436, a well established “principle of public policy, which
+has found expression in the provisions of the Bankruptcy Codes of … England …
+as estimable and as conducive to the welfare of the community as any. It is
+this, that in bankruptcy the entire property of the bankrupt, of whatever kind
+or nature it may be, whether alienable or inalienable, subject to be taken in
+execution, legal or equitable, or not so subject, shall, with the exception of
+some compassionate allowances for his maintenance, be appropriated and made
+available for the payment of his creditors”. Thus in successive statutes
+dealing with bankruptcy and insolvency the definition of “property” has been
+progressively extended (Morris v Morgan (unreported) 31 March 1998; Court of
+Appeal (Civil Division) Transcript No 524 of 1998); though however wide the
+definition it is subject to the implied exclusion of rights of the bankrupt
+with reference to his body, mind or character (Heath v Tang [1993] 1 WLR 1421,
+1423).
+
+[emphasis added]
+
+21 It is not necessary for me to consider if such a limitation applies to the
+definition of “property” in particular contexts within the IRDA. However, I do
+see the sense in considering some limitations to the otherwise wide definition
+of “property”. This especially so when one considers that the purpose behind s
+370(1) is, among other things, to seize property so as to pay off the
+bankrupt’s creditors (see In re Celtic Extraction at [26]). This purpose may
+mean that “property” which is “peculiarly personal” to the bankrupt should not
+be property that forms part of the bankrupt’s estate for the purposes of s
+370(1) (see also Shlosberg at [57]–[61], and the authorities cited within).
+These cannot be conceivably sold off to repay creditors. Also, given that s
+370(1) draws a distinction between “property comprised in the bankrupt’s
+estate” and “books, papers or records relating to the bankrupt’s estate or
+affairs”, it may not be satisfactory for an overly expansive definition of
+“property” to swallow up the second category of articles referred to in the
+provision. For present purposes, however, I do not need to decide whether such
+a limitation should be imposed. I am content, based on an expansive definition
+of “property” in the IRDA read with s 370(1), that the Extracted Email Results
+constitute “property” under s 370(1).
+
+22 Second, as for the expression “books, papers or records relating to the
+bankrupt’s estate or affairs”, the English High Court in Re Baxendale-Walker
+(A Bankrupt) [2018] EWHC 3572 (Ch) (“Re Baxendale-Walker”) had occasioned to
+consider the scope of the similar expression “books, papers and other records
+which relate to the bankrupt’s estate” under s 311 of the UK Insolvency Act
+1986. In that case, the bankrupt had applied for directions in respect of his
+trustees-in-bankruptcy’s requests to several law firms for the bankrupt’s
+solicitors-clients files. Deputy Insolvency and Companies Court Judge Agnello
+QC held that the trustees-in-bankruptcy were entitled to the range of
+documents sought, to the extent that even personal papers could be disclosed
+if they relate to the bankrupt’s estate or affairs. In coming to his decision,
+the learned judge referred to Rattee J’s observations in the English High
+Court decision of Haig v Aitken [2001] Ch 110 as follows (at [40]–[42]):
+
+40\. Rattee J commented on these words in Haig v Aitken at 119 as follows:
+
+‘In my judgment the reference to the bankrupt’s affairs in section 311(1) of
+the 1986 Act is a reference to his financial affairs or other affairs which
+may be relevant to the carrying out of the trustee’s duties under the Act, or
+possibly even affairs relevant to the official receiver’s independent duties
+under the Act. I reject entirely the proposition that the reference to affairs
+in section 311 can extend to all affairs concerning the bankrupt’s conduct,
+even in relation to his own professional or other activities, except to the
+extent that that conduct may be relevant to the duties of the trustee, or
+possibly the official receiver, under the Act.’
+
+41\. Nonetheless, the trustee’s purview under section 311(1) is wide. In Haig
+v Aitken, Rattee J also said at 118–119 that section 311(1):
+
+‘… entitles the trustee to possession of documents relating to the bankrupt’s
+estate, even though such documents are not themselves comprised in the estate.
+Indeed, the very terms of section 311 to my mind contemplate the possibility
+that there may be documents, belonging to the bankrupt, which are not part of
+his estate and for which, therefore, express provision has to be made by
+section 311(1).’
+
+42\. And at 120 …:
+
+‘It seems to me that, as I have already said, correspondence properly called
+“personal correspondence”, whatever its subject matter, does not form part of
+the bankrupt’s estate within the definitions in the Act. While some of it may
+relate to other assets within the bankrupt’s estate or to his affairs properly
+regarded as limited to affairs relevant to the administration of the
+bankrupt’s estate, that does not bring it within the definition of “estate”.
+It does give the trustee a power to see such documents under section 311(1).’
+
+[emphasis in original omitted]
+
+23 Accordingly, in order to come within the category of “books, papers or
+records relating to the bankrupt’s estate or affairs” under s 370(1), these
+books, papers, or records must enable the Official Assignee to discharge his
+overriding function of realising and distributing the bankrupt’s estate (see
+the English Court of Appeal decision of Shlosberg v Avonwick Holdings Ltd
+[2017] Ch 251 at [70]). Put another way, there must thus be some connection
+between those “books, papers or records” and the “bankrupt’s estate or
+affairs” so as to enable the Official Assignee to discharge his duty in
+relation to the bankrupt’s estate.
+
+24 In the present case, I am satisfied that the Extracted Email Results
+constitute “books, papers or records relating to the bankrupt’s estate or
+affairs”. Indeed, the said Email Results were obtained after relevant keywords
+were used by the Liquidator to conduct the searches concerned. These keywords
+were derived from the applicants’ information and findings from NYZ’s bank and
+credit card statements, as well as their interviews with NYZ. As such, the
+Extracted Email Results containing such keywords must relate to NYZ’s estate
+or affairs.
+
+25 Accordingly, I conclude that the Extracted Email Results are either (a)
+property comprised in the bankrupt’s estate, or (b) books, papers or records
+relating to the bankrupt’s estate or affairs, in accordance with the terms of
+s 370(1).
+
+The Extracted Email Results are in the possession or under the control of NYZ
+
+26 As for the requirement that the Extracted Email Results are in the
+possession or under the control of the bankrupt, who is NYZ in this case, I am
+satisfied that this has also been met. It is clear that the Extracted Email
+Results belong to NYZ as he often conducted his affairs through ICPL. Indeed,
+the Extracted Email Results were from NYZ’s email account at ICPL.
+
+27 Since the applicants have fulfilled the two requirements in s 370(1) of the
+IRDA, it follows that they are entitled to the Extracted Email Results.
+
+28 For completeness, while s 370(1) does not confer on the court the power to
+make an order to compel ICPL to provide copies of the Extracted Email Results,
+I find that this court possesses such a power by virtue of s 6(1) and s 6(2)
+of the IRDA.
+
+Conclusion
+
+29 For all the reasons above, I make an order in terms of the prayers sought
+in the present application pursuant to the consent application, with no order
+as to costs.
+
+Goh Yihan  
+Judge of the High Court|  
+---|---  
+  
+Lin Weiwen Moses and Manvindar Kaur Sethi d/o Sarwan Singh (Shook Lin & Bok
+LLP) for the applicants;
+
+Woo Yin Loong Christopher and Chow Ee Ning (Quahe Woo & Palmer LLC) for the
+respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 09 Feb 2024 (12:12 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

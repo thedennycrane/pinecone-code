@@ -1,0 +1,1607 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 352
+
+Originating Claim No 385 of 2023
+
+(Registrar’s Appeal No 193 of 2023)
+
+Between
+
+(1)| Tan Wei Heng Kelvin  
+---|---  
+(2)| Langgeng Sugiarto  
+  
+… Claimants
+
+And
+
+(1)| Tok Beng Tong  
+---|---  
+(2)| Hendro Tok  
+  
+… Defendants
+
+judgment
+
+[Conflict of Laws — Natural forum — Stage one of Spiliada test]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Tan Wei Heng Kelvin and another
+
+  
+v
+
+  
+
+Tok Beng Tong and another
+
+[2023] SGHC 352
+
+General Division of the High Court — Originating Claim No 385 of 2023
+(Registrar’s Appeal No 193 of 2023)  
+Lee Seiu Kin J  
+27 September 2023
+
+12 December 2023 Judgment reserved.
+
+Lee Seiu Kin J:
+
+1 The claimants and the defendants in HC/OC 385/2023 (“OC 385”) are parties
+based across at least three different jurisdictions in Southeast Asia. They
+entered into an oral agreement on 8 October 2012 for the claimants to invest
+in a mixed-use development known as the Permas City Development located in
+Johor Bahru, Malaysia (the “Permas City Development”). The terms of the oral
+agreement form the subject of strenuous contention by the parties in OC 385,
+but it is not disputed that pursuant to this agreement the claimants had on
+the same day paid an investment sum of RM2,307,744.74 to a Malaysian-
+registered company (of which the first defendant is a director and majority
+shareholder) which was the main developer for the Permas City Development. In
+OC 385, the claimants assert that the defendants had breached the terms of the
+oral agreement between them, including by failing to ensure that the
+construction of the Permas City Development would be completed in a profitable
+manner and by failing to repay the investment sum of RM2,307,744.74 to the
+claimants. The claimants also bring an alternative claim in the tort of
+negligence alleging that the defendants had made certain representations as to
+the guaranteed profitability of investing in the Permas City Development and
+that the defendants had breached their duty of care by failing to advise and
+inform the claimants of the risks involved before the parties had entered into
+the oral agreement on 8 October 2012.
+
+2 In response, the defendants filed a defence stating that the Singapore
+courts should not exercise their jurisdiction to hear the action and that all
+proceedings in OC 385 should be stayed. In HC/SUM 2259/2023 (“SUM 2259”), the
+defendants applied for a stay of the proceedings in OC 385 in favour of the
+Malaysian courts on the sole ground of forum non conveniens. HC/RA 193/2023
+(“RA 193”) is the defendants’ appeal against the whole of the learned
+Assistant Registrar’s (the “AR”) decision to dismiss the application in SUM
+2259.
+
+Facts
+
+The parties
+
+3 The first claimant in OC 385 is Mr Tan Wei Heng Kelvin (“Mr Tan”), a
+Singapore citizen. 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Tan Wei Heng Kelvin dated 14 August 2023 at para 16.
+
+The second claimant is Mr Langgeng Sugiarto (“Mr Sugiarto”), who is Mr Tan’s
+father-in-law. Mr Sugiarto is an Indonesian citizen and resides in Indonesia.
+I refer to Mr Tan and Mr Sugiarto collectively as “the Claimants”. The
+Claimants describe in the Statement of Claim that they are in the business of
+investing in property developments throughout Southeast Asia. 2
+
+##### Foot Note 2
+
+×
+
+Statement of Claim dated 14 June 2023 (“SOC”) at para 1.
+
+4 The first defendant is Mr Tok Beng Tong (referred to by the parties as “Mr
+Jonathan Tok”), a Singapore permanent resident and a Malaysian citizen. 3
+
+##### Foot Note 3
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 7.
+
+Mr Jonathan Tok is also a director and majority shareholder of a company
+registered in Malaysia known as Buana Tunggal Sdn Bhd (“Buana Tunggal”), the
+principal activities of which are property investment and property
+development. 4
+
+##### Foot Note 4
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 9.
+
+5 The second defendant, Mr Hendro Tok, is a Malaysian citizen and resides in
+Malaysia. 5
+
+##### Foot Note 5
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 8.
+
+He is Mr Jonathan Tok’s father. The Claimants assert that Mr Hendro Tok is
+head of a group of companies named the Interasia Group to which Buana Tunggal
+belongs. 6
+
+##### Foot Note 6
+
+×
+
+SOC at para 3.
+
+I refer to the first and second defendants collectively as “the Defendants”.
+While I note that the Defendants in their supporting affidavit have neither
+confirmed nor denied this as a fact; they nonetheless acknowledge that “[Mr
+Hendro Tok] (through Buana Tunggal) was intending to construct and develop
+[the Phase Two development]” [emphasis added]. 7
+
+##### Foot Note 7
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 15.
+
+This provides some suggestion that regardless of his precise role in the
+Interasia Group and/or Buana Tunggal, Mr Hendro Tok certainly enjoyed some
+degree of influence in Buana Tunggal.
+
+Background to the dispute
+
+The oral agreement made on 8 October 2012
+
+6 It is not disputed that Mr Hendro Tok and Mr Sugiarto were long-time friends
+and this formed part of the context to the parties’ business relationship.
+
+7 On or around 8 October 2012, the Claimants entered into an oral agreement
+with the Defendants (the “Oral Agreement”) concerning investment in Phase Two
+of the Permas City Development, which was a mixed-use development located in
+Johor Bahru, Malaysia. The main developer of the Permas City Development was
+Buana Tunggal. The Permas City Development was intended to have the following
+phases:
+
+(a) The construction of a hypermarket at Lots 385, 2112 and 2114 (“Phase
+One”). 8
+
+##### Foot Note 8
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 15(a).
+
+(b) The construction of commercial blocks A and B, and food bazaar block C,
+which included a multi-storey car park and a hotel block (“Phase Two”). 9
+
+##### Foot Note 9
+
+×
+
+SOC at paras 5-6.
+
+8 It is not disputed that a sum of RM2,307,744.74 was paid by Mr Sugiarto to
+Buana Tunggal via telegraphic transfer on 8 October 2012, being the investment
+sum of RM8,263,313.40 under the Oral Agreement (the “Investment Sum”) less an
+agreed set-off of RM5,955,568.66. 10
+
+##### Foot Note 10
+
+×
+
+SOC at para 17; Affidavit of Tok Beng Tong dated 27 July 2023 at para 25.
+
+9 The Defendants do not dispute that there was an agreement between the
+parties but they dispute the material terms of the Oral Agreement. 11
+
+##### Foot Note 11
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 61.
+
+The dispute as to the material terms of the Oral Agreement is set out in
+greater detail below.
+
+The parties’ dispute in OC 385
+
+10 As it turned out, the construction of Phase Two of the Permas City
+Development (“the Phase Two development”) became riddled with delays and
+issues, including (a) the insolvency of and multiple changes in the main
+contractors of the Phase Two development, (b) movement control orders imposed
+by the Malaysian government in response to the COVID-19 pandemic from March
+2020 onwards, and (c) the theft of copper wires and elevator equipment from
+the construction site. Furthermore, as a result of the aforesaid construction
+delays, the Defendants say that several purchasers of the commercial units in
+the Phase Two development had brought claims in the Malaysian courts for
+liquidated damages potentially amounting to a total of RM18,435,993.64 12
+
+##### Foot Note 12
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 52.
+
+against Buana Tunggal pursuant to the terms of the sales and purchase
+agreements entered into between Buana Tunggal and these purchasers.
+
+11 On or around 14 December 2023, Mr Jonathan Tok informed Mr Tan that the
+Phase Two development was a failed project. 13
+
+##### Foot Note 13
+
+×
+
+SOC at para 35.
+
+12 In OC 385, the Claimants allege that Mr Jonathan Tok had prepared a
+financial analysis calculating the projected development costs of the Phase
+Two development (the “Financial Analysis”). The Claimants further allege that
+based on the Financial Analysis, the parties agreed that the Claimants would
+invest 20% of the expected cash outlay in the scenario where the units were
+sold at slightly below market price (ie, amounting to the Investment Sum of
+RM8,263,313.40), in exchange for a 20% share in the expected net profits of
+between RM44,232,896.80 and RM48,888,991.20, as and when such profits were
+earned by Buana Tunggal. 14
+
+##### Foot Note 14
+
+×
+
+SOC at paras 12-16.
+
+The Claimants claim that the Defendants breached the Oral Agreement by: (a)
+failing to ensure and/or take reasonable care to construct the Phase Two
+development in a manner that allowed Buana Tunggal to receive net profits of
+RM44,232,896.80 to RM48,888,991.20; (b) failing to provide the Claimants with
+20% of all profits earned by Buana Tunggal from the Phase Two development to-
+date, as and when such profits were earned by Buana Tunggal; and (c) failing
+to repay the Investment Sum to the Claimants to-date, despite construction of
+the Phase Two development having been completed (collectively, the “Contract
+Claim”). 15
+
+##### Foot Note 15
+
+×
+
+SOC at para 36.
+
+13 Further and/or in the alternative, the Claimants allege that the Defendants
+owed the Claimants a duty of care in advising, warranting and representing
+that the Phase Two development would be a safe investment with guaranteed
+profits, and that the Defendants (individually and collectively) between 27
+October 2011 and 8 October 2012 breached their duty of care by failing to
+advise and inform the Claimants of the risks involved in the Phase Two
+development (the “Negligence Claim”). 16
+
+##### Foot Note 16
+
+×
+
+SOC at paras 38-41.
+
+The Claimants further allege that they have suffered loss and damage from the
+Defendants’ breach of the Oral Agreement and/or breach of their duty of care.
+17
+
+##### Foot Note 17
+
+×
+
+SOC at para 42.
+
+14 The Defendants have not filed a defence on the merits but have filed and
+served a defence challenging the jurisdiction of the court on the ground that
+the Singapore courts should not exercise their jurisdiction to hear the
+action. 18
+
+##### Foot Note 18
+
+×
+
+Defence (Jurisdiction) dated 6 July 2023.
+
+15 Nonetheless, Mr Jonathan Tok’s affidavit dated 27 July 2023 sets out in
+greater detail the Defendants’ position on the merits of the claims in OC 385.
+Broadly speaking, in relation to the Contract Claim, the Defendants dispute
+the material terms of the Oral Agreement as pleaded by the Claimants. The
+Defendants allege that:
+
+(a) The parties agreed for the Claimants’ entitlement to a stake or interest
+in the Phase Two development to be assessed on a pro-rated basis, ie based on
+the Claimants’ investment amount versus the actual (as opposed to projected)
+total cash outlay for the costs of completing the Phase Two development, which
+would only be finalised after all the units in the Phase Two development had
+been sold. 19
+
+##### Foot Note 19
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 32.
+
+(b) There is no breach of the Oral Agreement between the parties as the total
+development costs as well as the total cash outlay of the Phase Two
+development cannot be ascertained as yet, due to the remaining unsold units as
+well as the potential total liquidated damages claim being brought by the
+purchasers of the commercial units (see [10] above). 20
+
+##### Foot Note 20
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 62.
+
+16 By the same token as (a) above, the Defendants also take the position that
+the Claimants would be liable for their proportionate share of the losses
+based on their aforementioned “stake” in the Phase Two development, should the
+Phase Two development subsequently turn out to be unprofitable. 21
+
+##### Foot Note 21
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 33.
+
+The Defendants therefore state that they intend to counterclaim against the
+Claimants for the Claimants’ proportionate share of the losses should the
+Phase Two development turn out to be unprofitable, and will be seeking the
+taking of accounts for the Phase Two development and/or for damages to be
+assessed (the “Intended Counterclaim”). 22
+
+##### Foot Note 22
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 64.
+
+17 In relation to the Negligence Claim, the Defendants contend that (a) no
+such warranties and/or representations as pleaded by the Claimants were made
+by the Defendants; (b) no duty of care arises as Mr Sugiarto was an
+experienced businessman and property developer; (c) there was no voluntary
+assumption of responsibility by the Defendants to the Claimants; and (d) the
+Claimants had relied on their own calculated judgment in entering the Oral
+Agreement. 23
+
+##### Foot Note 23
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 65.
+
+Key issues to be determined in OC 385
+
+18 From the foregoing, the parties have identified that the issues which a
+court would have to determine at the trial are the following: 24
+
+##### Foot Note 24
+
+×
+
+Affidavit of Tan Wei Heng Kelvin dated 14 August 2023 at para 12; affidavit of
+Tok Beng Tong dated 27 July 2023 at para 66.
+
+S/N| Issue  
+---|---  
+The alleged representations  
+1| Did the Defendants make certain representations in the period between
+October 2011 to November 2011 when the Claimants visited Malaysia that the
+Claimants would be guaranteed to enjoy returns on their investment in the
+Phase Two development? 25
+
+##### Foot Note 25
+
+× SOC at para 9; affidavit of Tok Beng Tong dated 27 July 2023 at para 18.  
+2| Did the Defendants (individually or collectively) at any time between
+October 2011 and October 2012 make representations, whether verbally or in
+writing, guaranteeing that the Phase Two development would be profitable
+and/or guaranteeing any rate of return of investment on the Phase Two
+development? 26
+
+##### Foot Note 26
+
+× SOC at paras 8 and 15; affidavit of Tok Beng Tong dated 27 July 2023 at
+paras 19 and 26.  
+The Contract Claim and the Intended Counterclaim  
+3| What are the terms of the Oral Agreement between the Defendants and the
+Claimants? In particular, the following sub-issues arise:  
+(a)| Is it a term of the Oral Agreement that the Claimants would be entitled
+to receive 20% of all profits earned by Buana Tunggal from the Phase Two
+development, as and when such profits were earned by Buana Tunggal? 27
+
+##### Foot Note 27
+
+× SOC at para 16(d); affidavit of Tok Beng Tong dated 27 July 2023 at para 27.  
+(b)| Is it a term of the Oral Agreement that the Defendants warranted and/or
+agreed that they would take reasonable care to ensure that construction of the
+Phase Two development would be completed in a manner that resulted in Buana
+Tunggal earning approximately net profits of RM44,232,896.80 to
+RM48,888,991.20? 28
+
+##### Foot Note 28
+
+× SOC at para 16(c); affidavit of Tok Beng Tong dated 27 July 2023 at para 28.  
+(c)| Is it a term of the Oral Agreement that the Defendants would repay in
+full the Claimant’s Investment Sum of RM8,263,313.40 to the Claimants once
+construction of the Phase Two development was completed? 29
+
+##### Foot Note 29
+
+× SOC at para 16(e); affidavit of Tok Beng Tong dated 27 July 2023 at para 28.  
+(d)| Is it an implied term of the Oral Agreement that the Claimants would be
+liable for all proportionate losses in the Phase Two development, should the
+Phase Two development subsequently turn out to be unprofitable? 30
+
+##### Foot Note 30
+
+× Affidavit of Tok Beng Tong dated 27 July 2023 at para 33.  
+4| Having determined the terms of the Oral Agreement, was there a breach of
+the Oral Agreement by the Defendants (in the Contract Claim) or by the
+Claimants (in the Intended Counterclaim)? The following sub-issues also arise:  
+(a)| Did the Defendants take reasonable care to ensure that the construction
+of the Phase Two development would be completed in a manner that results in
+Buana Tunggal earning approximately net profits of RM44,232,896.80 to
+RM48,888,991.20?  
+(b)| If the Defendants’ position that the Claimants’ “stake” in the Phase Two
+development should be assessed on a pro-rated basis (see [15(a)] above) is
+accepted, what is the Claimants’ assessed interest in the Phase Two
+development?  
+(c) | Further and/or in the alternative, the taking of accounts for the Phase Two development.  
+The Negligence Claim  
+5| Did the Defendants owe the Claimants a duty of care (a) when advising,
+warranting and representing that the Phase Two development would be a safe
+investment with guaranteed profits and (b) to advise and inform the Claimants
+of the risks involved in the Phase Two development?  
+6| Second, if a duty of care exists on the facts, did the Defendants breach
+their duty of care to the Claimants?  
+  
+19 The parties also agree that the main issue in the action relates to the
+terms of the Oral Agreement made between the Defendants and the Claimant on 8
+October 2012. 31
+
+##### Foot Note 31
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at para 37.
+
+Procedural history
+
+20 By SUM 2259 filed on 27 July 2023 the Defendants applied to court for a
+stay of the proceedings in OC 385 on the sole ground of forum non conveniens.
+The Defendants say that Malaysia is the more appropriate forum for the
+proceedings, and seek the following orders: 32
+
+##### Foot Note 32
+
+×
+
+HC/SUM 2259/2023 dated 27 July 2023.
+
+(a) That all proceedings in this action be stayed.
+
+(b) Costs of SUM 2259 to be paid by the Claimants to the Defendants.
+
+(c) Such further relief, orders and directions be given as the court deems
+fit.
+
+21 SUM 2259 was heard before the Assistant Registrar (“AR”) on 6 September
+2023. The Defendants’ application for a stay of proceedings was dismissed. 33
+
+##### Foot Note 33
+
+×
+
+NE 6 September 2023 at p 11 (lines 26-28).
+
+On 11 September 2023, the Defendants filed their notice of appeal against the
+whole of the AR’s decision. 34
+
+##### Foot Note 34
+
+×
+
+Notice of Appeal dated 11 September 2023.
+
+Decision below
+
+22 The AR first accepted the Claimants’ identification of the five issues
+which arise for determination at trial, as follows:
+
+(a) What are the terms of the Oral Agreement between the parties.
+
+(b) Consequently, whether the Defendants have breached any of those terms.
+
+(c) What is the quantification of the loss suffered by the parties, where
+applicable, by way of the taking of accounts or otherwise.
+
+(d) Further and in the alternative to the first issue, whether the Defendants
+owed the Claimants a duty of care in relation to the Phase Two development.
+
+(e) If the Defendants are found to have owed the Claimants a duty of care,
+whether the Defendants breached it. 35
+
+##### Foot Note 35
+
+×
+
+NE 6 September 2023 at pp 9 (line 29) to 10 (line 5).
+
+23 Applying the first stage of the test in Spiliada Maritime Corporation v
+Cansulex Ltd (The Spiliada) [1987] AC 460 (“Spiliada”), the AR did not find,
+on balance, Malaysia to be a more appropriate forum for the determination of
+the proceedings. 36
+
+##### Foot Note 36
+
+×
+
+NE 6 September 2023 at p 12 (lines 13-15).
+
+24 The AR observed that the most significant plank of the Defendants’ case on
+the applicable connecting factors appeared to be that the Permas City
+Development project is situated in Malaysia, the witnesses and documents in
+relation to the project are situated in Malaysia, and that the witnesses are
+compellable only by the Malaysian courts. However, the AR took the view that
+these connecting factors pointing to Malaysia would only relate to one out of
+the five identified issues above for determination at the trial, and the
+witnesses and documents are not likely to be of assistance in the
+determination of the issues relating to proving the terms of the Oral
+Agreement between the parties. 37
+
+##### Foot Note 37
+
+×
+
+NE 6 September 2023 at pp 11 (line 33) to 12 (line 4).
+
+Furthermore, the AR accepted the Claimants’ argument that most, if not all, of
+the documents relating to the Permas City Development project would be in the
+electronic form to be a reasonable one. The Claimants also argued that the
+Defendants would have access to these documents by virtue of their positions
+in Buana Tunggal and the corporate group to which it belongs. 38
+
+##### Foot Note 38
+
+×
+
+NE 6 September 2023 at p 10 (lines 23-28).
+
+Thus, the AR considered that while witness compellability was an important
+factor, it could not outweigh the significance of the other connecting factors
+to Singapore in this case.
+
+25 Turning to the connecting factors which pointed to Singapore, the AR
+considered that these were as follows: 39
+
+##### Foot Note 39
+
+×
+
+NE 6 September 2023 at p 12 (lines 8-11).
+
+… It is not disputed that the physical meetings between the parties took place
+mainly in Singapore and in my view, it is likely that any oral agreement will
+be concluded between the parties in Singapore. If so, the governing law of the
+oral agreement, unless otherwise expressly agreed, will naturally be Singapore
+law.
+
+26 The AR also considered that the personal connections factor, with regard to
+the parties’ respective citizenship and ordinary residence, was at best
+neutral. 40
+
+##### Foot Note 40
+
+×
+
+NE 6 September 2023 at p 12 (lines 6-8).
+
+27 On balance, therefore, the AR did not find Malaysia to be the more
+appropriate forum and there was no need to proceed to consider the second
+stage of the Spiliada test. The AR also ordered the Defendants to pay the
+Claimants the costs of the application in SUM 2259 at S$9,000 (all-in). 41
+
+##### Foot Note 41
+
+×
+
+NE 6 September 2023 at p 13 (lines 1-2).
+
+Parties’ arguments on appeal
+
+28 The Defendants submit that the claims have closer connections to Malaysia,
+as: (a) both Defendants are Malaysian citizens; (b) Buana Tunggal is a
+Malaysian company; 42
+
+##### Foot Note 42
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at paras 26-32.
+
+(c) all the project documents relating to the Permas City Development are
+located only in Malaysia; 43
+
+##### Foot Note 43
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at paras 53-54.
+
+and (d) the witnesses that the Defendants intended to call are only available
+and compellable in Malaysia. 44
+
+##### Foot Note 44
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at paras 37-38; 42-43.
+
+On appeal, the Defendants further submit that Malaysian law governs the Oral
+Agreement. 45
+
+##### Foot Note 45
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at paras 56, 59-60.
+
+The Defendants allege that the key decision makers in negotiating and entering
+the Oral Agreement were Mr Sugiarto and Mr Hendro Tok, who were both not in
+Singapore at all material times. Any communications between Mr Sugiarto and Mr
+Hendro Tok would have been made by telephone conversation and/or social visits
+by the Claimants to Malaysia, with Mr Tan and Mr Jonathan Tok being asked by
+their respective key decision makers to assist in the necessary follow up
+work. 46
+
+##### Foot Note 46
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at paras 59-60;
+affidavit of Tok Beng Tong dated 27 July 2023 at paras 17 and 69.
+
+29 The Claimants rely on substantially the same submissions as they did when
+SUM 2259 was heard before the learned AR. The Claimants submit that their
+claims are more closely connected to Singapore, since: (a) the first claimant
+is a Singapore citizen, the first defendant is a Singapore permanent resident,
+and the second claimant is willing to attend and testify in Singapore court
+proceedings; 47
+
+##### Foot Note 47
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at para 4.
+
+(b) many of the physical meetings between Mr Tan and Mr Jonathan Tok took
+place in Singapore; (c) Mr Tan suffered damage in Singapore; (d) Singapore law
+applies by default as the Defendants did not plead that Malaysian law applies,
+48
+
+##### Foot Note 48
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at para 4.
+
+and; (c) the shape of the litigation is in favour of the Singapore courts, as
+most of the claims relate to the Oral Agreement, which was concluded in
+Singapore and would be governed by Singapore law. 49
+
+##### Foot Note 49
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at para 10.
+
+30 The Claimants also submit that little weight should be given to the
+Malaysian connecting factors. First, the Defendants’ witnesses would be
+limited to evidence of the delays in the Phase Two construction, rather than
+the actual breach of contractual or tortious duties by the Defendants
+themselves. 50
+
+##### Foot Note 50
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at para 6.
+
+Furthermore, the progress and delays to the Phase Two development would have
+already been captured by documentary evidence; for instance, minutes of
+meetings and correspondence. 51
+
+##### Foot Note 51
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at para 7.
+
+The Claimants further submit that various witnesses whom the Defendants intend
+to call—being the architect representative, project managers of the first,
+second and third main contractors, a quantity surveyor and engineers involved
+in the Phase Two development—would not require to be compelled to attend court
+to give evidence as their interests would be aligned with that of the
+Defendants and of Buana Tunggal. 52
+
+##### Foot Note 52
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at para 8.
+
+Second, the Claimants reiterate that the documents relating to the Phase Two
+development are most likely to have been stored and circulated in electronic
+form, which the Defendants would have easy access to, as they occupy key
+positions in Buana Tunggal and the corporate group to which it belongs. 53
+
+##### Foot Note 53
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at para 9.
+
+The applicable legal principles
+
+31 The applicable legal principles are well-settled and not disputed by the
+parties.
+
+32 As the Court of Appeal explained in Rappo, Tania v Accent Delight
+International Ltd and another and another appeal [2017] 2 SLR 265 (“Rappo”) at
+[68]–[72]), the Spiliada test involves two stages:
+
+(a) First, the court considers whether, prima facie, there is some other
+available forum which is more appropriate for the case to be tried (“Stage
+One”). Under Stage One, the court searches for those incidences (or
+connections) that have the most relevant and substantial associations with the
+dispute. Factors that may be considered include: (i) the personal connections
+of the parties and witnesses; (ii) connections to relevant events and
+transactions; (iii) the applicable law to the dispute; (iv) the existence of
+proceedings elsewhere; and (v) the shape of the litigation. The process is not
+mechanical; a court has to take into account an entire multitude of factors in
+balancing the competing interests: see also Rickshaw Investments Ltd and
+another v Nicolai Baron von Uexkull [2007] 1 SLR(R) 377 (“Rickshaw
+Investments”) at [15].
+
+(b) Second, if the court concludes that there is a more appropriate forum,
+then the court will ordinarily grant a stay unless there are circumstances by
+reason of which justice requires that a stay should nonetheless not be granted
+(“Stage Two”).
+
+33 In Rappo, the Court of Appeal further emphasised (at [70] and [72]) that it
+is the quality of the connecting factors that is crucial in this analysis,
+rather than the quantity of factors on each side of the scale. Ultimately, the
+lodestar for a court tasked with identifying the natural forum is whether any
+of the connections point towards a jurisdiction in which the case may be
+“tried more suitably for the interests of all the parties and for the ends of
+justice” (citing Lord Goff of Chieveley in Spiliada at 476).
+
+Issues to be determined
+
+34 In the light of the foregoing, the issues before me are:
+
+(a) Whether Malaysia is the more appropriate forum.
+
+(b) If Malaysia is the more appropriate forum, whether there are circumstances
+by reason of which justice requires that a stay should nonetheless not be
+granted.
+
+Whether Malaysia is the more appropriate forum
+
+35 At Stage One of the Spiliada test, the burden is on the Defendants to
+demonstrate that there is another available forum which is clearly or
+distinctly more appropriate than Singapore (CIMB Bank Bhd v Dresdner Kleinwort
+Ltd [2008] 4 SLR(R) 543 (“CIMB Bank”) at [26]).
+
+36 I address the connecting factors in turn before concluding on Stage One of
+the Spiliada test.
+
+Connections to events and transactions
+
+The Phase Two development is located in Malaysia
+
+37 In the main, I agree with the Defendants’ submission that performance of
+the Oral Agreement, being the investment in the construction of the Phase Two
+development, was contemplated by the parties to substantially take place in
+Malaysia. 54
+
+##### Foot Note 54
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at para 28.
+
+The transaction, the subject of the Oral Agreement, (ie, the Claimants’
+payment of the Investment Sum) was made by the Claimants not to the Defendants
+but to the Malaysian-registered company Buana Tunggal (see [8] above), which
+was the main developer for the Phase Two development. Furthermore, the
+underlying subject matter of the Oral Agreement relates to the construction of
+a development that is located in Malaysia. To my mind, these transactions and
+events are undoubtedly relevant to the dispute at hand revolving primarily on
+a claim for breach of the Oral Agreement, and provide a clear and meaningful
+connecting factor pointing to Malaysia.
+
+The physical meetings in Singapore
+
+38 The Claimants point to the following three events and transactions which
+they say point to Singapore as the appropriate forum: (a) first, that many of
+the physical meetings between Mr Tan and Mr Jonathan Tok took place in
+Singapore, save for two site visits to Malaysia between October to November
+2011; (b) second, that Mr Sugiarto’s “historical dealings” with Mr Hendro Tok
+had always been based in Singapore; and (c) third, Mr Tan has suffered damage
+in Singapore, being a citizen and resident of Singapore. 55
+
+##### Foot Note 55
+
+×
+
+Claimants’ written submissions at paras 57-64.
+
+I address each in turn.
+
+39 I do not consider the fact that physical meetings between Mr Tan and Mr
+Jonathan Tok took place in Singapore to be a strong factor pointing in favour
+of Singapore. The Claimants allege that there were various meetings in
+Singapore between these two parties between October 2011 to October 2012 prior
+to the Oral Agreement being entered into. They further allege that certain
+representations at issue (see S/N 2 at [18] above) as to the Phase Two
+development were made verbally and in writing by Mr Jonathan Tok to Mr Tan
+during these meetings in Singapore. 56
+
+##### Foot Note 56
+
+×
+
+SOC at para 15; affidavit of Tan Wei Heng Kelvin dated 14 August 2023 at para
+19.
+
+Additionally, after the Oral Agreement was entered into, more meetings between
+Mr Tan and Mr Jonathan Tok continued to take place in Singapore from October
+2012 to 2022 as there were requests for information and documents relating to
+the Phase Two development. 57
+
+##### Foot Note 57
+
+×
+
+Claimants’ written submissions at para 59.
+
+40 However, as seen from [3] to [5] above, the parties resided and did
+business in various jurisdictions. While Mr Tan and Mr Jonathan Tok did meet
+in Singapore on various occasions to discuss and sort out arrangements
+relating to the Oral Agreement, I accept that any other communications between
+Mr Sugiarto and Mr Hendro Tok (and as between these two parties and Mr Tan
+and/or Mr Jonathan Tok) must necessarily have been made by telephone
+conversations and/or electronic means, given that they were all residing in
+different jurisdictions at all material times. Furthermore, I accept that
+there is some suggestion that Mr Sugiarto and Mr Hendro Tok played a more
+significant role as the key decision makers behind the investment in the Phase
+Two development, with Mr Tan and Mr Jonathan Tok simply asked to assist with
+the matter. 58
+
+##### Foot Note 58
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 17.
+
+By the Claimants’ account, it was Mr Hendro Tok who had solicited the
+investment opportunity leading to the Oral Agreement from Mr Sugiarto, 59
+
+##### Foot Note 59
+
+×
+
+SOC at para 5.
+
+whereas by the Defendants’ account, it was Mr Sugiarto who had approached Mr
+Hendro Tok on his own accord. 60
+
+##### Foot Note 60
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 16.
+
+If such was the case, then the fact that Mr Tan and Mr Jonathan Tok met in
+Singapore would all the more have been a matter of convenience for the parties
+as a whole.
+
+41 Therefore, I consider the fact that certain meetings between Mr Tan and Mr
+Jonathan Tok took place in Singapore could not, without more, establish a
+clear nexus to Singapore.
+
+The Claimants’ remaining two factors
+
+42 The Claimants have also pointed to Mr Sugiarto’s “historical dealings” with
+Mr Hendro Tok which they say have always been based in Singapore. By
+“historical dealings” the Claimants appear to be referring to the history of
+previous business dealings between Mr Sugiarto and Mr Hendro Tok and the
+manner in which they became friends over the years. 61
+
+##### Foot Note 61
+
+×
+
+Affidavit of Tan Wei Heng Kelvin dated 14 August 2023 at paras 17-18;
+affidavit of Tok Beng Tong dated 27 July 2023 at paras 11-12.
+
+In support of their assertion that these previous business dealings took place
+in Singapore, the Claimants exhibited screenshots of the Interasia Group’s
+website, by which they meant to persuade the court that Buana Tunggal is part
+of the larger corporate group known as the Interasia Group that operates out
+of Singapore. 62
+
+##### Foot Note 62
+
+×
+
+Affidavit of Tan Wei Heng Kelvin dated 14 August 2023 at para 17.
+
+As noted at [5] above, the Claimants also allege that Mr Hendro Tok is head of
+the Interasia Group. 63
+
+##### Foot Note 63
+
+×
+
+SOC at para 3.
+
+However, apart from these screenshots which, I would note, do not shed light
+in any way on the previous business dealings between Mr Sugiarto and Mr Hendro
+Tok, the Claimants have not otherwise substantiated the bare assertion that
+such previous dealings took place in Singapore, or even given particulars of
+the dealings. In any event, whether such “historical dealings” took place in
+Singapore or not is not entirely relevant to the circumstances surrounding the
+inception of the Oral Agreement. It is not disputed that the Oral Agreement
+was made orally and there is no suggestion that Mr Sugiarto or Mr Hendro Tok
+was in Singapore at the material time. I therefore decline to place any weight
+on this proposed factor.
+
+43 Lastly, I also decline to place much weight on the proposed factor that Mr
+Tan, being a citizen of and resident in Singapore, has suffered damage in
+Singapore. In Lakshmi Anil Salgaocar v Jhaveri Darsan Jitendra [2019] 2 SLR
+372 (“Lakshmi”), the Court of Appeal considered (at [85]) that limited weight
+ought to be placed on the factor of the place of breach given that it assumes
+that the plaintiff’s claim has been made out. Likewise, I consider that the
+fact of Mr Tan suffering damage in Singapore presupposes that there has been a
+breach, and it should therefore be given limited weight in the overall
+analysis. I should add that the fact that the second Claimant, Mr Sugiarto,
+suffered damage in Indonesia (if the claimants’ case is found at trial to be
+made out) and this would further dilute whatever weight that could be given on
+this score.
+
+Governing law of the Oral Agreement
+
+44 I consider the governing law of the Oral Agreement to be a factor pointing
+to Malaysia, subject to the qualification expressed at [55] below.
+
+45 To recapitulate, the Claimants submit that Singapore law applies by default
+as the lex fori whereas the Defendants argue that Malaysian law governs the
+Oral Agreement.
+
+46 It is well-accepted that the court applies a three-step approach to
+determine the governing law of a contract (see Pacific Recreation Pte Ltd v S
+Y Technology Inc and another appeal [2008] 2 SLR(R) 491 (“Pacific Recreation”)
+at [36], citing Overseas Union Insurance Ltd v Turegum Insurance Co [2001] 2
+SLR(R) 285 at [82]). At the first stage, the court considers whether the
+parties had expressly chosen a governing law. If there is no express choice
+made by the parties, the court considers at the second stage whether the
+intention of the parties as to the governing law can be inferred from the
+circumstances. If the court is unable to infer the parties’ intentions, it
+proceeds to the third stage where the court assesses which system of law the
+contract has the closest and most real connection with the contract in
+question and the circumstances surrounding the inception of that contract.
+This is the same as the objective test of what the reasonable man ought to
+have intended if he had thought about the matter at the time when he made the
+contract for the dispute to be determined “in the most convenient way and in
+accordance with business efficacy” (Pacific Recreation at [47] and [49]).
+
+47 Applying the three-stage approach, it is clear that there was no express
+law to the Oral Agreement. Moving on to the second stage, I begin by noting
+that the place of contracting is regarded as “generally not important in
+determining the governing law of a contract, except, perhaps, where the
+contract is to be performed in that country” (Pacific Recreation at [43],
+citing Chatenay v The Brazilian Submarine Telegraph Company, Limited [1891] 1
+QB 79). The Claimants suggest that the Oral Agreement was largely concluded in
+Singapore on the basis that the physical meetings between Mr Tan and Mr
+Jonathan Tok took place in Singapore. 64
+
+##### Foot Note 64
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at paras 57-63.
+
+I set out the factors identified in Pacific Recreation at [37] and [43]–[44]
+that are relevant to the present case as follows:
+
+(a) the commercial purpose of the transaction;
+
+(b) the currency of the contract or the currency for payment; and
+
+(c) the places of residence or business of the parties.
+
+48 The first factor is the commercial purpose of the transaction, which for
+much the same reasons as set out at [37] above, clearly points to Malaysia.
+The very subject matter of the Oral Agreement concerned financing the
+construction of the Phase Two development that is located in Johor Bahru,
+Malaysia.
+
+49 With this in mind, even if the Oral Agreement was largely concluded in
+Singapore, this bore no particular relation to the place of performance of the
+Oral Agreement. With the parties based across various jurisdictions, it is
+equally plausible that Singapore was a convenient location for Mr Tan and Mr
+Jonathan Tok to physically meet to sort out the details relating to the
+Claimants’ investment in the Phase Two development. I therefore decline to
+give much weight to the place of contracting at the second stage.
+
+50 The second factor is the currency of the contract, which also points to
+Malaysia. It is not disputed that payment pursuant to the Oral Agreement was
+made in Malaysian Ringgit, namely, the Investment Sum of RM8,263,313.40 (see
+[8] above). Furthermore, payment of the Investment Sum was made to Buana
+Tunggal, which was a company registered in Malaysia and the main developer for
+the Phase Two development.
+
+51 The third factor relates to the places of residence or business of the
+parties, which is neutral. I reiterate my considerations expressed at [40]
+above that the parties resided and did business in various jurisdictions.
+Although there were several physical meetings in Singapore between Mr Jonathan
+Tok and Mr Tan, the Claimants also pleaded that the parties had on two
+occasions met in Malaysia to visit the site on which the Phase Two development
+would be constructed, 65
+
+##### Foot Note 65
+
+×
+
+SOC at para 9.
+
+and I have accepted that any other communications between Mr Sugiarto and Mr
+Hendro Tok must necessarily have been made by telephone conversations and/or
+electronic means.
+
+52 For these reasons, I find that it is reasonable to infer that the implied
+law governing the Oral Agreement is likely to be Malaysian law.
+
+53 For completeness, even if it could not be inferred that the parties
+intended Malaysian law to be the governing law following the second stage of
+the analysis, I would have no difficulty arriving at the same conclusion under
+the third stage as to which law has the closest and most real connection with
+the Oral Agreement. The Court of Appeal in Pacific Recreation clarified (at
+[48]) that the same factors are to be taken into consideration at the second
+and third stage, but the difference lies in the weight which is to be accorded
+to these factors, with equal weight being placed on all factors at the third
+stage. For similar reasons as stated above, it is clear that Malaysian law
+bears the most connection with the Oral Agreement.
+
+54 As to the Claimants’ argument that Malaysian law was not expressly pleaded
+by the Defendants, I would note that this is precisely because a defence on
+the merits of the case would typically not be filed by a defendant who seeks a
+stay of proceedings based on forum non conveniens (see O 6 r 7(4) of the Rules
+of Court 2021 (the “ROC 2021”)). In the present case, I am satisfied that
+there is adequate material before the court for a finding to be made as to the
+governing law of the Oral Agreement, for the purposes of identifying the
+appropriate forum.
+
+55 For the foregoing reasons, I consider the governing law of the Oral
+Agreement to be a relatively important factor pointing to Malaysia, even
+taking into account the following qualification. I recognise that the issues
+to be determined at trial (as identified by the parties at [18] above) are
+largely factual as opposed to legal in nature (see in this regard the
+observations of the Court of Appeal in Lakshmi at [56]–[57]). Furthermore,
+both Singapore and Malaysia are common law jurisdictions. Although I note that
+the law of contract in Malaysia is governed by her Contracts Act 1950 (Act
+136), there is no suggestion by either party that the Malaysia or Singapore
+courts would apply different contract or tort law principles such as to affect
+the outcome of the dispute.
+
+Place where the tort occurred
+
+56 Insofar as the Claimants’ alternative pleaded case lay in the tort of
+negligence, I also consider the place where the tort was alleged to have
+occurred, which can provide a convenient starting point or prima facie
+position insofar as the place of the tort was not fortuitous (Rickshaw
+Investments at [39] and [40]; JIO Minerals FZC and others v Mineral
+Enterprises Ltd [2011] 1 SLR 391 (“JIO Minerals”) at [106]). But in the
+present case, I consider the place of the tort to be a neutral factor for the
+following two reasons.
+
+57 The test that is commonly applied for determining the place of the tort is
+that which looks at the events constituting the tort and asks where, in
+substance, the cause of action arose (JIO Minerals at [90]). For the tort of
+negligence, this would be where the failure to take reasonable care took place
+(Distillers Co (Biochemicals) Ltd v Laura Anne Thompson [1971] AC 458). The
+Claimants’ pleaded case in negligence alleges that prior to the Oral Agreement
+being entered into the Defendants had failed to take reasonable care in giving
+certain advice, warranties and representation to the Claimants that the Phase
+Two development would be a safe investment with guaranteed profits. 66
+
+##### Foot Note 66
+
+×
+
+SOC at paras 39-41.
+
+Therefore, I consider that the closest link to Singapore would be insofar that
+the Defendants’ voluntary assumption of responsibility substantially took
+place by Mr Jonathan Tok’s acts or omissions in Singapore. However, even this
+could not be said for certain for much the same reasons as set out at [40]
+above. I reiterate that the physical meetings between Mr Jonathan Tok and Mr
+Tan told only one side of the story. As between Mr Hendro Tok and Mr Sugiarto,
+their communications must necessarily have been made by telephone
+conversations and/or electronic means from their respective locations. There
+is also some suggestion that Mr Hendro Tok and Mr Sugiarto were in fact the
+key decision makers behind the Oral Agreement. More importantly, on at least
+two occasions in October and November 2011 the Claimants had made social
+visits to the Defendants and to the construction site of the Phase Two
+development in Malaysia. By the Claimants’ own pleaded case, it is alleged
+that during the time of both these visits to Malaysia the Defendants had
+continued making the representations the subject of the Negligence Claim. 67
+
+##### Foot Note 67
+
+×
+
+SOC at para 9(a).
+
+58 Furthermore, even if Singapore could be considered the place of the tort, I
+consider the prima facie position to be displaced on the facts of the case
+indicating that it was fortuitous that the failure to take reasonable care
+took place in Singapore. As stated above, the parties were based across
+different jurisdictions, the Oral Agreement related to the construction of a
+development project in Malaysia, and the sole nexus to Singapore was the
+location of the physical meetings between Mr Jonathan Tok and Mr Tan.
+
+59 I therefore consider the place where the tort occurred to be a neutral
+factor in the present case.
+
+The Defendants’ witnesses
+
+60 The Defendants say that they intend to call witnesses who are residents in
+Malaysia to give evidence on the following events to establish the Defendants’
+defence that they had ensured and/or used reasonable care to ensure the
+profitable construction of the Phase Two development: 68
+
+##### Foot Note 68
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at para 41; affidavit
+of Tok Beng Tong dated 27 July 2023 at paras 72-74.
+
+(a) The insolvency and resultant delays of the first main contractor
+appointed, Mutiara Raya Corporation Sdn Bhd.
+
+(b) The delays caused to the Phase Two development by the second main
+contractor appointed, Max Southern Steel Sdn Bhd (“MSSB”).
+
+(c) Delays occasioned by the COVID-19 pandemic from March 2020 onwards.
+
+(d) Theft issues at the Phase Two development site and related problems with
+suppliers.
+
+(e) Efforts by Buana Tunggal to appoint the third main contractor to take over
+MSSB and to complete the remaining works at the Phase Two development.
+
+(f) Delays of delivery of vacant possession of the purchased units and
+purchasers’ claims for liquidated damages against Buana Tunggal, for which the
+Defendants intend to call as witnesses some of the purchasers of the
+commercial units in the Phase Two development. Most of these purchasers reside
+in Malaysia.
+
+61 Apart from the witnesses involved in point (f) above, the witnesses whom
+the Defendants intend to call were all involved in the Phase Two development
+and were either the project consultants or main contractors for the Phase Two
+development not in the employ of the Defendants or Buana Tunggal. 69
+
+##### Foot Note 69
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at para 43.
+
+These witnesses are Malaysian citizens and as far as the Defendants are
+currently aware are residing in Malaysia. 70
+
+##### Foot Note 70
+
+×
+
+Affidavit of Tok Beng Tong dated 27 July 2023 at para 72.
+
+62 I do not accept the Claimants’ submission that limited weight should be
+given to the personal connections of the witnesses since the witnesses which
+the Defendants intend to call would provide limited evidence as to the
+existence of delays in the construction of the Phase Two development, rather
+than the actual breach of contractual or tortious duties by the Defendants
+themselves. 71
+
+##### Foot Note 71
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at paras 5-7.
+
+63 By the Claimants’ own pleaded case (see [12] above), they allege, on the
+basis that the Reasonable Care Term exists, that the Defendants did not ensure
+and/or did not take reasonable care to ensure that the construction of the
+Phase Two development would be completed in a manner that results in Buana
+Tunggal earning approximately net profits of RM44,232,896.80 to
+RM48,888,991.20. 72
+
+##### Foot Note 72
+
+×
+
+SOC at para 16(c) and 36(b); affidavit of Tan Wei Heng Kelvin dated 14 August
+2023 at para 12(b) and 12(d).
+
+As set out above at S/Nos 3(b) and 4(b) of [18] above, the Claimants have
+therefore put in issue the question of the manner in which the Defendants
+managed and/or oversaw the timely and profitable completion of the Phase Two
+development project, which is a separate and distinct inquiry from the mere
+fact of the existence of delays in the completion of the project.
+
+64 I am satisfied that the Defendants have shown that the evidence from the
+foreign witnesses identified at paragraph 72(a)–(g) of Mr Jonathan Tok’s
+affidavit dated 27 July 2023 (collectively, the “Malaysian Witnesses”) is at
+least arguably relevant to the Defendants’ defence on the management of the
+Phase Two development project. On the issue of the Claimants’ pleaded
+Reasonable Care Term, if indeed found to be a term of the Oral Agreement, this
+is likely to raise a significant number of disputed factual issues, for
+instance, as to who is at fault for the delays to the Phase Two development,
+and whether these delays were critical delays such that the project as a whole
+was delayed. 73
+
+##### Foot Note 73
+
+×
+
+Affidavit of Tan Wei Heng Kelvin dated 14 August 2023 at paras 27-28.
+
+The evidence from the project consultants or main contractors for the Phase
+Two development whom the Defendants intend to call would therefore be relevant
+to the determination of these factual issues.
+
+Witness compellability
+
+65 I begin by dealing with the appropriate weight to be given to the factor of
+witness compellability, before turning to witness convenience.
+
+66 The Defendants argue that they need to rely on the Malaysian Witnesses who
+may have to be compelled to give evidence. They claim that the Singapore
+courts cannot compel a foreign witness to testify in a Singapore court (see by
+implication from O 15 r 4(3) of the Rules of Court 2021, which requires that
+an order to attend court or an order to produce documents must be served on
+the witness “by personal service in Singapore” [emphasis added]).
+
+67 In response, the Claimants rely on O 66 r 1 of the Rules of Court 2012
+(PU(A) 205/2012) (M’sia) (the “Malaysian ROC”) which they say provides that
+the Malaysian courts have the power to order witnesses based in Malaysia to
+attend and be examined in relation to proceedings before a foreign court, upon
+request by any person authorised to make such a request by that foreign court.
+74
+
+##### Foot Note 74
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at para 50; affidavit
+of Tan Wei Heng Kelvin dated 14 August 2023 at pp 85-87 (Exhibit “TWHK-4”).
+
+68 Although the Claimants have not adduced expert evidence on this point of
+Malaysian law, in Singapore, it is well-recognised that issues of foreign law
+can also be proven by directly adducing raw sources of foreign law as
+evidence, provided they satisfy the requirements in the Evidence Act 1893
+(2020 Rev Ed) (the “EA”). Nonetheless, the precise evidentiary weight to be
+accorded may differ depending on the foreign law at hand (Pacific Recreation
+at [55] and [60]). In the present case, I note that s 59(1)(b) of the EA
+provides that the Singapore courts shall take judicial notice of “all Acts
+passed or hereafter to be passed by the legislature of any territory within
+the Commonwealth”. Furthermore, under s 59(2) of the EA, our courts can
+“resort for [their] aid to appropriate books or documents of reference” when
+dealing with such Acts. Given the comparative similarities between Singapore
+and Malaysian civil procedure and the presence of an equivalent legislative
+provision in Singapore, being O 55 r 1 of the ROC 2021 (and its predecessor
+legislation, O 66 r 1 of the Rules of Court 2014), I consider that there is
+little difficulty in the present case in a Singapore court competently
+assessing whether O 66 r 1 of the Malaysian ROC provides for the position as
+stated by the Claimants.
+
+69 Order 66 r 1 of the Malaysian ROC provides:
+
+Jurisdiction of Registrar to make order (O 66 r 1)
+
+1\. (1) Subject to paragraph (2), the power of the High Court or a Judge
+thereof to make, in relation to a matter pending before a Court or tribunal in
+a place outside the jurisdiction, orders for the examination of witnesses and
+for attendance and for production of documents and to give directions may be
+exercised by the Registrar.
+
+(2) The Registrar may not make such an order if the matter in question is a
+criminal matter.
+
+Order 66 r 2 of the Malaysian ROC in turn provides the procedure for an
+application for an order under O 66 r 1, and O 66 r 4 further provides the
+procedure for the taking of evidence under any order made in pursuance of O 66
+of the Malaysian ROC.
+
+70 In Malaysian Rules of Court 2012: An Annotation vol 2 (LexisNexis, 2012) at
+para 66/1/4, the position under O 66 r 1 is further stated as follows:
+
+66/1/4. Pending before a court or tribunal in a place outside the
+jurisdiction. There must be a matter pending before the foreign court or
+tribunal before the High Court can exercise its power under this rule. The
+question of whether there is a matter pending before the foreign court or
+tribunal is for the requesting court to determine. The court will not question
+the bona fides of a letter of request from a foreign court: see the dicta of
+Eusoff Chin J (as his Lordship then was) in Lorrain Esme Osman v A-G of Hong
+Kong (unreported, Originating Summons No R8-24-59-89), where it was also held
+that concrete evidence in the form of a decision of the foreign court must be
+produced to prove that no proceedings were pending at the date of the
+application for the order for examination of witnesses and production of
+documents in the High Court. See also Dato Mohamed Hashim Shamsuddin v A-G,
+Hong Kong [1986] 2 MLJ 112, where the Supreme Court was satisfied from the
+order of the foreign court for issue of the letter of request, the letter of
+request itself and the affidavit filed in the High Court in support of the
+application that there were pending proceedings in the foreign court.
+
+71 I am therefore satisfied that the availability of O 66 r 1 of the Malaysian
+ROC mitigates, to some extent, the witness compellability factor as relied
+upon by the Defendants. Where proceedings are pending before a foreign (ie,
+outside of Malaysia) court or tribunal, and where a witness in Malaysia is
+unwilling to give evidence or to produce documents voluntarily, the High Court
+in Malaya and the High Court in Sabah and Sarawak have the power to make an
+order that evidence be taken in Malaysia, for the purposes of the foreign
+proceedings.
+
+Witness convenience
+
+72 I consider that the appropriate weight to be given to the witness
+convenience factor must be balanced between (a) on the one hand, the
+availability of giving evidence via video-link as well as the close proximity
+of Singapore to Malaysia (JIO Minerals at [69]–[70] and [110]; see also O 15 r
+5 of the ROC 2021) and (b) on the other hand, the greater significance
+afforded to the witness convenience factor where the main disputes in the case
+at hand revolve around questions of fact (Rickshaw Investments at [19]), and
+also given that the Defendants intend to call multiple witnesses based in
+Malaysia.
+
+73 In addition, while I noted at [71] above that the Malaysian courts have the
+power to make an order under O 66 r 1 of the Malaysian ROC that evidence be
+taken in Malaysia for the purposes of foreign proceedings, such mode of taking
+evidence will no doubt be more cumbersome in both time and expenses to the
+Defendants should the Malaysian Witnesses turn out to be unwilling to give
+evidence and/or to produce documents voluntarily. In this regard, O 66 r 4(2)
+alludes to the payment of fees and expenses due to the examiner under the
+procedure in O 66 of the Malaysian ROC.
+
+74 On balance, therefore, I consider that there would be relatively more
+convenience in having the case decided in the forum where the Malaysian
+Witnesses are ordinarily resident. For completeness, I also note that the
+Claimants have not suggested that they intend to call other witnesses who may
+be based in Singapore or elsewhere.
+
+The availability of documents
+
+75 It is possible for the location of documents to become a relevant
+connecting factor if the disclosure of these documents can only easily be
+obtained in proceedings in one of the competing jurisdictions (Ivanishvili,
+Bidzina and others v Credit Suisse Trust Ltd [2020] 2 SLR 638 (“Ivanishvili”)
+at [98]). The Defendants assert that all the project documents in relation to
+the Phase Two development are located only in Malaysia, because these
+documents are in the possession of the various parties involved in the Phase
+Two development that are either Malaysian entities and/or Malaysian citizens.
+75
+
+##### Foot Note 75
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at para 53.
+
+At the hearing on 27 September 2023, counsel for the Defendants orally
+submitted that such project documents would be relevant to assessing the
+Claimants’ interest in the Phase Two development if the Defendants’ position
+on the terms of the Oral Agreement is accepted, and also relevant to the
+taking of accounts for the Phase Two development and/or for damages to be
+assessed under the Defendants’ Intended Counterclaim (see [16] above). The
+Defendants further submit that such project documents can only be obtained via
+the discovery process in the Malaysian courts and are therefore a relevant
+connecting factor pointing to Malaysia. 76
+
+##### Foot Note 76
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at para 54.
+
+76 For the following two reasons, however, I do not consider the availability
+of documents to be a relevant connecting factor in the present case.
+
+77 In the first place, the Defendants have not demonstrated an at least
+arguable case that the project documents cannot be easily obtained. On the
+contrary, I agree that these documents relating to the Phase Two development
+are most likely to have been stored and circulated in electronic form. I also
+agree, bearing in mind that Buana Tunggal was the main developer for the Phase
+Two development, and that the Defendants appear to occupy key positions in
+Buana Tunggal (see [4] and [5] above), that it is likely that the Defendants
+would have easy access to these project documents which are relevant to their
+defence and Intended Counterclaim.
+
+78 Furthermore, even if I am wrong as to the above, I also consider the
+availability of the procedure under O 66 r 1 of the Malaysian ROC sufficient
+to rebut the Defendants’ argument that they would be unable to obtain
+documents which are solely in the possession of Malaysian parties. As noted at
+[71] above, the Malaysian courts would have the power to make an order for the
+production of documents by a witness based in Malaysia, for the purposes of
+foreign proceedings.
+
+Personal connections of the parties
+
+79 The Claimants submit that this factor points in favour of Singapore as the
+first claimant is a Singapore citizen, the first defendant is a Singapore
+permanent resident, and the second claimant is willing to attend and testify
+in Singapore court proceedings.
+
+80 However, the first defendant is also a citizen of Malaysia and the second
+defendant resides in Malaysia. I therefore consider this factor to be neutral
+and find applicable in this regard the observation of the Court of Appeal in
+Rappo (at [71]) that “in disputes involving well-heeled parties who have a
+high degree of mobility … the current domicile of the parties may be of little
+legal significance, depending on the circumstances of the case.” This is even
+more so given the close geographical proximity between the parties’ respective
+places of domicile in the present case (ie, Singapore, Malaysia and
+Indonesia).
+
+Conclusion: Malaysia is the more appropriate forum
+
+81 I am satisfied that the Defendants have discharged their burden of showing
+that Malaysia is clearly and distinctly the more appropriate forum than
+Singapore for the trial of the case concerned. The place of performance of the
+Oral Agreement was intended by the parties to be substantially performed in
+Malaysia and the underlying subject matter of the Oral Agreement, being the
+construction of a development project that is located in Johor Bahru, clearly
+points to Malaysia (see [37] above). Together with the governing law of the
+Oral Agreement which I have found at [52] above to be Malaysian law as well as
+the undoubted convenience in having the case decided in Malaysia where the
+intended witnesses are ordinarily residents (see [74] above), I consider that
+the connecting factors meaningfully point to Malaysia as the jurisdiction in
+which the case may be “tried more suitably for the interests of all the
+parties and for the ends of justice” (Rappo at [72], citing Spiliada at 476).
+Insofar as the strongest argument to be made in favour of Singapore is that
+many of the physical meetings between Mr Jonathan Tok and Mr Tan had taken
+place in Singapore, I reiterate my considerations at [40] above that it was Mr
+Sugiarto and Mr Hendro Tok who played the more significant roles as the key
+decision makers behind the investment in the Phase Two development and, in any
+event, much of the communications between the parties must necessarily have
+been made by electronic means given that they were all residing in different
+jurisdictions at the material time. Furthermore, there were at least two
+occasions where the Claimants had visited the Defendants in Malaysia and
+during which time, by the Claimants’ pleaded case, they say that the
+Defendants had continued to make certain representations as to the
+profitability of the investment. Finally, while I consider the strength of the
+witness compellability factor to be largely mitigated for the reasons
+expressed at [71] above, I also note the Court of Appeal’s observation in
+Ivanishvili (at [96]) that “[u]ltimately, the court will usually be prepared
+to assume that despite the possible arrangements and accommodations [ie, the
+availability of judicial assistance proceedings for taking evidence in the
+foreign jurisdiction], it would typically be easier to secure the evidence of
+witnesses in the jurisdiction where they are located”. [emphasis in original]
+
+82 On balance, therefore, I consider at Stage One of the Spiliada test that
+Malaysia is the more appropriate forum.
+
+Stage Two of the Spiliada test
+
+83 The legal burden at Stage Two of the Spiliada test is on the claimant to
+establish the existence of special circumstances by reason of which justice
+requires that a stay should nonetheless be refused (CIMB Bank at [26]). In the
+present case, the Claimants have not raised any personal or juridical
+advantage that they would lose or that they would be denied substantial
+justice if the case is not litigated in Singapore. I also do not consider that
+any special circumstances exist which require that a stay should nonetheless
+be refused.
+
+Conclusion and costs
+
+84 For the reasons set out above, I consider that Malaysia is clearly and
+distinctly the more appropriate forum for the trial of OC 385. I therefore
+allow the appeal for the proceedings in OC 385 to be stayed on the ground of
+forum non conveniens.
+
+85 The costs of SUM 2259 are to be reversed with the Claimants to pay the
+Defendants the costs of the application at S$9,000 (all-in).
+
+86 In respect of the costs of the appeal payable by the Claimants to the
+Defendants, Appendix G of the Supreme Court Practice Directions 2021 provides
+that the costs to be awarded for an appeal before a Judge in the General
+Division to be in the range of S$5,000 to S$35,000. The Defendants submit that
+costs of the appeal should be fixed at S$15,000, 77
+
+##### Foot Note 77
+
+×
+
+Defendants’ written submissions dated 25 September 2023 at para 70.
+
+whereas the Claimants are seeking costs to be fixed at S$10,000 (inclusive of
+disbursements). 78
+
+##### Foot Note 78
+
+×
+
+Claimants’ written submissions dated 25 September 2023 at para 71.
+
+Taking into account that this appeal does not engage issues of legal and
+factual complexity and that the matter was fixed for a special half-day
+hearing, I order costs of the appeal to be fixed at S$12,000 (all-in) payable
+by the Claimants to the Defendants.
+
+87 In conclusion, the appeal is allowed and I make the following orders:
+
+(a) that all proceedings in OC 385 be stayed;
+
+(b) the Claimants are to pay the Defendants the costs of the application in
+SUM 2259 fixed at S$9,000 (all-in); and
+
+(c) the Claimants are to pay the Defendants the costs of the appeal in RA 193
+fixed at S$12,000 (all-in).
+
+Lee Seiu Kin  
+Judge of the High Court|  
+---|---  
+  
+Zhuang Wenxiong, Qabir Singh Sandhu, Bertrice Hsu Li-Jia and Li Jiabao (LVM
+Law Chambers LLC) for the first and second claimants;
+
+Patrick Ong Kok Seng (Patrick Ong Law LLC) for the first and second
+defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 12 Dec 2023 (12:11 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

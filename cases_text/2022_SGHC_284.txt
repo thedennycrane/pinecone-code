@@ -1,0 +1,1431 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 284
+
+Suit No 1048 of 2021 (Registrar’s Appeal Nos 187 and 282 of 2022)
+
+Between
+
+| Xingang Investment Pte Ltd  
+---|---  
+|  
+  
+… Plaintiff
+
+And
+
+(1)| Tengah Engineering & Hardware Pte Ltd  
+---|---  
+(2)| Ong Bok Cheng  
+(3)| Ng Boon Chwee  
+  
+… Defendants
+
+grounds of decision
+
+[Civil Procedure — Summary judgment]
+
+[Civil Procedure — Striking out]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Xingang Investment Pte Ltd
+
+  
+v
+
+  
+
+Tengah Engineering & Hardware Pte Ltd and others
+
+[2022] SGHC 284
+
+General Division of the High Court — Suit No 1048 of 2021 (Registrar’s Appeal
+Nos 187 and 282 of 2022)  
+See Kee Oon J  
+19 August, 19 October 2022
+
+8 November 2022
+
+See Kee Oon J:
+
+Introduction
+
+1 The plaintiff (the respondent in the appeals) commenced proceedings against
+the first, second and third defendants (the appellants in the appeals)
+(collectively, “the Defendants”) in HC/S 1048/2021 (“the Suit”) seeking in its
+primary claim, the repayment of moneys pursuant to two loan agreements coupled
+with the associated interest, late interest and late payment fees.
+
+2 The appeal in HC/RA 187/2022 (“RA 187”) was the Defendants’ appeal against
+the learned assistant registrar’s (“AR Tang”) decision in HC/SUM 601/2022
+(“SUM 601”) granting summary judgment under O 14 of the Rules of Court (Cap
+322, R 5, 2014 Rev Ed) (“ROC”) on the plaintiff’s primary claim following its
+application for the same. After considering the parties’ arguments, I affirmed
+AR Tang’s decision and dismissed RA 187 on 19 August 2022.
+
+3 After RA 187 was dismissed, the learned assistant registrar (“AR Liew”)
+heard the plaintiff’s application to strike out the Defendants’ counterclaim
+in the Suit vide HC/SUM 2302/2022 (“SUM 2302”). On 7 September 2022, AR Liew
+granted the plaintiff’s application and accordingly struck out the Defendants’
+counterclaim. The appeal in HC/RA 282/2022 (“RA 282”) was the Defendants’
+appeal against AR Liew’s decision in SUM 2302. On 19 October 2022, I heard the
+parties and dismissed RA 282.
+
+4 I now provide the full reasons for my decisions in both RA 187 and RA 282.
+
+Facts
+
+The parties
+
+5 The plaintiff, Xingang Investment Pte Ltd, is a company in the business of
+providing loans to corporations and limited liability partnerships. It is an
+“excluded moneylender” as defined in s 2 of the Moneylenders Act (Cap 188,
+2010 Rev Ed). 1
+
+##### Foot Note 1
+
+×
+
+Wang Joo Shi’s 1st affidavit dated 15 February 2022 (“1WJS”) at para 5.
+
+6 The first defendant, Tengah Engineering & Hardware Pte Ltd, is a company in
+the business of distributing industrial safety and construction equipment and
+other related products. 2
+
+##### Foot Note 2
+
+×
+
+Ng Boon Chwee’s 1st affidavit dated 13 April 2022 (“1NBC”) at para 4.
+
+The second and third defendants, Mr Ong Bok Cheng and Mr Ng Boon Chwee, are
+directors of the first defendant. 3
+
+##### Foot Note 3
+
+×
+
+1NBC at para 1; Ong Bok Cheng’s affidavit dated 13 April 2022 at para 1.
+
+Background to the dispute in the Suit
+
+7 On 30 November 2020, the plaintiff and the first defendant entered into a
+loan agreement for a loan of $500,000 (the “LA”). 4
+
+##### Foot Note 4
+
+×
+
+Wang Joo Shi’s 2nd affidavit dated 9 May 2022 (“2WJS”) at Tab 1.
+
+The sums due under the LA had been fully paid by the first defendant. 5
+
+##### Foot Note 5
+
+×
+
+2WJS at para 7.3.
+
+The LA was thus not the subject of the present dispute.
+
+8 On 9 March 2021, the plaintiff and the first defendant concluded a
+supplementary loan agreement whereby the plaintiff agreed to lend the first
+defendant a sum of $200,000 (the “First Supplementary LA”). 6
+
+##### Foot Note 6
+
+×
+
+1WJS at Tab 2, pp 30–40.
+
+I summarise the relevant terms of the First Supplementary LA as follows: 7
+
+##### Foot Note 7
+
+×
+
+1WJS at Tab 2, pp 31–33; 1WJS at para 8.
+
+(a) Clause 4.1: the interest rate payable on the principal loan sum is 2.8%
+per month between 9 March 2021 and 9 September 2021 (the “Interest Rate”).
+
+(b) Clause 4.2: the interest payable on the principal loan sum (the
+“Interest”) amounted to $33,600.
+
+(c) Clause 4.3.1: the principal loan sum and the Interest shall be repaid by
+the first defendant to the plaintiff in six instalments as follows:
+
+(i) $38,934 on or before 9 April 2021;
+
+(ii) $38,934 on or before 9 May 2021;
+
+(iii) $38,934 on or before 9 June 2021;
+
+(iv) $38,934 on or before 9 July 2021;
+
+(v) $38,934 on or before 9 August 2021; and
+
+(vi) $33,330 on or before 9 September 2021;
+
+(d) Clause 4.4.1: if the first defendant defaults on any payment under the
+First Supplementary LA, the first defendant is to pay the plaintiff:
+
+(i) a late payment fee of $300 per instalment and/or per month for as long as
+there are outstanding sums (“Late Payment Fee”); and
+
+(ii) additional interest at a monthly rate of 2% on all outstanding sums in
+addition to the Interest, from the date of default until the date of full
+settlement of all outstanding sums (“Late Interest”). For clarity, the total
+interest applicable for late payment(s) shall be 4.8%, being the sum of the
+Interest Rate and Late Interest.
+
+(e) Clause 4.4.2: both the Late Interest and Late Payment Fee are to be
+calculated on a daily basis on all outstanding sums or money due under the
+First Supplementary LA from the due date of payment to the date of full
+settlement.
+
+9 On the same day, the second and third defendants each executed a personal
+guarantee in respect of the sums due under the First Supplementary LA (the
+“First Supplementary LA Guarantees”). 8
+
+##### Foot Note 8
+
+×
+
+1WJS at Tab 3 and Tab 4, pp 61–84.
+
+The first defendant also gave the plaintiff six post-dated cheques for
+repayment of each of the instalments. 9
+
+##### Foot Note 9
+
+×
+
+1WJS at para 15.
+
+10 The first defendant duly made payments in accordance with the payment
+schedule at cl 4.3 of the First Supplementary LA, including the payment of
+Late Interest and the Late Payment Fee, where incurred. 10
+
+##### Foot Note 10
+
+×
+
+1WJS at para 14.
+
+However, to date, the first defendant has only made the following payments in
+respect of the final instalment: (a) $16,000 on 9 September 2021; (b) $5,000
+on 16 September 2021; and (c) $1,000 on 15 October 2021. 11
+
+##### Foot Note 11
+
+×
+
+1WJS at para 15.
+
+11 On 14 June 2021, the plaintiff and the Defendants concluded a second
+supplementary loan agreement in which the plaintiff agreed to lend a further
+sum of $350,000 (the “Second Supplementary LA”). 12
+
+##### Foot Note 12
+
+×
+
+1WJS at para 18.
+
+The terms governing the Interest, Late Interest and Late Payment Fee to be
+paid were materially similar to the terms stated in the First Supplementary
+LA. Based on the same Interest Rate, the Interest due under the Second
+Supplementary LA amounted to $58,800. The payment schedule calculated based on
+the loan sum and the corresponding Interest is set out at cl 4.3, which I
+reproduce as follows: 13
+
+##### Foot Note 13
+
+×
+
+1WJS at para 19.2; 1WJS at Tab 7, p 92.
+
+(a) $68,134 on or before 15 July 2021;
+
+(b) $68,134 on or before 15 August 2021;
+
+(c) $68,134 on or before 15 September 2021;
+
+(d) $68,134 on or before 15 October 2021;
+
+(e) $68,134 on or before 15 November 2021; and
+
+(f) $58,330 on or before 15 December 2021.
+
+12 On the same day, the second and third defendants once again each executed a
+personal guarantee in respect of the sums due under the Second Supplementary
+LA (the “Second Supplementary LA Guarantees”). 14
+
+##### Foot Note 14
+
+×
+
+1WJS at Tab 8 and Tab 9, pp 105–123.
+
+The first defendant also gave the plaintiff six post-dated cheques for
+repayment of each of the instalments (including the Interest). 15
+
+##### Foot Note 15
+
+×
+
+1WJS at para 25.
+
+13 The plaintiff to date has only made the following payments under the Second
+Supplementary LA: 16
+
+##### Foot Note 16
+
+×
+
+2WJS at para 11; 1WJS at Tab 13, pp 146–147.
+
+(a) On 14 June 2021, a sum of $27,300, comprising: (i) an administrative fee
+of $17,500; and (ii) first instalment of the Interest of $9,800. The plaintiff
+thus made part-payment of the first instalment.
+
+(b) On 22 July 2021, a sum of $69,079, comprising: (i) the principal sum due
+under the first instalment and the corresponding Interest of $68,134; (ii)
+Late Interest of $644.39; and (iii) Late Payment Fee of $300. The plaintiff
+thus made full payment of the first instalment.
+
+(c) On 30 August 2021, a sum of $5,000, comprising: (i) part-payment of the
+Interest of $3,319.18; (ii) Late Interest of $1,380.82; and (iii) Late Payment
+Fee of $300. The plaintiff thus made part-payment of the second instalment.
+
+(d) On 31 August 2021, a sum of $10,000, comprising: (i) part-payment of the
+principal sum due under the second instalment of $3,427.13; (ii) remaining
+payment of Interest of $6,480.82; and (iii) Late Interest of $92.05. The
+plaintiff thus made part-payment of the second instalment.
+
+(e) On 7 September 2021, a sum of $5,000, comprising: (i) part-payment of the
+principal sum due of $4,393.47; and (ii) Late Interest of $606.53. The
+plaintiff thus made part-payment of the second instalment.
+
+14 On 15 October 2021, the due date of the fourth instalment payment under the
+Second Supplementary LA, the plaintiff presented one of the post-dated cheques
+to the bank. However, this was countermanded by the first defendant. 17
+
+##### Foot Note 17
+
+×
+
+1WJS at para 29.
+
+15 The first defendant is the owner of a property located at 37 Kallang
+Pudding Road #08-05 Tong Lee Building Blk B, Singapore 349315 (“the
+Property”). Sometime before 15 December 2021, the first defendant entered into
+a sale and purchase agreement with a third-party for the sale of the Property.
+The first defendant entered into the agreement to sell the Property in order
+to discharge the outstanding sums due under the two Supplementary LAs.
+However, on 15 December 2021, the stipulated date of completion, the first
+defendant failed to complete the sale. 18
+
+##### Foot Note 18
+
+×
+
+1NBC at paras 15–19.
+
+16 Subsequently, on 17 January 2022, the plaintiff presented another five of
+the post-dated cheques to the bank. However, the said cheques were returned
+and marked as “Payment Stopped”. 19
+
+##### Foot Note 19
+
+×
+
+1WJS at para 28.
+
+17 Thus, the plaintiff’s primary claim in the Suit is that the Defendants are
+liable to repay the following sums under the First and Second Supplementary
+LAs, collectively, the “Supplementary LAs” (with the first defendant directly
+liable under the two Supplementary LAs and the second and third defendants
+liable under the Supplementary LA Guarantees): 20
+
+##### Foot Note 20
+
+×
+
+Statement of Claim (Amendment No 2) dated 15 June 2022 (“SOC2”) at paras
+26.1–26.4.
+
+(a) the outstanding sum of $355,029.89 (as of 21 December 2021) (“the
+Outstanding Sum”) comprising: $13,699.66 (due under the First Supplementary
+LA) and $341,330.23 (due under the Second Supplementary LA);
+
+(b) Interest at the rate of 2.8% per month on the Outstanding Sum from 21
+December 2021 until the date of full settlement;
+
+(c) Late Interest at the rate of 2.0% per month on the Outstanding Sum from 21
+December 2021 until the date of full settlement; and
+
+(d) Late Payment Fee of $300 per month from 21 December 2021 until the date of
+full settlement.
+
+18 The plaintiff’s alternative claim is that the six post-dated cheques issued
+by the first defendant to the plaintiff dated 15 July 2021, 15 August 2021, 15
+September 2021, 15 October 2021, 15 November 2021 and 15 December 2021 for a
+total sum of $399,000 (“the Cheques”) were unconditional orders to pay for
+negotiable instruments pursuant to s 3 of the Bills of Exchange Act (Cap 23,
+2004 Rev Ed). Accordingly, as they were dishonoured and the Cheques remain
+unpaid, the plaintiff is claiming losses amounting to $399,000 and interest.
+21
+
+##### Foot Note 21
+
+×
+
+SOC2 at paras 20–25 and 26.5–26.6.
+
+Application for summary judgment in SUM 601
+
+19 By way of SUM 601, the plaintiff applied for summary judgment under O 14 r
+1 of the ROC. The plaintiff only sought summary judgment on its primary claim
+(see [17] above), and not its alternative claim (see [18] above). 22
+
+##### Foot Note 22
+
+×
+
+1WJS at paras 34–38.
+
+The first defendant argued that there were triable issues arising from the
+facts of the case which made the granting of summary judgment inappropriate.
+23
+
+##### Foot Note 23
+
+×
+
+Defendant’s submissions in SUM 601 (“DS SUM 601”) at para 8.
+
+Further, the Defendants had a valid counterclaim against the plaintiff which
+should be heard together with the claim and decided at trial. 24
+
+##### Foot Note 24
+
+×
+
+DS SUM 601 at para 10.4.
+
+The second and third defendants similarly resisted the plaintiff’s application
+contending that the Statement of Claim (Amendment No 1) dated 27 January 2022
+(“SOC1”), did not disclose a claim against them as pleaded. 25
+
+##### Foot Note 25
+
+×
+
+DS SUM 601 at paras 9.1–9.2.
+
+20 On 23 May 2022, AR Tang heard SUM 601 and granted summary judgment in
+favour of the plaintiff. She first found that the claims against the second
+and third defendants had been sufficiently pleaded in SOC1 as there were
+references made to their respective personal guarantees, amongst other things.
+26
+
+##### Foot Note 26
+
+×
+
+Certified Transcript of SUM 601 dated 23 May 2022 (“CT SUM 601”) at p 14, ln
+25–31.
+
+She went on to observe that the main issue was whether the Defendants owed the
+sums due under the primary claim to the plaintiff. Accordingly, many of the
+issues raised by the Defendants were irrelevant. 27
+
+##### Foot Note 27
+
+×
+
+CT SUM 601 at p 15, ln 1–4.
+
+In particular:
+
+(a) Although the Defendants had sought to challenge the calculations of the
+outstanding sums claimed by the plaintiff, they had not identified any
+specific error. This was so despite the plaintiff’s detailed calculations
+presented in Mr Wang Joo Shi’s second affidavit (“Wang’s second affidavit”).
+28
+
+##### Foot Note 28
+
+×
+
+CT SUM 601 at p 15, ln 9–13.
+
+(b) The alleged agreement between the parties for the outstanding sum to be
+paid out of the sale proceeds of the Property could not be a defence to the
+fact that the Defendants owed the sum to the plaintiff. Even if this agreement
+existed, it was apparent that the sum could no longer be paid out of the sale
+proceeds. 29
+
+##### Foot Note 29
+
+×
+
+CT SUM 601 at p 15, ln 15–23.
+
+(c) It was not wrong or improper for the plaintiff to attempt to cash in five
+of the Cheques on 17 January 2022, when it was apparent that the sale of the
+Property would not proceed. 30
+
+##### Foot Note 30
+
+×
+
+CT SUM 601 at p 15, ln 25–32.
+
+Further, the Defendants’ counterclaim for loss and damage suffered to the
+first defendant’s business failed for being implausible. AR Tang did not
+accept that the plaintiff’s mere act of attempting to bank in five of the
+Cheques and the other acts referred to by the Defendants would lead to such a
+spiral, when it was apparent that the first defendant had prior issues with
+other creditors. Thus, AR Tang entered judgment for the plaintiff and found
+that there was no reason to grant unconditional leave to defend the claim or
+to grant a stay of execution. 31
+
+##### Foot Note 31
+
+×
+
+CT SUM 601 at p 16, ln 1–16.
+
+The appeal in RA 187
+
+21 The appeal in RA 187 was the Defendants’ appeal against AR Tang’s decision
+in SUM 601. The parties largely maintained their arguments in SUM 601. In
+addition, the Defendants sought leave to adduce further evidence in the form
+of a second affidavit affirmed by the third defendant by way of HC/SUM
+2639/2022 (“SUM 2639”) for the purpose of the appeal.
+
+22 It should be noted that the Defendants have only appealed against my
+decision in RA 187 and not SUM 2639. Accordingly, I will only set out my
+reasons pertaining to my decision in RA 187 below. In any event, for
+completeness, I should state that I dismissed the Defendants’ application in
+SUM 2639. 32
+
+##### Foot Note 32
+
+×
+
+Minute Sheet for HC/RA 187/2022 at p 4, para 2.
+
+The evidence sought to be adduced by the Defendants could have been obtained
+earlier with reasonable diligence. Even if this factor was disregarded, the
+main difficulty with SUM 2639 was that the evidence in the third defendant’s
+second affidavit was neither relevant nor credible. It did not have an
+important influence on the appeal. In the overall analysis, it was unnecessary
+in the interests of justice to admit the further affidavit.
+
+Issues to be determined in RA 187
+
+23 Based on the foregoing, the issues for my determination were:
+
+(a) whether the claims against the second and third defendants had been
+sufficiently pleaded in SOC1;
+
+(b) whether summary judgment should be granted in respect of the plaintiff’s
+primary claim. In particular:
+
+(i) whether the plaintiff established a prima facie case for summary judgment;
+
+(ii) whether the Defendants had a bona fide defence;
+
+(iii) whether there was any other reason why there ought to be a trial; and
+
+(c) what effect the Defendants’ counterclaim should have on an order for
+summary judgment.
+
+Issue 1: Whether the claims against the second and third defendants had been
+sufficiently pleaded in the SOC1
+
+24 I first consider the second and third defendants’ contention that the
+plaintiff had failed to sufficiently plead its claims against them in SOC1. At
+the outset, I note that shortly after SUM 601 was heard by AR Tang, the
+plaintiff filed Statement of Claim (Amendment No 2) dated 15 June 2022
+(“SOC2”). The amendments made in SOC2 are inconsequential for the present
+analysis and as such any reference to SOC1 may be taken as a reference to SOC2
+as well.
+
+25 In my view, AR Tang was correct in finding that the plaintiff had clearly
+pleaded and established the second and third defendants’ liabilities under the
+Supplementary LA Guarantees in SOC1. 33
+
+##### Foot Note 33
+
+×
+
+CT SUM 601 at p 14, ln 25–31.
+
+26 First, the plaintiff had specifically pleaded the existence of the
+Supplementary LA Guarantees, the relevant terms and their relationship with
+the two Supplementary LAs. Crucially, the plaintiff had pleaded the
+obligations of the second and third defendants under their respective
+Supplementary LA Guarantees to “unconditionally and irrevocably [guarantee],
+as a continuing obligation, the proper and punctual payment by [the first
+defendant] of the Guaranteed Amounts” and where the first defendant “for any
+reason and at any time and from time to time… [did] not make payment of any
+amount of the Guaranteed Amounts, the [second and third defendants] shall pay
+the amounts not so paid upon first written demand by the [plaintiff]”. 34
+
+##### Foot Note 34
+
+×
+
+SOC1 at paras 6.1, 8.1, 13.1 and 15.1.
+
+27 Second, the plaintiff had also pleaded the first defendant’s defaults in
+breach of both the Supplementary LAs. 35
+
+##### Foot Note 35
+
+×
+
+SOC1 at paras 9 and 16.
+
+28 Third, as AR Tang pointed out, the plaintiff had made clear reference in
+SOC1 to notice given to all the Defendants of the default under the
+Supplementary LAs (in respect of the first defendant) and the Supplementary LA
+Guarantees (in respect of the second and third defendants), and consequent
+demand for repayment of the outstanding sums. 36
+
+##### Foot Note 36
+
+×
+
+SOC1 at para 18.
+
+29 It was therefore indubitably clear that the first defendant’s defaults
+under the two Supplementary LAs would necessarily trigger the second and third
+defendants’ obligations under the corresponding Supplementary LA Guarantees.
+To my mind, the plaintiff’s claims against the second and third defendants
+were thus sufficiently pleaded.
+
+Issue 2: Whether summary judgment should be granted in respect of the
+plaintiff’s primary claim
+
+30 The legal principles concerning the grant of summary judgment under O 14 of
+the ROC are well-established. It would suffice for me to adopt the summary in
+Panircelvan s/o Kaliannan and others v Ee Hoong Liang [2022] SGHC 190 at [10]:
+
+… The plaintiff must first show that he has a prima facie case for summary
+judgment. If the plaintiff crosses that threshold, the defendant then bears
+the burden of raising ‘an issue or question in dispute which ought to be
+tried’. In doing so, the defendant must bring forward some ground which raises
+a reasonable probability that he or she has a real or bona fide defence in
+relation to the issues in disputes which ought to be tried: Goh Chok Tong v
+Chee Soon Juan [2003] 3 SLR(R) 32 at [25]. Alternatively, the defendant may
+attempt to show that there ought to be a trial for some other reasons, even
+though there is no reasonable probability of a real or bona fide defence which
+ought to be tried. The court will enter judgment against the defendant only if
+the plaintiff has satisfied the court that there is no reasonable probability
+that the defendant has a real or bona fide defence and there is no other
+reason why there ought to be a trial: Ritzland Investment Pte Ltd v Grace
+Management & Consultancy Services Pte Ltd [2014] 2 SLR 1342 at [43]–[47].
+
+Whether the plaintiff established a prima facie case for summary judgment
+
+31 It was not disputed that the Defendants did not repay in full the sums due
+under the two Supplementary LAs. The sums paid by the Defendants to the
+plaintiff were also undisputed. 37
+
+##### Foot Note 37
+
+×
+
+1NBC at paras 8, 11–12; 1WJS at paras 14–15 and 27; 2WJS at para 11.
+
+There was thus no apparent quarrel over whether the plaintiff had established
+a prima facie case for summary judgment. As such, I found that the plaintiff
+had in fact done so.
+
+Whether the Defendants had a bona fide defence
+
+32 The defence against the plaintiff’s primary claim took the form of two main
+challenges: (a) that the plaintiff’s calculation of the sums due under the
+First Supplementary LA was incorrect; 38
+
+##### Foot Note 38
+
+×
+
+DS RA 187 at para 5.
+
+and (b) that there was an agreement between the parties that that the
+plaintiff would hold in abeyance the repayment of the balance of the
+instalments, all Late Payment Fees and Late Interests under the Second
+Supplementary LA pending the sale of the Property. 39
+
+##### Foot Note 39
+
+×
+
+DS RA 187 at paras 9.10–9.11 and 9.13–9.14.
+
+(1) Calculation of the sums due under the First Supplementary LA
+
+33 As stated above, it is undisputed that the Defendants had failed to make
+full payment of the final instalment due under the First Supplementary LA (see
+[10] above). However, the Defendants argued that the plaintiff’s calculation
+of the outstanding balance due in respect of the final instalment was
+erroneous and misleading with reference to paras 9.6 and 9.7 of Wang’s second
+affidavit. 40
+
+##### Foot Note 40
+
+×
+
+DS RA 187 at para 5; 1NBC at para 26.1.
+
+For ease of reference, I set out the relevant paragraphs of Wang’s second
+affidavit:
+
+9.6 On 16 July 2021, the Defendants had paid a sum of SGD38,934.00. After
+setting off this amount against the outstanding Interest of SGD5,600, Late
+Interest of SGD368.23 and Late Payment Fee of SGD300, there was a balance of
+SGD33,334.77 which was credited towards repayment of the principal. As the
+instalment sum [for the July instalment] was only SGD33,334.00, there was
+therefore, an excess of SGD0.77.
+
+9.7 The Defendants paid the August 2021 instalment in full and therefore, the
+excess of SGD0.77 from the July 2021 instalment was credited to the September
+instalment. Accordingly, the outstanding balance as of 20 December 2021 is
+SGD13,699.66, as seen in the Statement of Account …
+
+34 The Defendants noted that the sums set out in para 9.6 of Wang’s second
+affidavit did not tally. They pointed out that if a sum of $38,934 had been
+paid, after setting off this amount against the outstanding Interest of
+$5,600, Late Interest of $368.23 and the Late Payment Fee of $300 incurred,
+the balance credited to repayment of the principal loan sum for the July
+instalment should be $32,665.77, and not $33,334.77 as indicated. 41
+
+##### Foot Note 41
+
+×
+
+DS RA 187 at para 5.
+
+Based on the Defendants’ calculations, the outstanding balance due under the
+First Supplementary LA should thus be $11,330 (or $12,296.60 after factoring
+in the Late Payment Fee and 2% interest on the outstanding sum) and not
+$13,699.66 as claimed. 42
+
+##### Foot Note 42
+
+×
+
+Defence and Counterclaim (Amendment No 1) dated 9 May 2022 (“D&CC”) at para
+12.1; 1NBC at paras 8–9.
+
+I make two observations in respect of the Defendants’ purported defence.
+
+35 First, it is plain that this was not a complete defence to the plaintiff’s
+primary claim in respect of the sums due under the First Supplementary LA. The
+Defendants merely contested the calculation of the total amount due and not
+that moneys were due in the first place.
+
+36 Second, it was clear to me that any error lay not in the calculation of the
+sums due under the final instalment of the First Supplementary LA; but in a
+typographical error made by the plaintiff in para 9.6 of Wang’s second
+affidavit. Although it was stated at para 9.6 that the Defendants had paid a
+sum of $38,934 on 16 July 2021, this was in all likelihood a typographical
+error made by the plaintiff having regard to the plaintiff’s statement of
+accounts exhibited at Tab 6 of Mr Wang Joo Shi’s first affidavit (“Wang’s
+first affidavit”). 43
+
+##### Foot Note 43
+
+×
+
+1WJS at Tab 6, p 88.
+
+From the statement of accounts, it was apparent that the Defendants had paid a
+sum of $39,603 on 16 July 2021 instead. If the sum of “SGD38,934.00” is
+replaced with the correct sum of $39,603, the plaintiff’s calculations as
+stated in paras 9.6 and 9.7 are correct. The plaintiff explained in detail how
+the outstanding balance of $13,699.66 due under the First Supplementary LA was
+calculated, which I summarise as follows: 44
+
+##### Foot Note 44
+
+×
+
+2WJS at para 9.
+
+(a) On 16 July 2021, the Defendants paid a sum $39,603 (as opposed to the
+incorrectly stated sum of $38,934 in para 9.6 of Wang’s second affidavit).
+After setting off this amount against the outstanding Interest of $5,600, Late
+Interest of $368.23 and the Late Payment Fee of $300, there was a balance of
+$33,334.77 which was credited toward the repayment of the principal sum due of
+$33,334 for the July 2021 instalment. There was thus an excess of $0.77.
+
+(b) As the Defendants paid the August 2021 instalment in full, the excess
+$0.77 from the July 2021 instalment was credited to the final instalment in
+September 2021.
+
+(c) The final instalment of $33,330 was due on 9 September 2021 under the
+First Supplementary LA.
+
+(d) The Defendants paid $16,000 on 9 September 2021, $5,000 on 16 September
+2021 and $1,000 on 15 October 2021. The total amount paid in respect of the
+final instalment was $22,000.
+
+(e) Due to the failure of the Defendants to pay the final instalment in full
+on 9 September 2021, the following Interests, Late Interests and Late Payment
+Fee were imposed (as of 21 December 2021) amounting to $2,370.43:
+
+(i) Interest and Late Interest on 16 September 2021: $191.43.
+
+(ii) Interest and Late Interest on 15 October 2021: $586.73.
+
+(iii) Interest and Late Interest on 20 December 2021: $1,292.27.
+
+(iv) Late Payment Fee on 10 September 2021: $300.
+
+(f) Thus, adding the principal sum outstanding under the final instalment of
+$11,330 and the corresponding Interests, Late Interests and Late Payment Fee
+of $2,370.43 (see [36(e)] above), and subtracting the excess $0.77 (see
+[36(a)]–[36(b)] above), the total outstanding sum due under the First
+Supplementary LA was $13,699.66 (as of 21 December 2021).
+
+I was satisfied that this calculation was sound.
+
+37 As the Defendants did not raise any other challenge to the sum claimed by
+the plaintiff under the First Supplementary LA, I was of the view that the
+Defendants had no bona fide defence against the plaintiff’s claim in respect
+of the First Supplementary LA.
+
+(2) Agreement for the plaintiff to hold payments under the Second
+Supplementary LA in abeyance pending sale of Property
+
+38 The second facet of the Defendants’ defence was based on a purported oral
+agreement concluded between the parties. According to the Defendants, under
+the alleged oral agreement, the plaintiff agreed to hold in abeyance the
+payment by the Defendants of the balance of the instalments, all Late Payment
+Fees and Late Interests, if the first defendant agreed to sell the Property
+and use the sales proceeds to discharge the Second Supplementary LA. 45
+
+##### Foot Note 45
+
+×
+
+D&CC at para 17.6; 1NBC at paras 17 and 26.2; DS RA 187 at paras 9.10–9.11 and
+9.13–9.14.
+
+39 On the evidence before me, I could not accept that there was any such
+agreement as alleged by the Defendants. The Defendants had simply failed to
+provide a single shred of evidence to support the purported terms of the
+agreement.
+
+40 Even if I accepted that there was such an agreement, it was clear that as
+the Defendants had failed to complete the sale of the Property by December
+2021 in breach of the alleged agreement, the plaintiff was thereafter wholly
+entitled to pursue its claims for repayment in the present action. Indeed, the
+Defendants had admitted that it would not be possible to complete the sale of
+the Property as to do so would require the first defendant to “fork out an
+additional sum of S$401,274.35 in cash” which it did not have. 46
+
+##### Foot Note 46
+
+×
+
+DS RA 187 at para 9.12.
+
+41 Further, for completeness, although the Defendants contested the
+calculation of the sums payable under the Second Supplementary LA, 47
+
+##### Foot Note 47
+
+×
+
+D&CC at para 12.2.
+
+no alternative manner of calculation was proposed. There was no credible basis
+for the Defendants’ challenge in view of the plaintiff’s comprehensive
+calculations set out on affidavit in its statement of accounts. 48
+
+##### Foot Note 48
+
+×
+
+1WJS at Tab 13, pp 146–147.
+
+For the reasons above, I found that the Defendants had no bona fide defence
+against the plaintiff’s claim in respect of the Second Supplementary LA.
+
+Whether there was any other reason why there ought to be a trial
+
+42 The Defendants also submitted that there were two related factual issues to
+be determined which constituted reasons why there nevertheless ought to be a
+trial. In this regard, the Defendants noted that the questions of whether the
+plaintiff had in fact coerced them to sell the Property and whether the
+plaintiff was entitled to lodge a caveat in respect of the Property should be
+determined at trial. 49
+
+##### Foot Note 49
+
+×
+
+DS RA 187 at para 9.5–9.9.
+
+43 In my judgment, both these issues bore no relation whatsoever to the
+plaintiff’s primary claim. I agreed with the AR that the main dispute in the
+present proceedings was whether the Defendants owed the plaintiff the sums in
+the primary claim. 50
+
+##### Foot Note 50
+
+×
+
+CT SUM 601 at p 15, ln 1–3.
+
+Questions concerning whether the plaintiff had coerced the Defendants into
+selling the Property and the plaintiff’s entitlement to lodge a caveat in
+respect of the Property were plainly irrelevant to this dispute. They were but
+red herrings relied upon by the Defendants for the sole purpose of devising
+triable issues to stymie the grant of summary judgment.
+
+44 Moreover, I also did not see fit to consider the factual issues raised by
+the Defendants in respect of the plaintiff’s alternative claim. As mentioned
+above at [19], the plaintiff’s application for summary judgment in SUM 601 was
+brought solely in relation to its primary claim.
+
+Issue 3: What effect the Defendants’ counterclaim should have on an order for
+summary judgment
+
+45 In Kim Seng Orchid Pte Ltd v Lim Kah Hin (trading as Yik Zhuan Orchid
+Garden) [2018] 3 SLR 34 (“Kim Seng Orchid”) at [97]–[98], the High Court set
+out a practical framework to guide the court’s determination on when summary
+judgment ought to be ordered where there is a subsisting counterclaim. In
+brief, the recommended framework comprises four steps:
+
+(a) Step 1: whether the counterclaim is plausible – this involves the court
+considering whether it is reasonably possible for the counterclaim to succeed
+at trial. If the counterclaim is not plausible, then its presence ought not to
+stand in the way of the plaintiff obtaining summary judgment of its whole
+claim, without any stay pending the determination of the counterclaim, and the
+court should so rule. If the court finds that the counterclaim is plausible,
+then Step 2 follows.
+
+(b) Step 2: whether the plausible counterclaim amounts to a defence of set-off
+– this involves the court determining whether the counterclaim that it has
+found to be plausible amounts to a defence of set-off, whether legal or
+equitable. If it is so found, then unconditional leave to defend should be
+granted in respect of the whole of the claim. On the other hand, if the
+counterclaim does not amount to a defence of set-off, then the court may
+proceed to Step 3.
+
+(c) Step 3: whether the plausible counterclaim is sufficiently connected to
+the claim – this involves the court considering whether there is a connection
+between the claim (for which summary judgment is sought) and the counterclaim
+which it has considered to be plausible. If there is no connection between the
+claim and the counterclaim, etc, the court should generally grant summary
+judgment of the whole claim, without a stay pending the determination of the
+unconnected counterclaim. If the court is satisfied of the degree of
+connection between the claim and counterclaim, it may proceed to Step 4.
+
+(d) Step 4: whether there are grounds for a stay of execution in the light of
+the connected and plausible counterclaim – this involves the court examining,
+inter alia, the degree of connection between the claim and counterclaim, the
+strength and quantum of the counterclaim and the ability of the plaintiff to
+satisfy any judgment on the counterclaim. The exercise of the discretion to
+grant or to refuse to grant a stay of execution of the whole or a portion of
+the judgment sum pending trial of a plausible and connected counterclaim will
+ultimately depend on whether the defendant is able to show that it would be
+fair and just in all the circumstances of the case to stay the immediate
+enforcement of the whole or a portion of the judgment sum due to the pending
+trial of the counterclaim. In this regard, the burden lies on the defendant.
+
+46 In the present action, the Defendants’ counterclaim comprises the following
+three claims (collectively the “Counterclaim”):
+
+(a) Claim for loss and damage arising from the plaintiff’s deliberate act of
+banking in five of the post-dated Cheques at the same time on 17 January 2022
+(despite the first defendant’s instructions not to do so), which resulted in
+the first defendant’s access to its UOB account being blocked by the bank
+(“the First Counterclaim”). 51
+
+##### Foot Note 51
+
+×
+
+D&CC at para 26.1.
+
+(b) Claim for loss and damage arising from the legal proceedings brought by
+the purchaser of the Property against the first defendant for the delay in the
+completion of the sale of the Property (“the Second Counterclaim”). 52
+
+##### Foot Note 52
+
+×
+
+D&CC at para 26.2.
+
+(c) Claim for loss and damage by the purported persistent and constant
+harassment by the plaintiff’s collection staff causing disruption to the first
+defendant’s business which resulted in a severe drop in its revenue (“the
+Third Counterclaim”). 53
+
+##### Foot Note 53
+
+×
+
+D&CC at para 26.3.
+
+47 The Defendants submitted that applying the practical framework set out in
+Kim Seng Orchid, the Counterclaim was plausible 54
+
+##### Foot Note 54
+
+×
+
+DS RA 187 at para 12.3(i).
+
+and amounted to a set-off. As such, unconditional leave to defend should be
+granted under Step 2. 55
+
+##### Foot Note 55
+
+×
+
+DS RA 187 at para 12.3(ii).
+
+In the alternative, they argued that the Counterclaim was sufficiently
+connected to the plaintiff’s claim on the facts under Step 3. 56
+
+##### Foot Note 56
+
+×
+
+DS RA 187 at para 12.3(iii).
+
+Further, based on the degree of connection between the claim and Counterclaim,
+the strength and quantum of the Counterclaim and the ability of the plaintiff
+to satisfy any judgment on the Counterclaim, a stay of execution of the whole
+portion of the judgment sum pending trial of the plausible and connected
+Counterclaim should be granted under Step 4. 57
+
+##### Foot Note 57
+
+×
+
+DS RA 187 at para 12.3(iv).
+
+48 I had a number of difficulties with the Defendants’ submissions. To begin
+with, the Defendants failed to apply the practical framework in Kim Seng
+Orchid to each individual counterclaim. The Defendants merely dealt with them
+collectively. This was unhelpful and inadequate.
+
+49 In relation to the First Counterclaim, the Defendants failed to plead any
+particulars in their Defence and Counterclaim (Amendment No 1) dated 9 May
+2022 (“D&CC”) as well as in the second and third defendants’ affidavits
+concerning the purported blocking of the first defendant’s UOB bank account.
+It was unclear when the UOB bank account had been blocked or even if it had
+been blocked. 58
+
+##### Foot Note 58
+
+×
+
+PS SUM 601 at para 88.
+
+The Defendants had only asserted (without any factual basis) that the alleged
+blocking of the said bank account was caused by the plaintiff’s attempt to
+bank in five of the Cheques at the same time in January 2022. The First
+Counterclaim was thus entirely speculative and implausible.
+
+50 In relation to the Second Counterclaim, there was no basis for the
+Defendants’ allegation that the plaintiff had coerced the Defendants into
+selling the Property. The Defendants had not provided any particulars
+demonstrating this. As the plaintiff pointed out, the Defendants did not
+provide “any details on whom, how or when the alleged coercions were made”. 59
+
+##### Foot Note 59
+
+×
+
+PS SUM 601 at para 67.
+
+In addition, the Defendants themselves acknowledged that the reason why the
+completion date for the sale of the Property was deferred was because they
+were unable to make the payments required for successful completion. 60
+
+##### Foot Note 60
+
+×
+
+1NBC at para 19.
+
+It would lie ill in their mouths to now pin the blame for unsuccessful
+completion on the plaintiff. I thus found that the Second Counterclaim for
+loss and damage arising from the legal proceedings faced by the first
+defendant for the delay in the completion of the sale of the Property was also
+implausible.
+
+51 In relation to the Third Counterclaim, the Defendants once again only made
+bare assertions that the plaintiff’s staff had caused disruption to the first
+defendant’s business which they alleged was the cause of the first defendant’s
+purported severe drop in revenue. First, there was no evidential basis to
+support the Defendants’ assertion of any such purported drop in revenue.
+Second, it was unclear how the plaintiff’s staff had harassed the second and
+third defendants at the first defendant’s premises. Third, in any event, it
+was clear that the first defendant’s business losses could not be solely
+attributed (if at all) to the plaintiff’s employees purported harassment of
+the first defendant and its staff. Indeed, as the Defendants conceded, the
+COVID-19 pandemic had caused the first defendant business difficulties. 61
+
+##### Foot Note 61
+
+×
+
+1NBC at para 12.
+
+52 Therefore, I found that the Defendants’ Counterclaim was not plausible.
+Nevertheless, I made clear at the hearing that my finding on the Defendants’
+Counterclaim for the purpose of the plaintiff’s summary judgment application
+was made without prejudice to the submissions that the parties may put forward
+in the pending SUM 2302 in respect of the plaintiff’s application to strike
+out the Defendants’ Counterclaim. 62
+
+##### Foot Note 62
+
+×
+
+Minute Sheet dated 19 August 2022 at p 4 (Oral remarks at para 3).
+
+The appeal in RA 282
+
+53 As mentioned earlier at [3], the plaintiff had also applied to strike out
+the Defendants’ Counterclaim under O 18 r 19 of the ROC and/or the inherent
+jurisdiction of the court vide SUM 2302.
+
+54 At the outset, it bears noting that during the hearing of SUM 2302 before
+AR Liew, the Defendants sought to limit the ambit of their Counterclaim and
+noted that they were only pursuing the First Counterclaim (see [46(a)] above).
+63
+
+##### Foot Note 63
+
+×
+
+Certified Transcript of SUM 2302 dated 7 September 2022 (“CT SUM 2302”) at p
+7, Annex A (Oral Remarks) at para 21.
+
+To this end, the Defendants stated that the crux of the First Counterclaim was
+that “there was an agreement for the Plaintiff not to bank in the cheques
+which were given to them as security only for the loans which they issued to
+the 1st Defendant”. 64
+
+##### Foot Note 64
+
+×
+
+Defendants’ submissions in SUM 2302 dated 23 August 2022 at para 6.
+
+Despite this alleged agreement, the plaintiff had deposited five of the
+Cheques in January 2022, which caused the first defendant’s UOB bank account
+to be blocked leading to the collapse of its business, thereby causing loss
+and damage in excess of $100m. 65
+
+##### Foot Note 65
+
+×
+
+Defendants’ submissions in RA 282 dated 18 October 2022 (“DS RA 282”) at para
+7.
+
+55 On 7 September 2022, AR Liew ordered that the Defendants’ First
+Counterclaim be struck out. In brief, she held that:
+
+(a) The Defendants’ First Counterclaim was factually unsustainable. No
+evidence was produced of the alleged oral agreement between the parties that
+the Cheques were not to be presented for payment. 66
+
+##### Foot Note 66
+
+×
+
+CT SUM 2302 at pp 3-5, Annex A (Oral Remarks) at paras 10–14.
+
+(b) The Defendants’ First Counterclaim was legally unsustainable. The
+Defendants attributed the cause of the collapse of the first defendant’s
+business to the presentation of five of the Cheques which led to the freezing
+of its UOB bank account resulting in estimated losses of $100m. However, it
+was only a bare assertion that the bank had frozen the first defendant’s bank
+account after the cheques were presented. Moreover, it was the first
+defendant’s own evidence that it had suffered losses due to the challenging
+operating environment brought about by the COVID-19 pandemic. Therefore, it
+was unclear that the first defendant could attribute any of its business
+losses to the plaintiff’s actions. 67
+
+##### Foot Note 67
+
+×
+
+CT SUM 2302 at p 5, Annex A (Oral Remarks) at para 15.
+
+(c) There did not appear to be any counterclaim by the second and third
+defendants against the plaintiff and as such, if they were making any such
+counterclaim, the counterclaim should be struck out for not disclosing any
+reasonable cause of action. 68
+
+##### Foot Note 68
+
+×
+
+CT SUM 2302 at p 5, Annex A (Oral Remarks) at para 16.
+
+Any counterclaim brought by the second and third defendants should be struck
+out
+
+56 The Defendants appeared to suggest that the First Counterclaim was a joint
+counterclaim brought by all three defendants. However, it was plain from the
+D&CC as pleaded in paras 25 and 26 that the First Counterclaim was framed
+solely in respect of losses and damages suffered by the first defendant.
+Accordingly, I agreed with AR Liew that any counterclaim purportedly brought
+by the second and third defendants should be struck out under O 18 r 19(1)(a)
+of the ROC for disclosing no reasonable cause of action.
+
+The First Counterclaim was factually unsustainable
+
+57 In my view, AR Liew was justified in finding that the First Counterclaim
+was factually unsustainable. 69
+
+##### Foot Note 69
+
+×
+
+CT SUM 2302 at pp 3-5, Annex A (Oral Remarks) at paras 10–14.
+
+Despite the Defendants’ recognition that that the Cheques were presented to
+the plaintiff as security for the loan sum due under the Second Supplementary
+LA, the Defendants concurrently claimed that there was an oral agreement
+between the parties prohibiting the plaintiff from enforcing this security
+even when the loan sum remained unpaid. 70
+
+##### Foot Note 70
+
+×
+
+DS RA 282 at para 6.
+
+This argument was unconvincing.
+
+58 The existence of this oral agreement was but another bare assertion
+unsupported by any evidence. I agreed with AR Liew that the Defendants did not
+plead essential particulars such as when the oral agreement was entered into,
+or who were the representatives who had entered into the said agreement. 71
+
+##### Foot Note 71
+
+×
+
+CT SUM 2302 at p 3, Annex A (Oral Remarks) at para 11.
+
+59 Moreover, the e-mail exchanges between the first defendant and the
+plaintiff 72
+
+##### Foot Note 72
+
+×
+
+Tabs 2 and 3 of Exhibit NBC-1 of 1NBC at pp 19 and 24–25.
+
+did not in any way assist the Defendants. On 14 July 2021, a representative
+from the first defendant sent an e-mail to the plaintiff requesting that the
+plaintiff “not drop in the cheque [ie, UOB Cheque No 196532] tomorrow”
+[emphasis added], which was the due date of the first instalment payment under
+the Second Supplementary LA. 73
+
+##### Foot Note 73
+
+×
+
+Tab 2 of Exhibit NBC-1 of 1NBC at p 19.
+
+Following this, the first defendant made payment of the first instalment on 19
+July 2021. Subsequently, on 10 August 2021, a representative from the first
+defendant sent another e-mail to the plaintiff requesting that the plaintiff
+“not drop in the cheque for 15/08/21 [ie, UOB Cheque No 196533]” and for an
+extension of two weeks to make payment under the second instalment. The
+plaintiff responded informing the first defendant that it could “withhold
+payment for 1 week but late charges [would] be levied on the account”
+[emphasis added]. 74
+
+##### Foot Note 74
+
+×
+
+Tab 3 of Exhibit NBC-1 of 1NBC at p 24.
+
+It was clear that any arrangement between the parties was for the plaintiff
+not to present two of the Cheques to the bank, namely UOB Cheque Nos 196532
+and 196533, only for a specified date or period. There was no undertaking
+given by the plaintiff that it would not present the Cheques for payment at a
+later date to enforce its security should the loan sum remain unpaid. The
+e-mail exchanges were thus entirely inadequate to evidence the purported oral
+agreement between the parties that the plaintiff was to withhold the
+presentation of the Cheques. Even taking the Defendants’ case at its highest,
+the correspondence produced only related to two of the five Cheques which the
+Defendants alleged were subject of the purported oral agreement.
+
+The First Counterclaim was legally unsustainable
+
+60 In addition, I agreed with AR Liew that the First Counterclaim was also
+legally unsustainable. 75
+
+##### Foot Note 75
+
+×
+
+CT SUM 2302 at p 5, Annex A (Oral Remarks) at para 15.
+
+61 First, the Defendants did not furnish any particulars in the D&CC or in the
+second and third defendants’ affidavits concerning the purported blocking of
+the first defendant’s UOB bank account. As stated above at [49], it was
+unclear when the UOB bank account had been blocked or even if it had been
+blocked. The Defendants had once again only asserted, without any factual
+basis, that the alleged blocking of the said bank account was caused by the
+plaintiff’s attempt to present five of the Cheques.
+
+62 Second, even assuming arguendo that the first defendant’s UOB bank account
+had been blocked because of the plaintiff’s attempt to bank in five of the
+Cheques, it was unclear if the first defendant's business losses could be
+attributed to the plaintiff’s actions. Indeed, the Defendants conceded that
+the COVID-19 pandemic had caused difficulties for the first defendant’s
+business. 76
+
+##### Foot Note 76
+
+×
+
+1NBC at para 12.
+
+More importantly, AR Liew rightly observed that based on the first defendant’s
+bank statement, at the time the Defendants had instructed the bank to cease
+payment on the Cheques, the first defendant’s bank account was already in
+overdraft. 77
+
+##### Foot Note 77
+
+×
+
+Tab 7 of Exhibit NBC-1 of 1NBC at p 44.
+
+In the circumstances, the Defendants had plainly not showed that the losses it
+claimed to have sustained were caused by the plaintiff’s actions.
+
+63 Third, particulars of the precise loss allegedly sustained by the first
+defendant were also lacking. The Defendants had only baldly claimed that the
+loss and damage suffered by the first defendant amounted to more than $100m.
+78
+
+##### Foot Note 78
+
+×
+
+1NBC at para 30.
+
+In this regard, the Defendants sought to rely on a forecast document dated 9
+August 2021. 79
+
+##### Foot Note 79
+
+×
+
+Tab 1 of Exhibit NBC-1 of 1NBC at pp 13–16.
+
+This forecast document indicated that the first defendant was “[t]argeting
+quantum leap in sales revenues to $100 million annually within the next 3
+years” and that it was “poised to register [a revenue] of S$100 million in …
+FY2024”. 80
+
+##### Foot Note 80
+
+×
+
+Tab 1 of Exhibit NBC-1 of 1NBC at pp 13–14.
+
+It is relevant to point out that a projected revenue of $100m does not equate
+to profits earned of $100m as the figure does not include expenses. Therefore,
+the amount of the alleged loss sustained was plainly inaccurate. In any event,
+I did not accord much weight, if any, to this forecast document as it was
+highly speculative and based solely on the first defendant’s own internal
+projections.
+
+64 In summary, as the First Counterclaim was both factually and legally
+unsustainable, I was of the view that there was ample basis for AR Liew’s
+decision to strike it out.
+
+Conclusion
+
+65 In my assessment, in RA 187, the plaintiff had established a prima facie
+case for summary judgment on its primary claim and the Defendants did not
+raise a bona fide defence to answer the claim. Neither did the Defendants
+demonstrate any other reason why there ought to be a trial of the primary
+claim. The Defendants’ Counterclaim was not plausible for the purpose of the
+summary judgment proceedings and accordingly I affirmed AR Tang’s decision to
+grant summary judgment of the plaintiff’s primary claim and dismissed the
+appeal. Consequently, I awarded the costs of the appeal to the plaintiff at
+$8,000 including disbursements for RA 187.
+
+66 In respect of RA 282, I was satisfied that: (a) in respect of the second
+and third defendants, the D&CC disclosed no reasonable cause of action on
+their part against the plaintiff; and (b) the First Counterclaim brought by
+the first defendant was clearly factually and legally unsustainable. I thus
+affirmed AR Liew’s decision and dismissed the appeal. I awarded the costs of
+the appeal to the plaintiff at $6,000 including disbursements.
+
+See Kee Oon  
+Judge of the High Court|  
+---|---  
+  
+Lim Tong Chuan (Excelsior Law Chambers LLC) for the plaintiff;
+
+Lim Tean (Carson Law Chambers) for the defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 08 Nov 2022 (19:30 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

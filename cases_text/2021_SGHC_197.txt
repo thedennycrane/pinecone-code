@@ -1,0 +1,3438 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2021] SGHC 197
+
+Suit No 626 of 2019
+
+Between
+
+| Elias Xanthopoulos  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| Rotating Offshore Solutions Pte Ltd  
+---|---  
+(2)| ROS Engineering Pte Ltd  
+(3)| Lim Boon Chye Victor  
+  
+… Defendants
+
+judgment
+
+[Contract] — [Contractual terms] — [Admissibility of evidence]
+
+[Contract] — [Contractual terms] — [Express terms]
+
+[Contract] — [Contractual terms] — [Parol evidence rule]
+
+[Contract] — [Contractual terms] — [Rules of construction]
+
+[Contract] — [Formation]
+
+[Contract] — [Mistake] — [Mistake of fact]
+
+[Equity] — [Remedies] — [Rectification]
+
+[Restitution] — [Unjust enrichment]
+
+[Companies] — [Oppression] — [Minority shareholders]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Xanthopoulos, Elias
+
+  
+v
+
+  
+
+Rotating Offshore Solutions Pte Ltd and others
+
+[2021] SGHC 197
+
+General Division of the High Court — Suit No 626 of 2019  
+Valerie Thean J  
+23–26, 29–31 March, 1, 5 April, 28 June 2021
+
+31 August 2021 Judgment reserved.
+
+Valerie Thean J:
+
+Introduction
+
+1 The plaintiff, Mr Elias Xanthopoulos (“Mr Xanthopoulos”), was the managing
+director and a minority shareholder of the second defendant, ROS Engineering
+Pte Ltd (“ROSE”). 1
+
+##### Foot Note 1
+
+×
+
+Statement of Claim (“SOC”) at para 1; Defence of the 1st and 2nd Defendants
+(Amendment No 1) (“RO Defence”) at para 4.
+
+The first defendant, Rotating Offshore Solutions Pte Ltd (“RO Solutions”),
+owns the remainder 70% of ROSE. 2
+
+##### Foot Note 2
+
+×
+
+SOC at para 5; RO Defence at para 13.
+
+The third defendant, Mr Lim Boon Chye Victor (“Mr Lim”), is the managing
+director of RO Solutions and a director of ROSE. 3
+
+##### Foot Note 3
+
+×
+
+SOC at para 6; Defence of the 3rd Defendant (Amendment No 1) (“VL Defence”) at
+paras 5(a) and 5(d).
+
+Mr Xanthopoulos resigned from his positions as engineering director at RO
+Solutions and managing director of ROSE on 1 July 2018. 4
+
+##### Foot Note 4
+
+×
+
+Core Bundle of Documents, Vol 3 (“3 CB”) 822–823.
+
+2 By this suit, Mr Xanthopoulos claims unpaid fees for his referral and
+project management services. He also seeks relief as a minority shareholder of
+ROSE, arising from conduct which he characterises as oppressive on the part of
+RO Solutions and Mr Lim.
+
+Background
+
+Parties
+
+3 RO Solutions was incorporated in January 2010. 5
+
+##### Foot Note 5
+
+×
+
+3 CB 1016.
+
+At the material time, it had three directors:
+
+(a) Mr Chia Kuan Wee (“Mr Chia”), who was managing director of RO Solutions
+from 3 March 2015 to 13 September 2019, after which he left RO Solutions. 6
+
+##### Foot Note 6
+
+×
+
+3 CB 1017; Affidavit of Evidence-in-Chief of Victor Lim Boon Chye (“Mr Lim’s
+AEIC”) at para 30.
+
+While he was a shareholder, he held his shares in RO Solutions through 3N
+Investments Group Limited, a company registered in the British Virgin Islands
+(“BVI”). 7
+
+##### Foot Note 7
+
+×
+
+SOC at para 8; RO Defence at para 17.
+
+(b) Mr Lim, who was managing director of RO Solutions from 31 October 2018
+onwards. 8
+
+##### Foot Note 8
+
+×
+
+3 CB 1017.
+
+He holds his shares in RO Solutions through Kasana Holdings Limited, a company
+registered in the BVI. 9
+
+##### Foot Note 9
+
+×
+
+SOC at para 6; RO Defence at para 15; VL Defence at para 5.
+
+(c) Mr Murugesan Srinivasan (“Mr Srinivasan”), who holds his shares in RO
+Solutions through Vagan Holdings Limited, also a company registered in the
+BVI. 10
+
+##### Foot Note 10
+
+×
+
+SOC at para 7; RO Defence at para 16.
+
+4 Mr Lim, Mr Chia and Mr Srinivasan initially owned Goldpower Diesel Supply
+Pte Ltd with other shareholders. This entity was subsequently renamed in June
+2006 as East Asia Energy Pte Ltd (“East Asia Energy”). 11
+
+##### Foot Note 11
+
+×
+
+3 CB 1021.
+
+The other shareholders gave up their shares sometime in 2008 or 2009, leaving
+Mr Lim, Mr Chia and Mr Srinivasan as the only remaining shareholders. They
+renamed the entity Rotating Offshore Systems Pte Ltd (“RO Systems”) in
+September 2010 12
+
+##### Foot Note 12
+
+×
+
+3 CB 1021.
+
+and thereafter incorporated RO Solutions in January 2010 13
+
+##### Foot Note 13
+
+×
+
+Affidavit of Evidence-in-Chief of Murugesan Srinivasan (“Mr Srinivasan’s
+AEIC”) at paras 23–26.
+
+to hold RO Systems as a wholly owned subsidiary. 14
+
+##### Foot Note 14
+
+×
+
+SOC at para 4; RO Defence at para 11.
+
+As at November 2020, Mr Lim and Mr Srinivasan remain directors of the renamed
+entity, DFT Coating Systems Pte Ltd. 15
+
+##### Foot Note 15
+
+×
+
+Mr Lim’s AEIC at paras 13–14 and Tab 3 at p 101.
+
+In this judgment, I refer to RO Solutions, RO Systems and ROSE collectively as
+the “ROS Group”.
+
+5 Mr Xanthopoulos, an engineer with some 25 years of engineering project
+management experience in the marine and offshore oil and gas industries, in
+particular in floating production storage and offloading (“FPSO”) projects, 16
+
+##### Foot Note 16
+
+×
+
+SOC at para 1; Affidavit of Evidence-in-Chief of Elias Xanthopoulos (“Mr
+Xanthopoulos’s AEIC”) at p 95.
+
+was first introduced to Mr Lim, Mr Srinivasan and Mr Chia in November 2011. 17
+
+##### Foot Note 17
+
+×
+
+RO Defence at para 21(b); Reply to Defence of the 1st and 2nd Defendants
+(Amendment No 3) (“Reply to RO Defence”) at para 7.
+
+On 29 November 2011, he sent an e-mail to Mr Chia expressing his interest in
+working with “ROS” and taking the company to the “next level”, setting out his
+expected remuneration terms, including a finder’s fee for any projects he
+might bring in, and his scope of work. 18
+
+##### Foot Note 18
+
+×
+
+Core Bundle of Documents, Vol 1 (“1 CB”) 40.
+
+On 8 December 2011, Mr Chia followed up with a proposed agreement to be signed
+by RO Systems and Mr Xanthopoulos. 19
+
+##### Foot Note 19
+
+×
+
+1 CB 41–50.
+
+After further negotiation and revisions to the draft, Mr Xanthopoulos and RO
+Systems entered into an agreement dated 12 December 2011 (the “RO Systems
+Agreement”) in which Mr Xanthopoulos was appointed as the “Engineering
+Director” of RO Systems. 20
+
+##### Foot Note 20
+
+×
+
+SOC at para 13; RO Defence at para 35; 1 CB 106 and 108.
+
+Under the RO Systems Agreement, he was to receive a basic monthly salary of
+S$10,000 as engineering director and would be entitled to commissions if he
+initiated any projects that were eventually secured by RO Systems. He was, on
+the other hand, free to work with other firms, and any project-specific work
+was to be separately negotiated and remunerated. 21
+
+##### Foot Note 21
+
+×
+
+SOC at para 11; RO Defence at para 29.
+
+The formation of ROSE
+
+6 On the heels of the RO Systems Agreement, Mr Xanthopoulos initiated
+discussions with Mr Lim, Mr Chia and Mr Srinivasan (the “four men”) regarding
+the incorporation of an engineering company as a joint venture effort with RO
+Solutions. This was to be a new company under the ROS Group, which would later
+become ROSE. In the same period of time, Mr Xanthopoulos was engaged by DRL
+Engineering LLC (“DRL”) to provide project management services. Under the
+terms of the RO Systems Agreement, he was able to retain his fees from DRL.
+This framed the context for the parties’ negotiations. Mr Xanthopoulos
+explained that he initiated these discussions because he wished to take on
+more equity within the ROS Group before he brought on more new projects and
+clients, with the goal of benefiting financially from a future initial public
+offering of the ROS Group that the four men envisaged. 22
+
+##### Foot Note 22
+
+×
+
+SOC at paras 18–19; RO Defence at paras 46–47; Mr Xanthopoulos’s AEIC at para
+39.
+
+7 Negotiations took place between 29 January and 14 February 2012 through a
+series of e-mails. On 14 February 2012, following upon their agreement over
+e-mail, Mr Chia asked Mr Xanthopoulos to rework the RO Systems Agreement,
+replacing RO Systems with ROSE as contracting party, and inserting the new
+terms as agreed. 23
+
+##### Foot Note 23
+
+×
+
+1 CB 154.
+
+On 7 March 2012, ROSE was registered with ACRA, 24
+
+##### Foot Note 24
+
+×
+
+1 CB 169.
+
+with RO Solutions holding 70% of share ownership and Mr Xanthopoulos holding
+the remaining 30%. 25
+
+##### Foot Note 25
+
+×
+
+SOC at para 5; RO Defence at para 13.
+
+Subsequently, Mr Xanthopoulos’s revised draft was sent to Mr Chia on 4 April
+2012. 26
+
+##### Foot Note 26
+
+×
+
+1 CB 172–181.
+
+No further revisions were made by Mr Chia. On 1 May 2012, Mr Xanthopoulos and
+Mr Srinivasan, acting on behalf of ROSE as its chief executive officer and
+director at the material time, executed this agreement (the “ROSE Agreement”).
+27
+
+##### Foot Note 27
+
+×
+
+SOC at para 24; RO Defence at para 62; 1 CB 191–199.
+
+8 Mr Srinivasan was appointed as a director of ROSE but he resigned from this
+role in or around 11 July 2012. Mr Lim and Mr Xanthopoulos were then appointed
+as directors of ROSE on this date. 28
+
+##### Foot Note 28
+
+×
+
+SOC at para 21; RO Defence at para 48; VL Defence at para 16; 3 CB 1020.
+
+Mr Chia was appointed as the company secretary of ROSE on 25 January 2018
+until 15 January 2019. 29
+
+##### Foot Note 29
+
+×
+
+SOC at para 112; RO Defence at para 178; 3 CB 1020.
+
+After the signing of the ROSE Agreement
+
+9 As provided by cl 2 read with cl 5.1 of the ROSE Agreement, Mr Xanthopoulos
+continued to receive his monthly retainer of S$10,000 after the signing of the
+ROSE Agreement as the managing director of ROSE. 30
+
+##### Foot Note 30
+
+×
+
+1 CB 193–194.
+
+The DRL project – early 2012 to July 2013
+
+10 In early 2012, DRL became a client of ROSE. 31
+
+##### Foot Note 31
+
+×
+
+SOC at para 40; RO Defence at para 80(a).
+
+As permitted by cl 5.3 of the ROSE Agreement, Mr Xanthopoulos was paid the
+amount he billed DRL for his project consultancy services. 32
+
+##### Foot Note 32
+
+×
+
+Mr Xanthopoulos’s AEIC at para 48.
+
+DRL requested time sheets, and he was paid each month with reference to the
+time sheets. This project ended sometime around July 2013. 33
+
+##### Foot Note 33
+
+×
+
+Mr Lim’s AEIC at para 91.
+
+Monthly payments of S$15,000 – July 2013 onwards
+
+11 From around July 2013, RO Solutions paid Mr Xanthopoulos an additional sum
+of S$15,000 per month. The reasons for these payments and the scope of work
+entailed are disputed. Mr Xanthopoulos’s case was that this was paid because
+of his appointment as its engineering director. 34
+
+##### Foot Note 34
+
+×
+
+SOC at para 43; RO Defence at para 86; VL Defence at para 31; Agreed Bundle of
+Documents, Vol 5 (“5 AB”) 4661.
+
+The defendants contend that this was reasonable compensation for work done for
+RO Solutions as provided under the ROSE Agreement.
+
+The MOPU BOSS1 project – November 2013 to March 2014
+
+12 A mobile offshore production unit (“MOPU”) is a fixed platform used by the
+offshore oil and gas industry for the production and offloading of oil and
+gas. 35
+
+##### Foot Note 35
+
+×
+
+Mr Xanthopoulos’s AEIC at p 186.
+
+From November 2013 to March 2014, ROSE rendered services to RO Solutions in
+respect of the MOPU BOSS1 Project. 36
+
+##### Foot Note 36
+
+×
+
+SOC at para 95; RO Defence at para 158.
+
+For these services, ROSE was paid S$40,000 per month. 37
+
+##### Foot Note 37
+
+×
+
+Agreed Bundle of Documents, Vol 6 (“6 AB”) 5145; Transcript, 23 March 2021 at
+p 75 lines 13–21 (Mr Chia); Transcript, 1 April 2021 at p 100 lines 18–25 (Mr
+Srinivasan).
+
+The MODEC project – November 2014 to June 2015
+
+13 On or around November 2014, RO Solutions undertook construction work on
+several FPSO topside modules for MODEC & TOYO Offshore Production Systems Pte
+Ltd (“MODEC”), associated with building a new hull to an FPSO for a client in
+Brazil Petrobras (the “MODEC Project”). Mr Xanthopoulos was appointed as the
+project manager. 38
+
+##### Foot Note 38
+
+×
+
+SOC at para 50; RO Defence at para 100.
+
+There was no evidence of any discussion on his remuneration for this work,
+which forms part of the subject matter of his claim in this suit.
+
+The MOPU D18 project – June 2015 to March 2016
+
+14 The MODEC Project commenced on 8 January 2015 and the certificate of
+completion for this project was issued on 29 March 2016. 39
+
+##### Foot Note 39
+
+×
+
+5 AB 4662; Transcript, 25 March 2021 at p 18 lines 17–32 and p 19 line 1 (Mr
+Chia).
+
+However, Mr Xanthopoulos’s involvement with the MODEC Project ended around
+June 2015 as he was asked to work on another project known as the “MOPU D18
+Project”. 40
+
+##### Foot Note 40
+
+×
+
+Mr Xanthopoulos’s AEIC at para 61; Transcript, 1 April 2021 at p 74 lines 9–18
+(Mr Srinivasan).
+
+The MOPU D18 Project related to a water injection facility to be developed in
+collaboration with a company from Kuala Lumpur. 41
+
+##### Foot Note 41
+
+×
+
+Mr Xanthopoulos’s AEIC at para 91; Transcript, 25 March 2021 at p 117 lines
+28–31 and p 118 at lines 1–4 (Mr Knut Hvidsand).
+
+Mr Chia’s evidence was that he persuaded Mr Xanthopoulos to do this work for
+the MOPU D18 Project at no additional fee. 42
+
+##### Foot Note 42
+
+×
+
+Transcript, 23 March 2021 at p 115 line 21 to p 116 line 5.
+
+RO Solutions’ work with MINOX and Caevest
+
+15 In addition to his remuneration for the MODEC Project, Mr Xanthopoulos
+claims finder’s fees for two projects completed by RO Solutions.
+
+(1) The MINOX project – January 2015 to February 2017
+
+16 In the second half of 2014, RO Solutions entered into a contract with a
+Norwegian company, MINOX Technology AS (“MINOX”), for a project (the “MINOX
+Project”). The total value of this contract was approximately US$3,141,502.16
+after excluding a liquidated damages claim and an agreed over run cost. 43
+
+##### Foot Note 43
+
+×
+
+Mr Xanthopoulos’s AEIC at para 97(b); 1 CB 24.
+
+The MINOX Project commenced on 29 January 2015 and was completed on 6 February
+2017. 44
+
+##### Foot Note 44
+
+×
+
+Transcript, 25 March 2021 at p 17 lines 26–31 and p 18 lines 1–14 (Mr Chia).
+
+(2) The Caevest project – September 2016 to March 2018
+
+17 In 2016, RO Solutions entered into a contract with Caevest Private Limited
+(“Caevest”) for a project (the “Caevest Project”). The total contract value of
+the Caevest Project was S$12,944,955. 45
+
+##### Foot Note 45
+
+×
+
+SOC at para 69; RO Defence at para 130; Plaintiff’s Closing Submissions
+(“PWS”) at para 177.
+
+The Caevest Project commenced on 19 September 2016 and the certificate of
+completion for the Caevest Project was signed on 26 and 29 March 2018. 46
+
+##### Foot Note 46
+
+×
+
+5 AB 4663; Transcript, 25 March 2021 at p 16 lines 26–29 and p 17 at lines
+7–25 (Mr Chia).
+
+Mr Xanthopoulos resigns
+
+18 On 1 July 2018, Mr Xanthopoulos tendered letters of resignation to RO
+Solutions and ROSE. 47
+
+##### Foot Note 47
+
+×
+
+3 CB 822–823.
+
+RO Solutions accepted his resignation in a letter dated 30 July 2018. 48
+
+##### Foot Note 48
+
+×
+
+3 CB 844.
+
+Mr Chia made arrangements to strike ROSE off the register and for dividends to
+be distributed. Part of the dividends included receivables owing from RO
+Solutions. A dividend voucher in the sum of S$81,970.83 was prepared for Mr
+Xanthopoulos’s 30% share and signed by him, 49
+
+##### Foot Note 49
+
+×
+
+3 CB 925.
+
+but the dividend was not paid out as Mr Lim and Mr Srinivasan were not in
+agreement. 50
+
+##### Foot Note 50
+
+×
+
+Transcript, 5 April 2021 at p 35 lines 19–24 (Mr Srinivasan) and p 106 lines
+13–31 (Mr Lim).
+
+On 31 October 2018, Mr Srinivasan and Mr Lim made an offer by telephone to buy
+out Mr Xanthopoulos’s 30% shareholding in ROSE for about S$20,000, which was
+said to represent about 30% of the cash held by ROSE. 51
+
+##### Foot Note 51
+
+×
+
+SOC at paras 104–106; RO Defence at para 170; VL Defence at para 53; Mr
+Srinivasan’s AEIC at paras 206–209; Mr Lim’s AEIC at paras 206–209; Mr
+Xanthopoulos’s AEIC at paras 120–122.
+
+Mr Xanthopoulos rejected this.
+
+19 The writ of summons for this suit was filed on 27 June 2019.
+
+Parties’ cases
+
+20 Mr Xanthopoulos’s claims are in two broad categories. The first is against
+RO Solutions for fees for his services in respect of the MODEC Project, the
+MINOX Project and the Caevest Project (collectively, the “Projects”). The
+second is a minority oppression claim against RO Solutions and Mr Lim.
+
+Mr Xanthopoulos’s claims for unpaid fees
+
+The contract claims
+
+21 Mr Xanthopoulos’s contract claims rest primarily on two bases: first, a
+contention that there existed a free-standing and legally binding overarching
+agreement between himself and RO Solutions (the “Overarching Agreement”); 52
+
+##### Foot Note 52
+
+×
+
+SOC at paras 22–23.
+
+and second, his interpretation of the ROSE Agreement.
+
+(1) The Overarching Agreement
+
+22 The Overarching Agreement, on Mr Xanthopoulos’s case, was formed in
+February 2012, following verbal and e-mail discussions between Mr
+Xanthopoulos, Mr Lim, Mr Chia and Mr Srinivasan (who were acting for and on
+behalf of RO Solutions) from November 2011 to February 2012. 53
+
+##### Foot Note 53
+
+×
+
+SOC at paras 18 and 23.
+
+Pursuant to this Overarching Agreement, Mr Xanthopoulos would be directly paid
+fees for the services he provided personally to any company in the ROS Group
+by RO Solutions or by the relevant company in the ROS Group. 54
+
+##### Foot Note 54
+
+×
+
+SOC at para 22(f).
+
+In addition, Mr Xanthopoulos would be directly paid a finder’s fee or
+commission by RO Solutions for referring new clients or orders, calculated
+with reference to the value of the contract secured by the relevant company in
+the ROS Group. 55
+
+##### Foot Note 55
+
+×
+
+SOC at para 22(h).
+
+23 On the other hand, the defendants categorically deny the existence of the
+Overarching Agreement and aver that Mr Xanthopoulos’s relationship with them
+is governed only by the RO Systems Agreement, and thereafter the ROSE
+Agreement, which distil and record all terms agreed in their discussions from
+November 2011 to February 2012. 56
+
+##### Foot Note 56
+
+×
+
+RO Defence at para 36 (RO Systems) and paras 50, 55–56 and 60 (ROSE); VL
+Defence at paras 17 and 21; 1st and 2nd Defendants’ Closing Submissions (“RO
+DWS”) at para 57.
+
+(2) Interpretation of the ROSE Agreement
+
+24 In the alternative, Mr Xanthopoulos argues that the terms of the
+Overarching Agreement were reflected in the ROSE Agreement, 57
+
+##### Foot Note 57
+
+×
+
+SOC at para 24.
+
+and cll 5.4 and 5.5 of the ROSE Agreement should be interpreted to mean that
+any company in the ROS Group that he provided project consultancy or referral
+services to would be obliged to pay him. 58
+
+##### Foot Note 58
+
+×
+
+SOC at paras 30–31.
+
+Accordingly, Mr Xanthopoulos seeks a declaration that the ROSE Agreement,
+properly construed, does not preclude him from claiming against RO Solutions
+for fees for his services rendered in respect of the Projects. 59
+
+##### Foot Note 59
+
+×
+
+SOC at para 85; PWS at para 52(a).
+
+25 As against this, the defendants contend that the proper interpretation of
+the ROSE Agreement is that Mr Xanthopoulos would only be paid fees by ROSE. 60
+
+##### Foot Note 60
+
+×
+
+RO Defence at para 69.
+
+Further, the defendants rely on the contra proferentem rule to argue that,
+because the ROSE Agreement (in particular, cl 5.5 thereof) was drafted by and
+originated from Mr Xanthopoulos, any ambiguity in the ROSE Agreement should be
+construed against him. 61
+
+##### Foot Note 61
+
+×
+
+RO Defence at para 86F; RO DWS at paras 103–105.
+
+The defendants also aver that any request for Mr Xanthopoulos to perform work
+for RO Solutions fell within the ambit of cl 5.5 of the ROSE Agreement as “in-
+house work” for which the amount of “reasonable compensation”, as orally
+agreed between Mr Xanthopoulos, Mr Lim, Mr Chia and Mr Srinivasan, was
+S$15,000 per month. 62
+
+##### Foot Note 62
+
+×
+
+RO Defence at para 86; VL Defence at para 31.
+
+In response to this, Mr Xanthopoulos contends that the monthly payments of
+S$15,000 were instead paid to him for taking on the role of RO Solutions’
+engineering director, pursuant to a verbal agreement he had made with Mr Chia
+(acting for and on behalf of RO Solutions) in June or July 2013 (the “Verbal
+Agreement”). 63
+
+##### Foot Note 63
+
+×
+
+SOC at para 43; PWS at para 138.
+
+(3) Rectification of the ROSE Agreement
+
+26 In the further alternative, if his interpretation of the ROSE Agreement is
+not accepted, Mr Xanthopoulos claims that cl 4.5, cll 5.3–5.6 and Sch 1 para 1
+of the ROSE Agreement should be rectified on the basis of common or unilateral
+mistake. 64
+
+##### Foot Note 64
+
+×
+
+SOC at paras 86 and 91; PWS at para 52(b).
+
+(a) With regard to common mistake, Mr Xanthopoulos argues that the intention
+and common accord between him, RO Solutions (as represented by Mr Lim, Mr Chia
+and Mr Srinivasan) and ROSE (as represented by Mr Srinivasan) was that he
+would be paid by any company in the ROS Group, and not only by ROSE. The
+parties mistakenly believed that the terms of the ROSE Agreement reflected
+this intention and common accord. 65
+
+##### Foot Note 65
+
+×
+
+SOC at paras 87–89; PWS at paras 125–126.
+
+(b) With regard to unilateral mistake, Mr Xanthopoulos contends that Mr
+Srinivasan (acting for and on behalf of ROSE) knew that the terms of the ROSE
+Agreement did not reflect his intentions, yet failed to draw his attention to
+this mistake. 66
+
+##### Foot Note 66
+
+×
+
+SOC at para 90; PWS at para 130.
+
+27 The defendants deny that there was any mistake as to the terms of the ROSE
+Agreement. 67
+
+##### Foot Note 67
+
+×
+
+RO Defence at para 154B; RO DWS at para 110.
+
+They argue that there was no common intention or accord for Mr Xanthopoulos to
+be remunerated by RO Solutions, or any company in the ROS Group (apart from
+ROSE), for services rendered to that company. 68
+
+##### Foot Note 68
+
+×
+
+RO DWS at para 126–128.
+
+Further, they aver that they had no actual or constructive knowledge of the
+alleged mistake made by Mr Xanthopoulos in the ROSE Agreement, and that they
+did not take unconscionable advantage of this alleged mistake. 69
+
+##### Foot Note 69
+
+×
+
+RO Defence at para 154A; RO DWS at paras 116–122.
+
+(4) Mr Xanthopoulos’s entitlement to fees for the Projects
+
+28 With regard to the Projects, Mr Xanthopoulos asserts that he rendered
+project management services for the MODEC Project from November 2014 to June
+2015, 70
+
+##### Foot Note 70
+
+×
+
+SOC at paras 50–52; PWS at para 132.
+
+as well as referral services for the Caevest Project (by introducing Caevest
+to Mr Srinivasan) 71
+
+##### Foot Note 71
+
+×
+
+SOC at paras 63–64; PWS at para 149.
+
+and the MINOX Project (by referring this project to RO Solutions and assisting
+in the formal presentations of RO Solutions’ capabilities to MINOX). 72
+
+##### Foot Note 72
+
+×
+
+SOC at para 76; PWS at para 158.
+
+He claims fees for these services from the defendants under the Overarching
+Agreement, the terms of which he avers were also incorporated into the Verbal
+Agreement. 73
+
+##### Foot Note 73
+
+×
+
+SOC at paras 43, 55, 67 and 79.
+
+29 On the other hand, the defendants contend that Mr Xanthopoulos is not
+entitled to the fees he has claimed for the Projects. They argue that the
+MINOX Project and the Caevest Project were not referred to RO Solutions by Mr
+Xanthopoulos. 74
+
+##### Foot Note 74
+
+×
+
+RO Defence at paras 140 (the MINOX Project) and 122–123 (the Caevest Project);
+RO DWS at paras 187 (the MINOX Project) and 198 (the Caevest Project).
+
+Further, the defendants argue that Mr Xanthopoulos was seconded from ROSE to
+RO Solutions to perform “in-house work” for “reasonable compensation” under cl
+5.5 of the ROSE Agreement, and that Mr Xanthopoulos’s services in respect of
+the MODEC Project fell within the scope of such “in-house” works, for which he
+was paid fees of S$15,000 per month. 75
+
+##### Foot Note 75
+
+×
+
+RO Defence at para 110; RO DWS at paras 101–102 and 141(b).
+
+The unjust enrichment claims
+
+30 In the event that his primary case based on the Overarching Agreement does
+not succeed, Mr Xanthopoulos contends that RO Solutions has been unjustly
+enriched by his services in respect of the Projects, for which he received no
+payment. He relies on two alternative unjust factors: failure of basis and
+free acceptance. 76
+
+##### Foot Note 76
+
+×
+
+SOC at paras 56 (the MODEC Project), 68 (the Caevest Project) and 80 (the
+MINOX Project); PWS at paras 100 and 102–106.
+
+31 The defendants deny any unjust enrichment on their part. 77
+
+##### Foot Note 77
+
+×
+
+RO Defence at paras 112 (the MODEC Project), 128 (the Caevest Project) and 144
+(the MINOX Project).
+
+They argue that there is no factual basis for Mr Xanthopoulos’s claim that he
+provided referral services in respect of MINOX Project 78
+
+##### Foot Note 78
+
+×
+
+RO DWS at paras 187 and 195.
+
+and the Caevest Project 79
+
+##### Foot Note 79
+
+×
+
+RO DWS at paras 198 and 206.
+
+to RO Solutions, and that the ROSE Agreement regulated Mr Xanthopoulos’s work
+on the MODEC Project. 80
+
+##### Foot Note 80
+
+×
+
+RO DWS at para 176.
+
+Mr Xanthopoulos’s minority oppression claim
+
+32 Mr Xanthopoulos’s second broad claim is that he has been oppressed as a 30%
+minority shareholder of ROSE, within the meaning of s 216 of the Companies Act
+(Cap 50, 2006 Rev Ed) (the “CA”). He contends that he had a legitimate
+expectation that ROSE’s profits would be shared between himself and RO
+Solutions in accordance with their respective shareholding, 81
+
+##### Foot Note 81
+
+×
+
+SOC at para 92.
+
+and that RO Solutions (as the 70% majority shareholder of ROSE) and Mr Lim (as
+its nominee director in ROSE) have conducted ROSE’s affairs in a manner that
+is oppressive and commercially unfair to him. 82
+
+##### Foot Note 82
+
+×
+
+SOC at para 115.
+
+Mr Xanthopoulos relies on the following acts by RO Solutions and/or Mr Lim to
+support this allegation:
+
+(a) First, RO Solutions’ refusal to pay ROSE substantial outstanding
+receivables, amounting to S$256,871.71, for the services rendered by ROSE in
+respect of the MOPU BOSS1 Project from November 2013 to March 2014. 83
+
+##### Foot Note 83
+
+×
+
+SOC at paras 95, 108 and 115(a).
+
+(b) Second, Mr Lim’s refusal, as a director of ROSE and acting in his capacity
+as RO Solutions’ nominee director, to take action against RO Solutions to
+claim these outstanding receivables. 84
+
+##### Foot Note 84
+
+×
+
+SOC at paras 108, 113 and 115(b).
+
+(c) Third, RO Solutions’ and Mr Lim’s refusal to have ROSE’s assets realised
+and distributed to Mr Xanthopoulos as dividends. Mr Xanthopoulos argues that
+RO Solutions has, without any reasonable explanation, blocked or objected to
+his repeated requests for the realisation and distribution of ROSE’s assets
+(of which he would be entitled to S$96,671.73 as a 30% shareholder 85
+
+##### Foot Note 85
+
+×
+
+SOC at para 106.
+
+) and the issuance of dividends. 86
+
+##### Foot Note 86
+
+×
+
+SOC at paras 108, 114 and 115(c).
+
+(d) Fourth, Mr Lim’s refusal to comply with ROSE’s articles of association to
+call for a meeting of ROSE’s directors to consider the realisation of its
+assets, the distribution of its profits and its striking off. Mr Xanthopoulos
+had requested Mr Lim to do so but Mr Lim did not respond. 87
+
+##### Foot Note 87
+
+×
+
+SOC at paras 109 and 115(d).
+
+(e) Fifth, RO Solutions’ refusal, without any explanation, to accede to a
+written resolution authorising ROSE’s directors to declare dividends to ROSE’s
+shareholders. 88
+
+##### Foot Note 88
+
+×
+
+SOC at paras 110–111 and 115(e).
+
+33 In connection with his minority oppression claim, Mr Xanthopoulos seeks the
+following relief:
+
+(a) a declaration that RO Solutions and Mr Lim have caused ROSE’s affairs to
+be conducted in a manner that is prejudicial to Mr Xanthopoulos and
+constitutes oppression, or is in disregard of or prejudicial to his interests
+as a shareholder of ROSE; 89
+
+##### Foot Note 89
+
+×
+
+SOC at p 41 para (6); PWS at para 52(f).
+
+and
+
+(b) an order that RO Solutions buy out Mr Xanthopoulos’s shares in ROSE, 90
+
+##### Foot Note 90
+
+×
+
+SOC at p 41 para (7).
+
+with the share value calculated based on the net asset value of ROSE; 91
+
+##### Foot Note 91
+
+×
+
+PWS at paras 52(g) and 186.
+
+in the alternative, an order that ROSE be compulsorily wound up and its assets
+realised and distributed in accordance with RO Solutions’ and Mr
+Xanthopoulos’s respective shareholding in ROSE. 92
+
+##### Foot Note 92
+
+×
+
+SOC at p 41 para (8); PWS at para 52(h).
+
+34 The defendants deny that Mr Xanthopoulos was treated in a commercially
+unfair manner. 93
+
+##### Foot Note 93
+
+×
+
+RO DWS at para 13; 3rd Defendant’s Closing Submissions (“VL DWS”) at para 43.
+
+They do not deny that RO Solutions owes ROSE receivables amounting to
+S$256,871.71. However, in their defence, the defendants assert that there was
+a mutual agreement and understanding between all parties involved not to
+pursue the outstanding receivables owed to ROSE, and that Mr Xanthopoulos was
+at all times aware of this understanding. 94
+
+##### Foot Note 94
+
+×
+
+RO Defence at para 175; VL Defence at para 50; RO DWS at paras 13(a) and 218;
+VL DWS at para 64.
+
+The defendants further contend that there were legitimate commercial reasons
+for not acceding to Mr Xanthopoulos’s requests, and that this was not an
+unfair course of action to take. 95
+
+##### Foot Note 95
+
+×
+
+RO DWS at para 225; VL DWS at para 73.
+
+In particular, they argue that ROSE was a loss-making entity since the
+2014/2015 financial year and that there were plans at the material time for
+ROSE to be repurposed, such that it was not prudent for dividends to be issued
+and for ROSE to be struck off. 96
+
+##### Foot Note 96
+
+×
+
+RO DWS at para 13(b).
+
+In any event, they assert that the appropriate value for the share buyout
+should be assessed based on ROSE’s most recent audited financial statements,
+97
+
+##### Foot Note 97
+
+×
+
+RO DWS at para 236.
+
+or alternatively, based on an independent valuation and set-off against
+operational costs provided by RO Solutions to ROSE from July 2013 to December
+2018 totalling S$512,000. 98
+
+##### Foot Note 98
+
+×
+
+RO DWS at para 236; VL DWS at para 81.
+
+Issues
+
+35 Mr Xanthopoulos has made multiple and alternate claims. I approach the
+various issues in the following way:
+
+(a) First, what was the intention of the four men in creating ROSE?
+
+(i) What were the terms agreed by the four men?
+
+(ii) Were these terms intended to be distilled and recorded in the written
+ROSE Agreement, or were they instead intended to form a free-standing
+Overarching Agreement?
+
+(b) Second, does the ROSE Agreement, properly interpreted, reflect the terms
+agreed upon by the four men?
+
+(c) Third, and because I answer the second question in the negative:
+
+(i) May extrinsic evidence be used to prove that there was a mistake?
+
+(ii) Was the mistake common or unilateral?
+
+(iii) If there was a mistake such that the ROSE Agreement is to be rectified,
+how should the ROSE Agreement be rectified?
+
+(d) Fourth, as I hold that the ROSE Agreement should be rectified, may Mr
+Xanthopoulos still claim restitution on the basis of unjust enrichment from
+the defendants for his services in respect of the Projects?
+
+(e) Fifth, on the basis of the permissible claims and a proper interpretation
+of the rectified ROSE Agreement:
+
+(i) Did Mr Xanthopoulos “initiate” the MINOX Project and the Caevest Project
+within the meaning of cl 5.4 of the ROSE Agreement?
+
+(ii) Is Mr Xanthopoulos able to claim additional compensation for his work on
+the MODEC Project?
+
+(f) Sixth, with regard to the minority oppression claim against RO Solutions
+and Mr Lim:
+
+(i) Was Mr Xanthopoulos oppressed as a minority shareholder of ROSE; and
+
+(ii) If so, what is the appropriate remedy?
+
+36 I organise my judgment in three broad sections below. First, I analyse the
+contractual and restitutionary framework between the parties. The three
+specific claims hinge on the legal obligations existing between the parties
+and I deal with these claims in that context. The minority oppression claim is
+considered subsequently as my findings on the first two issues are relevant to
+the third.
+
+Analysis on the contractual and restitutionary context
+
+What was agreed by the four men in their negotiations?
+
+37 Mr Xanthopoulos’s case rests on an e-mail exchange between Mr Chia, Mr Lim
+and him from 29 January to 14 February 2012.
+
+38 The object of ROSE was to grow the business of RO Solutions. On 29 January
+2012, Mr Chia sent an e-mail to Mr Xanthopoulos with the subject heading “Re:
+Discussion”. He stated in the e-mail that “[t]he key is ROS cannot lose
+money”. 99
+
+##### Foot Note 99
+
+×
+
+1 CB 115.
+
+In the same e-mail chain, in an e-mail dated 1 February 2012, Mr Xanthopoulos
+sent an e-mail to the other three men, stating that he was sure they could
+“grow the ROS business significantly” and that he was “in general agreement
+with [their] discussion”. 100
+
+##### Foot Note 100
+
+×
+
+1 CB 114–115.
+
+39 As to the terms, on 8 February 2012, Mr Xanthopoulos sent an e-mail
+addressed to the other three men with the subject heading “NEW ROS Engineering
+Company Formation” (the “8 February 2012 e-mail”). On the subject of “starting
+a new ROS conceptual engineering company”, he set out terms and conditions
+such as his receiving 30% equity in the new company, as well as defining the
+term “finder’s fee”. He also asked to maintain the existing terms of his
+contract with “ROS”, referring to the RO Systems Agreement. 101
+
+##### Foot Note 101
+
+×
+
+1 CB 114.
+
+In the same e-mail, Mr Xanthopoulos informed the three men that he had
+received a signed contract from DRL, and that it was signed with a fictitious
+company called ABC Company Pte Ltd which would be changed once the new company
+was formed. 102
+
+##### Foot Note 102
+
+×
+
+1 CB 114 and 117.
+
+There is a “Consulting Agreement” between DRL and ROSE dated May 2012 for ROSE
+to provide project management and engineering services to DRL from 15 August
+to 31 December 2012. 103
+
+##### Foot Note 103
+
+×
+
+1 CB 200.
+
+Mr Chia replied later the same day, agreeing to Mr Xanthopoulos’s request for
+30% equity in the new company. However, he stated that it was “not fair or
+acceptable” for the terms of the RO Systems Agreement to be maintained because
+Mr Xanthopoulos was “already paid as a full time staff” and had been given
+30%. He also stated that “BW Offshore” should be excluded from finder’s fees
+as “ROS” already had a strong relationship with them. 104
+
+##### Foot Note 104
+
+×
+
+1 CB 126.
+
+The next day, on 9 February 2012, Mr Xanthopoulos responded, stating that
+maintaining the terms of the RO Systems Agreement was a “requirement of
+[his]”, and that “BW Offshore” had to be included in the finder’s fees. 105
+
+##### Foot Note 105
+
+×
+
+1 CB 129–130.
+
+40 The contents of the 8 February 2012 e-mail, with Mr Chia’s replies added in
+italics and underline and Mr Xanthopoulos’s responses on 9 February 2012 in
+bold, are set out in full below: 106
+
+##### Foot Note 106
+
+×
+
+1 CB 129–130.
+
+Gents,
+
+Further on subject of starting a new ROS conceptual engineering company, I am
+outlining some terms that we need to both agree upon. Once agreed, we can
+proceed to register the company, etc.
+
+Specific Terms & Conditions:
+
+1\. Eli to receive 30% equity in the new company. Ok I am negotiable on this
+but also plan on using my portion of the equity to give to key engineer(s) to
+reduce their salary and improve profit margins.
+
+2\. Maintain existing terms of Eli’s Contract with ROS. This is not fair or
+acceptable. You are already paid as a full time staff and have been given 30%.
+This is a requirement of mine.
+
+3\. Suggest we clearly define “Finder’s Fee” portion in our existing contract
+(and for the new company) as follows:
+
+a. For any orders from “NEW” Clients or BW Offshore initiated by ELI and/or
+his team, ELI to receive 100% of Contract terms. Ok but BWO excluded as ROS
+relationship with BWO is already strong. This is a requirement of mine – refer
+to my point above.
+
+b. For all other orders for modules/packages that ROS do not currently offer
+to “NEW” or existing Clients, requiring assistance from ELI and/or his team,
+ELI & ROS to split 50/50 the Contract “Finder’s Fee” Terms. Ok
+
+4\. Need to address repeat orders from “NEW” Clients and BWO brought in by
+ELI. As long as the client is brought to the table by you and you ensure that
+contracts are secured, it will be recurring. BWO must be included.
+
+After further consideration, I am suggesting we use the following name for the
+new company: ROS Process Pte Ltd. We support your call. Again this is only a
+suggestion based on my experience.
+
+Regarding Noble Energy Projects, I have received the Signed Contract from DRL
+Engineering in Houston, who have the contracts for several Noble Energy Gas
+Projects in the Eastern Mediterranean. Please find it attached. The contract
+was tentatively signed for a fictitious Company called ABC Company pte Ltd. We
+can change as soon as we come to agreement on company formation. I will be
+starting work this week on the NOBLE ENERGY Leviathan FPSO and FLNG projects
+and will probably have to travel to London next week for kick‐off meeting. We
+will review contract and provide feedback only after setup of Company has been
+agreed. OK
+
+Please review and lets [sic] try and finalize ASAP.
+
+We are running a business. Let’s ensure that the newco CANNOT INCUR LOSSES. If
+we are not confident that it can make profits, better drop Noble and look for
+other opportunities. Understood. My plan is to use a portion of my 30% equity
+and the Finder Fee’s [sic] to reduce the salary exposure of the Lead
+Engineers. Thus improving profit margins.
+
+Best Regards,
+
+Eli Xanthopoulos
+
+Director ‐ Engineering
+
+41 On 11 February 2012, Mr Lim e-mailed Mr Xanthopoulos, copying Mr Chia and
+Mr Srinivasan. The e-mail, which was addressed to Mr Xanthopoulos and Mr Chia,
+was intended to cut through the impasse between the two men, and stated that
+they were “happy for [Mr Xanthopoulos] to keep the previous ROS terms 10K plus
+commission also ontop [sic] of the new Noble salaries”, but that “minimum end
+of the day will need to break even”. At the end of the e-mail, he asked, “[d]o
+we agree on this?” 107
+
+##### Foot Note 107
+
+×
+
+1 CB 133.
+
+42 On the same day, Mr Xanthopoulos replied “[o]f course I agree”, before
+going on to ask about registering the new company and getting an office space,
+reiterating the premise of the new company: 108
+
+##### Foot Note 108
+
+×
+
+1 CB 137.
+
+I very firmly believe that with a strong Engineering Company behind ROS with
+FPSO knowledge and capability, we can overcome the lack of FPSO Module
+experience we want to pursue. And I am sure we can convince our FPSO clients.
+I know it will come at a cost but please trust me in that I will do whatever
+it takes to manage.
+
+43 Mr Lim then replied later the same day, thanking Mr Xanthopoulos for his
+agreement. By the same e-mail, he asked Mr Chia to “set up the company, inject
+50 or 100 K first for running capital”. He proposed three names, including
+“ROS Engineering”, and encouraged the fast build-up of the new engineering
+company: 109
+
+##### Foot Note 109
+
+×
+
+1 CB 142.
+
+Will need you [ie, Mr Xanthopoulos] to push getting more engineers on board,
+as this will support the biz and start the ball rolling, all the best my
+friend! and for any biz the first year is most crucial, got to get the sales
+in fast to cover the cost and convince clients without track record and
+competitors will be out to kill etc…..but youre [sic] almost there!
+
+44 On 14 February 2012, Mr Xanthopoulos replied, agreeing to the name “ROS
+Engineering” for the new company. 110
+
+##### Foot Note 110
+
+×
+
+1 CB 148.
+
+He later sent another e-mail addressed to Mr Chia, asking for the terms to be
+“in writing” so that they were “all on the same page”. 111
+
+##### Foot Note 111
+
+×
+
+1 CB 154.
+
+Mr Chia then e-mailed Mr Xanthopoulos stating that he would have a 30% share
+in the new company, that the RO Systems Agreement would be terminated as it
+would be replaced by an agreement with ROSE, and that Mr Xanthopoulos would
+have to “revise the agreement to reflect what had been agreed”. 112
+
+##### Foot Note 112
+
+×
+
+1 CB 154.
+
+45 The key terms agreed on by the four men on e-mail as at 14 February 2012
+were therefore as follows:
+
+(a) The terms of the RO Systems Agreement would be maintained. Accordingly, Mr
+Xanthopoulos would earn a monthly salary of S$10,000 (per cl 5.1 of the RO
+Systems Agreement) albeit as the managing director of ROSE. Mr Xanthopoulos
+was entitled to keep the new salaries he received from independent sources
+such as DRL.
+
+(b) Mr Xanthopoulos would receive a 30% share of the equity in ROSE, which was
+intended to be an engineering company leveraging on his FPSO network,
+expertise and experience.
+
+(c) For projects initiated by him involving new clients, Mr Xanthopoulos would
+earn commissions at the rates set out in the RO Systems Agreement. For other
+projects involving modules or packages which RO Solutions did not at that time
+offer, which required his or ROSE’s assistance, Mr Xanthopoulos would earn 50%
+of the commission.
+
+What legal effect did the parties’ agreement have?
+
+46 A critical question is whether the parties intended their agreement to be
+distilled into a written agreement, or whether they intended their e-mails to
+have independent legal effect. Mr Xanthopoulos contends that the discussions
+between the four men from November 2011 to February 2012 gave rise to a free-
+standing Overarching Agreement.
+
+47 The facts do not, however, support Mr Xanthopoulos’s case, for the
+following reasons. In order for a binding agreement to be formed, there must
+be a single point in time when the necessary consensus ad idem is reached: see
+Day, Ashley Francis v Yeo Chin Huat Anthony and others [2020] 5 SLR 514 (“Day
+Ashley Francis”) at [46]. There must be a “deeper appreciation of the context
+of the agreement” by examining “the whole course of negotiations”, and a
+contract is formed at the point of “unqualified acceptance” (Day Ashley
+Francis at [47]). Identifying such a precise point of formation is important
+not only because it affects matters such as the applicable limitation period
+for contractual actions, but also because it is “necessary in order to give
+commercial certainty to the parties that their continuing negotiations would
+not be taken to be a binding contract unless there was a clear acceptance at
+some point in time” (Day Ashley Francis at [48]–[49]). It is important to
+ensure that a party “who subjectively views that he is merely engaging in
+negotiations is not unfairly bound by a contract he did not subjectively
+intend to enter” (Day Ashley Francis at [49]). Thus, Mr Xanthopoulos must be
+able to pinpoint a precise point in time that a free-standing agreement
+materialised from these negotiations.
+
+48 In my view, Mr Xanthopoulos has not succeeded in establishing this. The
+e-mails show that the four men intended to distil the agreed terms into
+writing. On 14 February 2012, Mr Xanthopoulos wrote that he “would like to get
+in writing the terms we agreed to so we are all on the same page” and asked
+how they should go about doing this. 113
+
+##### Foot Note 113
+
+×
+
+1 CB 154.
+
+In Mr Chia’s reply, he informed Mr Xanthopoulos that the RO Systems Agreement
+was to be terminated and replaced by “an agreement with [ROSE]”. Mr Chia also
+instructed Mr Xanthopoulos to “revise the agreement to reflect what had been
+agreed”. 114
+
+##### Foot Note 114
+
+×
+
+1 CB 154.
+
+Clause 12 of the ROSE Agreement, which states that the agreement superceded
+previous agreements and constituted the entire agreement between parties,
+should be read in this light. On 4 April 2012, Mr Xanthopoulos sent the
+revised draft of the ROSE Agreement to Mr Chia, Mr Lim and Mr Srinivasan,
+stating in his covering e-mail that he had “revised [his] existing agreement
+with ROS to reflect [his] new employment agreement with [ROSE]”. 115
+
+##### Foot Note 115
+
+×
+
+1 CB 172.
+
+This draft became the ROSE Agreement. The necessary consensus ad idem
+envisaged by Day Ashley Francis at [46] was found in their agreement with the
+written draft ROSE Agreement after 4 April 2012.
+
+49 In this context, I deal with Mr Xanthopoulos’s pleading that the
+Overarching Agreement was formed as a legally binding agreement when his offer
+of terms was accepted by Mr Lim and/or Mr Chia by e-mail on 11 February 2012
+and 14 February 2012. 116
+
+##### Foot Note 116
+
+×
+
+SOC at para 23.
+
+He also goes on to plead that “[t]he terms of the above agreement [ie, the
+Overarching Agreement] and common understanding were reflected in a ROSE
+Service Agreement dated 1 May 2012”. 117
+
+##### Foot Note 117
+
+×
+
+SOC at para 24.
+
+This refers to the ROSE Agreement. Mr Xanthopoulos thus appears to plead that
+both the Overarching Agreement and the ROSE Agreement were valid agreements.
+In his closing submissions, counsel for Mr Xanthopoulos argued that because
+the Overarching Agreement concluded via the e-mail negotiations was not
+expressly stated to be “subject to contract”, a valid contract was formed
+between the four men in February 2012, and the subsequent written ROSE
+Agreement was “an entirely different agreement”. 118
+
+##### Foot Note 118
+
+×
+
+PWS at para 92; Transcript, 28 June 2021 at p 6 lines 20–30 and p 14 lines
+1–11.
+
+This ties in with Mr Xanthopoulos’s secondary argument that the written ROSE
+Agreement, being ineffective in recording the earlier Overarching Agreement
+concluded over e-mail, could not supersede the Overarching Agreement. 119
+
+##### Foot Note 119
+
+×
+
+Transcript, 28 June 2021 at p 14 lines 12–16.
+
+50 My reasons at [48] above explain that this position is not borne out by the
+evidence. The four men intended for their final agreement to be in written
+form and the ROSE Agreement was that written form.
+
+51 Accordingly, I hold that the Overarching Agreement did not have any
+independent legal effect. The question that follows, therefore, is whether the
+ROSE Agreement reflected the parties’ understanding of what they agreed on
+e-mail.
+
+Did the ROSE Agreement reflect the parties’ intention?
+
+52 Mr Xanthopoulos’s case is that the ROSE Agreement reflected either a common
+mistake on the part of the relevant parties or a unilateral mistake on his
+part. I deal preliminarily with the role of extrinsic evidence in this
+context.
+
+Role of extrinsic evidence
+
+53 The defendants’ contention is that parol evidence should be excluded.
+Extrinsic evidence may be considered in determining whether a mistake has been
+made in the contract that requires rectification: see Zurich Insurance
+(Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd [2008] 3
+SLR(R) 1029 (“Zurich Insurance”) at [56] (citing Lord Hoffmann’s restatement
+of the applicable principles in Investors Compensation Scheme Ltd v West
+Bromwich Building Society [1998] 1 WLR 896 (“ICS”) at 912–913) and [132(f)].
+As Lord Hoffmann observed in ICS at 913, the relevant background “may not
+merely enable the reasonable man to choose between the possible meanings of
+words which are ambiguous but even (as occasionally happens in ordinary life)
+to conclude that the parties must, for whatever reason, have used the wrong
+words or syntax”. Where extrinsic evidence leads the court to conclude that
+parties have used the wrong words, rectification may be an appropriate remedy
+(Zurich Insurance at [123] and [132(f)]).
+
+54 Mr Xanthopoulos bears the burden of showing “convincing proof” that the
+ROSE Agreement did not accord with the parties’ continuing common intention at
+the time of its execution and that his proposed changes will accord with that
+intention. In producing “convincing proof”, all relevant evidence is
+admissible, including declarations of subjective intent: Yap Son On v Ding Pei
+Zhen [2017] 1 SLR 219 (“Yap Son On”) at [64]–[65]. As such, the e-mail
+negotiations are relevant and admissible evidence for the purposes of Mr
+Xanthopoulos’s alternative argument for rectification of the ROSE Agreement
+because of either common or unilateral mistake.
+
+Whether the facts show any mistake
+
+55 Mr Xanthopoulos’s contention is that the ROSE Agreement did not reflect
+that it was intended to regulate the dealings and payments between Mr
+Xanthopoulos and RO Solutions. 120
+
+##### Foot Note 120
+
+×
+
+PWS at para 126.
+
+To analyse whether this was so, we return to what parties agreed, summarised
+at [45].
+
+56 In the RO Systems Agreement, RO Systems was the contracting party. No clear
+distinction was made between RO Solutions and RO Systems in the RO Systems
+Agreement. Nothing turned on the distinction because RO Systems was wholly
+owned by RO Solutions. All three directors of RO Solutions admitted that “ROS”
+was used to refer to both RO Solutions and RO Systems interchangeably. Mr Chia
+stated that RO Systems and RO Solutions were “the same ROS”. 121
+
+##### Foot Note 121
+
+×
+
+Transcript, 23 March 2021 at p 59 lines 29–32.
+
+Similarly, Mr Srinivasan said that when he used the name “ROS”, “in [the] back
+of [his] mind, [he did not] think about whether [he was] referring [to RO]
+Systems or [RO] Solutions”. 122
+
+##### Foot Note 122
+
+×
+
+Transcript, 31 March 2021 at p 69 lines 11–14.
+
+Mr Lim said that when he used “ROS”, he could be referring to both RO Systems
+and RO Solutions. 123
+
+##### Foot Note 123
+
+×
+
+Transcript, 5 April 2021 at p 62 lines 3–14.
+
+Mr Chia explained at trial that RO Solutions was formed so that he, Mr Lim and
+Mr Srinivasan could migrate their business over from RO Systems. The business
+in RO Systems could slowly be wound down, whilst they took on new business in
+RO Solutions. 124
+
+##### Foot Note 124
+
+×
+
+Transcript, 23 March 2021 at p 56 line 21 to p 57 line 5.
+
+In the interim period when RO Solutions had not yet been placed on their
+customers’ approved vendor lists, they would bid for new contracts under RO
+Systems, which was on those lists. 125
+
+##### Foot Note 125
+
+×
+
+Transcript, 23 March 2021 at p 93 line 28 to p 94 line 9.
+
+Mr Srinivasan’s and Mr Lim’s evidence was that RO Systems was a “legacy
+company” that was “tasked with performing ongoing contracts”. 126
+
+##### Foot Note 126
+
+×
+
+Mr Srinivasan’s AEIC at para 32; Mr Lim’s AEIC at para 32.
+
+The same logo was used by both RO Systems and RO Solutions. 127
+
+##### Foot Note 127
+
+×
+
+Transcript, 23 March 2021 at p 58 lines 4–7, read with 1 CB 17.
+
+57 It is in this context that Mr Lim’s instruction to “keep the previous ROS
+terms” in his e-mail dated 11 February 2012 should be considered. The lack of
+distinction between different corporate vehicles appears to have carried over
+to the discussions leading up to the ROSE Agreement and to ROSE after its
+formation in March 2012. RO Solutions, RO Systems and ROSE operated as a group
+and not independently. At trial, Mr Chia testified that the three companies
+were operated by “the same team of people” and corporate functions such as
+finance and human resources were “shared across the entire group”. 128
+
+##### Foot Note 128
+
+×
+
+Transcript, 23 March 2021 at p 119 lines 2 and 16–22.
+
+When Mr Chia and Mr Xanthopoulos met with potential clients, they marketed the
+three companies together as a group because they were not sure, at the time of
+marketing, which company would be the best entity to bid for each job. 129
+
+##### Foot Note 129
+
+×
+
+Transcript, 23 March 2021 at p 120 lines 13–17.
+
+Mr Chia explained that RO Solutions was the “strongest entity” in the ROS
+Group to secure big new projects because it had the “most net tangible assets”
+and could “pass the financial test of [their] customers”. 130
+
+##### Foot Note 130
+
+×
+
+Transcript, 23 March 2021 at p 92 lines 20–32.
+
+Mr Chia’s understanding was that Mr Xanthopoulos was to be paid a commission
+by whichever company in the ROS Group he secured a project for, because “the
+key [was] to use the best company, the most suitable company, to bid for the
+project and win the project”. 131
+
+##### Foot Note 131
+
+×
+
+Transcript, 23 March 2021 at p 116 line 31 to p 117 line 11.
+
+58 Mr Xanthopoulos’s understanding that he would be paid commissions by
+whichever company in the ROS Group he secured projects for is borne out by his
+responses to Mr Chia on 9 February 2012, as set out in bold at [40] above. In
+that e-mail, Mr Xanthopoulos stated that his “plan [was] to use a portion of
+[his] 30% equity and the Finder Fee’s [sic] to reduce the salary exposure of
+the Lead Engineers”, thereby “improving profit margins”. This was in response
+to Mr Chia’s concern that ROSE should not incur losses. 132
+
+##### Foot Note 132
+
+×
+
+1 CB 130.
+
+When this response is read in context, it indicates that Mr Xanthopoulos must
+have envisioned, at the time of the ROSE Agreement, that his commission could
+be paid by a company in the ROS Group other than ROSE. If his commission had
+to be paid by ROSE, then (as Mr Lim acknowledged 133
+
+##### Foot Note 133
+
+×
+
+Transcript, 5 April 2021 at p 77 lines 14–30.
+
+) this amount would appear as a liability on ROSE’s books. It is unclear how
+that could have assisted in improving ROSE’s profit margins or preventing ROSE
+from incurring losses.
+
+59 The various contradictions in the defendants’ case bring out this point
+clearly. The defendants’ case is that the relationship between Mr
+Xanthopoulos, RO Solutions and ROSE was governed entirely by the ROSE
+Agreement at all material times 134
+
+##### Foot Note 134
+
+×
+
+RO DWS at para 12(a).
+
+and that the ROSE Agreement was the only valid agreement between them. 135
+
+##### Foot Note 135
+
+×
+
+Transcript, 28 June 2021 at p 39 lines 10–11.
+
+This literal interpretation has three defects.
+
+60 First, RO Solutions would have no commercial relationship with Mr
+Xanthopoulos. This contradicts the intention of the parties to replace the RO
+Systems Agreement with another agreement encompassing a new joint venture.
+
+61 Second, cl 5.4 of the ROSE Agreement would not make commercial sense. With
+ROSE defined as the “Company” within cl 5.4, Mr Xanthopoulos would only be
+paid commissions (by ROSE) for projects initiated by him and secured by ROSE,
+excluding projects secured by RO Systems or RO Solutions. Indeed the
+defendants raised at trial the argument that ROSE could be the company to
+secure the project and thereafter subcontract the project on a back-to-back
+basis to RO Solutions, or could make a joint bid with RO Solutions. 136
+
+##### Foot Note 136
+
+×
+
+Transcript, 30 March 2021 at p 88 lines 16–28 and p 90 lines 5–8.
+
+This argument was not pleaded or mentioned in the defendants’ affidavits of
+evidence-in-chief and was raised for the first time at trial, during the
+cross-examination of Mr Xanthopoulos. 137
+
+##### Foot Note 137
+
+×
+
+PWS at para 75; Transcript, 28 June 2021 at p 35 lines 27–32.
+
+It was in any event untenable. ROSE was a new company with no track record,
+whereas RO Systems, and increasingly RO Solutions, had an established client
+base and were on customers’ approved vendor lists. 138
+
+##### Foot Note 138
+
+×
+
+Transcript, 31 March 2021 at p 126 lines 10–19 (Mr Srinivasan).
+
+Mr Srinivasan agreed that ROSE could not have secured contracts for large-
+scale FPSO projects unless it was supported by RO Solutions. 139
+
+##### Foot Note 139
+
+×
+
+Transcript, 31 March 2021 at p 126 lines 26–30 and p 127 at lines 1–12.
+
+Existing clients of RO Solutions, such as BW Offshore, would want to award a
+main contract to RO Solutions (with which it had an established relationship)
+and not to ROSE. 140
+
+##### Foot Note 140
+
+×
+
+Transcript, 1 April 2021 at p 30 lines 17–32.
+
+Further, as Mr Chia explained, being on customers’ approved vendor lists was
+“extremely important” in bidding for jobs in this business and only RO Systems
+and RO Solutions were on these approved vendor lists. Nor would it, according
+to Mr Chia, “make sense for [them] in ROS to allow [ROSE] to jump onto the
+approved vendor list and to compete with RO Solutions directly”. 141
+
+##### Foot Note 141
+
+×
+
+Transcript, 24 March 2021 at p 121 lines 13–22.
+
+RO Solutions was thus far better placed to secure these projects. Moreover,
+ROSE was positioned as a conceptual engineering or engineering consultancy
+company and was not meant to carry out fabrication work itself. 142
+
+##### Foot Note 142
+
+×
+
+Mr Xanthopoulos’s AEIC at para 38; Transcript, 5 April 2021 at p 80 lines 5–16
+(Mr Lim).
+
+As repeatedly expressed by Mr Chia, the parties’ ultimate aim was to grow the
+business of the ROS Group as a whole so that they would benefit as
+shareholders. 143
+
+##### Foot Note 143
+
+×
+
+Transcript, 23 March 2021 at p 72 lines 24–27 and p 73 lines 2–4; Transcript,
+24 March 2021 at p 94 lines 1–2 and 19–20 and p 101 at lines 20–24;
+Transcript, 25 March 2021 at p 78 lines 24–26 and p 79 lines 22–24.
+
+The reason for paying Mr Xanthopoulos commissions for referrals, Mr Chia
+explained, was to encourage him “not just to grow ROSE using whatever means he
+can in ROSE, but also [to] help us in [RO] Systems and [RO] Solutions to grow
+[their] business as much as [they could]”. 144
+
+##### Foot Note 144
+
+×
+
+Transcript, 24 March 2021 at p 136 lines 10–16.
+
+62 Third, the defendants’ case assumes that Mr Xanthopoulos’s engineering work
+for RO Solutions is “in-house work” within the meaning of cl 5.5 of the ROSE
+Agreement. That it was RO Solutions which paid the additional S$15,000 a month
+was not disputed. If the liability was that of ROSE and not RO Solutions, it
+would indicate that RO Solutions paid Mr Xanthopoulos without any proper legal
+basis. Rather, what is plain is that work for RO Solutions was interpreted by
+all concerned to be “in-house”. 145
+
+##### Foot Note 145
+
+×
+
+Transcript, 1 April 2021 at p 59 lines 16–18 and p 61 lines 1–8.
+
+The specific mistake
+
+63 All these reasons point to RO Solutions, and not ROSE, being the correct
+contracting party to the ROSE Agreement. Confusion between entities is seen
+throughout the ROSE Agreement. Even though ROSE is defined as the “Company” in
+the preamble to the ROSE Agreement, the clauses that remained unamended from
+the old RO Systems Agreement used the word in the context of RO Solutions.
+Clause 5.1 is the same in both contracts. It states, specifically, that Mr
+Xanthopoulos’s salary would be reviewed “with reference to the progress of the
+business of the Company and the Group Companies”. 146
+
+##### Foot Note 146
+
+×
+
+1 CB 194.
+
+64 At the same time, the fresh clauses are not consistent, and reflect the
+drafting of the legally untrained. Clause 5.2 deals with Mr Xanthopoulos’s
+equity in “ROS Engineering Pte. Ltd.”, ignoring any use of the definition of
+the “Company” in the preamble.
+
+65 Clause 5.4 is an amalgam of cl 5.2 of the original RO Systems Agreement and
+an additional half. The first half, taken from the RO Systems Agreement,
+envisaged RO Solutions as the “Company”: 147
+
+##### Foot Note 147
+
+×
+
+1 CB 194.
+
+5.4 A Commission in addition to the salary as provided in Clause 5.1 shall be
+as follows for any projects initiated by Appointee and secured by Company:
+
+5% of the value of the contract up to S$5M (million).
+
+3% of the value of the contract up to S$5M~50M
+
+2% of the value of the contract up to S$50~100M
+
+1% of the value of the contract up to S$100M
+
+The amount shall be computed as follows: As an example, a purchase order in
+the amount of 8 million dollars would generate a Commission of 5 million x 5%
+= S$250,000, plus 3 million at 3% = S$90,000 for a total of S$340,000.
+
+Mr Xanthopoulos’s freshly drafted second half deals specifically with RO
+Solutions and RO Systems by name and attempts a definition of the “ROS Group”
+which ought to have first been introduced together with the other terms
+defined in cl 1 and propagated at appropriate points throughout the ROSE
+Agreement.
+
+66 Clauses 5.3 and 5.5 reflect Mr Xanthopoulos’s attempt to redraft cll 4.1
+and 4.2 of the RO Systems Agreement. Clause 4.1 provides that Mr
+Xanthopoulos’s “[s]ervices provided to help execute any projects are excluded
+in this agreement but can be negotiated in writing along with remuneration for
+[the] same on a case by case basis”. 148
+
+##### Foot Note 148
+
+×
+
+SOC at para 16; RO Defence at para 43; 1 CB 109.
+
+Clause 4.2 states that Mr Xanthopoulos “shall during his employment under this
+Agreement perform the duties and exercise the powers which the Directors or
+the Board may from time to time properly assign to him or in connection with
+the business of the Company and its Group Companies, and without prejudice to
+the generality of the foregoing”. 149
+
+##### Foot Note 149
+
+×
+
+SOC at para 14; RO Defence at para 41; 1 CB 109.
+
+At cl 5.5, Mr Xanthopoulos introduces the word “in-house” without referring to
+whether this means RO Solutions, RO Systems or ROSE.
+
+Was the mistake common or unilateral?
+
+67 Mr Xanthopoulos seeks equitable and not common law rectification. To prove
+common mistake, he must show that the parties were in complete agreement on
+the relevant term, but by an error had recorded that term incorrectly. This is
+to be ascertained objectively, by looking at the parties’ outward acts and
+then comparing them with the document which they have signed: OUE Lippo
+Healthcare Ltd (formerly known as International Healthway Corp Ltd) and
+another v Crest Capital Asia Pte Ltd and others [2020] SGHC 142 at [328]. The
+elements of rectification based on common mistake are (Yap Son On at [67]):
+
+(a) the parties had a common continuing intention, whether or not amounting to
+an agreement, in respect of a particular matter in the instrument to be
+rectified;
+
+(b) there was an outward expression of accord;
+
+(c) the intention continued at the time of the execution of the instrument
+sought to be rectified; and
+
+(d) by mistake, the instrument did not reflect that common intention.
+
+68 In my judgment, the mistake was common, not unilateral. The e-mails from 29
+January to 14 February 2012 show that all four men intended to appoint Mr
+Xanthopoulos as the managing director of ROSE, but ROSE was a conceptual
+engineering company designed to benefit RO Solutions, either directly, or
+through RO Systems. Mr Xanthopoulos’s referral services and “in-house work”,
+in the same vein, were intended to grow the business of RO Solutions, either
+directly, or through RO Systems. What the four men envisaged was an agreement
+between, on the one hand, RO Solutions as the majority shareholder of ROSE
+(acting through Mr Chia, Mr Srinivasan and Mr Lim as its controlling minds),
+and on the other, Mr Xanthopoulos as the minority shareholder of ROSE. In
+respect of the ROSE Agreement, Mr Chia first made the mistake by asking Mr
+Xanthopoulos to amend the RO Systems Agreement to change the contracting party
+to ROSE, and Mr Xanthopoulos then made the same mistake by doing so. This
+fundamental mistake permeated the ROSE Agreement. The subsequent conduct of
+the four men also reflects that they were operating under this mistake at the
+time that the ROSE Agreement was signed and in the years that followed after.
+
+The appropriate rectifications
+
+69 The mistake regarding the proper contracting party permeated the ROSE
+Agreement, was common on the part of all four men, and grounds Mr
+Xanthopoulos’s claim for equitable rectification. The rectifications that are
+appropriate therefore would delineate the entities properly in the clauses in
+dispute. For the purposes of the suit, the necessary rectifications would be
+the following: RO Solutions, rather than ROSE, would be party to the ROSE
+Agreement. RO Solutions should be referred to as the “Company” in the
+preamble. Thus “Company” in the first half of cl 5.4 would refer to RO
+Solutions, and RO Systems should be included because these were the two
+companies on various vendor lists. The term “in-house work” within cl 5.5
+would refer to work done within the entire ROS Group, which Mr Xanthopoulos
+had defined in cl 5.4(b). The specific changes to cll 5.4 and 5.5 (the clauses
+relevant to the three specific claims) should be as follows, with two
+amendments in bold italics (cl 5.3 is set out here only for the purposes of
+reference in relation to cl 5.5):
+
+5.3 Appointee to receive 100% of any consulting work fee’s [sic] billed and
+performed directly by himself.
+
+5.4 A Commission in addition to the salary as provided in Clause 5.1 shall be
+as follows for any projects initiated by Appointee and secured by Company or
+RO Systems:
+
+5% of the value of the contract up to S$5M (million).
+
+3% of the value of the contract up to S$5M~50M
+
+2% of the value of the contract up to S$50~100M
+
+1% of the value of the contract up to S$100M
+
+The amount shall be computed as follows: As an example, a purchase order in
+the amount of 8 million dollars would generate a Commission of 5 million x 5%
+= S$250,000, plus 3 million at 3% = S$90,000 for a total of S$340,000.
+
+To further clarify the commission described above and to preclude any future
+misunderstanding:
+
+a. For any orders from “NEW” Clients initiated by Appointee and/or his team,
+Appointee to receive 100% of Commission described above.
+
+b. For all other orders for modules/packages that Rotating Offshore Solutions
+Pte. Ltd., Rotating Offshore Systems Pte. Ltd. or other affiliated group
+businesses (refer to all aforementioned as “ROS Group”) do not currently offer
+to “NEW” or existing Clients, requiring assistance from Appointee and/or his
+team, Appointee shall receive 50% of Commission described above.
+
+5.5 Regarding compensation for managing & executing of [sic] any in-house work
+for the ROS Group. Appointee agrees not to charge any additional fee assuming
+he is billing for consulting work being performed directly by himself as per
+5.3 above. In the event that Appointee is not billing or performing consulting
+work as in 5.3 above, then reasonable compensation agreed by both parties
+shall be paid to Appointee to manage and execute this work. If there is no in
+house work to manage/execute, then only the terms of 5.1 and 5.4 shall apply.
+
+70 In making these rectifications, I do not include any of the further and
+more wide-ranging amendments requested by Mr Xanthopoulos in Annex A of his
+Statement of Claim. Counsel for Mr Xanthopoulos confirmed in his oral closing
+submissions that he was seeking, amongst his alternative claims, a
+rectification of the contracting party to the ROSE Agreement, 150
+
+##### Foot Note 150
+
+×
+
+Transcript, 28 June 2021 at p 68 lines 3-17.
+
+and counsel for the defendants agreed that paragraphs 87 and 89 and prayer (2)
+of the Statement of Claim are broad enough to envisage the amendment of the
+contracting party. 151
+
+##### Foot Note 151
+
+×
+
+Transcript, 28 June 2021 at p 70 lines 22-29.
+
+The rectifications made above at [69] are sufficient to fulfil the intention
+of the four men as summarised at [45]. I have also held, at [48], that the
+four men intended for this rectified ROSE Agreement to govern their
+relationship. The question that follows, then, is whether this rectified ROSE
+Agreement is exhaustive in setting out their obligations to each other, or
+whether, as Mr Xanthopoulos contends, restitutionary obligations also apply.
+
+Claims in unjust enrichment
+
+71 Mr Xanthopoulos’s claim in unjust enrichment asserts that the ROSE
+Agreement should be “construed such that it does not preclude RO Solutions
+from paying such fees [ie, fees for the Projects] under the Overarching
+Agreement or in unjust enrichment” [emphasis in original]. 152
+
+##### Foot Note 152
+
+×
+
+PWS at para 117.
+
+This is because the ROSE Agreement, on the defendants’ construction (and in
+its unrectified form), “posits arrangements between [Mr Xanthopoulos] and ROSE
+only”, and “leaves a lacuna as to any legal relationship between [Mr
+Xanthopoulos] and RO Solutions” [emphasis in original omitted]. 153
+
+##### Foot Note 153
+
+×
+
+PWS at para 120.
+
+72 As I have found that the ROSE Agreement should be rectified such that Mr
+Xanthopoulos would be paid by any company in the ROS Group for the services he
+rendered to that company, the basis of his unjust enrichment claim falls away.
+The ROSE Agreement, as rectified, does not leave any lacuna as to the legal
+relationship between Mr Xanthopoulos and RO Solutions. On the contrary, the
+ROSE Agreement was a valid contractual arrangement which governed the
+relationship between him and RO Solutions and provided for the payment of his
+fees at the material time.
+
+73 It follows from this that the law of restitution for unjust enrichment has
+no part to play in this matter. In Alwie Handoyo v Tjong Very Sumito and
+another and another appeal [2013] 4 SLR 308 (“Alwie Handoyo”), the Court of
+Appeal rejected the unjust enrichment claim on the ground that the plaintiffs
+had contracted for a particular payment to be made by one of the defendants
+(“Antig”) to a third party (“OAFL”). Under the contract between the plaintiffs
+and Antig, as interpreted by the Court of Appeal, Antig was contractually
+obliged to make the payment to OAFL and it did so. To allow the plaintiffs to
+recover that payment from OAFL via unjust enrichment “would be to undermine
+the contractual bargain under the [contract] which the [p]laintiffs and Antig
+agreed on” (Alwie Handoyo at [103]–[104]).
+
+74 The Court of Appeal cited the House of Lords decision of Pan Ocean Shipping
+Co Ltd v Creditcorp Ltd [1994] 1 WLR 161 (“Pan Ocean”), which involved a valid
+and subsisting contract between the plaintiff (the charterer) and another
+company (the shipowner), under which that company had assigned its right to
+the benefit of payment to the defendant (the shipowner’s assignee). The Court
+of Appeal at [105]–[106] of Alwie Handoyo agreed with the following remarks
+made by Lord Goff of Chieveley in Pan Ocean at 164 and 166:
+
+[A]s between shipowner and charterer, there is a contractual regime which
+legislates for the recovery of overpaid hire. It follows that, as a general
+rule, the law of restitution has no part to play in the matter; the existence
+of the agreed regime renders the imposition by the law of a remedy in
+restitution both unnecessary and inappropriate. Of course, if the contract is
+proved never to have been binding, or if the contract ceases to bind,
+different considerations may arise, as in the case of frustration …. With such
+cases as these, we are not here concerned.
+
+…
+
+I am of course well aware that writers on the law of restitution have been
+exploring the possibility that, in exceptional circumstances, a plaintiff may
+have a claim in restitution when he has conferred a benefit on the defendant
+in the course of performing an obligation to a third party (see, e.g., Goff
+and Jones on the Law of Restitution, 4th ed. (1993), pp. 55 et seq., and (for
+a particular example) Burrows on the Law of Restitution, (1993) pp. 271-272).
+But, quite apart from the fact that the existence of a remedy in restitution
+in such circumstances must still be regarded as a matter of debate, it is
+always recognised that serious difficulties arise if the law seeks to expand
+the law of restitution to redistribute risks for which provision has been made
+under an applicable contract.
+
+[emphasis added]
+
+75 The contracts in Alwie Handoyo and Pan Ocean were concluded between the
+plaintiffs and a third party. These principles would apply with even greater
+force where the plaintiff and the defendant have a contract. Party autonomy
+would be imperative. For example, the English Court of Appeal in MacDonald
+Dickens & Macklin (a firm) v Costello and others [2012] QB 244 at [23], in a
+passage cited in Alwie Handoyo at [108], stated that the general rule of
+upholding parties’ contractual arrangements “reflects a sound legal policy
+which acknowledges the parties’ autonomy to configure the legal relations
+between them and provides certainty”. In a similar vein, Prof Tang Hang Wu in
+his chapter in Research Handbook on Unjust Enrichment and Restitution (Elise
+Bant, Kit Barker and Simone Degeling eds) (Edward Elgar Publishing, 2020) at
+pp 103–104 states that unjust enrichment “may usually only operate if there is
+no valid contract between the claimant and the defendant”, and that it is
+“only in exceptional cases that an unjust enrichment claim may operate where
+there is a subsisting contract”, as it is “not for the courts to re-write the
+contract between the parties” and “upset the agreed distribution of risks”.
+Prof Tang goes on to observe (at pp 105–106 and 107) that for unjust
+enrichment to apply where there is a contract between the parties, a claimant
+must first be able to establish that the contract is void or rescinded due to
+a vitiating factor or discharged due to breach, or that there is a gap in the
+contract. If not, “then contractual principles should govern and the unjust
+enrichment argument would be a non-starter” (at pp 107–108).
+
+76 Therefore, I find that the rectified ROSE Agreement precludes Mr
+Xanthopoulos’s claim for fees for the Projects based on unjust enrichment.
+Clauses 5.4 and 5.5 of the ROSE Agreement, as rectified, provide for Mr
+Xanthopoulos’s remuneration for referrals and in-house work done for any
+company in the ROS Group. Such remuneration is governed by the four corners of
+the rectified ROSE Agreement. In these circumstances, the contractually agreed
+conditions for Mr Xanthopoulos’s remuneration should be upheld, and he cannot
+instead opt to claim these fees from RO Solutions on a restitutionary basis.
+
+Analysis on the three specific claims
+
+77 In the result, Mr Xanthopoulos is only able to claim against RO Solutions
+in respect of fees that are owing under the rectified ROSE Agreement. It is in
+this context that I deal with Mr Xanthopoulos’s claims in respect of each of
+the Projects in turn.
+
+Claims under cl 5.4 of the ROSE Agreement
+
+78 Clause 5.4 of the ROSE Agreement, as rectified, entitles Mr Xanthopoulos to
+claim commissions for any projects “initiated” by him and “secured” by the
+relevant company in the ROS Group.
+
+The MINOX Project
+
+79 Mr Xanthopoulos claims a commission for referring the MINOX Project to RO
+Solutions. He asserts that in or around July 2014, he engaged Mr Knut Hvidsand
+(“Mr Hvidsand”), the vice president of MINOX. He then referred the MINOX
+Project to RO Solutions and assisted in the formal presentations of RO
+Solutions’ capabilities to MINOX. Eventually, RO Solutions secured the MINOX
+Project. 154
+
+##### Foot Note 154
+
+×
+
+PWS at paras 158–159.
+
+RO Solutions and ROSE contend that Mr Xanthopoulos did not refer the MINOX
+Project to RO Solutions. They argue that it was Mr Hvidsand who initiated
+contact with RO Solutions for the MINOX Project. 155
+
+##### Foot Note 155
+
+×
+
+RO DWS at paras 12(d) and 187.
+
+(1) Mr Hvidsand’s evidence
+
+80 Mr Xanthopoulos contends that Mr Hvidsand had known him since 2007 or 2008
+in a work capacity before he joined the ROS Group, when he was working at
+Prosafe Production Pte Ltd. 156
+
+##### Foot Note 156
+
+×
+
+PWS at para 162.
+
+Mr Hvidsand did not dispute this under cross-examination, 157
+
+##### Foot Note 157
+
+×
+
+Transcript, 25 March 2021 at p 102 lines 1–17.
+
+but he qualified this by stating that his “main contact” had been a different
+person and that he had only met Mr Xanthopoulos in the corridors and did not
+remember having any meetings with him at this time. 158
+
+##### Foot Note 158
+
+×
+
+Transcript, 25 March 2021 at p 101 lines 11–20.
+
+Rather, Mr Hvidsand was of the view that he had met Mr Lim around 2007, and he
+approached RO Solutions because of Mr Lim. 159
+
+##### Foot Note 159
+
+×
+
+Affidavit of Evidence-in-Chief of Knut Hvidsand (“Mr Hvidsand’s AEIC”) at
+paras 13–14.
+
+81 Mr Xanthopoulos argues that Mr Hvidsand’s and the defendants’ evidence on
+this issue is unreliable for several reasons.
+
+(a) First, Mr Hvidsand states in his evidence that he had met Mr Lim around
+2007. 160
+
+##### Foot Note 160
+
+×
+
+Mr Hvidsand’s AEIC at para 13.
+
+He then states that he was introduced to RO Solutions through Mr Lim and that
+he was informed that RO Solutions “had deep expertise and experience in, among
+other things, the construction and fabrication of large floating production
+process units as well as in handling large scale off-loading projects”. 161
+
+##### Foot Note 161
+
+×
+
+Mr Hvidsand’s AEIC at para 14.
+
+This was corroborated by Mr Lim’s evidence. 162
+
+##### Foot Note 162
+
+×
+
+Mr Lim’s AEIC at para 158.
+
+Mr Xanthopoulos argues that this is unreliable as RO Solutions did not even
+exist in 2007; only its predecessor company (East Asia Energy) did, 163
+
+##### Foot Note 163
+
+×
+
+PWS at para 164(a).
+
+a fact that was testified to by Mr Lim. 164
+
+##### Foot Note 164
+
+×
+
+Transcript, 5 April 2021 at p 93 lines 1–5.
+
+He further points to the fact that RO Solutions only took on its first MOPU
+project in 2014 and its first large module fabrication for an FPSO in 2015,
+165
+
+##### Foot Note 165
+
+×
+
+PWS at para 164(b).
+
+which Mr Lim confirmed. 166
+
+##### Foot Note 166
+
+×
+
+Transcript, 5 April 2021 at p 95 lines 7–13.
+
+Under cross-examination, Mr Lim accepted that this meant that his statement to
+Mr Knut that RO Solutions had deep expertise in the construction and
+fabrication of large FPSO storage and in handling large scale off-loading
+projects, in his affidavit of evidence-in-chief, was incorrect. 167
+
+##### Foot Note 167
+
+×
+
+Transcript, 5 April 2021 at p 95 lines 18–24.
+
+(b) Second, Mr Xanthopoulos asserts that Mr Hvidsand’s evidence on his contact
+with Mr Lim are bare assertions. 168
+
+##### Foot Note 168
+
+×
+
+PWS at para 165.
+
+Mr Hvidsand asserts that he met with Mr Lim in early June 2014 and again in
+August 2014. 169
+
+##### Foot Note 169
+
+×
+
+Mr Hvidsand’s AEIC at paras 21–22.
+
+Mr Xanthopoulos argues that there are no notes or e-mails relating to any of
+these meetings, and that although Mr Hvidsand claims that he relied on his
+notes, none of these have been disclosed. As such, he submits that an adverse
+inference should be drawn against Mr Hvidsand. 170
+
+##### Foot Note 170
+
+×
+
+PWS at para 165.
+
+(c) Third, Mr Xanthopoulos submits that Mr Hvidsand’s evidence is contradicted
+by contemporaneous documents. 171
+
+##### Foot Note 171
+
+×
+
+PWS at para 167.
+
+First, Mr Hvidsand claimed that he did not meet Mr Xanthopoulos in August 2014
+in his affidavit of evidence-in-chief, 172
+
+##### Foot Note 172
+
+×
+
+Mr Hvidsand’s AEIC at paras 23(c) and 28.
+
+yet there is an e-mail dated 25 September 2014 (the “25 September 2014
+e-mail”) that shows otherwise as it refers to “[their] discussion in Singapore
+last month”. 173
+
+##### Foot Note 173
+
+×
+
+Core Bundle of Documents, Vol 2 (“2 CB”) 630.
+
+When shown this e-mail, Mr Hvidsand explained that he had lunch with Mr
+Xanthopoulos, Mr Lim and Mr Srinivasan, and that Mr Xanthopoulos had brought
+up the MOPU D18 Project. 174
+
+##### Foot Note 174
+
+×
+
+Transcript, 25 March 2021 at p 115 line 19 to p 116 line 23.
+
+82 Mr Hvidsand and Mr Lim both had points of poor recall. However, Mr
+Xanthopoulos bears the burden of proving that he was the one who referred the
+MINOX Project to RO Solutions. He does not raise more than bare assertions.
+The relevant e-mail correspondence with MINOX does not support these
+assertions, but rather, those of the defendants.
+
+(2) E-mail correspondence
+
+83 Mr Xanthopoulos further relies on the 25 September 2014 e-mail from Mr
+Hvidsand which references the August 2014 discussion between himself and Mr
+Hvidsand. 175
+
+##### Foot Note 175
+
+×
+
+2 CB 630.
+
+MINOX first evinced its intention to award the contract for the MINOX Project
+to RO Solutions in an e-mail dated 29 August 2014. 176
+
+##### Foot Note 176
+
+×
+
+5 AB 4084.
+
+When these two e-mails are read together, Mr Xanthopoulos argues that this
+shows that it was he who had brought the MINOX Project to RO Solutions. 177
+
+##### Foot Note 177
+
+×
+
+PWS at paras 169 and 172.
+
+But this evidence is equivocal on whether Mr Xanthopoulos had referred the
+MINOX Project to RO Solutions. First, the 25 September 2014 e-mail referred to
+the MOPU D18 Project, not the MINOX Project. Further and more importantly, by
+this time, there were already discussions between MINOX and RO Solutions a
+month prior in July 2014.
+
+84 These discussions between MINOX and RO Solutions are found in an e-mail
+chain from 8 to 28 July 2014. While Mr Xanthopoulos and Mr Lim were copied on
+this e-mail chain, they did not participate in the discussions – rather, it
+was Mr Srinivasan and two other RO Solutions employees communicating with
+MINOX. 178
+
+##### Foot Note 178
+
+×
+
+2 CB 556–565.
+
+The dates of these e-mails corroborate Mr Hvidsand’s evidence that he had
+agreed with Mr Lim that RO Solutions would make its first bid for the MINOX
+Project on 4 July 2014. 179
+
+##### Foot Note 179
+
+×
+
+Mr Hvidsand’s AEIC at para 21.
+
+Furthermore, Mr Xanthopoulos was not copied on any of these e-mails until Mr
+Srinivasan copied him on an e-mail dated 25 July 2014 which arranged the
+meeting in August 2014. 180
+
+##### Foot Note 180
+
+×
+
+2 CB 557.
+
+This further supports the position that the meeting in August 2014 was not
+with Mr Xanthopoulos alone, but rather, with the whole RO Solutions team. Mr
+Xanthopoulos, at this point in time, was on his S$15,000 monthly fee
+arrangement with RO Solutions.
+
+85 In totality, the e-mails do not support Mr Xanthopoulos’s case. The only
+e-mail he can point to is the 25 September 2014 e-mail which makes a vague
+reference to a discussion in August 2014. Mr Srinivasan’s e-mail on 25 July
+2014 suggests that this discussion was not with Mr Xanthopoulos alone, which
+takes the weight out of any suggestion that it was he who led MINOX to evince
+its intention to award the contract to RO Solutions in the e-mail dated 29
+August 2014. Importantly, the July 2014 e-mails run completely contrary to Mr
+Xanthopoulos’s case that he had engaged Mr Hvidsand around that time. The
+e-mails show that there were ongoing discussions between other members of RO
+Solutions and MINOX, and Mr Xanthopoulos was not even copied on these e-mails
+until the end of July 2014.
+
+The Caevest Project
+
+86 Mr Xanthopoulos also claims a commission for referring the Caevest Project
+to RO Solutions. He contends that he did so through Mr Ernest Enver (“Mr
+Enver”) of Caevest. On or around 30 April 2016, Mr Enver had contacted him
+regarding the Caevest Project and he had informed Mr Enver that RO Solutions
+was interested in participating in the project. Mr Enver then sent an e-mail
+to Mr Xanthopoulos alone with a request for information and a request for a
+quotation for the Caevest Project. Mr Xanthopoulos forwarded this e-mail to Mr
+Srinivasan and Mr Chia. After this, Mr Srinivasan followed up with an e-mail
+to Mr Enver expressing RO Solutions’ interest in the Caevest Project and
+ultimately secured the Caevest Project on behalf of RO Solutions. 181
+
+##### Foot Note 181
+
+×
+
+PWS at paras 149–150.
+
+87 It is clear that Mr Enver had contacted Mr Xanthopoulos on 30 April 2016
+through e-mail and that Mr Xanthopoulos had forwarded this e-mail to Mr
+Srinivasan on 1 May 2016. 182
+
+##### Foot Note 182
+
+×
+
+3 CB 746–748; Affidavit of Evidence-in-Chief of Enver Druce Ernest at para 18.
+
+However, RO Solutions and ROSE contend that Mr Enver did so not because of Mr
+Xanthopoulos, but rather, because the two companies had worked together on a
+prior project with a third party and Caevest was already aware of the
+competencies of RO Solutions. They allege that Mr Enver was directed to
+contact any representative of RO Solutions and thus it was not Mr Xanthopoulos
+who referred RO Solutions to Caevest. 183
+
+##### Foot Note 183
+
+×
+
+RO DWS at paras 198–206.
+
+88 The key issue here is the interpretation of the phrase “initiated by
+Appointee and secured by the relevant company in the ROS Group” which appears
+in cl 5.4 of the ROSE Agreement (as rectified). 184
+
+##### Foot Note 184
+
+×
+
+1 CB 194.
+
+Mr Xanthopoulos has premised his argument on a literal reading of the word
+“initiate”. He argues that “initiate” simply means “causing a process to
+begin” and that this is exactly what he had done regarding the Caevest
+Project. 185
+
+##### Foot Note 185
+
+×
+
+PWS at para 156.
+
+89 There are two difficulties with Mr Xanthopoulos’s argument. First, it is
+not disputed that it was Mr Enver who telephoned Mr Xanthopoulos on 30 April
+2016 (see [86] above). If a literal approach were taken, it would be Mr Enver
+of Caevest who “initiated” contact. Mr Xanthopoulos thereafter linked Mr Enver
+to Mr Srinivasan.
+
+90 The second difficulty may be more fundamental. In interpreting the word
+“initiate”, reference may be had to the negotiation context as admissible
+extrinsic evidence. These e-mails would be admissible as they are relevant,
+reasonably available to all the contracting parties and relate to a clear or
+obvious context, and would not contradict or vary the written words of cl 5.4
+of the ROSE Agreement: see Zurich Insurance, as summarised at [53] above.
+
+91 In these e-mails from 8–9 February 2012 (as set out at [39]–[40] above), Mr
+Chia emphasised the need for the client to be new. Mr Xanthopoulos’s response
+was to emphasise that he would bring new work to the table even for existing
+clients and he was to be recognised for his role. What emerges from these
+e-mails is that the parties envisioned that Mr Xanthopoulos would only be paid
+a commission for extra work that he brought to RO Solutions using his
+expertise and contacts and which RO Solutions would not otherwise get. In
+other words, Mr Xanthopoulos must have had some instrumentality in enabling RO
+Solutions to secure the project and cannot merely have been a conduit for
+interested customers. The ultimate aim, as Mr Chia said on the stand, was to
+“grow the group business” such that the shareholders would “gain the
+benefits”. 186
+
+##### Foot Note 186
+
+×
+
+Transcript, 23 March 2021 at p 72 line 27 and p 73 lines 3–4.
+
+Mr Chia explained that he did not think Mr Xanthopoulos should be entitled to
+commissions for securing new business from BW Offshore because RO Solutions
+“[did not] need his relationship with BWO for … ROS … to secure new jobs from
+BWO” 187
+
+##### Foot Note 187
+
+×
+
+Transcript, 23 March 2021 at p 97 lines 28–32.
+
+and that he “[did not] want a case where [they had] conflicts down the road …
+whereby [Mr Xanthopoulos] claim[ed] … that he introduced BWO to [them] as a
+customer when, in fact, [they] already kn[e]w BWO very well”. 188
+
+##### Foot Note 188
+
+×
+
+Transcript, 23 March 2021 at p 98 lines 2–4.
+
+92 In context, Mr Enver contacted Mr Xanthopoulos out of convenience: see [87]
+above. Caevest was aware of RO Solutions’ prior work and approached RO
+Solutions because of its known competencies. The word “initiate” has to be
+interpreted by reference to commercial efficacy. In Zurich Insurance at [129],
+the Court of Appeal remarked that the benefits of adopting the contextual
+approach to contractual interpretation were “flexibility and accord with
+commercial common sense”. At [131] of Zurich Insurance, the Court of Appeal
+endorsed the summary of principles set out in Gerard McMeel, The Construction
+of Contracts: Interpretation, Implication, and Rectification (Oxford
+University Press, 2007) at paras 1.124–1.133, including that “due
+consideration is given to the commercial purpose of the transaction or
+provision” and that the courts “have regard to the overall purpose of the
+parties with respect to a particular transaction, or more narrowly the reason
+why a particular obligation was undertaken” [emphasis in original]. In this
+case, Mr Xanthopoulos’s literal reading of the word “initiate” does not accord
+with commercial common sense as it would mean that RO Solutions was obliged to
+pay him commissions even for projects where his help was not crucial to its
+securing the project. In contrast, Mr Chia stated in no uncertain terms, they
+were “here to do business” and “here to make money”. 189
+
+##### Foot Note 189
+
+×
+
+Transcript, 24 March 2021 at p 15 lines 2–3.
+
+93 Accordingly, I do not think the objective evidence demonstrates that the
+word “initiate” was meant to take on the literal meaning that Mr Xanthopoulos
+suggests. Applying an interpretation in line with the relevant commercial
+context, I hold that the MINOX Project was not initiated by Mr Xanthopoulos.
+
+Claim for fees for the MODEC Project
+
+94 Clause 5.5 of the ROSE Agreement, as rectified, entitles Mr Xanthopoulos to
+“reasonable compensation agreed by both parties” for managing and executing
+work for RO Solutions. The defendants’ case is that the S$15,000 fee that Mr
+Xanthopoulos received after June 2013 covered all his work for RO Solutions.
+Mr Xanthopoulos contends, on the basis of his Verbal Agreement with Mr Chia,
+that the fee was paid to him for taking on the role of engineering director at
+RO Solutions.
+
+95 The history surrounding the projects completed after the start of the
+S$15,000 monthly fee arrangement is relevant. Mr Chia’s evidence was that any
+payment would be “on a case-by-case basis … subject to agreement, subject to
+discussion”. 190
+
+##### Foot Note 190
+
+×
+
+Transcript, 23 March 2021 at p 114 lines 18–19.
+
+For the MOPU BOSS1 Project, Mr Chia agreed with Mr Xanthopoulos that ROSE
+would be paid directly instead of Mr Xanthopoulos and Mr Xanthopoulos would
+then receive his 30% share of the sums paid to ROSE. 191
+
+##### Foot Note 191
+
+×
+
+Transcript, 23 March 2021 at p 114 lines 13–16; Transcript, 25 March 2021 at p
+93 lines 7–8 and 14–17.
+
+Mr Chia also sent Mr Xanthopoulos an e-mail on 26 October 2013 stating that
+ROSE should bill RO Solutions. 192
+
+##### Foot Note 192
+
+×
+
+6 AB 5145.
+
+Therefore, during the period when the MOPU BOSS1 Project was ongoing, which
+was up to March 2014, both ROSE and Mr Xanthopoulos were remunerated by RO
+Solutions. Work on the MODEC Project subsequently started in November 2014.
+193
+
+##### Foot Note 193
+
+×
+
+Transcript, 23 March 2021 at p 127 line 22.
+
+The MOPU D18 Project then started after the MODEC Project, in or around June
+2015. 194
+
+##### Foot Note 194
+
+×
+
+Mr Xanthopoulos’s AEIC at para 61; Transcript, 1 April 2021 at p 74 lines 9–18
+(Mr Srinivasan).
+
+In contrast to the MOPU BOSS1 Project, for the MOPU D18 Project which followed
+after the MODEC Project, Mr Chia explained that he convinced Mr Xanthopoulos
+not to charge, because RO Solutions was struggling financially at that point
+due to losses incurred from the MOPU BOSS1 Project. 195
+
+##### Foot Note 195
+
+×
+
+Transcript, 23 March 2021, p 115 line 21 to p 116 line 5.
+
+96 Mr Xanthopoulos argues that the payments made by RO Solutions for the MOPU
+BOSS1 Project support his claim for fees for the MODEC Project, on the footing
+that it was similar to the MODEC Project. 196
+
+##### Foot Note 196
+
+×
+
+PWS at para 141.
+
+He relies on Mr Chia’s testimony that there was a “common understanding” for
+both the MOPU BOSS1 Project and the MODEC Project that Mr Xanthopoulos needed
+to be compensated for his services. 197
+
+##### Foot Note 197
+
+×
+
+Transcript, 24 March 2021 at p 8 lines 25–28.
+
+I reject this argument for two reasons. First, the monthly S$40,000 payments
+were to ROSE, not to Mr Xanthopoulos. Therefore, the past payments do not
+assist Mr Xanthopoulos’s case. Second, while there is no dispute that Mr Chia
+had promised the payment for the MOPU BOSS1 Project to ROSE, there is no
+evidence of any agreement for the MODEC Project. Specific remuneration
+agreements were made between Mr Chia and Mr Xanthopoulos in relation to both
+the MOPU BOSS1 Project (which preceded the MODEC Project) and the MOPU D18
+Project (which followed the MODEC Project). In the absence of agreement,
+neither the contract nor Mr Chia’s practice indicated that there was any
+obligation to pay. It was implicit in Mr Chia’s evidence that there was no
+agreement made with Mr Xanthopoulos for payment. When Mr Chia was confronted
+with the fact that he had given inconsistent instructions to the defendants’
+solicitors that Mr Xanthopoulos was not entitled to fees for the MODEC
+Project, his only explanation was that his memory had been “triggered” after
+reading Mr Xanthopoulos’s affidavit and that RO Solutions had been so busy
+with the MOPU BOSS1 Project and the MOPU D18 Project that they “forgot … about
+all these agreements and every month [they] just ma[d]e a monthly payment”.
+198
+
+##### Foot Note 198
+
+×
+
+Transcript, 24 March 2021 at p 139 lines 1–17.
+
+Mr Chia did not state that he had agreed on any compensation to be paid to Mr
+Xanthopoulos for the MODEC Project.
+
+97 Therefore, Mr Xanthopoulos had no entitlement to additional remuneration
+for the MODEC Project under cl 5.5. What about his alternative claim in unjust
+enrichment? I have held at [76] that no claim in restitution may be made in
+the present case because the rectified ROSE Agreement defines the parties’
+relationship. Clause 5.5 requires prior agreement. As Mr Xanthopoulos is
+unable to claim these fees for the MODEC Project under cl 5.5 because the
+stipulated requirement of a prior agreement was not satisfied, he cannot now
+bring a claim for these fees in unjust enrichment.
+
+Mr Xanthopoulos’s failure to raise the three claims at an earlier stage
+
+98 Of relevance is Mr Xanthopoulos’s failure to ask for payment for any of the
+three Projects until his e-mail on the last day of his notice period, 31 July
+2018, where he asked that “ROS consider dispersing” [emphasis added] any
+remaining funds in the liquidation of ROSE to him as he had “contributed over
+the years either directly or indirectly in securing jobs for ROS”, listing the
+MODEC Project, the MINOX Project and the Caevest Project as examples. 199
+
+##### Foot Note 199
+
+×
+
+9 AB 8227.
+
+He made no attempt to claim his fees in stages while each of the Projects was
+ongoing, or even on the completion of the MODEC Project (on 29 March 2016),
+the MINOX Project (on 6 February 2017) and the Caevest Project (on 29 March
+2018). Similarly, when he referenced the three claims again on 27 September
+2018 in his e-mail enclosing the signed dividend voucher for his 30% share, he
+asked Mr Chia, Mr Lim and Mr Srinivasan to “consider paying [him] the entire
+dividend given the time and effort [he had] put in over the years” [emphasis
+added], and mentioned the three Projects. 200
+
+##### Foot Note 200
+
+×
+
+3 CB 917.
+
+His posture was not that of strict legal entitlement.
+
+99 According to Mr Xanthopoulos, his understanding was that he was to be
+remunerated on a “pay on pay basis”, which meant that he would only be paid
+after the customer had paid RO Solutions in full at the end of the project.
+201
+
+##### Foot Note 201
+
+×
+
+PWS at para 37.
+
+100 In my view, this argument is not convincing. The concept of “pay on pay
+basis” had been explained to him by Mr Chia as early as 9 December 2011, in
+the course of their e-mail exchange leading up to the RO Systems Agreement. As
+Mr Chia explained, this meant that Mr Xanthopoulos could be paid whenever the
+customer paid the company in stages, and not that his commissions would be
+payable only after the customer had paid the company in full at the end of the
+project. In any event, RO Solutions was paid in full for the MODEC Project and
+the Caevest Project before Mr Xanthopoulos’s departure. MODEC paid sometime
+after October 2017 (more than two years after Mr Xanthopoulos’s involvement
+with the MODEC Project ended around June 2015) 202
+
+##### Foot Note 202
+
+×
+
+PWS at para 38; Transcript, 1 April 2021 at p 74 lines 2–5 (Mr Srinivasan).
+
+and the Caevest Project ended in March 2018. 203
+
+##### Foot Note 203
+
+×
+
+PWS at para 39; 1 CB 28.
+
+Only the payments for the MINOX Project ended after his departure in September
+2019. 204
+
+##### Foot Note 204
+
+×
+
+PWS at para 40; 1 CB 29.
+
+There is no evidence that Mr Xanthopoulos made queries as to when each of the
+Projects was to be fully paid for. Further, the particular “payable only after
+the Customer has paid the Company” line was dropped from cl 5.4 of the ROSE
+Agreement when Mr Xanthopoulos amended it in his version of 4 April 2012. 205
+
+##### Foot Note 205
+
+×
+
+1 CB 176–177.
+
+101 Mr Xanthopoulos’s belated claim for work done for the MODEC Project is
+even less convincing. This claim was not for a finder’s fee, but for his work
+as a project manager. Any sums owing should have been paid on a monthly basis.
+For the DRL project, he had submitted monthly time sheets as requested by DRL.
+While this was explained as DRL’s requirement, he would have been aware that
+such work would be accounted for each month. As a further example, for the
+MOPU BOSS1 Project, ROSE received S$40,000 each month as agreed with Mr Chia.
+That Mr Xanthopoulos did not seek payment while working on the project month
+after month reflects his understanding that it was not outside the scope of
+work for which he was already being remunerated.
+
+102 Accordingly, Mr Xanthopoulos’s explanation that he did not claim his fees
+at an earlier stage because he was focused on his other work does not pass
+muster.
+
+Minority oppression
+
+Was Mr Xanthopoulos oppressed as a minority shareholder of ROSE?
+
+103 Mr Xanthopoulos’s final claim is as a minority shareholder of ROSE.
+Section 216 of the CA allows a shareholder to bring an action for relief
+where: (a) the company’s affairs or the directors’ powers are being exercised
+in a manner oppressive to one or more shareholders, or in disregard of one or
+more shareholders’ interests; or (b) some act of the company has been done or
+threatened or a members’ resolution is passed or proposed which unfairly
+discriminates against or is otherwise prejudicial to one or more shareholders
+(Ascend Field Pte Ltd and others v Tee Wee Sien and another appeal [2020] 1
+SLR 771 (“Ascend Field”) at [27]). This encapsulates four limbs: oppression,
+disregard of a shareholder’s interests, unfair discrimination and prejudice to
+the shareholder: Ho Yew Kong v Sakae Holdings Ltd and other appeals and other
+matters [2018] 2 SLR 333 (“Sakae Holdings”) at [81]. The “common thread
+underpinning the entire section is the element of unfairness”, specifically,
+“[c]ommercial fairness”, which is the “touchstone by which the court
+determines whether to grant relief under s 216”: Over & Over Ltd v Bonvests
+Holdings Ltd and another [2010] 2 SLR 776 (“Over & Over”) at [70] and [81].
+The court will look into the legal rights and legitimate expectations of the
+company’s members and whether they were considered by the majority: Over &
+Over at [78]. Thus, the inquiry before me is whether the affairs of ROSE were
+conducted in a manner that was commercially unfair.
+
+104 The commercial unfairness alleged by Mr Xanthopoulos is RO Solutions’ non-
+payment of outstanding receivables amounting to S$256,871.71 to ROSE, and its
+failure to distribute dividends amounting to S$96,671.73 to Mr Xanthopoulos.
+
+Non-payment of receivables to ROSE
+
+105 It is undisputed that RO Solutions owes ROSE receivables amounting to
+S$256,871.71. The defendants’ defence is that there was a mutual agreement and
+understanding between RO Solutions and ROSE, which was arrived at before Mr
+Xanthopoulos’s departure from the ROS Group, for these receivables to be
+written off. According to the defendants, this mutual understanding was
+arrived at in view of the expenses incurred by RO Solutions in subsidising the
+operations of and providing various facilities and resources to ROSE over the
+years. 206
+
+##### Foot Note 206
+
+×
+
+RO DWS at para 218; VL DWS at paras 37, 39 and 64.
+
+The defendants rely on Mr Lim’s and Mr Srinivasan’s evidence that there was
+such an understanding and that it was communicated to Mr Xanthopoulos. 207
+
+##### Foot Note 207
+
+×
+
+RO DWS at paras 218–219; Transcript, 5 April 2021 at p 105 lines 22–26 (Mr
+Lim); Transcript, 5 April 2021 at p 12 lines 8–19 (Mr Srinivasan).
+
+The defendants also argue that this mutual understanding is borne out by the
+fact that Mr Xanthopoulos did not take any steps to pursue these receivables
+while he was the managing director of ROSE, despite knowing that they were
+owed. 208
+
+##### Foot Note 208
+
+×
+
+RO DWS at para 221; VL DWS at paras 64 and 67.
+
+Mr Xanthopoulos denies the existence of this mutual understanding. 209
+
+##### Foot Note 209
+
+×
+
+Mr Xanthopoulos’s AEIC at para 124; PWS at para 45.
+
+His explanation for his omission to pursue the receivables was that he
+“trusted [his] partners” and that they would pay him one day as long as these
+receivables were reflected on ROSE’s accounts. 210
+
+##### Foot Note 210
+
+×
+
+Transcript, 31 March 2021 at p 50 lines 18–32.
+
+106 The defendants have not provided any particulars of this alleged mutual
+understanding that ROSE would not pursue the receivables owed to it by RO
+Solutions, such as how or when this understanding was formed and its terms.
+There is no evidence to corroborate their bare assertions that this
+understanding existed.
+
+107 Further, it seems unbelievable that if such a mutual understanding
+existed, it would not be recorded in any minute sheets, e-mails, or corporate
+resolutions. The sum of receivables owed is not insignificant and it would
+have made more sense that an understanding to write it off would be mentioned
+in a contemporaneous document. This makes it unlikely that the alleged mutual
+understanding existed.
+
+108 Mr Lim and Mr Srinivasan stated in their affidavits of evidence-in-chief
+that they recalled that a credit note was meant to be issued by ROSE to RO
+Solutions to record that the alleged receivables had been written off, but
+this credit note was never issued due to an oversight by the accounting
+department. 211
+
+##### Foot Note 211
+
+×
+
+Mr Lim’s AEIC at para 188; Mr Srinivasan’s AEIC at para 188.
+
+However, this purported explanation holds no water. The defendants have not
+adduced any evidence of their intention to issue such a credit note and none
+was ever issued. Further, Mr Lim, as RO Solutions’ nominee director in ROSE,
+signed off on ROSE’s financial statements each year which listed the
+receivables as such, and never raised any concerns as to whether these
+receivables were indeed payable. 212
+
+##### Foot Note 212
+
+×
+
+Transcript, 5 April 2021 at p 109 lines 11–22 (Mr Lim).
+
+If the mutual understanding alleged by the defendants had existed, Mr Lim
+would have had many opportunities to put on record that these receivables had
+been written off pursuant to the parties’ agreement or mutual understanding,
+yet he made no attempt to do so.
+
+109 To the contrary, Mr Chia testified that he had asked Mr Xanthopoulos to
+hold off on claiming the fees owed for the MOPU BOSS1 Project because RO
+Solutions was on the brink of bankruptcy at the time, but that ROSE was to be
+paid later when RO Solutions had the financial means to pay. 213
+
+##### Foot Note 213
+
+×
+
+Transcript, 24 March 2021 at p 17 line 26 to p 18 lines 8 and 15–16.
+
+By the time of Mr Xanthopoulos’s departure, it appeared that RO Solutions had
+sufficient funds. On 27 September 2018, Ms Loh Soo Kim, RO Solutions’
+accountant (“Ms Loh”), 214
+
+##### Foot Note 214
+
+×
+
+Mr Xanthopoulos’s AEIC at para 48; Mr Lim’s AEIC at para 192; Transcript, 24
+March 2021 at p 17 lines 9–12 (Mr Chia).
+
+sent an e-mail to Mr Xanthopoulos instructing him to check and sign on an
+attached dividend voucher. 215
+
+##### Foot Note 215
+
+×
+
+3 CB 917 and 924–925.
+
+The explanation for the non-payment of the receivables given by Mr Lim and Mr
+Srinivasan to Mr Xanthopoulos during their tele-conversation on 31 October
+2018 was that RO Solutions had insufficient funds to pay ROSE the receivables.
+216
+
+##### Foot Note 216
+
+×
+
+3 CB 958; Transcript, 5 April 2021 at p 45 lines 3–17 (Mr Srinivasan) and p
+115 line 29 to p 116 line 8 (Mr Lim).
+
+This explanation was untrue. RO Solutions’ financial statements dated 25 June
+2019 show that in the financial year ended 31 March 2019, it had S$22.4m in
+total current assets (including S$10.8m in cash and bank balances) and its
+share capital and accumulated profits amounted to S$25,222,527. 217
+
+##### Foot Note 217
+
+×
+
+3 CB 1063 and 1067; PWS at para 51.
+
+110 During the trial, Mr Lim also raised a belated claim that the receivables
+were to be set off against the services provided by RO Solutions to ROSE. 218
+
+##### Foot Note 218
+
+×
+
+Transcript, 5 April 2021 at p 12 lines 18–19.
+
+This claim is untenable as there is no evidence of any such agreement to set
+off the receivables against RO Solutions’ services or of such set-off having
+been effected.
+
+Reflective loss
+
+111 The defendants also submit that in any event, the “loss” to Mr
+Xanthopoulos from RO Solutions’ non-payment of receivables to ROSE is not
+grounds for a minority oppression action under s 216 of the CA because it is
+merely a reflection of the loss to ROSE. They contend that Mr Xanthopoulos
+should instead have brought a derivative action under s 216A of the CA. 219
+
+##### Foot Note 219
+
+×
+
+VL DWS at para 68.
+
+112 It is well established that s 216 of the CA should not be used to
+vindicate wrongs which are in substance wrongs committed against a company and
+which are thus corporate rather than personal in nature. This prevents the
+improper circumvention of the proper plaintiff rule and the no reflective loss
+principle: Suying Design Pte Ltd v Ng Kian Huan Edmund and other appeals
+[2020] 2 SLR 221 at [30]. However, it is also clear that the same set of facts
+can give rise to both personal wrongs and corporate wrongs: Teelek Realty Pte
+Ltd and others v Ng Tang Hock [2021] SGCA 70 at [62]. As the Court of Appeal
+explained in Sakae Holdings at [116], the appropriate analytical framework to
+ascertain whether a claim is appropriately pursued under s 216 is to consider:
+
+(a) Injury
+
+(i) What is the real injury that the plaintiff seeks to vindicate?
+
+(ii) Is that injury distinct from the injury to the company and does it amount
+to commercial unfairness against the plaintiff?
+
+(b) Remedy
+
+(i) What is the essential remedy that is being sought and is it a remedy that
+meaningfully vindicates the real injury that the plaintiff has suffered?
+
+(ii) Is it a remedy that can only be obtained under s 216?
+
+113 In the present case, I find that the real injury which Mr Xanthopoulos
+seeks to vindicate is a personal wrong arising from the non-payment of the
+dividends to which he is entitled as a 30% shareholder of ROSE, which in turn
+arise from the non-payment of the receivables to ROSE as these form part of
+the dividends to be distributed. The commercial bargain struck between Mr
+Xanthopoulos and RO Solutions when ROSE was formed, as the minority and
+majority shareholders of ROSE respectively, was for him to be entitled to 30%
+of what ROSE received. This profit-sharing arrangement was the basis on which
+he sought to take on a share of the equity in ROSE. Indeed, this was also
+understood by Mr Lim and Mr Srinivasan, who stated that Mr Xanthopoulos’s
+intention behind the formation of ROSE was to earn a share of its profits. 220
+
+##### Foot Note 220
+
+×
+
+Mr Lim’s AEIC at para 58; Mr Srinivasan’s AEIC at para 58.
+
+Further, the receivables owed are payments for services rendered by Mr
+Xanthopoulos, through ROSE, in respect of the MOPU BOSS1 Project. The non-
+payment of receivables to ROSE therefore gave rise to commercial unfairness
+against Mr Xanthopoulos as a member of ROSE, namely, the fact that he has not
+been paid the full value of his shares. This is distinct from any injury
+suffered by ROSE itself.
+
+114 With this in mind, I turn to consider Mr Xanthopoulos’s argument that the
+non-payment of dividends to him crossed the threshold of commercial
+unfairness.
+
+Non-payment of dividends to Mr Xanthopoulos
+
+115 It is not disputed that no dividends were paid out while Mr Xanthopoulos
+was with ROSE. The defendants contend that there were legitimate commercial
+reasons for refusing to realise ROSE’s assets and distribute dividends to Mr
+Xanthopoulos because ROSE had been a loss-making entity for several years and
+there were plans to repurpose ROSE and preserve it as a going concern. 221
+
+##### Foot Note 221
+
+×
+
+RO DWS at para 225; VL DWS at paras 18 and 73.
+
+116 In appropriate circumstances, the non-payment of dividends can amount to
+“oppression” or “disregard” within the meaning of s 216(1)(a) of the CA: Re
+Gee Hoe Chan Trading Co Pte Ltd [1991] 2 SLR(R) 114 (“Gee Hoe Chan Trading”)
+at [35]. The facts of Gee Hoe Chan Trading were rather more extreme, involving
+majority shareholders who had “lined their pockets with the profits of the
+company in the form of either salaries and bonuses … and/or directors’ fees”
+while the minority shareholders were “getting nothing at all either in terms
+of directors’ fees or dividends”. This led Chao Hick Tin J (as he then was) to
+conclude that the majority shareholders had “acted in the affairs of the
+company in their own interest rather than in the interest of the members as a
+whole” (Gee Hoe Chan Trading at [38]).
+
+117 The defendants argue that the facts of Gee Hoe Chan Trading are entirely
+distinct from those of the present case because Mr Xanthopoulos was given his
+30% shareholding in ROSE for a nominal fee and was entitled to a generous
+remuneration package. 222
+
+##### Foot Note 222
+
+×
+
+RO DWS at para 227–228.
+
+However, the relevant issue is that of “upholding the commercial agreement
+between the shareholders of the company”: Ascend Field at [29]. In this case,
+the commercial agreement between RO Solutions and Mr Xanthopoulos was
+essentially a profit-sharing arrangement under which he was entitled to 30% of
+what ROSE received. The fact that Mr Xanthopoulos received substantial
+remuneration over the years as well as 30% of ROSE’s shares 223
+
+##### Foot Note 223
+
+×
+
+VL DWS at para 14.
+
+does not detract from that commercial bargain.
+
+118 The defendants also rely on Cost Engineers (SEA) Pte Ltd and another v
+Chan Siew Lun [2016] 1 SLR 137 at [20] for the proposition that a shareholder
+generally has no direct right to the profits of a company and a company
+generally has no obligation to declare dividends. 224
+
+##### Foot Note 224
+
+×
+
+VL DWS at paras 70 and 72; Transcript, 28 June 2021 at p 51 lines 1–17.
+
+However, as I have found that the basis of the parties’ commercial bargain in
+this case was for Mr Xanthopoulos to receive a 30% share of the profits
+received by ROSE, the basis of this arrangement no longer held after Mr
+Xanthopoulos had left ROSE and the ROS Group. In these circumstances, it was
+valid for him to ask for ROSE to be struck off and for dividends to be
+distributed. Even on the defendants’ explanation that they want to preserve
+ROSE as a going concern, it would be commercially unfair for Mr Xanthopoulos
+not to be paid his due in the form of dividends, in accordance with this
+commercial bargain.
+
+The appropriate remedy
+
+119 Mr Xanthopoulos seeks a declaration that RO Solutions and Mr Lim have
+conducted ROSE’s affairs in a manner that is oppressive to him and an order
+for RO Solutions to buy out his shares in ROSE. He proposes using the share
+value calculated on the net asset value of ROSE as ROSE is presently not
+actively conducting any business or generating any revenue. 225
+
+##### Foot Note 225
+
+×
+
+SOC at p 41 para (7); PWS at paras 52(g) and 186.
+
+Based on ROSE’s audited financial statements dated 10 July 2018 and balance
+sheet dated 30 September 2018, the value of its total current assets (ie, the
+sum of its cash assets and receivables owing from RO Solutions) and its total
+capital (its accumulated profits and share capital less its current year
+earnings) was S$322,239.10. 226
+
+##### Foot Note 226
+
+×
+
+3 CB 833 and 926.
+
+Mr Xanthopoulos’s 30% entitlement would be in the sum of S$96,671.73. 227
+
+##### Foot Note 227
+
+×
+
+PWS at para 186.
+
+120 The defendants propose that the purchase price for Mr Xanthopoulos’s
+shareholding should be assessed by an independent valuer, valued at the date
+of the buyout order and set off against the operational costs borne by RO
+Solutions for ROSE from July 2013 to December 2018, amounting to S$512,000.
+228
+
+##### Foot Note 228
+
+×
+
+RO DWS at para 236; VL DWS at para 81.
+
+Alternatively, RO Solutions and ROSE agree that Mr Xanthopoulos’s 30%
+shareholding in ROSE should be bought out at a fair market value, which should
+be assessed based on ROSE’s most recent audited financial statements. However,
+they argue that a discount should be applied to reflect Mr Xanthopoulos’s
+minority stake because Mr Xanthopoulos intended to give up his 30%
+shareholding from the moment he voluntarily left ROSE and RO Solutions and
+this was not caused by the conduct of RO Solutions. 229
+
+##### Foot Note 229
+
+×
+
+RO DWS at paras 233–236.
+
+121 The discretion of the court to make an order under s 216 of the CA is very
+wide, with the caveat that it must be made “with a view to bringing an end or
+remedying the matters complained of”: Kumagai Gumi Co Ltd v Zenecon Pte Ltd
+and others and other appeals [1995] 2 SLR(R) 304 at [71]. In my judgment, RO
+Solutions should buy out Mr Xanthopoulos’s shareholding in ROSE for the sum of
+S$96,671.73, as claimed by Mr Xanthopoulos, without any discount on the basis
+of his minority stake. In so ordering, I return to the commercial agreement
+made between the four men in early 2012. ROSE was formed as an engineering
+company, to bring in new work to RO Solutions on the strength of Mr
+Xanthopoulos’s reputation and to grow the business of the ROS Group. While
+ROSE has not been as successful as they hoped, the profits generated ought
+still to be divided in line with the commercial bargain that they made. Mr Lim
+and Mr Srinivasan are chagrined that a substantial component includes amounts
+payable by RO Solutions. These amounts were, however, agreed upon by RO
+Solutions’ managing director. ROSE billed as agreed with no evidence of
+queries were posed by the other RO Solutions directors in the years following
+despite their visibility in the financial statements. With Mr Xanthopoulos’s
+departure, the purpose for which ROSE was formed has come to an end. Mr
+Xanthopoulos and Mr Chia’s agreement in September 2018 to wind up ROSE and
+distribute dividends 230
+
+##### Foot Note 230
+
+×
+
+Mr Xanthopoulos’s AEIC at para 114.
+
+was a fair commercial resolution, and the refusal of the other RO Solutions
+directors to agree resulted in commercial unfairness. ROSE has not been
+utilised for any projects since that time.
+
+122 In this specific context, the defendants’ argument for a minority discount
+is not apt. While Mr Xanthopoulos’s departure was voluntary and did not arise
+out of oppression by RO Solutions as the majority shareholder, the latter’s
+refusal to pay Mr Xanthopoulos his share of their joint gains together is
+oppressive. If Mr Lim and Mr Srinivasan now wish to repurpose the company for
+other uses, they ought to do so on a clean slate.
+
+123 As for the set-off now mooted by the defendants, any set-off ought to have
+been agreed and applied in the course of the parties’ dealings, not at the
+present point in time. That no set-off was discussed is not surprising. ROSE
+gave up its lease for its separate office in mid-2013, around the same time
+that RO Solutions started paying Mr Xanthopoulos S$15,000 a month for his
+services. 231
+
+##### Foot Note 231
+
+×
+
+Mr Srinivasan’s AEIC at paras 93 and 96.
+
+As a logical matter, the parties would have taken all relevant matters into
+account when negotiating Mr Xanthopoulos’s S$15,000 monthly fee. To impose a
+set-off now would not be fair.
+
+124 Coming to the sum for the buyout, it is not necessary for an independent
+valuer to be appointed because ready figures are available. A declaration is
+also not necessary in view of the quantifiable sum. Mr Xanthopoulos’s 30%
+shareholding may be quantified with reference to ROSE’s cash assets and
+receivables owing from RO Solutions, being S$322,239.10. In this context, I
+note that the dividend voucher sent by Ms Loh to Mr Xanthopoulos on 27
+September 2018 stated that he would be entitled to S$81,970.83. 232
+
+##### Foot Note 232
+
+×
+
+3 CB 917 and 924–925.
+
+This was 30% of S$273,236.10, which in turn was the amount of remaining funds
+in the ROSE account or ROSE’s accumulated profits less its current year
+earnings. I do not use this figure as it fails to take into account ROSE’s
+share capital, which amounted to S$49,003. Mr Xanthopoulos’s right to this
+amount is premised on cl 5.2 of the ROSE Agreement, which entitles him to “30%
+equity” in ROSE. His 30% shareholding in ROSE should therefore be valued at
+S$96,671.73 for the purposes of the share buyout by RO Solutions.
+
+Conclusion
+
+125 I therefore order RO Solutions to purchase Mr Xanthopoulos’s 30%
+shareholding in ROSE for the sum of S$96,671.73. I shall hear counsel on
+costs.
+
+Valerie Thean  
+Judge of the High Court|  
+---|---  
+  
+Ronald Wong Jian Jie and Lopez Stacey Millicent Xue Mei (Covenant Chambers
+LLC) for the plaintiff;  
+Ramachandran Doraisamy Raghunath and Kyle Gabriel Peters (PDLegal LLC) for the
+first and second defendants;  
+Aqbal Singh s/o Kuldip Singh, Wong Yiping and Cheng Cui Wen (Pinnacle Law LLC)
+for the third defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 31 Aug 2021 (11:27 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

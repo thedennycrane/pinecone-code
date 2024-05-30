@@ -1,0 +1,819 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF THE high court of the republic of singapore
+
+[2023] SGHCR 5
+
+Suit No 703 of 2020
+
+(Summons No 671 of 2023)
+
+Between
+
+Tarun Hotchand Chainani
+
+… Plaintiff
+
+And
+
+(1)| Avinderpal Singh s/o Ranjit Singh  
+---|---  
+(2)| Avitar Enterprises Pte Ltd  
+(3)| Avitar Holdings Pte Ltd  
+  
+… Defendants
+
+grounds of decision
+
+[Civil Procedure — Pleadings — Striking out]
+
+[Civil Procedure — Pleadings — Amendment]
+
+[Civil Procedure — Pleadings — Admissions]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Tarun Hotchand Chainani
+
+  
+
+v
+
+  
+
+Avinderpal Singh s/o Ranjit Singh and others
+
+[2023] SGHCR 5
+
+General Division of the High Court — Suit No 703 of 2020 (Summons No 671 of
+2023)
+
+AR Wong Hee Jinn
+
+17 April 2023
+
+30 May 2023
+
+AR Wong Hee Jinn:
+
+Introduction
+
+1 Our civil procedure rules confer upon litigants the right to make
+consequential amendments to their respective pleadings, after an opposing
+party files an amended pleading. This is an expression of procedural justice
+because consequential amendments may be necessitated to address amendments
+that may often raise a new question and/or issue that has to be determined by
+the court. What is the position, however, when the proposed amendment to a
+party’s pleading is not in fact a consequential amendment? And further, does
+the fact that the proposed amendment seeks to resile from an admission made in
+that very pleading provide a basis for striking out the impugned amendment?
+That was the crux of the legal issues in this matter.
+
+2 By the present application, the plaintiff sought to strike out a sentence
+(the “Impugned Sentence”) in the first defendant’s Defence (Amendment No 2)
+dated 20 February 2023 (“DA 2”) filed in HC/S 703/2020 (the “Suit”). The
+Impugned Sentence was inserted, under the auspices of a consequential
+amendment, following the filing of the plaintiff’s Statement of Claim
+(Amendment No 3) dated 6 February 2023 (“SOCA 3”).
+
+3 Having considered the parties’ submissions, I allowed the plaintiff’s
+application with brief oral remarks. In my view, the first defendant’s
+amendment was not a consequential amendment and impermissibly sought to re-
+open an issue that had previously been admitted to. I now furnish my full
+grounds of decision.
+
+The factual background
+
+The parties
+
+4 The plaintiff, Mr Tarun Hotchand Chainani, and the first defendant, Mr
+Avinderpal Singh s/o Ranjit Singh, are former business partners. They are
+equal shareholders and directors in the third defendant company, Avtiar
+Holdings Pte Ltd. They are also directors in the second defendant, Avitar
+Enterprises Pte Ltd. The second defendant is a wholly-owned subsidiary of the
+third defendant and is engaged in, among other things, the business of trading
+electronic products and mobile phones.
+
+The Suit
+
+5 In the Suit, the plaintiff brings several claims against the defendants, but
+it would suffice for present purposes to focus on just one aspect. A key plank
+of the plaintiff’s case hinges on a purported understanding (the
+“Understanding”) reached between himself and the first defendant in or around
+2005, regarding the use of the second defendant as an investment vehicle. The
+Understanding is defined in paragraph 8 of the plaintiff’s Statement of Claim
+dated 3 August 2020 (“SOC”) as follows: 1
+
+##### Foot Note 1
+
+×
+
+Statement of Claim dated 3 August 2020, paragraph 8
+
+In or around 2005, the Plaintiff and the 1st Defendant arrived at an
+understanding to use the 2nd Defendant’s funds to invest in stock and/or real
+estate on behalf of the 2nd Defendant, pursuant to which, they were to account
+to each other and the 2nd Defendant for the principal sums so invested as well
+as the profits made from such investments, with such profits to be distributed
+equally between the Plaintiff and the 1st Defendant as equal shareholders of
+the 3rd Defendant (the “Understanding”). [original emphasis removed]
+
+Paragraph 9 of the SOC goes on to particularise several properties that the
+plaintiff avers were purchased and sold, with the plaintiff and the first
+defendant accounting to the second defendant as well as to each other for the
+principal sums invested and the profits made from these investments. All this,
+the plaintiff claims, supports the existence of the Understanding. 2
+
+##### Foot Note 2
+
+×
+
+Statement of Claim dated 3 August 2020, paragraph 9
+
+6 The plaintiff alleges that the first defendant had contravened this
+Understanding by purchasing a series of local and overseas properties (as
+particularised in paragraphs 10 and 13 of the SOC respectively) and shares in
+two companies either in part and and/or entirely with the second defendant’s
+funds. 3
+
+##### Foot Note 3
+
+×
+
+Statement of Claim dated 3 August 2020, paragraph 11
+
+Some of these properties were subsequently sold, but the first defendant
+failed to account to the second defendant and to the plaintiff for the sums
+used to purchase the said properties as well as the profits derived from these
+sales that were supposed to be shared equally between the plaintiff and the
+first defendant, in accordance with the Understanding. 4
+
+##### Foot Note 4
+
+×
+
+Statement of Claim dated 3 August 2020, paragraphs 12 and 14
+
+Disputes subsequently arose between the parties and the plaintiff claims that
+there was a breakdown of trust and confidence between him and the first
+defendant. The result, the plaintiff says, is that he has been subjected to
+oppressive conduct within the meaning of s 216 of the Companies Act (Cap 50,
+2006 Rev Ed) (the “Act”). He therefore seeks, among other things, for the
+first defendant to render a complete account of all investments and profits
+that he has made or alternatively for damages to be assessed arising from the
+breach. The plaintiff also seeks an order that the second and third defendants
+be wound up pursuant to s 216(2) of the Act, upon payment of the sums found to
+be due and owing to the second defendant and himself.
+
+7 The second and third defendants are notional defendants to the Suit, joined
+solely for the purpose of ensuring that they are bound by any findings and/or
+orders. As such, only the first defendant filed a Defence in the Suit.
+
+Procedural history
+
+8 I now highlight in some detail the procedural history leading up to the
+filing of the present application. Of particular salience are two events: (a)
+first, a specific discovery application filed by the plaintiff vide HC/SUM
+3313/2021 (the “Discovery Application”) and (b) second, a settlement agreement
+entered into between the plaintiff and the first defendant (the “Settlement
+Agreement”). I shall elaborate on the significance of these events in my
+analysis below.
+
+9 On 3 August 2020, the plaintiff commenced the Suit against the defendants
+and filed his SOC.
+
+10 On 6 September 2020, the first defendant filed his Defence. Paragraph 10 of
+the Defence expressly denied paragraph 8 of the SOC (see [5] above). Therein,
+the first defendant denied that there was the mutual Understanding to use the
+second defendant’s funds “to invest in stock and/or real estate” on behalf of
+the second defendant. Moreover, the first defendant denied any duty to account
+to the plaintiff or to the second defendant. 5
+
+##### Foot Note 5
+
+×
+
+Defence dated 6 September 2020, paragraph 10
+
+11 On 12 May 2021, by the parties’ mutual consent, the plaintiff filed his
+Statement of Claim (Amendment No 1). Minor amendments were made to paragraph
+24(m) of the SOC, but paragraph 8 of the SOC remained unamended.
+
+12 On 14 July 2021, the plaintiff filed the Discovery Application. This was a
+day before the plaintiff filed his Statement of Claim (Amendment No 2) (“SOCA
+2”). The plaintiff sought in the Discovery Application documents related to,
+among other things (a) properties referred to in paragraph 9 of the SOC (see
+[5] above) and (b) the local properties referred to in paragraph 10 of the SOC
+(see [6] above). These documents were sought on the basis that they were
+relevant and necessary to show the existence of the Understanding, which the
+first defendant had denied in unequivocal terms in his Defence (see [10]
+above) and to demonstrate a breach of the Understanding.
+
+13 On 15 July 2021, by the parties’ mutual consent, the plaintiff filed his
+SOCA 2. The amendments related to the inclusion of new paragraphs 22A, 31A and
+31(f), averring in essence that the first defendant had breached his fiduciary
+duty owed to the second defendant qua director for procuring a dividend of
+$1.5m to be declared on 19 November 2022. Again, and critically, paragraph 8
+of the SOC remained unamended. 6
+
+##### Foot Note 6
+
+×
+
+Tarun Hotchand Chainani’s Affidavit dated 13 March 2023, paragraph 24
+
+14 On 26 July 2011, the plaintiff and the first defendant entered into a
+Settlement Agreement. This was some two weeks after the Discovery Application
+was filed. By the terms of the Settlement Agreement, the plaintiff and the
+first defendant agreed to jointly appoint an auditor to ascertain profits
+and/or losses from the sale of the properties referred to in the Schedule to
+the Settlement Agreement. The Schedule to the Settlement Agreement included
+the local properties specified at paragraph 10 of the SOC that the plaintiff
+alleges the first defendant failed to properly account for (see [6] above).
+Clause 17(e) of the Settlement Agreement entitled the terms contained therein
+to be disclosed to any court of competent jurisdiction acting in pursuance of
+its powers. 7
+
+##### Foot Note 7
+
+×
+
+Tarun Hotchand Chainani’s Affidavit dated 13 March 2023, page 15
+
+15 The Settlement Agreement precipitated several developments.
+
+16 At the first hearing of the Discovery Application on 12 April 2022, counsel
+for the first defendant indicated to the learned Assistant Registrar (“AR”)
+that the first defendant accepted the existence of the Understanding. The
+Notes of Evidence from the hearing recorded the first defendant’s counsel
+stating as follows: 8
+
+##### Foot Note 8
+
+×
+
+Tarun Hotchand Chainani’s Affidavit dated 13 March 2023, pages 21 to 22
+
+DC: The parties entered into the [Settlement Agreement]. We take the view that
+the 1st Defendant is bound to account for the properties listed in the
+[Settlement Agreement] described as the “Transactions”. The [Discovery
+Application] was filed before the mediation and the eventual [Settlement
+Agreement].
+
+We confirm that the 1st Defendant accepts the understanding as pleaded in para
+8 of the SOC. That is the effect of the [Settlement Agreement].
+
+[emphasis added in bold]
+
+17 The AR directed the first defendant’s counsel to write to the plaintiff’s
+counsel to provide confirmation of the same. The first defendant’s counsel
+informed the plaintiff’s counsel by way of a letter dated 18 April 2022 that
+the plaintiff “does not (to that extent only) dispute the Statement of Claim
+Amendment No. 1, insofar as the Understanding (as defined paragraph 8.)
+Accordingly, the items referred to in the Schedule of the Settlement Agreement
+are the matters remaining for accounting purposes and/or determination”. 9
+
+##### Foot Note 9
+
+×
+
+Tarun Hotchand Chainani’s Affidavit dated 13 March 2023, pages 26 to 27
+
+18 At the second hearing of the Discovery Application on 21 April 2022, the AR
+recorded that the first defendant had since confirmed that he “does not
+dispute the ‘Understanding’ as pleaded in paragraph 8 of the [SOCA 1]”. 10
+
+##### Foot Note 10
+
+×
+
+Tarun Hotchand Chainani’s Affidavit dated 13 March 2023, page 29
+
+The plaintiff then withdrew his request in the Discovery Application vis-à-vis
+the properties referred to in paragraph 9 of the SOC.
+
+19 On 27 July 2022, the first defendant filed his Defence (Amendment No 1)
+(“DA 1”). Consistent with the confirmations given at the Discovery
+Application, when the first defendant filed his DA 1, amendments were made to
+make reference to the terms of the Settlement Agreement. In particular,
+paragraphs 10(e) and 11 of DA 1 admitted to paragraphs 8 and 10 of the SOC
+insofar the properties listed in the Schedule of Settlement Agreement were
+concerned: 11
+
+##### Foot Note 11
+
+×
+
+Defence (Amendment No 1) dated 27 July 2022, paragraphs 10(e) and 11
+
+10(e). In relation to paragraph 10 of the SOC, the same is denied save that
+the 1st Defendant was to account for the properties pursuant to the
+[Settlement Agreement] set out in paragraphs 10(a) to 10(i) as these are
+reflected in the schedule of the Settlement Agreement in S/No 1-9. …
+
+11\. Paragraph 8 of the SOC is admitted to the extent that there was an
+understanding between the parties but limited to the Transactions listed our
+[sic] in the Schedule of the [Settlement Agreement].
+
+[emphasis added in bold]
+
+By the time the first defendant filed his DA 2 on 20 February 2023, paragraph
+11 of DA 1 remained unchanged, save for a typographical change of the word
+“our” to “out”. 12
+
+##### Foot Note 12
+
+×
+
+Defence (Amendment No 2) dated 20 February 2023, paragraph 11
+
+20 On 10 October 2022, pursuant to leave granted by the court in HC/SUM
+3250/2022 (“SUM 3250”), the plaintiff filed his Reply (Amendment No 1).
+
+21 On 6 February 2023, by the parties’ mutual consent, the plaintiff filed his
+SOCA 3. Both clarificatory and substantive amendments were made, which
+included the addition of an overseas property at paragraph 13 (see [6] above)
+but the definition of the word “Understanding” in paragraph 8 of the SOC once
+again remained unamended.
+
+22 On 20 February 2023, the first defendant filed his DA 2. This came after
+counsel for the first defendant indicated at a Pre-Trial Conference on 15
+February 2023 that the amendments made would be limited to consequential
+amendments. 13
+
+##### Foot Note 13
+
+×
+
+Tarun Hotchand Chainani’s Affidavit dated 13 March 2023, paragraph 33
+
+The following sentences were added in paragraph 10 of DA 2:
+
+Insofar as the matters pleaded in paragraph 9 of the SOC, more particularly
+the properties set out in paragraphs 9a to 9j, as the Plaintiff’s case is that
+the 1st Defendant has accounted for the sums used from the 2nd Defendant, and
+that the profits were shared with the Plaintiff, there is no further dispute
+thereto. Where such Understanding arose as defined in paragraph 8 of the SOC,
+the Plaintiff and the 1st Defendant would have discussed these transactions
+and dealt with their respective interest accordingly. Insofar as paragraph 10
+of the SOC is concerned, the transactions listed therein did not form part of
+the Understanding as defined in paragraph 8 of the SOC. [emphasis added in
+bold]
+
+23 On 13 March 2023, the plaintiff filed the present application vide HC/SUM
+671/2023 to strike out the third sentence of paragraph 10 of DA 2, as
+highlighted in bold in the extract above. This is the Impugned Sentence. The
+application was made pursuant to O 18 rr 19(1)(b) and 19(1)(d) of the revoked
+Rules of Court (Cap 322, R 5, 2014 Rev Ed) (the “Rules”) and/or the inherent
+jurisdiction of the court.
+
+The applicable legal principles
+
+24 The legal principles governing striking out and amendment of pleadings are
+well-established.
+
+25 The power to strike out ought only to be invoked in a plain and obvious
+case (Gabriel Peter Partners (suing as a firm) v Wee Chong Jin and others
+[1997] 3 SLR(R) 649 (“Gabriel Peter”) at [18]). The specific grounds under O
+18 rr 19(1)(b) and 19(1)(d) of the Rules are as follows:
+
+(a) The ground under O 18 r 19(1)(b) of the Rules refers to cases that are
+obviously frivolous or vexatious or obviously unsustainable. As summarised in
+Chee Siok Chin and other v Minister for Home Affairs and another [2006] 1
+SLR(R) 582 (“Chee Siok Chin”), proceedings are “frivolous when they are deemed
+to waste the court’s time and are determined to be incapable of legally
+sustainable and reasoned argument” while proceedings are “vexatious when they
+are shown to be without foundation and/or where they cannot possibly succeed
+and/or where an action is brought only for annoyance or to gain some fanciful
+advantage” (at [33]). In considering this ground, the court may have regard to
+the history of the matter and relevant correspondence exchanged between the
+parties, in addition to the pleadings (Active Timber Agencies Pte Ltd v Allen
+& Gledhill [1995] 3 SLR(R) 334 at [21]–[22]).
+
+(b) The ground under O 18 r 19(1)(d) refers to instances where the court’s
+machinery is used improperly or not bona fides (Gabriel Peter at [22]).
+
+There is a significant degree of overlap between these two grounds, which
+largely mirror and share a consistent juridical basis with the court’s
+residual and inherent jurisdiction, as contained within O 92 r 4 of the Rules
+(Chee Siok Chin at [29] and [35]).
+
+26 As for amendment of pleadings, under O 20 r 5(1) of the Rules, the court
+has a broad discretion to allow such amendment at any stage of proceedings on
+such terms as may be just. This discretion is, however, not unfettered, and
+must be exercised judicially. The court must be satisfied, first, that the
+amendment will enable the real questions and/or issues in controversy between
+the parties to be determined, and second, that procedural fairness to the
+opposing party be maintained (Sheagar s/o T M Veloo v Belfield International
+(Hong Kong) Ltd [2014] 3 SLR 524 at [116] and [117]). The court is to have
+regard to the “justice of the case” and in doing so, ought to bear in mind two
+key factors, namely, whether any prejudice would be caused to the other party
+which cannot be compensated for in costs and whether the applicant is
+effectively asking for a second bite at the cherry (Review Publishing Co Ltd
+and another v Lee Hsien Loong and another appeal [2010] 1 SLR 52 at [113]).
+
+27 What then of an amendment that seeks specifically to retract an admission?
+The general rule is that an admission, made inadvertently and in a case of a
+bona fide mistake, may be withdrawn, and the pleading amended accordingly
+(Singapore Civil Procedure 2020 vol 1 (Cavinder Bull gen ed) (Sweet & Maxwell,
+2021) at paras 18/13/2 and 20/8/20, citing the English Court of Appeal’s
+decision in Hollis v Burton [1892] 3 Ch 226 at 236 (“Hollis”)). This coheres
+with both precedent, as well as principle.
+
+28 In Hollis, the beneficiary under a settlement sued the defendant solicitor,
+to recover a sum of trust money alleged to have been received by the firm and
+not duly invested. The defendant had in his defence and in his answer to
+interrogatories, admitted that his partner had paid the money into the bank
+account of the firm but without his knowledge. The defendant then sought to
+retract this admission, on the basis that it had been made by mistake, and
+adduced evidence that showed that the moneys had not been paid into the bank
+account of the firm. The court allowed the defendant to withdraw his admission
+and to amend his defence on the condition that the defendant pay into court a
+sum representing the quantum of the plaintiff’s claim, given that on the
+materials, there remained a strong case for contending that the firm had
+received the moneys. The principle that may be surmised from Hollis is that a
+party is generally entitled to correct a bona fide error in his pleading,
+especially where an incorrect admission of fact is made by mistake. That being
+said, evidence ordinarily has to be adduced to demonstrate that there was in
+fact such a mistake.
+
+29 A more recent illustration of this principle may be found in the Supreme
+Court of New South Wales case of Bank of Western Australia Ltd v Coppola
+[2011] NSWSC 1326 (“Coppola”). In Coppola, the defendant had filed a notice
+admitting that he had signed a document but claimed that he was misled as to
+its nature and effect. The court refused the defendant’s application to amend
+his defence and to withdraw his previous admission in the notice as well as in
+other proceedings, even though there had been no evidence put forward by the
+plaintiff of having changed its position and it was undisputed that the
+solicitors’ admissions were made without instructions. Walmsley AJ summarised
+the relevant legal principles in determining whether a party may withdraw its
+admissions (Coppola at [22]):
+
+There must be proper grounds for the exercise of the discretion. The
+circumstances in which an admission was made must be examined. There is
+usually a need for the applicant to explain the circumstances in which the
+admission was made and satisfy the Court a grant of leave will not prejudice
+an opponent's right to a fair trial: Maile v Rafiq [2005] NSWCA 410 at [42]
+(per Tobias JA with whose reasons Brownie AJA agreed). It has also been said
+that where leave to withdraw an admission is sought, a court will require an
+explanation for the making of the admission. The explanation must be a
+sensible one, based on evidence of a solid and substantial character: Langdale
+v Danby [1982] 3 All ER 129; Hollis v Burton[1892] 3 Ch 226 and Crumper v
+Pothecary[1941] 2 KB 58 at 70; Celestino v Celestino [1990] FCA 299 at [12];
+Jeans v Commonwealth Bank of Australia Ltd [2003] FCAFC 309; (2003) 204 ALR
+327 at [17]-[19]. In For The Good Times Pty Ltd v Coltern Pty Ltd [2007] NSWSC
+108 at [4] Young J (as he then was) said:
+
+“[3] … Essentially, the court is after the truth. The pleadings are the
+principal method of defining the issues to enable the court more easily to get
+to the truth. Thus, in principle, an erroneous admission should be able to be
+withdrawn unless other factors outweigh. The principal factor that might
+outweigh is that there is such great prejudice to the other party, because of
+the way in which that party has prepared his or her case on the basis of the
+admission, that the leave should not be given.
+
+[4] What I have just said is a gross over simplification and the cases show
+there has to be a distinction between an admission deliberately made, an
+admission which is key to the way in which the parties have prepared their
+case, and more peripheral facts. There must be some evidence as to how the
+admission was made and there must be some material to show that it was
+erroneous.”
+
+[emphasis added in bold]
+
+30 I note that Coppola was decided in the context of the Uniform Civil
+Procedure Rules (Reg No 418 of 2005) (NSW), of which Rule 17.3(3) permits an
+admitting party to withdraw an admission with the leave of court. I
+nevertheless consider that the case provides useful guidance in determining
+when a court should exercise its discretion to permit an amendment that seeks
+to resile from an admission. In short, it is incumbent on the party seeking to
+withdraw an admission to provide a logical explanation, supported by
+substantial evidence, to demonstrate that the admission made was erroneous.
+
+31 This is eminently sensible as a matter of principle. The key purpose of
+pleadings is to set the parameters of the issues that lie for the court’s
+determination. Admissions fortify this delineation and narrow the issues in
+dispute because an admission deprives a party from challenging the admitted
+fact at trial (Borneo Housing Mortgage Finance Bhd v Personal Representatives
+of the Estate of Lee Lun Wah Maureen & Anor [1994] 1 MLJ 209). This goes
+towards the preservation of judicial resources as no further evidence has to
+be adduced in reference to those facts that have been admitted (Pioneer
+Plastic Containers Ltd v Commissioner of Customs and Excise [1967] Ch 597). It
+follows that when an attempt is made to resile from an admission, thereby re-
+opening an issue that was once no longer in dispute, the burden necessarily
+lies on the admitting party to provide cogent reasons as to why he or she
+ought to be permitted to do so it, so as to no longer be bound by the
+admission.
+
+32 Bearing these principles in mind, I turn to the parties’ arguments.
+
+The parties’ arguments
+
+33 The plaintiff contends that the Impugned Sentence is a non-consequential
+amendment. 14
+
+##### Foot Note 14
+
+×
+
+Tarun Hotchand Chainani’s Affidavit dated 13 March 2023, paragraph 43
+
+In light of the admissions previously made by the plaintiff, the practical
+effect of the amendment to include the Impugned Sentence is to impermissibly
+reintroduce the issue of whether the Understanding applies to the local
+properties as listed in paragraph 10 of the SOC. 15
+
+##### Foot Note 15
+
+×
+
+Tarun Hotchand Chainani’s Affidavit dated 13 March 2023, paragraph 45
+
+It follows that the Impugned Sentence cannot be considered an amendment that
+would raise any real questions and/or issues in controversy. This is vexatious
+and/or an abuse of the process of court. It should therefore be struck out.
+
+34 The first defendant’s riposte to this is that the Impugned Sentence does
+not seek to resile from any admission previously made. At no point has the
+first defendant admitted that the Understanding applied to the properties as
+listed in the Schedule of the Settlement Agreement, and as such, any
+allegation by the plaintiff that the inclusion of the Impugned Sentence is a
+volte-face from his position in DA 1 is baseless and ought to be rejected. 16
+
+##### Foot Note 16
+
+×
+
+Avinderpal Singh s/o Ranjit Singh’s Affidavit dated 23 March 2023, paragraph
+16
+
+My decision
+
+Is the Impugned Sentence a consequential amendment?
+
+35 Before me, counsel for the first defendant did not appear to challenge,
+with any great vigour, that the Impugned Sentence contained in DA 2 was not in
+fact a consequential amendment. And in my view, reasonably so. Let me explain.
+
+36 The amendments in DA 2 were made in response to the plaintiff’s filing of
+his SOCA 3 on 6 February 2023 (see [21] above). The key amendment made by the
+plaintiff in his SOCA 3 was the inclusion of an additional overseas property
+at paragraph 13(j), namely, one “BD Blvd Point 39-3901” located in Dubai. 17
+
+##### Foot Note 17
+
+×
+
+Statement of Claim (Amendment No 3) dated 6 February 2023, paragraph 13
+
+No amendments were made to paragraphs 8, 9 or 10 of the plaintiff’s SOCA 2 and
+the definition of the “Understanding” remained the same. Hence, the Impugned
+Sentence (see [22] above), which expressly concerns the averments made in
+paragraphs 8 and 10 of the SOCA 2, simply cannot be said to have been a
+consequential amendment. Moreover, it is equally clear that the Impugned
+Sentence makes no reference to paragraph 13 of SOCA 2 at all. It is therefore
+entirely misconceived for the first defendant to suggest that because an
+amendment was made to paragraph 13 of SOCA 2, it was therefore necessary for
+him to clarify in his pleadings his position on the Understanding as defined
+in paragraph 8 of the SOCA 2. 18
+
+##### Foot Note 18
+
+×
+
+Avinderpal Singh s/o Ranjit Singh’s Affidavit dated 23 March 2023, paragraph
+16
+
+Indeed, what puts paid to this argument is the fact that the first defendant
+also included a new line in paragraph 13 of his DA 2 stating that “at no point
+in time did parties agree to the inclusion of the item at paragraph 13(j) and
+this did not form part of the [Settlement Agreement]”. 19
+
+##### Foot Note 19
+
+×
+
+Defence (Amendment No 2) dated 20 February 2023, paragraph 13
+
+37 My finding on this point, however, did not in and of itself lead to the
+inexorable conclusion that the Impugned Sentence ought to be struck out. This
+is because a non-consequential amendment may nevertheless raise a new question
+and/or issue in controversy that lies to be determined by the court. Hence, I
+proceeded to consider whether the amendment constituted an attempt to resile
+from an admission previously made by the first defendant. If so, this could
+not raise any new question and/or issue justifying the amendment, and it
+followed that the Impugned Sentence was liable to be struck out.
+
+Does the Impugned Sentence constitute an attempt to resile from an admission?
+
+38 It was apposite to first consider what admission, if any, had been made by
+the first defendant.
+
+39 That the existence of the Understanding had been admitted to by the first
+defendant was unassailable. And the first defendant accepted this as a
+necessary implication of the Settlement Agreement. 20
+
+##### Foot Note 20
+
+×
+
+Avinderpal Singh s/o Ranjit Singh’s Affidavit dated 23 March 2023, paragraph 7
+
+This was initially confirmed by counsel for the first defendant at the
+hearings of the Discovery Application before the AR and in a letter to the
+counsel for the plaintiff (see [16] to [18] above) and subsequently made clear
+by the amendments made by the first defendant in his DA 1 (see [19] above).
+Indeed, that the existence of the Understanding was no longer an issue in
+dispute was the very impetus for the plaintiff to withdraw his request in the
+Discovery Application for documents relating to the local properties listed in
+paragraph 9 of his SOC.
+
+40 Next, I also accepted the plaintiff’s submission that the first defendant
+had admitted that the Understanding applies to the local properties as set out
+in paragraph 10 of the SOC. In this respect, paragraph 11 of the first
+defendant’s DA 1 is crucial: it expressly provides that “[p]aragraph 8 of the
+SOC is admitted to the extent that there was an understanding between the
+parties but limited to the Transactions listed our [sic] in the Schedule of
+the [Settlement Agreement]” (see [19] above). Save for a typographical edit,
+this remained unchanged in the first defendant’s DA 2. As the first defendant
+himself acknowledged, the list of local properties contained in paragraph 10
+of the SOC were the subject of transactions listed in the Schedule of the
+Settlement Agreement. 21
+
+##### Foot Note 21
+
+×
+
+Avinderpal Singh s/o Ranjit Singh’s Affidavit dated 23 March 2023, paragraph 6
+
+This must mean that the first defendant had admitted to the Understanding
+insofar as it pertained to the local properties listed in the Schedule of the
+Settlement Agreement, which are reproduced in paragraph 10 of the SOC.
+
+41 As against this, the first defendant argued that in relation to paragraphs
+10 and 13 of the SOC, it was made clear in his DA 1 that he only accepted that
+there was an obligation for him to account for the properties listed in the
+Schedule to the Settlement Agreement. 22
+
+##### Foot Note 22
+
+×
+
+Avinderpal Singh s/o Ranjit Singh’s affidavit dated 23 March 2023, paragraph 9
+
+Before me, counsel for the first defendant elaborated on this argument,
+contending that there was a distinction between the “Understanding” (in upper
+case) as defined in paragraph 8 of the SOC and the “understanding” (in lower
+case) as stated in paragraph 11 of DA 2 (see [19] above). In other words, in
+paragraph 11 of his DA 2, the “understanding” referred to was a limited
+obligation to account as compared to the “Understanding” as defined in
+paragraph 8 of the SOC.
+
+42 With respect, I was not persuaded by this argument for three reasons:
+
+(a) First, the alleged distinction is simply not borne out by the express
+language of paragraph 11 of DA 2, which refers not only to “an understanding
+between the parties” but also to paragraph 8 of the SOC. In my view, this is
+plain as a pikestaff: the “understanding” must necessarily refer to the
+Understanding as defined in paragraph 8 of the SOC. I agree with the
+plaintiff’s submission that this is the only intelligible interpretation of
+paragraph 11 of DA 2. 23
+
+##### Foot Note 23
+
+×
+
+Plaintiff’s Skeletal Submissions dated 11 April 2023, paragraph 20
+
+Not once was this supposed semantical distinction ever communicated to either
+the plaintiff or the court, until the present application was filed. This
+suggested that this explanation was a bare assertion and a mere afterthought.
+
+(b) Second, the first defendant’s proffered interpretation of the word
+“understanding” in paragraph 11 of DA 2 as being a more limited duty to
+account disregards the fact that the very pith and marrow of the
+“Understanding”, as defined in paragraph 8 of the SOC, implicates a duty for
+the plaintiff and the first defendant to account to one another in respect of
+the second defendant’s funds. In the circumstances, I was unable to see how
+this allegedly narrower duty to account is somehow different from the
+Understanding at all.
+
+(c) Third, and consistent with my finding that the alleged distinction was an
+afterthought, the clarification provided by counsel for the first defendant
+was not clearly fleshed out in the first defendant’s affidavit in reply filed
+on 23 March 2023.
+
+43 Finally, the first defendant contended that parties have a different
+understanding of the effect of the Settlement Agreement and that this issue
+should be left for trial. Whether, as a consequence of the Settlement
+Agreement, the first defendant had indeed admitted to the Understanding as
+applying to the local properties as set out in paragraph 10 of the SOC, should
+not be determined in this application. In support of this, the first defendant
+referred to a statement made by counsel for the plaintiff at the hearing of
+SUM 3250, which was the plaintiff’s application to amend his Reply (see [20]
+above): 24
+
+##### Foot Note 24
+
+×
+
+Avinderpal Singh s/o Ranjit Singh’s affidavit dated 23 March 2023, paragraph
+14; Tarun Hotchand Chainani’s Affidavit dated 13 March 2023, page 42
+
+PC: … Parties have differing understanding of the Settlement Agreement and
+what it relates to. Our proposed amendments are not immaterial or useless,
+they go towards the issued to be tried between parties. The Plaintiff’s
+position is that Clause 9 of the Settlement Agreement does not preclude the
+Plaintiff from continuing its claims, including the s. 216 claim. 1DC has
+different understanding of Clause 9. Issue for trial judge to determine.
+
+44 This was a captious objection, which I rejected. Viewing the statement in
+its context, it was clear that the dispute related to the interpretation of
+Clause 9 of the Settlement Agreement and in particular, whether this precluded
+the plaintiff from pursuing its claims under s 216 of the Act (see [6] above).
+This had no nexus to the admission with respect to the Understanding, and
+specifically, whether the Understanding applies to the overseas properties
+listed in paragraph 10 of the SOC. In any event, my finding that the first
+defendant had made such admissions was not contingent on any disputed
+interpretation of the Settlement Agreement: it was not in dispute that the
+properties set out in the Schedule of the Settlement Agreement mirror the
+overseas properties listed in paragraph 10 of the SOC.
+
+45 Therefore, I agreed with the plaintiff that the existence of the
+Understanding and the fact that the Understanding applies to the local
+properties as set out in paragraph 10 of the SOC was no longer a live issue in
+the Suit. Allowing the Impugned Sentence to stand would in effect allow this
+issue to be re-opened and re-litigated, which would not preserve judicial
+resources given the admissions made by the first defendant.
+
+46 Further, I found that these admissions were neither the result of
+inadvertence nor mistake. This was not suggested by the first defendant to be
+the case. In my view, the admissions made by the first defendant were clear,
+considered and concerted. Unlike Hollis, the first defendant provided no
+cogent explanation as to why he should be allowed to resile from the
+admissions previously made, that have been repeated before the court at
+hearings, in its correspondence with the plaintiff, as well as in its own set
+of pleadings. The burden being on the first defendant, his proffered
+explanation for including the Impugned Sentence in his DA 2 was not sensible
+and simply did not hold water. The Impugned Sentence therefore constituted an
+impermissible attempt to resile from these admissions and was therefore liable
+to be struck out.
+
+47 For completeness, I emphasise that the only practical effect of the
+striking out is that the first defendant is precluded from challenging at
+trial the existence of the Understanding as well as the fact that the
+Understanding applies to the list of local properties as listed in paragraph
+10 of the SOC. Doubtless, whether the Understanding was in fact breached due
+to the first defendant’s purported failure to account is ultimately an issue
+that will be ventilated and determined at trial, with the full benefit of
+cross-examination.
+
+Conclusion
+
+48 For the reasons above, I allowed the plaintiff’s application to strike out
+the Impugned Sentence and ordered that the first defendant re-file and serve
+his DA 2 with the Impugned Sentence expunged. I also granted the plaintiff
+liberty to file its amended Reply within 14 days of the first defendant re-
+filing and serving his DA 2. Lastly, I ordered the first defendant to pay to
+the plaintiff costs of and incidental to the application fixed at $5,500,
+inclusive of disbursements.
+
+49 It only leaves me to express my gratitude to counsel for their assistance
+to the court.
+
+Wong Hee Jinn  
+Assistant Registrar
+
+Chacko Samuel and Anne-Marie John (Legis Point LLC) for the plaintiff;  
+Nur Halimatul Syafheqah binte Rosman (Gabriel Law Corporation) for the
+defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 31 May 2023 (17:05 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

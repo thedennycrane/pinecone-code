@@ -1,0 +1,2100 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2021] SGHC 244
+
+Originating Summons No 242 of 2021 (Summons No 1477 of 2021)
+
+Between
+
+| Westbridge Ventures II Investment Holdings  
+---|---  
+|  
+  
+… Plaintiff
+
+And
+
+| Anupam Mittal  
+---|---  
+  
+… Defendant
+
+JUDGMENT
+
+[Arbitration] — [Interlocutory order or direction] — [Anti-suit injunction]
+
+[Arbitration] — [Agreement] — [Scope]
+
+[Arbitration] — [Arbitrability and public policy] — [Law governing the issue
+of subject matter arbitrability]
+
+[Civil Procedure] — [Jurisdiction] — [Submission to jurisdiction]
+
+— [Amenability to court’s jurisdiction]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Westbridge Ventures II Investment Holdings v
+
+  
+
+Anupam Mittal
+
+[2021] SGHC 244
+
+General Division of the High Court — Originating Summons No 242 of 2021 and
+Summons No 1477 of 2021
+
+S Mohan JC  
+29 April, 2 July 2021
+
+26 October 2021 Judgment reserved.
+
+S Mohan JC:
+
+Introduction
+
+1 Party A commences court proceedings against, among others, party B in
+jurisdiction X. In those proceedings, party A alleges, inter alia, minority
+oppression by party B. Party B, in response, applies for an anti-suit
+injunction in Singapore to restrain party A from prosecuting the court
+proceedings in X on the basis that those proceedings are brought in breach of
+an arbitration agreement requiring all disputes between them to be arbitrated
+in Singapore. Party A contends that the claims made by it in the court
+proceedings in X are non-arbitrable under the laws of X (which party A asserts
+is the proper law governing the arbitration agreement) and thus, those
+proceedings are not brought in breach of the arbitration agreement. On the
+other hand, party B contends that the claims are arbitrable under Singapore
+law as the law of the arbitral seat and thus, the court proceedings brought by
+party A are in breach of the parties’ arbitration agreement, thereby
+warranting the grant by this court of an anti-suit injunction.
+
+2 What then is the system of law that should govern, at the pre-award stage,
+the question of whether the claims brought by party A are, or are not,
+arbitrable? Is it the proper law governing the arbitration agreement (as
+contended by party A) or the law of the seat, ie, Singapore law (as contended
+by party B)? This threshold question lies at the heart of the applications
+before me. I am informed by counsel for the parties that it is a question that
+has hitherto not been decided by our courts. It would also appear from the
+leading arbitration commentaries referred to by counsel during the hearing
+that whilst some civil law jurisdictions have had occasion to consider this
+issue, it has not been addressed by any of the courts in the Commonwealth.
+
+3 In HC/OS 242/2021 (“OS 242”), the plaintiff, Westbridge Ventures II
+Investment Holdings, seeks a permanent anti-suit injunction against the
+defendant, Mr Anupam Mittal. The primary reliefs sought by the plaintiff are
+an injunction to restrain the defendant, his agents or otherwise from:
+
+(a) pursuing, continuing and/or proceeding with the action(s) commenced or to
+be commenced by the defendant by way of a company petition in the National
+Company Law Tribunal (“NCLT”) in Mumbai, India, which was served on the
+plaintiff on 3 March 2021; and/or
+
+(b) commencing or procuring the commencement of any legal proceedings in
+respect of any dispute, controversy, claim or disagreement of any kind in
+connection with or relating to the management of People Interactive (India)
+Private Limited (“People Interactive”), or in connection with or relating to
+any of the matters set out in the Shareholders’ Agreement dated 10 February
+2006, as amended from time to time (the “SHA”) in any other dispute resolution
+forum other than an arbitration tribunal constituted in accordance with the
+rules laid down by the International Chamber of Commerce (“ICC”) and seated in
+Singapore in accordance with cl 20.2 of the SHA against the plaintiff, and/or
+Shobitha Annie Mani and/or Navin Mittal and/or Anand Mittal and/or People
+Interactive and/or any person in relation to any dispute relating to the
+management of People Interactive, or arising from, connected with or relating
+to any of the matters set out in the SHA.
+
+4 The defendant in turn seeks an order in HC/SUM 1477/2021 (“SUM 1477”) to set
+aside or discharge an ex parte interim injunction order (HC/ORC 1463/2021)
+(“ORC 1463”) granted by the High Court against the defendant on 15 March 2021
+in HC/SUM 1183/2021 (“SUM 1183”); the defendant argues that the plaintiff
+should not have proceeded with SUM 1183 ex parte and there was material non-
+disclosure by the plaintiff at the ex parte hearing which took place before
+Andrew Ang SJ.
+
+5 As I heard OS 242 on an inter partes basis with full arguments presented by
+both sides, it is not necessary for me to deal separately with the defendant’s
+application in SUM 1477. In OS 242, the issue before me is whether a permanent
+anti-suit injunction should be granted. If I allow OS 242, whether the ex
+parte injunction should be set aside is rendered moot. Conversely, if I
+dismiss OS 242, the ex parte injunction must also fall away and would
+consequently be set aside, irrespective of whether the plaintiff should have
+proceeded ex parte or whether there was any material non-disclosure. I
+therefore focus on OS 242.
+
+6 In essence, the plaintiff argues that the defendant has breached the
+arbitration agreement in the SHA by raising disputes “relating to the
+management of [People Interactive] or relating to any of the matters set out
+in [the SHA]” before the NCLT despite being contractually bound to submit such
+disputes to arbitration seated in Singapore. 1
+
+##### Foot Note 1
+
+×
+
+Plaintiff’s written submissions dated 22 April 2021 (“PWS”) at para 7.
+
+The defendant, on the other hand, argues that the disputes and the claims
+before the NCLT pertain to oppression and mismanagement under Indian law and
+the natural, proper and competent forum for the adjudication of such disputes
+is the NCLT. 2
+
+##### Foot Note 2
+
+×
+
+Defendant’s written submissions dated 22 April 2021 (“DWS”) at para 4.
+
+7 In order to determine if the claims raised by the defendant before the NCLT
+are indeed brought in breach of the arbitration agreement in the SHA, this
+court has to first decide whether the claims are arbitrable in Singapore as
+the arbitral seat. The answer to that question turns on the consideration of a
+further threshold anterior question - which system of law governs the issue of
+determining subject matter arbitrability at the pre-award stage? Is it the law
+of the seat or the proper law of the arbitration agreement?
+
+8 As I mentioned above at [2], it appears that there is no local authority on
+the point and sparse authority elsewhere addressing this specific question;
+unfortunately, neither is there any international consensus on the correct
+approach. As observed in Gary Born, International Commercial Arbitration
+(Kluwer Law International, 3rd ed, 2021) (“International Commercial
+Arbitration”) at p 639, “[t]he nonarbitrability doctrine raises potentially
+complex choice-of-law questions in determining what law(s) apply to determine
+whether a claim or dispute is nonarbitrable. There is little agreement among
+national courts and commentators on the resolution of this issue”. As such, I
+take the opportunity to consider this question in greater detail in this
+judgment. I start by summarising the background facts to the extent that they
+are material in laying down the context in relation to the present matter.
+
+Facts
+
+9 The plaintiff is a private equity fund incorporated under the laws of
+Mauritius. It holds 30.96% of the authorised, issued and paid-up share capital
+of People Interactive, a private limited company registered in Mumbai which
+carries on the business of providing various value-added and internet-related
+services. Amongst other things, People Interactive owns and operates a well-
+known online and offline matrimonial service called “shaadi.com”
+(“Shaadi.com”). Shaadi.com was co-founded by the defendant and his cousins,
+Anand Mittal (“Anand”) and Navin Mittal (“Navin”), both of whom were among the
+initial shareholders of People Interactive, together with the defendant. The
+defendant is an Indian resident and the Managing Director of People
+Interactive from 30 November 2004 to 30 November 2019. According to the
+plaintiff, the defendant holds 43.85% of the authorised, issued and paid-up
+share capital of People Interactive. The defendant asserts that on a “fully
+diluted basis”, the plaintiff’s shareholding in People Interactive is 44.38%,
+Anand’s is 13.13% and his 30.26%. 3
+
+##### Foot Note 3
+
+×
+
+Shobitha Annie Mani 1st affidavit dated 17 March 2021 (“1SAM”) at paras 10 to
+11, 13; Anupam Mittal affidavit dated 30 March 2021 (“1AM”) at paras 10 to 13.
+
+10 On 10 February 2006, the plaintiff, the defendant, People Interactive,
+Anand and Navin entered into the SHA. The SHA sets out, inter alia, the rights
+and obligations of the shareholders and their rights regarding the management
+of People Interactive. In the SHA, the plaintiff, the defendant, Anand and
+Navin are referred to individually as the “Founder” and collectively as the
+“Founders”. 4
+
+##### Foot Note 4
+
+×
+
+1SAM at p 177.
+
+On 7 May 2008, the parties to the SHA signed the First Supplementary
+Subscription-Cum-Shareholders’ Agreement (“SSSA”) with SVB India Capital
+Partners LP, SVB Financial Group and the plaintiff (then Sequoia Capital India
+Investment Holdings II). Clause 20.2 of the SHA and cl 10.2 of the SSSA
+contain identical arbitration clauses providing for arbitration to be seated
+in Singapore in accordance with the ICC Rules. 5
+
+##### Foot Note 5
+
+×
+
+1SAM at paras 14 to 15; 1AM at para 26.
+
+The dispute resolution clause in cl 20 of the SHA is reproduced below:
+
+20 GOVERNING LAW AND ARBITRATION
+
+20.1 This Agreement and its performance shall be governed by and construed in
+all respects in accordance with the laws of the Republic of India. In the
+event of a dispute relating to the management of the Company or relating to
+any of the matters set out in this Agreement, parties to the dispute shall
+each appoint one nominee/representative who shall discuss in good faith to
+resolve the difference. In case the difference is not settled within 30
+calendar days, it shall be referred to arbitration in accordance with Clause
+20.2 below.
+
+20.2 All such disputes that have not been satisfactorily resolved under Clause
+20.1 above shall be referred to arbitration before a sole arbitrator to be
+jointly appointed by the Parties. In the event the Parties are unable to agree
+on a sole arbitrator, one of the arbitrators shall be appointed jointly by the
+Founders and the second arbitrator will be appointed by [the plaintiff] and
+the third arbitrator will be appointed by the other two arbitrators jointly.
+The arbitration proceedings shall be carried out in accordance with the rules
+laid down by International Chambers of Commerce and the place of arbitration
+shall be Singapore. The arbitration proceedings shall be conducted in the
+English language. The parties shall equally share the costs of the
+arbitrator’s fees, but shall bear the costs of their own legal counsel engaged
+for the purposes of the arbitration.
+
+…
+
+[Emphasis in original omitted; emphasis added in italics and bold italics]
+
+11 The parties’ relationship began to deteriorate from 2017. 6
+
+##### Foot Note 6
+
+×
+
+1SAM at para 52; 1AM at para 32.
+
+Clause 16.3 of the SHA provides for the plaintiff’s right to appoint and
+remove two directors on People’s Interactive’s board of directors. Clause 3.4
+of the SHA envisaged that People Interactive was to complete an initial public
+offering (“IPO”) within five years from closing (as defined in the SHA). If
+People Interactive failed to complete an IPO, the plaintiff would be able to
+exit its investment through its redemption and, if necessary, “drag along”
+rights as provided for in the SHA, which meant that the plaintiff could compel
+the Founders to sell all or part of their shares, together with the
+plaintiff’s shares, to the third party buyer. 7
+
+##### Foot Note 7
+
+×
+
+1SAM at para 17.
+
+As no IPO as contemplated under the SHA was achieved, discussions began on the
+potential sale of People Interactive to a third party, including to an entity
+known as Info Edge (“Info Edge”) which was a competitor of People Interactive.
+8
+
+##### Foot Note 8
+
+×
+
+1SAM at para 57; 1AM at para 33.
+
+Disputes arose between the parties regarding, inter alia, the management of
+People Interactive, the composition of its board of directors, the potential
+sale of People Interactive and the appointment of nominee directors to the
+board of directors. 9
+
+##### Foot Note 9
+
+×
+
+1SAM at paras 27 to 35, 38 to 50, 54 to 63; 1AM at paras 39, 48 to 52, 55 to
+56, 71 to 72.
+
+Ms Shobitha Annie Mani (“Ms Mani”) was appointed by the plaintiff as a
+director on the board of directors of People Interactive on 24 April 2019, 10
+
+##### Foot Note 10
+
+×
+
+1SAM at para 12.
+
+and the relevance of this will become apparent later on in my judgment. In
+very broad terms, the defendant complains that: 11
+
+##### Foot Note 11
+
+×
+
+DWS at para 9.
+
+(a) the plaintiff colluded with other shareholders or members of the board of
+directors of People Interactive, including Ms Mani, to undertake a series of
+actions to wrest control of management of People Interactive in a manner
+contrary to the interests of People Interactive, including attempts by the
+plaintiff to flood the People Interactive board of directors with its
+nominees; and
+
+(b) the plaintiff colluded with Info Edge and other shareholders or members of
+the board of directors of People Interactive to provide Info Edge with
+sensitive and confidential information regarding People Interactive without
+having any non-disclosure obligations in place.
+
+12 There is some contention by the parties as to the characterisation of the
+disputes between them. While the plaintiff says that the disputes are
+essentially issues relating to the exercise of contractual rights under
+various provisions of the SHA, the defendant instead contends that the
+disputes pertain to minority oppression and mismanagement under Indian law. 12
+
+##### Foot Note 12
+
+×
+
+PWS at para 20; DWS at para 4.
+
+13 On 3 March 2021, the defendant filed and served the NCLT petition on the
+plaintiff. 13
+
+##### Foot Note 13
+
+×
+
+1SAM at para 6; DWS at para 12.
+
+At that time, no case number had yet been assigned to the petition. On or
+about 24 March 2021, the NCLT petition was assigned its case number, ie,
+Company Petition No. 92 of 2021 (“NCLT Proceedings”). In the NCLT Proceedings,
+the defendant is the petitioner and People Interactive, the plaintiff, Ms
+Mani, Anand and Navin are named as the respondents. Apart from Ms Mani, all
+the other parties to the NCLT Proceedings are also parties to the SHA. In the
+NCLT Proceedings, the defendant seeks the following: 14
+
+##### Foot Note 14
+
+×
+
+1SAM at pp 147 to 153.
+
+(a) an injunction to restrain the plaintiff and the plaintiff’s directors,
+employees, servants, agents and or any person claiming through or under them,
+from in any manner, disrupting the management and operation of People
+Interactive and/or conducting the affairs of People Interactive in a manner
+prejudicial or oppressive to any member of People Interactive or People
+Interactive;
+
+(b) a declaration that the defendant’s continuation as an executive director
+of People Interactive, pursuant to the resolution passed by the board of
+directors of People Interactive at the meeting held on 28 November 2019 is
+valid and that all actions taken by the defendant as an executive director of
+People Interactive shall not be invalid;
+
+(c) an injunction to restrain the plaintiff, People Interactive and certain
+others, their directors, employees, servants, agents and/or any person
+claiming through or under them, from in any manner, whether directly or
+indirectly hindering and/or prohibiting the defendant from performing his
+functions as an executive director of People Interactive;
+
+(d) an order to direct the plaintiff, People Interactive and certain others to
+initiate a process for identifying and appointing a suitable, independent,
+non-partisan and impartial candidate in the capacity as managing director of
+People Interactive in a time-bound manner; and
+
+(e) certain other declarations and interim reliefs.
+
+14 OS 242 was filed on 15 March 2021, which was after the NCLT Proceedings
+were filed and served on the plaintiff but before a case number had been
+assigned. On the same day, the plaintiff also filed SUM 1183 seeking an urgent
+ex parte interim anti-suit injunction against the defendant. 15
+
+##### Foot Note 15
+
+×
+
+Agreed Bundle of Documents Volume 1 of 5 (“ABOD Vol 1”), Tab 2.
+
+Ang SJ heard SUM 1183 on the same day and made the orders in ORC 1463. 16
+
+##### Foot Note 16
+
+×
+
+ABOD Vol 1, Tab 4.
+
+An order was also made by Ang SJ in HC/ORC 1458/2021 (“ORC 1458”), pursuant to
+prayer 2 of OS 242, granting the plaintiff leave to serve OS 242 and the
+supporting affidavit on the defendant out of jurisdiction in India. 17
+
+##### Foot Note 17
+
+×
+
+ABOD Vol 1, Tab 3.
+
+As I indicated above at [4], ORC 1463 is the subject of the defendant’s
+setting-aside application in SUM 1477, which was filed on 31 March 2021.
+
+15 On 18 March 2021, the defendant also commenced Suit No. 7816 of 2021 in the
+Bombay High Court (“Suit 7816”) seeking the following orders: 18
+
+##### Foot Note 18
+
+×
+
+1AM at para 91.
+
+(a) a declaration that the NCLT is the only competent forum to hear and decide
+the disputes raised in the NCLT petition; and
+
+(b) a permanent injunction restraining the plaintiff or its agents, directors,
+employees, servants or any person claiming through or under it from, in any
+manner, whether directly or indirectly;
+
+(i) enforcing the anti-suit injunction; and
+
+(ii) pursuing or continuing with OS 242 and SUM 1183 in the Singapore High
+Court.
+
+At this time, the Bombay High Court has yet to render a decision in respect of
+Suit 7816.
+
+Parties’ cases
+
+16 Counsel for the plaintiff, Mr Thio Shen Yi SC, submits that a permanent
+anti-suit injunction should be granted against the defendant before the NCLT
+Proceedings are too far advanced. It is not disputed that a valid arbitration
+agreement binds the parties 19
+
+##### Foot Note 19
+
+×
+
+PWS at para 4.
+
+and all the disputes raised in the NCLT Proceedings are disputes “relating to
+the management of [People Interactive] or relating to any of the matters set
+out in [the SHA]” and therefore are contractual and fall squarely within the
+scope of the arbitration agreement. Further, the defendant should not be
+permitted to “dress up” the disputes as oppression or mismanagement claims in
+order to circumvent the arbitration agreement and litigate them before the
+NCLT. 20
+
+##### Foot Note 20
+
+×
+
+PWS at paras 18 to 21.
+
+17 The plaintiff further argues that the commencement of the NCLT Proceedings
+by the defendant is a breach of the arbitration agreement. 21
+
+##### Foot Note 21
+
+×
+
+PWS at paras 21 and 33 to 34.
+
+The disputes are arbitrable and the question of arbitrability is governed by
+the law of the seat, ie, Singapore law, where it is undisputed that even
+oppression and mismanagement claims are arbitrable. 22
+
+##### Foot Note 22
+
+×
+
+PWS at para 35 to 43.
+
+Even if the law governing arbitrability is the proper law of the arbitration
+agreement, Singapore law would nevertheless apply. 23
+
+##### Foot Note 23
+
+×
+
+PWS at para 44 to 52.
+
+Alternatively, even if Indian law applies as the proper law of the arbitration
+agreement, the pith and substance of the disputes is contractual as opposed to
+“dressed up” oppression and mismanagement claims, and are therefore arbitrable
+even under Indian law. 24
+
+##### Foot Note 24
+
+×
+
+PWS at paras 53 to 55.
+
+Since a breach of an arbitration agreement is sufficient basis for an anti-
+suit injunction to be granted under Singapore law, the court should grant the
+plaintiff’s application and issue a permanent anti-suit injunction against the
+defendant. 25
+
+##### Foot Note 25
+
+×
+
+PWS at paras 3 to 7.
+
+18 On the other hand, counsel for the defendant, Mr Nandakumar Ponniya,
+submits that the court should decline to grant the permanent anti-suit
+injunction sought by the plaintiff, dismiss OS 242 and in turn discharge the
+ex parte anti-suit injunction for the following reasons. First, the defendant
+is not amenable to the jurisdiction of the Singapore courts because he does
+not reside in Singapore and was not amenable to being served with proceedings
+out of jurisdiction. The defendant has also not submitted to the jurisdiction
+of the Singapore courts. 26
+
+##### Foot Note 26
+
+×
+
+DWS at paras 27 to 32.
+
+Second, the defendant is not in breach of the arbitration agreement because
+the disputes relating to oppression and mismanagement do not fall within the
+scope of the arbitration agreement. According to the defendant, the law
+governing the arbitration agreement is Indian law. Since the pith and
+substance of the NCLT Proceedings lies in minority oppression and
+mismanagement of People Interactive, parties could not have intended for such
+disputes to fall within the arbitration agreement since the arbitration
+agreement would be unworkable and liable to be declared void under Indian law.
+27
+
+##### Foot Note 27
+
+×
+
+DWS at paras 33 to 57.
+
+Both parties’ Indian law experts agree that the NCLT is the forum that has
+exclusive jurisdiction under Indian law to adjudicate on disputes relating to
+oppression and mismanagement and that such disputes are non-arbitrable under
+Indian law. 28
+
+##### Foot Note 28
+
+×
+
+DWS at para 60.
+
+Third, in any event, the arbitration agreement is null and void, inoperative
+or incapable of being performed vis-à-vis disputes relating to oppression and
+mismanagement because such disputes are non-arbitrable under Indian law. 29
+
+##### Foot Note 29
+
+×
+
+DWS at paras 62 to 68.
+
+Fourth, the ends of justice are best served by allowing the NCLT Proceedings
+to continue. Otherwise, grave injustice would be caused to the defendant since
+any eventual award rendered in Singapore would be unenforceable in India.
+Injustice would also be occasioned to the defendant by reason of the
+plaintiff’s vexatious and oppressive conduct in commencing proceedings before
+the Singapore High Court, as the arbitration agreement does not bind all
+parties to the dispute while the NCLT Proceedings will and the NCLT is the
+natural, proper and competent forum to hear the dispute. 30
+
+##### Foot Note 30
+
+×
+
+DWS at paras 74 to 99.
+
+The issues
+
+19 From the parties’ submissions, the following issues arise for my
+consideration in OS 242:
+
+(a) whether the disputes between the parties are arbitrable;
+
+(b) whether the bringing of the claims by the defendant before the NCLT is in
+breach of the arbitration agreement; and
+
+(c) whether the court should grant the permanent anti-suit injunction sought
+by the plaintiff.
+
+First issue: Whether the disputes between the parties are arbitrable
+
+20 I begin by first determining whether the disputes between the parties are
+arbitrable. As stated by the Court of Appeal in Tomolugen Holdings Ltd and
+another v Silica Investors Ltd and other appeals [2016] 1 SLR 373 (“Tomolugen
+Holdings”) (at [72]–[74]), arbitrability may be relevant to an arbitration at
+both its initial and terminal stages. At the initial stage, under s 6(2) of
+the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“IAA”), the court
+may refuse a stay of court proceedings in favour of arbitration where the
+dispute concerns a non-arbitrable subject matter. The arbitration agreement
+would, in such circumstances, be either “inoperative” or “incapable of being
+performed” in relation to such a dispute involving a non-arbitrable subject
+matter. At the terminal stage, an award rendered on a non-arbitrable dispute
+is liable to be set aside or refused enforcement under Art 34(2)(b)(i) of the
+UNCITRAL Model Law on International Commercial Arbitration (“Model Law”) and s
+31(4)(a) of the IAA and/or under Art 34(2)(b)(ii) of the Model Law and s
+31(4)(b) of the IAA.
+
+21 As can be seen from the parties’ submissions summarised above at [16]–[18],
+it is crucial that the court first decides what system of law applies to
+determine the question of subject matter arbitrability at the pre-award stage.
+If it is the law of the seat (ie, Singapore law) that governs that question,
+it is common ground between the parties that shareholder disputes and even
+minority oppression claims are arbitrable, as held by the Court of Appeal in
+Tomolugen Holdings (at [84]). It would then not matter whether one
+characterises the disputes as contractual or arising out of the SHA, or as
+minority oppression or mismanagement claims. However, if it is the proper law
+of the arbitration agreement that governs the issue of subject matter
+arbitrability, it will (at least on the defendant’s case) then be necessary to
+determine what is the proper law of the arbitration agreement in the SHA
+before considering if the disputes are arbitrable under that law.
+
+22 With regard to determining the proper law of an arbitration agreement, both
+parties accept that the applicable test or framework is encapsulated in BCY v
+BCZ [2017] 3 SLR 357 (“BCY”) (at [40]), where Steven Chong J (as he then was)
+summarised the three-stage test as follows:
+
+(a) the parties’ express choice;
+
+(b) the implied choice of the parties as gleaned from their intentions at the
+time of contracting; or
+
+(c) the system of law with which the arbitration agreement has the closest and
+most real connection.
+
+Analysis and decision
+
+23 Having carefully considered the parties’ submissions on the threshold
+question I identified at [7] above, in my judgment, it is the law of the seat
+that applies to determine the issue of subject matter arbitrability at the
+pre-award stage. In my judgment, such an approach is more logical, is
+principled and is to be preferred over the application of the proper law of
+the arbitration agreement. I arrive at this conclusion for the following main
+reasons:
+
+(a) subject matter arbitrability, when raised at the pre-award stage before
+the seat court, is essentially an issue of jurisdiction;
+
+(b) the same law should be applicable to arbitrability issues at both the pre-
+award and post-award stages;
+
+(c) applying the law of the seat at the pre-award stage is more consistent
+with the policy to promote international commercial arbitration; and
+
+(d) the weight of authority leans in favour of the law of the seat being
+applied.
+
+24 I expand on each of these reasons in the paragraphs that follow.
+
+Subject matter arbitrability, when raised at the pre-award stage before the
+seat court, is essentially an issue of jurisdiction
+
+25 The concept of arbitrability finds legislative expression in s 11 of the
+IAA which states as follows:
+
+Public policy and arbitrability
+
+11.—(1) Any dispute which the parties have agreed to submit to arbitration
+under an arbitration agreement may be determined by arbitration unless it is
+contrary to public policy to do so.
+
+(2) The fact that any written law confers jurisdiction in respect of any
+matter on any court of law but does not refer to the determination of that
+matter by arbitration shall not, of itself, indicate that a dispute about that
+matter is not capable of determination by arbitration.
+
+[emphasis added]
+
+Section 11 of the IAA thus recognises that subject matter arbitrability is
+subject to the limits imposed by public policy. While the IAA is silent on the
+applicable law to determine pre-award subject matter arbitrability, it can be
+reasonably inferred that the reference in s 11(1) IAA to “public policy” is to
+the public policy of Singapore (as opposed to, for example, the public policy
+of the law governing the arbitration agreement where that law is not also
+Singapore law). Section 2(2) of the IAA provides that “[e]xcept so far as the
+contrary intention appears, a word or expression that is used both in this
+Part and in the Model Law (whether or not a particular meaning is given to it
+by the Model Law) has, in the Model Law, the same meaning as it has in this
+Part”.
+
+26 There are references to public policy in Arts 34(2)(b)(ii) and 36(1)(b)(ii)
+of the Model Law. In the former instance, the seat court may set aside an
+arbitral award if it finds that “the award is in conflict with the public
+policy of this State” [emphasis added]. In the latter instance, the
+enforcement court may refuse to recognise or enforce an arbitral award if it
+finds that the “recognition or enforcement of the award would be contrary to
+the public policy of this State” [emphasis added]. In both instances, the
+relevant public policy is that of the state in which the court hearing the
+post-award challenge sits. Thus, be it the seat court (in the case of setting-
+aside) or the enforcement court (in the case of recognition or enforcement),
+the court applies its own law regarding public policy. Even if I leave aside
+Art 36(1)(b)(ii) of the Model Law on the basis that it does not have the force
+of law in Singapore by virtue of s 3(1) of the IAA, that still leaves Art
+34(2)(b)(ii). In any event, Art 36(1)(b)(ii) of the Model Law is replicated in
+s 31(4)(b) of the IAA. These provisions provide some support for the argument
+that similarly, in s 11(1) of the IAA, the reference to “public policy” in the
+context of arbitrability is to the public policy of Singapore. Unless
+expressly provided for within its own law, there is, in my judgment, no reason
+or need for this court, as a seat court, to apply a foreign law and determine
+another state’s public policy to the question of subject matter arbitrability.
+
+27 Both parties referred to and relied on the Court of Appeal’s decision in
+BNA v BNB and another [2020] 1 SLR 456 (“BNA”) (at [53]–[55]) in support of
+their respective positions. I should point out at the outset that BNA was not
+a case involving any issue of subject matter arbitrability, but one where the
+court was considering a challenge to the jurisdiction of the arbitral tribunal
+on the basis that the seat of the arbitration was not Singapore but Shanghai.
+The court affirmed the applicability of the framework in BCY to determine the
+proper law of the arbitration agreement, and then commented as follows (at
+[49]–[50]):
+
+49 Before applying the BCY framework to the facts of this case, we make some
+brief observations as to the significance of the proper law of the arbitration
+agreement so as to forestall any confusion that might arise, particularly at
+the stage of setting aside an arbitral award though no such concern was raised
+in this appeal.
+
+50 A concern that might arise at the stage of setting-aside proceedings is the
+prospect of the seat court having to apply some law other than its own in
+determining the application to set aside the arbitral award. This possibility
+would arise if, for example, the proper law of the arbitration agreement is
+determined under the BCY framework to be a law other than the law of the seat.
+In that instance, must the seat court apply the proper law, or should it apply
+its own law, ie, the law of the seat?
+
+[emphasis added]
+
+28 In the ensuing discussion and after reproducing the provisions of s 24 of
+the IAA and Art 34(2) of the Model Law, the Court of Appeal expressed certain
+views in obiter, and in the context of its discussion on a post-award
+challenge scenario. I reproduce the relevant passages below:
+
+53 It is evident from the above statutory provisions that there are some
+grounds of challenge for which the seat court is mandated to apply its own
+law, most obviously, where the challenge is made on the grounds of
+arbitrability and of alleged conflict with the public policy of the seat: see
+Art 34(2)(b) of the Model Law.
+
+54 On the other hand, there are grounds of challenge where the seat court in
+hearing the setting-aside application is mandated to apply some law other than
+its own, most obviously, when the ‘said agreement is not valid under the law
+to which the parties have subjected it’: see Art 34(2)(a)(i). In such a
+scenario, the proper law of the arbitration agreement, as determined in the
+BCY framework, will have to be applied by the seat court to decide whether the
+arbitral tribunal has jurisdiction over the dispute under the terms of the
+arbitration agreement. However, Art 34(2)(a)(i) provides that the seat court
+will apply its own law in the event that there is no indication as to the law
+to which the parties had subjected the arbitration agreement.
+
+55 For present purposes, it is not necessary for this court to express a
+definite view as regards the law that is to apply to determine each of the
+grounds of challenge under s 24 of the IAA or Art 34(2) of the Model Law as
+they were not before us. It suffices to say that in general, the seat court
+will apply the law of the seat and where the law directs it to some other
+system of law, usually the proper law of the arbitration agreement, then it
+will apply that law. However, as we have illustrated above, in general, the
+proper law of the arbitration agreement will be most relevant to questions as
+to formation, validity, effect and discharge of the arbitration agreement:
+David Joseph, Jurisdiction and Arbitration Agreements and Their Enforcement
+(Sweet & Maxwell, 3rd ed, 2015) (‘David Joseph’) at para 6.53. In the final
+analysis, the particular system of law that the seat court will apply is that
+which the relevant arbitration law in the seat directs it to.
+
+[emphasis in original omitted; emphasis added in italics and bold italics]
+
+Aside from observing that it is “evident” that the seat court would, in the
+context of a post-award setting aside application, apply its own law to
+challenges made on the grounds of arbitrability, the Court of Appeal also
+stated that the general position is that the seat court will apply its own law
+unless it is directed by that law to some other system of law.
+
+29 Applying this reasoning by extension to subject matter arbitrability at the
+pre-award stage, there is no indication or hint in the IAA, the Model Law or
+any other “relevant arbitration law” in Singapore that directs it as the seat
+to look to some other system of law (including the proper law of the
+arbitration agreement) to determine the question of subject matter
+arbitrability at the pre-award stage.
+
+30 Mr Nandakumar focused on the sentence in BNA (at [55]) where the Court of
+Appeal stated that “in general, the proper law of the arbitration agreement
+will be most relevant to questions as to formation, validity, effect and
+discharge of the arbitration agreement” [emphasis added], to support his
+argument that Indian law as the proper law of the arbitration agreement should
+govern subject matter arbitrability. 31
+
+##### Foot Note 31
+
+×
+
+NE 2 July 2021 at pp 20 (lines 31 to 32), 21 (lines 1 to 7) and 22 (lines 1 to
+5).
+
+31 I disagree with that submission. In my judgment, it is not appropriate to
+characterise a dispute over subject matter arbitrability as a question on the
+“effect” of an arbitration agreement. The effect of an arbitration agreement
+may engage issues such as its scope, ie, whether a particular dispute falls
+within the wording or ambit of the arbitration agreement. However, in this
+case, the issue is simply whether the disputes raised in the NCLT Proceedings
+are arbitrable, irrespective of the scope of the arbitration agreement. In my
+judgment, the question of subject matter arbitrability is not an issue that
+touches on the “effect” of an arbitration agreement. Furthermore, the
+submission also takes that sentence in BNA out of context – as I have
+highlighted above at [27]–[28], the Court of Appeal’s comments were only
+focusing on a post-award setting aside scenario. That particular sentence was
+a quote from a passage from David Joseph QC, Jurisdiction and Arbitration
+Agreements and Their Enforcement (Sweet & Maxwell, 3rd ed, 2015)
+(“Jurisdiction and Arbitration Agreements”) at para 6.53. The relevant passage
+in Jurisdiction and Arbitration Agreements itself did not contain any
+discussion on the issue of the proper law to determine the question of
+arbitrability. In fact, the focus of the passage was on whether the putative
+proper law of a separable dispute resolution agreement (be it choice of court
+or arbitration) ought to determine questions of whether a dispute resolution
+agreement is impeached by allegations of invalidity or illegality. For ease of
+reference, I reproduce below the relevant passage from Jurisdiction and
+Arbitration Agreements (at para 6.53):
+
+6.53 Likewise, the governing law of the choice of court or arbitration
+agreement as determined at common law will determine questions as to
+formation, validity, effect and discharge of such agreements. Formation
+(including the special considerations concerning questions of disputed
+incorporation) has already been referred to above. Further, the putative
+governing law of the separable agreement ought to determine questions of
+whether a dispute resolution agreement is impeached by allegations of
+illegality or invalidity. Thus, in Mackender v Feldia AG the Court of Appeal
+had to consider whether or not to stay proceedings brought before it on the
+grounds that the parties had concluded an insurance contract which made
+provision for disputes to be referred to the Belgian courts. The Court of
+Appeal made no distinction between the law governing the insurance contract
+and the jurisdiction agreement, but the validity of both the governing
+contract and the jurisdiction agreement were questions that the parties had
+agreed to refer to the Belgian courts in accordance with Belgian law.
+Likewise, in Harbour Assurance Co (UK) Ltd v Kansa General International
+Insurance Co Ltd the question of whether or not the arbitration agreement was
+impeached by allegations of illegality had to be assessed by reference to the
+law governing the arbitration agreement, which was English law.
+
+[emphasis added]
+
+32 Finally, the illustration referred to in BNA (at [54]) was an example where
+the law of the seat expressly directs the seat court to apply the law of the
+arbitration agreement in the first instance to determine its validity. That is
+not the case before me.
+
+33 In the circumstances and for the reasons I have articulated above, I
+disagree that the obiter comments in BNA afford any assistance to the
+defendant.
+
+34 Further, in its Explanatory Note on the 1985 Model Law on International
+Commercial Arbitration as amended in 2006 (at para 48), it was noted by the
+UNCITRAL secretariat that:
+
+48\. Although the grounds for setting aside as set out in article 34 (2) are
+almost identical to those for refusing recognition or enforcement as set out
+in article 36(1), a practical difference should be noted. An application for
+setting aside under article 34 (2) may only be made to a court in the State
+where the award was rendered whereas an application for enforcement might be
+made in a court in any State. For that reason, the grounds relating to public
+policy and non-arbitrability may vary in substance with the law applied by the
+court (in the State of setting aside or in the State of enforcement).
+
+[emphasis added in italics and bold italics]
+
+Thus, whether it is the seat court (dealing with a setting-aside application)
+or an enforcement court (dealing with a request for recognition or enforcement
+of an award), the Model Law envisages the application of domestic law to
+questions of arbitrability and public policy, at least in the context of post-
+award applications. Since s 11 of the IAA deals with arbitrability generally
+without distinguishing between subject matter arbitrability pre-award and
+post-award, the “public policy” referred to in s 11(1) of the IAA ought, in my
+view, to bear the same meaning it does in the Model Law. That in turn would
+mean the application of the domestic law of Singapore as the seat court to
+determine if the subject matter of a dispute is non-arbitrable because it is
+contrary to Singapore’s public policy.
+
+35 This is, in my judgment, a principled approach because the underlying
+purpose of the non-arbitrability rule is to set a limit on party autonomy
+where such autonomy conflicts with the public policy of the state being asked
+to give effect to an arbitration agreement. As stated in Julian David, Mathew
+Lew QC, Loukas A. Mistelis & Stefan Kröll, Comparative International
+Commercial Arbitration (Kluwer Law International, 2003) (“Comparative
+International Commercial Arbitration”) at paras 9-1 to 9-3:
+
+9-1 Arbitrability is one of the issues where the contractual and
+jurisdictional natures of international commercial arbitration meet head on.
+It involves the simple question of what types of issues can and cannot be
+submitted to arbitration. Party autonomy espouses the right of parties to
+submit any dispute to arbitration …
+
+9-2 National laws often impose restrictions or limitations on what matters can
+be referred to and resolved by arbitration. … More important than the
+restrictions relating to the parties are limitations based on the subject
+matter in issue. This is ‘objective arbitrability’. Certain disputes may
+involve such sensitive public policy issues that it is felt that they should
+only be dealt with by the judicial authority of state courts. An obvious
+example is criminal law which is generally the domain of national courts.
+
+9-3 These disputes are not capable of settlement by arbitration. This
+restriction on party autonomy is justified to the extent that arbitrability is
+a manifestation of national or international public policy. Consequently,
+arbitration agreements covering those matters will, in general, not be
+considered valid, will not establish the jurisdiction of the arbitrators and
+the subsequent award may not be enforced.
+
+[emphasis added in italics and bold italics]
+
+36 Furthermore, a finding by the seat court as to the arbitrability (or non-
+arbitrability) of a particular dispute is one that strikes at the jurisdiction
+of the tribunal in respect of that dispute. As succinctly explained by Bernard
+Hanotiau, in “The Law Applicable to Arbitrability” (2014) 26 SAcLJ 874 (“The
+Law Applicable to Arbitrability”) (at [1]):
+
+1 Although judicial power is an essential prerogative of States, the parties
+may, if they express the wish to do so, give jurisdiction to arbitrators to
+settle their disputes. However, the State retains the power to prohibit
+settlement of certain types of dispute outside its courts. It is then claimed
+that the dispute is not arbitrable. If an arbitration agreement is entered
+into, it will not be valid. Arbitrability is indeed a condition of validity of
+the arbitration agreement and, consequently, of the arbitrators’ jurisdiction.
+
+[emphasis added]
+
+This point is also noted in Comparative International Commercial Arbitration
+at para 9-18 where the authors state that “[t]hough arbitrability is often
+considered to be a requirement for the validity of the arbitration agreement
+it is primarily a question of jurisdiction”. The jurisdiction of a tribunal
+has been defined as referring to “the power of a tribunal to hear a case” (see
+Swissbourgh Diamond Mines (Pty) Ltd and others v Kingdom of Lesotho [2019] 1
+SLR 263 (at [207]). Indeed, where the dispute is a non-arbitrable one, the
+tribunal has no power to hear the case even if the parties wish for it to be
+heard and regardless of the width or scope of the arbitration agreement. It is
+the law of the seat which limits party autonomy by prescribing what type of
+disputes are arbitrable and consequently, limiting the tribunal’s jurisdiction
+accordingly. It is therefore principled that the law of the seat should apply
+to determine subject matter arbitrability at the pre-award stage.
+
+37 This approach finds some support in the Genoa Court of Appeal’s decision in
+Fincantieri – Cantieri Navali Italiani SpA and Oto Melara SpA v Ministry of
+Defence, Armament and Supply Directorate of Iraq, Republic of Iraq (1996) XXI
+YBCA 594 (“Fincantieri”) (at [13]), cited in Comparative International
+Commercial Arbitration at para 9-14. The court there was faced with the
+question of whether disputes as to the effects of a United Nations embargo
+against Iraq were arbitrable and consequently, whether the Italian court
+proceedings should be stayed in favour of arbitration in Paris. It held (at
+[13]) that:
+
+For the present purpose it is sufficient to answer the question whether, at
+the time of commencing this action ..., the arbitral clause in the contracts
+was 'null and void, inoperative or incapable of being performed'. The answer
+must be sought in Italian law, according to the jurisprudential principle
+that, when an objection for foreign arbitration is raised in court proceedings
+concerning a contractual dispute, the arbitrability of the dispute must be
+ascertained according to Italian law as this question directly affects
+jurisdiction, and the court seized of the action can only deny jurisdiction on
+the basis of its own legal system.
+
+This also corresponds to the principles expressed in Arts. II and V of the
+[New York Convention]. Hence, the answer to the question [of arbitrability]
+can only be that the dispute was not arbitrable due to [the Italian embargo
+legislation].
+
+[emphasis added]
+
+38 The reasoning in Fincantieri would, in my view, apply equally to a scenario
+where proceedings are brought before the seat court purportedly in breach of
+an arbitration agreement. It would, in my judgment, be logical for the seat
+court, in that event, to (a) apply its own law to determine if the dispute is
+arbitrable and (b) decide if it should decline its jurisdiction to hear the
+dispute and order a stay of proceedings in favour of arbitration.
+
+39 I also draw support from BBA and others v BAZ and another appeal [2020] 2
+SLR 453 (“BBA”) (at [74]–[79]), and the Court of Appeal’s discussion therein
+on the distinction between the jurisdiction of a tribunal and admissibility of
+a claim. I lay out the relevant paragraphs below:
+
+74 This court in Swissbourgh Diamond Mines (Pty) Ltd and others v Kingdom of
+Lesotho [2019] 1 SLR 263 (‘Swissbourgh’) distinguished between jurisdiction
+and admissibility as follows:
+
+Jurisdiction is commonly defined to refer to ‘the power of the tribunal to
+hear a case’, whereas admissibility refers to ‘whether it is appropriate for
+the tribunal to hear it’: Waste Management, Inc v United Mexican States ICSID
+Case No ARB(AF)/98/2, Dissenting Opinion of Keith Highet (8 May 2000) at [58].
+To this, Zachary Douglas adds clarity to this discussion by referring to
+‘jurisdiction’ as a concept that deals with ‘the existence of [the]
+adjudicative power’ of an arbitral tribunal, and to ‘admissibility’ as a
+concept dealing with ‘the exercise of that power’ and the suitability of the
+claim brought pursuant to that power for adjudication: [Zachary Douglas, The
+International Law of Investment Claims (Cambridge University Press, 2009)] at
+paras 291 and 310.
+
+75 In Swissbourgh, this court quoted Chin Leng Lim, Jean Ho & Martins
+Paparinskis, International Investment Law and Arbitration: Commentary, Awards
+and other Materials (Cambridge University Press, 2018) at p 118, which set out
+two ways of distinguishing between jurisdiction and admissibility:
+
+… The more conceptual reading would focus on the legal nature of the
+objection: is it directed against the tribunal (and is hence jurisdictional)
+or is it directed at the claim (and is hence one of admissibility)? The more
+draftsmanlike reading would focus on the place that the issue occupies in the
+structure of international dispute settlement: is the challenge related to the
+interpretation and application of the jurisdictional clause of the
+international tribunal (and hence jurisdictional), or is it related to the
+interpretation and application of another rule or instrument (and is hence one
+of admissibility)?
+
+76 In our judgment, the ‘tribunal versus claim’ test underpinned by a consent-
+based analysis should apply for purposes of distinguishing whether an issue
+goes towards jurisdiction or admissibility.
+
+77 The ‘tribunal versus claim’ test asks whether the objection is targeted at
+the tribunal (in the sense that the claim should not be arbitrated due to a
+defect in or omission to consent to arbitration), or at the claim (in that the
+claim itself is defective and should not be raised at all). Jan Paulsson
+explains the test in these terms (Jan Paulsson, ‘Jurisdiction and
+Admissibility’ (2005) in Global Reflections on International Law, Commerce and
+Dispute Resolution, Liber Amicorum in honour of Robert Briner (Gerald Aksen et
+al eds) (ICC Publishing, 2005) at pp 616 and 617; see also the Chartered
+Institute of Arbitrators Guideline 3 on Jurisdictional Challenges (2016) at
+paras 6–8 of the preamble and the commentary on Art 3):
+
+… the nub of the classification problem is whether the success of the
+objection necessarily negates consent to the forum. Our lodestar takes the
+form of a question: is the objecting party taking aim at the tribunal or at
+the claim? … in the event the [time limit] was exceeded, was it the parties’
+intention that the relevant claim should no longer be arbitrated by …
+arbitration but rather in some other forum, or was it that the claim could no
+longer be raised at all? Opting for the former conclusion would mean that the
+objection is jurisdictional …
+
+…
+
+To understand whether a challenge pertains to jurisdiction or admissibility,
+one should imagine that it succeeds:
+
+\- If the reason for such an outcome would be that the claim could not be
+brought to the particular forum seized, the issue is ordinarily one of
+jurisdiction and subject to further recourse.
+
+\- If the reason would be that the claim should not be heard at all (or at
+least not yet), the issue is ordinarily one of admissibility and the
+tribunal's decision is final.
+
+78 Consent serves as the touchstone for whether an objection is jurisdictional
+because arbitration is a consensual dispute resolution process: jurisdiction
+must be founded on party consent. For this reason, arguments as to the
+existence, scope and validity of the arbitration agreement are invariably
+regarded as jurisdictional, as are questions of the claimant’s standing to
+bring a claim or the possibility of binding non-signatory respondents (Robert
+Merkin QC & Louis Flannery QC, Merkin and Flannery on the Arbitration Act 1996
+(Informa Law from Routledge, 6th Ed, 2019) at ch 30.3 ; see also Michael Hwang
+SC & Lim Si Cheng, ‘The Chimera of Admissibility in International Arbitration’
+in Jurisdiction, Admissibility and Choice of Law in International Arbitration:
+Liber Amicorum Michael Pryles (Neil Kaplan & Michael J Moser eds) (Kluwer Law
+International, 2018) at pp 277–278). A similar consent-based analysis was
+adopted by this court in Swissbourgh ([74] supra) (at [206] and [209]).
+
+79 Conversely, admissibility relates to the ‘nature of the claim, or to
+particular circumstances connected with it’: Case Concerning the Northern
+Cameroons (Cameroon v United Kingdom) (Preliminary Objections, Separate
+Opinion of Judge Sir Gerald Fitzmaurice) [1963] ICJ 97 at 102. It asks whether
+a tribunal may decline to render a decision on the merits for reasons other
+than a lack of jurisdiction, and is determined by the tribunal on the basis of
+their discretion guided by, amongst others, principles of due administration
+of justice and any applicable external rules: Friedrich Rosenfeld, ‘Arbitral
+Praeliminaria – Reflections on the Distinction between Admissibility and
+Jurisdiction after BG v Argentina’ (2016) 29 Leiden Journal of International
+Law 137 at 148–151.
+
+[emphasis in original in italics; emphasis added in bold italics]
+
+40 Applying the “tribunal versus claim” test underpinned by a consent-based
+analysis, in my judgment, the issue of subject matter arbitrability, when it
+arises before the seat court at the pre-award stage, is better characterised
+as an issue that, in essence, goes towards jurisdiction. At first glance, it
+might appear that an issue of subject matter arbitrability may be seen as
+directed at the claim (and hence concerns a question of admissibility).
+However, this belies the substance of the consent-based analysis that
+underpins the “tribunal versus claim” test. A claim that a particular dispute
+is non-arbitrable due to its subject matter, in substance, raises a defect as
+to the parties’ consent to arbitration, and as I mentioned above at [31],
+regardless of the width and scope of the wording of the arbitration agreement.
+Therefore, such a claim raises a question of the jurisdiction of the tribunal.
+Simply put, the parties’ consent would be invalid since parties cannot agree
+to submit non-arbitrable disputes to arbitration as a matter of public policy.
+The courts will, in such circumstances, recognise (under s 6 of the IAA) that
+the arbitration agreement is either “inoperative” or “incapable of being
+performed” (see above at [20]).
+
+41 Further, the consequences of a challenge (whether pre-award or post-award)
+made to a seat court, by a party asserting non-arbitrability, are consistent
+with such a challenge being in the nature of a jurisdictional objection; more
+so where the challenge succeeds. As noted in BBA at [77] (see [39] above),
+“[i]f the reason for such an outcome would be that the claim could not be
+brought to the particular forum seized, the issue is ordinarily one of
+jurisdiction and subject to further recourse”. If the challenge before the
+seat court succeeds, it simply means that the particular dispute cannot be
+arbitrated in the seat. It can, however, still be litigated in the appropriate
+court. In contrast, there is no discretion for the tribunal to exercise as to
+whether it wishes to hear a dispute which is non-arbitrable. In my judgment,
+when so viewed through the “tribunal versus claim” lens, the question of
+subject matter arbitrability cannot merely be a matter of admissibility.
+Rather, it strikes at the tribunal’s jurisdiction.
+
+42 Thus, where this court as the seat court is asked to consider an arbitral
+tribunal’s subject matter jurisdiction on grounds of arbitrability, whether
+pre-award under s 6(2) and/or s 10(3) of the IAA, or post-award under Art
+34(2)(b) of the Model Law, the court should, in my judgment, apply Singapore
+law as the law of the seat to determine that question.
+
+43 The conclusion I have reached above is consistent with the UNCITRAL
+Secretariat’s analysis of Art 16 of the Model Law in the Analytical Commentary
+on Draft Text of a Model Law on International Commercial Arbitration: Report
+of the Secretary-General, UNGAOR, 18th Sess, UN Doc A/CN.9/264 (1985) at p 38
+where it is stated that:
+
+3\. Article 16 does not state according to which law the arbitral tribunal
+would determine the various possible issues relating to its jurisdiction. It
+is submitted that the applicable law should be the same as that which the
+Court specified in article 6 would apply in setting aside proceedings under
+article 34, since these proceedings constitute the ultimate court control over
+the arbitral tribunal’s decision (article 16(3)). This would mean that the
+capacity of the parties and the validity of the arbitration agreement would be
+decided according to the law determined pursuant to the rules contained in
+article 34(2)(a)(i) and that the question of arbitrability and other issues of
+public policy would be governed by the law of ‘this State’ (see present text
+of article 34(2)(b)). 52/ As regards these latter issues, including
+arbitrability, it is further submitted that the arbitral tribunal, like the
+Court under article 34(2)(b), should make a determination ex officio, i.e.
+even without any plea by a party as referred to in article 16(2). 53/
+
+[emphasis in original omitted; emphasis added in bold italics]
+
+As can be seen from the passage quoted above, the UNCITRAL secretariat took
+the view, which I find logical and persuasive, that a tribunal dealing with
+issues relating to its jurisdiction at the pre-award stage should apply the
+same law which the seat court would apply at the post-award stage in setting-
+aside proceedings. This includes the question of arbitrability and other
+issues of public policy. It stands to reason that similarly, at the pre-award
+stage, the seat court should also apply its own law to issues of subject
+matter arbitrability.
+
+44 As observed by the High Court in BAZ v BBA and others and other matters
+[2020] 5 SLR 266 (at [50] and [68]), public policy and arbitrability are
+unique to each state. They are also fundamental to the forum such that an
+award that falls foul of public policy or arbitrability should not be enforced
+even if parties waive their objection. It is thus less than desirable for the
+seat court to have to apply the public policy considerations of another
+jurisdiction (based on the proper law of the arbitration agreement). On the
+other hand, it is wholly appropriate for the seat court to apply its own law
+to determine the public policy considerations of its own state. For this
+reason also, I conclude that it is the law of the seat that determines the
+issue of subject matter arbitrability at the pre-award stage.
+
+45 Before I end this section, I make one observation. It should be noted that
+the conceptual rationale behind a foreign enforcement court’s application of
+the non-arbitrability doctrine may well be different. Where a foreign
+enforcement court is asked not to recognise or enforce an arbitral award on
+grounds of non-arbitrability or public policy, it applies its own law to
+determine that question. This is described as an “exceptional escape valve”
+which allows contracting states of the New York Convention to refuse
+enforcement of an otherwise valid and binding arbitration award on non-
+arbitrability grounds (International Commercial Arbitration at pp 1040 and
+643). This is consistent with the Court of Appeal’s observation in Tomolugen
+Holdings (at [73]) that the effect of Art 1(5) of the Model Law which provides
+that the Model Law “shall not affect any other law of this State by virtue of
+which certain disputes may not be submitted to arbitration or may be submitted
+to arbitration only according to provisions other than those of this Law” is
+to preserve the force of the domestic state’s laws on arbitrability.
+Individual states are given the discretion under the New York Convention to
+refuse to enforce an award it deems non-arbitrable or contrary to its own
+public policy. The result, as stated in Comparative International Commercial
+Arbitration at para 9-18, is that “each country determines for itself which
+disputes it considers to be arbitrable”. In this case, the rationale is simply
+to respect the public policy considerations of contracting states such that
+they are not forced to enforce foreign awards they deem contrary to their own
+public policy.
+
+46 Thus, one could conceive of a scenario where a seat court in Singapore,
+applying its own law, refuses to set aside an award on grounds of non-
+arbitrability or public policy; that essentially means that the arbitral
+tribunal was clothed with jurisdiction to hear the dispute concerned. Despite
+this determination by the seat court, a foreign enforcement court may,
+applying its own law, nevertheless decline to enforce that award on the very
+same grounds of non-arbitrability and/or public policy according to its law.
+There is nothing incongruous or anomalous about such an outcome as this is
+simply an illustration of the “exceptional escape valve” mechanism that is
+ingrained within, and therefore in a sense envisaged by, the very structure of
+the Model Law and the New York Convention.
+
+47 On the other hand, anomalies may well result if the law of the seat is not
+applied to the issue of subject matter arbitrability at the pre-award stage,
+as I demonstrate in the next section.
+
+The same law should be applicable to arbitrability issues at the pre-award and
+post-award stages
+
+48 The second main reason for my conclusion is that applying the law of the
+seat avoids potential anomalies that would otherwise arise from applying the
+proper law of the arbitration agreement to the question of pre-award subject
+matter arbitrability. It is uncontroversial that when the seat court considers
+an application to set aside an award on grounds of non-arbitrability of the
+dispute, it applies its own law (ie, the law of the seat) – see BNA at [28]
+above. However, if the defendant’s case is to be accepted, then the seat court
+must apply a potentially different law (ie, the proper law of the arbitration
+agreement) to arbitrability issues at the pre-award stage. If so, it is not
+difficult to envision potentially anomalous outcomes, and I can think of two
+examples.
+
+49 In both examples, the following assumptions are made – (a) that the
+contract contains an arbitration agreement providing for disputes to be
+arbitrated in Singapore (b) that the proper law of the arbitration agreement
+is not Singapore law but a foreign system of law and (c) that the particular
+dispute between the parties is not arbitrable under Singapore law as the law
+of the arbitral seat but is arbitrable under the foreign proper law of the
+arbitration agreement.
+
+50 In the first example, party A commences court proceedings in Singapore
+against party B and in response, party B makes an application under s 6 of the
+IAA for a stay of the court proceedings in favour of arbitration. Party A
+asserts, in opposition to the application, that a stay should be refused
+because the subject matter of the dispute is not arbitrable under Singapore
+law as the lex loci arbitri whereas party B contends that the stay should be
+granted because the dispute is arbitrable under the proper law of the
+arbitration agreement. The Singapore court finds, applying the foreign proper
+law of the arbitration agreement, that the dispute is arbitrable and orders a
+stay of the court proceedings. Arbitration proceedings are then commenced in
+Singapore, prosecuted and an award is rendered against party A. After the
+award is rendered, party A who initially (and unsuccessfully) opposed the stay
+application may then file an application in the Singapore court to set aside
+the award and rely on Art 34(2)(b)(i) of the Model Law. Since under that
+provision, the seat court is mandated to apply the law of the seat at the
+post-award setting aside stage, it would then have to decide that the dispute
+is not arbitrable under Singapore law and consequently, set aside the award.
+
+51 In the second example, party A commences arbitration proceedings against
+party B in Singapore. Party B makes an application to challenge the
+jurisdiction of the tribunal on the basis that the subject matter of the
+dispute is not arbitrable. The tribunal, applying the foreign proper law of
+the arbitration agreement, decides that it has jurisdiction as the dispute is
+arbitrable under that system of law. Party B, being dissatisfied with the
+tribunal’s jurisdiction ruling, applies to the High Court under s 10(3) of the
+IAA for the court to consider the matter, and the court agrees with the
+tribunal. The arbitration continues and an award is rendered against party B.
+Party B then applies to set aside the award under Art 34(2)(b)(i) Model Law.
+Now, at the post-award stage, the same court would have to apply Singapore law
+as the law of the seat, arrive at the conclusion that the subject matter is
+not arbitrable under Singapore law and consequently, set aside the award.
+
+52 Based on the examples above, it seems illogical for the same court to come
+to two different conclusions on subject matter arbitrability of the dispute(s)
+in question merely because the argument or challenge is raised at different
+stages in the process (ie, pre-award versus post-award). The examples I have
+raised above are not esoteric or far-fetched and were briefly alluded to by Mr
+Thio SC in his oral arguments. 32
+
+##### Foot Note 32
+
+×
+
+NE 29 April 2021 at pp 7 (lines 24 to 31) and 8 (lines 1 to 7); NE 2 July 2021
+at p 16 (lines 14 to 25).
+
+Mr Nandakumar’s response was that the court could legitimately apply different
+laws to the issue of arbitrability depending on the stage at which the issue
+arises. 33
+
+##### Foot Note 33
+
+×
+
+NE 2 July 2021 at pp 21 (lines 30 to 32) and 22 (lines 1 to 5).
+
+Conceptually, that may well be so, but it does not provide a satisfactory
+answer to the more fundamental question, which is whether the occurrence of
+such anomalous outcomes is justified. One can easily imagine the substantial
+time and costs that would be wasted as a result of the seat court applying the
+proper law of the arbitration agreement for arbitrability challenges pre-award
+and the law of the seat post-award, particularly if the court arrives at
+different conclusions at both stages and an award is eventually set aside,
+effectively rendering it a brutum fulmen. One might also argue that it is an
+exercise in futility to recognise, pre-award, the jurisdiction of an arbitral
+tribunal applying the proper law of the arbitration agreement only for that
+tribunal’s award to end up being set aside by the seat court applying the law
+of the seat post-award.
+
+53 There is no principled reason why the same approach should not be applied
+to subject matter arbitrability issues at both stages. Such an approach
+ensures that a consistent result is always arrived at by the seat court
+regardless when the issue of arbitrability arises. This approach (ie, of
+applying the law of the seat) is, in my judgment, correct and to be preferred.
+It avoids the anomalous outcomes in the two examples I have highlighted above
+and engenders certainty in the law.
+
+Applying the law of the seat at the pre-award stage is consistent with the
+policy to promote international commercial arbitration
+
+54 The third main reason is that applying the law of the seat would be more
+consistent with the policy to promote international commercial arbitration. As
+noted in International Commercial Arbitration at p 649:
+
+The forum court is also fully entitled to deny effect to a foreign
+nonarbitrability rule if it conflicts with a mandatory law or public policy of
+the forum itself – including specifically with public policies of the forum
+that favour international arbitration. Thus, even if the laws of State B
+provide that particular statutory claims under State B’s laws may not be
+resolved by arbitration, State C courts may properly decide that State C’s
+public policy is to give broad effect to international arbitration agreements,
+including with regard to particular categories of disputes, and that State B’s
+nonarbitrability rules will therefore not be applied in State C.
+
+[emphasis added]
+
+Our courts have consistently given broad effect to international arbitration
+agreements. The Court of Appeal in Tjong Very Sumito v Antig Investments Pte
+Ltd [2009] 4 SLR(R) 732 (at [28]) noted that an unequivocal judicial policy of
+facilitating and promoting arbitration has firmly taken root in Singapore.
+That policy is consistent with the intention expressed by Parliament in the
+IAA and I am prepared to accept that it is part of Singapore’s public policy
+to promote or favour international arbitration. Thus, the court ought to give
+effect to the parties’ contractual choice as to the manner of dispute
+resolution unless it offends our law. In my view, this extends naturally, at
+one end of the spectrum, from enforcing the contractual bargain of parties to
+arbitrate their disputes to, at the other end of that spectrum, upholding the
+finality of arbitral awards save for exceptional circumstances where the
+grounds for setting aside or refusal of enforcement are met. As such, it is in
+my judgment neither necessary nor desirable for this court to give effect to
+foreign non-arbitrability rules, particularly when doing so would potentially
+undermine Singapore’s policy of supporting international commercial
+arbitration. Instead, applying the law of the seat to the issue of subject
+matter arbitrability would, in my judgment, be consistent with the policy to
+facilitate such arbitration in Singapore.
+
+The weight of authority leans in favour of the law of the seat being applied
+
+55 Finally, the weight of academic authority and such case law as is available
+leans in favour of the view that the law of the seat should apply to determine
+issues of arbitrability.
+
+56 In Gary Born’s International Commercial Arbitration at pp 643, 644, 649 and
+650, the learned author recognises that a number of choice of law options are
+possible but opines that the “better course is for the judicial enforcement
+forum not to give effect to foreign nonarbitrability rules, but instead to
+recognize the otherwise valid agreement to arbitrate” (at p 643) and “it is
+only in rare and exceptional cases that a foreign nonarbitrability rule should
+be given effect by a national court … Consistent with this, the weight of
+authority concludes that a court or tribunal should only take into account the
+nonarbitrability rules of a foreign jurisdiction in extremely limited
+instances, generally involving a violation of either international or local
+public policy or mandatory law” (at p 650).
+
+57 In Comparative International Commercial Arbitration at paras 9-10 to 9-11,
+the authors note that there are a number of divergent views in national court
+practices. One such view involves the application of different criteria
+depending on whether the question arises at the referral stage or at the
+enforcement stage. The authors cite a Brussels Court of Appeal decision,
+Company M v M S A (1986) YBCA XIV 618 (“Company M”), where the court held
+that:
+
+the arbitrability of a dispute must be ascertained according to different
+criteria, depending on whether the question arises when deciding on the
+validity of the arbitration agreement or when deciding on the recognition and
+enforcement of the arbitral award.
+
+In the first case, the arbitrability is ascertained according to the law which
+applies to the validity of the arbitration agreement and …… its object. It is
+therefore the law of autonomy which provides the solution to the issue of
+arbitrability.
+
+An arbitrator or court faced with this issue must first determine which law
+applies to the arbitration agreement and then ascertain whether, according to
+this law, the specific dispute is capable of settlement by arbitration. […]
+
+Within the framework of the New York Convention, the expression ‘concerning a
+subject matter capable of settlement by arbitration’ Article II(1) does not
+affect the applicability of the law designated by the uniform solution of
+conflict of laws for deciding on the arbitrability of the dispute at the level
+of the arbitration agreement.
+
+According to the New York Convention, the arbitrability of the dispute under
+the law of the forum must be taken into consideration only at the stage of
+recognition and enforcement of the award and not when examining the validity
+of the arbitration agreement. This rule can be explained by the consideration
+that the arbitral award will, in the majority of cases, be executed without
+the intervention of an enforcement court …
+
+58 The defendant relies on this decision as support that it is the law
+governing the arbitration agreement which applies to determine the
+arbitrability of a dispute. 34
+
+##### Foot Note 34
+
+×
+
+DWS at para 65.
+
+I note that the full report of the decision was not available and, in any
+event, it does not bind this court. The Brussels Court of Appeal considered
+that within the framework of the New York Convention, the expression
+“concerning a subject matter capable of settlement by arbitration” in Art
+II(1) does not “affect the applicability of the law designated by the uniform
+solution of conflicts of laws for deciding on the arbitrability of the dispute
+at the level of the arbitration agreement”. With respect, it is not clear to
+me what the court meant by that and whether it was applying a particular
+Belgian conflicts of law rule pointing the court to the proper law of the
+arbitration agreement for arbitrability issues at the pre-award stage. I am
+therefore hesitant to adopt the reasoning in Company M and I am not persuaded
+that it should be followed in Singapore. The approach taken in Company M also
+does not cohere with the jurisdictional nature of subject matter
+arbitrability, would likely create anomalous results and is not consistent
+with the policy in Singapore to promote international commercial arbitration.
+In my view, the approach adopted by the Genoa Court of Appeal in Fincantieri
+(above at [37]) is preferable and consistent with my own analysis and
+decision.
+
+59 Further, the authors of Comparative International Commercial Arbitration at
+para 9-18 also ultimately conclude, after noting that arbitrability is
+primarily a question of jurisdiction, that “the better view is that the law
+applicable to the question of arbitrability in court proceedings should be
+governed exclusively by the provisions of the law of the national court which
+determines the case”.
+
+60 This conclusion is echoed by Bernard Hanotiau in The Law Applicable to
+Arbitrability (at [29]) where the author opines as follows:
+
+Suppose one of the parties has commenced the arbitration procedure in
+accordance with the arbitration agreement and the other party considers that
+the dispute is not arbitrable and starts a procedure before a national court.
+How is the national court going to decide this issue of arbitrability? Subject
+to any contrary solution under an applicable international convention, it will
+in principle apply its national law. This is the better view even if it has
+been argued by some authors and decided by various courts that arbitrability
+should be determined by the law applicable to the validity of the arbitration
+agreement.
+
+[emphasis added]
+
+In the footnotes to the passage above, the author refers to Comparative
+International Commercial Arbitration at para 9-18 and to Company M.
+
+61 In terms of available case law, the conclusion reached in Fincantieri is
+aligned with the “better view” expressed in the academic literature. I myself
+can see no compelling or exceptional reason to take a different path in the
+case before me.
+
+62 Thus, applying Singapore law as the law of the arbitral seat, I find that
+the disputes between the parties in the NCLT Proceedings are arbitrable. It is
+therefore not necessary for me to make a finding on whether the “pith and
+substance” of the disputes between the parties are contractual in nature
+and/or arise out of the SHA or whether they relate to oppression and
+mismanagement since all of these disputes, no matter their characterisation,
+are arbitrable under Singapore law. Nor is it necessary for me to determine
+what is the proper law of the arbitration agreement. Even if it is found to be
+Indian law, that is of no relevance as it is Singapore law as the law of the
+seat that I have found to be relevant to the issue of subject matter
+arbitrability. Additionally, while the defendant argues that the arbitration
+agreement is null and void, inoperative or incapable of being performed vis-à-
+vis disputes relating to oppression and mismanagement because such disputes
+are non-arbitrable under Indian law, 35
+
+##### Foot Note 35
+
+×
+
+DWS at paras 62 to 68.
+
+this argument also necessarily fails given my findings and conclusions above.
+
+Second issue: Whether the bringing of the claims by the defendant before the
+NCLT is in breach of the arbitration agreement
+
+63 I turn now to address whether the bringing of the claims by the defendant
+before the NCLT is in breach of the arbitration agreement. This issue concerns
+the construction of the arbitration agreement and its scope. The plaintiff
+says that the disputes are essentially issues relating to the exercise of
+contractual rights under the SHA and fall within the scope of the arbitration
+agreement. Thus, the defendant has breached the arbitration agreement by
+commencing the NCLT proceedings. 36
+
+##### Foot Note 36
+
+×
+
+PWS at paras 33 and 53 to 55.
+
+However, the defendant contends that the disputes pertain to oppression and
+mismanagement under Indian law and do not fall within the scope of the
+arbitration agreement. Parties could not have intended for disputes relating
+to oppression and mismanagement to fall within the scope of the arbitration
+agreement since it would be unworkable and liable to be declared void under
+Indian law. 37
+
+##### Foot Note 37
+
+×
+
+DWS at para 4.
+
+64 I note that no evidence was led by the parties and no arguments were made
+on whether Indian law (assuming it is the proper law of the arbitration
+agreement) applies principles that are different to Singapore law with regard
+to the construction of an arbitration agreement. As such, I have proceeded on
+the basis that the approach to construing an arbitration agreement and its
+ambit is the same, whether under Singapore or Indian law.
+
+Analysis and decision
+
+65 I have been guided in this task by the Court of Appeal in Larsen Oil and
+Gas Pte Ltd v Petropod Ltd (in official liquidation in the Cayman Islands and
+in compulsory liquidation in Singapore) [2011] 3 SLR 414 (“Larsen Oil”) (at
+[19]) where it was explained that arbitration clauses should be generously
+construed such that all manner of claims, whether common law or statutory,
+should be regarded as falling within their scope unless there is good reason
+to conclude otherwise. Further, the court must consider “the pith and
+substance” of the dispute as it appears from the circumstances in evidence
+(and not just the particular terms in which the claims have been formulated in
+court) (see Oei Hong Leong v Goldman Sachs International [2014] 3 SLR 1217 at
+[36]).
+
+66 In my judgment, all the disputes between the parties brought before the
+NCLT by the defendant fall within the scope of the arbitration agreement. The
+arbitration clause (see [10] above) is not only widely drafted but,
+importantly, also specifically mentions disputes “relating to the management
+of the Company or relating to any of the matters set out in this Agreement”
+[emphasis added]. All the disputes including the claims relating to collusion
+and breach of fiduciary duties relate to the management (or mismanagement as
+the case may be) of People Interactive and fall squarely within the wording
+and ambit of the arbitration agreement. There can be no serious argument to
+the contrary.
+
+67 I see no merit in the defendant’s submissions that the disputes between the
+parties fall outside of the scope of the arbitration agreement on the basis
+that parties could not have intended for disputes relating to oppression and
+mismanagement to fall within the scope of the arbitration agreement because it
+would otherwise be declared void under Indian law. 38
+
+##### Foot Note 38
+
+×
+
+DWS at para 56.
+
+This is contrary to the express wording of the arbitration clause which
+specifically identifies disputes relating to the “management” of People
+Interactive. It is also, in my judgment, speculative to assert that parties
+applied their minds to or contemplated excluding claims brought under Indian
+companies law legislation when they opted, in the SHA, to submit their
+disputes to an arbitration seated in Singapore.
+
+68 Thus, I find that the disputes in question do fall within the scope of the
+arbitration agreement in the SHA, and the defendant commenced the NCLT
+Proceedings in breach of the arbitration agreement.
+
+Third issue: Whether the court should grant the permanent anti-suit injunction
+sought by the plaintiff
+
+69 Finally, I turn to the issue of whether a permanent anti-suit injunction
+should be granted. The applicable legal principles are well-settled and not in
+dispute. The Court of Appeal, in Sun Travels & Tours Pvt Ltd v Hilton
+International Manage (Maldives) Pvt Ltd [2019] 1 SLR 732 (“Sun Travels”) (at
+[66]), summarised the five factors to be considered in deciding whether to
+grant an anti-suit injunction as follows:
+
+(a) whether the defendant is amenable to the jurisdiction of the Singapore
+court;
+
+(b) whether Singapore is the natural forum for resolution of the dispute
+between the parties;
+
+(c) whether the foreign proceedings would be vexatious or oppressive to the
+plaintiff if they are allowed to continue;
+
+(d) whether the anti-suit injunction would cause any injustice to the
+defendant by depriving the defendant of legitimate juridical advantages sought
+in the foreign proceedings; and
+
+(e) whether the institution of foreign proceedings was or would be in breach
+of any agreement between the parties.
+
+70 The Court of Appeal in Sun Travels also reaffirmed the well-known principle
+that, in cases of arbitration agreements, it would suffice to show that there
+was a breach of an arbitration agreement and in which case, anti-suit
+injunctive relief would ordinarily be granted unless there are strong reasons
+not to. This is a separate basis on which an anti-suit injunction may be
+granted, distinct from when such an injunction may be granted to prevent
+unconscionable conduct by the injunctee. There is no need to adduce any
+additional evidence of unconscionable conduct in cases where the party to be
+injuncted has brought, or is threatening to bring, proceedings in breach of
+its obligations under an arbitration agreement. The court ought not to, in
+such circumstances, feel any diffidence in granting an anti-suit injunction
+subject to the caveat that the injunction “is sought promptly and before the
+foreign proceedings are too far advanced” (Anggeliki Charis Compania Maritima
+SA v Pagnan SpA [1995] 1 Lloyd’s Rep 87 (at 96); Sun Travels at [66]–[68]). If
+there is delay in bringing the application, comity considerations may become
+relevant (Sun Travels at [75] and [81]–[83]).
+
+Analysis and decision
+
+The defendant is amenable to the jurisdiction of the court
+
+71 As a preliminary point, the defendant argues that he is not amenable to the
+jurisdiction of the Singapore courts because he does not reside in Singapore
+and was not amenable to being served with proceedings out of jurisdiction. He
+also contends that he does not submit to the jurisdiction of the Singapore
+courts and the only and proper forum for the resolution of the dispute between
+him and the plaintiff is the NCLT. 39
+
+##### Foot Note 39
+
+×
+
+DWS at paras 27 to 32; 1AM at para 5.
+
+The plaintiff contends that the court has in personam jurisdiction over the
+defendant under s 16(1)(a)(ii) of the Supreme Court of Judicature Act (Cap
+322, 2007 Rev Ed) because leave was granted to serve the cause papers for OS
+242 on the defendant out of jurisdiction and the defendant was personally and
+validly so served. 40
+
+##### Foot Note 40
+
+×
+
+HR/ORC 1458/2021.
+
+The defendant has also submitted to the jurisdiction of the Singapore courts
+by agreeing to arbitration of the disputes in the SHA in Singapore. 41
+
+##### Foot Note 41
+
+×
+
+1SAM at para 87(a).
+
+72 An injunction will only be issued restraining a party who is amenable to
+the jurisdiction of the court (see Bank of America National Trust and Savings
+Association v Djoni Widjaja [1994] 2 SLR(R) 898 at [11]). In Koh Kay Yew v
+Inno-Pacific Holdings Ltd [1997] 2 SLR(R) 148 (“Koh Kay Yew”) (at [17]), the
+Court of Appeal stated that a party would be amenable to the jurisdiction of
+the court if that party was “validly served with the required court documents
+as required by the present Rules of Court finding jurisdiction in Singapore”
+or submitted to the court’s jurisdiction. As also noted by the Court of Appeal
+in Koh Kay Yew (at [17]):
+
+Being amenable to the jurisdiction of the local courts simply means being
+liable or accountable to this jurisdiction. As such, so long as any local
+courts have in personam jurisdiction over a party, either through the proper
+service of documents or through submission to the jurisdiction, this first
+criteria would be satisfied.
+
+[emphasis added in italics and bold italics]
+
+73 In my judgment, the defendant is amenable to the jurisdiction of this court
+on both counts. ORC 1458, granting the plaintiff leave to serve OS 242 and the
+supporting affidavit of Ms Mani on the defendant out of jurisdiction, was made
+on 15 March 2021. In its leave application, the plaintiff relied on O11 r 1(r)
+of the Rules of Court (2014 Rev Ed) (“ROC”), namely that OS 242 was in respect
+of matters in which the defendant had agreed to submit to the jurisdiction of
+the court. Even though the defendant does not reside in Singapore, he is party
+to an arbitration agreement which envisages arbitration seated in Singapore.
+As such, the defendant has also, in my view, agreed to submit to the
+supervisory jurisdiction of this court as the court in the arbitral seat. Such
+supervisory jurisdiction is not limited to merely supervising the actual
+arbitral process but includes the jurisdiction to supervise the conduct of a
+party to a contract and compelling, if necessary, that party to comply with
+its contractual obligations to resolve disputes with its counterparty in
+Singapore in accordance with the contractually agreed dispute resolution
+mechanism.
+
+74 In the context of this case where the defendant has entered into an
+arbitration agreement specifying Singapore as the seat of arbitration, the
+words “agreed to submit to the jurisdiction of the Court” in O 11 r 1(r) of
+the ROC are, in my judgment, wide enough to encompass an agreement to submit
+to such supervisory jurisdiction of this court.
+
+75 Secondly, and related to the point made at [73] above, the defendant’s
+conduct is to be taken (a) as a submission to this court’s jurisdiction or
+alternatively (b) a waiver of any jurisdictional irregularity. In the further
+alternative, the court is in any event entitled to proceed on the basis that
+there has been proper service on the defendant. I elaborate below.
+
+76 The defendant avers in his affidavit in support of SUM 1477 and in
+opposition to OS 242 that he does not submit to the jurisdiction of this court
+and that the actions taken by him in OS 242 do not amount to a step in the
+proceedings. However, and significantly, the defendant did not take any steps
+to dispute the jurisdiction of the court by way of an application to set aside
+ORC 1458 (ie, the order granting the plaintiff leave to serve the cause papers
+in OS 242 on the defendant ex juris).
+
+77 O 28 r 2A(1) of the ROC provides as follows:
+
+Dispute as to jurisdiction (O. 28, r. 2A)
+
+2A.—(1) A defendant who wishes to dispute the jurisdiction of the Court in the
+proceedings by reason of any irregularity in the originating summons or
+service thereof or in any order giving leave to serve the originating summons
+out of the jurisdiction or extending the validity of the originating summons
+for the purpose of service or on any other ground shall within 21 days after
+service of the originating summons and supporting affidavit or affidavits on
+him apply to the Court for —
+
+(a) an order setting aside the originating summons or service of the
+originating summons on him;
+
+(b) an order declaring that the originating summons has not been duly served
+on him;
+
+(c) the discharge of any order giving leave to serve the originating summons
+on him out of the jurisdiction;
+
+(d) the discharge of any order extending the validity of the originating
+summons for the purpose of service;
+
+(e) the protection or release of any property of the defendant seized or
+threatened with seizure in the proceedings;
+
+(f) the discharge of any order made to prevent any dealing with any property
+of the defendant;
+
+(g) a declaration that in the circumstances of the case the Court has no
+jurisdiction over the defendant in respect of the subject-matter of the claim
+or the relief or remedy sought in the action; or
+
+(h) such other relief as may be appropriate.
+
+[emphasis added in italics and bold italics]
+
+O 28 r 2A(1) mirrors the wording of O12 r 7(1). However, O 28 does not contain
+the equivalent of O 12 r 7(6), which provides that:
+
+Except where the defendant makes an application in accordance with paragraph
+(1), the appearance by a defendant shall, unless the appearance is withdrawn
+by leave of the Court under Order 21, Rule 1, be treated as a submission by
+the defendant to the jurisdiction of the Court in the proceedings.
+
+[Emphasis added]
+
+78 Even so, in my judgment, if the defendant wished to dispute the
+jurisdiction of the court, it was incumbent on him to make an application
+under O 28 r 2A(1)(c) of the ROC to set aside or discharge ORC 1458 within 21
+days after the service of OS 242 and the supporting affidavit on him. It is
+not in dispute that the defendant was served with the cause papers for OS 242
+on 26 March 2021 42
+
+##### Foot Note 42
+
+×
+
+1AM at para 89.
+
+and thereafter, proceeded to defend the application. 43
+
+##### Foot Note 43
+
+×
+
+1AM at para 88.
+
+Yet, the defendant did not apply to set aside ORC 1458. As I have explained,
+SUM 1477 filed by the defendant on 30 March 2021 together with his supporting
+affidavit, was not an application to set aside ORC 1458 but to set aside ORC
+1463, which was the ex parte injunction order.
+
+79 O 28 r 2A(1) of the ROC is phrased in mandatory terms as seen by the use of
+the words “shall within 21 days”. In my judgment, a failure to challenge
+jurisdiction under O 28 r 2A(1) of the ROC within the prescribed time limit
+would mean that the defendant is, thereafter, taken to have submitted to the
+court’s jurisdiction or waived any jurisdictional irregularity in relation to
+OS 242. Alternatively, the court is entitled to proceed on the basis that
+there has been “proper service” on the defendant (Koh Kay Yew at [17]).
+
+80 There is support for my conclusion in the authorities. In Woh Hup (Pte Ltd
+v Property Development Ltd [1991] 1 SLR(R) 473 (“Woh Hup”) (at [20]), Chan Sek
+Keong J (as he then was) considered that a failure to enter a conditional
+appearance with a view of setting aside the service of the originating summons
+outside of the jurisdiction on the ground of lack of jurisdiction meant that
+the defendants had submitted to the jurisdiction of the court. The commentary
+in Singapore Civil Procedure 2021 vol 1 (Cavinder Bull SC gen ed) (Sweet &
+Maxwell, 2021) at para 12/7/4 regarding O 12 r 7 of the ROC, states as
+follows:
+
+…But where a defendant disputes the court’s jurisdiction he must comply with
+the provisions of O.12, r.7. Thus, a defendant who wishes to challenge an
+order extending the validity of a writ should do so by invoking O. 12, r.7(1)
+… Failure to do so will preclude the defendant from challenging jurisdiction
+at a later stage in the proceedings …
+
+[emphasis added]
+
+In Allenger Shiona (trustee-in-bankruptcy of the estate of Pelletier, Richard
+Paul Joseph) v Pelletier, Olga and another [2020] SGHC 279 (at [104]), Ang SJ
+noted that the effect of the time limits for challenging the court’s
+jurisdiction in O 12 r 7(1) of the ROC is to disallow challenges made beyond
+such limits, unless an extension has been granted. Finally, in Broadcast
+Solutions Pte Ltd v Zoom Communications Ltd [2014] 1 SLR 1324 (at [30]), Woo
+Bih Li J (as he then was) also opined, in the context of a stay application,
+that a non-challenge as to jurisdiction would ordinarily be construed as a
+submission.
+
+81 In my judgment, the proposition that a defendant who fails to dispute
+jurisdiction in accordance with the ROC is precluded from later challenging
+jurisdiction applies equally in the context of O 28 r 2A(1); particularly so
+since the wording of O 28 r 2A(1) of the ROC is in pari materia with O 12 r
+7(1). Thus, the defendant’s assertions on affidavit are, in my judgment,
+ineffective and inadequate to constitute a dispute as to the court’s
+jurisdiction (and by extension, his amenability to this court’s jurisdiction).
+It does not alter the fact that the defendant’s decision not to challenge the
+court’s jurisdiction in the manner prescribed by O 28 r 2A(1), by way of an
+application to set aside or discharge ORC 1458, would amount to a submission
+to this court’s jurisdiction in so far as OS 242 is concerned, or at the least
+a waiver of any jurisdictional irregularity that may have existed.
+Alternatively, even if I am wrong on this, in these circumstances, the court
+nevertheless proceeds on the assumption that the defendant has been properly
+served; until ORC 1458 is set aside, it remains a valid order and the court
+proceeds on that basis. Thus, the amenability requirement would still be met.
+As held in Koh Kay Yew at (see [72] above), the amenability test is satisfied
+either by proper service or submission to jurisdiction.
+
+82 Finally, while the defendant argues that OS 242 was not validly served out
+of jurisdiction since the disputes are non-arbitrable under Indian law, that
+contention falls away in the light of my conclusions above on the issue of
+arbitrability. I therefore reject the defendant’s contention that he is not
+amenable to the jurisdiction of the court.
+
+83 Since, as I have found, the defendant’s commencement of the NCLT
+Proceedings in India is in breach of the arbitration agreement in the SHA,
+prima facie, an anti-suit injunction should be granted against the defendant
+unless there is strong reason not to do so. Concerns regarding comity do not
+arise in this case since there is no delay by the plaintiff in seeking
+injunctive relief. Ultimately, this court is not arrogating to itself
+jurisdiction exercised by the court of a foreign friendly state but is merely
+seeking to uphold and enforce the parties’ contractual bargain.
+
+84 The remaining question is whether there nevertheless exists strong reason
+not to grant an anti-suit injunction.
+
+There is no strong reason not to grant an anti-suit injunction
+
+85 Mr Nandakumar raised four grounds in seeking to establish the existence of
+strong reason not to grant an anti-suit injunction, namely:
+
+(a) the resulting award will not be enforceable in India; 44
+
+##### Foot Note 44
+
+×
+
+DWS at paras 79 to 83.
+
+(b) the NCLT Proceedings are not vexatious and oppressive and it is the
+plaintiff’s application in Singapore that is vexatious and oppressive; 45
+
+##### Foot Note 45
+
+×
+
+DWS at paras 84 to 93.
+
+(c) the arbitration agreement does not bind all parties to the dispute whereas
+the NCLT has jurisdiction over all relevant parties; 46
+
+##### Foot Note 46
+
+×
+
+DWS at paras 94 to 96.
+
+and
+
+(d) the NCLT is the natural and competent forum to hear the dispute. 47
+
+##### Foot Note 47
+
+×
+
+DWS at paras 98 to 99.
+
+In my judgment, none of these grounds, singly or collectively, constitutes
+strong reason not to grant the injunction sought by the plaintiff. I address
+each ground in turn.
+
+86 The first ground, even if correct, does not afford strong reason why the
+arbitration agreement should not be enforced. The seat court is not concerned
+with ensuring that an award emanating from a tribunal in the seat country will
+be enforceable, whether in the jurisdiction where enforcement will likely take
+place or in any other jurisdiction. The Court of Appeal in Larsen Oil (at
+[26]) stated that:
+
+Second, it is important to remember that arbitration is not an end in itself.
+Parties engage in arbitration in order to obtain an arbitral award that can be
+enforced. An arbitral award in respect of [a] non-arbitrable claim is a brutum
+fulmen as it can be set aside under s 48(1)(b)(i) of the AA even if the issue
+of arbitrability is not raised by the parties. It is an utter waste of time
+for parties to incur time and cost through arbitration, only to obtain an
+arbitral award that is later set aside for non-arbitrability, and to have the
+entire litigation process repeated again to have their dispute sorted out….
+
+Whilst Larsen Oil was a case concerned with the Arbitration Act (Cap 10, 2002
+Rev Ed), the observations made by the court in the passage quoted above would
+apply equally to an arbitration subject to the IAA. The seat court’s concern,
+if at all, should be to ensure as far as possible that an award rendered in
+the arbitral seat does not become a brutum fulmen because it is liable to
+being set aside by the very same seat court on account of non-arbitrability.
+
+87 That reasoning cannot however be extended to also ensuring that the award
+will be enforceable in all other conceivable jurisdictions. Public policy and
+arbitrability considerations are unique to individual states. Both the Model
+Law and the New York Convention recognise this by providing for an “escape
+valve” mechanism allowing contracting states to refuse to recognise or enforce
+an arbitral award it deems to be contrary to its own policy. As I have alluded
+to at [46], this “risk” is inherent within the scheme of international
+commercial arbitration. Further, under the New York Convention, any award
+rendered by a tribunal in this case is potentially enforceable in any country
+in which the said convention applies, and not just in India. It would be
+speculative for the court to predict which are the more likely venues of
+enforcement especially given that assets may be moved from jurisdiction to
+jurisdiction. As such, the likelihood of an award being enforceable in other
+jurisdictions, while it may conceivably be raised as a factor for the court’s
+consideration, does not, in my judgment, amount to strong reason in this case
+not to grant the anti-suit injunction.
+
+88 The second ground is also insufficient to amount to strong reason. Flowing
+from my conclusions that subject matter arbitrability is governed by the law
+of the seat and that the claims made by the defendant in the NCLT Proceedings
+are arbitrable, it follows that the NCLT Proceedings were brought by the
+defendant in breach of the arbitration agreement and are therefore, prima
+facie, vexatious and oppressive. The arguments on how the proceedings in
+Singapore were conducted or prosecuted by plaintiff also fall away and are, in
+any case, not enough to displace the case for an anti-suit injunction. It
+cannot, in the circumstances, be said that the application for an anti-suit
+injunction was itself vexatious and oppressive conduct by the plaintiff,
+especially since the plaintiff would, prima facie, be entitled to an anti-suit
+injunction to enforce the arbitration agreement in the first place.
+
+89 The third ground also falls away in the light of the defendant’s breach of
+the arbitration agreement. There is no need for the plaintiff to show any
+separate basis as to why the NCLT Proceedings are vexatious or oppressive.
+While the defendant claims that an arbitral tribunal would have no
+jurisdiction over Ms Mani since she is not a party to the SHA, Mr Thio SC
+confirmed during the oral hearing and it was recorded by the court, that if
+necessary, Ms Mani is prepared to give an undertaking that she agrees to
+submit to any arbitration commenced by the defendant in Singapore in relation
+to the claims brought by the defendant in the NCLT Proceedings. 48
+
+##### Foot Note 48
+
+×
+
+NE 2 July 2021 at pp 19 (line 32) and 20 (line 3).
+
+I also note that Ms Mani has stated on affidavit that the arbitration
+agreement applies to her notwithstanding that she is not party to the SHA
+because she is a “[party] to the dispute”. 49
+
+##### Foot Note 49
+
+×
+
+Shobitha Annie Mani 2nd affidavit dated 19 April 2021 at paras 16 to 17.
+
+All the other parties to the NCLT Proceedings (see [13] above) are parties to
+the SHA. Thus, this concern also falls away accordingly.
+
+90 The fourth ground also does not afford strong reason and is, in my
+judgment, not relevant in this case. As I have found that the claims in the
+NCLT Proceedings have been brought in breach of the arbitration agreement,
+then as a matter of the parties’ contractual bargain, Singapore is where
+proceedings have to be brought. That is the positive aspect of the parties’
+obligations under the arbitration agreement. Therefore, in that sense, it
+could be said that it is Singapore that is the natural and competent forum and
+not India (or the NCLT specifically).
+
+91 However, even if India is, ex hypothesi, the natural forum considering the
+connecting factors to the parties and the dispute, that is also immaterial
+because parties have contractually agreed to resolve their disputes by way of
+arbitration proceedings in Singapore. It therefore does not matter that India
+is where the parties and the dispute may have more substantial connections.
+Consideration of the natural forum to hear the dispute (in the traditional
+sense as laid down in Spiliada Maritime Corporation v Cansulex [1987] AC 460)
+should not figure in the court’s analysis when it is deciding whether to grant
+an anti-suit injunction to restrain conduct that is in breach of an
+arbitration agreement, and there is good reason why this should be the case.
+
+92 For one, it is entirely conceivable that Singapore may be chosen by
+commercial parties as the arbitral seat precisely because it has no
+connections to the parties or the transaction and is therefore a completely
+neutral forum. For a party to then contend that another forum is the natural
+forum and that affords strong reason not to grant an anti-suit injunction to
+enforce the parties’ contractual bargain would effectively render the parties’
+autonomous choice nugatory. It also completely undermines the principle
+undergirding the grant of an anti-suit injunction in such circumstances which
+is to compel compliance with contractually agreed obligations.
+
+Conclusion
+
+93 For all of the reasons mentioned above, I find that there is sufficient
+merit in the plaintiff’s application. I therefore allow OS 242 and grant a
+permanent anti-suit injunction against the defendant in the following terms:
+
+An injunction is granted restraining the defendant, his agents or otherwise
+from:
+
+(a) pursuing, continuing and/or proceeding with the action commenced by the
+defendant by way of Company Petition No. 92 of 2021 in the National Company
+Law Tribunal (“NCLT”) in Mumbai, India; and
+
+(b) commencing or procuring the commencement of any legal proceedings in
+respect of any dispute, controversy, claim or disagreement of any kind in
+connection with or relating to the management of People Interactive (India)
+Private Limited (“People Interactive”), or in connection with or relating to
+any of the matters set out in the Shareholders’ Agreement dated 10 February
+2006, as amended from time to time (the “SHA”) in any other dispute resolution
+forum other than an arbitration tribunal constituted in accordance with the
+rules laid down by the International Chamber of Commerce (“ICC”) and seated in
+Singapore, against the plaintiff, and/or Shobitha Annie Mani and/or Navin
+Mittal and/or Anand Mittal and/or People Interactive and/or any person in
+relation to any dispute relating to the management of People Interactive, or
+arising from, connected with or relating to any of the matters set out in the
+SHA.
+
+94 I note that while the plaintiff made brief submissions on the
+appropriateness of the scope of the injunction sought, the defendant has not
+done so, save for the point relating to Ms Mani which I have already addressed
+above at [89]. In any case, the scope of the injunction sought is, in the
+circumstances of this case, appropriate.
+
+95 For completeness, it is unnecessary for me to decide on the matters raised
+in the defendant’s application in SUM 1477 to set aside the ex parte
+injunction granted in ORC 1463. As I heard full arguments inter partes on OS
+242 and have decided that a permanent anti-suit injunction should be granted,
+whether the interim injunction should be set aside is moot. Consequently, I
+dismiss SUM 1477.
+
+96 I shall hear the parties on costs separately.
+
+S Mohan  
+Judicial Commissioner |   
+---|---  
+|  
+  
+Thio Shen Yi SC, Tan May Lian Felicia and Uma Jitendra Sharma (TSMP Law
+Corporation) for the plaintiff;
+
+Nandakumar Ponniya Servai, Ashish Chugh, Pradeep Nair and Yiu Kai Tai (Wong &
+Leow LLC) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 26 Oct 2021 (11:42 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,2381 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 307
+
+Suit No 781 of 2020
+
+Between
+
+(1)| Cradle Wealth Solutions Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| MTN Consultants & Building Management Pte Ltd  
+---|---  
+(2)| Nazarisham bin Mohamed Isa  
+  
+… Defendants
+
+judgment
+
+[Contract — Contractual terms — Entire agreement clause]
+
+[Contract — Contractual terms — Parol evidence rule — Section 94(c) Evidence
+Act]
+
+[Contract — Intention to create legal relations — Sham — Whether settlement
+agreement was sham agreement]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Cradle Wealth Solutions Pte Ltd
+
+  
+v
+
+  
+
+MTN Consultants & Building Management Pte Ltd and another
+
+[2023] SGHC 307
+
+General Division of the High Court — Suit No 781 of 2020  
+Lee Seiu Kin J  
+4–6, 14 July, 15 September 2023
+
+27 October 2023 Judgment reserved.
+
+Lee Seiu Kin J:
+
+1 This suit arises from a contractual dispute over a settlement agreement in
+writing by which the defendants undertook to pay a sum of US$4,000,000 to the
+claimant by 29 June 2020, with time being of the essence. The settlement
+agreement resulted from a dispute between the parties over the claimant’s
+investments in the first defendant’s business. The claimant’s case is a
+straightforward enforcement of the settlement agreement. The defendants’
+primary case is that the settlement agreement in writing was a sham. The
+defendants also ran the alternative case that, notwithstanding the presence of
+an entire agreement clause in the settlement agreement, the parties had orally
+agreed not to enforce the settlement agreement until the successful
+“monetisation” of certain alexandrite gemstones which the second defendant had
+in his possession. As the alexandrite gemstones were never monetised, the
+defendants claimed that they were not obliged to make the payment under the
+settlement agreement. The issues in this case requires a consideration of the
+proper interpretation of s 94(c) of the Evidence Act (Cap 97, 1997 Rev Ed)
+(the “EA”). Hitherto, there has not been much judicial consideration on this
+exception to the parol evidence rule which pertains to evidence to prove an
+oral condition precedent, and to the effect of an entire agreement clause on
+the same.
+
+Facts
+
+2 The claimant in this action (“Suit 781”) is Cradle Wealth Solutions Pte Ltd
+(“Cradle Wealth”), a Singapore-incorporated company in the business of
+providing management consultancy services. The sole director of Cradle Wealth
+is Mr Sathish s/o Rames (“Sathish”), who is also a shareholder in the company.
+
+3 The first defendant is MTN Consultants & Building Management Pte Ltd
+(“MTN”), a Singapore-incorporated company in the business of providing
+management consultancy services. The second defendant is Mr Nazarisham bin
+Mohamed Isa (“Nazarisham”), who is the sole director and shareholder of MTN. 1
+
+##### Foot Note 1
+
+×
+
+AEIC of Sathish s/o Rames dated 17 May 2023 at Tab-2, pp 54–55 (exhibiting the
+ACRA business profile of MTN dated 15 May 2023); Agreed Bundle of Documents
+dated 21 June 2023 (“AB”) at 42–46.
+
+I refer to MTN and Nazarisham collectively as the “Defendants”.
+
+Background to the dispute
+
+4 Between 2017 and 2018, Cradle Wealth purportedly made investments into MTN,
+hoping to obtain a return on investment through MTN’s business. 2
+
+##### Foot Note 2
+
+×
+
+AEIC of Sathish s/o Rames dated 17 May 2023 at paras 10–11.
+
+According to Cradle Wealth, the investments were made through a series of
+private placement agreements dated between 15 June 2017 to 11 May 2018, and
+throughout 2019, the defendants paid Cradle Wealth its returns on these
+investments.
+
+5 On 24 June 2019, Cradle Wealth sued on the private placement agreements and
+commenced HC/S 612/2019 (“Suit 612”) against MTN in the High Court of the
+Republic of Singapore for the sum of S$8,500,000. According to Cradle Wealth,
+this sum represented the outstanding amounts that MTN was obliged to pay under
+the terms of the private placement agreements. 3
+
+##### Foot Note 3
+
+×
+
+AB at 143–150.
+
+However, the writ was never served on MTN and Suit 612 was quickly withdrawn
+on 29 August 2019.
+
+6 Cradle Wealth then commenced HC/S 940/2019 (“Suit 940”) on 19 September 2019
+in the High Court of the Republic of Singapore for the sum of $7,606,000 (the
+correct figure, which Sathish clarified at trial for the present proceedings,
+should have been S$7,660,000) jointly and severally against the following
+parties: 4
+
+##### Foot Note 4
+
+×
+
+AB at 152.
+
+(a) The first defendant and second defendant in Suit 940 were MTN and
+Nazarisham respectively.
+
+(b) The third defendant in Suit 940 was Mr Abdul Razeez Bin Rasit (“Razeez”),
+an employee of MTN.
+
+(c) The fourth defendant in Suit 940 was Mr Mohammed Ishak s/o Alamatin Sahib
+(“Ishak”), who was the Chief Investment Officer of MTN at the material time.
+
+In Suit 940, Cradle Wealth’s claim against MTN was founded on breach of
+contract, being the sums purportedly due and payable under the private
+placement agreements as at 30 July 2019. Meanwhile, its claim against all four
+defendants (ie, MTN, Nazarisham, Razeez and Ishak) was in fraudulent and/or
+negligent and/or innocent misrepresentation and conspiracy, with damages to be
+assessed. 5
+
+##### Foot Note 5
+
+×
+
+AB at 177–181.
+
+7 It is not disputed that Cradle Wealth had been facing legal pressure from
+its creditors (most of whom were also its investor-shareholders) at the time
+it commenced the above legal proceedings against MTN. At trial, Sathish
+explained that Cradle Wealth’s business involved investing its investors’
+moneys in various projects in Singapore and overseas, and securing returns for
+them. Cradle Wealth’s investors were given shares in Cradle Wealth and became
+shareholders, and Cradle Wealth had around 50 of such investor-shareholders.
+As part of the agreement between Cradle Wealth and these investor-
+shareholders, Cradle Wealth was also obliged to repay the investment moneys.
+Several legal claims and winding up actions had been commenced by Cradle
+Wealth’s investor-shareholders against the company, including:
+
+(a) HC/OS 803/2019 (“OS 803”): on 24 June 2019, one Mr Kumaran s/o
+Veerapandian (“Kumaran”) commenced an application for the winding up of Cradle
+Wealth pursuant to s 254(1)(e) of the Companies Act (Cap 50, 2006 Rev Ed). The
+action was discontinued on 27 June 2019. 6
+
+##### Foot Note 6
+
+×
+
+1st and 2nd Defendants’ Bundle of Documents dated 30 June 2023 (“1DB”) at 46.
+
+(b) HC/CWU 147/2019: one day later, on 25 June 2019, Kumaran again filed
+another winding up application against Cradle Wealth. The action was
+discontinued on 29 November 2019. 7
+
+##### Foot Note 7
+
+×
+
+1DB at 50.
+
+(c) DC/DC 1632/2019: on 31 May 2019, one Mr Vejaiyan s/o Gunasagran commenced
+legal proceedings against Cradle Wealth for the sum of S$165,000. The action
+was eventually stayed in favour of arbitration on 27 February 2020. 8
+
+##### Foot Note 8
+
+×
+
+1DB at 44.
+
+Mediation on 28 February 2020
+
+8 On 28 February 2020, before Suit 940 could proceed to trial, the parties in
+Suit 940 attended a mediation session. Cradle Wealth was represented by
+Sathish and another shareholder, Mr Sylvester Ong (“Sylvester”), together with
+a team of lawyers from Rajah & Tann Singapore LLP (“R&T”). Sylvester attended
+the mediation to represent the interests of Cradle Wealth’s investor-
+shareholders. 9
+
+##### Foot Note 9
+
+×
+
+AEIC of Sathish s/o Rames dated 17 May 2023 at para 18.
+
+Nazarisham, Razeez and Ishak were also present at the mediation as the
+defendants in Suit 940 and/or as representatives of MTN, together with their
+lawyers from Carson Law Chambers and East Asia Law Corporation. The lawyer
+from Carson Law Chambers was Mr Lim Tean.
+
+9 It is common ground that nearly a full day of mediation took place and that
+by late afternoon no settlement was at hand. It was at this juncture that
+Sathish and Sylvester requested for a private discussion with Nazarisham,
+Razeez and Ishak which then took place at the ground floor café of the Supreme
+Court (the “Café”), without the lawyers and the mediator present. What the
+parties spoke about as well as the actual agreement reached in the course of
+this private discussion forms the crux of the present dispute.
+
+10 I pause here to note that by the evidence given in the present proceedings,
+it appears that the Defendants do not dispute that MTN owed Cradle Wealth
+outstanding sums under the private placement agreements as claimed in Suit
+940. What Nazarisham disputes is the quantum of the sum —according to him, by
+the time Suit 940 was commenced, the defendants had already paid Cradle Wealth
+a sum of approximately S$4,000,000. Nazarisham had purportedly also given
+Sathish one kilogram of emeralds then valued at US$750,000 10
+
+##### Foot Note 10
+
+×
+
+AEIC of Nazarisham bin Mohamed Isa dated 16 May 2023 at para 15.
+
+to set off the sum owed by MTN to Cradle Wealth. Nazarisham’s position is
+therefore that the actual sum owing in Suit 940 was between S$1,000,000 to
+S$2,000,000.
+
+11 Be that as it may, following the private discussion at the Café, a
+settlement agreement in writing dated 28 February 2020 (the “Settlement
+Agreement”) was entered into on the same day and duly signed by the parties to
+Suit 940, in the presence of their respective teams of lawyers. The Settlement
+Agreement was drafted by Cradle Wealth’s lawyers and a copy extended to the
+defendants and their lawyers before signing. The Settlement Agreement
+provided, among other matters, that MTN and Nazarisham were jointly and
+severally obliged to pay a sum of US$4,000,000 (“Settlement Sum”) to MTN by 29
+June 2020. Clause 1 of the Settlement Agreement provides as follows: 11
+
+##### Foot Note 11
+
+×
+
+AB at 6–7.
+
+1\. In full and final settlement of Suit 940, the Parties agree as follows:-
+
+(1) [MTN] and [Nazarisham] shall, jointly and severally, pay the sum of
+US$4,000,000 (the “Settlement Sum”) to [Cradle Wealth] by 29 June 2020, with
+time being of the essence.
+
+(2) [MTN] and [Nazarisham] shall pay the Settlement Sum by way of cheque to
+Rajah & Tann Singapore LLP as solicitors for [Cradle Wealth].
+
+(3) In the event of any default on the part of [MTN] and [Nazarisham] in
+complying with the obligations under this Agreement, [Cradle Wealth] shall be
+at liberty to commence fresh proceedings in the High Court of the Republic of
+Singapore and to obtain judgment for the Settlement Sum on a default/summary
+basis against [MTN] and [Nazarisham] jointly and severally … [Cradle Wealth]
+shall not commence fresh proceedings against [Razeez] and [Ishak] in relation
+to the subject matter of Suit 940 and the Settlement Sum herein.
+
+(4) Within three (3) working days from the date of this Agreement, [Cradle
+Wealth] shall discontinue Suit 940 against each of the Defendants. The Parties
+further agree that there shall be no orders as to costs.
+
+(5) This Agreement is entered into by the Parties without admission of any
+liability by any Party whatsoever.
+
+[emphasis in original]
+
+12 And cl 5 of the Settlement Agreement provides that the agreement contains
+the entire agreement between the parties:
+
+5\. This Agreement contains the entire agreement between the Parties with
+regard to the matters set forth herein. No representations, inducements,
+promises or agreements, oral or otherwise that are not embodied herein shall
+be of any force or effect.
+
+13 A notice of discontinuance was duly filed on 2 March 2020 to wholly
+discontinue Suit 940 with no order as to costs.
+
+14 As the Defendants had not made payment of the Settlement Sum by 29 June
+2020, Cradle Wealth commenced the present Suit 781 on 24 August 2020.
+
+The parties’ cases
+
+15 The nub of Cradle Wealth’s case is simply that the Settlement Agreement
+constitutes the entire agreement between the parties and, in breach of the
+Settlement Agreement, MTN and Nazarisham have failed to pay the Settlement
+Sum. There was no agreement during the mediation or private discussion at the
+Café on the payment of US$4,000,000 being contingent on the successful
+monetisation of certain alexandrite gemstones which Nazarisham had in his
+possession (the “Alexandrite Gemstones”). Therefore, Cradle Wealth seeks the
+following orders: 12
+
+##### Foot Note 12
+
+×
+
+Statement of Claim dated 24 August 2020 (“SOC”) at para 8.
+
+(a) US$4,000,000 to be paid forthwith;
+
+(b) interest on the sum pursuant to the Civil Law Act (Cap 43, 1999 Rev Ed);
+
+(c) costs; and
+
+(d) any such other or further relief as the court deems fit or just.
+
+16 On the other hand, MTN and Nazarisham contend that the Settlement Agreement
+was in fact a sham that was executed to allow Sathish and Sylvester to
+convince Cradle Wealth’s investor-shareholders that they would get their
+moneys back, and that the parties had agreed that the Settlement Agreement
+would not be enforced. Further, they contend that the actual agreement reached
+between parties (the “Actual Agreement”) during the private discussion at the
+Café was different from the Settlement Agreement. According to the Defendants,
+the terms of the Actual Agreement, which was made orally and not recorded in
+writing, were as follows: 13
+
+##### Foot Note 13
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para
+2(c)–(e).
+
+(a) Sathish and Sylvester shall collaborate with Nazarisham to monetise the
+Alexandrite Gemstones.
+
+(b) Upon monetisation of the Alexandrite Gemstones, and only upon the same,
+Cradle Wealth shall be entitled to be paid the sum of US$4,000,000, which
+Cradle Wealth could use to pay its debts to its creditors.
+
+(c) Sathish and Sylvester shall earn commissions for the monetisation of the
+Alexandrite Gemstones, which could also be used to pay Cradle Wealth’s debts
+over and above the sum of US$4,000,000.
+
+(d) Sathish and Sylvester shall help to bring in new investors for MTN’s
+projects and shall also earn commissions from this, which could also be used
+to pay Cradle Wealth’s debts.
+
+(e) Razeez and Ishak shall have no liability to make any payment to Cradle
+Wealth.
+
+(f) Cradle Wealth shall discontinue Suit 940 against all defendants to that
+matter.
+
+(g) Parties shall execute a settlement agreement which would state that MTN
+and Nazarisham would pay Cradle Wealth the sum of US$4,000,000, so that
+Sathish and Sylvester could use this settlement agreement to “stave off”
+Cradle Wealth’s creditors from taking action against Cradle Wealth, but this
+settlement agreement shall not be enforced until the Alexandrite Gemstones
+have been monetised.
+
+17 The Defendants contend in the alternative, assuming the court finds that
+the Settlement Agreement was not a sham, that there was an oral agreement
+between the parties constituting a condition precedent to the attaching of any
+obligation under the Settlement Agreement. They say that the parties had
+agreed as a condition precedent that the Alexandrite Gemstones must be
+monetised before any payment would become due under the Settlement Agreement.
+14
+
+##### Foot Note 14
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para
+5(c)(i).
+
+18 Further and in the alternative, the Defendants contend that the parties had
+entered into a subsequent agreement, namely, a deed of mandate dated 14 March
+2020 (the “Deed of Mandate”), which superseded the Settlement Agreement and
+rendered it null and void. 15
+
+##### Foot Note 15
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para
+5(c)(ii).
+
+The Deed of Mandate was entered into between Nazarisham, Fides Assets Pte Ltd
+(“Fides Assets”) and Sathish’s mother, Mdm Ramai d/o Mottayan (“Mdm Ramai”).
+Sylvester is the director and majority shareholder of Fides Assets, which is a
+private family office. 16
+
+##### Foot Note 16
+
+×
+
+AEIC of Ong Zhi Hui Sylvester dated 22 May 2023 at para 21.
+
+Under the terms of the Deed of Mandate, 17
+
+##### Foot Note 17
+
+×
+
+AB at 193–195.
+
+Fides Assets was authorised to offer, negotiate and execute any agreements in
+relation to the monetisation and/or pledging as collateral of the Alexandrite
+Gemstones. Fides Assets and Mdm Ramai were also entitled to commissions from
+the monetisation of the Alexandrite Gemstones. At this juncture, I note that
+it is common ground between the parties that the arrangement as such allowed
+Sylvester and Cradle Wealth to indirectly earn commissions from the
+monetisation of the Alexandrite Gemstones. Whilst the arrangement with
+Sylvester (via Fides Assets) was clear, the arrangement with Cradle Wealth was
+explained by a document signed by Mdm Ramai on 14 March 2020 (which Sathish
+explained at trial had been wrongly dated 20 March 2020 on the face of the
+document). 18
+
+##### Foot Note 18
+
+×
+
+AB at 197.
+
+In this document, Mdm Ramai agreed that all commissions she received under the
+Deed of Mandate would be “fully and wholly pledged to all the creditors of
+[Cradle Wealth]”. 19
+
+##### Foot Note 19
+
+×
+
+AB at 197.
+
+19 Further and in the alternative, the Defendants contend that Cradle Wealth
+is estopped from relying on the Settlement Agreement. According to the
+Defendants, Sathish (as Cradle Wealth’s sole director) and Sylvester (as the
+representative of Cradle Wealth’s investor-shareholders) had by their express
+representations and/or promises made to the Defendants and by their conduct,
+permitted and induced the Defendants to believe that the Settlement Agreement
+would not be enforced pending the monetisation of the Alexandrite Gemstones,
+with the intention that the Defendants would rely on the same, and the
+Defendants had suffered detriment as a result, and it was inequitable in all
+the circumstances for Cradle Wealth to resile on its promise. 20
+
+##### Foot Note 20
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para
+5(c)(iii).
+
+20 In response to the Defendants’ case, Cradle Wealth reiterates its position
+that the Settlement Agreement recorded all the terms of the agreement between
+the parties which were arrived at during the mediation and/or private
+discussion at the Café on 28 February 2020. Furthermore, Cradle Wealth was
+never a party to the Deed of Mandate and was not involved in assisting in the
+sale of the Alexandrite Gemstones. Instead, the Defendants worked with
+Sylvester to find a buyer for the Alexandrite Gemstones, with the Deed of
+Mandate indirectly allowing Sylvester and Cradle Wealth to earn commissions
+from any sale of the said Gemstones. In this regard, Cradle Wealth insists
+that Sathish was kept apprised of the discussions between Nazarisham and
+Sylvester but did not assist in the attempted monetisation of the Alexandrite
+Gemstones. 21
+
+##### Foot Note 21
+
+×
+
+Plaintiff’s Opening Statement dated 21 June 2023 at para 24.
+
+Issues to be determined
+
+21 The issues (and sub-issues) that arise for my determination are as follows:
+
+(a) Whether the Settlement Agreement was a sham.
+
+(b) Whether the parties orally agreed as a condition precedent to the
+Defendants’ obligation under cl 1(1) of the Settlement Agreement that the
+Alexandrite Gemstones must be successfully monetised before any such payment
+would become due. This also requires my consideration of whether the
+Defendants can admit extrinsic evidence pursuant to s 94(c) of the EA to prove
+the condition precedent.
+
+(c) Whether the Deed of Mandate superseded the Settlement Agreement and
+rendered it null and void.
+
+(d) Whether Cradle Wealth is estopped from relying on the Settlement
+Agreement.
+
+Issue 1: Whether the Settlement Agreement was a sham
+
+Parties’ submissions
+
+22 To recapitulate, the Defendants contend that the Settlement Agreement was a
+sham that was executed to allow Sathish and Sylvester to convince Cradle
+Wealth’s investor-shareholders that they would get their moneys back, and that
+the parties had in fact agreed that the Settlement Agreement would not be
+enforced. Further, they contend that the Actual Agreement between parties was
+different from the Settlement Agreement. The Actual Agreement had been made
+orally and was not recorded in writing at all (see [16] above). As part of the
+Defendants’ case, they relied heavily on evidence of Sathish and Sylvester’s
+subsequent conduct in working with Nazarisham to attempt to monetise the
+Alexandrite Gemstones. There would have been no need for Sathish and Sylvester
+to have actively done so, if the Settlement Agreement was intended to be
+legally binding and intended to constitute the entire agreement between the
+parties. Cradle Wealth could simply have waited until 29 June 2020 for the
+Defendants to make good on their obligation to pay the Settlement Sum under cl
+1(1) of the Settlement Agreement. 22
+
+##### Foot Note 22
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 60.
+
+23 In response, Cradle Wealth maintains that the Settlement Agreement
+constitutes the entire agreement between the parties. Cradle Wealth denies
+that the Settlement Agreement was merely a sham that was executed to placate
+its investor-shareholders. After the execution of the Settlement Agreement,
+there were separate discussions between Sylvester and Nazarisham on the
+monetisation of the Alexandrite Gemstones. 23
+
+##### Foot Note 23
+
+×
+
+Plaintiff’s Opening Statement dated 21 June 2023 at paras 11–12.
+
+From Cradle Wealth’s perspective at that time, doing so would help Cradle
+Wealth to recover the moneys under the Settlement Agreement expeditiously, and
+there was also the possibility that Sylvester and Cradle Wealth could earn
+commissions and therefore profit from the monetisation of the Alexandrite
+Gemstones, in addition to recovering the Settlement Sum.
+
+The Defendants’ failure to plead the allegation of sham
+
+24 Cradle Wealth submits that the allegation of sham had not been specifically
+pleaded by the Defendants. In the Defence dated 28 October 2020, the
+Defendants only pleaded (in relation to the status of the Settlement
+Agreement):
+
+3\. What occurred at the mediation which was in relation to [Suit 940] on 28
+February 2020, was as follows: -
+
+…
+
+vi. At the private meeting, which was attended by Sathish, Sylvester, Razeez,
+Ishak and [Nazarisham], Sathish and Sylvester pleaded with [Nazarisham] to
+conclude a “settlement” agreement so that they could stave off the creditors
+of [Cradle Wealth], who had brought legal proceedings against [Cradle Wealth].
+
+vii. Sylvester and Sathish both represented to [Nazarisham] that [Suit 940]
+had been initiated to placate their [investor-]shareholders and as such a
+settlement agreement was needed at the mediation to appease and assure them.
+
+…
+
+ix. Sathish and Sylvester promised [Nazarisham] at the private meeting that
+any “settlement” agreement concluded that day would not be enforced until the
+Alexandrite gemstones, which [Nazarisham] owns, was monetized and could be
+used to settle the “settlement” sum agreed upon.
+
+…
+
+xiii. It was on the basis of the matters avered [sic] to in paragraphs 3 vi,
+ix, x, xi and xii herein that the Defendants agreed to the “settlement”
+agreement referred to in paragraph 6 of the SOC.
+
+[emphasis added]
+
+In my view, the Defendants’ pleaded case was, at its highest, that there was
+an oral agreement that the Settlement Agreement would not be enforced until
+the Alexandrite Gemstones were successfully monetised (ie, a condition
+precedent). This is distinct from now challenging the very existence of the
+said Settlement Agreement. At the most, the Defendants could perhaps point to
+the inverted commas in “settlement”, in the context of paras 3(vi)–(vii) of
+the Defence in which it was pleaded that Sathish and Sylvester had begged
+Nazarisham to conclude the “settlement” agreement in order to stave off the
+creditors of Cradle Wealth.
+
+25 It is trite that pleadings delineate the parameters of the case and shape
+the course of the trial. They inform parties of the case that they have to
+meet (V Nithia (co-administratrix of the estate of Ponnusamy Sivapakiam,
+deceased) v Buthmanaban s/o Vaithilingam and another [2015] 5 SLR 1422 (“V
+Nithia”) at [36]). Equally important to the principle of fairness, pleadings
+also serve to uphold the rules of natural justice and prevent a trial by
+ambush (Sheagar s/o T M Veloo v Belfield International (Hong Kong) Ltd [2014]
+3 SLR 524 at [94]). The general rule is therefore that parties are bound by
+their pleadings and the court is precluded from deciding on a matter that the
+parties themselves have decided not to put into issue (V Nithia at [38]).
+Nonetheless, the court is not required to adopt an overly formalistic and
+inflexible rule-bound approach. The overarching enquiry is one of irreparable
+prejudice, or, in other words, prejudice that cannot be compensated by costs
+(V Nithia at [40]). In How Weng Fan and others v Sengkang Town Council and
+other appeals [2023] SGCA 21 (“How Weng Fan”) the Court of Appeal reviewed the
+authorities in this regard and summarised the principles as follows (at [29]):
+
+(a) Where the material facts of each element of the legal claim have been
+pleaded, albeit in support of a different legal conclusion than that which is
+subsequently advanced, the court will be more inclined to allow the legal
+claim unless there is clear evidence that the defendant will be unduly
+prejudiced. It will generally be for the party resisting the reformulated
+claim to show such prejudice.
+
+(b) Where the material facts of each element of the legal claim have not been
+pleaded, the court will only allow the legal claim if the court is satisfied
+that there will be no prejudice occasioned as a result because both sides
+engaged with the issue at trial. It will generally be for the party advancing
+the unpleaded claim to show that there is no prejudice and this could be
+shown, for instance, by establishing that the issue was raised in evidence, it
+was clearly appreciated by the other party, and no reasonable objections were
+taken at the trial to such evidence being led and the point in question being
+put into issue.
+
+26 I am satisfied that the Defence did at the very least disclose the material
+facts which would support a defence of sham and gave Cradle Wealth sufficient
+notice of the case it had to meet, specifically:
+
+(a) That the Defendants alleged that the Settlement Agreement was intended to
+“stave off” Cradle Wealth’s creditors and that such an agreement was needed at
+the mediation “to appease and assure them”. 24
+
+##### Foot Note 24
+
+×
+
+Defence at para 3(vi)–(vii).
+
+(b) That the Defendants alleged that the parties had intended that the
+Settlement Agreement would not be enforced until certain conditions were
+satisfied (namely, the monetisation of the Alexandrite Gemstones). 25
+
+##### Foot Note 25
+
+×
+
+Defence at para 3(ix).
+
+Therefore, once the material facts have been pleaded, the pleader can develop
+the legal consequences of those facts in submissions (Acute Result Holdings
+Ltd v CGS-CIMB Securities (Singapore) Pte Ltd (formerly known as CIMB
+Securities (Singapore) Pte Ltd) [2022] SGHC 45 at [64]; How Weng Fan at [25]).
+
+27 In fact, the Defendants’ position in relation to sham was not entirely
+clear even in closing submissions, with the Defendants at times appearing to
+conflate their case premised on sham with their alternative case premised on a
+condition precedent. For instance, at para 59(iii) of the Defendants’ Closing
+Submissions dated 14 July 2023, in relation to the submission on sham, the
+Defendants contended that Nazarisham “highlighted the vast difference between
+the valuation of the [Alexandrite Gemstones] and the sum that had to be paid
+i.e. USD 4m” and this “shows clearly that parties had agreed that the USD 4m
+payment to [Cradle Wealth] would only be made upon successful monetization of
+the [Alexandrite Gemstones]”. 26
+
+##### Foot Note 26
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para
+59(iii).
+
+Again, at para 80(ix) of the same, in relation to examining whether the
+Settlement Agreement “was intended to create a legal relationship”, the
+Defendants contended that “[i]t was under these circumstances that Nazarisham
+agreed to the terms of the Actual Agreement including the execution of the
+Settlement Agreement … which Sathish and [Sylvester] agreed would not be
+enforced until the [Alexandrite Gemstones were monetised”. 27
+
+##### Foot Note 27
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 80(ix).
+
+28 The way the Defendants chose to run their case on sham suggests to me that
+there is significant factual overlap between their case premised on sham and
+their alternative case premised on condition precedent. At its core, the
+Defendants’ case is that the Settlement Agreement was a sham in the sense that
+it did not accurately reflect the Actual Agreement, a term of which was that
+Cradle Wealth shall be entitled to be paid the Settlement Sum only upon
+successful monetisation of the Alexandrite Gemstones. Understood as such, this
+issue had been raised in evidence and put to Cradle Wealth’s witnesses at
+trial, which further buttresses my conclusion that there was no irreparable
+prejudice caused to Cradle Wealth from the Defendants’ failure to plead sham.
+
+29 Accordingly, I turn to consider whether the facts disclose a sham.
+
+The applicable law
+
+30 The classic definition of a sham was provided by Diplock LJ (as he then
+was) in the English Court of Appeal decision of Snook v London and West Riding
+Investments Ltd [1967] 2 QB 786 at 802C–802E and followed by the Court of
+Appeal in Toh Eng Tiah v Jiang Angelina and another appeal [2021] 1 SLR 1176
+(“Toh Eng Tiah”) at [73] as follows:
+
+… I apprehend that, if [the term ‘sham’] has any meaning in law, it means acts
+done or documents executed by the parties to the ‘sham’ which are intended by
+them to give to third parties or to the court the appearance of creating
+between the parties legal rights and obligations different from the actual
+legal rights and obligations (if any) which the parties intend to create. But
+one thing, I think is clear in legal principle, morality and the authorities
+…, that for acts or documents to be a ‘sham,’ with whatever legal consequences
+follow from this, all the parties thereto must have a common intention that
+the acts or documents are not to create the legal rights and obligations which
+they give the appearance of creating. No unexpressed intentions of a ‘shammer’
+affect the rights of a party whom he deceived. …
+
+[emphasis added]
+
+Put another way, the essential element of a sham is that the parties did not
+intend to create the legal relations that the acts done or documents executed
+give the impression of creating (Toh Eng Tiah at [74]).
+
+31 In Toh Eng Tiah, the Court of Appeal further affirmed (at [75]) the
+principle as summarised by GP Selvam JC (as he then was) in TKM (Singapore)
+Pte Ltd v Export Credit Insurance Corp of Singapore Ltd [1992] 2 SLR(R) 858 at
+[48] as follows:
+
+To ascertain whether documents represent the true relationship between parties
+the following test as laid down by Lindley LJ in the Yorkshire Wagon Company
+case … and Diplock LJ in the Snook case … may be formulated: Whether the
+documents were intended to create legal relationships and whether the parties
+did actually act according to the apparent purpose and tenor of the documents.
+[emphasis in original]
+
+32 Following from the above, the crux of the sham concept is that there must
+be a common intention to mislead (Chng Bee Kheng and another (executrixes and
+trustees of the estate of Fock Poh Kum, deceased) v Chng Eng Chye [2013] 2 SLR
+715 (“Chng Bee Kheng”) at [52]). This question turns on the subjective
+intentions of the parties to the sham (Chng Bee Kheng at [54]). In the absence
+of a common intention to mislead, the court will simply construe an agreement
+according to the objective intention of the parties (Chng Bee Kheng at [52],
+citing Yorkshire Railway Wagon Company v Maclure (1882) 21 Ch D 309 at 318).
+
+33 Furthermore, in relation to the question of whether the Settlement
+Agreement was a sham, which goes to the existence of the contract, the parol
+evidence rule contained in s 93 and s 94 of the EA does not apply (Toh Eng
+Tiah at [77]) and a wider range of evidence can be considered in determining
+what the status of the Settlement Agreement was between the parties.
+
+Do the facts disclose a sham?
+
+34 For the following reasons, I find that the topic of the Alexandrite
+Gemstones was discussed, or at the very least mentioned, by the parties during
+the private discussion at the Café. However, while the parties anticipated
+working together to achieve a “comeback” for their respective businesses, such
+an expectation never extended to the monetisation of the Alexandrite Gemstones
+being the basis on which their agreement to work together was founded. I
+therefore reject that the Actual Agreement was reached orally at the Café as
+put forth by the Defendants. The parties did not agree that Cradle Wealth
+would be entitled to the Settlement Sum only upon monetisation of the
+Alexandrite Gemstones. I also find that the Defendants have not discharged the
+burden of proving that the Settlement Agreement was executed with the common
+intention that the document was not to create the legal rights and obligations
+which it gave the appearance of creating.
+
+The topic of the Alexandrite Gemstones was raised during the private
+discussion at the Café on 28 February 2020
+
+35 I am satisfied that the topic of the Alexandrite Gemstones was discussed,
+or at the very least mentioned, during the private discussion at the Café.
+Sylvester’s evidence was that there had been “a mention” of the Alexandrite
+Gemstones, in the sense that Nazarisham had informed the mediator during the
+mediation that he had certain gemstones which could be monetised to pay Cradle
+Wealth. 28
+
+##### Foot Note 28
+
+×
+
+AEIC of Ong Zhi Hui Sylvester dated 22 May 2023 at para 16.
+
+When cross-examined, Sathish likewise agreed that Nazarisham had mentioned
+that there were some gemstones that he could sell. The mediation took place on
+Friday, 28 February 2020, and the Settlement Agreement was executed on the
+same day. Four days later, on 3 March 2020, Sylvester proposed in a WhatsApp
+chat group named “The Comeback” (which included Nazarisham, Sathish,
+Sylvester, Ishak and Razeez as its members) that he could “help” Nazarisham to
+monetise the Alexandrite Gemstones: 29
+
+##### Foot Note 29
+
+×
+
+AB at 74.
+
+3/3/20, 12:00 PM – Sylvester: Good afternoon Abang Naza, just want to check,
+are you open if I help to monetise the [Alexandrite Gemstones] for you as well
+via my private bankers ? I have some contacts that might be able to help.
+
+3/3/20, 12:00 PM – Sylvester: If we can monetise, everyone wins
+
+3/3/20, 12:06 PM – [Nazarisham]: Sure why not
+
+3/3/20, 12:10 PM – Sylvester: Ok Abang, I will float this around and keep
+everyone here posted
+
+When cross-examined as to this message, Sathish’s explanation was that he had
+been on his way home after the mediation when Sylvester called him to propose
+that they work together with Nazarisham to monetise the Alexandrite Gemstones.
+According to Sathish, this would allow them to have oversight over the
+monetisation of the Alexandrite Gemstones. More likely than not, in my view,
+Nazarisham had informed them either during the mediation or the private
+discussion at the Café on 28 February 2020 that he was in possession of
+certain Alexandrite Gemstones, which he could try to monetise.
+
+36 However, what is more critical is whether the parties ever agreed that
+Cradle Wealth would not be paid unless the Alexandrite Gemstones were
+monetised. I find that they did not, for the following reasons which should be
+considered cumulatively rather than individually.
+
+Lack of contemporaneous documents reflecting the purported Actual Agreement
+
+37 First, the language used in cl 1(1) of the Settlement Agreement
+unequivocally states that the Defendants were obliged to pay the Settlement
+Sum by a stipulated date, ie, 29 June 2020, “with time being of the essence”.
+30
+
+##### Foot Note 30
+
+×
+
+AB at 6.
+
+38 The burden of proving a sham lies on the party alleging that a document is
+a sham. There is a “very strong presumption” that parties intend to be bound
+by the provisions of an agreement that they enter into (Chng Bee Kheng at
+[51]; affirmed in Toh Eng Tiah at [80]). In Pender Development Pte Ltd and
+another v Chesney Real Estate LLP and another and another suit [2009] 3 SLR(R)
+1063 it was observed (at [27]) that “[c]ommercial parties do not, in the
+normal course of events, prepare and execute detailed written contracts that
+are not what they purport to be”. The same applies with greater force in the
+context of a properly drafted settlement agreement entered into by the parties
+who have the benefit of the advice of legal counsel. One does not readily
+reach the conclusion that parties who were hitherto at loggerheads in a
+dispute would collude to create a sham document. Likewise, the language used
+in cl 1(1) of the Settlement Agreement, in particular the reference to “with
+time being of the essence”, makes little sense if parties had truly intended
+for the Settlement Agreement to be a sham. In my view, such a clause was more
+indicative of parties’ intention to ensure payment.
+
+39 In this context, it is also jarring that the Defendants were wholly unable
+to produce any contemporaneous (even informal) record in writing showing the
+terms of the purported Actual Agreement. If indeed the parties ever agreed
+that Cradle Wealth would not be paid unless the Alexandrite Gemstones were
+monetised, it is reasonable to expect some form of contemporaneous record
+referring to the Actual Agreement as such, especially if it was intended to
+contradict or vary the written terms of the Settlement Agreement. It is
+relevant that the Settlement Agreement had been drawn up by Cradle Wealth’s
+lawyers at the mediation, R&T, and a copy was extended to counsel for MTN and
+Nazarisham at the mediation, Mr Lim Tean, before the parties signed the
+Settlement Agreement. 31
+
+##### Foot Note 31
+
+×
+
+AEIC of Nazarisham bin Mohamed Isa dated 16 May 2023 at para 25.
+
+It is undisputed that Mr Lim Tean had “strongly advised” Nazarisham against
+signing the Settlement Agreement, yet Nazarisham had assured Mr Lim Tean that
+he was confident that Sathish and Sylvester could be trusted and that the “the
+whole agreement was [that Cradle Wealth] [was] not going to enforce the
+agreement but would earn their own commissions from sale of [Nazarisham’s]
+gemstones … from which commissions they will then pay off their creditors”. 32
+
+##### Foot Note 32
+
+×
+
+AEIC of Nazarisham bin Mohamed Isa dated 16 May 2023 at para 25; AEIC of Lim
+Tean dated 17 May 2023 at para 12.
+
+Despite Nazarisham’s explanation as such, Mr Lim Tean described that he “still
+felt very uncomfortable with the so called ‘settlement agreement’” and when
+R&T were drawing up the Settlement Agreement he proposed to insert wording to
+make it clear that there was going to be a partnership between Nazarisham,
+Sathish and Sylvester and that the Settlement Agreement would not be executed
+by Cradle Wealth. 33
+
+##### Foot Note 33
+
+×
+
+AEIC of Lim Tean dated 17 May 2023 at para 15.
+
+However, according to Mr Lim Tean, this was when Sathish and Sylvester stepped
+in and told him that for the purpose of pacifying Cradle Wealth’s investor-
+shareholders, they could not have such wording in the Settlement Agreement. 34
+
+##### Foot Note 34
+
+×
+
+AEIC of Lim Tean dated 17 May 2023 at para 16.
+
+40 Even if this was the case, however, it could hardly explain why the
+Defendants were unable to produce any contemporaneous record (not even an
+informal note) which reflected the terms of the purported Actual Agreement as
+such. Such contemporaneous document could have been recorded on the side and
+would not need to have been shown to Cradle Wealth’s investor-shareholders,
+which would have protected the Defendants’ interest without compromising the
+alleged purpose of the Settlement Agreement in staving off Cradle Wealth’s
+creditors. Furthermore, Mr Lim Tean did not seek the removal of the entire
+agreement clause in the Settlement Agreement (ie, cl 5). As legal counsel, he
+would surely have appreciated the significance of the clause in light of
+Nazarisham’s assurances to him that there was a “wider” Actual Agreement
+between the parties. Again, the removal of this clause would not compromise
+the alleged purpose of staving off the creditors of Cradle Wealth.
+
+Legal pressure exerted on Cradle Wealth by its investor-shareholders
+
+41 The Defendants point to the winding up proceedings and other legal
+proceedings that had been brought by Cradle Wealth’s creditors, most of whom
+were also its shareholders (see [7] above). They alleged that Cradle Wealth
+had “twice commenced baseless law suits”, ie, Suit 612 commenced on 24 June
+2019 and Suit 940 commenced on 19 September 2019, against MTN et al in order
+to convince its creditors that Cradle Wealth was taking steps to recover
+millions of dollars from MTN. 35
+
+##### Foot Note 35
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 101.
+
+The Defendants further submit that Suit 940 itself was a “bogus” claim as the
+claim in breach of contract was significantly inflated and the claims in
+fraudulent misrepresentation and conspiracy were brought without a prima facie
+factual basis. 36
+
+##### Foot Note 36
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at paras
+101(vii), 101(viii).
+
+In this context, the Defendants submit that Cradle Wealth needed the
+Settlement Agreement to “stave off” its creditors and that the Settlement
+Agreement was therefore a sham. 37
+
+##### Foot Note 37
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 98.
+
+42 I am unable to accept the Defendants’ characterisation of the matter.
+First, it is a far stretch to conclude that Suit 612 was a “bogus” claim and
+“baseless” simply on the evidence relied upon by the Defendants, namely, that
+Suit 612 had been commenced on the same day that OS 803 was commenced against
+Cradle Wealth and that Suit 612 had been quickly discontinued by 29 August
+2019 38
+
+##### Foot Note 38
+
+×
+
+1DB at 48.
+
+At trial, Sathish satisfactorily explained that Suit 612 was withdrawn before
+the writ had been served on the defendants in that Suit, owing to various
+inaccuracies in the statement of claim and the computation of the total sum
+claimed. He attributed these inaccuracies to Cradle Wealth’s former
+solicitors. Cradle Wealth subsequently hired their present solicitors to
+commence Suit 940.
+
+43 Second, the Defendants’ own conduct also gave me reason to doubt their
+assertion that the claim in breach of contract in Suit 940 for the sum of
+$7,660,000 was “significantly inflated”. It may be recalled that Nazarisham’s
+position is that the actual sum owing in Suit 940 was between $1,000,000 to
+$2,000,000 (see [10] above). Yet it cannot be disputed that the Defendants did
+in fact execute the Settlement Agreement by which they were prepared to
+undertake, at least on paper, liability to repay a sum of US$4,000,000 by 29
+June 2020. Even by the Defendants’ own case that the Settlement Agreement was
+merely a sham contract, they were unable to provide a satisfactory explanation
+as to why they would be willing to undertake liability to repay a sum far in
+excess of the S$1,000,000 to S$2,000,000 that MTN purportedly owed. It is
+worth reiterating that the Defendants’ case in respect of sham is that there
+was an Actual Agreement by which parties agreed that the US$4,000,000 payment
+would be made to Cradle Wealth, except that this would be done only upon
+successful monetisation of the Alexandrite Gemstones.
+
+44 Third, the fact that Cradle Wealth faced legal pressure from its investor-
+shareholders is neither here nor there. The Defendants strenuously contend
+that Cradle Wealth needed the Settlement Agreement to “stave off” its
+creditors and that the Settlement Agreement was therefore a sham. 39
+
+##### Foot Note 39
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 98.
+
+In my judgement, however, these events would have been equally consistent with
+Sathish’s explanation that the Settlement Agreement was executed precisely
+because Cradle Wealth faced legal pressure by its investor-shareholders, and
+therefore the parties fully intended for the Settlement Agreement to be a
+legally binding instrument. According to Sathish, Cradle Wealth’s investor-
+shareholders had set aside the necessary funds to pursue Suit 940 and it was
+in Cradle Wealth and the investor-shareholders’ best interests to resolve Suit
+940 by way of a settlement instead of going through a lengthy and costly
+trial. 40
+
+##### Foot Note 40
+
+×
+
+AEIC of Sathish s/o Rames dated 17 May 2023 at para 19.
+
+This much was conveyed by Sathish to Nazarisham during the private discussion
+at the Café, and Nazarisham was also informed that Cradle Wealth would be
+prepared to continue with Suit 940 if a settlement could not be reached. 41
+
+##### Foot Note 41
+
+×
+
+AEIC of Sathish s/o Rames dated 17 May 2023 at para 21.
+
+In this context, I am unable to agree with the inference sought by the
+Defendants that the Settlement Agreement was drawn up solely to “stave off”
+Cradle Wealth’s investor-shareholders and was therefore a sham.
+
+45 In my judgement, the fact of legal pressure exerted by Cradle Wealth’s
+investor-shareholders being equivocal, it is more useful to look at whether
+the totality of the evidence indicates that the parties had a common intention
+for the Settlement Agreement to be a sham.
+
+Parties’ WhatsApp communications and subsequent conduct
+
+(1) Goodwill engendered between the parties by the amicable resolution of Suit
+940
+
+46 I find that there was considerable goodwill engendered between the parties
+immediately after the private discussion at the Café. This was a key feature
+that characterised the parties’ conduct immediately after the Settlement
+Agreement was entered into and also explained the parties’ willingness to
+collaborate in the subsequent days and months, in terms of taking steps to
+monetise the Alexandrite Gemstones (and later, as described below, certain
+emerald stones that Nazarisham had in his possession).
+
+47 The Defendants’ counsel in Suit 940, Mr Lim Tean, gave evidence that there
+was “a spirit of conviviality and brotherly love” among Sathish, Sylvester,
+Nazarisham, Razeez and Ishak after the private discussion at the Café. 42
+
+##### Foot Note 42
+
+×
+
+AEIC of Lim Tean dated 17 May 2023 at para 14.
+
+When Mr Lim Tean asked Nazarisham why he had agreed to execute the Settlement
+Agreement, Nazarisham informed him that “Sathish and Sylvester had promised
+that they would not execute on the settlement agreement” and that Nazarisham
+was “confident” that Sathish and Sylvester would live up to their promises and
+work in tandem with him to monetise the Alexandrite Gemstones. 43
+
+##### Foot Note 43
+
+×
+
+AEIC of Lim Tean dated 17 May 2023 at paras 12 and 13.
+
+48 The goodwill between parties was also borne out by the contemporaneous
+evidence at hand. Immediately after the mediation ended at around 7pm on 28
+February 2020, Sathish sent the following message into a WhatsApp chat group
+titled “Cradle Venture” (in which Nazarisham was already a participant): 44
+
+##### Foot Note 44
+
+×
+
+AB at 74.
+
+2/28/20, 9:40 PM – [Sathish]: Hi bros
+
+2/28/20, 9.40 PM – [Sathish]: Monday where and what time shall we meet
+
+2/28/20, 9.40 PM – [Sathish]: ?
+
+2/28/20, 9.41 PM – [Nazarisham]: Let’s meet in my office first
+
+2/28/20, 9.41 PM – [Nazarisham]: Then from there we go to the new office
+
+2/28/20, 9.41 PM – [Nazarisham]: Around 2pm
+
+2/28/20, 9.42 PM – [Sathish]: Ok sure abang, can
+
+I accept the Defendants’ submission that this message suggested that the
+parties had already agreed to meet on Monday, and Sathish was simply trying to
+fix a time and place. Shortly thereafter, Razeez and Sylvester were added into
+the same WhatsApp chat group, and the name of the chat group was changed from
+“Cradle Venture” to “The Comeback”. The parties were optimistic that they
+would “all keep working as one” to “repay the faith and trust of [their]
+investors”. 45
+
+##### Foot Note 45
+
+×
+
+AB at 74.
+
+49 I therefore find that there was considerable goodwill engendered between
+the parties by the amicable resolution of Suit 940. Parties referred to each
+other, at least on the face of their WhatsApp correspondence, as “bro” and
+“brothers”. Nazarisham was respectfully referred to as “abang”, which he
+testified means “elder brother” in Malay. Such goodwill is relevant as it
+formed the background context to the parties’ subsequent conduct in
+collaborating to monetise the Alexandrite Gemstones, to which I turn to
+discuss.
+
+(2) Parties’ subsequent conduct in attempting to monetise the Alexandrite
+Gemstones
+
+50 There are two aspects of the parties’ subsequent conduct which call for
+elaboration and, at first glance, both aspects would appear to support the
+Defendants’ case. I first set out the two aspects in full, before dealing with
+the parties’ submissions and my consideration on the same.
+
+51 The first aspect is that after the Settlement Agreement had been entered
+into, Sathish and Sylvester actively worked with Nazarisham to attempt to
+monetise the Alexandrite Gemstones. In this regard, I find that Sylvester took
+a more active role in attempting to monetise the gemstones, as compared to
+Sathish. On Sylvester’s part, this continued to well after 29 June 2020, until
+at least 17 August 2020.
+
+52 As set out at [35] above, on 3 March 2020, Sylvester proposed via the
+WhatsApp group “The Comeback” that he could “help” Nazarisham to monetise the
+Alexandrite Gemstones via Sylvester’s business contacts. By 5 March 2020,
+Sylvester updated the group that his private banker could “move something for
+us” if Nazarisham could provide the banker with certain documents relating to
+the Alexandrite Gemstones. 46
+
+##### Foot Note 46
+
+×
+
+AB at 75.
+
+Shortly thereafter, on 13 March 2020, Sathish and Sylvester made a visit to
+Vault@268, where the Alexandrite Gemstones were kept, to view the gemstones.
+47
+
+##### Foot Note 47
+
+×
+
+AEIC of Sathish s/o Rames dated 17 May 2023 at para 33; AEIC of Ong Zhi Hui
+Sylvester dated 22 May 2023 at para 20.
+
+Again, it is not disputed that Sathish and Sylvester both met Nazarisham at
+Golden Landmark building on 3 April 2020 to view the Alexandrite Gemstones. 48
+
+##### Foot Note 48
+
+×
+
+AEIC of Sathish s/o Rames dated 17 May 2023 at para 41; AEIC of Ong Zhi Hui
+Sylvester dated 22 May 2023 at para 28.
+
+At this meeting, Sathish assisted Sylvester in taking a video of five bags of
+the Alexandrite Gemstones along with a report that had been generated by the
+“Gemological Identification Research Laboratory”, for the purposes of
+circulation to potential buyers of the Alexandrite Gemstones. 49
+
+##### Foot Note 49
+
+×
+
+1DB at 12–14; AB at 83.
+
+53 Sathish claimed, in his affidavit of evidence-in-chief, that he did not
+participate in discussions on the sale of the Alexandrite Gemstones and simply
+received updates on the progress of the sale or valuation of the Alexandrite
+Gemstones from the other parties. 50
+
+##### Foot Note 50
+
+×
+
+AEIC of Sathish s/o Rames dated 17 May 2023 at paras 33–34.
+
+However, this is not entirely accurate. Under cross-examination, he confirmed
+that his aunt, one Ms Kunavathi Chinniah, had connections with Sri Lankan gem
+dealers and that she had introduced him to these connections. In the telephone
+conversation between Sathish, Sylvester and Nazarisham on 27 June 2020,
+Sylvester also alluded to a “group of Sri Lankan buyers” who had been
+“introduced by [Sathish]” and that Sathish had “passed the communication to
+[Sylvester]”. 51
+
+##### Foot Note 51
+
+×
+
+AB at 115.
+
+This suggests that Sathish had played some part in the attempts to monetise
+the Alexandrite Gemstones as well, at least by referring certain contacts to
+Sylvester. I therefore do not accept that Sathish’s conduct could be
+characterised as merely overseeing Sylvester and/or Nazarisham’s efforts to
+monetise the Alexandrite Gemstones.
+
+54 Nonetheless, I find that Sylvester played a more active role in the
+attempts to monetise the Alexandrite Gemstones as compared to Sathish. In
+Sylvester’s affidavit of evidence-in-chief, he deposed that he had “liaised
+with [Nazarisham] on the progress of the sales of the [Alexandrite Gemstones]”
+and would also arrange with Nazarisham for potential buyers to view the
+Alexandrite Gemstones. 52
+
+##### Foot Note 52
+
+×
+
+AEIC of Ong Zhi Hui Sylvester dated 22 May 2023 at para 29.
+
+For instance, on 18 April 2020 and again on 22 June 2020, Sylvester arranged
+to view and collect samples of the Alexandrite Gemstones from MTN’s office in
+order to present them to potential buyers for inspection. 53
+
+##### Foot Note 53
+
+×
+
+AEIC of Ong Zhi Hui Sylvester dated 22 May 2023 at paras 30–33; AEIC of
+Nazarisham bin Mohamed Isa dated 16 May 2023 at para 33.
+
+The WhatsApp correspondence also showed that Sylvester actively and
+consistently liaised with Nazarisham for the sale of the Alexandrite Gemstones
+to potential buyers. 54
+
+##### Foot Note 54
+
+×
+
+AB at 78–102.
+
+For instance, by 13 April 2020, Sylvester was able to update Nazarisham that
+he had “[three] leads on hand now”, ie three potential buyers who were
+interested in the Alexandrite Gemstones. 55
+
+##### Foot Note 55
+
+×
+
+AB at 86.
+
+55 The second aspect is that Sylvester and Nazarisham continued to work on
+monetising the Alexandrite Gemstones well after 29 June 2020 (ie, the deadline
+for payment of the Settlement Sum under cl 1(1) of the Settlement Agreement),
+with no immediate demand for payment of the Settlement Sum being made by
+Cradle Wealth during this period. Even as late as 17 August 2020, Sylvester
+displayed efforts toward monetising the Alexandrite Gemstones and asked
+Nazarisham whether he should “contact the Well Vintage Ventures independently
+to explore with the [Alexandrite Gemstones]”. 56
+
+##### Foot Note 56
+
+×
+
+AB at 102.
+
+It is less clear whether Sathish continued, during this period, to work on
+monetising the Alexandrite Gemstones—he explained in cross-examination that he
+had by this time instructed his lawyers to commence Suit 781 and also limited
+his participation in the WhatsApp group titled “The Comeback” as he was
+feeling frustrated. 57
+
+##### Foot Note 57
+
+×
+
+AB at 126–127.
+
+56 Nonetheless, it is also clear from the telephone conversation between
+Sathish, Sylvester and Nazarisham on 27 June 2020 58
+
+##### Foot Note 58
+
+×
+
+AB at 115–124.
+
+(ie, two days before the Settlement Sum was due under the Settlement
+Agreement) that none of the parties made express reference to the imminent
+deadline of 29 June 2020. On the contrary, during the telephone call,
+Sylvester and Nazarisham continued to liaise on arrangements for a group of
+potential Sri Lankan buyers who were interested in the Alexandrite Gemstones.
+59
+
+##### Foot Note 59
+
+×
+
+AB at 117; 1DB 20.
+
+57 At first glance, these two aspects of the parties’ subsequent conduct would
+appear to support the Defendants’ case. In this regard, the Defendants submit
+that, right after the mediation, Sathish and Sylvester had taken steps to
+immediately start working together with Nazarisham to monetise the Alexandrite
+Gemstones and bring in new investors for MTN’s projects. 60
+
+##### Foot Note 60
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at paras 17–32.
+
+They further submit that the WhatsApp correspondence and the parties’
+subsequent conduct (at [51]–[56] above) shows that the parties had agreed
+during the mediation that they would work together to monetise the Alexandrite
+Gemstones. 61
+
+##### Foot Note 61
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 32.
+
+If the parties had fully intended for the Settlement Agreement to be legally
+binding right from the start, then there would have been no need for Sylvester
+and Sathish to have worked with Nazarisham to attempt to monetise the
+Alexandrite Gemstones. 62
+
+##### Foot Note 62
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 60.
+
+58 However, I accept the explanation put forth by Sathish and Sylvester that
+they were willing to work with Nazarisham to monetise the Alexandrite
+Gemstones as doing so would indirectly help Cradle Wealth to recover the
+moneys under the Settlement Agreement expeditiously. 63
+
+##### Foot Note 63
+
+×
+
+AEIC of Sathish s/o Rames dated 17 May 2023 at paras 30 and 33; AEIC of Ong
+Zhi Hui Sylvester dated 22 May 2023 at para 15.
+
+There was also the possibility that the parties could indirectly earn
+commissions from the sale of the Alexandrite Gemstones (see the arrangement as
+set out at [18] above), in addition to recovering the Settlement Sum. To my
+mind, it is eminently reasonable that Sathish and Sylvester wanted to ensure
+that the Defendants would make good on the Settlement Sum and therefore took
+steps to have more oversight over this process than if they had merely waited
+until 29 June 2020 with only the option of restarting litigation again (ie, by
+suing on the Settlement Agreement) if the Defendants failed to pay.
+Furthermore, it must be borne in mind that a distinguishing feature of the
+present case was the goodwill that had been generated by the amicable
+resolution of Suit 940 (see [46]–[49] above). This goodwill characterised the
+parties’ subsequent conduct after the mediation and offered a conceivable
+explanation for why Sathish and Sylvester were willing to work with the
+Defendants on the monetisation of the Alexandrite Gemstones, despite the
+parties having previously been at dispute in Suit 940.
+
+59 I therefore do not accept that the parties’ subsequent conduct of working
+to monetise the Alexandrite Gemstones is indicative of the existence of the
+term of the alleged Actual Agreement as pleaded by the Defendants (namely that
+the parties had agreed that Cradle Wealth would only be entitled to be paid
+the sum of US$4,000,000 upon monetisation of the Alexandrite Gemstones). My
+conclusion in this regard is buttressed by Nazarisham’s own conduct that
+suggested that he was cognisant of the looming deadline of 29 June 2020.
+During the same telephone conversation with Sathish and Sylvester on 27 June
+2020 (see [56] above), Nazarisham also asked whether Sylvester’s potential
+buyers would be interested in buying several other gemstones that Nazarisham
+had in his possession, namely emerald stones: 64
+
+##### Foot Note 64
+
+×
+
+AB at 121.
+
+Nazarisham: Ok eh the emerald they want or not?
+
+[Sathish]: Sorry?
+
+Nazarisham: Emeralds they want or not? We still got 3kg you know?
+
+After Sathish and Sylvester indicated their willingness to explore the
+monetisation of these emeralds, Nazarisham stated that the emeralds “won’t get
+much money”, but that this situation was “still ok” as it was still
+“something”. 65
+
+##### Foot Note 65
+
+×
+
+AB at 121.
+
+The conversation which continued also made clear that this was the first time
+that Nazarisham had mentioned to Sathish and Sylvester that he had these
+emeralds which the parties could also attempt to monetise in addition to the
+Alexandrite Gemstones: 66
+
+##### Foot Note 66
+
+×
+
+AB at 121
+
+Sylvester: ... Then after that I will check with my side everything because my
+side here, the funders they did mention. That’s why I thought you didn’t have
+ruby or sapphire but now you mentioned you got emerald, ok good. Let’s try
+also. Just whack.
+
+[emphasis added]
+
+60 More likely than not, I find that Nazarisham was by this time (ie, 27 June
+2020) proposing other ways by which the Defendants could find the means to pay
+the sum owed to Cradle Wealth under the Settlement Agreement. This is evident
+from the context in which Nazarisham brought up the monetisation of the
+emeralds. Immediately after Nazarisham raised this possibility of monetising
+the emeralds, Sathish replied that the “priority” was “to pay the shareholders
+first”. Nazarisham agreed in response and his reply also suggested that he was
+more than cognisant of the Defendants’ obligation to pay the sum of
+US$4,000,000 that was owed under the Settlement Agreement:
+
+[Sathish]: Ya I mean whatever we can get to pay the shareholders first, that’s
+the priority.
+
+Nazarisham: Ya correct. Correct.
+
+Sylvester: Understand bro.
+
+Nazarisham: You see, end of the day [Sathish], if the shareholders [sic] we’re
+trying our very best here right, the money is not lost. We have the assets
+right but if they still want to now now now, we mati la, correct or not. We
+are trying our best you see.
+
+[Sathish]: … for me the main goal over here is have to pay back the
+shareholders because a lot of them their situation is really very bad. So I
+mean it’s our duty.
+
+Nazarisham: You see, what is our valuation and what we need to pay is $4
+million correct? You see.
+
+…
+
+If let’s say pap [sic] close $10 million, $4 million pap [sic] clear already
+you see.
+
+…
+
+Correct or not. You see not say we don’t want to pay you know. We have the
+money we definitely will pay …
+
+[Sathish]: … sometimes it can be a very frustrating process because my side
+the reason why I want this to be done fast like I said it’s for the
+shareholders …
+
+Nazarisham: No problem. I understand that fully.
+
+[emphasis added]
+
+I agree with Cradle Wealth’s submission that Nazarisham’s conduct as such (ie,
+proposing on 27 June 2020 to monetise the emerald stones as well) cut across
+the alleged terms of the Actual Agreement as pleaded by the Defendants (see
+[16(b)] above), in particular its effect that the Defendants were not obliged
+to pay Cradle Wealth the sum of US$4,000,000 if the Alexandrite Gemstones
+could not be monetised. From the parties’ exchange, it is plain that
+monetising the Alexandrite Gemstones was a means to an end and that the “main
+goal” was “to pay the shareholders first” which was more important than
+monetising the Alexandrite Gemstones per se. The parties were therefore open
+to other alternative means, such as the possibility of monetising the other
+emerald stones that Nazarisham had in his possession.
+
+61 In a similar vein, Sylvester’s continued attempts up until 17 August 2020
+to monetise the Alexandrite Gemstones (see [55] above) cannot be viewed in
+isolation. At the same time, he was also pushing for monetisation of the
+emerald stones in Nazarisham’s possession. For instance, on 16 August 2020,
+Sylvester asked Nazarisham on the WhatsApp chat group “Comeback Team” that
+“[Sathish] mentioned to me earlier that you have some emeralds report from Far
+East as well, can you provide me with some of those?” and stated that “[w]ith
+the emeralds report from Far East or Nanyang I will be able to push and clear
+the emeralds more quickly”. 67
+
+##### Foot Note 67
+
+×
+
+AB at 127.
+
+I find this to be consistent with the explanation (at [58] above) that the
+overarching motivation—or impetus—was to ensure that the Defendants would make
+good on the Settlement Sum, and thereby allow Cradle Wealth to recover the
+moneys under the Settlement Agreement expeditiously. On the other hand,
+Sathish explained that he had by this time limited his participation in the
+monetisation of the Alexandrite Gemstones and instructed his lawyers to
+commence Suit 781 (see [55] above).
+
+62 For completeness, I address at this juncture the Defendants’ submission,
+relying on the parties’ exchange during the 27 June 2020 phone conversation,
+that the parties had agreed during the day of the mediation to work together
+to monetise Nazarisham’s Alexandrite Gemstones in order for Cradle Wealth and
+MTN to both stage a “comeback” in their respective businesses. 68
+
+##### Foot Note 68
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 32.
+
+The relevant exchange was ostensibly that Nazarisham had alluded and Sylvester
+had agreed, during the telephone conversation, that the parties had previously
+agreed to work “for our comeback”: 69
+
+##### Foot Note 69
+
+×
+
+AB at 117; 1DB at 20.
+
+Nazarisham: … Hopefully la this one is for our comeback you know. Cradle come
+back, so [MTN] come back you know. This is what we all agreed upon when we
+meet the last time round in the mediation you see right?
+
+Sylvester: Yes, bang.
+
+63 I note that whilst Nazarisham referred to “when we meet the last time round
+in the mediation” in the conversation above, it was evident at trial that the
+parties used the phrase “the mediation” quite loosely, to refer to either or
+both (a) the mediation (in which the parties, their lawyers and the mediator
+were present) and/or (b) the private discussion at the Café. It therefore
+could not be ruled out that Nazarisham was referring to what parties had
+discussed at the private discussion at the Café.
+
+64 The reference to a “comeback” is certainly a factor that could have swung
+either way, being alluded to in rather general and vague terms by the parties
+during the telephone conversation. In my view, looking at the exchange, the
+crucial question is again whether such agreement for a “comeback” extended to
+parties’ specific contemplation that the Alexandrite Gemstones must be
+monetised before the Defendants would become obliged to pay the sum of
+US$4,000,000. But as I conclude at [70] below, on the totality of the
+evidence, it is more likely than not that the parties reached no such
+agreement during the private discussion.
+
+The Deed of Mandate dated 14 March 2020 and the document signed by Mdm Ramai
+on 14 March 2020
+
+65 In relation to the parties’ subsequent conduct, the Defendants further
+argue that the Deed of Mandate dated 14 March 2020 as well as the document
+signed by Mdm Ramai on the same date (see [18] above) were both executed as
+part of the parties’ carrying out of the purported Actual Agreement, in which
+the parties had agreed that Sathish and Sylvester would be entitled to earn
+commissions from the monetisation of the Alexandrite Gemstones (see the
+pleaded term at [16(c)] above). In turn, these commissions could be used to
+pay Cradle Wealth’s debts, over and above the US$4,000,000 (ie, the Settlement
+Sum) which Cradle Wealth would become entitled to only upon monetisation of
+the Alexandrite Gemstones. 70
+
+##### Foot Note 70
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at paras 44, 48
+and 50.
+
+66 I do not accept the Defendants’ characterisation as such or indeed the
+Defendants’ related contentions that these documents (a) “[acknowledged] that
+the receipt of the [US$4,000,000]owed by [the Defendants] required and was
+dependent on the sale of the Alexandrite [Gemstones], and that any delay in
+such monetization would mean that the payment from [the Defendants] of the
+[US$4,000,000] would be likewise delayed” or (b) “[revealed] that the Actual
+Agreement was that [the Defendants] were not obliged to pay [Cradle Wealth]
+the [US$4,000,000] until the Alexandrite [Gemstones] were monetized, and that
+the said payment would be made from the sums received upon such monetisation”.
+71
+
+##### Foot Note 71
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 48.
+
+These are entirely speculative arguments and the Defendants were unable to
+provide cogent evidence to support the inferences they sought for the court to
+draw.
+
+Nazarisham’s reaction to Cradle Wealth commencing Suit 781 to enforce the
+Settlement Agreement
+
+67 The Defendants state that Nazarisham had found out on or about 21 September
+2020 that Cradle Wealth had commenced Suit 781, following service of the writ
+of summons on MTN on 18 September 2020. That same day, at around 1.04pm,
+Nazarisham posted images of the writ of summons and statement of claim in Suit
+781 on the WhatsApp chat group titled “Comeback Team” (which included Sathish
+and Sylvester as its members) and expressed his shock and disappointment with
+the messages “Another shocker received”, “Sigh”, “Since it comes to this,
+let’s just follow it through” and “I was just about to share some good news
+with [you] guys and this got to come”. 72
+
+##### Foot Note 72
+
+×
+
+1DB at 28.
+
+At the same time, in his WhatsApp chat with Sylvester at around 1.33pm,
+Nazarisham asked Sylvester “But how to share like this bro?”, “Win all must
+win together”, “Not lose alone bro” and “If [you] understand where I am coming
+from”. 73
+
+##### Foot Note 73
+
+×
+
+AB at 102.
+
+68 The Defendants submit 74
+
+##### Foot Note 74
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 66.
+
+that these messages express Nazarisham’s “shock and disappointment” upon
+learning of Suit 781, which is consistent with Nazarisham learning that Cradle
+Wealth had reneged on the purported Actual Agreement between the parties.
+
+69 However, these “shocker” WhatsApp messages are in fact neutral. The
+messages are arguably consistent with Nazarisham’s expectation that the
+parties could sell the Alexandrite Gemstones or other gemstones in his
+possession (eg, the emerald stones) to satisfy the sums owed without
+commencing litigation. This is plausible in the context that Sylvester had, as
+late as 2 September 2020, promised Nazarisham that he was “still working and
+pushing on other leads” and “[would] give updates immediately when I have
+them”. 75
+
+##### Foot Note 75
+
+×
+
+AB at 102.
+
+Furthermore, insofar as the Defendants submit that these messages expressed
+shock and disappointment, I would observe that Nazarisham’s messages did not
+display any outward expressions of betrayal which would have been consistent
+with Cradle Wealth reneging on an agreement that the USD$4,000,000 was only
+payable upon the monetisation of the Alexandrite Gemstones. In fact, there was
+no apparent mention of the purported Actual Agreement at all. In totality, it
+was more likely than not that the Settlement Agreement was what the parties
+had intended and agreed upon, and that the payment of the Settlement Sum was
+not contingent upon the monetisation of the Alexandrite Gemstones.
+
+Conclusion on sham
+
+70 In light of the aforesaid, I consider that whilst the evidence shows that
+the topic of Nazarisham’s Alexandrite Gemstones was at the very least
+mentioned by the parties during the day of the mediation, and that the parties
+anticipated working together to achieve a “comeback” for their respective
+businesses, such an expectation never extended to agreeing that the
+Alexandrite Gemstones must be successfully monetised before Cradle Wealth
+would become entitled to be paid the sum of US$4,000,000. I therefore reject
+the Defendants’ submission that there was an Actual Agreement reached orally
+during the private discussion at the Café in the terms as put forth by them,
+or indeed in any terms which differed from what was reduced to writing in the
+Settlement Agreement. In reaching this conclusion, I reiterate that the
+factors considered above at [37] to [69] were considered cumulatively rather
+than individually and I have no difficulty, on this basis, in concluding that
+the parties never agreed that Cradle Wealth would not be paid unless the
+Alexandrite Gemstones were successfully monetised.
+
+71 It follows that the Defendants have not discharged the burden of proving
+that the Settlement Agreement was executed with the common intention that the
+document was not to create the legal rights and obligations which it gave the
+appearance of creating. The facts do not disclose that the Settlement
+Agreement was a sham.
+
+Issue 2: Whether the parties orally agreed as a condition precedent to the
+Defendants’ obligation under cl 1(1) of the Settlement Agreement that the
+Alexandrite Gemstones must be successfully monetised
+
+Parties’ submissions
+
+72 The Defendants submit, in the alternative to sham, that there was an oral
+agreement between the parties constituting a condition precedent to the
+Settlement Agreement. According to the Defendants, the parties agreed during
+the private discussion at the Café that the Alexandrite Gemstones must be
+monetised before any payment would become due under the Settlement Agreement.
+76
+
+##### Foot Note 76
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at paras
+5(c)(i) and 110.
+
+At trial, the Defendants sought to rely on s 94(c) of the EA to admit
+extrinsic evidence of the parties’ discussions during the mediation and the
+subsequent conduct of the parties (including such conduct in working to
+attempt to monetise the Alexandrite Gemstones, and the Deed of Mandate
+executed on 14 March 2020). As the parties were ultimately unable to monetise
+the Alexandrite Gemstones, the Defendants contend that they are under no
+obligation to pay Cradle Wealth the Settlement Sum of US$4,000,000. 77
+
+##### Foot Note 77
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 111.
+
+73 In response, Cradle Wealth maintains that the Settlement Agreement
+constitutes the entirety of the agreement between the parties, pointing to the
+“entire agreement” clause (cl 5) and cl 7 which provides that “[n]o
+modification or variation of this Agreement shall be effective unless made in
+writing and signed by or on behalf of the Parties”. 78
+
+##### Foot Note 78
+
+×
+
+AB at 7-8; Plaintiff’s Opening Statement dated 21 June 2023 at para 20.
+
+Furthermore, s 94(c) of the EA does not assist the Defendants as the proper
+interpretation of proviso (c) is confined to a situation where the condition
+precedent sought to be proven does not “contradic[t], var[y], ad[d] to, or
+subtract[t] from” the terms of the Settlement Agreement. The extrinsic
+evidence is therefore inadmissible for the purposes of proving the alleged
+condition precedent as pleaded by the Defendants. Notwithstanding Cradle
+Wealth’s position on admissibility, it further submits that parties never
+agreed to the successful monetisation of the Alexandrite Gemstones
+constituting a condition precedent to the Settlement Agreement.
+
+The parole evidence rule as statutorily embodied in s 94 of the EA
+
+Whether the Settlement Agreement was intended to contain all the terms of the
+agreement
+
+74 Section 93 of the EA provides that where the terms of the contract between
+the parties have been reduced by or by consent of the parties to the form of a
+document, proof of the contents or terms of the contract is simply the
+production of the document itself. No evidence extraneous to the document may
+therefore be relied upon as proof of the terms of the contract (The Law of
+Contract in Singapore (Andrew Phang Boon Leong gen ed) (Academy Publishing,
+2nd Ed, 2022) (“The Law of Contract in Singapore”) at para 06.026). Section 94
+of the EA complements s 93 and is the statutory embodiment of the parol
+evidence rule (Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design &
+Construction Pte Ltd [2008] 3 SLR(R) 1029 (“Zurich Insurance”) at [71]). It
+provides, subject to certain provisos, that:
+
+Exclusion of evidence of oral agreement
+
+94. When the terms of any such contract, grant or other disposition of property, or any matter required by law to be reduced to the form of a document, have been proved according to section 93, no evidence of any oral agreement or statement shall be admitted as between the parties to any such instrument or their representatives in interest for the purpose of contradicting, varying, adding to, or subtracting from its terms subject to the following provisions:
+
+[…]
+
+[emphasis added]
+
+75 Nonetheless, it is well-recognised that the rule as statutorily embodied in
+s 94 of the EA only applies to exclude evidence beyond the four corners of the
+document if the contract was, in the first place, intended by the parties to
+contain all the terms of their agreement—thereby having no application, for
+instance, where parties intended for a contract to be partly written and
+partly oral (Zurich Insurance at [112]; The Law of Contract in Singapore at
+para 06.048). The parties’ intentions are to be objectively ascertained and
+the court will therefore consider whether the document appears to be a “true
+record of the contract” to a party thereto taking a reasonable view of the
+same (The Law of Contract in Singapore at para 06.029, citing Hutton v Watling
+[1948] Ch 398 at 404 and E Peel, Treitel on the Law of Contract (Sweet &
+Maxwell, 13th Ed, 2011) at para 6-014). Additionally, the court may take
+cognizance of extrinsic evidence or the surrounding circumstances of the
+contract in order to ascertain whether the parties did in fact intend to
+embody their entire agreement in the contract (Zurich Insurance at [112]).
+
+76 The main hurdle faced by the Defendants’ contention that the Settlement
+Agreement was not intended to contain all the terms of the agreement between
+parties comes in the form of the entire agreement clause, ie, cl 5 of the
+Settlement Agreement (reproduced at [12] above). In this regard, the
+Defendants submit that cl 5 does not prohibit the court from finding that the
+oral condition precedent has full force and effect, citing Lee Chee Wei v Tan
+Hor Peow Victor and others and another appeal [2007] 3 SLR(R) 537 (“Lee Chee
+Wei”). 79
+
+##### Foot Note 79
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 112.
+
+In seeking to clarify the principles relating to entire agreement clauses, the
+Court of Appeal concluded (at [36]) that this genre of clauses can “therefore
+be … construed as denuding a collateral warranty of legal effect … and/or by
+rendering inadmissible extrinsic evidence which reveals terms inconsistent
+with those in the written contract”. As a general principle, the effect of an
+entire agreement clause “is essentially a matter of contractual interpretation
+and will necessarily depend upon its precise wording and context” [emphasis in
+original] (at [25]). What matters is the construction of the entire agreement
+clause. If appropriately worded, an entire agreement clause will be
+“acknowledged and upheld if it clearly purports to deprive any pre-contractual
+or collateral agreement of legal effect” (at [35]). The Defendants’ reliance
+on the principles expounded in Lee Chee Wei therefore does not advance their
+case very far, unless the Defendants can sustain an interpretation of cl 5 of
+the Settlement Agreement that would allow recourse to an oral condition
+precedent.
+
+77 The principles in Lee Chee Wei were applied in Wen Wen Food Trading Pte Ltd
+v Food Republic Pte Ltd [2019] SGHC 60 (“Wen Wen Food Trading”), which was an
+appeal against the decision of the Assistant Registrar to strike out the
+plaintiff’s claim in its entirety on the ground that the claim was legally
+unsustainable and therefore “frivolous or vexatious”. The plaintiff’s claim
+was based in misrepresentation and wrongful repudiation of the food stall
+license agreement between the parties, alleging that the defendant had made a
+specific representation that the plaintiff would be able to operate in the
+defendant’s food-court for a period of at least six years, despite the license
+agreement stating that the license period was two years. The High Court
+considered, in addition to the express wording of the license agreement as
+such, that the license agreement contained an entire agreement clause (cl
+30.1) which clearly identified the written agreement as the only source of the
+parties’ rights and obligations and prevented the plaintiff from contradicting
+the document with extrinsic evidence: Wen Wen Food Trading at [21]–[23]. On
+appeal, the plaintiff’s appeal in CA/CA 16/2019 was dismissed by the Court of
+Appeal (with no written grounds of decision rendered). It is relevant for
+present purposes that the Court of Appeal noted that whilst the facts as
+pleaded might possibly have given rise to a claim based on an oral collateral
+contract provable under s 94(b) of the EA, such a claim would be precluded by
+the entire agreement clause in the license agreement which effectively
+deprived any pre-contractual or collateral agreement of legal effect. Whilst
+the principles in Lee Chee Wei have hitherto not been considered specifically
+in relation to the interaction between a claim (or defence) based on an oral
+condition precedent under s 94(c) of the EA and an entire agreement clause, I
+see no reason in principle why it should not likewise apply given that the
+guidance given in Lee Chee Wei was of general application (see Lee Chee Wei at
+[24]).
+
+78 In the present case, the Defendants submit that what they considered to be
+the context and circumstances under which cl 5 was drafted in the Settlement
+Agreement should be taken into account in construing its effect: 80
+
+##### Foot Note 80
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at paras
+132–133.
+
+(a) Clause 5 was introduced by Cradle Wealth’s lawyers when they were drafting
+the Settlement Agreement and was not discussed by the parties during the
+private discussion at the Café.
+
+(b) There was no discussion or negotiation between the parties or their
+lawyers on whether such an “entire agreement” clause should be included or how
+it should be worded.
+
+(c) There was no discussion of the scope and effect of cl 5 of the Settlement
+Agreement.
+
+(d) Clause 5 was introduced as a “common form boiler-plate provision” that was
+inserted into the Settlement Agreement just before the agreement was signed.
+
+There was therefore no meeting of minds and the parties did not intend for cl
+5 to prevent the Defendants from relying on the orally agreed condition
+precedent to the Settlement Agreement. 81
+
+##### Foot Note 81
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 134.
+
+79 I am unable to agree. For the following reasons, I find that the Defendants
+are unable to rebut the presumption expressed in Zurich Insurance at [40] and
+[132(b)] that a contract which is complete on its face was intended to contain
+all the terms of the parties’ agreement. Moreover, the language of cl 5
+clearly precludes a defence based on a separate oral agreement constituting a
+condition precedent under s 94(c) of the EA. The Defendants are unable to
+sustain an interpretation of cl 5 that would allow recourse to an oral
+condition precedent.
+
+80 First, the Defendants bizarrely submit that their counsel, Mr Lim Tean, had
+not in fact reviewed the terms of the Settlement Agreement. 82
+
+##### Foot Note 82
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at paras
+127–128.
+
+However, it cannot be disputed that Nazarisham had received the benefit of
+legal advice before signing the Settlement Agreement. This was exactly what
+Nazarisham had affirmed in his affidavit of evidence-in-chief: 83
+
+##### Foot Note 83
+
+×
+
+AEIC of Nazarisham bin Mohamed Isa dated 16 May 2023 at paras 25–26.
+
+25 When the agreement was drawn up by the Plaintiff’s lawyers and a copy
+extended to my lawyer Mr Lim Tean he looked at it and told me that I could not
+sign this because it was a one sided agreement. I explained to him that the
+whole agreement was as above where they were not going to enforce the
+agreement but would earn their own commissions … I told Mr Lim Tean that [I]
+could trust them and I had been treating all of them as an extended part of my
+family […]
+
+26 Despite Mr Lim Tean’s misgivings which he made it very loud to me, I
+executed the Settlement Agreement in the knowledge that the settlement
+agreement was far wider than what was agreed …
+
+[emphasis added in bold italics]
+
+Mr Lim Tean also confirmed in his affidavit of evidence-in-chief and under
+cross-examination that he had reviewed the terms of the draft Settlement
+Agreement and advised Nazarisham not to sign the agreement. I make no
+observations on the quality of the legal advice rendered by Mr Lim Tean in
+reviewing the draft Settlement Agreement nor the evident lapses therein, for
+instance, as Mr Lim Tean himself admitted in hindsight under cross-
+examination, that he ought to have sought for the entire agreement clause to
+be removed.
+
+81 Second, as to the Defendants’ various contentions (at [78(a)–(d)] above) as
+well as Nazarisham’s claim that he was never specifically advised on the
+precise scope and effect of cl 5, 84
+
+##### Foot Note 84
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 130.
+
+none of these are sufficient to contradict the express words of cl 5. I would
+observe that the plain language of cl 5 itself is clear. Furthermore,
+Nazarisham himself admitted under cross-examination that he had read and
+understood cl 5 before signing the Settlement Agreement, although he claimed
+that he had gone on to sign the Settlement Agreement because of his belief
+that the agreement was a sham and that parties in fact agreed to the
+successful monetisation of the Alexandrite Gemstones constituting a condition
+precedent to the Defendants’ obligation to pay. 85
+
+##### Foot Note 85
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 129.
+
+Additionally, cl 7 provides that “[n]o modification or variation of this
+Agreement shall be effective unless made in writing and signed by or on behalf
+of the Parties”. These are self-explanatory and plain words which would have
+been reasonably understood even by persons who may have no more than a
+rudimentary understanding of commercial contracts.
+
+82 Moreover, I observe that what the Defendants are essentially seeking to do
+is to admit extrinsic evidence to aid in the construction of cl 5. This much
+is clear from the nature of the extrinsic evidence which the Defendants rely
+on (ie, the context and circumstances under which cl 5 was drafted in the
+Settlement Agreement), as well as the Defendants’ reliance on CIFG Special
+Assets Capital Ltd v Ong Puay Boon [2018] 1 SLR 170 in support. 86
+
+##### Foot Note 86
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at paras
+118-122.
+
+That case concerned the application of the legal principles in Zurich
+Insurance on the contextual approach to contractual interpretation under s
+94(f) of the EA (the “Zurich Insurance principles”) to the true construction
+of a general indemnity clause in the set of agreements between the parties. In
+the present case, the proposed interpretation of cl 5 by the Defendants is
+essentially that its effect should be nullified. In so doing, however, the
+Defendants have ignored the Zurich Insurance principles—critically, it is not
+permissible to use extrinsic evidence to advance a construction that is well
+outside the scope of the meaning that the actual words of the clause can
+reasonably bear, much less one that directly contradicts the express words of
+the clause (Zurich Insurance at [123] and [132(f)].
+
+83 In my view, cl 5 is a clause that clearly purports to deprive any pre-
+contractual or collateral agreement of legal effect. Clause 5 states that the
+Settlement Agreement contains the parties’ entire agreement “with regard to
+the matters set forth herein”. It explicitly states that any “agreements, oral
+or otherwise” which are not contained in the Settlement Agreement shall be
+devoid of any force or effect. The alleged condition precedent as pleaded by
+the Defendants is therefore caught by cl 5, since it is related to the matters
+covered by the Settlement Agreement and was ostensibly reached by oral
+agreement. The Court of Appeal in Wen Wen Food Trading had found that any
+claim based on an oral collateral contract provable under s 94(b) of the EA
+would be precluded by the entire agreement clause in that case. I find in the
+present case that any claim based on a separate oral agreement constituting a
+condition precedent provable under s 94(c) of the EA is likewise precluded by
+the entire agreement clause (cl 5) in the Settlement Agreement. The Defendants
+are therefore precluded from asserting an oral condition precedent to the
+effect that the Alexandrite Gemstones must be monetised before any payment
+would become due under the Settlement Agreement.
+
+Whether the Defendants can rely on s 94(c) of the EA
+
+84 For completeness, I am also satisfied that a similar conclusion would have
+been reached even if I did not consider that cl 5 of the Settlement Agreement
+precludes recourse to an alleged oral condition precedent.
+
+85 As alluded to above, the parties dispute the proper interpretation of the
+exception encapsulated in proviso (c) to s 94 of the EA which was sought to be
+relied upon by the Defendants. Cradle Wealth submits that proviso (c) is
+confined to a situation where the condition precedent sought to be proven does
+not “contradict[t], var[y], ad[d] to, or subtract[t] from” the terms of the
+Settlement Agreement. In other words, proviso (c) is subject to the
+restriction in the chapeau to s 94 as such. Notwithstanding that this
+interpretation of proviso (c) is not supported by any case law, Cradle Wealth
+submits that its interpretation is consistent with illustration (b) to s 94 of
+the EA which provides as follows:
+
+(b) A agrees absolutely in writing to pay B $1,000 on 1st March 1893. The fact
+that at the same time an oral agreement was made that the money should not be
+paid till 31st March cannot be proved.
+
+(1) Rationale behind the parol evidence rule
+
+86 In an illuminating passage from Sir James Fitzjames Stephen’s Digest, the
+drafter of the EA observed (in relation to s 92 of the Indian Evidence Act of
+1872 which is in pari materia with s 94 of the Singapore EA) (see, Sir James
+Fitzjames Stephen, An Introduction to the Indian Evidence Act: The Principles
+of Judicial Evidence (Thacker, Spink & Co, 2nd Impression, 1904) at pp
+176–177):
+
+One single principle runs through all the propositions relating to documentary
+evidence. It is that the very object for which writing is used is to
+perpetuate the memory of what is written down, and to furnish permanent proof
+of it. In order that full effect may be given to this, two things are
+necessary, namely, […] and that if [the document] purports to be a final
+settlement of a previous negotiation, as in the case of a written contract, it
+shall be treated as final, and shall not be varied by word of mouth […] If the
+second rule were not observed people would never know when a question was
+settled, as they would be able to play fast and loose with their writings …
+
+[emphasis added]
+
+He further affirmed:
+
+… By bearing these leading principles in mind the details and exceptions will
+become simple. Their practical importance is indeed as nothing in comparison
+to the importance of the rules which they qualify.
+
+87 In a similar vein it was observed that the rationale for the parol evidence
+rule is “grounded on the objective theory of contract and (on a practical
+level) the attendant promotion of certainty as well as ensuring that only the
+best evidence possible is admitted” (see Andrew B L Phang & Goh Yihan,
+Contract Law in Singapore (Wolters Kluwer Law & Business, 2012) at para 993),
+cited by the Court of Appeal in Toh Eng Tiah at [3]).
+
+88 Bearing these guiding principles in mind, I turn to the proper
+interpretation of proviso (c) to s 94.
+
+(2) My consideration
+
+89 In my judgement, the plain reading of proviso (c) to s 94 in context does
+not support Cradle Wealth’s contended interpretation. The principal rule as
+set out in the chapeau to s 94 (ie, against admitting extrinsic evidence “for
+the purpose of contradicting, varying, adding to, or subtracting from” the
+terms of the written agreement) is subject to provisos (a) to (f). In other
+words, derogation from the principal rule in s 94 is permitted where the
+circumstances described in one or more of the six accompanying provisos are
+satisfied (see also, Zurich Insurance at [71]–[74]). The operation of proviso
+(c) is therefore not subject to the restriction that the evidence sought to be
+admitted of a condition precedent must not be “for the purpose of
+contradicting, varying, adding to, or subtracting from” the terms of the
+written agreement.
+
+90 Furthermore, adopting Cradle Wealth’s contended interpretation would
+otherwise render the exception in proviso (c) otiose—or indeed, any of the
+other exceptions in provisos (a) to (e) (putting aside from consideration,
+proviso (f) which is of a different nature, being not really an exception to s
+94 but a fundamental rule of interpretation: Zurich Insurance at [72]). Simply
+put, I am unable to see how any extrinsic evidence sought to be adduced by a
+party under provisos (a) to (e) would not have one of the four effects of
+contradicting, varying, adding to or subtracting from the terms of a written
+agreement. In this regard, I would keep in mind the rule of construction that
+Parliament is presumed not to have intended an unworkable or impracticable
+result, so an interpretation that leads to such a result would not be regarded
+as a possible one (Tan Cheng Bock v Attorney-General [2017] 2 SLR 850 at [38],
+affirming Hong Leong Bank Bhd v Soh Seow Poh [2009] 4 SLR(R) 525 at [40]).
+
+91 My conclusion on the interpretation of proviso (c) is buttressed by the
+following. Parties agreed that proviso (c) is the statutory embodiment of the
+rule in Pym v Campbell (1856) 6 E & B 370 (“Pym”) in which the plaintiff
+produced at trial an agreement for sale of a machine signed by the defendant.
+The defendant gave evidence that the parties had negotiated the purchase and
+it had been arranged that they and a third person, one “Abernethie”, should
+meet. If Abernethie approved of the machine, they would make a bargain on
+these terms. Abernethie could not then be found. It was then proposed that, as
+the parties were all present and might find it troublesome to meet again, an
+agreement should be then drawn up and signed, which, if Abernethie approved of
+the machine, should be the agreement, but if Abernethie did not approve,
+should not be one. Abernethie did not approve of the invention when he saw it
+and the defendants contended that there was no bargain.
+
+92 In holding that the defendant’s evidence as such was admissible, Erle J
+reasoned (at 904–905):
+
+… The production of a paper purporting to be an agreement by a party, with his
+signature attached, affords a strong presumption that it is his written
+agreement; and, if in fact he did sign the paper animo contrahendi, the terms
+contained in it are conclusive, and cannot be varied by parol evidence: but in
+the present case the defence begins one step earlier: the parties met and
+expressly stated to each other that, though for convenience they would then
+sign the memorandum of the terms, yet they were not to sign it as an agreement
+until Abernethie was consulted. I grant the risk that such a defence may be
+set up without ground; and I agree that a jury should therefore always look on
+such a defence with suspicion: but […] The distinction in point of law is that
+evidence to vary the terms of an agreement in writing is not admissible, but
+evidence to shew that there is not an agreement at all is admissible.
+
+[emphasis added]
+
+Similarly, Lord Campbell CJ stated (at 905) that “[n]o addition to or
+variation from the terms of a written contract can be made by parol: but in
+this case the defence was that there never was any agreement entered into.
+Evidence to that effect is admissible; and the evidence given in this case was
+overwhelming” [emphasis added].
+
+93 Under the common law position, it therefore appeared that the prevalent
+view was to treat such an “exception” to the parol evidence rule (ie, to prove
+that parties did not intend their contract to take effect until some condition
+precedent was fulfilled) as, in reality, issues raised of general contractual
+validity and enforceability to which the parol evidence rule has no
+application (see also, UK Law Commission, Law of Contract: The Parol Evidence
+Rule (Law Com No 154, January 1986) D W at paras 2.30–2.31). Insofar as
+proviso (c) to s 94 of the EA now statutorily embodies the rule in Pym, I am
+satisfied that the circumstances stipulated in proviso (c) are not intended to
+be read subject to the qualifying words “for the purpose of contradicting,
+varying, adding to, or subtracting from its terms” in the chapeau.
+
+94 Finally, I consider that Cradle Wealth could not rely on illustration (b)
+as being “on all fours” with the present case. Illustration (b) in fact
+addresses the situation of an oral collateral contract (ie, an independent
+contract from the written agreement) and, together with illustration (g), are
+examples of the application of s 94(b). Illustration (g) pertains to the
+situation in which evidence is admissible of any oral agreement of a warranty,
+if the document is silent on this matter and the oral agreement is not
+inconsistent with its terms. Illustration (b) is the converse situation in
+which the evidence pertains to an oral agreement that is inconsistent with an
+express term of the written agreement. In the present case, the Defendants
+rely on s 94(c) which is clearly confined to evidence of a condition precedent
+to the written contract.
+
+95 I am therefore satisfied that the extrinsic evidence sought to be adduced
+by the Defendants to prove the oral condition precedent would have been
+admissible, but for the entire agreement clause. However, for the following
+reasons, I find in any event that the facts do not disclose the oral condition
+precedent as pleaded by the Defendants.
+
+Do the facts disclose that the monetisation of the Alexandrite Gemstones was a
+condition precedent?
+
+96 In Romar Positioning Equipment Pte Ltd v Merriwa Nominees Pty Ltd [2004]
+SGCA 44 the Court of Appeal affirmed (at [22]) that the words “condition
+precedent” in the context of contracts can be “used to describe a condition
+which does not prevent the existence of a binding contract, but which suspends
+performance of it until fulfilment of the condition”, citing Kim Lewison’s The
+Interpretation of Contracts (3rd Ed, 2004) at para 15.02. The courts will be
+slow to construe an oral agreement as a condition precedent where “the written
+agreement [has] already become binding and [has] been performed” (Wen Wen Food
+Trading at [32]). Cradle Wealth had performed its part of the bargain under
+the Settlement Agreement by its discontinuance of Suit 940 on 2 March 2020.
+
+97 Owing to the significant factual overlap between the Defendants’ case
+premised on sham and their alternative case premised on condition precedent
+(see [28] above), and given that the Defendants in fact relied on the exact
+same extrinsic material in seeking to prove the terms of the alleged Actual
+Agreement and the existence of the alleged condition precedent, 87
+
+##### Foot Note 87
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 110.
+
+I considered that much of my findings above at [34]–[70] after considering the
+totality of the evidence were equally applicable to the latter question of
+condition precedent. I therefore repeat my finding that whilst the topic of
+Nazarisham’s Alexandrite Gemstones was at the very least mentioned by the
+parties during the day of the mediation, and the parties anticipated working
+together to achieve a “comeback” for their respective businesses, such an
+expectation never extended to agreeing that the Alexandrite Gemstones must be
+successfully monetised before Cradle Wealth would become entitled to be paid
+the sum of US$4,000,000 under the Settlement Agreement. In other words,
+parties never intended for cl 1(1) of the Settlement Agreement to not take
+effect until the fulfilment of some condition precedent as pleaded by the
+Defendants.
+
+98 In the circumstances, this is sufficient to dispose of the Defendants’ case
+premised on condition precedent. There is no such condition precedent as
+pleaded by the Defendants and, as I have found, cl 5 of the Settlement
+Agreement clearly precludes recourse to an oral condition precedent.
+
+Issue 3: Whether the Deed of Mandate superseded the Settlement Agreement and
+rendered it null and void
+
+99 The Defendants also submit, in the alternative, that the Deed of Mandate
+dated 14 March 2020 superseded the Settlement Agreement and rendered it null
+and void, relying on the entire agreement clause (cl 12) in the Deed of
+Mandate which states: 88
+
+##### Foot Note 88
+
+×
+
+AB at 195.
+
+12 … The Parties agree that this Agreement and all Schedules annexed to the
+same constitute the entire agreement between them with respect to the subject
+matter of this Agreement and that it supersedes all prior or contemporaneous
+proposals, agreements, negotiations, representations, warranties,
+understandings, correspondence and all other communications (whether written
+or oral, express or implied) or arrangements entered into between the Parties
+prior to this Agreement in respect of the matters dealt with in it. No
+promise, inducement, representation or agreement other than as expressly set
+forth in this Agreement has been made to or by the Parties.
+
+[emphasis added]
+
+The problem with this submission is that the Deed of Mandate was entered into
+between entirely different parties (ie, between Nazarisham, Fides Assets and
+Mdm Ramai) and neither MTN nor Cradle Wealth were named therein or privy
+thereto. The Defendants nevertheless submit that the Deed of Mandate was
+designed to benefit Cradle Wealth and the said benefit outweighed Cradle
+Wealth’s entitlement pursuant to the Settlement Agreement. 89
+
+##### Foot Note 89
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 147.
+
+In this regard, the Defendants argue that “it would not have made any
+commercial sense” for Nazarisham to execute such a Deed of Mandate indirectly
+giving Cradle Wealth (via the arrangement with Mdm Ramai) “the potential to
+earn millions of dollars in commissions over time” in addition to what it was
+entitled to receive under the Settlement Agreement. 90
+
+##### Foot Note 90
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 147.
+
+100 I am unable to agree with the Defendants’ submissions. The Deed of Mandate
+clearly defines that it is a “mandate contract of legal representation between
+the abovementioned Client [ie, named as Nazarisham] and the stated Mandatee
+[ie, named as Fides Assets]”, with Mdm Ramai further named as the “bridging
+party”. 91
+
+##### Foot Note 91
+
+×
+
+AB at 193–195.
+
+Under cross-examination, Nazarisham conceded as much, that MTN and Cradle are
+not parties to the Deed of Mandate. I therefore reject that the Deed of
+Mandate superseded the Settlement Agreement and rendered the latter null and
+void.
+
+Issue 4: Whether Cradle Wealth is estopped from relying on the Settlement
+Agreement
+
+101 Further and in the alternative, the Defendants assert the doctrine of
+promissory estoppel as a defence to Cradle Wealth’s claim. 92
+
+##### Foot Note 92
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at para 149.
+
+The Defendants assert that Sathish and Sylvester had during the private
+discussion at the Café on 28 February 2020 promised Nazarisham that the
+Settlement Agreement would not be enforced by Cradle Wealth until the
+Alexandrite Gemstones were successfully monetised by way of a collaborative
+effort between the Defendants, Sathish and Sylvester. Relying on this promise,
+Nazarisham signed the Settlement Agreement on 28 February 2020. The parties
+later abandoned all efforts to monetise the Alexandrite Gemstones and Cradle
+Wealth commenced Suit 781 to enforce the Settlement Agreement. Since then, the
+Alexandrite Gemstones have also come under a prohibition order issued by the
+Singapore Police Force such that Nazarisham is unable to access or deal with
+the gemstones. If Cradle Wealth is allowed to resile from its promise, the
+Defendants submit that they will suffer detriment because they cannot pay the
+sum of US$4,000,000 without the successful monetisation of the Alexandrite
+Gemstones. Under these circumstances, it would be inequitable for Cradle
+Wealth to resile from its promise. 93
+
+##### Foot Note 93
+
+×
+
+1st and 2nd Defendants’ Closing Submissions dated 14 July 2023 at paras
+152–157.
+
+102 Promissory estoppel is a legal defence to restrict the enforcement by the
+promisor of previously existing rights against the promisee. The Defendants
+cited Orchard Central Pte Ltd v Cupid Jewels Pte Ltd (Forever Jewels Pte Ltd,
+non-party) [2013] 2 SLR 667 (“Orchard Central”) at [44] in which this court
+stated that the traditional elements of promissory estoppel are well-
+established, viz, representation, reliance and detriment, but the precise
+ambits of each element are ambiguous. As to the first element, viz,
+representation, the representation or promise must have been clear and
+unequivocal (Orchard Central at [45]). There is a further overarching
+requirement that it must have been inequitable in all the circumstances for
+the promisor to resile on his promise.
+
+103 I find that the Defendants cannot rely on promissory estoppel. For the
+same reasons as set out above at [34]–[70], I find that there was no promise
+or representation that the Alexandrite Gemstones must be successfully
+monetised before Cradle Wealth would become entitled to be paid the sum of
+US$4,000,000 under the Settlement Agreement.
+
+Conclusion
+
+104 In conclusion, Cradle Wealth has succeeded in its claim against MTN and
+Nazarisham. The Defendants are ordered to pay Cradle Wealth the sum of
+US$4,000,000.00 plus pre- and post-judgment interest at 5.33% per annum from
+the date of the Writ (ie, 24 August 2020), with costs to be agreed or taxed.
+
+Lee Seiu Kin  
+Judge of the High Court|  
+---|---  
+  
+Choo Zheng Xi, Chew Di Shun Dickson and Carol Yuen Ai Zhen (Remy Choo Chambers
+LLC) for the plaintiff;
+
+Joseph Ignatius and Suja Susan Thomas d/o B Thomas (Ignatius J & Associates)
+for the first and second defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 27 Oct 2023 (11:40 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

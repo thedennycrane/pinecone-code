@@ -1,0 +1,1185 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2021] SGHC 285
+
+Originating Summons No 947 of 2021
+
+In the matter of the suspension of The Online Citizen Pte Ltd’s Class Licence
+by the Info-communications Media Development Authority
+
+And
+
+In the matter of Sections 12(1)(a), 12(1)(i) and 9 of the Broadcasting Act
+(Cap 28, 2012 Revised Edition)
+
+And
+
+In the matter of Order 53, Rule 1 of the Rules of Court (2014 Revised Edition)
+
+Between
+
+| The Online Citizen Pte Ltd  
+---|---  
+  
+… Applicant
+
+And
+
+| Info-communications Media Development Authority  
+---|---  
+  
+… Respondent
+
+judgment
+
+[Administrative Law] — [Judicial review] — [Leave]
+
+[Administrative Law] — [Judicial review] — [Illegality]
+
+[Administrative Law] — [Judicial review] — [Substantive legitimate
+expectations]
+
+[Media Law] — [Broadcasting] — [Licensing]
+
+[Statutory Interpretation] — [Definitions]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Re The Online Citizen Pte Ltd
+
+[2021] SGHC 285
+
+General Division of the High Court — Originating Summons No 947 of 2021  
+Valerie Thean J  
+22 November 2021
+
+16 December 2021 Judgment reserved.
+
+Valerie Thean J:
+
+Introduction
+
+1 The Broadcasting Act (Cap 28, 2012 Rev Ed) (“the Act”) sets out a class
+licensing regime which allows the Info-communications Media Development
+Authority (“the IMDA”) to regulate persons who provide licensable broadcast
+services. By this application, The Online Citizen Pte Ltd (“TOCPL”) seeks
+leave to commence judicial review proceedings against the IMDA under O 53 r 1
+of the Rules of Court (2014 Rev Ed) (“the ROC”). TOCPL seeks to challenge
+various notices and orders given by the IMDA in its letter dated 14 September
+2021 (“the Letter”) relating to the suspension of TOCPL’s class licence to
+provide licensable broadcasting services under s 9 of the Act.
+
+Background
+
+2 TOCPL is a local media outlet providing services and carrying out activities
+on various platforms, 1
+
+##### Foot Note 1
+
+×
+
+Applicant’s Statement pursuant to Order 53 rule 1(2) of the Rules of Court
+dated 17 September 2021 at para 2; Affidavit of Xu Yuan Chen @ Terry Xu
+affirmed on 17 September 2021 (“Mr Xu’s 1st Affidavit”) at Tab A, p 2 (at
+footnotes 2 and 3).
+
+including its main English websites (“www.theonlinecitizen.com” and
+“www.onlinecitizenasia.com”); its Chinese website (“zh.theonlinecitizen.com”);
+and social media channels such as its Facebook page and Twitter account. It is
+owned by Mr Terry Xu (“Mr Xu”), who is also its Chief Editor. 2
+
+##### Foot Note 2
+
+×
+
+Affidavit of Xu Yuan Chen @ Terry Xu affirmed on 1 November 2021 at para 1;
+Applicant’s Written Submissions (“AWS”) at para 10.
+
+3 In 2020, TOCPL failed to comply with the requirement to make an annual
+declaration of its funding sources, and was given an opportunity to show cause
+by a notice from the IMDA on 6 September 2021. 3
+
+##### Foot Note 3
+
+×
+
+Mr Xu’s 1st Affidavit at Tab A, pp 1–2 (at paras 1–7).
+
+TOCPL failed to do so to the IMDA’s satisfaction. On 14 September 2021, in its
+Letter, the IMDA informed TOCPL of the following: 4
+
+##### Foot Note 4
+
+×
+
+Mr Xu’s 1st Affidavit at Tab A, p 2 (at paras 8–9).
+
+(a) Pursuant to s 12(1)(a) read with s 12(1)(i) of the Act, TOCPL’s class
+licence under s 9 of the Act to provide licensable broadcasting services –
+such as those provided on its websites, any of its social media and broadcast
+channels, pages and/or accounts (which I refer to collectively as its “social
+media platforms”), and any mobile applications operated by TOCPL – was
+suspended with immediate effect.
+
+(b) TOCPL was required to stop posting further articles on these websites and
+social media platforms with immediate effect, and to disable access to all of
+its licensable broadcasting services by 3.00pm on 16 September 2021.
+
+(c) TOC was prohibited from providing any new licensable broadcasting services
+on any other websites and social media platforms.
+
+(d) Any non-compliance with this notice of suspension would be a contravention
+of s 8(1) of the Act, and the IMDA might take steps to restrict access to the
+aforesaid broadcasting services. Operating a licensable broadcasting service
+without a valid licence would also be a criminal offence punishable under s 46
+of the Act.
+
+4 As TOCPL did not complete and submit its declaration of funding sources to
+the IMDA by the stipulated deadline, the IMDA cancelled TOCPL’s class licence.
+5
+
+##### Foot Note 5
+
+×
+
+Mr Xu’s 1st Affidavit at Tab A, p 3 (at para 10); Notes of Argument, 22
+November 2021.
+
+5 TOCPL does not challenge the IMDA’s suspension and cancellation of its class
+licence, although it does not admit to the correctness of that decision. 6
+
+##### Foot Note 6
+
+×
+
+AWS at para 5; Notes of Argument, 22 November 2021.
+
+By this originating summons, TOCPL seeks leave under O 53 r 1 of the ROC to
+apply for four quashing orders and ten declarations in relation to the IMDA’s
+orders against its Chinese website and its social media platforms, and the
+IMDA’s prohibition against TOCPL providing any new broadcasting services. 7
+
+##### Foot Note 7
+
+×
+
+AWS at paras 6–7; Notes of Argument, 22 November 2021.
+
+In its written and oral submissions, TOCPL also referred to its Malay website,
+although the quashing orders prayed for referred only to its Chinese website.
+I therefore refer only to TOCPL’s Chinese website in the analysis that
+follows, although this analysis would apply by parity of reasoning to TOCPL’s
+Malay website.
+
+Summary of parties’ positions and issues
+
+6 It is not disputed that TOCPL requires leave under O 53 r 1(1)(b) to pursue
+the quashing orders and declarations it seeks in relation to the Letter. There
+are three requirements for leave to commence judicial review proceedings
+(Muhammad Ridzuan bin Mohd Ali v Attorney-General [2015] 5 SLR 1222 at [32]
+and, more recently, Syed Suhail bin Syed Zin v Attorney-General [2021] 1 SLR
+809 at [9]):
+
+(a) the subject matter of the complaint must be susceptible to judicial
+review;
+
+(b) the applicant must have sufficient interest in the matter; and
+
+(c) the materials before the court must disclose an arguable or prima facie
+case of reasonable suspicion in favour of granting the remedies sought by the
+applicant.
+
+7 In addition, as a threshold issue, an applicant seeking judicial review
+must, as a general rule, exhaust all alternative remedies before invoking the
+jurisdiction of the court for judicial review: Borissik Svetlana v Urban
+Redevelopment Authority [2009] 4 SLR(R) 92 (“Borissik”) at [25], affirmed by
+the Court of Appeal in Comptroller of Income Tax v ACC [2010] 2 SLR 1189 at
+[13].
+
+8 The dispute between the parties concerns both the procedural requirement for
+TOCPL to have exhausted all of its alternative remedies, and the substantive
+requirement for TOCPL to establish a prima facie case of reasonable suspicion
+in favour of granting the orders it seeks.
+
+Parties’ positions
+
+9 With regard to the exhaustion of alternative remedies, the IMDA submits that
+TOCPL has failed to satisfy this procedural requirement because it has not
+appealed to the Minister under either s 12(2) or s 59(1)(b) of the Act, as it
+was entitled to do. 8
+
+##### Foot Note 8
+
+×
+
+Respondent’s Written Submissions (“RWS”) at paras 7–8.
+
+TOCPL, on the other hand, argues that neither of these statutory provisions
+applies to the present case. 9
+
+##### Foot Note 9
+
+×
+
+AWS at paras 12–14; Notes of Argument, 22 November 2021.
+
+10 With regard to TOCPL’s substantive grounds for seeking relief, TOCPL makes
+three submissions:
+
+(a) First, as to the scope of the class licence, TOCPL submits that only
+TOCPL’s main English websites were covered by the class licence. This was made
+clear by the IMDA when it asked TOCPL to register with it for a class licence.
+10
+
+##### Foot Note 10
+
+×
+
+AWS at para 8.
+
+The IMDA’s Registration Form C for Class Licensable Broadcasting Services
+(“Form C”), which TOCPL submitted for its main English websites, plainly only
+relates to websites, and the IMDA never asked TOCPL to apply for a class
+licence or submit Form C in respect of its Chinese website. 11
+
+##### Foot Note 11
+
+×
+
+AWS at paras 9 and 15.
+
+Moreover, the IMDA’s press statement dated 30 September 2014 (“the Press
+Statement”) clearly stated that TOCPL’s class licence covered only
+“www.theonlinecitizen.com”, one of its main English websites. In Mr Xu’s
+communications with the IMDA’s senior officers over the years, it was never
+represented or suggested to him that the class licence covered TOCPL’s social
+media platforms, which TOCPL’s predecessor was already operating on in 2014.
+12
+
+##### Foot Note 12
+
+×
+
+AWS at para 10.
+
+TOCPL’s social media platforms do not fall within the meaning of “computer on-
+line services”. 13
+
+##### Foot Note 13
+
+×
+
+AWS at para 22.
+
+(b) Second, TOCPL submits that it has a substantive legitimate expectation
+that the class licence covered only licensable broadcasting services on its
+main English websites. The IMDA’s representatives had represented to Mr Xu in
+correspondence that the class licence covered only the main English websites
+registered by TOCPL. By relying on these representations as well as Form C,
+TOCPL suffered loss, damage and harm in now having to shut down its social
+media platforms as a result of the IMDA’s suspension of TOCPL’s services and
+activities on the same. Had TOCPL known that the class licence also covered
+its social media platforms, it would not have registered for a class licence
+and would have altered its business model to rely solely on social media. 14
+
+##### Foot Note 14
+
+×
+
+AWS at paras 23–26.
+
+(c) Third, TOCPL submits that the class licence only covers access to TOCPL’s
+broadcasting services in and from Singapore, and that the IMDA has no legal
+basis for prohibiting TOCPL from offering its broadcasting services and
+activities from outside Singapore if TOCPL wishes to do so, as the Act has no
+extra-territorial reach. 15
+
+##### Foot Note 15
+
+×
+
+AWS at para 33; Notes of Argument, 22 November 2021.
+
+11 In response to TOCPL’s submissions on the scope of the class licence, the
+IMDA contends that TOCPL has fundamentally misunderstood the licensing regime
+under the Act, as all computer on-line services provided by TOCPL are
+automatically subject to a class licence by operation of law, and it follows
+that the suspension of TOCPL’s class licence and IMDA’s directions in the
+Letter applied to all computer on-line services provided by TOCPL. 16
+
+##### Foot Note 16
+
+×
+
+RWS at paras 20, 21(a) and 21(e).
+
+The ordinary meaning of the phrase “computer on-line services” would include
+TOCPL’s main English websites, its Chinese website and its social media
+platforms. 17
+
+##### Foot Note 17
+
+×
+
+RWS at para 26.
+
+Further, the IMDA argues that TOCPL’s allegations that the IMDA asked TOCPL to
+register for a class licence and made clear that only TOCPL’s main English
+websites were covered by the class licence are false. 18
+
+##### Foot Note 18
+
+×
+
+RWS at paras 20 and 21(c).
+
+12 As for TOCPL’s argument based on the doctrine of substantive legitimate
+expectations, the IMDA argues that this doctrine should not be recognised or
+applied by the court, and that it is in any event inapplicable in the present
+case because the IMDA did not make any unequivocal or unqualified
+representation that TOCPL’s class licence covered only its main English
+websites. In addition, the doctrine of substantive legitimate expectations is
+irrelevant in this case because the issues of whether TOCPL’s class licence
+suspension applied to its Chinese website and social media platforms are
+purely questions of law to be determined by the court. 19
+
+##### Foot Note 19
+
+×
+
+RWS at para 50.
+
+13 Lastly, in response to TOCPL’s submission on the extra-territoriality of
+the Act, the IMDA emphasises that nothing in its Letter purports to prohibit
+TOCPL from providing computer on-line services from outside Singapore. 20
+
+##### Foot Note 20
+
+×
+
+Notes of Argument, 22 November 2021.
+
+Issues arising
+
+14 From the parties’ positions as outlined above, the following issues arise:
+
+(a) First, do s 12(2) and/or s 59(1)(b) of the Act provide alternative
+remedies which TOCPL should have exhausted before invoking the court’s
+judicial review jurisdiction to challenge the IMDA’s orders in relation to its
+Chinese website and social media platforms?
+
+(b) Second, has TOCPL established a prima facie case of reasonable suspicion,
+based on the materials before the court, in favour of granting the orders
+sought? This, in turn, raises three questions:
+
+(i) What was the scope of TOCPL’s class licence, and are the services provided
+by TOCPL on its Chinese website and social media platforms “computer on-line
+services” subject to the class licence?
+
+(ii) Does TOCPL have a substantive legitimate expectation that only its main
+English websites were subject to its class licence?
+
+(iii) Has the IMDA purported to prohibit TOCPL from offering its broadcasting
+services and activities from outside Singapore?
+
+Decision
+
+15 For the reasons that follow, I hold that TOCPL ought to have first
+exhausted its statutory remedies by appealing to the Minister. In any event,
+there is no prima facie case of reasonable suspicion in favour of granting the
+orders sought by TOCPL.
+
+Regulation of licensable broadcasting services
+
+The automatic licensing regime and the registration regime
+
+16 The present case necessitates a close examination of the licensing regime
+under the Act and the Broadcasting (Class Licence) Notification (GN No S
+306/1996, 2004 Rev Ed) (“the Notification”) made thereunder. The starting
+point in analysing the statutory scheme that regulates the provision of
+licensable broadcasting services is s 8(1) of the Act, which provides that
+“[n]o person shall provide any licensable broadcasting service in or from
+Singapore without a broadcasting licence granted by the [IMDA]” [emphasis
+added]. The term “licensable broadcasting services” includes “[c]omputer on-
+line services” (item 20 of the Second Schedule to the Act).
+
+17 The Act also provides for a class licensing regime. Under s 9(1) of the
+Act, the IMDA “may, by notification published in the Gazette, determine a
+class licence … for the provision of such subscription broadcasting services
+and other licensable broadcasting services as the [IMDA] may specify”.
+Paragraph 3 of the Notification then states that the provision of certain
+specified licensable broadcasting services, including “computer on-line
+services that are provided by Internet Content Providers and Internet Service
+Providers” (para 3(f)), is subject to a class licence. The terms “Internet
+Content Provider” (“ICP”) and “Internet Service Provider” (“ISP”) are defined
+in para 2 of the Notification.
+
+18 The apparent breadth of these provisions is curtailed by para 1(f) of the
+Broadcasting (Exemption) Order (GN No S 307/1996, 2004 Rev Ed). That provision
+exempts any person providing computer on-line services other than computer on-
+line services subject to a class licence under the Notification from ss 8 and
+9 of the Act. Thus, the licensing regime under ss 8 and 9 of the Act
+effectively only applies where the computer on-line services in question are
+provided by ICPs or ISPs. However, in such cases, the design of the statutory
+scheme is such that the provision of computer on-line services by all ICPs and
+ISPs is automatically subject to a class licence. Class licences need not be
+applied for by these ICPs or ISPs; instead, they are “determine[d]” by the
+IMDA under s 9(1) of the Act, as has been done via the Notification.
+
+19 This leads me to the crucial distinction to be drawn between the two
+distinct regulatory regimes contained in the Act and the Notification: a
+licensing regime and a registration regime. The provision of computer on-line
+services by an ICP is subject to a class licence by operation of law under
+para 3(f) of the Notification. All such ICPs providing “computer on-line
+services” are automatically class licensees. Where the ICP in question is (or
+is determined by the IMDA to be) “a body of persons engaged in the
+propagation, promotion or discussion of political or religious issues relating
+to Singapore” through the Internet, the ICP is additionally required to
+register with the IMDA within 14 days after the commencement of its service.
+This is pursuant to condition 4 of the Schedule to the Notification, which
+sets out the conditions of class licences under para 3 of the Notification.
+
+20 The automatic nature of the class licensing scheme, as distinct from the
+registration scheme under the Schedule to the Notification, was confirmed in
+Parliament in the Minister’s oral answers to questions regarding the criteria
+for registration under the Broadcasting (Class Licence) Notification framework
+in January 2014 (Singapore Parliamentary Debates, Official Report (20 January
+2014) vol 91 (Lawrence Wong, Senior Minister of State for Communications and
+Information):
+
+…
+
+There are three forms of licences for ICPs under MDA's licensing framework:
+(i) an individual licence; (ii) an automatic class licence; and (iii) an
+automatic class licence with the requirement to register with the MDA. Let me
+elaborate on these three categories.
+
+First, the individual licences are issued to content providers which offer a
+television service through the Internet. …
+
+The second category of licensing applies to the rest of the ICPs which are
+regulated under the Automatic Class licensing regime that has been in place
+since 1996. These licensees do not need to apply to MDA for individual
+licences, but they are automatically class-licensed once they operate their
+websites. This remains the primary route through which the vast majority of
+websites on the Internet are licensed.
+
+…
+
+Finally, the third category would apply to certain types of ICPs to which
+class licences are granted automatically, but with the condition that they
+register with the MDA. Paragraphs three to five of the Schedule of the
+Broadcasting (Class Licence) Notification spell out the types of ICPs that
+need to register with MDA. They include ICPs who are political parties
+registered in Singapore providing any programme through the Internet, and ICPs
+who are “a body of persons engaged in the propagation, promotion or discussion
+of political or religious issues relating to Singapore through the Internet”.
+
+…
+
+So, these are provisions already provided for and spelt out clearly in the
+Schedule. The need to move from automatic class licence to class licence by
+registration only occurs when an individual or body meets these criteria which
+are spelt out in the Schedule.
+
+…
+
+[emphasis added]
+
+21 More recently, the Minister for Law confirmed the automatic nature of the
+licensing regime in his remarks on the Protection from Online Falsehoods and
+Manipulation Bill (Singapore Parliamentary Debates, Official Report (7 May
+2019) vol 94 (K Shanmugam, Minister for Law)): 21
+
+##### Foot Note 21
+
+×
+
+RWS at para 33(b); Respondent’s Bundle of Authorities at Tab 17.
+
+…
+
+The Internet revolution took off in the 1990s. 1996 – the Class Licensing
+Scheme under the Broadcasting Act for Internet Content Providers was put in.
+The Internet Content Providers (ICPs) are automatically licensed. All have to
+comply with guidelines under the Class Licence Conditions and the Internet
+Code of Practice. IMDA has power to take down content that goes against
+“public interest, public order, national harmony”, amongst other grounds.
+
+…
+
+[emphasis added]
+
+22 Thus, an ICP’s registration with the IMDA is independent of the scope of
+its services that are subject to its class licence. In that sense, the
+statutory scheme is such that the licensing and registration regimes are
+asymmetric. The provision of computer on-line services by all ICPs and ISPs is
+automatically subject to a class licence (and therefore the class licence
+conditions set out in the Schedule to the Notification) by operation of law.
+In contrast, only some ICPs and ISPs are required to register with the IMDA.
+Furthermore, pursuant to condition 6 of the Schedule to the Notification, ICPs
+which are required to register shall register “in such form and manner as the
+[IMDA] may determine”, and shall “provide the [IMDA] with such particulars and
+undertakings as the [IMDA] may require in connection with the provision of the
+[ICP’s] service”. The regulator, in this framework, is not enjoined to
+regulate the registration of all computer on-line services that an ICP
+operates, but rather, to require registration “in such form and manner” as it
+sees fit.
+
+“Computer on-line services”
+
+23 The central question in determining which services provided by an ICP are
+subject to a class licence is, therefore, whether they are “computer on-line
+services”. The phrase “computer on-line services” is not statutorily defined,
+and there appear to be no local authorities providing guidance on its meaning.
+The IMDA therefore submits, with reference to the dictionary definitions of
+“computer” and “online”, that the ordinary meaning of “computer on-line
+services” is wide enough to include services provided via an electronic device
+(or system of electronic devices) by a person, business or organisation
+engaged in creating content for publication on the Internet or content
+accessible or made available by connection to a central processor or network.
+22
+
+##### Foot Note 22
+
+×
+
+RWS at para 26; Notes of Argument, 22 November 2021.
+
+24 It should be borne in mind, however, that for the purposes of both ss 8(1)
+and 9(1) of the Act, computer on-line services are a subset of licensable
+“broadcasting services” as defined in s 2(1) of the Act. The ordinary meaning
+of the phrase “computer on-line services” must therefore be circumscribed by
+the following statutory definition of “broadcasting service” (and, in turn,
+the statutory definition of “programme”):
+
+Interpretation
+
+2.—(1) In this Act, unless the context otherwise requires —
+
+…
+
+“broadcasting service” means a service whereby signs or signals transmitted,
+whether or not encrypted, comprise —
+
+(a) any programme capable of being received, or received and displayed, as
+visual images, whether moving or still;
+
+(b) any sound programme for reception; or
+
+(c) any programme, being a combination of both visual image (whether moving or
+still) and sound for reception or reception and display,
+
+by persons having equipment appropriate for receiving, or receiving and
+displaying, as the case may be, that service, irrespective of the means of
+delivery of that service;
+
+…
+
+“programme”, in relation to a broadcasting service, means —
+
+(a) any matter the primary purpose of which is to entertain, educate or inform
+all or part of the public; or
+
+(b) any advertising or sponsorship matter, whether or not of a commercial
+kind,
+
+but does not include any matter that is wholly related to or connected with
+any private communication, that is to say —
+
+(i) any communication between 2 or more persons that is of a private or
+domestic nature;
+
+(ii) any internal communication of a business, Government agency or other
+organisation for the purpose of the operation of the business, agency or
+organisation; and
+
+(iii) communications in such other circumstances as may be prescribed;
+
+…
+
+[emphasis added]
+
+25 Therefore, apart from being services provided via electronic devices, the
+“primary purpose” of the relevant computer on-line services must be to
+“entertain, educate or inform all or part of the public” (limb (a) of the
+definition of “programme”). Alternatively, the computer on-line services must
+comprise “advertising or sponsorship matter[s], whether or not of a commercial
+kind” (limb (b) of the definition of “programme”). In any event, “computer on-
+line services” would not include “any matter that is wholly related to or
+connected with any private communication”. This definition of “computer on-
+line services” is narrower than that proposed by the IMDA.
+
+Exhaustion of remedies
+
+26 With this regulatory scheme in mind, I turn to consider the two statutory
+appeal procedures which the IMDA argues that TOCPL should first have utilised:
+the appeal procedures in ss 12(2) and 59(1)(b) of the Act.
+
+27 It is undisputed that TOCPL has not appealed to the Minister under either s
+12(2) or s 59(1)(b). No reasons were given in either of Mr Xu’s two affidavits
+for not using these statutory appeal procedures. 23
+
+##### Foot Note 23
+
+×
+
+RWS at para 11.
+
+TOCPL relied solely on legal submissions as to the inapplicability of these
+provisions in the present case.
+
+Appeal under s 12(2) of the Act
+
+28 Section 12 of the Act provides as follows:
+
+Suspension or cancellation of broadcasting licence, etc.
+
+12.—(1) If the Authority is satisfied that —
+
+(a) a broadcasting licensee is contravening, or has contravened, any of the
+conditions of its licence, any relevant Code of Practice, any of the
+provisions of this Act or the regulations or any direction issued by the
+Minister or the Authority to, or applicable to, the licensee;
+
+(b) a broadcasting licensee has gone into compulsory or voluntary liquidation
+other than for the purpose of amalgamation or reconstruction;
+
+(c) a broadcasting licensee has made any assignment to, or composition with,
+its creditors; or
+
+(d) the public interest or the security of Singapore so requires,
+
+the Authority may, by notice in writing and without any compensation, do
+either or both of the following:
+
+(i) cancel the licence or suspend the licence for such period as the Authority
+thinks fit and, in the case of a class licensee, cancel or suspend the
+application of the class licence in respect of the class licensee for such
+period as the Authority thinks fit;
+
+(ii) require the payment of a fine of such amount as the Authority thinks fit.
+
+(2) Any person who is aggrieved by any decision of the Authority under this
+section may, within 14 days of the receipt by him of the notice referred to in
+subsection (1), appeal to the Minister whose decision shall be final.
+
+…
+
+29 Section 12(1) empowers the IMDA to make two types of decisions: decisions
+to cancel or suspend the application of a class licence in respect of a class
+licensee for such period as the IMDA thinks fit (under s 12(1)(i)), and
+decisions to require the payment of a fine (under s 12(1)(ii)). The IMDA
+argues that s 12(2) applies because the decision that TOCPL is aggrieved by
+relates to the suspension of its class licence. 24
+
+##### Foot Note 24
+
+×
+
+Notes of Argument, 22 November 2021.
+
+TOCPL’s argument is that it is not challenging the IMDA’s decision to suspend
+or cancel its class licence, but rather the IMDA’s interpretation that such
+cancellation would affect TOCPL’s other services and activities, such as the
+operation of its Chinese website and social media platforms. 25
+
+##### Foot Note 25
+
+×
+
+AWS at paras 13–14; Notes of Argument, 22 November 2021.
+
+30 TOCPL’s argument arises out of its interpretation of the scope of its class
+licence, and therefore the scope of the cancellation. However, the present
+application arises out of the cancellation of TOCPL’s class licence, as
+communicated to TOCPL by the IMDA’s Letter, and it remains the cancellation of
+the class licence that is the essential issue. On a proper understanding of
+the statutory scheme for the regulation of licensable broadcasting services,
+TOCPL would have needed to appeal against the suspension and cancellation of
+its class licence in order to challenge the legal effect of this cancellation
+on its Chinese website and social media platforms. TOCPL is therefore “a
+person aggrieved by any decision of the [IMDA] under [s 12]”, and the appeal
+procedure in s 12(2) of the Act is an alternative remedy which TOCPL ought to
+have exhausted.
+
+Appeal under s 59(1)(b) of the Act
+
+31 Section 59 of the Act provides as follows:
+
+Appeal to Minister
+
+59.—(1) Any licensee aggrieved by —
+
+(a) any decision of the Authority in the exercise of any discretion vested in
+it by or under this Act; or
+
+(b) anything contained in any Code of Practice or direction issued by the
+Authority,
+
+may appeal to the Minister.
+
+…
+
+(4) The decision of the Minister in any appeal shall be final.
+
+[emphasis added]
+
+32 Within the schema of the Act, s 59(1)(b) comes after many provisions
+setting out the various powers exercisable by the IMDA, and provides a wide
+remedy for an aggrieved licensee to appeal to the Minister against “anything
+contained in any … direction issued by the [IMDA]” [emphasis added]. This
+provision is much more broadly worded than s 12(2) and would cover the acts of
+the IMDA that TOCPL seeks to challenge. TOCPL did not address the
+applicability of s 59(1)(b) in its written submissions. When invited to
+respond to the IMDA’s submissions on this provision during the hearing,
+counsel for TOCPL made arguments which focused on s 59(1)(a) of the Act,
+instead of s 59(1)(b). 26
+
+##### Foot Note 26
+
+×
+
+Notes of Argument, 22 November 2021.
+
+Counsel for TOCPL further contended that the IMDA’s orders in the Letter could
+not be decisions made “in the exercise of any discretion vested in it by or
+under [the] Act” because they were ultra vires. 27
+
+##### Foot Note 27
+
+×
+
+Notes of Argument, 22 November 2021.
+
+However, decisions that are ultra vires would, on a plain reading of the
+provision, fall within the scope of s 59(1)(b) so long as they are “contained
+in any … direction issued by the [IMDA]”. Section 59 therefore applies, in
+addition to s 12. Its breadth serves to reiterate that all decisions made by
+the IMDA should first be appealed to and reviewed by the Minister.
+
+33 In such cases, where a statutory remedy is available, “… it is the cardinal
+principle that save in the most exceptional circumstances, [the courts’
+judicial review] jurisdiction will not be exercised where other remedies were
+available and have not been used”: R v Secretary of State for the Home
+Department, ex parte Swati [1986] 1 WLR 477 at 485D, cited in Borissik at
+[25].
+
+34 During the hearing, counsel for TOCPL appeared to suggest that a further
+reason that ss 12 and 59 did not provide alternative remedies was that both
+provisions made clear that the Minister’s decision on appeal was final and
+thereby ousted judicial review (see ss 12(2) and 59(4)). 28
+
+##### Foot Note 28
+
+×
+
+Notes of Argument, 22 November 2021.
+
+Such an argument was roundly rejected at [30] of Borissik, where s 22(7) of
+the Planning Act (Cap 232, 1998 Rev Ed) provided that “[t]he decision of the
+Minister shall be final and shall not be challenged or questioned in any
+court”. In that case, the court stressed that the existence of such a clause
+was not a valid reason for failing to appeal to the Minister, who was required
+to accord the applicant a fair hearing under the statutory process.
+
+35 In Borissik, Tan Lee Meng J made the point that s 22(7) of the Planning Act
+showed that “the legislature intended that the courts should not interfere
+with issues of planning permission as these involve interrelated
+considerations of fact, law, degree and policy, which are better dealt with by
+an appeal procedure to the Minister” (Borissik at [29]). This reasoning is
+equally applicable to the present case. The regulation of broadcasting
+services, similar to the issue of planning permission, concerns wider issues
+of policy and its implementation and administration. In a statutory appeal to
+the Minister, all matters, whether substantive or procedural, would be fully
+and fairly considered. In the present case, parties did not discuss the scope
+of the court’s power on judicial review on the proper construction of ss 12(2)
+and 59(4) (see, for instance, the discussion in Nagaenthran a/l K Dharmalingam
+v Public Prosecutor and another appeal [2019] 2 SLR 216 at [43], [47] and
+[73], and Per Ah Seng Robin and another v Housing and Development Board and
+another [2016] 1 SLR 1020 at [64]–[65]). Such an assessment is not necessary
+at the leave stage. Whatever the scope of judicial review might be, the point
+remains that Borissik at [29] gives insight into why the statutory regime
+gives good order to the reconsideration of any decision. A statutory appeal
+ensures that the full merits are considered by the relevant Minister who is
+charged with the policy in issue. An aggrieved person is not well served by
+ignoring such a route for reconsideration save in exceptional circumstances
+which justify such a course.
+
+Conclusion on the threshold issue
+
+36 I therefore find that, by not appealing to the Minister under s 12(2) or s
+59(1)(b) of the Act, and by not adducing any exceptional circumstances to
+justify its omission to do so, TOCPL failed to exhaust its alternative
+remedies prior to invoking the court’s judicial review jurisdiction.
+
+Prima facie case of reasonable suspicion
+
+37 I turn now to the substantive question of whether the materials before the
+court disclose a prima facie case of reasonable suspicion in favour of
+granting the remedies sought by TOCPL. The burden of proof “lies squarely on
+the applicant” to satisfy the court that this requirement is met: AXY v
+Comptroller of Income Tax [2018] 1 SLR 1069 at [33]. Moreover, while the
+threshold of proof is “very low”, this does not mean that the evidence and
+arguments placed before the court can be either skimpy or vague, and bare
+assertions will not suffice: Gobi a/l Avedian and another v Attorney-General
+and another appeal [2020] 2 SLR 883 at [54].
+
+Whether TOCPL’s Chinese website and social media platforms are “computer on-
+line services”
+
+38 The main issue in dispute between the parties is the scope of TOCPL’s class
+licence, and thus the scope of the IMDA’s suspension and cancellation of the
+same. It is undisputed that TOCPL is an ICP even when it is using social media
+platforms. 29
+
+##### Foot Note 29
+
+×
+
+Notes of Argument, 22 November 2021.
+
+The effect of the statutory scheme, as I have explained above, is that TOCPL’s
+provision of all of its “computer on-line services” is subject to a class
+licence by operation of law, and that the suspension and cancellation of its
+class licence would bar TOCPL from providing all such services. The question
+for the court is therefore whether only the services provided on TOCPL’s main
+English websites are “computer on-line services” whose provision is subject to
+the class licence (as TOCPL argues); or whether (as the IMDA contends) the
+services provided by TOCPL on its Chinese website and social media platforms
+are also “computer on-line services” subject to the class licence.
+
+39 Applying the interpretation of “computer on-line services” that I have set
+out at [24]–[25] above, the services provided on TOCPL’s Chinese website and
+social media platforms clearly fall within the meaning of this term, as their
+primary purpose is undoubtedly to entertain, educate or inform all or part of
+the public.
+
+40 TOCPL makes two arguments to the contrary. First, TOCPL contends that it is
+fallacious to suggest that its class licence covered its social media
+platforms because “[n]o social media user in Singapore has had to be licensed
+by the [IMDA]”. 30
+
+##### Foot Note 30
+
+×
+
+AWS at paras 21–22.
+
+Related to this is the argument that if TOCPL had known that its class licence
+covered its social media platforms, it would not have “registered with [the
+IMDA] for a [c]lass [l]icence” for its main English websites and would instead
+have altered its business model to rely purely on social media. 31
+
+##### Foot Note 31
+
+×
+
+AWS at paras 23–24.
+
+My analysis of the statutory provisions above makes clear that, even if
+TOCPL’s services and activities had been confined to its social media
+platforms, their provision would still have been subject to TOCPL’s class
+licence by operation of law in view of their nature and purpose.
+
+41 Second, TOCPL argues that the IMDA made clear on various occasions that
+only its two main websites were subject to the class licence: when the IMDA
+“asked [TOCPL] to register with it for a [c]lass [l]icence”; 32
+
+##### Foot Note 32
+
+×
+
+AWS at para 8.
+
+in Form C; and in the Press Statement. This argument reveals the more
+fundamental misunderstanding of the licensing regime that underpins TOCPL’s
+case.
+
+42 TOCPL’s case is premised on the assumption that its class licence was
+conferred by registration, and that the scope of its computer on-line services
+subject to the class licence is therefore delimited by the scope of its
+registration. However, for the reasons I have explained above, TOCPL’s
+registration of its two main websites was in fact independent of, and
+irrelevant to, the scope of its computer on-line services that were subject to
+the class licence. The registration requirement is a class licence condition
+that is imposed on the ICP by virtue of its status as a class licensee.
+Counsel for TOCPL acknowledged this during the hearing when he accepted that
+the relevant conditions are imposed on the operator of the website, rather
+than on the website itself. 33
+
+##### Foot Note 33
+
+×
+
+Notes of Argument, 22 November 2021.
+
+43 TOCPL relied on the fact that Form C refers throughout to “the website”
+being registered for the purpose of the Notification. 34
+
+##### Foot Note 34
+
+×
+
+AWS at para 16.
+
+In particular, Annex B1 to Form C1 (which is submitted with Form C for the
+purposes of registration) provides for an undertaking and statutory
+declaration to be made by “the Authorised Signatory for the class licensee of
+the computer on-line service(s) residing at the URL … described in Form C
+(‘the website’)”. 35
+
+##### Foot Note 35
+
+×
+
+Mr Xu’s 1st Affidavit at Tab B (in particular, at p 11).
+
+Based on this, TOCPL argues that “computer on-line services” is defined in
+Form C itself as being limited to websites. 36
+
+##### Foot Note 36
+
+×
+
+Notes of Argument, 22 November 2021.
+
+I disagree. It is clear on the face of Form C that it is a form used for the
+registration of class licensable broadcasting services by individuals, groups
+or organisations providing political or religious content, and that it is to
+be completed and submitted by the relevant class licensee. 37
+
+##### Foot Note 37
+
+×
+
+Mr Xu’s 1st Affidavit at Tab B (in particular, at pp 1 and 6–14).
+
+The wording used in Annex B1 to Form C1 that I have reproduced above does not,
+on a plain reading, purport to define “computer on-line services” as including
+only websites. The more natural reading of those words is that the specific
+website being registered is simply the relevant type of computer on-line
+service for the purposes of Form C. The fact that Form C only requires the
+particulars of a website, and not other channels such as social media
+platforms, should not be read as confining the definition of “computer on-line
+services” to websites. As the relevant regulatory authority, the IMDA was
+entitled to decide on the form and manner of registration, as well as the
+particulars or undertakings it required, under condition 6 of the Schedule to
+the Notification.
+
+44 As for the Press Statement, this stated that the Media Development
+Authority (the IMDA’s predecessor) had notified The Opinion Collaborative Ltd
+(TOCPL’s predecessor) “to register” under the Notification [emphasis added].
+38
+
+##### Foot Note 38
+
+×
+
+Mr Xu’s 1st Affidavit at Tab C.
+
+TOCPL claims that the IMDA “clearly stated” in the Press Statement that
+TOCPL’s class licence covered only the website “www.theonlinecitizen.com” and
+no other. 39
+
+##### Foot Note 39
+
+×
+
+Mr Xu’s 1st Affidavit at para 12; AWS at para 10.
+
+However, nowhere in the Press Statement was it said or suggested that only
+TOCPL’s main English websites were subject to the class licence. Indeed, the
+Press Statement explained that the Media Development Authority had “assessed
+that the TOC website engages in the propagation, promotion or discussion of
+political issues relating to Singapore”, and that its registration requirement
+“seeks to uphold the principle that politics must remain a matter for
+Singapore and Singaporeans alone”. 40
+
+##### Foot Note 40
+
+×
+
+Mr Xu’s 1st Affidavit at Tab C.
+
+This wording makes plain that the registration referred to in the Press
+Statement was registration under condition 4 of the Schedule to the
+Notification, and not the class licensing regime in s 9(1) of the Act.
+
+45 This is further supported by the IMDA’s letter to Mr Xu dated 9 February
+2018, in which it stated that TOCPL “is an Internet Content Provider licensed
+under the Broadcasting (Class Licence) Notification”, and that pursuant to
+condition 4 of the Schedule to the Notification, the website
+“www.theonlinecitizen.com” had to be registered with the IMDA using Form C.
+Failure to comply “would be a contravention of the Class Licence, in which
+event IMDA may have to take appropriate action, including the cancellation of
+[TOCPL]’s Class Licence”. 41
+
+##### Foot Note 41
+
+×
+
+Affidavit of Chia Aileen affirmed on 22 October 2021, CA-4 at p 36.
+
+This letter makes clear that TOCPL was already a class licensee, and that this
+was separate from and independent of TOCPL’s registration of its website using
+Form C.
+
+46 In any event, as counsel for IMDA rightly argued, the IMDA is not in a
+position to amend the law by their correspondence or forms 42
+
+##### Foot Note 42
+
+×
+
+Notes of Argument, 22 November 2021.
+
+(or, for that matter, their press statements). Save in cases where these give
+rise to substantive legitimate expectations (which I deal with in the next
+section), such statements cannot override the legal effect of the applicable
+statutory framework.
+
+Substantive legitimate expectations
+
+47 TOCPL raises a secondary argument based on the doctrine of substantive
+legitimate expectations. As both parties acknowledged, 43
+
+##### Foot Note 43
+
+×
+
+AWS at paras 27–29; RWS at para 50(a).
+
+notwithstanding the acceptance of the doctrine as a stand-alone head of
+judicial review in Chiu Teng @ Kallang Pte Ltd v Singapore Land Authority
+[2014] 1 SLR 1047 (“Chiu Teng”) at [119], the legal status of this doctrine in
+Singapore is an open question following the Court of Appeal’s decisions in SGB
+Starkstrom Pte Ltd v Commissioner for Labour [2016] 3 SLR 598 and Kardachi,
+Jason Aleksander v Attorney-General [2020] 2 SLR 1190.
+
+48 These proceedings, which concern TOCPL’s application for leave to commence
+judicial review, are not the appropriate forum for a detailed discussion of
+the applicability of the doctrine of substantive legitimate expectations in
+our law. For present purposes, what is critical is that even if that doctrine
+were to be applied in the form articulated in Chiu Teng, it would require
+TOCPL to prove that the IMDA made a statement or representation that was
+“unequivocal and unqualified” (Chiu Teng at [119(a)]).
+
+49 In this case, TOCPL has not provided evidence of any unequivocal and
+unqualified representation by the IMDA that only the services provided on its
+two main websites were “computer on-line services” whose provision was subject
+to the class licence. TOCPL alleges that the IMDA’s representatives
+represented to Mr Xu that the class licence covered only the websites
+registered by TOCPL, relying on correspondence between Mr Xu and the IMDA in
+February 2018 and May and September 2020. 44
+
+##### Foot Note 44
+
+×
+
+AWS at para 25; Mr Xu’s 1st Affidavit at para 16 and Tab D.
+
+However, as the IMDA rightly pointed out, 45
+
+##### Foot Note 45
+
+×
+
+RWS at para 42; Notes of Argument, 22 November 2021.
+
+a perusal of this correspondence discloses no representation to that effect.
+During the hearing, counsel for TOCPL also suggested that the representations
+made by the IMDA in Form C were unequivocal and left “absolutely no room for
+doubt” in this regard. 46
+
+##### Foot Note 46
+
+×
+
+Notes of Argument, 22 November 2021.
+
+For the reasons I have given at [43] above, I am wholly unable to accept this
+assertion. As TOCPL has failed to establish any unequivocal representation
+that the class licence covered only its registered websites, its argument on
+substantive legitimate expectations may be dismissed on this basis.
+
+Territorial scope of the class licence suspension and cancellation
+
+50 Finally, TOCPL contends that it was ultra vires for the IMDA to prohibit
+TOCPL from providing any new broadcasting services or activities on any other
+websites or social media platforms because the class licence only covers
+access to TOCPL’s broadcasting services and activities in Singapore, and the
+IMDA has no legal basis to prohibit TOCPL from offering its broadcasting
+services and activities from outside of Singapore. 47
+
+##### Foot Note 47
+
+×
+
+AWS at paras 32–33.
+
+51 In my view, this objection is premised on a misreading of the Letter. In so
+far as TOCPL (being an ICP) might seek to provide computer on-line services
+which are subject to a class licence under the Notification, “in or from
+Singapore” [emphasis added], this would no longer be permitted under s 8(1) of
+the Act in view of the cancellation of TOCPL’s class licence. The Letter
+merely suspended TOCPL’s class licence; it did not purport to prohibit the
+provision of services from other countries.
+
+52 I therefore find that the material adduced and arguments made by TOCPL
+regarding the scope of the class licence do not cross the threshold of
+disclosing a prima facie case of reasonable suspicion in favour of granting
+the remedies sought. Its application for leave thus fails on this substantive
+ground as well as the procedural ground that it has failed to exhaust its
+alternative remedies.
+
+Conclusion
+
+53 For these reasons, I dismiss TOCPL’s application for leave to apply for the
+quashing orders and declarations set out in its originating summons. I shall
+hear the parties on costs.
+
+Valerie Thean  
+Judge of the High Court|  
+---|---  
+  
+Lim Tean (Carson Law Chambers) for the applicant;
+
+Khoo Boo Jin, Du Xuan and Lim Toh Han (Attorney-General’s Chambers) for the
+respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 16 Dec 2021 (12:29 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

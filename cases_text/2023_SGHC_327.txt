@@ -1,0 +1,1554 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 327
+
+Suit No 170 of 2014 (Summons No 2036 of 2023)
+
+Between
+
+(1)| Lim Siew Fern  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| Tan Beng Yong  
+---|---  
+(2)| Ho Shen Shen  
+(3)| Agile Accomm Pte Ltd  
+  
+… Defendants
+
+And
+
+(1)| Tan Meng Hin  
+---|---  
+  
+…Third Party
+
+grounds of decision
+
+[Civil Procedure — Experts — Principles for court intervention in valuation]
+
+[Civil Procedure — Disclosure of documents — Confidential documents referred
+to in independent expert’s report]
+
+[Companies — Oppression — Minority shareholders — Valuation of shares for
+buyout — Principles for court intervention]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Lim Siew Fern
+
+  
+v
+
+  
+
+Tan Beng Yong and others
+
+  
+(
+
+Tan Meng Hin, third party)
+
+[2023] SGHC 327
+
+General Division of the High Court — Suit No 170 of 2014 (Summons No 2036 of
+2023)  
+Wong Li Kok, Alex JC  
+29 September 2023
+
+17 November 2023
+
+Wong Li Kok, Alex JC:
+
+Introduction
+
+1 This present summons is the latest in a series of summonses taken out by the
+plaintiff in a long-running dispute between the plaintiff and the defendants.
+The plaintiff, who held shares in the third defendant as a nominee of Seaquest
+Enterprise Pte Ltd (“Seaquest”), had previously succeeded in an action against
+the defendants for minority oppression. That decision was published in
+Seaquest Enterprise Pte Ltd v Agile Accomm Pte Ltd and another suit [2016]
+SGHC 51 (“Seaquest (GD)”). The court in that suit had ordered that the
+plaintiff be bought out to enable her to realise the value of her shares at a
+fair value, as valued by an independent valuer. 1
+
+##### Foot Note 1
+
+×
+
+HC/JUD 419/2016 at para 1.
+
+This purchase of the plaintiff’s shares was to be made by the first defendant
+or the second defendant. 2
+
+##### Foot Note 2
+
+×
+
+HC/JUD 419/2016 at para 5.
+
+2 KPMG Services Pte Ltd (“KPMG”) was appointed by the parties to carry out the
+said valuation (the “Original Valuation”).
+
+3 As the valuation was being conducted, KPMG was also asked to make an
+additional assessment as to whether related party transactions (“RPT”) between
+the third defendant and Exquisite Accomm Pte Ltd (a related party of the third
+defendant) (“Exquisite”) were arm’s length transactions for fair value (the
+“RPT Review”).
+
+4 In the course of this additional assessment, KPMG identified four invoices
+(numbered 30157, 30158, 30159 and 30160) issued by Exquisite to the third
+defendant (the “Four Invoices”) which were relevant to the RPT Review.
+
+5 KPMG’s work on the RPT Review was however hampered by the unavailability of
+electronic and physical documents from the third defendant as a result of a
+server crash and the disposal of physical documents by employees of the third
+defendant respectively. Further details of this loss of data are provided at
+[44] below.
+
+6 KPMG issued its final report on the RPT Review on 26 June 2023.
+
+7 The plaintiff applied for an order for the Four Invoices to be disclosed to
+allow the plaintiff to provide inputs to KPMG on the RPT Review (based on the
+plaintiff’s market knowledge of similar transactions and pricing) so that a
+supplementary report could be produced by KPMG.
+
+8 I dismissed the plaintiff’s application for the reasons set out below and
+the plaintiff has appealed against the decision.
+
+Facts
+
+The parties
+
+9 The plaintiff in this present summons, Mdm Lim Siew Fern (“Mdm Lim”), was
+the plaintiff in HC/S 170/2014 and the registered owner of 45,000 shares in
+the third defendant, Agile Accomm Pte Ltd (“Agile”) (Seaquest (GD) at [5]).
+She held the shares as a nominee for Seaquest (Seaquest (GD) at [11]).
+Seaquest was incorporated in 2003 and had been in the business of, inter alia,
+shipbuilding and ship repairing (Seaquest (GD) at [3]).
+
+10 The third defendant, Agile, was incorporated in 2009 to carry on the
+business of marine accommodation work for shipbuilding. The first defendant,
+Mr Tan Beng Yong, was a director and majority shareholder of Agile. His wife,
+Mdm Ho Shen Shen, was also a director and shareholder of Agile and she was the
+second defendant in the suit (Seaquest (GD) at [4]). 3
+
+##### Foot Note 3
+
+×
+
+Affidavit of evidence-in-chief filed by Mdm Ho Shen Shen dated 27 April 2015
+at paras 1 and 4.
+
+11 Seaquest and Agile were once business partners (Seaquest (GD) at [6]).
+Their relationship subsequently broke down, which led to the commencement of
+litigation by Seaquest and Mdm Lim against Agile (Seaquest (GD) at [9]).
+
+Background to the dispute
+
+12 In HC/S 170/2014, the plaintiff (as nominee of Seaquest) had alleged that
+the first and second defendants had conducted themselves in relation to the
+third defendant’s general meetings in a commercially unfair manner.
+Resolutions had been passed notwithstanding the lack of quorum and, as a
+result, the plaintiff’s interest (as a nominee of Seaquest) in the third
+defendant was diluted from 45% to 9%. An additional 400,000 shares in the
+third defendant were also issued, which were never offered to the plaintiff,
+and both of these actions were in breach of the third defendant’s articles of
+association. Further, the first and second defendants, as directors of the
+third defendant, chose to pay a large amount of directors’ remuneration for
+the financial year 2012 without the concurrent declaration of any dividends,
+thus preferring the directors’ interests at the expense of shareholders. The
+court found that there had been a breach of the plaintiff’s legal rights under
+the articles. In an oral judgment dated 3 December 2015 (Seaquest (GD) at
+[1]), 4
+
+##### Foot Note 4
+
+×
+
+HC/JUD 419/2016.
+
+the court ordered the plaintiff to be bought out pursuant to s 216(2)(d) of
+the Companies Act (Cap 50, 2006 Rev Ed) (“Companies Act”) to enable her to
+realise the value of the shares held as a nominee of Seaquest at a fair value
+as determined by an independent valuer. The valuation was to be conducted on
+the basis that the 400,000 new shares had not been issued and the excessive
+directors’ remuneration had not been made (Seaquest (GD) at [12]).
+
+13 On 3 October 2016, KPMG was jointly engaged by the parties to value the
+plaintiff’s shares. 5
+
+##### Foot Note 5
+
+×
+
+Affidavit of Tan Beng Yong dated 17 June 2017 (“TBY-2017 06 17”) at para 36.
+
+14 The valuation process was not smooth. On 18 May 2017, the plaintiff filed
+HC/SUM 2313/2017 seeking an order for the defendants to provide to KPMG and to
+the plaintiff the defendants’ responses to certain requests for documents and
+information. 6
+
+##### Foot Note 6
+
+×
+
+HC/SUM 2313/2017.
+
+HC/SUM 2313/2017 was heard by Kannan Ramesh J (as he then was). Ramesh J
+ordered the plaintiff to seek KPMG’s view on the summons. KPMG did not take a
+position on the plaintiff’s summons because the plaintiff’s summons pertained
+to matters that were outside KPMG’s scope of work. 7
+
+##### Foot Note 7
+
+×
+
+Affidavit of Tan Meng Hin dated 29 September 2017 (“TMH-2017 09 29”) at para
+15.
+
+The plaintiff withdrew HC/SUM 2313/2017 on 7 August 2017. 8
+
+##### Foot Note 8
+
+×
+
+Minute Sheet of the court for HC/SUM 2313/2017 dated 7 August 2017.
+
+15 On 29 September 2017, the plaintiff took out HC/SUM 4540/2017 seeking,
+inter alia, an expansion of KPMG’s scope of work to include expressing a view
+on whether and/or to what extent the information provided to KPMG was
+reliable, and to perform an investigation of the documents made available to
+KPMG in the course of the valuation exercise. 9
+
+##### Foot Note 9
+
+×
+
+HC/SUM 4540/2017.
+
+HC/SUM 4540/2017 was dismissed by Ramesh J on 20 April 2018. 10
+
+##### Foot Note 10
+
+×
+
+HC/ORC 4389/2018.
+
+16 On 29 May 2019, the plaintiff took out HC/SUM 2735/2019. This summons is
+the genesis of the events that led to the present summons. In HC/SUM
+2735/2019, the plaintiff sought orders for, inter alia, either KPMG or another
+independent expert to review and provide an opinion on the RPTs and a
+determination of whether these transactions had been conducted on an arm’s
+length basis (ie, the RPT Review). In addition, the plaintiff sought an order
+for KPMG to take into account the findings from the RPT Review in its
+valuation exercise and valuation report. The plaintiff’s chief complaint was
+that the third defendant’s Audited Financial Statements for the Year Ending 30
+June 2016 (“FY2016 Audited FS”) showed that a large part of the third
+defendant’s trade payables consisted of a “[p]urchase of goods” worth
+$4,957,891, which was recorded in the “[r]elated party transactions” section
+of the FY2016 Audited FS. 11
+
+##### Foot Note 11
+
+×
+
+Affidavit of Tan Meng Hin dated 29 May 2019 (“TMH-2019 05 29”) at para 48(e).
+
+These transactions were carried out between the third defendant and Exquisite.
+12
+
+##### Foot Note 12
+
+×
+
+TMH-2019 05 29 at para 50.
+
+While the defendants assert that the transactions were conducted on an arm’s
+length basis and involved the supply of materials by Exquisite to the third
+defendant, 13
+
+##### Foot Note 13
+
+×
+
+TMH-2019 05 29 at para 50.
+
+the plaintiff was dissatisfied with this assertion. The plaintiff noted that
+Exquisite was a company in which the second defendant was the sole director,
+and the first and second defendants were the only shareholders. 14
+
+##### Foot Note 14
+
+×
+
+TMH-2019 05 29 at para 53(a).
+
+Moreover, Exquisite apparently utilised the same office premises and same
+staff as the third defendant, and any purchase of materials by the third
+defendant should have been done by the third defendant directly, instead of
+using Exquisite as a middleman. 15
+
+##### Foot Note 15
+
+×
+
+TMH-2019 05 29 at paras 53(d) and (e).
+
+The plaintiff also complained about the suspicious timing and pricing of the
+RPTs. The RPTs were entered into, according to the defendants, for projects
+known as “Projects H1112 and H1118”. 16
+
+##### Foot Note 16
+
+×
+
+TMH-2019 05 29 at para 50.
+
+The plaintiff asserted that it was suspicious that significant trade payables
+to Exquisite were incurred in financial year 2016 for projects that were
+apparently completed in January 2015. 17
+
+##### Foot Note 17
+
+×
+
+TMH-2019 05 29 at para 53(f).
+
+The plaintiff also complained that the RPTs, which were supposedly for
+material purchased for the aforesaid projects, were for a commercially
+impossible amount, given that the material costs for the aforesaid projects
+would have constituted more than two-thirds of the total contract value if the
+pricing of the RPTs was true. 18
+
+##### Foot Note 18
+
+×
+
+TMH-2019 05 29 at paras 54(e) and 55.
+
+Ramesh J largely granted the orders sought by the plaintiff in HC/SUM
+2735/2019. The material terms of Ramesh J’s orders are set out below at [24].
+
+17 On 20 May 2022, the plaintiff took out HC/SUM 1901/2022. This was an
+application for orders varying the terms of KPMG’s appointment for the
+valuation exercise for the plaintiff’s shares, and fixing the terms of KPMG’s
+RPT Review. In summary, KPMG had proposed a higher charge for the valuation
+exercise in view of delays in the valuation exercise. 19
+
+##### Foot Note 19
+
+×
+
+Affidavit of Tan Meng Hin dated 20 May 2022 (“TMH-2022 05 20”) at para 21.
+
+Prior to the hearing of HC/SUM 1901/2022, parties agreed to the higher charge,
+so this issue fell away. 20
+
+##### Foot Note 20
+
+×
+
+TMH-2022 05 20 at paras 32 and 37.
+
+The live issue before the court for HC/SUM 1901/2022 was the terms of the RPT
+Review, including the scope of work to be undertaken by KPMG and the timelines
+for KPMG’s review. 21
+
+##### Foot Note 21
+
+×
+
+Plaintiff’s submissions for HC/SUM 1901/2022 dated 5 August 2022 at para 6.
+
+For present purposes, it suffices to mention that on 30 August 2022, Ramesh J
+gave orders for the variation of the terms of appointment of KPMG for the
+valuation exercise for the plaintiff’s shares to revise the fees payable to
+KPMG, 22
+
+##### Foot Note 22
+
+×
+
+HC/ORC 4522/2022 at para 1.
+
+and also fixed the terms of the RPT Review. 23
+
+##### Foot Note 23
+
+×
+
+HC/ORC 4522/2022 at para 2.
+
+18 The letter setting out the finalised engagement terms for KPMG to carry out
+the RPT Review, as signed by the parties, was dated 22 September 2022. 24
+
+##### Foot Note 24
+
+×
+
+Affidavit of Tan Beng Yong dated 2 August 2023 (“TBY-2023 08 02”) at pp 26–45.
+
+On 31 May 2023, KPMG e-mailed the draft RPT Review report to the parties 25
+
+##### Foot Note 25
+
+×
+
+TBY-2023 08 02 at para 13; Affidavit of Tan Meng Hin dated 7 July 2023
+(“TMH-2023 07 07”) at p 182.
+
+and gave them one week to comment on the draft report, after which no further
+comments would be accepted. At para 5.1.2 of the draft RPT Review report, 26
+
+##### Foot Note 26
+
+×
+
+TMH-2023 07 07 at p 215.
+
+KPMG flagged the existence of the Four Invoices, which appeared prima facie
+relevant to the RPT Review. On 7 June 2023, the plaintiff’s solicitors
+e-mailed KMPG to convey her position, with accompanying reasons, that three
+identified suppliers which had supplied materials to Exquisite in relation to
+the Four Invoices should be contacted by KPMG for further investigation. 27
+
+##### Foot Note 27
+
+×
+
+TBY-2023 08 02 at p 24.
+
+That same e-mail from the plaintiff’s solicitors further indicated that the
+plaintiff could help put KMPG in touch with said suppliers, if needed.
+Thereafter, on 26 June 2023, KPMG e-mailed the solicitors for the respective
+parties the finalised RPT Review Report and explained why KPMG did not find it
+helpful to take up the plaintiff’s suggestion of contacting the said
+suppliers. 28
+
+##### Foot Note 28
+
+×
+
+TBY-2023 08 02 at p 47.
+
+19 On 7 July 2023, the plaintiff took out HC/SUM 2036/2023, which is the
+present summons before this court. In this summons, the plaintiff sought (a)
+disclosure by KPMG to the plaintiff of all versions of the Four Invoices in
+KPMG's possession; (b) that the plaintiff be given an opportunity to provide
+her comments on KPMG’s report after KPMG’s disclosure of the Four Invoices​;
+and (c) that KPMG accounts for the plaintiff’s comments in the revision of its
+report or in a supplementary report. 29
+
+##### Foot Note 29
+
+×
+
+HC/SUM 2036/2023.
+
+The parties’ cases
+
+20 The plaintiff’s case may be summarised as follows:
+
+(a) Whilst KPMG had finalised its report on the RPT Review, the plaintiff
+contended that she was able to provide additional information (such as contact
+with the suppliers involved with the Four Invoices) to KPMG which might help
+KPMG arrive at a different conclusion on the RPT Review. The plaintiff argued
+that she had substantial industry knowledge that could be helpful in allowing
+KPMG to reach a different conclusion. Amongst other things, the plaintiff
+submitted that Seaquest carried out projects similar to the projects to which
+the RPT Review relate. 30
+
+##### Foot Note 30
+
+×
+
+Plaintiff’s Written Submissions dated 23 August 2023 (“PWS”) at paras 25–30.
+
+(b) There was no prejudice in allowing the plaintiff to take this additional
+step and to prolong the RPT Review as the plaintiff had already waited this
+long for a proper valuation. 31
+
+##### Foot Note 31
+
+×
+
+Plaintiff’s oral submissions on 29 September 2023 (“POS”).
+
+(c) The plaintiff added that the information she wanted to provide was not
+intended to interfere with the independence of the RPT Review, but was merely
+information which KPMG could use to update the RPT Review which had already
+been finalised, should they wish to do so. The plaintiff also submitted that
+she would not object should any of the defendants wish to also provide
+additional information to KPMG for the same purposes. 32
+
+##### Foot Note 32
+
+×
+
+POS.
+
+(d) Connected with [20(a)] above, the plaintiff made reference to a data loss
+incident involving the third defendant (which included data related to the RPT
+Review and which prevented KPMG from undertaking a more detailed examination
+of the Four Invoices) which appeared convenient. 33
+
+##### Foot Note 33
+
+×
+
+PWS at paras 15–23.
+
+The plaintiff expressed suspicion 34
+
+##### Foot Note 34
+
+×
+
+PWS at para 16.
+
+as to the separate incidents that had led to the loss of both softcopy and
+hardcopy records relating to a substantial number of documents related to the
+RPT Review (collectively the “Data Loss Incidents”). 35
+
+##### Foot Note 35
+
+×
+
+TMH-2023 07 07 at paras 8–13.
+
+21 The defendants made the following points in their arguments resisting this
+application:
+
+(a) This application is the fifth in a long line of applications on the part
+of the plaintiff that has delayed and prolonged the valuation of the
+plaintiff’s shares in the third defendant. KPMG was first appointed in October
+2016 for the valuation exercise and the cost of the exercise was intended to
+be $45,000. This has now ballooned to $440,000 for the RPT Review alone. 36
+
+##### Foot Note 36
+
+×
+
+Defendants’ Written Submissions dated 23 August 2023 (“DWS”) at paras 4–6.
+
+(b) The application was an indirect way for the plaintiff to obtain
+confidential information on the third defendant’s operations and proprietary
+pricing information in contravention of the spirit of Ramesh J’s orders in
+HC/SUM 2735/2019, one of which being that information made available to KPMG
+by Agile for the purpose of the RPT Review should not be disclosed to the
+plaintiff unless otherwise directed by the court. 37
+
+##### Foot Note 37
+
+×
+
+DWS at paras 7–12.
+
+(c) The points and issues that the plaintiff wanted to share with KPMG had
+already been covered in KPMG’s review. 38
+
+##### Foot Note 38
+
+×
+
+DWS at paras 13–17.
+
+(d) The plaintiff was not in a position to replace KPMG as the forensic
+investigator appointed by the court for the RPT Review. 39
+
+##### Foot Note 39
+
+×
+
+DWS at paras 18–23.
+
+(e) KPMG had conducted an evaluation and determined that there was no foul
+play with respect to the Data Loss Incidents. 40
+
+##### Foot Note 40
+
+×
+
+DWS at paras 24–30.
+
+(f) This application was a last-ditch attempt by the plaintiff to change the
+decision that KPMG had already made in the RPT Review. 41
+
+##### Foot Note 41
+
+×
+
+DWS at paras 31–34.
+
+Issue to be determined
+
+22 The single issue to be determined is whether the court should intervene in
+the RPT Review and order the Four Invoices to be disclosed to the plaintiff in
+order to provide KPMG with additional information, if any, for the purposes of
+the RPT Review and thus require KPMG to revise its report or to produce a
+supplementary report.
+
+23 In order to address this issue, I considered the following points:
+
+(a) the basis of the RPT Review, ie, the Orders of Court which established the
+scope of the RPT Review and the appointment of KPMG to undertake the RPT
+Review; and
+
+(b) the review carried out by KPMG leading up to the release of the document
+titled “HC/SUM No. 1901 of 2022 Report of Owen M. Hawkes” dated 26 June 2023
+(the “RPT Final Report”) including the review of the Data Loss Incidents.
+
+Basis of the RPT Review
+
+24 The basis of the RPT Review was the order of Ramesh J, dated 13 February
+2020, in HC/SUM 2735/2019 and it is useful to set out the order in full:
+
+1\. That, for the purposes of the valuation of the shares of the 3rd Defendant
+(the “Company") as contemplated in the Judgment dated 3 December 2015 in these
+proceedings, KPMG Services Pte Ltd (“KPMG") be appointed to review and provide
+an opinion on the related party transactions amounting to SGD 4,957,891 as
+recorded at Note 18 of the Company's Audited Financial Statements for the Year
+Ended 30 June 2016 and a determination of whether such transactions had been
+conducted on an arm's length basis (the “Related Party Transactions Review")
+under expanded terms of reference subject to the following conditions:
+
+a. costs of the Related Party Transactions Review shall be borne initially by
+the Plaintiff subject to final directions by the court following the
+conclusion of the Related Party Transactions Review;
+
+b. information that is made available to KPMG by the Company for the purpose
+of the Related Party Transactions Review shall not be disclosed to the
+Plaintiff unless otherwise directed by the court;
+
+c. the Company shall provide KPMG such information as may be relevant and
+necessary for the purpose of the Related Party Transactions Review as
+requested by KPMG; and
+
+d. the parties shall not unilaterally offer representations to KPMG during the
+course of the Related Party Transactions Review, such representations to be
+made only as regards the draft report of KPMG, as provided in paragraph A.5.1
+of Appendix A of KPMG's letter of engagement dated 3 October 2016.
+
+2\. Further, that KPMG shall take into account the findings from the Related
+Party Transactions Review in its valuation exercise and valuation report, and
+the scope of work of KPMG be expanded accordingly, if necessary.
+
+3\. There be no order on prayer 3 [ie, an alternative prayer rendered moot by
+Order 1 above].
+
+4\. The costs of the Related Party Transactions Review and this application to
+be reserved to after the conclusion of the Related Party Transactions Review
+by KPMG.
+
+25 The plaintiff had stated in her application that the application was made
+pursuant to para 1(b) of Ramesh J’s order of 13 February 2020.
+
+26 For the sake of completeness, it is also useful to set out the original
+judgment of the court, issued by Edmund Leow JC (as he then was), dated 3
+December 2015 ordering the Original Valuation:
+
+1\. The Plaintiff is to be bought out to enable the Plaintiff to realise the
+value of her shares held as a nominee of Seaquest Enterprise Pte Ltd at a fair
+value pursuant to section 216(2)(d) of the Companies Act, as valued by an
+independent valuer on the basis of a fair market value as of the date of the
+oral judgment (ie. 3 December 2015).
+
+2\. Parties are to agree on the appointment of an independent valuer and if
+they are unable to do so within 6 weeks hereof they are to write to this court
+to appoint the same.
+
+3\. The independent valuer is to assess the value of the 3rd Defendant’s
+shares on the basis of the fair market value on the assumption that the
+400,000 new shares had not been issued, and the excessive directors’
+remuneration for the financial year 2012 was not paid out.
+
+4\. The independent valuer is to assess what would be a reasonable
+remuneration for the directors to have paid themselves in light of the 3rd
+Defendant’s profits and the non-declaration of shareholder dividends so as to
+enable the valuer to determine the excess remuneration which would be deemed
+to be refunded to the 3rd Defendant for the purpose of determining the fair
+market value of the Plaintiff’s shares in the 3rd Defendant.
+
+5\. The purchase of the Plaintiff’s shares in the 3rd Defendant can be made by
+the 1st Defendant or the 2nd Defendant, and should be completed within three
+months of the valuation being made.
+
+6\. The Plaintiff is to receive the purchase price on trust for Seaquest
+Enterprise Pte Ltd.
+
+7\. The Defendants’ claim against the Third Party is dismissed.
+
+8\. The 1st Defendant and the 2nd Defendant are to pay the costs of the
+proceedings, including the costs of the third party proceedings, to Seaquest
+Enterprise Pte Ltd.
+
+9\. Costs to be taxed if not agreed.
+
+10\. Parties are at liberty to apply in relation to the modalities involved in
+implementing the directions.
+
+27 In compliance with the order given by Ramesh J dated 13 February 2020 in
+HC/SUM 2735/2019, the parties jointly agreed on engagement terms appointing
+KPMG for the RPT Review, which included a detailed scope of work and
+methodology. KPMG’s appointment took some time to complete as there was
+disagreement between the parties as to the engagement terms and scope of the
+review. In fact, the appointment was not finalised until 22 September 2022,
+after a further Order of Court dated 30 August 2022 was issued where Ramesh J
+ordered the parties to execute KPMG’s engagement letter for the provision of
+forensic advisory services (“KPMG’s Engagement Letter”). 42
+
+##### Foot Note 42
+
+×
+
+TBY-2023 08 02 at pp 26–45.
+
+KPMG’s work on the RPT Review
+
+28 By their very nature, forensic investigations are intended to be detailed
+and thorough. In that pursuit, the methodology behind the investigation is
+just as important as its substantive objectives. This explains the detailed
+scope of work and methodology set out in Appendices A through C of KPMG’s
+Engagement Letter for carrying out the RPT Review.
+
+29 It is not necessary to set out here all the details of the RPT Review, but
+the summary below is helpful to understand the key aspects of the review.
+
+(a) KPMG’s methodology for gathering evidence relevant to the RPT Review
+included interviews with personnel relevant to the RPT Review – for example,
+the first defendant was interviewed on three occasions 43
+
+##### Foot Note 43
+
+×
+
+TMH-2023 07 07 at pp 27–28 (RPT Final Report) at para 3.3.1.
+
+– and the extraction of documents in both physical and soft copies. 44
+
+##### Foot Note 44
+
+×
+
+TMH-2023 07 07 at pp 30–35 (RPT Final Report) at paras 3.4 and 3.6.
+
+(b) As part of the RPT Review, KPMG also conducted a thorough analysis of the
+Data Loss Incidents and this is addressed at [37]–[45] below.
+
+(c) Finally, and based on the evidence obtained, KPMG identified the Four
+Invoices as being relevant to the RPT Review, ie, relevant to whether the
+third defendant had overpaid Exquisite for the materials purchased under each
+of these invoices. 45
+
+##### Foot Note 45
+
+×
+
+TMH-2023 07 07 at p 22 (RPT Final Report) at para 2.3.1.
+
+30 I will summarise briefly the analysis undertaken by KPMG with respect to
+the Four Invoices.
+
+(a) Due to the Data Loss Incidents, only one of the Four Invoices revealed
+sufficient information to allow KPMG to undertake the arm’s length analysis –
+invoice 30158 (“Invoice 30158”).
+
+(b) Invoice 30158 (and its accompanying purchase order) had specific line
+items (descriptions) of particular materials purchased by the third defendant
+from Exquisite. KPMG did not have corresponding documentation that showed the
+cost at which Exquisite purchased the same materials from its suppliers. There
+was thus no direct line by line (or material by material) comparison of the
+price at which Exquisite paid for materials and the price at which it sold
+those same materials to the third defendant, which could be used to determine
+the price mark-up. 46
+
+##### Foot Note 46
+
+×
+
+TMH-2023 07 07 at p 22 (RPT Final Report) at paras 2.3.1 and 2.3.2.
+
+(c) KPMG did, however, have access to pricing spreadsheets which the third
+defendant had used for certain projects and which contained pricing
+information for materials which were the same as or similar to the materials
+in Invoice 30158 (“Individual Pricing Spreadsheets”). 47
+
+##### Foot Note 47
+
+×
+
+TMH-2023 07 07 at pp 22–23 and 54–59 (RPT Final Report) at paras 2.3.3, 2.3.5
+and 5.4.
+
+(d) KPMG organised the various line items for materials from Invoice 30158
+into groups (or brackets). KPMG then compared the pricing for these brackets
+(“RPT Bracket Prices”) against the pricing for the same or similar brackets
+derived from the Individual Pricing Spreadsheets (“Reference Bracket Prices”)
+to ascertain the difference in prices (after making calculations for the same
+amount of materials purchased as in Invoice 30158) and summarised its findings
+in the RPT Final Report. 48
+
+##### Foot Note 48
+
+×
+
+TMH-2023 07 07 at p 23 (RPT Final Report) at para 2.3.5.
+
+(e) For the sake of completeness, KPMG also had 2,253 supplier invoices from
+the third defendant’s other suppliers for the period from 2018–2022 from which
+it wanted to extract a similar bracket comparison as that used for the
+Individual Pricing Spreadsheets, but KPMG was unable to do so. 49
+
+##### Foot Note 49
+
+×
+
+TMH-2023 07 07 at pp 21–22 and 48–54 (RPT Final Report) at paras 2.2.1(second
+sub-paragraph), 2.3.2, 2.3.4 and 5.3.
+
+31 Based on KPMG’s analysis as described in [30], KPMG concluded that the RPT
+Bracket Prices exceeded the Reference Bracket Prices by between 5% to 20%,
+depending on the brackets in question. 50
+
+##### Foot Note 50
+
+×
+
+TMH-2023 07 07 at pp 23 and 24–25 (RPT Final Report) at paras 2.3.6 and
+2.3.12(b).
+
+Specific to Invoice 30158, KPMG concluded that the RPT Bracket Prices exceeded
+the Reference Bracket Prices by $233,051.32 which comprises 13.33% of the
+total invoice value of $1,748,104.40 for Invoice 30158. KPMG noted that the
+third defendant did not appear to have made a loss on the transaction
+involving the materials purchased under Invoice 30158 but the profit would
+have been lower. 51
+
+##### Foot Note 51
+
+×
+
+TMH-2023 07 07 at pp 25 and 62 (RPT Final Report) at paras 2.3.14 and 5.5.9.
+
+32 When this conclusion was extrapolated and compared against the total value
+of transactions subject to the RPT Review ($4,957,891.00), KPMG concluded that
+the value of the third defendants’ transactions with Exquisite would exceed
+equivalent arm’s length transactions by $660,969.10. 52
+
+##### Foot Note 52
+
+×
+
+TMH-2023 07 07 at pp 25 and 64 (RPT Final Report) at paras 2.3.14, 2.3.15,
+5.6.9 and 5.6.10.
+
+33 Whilst being cautious on the strength of its conclusions given the paucity
+of evidence, and bearing in mind that the first defendant had given
+explanations in his interviews with KPMG as to why there was a difference
+between the RPT Bracket Prices and the Reference Bracket Prices, 53
+
+##### Foot Note 53
+
+×
+
+TMH-2023 07 07 at p 63 (RPT Final Report) at para 5.6.6(b).
+
+KPMG concluded that there was some evidence that some of the RPTs were not
+carried out on an arm’s length basis 54
+
+##### Foot Note 54
+
+×
+
+TMH-2023 07 07 at pp 25 and 64 (RPT Final Report) at para 2.3.14 and 5.6.9.
+
+but stressed that its extrapolations as set out at [32] were a reasonable
+assumption rather than a concrete conclusion. 55
+
+##### Foot Note 55
+
+×
+
+TMH-2023 07 07 at pp 25 and 64 (RPT Final Report) at para 2.3.15 and 5.6.10.
+
+34 KPMG prepared a draft report which was shared with the parties for comment
+on 31 May 2023. Comments on the draft report were received by KPMG on 7 June
+2023 and those comments were considered by KPMG before the RPT Final Report
+was finalised on 26 June 2023. 56
+
+##### Foot Note 56
+
+×
+
+TMH-2023 07 07 at p 18 (RPT Final Report) at para 1.2.4.
+
+35 Specifically, there was an e-mail dated 7 June 2023 from the plaintiff’s
+counsel to KPMG where the plaintiff first broached the idea of KPMG contacting
+some of Exquisite’s suppliers in relation to the Four Invoices (identified as
+Staco, Sungmi and Morgan Technical Ceramics) to verify their invoices to
+Exquisite. 57
+
+##### Foot Note 57
+
+×
+
+TBY-2023 08 02 at p 24; TMH-2023 07 07 at paras 18–20.
+
+36 KPMG responded to this e-mail on 26 June 2023 where it stated: 58
+
+##### Foot Note 58
+
+×
+
+TBY-2023 08 02 at p 47.
+
+We wish to highlight two matters:
+
+1\. Regarding the Plaintiff’s proposal to contact the three overseas vendors,
+we do not have information as to the complete list of specific line items from
+the Four Invoices were supplied by the three vendors. We have endeavoured to
+use transactions that are both contemporary and with Agile Accomm, in
+providing the closest possible analogues in the circumstances. We do not
+expect these vendors to be required to retain records which would be relevant
+to the Four Invoices (i.e. sales to Exquisite/Agile on or before 23 November
+2015), as it has been more than 7 years since the relevant transactions. In
+addition, more recent transactions will be less relevant, and we consequently
+have used them only where necessary. We are therefore of the view that it
+would not likely be useful to send blanket confirmation of prices relevant at
+that time.
+
+2\. We note the Plaintiff’s application to file for the disclosure of
+documents. We will await the Court’s instructions on such disclosures, and/or
+whether a subsequent supplementary report should be issued on the basis of
+further procedures to be performed.
+
+The Data Loss Incidents
+
+37 The plaintiff relied on the Data Loss Incidents as one of the reasons why
+she should be allowed to review the Four Invoices and to provide KPMG with the
+plaintiff’s inputs, if any. Put in another way, the plaintiff argued that if
+the Data Loss Incidents had not occurred, KPMG would have had sufficient
+information to enable it to carry out a more thorough RPT Review. 59
+
+##### Foot Note 59
+
+×
+
+PWS at paras 19–23.
+
+38 The RPT Final Report 60
+
+##### Foot Note 60
+
+×
+
+TBY-2023 08 02 at pp 49–101.
+
+pointed to the general absence of documents (including e-mails relating to the
+Four Invoices): 61
+
+##### Foot Note 61
+
+×
+
+TMH-2023 07 07 at p 21 (RPT Final Report) at para 2.2.1.
+
+2.2.1 A summary of the absence of documents relevant to the RPT Review,
+arising from the Data Loss Assertions, is as follows:
+
+— Apart from the Hardcopy Invoice 30157, there are no further hardcopy
+Relevant Documents available, purportedly due to the Document Disposal;
+
+— There are no emails for the Relevant Period found in Mr Tan’s Email and Ms
+Lim’s Email, purportedly due to the Provider Switch. From the NAS, we have
+identified only 82 emails from the abovementioned period, none of which is
+relevant to the RPTs; and
+
+— Apart from the Relevant Documents listed at paragraph 3.6.12 of this Report,
+we have not identified further Relevant Documents stored on the NAS,
+purportedly due to the NAS Crash.
+
+39 This led to KPMG only being able to carry out the RPT Review on the basis
+of limited documents, as set out in the RPT Final Report: 62
+
+##### Foot Note 62
+
+×
+
+TMH-2023 07 07 at pp 21, 44 and 62 (RPT Final Report) at paras 2.2.6 and 2.2.7
+(summary) and at paras 4.6.4, 4.6.7 and 5.6.1.
+
+2.2.6 In order to ascertain whether the RPTs were conducted on an arm’s length
+basis, a cost comparison between the purchase price of materials from
+Exquisite, and the third-party supplier prices for the same stock would be
+relevant. However, there is again an absence of relevant information to
+perform such a comparison, purportedly explained by the Data Loss Assertions.
+
+2.2.7 Consequently, the RPT Review relies on the limited documents identified
+from the evidence gathering procedures summarised at paragraph 2.1.1 above.
+There are therefore significant limitations to the RPT Review set out at
+section 5 of this Report.
+
+40 In the plaintiff’s view, this hampered KPMG’s conduct of the RPT Review. 63
+
+##### Foot Note 63
+
+×
+
+PWS at para 22.
+
+41 When preparing the RPT Final Report, KPMG conducted a detailed
+investigation of the Data Loss Incidents and how they occurred including:
+
+(a) three interviews with the first defendant; 64
+
+##### Foot Note 64
+
+×
+
+TMH-2023 07 07 at pp 27–28 (RPT Final Report) at para 3.3.1.
+
+(b) interviews with the third defendant’s employees allegedly present at the
+third defendant’s warehouse at the time the hardcopy records were disposed of;
+65
+
+##### Foot Note 65
+
+×
+
+TMH-2023 07 07 at pp 27–28 and 36–38 (RPT Final Report) at para 3.3.1, 4.3.1
+and 4.3.2.
+
+and
+
+(c) interviews with Ever Higher Data Recovery Centre Pte Ltd (“Ever Higher”)
+whom the third defendant had engaged to assist with data recovery of the
+softcopy records following the Data Loss Incidents. 66
+
+##### Foot Note 66
+
+×
+
+TMH-2023 07 07 at pp 35 and 41 (RPT Final Report) at para 3.7.2 and 4.5.3.
+
+42 KPMG’s findings on the Data Loss Incidents were ultimately inconclusive as
+to whether there had been any intentional actions by the defendants that led
+to the Data Loss Incidents. The RPT Final Report states: 67
+
+##### Foot Note 67
+
+×
+
+TMH-2023 07 07 at p 43 (RPT Final Report) at paras 4.6.2 and 4.6.3.
+
+4.6.2 The statements made in Interviews by Mr Yeow, Mr Lim, Mr Pang of Agile
+Accomm are consistent with, without being conclusive of, Mr Tan and Ms Lim’s
+statements during their Interviews, insofar as they state that (i) specific
+Agile Accomm employees had stayed in Agile’s Warehouse during the Circuit
+Breaker period; and that (ii) there were no explicit instructions to dispose
+of the Relevant Documents, in the course of the Document Disposal.
+
+4.6.3 The (i) Interview with Mr Tan and Mr Chua of Ever Higher; together with
+the (ii) Data Recovery Assessments Report; are consistent with Mr Tan’s
+statements during his Interviews insofar as efforts to recover the lost data
+were made pursuant to a NAS Crash.
+
+43 For the sake of completeness, the defendants had argued that their
+innocence in the Data Loss Incidents was further supported by the fact that
+the RPT Review was initiated by Ramesh J’s order in February 2020, and while
+KPMG had submitted its terms of engagement in April 2020, the plaintiff had
+persistently delayed the RPT Review through various attempts to adjust KPMG’s
+scope of work for the RPT Review. 68
+
+##### Foot Note 68
+
+×
+
+DWS at para 26.
+
+The Defendants reasoned that if the RPT Review had started in 2020, then the
+Data Loss Incidents would not have impacted KPMG’s work on the RPT Review. 69
+
+##### Foot Note 69
+
+×
+
+DWS at para 27.
+
+44 I disagreed. Even though the plaintiff was notified of the Data Loss
+Incidents in July 2021, 70
+
+##### Foot Note 70
+
+×
+
+PWS at para 15.
+
+the Data Loss Incidents actually occurred in 2020. The softcopy records were
+lost in the “NAS Crash” (crash of the third defendant’s server) on 7 April
+2020. 71
+
+##### Foot Note 71
+
+×
+
+TMH-2023 07 07 at pp 40–41 (RPT Final Report) at paras 4.5.2.
+
+The hardcopy records were lost during the “Circuit Breaker Period” (ie, a
+period of societal lockdown in view of the COVID-19 pandemic) which started in
+Malaysia on 18 March 2020 such that the third defendant’s employees had to
+stay in the third defendant’s warehouse (as they presumably could not return
+to Malaysia) and allegedly disposed of the hardcopy records to make space for
+their stay. 72
+
+##### Foot Note 72
+
+×
+
+TMH-2023 07 07 at pp 36–38 (RPT Final Report) at paras 4.3.1 and 4.3.2.
+
+45 It is plain from the RPT Final Report that the lack of data and documents
+hampered KPMG’s review. The plaintiff’s position is that if Seaquest is
+allowed to review the Four Invoices, it may have information that KPMG would
+find useful because Seaquest is in the same business as the third defendant
+and has undertaken similar projects. 73
+
+##### Foot Note 73
+
+×
+
+PWS at paras 29–31.
+
+Basis for the court’s intervention
+
+46 The Original Valuation was to be made in relation to s 216(2)(d) of the
+Companies Act (see [12] and [26] above). Ramesh J’s further order of 13
+February 2020 was made pursuant to the original judgment. The plaintiff’s
+current application was made pursuant to para 1(b) of the order of 13 February
+2020.
+
+47 Neither para 1(b) nor any other part of Ramesh J’s order of 13 February
+2020 required any information made available by the third defendant to KPMG to
+be disclosed to the plaintiff. It merely stated that no such information shall
+be disclosed to the plaintiff unless otherwise directed by the court. In that
+regard, I did not see how the plaintiff can rely on this paragraph alone (and
+no such submission was made) as grounds that she should be entitled to
+disclosure of the Four Invoices without also asking the court to exercise its
+powers to intervene and grant such disclosure.
+
+48 The Court of Appeal decision of Feen, Bjornar and others v Viking
+Engineering Pte Ltd and another appeal and another matter [2021] 1 SLR 497
+(“Feen”) confirmed at [21] that, in cases where there was a court order for
+the buyout of shares at a price to be valued, even though the appointment of
+the independent valuer was made by the parties, there remains a basis for
+judicial intervention derived from s 216(2) of the Companies Act (so the basis
+of the court’s powers in this regard did not derive solely from the parties’
+contractual bargain). The facts of Feen bear resemblance to the current case,
+so it was worth exploring them in brief.
+
+49 Feen was a case where the respondent, Viking Engineering, had succeeded in
+its minority oppression action brought against the appellants, one of whom was
+Mr Feen. The court below had ordered Mr Feen to purchase Viking Engineering’s
+shares in a joint venture company at a price to be determined by an
+independent valuer (Feen at [3]–[5]). An expert valuer, one Mr Hayler, was
+jointly appointed by the parties to conduct the valuation. The appellants in
+Feen contended that Mr Hayler had materially departed from his instructions
+when preparing his expert report, and that his valuation was in manifest error
+(Feen at [2]). The appellants thus sought an order to set aside the expert
+valuation. The appellants’ complaints against Mr Hayler’s valuation were
+discussed by the Court of Appeal at [26]–[31] of Feen.
+
+50 First, the appellants contended that Mr Hayler had relied on assumptions to
+arrive at his valuation, and that this was inconsistent with certain
+paragraphs of the court’s buyout order. The Court of Appeal found that Mr
+Hayler’s mandate was to have regard to such financial information as was
+necessary for him to carry out the valuation and the buyout order did not
+stipulate what specific information he was to have regard to. The
+determination of what financial information was necessary for the valuation
+was a matter entirely within Mr Hayler’s discretion (Feen at [26]).
+
+51 Second, the appellants submitted that Mr Hayler materially departed from
+his instructions when he relied on assumptions to adjust the valuation to
+account for the business that a party had diverted from the joint venture
+company. The Court of Appeal noted that Mr Hayler had stated that he was not
+able to identify “the exact dates, amounts, and the entities involved” in
+relation to the business diverted from the company, and further that the
+buyout order did not require Mr Hayler to have regard to the “actual value” of
+business diverted. The buyout order gave Mr Hayler a wide discretion to make
+the necessary adjustments when carrying out the valuation, and Mr Hayler did
+not exceed his terms of reference (Feen at [27]).
+
+52 Third, the appellants had complained that Mr Hayler had allegedly failed to
+take into account certain information in his assessment of the business that a
+party had diverted from the joint venture company. Some of this information
+had been raised by the appellants to Mr Hayler by way of a letter dated 7
+September 2018, which was before the valuation report was finalised by Mr
+Hayler on 2 November 2018 (Feen at [6]). The Court of Appeal found that Mr
+Hayler had properly considered the appellants’ submissions in their 7
+September letter. In Mr Hayler’s valuation report, he addressed the
+appellants’ key arguments in the letter and had considered the relevant
+evidence before him (Feen at [29]).
+
+53 Importantly, the Court of Appeal in Feen at [22] and [23] decided that
+where a buyout order from the court did not provide for an independent
+valuation to be final and binding and where the parties had appointed the
+independent valuer by consent, the principles applicable to challenging an
+expert’s determination before a court ought to apply by analogy. In the Court
+of Appeal’s view, these principles had been set out by the court in The
+Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd [2009] 2 SLR(R)
+385 (“Oriental Insurance”). In Oriental Insurance at [47], the court had
+opined that a long line of authorities supported the proposition that “short
+of fraud, corruption, collusion, dishonesty, bad faith, bias or the like, the
+only two main grounds on which this court can set aside [an independent
+adjudicator’s] determination are as follows: (a) where the [independent
+adjudicator] materially departed from his instructions; or (b) where there is
+a manifest error in his determination that justly requires judicial
+intervention”.
+
+54 The Court of Appeal also made the following comments at [23] of Feen when
+discussing the principles in Oriental Insurance:
+
+… The court can intervene if the valuation is not in accordance with the terms
+of reference, or if the valuation is patently or manifestly in error. However,
+the court will be slow to find that the valuation is in error, since by
+delegating the task of valuation to an expert, the court has taken the
+position that the matter is best left to the expert … That the court should
+not readily overturn court-ordered valuations also promotes the public
+interest in the finality of litigation.
+
+55 The decision in Feen made reference to how the valuation exercise by an
+independent valuer should, by analogy, be considered to be akin to an expert
+determination (see [53] above). In that regard, the decision by the Court of
+Appeal in Ngee Ann Development Pte Ltd v Takashimaya Singapore Ltd [2017] 2
+SLR 627 (“Ngee Ann”) was also relevant. In Ngee Ann, the Court of Appeal laid
+out the principles that would apply in a situation “where the court’s
+involvement is sought before the expert has made his determination” [emphasis
+added] (Ngee Ann at [41]). The Court of Appeal explicitly noted at [41]–[42]
+that Oriental Insurance and related cases set out the principles that apply
+where the court was invited to intervene after an expert’s determination had
+been rendered. This suggests that Ngee Ann is part of the same line of case
+law as Oriental Insurance relating to the principles undergirding curial
+intervention in the work of experts. Since the Oriental Insurance principles
+on post-valuation interventions were held to be applicable in the context of a
+s 216(2) Companies Act share valuation, the Ngee Ann principles on pre-
+valuation interventions applied similarly by analogy.
+
+56 The Court of Appeal in Ngee Ann at [43] opined that Hoffmann LJ in Mercury
+Communications Ltd v The Director General of Telecommunications [1994] CLC
+1125 (“Mercury Communications”) had “set out a useful statement of principle”
+on the permissible scope of curial intervention. The Court of Appeal went on
+at [44] to cite the relevant passage from Hoffmann LJ’s decision in Mercury
+Communications at 1139–1140. For present purposes, the relevant portion of
+Hoffmann LJ’s decision is as follows:
+
+On the other hand, even in cases in which the parties have agreed principles
+of valuation, their application may involve questions of judgment which they
+have left to the decision of the accountants. In the last example, the
+question of what counts as ‘net profits’ may be something on which different
+accountants could hold different views. Here again, as a matter of substantive
+law, the court will not interfere. As a matter of contract, the parties have
+agreed that ‘net profits’ are to be whatever the accountants honestly consider
+them to be.
+
+So in questions in which the parties have entrusted the power of decision to a
+valuer or other decision-maker, the courts will not interfere either before or
+after the decision. This is because the court’s views about the right answer
+to the question are irrelevant. On the other hand, the court will intervene if
+the decision-maker has gone outside the limits of his decision-making
+authority.
+
+[emphasis in italics added by the Court of Appeal in Ngee Ann]
+
+57 The Court of Appeal’s endorsement of Hoffmann LJ’s statement of principle
+ties in well with the Court of Appeal’s dicta at [23] of Feen, which has been
+extracted above at [54]. Both before and after an expert’s valuation has been
+completed, the professional competence of the expert still, on a prima facie
+level, deserves respect from the parties and from the court. By delegating the
+task of valuation to an expert, the court and, where the parties have
+consented to the appointment of that expert, those parties too, take the
+position that the matter is best left to the expert. A cautious attitude
+towards interfering in or overturning court-ordered valuations would promote
+the public interest in minimising unnecessary litigation by allowing the
+experts to do their work, bar extraordinary circumstances such as fraud,
+manifest error, or an excess of jurisdiction.
+
+Is the Court’s intervention justified in this case?
+
+58 The RPT Review was derived from the Original Valuation where KPMG was
+appointed to carry out the valuation of the plaintiff’s shares in the third
+defendant following the original trial of HC/S 170/2014. Neither the court
+order for the Original Valuation nor the court order for the RPT Review
+provided that the respective valuations were to be final and binding. Pursuant
+to para 2 of Leow JC’s 3 December 2015 oral judgment, KPMG was appointed by
+the parties for the Original Valuation on an agreed basis. 74
+
+##### Foot Note 74
+
+×
+
+TBY-2017 06 17 at para 36 and pp 173–185; Affidavit of Tan Meng Hin dated 17
+May 2017 at paras 17–18.
+
+Even though an additional court order was required to finalise the scope of
+KPMG’s work for the RPT Review (see [17] above), this focused on specific
+issues in KPMG’s Engagement Letter which could not be considered fundamental,
+and so did not detract from the parties’ agreement to KPMG’s engagement. In
+this regard, I noted that in HC/SUM 2735/2019, under prayer 3 (which was
+granted by the court), the plaintiff had in fact specifically prayed for
+KPMG’s scope of work in performing the Original Valuation to be expanded to
+include the RPT Review. Evidently, the plaintiff had considered KPMG’s
+professional expertise to be useful in conducting the RPT Review. I further
+noted that the first defendant, in his affidavit filed to resist the present
+summons, had annexed a copy of the finalised engagement terms, bearing the
+signatures of the first and second defendants, for KPMG to carry out the RPT
+Review. 75
+
+##### Foot Note 75
+
+×
+
+TBY-2023 08 02 at pp 26–45.
+
+The court’s jurisdiction therefore continued to be engaged pursuant to s
+216(2) of the Companies Act and the guidance offered in Feen was relevant.
+
+59 It should be noted that the plaintiff did not make any explicit submissions
+in this application that she was challenging the RPT Review based on any of
+the three principles in Oriental Insurance. The plaintiff had not challenged
+the veracity of the RPT Final Report, but simply made a bare request for
+disclosure and review of the Four Invoices so that she could comment. 76
+
+##### Foot Note 76
+
+×
+
+PWS at paras 24–29.
+
+In that respect, this application did not sit squarely with Oriental
+Insurance. Therefore, in my view, both Oriental Insurance and Ngee Ann
+provided relevant guidance for the disposal of the present matter.
+
+60 The plaintiff’s application implied a disagreement with KPMG’s decision (in
+its e-mail of 26 June 2023) not to pursue contact with the vendors the
+plaintiff had identified. This at least implied that there had been an error
+on KPMG’s part or that KPMG had acted contrary to its terms of reference in
+choosing not to further investigate the Four Invoices in the manner suggested
+by the plaintiff.
+
+61 Based on such an implication, I failed to see that there had been any
+manifest error on KPMG’s part or actions taken that were contrary to KPMG’s
+terms of reference. As summarised at [28]–[36] and [38]–[42] above, KPMG had
+undertaken a thorough review of the Four Invoices including the circumstances
+leading to the Data Loss Incidents. In order to overcome the lack of
+documentation and data, KPMG had used other well-documented methods to
+determine whether the Four Invoices had been transacted on an arm’s length
+basis.
+
+62 As the defendants had pointed out, 77
+
+##### Foot Note 77
+
+×
+
+TBY-2023 08 02 at para 14.
+
+KPMG were already at liberty to question third parties and suppliers of the
+third defendant as part of their methodology and scope of work: 78
+
+##### Foot Note 78
+
+×
+
+TBY-2023 08 02 at pp 31–33 (KPMG’s Engagement Letter for RPT Review), Appendix
+A, para A.1.3.
+
+A.1.3 Based on the objective above, we set out below our scope of work in
+three phases (the “Procedures”):
+
+Phase One: review of accounting records and interviews
+
+…
+
+– From the review of available documents and interviews, identify third
+parties that appear relevant to the matter(the “Identified Third Parties”).
+
+– Conduct background checks on the Identified Third Parties using public
+domain databases and privately maintained databases to which we have access.
+
+– Request information, further documents or conduct interviews with the
+Identified Third Parties where it appears that such Identified Third Parties
+may have information or documents relevant to our procedures.
+
+63 KPMG declined to do so. KPMG knew that these invoices were from identified
+third parties (Staco, Sungmi and Morgan Technical Ceramics) who were suppliers
+to Exquisite, but chose not to contact them. That was a decision that KPMG
+made as forensic investigators. Crucially, it bears mention that KPMG had the
+benefit of considering the plaintiff’s solicitors’ 7 June 2023 e-mail stating
+the plaintiff’s suggestion, with accompanying reasons, that the said suppliers
+should be contacted by KPMG, 79
+
+##### Foot Note 79
+
+×
+
+TBY-2023 08 02 at p 24.
+
+and conveying that the plaintiff could help put KMPG in touch with the
+suppliers if needed.
+
+64 KPMG’s e-mail of 26 June 2023 to the plaintiff made it clear that KPMG did
+not expect that these vendors would have kept records dating so far back and
+that more recent pricing was less relevant to the RPT Review. KPMG therefore
+did not find it useful to seek any blanket confirmation of prices relevant at
+the time of the RPTs. The situation that I had before me bore some resemblance
+with the situation in Feen (see [52] above), where the Court of Appeal noted
+that the valuer in that case had properly considered submissions made by one
+of the parties via letter before finalising his valuation report.
+
+65 Following the Court of Appeal’s decision in Feen (at [23]), I was slow to
+find error on KPMG’s part as the court had delegated the task of forensic
+investigation in this instance to them as experts and their decisions should
+not be readily overturned.
+
+66 In a similar vein, as per Ngee Ann, where an expert was acting within the
+parameters of his terms of reference, I also avoided interfering with the
+expert’s judgment in how it made its valuation decision. KPMG had been
+appointed as independent experts in a detailed forensic exercise in connection
+with the RPT Review. So long as they acted within their terms of reference,
+they should be allowed to carry out their work independently and without
+interference from the parties or the courts. The decision not to pursue
+further queries with Exquisite’s vendors (Staco, Sungmi and Morgan Technical
+Ceramics) was a judgment call that KPMG was allowed to make under their terms
+of reference (see at paragraph [62]) and the court should not question this
+decision.
+
+67 There is a final point to be made to close the discussion on the Data Loss
+Incidents (see [41]–[42] above). Even if the plaintiff had made a fair case
+that any additional information or inputs she could provide might be relevant
+to KPMG in the RPT Review, KPMG’s e-mail of 26 June 2023 showed that KPMG, in
+not inviting further information from the plaintiff, had weighed the potential
+for additional useful insights that could be gleaned from further
+investigations, against the insights and conclusions that could already be
+arrived at using the available information, and came to the conclusion that
+the RPT Final Report could stand ready. Again, this was a judgment call that
+KPMG should be allowed to make without interference from the court.
+
+68 For these reasons, I dismissed the plaintiff’s application.
+
+Other issues
+
+69 For completeness, while my decision to dismiss the application did not turn
+on these issues, I briefly address some of the other points raised in
+arguments by counsel.
+
+70 The defendants raised the concern that the plaintiff’s attempt to obtain
+the Four Invoices was an indirect way to obtain the third defendant’s
+confidential and proprietary pricing information (see [21(b)] above). There
+had been a specific order by Ramesh J that information made available by the
+third defendant to KPMG was not to be disclosed to the plaintiffs by KPMG
+without the court’s sanction for this specific reason. This was acknowledged
+by the plaintiff and the plaintiff conceded that it would be willing to review
+the Four Invoices with any confidential and proprietary information redacted.
+The plaintiff however doubted if pricing information that was seven or eight
+years out of date would retain any commercial sensitivity. It would have been
+open to me to review and order the redaction of any sensitive information on
+the Four Invoices if the plaintiff had succeeded in its application.
+
+71 The defendants also contended that this application was the latest in a
+long line of applications that had delayed the Original Valuation (see [21(a)]
+above). This was not a consideration relevant to my decision to dismiss this
+application, as the fact that there were earlier applications by the plaintiff
+does not, in this case, detract from the merits of other applications.
+
+Conclusion
+
+72 It has been more than seven years since KPMG was first appointed as
+independent valuers (albeit a shorter period of time had been spent on the RPT
+Review) and eight years since the conclusion of the trial in HC/S 170/2014.
+$440,000 has been spent on the RPT Review alone – almost ten times the
+original cost estimate ($45,000) of the entire valuation exercise. 80
+
+##### Foot Note 80
+
+×
+
+DWS at paras 6.2 and 35.
+
+73 Whilst it is entirely possible to go down every rabbit hole in the hope of
+finding another lead or some other fact or issue that would allow for a
+reconsideration of what has already been found, there needs to be finality at
+some point and perfection cannot always be achieved. Given the amount of time
+and money that has been spent on the RPT Review (not to mention the wider
+valuation), it is time for KPMG to be allowed to continue with and finalise
+their work for the Original Valuation.
+
+Costs
+
+74 The defendants had asked the plaintiff to pay costs of this application on
+an indemnity basis on the grounds that this application was without any bona
+fides, unnecessary, frivolous, vexatious and was an abuse of the process of
+the court. 81
+
+##### Foot Note 81
+
+×
+
+DWS at para 36.
+
+I ordered costs to be paid by the plaintiff on a standard basis in the amount
+of $10,000 (inclusive of disbursements). Bearing in mind the frustration
+caused by the lack of documentation for the RPT Review occasioned by the Data
+Loss Incidents and bearing in mind that the RPT Review itself has been ongoing
+for a comparatively short period of time (compared to the Original Valuation),
+I was of the view that the plaintiff was not on the wrong side of the line of
+good faith when she made this application.
+
+Wong Li Kok, Alex  
+Judicial Commissioner|  
+---|---  
+  
+Derek Kang Yu Hsien and Ashok Kumar Rai (Cairnhill Law LLC) for the plaintiff;
+
+Lakshanthi Kumari Fernando, Tan Wei Ming and Os Agarwal (Holborn Law LLC) for
+the defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 17 Nov 2023 (16:10 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

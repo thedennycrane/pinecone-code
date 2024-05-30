@@ -1,0 +1,946 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 262
+
+Bankruptcy No 2425 of 2021 (Registrar’s Appeals Nos 343, 344, and 348 of 2022,
+No 131 of 2023, and Summons No 268 of 2023)
+
+In the matter of the Insolvency, Restructuring and Dissolution Act(Act 40 of
+2018)  
+---  
+  
+And
+
+In the matter of Pradeepto Kumar Biswas  
+---  
+  
+Between
+
+(1)| Sabyasachi Mukherjee  
+---|---  
+(2)| Gouri Mukherjee  
+  
+… Plaintiffs
+
+And
+
+Pradeepto Kumar Biswas  
+---  
+  
+… Defendant
+
+And
+
+Official Assignee  
+---  
+  
+… Official Assignee
+
+Originating Application No 152 of 2022 (Summons No 2247 of 2023)
+
+In the matter of Order 11 Rule 11(1)
+
+of the Rules of Court 2021
+
+Between
+
+| Pradeepto Kumar Biswas  
+---|---  
+  
+… Claimant
+
+And
+
+(1)| Barclays Bank PLC  
+---|---  
+(2)| Bank of Singapore Limited  
+(3)| Gouri Mukherjee  
+(4)| Sabyasachi Mukherjee  
+  
+… Respondents
+
+judgment
+
+[Civil Procedure — Appeals — Adducing fresh evidence on appeal]
+
+[Insolvency Law — Bankruptcy — Bankrupt’s duties and liabilities — Duty to
+obtain sanction of Official Assignee]
+
+[Insolvency Law — Bankruptcy — Stay]
+
+[Res Judicata — Issue estoppel]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Sabyasachi Mukherjee and another
+
+  
+v
+
+  
+
+Pradeepto Kumar Biswas and another matter
+
+[2023] SGHC 262
+
+General Division of the High Court — Bankruptcy No 2425 of 2021 (Registrar’s
+Appeals Nos 343, 344 and 348 of 2022, No 131 of 2023, and Summons No 268 of
+2023) and Originating Application No 152 of 2022 (Summons No 2247 of 2023)  
+Goh Yihan JC  
+28 August 2023
+
+15 September 2023 Judgment reserved.
+
+Goh Yihan JC:
+
+1 There are six matters before me. These matters arise from the bankruptcy
+proceedings Mr Sabyasachi Mukherjee and Ms Gouri Mukherjee brought against Mr
+Pradeepto Kumar Biswas (“Mr Biswas”) in HC/B 2425/2021 (“B 2425”). For ease of
+exposition, and because Mr Biswas is appealing against the bankruptcy order
+made against him, I shall term him as the “appellant”, and term Mr Sabyasachi
+Mukherjee and Ms Gouri Mukherjee as the “respondents”. I should note that this
+terminology is not strictly accurate in relation to some of the matters where
+Mr Biswas is applying for certain orders but not in the capacity of an
+appellant.
+
+2 With the above in mind, I come now to the six matters before me.
+
+(a) HC/SUM 2247/2023 (“SUM 2247”) is the appellant’s application for
+permission for HC/OA 152/2022 (“OA 152”) to continue, and to stay the rest of
+the other five matters until OA 152 has been heard and determined. OA 152 is
+the appellant’s application for pre-action discovery against the respondents
+and other parties, on the basis that the documents sought would purportedly
+show that the respondents had committed perjury at the trial of HC/S 1270/2014
+(“S 1270”), which would then nullify the statutory demand issued on 13 July
+2021 in B 2425 (the “SD”). This would then mean that that there is no basis
+for B 2425 to proceed.
+
+(b) HC/RA 343/2022 (“RA 343”) is the appellant’s appeal against the learned
+Assistant Registrar Tan Ee Kuan’s (“AR Tan”) dismissal of HC/SUM 3718/2022
+(“SUM 3718”), which was the appellant’s application to stay the bankruptcy
+proceedings in B 2425 until such time that OA 152 has been determined. Framed
+in this manner, there is undoubtedly an overlap between RA 343 and SUM 2247.
+
+(c) HC/RA 344/2022 (“RA 344”) is the appellant’s appeal against the learned AR
+Tan’s grant of order in terms of B 2425 to bankrupt the appellant, arising
+from the appellant’s failure to satisfy the SD. The SD was based on the
+judgment that Belinda Ang Saw Ean J (as she then was) had granted on 11
+December 2018 totalling US$3.45m (the “Judgment”) in S 1270. Ang J’s decision
+can be found in Sabyasachi Mukherjee and another v Pradeepto Kumar Biswas and
+another suit [2018] SGHC 271.
+
+(d) HC/RA 348/2022 (“RA 348”) is the appellant’s appeal against the learned AR
+Tan’s dismissal of HC/SUM 4306/2022 (“SUM 4306”), which was the appellant’s
+application for an order to dismiss B 2425 on the basis that the Judgment is
+“false”, and that the SD is defective.
+
+(e) HC/RA 131/2023 (“RA 131”) is the appellant’s appeal against the learned
+Assistant Registrar Beverly Lim’s dismissal of HC/SUM 4326/2022, which was the
+appellant’s application for a stay of execution of AR Tan’s orders in B 2425
+until the appeals in RA 343, RA 344, and RA 348 have been determined by this
+court.
+
+(f) HC/SUM 268/2023 (“SUM 268”) is the appellant’s application to adduce fresh
+evidence for the hearing of RA 343, RA 344, and RA 348.
+
+3 After hearing the parties, I dismissed SUM 2247. I therefore proceeded to
+hear the other five matters. Having taken some time to consider these other
+matters, I dismiss SUM 268, RA 343, RA 344, and RA 348. I make no order as to
+RA 131 as it is moot, a point that Mr Lim Tean (“Mr Lim”), who appeared on
+behalf of the appellant, agreed with. RA 131 is moot because it has been fixed
+to be heard together with RA 343, RA 344, and RA 348, and my determination of
+the appeals will negate the need to consider whether to grant a stay of
+execution. I now explain my reasons for my decision in this judgment.
+
+Background facts
+
+4 I turn first to the background facts that are common to all six matters
+before me. These matters originate from S 1270, which the respondents started
+against the appellant to recover funds that they had invested based on the
+appellant’s allegedly dishonest advice and recommendation. This included the
+sum of US$3.45m that the respondents had allocated for various investments
+(the “Investments”).
+
+5 After the trial of S 1270, Ang J decided that the respondents had relied on
+the appellant to manage the Investments and interface with the various
+investee companies. Therefore, the appellant was the respondents’ only means
+of access to the Investments. Ang J also found that the appellant had used the
+respondents’ funds for his own undisclosed purposes. The learned judge
+therefore held, among other findings, that the appellant had breached his
+fiduciary duties to the respondents. She allowed the respondents’ claims on
+the following items:
+
+(a) SEW Investment: US$250,000;
+
+(b) Trade Sea Investment: US$200,000;
+
+(c) Neodymium Investment: US$250,000;
+
+(d) Peak Investment: US$500,000; and
+
+(e) Pacatolus Investment: US$2.25m.
+
+6 The appellant was thus ordered to pay the respondents’ investment capital of
+US$3.45m, as well as interest for the period between 23 January 2014 and 11
+December 2018. It should be noted that OA 152 concerns only the documents
+pertaining to a single item in the Judgment, that is, the Pacatolus
+Investment. The Pacatolus Investment comprised the Pacatolus Growth Fund Class
+6 (the “Pacatolus Fund”). In relation to the Pacatolus Fund, Ang J held that:
+(a) the appellant acted in breach of his fiduciary duty to the respondents,
+which obliged the appellant to act on the respondents’ behalf to interface
+with the investee company, monitor the investments, and on maturity (or
+whenever the respondents desired), redeem the investments; and (b) the
+appellant was liable to the respondents in deceit as he failed to let the
+respondents know how the moneys would be used, and that the Pacatolus Fund was
+neither a bank product nor capital protected.
+
+7 The appellant filed an appeal against the Judgment to the Court of Appeal.
+In Pradeepto Kumar Biswas v Sabyasachi Mukherjee and another [2019] SGCA 79,
+the Court of Appeal struck out the appeal due to the appellant’s breach of an
+unless order.
+
+8 Subsequently, the appellant did not take any steps to challenge the
+Judgment. However, the appellant did not satisfy the Judgment even as the
+respondents’ solicitors sent several reminders for payment. The respondents
+finally issued the SD in respect of the Judgment debt on 19 July 2021.
+Following this, the appellant then commenced a series of proceedings and filed
+a number of appeals.
+
+9 Most pertinently for present purposes, on 2 August 2021, the appellant
+applied in HC/OSB 74/2021 (“OSB 74”) to set aside the SD. In OSB 74, the
+appellant argued that the SD should be set aside because: (a) the debt is
+disputed on grounds that appeared to be substantive; and (b) the respondents
+had committed perjury at the trial of S 1270 by misleading Ang J into
+believing that the Investments were shams. The learned Assistant Registrar
+Jean Chan (“AR Chan”) dismissed OSB 74 on 16 September 2021. On appeal, the
+High Court in HC/RA 260/2021 (“RA 260”) agreed with AR Chan that there were no
+grounds for the SD to be set aside. The court did not make any finding as to
+whether the respondents had possession or control of the Investments or
+whether the Investments had value. The court also granted the respondents
+liberty to file bankruptcy proceedings against the appellant after 7 October
+2021, being 21 days after the decision in OSB 74.
+
+10 As such, on 8 October 2021, the respondents filed B 2425 against the
+appellant. At around the same time, the appellant filed other applications:
+
+(a) On 6 October 2021, the appellant applied for a re-trial of S 1270 in CA/OS
+24/2021 (“OS 24”). The Court of Appeal dismissed the application on the basis
+that the court lacked jurisdiction, the application lacked merit in any event,
+and the application an abuse of process (see the Court of Appeal decision of
+Pradeepto Kumar Biswas v Sabyasachi Mukherjee and another and another matter
+[2022] 2 SLR 340 at [93]).
+
+(b) On 12 October 2021, the appellant applied for leave to appeal against the
+decision in RA 260 in HC/SUM 4721/2021 (“SUM 4721”). The learned Assistant
+Registrar Navin Anand held that assuming leave was even required under the
+Fifth Schedule of the Supreme Court of Judicature Act 1969 (2020 Rev Ed) (the
+“SCJA”), the application should have been filed by originating summons to the
+Appellate Division of the High Court pursuant to the Sixth Schedule of the
+SCJA. Therefore, he granted the appellant leave to withdraw SUM 4721.
+
+(c) Following SUM 4721, on 8 November 2021, the appellant filed AD/OS 53/2021
+(“OS 53”) for: (i) leave to appeal against the decision in RA 260; (ii) an
+extension of time to seek leave to appeal; and (iii) an extension of time to
+file an appeal against the decision in RA 260. The Appellate Division of the
+High Court dismissed the application because, among other reasons, leave was
+not required to appeal against the decision in RA 260 in s 29A(1) of the SCJA,
+and the appellant’s application was filed after much delay with no good
+explanation. Further, on an assessment of the merits of the appeal, it was
+unlikely to succeed given the outcome of OS 24.
+
+(d) On 10 November 2021, the appellant filed HC/S 921/2021, claiming unjust
+enrichment arising from the respondents’ attempts to enforce the Judgment. The
+learned Assistant Registrar Gan Kam Yuin (“AR Gan”) struck out the application
+on 6 May 2022.
+
+11 Following the dismissal of these applications, B 2425 was fixed for hearing
+on 18 November 2021. However, the appellant then filed further applications to
+stay the hearing of B 2425. It is not necessary for me to recount all of these
+applications, save to say that they were largely found to be vexatious to the
+respondents and therefore amounted to an abuse of process. To briefly
+summarise, the relevant applications are as follows:
+
+(a) On 17 May 2022, the appellant applied in HC/SUM 1848/2022 for a stay of
+proceedings in B 2425. AR Gan granted the stay on the condition that the
+appellant provides security for costs in respect of the Judgment debt.
+However, the appellant did not eventually provide security.
+
+(b) On 18 May 2022, the appellant applied for permission to appeal the
+decision in OS 53 in CA/OA 2/2022 (“OA 2”). After the parties tendered their
+submissions on 5 July 2022, the appellant then filed CA/SUM 15/2022 (“SUM 15”)
+to recuse Andrew Phang Boon Leong JCA from hearing OA 2. The Court of Appeal
+dismissed both applications in its decision of Pradeepto Kumar Biswas v Gouri
+Mukherjee and another [2022] 2 SLR 1347 (at [64]), because “[n]either, in
+[their] opinion, bore any semblance of merit”. With respect to OA 2, the court
+awarded costs on the higher end of the relevant range found in Appendix G of
+the Supreme Court Practice Directions 2021 because of the lack of merit in the
+application (at [65(a)]). With respect to SUM 15, “it did not even come close
+to succeeding”, and “[d]espite the gravity of SUM 15’s subject matter, the
+allegations and arguments made by [the appellant] were completely
+unsubstantiated” (at [65(b)]). The court therefore awarded costs to the
+respondents on an indemnity basis .
+
+12 On 25 May 2022, the appellant filed OA 152. As I mentioned above, OA 152 is
+the appellant’s application for pre-action discovery of certain categories of
+documents (the “Pacatolus Documents”) relating to the Pacatolus Fund. This
+application was taken out against Barclays Bank PLC and Bank of Singapore
+Limited, which are the first and second respondents in OA 152. The appellant
+added the respondents as parties to OA 152 subsequently.
+
+13 The parties then appeared before AR Gan on 7 October 2022 to proceed with
+the hearing of the question as to whether B 2425 should be stayed. However, 45
+minutes before that hearing, the appellant filed SUM 3718 to seek a fresh stay
+of B 2425 pending the determination of OA 152. SUM 3718 was eventually fixed
+for hearing before AR Tan on 24 November 2022. On 24 November 2022, the
+appellant requested for an adjournment so that he could review the
+respondents’ submissions which he had been served with within the deadlines
+stipulated by the court. AR Tan nonetheless adjourned SUM 3718 to 1 December
+2022. Then, on 30 November 2022, the appellant filed SUM 4306 to dismiss B
+2425 on grounds that, among other things, it is based on a “false case” (in S
+1270).
+
+14 Finally, on 1 December 2022, the parties appeared before AR Tan for the
+hearing of SUM 3718, SUM 4306, and B 2425. AR Tan dismissed SUM 3718 and SUM
+4306, and adjudged the appellant a bankrupt in B 2425. AR Tan’s decisions form
+the subject matters of some of the matters before me.
+
+SUM 2247
+
+15 At the hearing before me on 28 August 2023, it was necessary that I first
+consider SUM 2247, which was the appellant’s application for all the other
+five matters before me to be stayed pending the resolution of OA 152. After
+hearing the parties’ submissions on SUM 2247, I dismissed it and proceeded to
+hear the other four matters (excluding RA 131).
+
+16 The primary issue in SUM 2247 was whether the appellant required the
+Private Trustee in Bankruptcy’s (the “PTIB”) previous sanction to continue
+with the proceedings in OA 152. It was not disputed that the appellant has not
+obtained the PTIB’s previous sanction. Neither did the appellant show that he
+has been exempted from obtaining the PTIB’s previous sanction. Indeed, in a
+letter dated 6 July 2023, the PTIB took the position that its previous
+sanction was necessary for the appellant to continue with the proceedings in
+OA 152. 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Pradeepto Kumar Biswas for HC/OA 152/2022 (HC/SUM 2247/2023)
+dated 26 July 2023 at p 10.
+
+17 I dismissed SUM 2247 because the appellant had not obtained the PTIB’s
+previous sanction, which is necessary for him to continue with the proceedings
+in OA 152. Since he had not obtained the PTIB’s previous sanction, the
+appellant cannot continue with OA 152, such that any summons under that
+action, such as SUM 2247, must also be dismissed. In any event, in so far as
+SUM 2247 primarily prays for permission for OA 152 to continue, it too can be
+dismissed on the basis that the appellant has not obtained the PTIB’s previous
+sanction for OA 152 to continue. In this regard, the applicable statutory
+provisions that relate to sanction for a bankrupt to continue with legal
+proceedings, whether commenced by himself or commenced against him, can be
+found in ss 327 and 401 of the Insolvency, Restructuring and Dissolution Act
+2018 (2020 Rev Ed) (the “IRDA”). More pertinently, ss 401(1) and 401(3)
+provide as follows:
+
+Disabilities of bankrupt
+
+401.—(1) Where a bankrupt has not obtained his or her discharge —
+
+(a) unless the bankrupt has obtained the previous sanction of the Official
+Assignee, the bankrupt is incompetent to commence, continue or defend —
+
+(i) any action other than —
+
+(A) an action for damages in respect of any injury to the bankrupt’s person;
+or
+
+(B) a matrimonial proceeding; or
+
+(ii) any appeal arising from any action referred to in sub-paragraph (i); and
+
+…
+
+(3) A bankrupt who fails to comply with this section shall be guilty of an
+offence and shall be liable on conviction to a fine not exceeding $10,000 or
+to imprisonment for a term not exceeding 2 years or to both.
+
+Pursuant to s 39 of the IRDA, the PTIB has the same functions, duties, and
+powers as the Official Assignee referred to in s 401(1).
+
+18 The meaning and application of s 401(1) is clear. The Court of Appeal dealt
+with s 401(1)’s predecessor provision – s 131(1) of the Bankruptcy Act (Cap
+20, 2000 Rev Ed) (the “BA”), which was the prevailing statute in force at that
+time – in Standard Chartered Bank v Loh Chong Yong Thomas [2010] 2 SLR 569
+(“Thomas Loh”). Because of the material similarities in the framing of s
+131(1) of the BA and s 401(1) of the IRDA, I was of the view that the Court of
+Appeal’s observations on s 131(1) in Thomas Loh apply equally to s 401(1). In
+this regard, the Court of Appeal explained in Thomas Loh that the requirement
+of previous sanction was introduced to “give the [Official Assignee] full
+control of the administration of a bankrupt’s estate for the benefit of the
+creditors” (at [28]). This much is clear from a survey of the legislative
+history of s 131(1), which I summarise as follows.
+
+(a) Section 131(1)(a) of the BA can be traced back to s 33(1)(a) of the
+Bankruptcy Ordinance 1888 (SS Ord No 2 of 1888) of the Straits Settlements
+(the “Bankruptcy Ordinance”). This was an innovation in the bankruptcy
+legislation of the Straits Settlement, as it was not found in the bankruptcy
+laws of England or any other Commonwealth jurisdiction (see Thomas Loh at
+[20]).
+
+(b) In 1885, the then Governor of the Straits Settlements ordered an enquiry
+into the then existing bankruptcy legislation. The Commission Report (at para
+7) suggested that a provision be introduced to protect creditors, which would
+include measures “as desirable for the protection of trade and as calculated
+to check fraud to a great extent” (see Thomas Loh at [21], citing Appendix No
+46 of Straits Settlements, Colony of Singapore, Proceedings of the Legislative
+Council of the Straits Settlements for 1885). This suggested provision stated
+that “the bankrupt shall be incompetent to maintain any civil action for a sum
+or cause of action above $50 without the consent of the Official Receiver”.
+This bears an unmistakeable resemblance to s 131(1) of the BA (see Thomas Loh
+at [22]).
+
+(c) Similar concerns were echoed in the course of the debate in the Straits
+Settlements Legislative Council on the Bill which was subsequently enacted as
+the Bankruptcy Ordinance. In particular, the then Attorney-General emphasised
+that “bankruptcy does not affect the creditors alone, but is a matter in which
+the community as a whole is interested”. The undischarged bankrupt will
+“labour under certain decided disadvantages”, including that “he will be
+incapable of maintaining an action without the previous sanction of the
+Official Assignee” (see Thomas Loh at [24]–[26]).
+
+19 As the Court of Appeal stressed, notwithstanding the more enlightened view
+prevailing in the community which acknowledges that businesses and personal
+undertakings can falter and/or fail for entirely legitimate reasons and that
+bankrupts should not be permanently stigmatised, there is no gainsaying the
+fact that Parliament nevertheless still considers it important that
+significant disabilities should continue to be imposed on bankrupts during
+their bankruptcy (see Thomas Loh at [27]). With this background in mind, it is
+clear that the requirement for “previous sanction of the Official Assignee”
+means “prior sanction and not retrospective sanction” [emphasis in original]
+(see Thomas Loh at [28]).
+
+20 Thus, unless the exceptions in s 131(1) of the BA (and now s 401(1) of the
+IRDA) applied, the bankrupt is incompetent to commence, continue, or defend
+“any action” without the previous sanction of the Official Assignee or the
+PTIB, as the case may be.
+
+21 In the present case, it is clear that OA 152 does not fall within either of
+the exceptions provided for in s 401(1)(a)(i). First, it is not “an action for
+damages in respect of an injury to the bankrupt’s person”. The Court of Appeal
+considered the substantially identical phrase in the context of s 131(1)(a) of
+the BA in Thomas Loh. The court held (at [42]) that such an action is
+“concerned with physical injury to the bankrupt’s body (which may include,
+inter alia, injury to the bankrupt’s mind such as nervous shock and
+psychological or psychiatric injury)” [emphasis in original]. OA 152 is
+clearly not an action concerned with any such physical injury to the
+appellant’s body. Second, OA 152 is also not a “matrimonial proceeding”, which
+is defined by s 401(4) to mean a proceeding under, among others, Parts 8, 9,
+or 10 of the Women’s Charter 1961 (2020 Rev Ed). As such, none of the
+exceptions to s 401(1)(a) apply to the appellant. The appellant must therefore
+seek the PTIB’s previous sanction before he can continue with OA 152. Since he
+has not done so, he cannot so continue, and SUM 2247 must be dismissed.
+
+22 For completeness, I also considered the appellant’s reliance on the High
+Court decision of Re Mohamed Yunos Valibhoy [1991] SGHC 91 (“Yunos”) for the
+proposition that the PTIB’s previous sanction is not needed for him to
+continue with OA 152. In that case, the High Court held that the word “action”
+as used in then s 38(1)(a) of the then prevailing Bankruptcy Act, was
+restricted to “legal proceedings to recover property vested in the Official
+Assignee under section 24(4) of the Bankruptcy Act”. The court had justified
+this approach on the basis that the word “action” is used only in respect of s
+38(1), in contrast to the wider expression, “action or other legal
+proceedings” used elsewhere in the Bankruptcy Act. For completeness, s
+38(1)(a) had read as follows:
+
+38.—(1) Where a bankrupt has not obtained his discharge —
+
+(a) the bankrupt shall be incompetent to maintain any action (other than an
+action for damages in respect of an injury to his person) without the previous
+sanction of the Official Assignee;
+
+As such, the appellant argued that because OA 152 is not an action to recover
+property vested in the PTIB but is rather an application for pre-action
+discovery, the PTIB’s previous sanction is not needed in the present case.
+
+23 I disagreed with the appellant’s argument because it is clearly
+incompatible with the plain meaning of s 401(1)(a) of the IRDA, in so far as
+the provision conveys an absolute prohibition on a bankrupt to commence,
+continue, or defend “any action” without the requisite sanction. The
+appellant’s argument was also plainly inconsistent with the legislative
+intention behind s 401(1)(a), which is to give the Official Assignee full
+control over the administration of the bankrupt’s estate for the benefit of
+creditors. I therefore also disagreed with the appellant that “any action”
+does not include an application for pre-action discovery or any such
+interlocutory application.
+
+24 Moreover, the High Court decision of Yunos has clearly been superseded by
+the Court of Appeal decision of Thomas Loh and subsequent decisions. As I
+alluded to above, the Court of Appeal was quite clear in Thomas Loh that the
+effect of s 131(1)(a) of the BA was to render the bankrupt incompetent to
+commence, continue, or defend “any action” without the previous sanction of
+the Official Assignee or the PTIB, subject only to the two exceptions found in
+s 131(1)(a)(i) of the BA. These observations are equally applicable to s
+401(1)(a)(i) of the IRDA. Indeed, the Court of Appeal in Ho Yu Tat Edward v
+Chen Kok Siang Joseph and another [2020] 1 SLR 1357 applied Thomas Loh and
+held (at [39] and [46]) that a bankrupt must “obtain the [Official Assignee’s]
+prior sanction even in respect of claims which do not vest in the [Official
+Assignee], so long as the claims do not fall within the exceptions listed in s
+131(1)(a) of the Singapore Bankruptcy Act” and that a bankrupt is “required to
+obtain the sanction of the [Official Assignee] before he commences ‘any
+action’… [which] includes claims which vest in the [Official Assignee] and
+claims that do not vest in the [Official Assignee]”. This last statement
+appears to have overruled Yunos, even if this was not made clear expressly.
+
+25 For all of these reasons, I dismissed SUM 2247, with the result that there
+was no further need to consider OA 152, which was not before me in any event
+pending the resolution of SUM 2247.
+
+26 At the hearing before me, Mr Lim then submitted that I should still stay
+the other matters and allow the appellant to seek the PTIB’s sanction to
+continue with OA 152. In essence, Mr Lim had asked me to keep OA 152 in
+abeyance pending the appellant’s resolution of the sanction issue with the
+PTIB. He explained that the PTIB had taken inconsistent positions as to
+whether its previous sanction was needed, and this was why the appellant had
+filed SUM 2247 to seek the court’s direction on this matter. However, the
+appellant has not exhibited these other correspondences with the PTIB in any
+of his affidavits. In fact, in the only letter that was exhibited dated 6 July
+2023, the PTIB reiterated that its previous sanction is needed for OA 152. In
+any event, even taking the appellant’s case at its highest, and that there was
+some uncertainty as to the PTIB’s position on the need for previous sanction,
+I did not think that I had the power under s 401(1) to keep OA 152 in abeyance
+once I decided that the PTIB’s previous sanction was needed. This is because s
+401(1) is quite clear on its face that a bankrupt is incompetent to commence,
+continue, or defend any action without such previous sanction. It must follow
+that once I decided that the appellant required such previous sanction but did
+not obtain it, he had become incompetent to continue with OA 152, such that
+the action falls away. As such, I then proceeded to hear the other four
+matters (excluding RA 131), for which I reserved my decision. I now give my
+decision and reasons below.
+
+SUM 268
+
+27 I turn first to SUM 268 ahead of the other matters since the appellant
+seeks to adduce fresh evidence that may affect the hearing of RA 343, RA 344,
+and RA 348. The evidence is contained in the appellant’s affidavit dated 1
+February 2023. According to the appellant, the evidence relates to “how the
+hearing of the [three] applications [before AR Tan] proceeded that morning and
+how natural justice was breached”. 2
+
+##### Foot Note 2
+
+×
+
+Appellant’s Written Submissions for RA 343, RA 344, and RA 348 dated 1
+February 2023 (“AWS”) at para 9.
+
+The evidence also explains “how the [a]ppellant is a person of means and is
+not insolvent and why a bankruptcy order against him should never have been
+made”. 3
+
+##### Foot Note 3
+
+×
+
+AWS at para 9.
+
+28 I begin with the applicable law. Whether it is the Rules of Court (2014 Rev
+Ed) (the “ROC 2014”) or Rules of Court 2021 that applies, and regardless of
+whether the applicable statutory provision prescribes as such (see, eg,
+“special grounds” in O 55D r 11(1) and O 57 r 13 of the ROC 2014), the courts
+have consistently imposed the threefold requirements set out in the seminal
+English Court of Appeal decision of Ladd v Marshall [1954] 1 WLR 1489 (“Ladd v
+Marshall”) (see, eg, the Court of Appeal decisions of Toh Eng Lan v Foong Fook
+Yue and another appeal [1998] 3 SLR(R) 833 at [34], ARW v Comptroller of
+Income Tax and another and another appeal [2019] 1 SLR 499 at [99], and Anan
+Group (Singapore) Pte Ltd v VTB Bank (Public Joint Stock Co) [2019] 2 SLR 341
+(“Anan Group”) at [21]). In this regard, the three requirements in Ladd v
+Marshall are:
+
+(a) first, it must be shown that the evidence could not have been obtained
+with reasonable diligence for use at the trial or hearing;
+
+(b) second, the evidence must be such that, if given, it would probably have
+an important influence on the result of the case, though it need not be
+decisive; and
+
+(c) third, the evidence must be such as is presumably to be believed, or in
+other words, it must be apparently credible, though it need not be
+incontrovertible.
+
+29 However, the Ladd v Marshall requirements do not apply with full force in
+all appeals. In this regard, the Court of Appeal in Anan Group set out a two-
+step analysis that a court should adopt in dealing with an application to
+adduce fresh evidence on appeal. At the first stage, the court should consider
+the nature of the proceedings below and evaluate the extent to which it bore
+the characteristics of a full trial. The cases should be analysed as lying on
+a spectrum as follows (see Anan Group at [35]).
+
+(a) On one end of the spectrum, there are appeals against a judgment after
+trial or a hearing bearing the characteristics of a trial, where the court
+should apply the Ladd v Marshall requirements in its full rigour.
+
+(b) On the other end of the spectrum, which consists of interlocutory appeals
+or appeals arising out of hearings which lack the characteristics of a trial,
+the court remains guided by the rule in Ladd v Marshall but is not obliged to
+apply it in an unattenuated manner.
+
+(c) However, for cases falling in the middle of the spectrum, which include
+appeals against a judgment after a hearing of the merits but which did not
+bear the characteristics of a trial, the court is to determine the extent to
+which the first requirement, ie, the criterion of non-availability, should be
+applied strictly. Relevant non-exhaustive factors include: (i) the extent to
+which documentary and oral evidence was adduced for the purposes of the
+hearing; (ii) the extent to which parties had the opportunity to revisit and
+refine their cases before the hearing; and (iii) the finality of the
+proceedings in disposing of the dispute between the parties.
+
+30 At the second stage, the court should determine whether there are any other
+reasons for which the Ladd v Marshall requirements ought to be relaxed in the
+interests of justice (see Anan Group at [37]–[55]). In any event, the court
+should conduct a balancing exercise between the interests of finality and the
+right of an applicant to put forth relevant and credible evidence, having
+regard to the considerations of proportionality and prejudice (see Anan Group
+at [59]).
+
+31 Bearing these principles in mind, in my judgment, SUM 268 should be
+dismissed.
+
+32 In the first place, I agree with the respondents that, properly considered,
+some of this so-called evidence is not really evidence. They are more akin to
+submissions. Therefore, SUM 268 should never have been made in the first place
+because there is no “evidence” to admit. Although the appellant is perfectly
+entitled to make his submissions about why he thought that natural justice was
+breached at the hearing below, he is not entitled to characterise these
+submissions as “evidence” and seek to “admit” as such.
+
+33 Even if I am wrong and the appellant is indeed seeking to adduce evidence,
+I find that the appellant has not satisfied the requirements of the Ladd v
+Marshall test. For present purposes, I find that the present case is one that
+falls in the middle of the spectrum identified in Anan Group, as the three
+applications before AR Tan involved a hearing of the merits but did not bear
+the characteristics of a trial. Having regard to the non-exhaustive factors
+suggested in Anan Group, I am satisfied that the criterion of non-availability
+should apply strictly in the present case. This is chiefly because the
+applications before AR Tan were intended to finally dispose of the dispute
+between the parties.
+
+34 I turn to examine the Ladd v Marshall requirements. First, I am satisfied
+that some parts of the appellant’s affidavit dated 1 February 2023 contained
+the appellant’s account of the hearing before AR Tan on 1 December 2022.
+Assuming that this constitutes “evidence”, which I do not think it is (see
+[32] above), this naturally would not have been available prior to the hearing
+on 1 December 2022. Be that as it may, the other parts of the affidavit, such
+as the documents annexed to the affidavit, have all been available prior to 1
+December 2022. The appellant has not explained why those documents could not
+have been obtained with reasonable diligence for use at the hearing before AR
+Tan. I therefore conclude that these documents fail the first requirement of
+the Ladd v Marshall test as to non-availability.
+
+35 Second, having perused AR Tan’s detailed minute sheets of the applications
+before him, I am satisfied that natural justice has not been breached. AR Tan
+accorded the appellant the full process of the law. I am also satisfied that
+the appellant has had ample opportunity to present his case before AR Tan and
+the Singapore courts, given the multiple applications that he has filed since
+the Judgment was granted on 11 December 2018. As such, I conclude that the
+appellant’s evidence in relation to the hearing before AR Tan fails the second
+requirement of the Ladd v Marshall test. It is irrelevant and will not have an
+important influence on the result of the present appeals.
+
+36 Third, I do not think that the appellant’s evidence that he is a person of
+means is relevant. If the appellant has the means to satisfy the SD, then it
+is inexplicable why he has not done so since it was issued in July 2019, or
+even paid the Judgment debt when it first arose in December 2018 to prevent
+the issuance of the SD. Indeed, it is irrelevant whether he is well-off or not
+because the basis of B 2425 is that the appellant has failed – either because
+he has no means or because he has intentionally refused – to satisfy the SD.
+In either scenario, the basis of the bankruptcy order made in B 2425, which is
+the appellant’s failure to satisfy the SD, is met. Even if that evidence is
+relevant, I am also not satisfied that the appellant has the means to satisfy
+the SD. Although he had asked for six weeks from AR Tan to bring in the funds
+to satisfy the SD on 1 December 2022, more than six months have now passed. If
+he indeed had the means to do so, the appellant could have easily raised the
+funds in this period to satisfy the SD and set aside the bankruptcy order
+against him. While Mr Lim submitted on the appellant’s behalf that the
+bankruptcy order affected the latter’s ability to pay, the fact remains that
+the appellant has had ample opportunity to pay up even before the bankruptcy
+order was made but chose not to do so. I therefore also conclude that this
+evidence fails the second requirement of the Ladd v Marshall test in that it
+will not have an important influence on the result of the present appeals.
+
+37 Fourth, the evidence which the appellant provides in his affidavit dated 1
+February 2023 as to his supposed means is not supported by adequate
+documentary evidence. Indeed, all that he states is the following (see
+paragraphs 21 and 22):
+
+21\. I have all the means to pay off the judgment debt. I am 100% owner of the
+Indian Ocean Group which is headquartered in Singapore with global operations
+in multiple regions – India, Sri Lanka, Maldives, the Middle East to name a
+few. It has business divisions spanning real estate, merchant trading
+distressed assets, technology, food processing and distribution. IOG, with the
+grace of God and its well-wishers, has a global workforce in excess of 500
+people on-date, across all its subsidiaries and associated entities.
+
+22\. In Singapore, IOG’s presence, to name a few, is in: -
+
+(a) FC Asia Pte Ltd (“FC Asia”), a pan-Asia plant food, e-commerce
+distribution business for food majors;
+
+(b) Energy and Environmental Engineering Pte Ltd (“EEEPL”), which owns the
+award-winning patented technology “Air-O-Water”, a solar microgrid design
+business, and a precision robotics and design engineering business;
+
+(c) D-Simlab Technologies Pte Ltd (“D-Simlab”), in which IOG has been its
+first pre-series A investor since 2012 and is a spin-out of A*STAR, which is a
+statutory board under the Ministry of Trade and Industry dedicated to
+fostering scientific research and knowledge-based economy; and
+
+(d) Ecosoftt Pte Ltd (“Ecosoftt”), a social enterprise where IOG led its
+convertible loan reset and its first capitalisation as a shareholder in 2015.
+In 2016, Ecosoftt went on to win the Zayed Sustainability Prize 2019.
+Exhibited in “PKB-1” at pages 198 to 199 is a Facebook post by Mr Masagos
+Zulkifli congratulating Ecosoftt. Ecosoftt is head-quartered at the Public
+Utilities Board.
+
+[emphasis in original]
+
+38 However, beyond some further elaboration of Indian Ocean Group’s presence
+in Singapore, as well as a Facebook post of Minister Masagos Zulkifli
+“congratulating” one of the local companies, 4
+
+##### Foot Note 4
+
+×
+
+Affidavit of Pradeepto Kumar Biswas for HC/SUM 268/2023 dated 1 February 2023
+at pp 198–199.
+
+the appellant has provided no evidence on the financial status of any of these
+companies, nor has he even exhibited any documentary proof of his ownership of
+Indian Ocean Group. I therefore conclude that this evidence also fails the
+third requirement of the Ladd v Marshall test in that it is not apparently
+credible.
+
+39 For these reasons, I dismiss SUM 268.
+
+RA 343 and RA 348
+
+40 I turn then to RA 343 and RA 348, which both relate to the stay and
+dismissal of B 2425 on the common ground that the Judgment is “false”, and
+that the SD is defective.
+
+41 I dismiss both RA 343 and RA 348 because these issues have been considered
+and dismissed by the courts on various occasions. As such, the appellant is
+precluded by the doctrine of issue estoppel from relitigating these very
+issues (see the High Court decision of CKR Contract Services Pte Ltd v
+Asplenium Land Pte Ltd and others [2020] 5 SLR 665 at [43] and the Court of
+Appeal decision of Miao Weiguo v Tendcare Medical Group Holdings Pte Ltd
+(formerly known as Tian Jian Hua Xia Medical Group Holdings Pte Ltd) (in
+judicial management) and another [2022] 1 SLR 884 at [179]). It is aptly clear
+that the requirements of issue estoppel are satisfied in the present case. In
+RA 343 and RA 348, the appellant is seeking, respectively, a stay and
+dismissal of B 2425 on the grounds that the Judgment is “false”, and that the
+SD is defective. Yet, as I have recounted at length above, these issues have
+been extensively considered and dismissed by the courts. Indeed, I find that
+the appellant’s repeated attempts to relitigate these issues before the courts
+to be a clear abuse of process designed to vex the respondents.
+
+42 Further, in relation to RA 343, I also find that the appellant has not
+discharged his burden of justifying a stay of B 2425. It is clear that under s
+315 of the IRDA, the court can stay bankruptcy proceedings. In this regard,
+the applicable standard that an applicant seeking a stay needs to satisfy is
+the same as that for resisting an application for summary judgment. Thus, the
+appellant in the present case must raise triable issues (see the Court of
+Appeal decision of Mohd Zain bin Abdullah v Chimbusco International Petroleum
+(Singapore) Pte Ltd and another appeal [2014] 2 SLR 446 (“Chimbusco”) at [16]
+and [18]). However, it is not enough for the appellant to simply allege a
+triable issue without more. As the Court of Appeal observed in Chimbusco (at
+[30]), “it will not suffice for a debtor to raise spurious allegations in
+order to fend off bankruptcy proceedings”. While the court made these
+observations in the context of ss 64, 65(5), and 65(6) of the BA, these
+provisions are substantively similar to ss 315, 316(5), and 316(6) of the
+IRDA, and therefore remain highly relevant in the interpretation of these
+provisions. Moreover, where there is a judgment debt, the applicant has a more
+onerous burden and must raise more than triable issues (see the High Court
+decision of Seto Wei Meng (suing as the administrator of the estate and on
+behalf of the dependants of Yeong Soek Mun, deceased) and another v Foo Chee
+Boon Edward [2021] SGHCR 5 at [35] and [40]).
+
+43 Applied to the present case, the appellant’s claim, taken at its highest,
+is that the discovery of the so-called Pacatolus Documents would prove that
+the Pacatolus Fund did exist. In this regard, I agree with AR Tan that Ang J
+did not make any finding in S 1270 that the Pacatolus Fund did not exist.
+Thus, the discovery of the Pacatolus Documents would not prove that the
+respondents had committed perjury at the trial or S 1270. More fundamentally,
+such discovery would also not disturb Ang J’s decision in S 1270. As AR Tan
+rightly observed, Ang J’s decision on the appellant’s liability in relation to
+the Pacatolus Fund was based on the following findings: (a) that the appellant
+had breached his fiduciary duties to the respondents by his conduct after the
+respondents invested in the Pacatolus Fund; and (b) that the appellant was
+liable in deceit as he had made fraudulent misrepresentations to the
+respondents in relation to the Pacatolus Fund investment. These reasons have
+nothing to do with a finding that the Pacatolus Fund did not exist. Thus, the
+appellant has not even raised any triable issue in relation to the Judgment,
+let alone met the more onerous standard to obtain a stay in respect of the
+Judgment debt.
+
+44 Moreover, the appellant has not challenged his liability in respect of the
+other investments in S 1270, which amount to a total principal sum of US$1.2m.
+This sum is still part of the subject matter of the SD that remains
+unsatisfied. Thus, even if the appellant is correct that Ang J had made a
+finding of fact on the non-existence of the Pacatolus Fund, he would still be
+made a bankrupt by virtue of him not contesting his liability for this sum of
+US$1.2m.
+
+45 Accordingly, I dismiss RA 343 and RA 348.
+
+RA 344
+
+46 I also dismiss RA 344 because the appellant has not raised any other
+argument, apart from those in RA 343 and RA 348, in relation to AR Tan’s
+decision to grant the bankruptcy order in B 2425. Indeed, in the appellant’s
+written submissions, it is stated that “SUM 3718/2022 (stay) and SUM 4306/2022
+(Dismissal of bankruptcy application) also goes [sic] to the heart of the
+Statutory Demand and the bankruptcy application”. 5
+
+##### Foot Note 5
+
+×
+
+AWS at para 12.
+
+It therefore must follow the dismissal of RA 343 and RA 348, and the
+substantial grounds therein, that RA 344 is also dismissed.
+
+Miscellaneous points
+
+47 For completeness, I address two miscellaneous points that the appellant
+raises in his written submissions.
+
+48 First, the appellant argues that the SD was in breach of “[rr] 64(1)(e) and
+(2) of [the Insolvency, Restructuring and Dissolution (Personal Insolvency)
+Rules 2020]”, 6
+
+##### Foot Note 6
+
+×
+
+AWS at para 14.
+
+which provides as follows:
+
+Form and contents of statutory demand
+
+64.—(1) A statutory demand —
+
+…
+
+(e) if the creditor making the statutory demand holds any property of the
+debtor or any security for the debt, must specify —
+
+(i) the full amount of the debt; and
+
+(ii) the nature and value of the property or the security; and
+
+…
+
+(2) If the creditor making the statutory demand holds any property of the
+debtor or any security for the debt, the amount of the debt of which payment
+is claimed is the full amount of the debt less the amount specified in the
+statutory demand as the value of the property or security.
+
+[emphasis added]
+
+I fail to see the relevance of this provision. In any case, beyond citing this
+provision and making a bare assertion that the SD is in breach of it, the
+appellant does not explain why the SD is in breach of the provision.
+
+49 Second, the appellant argues that AR Tan was wrong in not granting the six
+weeks which he requested for in order to bring in sums to satisfy the SD. The
+appellant then says that he has satisfied the three grounds in r 95(2) of the
+PIR 2020, which sets out the grounds on which a bankruptcy hearing can be
+adjourned. I fail to see the relevance of this because the appellant has not
+appealed against AR Tan’s decision to not adjourn the hearing of B 2425.
+
+Conclusion
+
+50 For the reasons above, I dismiss SUM 2247, SUM 268, RA 343, RA 344, and RA
+348. I make no order as to RA 131 as it is moot. In conclusion, I agree with
+the respondents that they have had to contend with the appellant’s numerous
+applications over the years to deprive them of their fruits under the
+Judgment. As the courts have repeatedly found, the appellant’s applications
+are clearly intended to vex the respondents and constitute a clear abuse of
+process. Indeed, as I said above, I find that the present matters before me
+were also commenced by the appellant in abuse of process. These are all
+baseless and spurious attempts to delay the enforcement of the Judgment and
+the ensuing bankruptcy order in B 2425.
+
+51 I also observe that the appellant had in the hearing before AR Tan labelled
+the court’s decision as a “sham judgment and order” and stated that the courts
+are “corrupt” and “enforced [sic] in sham exercises” and that AR Tan is a
+“corrupt judge”. While the appellant had appeared in person before AR Tan,
+when he had not been represented by solicitors, these are clearly unacceptable
+and improper statements about the Singapore courts. At the hearing before me,
+I pointed these statements out to Mr Lim, who appeared for the appellant.
+While Mr Lim acknowledged that these were clearly unacceptable and improper
+statements and said that he will speak to the appellant about this, I observed
+to him that the appropriate actions may still be taken against the appellant.
+
+52 In closing, the parties are to tender their written submissions on costs,
+limited to seven pages each, within 14 days if this decision. If the parties
+do not tender their written submissions on time, the court will proceed to
+make the appropriate costs order regardless without any further notice.
+
+Goh Yihan  
+Judicial Commissioner|  
+---|---  
+  
+See Chern Yang, Cheng Hiu Lam Larisa and Joshua Quek Wen Chieh (Drew & Napier
+LLC) for the plaintiffs in HC/B 2425/2021 and the third and fourth respondents
+in HC/OA 152/2022;  
+Lim Tean (Carson Law Chambers) for the defendant in HC/B 2425/2021 and the
+claimant in HC/OA 152/2022;
+
+Chan Daniel, Yu Zheng Yi Victoria and Ang Guo Qiang (WongPartnership LLP) for
+the first respondent in HC/OA 152/2022;
+
+Tham Hsu Hsien, Lim Jie Hao Sampson and Abigail Anousha Fernandez (Allen &
+Gledhill LLP) for the second respondent in HC/OA 152/2022;
+
+Brenda Chow (RSM Corporate Advisory Pte Ltd) for the private trustee in HC/OA
+152/2022.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 15 Sep 2023 (12:05 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

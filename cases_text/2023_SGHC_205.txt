@@ -1,0 +1,2432 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+IN the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 205
+
+Suit No 907 of 2021
+
+Between
+
+| Pro-Active Engineering Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Prime Structures Engineering Pte Ltd  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Building and Construction Law — Building and construction contracts]
+
+[Building and Construction Law — Contractors’ duties — extension of time and
+liquidated damages]
+
+[Building and Construction Law — Damages — Delay in completion]
+
+[Building and Construction Law — Damages — Failure to complete]
+
+[Building and Construction Law — Scope of work — Variations]
+
+[Building and Construction Law — Back charges]
+
+[Civil Procedure — Discontinuance]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Pro-Active Engineering Pte Ltd
+
+  
+v
+
+  
+
+Prime Structures Engineering Pte Ltd
+
+[2023] SGHC 205
+
+General Division of the High Court — Suit No 907 of 2021  
+Lai Siu Chiu SJ  
+6–8 December 2022, 28 February, 2 May 2023
+
+31 July 2023 Judgment reserved.
+
+Lai Siu Chiu SJ:
+
+Introduction
+
+1 In Suit 907 of 2021 (“this suit”), Pro-Active Engineering Pte Ltd (“Pro-
+Active”) is suing Prime Structures Engineering Pte Ltd (“Prime”) for
+$558,559.97 (“the claim”) arising out of works carried out on a building known
+as SOUTHERNWOOD located at No 79 Robinson Road, Singapore (“the project”). The
+completed project is now known as CapitaSky.
+
+2 The developer of the project was Capitaland and the main contractor was
+Shimizu Corporation (Singapore) Ltd (“Shimizu”). One of Shimizu’s contractors
+was Positive Engineering Pte Ltd (“Positive”) while one of its subcontractors
+was Prime which was contracted to provide engineering works for the project.
+
+3 In turn, Prime engaged Pro-Active to supply, fabricate and install steel
+works for part of the project. This was done by way of a letter of appointment
+dated 9 January 2019 from Prime to Pro-Active (“the LOA”) 1
+
+##### Foot Note 1
+
+×
+
+See Agreed Bundle (“AB”) at AB14–19.
+
+which both parties countersigned in February 2019 2
+
+##### Foot Note 2
+
+×
+
+See AB19.
+
+.
+
+4 Under the terms of the LOA, Pro-Active would be paid $1,161,204.58 (“the
+contract sum”) for its scope of works which was to supply, fabricate and
+install steel works at the shopfront, roof crown, sky terrace and roof
+trellis/screen (“the contracted works”) which were located on the first,
+second, twenty-first and twenty-eight floors. Henceforth, where reference is
+made to the “roof crown works”, it will mean the roof crown steel works
+contracted by Pro-Active. The contracted works would commence on 9 January
+2019 and were to be completed on or before 30 June 2019. The contracted works
+would be subject to re-measurement with payment to be based on the actual
+works carried out. The court will return to the LOA and its material terms
+later in the course of the judgment. It should be noted that it was Pro-
+Active’s case that it carried out variation works for the project as well.
+
+5 The person in charge of the contracted works for Pro-Active was its project
+manager Kuon Yee Yen (“Kuon”) who is known as Gary while Prime’s persons in
+charge were its project director Yap Wai Keong (known as “Frankie”) and its
+project manager Wong Junjie Andrew (“Andrew”).
+
+6 Under the original schedule for the contracted works, the following were the
+timelines:
+
+(a) 18 July to 3 September 2019 – fabrication and supply of steel columns;
+
+(b) 14 August to 21 September 2019 – delivery of steel columns to Singapore
+from China; and
+
+(c) 2 September to 10 October 2019 – installation of steel columns.
+
+Pro-Active failed to meet the above timelines as well as the completion
+timeline of 30 June 2019 in [4] for reasons which are set out below.
+
+7 In his affidavit-of-evidence-in-chief (“AEIC”), Kuon affirmed 3
+
+##### Foot Note 3
+
+×
+
+In para 20.
+
+that he decided to, and did, source the materials for the roof crown works
+from China, in particular from a steel supplier in Qingdao called Qingdao
+Eternity Industry Co Ltd (“Qingdao Co”). He informed Prime which informed
+Shimizu in turn on 12 July 2019. On 15 July 2019, Shimizu e-mailed Prime with
+a list of queries and its concerns about the quality of steel purchased from
+China. Prime replied on the same day to allay Shimizu’s concerns.
+
+8 On 30 August 2019, Prime sent Pro-Active a list of instructions/inquiries
+and requirements in regard to the roof crown works. These were:
+
+(a) Prime would hire a neutral third party (“the third party”) to ensure that
+all steel supplied and fabricated by Qingdao Co complied with specifications;
+
+(b) where would the third party be staying while in China and what provisions
+would be made for his transport and meals;
+
+(c) Pro-Active had to confirm the standard and grade of steel to be used;
+
+(d) Pro-Active was to confirm the date five days before the factory viewing
+appointment; and
+
+(e) after the first factory visit, Pro-Active was to courier to Singapore a
+list of materials for testing.
+
+Kuon claimed he complied with Prime’s requirements in order to proceed with
+the contracted works.
+
+9 On 5 September 2019, Andrew sent a lengthy e-mail to Pro-Active setting out
+instructions on works to be done, how they were to be carried out, when the
+works were to be completed and to cease certain steel works pending approval
+by the Building and Construction Authority (“BCA”). In regard to the roof
+crown works, Andrew warned Pro-Active that the owner was considering revoking
+those works from Pro-Active’s scope of works if not for the fact that Prime
+said it had purchased the steel. Andrew added that there were strong
+objections to Pro-Active’s request to fabricate the steel for the roof crown
+works in China. He also referred to Pro-Active’s slow progress, warning Pro-
+Active that Capitaland may exercise their right to liquidated damages for the
+delay.
+
+10 Around 29 October 2019, Prime instructed Pro-Active to carry out certain
+works for the roof crown beams which included installing bigger baseplates
+without holes on the trusses which were to be fabricated by Qingdao Co. Pro-
+Active took this conduct as a sign that Prime did not object to Pro-Active’s
+sourcing for materials in China for the roof crown works.
+
+11 In or about early December 2019, Kuon went to China to supervise the
+fabrication of materials for the roof crown works. However, after the
+materials he ordered had been shipped on 25 December 2019 to Singapore, he
+alleged that he received a call from Prime telling him that Pro-Active no
+longer needed to do the roof crown works. Kuon was shocked as days earlier, he
+was in communication with Prime on securing nuts and bolts for the roof crown
+works. He had even sent a summary list of the nuts and bolts meant for those
+works. He claimed there was no prior indication that Prime intended to
+terminate the services of Pro-Active.
+
+12 As such, in Kuon’s AEIC 4
+
+##### Foot Note 4
+
+×
+
+At para 29.
+
+, he argued that the roof crown works should be deducted from Pro-Active’s
+scope of works and the amount deducted from the contract sum which should then
+be adjusted, to reflect the actual works done by Pro-Active. He pointed out
+that the contracted works were a re-measurement contract in any case. It
+should be noted at this stage that the materials purchased from Qingdao Co for
+the roof crown works were paid by a letter of credit (“the L/C”) established
+by Prime at Pro-Active’s request as the latter did not have the means to make
+payment.
+
+13 The upshot of the communication between Pro-Active and Prime was that in
+and after December 2019, Pro-Active stopped doing any work relating to the
+roof crown and Prime and/or Shimuzu arranged for the roof crown works to be
+carried out by another subcontractor Kong Hwee Iron Works & Construction Pte
+Ltd (“Kong Hwee”).
+
+14 Kuon’s AEIC 5
+
+##### Foot Note 5
+
+×
+
+At paras 38, 39, 41 and 42.
+
+alleged that Pro-Active carried out additional/variation works for Prime on
+the project. In that regard, the parties entered into a Variation Order dated
+6 January 2020 6
+
+##### Foot Note 6
+
+×
+
+See AB537.
+
+(“the Variation Order”). Kuon disclosed that Pro-Active had been paid for some
+of the variation works in the progress claims that he submitted. The variation
+works were initially estimated to amount to $1,351,320.95. Kuon alleged that
+Pro-Active’s works were delayed by Prime’s delay in making payment on Pro-
+Active’s progress claims. This allegedly led to financial difficulties for
+Pro-Active and affected the latter’s materials procurement, its payment of
+salaries and expenses, and its payments to its suppliers. Kuon complained that
+it was unfair for Prime to charge Pro-Active for delay when the delay was
+caused by Prime’s requests for additional works. The court will return to the
+issue of variation works and delay later in the judgment.
+
+15 Kuon added 7
+
+##### Foot Note 7
+
+×
+
+At para 45 of his AEIC.
+
+that Pro-Active would have completed the contracted works on time if not for
+Prime’s delayed payments. He claimed that Pro-Active, by 14 February 2020, had
+only 10% of its scope of works left to be completed. Kuon alleged 8
+
+##### Foot Note 8
+
+×
+
+Ibid para 49.
+
+Prime was still giving instructions to vary the scope of the contracted works
+after the contractual completion deadline. He added that in so doing, Prime
+gave Pro-Active the impression that the project’s completion date would be
+pushed back.
+
+16 Pro-Active disputed the back charges Prime levied on Pro-Active, part of
+which related to installation costs charged to Prime by Shimizu for the roof
+crown works carried out by Kong Hwee. Another item of back charge related to
+interest charged on extending the L/C 9
+
+##### Foot Note 9
+
+×
+
+See AB326.
+
+to pay for the roof crown materials from China.
+
+17 In his AEIC 10
+
+##### Foot Note 10
+
+×
+
+At para 59.
+
+, Kuon asserted that Pro-Active had completed all the contracted works (save
+for the omitted roof crown works). The project’s Temporary Occupation Permit
+(“TOP”) was issued on 28 April 2020. Consequently, Pro-Active should be paid
+for the contracted works as well as for the additional variation works Prime
+requested. Kuon deposed that Prime had paid Pro-Active $822,011.15 leaving the
+claim amount as the balance outstanding on the contract sum. As for variation
+works, Pro-Active claimed $679,443.35.
+
+18 When Pro-Active did not receive payment of the two sums in [17], it
+commenced proceedings in this Suit.
+
+The pleadings
+
+19 On 6 November 2021, Pro-Active filed the writ of summons in this suit. In
+its statement of claim (“SOC”), Pro-Active referred to and relied on the terms
+of the LOA, in particular clauses 1.2 (on re-measurement), 5 (on progress
+payments) and 5.5 (on retention moneys) for its claim.
+
+20 The computation by Pro-Active for its claim is as follows:
+
+Description| Amount  
+---|---  
+(i) Contracted works (less the roof crown works)| $666,978.46  
+(ii) Variation works| $677,051.35  
+Sub-total| $1,344,029.81  
+Less:|  
+(i) Payments received| $822,011.15  
+Sub-total| $522,018.66  
+Add:|  
+7% Goods and Services Tax (“GST”)| $36,541.31  
+Balance| $558,559.97  
+  
+21 In the alternative, Pro-Active claimed damages on a quantum meruit basis,
+quantified based on the claimed sum of $558,559.97.
+
+22 Apart from one paragraph 11
+
+##### Foot Note 11
+
+×
+
+At para 8.
+
+in the SOC, Pro-Active made no reference to the removal of the roof crown
+works from Pro-Active’s scope of works. In para 8, Pro-Active averred that
+some time in December 2019, it was instructed by Prime that its services were
+no longer required for the roof crown works. Consequently, Pro-Active deducted
+that portion from the contracted works.
+
+23 In contrast to the brief SOC, Prime filed a lengthy defence and
+counterclaim (“D&CC”). Other than the clauses Pro-Active referred to in the
+SOC which were alluded to earlier at [20], Prime relied on other clauses in
+the LOA. These included clause 4.1 (on liquidated damages), clause 5.7 (on
+right of set-off), clause 8 (requirement of weekly progress reports) and
+clause 9 (on default by Pro-Active). Prime also cited clause 1(b)(i) of
+Appendix C to the LOA wherein Pro-Active has to indemnify Prime for costs,
+claims, damages etc if Pro-Active fails to perform in accordance with the LOA.
+
+24 Prime averred that the final contract sum for Pro-Active’s scope of works
+(including variation works) was $2,512,531.53.
+
+25 Prime denied that it had instructed Pro-Active that its services were no
+longer required for the roof crown works. Consequently, Pro-Active was not
+entitled to remove all costs in relation thereto ($494,232.12) from the
+contracted works as well as from the variation works. 12
+
+##### Foot Note 12
+
+×
+
+See para 11 of the D&CC.
+
+26 Prime alleged that in or around December 2019 it because apparent that Pro-
+Active was unable to carry out works relating to the roof crown. Prior
+thereto, Prime had issued multiple delay notices (in September and October
+2019) to Pro-Active relating to the contracted and variation works. Shimizu
+had informed Prime that if the roof crown works could not be carried out,
+Shimizu would take over the same and charge Prime for all the costs thereby
+incurred.
+
+27 Prime issued a catch-up schedule to Pro-Active on 6 December 2019 but
+Shimizu informed Prime on the same day that it had no confidence in Pro-
+Active’s carrying out the installation component of the roof crown works. As
+such, Shimizu would hire its own contractor to carry out the installation
+component of the roof crown works and Shimizu would set-off the costs against
+payment due to Prime. In turn, Prime informed Pro-Active on 9 December 2019
+that it would invoice Pro-Active for the costs Shimizu charged to Prime for
+the installation component of the roof crown works.
+
+28 Prime denied it owed any money to Pro-Active and asserted it had paid Pro-
+Active $1,581,681.15 as follows:
+
+(a) $45,557.69 as advance payment;
+
+(b) $765,875.00 for the L/C; and
+
+(c) $770,248.46 as progress payments.
+
+29 Prime alleged that Pro-Active breached the LOA as it was unable to carry
+out the installation component of the roof crown works including the variation
+works. As a result, Prime suffered loss and damage as Shimizu back charged
+Prime $1,018,678.49 for those works:
+
+(a) Installation costs for the roof crown: $582,483.66
+
+(b) Back charges: $436,194.83
+
+$1,018,678.49
+
+Prime contended it was entitled to set off the sum of $1,018,678.49 against
+Pro-Active’s claim which resulted in Pro-Active owing $93,976.08 as seen in
+the following breakdown 13
+
+##### Foot Note 13
+
+×
+
+See para 15 of the D&CC.
+
+:
+
+No| Item| Amount  
+---|---|---  
+1| Total contract sum | $2,512,531.53  
+2| Total sum paid to Pro-Active | $1,581,681.15  
+| Balance| $930,850.38  
+3| Total sum claimed against Pro-Active| $1,018,678.49  
+| Shortfall ($1,018,678.49 - $930,850.38)| $87,828.11  
+4| Add 7% GST | $6,147.97  
+| Total | $93,976.08  
+  
+30 Prime averred that Pro-Active was in delay for the contracted works as well
+as the variation works and failed to complete the same by the prescribed
+completion date of 29 November 2019. Pro-Active only completed all the works
+on 4 January 2020. Consequently, Prime claimed liquidated damages against Pro-
+Active for 36 days of delay amounting to $90,450.92 (based on 0.1% of the
+total contract sum per day). Prime’s claim therefore totalled $1,109,129.41
+($1,018,678.49 + $90,450.92).
+
+31 In its Reply and Defence to the Counterclaim (“R&DCC”) 14
+
+##### Foot Note 14
+
+×
+
+At para 4 of the R&DCC.
+
+, Pro-Active not surprisingly disputed Prime’s allegation that it did not
+instruct Pro-Active that the latter’s services were not required for the roof
+crown works.
+
+32 Pro-Active further denied Prime’s counterclaim for the back charges
+rendered by Shimizu and Prime’s claim to a set-off and liquidated damages.
+Pro-Active asserted that even if it did not complete the contracted works by
+29 November 2019 (which it denied), it was not liable for any liquidated
+damages due to various acts of prevention by Prime and/or variation works that
+Prime instructed which caused delay to Pro-Active’s contracted works.
+
+33 Pro-Active relied on Prime’s Variation Order No VO3 dated 6 January 2020 15
+
+##### Foot Note 15
+
+×
+
+At AB537.
+
+as evidence of Prime’s instructions on variation works. Pro-Active listed ten
+items of variation works that Prime allegedly instructed Pro-Active to carry
+out. Since there was no extension of time clause in the LOA, Pro-Active
+contended that time was at large and Prime was not entitled to impose
+liquidated damages on pro-Active. 16
+
+##### Foot Note 16
+
+×
+
+At para 7(c) of the R&DCC .
+
+34 In the alternative, Pro-Active averred 17
+
+##### Foot Note 17
+
+×
+
+Ibid para 9.
+
+that by issuing instructions to Pro-Active after 29 November 2019 (at [33]),
+Prime had communicated its intention to continue with the LOA notwithstanding
+Pro-Active’s alleged failure to complete the contracted works by 29 November
+2019.
+
+35 Consequently, Pro-Active denied Prime was entitled to any relief claimed in
+its counterclaim. Prior to the commencement of trial, Prime indicated it would
+discontinue its counterclaim and leave the issue of costs of discontinuance to
+the court to determine.
+
+The evidence
+
+36 Four witnesses testified at the trial of this Suit. Kuon was Pro-Active’s
+only witness while Prime had three witnesses who were its managing-director
+Sonny Bensily (“Sonny”), its project director Frankie and its project manager
+Andrew (see [5] above).
+
+(i) Pro-Active’s case
+
+37 The court turns to Kuon’s cross-examination for the additional facts that
+were adduced in this Suit as his AEIC contained more arguments in meeting
+Prime’s D&CC than facts. During cross-examination, Kuon did not dispute the
+obligations of Pro-Active as set out in the LOA and which Prime relied on in
+the D&CC 18
+
+##### Foot Note 18
+
+×
+
+See Kuon’s cross-examination at transcripts on 6 December 2022 at pp 15 and
+24–25.
+
+. He further agreed that Pro-Active’s contract was a re-measurement contract
+19
+
+##### Foot Note 19
+
+×
+
+Ibid p 22.
+
+. However, he repeatedly insisted that as Pro-Active did not carry out the
+roof crown works, those works should simply be taken out of Pro-Active’s scope
+of works and deducted from the contract price (to which Prime disagreed).
+
+38 On the issue of delay, Kuon’s attention was drawn to Andrew’s e-mail to
+Pro-Active dated 5 September 2019 20
+
+##### Foot Note 20
+
+×
+
+Exhibited at p 85 of Kuon’s AEIC.
+
+which set out detailed instructions to Kuon for various types of work on
+various floors. The e-mail contained the following extracts:
+
+You are advised of the following schedule which we have managed to plead from
+capital land, deference or slow progress and they will exercise their
+liquidated damage right. Originally we are to handover Lv 2 to them partially
+from 30th Sept
+
+…
+
+With this instructions (sic) and schedules, I hope this can guide you towards
+planning to finish your contractual works onsite.
+
+Despite the clear wording in the above extracts, Kuon disputed Pro-Active was
+in delay in the contracted works. He said he did not reply to Andrew’s e-mail
+as he chose instead to complete the outstanding works as soon as possible.
+
+39 The schedule of works for the roof crown on the 28th floor was exhibited in
+Andrew’s AEIC 21
+
+##### Foot Note 21
+
+×
+
+At WJJA-1 at pp 11 and 12.
+
+. His AEIC also contained e-mails from Prime to Pro-Active 22
+
+##### Foot Note 22
+
+×
+
+At pp 20–22.
+
+that showed the latter was informed on 22 August 2019 that approval from the
+relevant authorities had been obtained for the roof crown works and Pro-Active
+was instructed “to proceed to start the purchase & fabrication of the roof
+crown steel works”. Then on 30 August 2019 23
+
+##### Foot Note 23
+
+×
+
+At pp 37–38 of his AEIC.
+
+, Andrew e-mailed Pro-Active to inquire about fabrication of the roof crown
+materials in China. He further inquired about the proposed visit on 9
+September 2019 to the Chinese factory producing the materials by a checker
+from Arup Singapore Pte Ltd (“Arup”) and representatives from Prime and
+Capitaland. After the inspection, Andrew required Pro-Active to courier to
+Singapore for testing the raw steel and galvanised steel to be fabricated to
+ensure the latter complied with the specifications S355 and Q345.
+
+40 On 31 October 2019 24
+
+##### Foot Note 24
+
+×
+
+Ibid at pp 41–42.
+
+, Andrew e-mailed to Pro-Active a formal delay notice citing three instances
+of delayed works for the contracted works at level 2. Prime gave notice that
+unless Pro-Active showed immediate and considerable improvement, Prime would
+be forced to terminate Pro-Active’s services and find a replacement
+contractor. Cross-examined, Kuon did not deny the delay 25
+
+##### Foot Note 25
+
+×
+
+See transcripts on 6 December 2022 at p 38.
+
+but pointed out it had nothing to do with the roof crown works. He did not
+reply but decided to resolve the delay issue by adding more manpower to
+expedite the outstanding works. To Kuon, the letter was “just any other normal
+letter” 26
+
+##### Foot Note 26
+
+×
+
+Ibid p 39.
+
+and Kuon took it as a need for him to ramp up his manpower resources. He
+further claimed there were no other letters informing Pro-Active of delays to
+works on levels 1 and 2 and even on the 21st floor. Kuon disagreed the letter
+constituted a final warning to Pro-Active. He added that Pro-Active completed
+the scheduled works in November or December 2019.
+
+41 Kuon was then confronted with Andrew’s e-mail dated 6 December 2019 27
+
+##### Foot Note 27
+
+×
+
+At pp 45–46 of Andrew’s AEIC.
+
+where Andrew noted Pro-Active only had eight workers on-site on 5 December
+with five workers on night shift, even though there were three main areas of
+work and that was “the last straw”. Andrew added
+
+I’m also tired of arranging supply workers for you and using yabo men to
+falsely cover up your manpower.
+
+Andrew’s reference to “Yabo” was to another subcontractor of Prime. Despite
+Andrew’s aforesaid e-mail, Kuon disagreed inadequate manpower was one reason
+for the delay in Pro-Active’s works. 28
+
+##### Foot Note 28
+
+×
+
+See transcripts on 6 December 2022 at p 49.
+
+42 Adding to Pro-Active’s woes, Prime had as far back as July 2019, e-mailed
+Kuon 29
+
+##### Foot Note 29
+
+×
+
+See pp 15–19 of Andrew’s AEIC.
+
+that Prime’s quality assessor/control engineer had issued non-conformance
+reports (“NCR”) against Pro-Active for missing anchor bolts/nuts and rusty
+bolts/nuts. Koun continued to maintain his disagreement 30
+
+##### Foot Note 30
+
+×
+
+See transcripts on 6 December 2022 at pp 50–51.
+
+pointing out that the issuance of an NCR was not a performance issue. NCRs
+were to Kuon part of an entire process and very common. It was the
+responsibility of the quality assessor/engineer to bring such NCRs to his
+notice for rectification before the time of inspection arrives.
+
+43 It did not help Pro-Active that there was subsequently a delay notice
+addressed to Sonny and Frankie by Shimizu’s project manager on 3 December 2019
+relating to the roof crown works 31
+
+##### Foot Note 31
+
+×
+
+See p 43 of Andrew’s AEIC.
+
+. This was after the inspection of the factory in China as is apparent from
+the extracts set out below from Shimizu’s e-mail:
+
+We were very disappointed after the visit to China factory. The first batch of
+material for Zone C (6 sets) was expected to be loaded for shipment to
+Singapore ETA on 29 Nov. 19 but was still in the process of welding and
+fabrication, not even 1 set was painted.
+
+Zone A materials (6 sets) were shown to our representatives, Mr. Bablu and Mr.
+Yokota but cannot tell if they are fully accountable. There are no sign of
+Zone B material.
+
+These have totally deviated from your plan submitted to us on 11 Nov. 2019.
+
+Although Kuon admitted he sourced for the factory, he disagreed that he failed
+to ensure that the fabrication and supply was on schedule. Kuon claimed that
+Prime, and Andrew in particular, was in close contact and liaised direct with,
+Qingdao Co. However, because he was originally in charge of doing the
+installation, Kuon claimed he took the initiative to make sure the materials
+would arrive in Singapore in time for the installation. He merely acted as a
+coordinator to ensure the materials were shipped to Singapore 32
+
+##### Foot Note 32
+
+×
+
+See transcripts on 6 December 2019 at p 44.
+
+.
+
+44 Kuon maintained his stand even when Pro-Active installed undersized steel
+frames, according to an e-mail from Shimizu to Andrew dated 28 August 2019. 33
+
+##### Foot Note 33
+
+×
+
+At pp 25–36 of Andrew’s AEIC.
+
+45 Kuon’s attention was drawn to Andrew’s e-mail to Kuon, with Sonny and
+Frankie as recipients as well, on 6 December 2019, setting out a catch-up
+schedule with a delay of seven days to the original date of 30 January 2020.
+Andrew added that there was a need for three fabrication factories and a
+separate factory for painting was required.
+
+46 On 13 December 2019 34
+
+##### Foot Note 34
+
+×
+
+See AB882.
+
+, Shimizu rejected Prime’s programme to finish the installation portion of the
+roof crown works by February 2020. Shimizu cited the reason for the delay to
+works on levels 1, 2 and 21 to be due to poor performance and shortage of
+manpower. Questioned, Kuon claimed he was in China when Shimizu’s e-mail was
+received. He said there was no discussion about a third party contractor
+taking over the roof crown works because while he was in China, the focus then
+was on the schedule of work and arranging for the materials to be shipped to
+Singapore. Kuon added he did not receive any delay notice either from Prime or
+Shimizu. He claimed he was unaware of Shimizu’s meeting with Prime on 12
+December 2019 and denied he was told by Frankie in a telephone call after that
+meeting that Pro-Active need not carry out the installation component of the
+roof crown works.
+
+47 Kuon claimed that Frankie had informed him only on or about 15 December
+2019 that Shimizu was considering looking for another subcontractor (Kong
+Hwee). Andrew told him over the telephone on 27 December 2019 that Pro-
+Active’s services were terminated. Kuon testified 35
+
+##### Foot Note 35
+
+×
+
+See transcripts on 7 December 2022 at p 117.
+
+he felt “betrayed” as he had provided so much assistance and co-ordinated the
+shipment to Singapore of the steel supplied by Qingdao Co. He was then still
+in China 36
+
+##### Foot Note 36
+
+×
+
+See transcripts on 6 December 2022 at p 45.
+
+and returned to Singapore on 4 January 2020.
+
+48 Kuon further denied receiving an e-mail dated 16 December 2019 37
+
+##### Foot Note 37
+
+×
+
+See p 382 of Sonny’s AEIC.
+
+(see p 382 of Sonny’s AEIC) from a façade checker Sonny Roflo (“Roflo”) from
+Arup, stationed at Qingdao Co, who pointed to the fabricated steel being non-
+compliant with the specifications set out earlier at [39]. Thereafter, Pro-
+Active was back charged by Prime $11,242.23 on 30 November 2019 for Roflo’s
+visits in September/October 2019 for the inspection. Arup had charged Prime
+for Roflo’s inspection visit and in turn Prime back charged Pro-Active. Kuon
+disputed this back-charge 38
+
+##### Foot Note 38
+
+×
+
+See transcripts on 7 December 2022 at p 121.
+
+on the basis it was never agreed to by Pro-Active. Kuon pointed out that as
+the installation works had been taken out of Pro-Active’s scope of works, Pro-
+Active should not have to bear the back charge. If there was to be inspection,
+the inspection should have been done in Singapore.
+
+49 Even though Prime on Pro-Active’s behalf paid the L/C amount of $275,000 39
+
+##### Foot Note 39
+
+×
+
+At AB582.
+
+to Qingdao Co, Kuon initially would not admit that it was due to Pro-Active’s
+financial difficulties, until pressed by the court for his answer 40
+
+##### Foot Note 40
+
+×
+
+See transcripts on 6 December 2022 at p 56.
+
+. He had further agreed that Pro-Active would pay Prime 3% commission for the
+issuance of the L/C in his e-mail to Prime dated 2 September 2019 41
+
+##### Foot Note 41
+
+×
+
+See AB863.
+
+and yet, he disputed Prime’s claim for interest on the L/C.
+
+50 In his AEIC, Kuon 42
+
+##### Foot Note 42
+
+×
+
+At para 27.
+
+had deposed that he purchased nuts and bolts for the roof crown works. This
+statement was found to be untrue when he was cross-examined 43
+
+##### Foot Note 43
+
+×
+
+See transcripts on 7 December 2022 at p 103.
+
+.
+
+51 It was said by Kuon during re-examination 44
+
+##### Foot Note 44
+
+×
+
+Ibid at p 110–111.
+
+that the contractual completion date of 30 June 2019 kept being pushed back
+due to changes in drawings which necessitated the purchase of additional
+materials. The change in drawings (which was sometimes more than one revision)
+resulted in an increase of 2.5 times in tonnage of raw materials.
+
+Prime’s case
+
+52 As stated earlier at [36], Prime had three witnesses. Sonny was Prime’s
+first witness. Nothing really turns on Sonny’s testimony. As the managing-
+director of Prime, he was not on site at the project unlike Andrew and Frankie
+although he attended site meetings either at the site office of Shimizu or at
+its office. However, Sonny was aware of site conditions and of Pro-Active’s
+work progress. He would be updated on work progress by either Andrew and/or
+Frankie, at site meetings and/or from correspondence exchanged between Prime
+and Pro-Active or between Shimizu and Prime.
+
+53 In his AEIC 45
+
+##### Foot Note 45
+
+×
+
+At para 17.
+
+, Sonny set out a chronology of Pro-Active’s work performance. He deposed that
+by early December 2019 it became apparent to Prime that Pro-Active did not
+have the manpower to carry out the installation component and the Variation
+Order in relation to the roof crown works. Around that time, Shimizu had
+already informed Prime that if those works could not be carried out according
+to schedule, Shimizu would take over the installation component of the roof
+crown works and look to Prime for all costs incurred thereby. Hence, Prime,
+via Andrew, issued the catch-up schedule to Pro-Active on 6 December 2019.
+Sonny deposed in his AEIC 46
+
+##### Foot Note 46
+
+×
+
+At para 17(e).
+
+that on or about the same day, Shimizu informed Prime that Shimizu had no
+confidence in Pro-Active’s carrying out the installation component of the roof
+crown works. This was then followed by Shimizu’s e-mail of 13 December 2019
+set out at [82] below.
+
+54 Frankie was Prime’s second witness. He no longer works for Prime as a
+project director and has in fact left the construction industry altogether.
+
+55 Frankie confirmed he telephoned Kuon on 12 December 2019 while the latter
+was in China to inform Kuon that Pro-Active need not do the roof crown
+installation works. On that day. Frankie had also flown to China after making
+the call to Kuon. Frankie denied Kuon’s allegation that someone from Prime had
+called and told Kuon the news on 27 December 2019.
+
+56 Andrew was Prime’s third and last witness. Like Frankie, Andrew no longer
+works for Prime. He left Prime’s services around June 2021 47
+
+##### Foot Note 47
+
+×
+
+See transcripts on 28 February 2023 at p 202.
+
+.
+
+57 During cross-examination, Andrew disclosed 48
+
+##### Foot Note 48
+
+×
+
+Ibid at p 206.
+
+that Pro-Active started construction late. It should have started with the
+fabrication and supply of the steel columns for the roof crown on 18 July 2019
+but only did so on or about 31 October 2019. Andrew recalled that Pro-Active
+purchased the steel materials early (by October 2019) but for reasons unknown
+to him, Pro-Active could not get the fabrication done before December 2019.
+
+58 Part of the problem was due to Pro-Active’s inability to get the required
+steel grade (355) from China. Pro-Active then proposed an alternative steel
+grade (Q345B or C) which necessitated Prime’s engineer going back to the BCA
+for fresh approval.
+
+59 Counsel for Pro-Active suggested to Andrew that the changes in drawings
+made by Prime caused Pro-Active’s delay, one example being the increase in
+size of the baseplates (without holes) for the trusses (see [10] above).
+Andrew agreed with counsel that there were other changes in the drawings but
+testified that those changes were minor.
+
+60 Andrew testified that as Prime’s project manager, his issue with Pro-Active
+was that the latter was slow in its work – it was all due to their having
+insufficient manpower to carry out the contracted works. He had no issues with
+the quality of Pro-Active’s work. Due to Pro-Active’s inadequate manpower, its
+scope of works started to stack-up, resulting in delays when additional
+manpower was not deployed 49
+
+##### Foot Note 49
+
+×
+
+Ibid at pp 215 & 216.
+
+both for the contracted works as well as for the remedial works.
+
+61 Counsel for Pro-Active had suggested to both Sonny and Andrew that if
+indeed Pro-Active was slow, Prime would not have requested Pro-Active to take
+over Yabo’s scope of works 50
+
+##### Foot Note 50
+
+×
+
+Ibid at p 216.
+
+. Sonny explained that the roof trellis work was a very small piece of work,
+it was not part of the critical path and it would not have caused any delay 51
+
+##### Foot Note 51
+
+×
+
+See transcripts on 8 December 2022 at pp 140–141.
+
+. Indeed, Andrew disclosed that it was Pro-Active that had requested more work
+in order to increase its profits. Yabo was then in charge of aluminium works
+in the roof trellis which work involved some element of steel works. Pro-
+Active requested Andrew that it be allowed to take over Yabo’s works at the
+roof trellis since it already had the manpower for the roof crown works.
+Andrew was agreeable to Pro-Active’s request provided Yabo agreed, which it
+did. The Variation Order alluded to at [14] 52
+
+##### Foot Note 52
+
+×
+
+At AB537.
+
+included the trellis works.
+
+62 When the court questioned Andrew 53
+
+##### Foot Note 53
+
+×
+
+See transcripts on 28 February 2023 at pp 234–235.
+
+on Prime’s scope of works for the project, he testified it included levels 1
+and 2 which steelworks were subcontracted to Pro-Active. Due to Pro-Active’s
+supply and installation of steel not in accordance with BCA’s approved
+thickness, all of the steel works installed by Pro-Active had to be dismantled
+and replaced, resulting in a delay of 4–5 months. By then the cladding had
+already been done and that too had to be torn down.
+
+The submissions
+
+63 Before the court makes its findings, it would be appropriate at this
+juncture to look at the submissions put forward by the parties after the close
+of the trial.
+
+(i) Pro-Active’s submissions
+
+64 In Pro-Active’s closing submissions 54
+
+##### Foot Note 54
+
+×
+
+At para 20(c).
+
+, it was submitted that it would be unjust and unfair for Prime to be allowed
+to add the value of the entire roof crown works to the contract sum and then
+purport to deduct a large back charge for the same. That would mean that Pro-
+Active performed the entire roof crown works when Pro-Active was instructed
+not to (at least for the installation component).
+
+65 Pro-Active argued that the installation component of the roof crown works
+must be removed or “de-scoped” from Pro-Active’s scope of works, since that
+component was taken over by Shimizu. That was because according to the LOA 55
+
+##### Foot Note 55
+
+×
+
+See AB511 clause 1.2.
+
+, it is a re-measurement contract. Pro-Active then made the following
+calculations, based on “de-scoping” the installation of the roof crown from
+its scope of works:
+
+288,480kg x $2.80 per kg $807,744.00
+
+Less:
+
+Payment to Qingdao via letter of credit $765,865.00
+
+$ 41,879.00
+
+Even taking into account 3% interest charged by Prime on the payment to
+Qingdao Co ie, $22,975.95 ($765,865.00 x 3%), a sum of $18,903.05 is still
+payable to Pro-Active by Prime ($41,879.00 - $22,975.95).
+
+66 Pro-Active further submitted 56
+
+##### Foot Note 56
+
+×
+
+At para 22 of its closing submissions.
+
+that as there is no extension of time clause in the LOA, time is set at large.
+There was also the addition of the Variation Order. Therefore, Pro-Active was
+required to complete the contracted works within a reasonable time as opposed
+to a contractually stipulated deadline. Pro-Active alleged that besides the
+Variation Order, Prime had engaged in acts of prevention (not specified) that
+caused delays in the project. It should not be allowed to take advantage of
+its own wrongdoing, citing Peak Construction (Liverpool) Ltd v McKinney
+Foundations Ltd [1970] 1 BLR 111 (“Peak Construction”).
+
+67 Pro-Active drew a distinction 57
+
+##### Foot Note 57
+
+×
+
+Ibid at para 33.
+
+between delays caused by Pro-Active and those caused by Prime. Pro-Active
+alleged that there was evidence that even before the LOA was signed on 28
+February 2019, Shimizu had complained of Prime’s slow progress on site. Pro-
+Active relied on its counsel’s cross-examination of Frankie 58
+
+##### Foot Note 58
+
+×
+
+At transcripts on 8 December 2019 at pp 179–180.
+
+and Shimizu’s e-mail to Prime dated 27 February 2019 59
+
+##### Foot Note 59
+
+×
+
+At AB903.
+
+. This submission is incorrect as Frankie had pointed out 60
+
+##### Foot Note 60
+
+×
+
+At transcripts on 8 December 2019 at p 181.
+
+that Shimizu’s complaint related to the monitoring of the mock-up schedule and
+had nothing to do with the main scope of works.
+
+68 Pro-Active made much of the fact 61
+
+##### Foot Note 61
+
+×
+
+At para 41 of its closing submissions.
+
+that there was no evidence tendered by Prime in respect of correspondence
+between Positive (who was Prime’s immediate main contractor 62
+
+##### Foot Note 62
+
+×
+
+At para 7 of Sonny’s AEIC.
+
+) and Prime and between Positive and Shimizu. It argued that it was pure
+speculation to decipher what Positive’s stance was in respect of Shimizu’s
+decision to engage a third party contractor (Kong Hwee) to carry out the roof
+crown installation. Prime had produced Shimizu’s letter dated 18 March 2020 to
+Positive 63
+
+##### Foot Note 63
+
+×
+
+At AB789.
+
+and Shimizu’s contra charge of the same date 64
+
+##### Foot Note 64
+
+×
+
+At AB790.
+
+to Positive in the amount of $652,918.10. However, there was no evidence that
+those contra charges were back charged to Prime and there was also no privity
+of contract between Shimizu and Prime.
+
+69 Pro-Active raised the possibility 65
+
+##### Foot Note 65
+
+×
+
+At para 58 of its closing submissions.
+
+that Positive had reached a compromise with Shimizu in respect of Kong Hwee’s
+engagement and that may explain the lack of evidence in respect of Positive’s
+back charge to Prime for the installation cost of the roof crown. Hence, Prime
+has not shown it incurred the installation cost. Accordingly, Pro-Active
+should not be liable for such costs as it was no longer the responsibility of
+Pro-Active (which was also Prime’s case). 66
+
+##### Foot Note 66
+
+×
+
+At paras 60–61 of its closing submissions.
+
+Pro-Active accused Prime of being opportunistic and wrongfully withholding
+payment to Pro-Active. The court dismisses this argument of Pro-Active as pure
+speculation without any basis whatsoever.
+
+70 Pro-Active asserted that its calculations at [20] is correct for its claim
+based on the fact that the roof crown works had been deducted from Pro-
+Active’s contracted works. Conversely, Prime’s calculations in [28]–[29] were
+erroneous. If the supply and fabrication components of the roof crown works
+were not “de-scoped” from the contracted works, it meant that Prime would
+still have to pay Pro-Active $41,879.00 based on the following calculations:
+
+288,480 kg x $2.80 per kg of steel $807,744.00
+
+Less:
+
+Payment to Qingdao Co $765,865.00
+
+$ 41, 879.00
+
+For the reasons set out below at [107]–[108] and [120], the court disagrees
+with Pro-Active’s calculations and does not accept that the roof crown works
+had been “de-scoped” from the contracted works by reason of Shimizu’s decision
+to remove those works from Pro-Active’s contract.
+
+71 Pro-Active had argued 67
+
+##### Foot Note 67
+
+×
+
+At para 49 of its closing submissions.
+
+that whilst “de-scoping” the roof crown works may affect the heads of items
+that are calculated in deriving the contract sum and in calculating the sum
+Pro-Active is entitled to, there will not be a significant effect on the
+amount that is ultimately derived. That argument is misconceived as can be
+seen from the court’s calculations set out at [129] below.
+
+72 Pro-Active had further submitted that Prime failed to provide reasonable
+notice to Pro-Active to “de-scope” the installation component of the roof
+crown works. Pro-Active submitted that Prime’s letter dated 6 December 2019 at
+[80] below was not adequate or proper notice, citing Vim Engineering Pte Ltd v
+Deluge Fire Protection (S.E.A.) Pte Ltd [2023] SGHC(A) 2 (“Vim’s case”).
+
+(ii) Prime’s submissions
+
+73 Prime had listed in its closing submissions 68
+
+##### Foot Note 68
+
+×
+
+At para 80(f).
+
+the incidents wherein Pro-Active failed to carry out the contracted works
+diligently as well as expeditiously 69
+
+##### Foot Note 69
+
+×
+
+At para 80(g).
+
+. The court is of the view that the instances cited by Prime constitute
+breaches by Pro-Active of clause 9 of the LOA. The relevant portion of that
+clause headed Termination states:
+
+9.1 If the S ubcontractor should commit any of the followings:
+
+9.1.1 Fail to proceed the Subcontract Works expeditiously and with due
+diligence either in whole or in part;
+
+…
+
+9.2 The Contractor fully reserves the right to serve upon the Subcontractor a
+notice of termination stating the default committed by the Subcontractor, and
+requiring the Subcontractor to immediately cease and rectify the same.
+
+74 Clause 9.1 of the LOA is reinforced by clause 3.2 which states:
+
+The subcontractor shall proceed with the Works diligently and with due
+expedition at all times in accordance with the respective time for completion
+as stipulated in the Contractor’s construction schedule with and including any
+revisions thereto. If in the Contractor’s view that the works is (sic) in
+delay, the Subcontractor must implement among others but not limited to the
+addition of skill workforce and resources, double shift works and all other
+necessary resources and equipment to mitigate the delays at NO additional cost
+to the Contractor. [emphasis in original]
+
+Undoubtedly, when Andrew chased Pro-Active repeatedly in his numerous e-mails
+to increase its manpower to “catch-up” on delays to the contracted works,
+Prime was exercising its rights under clause 3.2 of the LOA. Unfortunately,
+Pro-Active failed to comply with Prime’s/Andrew’s instructions, prompting
+Shimizu to take back the installation component from Prime’s contract and Pro-
+Active’s scope of works.
+
+75 As regards Pro-Active’s dispute on Prime’s back charges, Prime’s closing
+submissions 70
+
+##### Foot Note 70
+
+×
+
+At para 59.
+
+referred to Pro-Active’s own progress claim no. 17 dated 25 October 2020
+exhibited at pages 79–80 of Kuon’s AEIC which included Shimizu’s back charges
+of $384,750.00. Prime’s submissions pointed out that progress claim no. 17
+also acknowledged that Pro-Active had received $1,154,191.65 in payments from
+Prime. Yet, in its SOC, Pro-Active stated 71
+
+##### Foot Note 71
+
+×
+
+At para 10.
+
+it received $822,011.15.
+
+76 Although Kuon repeatedly stated during cross-examination that he would
+elaborate later on his disagreements with counsel for Prime, he did not do so
+in re-examination. Prime’s submissions highlighted 72
+
+##### Foot Note 72
+
+×
+
+At para 72.
+
+seven instances where Kuon failed to explain his disagreement on crucial
+issues.
+
+The issues
+
+77 The issues that require the court’s determination are:
+
+(a) Did Pro-Active carry out the contracted works expeditiously as required
+under clause 9.1.1 of the LOA? If not, was the delay attributable to Pro-
+Active or to other factors?
+
+(b) Did Prime serve a valid notice of termination on Pro-Active?
+
+(c) Is Prime entitled to levy back charges on Pro-Active?
+
+(d) What is the value of the works carried out by Pro-Active?
+
+(e) The impact of Prime’s decision to discontinue its counterclaim.
+
+The findings
+
+78 The court starts by reviewing the evidence adduced for Pro-Active’s case
+from its only witness, Kuon.
+
+(a) Did Pro-Active carry out the contracted works expeditiously as required
+under clause 9.1.1 of the LOA? If not, was the delay attributable to Pro-
+Active or to other factors?
+
+79 The court notes that Kuon consistently disagreed with counsel for Prime on
+all allegations made by Prime relating to Pro-Active’s delayed and/or
+defective contractual works as well as the roof crown works. Even when the
+court conveyed to Kuon 73
+
+##### Foot Note 73
+
+×
+
+See transcripts on 6 December 2022 at p 61.
+
+that Prime’s case was that Pro-Active could not do the work due to delay and
+other reasons and hence, Pro-Active’s services were terminated, Kuon would not
+agree despite the clear evidence presented to the court. This included
+Andrew’s oral testimony, the numerous e-mails attached to Andrew’s AEIC which
+included that dated 6 December 2019 74
+
+##### Foot Note 74
+
+×
+
+At p 45 of Andrew’s AEIC.
+
+as well as Andrew’s letter of notification of delay dated 31 October 2019 (and
+see [39] above) 75
+
+##### Foot Note 75
+
+×
+
+At AB241.
+
+which he said was Prime’s “final warning”. Other instances of Pro-Active’s
+delay and poor workmanship are set out in Prime’s closing submissions. 76
+
+##### Foot Note 76
+
+×
+
+At paras 28–29, 32 and 40.
+
+80 In his e-mail dated 6 December 2019, Andrew had provided a summary of Pro-
+Active’s manpower with Shimizu’s comments. That e-mail contained the following
+extracts which are telling of Pro-Active’s performance:
+
+1 we (Prime and Proactive) committed 22 men per day (irregardless day or
+night) in bid to catch up
+
+2 Total workers observed is mostly always 13 to 14 men per day
+
+3 No night works done at all (8am to 5am shift arranged) until 4th Dec for
+maxwell link
+
+4 required 2-3 box frames and 2 subframes to complete per day – currently on
+average 1 box frame & 1 subframe per day
+
+Basically I’m extremely tired of finding excuses for proactive manpower and
+speed of works – Yabo has practically got their act together & caught up to
+Proactive
+
+…
+
+I have shimizu Murayama hounding me daily on your manpower & takashi asking me
+why no night shift works (working till 10am is extended shift and not night
+shift).
+
+…
+
+I have also at times reminded you to add manpower but I know it gets ignored
+and you shift topic to other issues and I forget about this
+
+I think 5th Dec having 8 workers is the last straw, there are 3 major areas
+for you to work at and fabrication on site – 8 workers day time is no way
+enough.
+
+There is simply no commitment to want to finish works – it becomes a daily
+grind waiting for something to happen
+
+I’m also tired of arranging supply workers for you and using Yabo men to
+falsely cover up your manpower.
+
+I get it that more man = more salary payout for you, but it has come to a
+point where the workers progress will harm Prime structure schedule and
+commitment to the project
+
+Shimizu has offered to add men for proactive – 10 men. I am in no position and
+have no fighting grounds to refuse. I cannot be paying this amount for you.
+
+81 Andrew’s earlier letter of notification of delay dated 31 October 2019 77
+
+##### Foot Note 77
+
+×
+
+At AB241.
+
+addressed to Kuon could not be clearer on Pro-Active’s poor performance
+either. The letter is set out in full below:
+
+You are hereby advised that your performance on the Southernwood project has
+delayed to a level that is no longer acceptable nor tolerable. This poor
+performance issue has resulted in creating many other problems on the project
+including subsequent cladding and glass installation. Even more disturbing is
+the fact that, despite having already expressed our concerns to you regarding
+these delay issues, there has not been any significant attempt on your part to
+improve your performance. Regardless of the many promises for schedule you’ve
+made to Prime Structures, no firm action has been taken.
+
+The current issues at hand concerning your poor performance include:
+
+• 1st Delay to schedule to Lv 2 type F shopfront issued on 5th Sept – where
+you are instructed to complete Gridline A by 1st Oct 2019 & Gridline D by 30th
+Oct 2019
+
+• 2nd Delay to schedule to Lv 2 type F shopfront issued by Prime structure on
+8th Oct 2019 – where you are issued our committed dates to Capital land to
+complete Gridline A by 17th Oct 2019 & Gridline D by 7th Nov 2019
+
+• 3th Delay to schedule to Lv 2 type F shopfront on site on 25th Oct 2019 –
+where by micro schedule you will fail to deliver Type B 5 complete sets on 1st
+Nov
+
+To recap, the date where the replacement of steel works occurred during 4th
+Sept 2019
+
+The intent of this letter is to clearly inform you that unless there is
+immediate and considerable improvement on your part, we will be forced to
+terminate your services and hire another contractor to take over these tasks.
+Please be made fully aware that if this action is taken, it will be done at
+your expense. To be quite clear on this issue, not only will the cost of
+hiring another contractor be applied to your account, we will also hold you
+liable for any other costs we incur as a direct result of the delays and
+problems that your lack of performance caused.
+
+There is no more room for discussion on this matter. Please consider this your
+final warning.
+
+82 Obviously, Prime’s “final warning” above did not have its desired effect as
+seen in the fact that Prime (again through Andrew) had to send his e-mail of 6
+December 2019 at [81] (see also [41] above). Again, it seemed that Pro-
+Active’s work performance did not improve even after 6 December 2019 as
+Shimizu sent an e-mail dated 13 December 2019 78
+
+##### Foot Note 78
+
+×
+
+At AB882.
+
+to Prime.
+
+83 The e-mail from Shimizu 79
+
+##### Foot Note 79
+
+×
+
+At AB882.
+
+is most telling and reads as follows:
+
+Dear Sonny/Frankie/Andrew,
+
+Further to your email on 6th December 2019 and our letter of Notice of delay
+to you dated 5th December 2019. we are unable to accept your programme to
+install the roof crown and complete only in February 2020.
+
+In consideration of the delay you have caused us due to your poor performance
+and shortage of manpower in the various locations – 1st, 2nd & 21st storey, we
+have decided to engage a 3rd party sub-contractor to install the roof crown
+including painting and the trellis work in order to mitigate the delay caused
+by you, so you can concentrate on 1st, 2nd and 21st storey progress.
+
+We have informed you last evening of our decision. All cost incurred in the
+installation shall be recovered from you.
+
+In addition, following the email from you today at 1335hr. we shall also
+engage a 3rd party subcontractor to finish the structure steel on your behalf
+and recover the cost incurred from you.
+
+84 Notwithstanding Kuon’s repeated denials in the witness stand, there is
+little doubt that Pro-Active’s work was slow and behind schedule. The court
+does not accept his explanation (at [40] above) he did not see the need to
+reply to the notification of delay from Prime in [81] but chose to increase
+his manpower and expedite the contractual works. His testimony is untrue in
+any case in the light of Shimizu’s e-mail in [83] terminating the roof crown
+portion of Pro-Active’s scope of works. Had Kuon really deployed more and
+adequate manpower as Prime (and Shimizu) requested, the roof crown works as
+well as the trellis works, which Pro-Active took over from Yabo (see [61]
+above), would not have been removed from Pro-Active’s contract.
+
+85 During cross-examination of Andrew, counsel for Pro-Active had latched onto
+Andrew’s e-mail at [80] and Andrew’s words “Yabo has practically got their act
+together & caught up to Proactive” to contend 80
+
+##### Foot Note 80
+
+×
+
+See transcripts on 28 February at p 214.
+
+that Yabo was equally guilty of delay and failing to work diligently. Andrew
+pointed out that part of Yabo’s delay was due to its having to add manpower to
+tear down works completed by Pro-Active. 81
+
+##### Foot Note 81
+
+×
+
+Ibid at p 214.
+
+86 In any case, the court cannot see how any delay on Yabo’s part assists Pro-
+Active or exculpates its repeated delays when Yabo’s progress or lack thereof
+in no way impacted on Pro-Active’s scope of works. In this regard, the case of
+Peak Construction (see [67] above) cited in Pro-Active’s closing submissions
+82
+
+##### Foot Note 82
+
+×
+
+At footnote 18 for para 22.
+
+does not assist Pro-Active. There, one of the heads of damages in dispute was
+a sum for liquidated damages payable by the plaintiff main contractor to the
+overall employer (Peak Construction at 121). The argument made by the
+plaintiff main contractor was that it was liable to pay liquidated damages to
+the overall employer because of a 58-week delay in completion, and this delay
+was caused by the defendant subcontractor’s breach of its sub-contract. On the
+plaintiff main contractor’s case, they could recover this sum as damages from
+the defendant subcontractor. On appeal, the United Kingdom Court of Appeal
+held that the plaintiff main contractor was not liable to pay any liquidated
+damages for delay to the overall employer (Peak Construction at 121), and
+therefore cannot claim this sum as damages from the defendant sub-contractor.
+The court held that no liquidated damages were payable to the overall employer
+because the failure to complete on time was at least partly “due to the
+employer’s own fault or breach of contract”, and that “liquidated damages and
+extension of time clauses in printed forms of contract must be construed
+strictly contra proferentum”. Here, Pro-Active could not/did not substantiate
+Kuon’s allegation (see [14] above) that Prime was responsible for its delayed
+works. Moreover, Andrew’s testimony (see [57]–[62] above) and correspondence
+(see [81]–[82] above) rebutted Kuon’s allegation.
+
+(b) Is Prime entitled to impose back charges on Pro-Active?
+
+87 Prime’s entitlement to back charges from Pro-Active is found in clause 7.1
+of the LOA which states:
+
+The Subcontractor must remain contactable by Contractor’s project staff during
+contract period. Otherwise, the contractor reserves the rights to ask another
+party to complete the Subcontractor’s work and all cost plus 15% admin charges
+shall be payable by the Subcontractor.
+
+88 Kuon had taken out from Pro-Active’s scope of works the portion relating to
+the installation component of the roof crown works and in so doing, he failed
+to give credit to Prime for the L/C payment made to Qingdao Co which was one
+item of Prime’s back charges to Pro-Active. Pressed by the court 83
+
+##### Foot Note 83
+
+×
+
+See transcripts on 7 December 2022 at pp 76–77.
+
+, Kuon agreed that Prime could recover the L/C sum (which had increased to
+$765,875.00 before GST).
+
+89 In Pro-Active’s progress claim no 11 dated 25 February 2020 84
+
+##### Foot Note 84
+
+×
+
+At Kuon’s AEIC at p 117.
+
+as well as in its progress claim no 17 dated 25 October 2020 85
+
+##### Foot Note 85
+
+×
+
+Ibid at p 79.
+
+, the roof crown works were still included in Pro-Active’s scope of works.
+Despite the court’s question to him 86
+
+##### Foot Note 86
+
+×
+
+See transcripts on 7 December 2022 at p 82.
+
+, Kuon refused to answer whether Shimizu’s back charge to Pro-Active of $1.35
+per kg totalling $222,015.60 related to installation cost for the roof crown
+works, even though the item appeared in Pro-Active’s own progress claim no 17
+which Kuon exhibited in his AEIC 87
+
+##### Foot Note 87
+
+×
+
+At p 79.
+
+. Kong Hwee apparently charged $482,000.00 for installation of the roof crown
+88
+
+##### Foot Note 88
+
+×
+
+See AB790 and transcripts on 7 December 2023 at p 85.
+
+for which Prime looked to Pro-Active for recovery.
+
+90 There was correspondence 89
+
+##### Foot Note 89
+
+×
+
+See p 445 of Sonny’s AEIC.
+
+before the court which showed that Kuon requested Prime to pay invoices
+addressed to Pro-Active. Kuon himself had signed Pro-Active’s letter dated 27
+August 2019 addressed to Prime for Frankie’s attention requesting Prime to
+establish the L/C in favour of Qingdao Co for $275,000.00 90
+
+##### Foot Note 90
+
+×
+
+Ibid p 459.
+
+. Kuon asked for the L/C to be issued by 1 September 2019 and added that he
+would not object to Prime’s deducting the L/C amount from Pro-Active’s monthly
+progress claim together with interest charges incurred. Yet, Kuon denied Pro-
+Active was cash-strapped. Pressed to answer the court’s question 91
+
+##### Foot Note 91
+
+×
+
+At transcripts on 7 December 2022 at p 90.
+
+, Kuon eventually acknowledged that Prime was entitled to back charge Pro-
+Active for the payments it made on Pro-Active’s behalf.
+
+91 Prime had also back charged Pro-Active for other items such as galvanising
+charges, course attendance fees paid for Pro-Active’s workers, medical fees,
+supply of manpower and 15% administrative charges. Kuon had disputed liability
+on all these items. During re-examination, Kuon clarified that administrative
+fees were for purchase and supply of material and equipment by Prime for Pro-
+Active 92
+
+##### Foot Note 92
+
+×
+
+Ibid p 110.
+
+. He disputed liability because the charges should, but were not, discussed
+between the parties first. However, apart from Kuon’s bare assertion, there is
+no provision in the LOA that stipulates there must be a discussion between the
+parties before Prime can back charge Pro-Active for charges it incurred on
+Pro-Active’s behalf.
+
+92 In its closing submissions (see [68]–[69] above), Pro-Active had argued
+that there was no evidence before the court of any back charging by Shimizu to
+Prime for the roof crown works carried out by Kong Hwee. It is true that Prime
+did not produce by way of primary evidence an invoice from Shimizu to Prime or
+an invoice from Kong Hwee to Shimizu for the cost incurred by Shimizu for the
+roof crown works. What was before the court was a contra charge 93
+
+##### Foot Note 93
+
+×
+
+At AB790.
+
+from Shimizu to Positive dated 18 March 2020 where Prime and Kong Hwee were
+named as the parties on whose behalf Positive was charged by Shimizu for
+$652,918.10 with Kong Hwee’s charge under item 4 of $482,000.00 being for the
+installation of roof crown steel works including three coat system painting.
+
+93 However, in Prime’s closing submissions 94
+
+##### Foot Note 94
+
+×
+
+See para 82(b).
+
+, it pointed out that its claim against Pro-Active has nothing to do with the
+issue of privity of contract. It is based on the fact that Pro-Active is
+contractually obliged to pay for the installation vis-à-vis the roof crown
+works as long as Prime engaged another subcontractor to carry out that
+installation. It was not disputed that Kong Hwee did carry out those works,
+subject to the caveat that its appointment was done by Shimizu. Prime added
+that it makes no difference to Pro-Active whether Kong Hwee’s appointment was
+done by Shimizu or Positive or Prime as long as it was a subcontractor which
+was appointed to carry out the installation of the roof crown works which Pro-
+Active did not do.
+
+94 It is precisely because there is no privity of contract between main
+contractor, subcontractors and sub-subcontractors that the construction
+industry coined the words ‘back charges” and came up with the practice of the
+main contractor(s) charging its own subcontractors for inter alia
+rectification of defective works, provision of manpower and materials etc
+which the subcontractors pass downstream to its sub-subcontractors and to the
+party ultimately liable for the back charge in question.
+
+95 Kuon’s dispute of the 15% administrative charge levied by Prime is also
+unsustainable in the light of clause 7.1 of the LOA 95
+
+##### Foot Note 95
+
+×
+
+At AB514.
+
+set out at [87] above, as well as item 40 of Appendix D to the LOA, 96
+
+##### Foot Note 96
+
+×
+
+At AB530.
+
+which provides for “15% Administration charges on all materials, tools and
+equipment purchased by Subcontractor through Contractor”. Since Prime has a
+contractual right to charge a 15% administrative fee to Pro-Active, the
+latter’s consent is not required nor can it dispute the charge.
+
+96 In Pro-Active’s closing submissions, it set out 97
+
+##### Foot Note 97
+
+×
+
+At Annex A.
+
+the invoices in Sonny’s AEIC that formed the basis for Prime’s back charges
+which it disputed. Pro-Active’s dispute largely related to labour that was
+sourced from a number of construction companies. Pro-Active’s primary
+objection to the invoices was that Kuon was not given prior notice of nor was
+there prior discussion, of those charges before they were levied.
+
+97 As was noted at [95] and from clause 7.1 at [87] and item 40 of Appendix D
+to the LOA, there is no contractual provision in the LOA that obliges Prime to
+give prior notice of or have a prior discussion, of back charges before they
+were imposed either directly on Pro-Active by Prime or indirectly when back
+charged by Shimizu or by Positive downstream to Prime. If Prime was not given
+notice by the party imposing the back charges, by the same token, Pro-Active
+should not expect Prime to give notice when those same back charges were
+passed onto Pro-Active.
+
+98 In regard to the labour back charges, Pro-Active again produced no evidence
+whatsoever to rebut Andrew’s evidence that it had insufficient manpower on
+site for the contracted works and that was why its progress was behind
+schedule and which prompted Shimizu to remove the roof crown from Pro-Active’s
+scope of works.
+
+99 Consequently, on a balance of probabilities which is all that Prime is
+required to prove, the court finds that the back charges imposed by Prime on
+Pro-Active are legitimate or valid. As one example, the court refers to the
+charge for Roflo (see [48] above) of $11,242.23 (before 15% administrative
+charge and GST) for conducting the façade inspection at the Qingdao Co. That
+is clearly a legitimate charge as Roflo had to ensure the quality of the
+façade was in compliance with the specified standard before the material was
+shipped to Singapore. It was absurd of Kuon to contend (see [48] above) that
+any inspection should have been conducted in Singapore. That would have been
+too late – the quality of Qingdao Co’s materials should rightly be checked
+before the materials leave the factory where it was fabricated. It was equally
+absurd of Kuon to say that quality control was no longer Pro-Active’s
+responsibility. He had admitted (after considerable prevarication) that
+Qingdao Co was Pro-Active’s supplier 98
+
+##### Foot Note 98
+
+×
+
+See transcripts on 6 December 2022 at p 19.
+
+. Pro-Active’s contractual obligation under the LOA included the “supply,
+fabrication and installation” of the roof crown. Only the “installation”
+component had been removed from its scope of works by Shimizu’s termination.
+Supply and fabrication remained its responsibility.
+
+100 Pro-Active relied on Vim’s case to argue 99
+
+##### Foot Note 99
+
+×
+
+At para 63 of its closing submissions.
+
+that it should have been given reasonable notice prior to the “de-scoping” of
+the roof crown installation from its scope of works. Pro-Active pointed out it
+received Prime’s catch-up schedule only on 6 December 2019 (see [80] above)
+and on 9 December 2019, Prime asserted it would look to Pro-Active for
+Shimizu’s contra charges for the installation costs. Pro-Active’s submission
+conveniently overlooked Andrew’s e-mail dated 31 October 2019 where a final
+warning was issued to Pro-Active (see [81] above).
+
+101 Pro-Active also relied on Vim’s case to submit that Prime’s back charges
+had not been proven 100
+
+##### Foot Note 100
+
+×
+
+Ibid at paras 71–77.
+
+. In Vim’s case, the Appellate Division of the High Court was highly critical
+of the defendant Deluge for producing unreadable and/or un-decipherable
+documents/photographs leading the court to conclude there was woefully
+inadequate substantiation put forward by Deluge for its claim for substantial
+back charges from Vim. Was that the case here as Pro-Active submitted?
+
+102 It would be appropriate at this juncture to quote the same helpful extract
+from B. R. Burrows J’s judgment in Impact Painting Ltd v Man-Shield (Alta)
+Construction Inc [2018] AWLD 582 that the court in Vim’s case did at [102]:
+
+In my view, the onus is on the party claiming a back charge to prove that:
+
+1\. The back charge is for an expense actually, necessarily and reasonably
+incurred by the party claiming the back charge.
+
+2\. By the terms of the subcontract, or by some other agreement between the
+parties, the charge is one, or is in relation to some task, for which the
+subcontractor undertook responsibility.
+
+3\. The general contractor incurred the expense because the subcontractor
+defaulted on the responsibility to which the charge relates.
+
+4\. Prior to incurring the charge, the general contractor gave notice to the
+subcontractor of its default and a reasonable opportunity to cure it.
+
+103 The court is of the view that Prime fulfilled all four requirements in
+this case. In regard to s/n 1, 2 and 3 in [102], by the terms of the LOA
+namely clauses 3.2, 5.7 (read with clause 1(b)(i) of Appendix C), 9.1 and 9.3
+(see [108] above). Prime necessarily incurred the back charge(s) because of
+Pro-Active’s delayed works and/or omission of the roof crown works from its
+scope of works. For s/n 4 in [103], Andrew’s correspondence with Kuon at [80]
+to [81] gave notice that Pro-Active must speed up its works by deploying more
+manpower if it did not want to face the dire consequences.
+
+104 Consequently, all back charges incurred by Prime that arose from Shimizu’s
+removal of the installation component of the roof crown works must necessarily
+be for Pro-Active’s account. A quick review of the back charges show (apart
+from labour supply to enable Pro-Active to catch up) that the items were all
+related to the installation of the roof crown. This would include Kong Hwee’s
+installation charge, the supply of stainless bolts and washers and expenses
+incurred for the import and galvanising of the steel materials ordered from
+Qingdao Co. Such expenses would include import clearance charges, unstuffing
+(of containers) and delivery charges for the roof crown steel support. A crane
+is definitely required for the roof crown installation and the court dismisses
+Pro-Active’s objection to the back charge of $22,078.31 in this regard as well
+as its objection to the charges for, amongst other things, the erection and
+dismantling of scaffolding for installation, amounting to $39,426.40.
+
+105 The only items that the court does not accept as valid back charges are
+the medical fees incurred for Vaitilingam Padmanaban ($248.78) and Islam
+Anwarul ($701.28) and for the basic traffic control courses ($459.99) attended
+by several workers who were identified. No details or evidence were provided
+for these items. The total sum disallowed is $1,410.05.
+
+106 Prime had contended that Pro-Active had admitted all but $82,809.77 of the
+back charges 101
+
+##### Foot Note 101
+
+×
+
+At para 14(b) of the D&CC.
+
+. This was because in Prime’s Payment Response sheets to Pro-Active’s progress
+payment claims, Prime would deduct the back charges before setting out the
+sums it would and did pay, to Pro-Active (see [75] above) 102
+
+##### Foot Note 102
+
+×
+
+See example at AB271 where Prime deducted $46,592.83 from Pro-Active’s
+progress claim no 7.
+
+.
+
+107 Consequently, the court finds that Prime was entitled to back charge Pro-
+Active for the roof crown works that it failed to carry out, for the L/C
+established in favour of Qingdao Co, for other charges incurred on Pro-
+Active’s behalf and for all other back charges imposed by Shimizu on Positive
+who in turn back charged to Prime, that related to Pro-Active’s scope of
+works. Only the items in [105] are disallowed. The allowed back charges, which
+are evidenced by tax invoices billed by Prime to Pro-Active setting out the
+details of the back charges, 103
+
+##### Foot Note 103
+
+×
+
+Sonny Bensily’s AEIC at pp 121, 134, 140, 148, 155, 162, 169, 176, 187, 193,
+198, 206, 216, 224, 231, 240, 249, 256, 264, 269, 274, 279, 288, 292, 294,
+302, 303 and 318.
+
+total $751,699.34.
+
+108 Pro-Active had attempted to “de-scope” and deduct the entire roof crown
+works from the contract sum. Prime’s closing submissions 104
+
+##### Foot Note 104
+
+×
+
+At para 80(h).
+
+pointed out that there is no clause in the LOA that allows Pro-Active to de-
+scope such works. Prime added that Pro-Active is not even entitled to omit the
+installation component of the roof crown works from its scope of works as
+Prime has the right to engage other subcontractors to complete the work of
+Pro-Active and recover all incurred costs and expenses from Pro-Active. Prime
+relied on clause 9.3 of the LOA which states:
+
+The Contractor shall, but is not obliged to, make an assessment of the value
+of work done by the Subcontractor up to the point in time of termination. The
+Contractor shall further be entitled to engage other subcontractor/s to
+complete any outstanding subcontract works and recover all incurred costs and
+expenses from the defaulting Subcontractor.
+
+Clause 9.3 entitles Prime to recover by way of back charges what it expends on
+other subcontractors to complete Pro-Active’s contracted works or whatever
+sums that were back charged to Prime by Shimizu after it carried out works on
+behalf of Pro-Active.
+
+109 Reliance was also placed by Prime on cl 5.7 of the LOA which states:
+
+The Contractor fully reserves the right to set off any monies owing by the
+Subcontractor to the Contractor from any monies due or to become due to the
+Subcontractor.
+
+110 Clause 5.7 is to be read with clause 1(b)(i) of Appendix C to the LOA 105
+
+##### Foot Note 105
+
+×
+
+See AB23.
+
+which states:
+
+The Subcontractor be liable for and shall fully indemnify and save harmless
+the Company against and from
+
+i) any breach, non-observance or non-performance by the Subcontractor, his
+servants or agents of any of the provisions of the Contract, in so far as they
+relate and apply to the Subcontract;
+
+The court accepts Prime’s interpretation of the various clauses as to its
+right to an indemnity from Pro-Active in regard to back charges incurred
+arising out of Pro-Active’s scope of works and/or the omission of the
+installation portion of the roof crown works from its scope of works.
+
+111 At this juncture, the court would point out that it does not believe or
+accept Kuon’s version of events nor his interpretation of the reduced scope of
+the contracted works. It is reprehensible the extent to which Kuon would go,
+to deny or dispute facts despite overwhelming evidence. The court cites as an
+example his denial that Pro-Active was in financial difficulties (see [49]
+above) 106
+
+##### Foot Note 106
+
+×
+
+See the transcripts on 6 December 2022 at p 56.
+
+despite his own letter on behalf of Pro-Active to Prime dated 27 August 2019
+requesting Prime to establish the L/C in favour of Qingdao Co (see [90]
+above).
+
+112 Another instance of Kuon’s refusal to admit the obvious was his disavowal
+of the Variation Order on the basis that he did not sign the document 107
+
+##### Foot Note 107
+
+×
+
+See the transcripts on 6 December 2022 at p 14.
+
+even though the document contained the additional steel works at the trellis
+area that Pro-Active requested to, and did, take over from Yabo. Andrew had
+testified (which evidence the court accepts) that Pro-Active requested to do
+the work in order to increase its profits (see [61] above). A third instance
+of Kuon’s untruthful evidence relates to back charges set out earlier as well
+as his claim that he had purchased nuts and bolts for the roof crown works
+(see [50] above).
+
+113 The court prefers the testimony of Frankie and Andrew as they were more
+credible witnesses. Their evidence was consistent with the documentary
+evidence that was before the court. Both persons no longer work for Prime and
+they have no reason not to speak the truth or to recall events as they
+actually happened.
+
+(c) Did Prime serve a valid notice of termination on Pro-Active for the roof
+crown works?
+
+114 The court moves next to the issue of whether and when Pro-Active/Kuon was
+given notice of Shimizu’s notice of termination in [83]. In his AEIC 108
+
+##### Foot Note 108
+
+×
+
+At para 9(l).
+
+as well as in his oral testimony 109
+
+##### Foot Note 109
+
+×
+
+See transcripts on 28 December 2022 at p 226.
+
+, Andrew stated that he had forwarded to Kuon Shimizu’s notice of termination.
+In cross-examination he candidly acknowledged there was a possibility he did
+not forward the e-mail, Unfortunately, Andrew was unable to locate and produce
+the forwarded copy for the court. Kuon not surprisingly denied receiving
+notification of Shimizu’s notice of termination 110
+
+##### Foot Note 110
+
+×
+
+See transcripts on 6 December 2022 at p 41 lines 20–21 & p 43 at lines 13, 14
+and 23.
+
+.
+
+115 In Frankie’s AEIC 111
+
+##### Foot Note 111
+
+×
+
+At para 10.
+
+as well as in his oral testimony, he had stated that he was very certain he
+had made a phone call to Kuon 112
+
+##### Foot Note 112
+
+×
+
+See transcripts on 8 December 2022 at pp 190, 191 & 196.
+
+around midnight of 12 November 2019 or in the early hours of 13 December 2019
+to convey to the latter that Shimizu no longer required Pro-Active to do the
+roof crown works. He was then at Changi Airport waiting for his flight to
+Qingdao to take off. Frankie recalled that his flight was scheduled to depart
+at 1.55am on 13 December 2019 but it was delayed until 5.15am. He arrived at
+Changi Airport at around 11.30pm on 12 December 2019 and decided to call Kuon
+who was then already in China. Besides being Prime’s subcontractor, Frankie
+disclosed that Kuon was also his then neighbour and he recalled clearly that
+Kuon’s wife had then asked Frankie to bring some of Kuon’s belongings to the
+latter in China which he did.
+
+116 Assuming arguendo, that Andrew did not forward Shimizu’s e-mail in [83] to
+Kuon (who denied receiving any such e-mail) or that Kuon did not receive the
+forwarded e-mail (because he said he could only receive e-mails sent to
+certain domain names whilst in China 113
+
+##### Foot Note 113
+
+×
+
+See transcripts on 7 December 2022 at p 70.
+
+) the court finds that Frankie did telephone Kuon on 12 December 2019 to
+inform him of Shimizu’s decision while Frankie was at Changi Airport waiting
+for his flight to Qingdao.
+
+117 Contrary to Pro-Active’s closing submissions 114
+
+##### Foot Note 114
+
+×
+
+At para 44.
+
+, Kuon’s version of when he was notified of Pro-Active’s termination is
+neither credible nor corroborated by documentary evidence. The court finds it
+highly implausible that Prime would not immediately notify Pro-Active/Kuon of
+Shimizu’s decision to remove the installation component of the roof crown
+works from Pro-Active’s scope of works. Andrew more likely than not forwarded
+to Kuon Shimizu’s e-mail in [83] once Prime received it while Frankie orally
+informed Kuon of Shimizu’s decision on the same night. Moreover, in his own
+AEIC, Kuon had deposed 115
+
+##### Foot Note 115
+
+×
+
+At para 24.
+
+that in Prime’s e-mail dated 5 September 2019 (see [38] above), Prime had
+mentioned that Shimizu had considered revoking the roof crown works if not for
+the fact that Prime had already purchased the necessary steel. Kuon was fully
+aware of Shimizu’s dissatisfaction with Pro-Active’s slow progress and the
+real possibility of Pro-Active’s services being terminated.
+
+118 In this regard, the court rejects as untrue Kuon’s evidence 116
+
+##### Foot Note 116
+
+×
+
+At transcripts on 6 December 2022 at p 47.
+
+that he received official notice from Prime only on 27 December 2019, that
+Pro-Active had been taken off the roof crown works. Kuon should not have been
+surprised by Shimizu’s decision in the light of the many e-mails he previously
+received from Andrew warning him of what would happen if Pro-Active did not
+increase the manpower it deployed and accelerate the contracted works.
+
+119 Kuon’s excuse that he was in China between 13 and 27 December 2019 does
+not mean that he did not know of Shimizu’s decision in view of its past
+unhappiness with Pro-Active’s pace of work. Moreover, he himself revealed he
+could receive e-mails sent to his yahoo account in China 117
+
+##### Foot Note 117
+
+×
+
+Ibid at p 70.
+
+.
+
+120 The court is of the view that pursuant to Andrew’s letter of notification
+dated 31 October 2019 set out at earlier at [81], Pro-Active had been issued a
+“final warning” by Prime. Despite that final warning, Pro-Active’s rate of
+progress did not improve prompting Shimizu to terminate Prime’s contract and
+Prime in turn to validly terminate Pro-Active’s contract for the roof crown
+works.
+
+(d) What is the value of the works carried out by Pro-Active?
+
+121 It was during his re-examination 118
+
+##### Foot Note 118
+
+×
+
+At transcripts on 7 December 2022 at p 112.
+
+where Kuon attempted to shirk Pro-Active’s obligations and shift to Prime the
+responsibility for the fabrication and supply of the steel materials, claiming
+Pro-Active’s role was only that of a co-ordinator between Prime and Qingdao
+Co. It was even more absurd of Kuon to suggest 119
+
+##### Foot Note 119
+
+×
+
+See transcripts on 6 December 2022 at p 16.
+
+that Qingdao Co took over fabrication and installation of the roof crown
+works.
+
+122 Pro-Active’s contractual obligation under the LOA was the supply,
+fabrication and installation of steel works 120
+
+##### Foot Note 120
+
+×
+
+See the LOA at AB511.
+
+. Due to its financial constraints, it did not have the means to pay Qingdao
+Co and approached Prime for assistance. The fact that Prime paid Qingdao Co on
+Pro-active’s behalf does not ipso facto place on Prime the responsibility for
+the supply and fabrication of the steel needed for the roof crown works. That
+remained the responsibility of Pro-Active. Consequently, the court rejects
+Pro-Active’s argument that the roof crown works had been de-scoped from its
+scope of works.
+
+123 Pro-Active cannot unilaterally remove and deduct the roof crown works from
+its scope of works as Kuon attempted to do in the SOC. Consequently, Pro-
+Active’s computation in [20] is incorrect.
+
+124 In Pro-Active’s closing submissions 121
+
+##### Foot Note 121
+
+×
+
+At para 104.
+
+, it had set out in the table below its computation of the reduced sum of
+$260,615.68 due to Pro-Active should the court be of the view that the roof
+crown works were not de-scoped from Pro-Active’s scope of works:
+
+| Items| Amounts S$  
+---|---|---  
+A| Total contract sum | 2,512,531.53  
+B| Progress payments to Pro-Active | 822,011.15  
+C| L/C payment| 765,875.00  
+Less| (i)Further back charges| (117,498.71)  
+| (ii) 3% commission on L/C| (22,975.95*)  
+| (iii) Installation costs | (582,483.66)  
+| (iv) sum unaccounted based on actual quantity of materials supplied and fabricated by Qingdao Co | 41,879.00  
+| Subtotal | 243,566.06  
+Add| 7% GST| 17,049.62  
+Total| | 260,615.68  
+  
+* The correct figure should be $22,976.25 
+
+125 If the installation component in Pro-Active’s contracted works, which was
+quantified as $370,500.55 122
+
+##### Foot Note 122
+
+×
+
+Pro-Active’s closing submissions at para 96.
+
+, was used in place of Kong Hwee’s installation charge of $582,483.66, Pro-
+Active submitted it should be paid $522,018.66 (before GST) or the claim
+($558,559.97) after GST. The court does not accept either $260,615.68 or the
+claim amount as being due to Pro-Active.
+
+126 In its closing submissions (see [68]–[69] above), Pro-Active had further
+argued that there was no evidence before the court of any back charging by
+Shimizu to Prime for the roof crown works carried out by Kong Hwee. It is true
+that Prime did not produce by way of primary evidence an invoice from Shimizu
+to Prime or an invoice from Kong Hwee to Shimizu for the cost incurred by
+Shimizu for the roof crown works. What was before the court was a contra
+charge 123
+
+##### Foot Note 123
+
+×
+
+At AB790.
+
+from Shimizu to Positive dated 18 March 2020 where Prime and Kong Hwee were
+named as the parties on whose behalf Positive was charged by Shimizu for
+$652,918.10 with Kong Hwee’s charge under item 4 of $482,000.00 being for the
+installation of roof crown steel works including three coat system painting.
+
+127 In Prime’s closing submissions 124
+
+##### Foot Note 124
+
+×
+
+See para 82(b).
+
+, it pointed out that its claim against Pro-Active has nothing to do with the
+issue of privity of contract. It is based on the fact that Pro-Active needed
+to pay for the installation vis-à-vis the roof crown works as long as Prime
+engaged another subcontractor to carry out that installation. It was not
+disputed that Kong Hwee did carry out those works, subject to the caveat that
+its appointment was done by Shimizu. Prime added that it makes no difference
+to Pro-Active whether Kong Hwee’s appointment was done by Shimizu or Positive
+or Prime as long as it was a subcontractor which was appointed to carry out
+the installation of the roof crown works which Pro-Active did not do.
+
+128 It is precisely because there is no privity of contract between main and
+subcontractors that the construction industry coined the words “back charges”
+and came up with the practice of the main contractor(s) charging its
+subcontractors for inter alia rectification of defective works, provision of
+manpower and materials etc which the subcontractors pass down the line to sub-
+subcontractors and to the party ultimately liable for the back charge in
+question.
+
+129 The correct computation for Pro-Active’s claim and/or the work it carried
+out is set out in the table below:
+
+Item| Particulars| Amount (S$)  
+---|---|---  
+| Revised Contract sum* | 1,161,210.58  
+Add | Agreed variation works | 1,351,320.95  
+| Total | 2,512,531.53  
+Less| (i) Advance payment $45,557.69|  
+| (ii) L/C payment $765,875.00|  
+| (iii) Progress payments $770,248.46| (1,581,681.15)  
+| (v) Allowed back charges (see [107] above), inclusive of charges associated with Kong Hwee’s installation work, and inclusive of GST | ($751,699.34)  
+Balance| | $179,151.04  
+  
+*The revised contract sum was accepted by both parties against the original figure in the LOA of $1,161,204.58. 
+
+130 In the Defence component of its D&CC (see [30] above), Prime had claimed
+$93,976.08 125
+
+##### Foot Note 125
+
+×
+
+At para 15 of D&CC.
+
+(inclusive of GST) from Pro-Active. In addition, in the Counterclaim component
+of its D&CC, Prime had counterclaimed liquidated damages of $90,450.92 for
+Pro-Active’s delay of 36 days in completing the contracted works on 4 January
+2020 instead of on 29 November 2019 126
+
+##### Foot Note 126
+
+×
+
+At para 23 of D&CC.
+
+. If the counterclaimed sum is set off against the balance of $179,151.04 the
+court finds is due to Pro-Active, the remaining sum due to Pro-Active is
+$88,700.12 ($179,151.04 - $90,450.92).
+
+(e) The impact of Prime’s decision to discontinue its counterclaim.
+
+131 In its opening statement and in its closing submissions, Prime indicated
+it intended to withdraw its counterclaim for liquidated damages.
+
+132 However, in its closing submissions 127
+
+##### Foot Note 127
+
+×
+
+At para 107.
+
+, Pro-Active reserved its rights to seek costs from Prime for the late
+withdrawal of its counterclaim as well as the wasted hearing date of 9
+December 2022 due to Andrew’s unavailability to attend court that day.
+
+133 Undoubtedly, a party that withdraws its clam or counterclaim at the
+eleventh hour is liable to pay costs to the other party. Should an exception
+be made in this case? The court is of the view that the evidence adduced in
+court would have likely supported a finding in favour of Prime of liability on
+Pro-Active’s part for liquidated damages as there was undoubtedly a delay in
+completion of the contracted works, even before the roof crown works were
+removed from Pro-Active’s scope of works. However, because of Prime’s
+intention not to pursue its counterclaim, no evidence was led in that regard
+other than the computation for liquidated damages set out in the D&CC (see
+also [30] above) 128
+
+##### Foot Note 128
+
+×
+
+At para 21 of the D&CC.
+
+.
+
+134 Consequently, the withdrawal of Prime’s counterclaim was not because its
+claim for liquidated damages was unfounded. That being the case, there should
+only be nominal costs awarded to Pro-Active for the withdrawal of Prime’s
+counterclaim which the court fixes at $3,000 plus another $2,000 for the
+wasted hearing day of 9 December 2022.
+
+135 Pro-Active on the other hand has not proven its claim. Instead of
+$558,559.97 (see [20] above), Pro-Active is only entitled to the sum of
+$179,151.04. It fails in its claim for the claim amount of $558,559.97 or
+$260,615.68 (see para [125] above).
+
+Conclusion
+
+136 Accordingly, the court awards judgment to Pro-Active in the sum of
+$179,151.04 together with interest at 5.33% per annum from the date of the
+writ (6 November 2021) until payment. Costs to Pro-Active are on the
+State/District Courts scale in view of the judgment sum awarded being below
+the jurisdiction of the High Court. The sum of $5,000 awarded to Pro-Active in
+[134] should be added to the costs here which are to be taxed on the State
+Courts scale unless otherwise agreed.
+
+Lai Siu Chiu
+
+Senior Judge
+
+Yong Zhee Hoe and Remya Pisharath (Rajwin & Yong LLP) for the plaintiff;  
+Lee Wei Fan (Li Weifan) (Anthony Law Corporation) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 2: 07 Aug 2023 (15:11 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

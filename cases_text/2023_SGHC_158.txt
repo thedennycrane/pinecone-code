@@ -1,0 +1,2063 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 158
+
+Originating Application No 869 of 2022
+
+Between
+
+(1)| Mrs Spykerman Chwee Wah Christina née Lim  
+---|---  
+(2)| Yew Wai Kuen  
+(3)| Ong Han Ping (Wang Hanbin)  
+  
+… Claimants
+
+And
+
+(1)| Yow Jia Wen  
+---|---  
+(2)| Quek Guat Peck  
+(3)| Foo Kai Ming, Jeffrey (Fu Kaiming)  
+(4)| Daven Wu Yungren  
+(5)| Ong Seng Oh  
+(6)| Long Wee Fong  
+  
+… Defendants
+
+JUDGMENT
+
+[Land — Development — Housing developers]
+
+[Land — Strata titles — Land Titles (Strata) Act]
+
+[Land — Development — Collective sales]
+
+[Land — Development — Strata Titles Board]
+
+[Statutory Interpretation — Statutes]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Mrs Spykerman Chwee Wah Christina née Lim and others
+
+  
+v
+
+  
+
+Yow Jia Wen and others
+
+[2023] SGHC 158
+
+General Division of the High Court — Originating Application No 869 of 2022  
+Kwek Mean Luck J  
+26–28 April, 5 May 2023
+
+26 May 2023
+
+Kwek Mean Luck J:
+
+Introduction
+
+1 Chuan Park (Strata Title Plan No 1278) (“Chuan Park”) is a 99-year leasehold
+development situated along Lorong Chuan and off Ang Mo Kio Avenue 1. Pursuant
+to a resolution passed at an Extraordinary General Meeting (“EOGM”) in October
+2019, a collective sales committee (“CSC”) was formed on behalf of the
+subsidiary proprietors (“SPs”) of Chuan Park for its proposed en bloc through
+collective sale. The CSC entered into a Sale and Purchase Agreement dated 5
+July 2022 (“SPA”) for the sale of Chuan Park to a developer (“Developer”) at
+the sale price of $890m (the “Sale Price”) (the “Sale”).
+
+2 Some SPs objected to the Sale and filed objections to the Strata Titles
+Board (“STB”) between August and September 2022. 1
+
+##### Foot Note 1
+
+×
+
+1st Joint Affidavit of Mrs Spykerman Chwee Wah Christina Nee Lim, Yew Wai Kuen
+and Ong Han Ping (Wang Hanbin) dated 16 December 2022 (“1st Joint Affidavit of
+the Claimants”) at p 660.
+
+On 9 December 2022, the STB issued a Stop Order against the collective sale of
+Chuan Park, pursuant to s 84A(6A) of the Land Titles (Strata) Act 1967 (2020
+Rev Ed) (“the LTSA”).
+
+3 This led to authorised representatives of the CSC filing the present
+Originating Application No 869 of 2022 (“OA 869”) for orders that Chuan Park
+be sold in accordance with the SPA, as well as other related orders.
+
+4 Resisting this application, the Defendants submit various grounds of
+objection before the General Division of the High Court (the “High Court”).
+Some of these grounds were not included in the Defendants’ objections to the
+STB. This raises the preliminary issue of whether such grounds can be
+considered by the High Court.
+
+5 The collective sale of Chuan Park requires, among other things, satisfaction
+of s 84A(1) of the LTSA. Whether this provision was satisfied is disputed by
+the parties. The parties also dispute whether the transaction was made in good
+faith in relation to the Sale Price and the method of apportionment (“MOA”)
+adopted by the CSC.
+
+Facts
+
+Parties
+
+6 The Claimants, Mrs Spykerman Chwee Wah Christina Nee Lim; Yew Wai Kuen; and
+Ong Han Ping (Wang Hanbin), are authorised representatives of the CSC
+appointed pursuant to the collective sale agreement (“CSA”).
+
+7 The Defendants, Yow Jia Wen; Quek Guat Peck; Foo Kai Ming, Jeffrey (Fu
+Kaiming); Daven Wu Yungren; Ong Seng Oh; and Long Wee Fong, are SPs of Chuan
+Park who filed objections to the STB, objecting to the Sale. The individual
+objections to the STB filed by each Defendant will be referred to collectively
+as the “STB Objections”. The Defendants did not sign the CSA.
+
+Background to the dispute
+
+8 During an EOGM held in October 2020, the majority of SPs representing 95.2%
+of share value passed a motion to execute the CSA. The CSA was signed by the
+first SP on 3 October 2020. By around 28 August 2021, SPs representing a total
+of 364 units had signed the CSA, specifying a reserve price (“RP”) of $938m.
+These SPs represent 80% of total share value and total strata area. On 6
+October 2021, the first public tender exercise was launched with a RP of
+$938m. No bids were received after the exercise closed on 18 November 2021.
+
+9 At a meeting on 17 December 2021, the CSC resolved to seek a fresh mandate
+for a revised RP of $860m. Under the terms of the CSA, revision of the RP may
+be done by drawing up a “supplementary joint agreement” (“SJA”) for execution
+by the SPs. A SJA and the terms contained therein would only be valid and
+binding if it was executed by SPs representing 80% of total share value and
+total strata area. A SJA at the RP of $860m (“1st SJA”) was drawn up and first
+signed by a SP on or about 28 December 2021.
+
+10 On 12 March 2022, the CSC sent a circular letter to all owners to inform
+them that, as at 11 March 2022, the SPs of 268 units had signed the 1st SJA.
+These SPs represented 59.85% of total share value and 59.05% of total strata
+area. The letter stated that the RP of $860m would only take effect if at
+least 80% of all owners by total share value and total strata area have
+executed the SJA. Until then, the CSC would only have the authority to accept
+an offer at or above the RP of $938m.
+
+11 On 15 March 2022, a second public tender exercise was launched with a RP of
+$938m. This exercise closed on 26 April 2022, with no bids or expressions of
+interest received.
+
+12 On 17 June 2022, the marketing agent for the CSC, ERA Realty Network Pte
+Ltd (“ERA”), informed all owners by way of circular letter that the CSC
+received an expression of interest from the Developer at a sale price of
+$860m, 2
+
+##### Foot Note 2
+
+×
+
+1st Joint Affidavit of the Claimants at pp 775–776.
+
+which was below the RP of $938m which the CSC had an 80% mandate for. On 24
+June 2022, the CSC resolved to seek a fresh mandate at a revised RP of $890m
+by deeming the SPs who had executed the 1st SJA as having consented to the
+upward revision of the RP to $890m and drawing up the 2nd SJA for execution by
+SPs who had not executed the 1st SJA but were agreeable to the revised RP. As
+of that date, owners constituting 72.20% of the total share value and 71.80%
+of total strata area had signed the 1st SJA, agreeing to a downward revision
+of the RP to $860m. No more signatures were added to the 1st SJA. Between 25
+June 2022 to 5 July 2022, owners representing 8.73% of the total share value
+and 8.315% of the total strata area executed the 2nd SJA to revise the RP
+upward to $890m.
+
+13 The SPA for the collective sale of Chuan Park to the Developer at the Sale
+Price of $890m was signed on 5 July 2022. The Sale Price was arrived at with
+reliance on a valuation report by one Yick E-Ling (Ms Yick”), whose valuation
+was based on a gross floor area (“GFA”) of 78,152.76m2 based on a plot ratio
+of 2.1. In relation to the distribution of the proceeds from the Sale to Chuan
+Park’s SPs, the Claimants had adopted a MOA based on 90% valuation, 5% strata
+area and 5% share value. This MOA was based on calculations done by Ms Yick.
+
+14 The Claimants called Ms Yick as their valuation expert, while the
+Defendants called one Stella Seow Lee Meng (“Ms Seow”) as their valuation
+expert.
+
+The law governing collective sales
+
+15 It would be useful to briefly outline the law governing collective sales,
+before turning to the objections to the Sale. The LTSA is the governing law
+for collective sales. The legislative purpose of the LTSA has been set out by
+the Court of Appeal in Ramachandran Jayakumar and another v Woo Hon Wai and
+others and another matter [2017] 2 SLR 413 (“Shunfu Ville”) at [4]–[10]. I
+will not reproduce it here but will refer to specific portions at the relevant
+parts of the analysis below.
+
+16 The key provisions of the LTSA for the purposes of this application are ss
+84A(1)(b) and (9) of the LTSA:
+
+Application for collective sale of parcel by majority of subsidiary
+proprietors who have made conditional sale and purchase agreement
+
+84A.—(1) An application for an order for the sale of all the lots and common
+property in a strata title plan may be made by —
+
+…
+
+(b) the subsidiary proprietors of the lots with not less than 80% of the share
+values and not less than 80% of the total area of all the lots …
+
+who have agreed in writing to sell all the lots and common property in the
+strata title plan to a purchaser under a sale and purchase agreement which
+specifies the proposed method of distributing the sale proceeds to all the
+subsidiary proprietors (whether in cash or kind or both), subject to an order
+being made under subsection (6) or (7).
+
+…
+
+(9) The General Division of the High Court or a Board must not approve an
+application made under subsection (1) —
+
+(a) if the General Division of the High Court or Board (as the case may be) is
+satisfied that —
+
+(i) the transaction is not in good faith after taking into account only the
+following factors:
+
+(A) the sale price for the lots and the common property in the strata title
+plan;
+
+(B) the method of distributing the proceeds of sale; and
+
+(C) …
+
+[emphasis added]
+
+As seen from the above, s 84A(1)(b) sets out the threshold requirement that
+SPs representing at least 80% of the share values and total area of all the
+lots must agree to the collective sale in writing (the “80% Requirement”).
+Section 84A(9)(a) provides that the court must not approve an application for
+a collective sale order if the transaction is not in good faith, taking the
+factors listed in s 84A(9)(a)(i) into account.
+
+Objection to the Sale
+
+17 Before the High Court, the Defendants object to the Sale on the following
+grounds (the “Grounds”) (the “HC Objection”): 3
+
+##### Foot Note 3
+
+×
+
+Defendants’ Written Submissions dated 24 April 2023 (“Defendants’ Written
+Submissions”) at para 14.
+
+(a) the 80% Requirement set out in s 84A(1)(b) of the LTSA has not been
+satisfied for the collective sale at the sale price of $890m;
+
+(b) the sale price of $890m was not arrived at by the CSC in good faith, as
+the CSC (the “Sale Price Ground”):
+
+(i) did not ensure that a Pre-Application Feasibility Study (“PAFS”) was
+carried out (the “PAFS Ground”);
+
+(ii) relied on a valuation report from Ms Yick, whose valuation was based on a
+gross floor area (“GFA”) of 78,152.76m2 based on a plot ratio of 2.1 and not a
+GFA of 82,924m2 based on the development baseline plot ratio of 2.41 (the
+“Incorrect GFA Ground”); and
+
+(iii) did not take steps to verify the GFA of Chuan Park (the “GFA
+Verification Ground”); and
+
+(c) the MOA relied on by the CSC, based on 90% valuation, 5% strata area and
+5% share value, was not arrived at by the CSC in good faith (the
+“Apportionment Ground”). In relation to this, the Defendants also submitted
+that:
+
+(i) para 1(e)(vi) of the First Schedule to the LTSA has not been complied
+with, as Ms Yick was not an “independent valuer” (the “Independent Valuer
+Ground”).
+
+Preliminary issue: Grounds of objections not raised before the STB
+
+18 At the hearing, the Claimants submitted that there were three Grounds of
+the HC Objection which had not been filed in the STB Objection pursuant to s
+84A(4) of the LTSA:
+
+(a) the PAFS Ground;
+
+(b) the GFA Verification Ground; and
+
+(c) the Independent Valuer Ground.
+
+19 As such, a preliminary issue arose as to whether the Defendants were
+allowed to raise the above issues before the High Court, when these issues had
+not been included in the STB Objection. This preliminary issue requires an
+interpretation of s 84A(4A) of the LTSA, which states that any person who
+filed an objection to the STB pursuant to s 84A(4) may “re-file the person’s
+objection to the sale, stating the same grounds of objection, to the General
+Division of the High Court”.
+
+20 The Claimants cited Lim Hun Joo and others v Kok Yin Chong and others
+[2019] SGHC 3 (“Lim Hun Joo”), where the court held at [50] that where a
+person re-files his objection to the High Court pursuant to s 84A(4A) of the
+LTSA, such objection must state the same grounds of objection as those filed
+before the STB.
+
+21 In response, the Defendants submitted that in relation to:
+
+(a) the PAFS Ground, the Claimants had waived any objection to the Defendants
+putting forward this issue in the circumstances. Firstly, the Claimants had
+been aware of this issue from the outset of this application as it had been
+set out in the affidavit of the 3rd Defendant, Mr Foo Kai Ming, Jeffrey (Fu
+Kaiming) (“Mr Foo”). Further, the Claimants had included, prior to the
+hearing, the PAFS Ground in their Scott Schedule of disputed issues as an
+issue for the parties to address; 4
+
+##### Foot Note 4
+
+×
+
+Letter to the Court from the Claimants’ Counsel dated 19 April 2023 (“Letter
+from the Claimants’ Counsel”), Parties’ Scott Schedule, item 6.
+
+(b) the GFA Verification Ground, the Defendants should not be prevented from
+raising the issue. The failure to verify the GFA of Chuan Park only became
+apparent in the email correspondence between the Urban Redevelopment Authority
+(“URA”) and ERA around November 2021 (“URA-ERA Emails 2021”) 5
+
+##### Foot Note 5
+
+×
+
+4th Joint Affidavit of Mrs Spykerman Chwee Wah Christina Nee Lim, Yew Wai Kuen
+and Ong Han Ping (Wang Hanbin) dated 20 April 2023 (4th Joint Affidavit of the
+Claimants”) at pp 78–79.
+
+that was provided by the Claimants in their 4th Joint Affidavit on 20 April
+2023; and
+
+(c) the Independent Valuer Ground, the issue of Ms Yick’s independence as a
+valuer was a matter of statutory compliance and thus could be raised even if
+it was not in the STB Objection.
+
+Grounds based on previously unknown facts may be raised to the High Court
+
+22 In Lim Hun Joo, the court held at [50] that under s 84A(4A) of the LTSA, a
+person who re-files his objection to the High Court must state the same
+grounds of objections filed to the STB (the “Same Grounds Rule”). This
+“prevents the collective sale application process from being complicated or
+delayed by the raising of new grounds of objection before the High Court which
+should have first been raised before the Board”: Lim Hun Joo at [50].
+Notwithstanding, the court also held at [52] that the High Court may consider
+a ground of objection which had not been raised before the STB if, through no
+fault of the objector, he could not have known at that time of the facts
+giving rise to the ground of objection: see also Ngui Gek Lian Philomene and
+others v Chan Kiat and others (HSR International Realtors Pte Ltd, intervener)
+[2013] 4 SLR 694 (“Thomson View Condominium”) at [45].
+
+23 I agree with the decisions in Lim Hun Joo and Thomson View Condominium. The
+STB Objection was filed in September 2022 while the basis of the GFA
+Verification Ground (ie, the email correspondence between URA and ERA) was
+only revealed on 20 April 2023. In other words, the facts which give rise to
+this ground of the HC Objection were not known to the Defendants when the STB
+Objection was filed. Hence, despite this issue being absent from the STB
+Objection, I will consider the GFA Verification Ground.
+
+Acceptance that an issue may be submitted to the High Court
+
+24 Unlike the GFA Verification Ground, the Defendants’ objection on the basis
+that the PAFS had not been carried out (ie, the PAFS Ground) was not founded
+on facts which were unknown to the Defendants when they filed the STB
+Objection. Accordingly, the issue arises as to whether it runs afoul of the
+Same Grounds Rule, per s 84A(4A) of the LTSA.
+
+25 A number of facts are particularly salient. First, I note that the PAFS
+Ground had been put into issue in Mr Foo’s affidavit, which was filed
+approximately three months prior to the commencement of the trial. Second, the
+Claimants had recognised the PAFS Ground and listed it within their Scott
+Schedule as a dispute to be addressed during the hearing. Third, the Claimants
+had asked their expert, Ms Yick, to provide her opinion on the PAFS Ground and
+she did so in her expert report. Fourth, the Claimants then referred to Ms
+Yick’s views in their written submissions and stated that this issue would be
+elaborated upon after oral testimony. 6
+
+##### Foot Note 6
+
+×
+
+Claimants’ Written Submissions dated 24 April 2023 at para 56.
+
+Lastly, the Claimants’ objection to the High Court’s consideration of the PAFS
+Ground only surfaced during their oral submissions, after the cross-
+examination of all witnesses had been completed. In these circumstances, I
+find that the concern highlighted in Lim Hun Joo at [50], of complicating or
+adding delay to the collective sale process, would not be triggered by the
+High Court’s consideration of the PAFS Ground. The Claimants had conducted
+themselves in a manner demonstrative of an acceptance of the PAFS Ground as
+one for the High Court’s consideration, up until their raising of an objection
+towards the end of the hearing. The Claimants cannot now, at this late stage,
+take advantage of s 84A(4A) of the LTSA and deny the Defendants from objecting
+on this ground.
+
+26 In view of the above, I will consider the PAFS Ground.
+
+Objections pursuant to statutory requirements
+
+27 Before an application may be made to the STB for a collective sale pursuant
+to s 84A(1) of the LTSA, the requirements set out in the First, Second, and
+Third Schedules to the LTSA (the “LTSA Schedules”) must be satisfied, per s
+84A(3) of the LTSA. As explained by the court in Lim Hun Joo at [92], the
+issue of compliance with the requirements set out in the LTSA Schedules is a
+prerequisite that goes towards whether the collective sale application is
+valid and may be made in the first place.
+
+28 Paragraph 1(e)(vi) of the First Schedule to the LTSA requires that “a
+report by an independent valuer on the proposed method of distributing the
+proceeds of the sale due under the sale and purchase agreement” be made
+available to any and all SPs of the relevant property [emphasis added].
+Satisfaction of this statutory requirement necessitates the independence of
+the valuer who produces the report. The Independent Valuer Ground raised by
+the Defendants as a ground of objection is an issue that goes to whether the
+Claimants’ application under s 84A of the LTSA is valid and may be made.
+Hence, I find that the absence of this ground (which relates to statutory
+compliance) in the STB Objection would not preclude the court from considering
+if such statutory compliance has been met.
+
+29 Further, I note that although the language of s 84A(3) and (7C) of the LTSA
+appears to suggest that the issue of whether the application for collective
+sale may be made should be resolved first by the STB, the High Court would
+still have to take into account such considerations. Indeed, as recognised by
+the court in Lim Hun Joo at [92]:
+
+… [t]he threshold issue of whether an application may even be made should thus
+have been settled before the [STB] in the first instance. Thus, the omission
+to mention the High Court in s 84A(7C) appears deliberate. However, the
+omission means that the court still has to grapple with the question as to
+whether a non-compliance with any requirement in the First, Second or Third
+Schedule would necessarily invalidate an application to the High Court for
+approval.
+
+[emphasis added]
+
+30 For completeness, this reasoning must necessarily extend to other statutory
+requirements for a valid application for collective sale, such as the 80%
+Requirement set out in s 84A(1)(b) of the LTSA.
+
+31 I have thus proceeded below to consider the Independent Valuer Ground as
+one of the Grounds of the HC Objection.
+
+Summary of the law on re-filing objections to the High Court
+
+32 In summary, where person(s) who have filed an objection to a collective
+sale to the STB under s 84A(4) of the LTSA seek to re-file that objection to
+the General Division of the High Court under s 84A(4A), the grounds of
+objection filed to the High Court must be the same as that filed to the STB
+(ie, the Same Grounds Rule): see Lim Hun Joo at [50].
+
+33 Notwithstanding, this Same Grounds Rule is subject to certain exceptions
+and the grounds of objection raised need not be identical to that in the
+objection to STB where:
+
+(a) the ground of objection filed to the High Court is based on facts which
+were unknown at the time the objection was filed to the STB: see Lim Hun Joo
+at [52] and Thomson View Condominium at [45];
+
+(b) the claimants have waived their right to object to different grounds of
+objection being raised, despite being absent from the objection filed to the
+STB, by accepting that the issue can be submitted before the High Court; and
+
+(c) the ground of objection relates to a statutory prerequisite for approval
+of an application for collective sale under s 84A(1) of the LTSA.
+
+Issues to be determined
+
+34 I now turn to the main issues before me:
+
+(a) whether the 80% Requirement is satisfied for a collective sale at a RP of
+$890m;
+
+(b) whether the Sale Price was derived in good faith; and
+
+(c) whether the MOA was arrived at in good faith.
+
+Issue 1: Whether the 80% Requirement for collective sale at $890m was
+satisfied
+
+35 As set out above, s 84A(1)(b) of the LTSA provides that an application for
+collective sale must satisfy the 80% Requirement. The legislative purpose of s
+84A(1)(b) of the LTSA was explained by the Court of Appeal in Shunfu Ville at
+[5]–[6]:
+
+5 … the Land Titles (Strata) (Amendment) Act 1999 (Act 21 of 1999) (“Act 21 of
+1999”) … removed the need for unanimous consent and instead it was provided
+that a collective sale could be carried through as long as the subsidiary
+proprietors of the lots with not less than 80% or 90% of the share values,
+depending on the age of the property, had agreed in writing to the sale. The
+amendments were evidently intended to “make it easier for en-bloc sales to
+take place”, and Parliament thought this “imperative” in land-scarce Singapore
+in order to realise enhanced plot ratios of developments, “make available more
+prime land for higher-intensity development to build more quality housing in
+Singapore”, and to allow older developments to be “rejuvenated through the en-
+bloc process”: see Singapore Parliamentary Debates, Official Report (31 July
+1998) vol 69 at col 601 (Assoc Prof Ho Peng Kee, Minister of State for Law).
+
+6 At the same time, Parliament was aware that the interests of minority owners
+had to be protected. Apart from procedural safeguards that governed the
+process of a collective sale, Parliament envisaged that the Strata Titles
+Board (“the Board”) would play a key role in ensuring that the interests of
+both the majority and minority owners were taken into account before approving
+a sale. In the course of the second reading of the Land Titles (Strata)
+(Amendment) Bill (No 28 of 1998) (“Bill 28 of 1998”), Assoc Prof Ho Peng Kee,
+Minister of State for Law, noted (at Singapore Parliamentary Debates, Official
+Report (31 July 1998) vol 69 at col 604) that the Board:
+
+… will first satisfy itself that the required consent has been obtained and
+that prescribed procedures have been complied with. … Essentially its role is
+to determine that the proposed sale is bona fide and an arm’s length
+transaction so that the proposed sale can proceed. It will do this by
+considering the minority’s objections, the interests of all the owners, all
+the circumstances of the case and the scheme and intent of the en-bloc
+provisions in the Bill. The Board will look at the sale price, method of
+distributing the sale proceeds to ensure that the minority owners are treated
+no less favourably than the majority, and the relationship of the purchaser to
+the owners, to ensure that there is no collusion. …
+
+[emphasis added]
+
+36 Several points of note arise from the above.
+
+(a) First, there is a policy imperative in land-scarce Singapore to allow
+older developments to be rejuvenated through the en bloc sale process.
+
+(b) Second, the amendments made to the LTSA (the “Amendments”) were intended
+to make it easier for the en bloc sale process to take place.
+
+(c) Third, the Amendments were to allow the collective sale of property of a
+certain age to be carried through as long as the requisite 80% had agreed in
+writing.
+
+(d) Fourth, the issue of whether the required majority (of 80% or 90%,
+depending on the age of property) has been achieved, is salient.
+
+(e) Fifth, what the STB will do, amongst other things, is to satisfy itself
+that the required consent has been obtained.
+
+37 Before delving into the parties’ submissions, I pause to highlight that s
+84A(1) of the LTSA requires that the SPs “agreed in writing to sell all the
+lots and the common property in the strata title plan” [emphasis added]. I
+make the following observations in relation to this writing requirement.
+
+Agreement in writing
+
+38 First, there is nothing in the wording of s 84A(1) LTSA that imposes a
+limitation that the agreement in writing to the collective sale must be
+contained within the confines of one singular document. This observation is
+reinforced by para 1(a) of the First Schedule to the LTSA, which states that
+what the SPs are required to execute is a collective sale agreement “in
+writing among themselves (whether or not with other subsidiary proprietors or
+proprietors)”.
+
+39 Second, there is also nothing in s 84A(1) of the LTSA that requires the 80%
+Requirement to be satisfied by an agreement in writing viz, a valid and
+binding contractual agreement. At the hearing, the Defendants accepted that
+there is a conceptual distinction between agreeing to an agreement and being
+bound by an agreement. 7
+
+##### Foot Note 7
+
+×
+
+Transcript for the hearing on 28 April 2023 (“Transcript (28 April 2023)”) at
+p 13 lines 17 to 22.
+
+The effect of this observation is that the Defendants’ submissions as to
+whether the 1st SJA is valid and binding, which will be canvassed in further
+detail below, are hence not material to the question of whether the 80%
+Requirement has been satisfied.
+
+40 These observations of s 84A(1) of the LTSA accord with the parliamentary
+intention of the LTSA (set out above) and the plain language of the provision.
+
+41 It is not disputed that the SPs who were signatories of the 1st and 2nd SJA
+had “agreed in writing” to the collective sale. Accordingly, the remaining
+issue is whether the 80% Requirement has been satisfied.
+
+The 80% Requirement
+
+42 The Defendants submits that the 80% Requirement has not been satisfied,
+contrary to the CSC’s claim, and objects to the Sale on this basis. In
+particular, the Defendants take issue with the fact that the CSC satisfied the
+80% Requirement by relying on both the 1st SJA, which was executed by owners
+representing 72.20% in total share value and 71.80% in total area, and the 2nd
+SJA, which was executed by owners representing 8.73% share value and 8.31%
+share area. The Defendants’ position is that an addition of both set of
+numbers cannot be done as the 1st SJA was not valid and binding.
+
+43 In support of this, the Defendants relied on cl 6.12.1 of the CSA, which
+states that an SJA requires execution by owners representing 80% of the total
+share value and total strata area in order to be valid and binding:
+
+Clause 6.12.1. Notwithstanding anything to the contrary in this Agreement, and
+in the event that the RESERVE PRICE or any of the SALE TERMS herein cannot be
+attained, the SALE COMMITTEE may in its absolute discretion direct the
+SOLICITORS to draw up a supplemental agreement to this Agreement (hereinafter
+called the “SJA”) whereby each of the CONSENTING OWNERS shall be at liberty to
+agree [by way of entering into the SJA] with any one or more of the CONSENTING
+OWNERS and as well as with any one or more of the OWNERS who have not executed
+this Agreement, to sell ALL UNITS and common property in the DEVELOPMENT by
+way of COLLECTIVE SALE at a price less than the RESERVE PRICE, and/or upon
+terms which do not comply with the SALE TERMS, and the signing of the SJA by
+any of the CONSENTING OWNERS will not constitute a breach of this Agreement.
+
+Provided Always that the SJA shall only be valid and binding if it is drawn up
+by the SOLICITORS with the SALE COMMITTEE’S approval and OWNERS with not less
+than eighty per cent (80%) of the TOTAL SHARE VALUE and not less than eighty
+per cent (80%) of the TOTAL STRATA AREA in the DEVELOPMENT must have executed
+the SJA (hereinafter called “NEW CONSENTING OWNERS”).
+
+In addition, the Defendants also relied on cl 3 of the 1st SJA, which mirrors
+cl 6.12.1 and requires execution by owners representing 80% of the total share
+value and total strata area for the reduction of the RP to $860m to take
+effect:
+
+Clause 3. For avoidance of doubt and pursuant to clause 6.12.2 of the CSA, the
+reduction of the RESERVE PRICE herein to Eight Hundred and Sixty Million ($860
+million) shall only take effect upon the execution of this supplemental
+agreement by OWNERS having at least eighty per cent (80%) of both the total
+share value and total strata area in the DEVELOPMENT. …
+
+44 Since owners representing only 72.20% in total share value and 71.80% in
+total strata area have signed the 1st SJA, the Defendants submit that that SJA
+is not valid and binding. Consequently, there is no valid reduction of the RP
+from $938m to $860m. As the RP remained at $938m, the latter part of cl 3 of
+the 1st SJA does not assist the Claimants because it only operates to allow
+owners who signed the 1st SJA to be deemed to have agreed to an increase in RP
+from $860m. The relevant portion of cl 3 of the 1st SJA states:
+
+… In such event of attaining the said eighty per cent (80%), the CONSENTING
+OWNERS to the CSA who have not signed this supplemental agreement will
+forthwith be discharged from all their obligations under the CSA and be
+released from the CSA. For further avoidance of doubt, in the event that the
+SALES COMMITTEE subsequently resolves to make any increase to the RESERVE
+PRICE, the OWNERS who have already signed this supplemental agreement shall be
+deemed to have agreed to such increased RESERVE PRICE without having to sign
+any further document.
+
+45 Disagreeing with the Defendants contractual interpretation, the Claimants
+submit that cl 3 of the 1st SJA expressly states that owners who signed the
+1st SJA shall be deemed to have agreed to an increase in the RP without having
+to sign any further document. This clause mirrors cl 6.4(a) of the CSA:
+
+Clause 6.4(a). … the SALE COMMITTEE may, in its absolute discretion and having
+duly considered any input from the PROPERTY CONSULTANTS, be entitled to
+increase the RESERVE PRICE (the “NEW RESERVE PRICE”) as set out in this clause
+whether prior to, on or after the MAJORITY DATE, and in such event, the
+CONSENTING OWNERS who have executed this Agreement shall be deemed to have
+agreed to the NEW RESERVE PRICE without having to enter into any fresh
+agreement in supplement to this Agreement.
+
+The Defendants have not taken issue with the operation of cl 6.4(a).
+
+46 The Claimants submit that the effect of these clauses is that owners who
+executed the 1st SJA are carried into all and any subsequent SJAs with a
+higher RP, such as the 2nd SJA which revises the RP to $890m. This effect is,
+notably, codified in cl 3 of the 2nd SJA:
+
+Clause 3. Those OWNERS who had executed the SJA consenting to lower the
+Reserve Price to $860 million are deemed to have agreed to the revised Reserve
+Price of $890 million and are not required to sign this document.
+
+47 Additionally, the Claimants submit that the CSA, the 1st SJA, and the 2nd
+SJA should be read together for the purpose of determining their legal effect:
+Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric [2007] 3 SLR(R) 782
+(“Sunny Metal”) at [30]. In support of this submission, the Claimants
+highlight that: (a) the CSA and the SJAs refer to each other therein; (b) each
+document takes effect by specific reference to the earlier document; and (c)
+the language in cl 3 of both the 1st and 2nd SJAs militate against treating
+them as two unconnected agreements. Instead, the three documents represent a
+single transaction, which ought to be construed together.
+
+48 The Claimants submit that, by virtue of cl 3 of the 1st SJA, the
+signatories to that SJA have agreed that they be deemed to have agreed to a RP
+higher than $860m, without having to sign any further document. Hence, by
+virtue of what they agreed to in writing in the 1st SJA, they are deemed to
+have agreed to sell at the RP of $890m. The signatories of the 2nd SJA also
+clearly “have agreed in writing to sell” Chuan Park at the RP of $890m. Taken
+together, owners constituting the requisite 80% threshold “have agreed in
+writing to sell” Chuan Park at the RP of $890m, through the 1st and 2nd SJAs.
+
+49 A key issue that arises from the parties’ submissions, is whether the 1st
+and 2nd SJA are to be treated as the same document such that the percentage of
+total share value and total strata area represented by the owners who executed
+the 1st and 2nd SJA may be added together to satisfy the 80% Requirement.
+Specifically, the Defendants’ submission is premised on the 1st and 2nd SJA
+being two separate agreements. I hence examine whether such an interpretation
+is sustainable. In Leiman, Ricardo and another v Noble Resources Ltd and
+another [2020] 2 SLR 386 (“Leiman v Noble Resources Ltd”), the Court of Appeal
+provided guidance on contractual interpretation at [59]:
+
+(a) The starting point is that the court looks to the text that the parties
+have used: Lucky Realty Co Pte Ltd v HSBC Trustee (Singapore) Ltd [2016] 1 SLR
+1069 at [2].
+
+(b) The court may have regard to the relevant context as long as the relevant
+contextual points are clear, obvious and known to both parties: Zurich
+Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd
+[2008] 3 SLR(R) 1029 at [125], [128] and [129].
+
+(c) The court has regard to the relevant context because it then places itself
+in “the best possible position to ascertain the parties’ objective intentions
+by interpreting the expressions used by the parties in the [contract] in their
+proper context”: Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and
+another appeal [2013] 4 SLR 193 at [72].
+
+(d) In general, the meaning ascribed to the terms of the contract must be one
+which the expressions used by the parties can reasonably bear: Yap Son On v
+Ding Pei Zhen [2017] 1 SLR 219 at [31].
+
+50 I first consider the text of the SJAs. It should be borne in mind that the
+abbreviations of “1st SJA” and “2nd SJA” were so framed by the Defendants.
+They do not connote that the two are legally distinct documents. Moreover,
+there is nothing in the headers of the SJAs that labels them as the 1st and
+2nd SJA. The Defendants also accepted at the hearing, that the two SJAs are
+supplemental to the CSA and they form part of the CSA. 8
+
+##### Foot Note 8
+
+×
+
+Transcript (28 April 2023) at p 4 lines 2 to 13.
+
+51 While there is nothing in each SJA that expressly states that they are part
+of the same SJA, there is similarly nothing that states that they are to be
+regarded as separate supplemental agreements. Further, there is nothing in the
+language of the SJAs that indicates that the SJAs are to be treated as
+separate agreements. On the other hand, there is language in the SJAs that
+suggests that the 1st and 2nd SJA are part of the same agreement. For example,
+cl 3 of the 1st SJA states that owners who have signed this supplemental
+agreement are deemed to have agreed to an increased RP without having to sign
+“any further document” (distinct from having to sign another “SJA”):
+
+… For further avoidance of doubt, in the event the SALE COMMITTEE subsequently
+resolves to make any increase to the RESERVE PRICE, the OWNERS who have
+already signed this supplemental agreement shall be deemed to have agreed to
+such increased RESERVE PRICE without having to sign any further document.
+
+52 More importantly, the key scenario where this part of cl 3 of the 1st SJA
+would be needed, would be where 80% consent has not been obtained for the RP
+of $860m. It is important to bear in mind the clear, obvious, and undisputed
+context – that what the owners of Chuan Park need in order to bring an
+application for collective sale is 80% consent and that the CSC was, in the
+process leading up to the SJAs, looking to find a RP for which there was 80%
+consent. If as the Defendants submit, the 1st SJA only becomes valid and
+binding when 80% have consented to the RP of $860m, this part of cl 3 would be
+effectively otiose.
+
+53 While the Defendants submit that this part of cl 3 could still be used by
+the CSC to arrive at a higher RP, so that there would be less or no objectors,
+this is not likely to be what this part of cl 3 was envisioned for. Having a
+higher percentage of consent does not prevent objections from being filed,
+since an objection could still be filed by a single owner. Hence, this aspect
+is not materially beneficial and unlikely to be the purpose. The Defendants
+also submitted that this part of cl 3 could be used to achieve 100% consent,
+which would then remove the need for an application under s 84A(1) of the LTSA
+for collective sale. Given the difficulties the parties had in achieving 80%
+consent, not to mention the difficulties of achieving 100% consent, and the
+timeline that the CSC had to meet, it is also not likely that in the context,
+this is what the parties had regarded this part of cl 3 as for. I hence find
+that cl 3 of the 1st SJA at $860m contemplates that those who subsequently
+agree to a higher RP, could be treated as part of the same SJA for the
+purposes of cl 6.12.1 of the CSA.
+
+54 The text of cl 3 of the 2nd SJA also reinforces the view that both
+documents are to be treated as part of the same SJA. Clause 3 of the 2nd SJA
+states:
+
+Those OWNERS who had executed the SJA consenting to lower the Reserve Price to
+$860 million are deemed to have agreed to the revised Reserve Price of $890
+million and are not required to sign this document.
+
+55 Notably, cl 3 of the 2nd SJA refers to owners who executed the “SJA
+consenting to lower” the RP from the $938m as stated in the CSA down to $860m,
+as opposed to referring to owners who executed the 1st SJA or a separate SJA.
+It states that they are not required to sign “this document” as they are
+deemed to have agreed to the increased price, rather than they are not
+required to sign “this SJA”.
+
+56 It is trite law that documents forming part of the same transaction may be
+read together for the purpose of determining their legal effect: Sunny Metal
+at [30]. The Defendants submitted that the present case is distinguishable
+from Sunny Metal as the two SJAs were not contemporaneously created. Instead,
+they were created about six months apart while the documents in Sunny Metal
+were created about two days apart. In addition, the parties to the documents
+in Sunny Metal were the same while here the parties in the two SJAs are
+different. In my view, while contemporaneity and similarity of parties would
+be strong factors in considering whether documents form part of the same
+transaction, the facts that there was a time lag of about six months and that
+the parties to the respective SJAs were different does not rule out the
+possibility of the SJAs being treated as part of the same transaction. This is
+particularly so when there is contractual intention in the SJAs to treat them
+as such, as explained above. Following from this, I find that the requirement
+in cl 6.12.1 of the CSA (ie, that the SJA drawn up pursuant to that clause
+shall only be valid and binding if owners with not less than 80% of the total
+share value and total strata area have executed the SJA) refers to the 1st and
+2nd SJAs collectively, and not the SJAs individually.
+
+57 The decision in Shunfu Ville is also instructive. There, owners of Shunfu
+Ville representing 80% of the total share value and total strata area had
+initially agreed to a RP of $688m. A first supplemental agreement was prepared
+for the SPs to agree to a reduced RP of $628m. This did not obtain the
+requisite 80% consent. A second supplemental agreement was then prepared for
+the SPs to agree to an increased RP of $638m. In relation to this revised RP,
+the court found that the 80% Requirement was satisfied by adding up the total
+percentages representing the SPs who signed the collective sale agreement by
+taking into account other SPs who executed either the 1st or 2nd supplemental
+agreement but not the original collective sale agreement: Shunfu Ville at
+[81].
+
+58 While the same submissions canvassed by the Defendants here about the
+validity of the 1st SJA were not raised to the Court of Appeal in Shunfu
+Ville, it is useful to note the Court of Appeal’s response at [85] to the
+submission made there that it was not acceptable to approve what was in effect
+a different collective sale agreement with different parties than the one
+which had been consented in the first place. The Court of Appeal referred to
+cll 6.12.1 and 6.12.2 of the collective sale agreement. The wording of these
+clauses is found in the High Court’s decision in relation to the collective
+sale of Shunfu Ville, in Woo Hon Wai and others v Ramachandran Jayakumar and
+others [2017] SGHC 17 at [5]–[6]. Clauses 6.12.1 and 6.12.2 of the collective
+sale agreement in Shunfu Ville are materially the same as cll 6.12.1 and
+6.12.2 of the CSA. The court said at [85]:
+
+… the original CSA itself contained a contractual provision that was binding
+on all those who were party to it and which permitted each of these
+developments to take place. That is provided for in cll 6.12.1 and 6.12.2,
+which we have summarised at [79] above. As we conveyed to Mr Tan at the
+hearing, the only point of those provisions in this case was to enable the
+subsidiary proprietors who had entered into the original CSA to withdraw from
+it if the price was lowered or if the terms were varied to a level or in a
+manner that was unacceptable to them, but on terms that new subsidiary
+proprietors would be permitted to join the CSA by signing a supplemental
+agreement, if they so wished. Where this very eventuality has been
+contractually provided for, as it was in this case, we can see no basis for
+holding that such a contractual arrangement would violate, offend or be
+otherwise contrary to the scheme envisaged by s 84A(1) and paras 1 and 2 of
+the First Schedule to the LTSA.
+
+59 In the present case, cl 3 of the 1st SJA allows the signatories to agree to
+an upward revision of the RP to $890m without having to sign a further
+document. Clause 3 of the 2nd SJA also expressly treats those who have
+executed the 1st SJA as having also agreed to the RP of $890m without having
+to sign “this document”. The point of these provisions is to allow the parties
+to agree on an upward revision of RP, such as to $890m, without having to sign
+the same document. Where this is contractually provided for, I do not see any
+basis for finding that their agreement in writing to the RP of $890m should be
+disregarded.
+
+60 Furthermore, none of the parties who have signed the CSA or the SJAs, have
+maintained that these agreements were invalid. I do not see how the
+Defendants, who are not even privy to these contractual agreements, can raise
+objections that the agreements are contractually invalid. In particular, I do
+not find any merit in the Defendants’ submission that the 1st SJA at RP of
+$860m is not binding and invalid.
+
+61 Ultimately, the question here is whether the requirements of s 84A(1)(b) of
+the LTSA has been met, in that the requisite 80% “have agreed in writing” to
+the collective sale. I find that, as at 5 July 2022, 342 units with a total
+share value of 1409 shares (80.93%) and total strata area of lots of 46,133m2
+(80.11%) had consented to the collective sale of Chuan Park at $890m, through
+agreements in writing in the form of the 1st and 2nd SJA. The 80% Requirement
+set out in s 84A(1)(b) of the LTSA has thus been met for the collective sale
+of Chuan Park.
+
+The law on the “good faith” requirement in s 84A(9)(a)(i) of the LTSA
+
+62 Section 84A(9)(a)(i) of the LTSA requires the High Court to be satisfied
+that the transaction was in good faith before approving an application for
+collective sale pursuant to s 84A(1) (the “‘good faith’ requirement”).
+Specifically, the Sale Price Ground and the Apportionment Ground relate to the
+factors set out in ss 84A(9)(a)(i)(A) and (B), respectively:
+
+(9) The General Division of the High Court or a Board must not approve an
+application made under subsection (1) —
+
+(a) if the General Division of the High Court or Board (as the case may be) is
+satisfied that —
+
+(i) the transaction is not in good faith after taking into account only the
+following factors:
+
+(A) the sale price for the lots and the common property in the strata title
+plan;
+
+(B) the method of distributing the proceeds of sale; …
+
+63 The Court of Appeal has considered the “good faith” requirement extensively
+in the cases of Shunfu Ville and Ng Eng Ghee and others v Mamata Kapildev Dave
+and others (Horizon Partners Pte Ltd, intervener) and another appeal [2009] 3
+SLR(R) 109 (“Horizon Towers”). While the Grounds relate to different factors,
+the general law on the “good faith” requirement applies to the consideration
+of both Grounds. Thus, before considering the individual Grounds of the HC
+Objection, it is useful to set out relevant aspects of the law on the “good
+faith” requirement.
+
+64 In Shunfu Ville, the Court of Appeal reaffirmed at [58] its holding in
+Horizon Towers at [134] that a collective sale committee is subject to the
+following five duties:
+
+(a) the duty of loyalty or fidelity;
+
+(b) the duty of even-handedness;
+
+(c) the duty to avoid any potential conflict of interest;
+
+(d) the duty to make full disclosure of relevant information; and
+
+(e) the duty to act with conscientiousness.
+
+65 The court in Shunfu Ville also emphasised at [59] that:
+
+… there is generally little to be gained in slicing up the sequence of events
+and attempting to argue that any one of them goes towards establishing lack of
+good faith; rather, it is through a holistic assessment of the entire
+circumstances of the transaction that the court may determine whether there is
+in fact an absence of good faith which would bar the sale from proceeding.
+
+[emphasis added]
+
+66 As for the burden of proof, the Court of Appeal in Kok Yin Chong and others
+v Lim Hun Joo and others [2019] 2 SLR 46 (“Kok Yin Chong”), referencing the
+dicta of the Court in Low Kwang Tong v Karen Teo Mei Ling [2018] SGCA 86 at
+[2], held at [71] that it is “for the [objectors] to point out by credible
+evidence that the transaction was not in good faith”.
+
+67 With these general propositions in mind, I turn to consider the remaining
+Grounds of the HC Objection.
+
+Issue 2: Whether the Sale Price was arrived at in good faith
+
+68 The Defendants objected to the collective sale at the Sale Price of $890m
+on the basis that this price was not arrived at in good faith, as the CSC:
+
+(a) did not ensure that a PAFS was carried out;
+
+(b) relied on a valuation report based on an incorrect GFA; and
+
+(c) did not take steps to verify the actual GFA of Chuan Park.
+
+69 It would be useful to keep in mind the law on the “good faith” requirement
+as it pertains to the sale price of a strata title property. In Horizon
+Towers, the Court of Appeal at [133] provided the following general guidance:
+
+In our view, the term ‘good faith’ under s 84A(9)(a)(i) must be read in the
+light of the SC’s role as fiduciary agent (at general law and, now, under s
+84A(1A)), and whose power of sale is analogous to that of a trustee of a power
+of sale. Thus, in our view, the duty of good faith under s 84A(9)(a)(i)
+requires the SC to discharge its statutory, contractual and equitable
+functions and duties faithfully and conscientiously … In particular, an SC
+must act as a prudent owner to obtain the best price reasonably obtainable for
+the entire development. …
+
+[emphasis in original]
+
+70 Notably, the court must determine whether the sale price obtained was “the
+best price reasonably obtainable in the prevailing circumstances” [emphasis in
+original]: see Shunfu Ville at [59] referencing Horizon Towers at [201]. This
+is a fact-sensitive exercise. As held at [59] by the Court of Appeal in Shunfu
+Ville (referencing Horizon Towers at [129] and [130]):
+
+the entire sale process, including the marketing, the negotiations and the
+finalisation of that sale price (all of which steps ought to be evaluated in
+the context of prevailing market conditions), culminating in the eventual sale
+of the property
+
+ought to be examined in determining whether the sale price is fair. Evidence
+on the sale price, the length of time the property had remained unsold, the
+number and interest level of bidders and the valuations supporting the
+fairness of the price are all relevant to this inquiry. …
+
+[references omitted]
+
+71 Additionally, the court in Shunfu Ville held at [61(c)] that:
+
+… a party seeking to make the argument that the price obtained is not an
+appropriate one for the purpose of letting the sale proceed should
+particularise the steps that should have been but were not taken and explain
+how the taking of those steps would have realised a better price.
+
+[emphasis in original]
+
+The PAFS Ground
+
+72 The parties do not dispute that neither the CSC nor ERA carried out the
+PAFS for the redevelopment of Chuan Park. However, the parties dispute the
+effect of not conducting the PAFS.
+
+73 The Defendants submit that, first, the CSC was not conscientious in
+obtaining the Sale Price by failing to conduct a PAFS; and second, a PAFS
+would have “created more interest in Chuan Park and encouraged more
+competitive bidding that would facilitate obtaining the appropriate price for
+Chuan Park”. 9
+
+##### Foot Note 9
+
+×
+
+Defendants’ Written Submissions at para 45.
+
+These submissions hence give rise to two sub-issues in relation to the PAFS
+Ground:
+
+(a) whether the CSC had breached their duty to act with conscientiousness by
+failing to conduct the PAFS; and
+
+(b) whether the omission to conduct the PAFS resulted in the Sale Price not
+being the best price reasonably obtainable.
+
+(1) Duty to act with conscientiousness
+
+74 The “good faith” requirement imposes on the collective sale committee,
+among other things, a duty to act with conscientiousness in exercising the
+power of collective sale: Shunfu Ville at [58] and Horizon Tower at [134]. In
+the present case, the Defendants submit that this duty was breached by the
+CSC, as evidenced by the CSC’s failure to obtain a PAFS.
+
+75 The Defendants’ initial position was that the URA requires the CSC to
+submit the PAFS prior to the submission of an Outline Application or a
+Development Application and that the CSC’s failure to comply with this
+requirement demonstrated a lack of conscientiousness. In support of this
+submission, the Defendants relied on a URA Circular to Professional Institutes
+dated 13 November 2017 titled “Pre-Application Feasibility Study on Traffic
+Impact for En-Bloc Residential Redevelopments” (the “Circular”). 10
+
+##### Foot Note 10
+
+×
+
+Defendants Bundle of Authorities (“DBOA”) at Tab J.
+
+However, during the oral submissions, counsel for the Defendants accepted that
+the Circular did not necessitate the carrying out of a PAFS by the CSC. 11
+
+##### Foot Note 11
+
+×
+
+Transcript (28 April 2023) at p 34 line 28 to p 35 line 14.
+
+That this is so is apparent from the language of the Circular and the
+testimony of the Claimants’ expert, Ms Yick and the Defendants’ expert, Ms
+Seow.
+
+76 During the course of cross-examination, it was suggested by counsel for the
+Defendants that the Circular was a directive from the URA to conduct the PAFS
+in accordance with the requirements listed therein. The relevant paragraphs of
+the Circular are as follows:
+
+4\. Potential buyers, interested parties, developers or real estate agencies
+(acting on behalf of collective sales committees) shall engage an experienced
+traffic consultant to assess the transport impact and recommend a development
+proposal that is car-lite in nature. The following should be incorporated:
+
+a. Assessment of the transport impact to the immediate and critical junctions
+(approx. 2 to 5) arising from the redevelopment, as identified by LTA;
+
+b. Estimation on the supportable number of DUs and identification of car-lite
+measures/initiatives, traffic demand management and/or feasible transport
+improvement plans to be carried out and implemented by the developers; and
+
+c. Estimated adjustments in the site boundary for transport improvement plans,
+where required (for example, setting aside land for road widening).
+
+…
+
+8\. With immediate effect, potential buyers, interested parties, developers or
+real estate agencies (acting on behalf of collective sales committees)
+submitting an Outline Application or Development Application for en-bloc
+proposals for the development types listed in Table 1 should consult LTA in
+advance and submit a PAFS, if required by LTA, before making the applications
+to URA.
+
+77 Both Ms Yick and Ms Seow were of the view that the above elements listed at
+para 4 of the Circular should be incorporated into a PAFS. However, these
+elements were not things that a CSC would typically know of and it would be
+difficult for the CSC to submit a PAFS with these requirements. 12
+
+##### Foot Note 12
+
+×
+
+Transcript (26 April 2023) at p 69 line 13 to p 70 line 12.
+
+78 In relation to the requirement of a PAFS, Ms Yick, explained that, while
+the Land Transport Authority (“LTA”) would require a PAFS for developments of
+more than 700 dwelling units, the PAFS is only required at the later stage of
+Development Control. The PAFS was also not required for the valuer to conduct
+a valuation of the property for collective sale. 13
+
+##### Foot Note 13
+
+×
+
+Yick E-Ling’s Affidavit dated 30 March 2023 (“Yick’s Affidavit”) at pp 9–10.
+
+Ms Seow agreed with Ms Yick’s statement that a PAFS is not required at this
+stage of the collective sale process, but added that it would usually be asked
+for, without specifying when this would be done. 14
+
+##### Foot Note 14
+
+×
+
+Transcript for the hearing on 26 April 2023 (“Transcript (26 April 2023)”) at
+p 45 line 2 to p 46 line 15.
+
+79 During the hearing, Ms Yick and Ms Seow were also asked to comment on a
+letter from the URA dated 29 September 2022 (“URA 2022 Letter”) granting the
+Developer outline permission. 15
+
+##### Foot Note 15
+
+×
+
+4th Joint Affidavit of the Claimants at pp 80–82.
+
+The relevant portions of this letter are set out below:
+
+1 Thank you for your application on 01-09-2022 for the above proposal. We are
+pleased to inform you that the proposal is granted outline permission subject
+to the following conditions:
+
+…
+
+5 Compliance with LTA’s requirement on the access arrangement, car parking
+provision and Walking and Cycling Plan (WCP). Please obtain LTA's Road &
+Transport (RT)'s and Vehicular Parking (VP)'s no objection letters and submit
+to us in the formal application. Please also note the following preliminary
+comments from LTA:
+
+a. Existing access along Serangoon Avenue 3 to be shifted westward …
+
+b. …
+
+c. The development shall incorporate sufficient queuing spaces/lengths for
+pick-up/drop-off activity and entrance to car park within the development
+site. The internal layout shall be spaciously designed to facilitate house
+moving/delivery by heavy vehicles ...
+
+d. Pre-Application Feasibility Study (PAFS) to be conducted and cleared.
+Please refer to the requirements stated in the email from LTA to the Sales
+Agent, dated 24 Sep 2021. Please also ensure the proposed development
+incorporates the necessary setback.
+
+…
+
+7 As this is an outline application, only the macro planning parameters such
+as land use, GPR, building height are evaluated. The detailed layout of the
+proposal will be subject to further evaluation at the formal application
+stage. You are also required to comply with all the relevant development
+control guidelines as well as the guidelines of other technical agencies at
+the formal application stage.
+
+80 Ms Yick testified that it appears from the URA 2022 Letter that the URA can
+conditionally grant outline permission without the PAFS having been conducted.
+16
+
+##### Foot Note 16
+
+×
+
+Transcript (26 April 2023) at p 64 lines 22 to 28.
+
+Ms Seow agreed, testifying that the URA had by this letter granted outline
+permission without the PAFS, and that the URA will accept the PAFS at a point
+after the CSC finalises the sale.
+
+81 In light of the above evidence, I find that the CSC’s failure to obtain a
+PAFS was not a breach of its duty to act with conscientiousness. I elaborate
+on my reasons below.
+
+82 First, there is nothing in the wording of the Circular which suggests that
+the Circular was intended to be a directive from the URA for the CSC to
+conduct a PAFS prior to the completion of a collective sale. The only deadline
+imposed by the Circular is at para 8, which states that the PAFS should be
+submitted “before making the applications to URA”.
+
+83 Moreover, some of the specific items that para 4 of the Circular requires
+to be incorporated in the PAFS, such as the "traffic demand management and/or
+feasible transport improvement plans to be carried out and implemented by the
+developers", may be difficult for the CSC to propose as the CSC would not be
+the ones developing or implementing these plans. Both Ms Yick and Ms Seow were
+of the view that the information required by para 4 of the Circular was not
+the sort that a collective sale committee can typically provide. While the
+Defendants submit that para 4 provides that parties shall engage an
+experienced traffic consultant to assess the transport impact, that does not
+change the fact that the items required by the Circular to be incorporated
+into the PAFS requires a developer’s inputs.
+
+84 Second, the URA 2022 Letter is consistent with the above reading of the
+Circular. In that letter, the URA granted the Developer outline permission,
+without the Developer having done a PAFS. From para 5 of the Letter, it is
+clear that the LTA had already provided preliminary comments and had not
+required the PAFS to be done before URA granted outline permission. This being
+the case, it could hardly be said then, that the CSC was required by the URA
+to conduct the PAFS prior to its conclusion of the collective sale.
+
+85 Third, both parties’ expert witnesses were also of the view that while the
+PAFS would be required at some stage, it was not a requirement imposed on the
+valuer before providing valuation of the development site for collective sale
+or on the CSC before it concluded the collective sale.
+
+86 As there is no basis for claiming that the Circular was a directive
+directing the CSC to conduct a PAFS, and there being no requirement to conduct
+a PAFS at this stage of the collective sale application, the omission to
+conduct a PAFS cannot be said to constitute a failure by the CSC to act in the
+best interests of all the SPs. Thus, I find that the omission to conduct a
+PAFS does not constitute a breach of the CSC’s duty to act with
+conscientiousness.
+
+(2) Duty to obtain the best price reasonably obtainable
+
+87 As explained by the Court of Appeal in Horizon Towers at [154]:
+
+The duty to obtain the best price arises out of the [collective sale
+committee’s] duty to act conscientiously as well as to act even-handedly in
+the collective interest of all the subsidiary proprietors. The duty to obtain
+the best sale price is particularly crucial for the objecting subsidiary
+proprietors. As alluded to at [114] above, such subsidiary proprietors may be
+compelled by virtue of an STB order to sell their units either at a price
+which they were not prepared to accept or where they were in fact not prepared
+to sell their units at any price for personal reasons. In such circumstances,
+their only consolation or compensation for losing their units is the sale
+price they will receive. The [collective sale committee] must therefore strive
+to achieve the best premium available for the subsidiary proprietors by
+obtaining the best price for the development as a whole.
+
+88 The Defendants submit that the CSC’s failure to conduct the PAFS resulted
+in the Sale Price not being the best price reasonably obtainable in the
+prevailing circumstances. The Defendants’ view was that doing a PAFS would
+immediately increase the interest in and marketability of Chuan Park. Despite
+knowing this, the CSC did not carry out a PAFS. In support of this submission,
+the Defendants relied on a slide presented by ERA at the owners’ meeting, on
+possible reasons why there were no bids in the first public tender exercise.
+One of the bullet points in the slide was that a PAFS on traffic impact “is
+required for redeveloping Chuan Park Site” and had not been carried out. 17
+
+##### Foot Note 17
+
+×
+
+Foo Kai Ming, Jeffrey (Fu Kaiming)’s Affidavit dated 18 January 2023 (“Foo’s
+Affidavit”) at p 257.
+
+89 Relying on Ms Yick’s Report, the Claimants’ position is that carrying out
+the PAFS may lead to a lower land value, contrary to what the Defendants seek.
+As stated at para 14.4 of Ms Yick’s expert report:
+
+Should a PAFS be conducted and the proposed development is found to have a
+significant traffic impact on the locality in question, it would lead to a
+reduced number of dwelling units to be allowed and the effect is likely a
+lower land value would result which would be counter-intuitive to the desire
+of the objectors.
+
+[emphasis added]
+
+90 I accept Ms Yick’s evidence. Her explanation is supported by para 6 of the
+URA 2022 Letter, which states that the maximum number of dwelling units is
+subject to PAFS clearance by the LTA.
+
+91 In light of this, I find that it is not clear that doing a PAFS would have
+immediately increased the marketability of Chuan Park, contrary to what the
+Defendants submit. With regard to the slide which the Defendants relied on,
+the lack of a PAFS was only one of several bullet points stating possible
+reasons why there were no bids in the first public tender exercise. However,
+this simply meant that the need for PAFS was one of the considerations of
+potential developers, along with the other factors listed in that slide such
+as “LTA/URA Regulations & Policies”, “High Insurances Premium”, “Material &
+Construction Cost” and “ABSD Penalty (25% payable) – must sell all the Units
+within 5 Years”. It is not the Defendants’ case that the CSC is under some
+duty to also resolve these other issues for a potential developer.
+
+92 I hence find that the Defendants have not shown that the sale price of
+$890m was not the best price reasonably obtainable in the circumstances
+because the CSC did not ensure that a PAFS was carried out.
+
+The Incorrect GFA Ground
+
+93 The Defendants also initially objected to the Sale on the ground that the
+price of $890m was not arrived at in good faith as the CSC relied on a
+valuation report from Ms Yick, whose valuation was based on a GFA of
+78,152.76m2 based on a plot ratio of 2.1 and not the GFA of 89,824m2 based on
+the development baseline plot ratio of 2.41. 18
+
+##### Foot Note 18
+
+×
+
+Letter from the Claimants’ Counsel, Expert’s Scott Schedule, items 4-6.
+
+However, the defendants did not pursue this at the oral submissions at the end
+of the hearing, after the two valuation experts gave their evidence. Instead,
+the Defendants narrowed down their submission in relation to the incorrect GFA
+to this: the Sale Price had not been arrived at in good faith because the CSC
+recklessly agreed to one Clause 6E.1.2(E) in the SPA. For completeness, I have
+addressed both submissions below.
+
+(1) Valuation based on GFA of 78,152.76m2
+
+94 Ms Yick testified that her valuation was based on the information available
+at the time of the valuation – that the development is based on the Master
+Plan with a plot ratio of 2.1 and had a GFA of 78,152.76m2. Ms Yick did not
+make any assumptions as to whether a developer could subsequently obtain
+approval from URA to increase the plot ratio to the higher development
+baseline plot ratio of 2.41.
+
+95 The Defendants relied on the opinion of Ms Seow that the market value of
+Chuan Park was $930m. She testified in court that she arrived at this figure
+by taking the average of the valuation using the residual method (which Ms
+Yick used) and the direct comparison method. It is not necessary for the
+purposes of this analysis to go into the differences between the two methods.
+What is material is that Ms Seow accepted that the entire premise of her
+valuation rests on the assumption that the verified GFA of Chuan Park was
+89,824m2 (with a plot ratio of 2.41). 19
+
+##### Foot Note 19
+
+×
+
+Transcript (26 April 2023) at p 125 lines 1 to 4.
+
+This GFA was taken from the development baseline for Chuan Park as stated in a
+letter from the URA dated 30 August 2017 (“URA Letter 2017”). In other words,
+the Defendants submit that the Sale Price should be based on a valuation which
+was based on the development charge baseline and the higher accompanying gross
+plot ratio (“GPR”).
+
+96 However, it is clear from the URA Letter 2017 20
+
+##### Foot Note 20
+
+×
+
+4th Joint Affidavit of the Claimants at pp 62–64.
+
+and URA-ERA Emails 2021 21
+
+##### Foot Note 21
+
+×
+
+4th Joint Affidavit of the Claimants at pp 78–79.
+
+that it was incorrect for Ms Seow to assume and apply a GFA of 89,824m2 based
+on a 2.41 GPR to come to her valuation.
+
+97 The URA Letter 2017 states at paras 2 and 4:
+
+2 The development charge baseline is the value of the following floor area
+multiplied by the Development Charge Rate for the corresponding Use Group as
+follows:
+
+Lot No.| Floor Area (m2)| Use Group*  
+---|---|---  
+MK18-16257W| 89824| B2  
+  
+*Please refer to Appendix 1.
+
+Any proposal exceeding the value derived above is liable for development
+charge.
+
+…
+
+4 Please note that the development charge baseline as conveyed is for purpose
+of computing development charge and does not indicate the allowable
+development potential on the site. What can be developed on the site, i.e. the
+development potential, is guided by the current Master Plan.
+
+[emphasis added]
+
+98 Paragraph 4 of the URA Letter 2017 states clearly that the development
+charge baseline (ie, the 89,824m2 that is reflected in para 2) is conveyed for
+the “purpose of computing development charge.” Further, the letter goes on to
+state in the same paragraph that the figure does not “indicate the allowable
+development potential on the site. What can be developed on the site, is
+guided by the current Master Plan”. Both experts agreed with this reading of
+paras 2 and 4 of the URA Letter 2017. Also, it is undisputed, and agreed by
+both experts, that the current Master Plan provides a plot ratio of 2.1 for
+Chuan Park.
+
+99 Paragraph 4 of the URA Letter 2017 is materially the same as the paragraph
+contained within a letter from the URA that was considered by the High Court
+in Lim Hun Joo. Given this material similarity, and that the objectors in Lim
+Hun Joo raised the same argument as the Defendants, the decision in Lim Hun
+Joo is instructive.
+
+100 In Lim Hun Joo, the court rejected the argument that the valuation should
+be based on the development charge baseline figure and found that this figure
+did not provide information on the permissible GPR. This finding was supported
+by the language of the URA’s letter: Lim Hun Joo at [308] and [314]. I find
+the court’s observations at [316] and [318] to be directly applicable here:
+
+316 … It is one thing to assume that a successful bidder will request for a
+higher GPR, it is another to assume that it is prepared to commit to a price
+based on a possibility that it would obtain approval for a higher GPR.
+
+318 … A valuation should be based on existing facts. A property may be under-
+utilised at present and, based on existing facts, its potential is known. This
+is different from valuing a property based only on a possibility of achieving
+a higher GPR … such an approach would be speculative. It would be
+inappropriate for the purpose of a valuation intended to assist the CSC in a
+collective sale.
+
+[emphasis added]
+
+I agree with these observations and take the view that the valuation on which
+the Sale Price is based on should not be based on a speculative estimate of a
+property’s potential.
+
+101 What is apparent from the URA Letter 2017 is made even clearer from the
+URA-ERA Emails 2021. ERA sent an email enquiry to URA dated 29 November 2021
+seeking, among other things, confirmation that the URA would accept the
+updated GFA figure of 89,824m2. The email states:
+
+As conveyed in the earlier baseline enquiry reply dated 30/08/2017, the
+updated Gross Floor Area of the existing building on site is verified to be
+89,824 m2 of Residential (B2) GFA
+
+Under the Master Plan 2019, the subject site is zoned Residential with a GPR
+of 2.1. As the development has exceeded the MP GPR control,
+
+(1) we would like to confirm if URA is honouring the recompute GFA when the
+site is Redevelopment for Residential use.
+
+(2) This site will also be eligible for an additional 7% bonus GFA e.g. the
+balcony incentive scheme, I.e. additional GFA of 6,287.68 m2, leading to a
+total GFA of 96,111.68 m2. And that No development charge/DP will be leviable
+for this amount of GFA.
+
+102 In its email response to ERA on 1 December 2021, URA clarified that:
+
+… the GFA of the existing development was not verified. The reply dated 30 Aug
+2017 was for the development baseline for the site and has no bearing on the
+permissible development intensity. Upon redevelopment, the proposed
+development will be guided by the parameters in the prevailing Master Plan at
+GPR 2.1 for Residential Use.
+
+103 Ms Seow testified that when she did her valuation, the URA-ERA Email 2021
+was not available to her. Additionally, when asked to comment on the
+correspondence, she testified that if she reads the emails, strictly speaking,
+the assumption that she based her valuation on (ie, that the GFA is 89,824m2)
+is wrong. 22
+
+##### Foot Note 22
+
+×
+
+Transcript (26 April 2023) at p 128 lines 4 to 16.
+
+104 The Defendants also relied on a printout from the URA website to support
+their submission (“Development Charge Printout”). 23
+
+##### Foot Note 23
+
+×
+
+Foo’s Affidavit at pp 261–263.
+
+However, both experts agreed that this printout was solely about the
+Development Charge and does not mention what the permissible built-up area for
+a development would be. In particular, Ms Seow pointed out that the heading is
+“Development Charge”. 24
+
+##### Foot Note 24
+
+×
+
+Transcript (26 April 2023) at p 135 line 18 to p 136 line 22.
+
+Both experts also agreed that the phrase “approved use and intensity of the
+site” that is mentioned on that website pertains to the calculation of the
+Development Charge. I agree with the testimony of both expert witnesses. It is
+apparent from the Development Charge Printout that it is not relevant to the
+issue at hand.
+
+105 The Defendants also initially submitted that the CSC failed to disclose to
+all owners the existence of URA Letter 2017. Although the Defendants did not
+pursue this submission in their oral submissions at the end of the hearing, I
+will address this submission for completeness.
+
+106 While the CSC did not disclose the existence of the URA Letter 2017,
+itself, to the owners, the CSC did convey the relevant content of that letter
+in a slide that was presented at a zoom meeting with all the owners in
+December 2021. 25
+
+##### Foot Note 25
+
+×
+
+Foo’s Affidavit at para 56 and p 187.
+
+The slide clearly indicated that the approved existing GFA is “89,824 sqm
+(Subject to URA Base-Line Confirmation)” and that the same is “for the purpose
+of Computing the Development Charge (DP). It is not an indication of allowable
+Development potential on the site. The development potential is guided by MP
+2019.” This slide was adduced by Mr Foo himself in his affidavit. During
+cross-examination, Mr Foo said that the slide did not sufficiently represent
+the substance of URA Letter 2017 because the slide was disclosed via a Zoom
+meeting and as such, he “didn’t focus on numbers”. He was unable to state what
+substantive information was missing from the slide. 26
+
+##### Foot Note 26
+
+×
+
+Transcript for the hearing on 27 April 2023 (“Transcript (27 April 2023)”) at
+p 105 lines 20 to 26.
+
+As the slide clearly contained the relevant content of the URA Letter 2017, I
+find no merit to the Defendants’ allegation that the CSC failed to disclose
+the URA Letter 2017 to the owners.
+
+107 In light of the above, I find that the Defendants have not shown that the
+Claimants did not arrive at the sale price of $890m in good faith by relying
+on the valuation prepared by Ms Yick, which is based on a GFA of 78,152.76m2
+and a plot ratio of 2.1, and not a GFA of 89,824m2 based on a plot ratio of
+2.41.
+
+(2) Reckless agreement to Clause 6E.1.2(E) of the Sale and Purchase Agreement
+
+108 I next deal with the submission that the Defendants eventually narrowed
+down to, for their oral submissions at the end of the hearing. This was the
+submission that the CSC demonstrated a lack of good faith in arriving at the
+Sale Price, as it had been reckless in agreeing to Clause 6E.1.2(E) as one of
+the conditions of sale to the Developer, 27
+
+##### Foot Note 27
+
+×
+
+1st Joint Affidavit of the Claimants at pp 796–797.
+
+when the URA-ERA Emails 2021 showed that there was no basis for the guarantee
+made here.
+
+109 According to the Defendants, this Clause guarantees that there would be a
+minimum floor area of 89,824m2 for development baseline as reflected in the
+URA Letter 2017. However, the URA had, through their email correspondence in
+2021, informed ERA that the URA was prepared to only commit to saying that no
+development charge would be payable for a plot ratio “up to” 2.1 plus GFA
+bonus. As the CSC had no basis to make this guarantee in the face of URA’s
+reply, it was reckless to do so. This recklessness demonstrates a lack of good
+faith in arriving at the Sale Price.
+
+110 In response, the Claimants submitted that the URA had repeatedly stated
+that the governing factor is the Master Plan plot ratio of 2.1 and the CSC was
+conscientious and acted in good faith in accepting that. What was put into the
+terms and conditions with the Developer was entirely what URA communicated.
+The URA Letter 2017 is exhibited in the terms and conditions themselves, as
+Clause 6E.1.2(E) refers to “a copy of which is set out in Schedule 1A”.
+
+111 The relevant parts of Clause 6E.1.2 state:
+
+6E.1 The sale and purchase herein is subject to the Purchaser obtaining:
+
+6E.1.2. outline planning permission (“OPP”) from the competent authority
+appointed under the provisions of the Planning Act 1998 (“Competent
+Authority”) for developing the Land into residential development(s):
+
+(A) of not less than 919 dwelling units;
+
+…
+
+(C) with gross plot ratio of not less than 2.1;
+
+(D) with gross floor area (not inclusive of bonus gross floor area) of not
+less than 78,152.76 square metres;
+
+(E) with a minimum floor area of 89,824 square metres for development baseline
+as reflected in the reply dated 30 August 2017 from the Urban Redevelopment
+Authority, a copy of which is set out in Schedule 1A;
+
+…
+
+[emphasis in original]
+
+112 It can be seen from the above that Clause 6E.1.2 does not contain any
+guarantee from the CSC to the Developer. It simply sets out that the sale and
+purchase is subject to the Developer obtaining outline planning permission
+from the URA, as the “Competent Authority”, for a residential development
+which contains the elements listed above.
+
+113 Similarly, the CSC was not making any guarantee in Clause 6E.1.2(E) to the
+Developer about a minimum floor area of 89,824m2 for development baseline.
+Rather, the clause is simply stating that one of the conditions for the sale
+is that the URA approves the development baseline of 89,824m2, which is the
+figure the URA indicated in the URA Letter 2017. As Clause 6E.1.2(E) states
+that a copy of the URA Letter 2017 was set out in Schedule 1A of the SPA, the
+Developers would have had sight of this letter. Thus, they would have had
+knowledge that the figure therein of 89,824m2 was, as stated at para 4 of the
+URA Letter 2017, “conveyed … for purpose of computing development charge and
+does not indicate the allowable development potential on the site.”
+
+114 I find that, contrary to the Defendants’ submission, there are no
+guarantees made by the CSC in Clause 6E.1.2(E). There is hence no merit to the
+Defendants’ submission that the CSC did not arrive at the Sale Price in good
+faith by being reckless in agreeing to Clause 6E.1.2(E) to the Developer.
+
+The GFA Verification Ground
+
+115 The Defendants also submitted that the sale price of $890m was not arrived
+at in good faith as the CSC did not verify the GFA of Chuan Park. The
+Defendants made two points in relation to this. First, the Defendants
+submitted that the CSC allowed ERA, the marketing consultant, to exclude from
+its scope of services the verification of the GFA of the development and the
+development baseline. These are important factors when arriving at the
+eventual sale price. As such, no conscientious owner would allow the marketing
+consultant to exclude from its services such verification applications, which
+cost just thousands of dollars.
+
+116 The Defendants also submitted that even after ERA wrote to the URA to
+enquire on the GFA and the development baseline, the reply from URA stated
+that the GFA of Chuan Park was unverified. Despite knowing this, the CSC did
+not take steps to verify the GFA. Paragraph 6.4(ii) of the Planning Act Master
+Plan Written Statement states that where a development is approved for “an
+intensity higher than the prescribed maximum permissible intensity, such
+approved intensity shall … be deemed to be the prescribed maximum intensity of
+the land.” 28
+
+##### Foot Note 28
+
+×
+
+Letter to the Court from the Defendants’ Counsel dated 3 May 2023, Exhibit D1
+at p 9.
+
+The Defendants posit that it is possible that Chuan Park had an actual GFA
+with a GPR higher than 2.1 and thus, it would have been prudent for the CSC to
+check if this was so.
+
+117 In response, the Claimants submit that even though the verification of the
+development baseline was excluded from the scope of ERA services, the CSC did
+ask ERA to verify the development baseline. ERA did do so, as evident in the
+URA-ERA Emails 2021.
+
+118 Moreover, when the URA informed ERA in the URA-ERA Emails 2021 that the
+GFA was not verified, the URA also stated that this had no bearing on the
+redevelopment intensity. The URA made an affirmative statement in that email
+that redevelopment was guided by the Master Plan plot ratio of 2.1. In
+addition, though the Defendants could have gotten actual evidence, the
+Defendants have produced no evidence that the verified GFA exceeds 2.1. Given
+that the strata title area of Chuan Park when it was first sold had a GPR of
+1.55, 29
+
+##### Foot Note 29
+
+×
+
+Letter to the Court from the Claimants’ Counsel dated 3 May 2023, Exhibit C3
+at p 7.
+
+the plot ratio is likely to be less than 2.1.
+
+119 I find no merit to the Defendants’ submission that the CSC was not
+conscientious or prudent in allowing ERA to exclude the verification of the
+development baseline from its scope of services. It is undisputed that the ERA
+did verify the development baseline with the URA. The URA in its reply in the
+URA-ERA Emails 2021, explained that the development baseline was as set out in
+the URA Letter 2017 and that it had no bearing on the permissible development
+intensity.
+
+120 I also find no merit in the Defendants’ submission that the CSC was not
+conscientious in allowing ERA to exclude the verification of the GFA from
+ERA’s scope of services, or in not verifying the actual GFA. The URA in its
+reply in the URA-ERA Emails 2021, expressly stated that “the proposed
+development will be guided by the parameters in the prevailing Master Plan at
+GPR 2.1 for Residential Use”. While the correspondence that the Defendants
+relied on, was adduced through the Claimants’ 4th Joint Affidavit that was
+filed on 20 April 2023, not long before the start of the hearings, the
+Defendants nevertheless did not take any steps at all, to show that the
+verification of the as-built GFA may have resulted in a higher plot ratio than
+2.1. All that was relied on was an unsupported assertion by Ms Seow. Further,
+the Defendants did not provide any calculations that might hint at the plot
+ratio being higher than 2.1.
+
+121 Moreover, Chuan Park has not been redeveloped since it was first built in
+1989, on a plot ratio of 1.55. This was set out in a piece of paper that is
+pasted on one of the pages of the sales brochure of Chuan Park that the
+Claimants adduced at Exhibit C3. While Mrs Spkyerman could not confirm who
+pasted this paper, she testified that “Far East” was marketing Chuan Park at
+that time and they could have done this. This was not challenged by the
+Defendants, nor was the accuracy of the information contained on that paper,
+in particular the plot ratio of 1.55. 30
+
+##### Foot Note 30
+
+×
+
+Transcript (27 April 2023) p 6 line 15 to p 7 line 20.
+
+122 It bears repeating that the burden of proof is on the Defendants, to point
+out by credible evidence that some or all of the stated facts are inaccurate
+or false or that there are some other facts which will demonstrate that the
+transaction is not in good faith within the meaning of the LTSA: Kok Yin Chong
+at [71]. The Defendants have not produced any evidence or calculation that
+suggests why the actual GFA of Chuan Park may be higher than the plot ratio of
+2.1.
+
+123 Indeed, when Mr Foo was cross-examined, he said that he was a person with
+experience in development, 31
+
+##### Foot Note 31
+
+×
+
+Transcript (27 April 2023) p 98 lines 2 to 9.
+
+and that the total as built GFA of Chuan Park would be 57,584m2 plus the
+common built up area. 32
+
+##### Foot Note 32
+
+×
+
+Transcript (27 April 2023) p 99 line 30 to p 100 line 6.
+
+He further agreed that this area of about 57,000m2 represented the strata area
+and that, to account for the common built up area, 20% could be added to the
+strata area when looking at the plans set out in the sale brochure for Chuan
+Park. 33
+
+##### Foot Note 33
+
+×
+
+Transcript (27 April 2023) p 102 lines 1 to 9.
+
+This would result in about 69,100m2, which is less than the 78,152.76m2 that
+Ms Yick took as the GFA based on a plot ratio of 2.1.
+
+124 Moreover, the URA had expressly informed the CSC twice, first through the
+URA Letter 2017 and then later through the URA-ERA Emails 2021, that the
+proposed redevelopment of Chuan Park would be guided by the current Master
+Plan plot ratio of 2.1.
+
+125 In these circumstances, I do not find that the CSC failed to be
+conscientious by not going further to verify the actual GFA of Chuan Park.
+
+126 In summary, taking into consideration the specific issues raised by the
+Defendants as well as a holistic assessment of the entire circumstances of the
+transaction, I find that the Defendants have failed to provide any credible
+evidence to show that the CSC did not act in good faith in arriving at the
+Sale Price of $890m.
+
+Issue 3: Whether the method of apportionment was arrived at in good faith
+
+127 The Defendants’ third main Ground of the HC Objection, ie, the
+Apportionment Ground, relates to s 84A(9)(a)(i)(B) of the LTSA. This provision
+states that the High Court must not approve an application for collective sale
+if it is satisfied that the transaction is not in good faith after taking into
+account, among other things, “the method of distributing the proceeds of
+sale”.
+
+128 The MOA is based on 90% valuation, 5% strata area, and 5% share value. The
+Defendants’ position is that too much weightage has been placed on valuation
+in the MOA, without proper regard to share value. The term “share value” is
+explained in s 30(2) of the LTSA:
+
+(2) The share value of a lot determines —
+
+(a) the voting rights of the subsidiary proprietors;
+
+(b) the quantum of the undivided share of each subsidiary proprietor in the
+common property; and
+
+(c) the amount of contributions levied by a management corporation on the
+subsidiary proprietors of all the lots in a subdivided building.
+
+129 The Defendants submit that the common area of Chuan Park makes up a
+significant portion of the site area. By placing too much weight on valuation,
+the CSC failed to adequately take into account the owners’ share value in the
+common property in the MOA.
+
+130 One of the Defendants, Mr Foo, testified that an MOA based on 65% strata
+area and 35% share value would better reflect the characteristic of Chuan
+Park, including the size of its common area. This MOA was based on the
+recommendation of the previous sales agent, Cushman & Wakefield, in 2017.
+Applying the MOA of 65% strata area and 35% share value would result in a
+premium variance of 22.66%. The Defendants highlight that this is still well
+below the 53% premium variance which the court had accepted in Yeo Sok Hoon
+and others v Tan Thiam Chye and another [2020] 5 SLR 1042 (“Realty Centre”).
+
+131 The Defendants also submit that the MOA relied on by the CSC is illogical
+and unfair. The Defendants provided two examples of larger-sized residential
+units with higher share value of the common area that were to receive lower
+sale proceeds compared to smaller residential units: 34
+
+##### Foot Note 34
+
+×
+
+Defendants’ Written Submissions at para 85.
+
+Unit| Size of Unit| Share of Sale Proceeds  
+---|---|---  
+Blk 240, #01-01| 182m2 (1959 sq ft)| $2,455,664  
+Blk 240, #01-13| 184m2 (1981 sq ft)| $2,482,031  
+-| 172m2 (1854 sq ft)| $2,506,783  
+  
+132 The Defendants further submit that as Ms Yick was engaged by the CSC to
+prepare the valuation report for the unit types, 35
+
+##### Foot Note 35
+
+×
+
+Yick’s Affidavit at p 27.
+
+she can no longer be considered to be independent for commenting on the MOA,
+which is almost (90%) weighted in favour of her own earlier valuation. This
+contravenes the requirement under paragraph 1(e)(vi) of the First Schedule of
+the LTSA, that before making an application under s 84A(1) of the LTSA, the
+SPs must ensure that there is a report by an independent valuer on the
+proposed method of distributing the proceeds of the sale. As the MOA was based
+on Ms Yick’s evidence, it was not arrived at in good faith.
+
+133 The Claimants disagree that Ms Yick is not independent and submit that the
+Defendants have not raised any issues that her valuation of the unit types is
+not fair and/or unreasonable.
+
+134 Relying on the evidence of Ms Yick, the Claimants submit that the MOA
+based on 90% valuation, 5% strata area, and 5% share value was the fairest. Ms
+Yick explained that she examined the variances of collective sale premiums
+based on a wide spectrum of combinations amongst share value, strata area and
+valuation ranging from, 100% share value; 100% strata area; 50% share value
+and 50% strata area; and various other percentage combinations of share value
+and strata area, according to a combination method that involves various
+permutations of share value, strata area, and valuation. 36
+
+##### Foot Note 36
+
+×
+
+Yick’s Affidavit at pp 10–12 and paras 15–16.
+
+135 Ms Yick shared that for a RP of $820m, the MOA of 90% valuation, 5% strata
+area, and 5% share value yields the smallest difference (2.63%) between the
+unit type with the highest premium (44.41%) and the unit type with the lowest
+premium (41.78%). For the Sale Price of $890m, the MOA returns similar
+results. This MOA achieved the smallest difference (2.86%) between the unit
+type with the highest premium (56.74%) and the unit type with the lowest
+premium (53.88%), compared to apportionments of a different combination. For
+the premium test analysis which she used, the method that shows the lowest
+variance in the collective sale proceeds premiums amongst all typical
+residential/commercial units is deemed to be the fairest and the most
+equitable manner of distributing the sale proceeds amongst all owners.
+
+136 In other words, as the difference was small, any gain enjoyed or loss
+suffered by individual households compared to others was marginal. Hence, Ms
+Yick’s view is that the MOA based on 90% valuation, 5% share value, and 5%
+strata area is the fairest.
+
+137 The Claimants point out that in Realty Centre, the court compared two
+methods of apportionment. The first MOA gave a premium variance of 130% based
+on the original RP and 106% based on the revised RP, while the second MOA
+resulted in a premium variance of 53% based on the original reserve price and
+48% based on the revised reserve price (“MOA2”). The court in Realty Centre
+found at [50] that, comparing the two, even if the second MOA “was not the
+perfect apportionment method, it was overall more even-handed and equitable to
+all the SPs, and supported the plaintiffs’ case that the adoption of MOA2 was
+not tainted by bad faith”.
+
+138 Here, the MOA that the CSC relied on resulted in a premium variance of
+2.86% while the method that Mr Foo advocated for (ie, a MOA based on 65%
+strata area and 35% share value) resulted in a premium variance of 22.66%. 37
+
+##### Foot Note 37
+
+×
+
+Yick’s Affidavit at p 54.
+
+In comparison, the MOA that the CSC relied on was more even-handed and
+equitable to all SPs, overall. The Claimants also point out that while the
+Defendants claim that the common area of Chuan Park is expansive, they have
+not provided any credible evidence to show the size of the common area.
+
+Decision
+
+139 I find that the Defendants have not shown that the transaction was not in
+good faith on the basis of the CSC arriving at the MOA based on 90% valuation,
+5% strata area, and 5% share value.
+
+140 First, I accept Ms Yick’s evidence that the MOA used resulted in the
+smallest premium variance.
+
+141 Second, Ms Seow agreed with Ms Yick that the smaller the premium variance,
+the better. This view accords with the findings of the court in Deorukhkar
+Sameer Vinay and others v Quek Chin Kheam [2018] SGHC 171 at [53]–[54] that
+the MOA relied on there was the fairest as it resulted in the smallest premium
+variance. Furthermore, Ms Seow could not see anything unfair about the method
+used by Ms Yick, although she caveated that she did not have enough
+information at this point. 38
+
+##### Foot Note 38
+
+×
+
+Transcript (26 April 2023) at p 20 line 30 to p 21 line 3.
+
+142 Third, while the Defendants sought to rely on the decision of Realty
+Centre, the court’s acceptance of the MOA2 (ie, the MOA which resulted in a
+premium variance of 53%) was on the basis that it was overall more even-handed
+and equitable to all SPs, compared to the MOA that resulted in a higher
+premium variance. Further, this lower premium variance supported the
+plaintiffs’ case in Realty Centre that the MOA2 used was not tainted by bad
+faith. In so far as an analogy is drawn by the Defendants with Realty Centre,
+the MOA that the CSC relied on resulted in a premium variance of 2.86%, while
+the MOA that Mr Foo advocated for resulted in a premium variance of 22.66%.
+Comparing the two, the MOA relied on by the CSC is more equitable to all SPs
+and supports the Claimants’ case that the MOA was not arrived at in bad faith.
+
+143 Fourth, while the Defendants submitted through Mr Foo that the MOA should
+be 65% strata area and 35% share value, their valuation expert, Ms Seow, did
+not provide a view on what the MOA should have been, nor did she provide any
+support for Mr Foo’s preferred MOA. Indeed, she agreed during the hearing that
+using only the share value as the MOA method would be unfair, as there are
+only two share values, “3” and “4”, and the share value is not proportionate
+to the size of the unit. 39
+
+##### Foot Note 39
+
+×
+
+Transcript (26 April 2023) at p 11 lines 5 to 18.
+
+For example, units with 109m2 and 190m2 both have share value of “4”. 40
+
+##### Foot Note 40
+
+×
+
+Yick’s Affidavit at p 50, items 2 and 9 of the Table.
+
+She also agreed that using only the strata floor area was not so fair, as
+there were units with larger strata floor area but less liveable non-enclosed
+space. 41
+
+##### Foot Note 41
+
+×
+
+Transcript (26 April 2023) at p 16 lines 22 to 28.
+
+The thrust of Ms Seow’s evidence suggests avoiding over-reliance on share
+value and strata area, for the MOA.
+
+144 Fifth, while the Defendants cited two examples of unfairness where owners
+of larger units would receive a smaller amount of the Sale proceeds than those
+with a smaller unit (see [131]), these examples were cogently addressed by Ms
+Yick. She explained that for the examples given by the Defendants, the units
+of 182m2 and 184m2 are walk-up apartments, while the units with 172m2 would be
+apartment types “C” and “D”. 42
+
+##### Foot Note 42
+
+×
+
+Yick’s Affidavit at pp 22, 24–25.
+
+The former apartment type has a terrace and courtyard, which are non-enclosed
+spaces. When past transactions for Chuan Park were examined, apartment units
+with relatively more enclosed liveable space typically transacted at a higher
+price compared to units that are walk-up apartments, which had more non-
+enclosed spaces and less liveable space. 43
+
+##### Foot Note 43
+
+×
+
+Transcript (26 April 2023) at p 35 line 20 to p 38 line 14.
+
+I find that Ms Yick’s explanation logically accounts for the difference in the
+receivable Sale proceeds in the examples raised by the Defendants.
+
+145 Sixth, while the Defendants claim that there is expansive common property
+in Chuan Park which should have been taken into account through the owners’
+share value, they have not provided any evidence to establish their claim as a
+matter of fact. Moreover, Ms Seow accepted that if valuation is done using
+comparables taken from the same development, the valuation of the unit would
+have taken into account the share value ascribed to that unit. 44
+
+##### Foot Note 44
+
+×
+
+Transcript (26 April 2023) at p 33 line 29 to p 34 line 6.
+
+Ms Yick’s valuation was indeed done using comparables taken from the same
+development.
+
+146 In relation to the Defendants’ submission on the Independent Valuer
+Ground, I find that the Defendants have failed to show that Ms Yick is not an
+independent valuer for the purposes of para 1(e)(vi) of the First Schedule to
+the LTSA. While the Defendants have had the opportunity to provide expert
+evidence through Ms Seow to show that Ms Yick’s valuation of the unit types is
+wrong, or that the MOA relied on by the CSC is wrong, they have not done so.
+Neither have they, through Ms Seow or Mr Foo, been able to point out which
+part of Ms Yick’s valuation of the unit types or her assessment of the MOA is
+wrong. The Defendants have also not suggested that Ms Yick is not independent
+because of her connections with the CSC, ERA, or the Developer.
+
+147 In summary, I find that the Defendants have not shown that the CSC did not
+act in good faith in arriving at the MOA. Accordingly, s 84A(9)(a) of the LTSA
+does not operate to prevent the court from approving an application for
+collective sale made under s 84A(1) of the LTSA.
+
+Conclusion
+
+148 For the reasons above, I will grant orders in terms of prayers 1 to 5 and
+8 in OA 869. As costs follows the event, the Claimants will be awarded the
+costs of the proceedings. Directions have been given to parties on the filing
+of written submissions on the quantum of costs and disbursements.
+
+Kwek Mean Luck  
+Judge of the High Court|  
+---|---  
+  
+Narayanan Sreenivasan SC, Ang Mei-Ling Valerie Freda and Kelly Wah (K&L Gates
+Straits Law LLC) for the claimants;
+
+Lee Peng Khoon Edwin, Amanda Koh Jia Yi and Smrithi Sadasivam (Eldan Law LLP)
+for the defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 2: 29 May 2023 (14:40 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

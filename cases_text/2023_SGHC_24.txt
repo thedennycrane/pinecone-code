@@ -1,0 +1,1154 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE
+
+high court of the republic of singapore
+
+[2023] SGHC 24
+
+Originating Summons No 268 of 2022 (Registrar’s Appeal No 219 of 2022)
+
+Between
+
+| CSO  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| CSP  
+---|---  
+(2)| CSQ  
+  
+… Defendants
+
+GROUNDS OF DECISION
+
+[Civil procedure — Privileges — Without prejudice privilege]
+
+[Evidence — Admissibility of evidence]
+
+[Evidence — Proof of evidence — Admissions]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+CSO
+
+  
+v
+
+  
+
+CSP and another
+
+[2023] SGHC 24
+
+General Division of the High Court — Originating Summons No 268 of 2022
+(Registrar’s Appeal No 219 of 2022)  
+Andre Maniam J  
+8 August 2022
+
+8 February 2023
+
+Andre Maniam J:
+
+Introduction
+
+1 “Generally, communications between parties which are made on a ‘without
+prejudice’ basis in the course of negotiations for a settlement are not
+admissible”: Quek Kheng Leong Nicky and another v Teo Beng Ngoh and others and
+another appeal [2009] 4 SLR(R) 181 (“Nicky Quek”) at [22].
+
+2 One basis of the common law principle relating to the admissibility of
+“without prejudice” communications is the policy of encouraging settlements:
+Mariwu Industrial Co (S) Pte Ltd v Dextra Asia Co Ltd and another (“Mariwu”)
+[2006] 4 SLR(R) 807 at [24], [28] and [30]. That policy was articulated in
+these terms by Oliver LJ in Cutts v Head [1984] Ch 290 (“Cutts v Head”) at
+306: “parties should be encouraged so far as possible to settle their disputes
+without resort to litigation and should not be discouraged by the knowledge
+that anything that is said in the course of such negotiations (and that
+includes, of course, as much the failure to reply to an offer as an actual
+reply) may be used to their prejudice in the course of the proceedings”.
+[emphasis added]. This policy has been affirmed by the House of Lords in Rush
+& Tompkins Ltd v Greater London Council [1989] AC 1280 (“Rush & Tompkins”) at
+1299, and by our Court of Appeal in Mariwu (cited above); see also Sin Lian
+Heng Construction Pte Ltd v Singapore Telecommunications Ltd [2007] 2 SLR(R)
+433 (“Sin Lian Heng”) at [9] and [49].
+
+3 The common law “without prejudice” principle finds statutory expression in s
+23 of the Evidence Act 1893 (2020 Rev Ed) (the “Evidence Act”). Section 23(1)
+of the Evidence Act provides as follows:
+
+Admissions in civil cases when relevant
+
+23.—(1) In civil cases, no admission is relevant if it is made —
+
+(a) upon an express condition that evidence of it is not to be given; or
+
+(b) upon circumstances from which the court can infer that the parties agreed
+together that evidence of it should not be given.
+
+4 At common law, “anything that is said” in the course of “without prejudice”
+negotiations is privileged (Cutts v Head, quoted at [2] above). The court does
+not “dissect out identifiable admissions and withhold protection from the rest
+of without prejudice communications” (per Walker LJ in Unilever Plc v Procter
+& Gamble Co [2000] 1 WLR 2436 (“Unilever”) at 2448–2449). This may be
+described as the Broad Approach to “without prejudice” privilege.
+
+5 Section 23(1) of the Evidence Act, however, only refers to “admissions” not
+being relevant. Does the Evidence Act thereby oust the Broad Approach, such
+that only admissions made in the course of “without prejudice” communications
+are privileged?
+
+6 I decided that neither s 23(1) of the Evidence Act nor binding local case
+authority limits the common law in that regard: the privilege protects the
+whole of “without prejudice” communications, not only admissions.
+
+Background
+
+Facts
+
+7 The first defendant was engaged as the contractor for a project. In turn,
+the first defendant engaged the plaintiff to supply equipment for the project,
+pursuant to a supply contract.
+
+8 The plaintiff provided the first defendant with a guarantee (issued by the
+second defendant bank) in respect of the performance of the plaintiff’s
+obligations under the supply contract. 1
+
+##### Foot Note 1
+
+×
+
+1st affidavit of plaintiff’s representative dated 22 March 2022 (“plaintiff’s
+supporting affidavit”) at para 14(2).
+
+The validity of the guarantee was successively extended, the last expiry date
+being 24 March 2022. 2
+
+##### Foot Note 2
+
+×
+
+1st affidavit of first defendant’s representative dated 8 May 2022 (“first
+defendant’s reply affidavit”) at paras 46, 76 and 85.
+
+9 The first defendant procured a letter of credit (“LC”) in favour of the
+plaintiff, pursuant to which certain sums would be paid to the plaintiff for
+the plaintiff’s performance of the supply contract. 3
+
+##### Foot Note 3
+
+×
+
+Plaintiff’s supporting affidavit at para 13(3)(b).
+
+The first defendant was entitled to deduct and retain 7% of every approved
+payment as retention money. 4
+
+##### Foot Note 4
+
+×
+
+Plaintiff’s supporting affidavit at para 13(4).
+
+The retention money was to be paid by the first defendant to the plaintiff
+within 30 days of provisional acceptance occurring under the supply contract.
+5
+
+##### Foot Note 5
+
+×
+
+Plaintiff’s supporting affidavit at para 13(4).
+
+Disputes arose between the plaintiff and the first defendant, including as to
+whether provisional acceptance had occurred under the supply contract, and
+what further payments the plaintiff was entitled to.
+
+10 On or around 18 March 2022, the first defendant called on the guarantee, 6
+
+##### Foot Note 6
+
+×
+
+First defendant’s reply affidavit at para 108.
+
+alleging that the plaintiff had failed to fulfil its obligations under the
+supply contract, and that provisional acceptance under the supply contract had
+not been achieved.
+
+The court proceedings
+
+The plaintiff’s application and supporting affidavit
+
+11 On 22 March 2022, the plaintiff filed HC/OS 268/2022 (“OS 268”) for an
+injunction to, inter alia, restrain the second defendant bank from paying on
+the guarantee and the first defendant from receiving payment. The plaintiff
+also filed HC/SUM 1115/2022 (“SUM 1115”) for an interim injunction to the same
+effect. The interim injunction was granted on 23 March 2022.
+
+12 The plaintiff filed an affidavit in support of OS 268 and SUM 1115, which
+made the following points:
+
+(a) “Although [the plaintiff] had informed [the first defendant] on or around
+20 February 2020 that it would be making a claim under the Letter of Credit
+for the Retention Money, as far as [the plaintiff] is aware, [the first
+defendant] did not take any steps to extend the Letter of Credit and/or to
+prevent the [LC-issuing bank] from returning the Retention Money (withheld
+under the Letter of Credit) to [the plaintiff] in full. [The first
+defendant’s] conduct in allowing the Retention Money to be returned to [the
+plaintiff] in full without objection to the [LC-issuing bank] clearly
+demonstrates that [the first defendant] accepts that Provisional Acceptance
+has occurred …”. 7
+
+##### Foot Note 7
+
+×
+
+Plaintiff’s supporting affidavit at para 27.
+
+(b) After the plaintiff wrote to the first defendant on 23 January 2020
+stating that provisional acceptance under the supply contract would be
+achieved on 23 February 2020, the first defendant replied by way of a letter
+dated 6 March 2020, in which it “merely stated that it disagreed with [the
+plaintiff], pointing to the fact that the Scheduled Date of the Performance
+Test has not been defined under the Supply Contract. Importantly, [the first
+defendant] did not take issue with the Retention Money being returned by the
+[LC-issuing bank].” 8
+
+##### Foot Note 8
+
+×
+
+Plaintiff’s supporting affidavit at paras 25 and 28.
+
+13 The plaintiff thereby made two assertions (the “plaintiff’s Assertions”),
+namely that:
+
+(a) the first defendant did not take any steps to extend the LC (the “first
+Assertion”); and
+
+(b) the first defendant did not take issue with the retention money being
+returned to the plaintiff (the “second Assertion”).
+
+14 The plaintiff’s Assertions were made in the context of the plaintiff
+seeking an injunction on the basis that the first defendant’s call on the
+guarantee was unconscionable. The plaintiff argued as follows: 9
+
+##### Foot Note 9
+
+×
+
+Plaintiff’s supporting affidavit at para 57.
+
+(a) the first defendant sought to justify its call on the guarantee by
+asserting that provisional acceptance under the supply contract had not
+occurred, and that the plaintiff’s failure to extend the guarantee when
+provisional acceptance had not occurred was a breach of the supply contract;
+10
+
+##### Foot Note 10
+
+×
+
+Plaintiff’s supporting affidavit at para 52.
+
+(b) the plaintiff’s case is that provisional acceptance under the supply
+contract had occurred; 11
+
+##### Foot Note 11
+
+×
+
+Plaintiff’s supporting affidavit at para 25.
+
+(c) the retention money was paid to the plaintiff on or around 9 March 2020,
+which was to happen only if provisional acceptance had occurred; 12
+
+##### Foot Note 12
+
+×
+
+Plaintiff’s supporting affidavit at para 26.
+
+(d) to the best of the plaintiff’s knowledge, the first defendant did not take
+any steps to extend the LC, nor did it take issue with the retention money
+being returned to the plaintiff by the bank (the plaintiff’s Assertions); and
+
+(e) the first defendant’s contemporaneous conduct was thus inconsistent with
+its subsequent assertion that provisional acceptance had not been achieved;
+the first defendant did not genuinely believe that provisional acceptance had
+not been achieved and that the contract had been breached, and as such, its
+call on the guarantee was unconscionable.
+
+The first defendant’s reply affidavit
+
+15 The first defendant filed an affidavit which responded to the plaintiff’s
+Assertions.
+
+16 Part of the response was by reference to open correspondence, in
+particular, the 6 March 2020 letter stating that the first defendant did not
+think that provisional acceptance should be deemed to have occurred (see
+[12(b)] above). 13
+
+##### Foot Note 13
+
+×
+
+Plaintiff’s supporting affidavit at Tab 17, p 1120.
+
+17 The first defendant however went further, saying that it had earlier (in
+February 2020) sought the plaintiff’s agreement to extend the LC, and taken
+issue with the release of the retention money. This entailed reference to five
+emails in the period of 17 to 21 February 2020 (the “Disputed Emails”), which
+the first defendant referred to and exhibited in its reply affidavit. Each of
+those emails had the subject header “Settlement/Gentlemen Agreement”, and
+individually they made the following points: 14
+
+##### Foot Note 14
+
+×
+
+First defendant’s reply affidavit at paras 50 to 56 and Tabs 21 to 23, pp 1282
+to 1289.
+
+(a) On 17 February 2020, the first defendant stated,
+
+… in view that the equipment has not been commissioned and conducted [sic] the
+performance tests, so I suggest that both parties discuss the settlement as
+soon as possible and the remaining payments under the LC to be postponed.
+
+We can extend the LC first and when we discuss the settlement, let’s see what
+we can do in next step.
+
+(b) On 20 February 2020, the plaintiff said that a postponement of the last
+payment would have been possible only with a contract amendment, which the
+parties had failed to agree on. Therefore, the plaintiff’s management had
+instructed that the contract be followed and the final invoice be sent to the
+bank, ie, the plaintiff would be claiming the retention money under the LC.
+
+(c) The first defendant replied the same day to “clearly state [its] position”
+that “[f]or the remaining payments, we think the conditions for those payments
+are not fulfilled according to the Contract. Now the project has not start
+[sic] the performance tests, therefore, these two payments shall not be made
+as per the Contract and we disagree for [sic] your claim on remaining
+payments.”
+
+(d) The plaintiff replied the same day to say that the only way to postpone
+the contractual due payment would have been an amendment and therefore they
+had pushed to finalise the “gentlemen agreement”, but without success.
+
+(e) On 21 February 2020, the first defendant replied to say:
+
+… [T]he remaining payments are not due as per the Contract.
+
+And also, the settlement has not agreed [sic] by both parties so that the
+Contract Price is pending and the amount of remaining payment to [the
+plaintiff] is not finalised.
+
+That’s why we think the LC shall be extended firstly.
+
+[emphasis added]
+
+In the text of its reply affidavit, the first defendant described this 21
+February 2020 reply as reiterating its position that provisional acceptance
+had not been achieved. 15
+
+##### Foot Note 15
+
+×
+
+First defendant’s reply affidavit at para 54.
+
+The plaintiff’s striking out application
+
+18 The plaintiff applied by HC/SUM 2046/2022 (“SUM 2046”) to strike out the
+Disputed Emails as exhibits to the first defendant’s reply affidavit, as well
+as paragraphs 50 to 56 of the affidavit which referred to them. The plaintiff
+contended that the Disputed Emails were covered by “without prejudice”
+privilege, and so the first defendant could not put them into evidence, or
+refer to their contents.
+
+The assistant registrar’s decision
+
+19 The application failed at first instance. The assistant registrar who heard
+the application decided as follows:
+
+(a) the first defendant could put portions of the Disputed Emails into
+evidence to rebut the plaintiff’s Assertions; and
+
+(b) in the first place, the portions of the Disputed Emails which the first
+defendant relied upon were never covered by “without prejudice” privilege.
+
+My decision on the registrar’s appeal
+
+20 I dismissed the plaintiff’s appeal against the assistant registrar’s
+decision:
+
+(a) I agreed with the assistant registrar that the first defendant could put
+portions of the Disputed Emails into evidence to rebut the plaintiff’s
+Assertions;
+
+(b) however, I did not agree with the assistant registrar that those portions
+of the Disputed Emails were never covered by “without prejudice” privilege: I
+considered that they were privileged in the first place, but that the first
+defendant could rely on an exception to the privilege, the Delay/Acquiescence
+Exception, “to explain delay or apparent acquiescence” (Unilever at 2444–2445,
+exception (5); accepted by the Court of Appeal in Nicky Quek at [23]).
+
+21 I also limited the portions of the Disputed Emails that the first defendant
+could rely on, excluding portions that did not relate to the plaintiff’s
+Assertions. At the hearing before me, counsel for the first defendant accepted
+that the relevant portions, as limited by me (the “Relevant Portions”), were
+sufficient for the first defendant’s purposes.
+
+The appeals
+
+22 Both parties sought and obtained permission to appeal.
+
+23 By AD/CA 98/2022, the plaintiff appeals against my decision that the first
+defendant could rely on portions of the Disputed Emails to rebut the
+plaintiff’s Assertions.
+
+24 The first defendant is satisfied with my decision, but by AD/CA 99/2022 the
+first defendant appeals against part of my reasons, namely, that the Relevant
+Portions of the Disputed Emails were covered by “without prejudice” privilege.
+In effect, the first defendant seeks to affirm my decision on an additional
+ground that did not find favour with me, an appeal of the type considered in L
+Capital Jones Ltd and another v Maniach Pte Ltd [2017] 1 SLR 312 at [65].
+
+25 If the plaintiff’s appeal fails because an exception to “without prejudice”
+privilege applies, that would render moot the first defendant’s appeal. I will
+thus address the plaintiff’s appeal first.
+
+Issues
+
+26 I address the following main issues:
+
+(a) whether the Delay/Acquiescence Exception applies in this case; and
+
+(b) whether the Relevant Portions of the Disputed Emails were privileged in
+the first place.
+
+The Delay/Acquiescence Exception applied in this case
+
+27 Although I found that the Disputed Emails were subject to “without
+prejudice” privilege to begin with (as I explain below from [46]), I decided
+that an exception to “without prejudice” privilege applied – namely, the
+Delay/Acquiescence Exception.
+
+The Delay/Acquiescence Exception
+
+28 The Delay/Acquiescence Exception was stated by Walker LJ in Unilever at
+2444–2445: that a party could refer to “without prejudice” communications “to
+explain delay or apparent acquiescence”. In this regard, I considered that the
+concept of “delay” included not only belated action, but also complete
+inaction: here, the non-extension of the LC, which the plaintiff alleged to be
+due to the first defendant not taking any steps to extend it.
+
+29 Those pages of Walker LJ’s judgment in Unilever were cited by the Court of
+Appeal in Nicky Quek at [23] as setting out “the most important instances” of
+the exceptions to “without prejudice” privilege.
+
+30 Walker LJ noted that in Walker v Wilsher (1889) 23 QBD 335, Lindley LJ (at
+338) had regarded the Delay/Acquiescence Exception as limited in its effect,
+as excepting the fact and dates of negotiations from being privileged.
+However, Walker LJ doubted the generality of this proposition, commenting that
+“occasionally, fuller evidence is needed in order to give the court a fair
+picture of the rights and wrongs of the delay”. The Court of Appeal in Nicky
+Quek accepted the exceptions as formulated by Walker LJ in Unilever.
+
+31 The plaintiff cited Soon Peng Yam and another (trustees of the Chinese
+Swimming Club) v Maimon bte Ahmad [1995] 1 SLR(R) 279 (“Soon Peng Yam”) at
+[21] to suggest that Singapore law only recognises the Delay/Acquiescence
+Exception in its narrow form (based on Walker v Wilsher), rather than the
+broader formulation set out in Unilever. The court in Soon Peng Yam did not
+however have to decide whether the Delay/Acquiescence Exception might extend
+to contents of “without prejudice” negotiations. In that case, the appellants
+sought to adduce certain “without prejudice” letters for the mere fact that
+negotiations (on the matter in question) had taken place – and the court
+agreed that that could be done. As the appellants accepted that the contents
+of the “without prejudice” letter were not admissible, it was not in issue
+whether the appellants might also have referred to those contents.
+
+32 The decision in Soon Peng Yam also predates the formulation of the
+exceptions in Unilever and the endorsement of that formulation in Nicky Quek.
+
+The application of the Delay/Acquiescence Exception to this case
+
+33 In the present case, the first defendant could minimally rely on the narrow
+form of the Delay/Acquiescence Exception to say that in the period of 17 to 21
+February 2020, the plaintiff and the first defendant were engaged in “without
+prejudice” negotiations regarding the payments to be made by the first
+defendant to the plaintiff. That would go some way towards rebutting the
+plaintiff’s second Assertion that the first defendant had not taken issue with
+the plaintiff being paid the retention money.
+
+34 This was, however, a case where (as Walker LJ put it in Unilever) fuller
+evidence was needed to give the court a fair picture of the rights and wrongs
+of the delay (or inaction, I would add).
+
+35 In response to the plaintiff’s second Assertion that the first defendant
+had not taken issue with the plaintiff being paid the retention money, the
+first defendant could point to the fact of negotiations about payment; but the
+first defendant should also be allowed to say that it had expressed
+disagreement with the plaintiff’s claim for the remaining payments, and that
+it had stated that the amount of the remaining payments due to the plaintiff
+had not been finalised.
+
+36 The plaintiff had also made the first Assertion that the LC had not been
+extended because the first defendant had not taken any steps to extend it.
+Given that the plaintiff had put in issue the reason for the LC not being
+extended (ie, the rights and wrongs of the delay/inaction), the first
+defendant should be allowed to respond by showing that in the course of
+“without prejudice” negotiations it had proposed to extend the LC, but the
+plaintiff had opposed that extension, and that is why the LC was not extended.
+If the first defendant were limited to referring to the dates and fact of
+negotiations about payments, the court would not have a fair picture of why
+the LC had not been extended.
+
+37 McFadden v Snow (1952) 69 WN (NSW) 8 (followed in Pitts v Adney [1961] NSWR
+535 at 539) is a similar case. There was an issue in McFadden v Snow as to
+whether one Ms Jobson had surrendered her tenancy to the claimant. The
+claimant sought to prove that she did, by adducing a letter from him to her to
+this effect. The letter referred to evidence given by Ms Jobson in earlier
+proceedings that she claimed no interest in the property. It further expressed
+the claimant’s acceptance of Ms Jobson’s abandonment of rights in the tenancy.
+Crucially, the claimant asserted that he had received no reply to his letter.
+The court said (at 10) that this would have been “highly significant for the
+purpose of establishing an admission (by silence) [that] Ms Jobson had
+surrendered her tenancy”.
+
+38 The truth, however, was that following the claimant’s letter, Ms Jobson’s
+solicitors did write to the claimant, but that letter was marked “without
+prejudice”. The contents of the letter were inconsistent with Ms Jobson having
+surrendered the tenancy. The court admitted the letter into evidence, to
+“negative the inference that otherwise might quite erroneously have been
+raised in [the] claimant’s favour” (at 10). It dismissed the claimant’s
+objection that the reply could not be admitted as it was marked “without
+prejudice”. It refused to allow “the cloak of ‘without prejudice’” to be
+“abused for the purpose of misleading the court” (at 10). If the court had
+merely allowed Ms Jobson to refer to the date and fact of her solicitors’
+letter, Ms Jobson could have rebutted the claimant’s assertion that he had
+received no correspondence from Ms Jobson after his letter to her, but the
+court would still not have a fair picture of the matter if it did not know
+what the letter from Ms Jobson’s solicitors said.
+
+39 Allowing the contents of the Disputed Emails to be put in evidence (to the
+extent they related to the plaintiff’s Assertions) would not offend the public
+policy underlying the “without prejudice” principle. In Muller v Linsley &
+Mortimer [1996] PNLR 74 at 79–80 (cited in Unilever at 2443), Hoffmann LJ
+suggested that many of the exceptions to “without prejudice” privilege involve
+communications relevant for the mere fact that they were made, rather than the
+truth of what is stated or admitted.
+
+40 In the present case, the first defendant wished to mention:
+
+(a) the fact that it had proposed to extend the LC, pointing out that the
+parties were still in negotiations about what the plaintiff should be paid;
+and
+
+(b) the fact that the first defendant had expressed disagreement with the
+plaintiff’s claim for the remaining payments, and stated that the amount of
+the remaining payments due to the plaintiff had not been finalised.
+
+41 The first defendant’s statements on those points were relevant for the mere
+fact that they were made, and not because of the truth of what was stated.
+
+42 On a related note, at the core of the “without prejudice” principle is the
+protection of admissions against a party’s interest being used against that
+party thereafter (Unilever at 2448). Allowing the first defendant to refer to
+its own statements in the Disputed Emails would not go against that.
+
+43 As for the first defendant also wishing to refer to the plaintiff’s
+statements that the plaintiff would not agree to extend the LC unless the
+negotiations culminated in agreement on a contract amendment (see [17(b)] and
+[17(d)] above), those statements would contain an admission by the plaintiff
+that it was willing to negotiate. Indeed, a genuine intimation that a party is
+willing to negotiate a settlement of an existing dispute is a sufficient
+“admission” to make communications “without prejudice” in nature: Sin Lian
+Heng at [22]–[39]; Ernest Ferdinand Perez De La Sala v Compañia De Navegación
+Palomar, SA and others and other appeals [2018] 1 SLR 894 (“Ernest Ferdinand”)
+at [67]–[69], and [89]–[95].
+
+44 It would, however, not go against the policy objective of “without
+prejudice” privilege to allow the first defendant to rely on the plaintiff’s
+rejection of the first defendant’s proposal to extend the LC, to rebut the
+plaintiff’s first Assertion that the LC was not extended because the first
+defendant did not take any steps to extend it. That the parties were in
+“without prejudice” negotiations (and that the plaintiff was willing to
+negotiate) would already have been evident even before one turned to the fact
+that the plaintiff rejected the first defendant’s proposal. The first of the
+five Disputed Emails, which came from the first defendant, already made
+references to settlement discussions. Moreover, as discussed above at [36], as
+the plaintiff had sought to blame the first defendant for the LC not being
+extended, the first defendant was justified in providing fuller evidence to
+give the court a fair picture of why the LC had not been extended.
+
+45 Given these findings, I was satisfied that the first defendant should be
+allowed to rely on the fact, dates and contents of the Disputed Emails, but
+with reliance on the contents limited to those of the Relevant Portions ( see
+[42]–[44] above).
+
+The Relevant Portions of the Disputed Emails were privileged in the first
+place
+
+46 Having dealt with the thrust of the plaintiff’s appeal, I turn to discuss
+the first defendant’s appeal.
+
+47 In giving permission to appeal, the Appellate Division framed various
+issues to be addressed by the parties:
+
+The applications are allowed because of the following question of general
+principle to be decided for the first time:
+
+(a) Whether, in respect of without prejudice privilege, the broad approach
+stated in Unilever Plc v The Procter & Gamble Co [2000] 1 WLR 2436 that
+communications between negotiating parties are protected by without prejudice
+privilege as a whole and the court should not dissect parts of such
+communications as not being protected by such privilege (the “Broad
+Approach”), or the narrow approach in which only those parts of such
+communications which are admissions within the meaning of ss 17(1) read with
+23 of the Evidence Act 1893 (2020 Rev Ed) (“Evidence Act”) are protected by
+without prejudice privilege, applies in Singapore?
+
+In answering (a), both applicants are to address the following sub-questions:
+
+(i) Whether the Broad Approach engages s 23 of the Evidence Act and the two
+requirements for without prejudice privilege to apply set out in Ernest
+Ferdinand Perez De La Sala v Compania De Navegacion Palomar, SA [2018] 1 SLR
+894 (“Ernest Ferdinand”) (at [67] and [89]), viz, that (a) the communications
+(in respect of which privilege is claimed) must arise in the course of genuine
+negotiations to settle a dispute and (b) the communications must constitute or
+involve an admission against the maker’s interest?
+
+(ii) If (i) is answered in the affirmative, does the Broad Approach sit
+harmoniously with s 23 of the Evidence Act and/or the second requirement set
+out in Ernest Ferdinand?
+
+(iii) Are there exceptions to the Broad Approach and what are their limits, if
+any?
+
+48 I thus address:
+
+(a) whether the Broad Approach (of protecting the whole of “without prejudice”
+communications, and not just admissions) is the position at common law;
+
+(b) whether the Broad Approach is precluded by s 23(1) of the Evidence Act;
+
+(c) whether the Broad Approach is precluded by the Court of Appeal’s decision
+in Ernest Ferdinand;
+
+(d) what are the exceptions to the Broad Approach; in particular, whether the
+Delay/Acquiescence Exception is an exception; and
+
+(e) whether the Relevant Portions of the Disputed Emails would have been
+privileged in the first place, even if the privilege only covered admissions.
+
+The Broad Approach to “without prejudice” privilege is the position at common
+law
+
+49 The Broad Approach is the position under English law: see Cutts v Head,
+Rush & Tompkins, and Unilever, cited at [2] and [4] above.
+
+50 The Broad Approach has also been accepted in other common law
+jurisdictions:
+
+(a) Australia: Yokogawa Australia Pty Ltd and Others v Alstom Power Ltd [2009]
+SASC 377 (SA) at [98]–[100];
+
+(b) Hong Kong: Poon Loi Tak (the administrator of the late Poon Nuen,
+deceased) v Poon Loi Cheung Desmond [2020] 1 HKLRD 511 at [19] and [22]; and
+
+(c) Canada: Phoa Estate v Ley [2020] AJ No 555 (Alta) at [27]–[28].
+
+51 In Unilever, Walker LJ explained (at 2448–2449) that the Broad Approach
+furthers the public policy objective of encouraging settlements; indeed,
+protecting only admissions (and not the whole of “without prejudice”
+communications) would go against that policy:
+
+… the modern cases, especially Cutts v Head, Rush & Tompkins Ltd v Greater
+London Council and Muller v Linsley & Mortimer … make clear that the without
+prejudice rule is founded partly in public policy and partly in the agreement
+of the parties. They show that the protection of admissions against interest
+is the most important practical effect of the rule. But to dissect out
+identifiable admissions and withhold protection from the rest of without
+prejudice communications (except for a special reason) would not only create
+huge practical difficulties but would be contrary to the underlying objective
+of giving protection to the parties, in the words of Lord Griffiths in the
+Rush & Tompkins case [1989] AC 1280, 1300: ‘to speak freely about all issues
+in the litigation both factual and legal when seeking compromise and, for the
+purpose of establishing a basis of compromise, admitting certain facts.’
+Parties cannot speak freely at a without prejudice meeting if they must
+constantly monitor every sentence, with lawyers or patent agents sitting at
+their shoulders as minders.
+
+52 In Sin Lian Heng, Sundaresh Menon JC (as he then was) cited the above
+portion of Walker LJ’s judgment in part, to support his decision that “without
+prejudice” privilege would continue to apply to negotiations on quantum even
+if there had been an admission of liability (which would not be privileged).
+
+53 Menon JC first agreed with the policy rationale stated in Cutts v Head (and
+approved of in Rush & Tompkins) that “parties should be encouraged so far as
+possible to settle their disputes without resort to litigation and should not
+be discouraged by the knowledge that anything that is said in the course of
+such negotiations … may be used to their prejudice in the course of the
+proceedings” (at [49]). He decided that that rationale “applies with equal
+force to negotiations on quantum where there is a real dispute over this …
+even though one party may have admitted to liability” (at [50]).
+
+54 At [51]–[52] he then cited Walker LJ’s judgment in Unilever as support for
+his decision as a matter of principle:
+
+51 In my judgment, the same result can also be seen to be justified in
+principle. In Unilever ([12] supra), Robert Walker LJ stated that it would be
+undesirable to ‘dissect out identifiable admissions and withhold protection
+from the rest of without prejudice communications’. The rationale for this
+proposition is that if there is a risk that some part of the communications
+that take place in circumstances where the parties are trying to come to a
+settlement may later be found not to be privileged, it would inhibit the
+discussions as a practical matter. In my judgment, the same sort of practical
+difficulties would arise if the ‘without prejudice’ rule were held not to
+apply to negotiations directed at settling disputes on quantum.
+
+52 One can quite easily imagine a situation where negotiations both as to
+liability and quantum are conducted on the same plane and at the same time. If
+the negotiations in respect of liability succeed, but those as to quantum
+break down and the matter proceeds to trial for an assessment of damages, it
+would be patently unfair for evidence of such negotiations to be admitted. As
+observed by Robert Walker LJ in Unilever at 796:
+
+Parties cannot speak freely at a without prejudice meeting if they must
+constantly monitor every sentence, with lawyers or patent agents sitting at
+their shoulders as minders.
+
+[emphasis in original]
+
+55 The outcome in Unilever turned on the application of the Broad Approach.
+Unilever had pleaded that Procter & Gamble had made a threat actionable under
+the UK Patents Act 1977 (c 37). However, that threat (if it had been made)
+would have been made during a “without prejudice” meeting. The judge at first
+instance struck out the “threat” pleading as an abuse of process, and that was
+upheld by the English Court of Appeal.
+
+56 Walker LJ (with whom the other lord justices agreed) applied the Broad
+Approach to preclude Unilever from referring to the threat as it was made
+during a “without prejudice” meeting. Although the threat was not an
+admission, by applying the Broad Approach the whole of the “without prejudice”
+communications would be privileged, as Walker LJ explained (at 2443–2444 and
+2449):
+
+… I have no doubt that busy practitioners are acting prudently in making the
+general working assumption that the [‘without prejudice’] rule, if not
+‘sacred’ (Hoghton v Hoghton (1852) 15 Beav 278, 321), has a wide and
+compelling effect. That is particularly true where the ‘without prejudice’
+communications in question consist not of letters or other written documents
+but of wide-ranging unscripted discussions during a meeting which may have
+lasted several hours.
+
+At a meeting of that sort the discussions between the parties’ representatives
+may contain a mixture of admissions and half-admissions against a party’s
+interest, more or less confident assertions of a party’s case, offers,
+counter-offers, and statements (which might be characterised as threats or as
+thinking aloud) about future plans and possibilities. As Simon Brown LJ put it
+in the course of argument, a threat of infringement proceedings may be deeply
+embedded in negotiations for a compromise solution. Partial disclosure of the
+minutes of such a meeting may be, as Leggatt LJ put it in Muller v Linsley &
+Mortimer [1996] PNLR 74, 81, a concept as implausible as the curate’s egg
+(which was good in parts). As it happens, the minutes of the Frankfurt meeting
+are exhibited in redacted form in which the redacted parts of the document
+appear to amount to about 90 per cent of its contents.
+
+…
+
+In my judgment the judge was right to conclude that it would be an abuse of
+process for Unilever to be allowed to plead anything that was said at the
+meeting either as a threat or as a claim of right. The circumstances were such
+that each side was entitled to expect to be able to speak freely, and their
+agreement to the meeting being arranged evinces that common intention. I
+would, if necessary, base my conclusion on the parties’ agreement to extend
+the normal ambit of the rule based on public policy. But I do not think it is
+necessary to go that far. The Frankfurt meeting was undoubtedly an occasion
+covered by the normal rule based on public policy, and the pleading of the
+threat (or claim of right) has not been shown to come within any recognised
+exception. …
+
+57 Walker LJ recognised (at 2448) that “the protection of admissions against
+interest is the most important practical effect of the rule”, but admissions
+are not the only communications that “without prejudice” privilege would
+cover.
+
+58 Admissions against interest made during “without prejudice” negotiations
+might be seized upon by the opposing party if they were not privileged, and it
+is “thus in the overall spirit of encouraging negotiations that parties be
+sufficiently protected when they ‘lay their cards on the table’” (Sin Lian
+Heng at [43]). Admissions against interest are, however, not the only
+communications made during “without prejudice” negotiations that might
+prejudice their author if the communications were not protected by privilege.
+One example would be actionable threats such as that pleaded in Unilever.
+Likewise, a party might during negotiations assert a claim or defence that is
+not later pursued in court proceedings – it should not be prejudiced by the
+other party being able to make forensic use of that discrepancy. So too, if an
+exaggerated claim sum is put forward in negotiations, or if a party emphasises
+the strength of his case to an unreasonable extent, or indeed in an
+unreasonable manner. It would encourage settlements if the whole of “without
+prejudice” communications are protected, and not merely admissions against
+interest.
+
+59 The Broad Approach furthers the objective of encouraging settlements, as a
+matter of policy and principle; and it is the position at common law. Is the
+Broad Approach, however, precluded in Singapore by the Evidence Act or by
+binding authority (in particular, the Court of Appeal’s decision in Ernest
+Ferdinand)?
+
+The Broad Approach is not precluded by s 23(1) of the Evidence Act
+
+60 Section 2(2) of the Evidence Act provides that “[a]ll rules of evidence not
+contained in any written law, so far as such rules are inconsistent with any
+of the provisions of this Act, are repealed”.
+
+61 However, s 23(1) (which is reproduced at [3] above) has been described as
+“a statutory enactment of the common law principle relating to the
+admissibility of ‘without prejudice’ communications based on the policy of
+encouraging settlements”: Mariwu at [24] (the applicable section at the time
+was s 23 of the Evidence Act (Cap 97, 1997 Rev Ed) (“Evidence Act (1997 Rev
+Ed)”), but this is in pari materia with s 23(1) of the Evidence Act 1893 (2020
+Rev Ed)). One would expect the common law “without prejudice” principle not to
+be inconsistent with its statutory enactment in s 23(1).
+
+62 That was indeed the conclusion reached by the Court of Appeal in Mariwu, in
+relation to the application of the common law principle to third parties (ie,
+parties other than the parties to the negotiations). The court noted at [25]
+that s 23 of the Evidence Act (1997 Rev Ed) “only refers to situations where
+it is the parties to the negotiations themselves who are attempting to renege
+on an express or implied agreement not to use admissions made in the course of
+negotiations against each other. The admissions in such cases are not
+relevant.” [emphasis added].
+
+63 The court went on to hold at [27]–[28] that s 23 cannot refer to the
+situation where a third party is involved; that situation was governed by the
+common law. Given the court’s interpretation that the rationale of the s 23
+privilege was to encourage settlements, the court saw no inconsistency between
+that section and the common law principle as stated in Rush & Tompkins.
+
+64 Mariwu was followed in Krishna Kumaran s/o K Ramakrishnan v Kuppusamy s/o
+Ramakrishnan [2014] 4 SLR 232 (“Krishna”), where the High Court applied the
+common law “without prejudice” principle to cover a communication made to a
+messenger or informal mediator between the two disputing parties. Krishna was
+then approved by the Court of Appeal in Ernest Ferdinand at [98].
+
+65 In Mariwu at [24] the court recognised that the “without prejudice”
+principle at common law has two justifications – first, the public policy of
+encouraging parties to negotiate and settle their disputes out of court; and
+second, an agreement between the parties that their negotiations should not be
+introduced into evidence. It then observed at [26] that section 23 of the
+Evidence Act (1997 Rev Ed) places emphasis on the second reason, “agreement”:
+be it express agreement (now s 23(1)(a) of the Evidence Act (2020 Rev Ed)) or
+inferred agreement (now s 23(1)(b)).
+
+66 However, this did not mean that the public policy rationale was of no
+relevance to s 23. Although s 23 places emphasis on agreement, the court in
+Mariwu further held at [24] and [28] that the rationale of the s 23 privilege
+was to encourage settlements, ie, s 23 has the same rationale as the common
+law “without prejudice” principle. That in turn entails applying the Broad
+Approach, as Walker LJ explained in Unilever at 2448–2449 (quoted above at
+[51]).
+
+67 Given that s 23 and the common law “without prejudice” principle have the
+same rationale (ie, public policy and agreement of parties), the common law
+principle (and the Broad Approach) is not inconsistent with s 23.
+
+68 In Mariwu, the court reasoned that s 23 cannot refer to the situation where
+a third party is involved, but that the common law principle could and would
+still apply to that situation. On a parity of reasoning, as between the
+parties to the negotiations, s 23 only refers to admissions; if the “without
+prejudice” communications contain more than just admissions, the common law
+still applies to make the whole of the “without prejudice” communications
+privileged.
+
+The Broad Approach is not precluded by Ernest Ferdinand
+
+69 An issue in Ernest Ferdinand was whether a certain letter between lawyers
+was “without prejudice” in nature. The Court of Appeal agreed with the trial
+judge that for the letter to be “without prejudice” in nature:
+
+(a) “the communications (in respect of which privilege is claimed) must arise
+in the course of genuine negotiations to settle a dispute”; and
+
+(b) “the communication must constitute or involve an admission against the
+maker’s interest” [emphasis added in italics and bold italics]
+
+([67] read with [89] of the Court of Appeal’s decision, quoting from [489] of
+the first instance decision published as [2017] SGHC 14)
+
+70 The Court of Appeal however disagreed with the trial judge’s application of
+those principles. The judge had held that the letter was “without prejudice”
+in nature as it was a genuine invitation to negotiate a settlement, but the
+Court of Appeal considered that taking the 11-page letter as a whole, it
+conveyed little in the way of an invitation to negotiate a settlement –
+instead, the letter gave the impression that its author was trying to exert
+pressure on the recipient to acquiesce in the maker’s demands (at [89]–[94]).
+
+71 Significantly, the Court of Appeal observed that if two paragraphs (which
+the court quoted at [92]) were the only mention of criminal consequences, the
+court might not have thought them unusual in a letter concerning settlement
+negotiations; however, practically the entirety of the letter’s 11 pages,
+comprising 55 paragraphs, was devoted to an analysis of wrongdoing and replete
+with statements regarding wrongdoing and consequences (at [93]). Like the
+trial judge, the Court of Appeal considered whether the letter was privileged,
+and there was no suggestion that if certain paragraphs in the letter comprised
+statements about criminal consequences, rather than admissions against the
+author’s interest, then those paragraphs would not be privileged.
+
+72 It follows that a communication may be “without prejudice” in nature even
+if some parts of it are not admissions, but instead statements about the other
+party’s wrongdoing and the consequences thereof. That is consistent with the
+Broad Approach – if an objective inquiry based on the whole content and
+circumstances of the communication (Ernest Ferdinand at [90]) shows that the
+communication was made with the purpose of inviting negotiations for a
+settlement, that communication would be “without prejudice” in nature. The
+court would not then parse the communication to identify admissions as the
+only contents that are privileged, leaving the other aspects of the
+communication (references to wrongdoing and consequences, or portions
+emphasising the strength of a party’s own case – at [90] – and the like)
+unprotected by privilege.
+
+73 Indeed, the very formulation of the second pre-requisite (Ernest Ferdinand
+at [67]) that “the communication must constitute or involve an admission
+against the maker’s interest” [emphasis added in italics and bold italics]
+itself shows that admissions are not the only aspects that are privileged. It
+is not only communications that “constitute” admissions that are privileged;
+communications that “involve” admissions (and also involve non-admissions) are
+privileged too.
+
+74 The Court of Appeal (at [86]) noted the argument that “the broader purpose
+of without prejudice privilege is to provide parties with a general freedom to
+negotiate, and therefore things which go beyond admissions against interest
+should be capable of being protected” [emphasis added]. The court did not
+disagree with this. On the contrary, the court (at [68] and [90]) approved of
+the observations in Schering Corporation v CIPLA Ltd [2004] EWHC 2587 (Ch)
+(“Schering”) , a decision that applied the Broad Approach.
+
+75 In Schering, the court held that a certain letter was a “negotiating
+document”, ie, a document indicating a willingness to negotiate, and as such
+the letter was protected by “without prejudice” privilege. The letter
+contained two paragraphs asserting the author’s confidence, on the basis of
+legal advice, that the other party’s patent was invalid, and a further
+paragraph to the effect that the author’s confidence in the correctness of its
+position was so great that it felt it is safe to proceed without regard to the
+other side’s position if negotiations were not entered into and resolved
+satisfactorily. The court however held that “the overall message continues to
+be one of wishing to negotiate” (at [21]). The court did not dissect out
+identifiable admissions (such as references to willingness to negotiate) and
+withhold protection from the rest of the “without prejudice” communications
+(such as the author’s assertions of the strength of its own position). The
+whole letter was privileged, not just the identifiable admissions in it.
+
+76 Ernest Ferdinand (which endorsed Schering) does not preclude the Broad
+Approach. On the contrary, Ernest Ferdinand supports the Broad Approach.
+
+The same recognised exceptions apply under the Broad Approach, in particular
+the Delay/Acquiescence Exception
+
+The Delay/Acquiescence Exception is a recognised exception
+
+77 As discussed at [27]–[42] above, the exceptions to “without prejudice”
+privilege set out by Walker LJ in Unilever at 2444–2445 were accepted as good
+law in Singapore by the Court of Appeal in Nicky Quek at [23]. It follows that
+whether the Broad Approach is the position in Singapore, or “without
+prejudice” privilege in Singapore only covers admissions, the same exceptions
+accepted in Nicky Quek would apply. Those exceptions include the
+Delay/Acquiescence Exception.
+
+The Relevant Portions of the Disputed Emails are not communications of
+objective facts unconnected with the parties’ negotiations
+
+78 The first defendant also contended that the Relevant Portions of the
+Disputed Emails were never privileged because they were communications of
+facts unconnected to settlement negotiations. I did not accept this on the
+facts, but I will first review the legal principles.
+
+79 The first defendant cited Greenline-Onyx Envirotech Phils, Inc v Otto
+Systems Singapore Pte Ltd [2007] 3 SLR(R) 40 (“Greenline-Onyx”) where the
+Court of Appeal admitted into evidence letters comprising acknowledgments of
+the appellant’s debt. The court cited the decision of the majority in the
+House of Lords case of Bradford & Bingley plc v Rashid [2006] 1 WLR 2066
+(“Bradford & Bingley”), that “without prejudice” privilege did not apply to
+“apparently open communications designed only to discuss the repayment of an
+admitted liability rather than to negotiate a compromise to a disputed
+liability” (Greenline-Onyx at [17]).
+
+80 The first defendant, however, relied on Greenline-Onyx for a broader
+proposition. In Greenline-Onyx, the court noted (at [17]) that in Bradford &
+Bingley, Lord Hope of Craighead was of the view “that the [without prejudice]
+rule did not apply to clear admissions or statements of fact that did not form
+part of an offer to compromise”. The first defendant relied on that to contend
+that the Relevant Portions of the Disputed Emails were statements of fact “not
+fairly incidental to the purpose of settling a dispute between the parties”
+(citing Halsbury’s Laws of Singapore, vol 10 (LexisNexis, 2016 Reissue) at
+para 120.402). The first defendant also cited Field v Commissioner for
+Railways for NSW (1957) 99 CLR 285 as an example: there, the plaintiff’s
+admission to a doctor (appointed by the defendant) that the plaintiff himself
+was responsible for the injuries for which he was seeking compensation, was
+regarded as having been “made without any proper connexion with any purpose
+connected with the settlement of the action” (at [8]).
+
+81 The court should be cautious about allowing such propositions to be used to
+erode the protection provided by the Broad Approach. As Lord Griffiths put it
+in Rush & Tompkins at 1300:
+
+… There is also authority for the proposition that the admission of an
+‘independent fact’ in no way connected with the merits of the cause is
+admissible even if made in the course of negotiations for a settlement. Thus
+an admission that a document was in the handwriting of one of the parties was
+received in evidence in Waldridge v Kennison (1794) 1 Esp 142. I regard this
+as an exceptional case and it should not be allowed to whittle down the
+protection given to the parties to speak freely about all issues in the
+litigation both factual and legal when seeking compromise and, for the purpose
+of establishing a basis of compromise, admitting certain facts. If the
+compromise fails the admission of the facts made for the purpose of the
+compromise should not be held against the maker of the admission and should
+therefore not be received in evidence. [emphasis added]
+
+82 The present case was not an “exceptional case” where statements of fact
+made in the course of negotiations were nevertheless “in no way connected”
+with the settlement that was being negotiated.
+
+83 In the first place, the Relevant Portions of the Disputed Emails were not
+“statements of fact”. As I noted at [40]–[44] above, they comprised:
+
+(a) the first defendant’s proposal to extend the LC;
+
+(b) the plaintiff’s rejection of that proposal because the plaintiff would
+only agree to extend the LC if the negotiations concluded in agreement on a
+contract amendment; and
+
+(c) the first defendant’s disagreement with the plaintiff’s claim for
+remaining payments, and the statement of its position that the amount of the
+remaining payments due to the plaintiff had not been finalised (as the parties
+had not agreed on settlement), and so the first defendant said the LC should
+first be extended.
+
+84 All of these are statements of the parties’ respective positions, rather
+than statements of objective facts.
+
+85 Moreover, all these statements were clearly connected with the settlement
+negotiations – the ongoing negotiations about payment were the premise for the
+first defendant’s proposal to extend the LC, and its disagreement with the
+plaintiff’s claim was expressed in the context of it nevertheless being
+prepared to negotiate about what the plaintiff should be paid. As for the
+plaintiff’s refusal to extend the LC, the plaintiff said that it would only
+agree to extend the LC if the negotiations concluded in a contract amendment –
+to the plaintiff, the extension of the LC was a potential outcome of the
+negotiations.
+
+86 I thus did not agree with the first defendant’s contention that the
+Relevant Portions of the Disputed Emails were not privileged because they were
+communications of objective facts unconnected with the parties’ negotiations.
+
+The Relevant Portions of the Disputed Emails would also be privileged in the
+first place, even if the privilege only covered admissions
+
+87 For completeness, even if the Broad Approach is not the law in Singapore,
+the Relevant Portions of the Disputed Emails would nevertheless be privileged
+in the first place, for they all constitute admissions that would be protected
+by “without prejudice” privilege.
+
+88 First, the Disputed Emails were “without prejudice” in nature to begin with
+(Ernest Ferdinand at [67] and [89]):
+
+(a) the Disputed Emails concerned disputes between the parties (including
+about what the plaintiff should be paid) which the parties were trying to
+settle; and
+
+(b) the Disputed Emails contained admissions – intimations by both parties
+that they were willing to negotiate, and references to their settlement
+negotiations.
+
+89 Second, the Relevant Portions of the Disputed Emails constituted admissions
+that, even on a narrow approach to “without prejudice” privilege, would be
+privileged: see [85] above.
+
+90 However, I rested my decision on the Broad Approach to “without prejudice”
+privilege conferring privilege on the Disputed Emails, but an exception (the
+Delay/Acquiescence Exception) applying to allow the first defendant to refer
+to the Relevant Portions to explain delay (or inaction) or apparent
+acquiescence, and particularly to rebut the plaintiff’s Assertions: (a) that
+the first defendant had taken no steps to extend the LC; and (b) that the
+first defendant had not taken issue with the plaintiff’s claim under the LC
+for the retention money.
+
+91 I considered this to be appropriate in terms of policy and principle,
+rather than merely protecting admissions, which would entail having to
+characterise each portion of the negotiations as an “admission” before it
+would be privileged.
+
+Conclusion
+
+92 As a matter of policy and principle, the Broad Approach to “without
+prejudice” privilege furthers the objective of encouraging settlements. The
+Broad Approach is the position at common law, and it is not precluded by s
+23(1) of the Evidence Act, or by binding authority (in particular, the Court
+of Appeal’s decision in Ernest Ferdinand).
+
+93 Applying the Broad Approach, the whole of the five Disputed Emails were
+protected by “without prejudice” privilege in the first place.
+
+94 However, an exception – the Delay/Acquiescence Exception – applied to allow
+the first defendant to refer to the Relevant Portions of the Disputed Emails
+to rebut the plaintiff’s Assertions: (a) that the first defendant had taken no
+steps to extend the LC; and (b) that the first defendant had not taken issue
+with the plaintiff’s claim to retention money under the LC.
+
+95 I thus dismissed the registrar’s appeal, save that I limited the portions
+of the Disputed Emails that the first defendant could refer to, to the parts
+relevant to rebutting the plaintiff’s Assertions. The rest of those emails
+remained protected by “without prejudice” privilege.
+
+Andre Maniam  
+Judge of the High Court|  
+---|---  
+  
+Wong Soon Peng Adrian, Ang Leong Hao, Wayne Yeo and Sia Bao Huei (Rajah & Tann
+Singapore LLP) for the plaintiff;
+
+Toh Chen Han, Ang Wee Jian and Glenn Sim Sze Nyuang (MPillay) for the first
+defendant;
+
+Tan Hong Liang, Kwek Yuan Justin and Tan Hao Ting Valerie (JWS Asia Law
+Corporation) for the second defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 08 Feb 2023 (11:46 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

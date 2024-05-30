@@ -1,0 +1,416 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the COURT OF APPEAL of the republic of singapore
+
+[2021] SGCA 87
+
+Civil Appeal No 1 of 2021
+
+Between
+
+(1)| Yihua Lifestyle Technology Co, Ltd  
+---|---  
+(2)| Ideal Homes International Limited  
+  
+… Appellants
+
+And
+
+(1)| HTL International Holdings Pte Ltd  
+---|---  
+(2)| Phua Yong Tat  
+(3)| Phua Yong Pin  
+(4)| Golden Hill Capital Pte Ltd  
+  
+… Respondents
+
+In the matter of Originating Summons No 425 of 2020 (Summons No 3963 of 2020)
+
+In the matter of Sections 227B and 227R of the Companies Act (Cap 50)HTL
+International Holdings Pte Ltd  
+---  
+  
+… Applicant
+
+EX TEMPORE judgment
+
+[Companies] — [Receiver and manager] — [Judicial management order]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Yihua Lifestyle Technology Co, Ltd and another
+
+  
+v
+
+  
+
+HTL International Holdings Pte Ltd and others
+
+[2021] SGCA 87
+
+Court of Appeal — Civil Appeal No 1 of 2021  
+Judith Prakash JCA, Steven Chong JCA  
+8 September 2021
+
+8 September 2021
+
+Steven Chong JCA (delivering the judgment of the court ex tempore):
+
+Introduction
+
+1 When or under what circumstances can the shareholders or creditors of a
+company apply to court for relief in respect of a decision made by the
+company’s judicial managers (“JMs”) in the exercise of their discretion? That
+is the central question that arises in the present appeal.
+
+2 The appellants (collectively, “the Shareholders”) are the direct and
+ultimate shareholders of HTL International Holdings Pte Ltd (“the Company”),
+which is presently under judicial management. In HC/SUM 3963/2020 (“SUM
+3963”), the High Court Judge (“Judge”) dismissed the Shareholders’ application
+under s 227R of the Companies Act (Cap 50, 2006 Rev Ed) (“CA”) (now s 115 of
+the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018)) for
+the court to displace the discretion exercised by the JMs of the Company in
+choosing to sell the Company’s interests in its subsidiaries (“the Asset”) to
+the first respondent, Golden Hill Capital Pte Ltd (“Golden Hill Capital”),
+instead of another prospective buyer.
+
+3 In our judgment, there is no merit in the Shareholders’ appeal. We briefly
+elaborate on the grounds of our decision below.
+
+Facts
+
+4 The background facts are set out in the Grounds of Decision below – Re HTL
+International Holdings Pte Ltd [2021] SGHC 86 (“GD”). It suffices to highlight
+the material facts for the purpose of the appeal.
+
+5 The Company was the holding company of a group of companies involved in the
+furniture trade (collectively, “the HTL Group”). The Company’s subsidiaries
+consisted of HTL Manufacturing (“HTLM”) as well as a number of PRC-
+incorporated subsidiaries (“PRC subsidiaries”).
+
+6 The original founders of the Company were the second and third respondents,
+Mr Phua Yong Tat and Mr Phua Yong Pin, who are the beneficial owners of Golden
+Hill Capital. In or around September 2016, the second appellant, which is a
+wholly-owned subsidiary of the first appellant, acquired 100% of the shares in
+the Company.
+
+7 On 5 May 2020, the Company was placed under interim judicial management.
+Thereafter, the interim judicial managers (“IJMs”), on behalf of the Company,
+entered into a share purchase agreement (“SPA”) with Golden Hill Capital on 28
+May 2020 to sell the Asset to Golden Hill Capital for US$80m. To facilitate
+the transfer of the Asset to Golden Hill Capital, the IJMs transferred all of
+the Company’s shares in its PRC subsidiaries to a newly incorporated wholly-
+owned subsidiary of the Company known as HTL Capital Pte Ltd (“HTLC”). Mr Phua
+Yong Tat also extended two bridging loans to the Company to help alleviate its
+cashflow issues.
+
+8 On 1 July 2020, the Company was placed under judicial management. Between 20
+and 29 July 2020, Mr Phua Yong Tat and Mr Phua Yong Pin procured the
+assignment of the Company’s bank creditors’ claims against the Company to
+Golden Hill Investments, the parent company of Golden Hill Capital.
+
+9 On 19 August 2020, nine days before the SPA’s completion date, another
+entity, Man Wah Holdings (“Man Wah”), made an offer (“Man Wah’s 19 August
+Offer”) to purchase the Asset for US$100m. As part of this offer, Man Wah also
+agreed to provide an additional working capital facility of US$20m to HTLC and
+HTLM post-completion. Man Wah subsequently clarified its 19 August Offer via
+an e-mail dated 20 August 2020 (“Man Wah’s 20 August Clarification”).
+
+10 On 24 August 2020, the JMs invited both Golden Hill Capital and Man Wah to
+provide “anything further” they wished to communicate in relation to their
+respective offers by 26 August 2020. Man Wah then wrote to court to seek an
+order for the JMs to provide it with a full set of the Company’s financial
+accounts (“Financials”) and requested for an extension of the 26 August 2020
+deadline. The JMs did not accede to Man Wah’s request to provide the
+Financials but agreed to extend the deadline to 31 August 2020.
+
+11 On 31 August 2020, Golden Hill Capital submitted a revised offer (“Golden
+Hill Capital’s 31 August Offer”) of US$100m, with an additional US$20m working
+capital facility to be made available to HTLM and HTLC post-completion. Man
+Wah, for its part, also submitted a revised offer (“Man Wah’s 31 August
+Offer”), the salient terms of which were as follows:
+
+(a) Man Wah maintained its offer of US$100m for the Asset. However, Man Wah
+also stated that it was prepared to offer US$10m more than any offer made by
+Golden Hill Capital. Thus, Man Wah’s offer was effectively US$110m.
+
+(b) Man Wah also maintained that it would provide US$20m in post-completion
+working capital to HTLC and HTLM.
+
+(c) In addition to the above, Man Wah was prepared to provide interim
+financing of US$20m up front, to be set off against the consideration payable
+on completion.
+
+12 After considering the parties’ respective offers, the JMs accepted Golden
+Hill Capital’s 31 August Offer and the sale of the asset to Golden Hill
+Capital was completed on 7 September 2020. The next day, on 8 September 2020,
+Man Wah conveyed a further improved offer for the Asset (“Man Wah’s 8
+September Offer”). The JMs did not accept Man Wah’s 8 September Offer.
+
+13 As Man Wah was the Shareholders’ preferred buyer, the Shareholders
+commenced SUM 3963 seeking the following relief under s 227R of the CA on the
+basis that the JMs had acted in a manner that was “unfairly prejudicial” to
+their interests:
+
+(a) an order to declare the Company’s sale of the Asset to Golden Hill Capital
+null and void;
+
+(b) an order to direct the JMs to accept Man Wah’s 31 August or 8 September
+Offer; and
+
+(c) an order to restrain the JMs from proceeding with any resolution and/or
+taking steps to wind up the Company.
+
+14 There are two principal planks to the Shareholders’ case. First, the JMs
+had acted perversely by selecting Golden Hill Capital’s 31 August Offer over
+Man Wah’s 31 August Offer even though Man Wah’s 31 August Offer was superior
+in terms of shareholder returns. Second, the JMs’ refusal to disclose the
+Financials had caused Man Wah to suffer unfair prejudice, as Man Wah might
+well have been able to submit an improved offer (entailing a shorter
+acquisition time and/or higher shareholder returns) if it had been provided
+with the Financials.
+
+15 We briefly examine the principles governing s 227R of the CA before
+addressing the Shareholders’ arguments.
+
+The test for unfair prejudice under s 227R of the CA
+
+16 In the decision below, the Judge held, drawing guidance from English
+authorities interpreting para 74 to Schedule B1 of the Insolvency Act 1986
+(UK) (which is in pari materia with s 227R of the CA), that the court would
+only interfere with the JMs’ decision if it could be shown that their conduct
+had been plainly wrongful, conspicuously unfair or perverse: see GD at [32].
+The Judge was of the view that this high threshold was consistent with
+Parliament’s intention that appointed JMs be given a wide discretion to employ
+their skills and expertise in performing their functions (GD at [40]). The
+Judge further held that, in exercising this wide discretion, JMs would be
+justified in weighing the interests of creditors over those of the members or
+shareholders of the company (GD at [41]).
+
+17 We broadly agree with the Judge’s exposition of the relevant principles
+which, in any event, is not seriously challenged by any of the parties in this
+appeal. In our view, a two-stage test ought to be applied to determine whether
+a judicial manager has acted or proposed to act in a manner which would
+unfairly harm the interests of the applicant: see Four Private Investment
+Funds v Lomas and others [2008] EWHC 2869 (Ch) at [34] and [37].
+
+(a) First, it must be shown that the action complained of has caused, or would
+cause, the complainant to suffer harm in his capacity as a member or creditor:
+see BLV Realty Organization Ltd and another v Batten and others [2009] EWHC
+2994 (Ch) at [24].
+
+(b) Second, the harm caused by the action complained of must be unfair. In
+this regard, unfairness may stem from the following (see In re Meem SL Ltd (in
+administration); Goel and another v Grant and others [2018] Bus LR 393 at
+[44]):
+
+(i) conspicuously unfair or differential treatment to the disadvantage of the
+applicant (or applicant class) which cannot be justified by reference to the
+objective of the judicial management or the interests of the members or
+creditors as a whole; or
+
+(ii) a lack of legal or commercial justification for a decision which causes
+harm to the members or creditors as a whole. This might include, for example,
+a decision to sell the company’s assets at an undervalue, or a course of
+action that is based on a wrong appreciation of the law. However, in such
+cases, the court will not interfere with the JMs’ decision unless it is
+perverse (ie, unable to withstand logical analysis).
+
+Whether the JMs acted in a manner that was unfairly prejudicial to the
+interests of the Shareholders
+
+18 Since the Shareholders do not claim to be the subject of differential
+treatment, the threshold for intervention in the present case is that of
+perversity. We do not think that this threshold has been crossed, for the
+reasons that follow.
+
+19 First, the Shareholders assert that the JMs erred in concluding that Golden
+Hill Capital’s offer would yield higher shareholder returns than Man Wah’s
+offer. In this connection, the Shareholders allege that the JMs’ calculations
+were flawed in the following respects:
+
+(a) The consideration offered by Golden Hill Capital ought to have been stated
+as US$88m, not US$100m, to reflect the US$12m due to Mr Phua Yong Tat under
+the bridging loans which he had extended to the Company.
+
+(b) The JMs had no basis to assume that the US$20m interim facility provided
+by Man Wah would be fully drawn down by the Company.
+
+(c) The JMs had failed to consider that, under Man Wah’s offer, the Company
+would have loaned the entire US$20m from the interim facility to HTLM, and
+that the Company’s cash reserves would thus have been US$110m and not US$90m
+after HTLM’s repayment of this loan.
+
+(d) The JMs had failed to account for the possible generation of earnings from
+the use of the US$20m interim facility provided by Man Wah.
+
+(e) The JMs had failed to consider that Man Wah had offered an additional sum
+of US$20m in post-completion working capital, which could have been used to
+set off the Company’s liabilities if necessary.
+
+20 In our view, the abovementioned contentions are entirely without merit. In
+relation to the issue as to whether the consideration offered by Golden Hill
+Capital ought to be reflected as US$88m or US$100m, we see no reason to doubt
+the JMs’ explanation that the Company’s debt of US$12m to Mr Phua Yong Tat had
+already been accounted for as part of the Company’s liabilities. In this
+connection, we note that even the Shareholders’ expert (“Crowe”) was unwilling
+to challenge the JMs’ assessment of the shareholder returns generated by
+Golden Hill Capital’s 31 August Offer, as it accepted that the JMs were more
+familiar with the terms of that offer as well as the bridging loans provided
+by Mr Phua Yong Tat.
+
+21 In relation to the issues as to (a) whether the US$20m interim facility
+would have been fully drawn down and (b) whether the use of the US$20m interim
+facility could have generated revenue for the HTL Group, the JMs disclosed
+advice from their Hong Kong legal counsel which showed that Man Wah’s 31
+August Offer would likely take between two and six months to complete. The JMs
+also adduced documentary evidence of, inter alia, the HTL Group’s substantial
+average monthly fixed and variable costs and its precarious financial
+condition. This was made known to Man Wah prior to its 31 August Offer. Given
+the Company’s circumstances, it was entirely reasonable for the JMs to take
+the view that the entire US$20m facility would be completely drawn down within
+the time required for the completion of Man Wah’s offer, and that,
+furthermore, it would not be able to generate income for the Company in the
+interim. The Shareholders, for their part, were unable to adduce any
+compelling evidence to the contrary and merely asserted that the JMs had not
+produced any accounts to support their financial projections. We disagreed
+with that assertion as it would constitute an impermissible reversal of the
+burden of proof to the JMs.
+
+22 In relation to the issue of whether the US$20m loan would have been
+returned to the Company’s cash reserves, we agree with the Judge’s finding
+that Man Wah had agreed, as part of its offer, to waive all debts between the
+Company and HTLM (“the Waiver”), with the effect that HTLM would not have had
+to repay the sum of US$20m to the Company. The Waiver had been explicitly
+provided for in Man Wah’s 20 August Clarification, and continued to form part
+of Man Wah’s 31 August Offer. The Shareholders’ argument that the sum of
+US$20m mentioned in the Clarification did not refer to the US$20m interim
+facility is, with respect, misconceived as the nature and purpose of the
+US$20m is irrelevant to the existence of the Waiver. We add that the
+Shareholders’ case that Man Wah’s offer was superior to Golden Hill Capital’s
+in terms of shareholder returns was predicated on the fact that the Waiver did
+not apply to the US$20m interim facility. Quite apart from the fact that Man
+Wah’s 20 August Clarification would have put paid to this allegation, we find
+it significant that no affidavit was filed by Man Wah, the author of both the
+20 August Clarification and the 31 August Offer, to state otherwise.
+
+23 Finally, the Shareholders’ contention that the post-completion working
+capital of US$20m could be set off against the Company’s liabilities was also
+clearly without merit as Man Wah had clearly stated that the working capital
+facility was to be provided to HTLC and HTLM, not to the Company.
+
+24 Consequently, we see no reason to disagree with the Judge that the JMs
+correctly assessed that Golden Hill Capital’s 31 August Offer yielded a higher
+shareholder return than Man Wah’s 31 August Offer.
+
+25 We turn now to the second principal plank of the Shareholders’ case, which
+is that the JMs’ refusal to provide Man Wah with the Financials prevented Man
+Wah from improving its offer. The Shareholders argue that, first, the
+provision of the Financials would have enabled Man Wah to confirm whether it
+could obtain approval for the purchase of the Asset without holding a
+shareholder meeting. If a shareholder meeting was not required, the time to
+completion could be shortened to five business days. Second, if Man Wah had
+been provided with the Financials, it was “entirely possible that Man Wah
+would [have] increase[d] the amount of the credit facility, given its
+commitment and the large amount of money that it was prepared to offer”.
+
+26 In our view, both arguments are speculative and without basis. In relation
+to the time to completion, we note that Man Wah’s position, as stated in its
+20 August Clarification, was that the only information that it required to
+determine the time to complete its offer was information as to whether the
+Financials were qualified or unqualified. Given that the JMs had already
+clarified (by way of a letter from its solicitors dated 26 August 2020) that
+the Company’s accounts were indeed qualified, it is not clear how or why the
+provision of the Financials continued to be necessary or relevant in so far as
+the issue of timing was concerned.
+
+27 In response to this, the Shareholders contend in their Appellants’ Case
+that Man Wah, being a listed entity, could not simply rely on the JMs’
+statements that the accounts of the Company were qualified. However, this
+assertion appears to be an afterthought as the Shareholders are raising it for
+the first time on appeal. Furthermore, it would have been open to Man Wah to
+request for documentary evidence of the accountant’s disclaimer (instead of
+the full set of Financials) if indeed it had been of the view that the JMs’
+representation could not be relied upon. Tellingly, no such request was made.
+
+28 The Shareholders also point to Man Wah’s 8 September Offer, in which Man
+Wah alleged for the first time that it required the Financials for another
+purpose: namely, to determine whether HTL Group’s aggregate revenue was less
+than 25% of Man Wah’s last audited revenue, in which event shareholder
+approval could also be dispensed with. However, the 8 September Offer was
+conveyed to the JMs only after the JMs had already communicated their decision
+to accept Golden Hill Capital’s 31 August Offer. The Shareholders’ reliance on
+Man Wah’s 8 September Offer is therefore misplaced.
+
+29 For the above reasons, we reject the Shareholders’ argument that the
+provision of the Financials would have enabled it to make an offer with a
+shorter completion time. We are similarly unpersuaded by the Shareholders’
+bare and speculative assertion that Man Wah could potentially have increased
+the amount of the US$20m interim facility if it had been provided with the
+full set of Financials. The Shareholders have not provided any substantiation
+whatsoever for this claim.
+
+Conclusion
+
+30 For the above reasons, we agree with the Judge that the JMs did not act in
+an unfairly prejudicial manner by selecting Golden Hill Capital’s 31 August
+Offer over Man Wah’s 31 August Offer. We note, for completeness, that Golden
+Hill Capital, Mr Phua Yong Tat and Mr Phua Yong Pin (collectively, “the Phua
+Group”) have devoted a substantial part of their submissions on the argument
+that the Shareholders should not be awarded the relief they seek in any event
+because it would be impossible and/or unjust to rescind the SPA at this
+juncture. We do not think it necessary to set out our views on those
+arguments, given our conclusion above that the conditions under s 227R of the
+CA were not satisfied to begin with.
+
+31 The appeal is thus dismissed with costs. We order the appellants to pay the
+JMs and the Phua Group costs fixed at S$50,000 and S$25,000 respectively
+inclusive of disbursements as well as the costs for CA/SUM 61/2021. The usual
+consequential orders will apply.
+
+Judith Prakash  
+Justice of the Court of Appeal | Steven Chong   
+Justice of the Court of Appeal  
+---|---  
+  
+Tan Tee Jim SC, Gan Theng Chong, Melissa Ng and Tan Sher Meen (Lee & Lee)
+(instructed), Sharon Chong Chin Yee, Nandhu and Sim Ling Renee (RHTLaw Asia
+LLP) for the appellants;
+
+Pradeep Pillai, Joycelyn Lin, Jonas Wong and Lek Haokai (PRP Law LLC) for the
+first respondent;
+
+Harpreet Singh Nehal SC, Jordan Tan and Victor Leong (Audent Chambers LLC)
+(instructed), Cheng Wai Yuen Mark, Chew Xiang, Ho Zi Wei and Tan Tian Hui
+(Rajah & Tann Singapore LLP) for the second to fourth respondents.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 09 Sep 2021 (09:33 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

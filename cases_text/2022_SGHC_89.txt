@@ -1,0 +1,647 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE
+
+high court of the republic of singapore
+
+[2022] SGHC 89
+
+Originating Summons No 1139 of 2020 (Registrar’s Appeal No 30 of 2022)
+
+Between
+
+| La Dolce Vita Fine Dining Company Limited  
+---|---  
+|  
+  
+… Plaintiff
+
+And
+
+(1)| Zhang Lan  
+---|---  
+(2)(3)(4)| Grand Lan Holdings Group (BVI) LimitedQiao Jiang Lan Development
+LimitedSuccess Elegant Trading Limited  
+  
+… Defendants
+
+judgment
+
+[Civil Procedure — Discovery of documents — Banker’s books]
+
+[Banking — Secrecy — Exceptions]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+La Dolce Vita Fine Dining Company Ltd
+
+  
+v
+
+  
+
+Zhang Lan and others
+
+[2022] SGHC 89
+
+General Division of the High Court — Originating Summons No 1139 of 2020
+(Registrar’s Appeal No 30 of 2022)  
+Philip Jeyaretnam J  
+17 February 2022, 14 March 2022
+
+21 April 2022 Judgment reserved.
+
+Philip Jeyaretnam J:
+
+Introduction
+
+1 Where a party to litigation seeks discovery of documents in the possession
+of the other party’s banker, such discovery is limited to “entries in a
+banker’s book” and anything beyond this remains protected by banking secrecy.
+In recent decades, the amount of information that banks must obtain and retain
+concerning their customers has been greatly expanded under “Know Your Client”
+or KYC regulations. Where previously banks only needed to identify the legal
+holder of the account, today they need to know who the ultimate beneficial
+owner is. When, if at all, would information held by a bank concerning the
+identity of the ultimate beneficial owner be considered an entry in a banker’s
+book?
+
+2 The answer is that such information is an entry in a banker’s book only when
+it forms part of the transactional record pertaining to the bank’s customer.
+Where the information is to be found for example in questions asked of a
+customer at a meeting or in general correspondence, this cannot be considered
+an entry in a banker’s book. However, banks require a declaration of
+beneficial ownership for the purpose of regulatory compliance, and this is
+recorded by the bank as part of its identification of its customer with whom
+it transacts. The bank’s recording of such declarations is an entry in a
+banker’s book.
+
+3 In this judgment I explain my reasons for this conclusion.
+
+Facts
+
+The parties and brief procedural history
+
+4 This is an appeal against a decision of the assistant registrar to grant the
+plaintiff discovery orders concerning documents in the possession of the
+fourth defendant’s bankers.
+
+5 The plaintiff is La Dolce Vita Fine Dining Company Limited, a company
+incorporated in the Cayman Islands. I shall refer to it as LDV.
+
+6 LDV is a judgment creditor of the first, second and third defendants under a
+Hong Kong judgment dated 20 May 2020 (the “HK Judgment”). 1
+
+##### Foot Note 1
+
+×
+
+2nd Affidavit of Cosimo Borrelli dated 26 February 2021 (“2 CB”) at paras
+7–11.
+
+The HK Judgment recognised and enforced a partial award on liability and
+quantum rendered by the China International Economic and Trade Arbitration
+Commission on 28 April 2019 (“Partial Award No. 0591”). 2
+
+##### Foot Note 2
+
+×
+
+2 CB at para 11.
+
+7 The first defendant is Mdm Zhang Lan, a citizen of St Kitts and Nevis (“Mdm
+Zhang”). The second defendant is Grand Lan Holdings Group (BVI) Limited, a
+company incorporated in the British Virgin Islands that is wholly owned by Mdm
+Zhang. 3
+
+##### Foot Note 3
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 10 November 2020 (“1 CB”) at para 9.
+
+The third defendant, Qiao Jiang Lan Development Limited, is also a company
+incorporated in the British Virgin Islands wholly owned by Mdm Zhang. 4
+
+##### Foot Note 4
+
+×
+
+1 CB at para 10.
+
+8 LDV commenced this originating summons on 10 November 2020 seeking to
+register the HK Judgment, and obtained a registration order on 11 November
+2020. 5
+
+##### Foot Note 5
+
+×
+
+2 CB at paras 13–14.
+
+9 The fourth defendant sought to intervene and by consent was added as a
+defendant on 16 September 2021. The fourth defendant is Success Elegant
+Trading Limited, a company incorporated in the British Virgin Islands. I shall
+refer to it as SETL.
+
+10 The fourth defendant intervened even though it is not a judgment debtor to
+LDV because LDV had filed an application pursuant to the registration order
+seeking the appointment of receivers to receive monies and securities in two
+bank accounts held in the name of SETL, one with Credit Suisse AG (“CS”) and
+one with Deutsche Bank AG (“DB”) (collectively the “Bank Accounts”) (the
+“receivership application”). Both CS and DB are well-known multinational
+financial institutions. The basis of the receivership application, which
+remains to be determined, is that the monies and securities in the Bank
+Accounts are beneficially owned by Mdm Zhang. 6
+
+##### Foot Note 6
+
+×
+
+Summons to Appoint Receiver dated 9 June 2021.
+
+11 Many years prior to this originating summons, LDV had obtained a freezing
+order in Singapore on 2 March 2015 in support of its then intended claim
+against Mdm Zhang in arbitration. The freezing order was directed only against
+Mdm Zhang. Nonetheless, when it was served on CS and DB, they froze the Bank
+Accounts apparently because they considered Mdm Zhang to be the beneficial
+owner of them. LDV then sought pre-action discovery against CS and DB seeking,
+among other things, the account opening forms and other related documents for
+the Bank Accounts. Discovery was ordered by the assistant registrar (see La
+Dolce Vita Fine Dining Co Ltd and another v Deutsch Bank AG and another and
+another matter [2016] SGHCR 3) and this was upheld on appeal by Andrew Ang SJ
+in Success Elegant Trading Ltd v La Dolce Vita Fine Dining Co Ltd and others
+and another appeal [2016] 4 SLR 1392 (“SETL No 1”). CS and DB duly provided
+account opening forms and other related documents identifying Mdm Zhang as
+beneficial owner and sole authorised signatory of the Bank Accounts. CS
+provided an account application form dated 11 February 2014 while DB provided
+a form dated 7 March 2014 documenting the identity of the beneficial owner of
+the Bank Accounts. 7
+
+##### Foot Note 7
+
+×
+
+7th Affidavit of Cosimo Borrelli dated 10 December 2021 (“7 CB”) at para 17.
+
+It appears that no one contended in those proceedings that the documents
+sought were protected by banking secrecy on the basis that they did not
+contain entries in bankers’ books.
+
+12 Against this backdrop, LDV sought discovery in this originating summons
+against each of CS and DB for documents relating to the beneficial ownership
+of the Bank Accounts that formed the basis of the respective bank’s belief
+that the account held with it was subject to the freezing order against Mdm
+Zhang (“the discovery application”).
+
+13 Neither CS nor DB opposed the discovery application, leaving it to the
+court. SETL did oppose it, and when the discovery application was granted by
+the assistant registrar, appealed.
+
+14 In response to my questions in the course of the appeal hearing, the issues
+narrowed and the submissions sharpened. After the further round of submissions
+that I allowed, LDV changed its request to two categories, namely:
+
+(a) correspondence between the banks and either SETL or Mdm Zhang recording
+transactions with respect to the Bank Accounts (the “First Category”); and
+
+(b) forms, declarations and correspondence between the banks and either SETL
+or Mdm Zhang identifying the beneficial owner of the Bank Accounts (the
+“Second Category”).
+
+15 However, the First Category was not a refinement or limitation of the
+discovery application, but a new and differently framed category that was not
+clearly linked to ultimate beneficial ownership of the Bank Accounts. It is
+not fair or right to expand the discovery sought in the course of an appeal,
+and in this judgment I will only consider the Second Category.
+
+16 In addition, I invited CS and DB to make submissions despite their having
+taken no position on the discovery application, given that their views as
+bankers would be potentially helpful and clarifying of what today falls within
+the category of bankers’ books and entries therein. I record my appreciation
+to DB, who availed themselves of this opportunity.
+
+Issue to be determined
+
+17 By the end of the oral hearing, objections raised by SETL of relevance,
+necessity, the need for a prima facie case of wrongdoing on SETL’s part and
+absence of clean hands had largely faded. Nonetheless for completeness, I
+record that I do not accept any of these objections. The documents sought are
+both relevant to and necessary for the fair disposal of the application for
+receivership. There is no need for LDV to establish a proprietary claim
+against the monies and securities in the Bank Accounts because the basis for
+the receivership application is that the monies and securities in the Bank
+Accounts belong beneficially to the judgment debtor. Thus, they seek recourse
+to those assets as to any other assets of a judgment debtor. Lastly, LDV is
+not disentitled from seeking discovery even if, as SETL alleges, it has relied
+on documents previously disclosed by CS and DB without seeking prior leave of
+court to do so. Quite apart from any disclosure of documents, there has been a
+fact visible to all since CS and DB stepped up and said they would freeze the
+Bank Accounts, namely that CS and DB are in possession of information showing
+that Mdm Zhang is (or at least was) beneficial owner of the Bank Accounts.
+Given that CS and DB are banks, it is a simple inference that such information
+is recorded in documents.
+
+18 Thus, the issue on appeal reduces to whether the documents sought are
+protected by banking secrecy or fall within the exception of entries in
+bankers’ books.
+
+19 I will proceed in the following order:
+
+(a) the legislative structure of banking secrecy and the exception for entries
+in a banker’s book;
+
+(b) the approach of the Singapore Courts;
+
+(c) recent decisions of other jurisdictions;
+
+(d) the parties’ submissions; and
+
+(e) conclusion on the law.
+
+The legislative structure of banking secrecy and the exception for entries in
+a banker’s book
+
+20 Banking secrecy was first legislated in Singapore in 1970 through s 47 of
+the Banking Act 1970 (the “BA”). Section 47 was repealed and replaced by a new
+provision in 2002. Section 47(1) now provides:
+
+Privacy of customer information
+
+47.—(1) Customer information must not, in any way, be disclosed by a bank in
+Singapore or any of its officers to any other person except as expressly
+provided in this Act.
+
+The exceptions to the above rule are set out in the Third Schedule of the BA.
+The exception that is relevant in this case is contained in para 7 of Part 1
+to the Third Schedule. It provides that customer information may be disclosed
+where:
+
+Disclosure is necessary for compliance with an order of the Supreme Court or a
+Judge sitting in the Supreme Court pursuant to the powers conferred under Part
+4 of the Evidence Act 1893.
+
+Paragraph 7 further provides that such customer information may be disclosed
+to:
+
+All persons to whom the disclosure is required to be made under the court
+order.
+
+The court’s power to order disclosure referred to in para 7 is contained in
+Evidence Act 1893 (the “EA”) s 175(1):
+
+On the application of any party to a legal proceeding, the court or a Judge
+may order that such party be at liberty to inspect and take copies of any
+entries in a banker’s book for any of the purposes of such proceedings.
+
+Bankers’ books are defined in s 170 EA to include:
+
+… ledgers, day books, cash books, account books and all other books used in
+the ordinary business of the bank
+
+21 While bankers’ books are no longer leather-bound tomes, some of their names
+live on, such as the day book, albeit applied to an electronic and automated
+equivalent. The discovery sought in this case would be of entries in “all
+other books used in the ordinary business of the bank”, if at all.
+
+22 For completeness, I should add that the duty of confidentiality between
+banker and customer is exclusively governed by s 47 of the BA, and thus the
+exceptions to banking secrecy listed in the Third Schedule are comprehensive.
+This means that there is no room for common law exceptions to banking secrecy
+to operate: per the Court of Appeal in Susilawati v American Express Bank Ltd
+[2009] 2 SLR(R) 737 at [67].
+
+23 Importantly, the same category of entries in a banker’s book not only
+defines an exception to banking secrecy but also delineates what may be
+received as prima facie evidence “of the matters, transactions and accounts
+therein recorded” under s 171 EA. Thus, where a party to legal proceedings
+establishes that documents in the possession of the banker to the other party
+are relevant and necessary in those proceedings, he may only obtain discovery
+of such documents from that banker if they are banker’s books, or contain what
+can fairly be described as an entry in such a book. If they are, then upon
+production of copies of such documents, they may be received as prima facie
+evidence of the truth of their contents, without any bank officer being called
+to testify.
+
+The approach of the Singapore Courts
+
+24 The leading case on what constitutes a banker’s book is Wee Soon Kim
+Anthony v UBS AG [2003] 2 SLR(R) 91 (“Anthony Wee”), a decision of the Court
+of Appeal. How the expression “other books” in s 170 EA should be interpreted
+in relation to modern banking practice was explained at [36] as follows:
+
+In any event, we are of the opinion that in interpreting the expression “other
+books” in the definition we should take a purposive approach and recognise the
+changes effected in the practices of bankers. Any form of permanent record
+maintained by a bank in relation to the transactions of a customer should be
+viewed as falling within the scope of that expression. Correspondence between
+a bank and a customer which records a transaction clearly formed an integral
+part of the account of that customer and there is no good reason why it should
+be excluded. Otherwise, the object behind the enactment of Part IV of the Act
+would be undermined and banks would be troubled to have to come to court with
+the documents, including correspondence, relating to the account(s) of each
+customer. Thus, we agree with the approach taken in Williams v Williams.
+However, such records should be contrasted with notes taken by bank officers
+of meetings with customers and such notes cannot be regarded as entries in
+books kept by the bank for the purpose of its ordinary business within the
+meaning of “bankers’ books” (Re Howglen Ltd [2001] 1 All ER 376).
+
+[emphasis in original]
+
+25 The limitation that the entry must relate to the transactions of the bank
+is critical. The bank’s record of transactions establishes the customer’s
+position with the bank, and in particular the extent to which he is in credit
+or debit. It is this position between banker and customer recorded by the bank
+that is amenable to proof on a prima facie basis by copies of documents
+without the attendance of a bank officer. There will be many other documents
+kept by a bank which record information concerning its customers that are of
+much less certain evidential value and thus not apt to fall within a class of
+documents defined for the dual purpose of discovery and prima facie proof by
+production of copies.
+
+26 In Anthony Wee at [31], the Court of Appeal also explained that on a
+purposive interpretation of s 170 EA, the permanent record of the bank could
+take the form of any method made available by modern technology.
+
+27 I add that in SETL No 1, Andrew Ang SJ ordered disclosure of account
+opening forms. These would not of themselves be traditionally considered to be
+part of a bank’s transactional record. However, the point was not taken then
+nor was argument specifically made on it. There was no appeal.
+
+Recent decisions of other jurisdictions
+
+28 The Malaysian Court of Appeal (Putrajaya) recently considered the scope of
+banker’s books in their substantially equivalent statutes in the case of Tey
+Por Yee & Anor v Protasco Bhd and other appeals [2021] 1 MLJ 76 (“Protasco
+(CA)”).
+
+29 In the decision under appeal, the High Court (Kuala Lumpur) in Protasco Bhd
+v PT Anglo Slavic Utama and others [2019] 9 MLJ 417 (“Protasco (HC)”) had come
+to the view, at [38], that there were two categories of documents falling with
+the definition of “banker’s books”:
+
+In my view, in order to come within the definition of ‘banker’s books’, a
+document:
+
+a) must comprise any transaction record that is generated by the bank; or
+
+b) must be a document which the bank maintains,
+
+for the purposes of accounting, audit, reconciliation or reporting.
+
+30 Documents generated or maintained for the purpose of reporting would go
+well beyond the bank’s recording of its transactional position with its
+customer. It would potentially include all documents that the bank might
+generate itself or obtain from its customer for the purpose of regulatory
+compliance and reporting to regulators. Notably, however, this extended
+meaning does not appear to have been specifically addressed in Protasco (CA)
+as the appeal was allowed on other grounds. Thus, the proposition that a
+document maintained for “reporting” would come within the definition of
+“banker’s books” was not endorsed or supported. In fact, references in
+Protasco (CA) such as that at [100] to how “banker’s books…permanently
+[record] transactions in the ordinary business of the bank” support only the
+first identified purpose of accounting.
+
+31 Protasco (HC) was discussed in the English High Court case of Meng v HSBC
+Bank Plc and others [2021] EWHC 342 (QB) (“Meng”). In Meng, the Chief
+Financial Officer of Huawei Technologies Co Ltd, then the world’s largest
+telecommunications equipment company, sought access to bank documents held by
+UK-based subsidiaries of the HSBC Group, a multinational financial
+institution. They were sought for use in her defence to extradition
+proceedings then taking place in Canada in connection with criminal
+proceedings in the US. The applicant relied on Protasco (HC) (without
+apparently citing Protasco (CA)) in support of the argument that banker’s
+books included records maintained for regulatory compliance. This argument was
+rejected. Fordham J gave a number of reasons for doing so, including that the
+Bankers’ Books Evidence Act 1879 facilitates the proof of what he described as
+“concrete banking actions” at [23], and that the traditional focus in the
+English case law was on transactions at [24]. He also noted that the decision
+in Anthony Wee shared that same transactional focus.
+
+32 Most pertinent are Fordham J’s observations at [26] concerning the
+difficulty of even identifying what documents are maintained for regulatory
+compliance, and whether the contents of such documents are amenable to proof
+in the way that the statute mandates for entries in bankers’ books, given
+their likely evaluative and subjective nature:
+
+It is surely the case that some records of meetings, or notes of
+conversations, are required by regulators to be maintained by banks. Due
+diligence exercises, such as ‘know your customer’ and money laundering would
+require communications with a customer or potential customer. The courts would
+need to be asking this question: is there any regulatory requirement that the
+bank conduct such a meeting or communication and maintain records for
+regulatory oversight? Such a question appears nowhere within the authorities
+so far discussed. Then there is this problem. How would the Court go about
+identifying what records are maintained by the bank (i) for its own internal
+purposes and (ii) for the purposes of regulatory compliance. That could be a
+difficult question to answer.
+
+…
+
+Whether a transaction has been undertaken – when, by whom for whom, involving
+what amount and what account, and so on – are transactional facts readily
+evidenced by a banker’s record. Of course, other relevant evidentiary content
+may be found within notes of meetings, or communications with customers or
+potential customers, or internal memoranda. But these are far more likely to
+be evaluative, discursive, subjective and requiring explanation.
+
+Parties’ submissions
+
+33 LDV submits that the court in Anthony Wee did not limit “other books” to a
+bank’s transactional records. LDV submits that under Anthony Wee, a document
+is an entry in a banker’s book as long as: 8
+
+##### Foot Note 8
+
+×
+
+LDV’s Written Submissions dated 3 March 2022 at paras 11 and 14.
+
+(a) it was inherently probative, and not subjective and requiring explanation;
+
+(b) it was properly sorted and filed; and
+
+(c) it was integral to the customer’s bank account.
+
+The documents in both the First Category and the Second Category possess these
+qualities and are therefore entries in bankers’ books.
+
+34 SETL submits that bankers’ books refer only to records relating to
+financial transactions. To widen the scope of bankers’ books beyond
+transactional records, or to include records that only have a tangential
+relation to transactions, would be contrary to the legislative approaches of
+the BA and the EA. 9
+
+##### Foot Note 9
+
+×
+
+SETL’s Written Submissions dated 14 March 2022 at paras 8 and 13.
+
+35 DB makes two alternative submissions. The first and broader submission is
+that Anthony Wee did not limit banker’s books to transactional records but
+extended to any form of permanent record that was integral to the account of a
+customer. 10
+
+##### Foot Note 10
+
+×
+
+DB’s Written Submissions dated 10 March 2022 at para 8.
+
+The second submission is that documents need only relate to transactions in
+that they affect transactions, whether existing or future, in an account, and
+need not specifically record a particular transaction. 11
+
+##### Foot Note 11
+
+×
+
+DB’s Written Submissions dated 10 March 2022 at para 10.
+
+36 DB’s submissions on either basis would justify the making of the discovery
+orders sought, as well as justify the orders made by Andrew Ang SJ in SETL No
+1.
+
+Conclusion on the law
+
+37 In my view, banker’s books are limited to transactional records concerning
+a customer. That is what was decided in Anthony Wee. Meng adopted the same
+approach, and, as I understand it, Petrasco (CA) did not depart from this
+approach.
+
+38 The next question is, what constitutes the transactional record? The
+expansion of the range and types of information concerning their customers
+that banks gather and record as a result of regulatory obligations does not of
+itself mean that such information is entered in the bank’s transactional
+records. Documents that a bank may generate or obtain whether for its own
+purposes (such as checking on the creditworthiness of a customer) or for
+regulatory compliance (such as identification documents for an individual
+customer or incorporation documents of a corporate customer) do not, without
+more, form part of their transactional records.
+
+39 However, it is certainly not the case that only records of specific
+transactions constitute transactional records. There is one item of
+information that has necessarily been part of the transactional record of the
+bank, namely the name of the account holder. As Fordham J noted in the passage
+cited at [35] above:
+
+Whether a transaction has been undertaken – when, by whom for whom, involving
+what amount and what account, and so on – these transactional facts are
+readily evidenced by a banker’s record.
+
+[emphasis added]
+
+In line with Fordham J’s remarks, the beneficial party to a transaction is
+also a transactional fact. Today, a bank does not just limit itself to
+recording the identity of the named customer. It also records the identity of
+the beneficial owner of the account. A declaration of beneficial ownership is
+required at the time of account opening and periodically rechecked. This is
+required of banks by the Monetary Authority of Singapore (“MAS”), to combat
+money laundering and other illegal activities such as terrorism financing: PP
+v Tang You Liang Andruew and another [2021] SGDC 266 at [83] and MAS Notice
+626 at paras 6.13–6.14. In my view, the bank’s record of the beneficial owner
+of an account is a record of a transactional fact, and therefore forms part of
+its transactional records despite not recording a particular transaction.
+Thus, the declaration of beneficial ownership is an entry in a banker’s book,
+as interpreted by the Court of Appeal in Anthony Wee. The documents in the
+Second Category are therefore in principle entries in a banker’s book, subject
+to refinement that I consider in the final section of this judgment.
+
+40 It is also clear from Anthony Wee that correspondence may form part of the
+transactional record. This would be the case where a communication to the bank
+effects a transaction such as a transfer of funds and is then filed by the
+bank as part of its permanent record. Thus, if documents in the First Category
+had been sought in the original application, they would have potentially been
+discoverable.
+
+41 For completeness, I make two further observations. First, in my view, both
+DB’s primary and alternative submissions extend the category of banker’s books
+too far. By this I mean that while in substance there is force in their
+submission that entries in banker’s books are not limited just to debits and
+credits on the account, the formulations put forward by DB are too broad. The
+focus must remain on transactions and the information that a bank enters into
+its permanent record concerning transactions. Where in the past as far as the
+identity of the customer was concerned the record did not go beyond the name
+of the account holder, today this information includes the identity of the
+beneficial owner on whose behalf the transactions are made. Also, I do not
+accept that any document that bears upon or affects an existing or future
+transaction forms part of the transactional record of the bank. Thus, account
+opening forms would not per se form part of the transactional record of a
+bank. It is not sufficient that without an account opening form coming into
+existence there would be no account and so no transactions to record. To put
+it another way, the simple fact that account opening forms enable or
+facilitate future transactions does not bring them within banker’s books. This
+leads me to my second observation. While account opening forms do not of
+themselves come within the category of banker’s books, it is the declaration
+of beneficial ownership that such a form may contain that, upon entry into the
+bank’s permanent transactional record, stands as an entry in a banker’s book.
+Thus, while the order made in SETL No 1 may have been worded too broadly (and
+I reiterate that no point appears to have been taken by SETL at that time
+concerning this question), it turns out that what was disclosed by CS and DB,
+namely declarations of beneficial ownership, were entries in a banker’s book.
+
+Framing of the order
+
+42 On the law outlined in the preceding section, the documents that are now
+sought as set out in [14] above are potentially entries in a banker’s book if
+filed as part of the bank’s permanent transactional record. They thus fall
+within s 175(1) EA and accordingly the exception to s 74 of the BA. I dismiss
+SETL’s appeal but vary the order made below to order discovery of the
+following:
+
+Any form, declaration or written communication sorted and filed by CS or DB in
+relation to the respective bank account that records the identity of the
+ultimate beneficial owner of that account or of the monies in it.
+
+43 I will hear parties on costs.
+
+Philip Jeyaretnam  
+Judge of the High Court|  
+---|---  
+  
+Han Guangyuan, Keith and Angela Phoon Yan Ling (Oon & Bazul LLP) for the
+plaintiff;
+
+Joshua Tan Ming En (Invictus Law Corporation) for the first defendant
+(watching brief);
+
+Koh Li Qun, Kelvin (Xu Liqun), Tan Shi Ying, Crystal and Phoon Wuei (TSMP Law
+Corporation for the fourth defendant;
+
+Tan Xeauwei (Allen & Gledhill LLP) for Deutsche Bank AG (watching brief);
+
+Seah Ying Ying (WongPartnership LLP) for Credit Suisse AG (watching brief).
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 21 Apr 2022 (11:57 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

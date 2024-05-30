@@ -1,0 +1,2611 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE
+
+high court of the republic of singapore
+
+[2022] SGHC 193
+
+Suit No 629 of 2019
+
+Between
+
+| BTHMB Holdings Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Kim Byung Gun  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Contract — Contractual terms — Express terms — Interpretation of terms]
+
+[Evidence — Proof of evidence — Onus of proof — Action for return of sale
+proceeds]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+BTHMB Holdings Pte Ltd
+
+  
+v
+
+  
+
+Kim Byung Gun
+
+[2022] SGHC 193
+
+General Division of the High Court — Suit No 629 of 2019  
+Andre Maniam J  
+20–24, 27–29 September 2021, 7, 8, 10, 11 March, 27 May 2022
+
+26 August 2022 Judgment reserved.
+
+Andre Maniam J:
+
+Introduction
+
+1 This case involves a dispute over the ownership of some US$22m in proceeds
+of sale of cryptocurrency.
+
+Claims
+
+2 The defendant, Dr Kim Byung Gun (“Dr Kim”), is a cosmetic surgeon who
+invested in cryptocurrency and related investments.
+
+3 The plaintiff, BTHMB Holdings Pte Ltd (“BTHMB”), was incorporated by Dr Kim
+on 23 August 2018. 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Evidence-in-Chief of Kim Byung Gun affirmed on 31 August 2021
+(“Dr Kim’s AEIC”) at para 5 (Bundle of Affidavits of Evidence-in-Chief Volume
+4 (“4BAEIC”) at Tab 5, page 2); Agreed Bundle of Documents Volume 1 (“1AB”) at
+page 4.
+
+Dr Kim was initially BTHMB’s sole beneficial owner. He was also a director of
+BTHMB from its incorporation, and one of its joint managing directors from 20
+November 2018, until he resigned from those positions on 12 April 2019. 2
+
+##### Foot Note 2
+
+×
+
+Dr Kim’s AEIC at para 6 (4BAEIC at Tab 5, page 3).
+
+4 BTHMB issued its own cryptocurrency: BXA Coin. BTHMB claims from Dr Kim the
+balance sale proceeds he had received from selling a certain quantity of BXA
+Coins, after giving credit for the partial payments of BXA Coin sale proceeds
+which BTHMB acknowledges it had received.
+
+5 Dr Kim’s position is that he owned the BXA Coins that were sold, and so he
+was entitled to their sale proceeds. 3
+
+##### Foot Note 3
+
+×
+
+Defendant’s Closing Submissions (“DCS”) at para 7©.
+
+Further, he says that BTHMB had received from him (directly or indirectly) a
+sum greater than those sale proceeds, and so BTHMB has received the sale
+proceeds – or, at least, BTHMB has suffered no loss. 4
+
+##### Foot Note 4
+
+×
+
+DCS at para 7(d).
+
+6 Dr Kim also counterclaims against BTHMB for reimbursement of expenses he
+incurred. 5
+
+##### Foot Note 5
+
+×
+
+Defence & Counterclaim (Amendment No 3) (“DCC”) at para 14 (Setting Down
+Bundle (“SDB”) at pages 54–58).
+
+Issues
+
+7 I address the following issues:
+
+(a) What was the quantum of the sale proceeds received by Dr Kim from the sale
+of BXA Coins?
+
+(b) Who owned the BXA Coins that were sold?
+
+(c) Did Dr Kim have an obligation to make payment of the BXA Coin sale
+proceeds to BTHMB?
+
+(d) If Dr Kim had an obligation to make payment of the sale proceeds to BTHMB,
+did he discharge that obligation by virtue of the payments he made to BTHMB?
+
+(e) Is Dr Kim entitled to his counterclaim?
+
+Background
+
+The Bithumb Korea acquisition
+
+8 On 12 October 2018, various transaction documents were entered into in
+relation to the purchase of a majority shareholding in Bithumb Korea Co Ltd
+(“Bithumb Korea”) from 11 shareholders (the “Sellers”). 6
+
+##### Foot Note 6
+
+×
+
+Dr Kim’s AEIC at paras 28–29 (4BAEIC at Tab 5, pages 18–23); Affidavit of
+Evidence-in-Chief of Choi Dae Yeol affirmed on 19 July 2021 (“Mr Choi’s AEIC”)
+at paras 9–11 (Bundle of Affidavits of Evidence-in-Chief Volume 1 (“1BAEIC”)
+at Tab 1, pages 3–5).
+
+Bithumb Korea was the owner of the biggest cryptocurrency exchange in Korea,
+the Bithumb Exchange. 7
+
+##### Foot Note 7
+
+×
+
+Dr Kim’s AEIC at para 16 (4BAEIC at Tab 5, page 10).
+
+9 BTHMB was the vehicle for that purchase (the “Bithumb Korea acquisition”). 8
+
+##### Foot Note 8
+
+×
+
+Dr Kim’s AEIC at para 17 (4BAEIC at Tab 5, page 11); Mr Choi’s AEIC at para 10
+(1BAEIC at Tab 1, page 4).
+
+As at 12 October 2018, BTHMB was owned by BKSG Pte Ltd (“BKSG”), 9
+
+##### Foot Note 9
+
+×
+
+1AB at page 6.
+
+BKSG was owned by SGBK Group Pte Ltd (“SGBK”), 10
+
+##### Foot Note 10
+
+×
+
+1AB at page 12.
+
+and SGBK was owned by Dr Kim. 11
+
+##### Foot Note 11
+
+×
+
+Dr Kim’s AEIC at para 27 (4BAEIC at Tab 1, page 17).
+
+I refer to the agreement to purchase a majority shareholding in Bithumb Korea
+as the “Bithumb SPA”.
+
+10 Under the Bithumb SPA, BTHMB was to pay the Sellers a total of
+US$347,544,600 as follows: 12
+
+##### Foot Note 12
+
+×
+
+Mr Choi’s AEIC at pages 134–145, specifically at pages 134–135 (1BAEIC at Tab
+1, pages 134–135).
+
+(a) US$10,000,000 on 12 October 2018;
+
+(b) US$40,000,000 on 24 October 2018;
+
+(c) US$50,000,000 on 16 December 2018; and
+
+(d) US$247,544,600 on 15 February 2019.
+
+11 Another aspect of the transaction involved the former chairman of Bithumb
+Holdings Ltd (the parent company of Bithumb Korea), one Mr Lee Jung Hun (“Mr
+JH Lee”), acquiring shares in BKSG. 13
+
+##### Foot Note 13
+
+×
+
+Mr Choi’s AEIC at pages 197–198 (Articles 2.1–2.3 and 3.1 of the Bithumb Share
+Purchase Agreement) (1BAEIC at Tab 1, pages 197–198).
+
+That was the subject of another share purchase agreement (“the BKSG SPA”).
+Under the BKSG SPA it was a prerequisite that SGBK “increase the capital of
+[BKSG] worth USD 50,000,000 by 30 October 2018”. 14
+
+##### Foot Note 14
+
+×
+
+Mr Choi’s AEIC at page 197 (Article 1.6 of the Bithumb Share Purchase
+Agreement) (1BAEIC at Tab 1, page 197).
+
+In the event, that share capital increase was effected by 9 November 2018. 15
+
+##### Foot Note 15
+
+×
+
+Mr Choi’s AEIC at para 54 and pages 359–360 and 364–368 (1BAEIC at Tab 1, page
+18).
+
+On 15 November 2018, Mr JH Lee made the first payment for his shares in BKSG,
+and became a BKSG shareholder. 16
+
+##### Foot Note 16
+
+×
+
+Mr Choi’s AEIC at paras 55–59 (1BAEIC at Tab 1, pages 19–21) and pages 400 and
+419 (1BAEIC at Tab 1, pages 400 and 419).
+
+The Coin Issuance Agreement
+
+12 On 12 October 2018, a Coin Issuance Agreement (“CIA”) was entered into
+between SGBK, Mr JH Lee, BKSG, and BTHMB, relating to the issuance of BXA
+Coins by BTHMB.
+
+13 Based on the English translation provided by BTHMB, 17
+
+##### Foot Note 17
+
+×
+
+Mr Choi’s AEIC at pages 117–121 (1BAEIC at Tab 1, pages 117–121).
+
+the CIA provided as follows:
+
+Article 2 Parties’ Rights
+
+(1) The following provisions shall be determined by the board resolution.
+
+(a) The business model of the Coin to be issued (which is stated in the White
+Paper)
+
+(b) Details of the Coin to be developed
+
+(c) Composition of a team to be listed in the White Paper about issuing the
+Coin
+
+(d) The price and conditions for distributing the Coin (except issues stated
+in Section 2 of this Article) and the lock-up period for distribution of the
+Coin
+
+(e) The number of the Coin to be issued
+
+(2) The following matters shall be determined by Major Shareholder and shall
+not require the approval of the Company’s board of directors.
+
+(a) The conditions for recruiting financial investors (“Major Shareholder FI”)
+for Cryptocurrency or shares issued by the Company until the purchase price is
+reached for the payment obligation of the Share Purchase Agreement executed on
+[12] [October] 2018 by the Company and the shareholders of BTC Holdings Co.,
+Ltd. And DAA Co., Ltd. (However, when the Company distributes Cryptocurrency
+issued by BTHMB or increases its capital in order to recruit Major Shareholder
+FI, the number of Cryptocurrency and shares issued by the Company and held by
+Major Shareholder FI shall not exceed 20% of the total number of
+Cryptocurrency and shares issued by the Company.)
+
+(b) In accordance with Paragraph (a) above, 20% of the total number of
+Cryptocurrency issued by the Company shall be allotted to a Party designated
+by Major Shareholder.
+
+(c) Capital increase in which Major Shareholder takes over the new shares on
+the same terms as Major Shareholder FI until the purchase price is reached for
+the payment obligation of the Share Purchase Agreement executed on [12]
+[October] 2018 by the Company and shareholders of BTC Holdings Co., Ltd. And
+DAA Co., Ltd. (However, the number of the Company’s shares held by Major
+Shareholder through such capital increase shall not exceed 20% of the total
+number of issued shares, including issued shares specified in Section (2)
+Paragraph (a) of this Article.)
+
+(3) Major Shareholder and Investor agreed that each Party shall be allocated
+5% of the total number of Cryptocurrency issued by the Company, and for this
+purpose, the appointed directors of each Party of BTHMB shall exercise their
+voting rights in favor of such allocation.
+
+Article 3 Payment of Share Purchase Price through Coin Issuance
+
+In accordance with Article 2, (i) funds collected to the Company by issuing
+the Coin (ii) capital increase by the Company by targeting Major Shareholder
+or Major Shareholder FI shall be used primarily for paying the first and
+second deposits and balance pursuant to the Share Purchase Agreement executed
+on [12] [October] 2018, stating how the Company is purchasing the shares of
+BTC Holdings Co., Ltd. and DAA Co., Ltd. owned by [Lee Jeonghun] and [10]
+other persons. The Parties shall cooperate and take all necessary measures to
+fulfill [sic] the obligations.
+
+14 As defined in the CIA, “Major Shareholder” referred to SGBK, “Investor”
+referred to Mr JH Lee, and “Company” was a collective reference to BTHMB and
+BKSG. 18
+
+##### Foot Note 18
+
+×
+
+Mr Choi’s AEIC at page 117 (1BAEIC at Tab 1, page 117).
+
+15 Dr Kim put forward a different English translation of the CIA, but neither
+party submitted that the interpretation of the CIA would be materially
+different depending on which translation was used. Dr Kim’s translation of
+Article 2(2)(b) of the CIA was as follows: 19
+
+##### Foot Note 19
+
+×
+
+Dr Kim’s AEIC at page 1437 (Bundle of Affidavits of Evidence-in-Chief Volume 6
+(“6BAEIC”) at Tab 7, page 1437).
+
+20% of the total number of Cryptocurrency issued by the Company shall be
+allocated to a party designated by Major Shareholder pursuant to Paragraph (a)
+above.
+
+The sale of BXA Coins
+
+16 At the BTHMB board meeting on 26 November 2018, Dr Kim proposed that Oran G
+B Pte Ltd (“Oran G”) be appointed as third-party agent in charge of the BXA
+Coin and equity sales. The Board resolved to appoint Oran G on the basis that
+the contract with Oran G “needs to be confirmed before this agenda to be
+cleared”. 20
+
+##### Foot Note 20
+
+×
+
+Affidavit of Evidence-in-Chief of Hwang Sunghwan sworn on 19 July 2021 (“Mr
+Hwang’s AEIC”) at page 69 (2BAEIC at Tab 2, page 69).
+
+17 At the BTHMB board meeting on 7 December 2018, approval was given for 20
+billion BXA Coins to be generated on 12 December 2018, 21
+
+##### Foot Note 21
+
+×
+
+Mr Hwang’s AEIC at page 110 (2BAEIC at Tab 2, page 110).
+
+and that was carried out. 22
+
+##### Foot Note 22
+
+×
+
+Mr Hwang’s AEIC at para 21 (2BAEIC at Tab 2, page 7).
+
+18 On 11 December 2018, a mandate agreement was entered into between BTHMB and
+Oran G (the “11 December Mandate”). 23
+
+##### Foot Note 23
+
+×
+
+Mr Hwang’s AEIC at pages 81–82 (2BAEIC at Tab 2, pages 81–82).
+
+The 11 December Mandate was backdated to 26 November 2018. Annexed to the 11
+December Mandate (as Annex A) was a Token Sales Mandate Confirmation Agreement
+between BTHMB and Oran G dated 28 November 2018 (the “BTHMB Mandate
+Confirmation”) 24
+
+##### Foot Note 24
+
+×
+
+Mr Hwang’s AEIC at page 89 (2BAEIC at Tab 2, page 89).
+
+that could be shown to potential investors as a simplified mandate (clause (f)
+of the “Agreement For Tokens” section in the 11 December Mandate). 25
+
+##### Foot Note 25
+
+×
+
+Mr Hwang’s AEIC at page 84 (2BAEIC at Tab 2, page 84).
+
+19 The 11 December Mandate authorised Oran G to sell up to 15% of the total
+supply of BXA Coins (stated as 3 billion BXA Coins based on an expressed
+intent to create 20 billion BXA Coins) as part of a private sale tranche, and
+up to 5% (1 billion BXA Coins) as part of an equity tranche (if those were not
+distributed to equity investors) – clause (b) of the “Agreement For Tokens”
+section in the 11 December Mandate. 26
+
+##### Foot Note 26
+
+×
+
+Mr Hwang’s AEIC at pages 83–84 (2BAEIC at Tab 2, pages 83–84).
+
+20 The BTHMB Mandate Confirmation referred to Oran G being authorised to sell
+up to 15 billion BXA Coins (then stated as 15% of the total) as part of the
+private sale tranche.
+
+21 At the 17 December 2018 BTHMB board meeting, it was resolved that Dr Kim’s
+personal banking account would be designated to receive proceeds from Oran G’s
+token sale activities, and that Oran G’s mandate ie, the 11 December Mandate,
+should be revised accordingly. 27
+
+##### Foot Note 27
+
+×
+
+Mr Hwang’s AEIC at pages 119–120 (2BAEIC at Tab 2, pages 119–120).
+
+22 A mandate agreement dated 25 December 2018 (the “25 December Mandate”) was
+then entered into between BTHMB and Oran G. 28
+
+##### Foot Note 28
+
+×
+
+Mr Hwang’s AEIC at page 127 – 134 (2BAEIC at Tab 2, pages 127 – 134).
+
+The BTHMB Mandate Confirmation was annexed (as Annex A) to the 25 December
+Mandate, 29
+
+##### Foot Note 29
+
+×
+
+Mr Hwang’s AEIC at page 135 (2BAEIC at Tab 2, page 135).
+
+just as it had been annexed to the 11 December Mandate. The 25 December
+Mandate allowed Oran G to sell up to 20% of the total supply of BXA Coins that
+had been generated by BTHMB, ie, 4 billion out of 20 billion BXA Coins. 30
+
+##### Foot Note 30
+
+×
+
+Mr Hwang’s AEIC at page 129 (Clause (c) in the “Agreement for Tokens” section
+of the 25 December Mandate) (2BAEIC at Tab 2, page 129).
+
+Dr Kim’s personal bank account with Signature Bank was designated as the
+account to receive sale proceeds, with clause (k) in the “Agreement For
+Tokens” section providing as follows: 31
+
+##### Foot Note 31
+
+×
+
+Mr Hwang’s AEIC at page 130 (2BAEIC at Tab 2, page 130).
+
+Transfer of Funds Collected: Party B [Oran G] is required to send the amount
+of funds collected from any BXA token buyer to Party A [BTHMB] within three
+(3) working days from collection, after deducting relevant fees for collecting
+the funds and fees owed to Party B. Total amount of the fees, including OTC
+fees and all expenses related to token sales, shall be regarded as commission
+to Party B, and it shall not exceed 30% of total token sales proceeds. The
+terms and percentage of commission could be changed subject to written
+agreement of both parties. Once the amount has been confirmed from Party A,
+Party B is required to send the amount within seven (7) working days to Party
+A in USD via bank wire, to the designated bank account listed below. The
+designated Bank Account below belongs to Dr Byung Gun Kim, who will then
+transfer the exact amount of funds received to BTHMB Holdings Pte. Ltd.
+corporate banking account within three (3) working days.
+
+[Details of Dr Kim’s Signature Bank account]
+
+23 Dr Kim was not a party to the 11 December Mandate or the 25 December
+Mandate, but (on behalf of BTHMB) he signed both mandates as well as the BTHMB
+Mandate Confirmation. 32
+
+##### Foot Note 32
+
+×
+
+Mr Hwang’s AEIC at pages 122 and 134 (2BAEIC at Tab 2, pages 122 and 134).
+
+From 12 December 2018 onwards, Dr Kim gave instructions for the transfer by
+BTHMB of BXA Coins to wallets held by investors and Oran G: a total of
+547,696,364 BXA Coins was thus transferred (as reflected on the Etherscan
+Ledger, a publicly available record). 33
+
+##### Foot Note 33
+
+×
+
+Affidavit of Evidence-in-Chief of Woo Ahram sworn on 19 July 2021 (“Mr Woo’s
+AEIC”) at paras 19–20 and pages 149–385) (2BAEIC at Tab 3, pages 6–7 and
+149–385).
+
+The BXA Coin sale proceeds
+
+24 In 2019, BTHMB asked Dr Kim about the amount of BXA Coin sale proceeds that
+he had collected; BTHMB also made enquiries with Oran G. 34
+
+##### Foot Note 34
+
+×
+
+Mr Hwang’s AEIC at paras 40–43 (2BAEIC at Tab 2, pages 15–16).
+
+On 19 April 2019, Oran G provided documents showing that a total of
+US$22,280,970 had been collected as sale proceeds and received by Dr Kim. 35
+
+##### Foot Note 35
+
+×
+
+Mr Choi’s AEIC at pages 695 and 697–702 (1BAEIC at Tab 1, pages 695 and
+697–702); Plaintiff’s Bundle of Documents (“PBD”) at Tab 11, pages 141–146.
+
+25 Dr Kim, however, only told BTHMB that two deposits into BTHMB’s Maybank USD
+account on 15 February 2019, of US$2,624 and US$238,381.24 (the “two 15
+February 2019 deposits”), represented BXA Coin sale proceeds. 36
+
+##### Foot Note 36
+
+×
+
+Mr Woo’s AEIC at paras 70–74 (2BAEIC at Tab 3, pages 36–37) and page 917
+(Bundle of Affidavits of Evidence-in-Chief Volume 3 (“3BAEIC”) at Tab 4, Page
+917); Exhibit D-5.
+
+Mr Woo Ahram (“Mr Woo”), the Senior Finance Manager of BTHMB whom Dr Kim had
+instructed to prepare BTHMB’s accounting records and financial statements in
+February 2019, 37
+
+##### Foot Note 37
+
+×
+
+Mr Woo’s AEIC at paras 1 and 5 (2BAEIC at Tab 3, page 2).
+
+recorded those deposits in BTHMB’s general ledger as payment of sale proceeds,
+38
+
+##### Foot Note 38
+
+×
+
+Mr Woo’s AEIC at para 73 (2BAEIC at Tab 3, page 37).
+
+and BTHMB is not claiming those amounts from Dr Kim. 39
+
+##### Foot Note 39
+
+×
+
+Plaintiff’s Closing Submissions (“PCS”) at paras 48–49.
+
+26 On 17 April 2019, Mr Choi Dae Yeol (“Mr Choi”), a joint managing director
+of BKSG (as of 20 November 2018), 40
+
+##### Foot Note 40
+
+×
+
+Mr Choi’s AEIC at para 22(3) (1BAEIC at Tab 1, page 8).
+
+emailed Dr Kim. 41
+
+##### Foot Note 41
+
+×
+
+Mr Choi’s AEIC at page 662 (1BAEIC at Tab 1, page 662).
+
+The subject was, “Request mail for your information related to BXA token
+sale”, and the email read:
+
+… all the token sales money, including those sold through Oran.G Block and
+those sold by you personally, are accumulated in your personal account (or
+coin wallet). I would like to ask some questions and requests for information
+as follows in this mail.
+
+[Questions and Requests]
+
+– Details of the amount of USD exchanged at Octagon via Oran.G Block and paid
+to the chairman’s personal account from 14th Dec 2018 to 4th Jan 2019, and the
+details of depositing all of this amount into BTHMB’s account (For accounting
+processing purpose, we request a specific transfer details such as account
+transfer details).
+
+– Details of the following items regarding your personal selling since
+December 2018 until present date.
+
+…
+
+7\. With regard to the quantity you sold personally, if you exchanged money at
+the OTC market, please provide details such as where and how much processing
+fee you paid and how many USD you received and how much you deposited into the
+company’s account (We request that you provide specific transfer details, such
+as account transfer details.)
+
+8\. LC personally issued to each investor or signed contract
+
+For cost recognition and external audit purpose, we request for the number of
+tokens sold, the unit price of the number of tokens sold, OTC exchange fee
+details through Oran.G Block and Octagon, details of the deposit received by
+you, and the details of the deposit you made to BTHMB.
+
+…
+
+27 On 1 May 2019, Dr Kim replied to Mr Choi’s 17 April 2019 email, attaching a
+table as a summary of the BXA Coin sales. 42
+
+##### Foot Note 42
+
+×
+
+Mr Choi’s AEIC at pages 715, 719–722 (1BAEIC at Tab 1, pages, 715, 719–722).
+
+The table showed that Dr Kim had collected sale proceeds totalling
+US$22,837,919 and 44,543,429 HDAC Coins, from the sale of 547,696,363 BXA
+Coins. BTHMB has received the 44,543,429 HDAC Coins, and makes no claim
+against Dr Kim in that regard. 43
+
+##### Foot Note 43
+
+×
+
+PCS at para 3.
+
+Dr Kim’s 547,696,363 figure for BXA Coins sold only differs by one BXA Coin
+from the records on the Etherscan Ledger which indicate that BTHMB had
+transferred 547,696,364 BXA Coins to wallets held by investors and Oran G (see
+[23] above).
+
+What was the quantum of the BXA Coin sale proceeds received by Dr Kim?
+
+28 BTHMB acknowledges that on 15 February 2019 it received the sums of
+US$2,624 and US$238,381.24 as payment of BXA Coin sale proceeds; it also
+acknowledges receiving the HDAC Coins that Dr Kim had mentioned. 44
+
+##### Foot Note 44
+
+×
+
+PCS at paras 47–48.
+
+29 BTHMB claims from Dr Kim the balance sale proceeds of US$22,596,913.76, ie,
+the figure of US$22,837,919 stated by Dr Kim, less the two 15 February 2019
+deposits of US$2,624 and US$238,381.24. 45
+
+##### Foot Note 45
+
+×
+
+Statement of Claim (Amendment No 1) (“SOC”) at Claim (a) (SDB at page 20); PCS
+at paras 48 and 246(a).
+
+30 In these proceedings, however, Dr Kim asserts that the sum of US$22,837,919
+stated in his table of 1 May 2019 is incorrect, for it includes not only sale
+proceeds from BXA Coin sales by Oran G, but also sale proceeds from BXA Coin
+sales by another cryptocurrency broker called Harbour, which he had personally
+arranged. 46
+
+##### Foot Note 46
+
+×
+
+Dr Kim’s AIEC at para 57(c) (4BAEIC at Tab 5, page 55.
+
+He says that from BXA Coin sales by Oran G, he received sale proceeds of just
+US$22,280,868.23. That latter figure is close to the figure of US$22,280,970
+which Oran G informed BTHMB of on 19 April 2019 as being the amount of sale
+proceeds received by Dr Kim (see [24] above).
+
+31 Who owned the BXA Coins that were sold? I address that below at [33]–[67].
+For now, I simply observe that if BTHMB owned the BXA Coins that were sold,
+BTHMB’s entitlement to their sale proceeds should not depend on whether it was
+Oran G, or Harbour, that sold the BXA Coins. Dr Kim does however have
+arguments as to whether he was obliged to make payment of the sale proceeds to
+BTHMB, which I address below at [68]–[78].
+
+32 On the first issue of the quantum of the sale proceeds, I find that Dr Kim
+received sale proceeds of US$22,837,919 from the sale of BXA Coins, as stated
+in his 1 May 2019 table 47
+
+##### Foot Note 47
+
+×
+
+Mr Choi’s AEIC at page 721 (1BAEIC at Tab 1, page 721).
+
+(besides the HDAC Coins which are not in issue as BTHMB had received them).
+
+Who owned the BXA Coins that were sold?
+
+33 BTHMB says that it owned the BXA Coins that were sold, and their sale
+proceeds. Dr Kim says he owned those BXA Coins, and their sale proceeds. In
+determining who is right, I consider the relevant provisions of the CIA.
+
+Construction of the Coin Issuance Agreement
+
+34 Dr Kim says he is entitled to the BXA Coins that were sold, by virtue of
+Article 2(2)(b) of the CIA. For ease of reference, I set that out again:
+
+BTHMB’s translation
+
+In accordance with Paragraph (a) above, 20% of the total number of
+Cryptocurrency issued by the Company shall be allotted to a Party designated
+by Major Shareholder. [BTHMB’s translation]
+
+Dr Kim’s translation
+
+20% of the total number of Cryptocurrency issued by the Company shall be
+allocated to a party designated by Major Shareholder pursuant to Paragraph (a)
+above.
+
+35 As I noted above at [15], neither party contended that the variances in
+translation made a material difference to the interpretation of the provision:
+
+(a) Nothing turns on any distinction between the cryptocurrency being
+“allotted” or “allocated” – the words are synonyms; BTHMB’s translator used
+“allotted” in translating Articles 2(2)(b) and 2(3), whereas Dr Kim’s
+translator used “allocated” in translating the same articles.
+
+(b) “In accordance with” and “pursuant to” are also synonymous – both phrases
+indicate that the matters in Article 2(2)(b) are to conform with Article
+2(2)(a). The phrases in Article 2(2)(b) (in particular “pursuant to”) may also
+indicate that what is provided in Article 2(2)(a) is the reason for the
+matters in Article 2(2)(b).
+
+36 On the terms of Article 2(2)(b), the allotment / allocation of
+cryptocurrency under Article 2(2)(b) was to be done in accordance with (or
+pursuant to) Article 2(2)(a). Article 2(2)(b) thus cannot be read on its own;
+it must be read with Article 2(2)(a).
+
+37 Article 2(2)(a) concerned the recruiting of financial investors using
+cryptocurrency or shares, until the necessary purchase price was reached for
+BTHMB to meet its obligations under the Bithumb SPA for the Bithumb Korea
+acquisition. This was subject to the condition that the cryptocurrency or
+shares used for that purpose must not exceed 20% of the total number of
+cryptocurrency or shares issued.
+
+38 Reading Article 2(2)(b) with Article 2(2)(a), the cryptocurrency (ie, BXA
+Coins) to be allotted / allocated under Article 2(2)(b) would be the same BXA
+Coins referred to in Article 2(2)(a), ie, BXA Coins to recruit financial
+investors, the amount of which shall not exceed 20% of the total number of BXA
+Coins issued.
+
+39 Dr Kim, however, seeks to draw a distinction between Article 2(2)(b) which
+refers simply to 20% of the total number of BXA Coins issued, and Article
+2(2)(a) which says that the BXA Coins used to recruit financial investors
+“shall not exceed 20%”. His contention is that Article 2(2)(b) specifies a
+fixed amount of BXA Coins, whereas Article 2(2)(a) specifies a limit. He thus
+contends that the two provisions were referring to different parcels of BXA
+Coins. 48
+
+##### Foot Note 48
+
+×
+
+DCS at paras 59(b)–59(c); Dr Kim’s AEIC at para 29(b)(i)(B) (4BAEIC at Tab 5,
+page 20); Notes of Evidence (“NE”), 7 March 2022, page 38, line 1 to page 39
+line 2.
+
+40 I do not accept this; instead, I interpret Articles 2(2)(a) and 2(2)(b) of
+the CIA as follows:
+
+(a) Article 2(2)(a) uses the phrase “shall not exceed 20%” as it might be
+possible to recruit financial investors such that BTHMB could fund the Bithumb
+Korea acquisition, for less than 20% of the total number of BXA Coins and/or
+shares of BTHMB.
+
+(b) Article 2(2)(b) does not use the same phrase “shall not exceed 20%”, but
+simply “20%”. However, as the allotment / allocation under Article 2(2)(b) was
+in accordance with (or pursuant to) Article 2(2)(a), the allotment /
+allocation would stop at what was needed, if it proved unnecessary to allot /
+allocate a full 20% of the total number of BXA Coins.
+
+41 Article 2(2)(a) sets out the objective of BTHMB using up to 20% of the BXA
+Coins and/or 20% of BTHMB’s shares to recruit financial investors, namely, to
+raise funds for the Bithumb Korea acquisition. That is echoed in Article 3
+which provides that funds collected from the issuance of the BXA Coin, or
+increased share capital, shall be used primarily for making the payments for
+BTHMB’s Bithumb Korea acquisition (see [13] above). Dr Kim’s contention that
+Article 2(2)(b) allowed SGBK to give 20% of the BXA Coin for free to anyone
+(in the event, Dr Kim himself) goes against the grain of Article 2(2)(a) (and
+Article 3), which are about the raising of funds for BTHMB’s Bithumb Korea
+acquisition .
+
+42 Dr Kim says that the intention was to give him 25% of the total number of
+BXA Coins for free: 20% under Article 2(2)(b), and 5% under Article 2(3). 49
+
+##### Foot Note 49
+
+×
+
+DCS at paras 59(c)–59(d); NE, 7 March 2022, page 38, lines 13–21.
+
+I do not accept this. Article 2(3) refers to 5% of the total number of BXA
+Coins being allotted / allocated to SGBK and 5% to Mr JH Lee, but unlike
+Article 2(2)(b), the allotment / allocation in Article 2(3) is not said to be
+“in accordance with” or “pursuant to” Article 2(2)(a). If the parties had
+intended to give Dr Kim 25% of the total number of BXA Coins, they could
+simply have said so in Article 2(3) rather than to split the 25% into: 5%
+going to SGBK under Article 2(3), and 20% going to Dr Kim (as the recipient
+SGBK might designate) under Article 2(2)(b) read with Article 2(2)(a).
+
+43 Dr Kim tries to explain the reference in Article 2(2)(b) to Article
+2(2)(a), by saying that 20% of the total number of BXA Coins would go to him
+for free under Article 2(2)(b) to incentivise him to raise funds for BTHMB
+under Article 2(2)(a). 50
+
+##### Foot Note 50
+
+×
+
+Affidavit of Kim Byung Gun affirmed on 18 July 2019 at para 35 (Bundle of
+Affidavits Volume 1 at page 12).
+
+If that were so, it would have been stated as such. The “incentive” also makes
+no sense. Article 2(2)(b) does not make entitlement to 20% of all BXA Coins
+conditional upon Dr Kim doing anything. On Dr Kim’s case, he could simply keep
+20% of the total number of BXA Coins for free under Article 2(2)(b) (and a
+further 5% under Article 2(3)) – even if he did not raise any funds for BTHMB,
+and indeed even if he made no efforts to do so. BTHMB would then have parted
+with 25% of the total number of BXA Coins for nothing in return. Gifting all
+these BXA Coins to Dr Kim would make no commercial sense for BTHMB. Instead,
+it was evidently the intention of BTHMB to use up to 20% of the total number
+of BXA Coins to attract financial investors, thereby raising funds to meet
+BTHMB’s payment obligations under the Bithumb SPA (as stated in Articles
+2(2)(a) and 3 of the CIA) (see [41] above).
+
+44 I have found that besides 44,543,429 HDAC Coins, Dr Kim received
+US$22,837,919 in sale proceeds from the sale of 547,696,364 (or, at least,
+547,696,363) BXA Coins (at [32] above). The BXA Coins sold amounted to some
+2.74% of the 20 billion BXA Coins that were generated. Putting the HDAC Coins
+to one side, if a full 20% of BXA Coins (ie, 4 billion BXA Coins) could be
+sold at the same pricing, that would yield some US$166,792,555.15 in sale
+proceeds (4 billion x US$22,837,919 / 547,696,364). It makes no commercial
+sense to say that Dr Kim could keep all that for himself (and more, if the 5%
+to SGBK under Article 2(3) of the CIA were also included), leaving BTHMB to
+fend for itself in the Bithumb Korea acquisition. It should be noted that by
+the time of the BXA Coins were issued, BTHMB was no longer a vehicle that Dr
+Kim was the sole ultimate beneficial owner of – by then, Mr JH Lee had become
+a shareholder in BTHMB’s parent company BKSG, as envisaged in the 12 October
+2018 transaction documents: see [11] above.
+
+45 The focus of the CIA was on BTHMB raising funds to meet its payment
+obligations for the Bithumb Korea acquisition, not on giving Dr Kim BXA Coins
+for free; yet Dr Kim contends that all of the BXA Coins sold by Oran G
+belonged to him (and consequently that the sale proceeds were his too), and so
+too the BXA Coins that Dr Kim says he sold through another broker (Harbour).
+On Dr Kim’s case, he was ahead of BTHMB in the queue, and BTHMB did not manage
+to sell any of its BXA Coins to raise funds for the Bithumb Korea acquisition.
+I find Dr Kim’s interpretation of the CIA to be untenable.
+
+46 For completeness, I note that the CIA also states: “Major Shareholder,
+Investor, BK SG and Company are hereinafter referred to as “Party”
+individually, or “Parties” collectively.” Moreover, the CIA defines “Major
+Shareholder” as SGBK, “Investor” as Mr JH Lee, and “Company” as a collective
+reference to BTHMB and BKSG (see [14] above). 51
+
+##### Foot Note 51
+
+×
+
+Mr Choi’s AEIC at page 117 (1BAEIC at Tab 1, page 117).
+
+This might give the impression that the word “Party” in Article 2(2)(b) refers
+only to SGBK, Mr JH Lee, BTHMB or BKSG. However, neither Dr Kim nor BTHMB
+regarded the word “Party” in Article 2(2)(b) to be limited to those four
+persons; they instead appeared to accept that “Party” in Article 2(2)(b) could
+encompass others that SGBK might decide to allot / allocate BXA Coins to (and
+I agree with them on this). In particular, Dr Kim contended he was allocated
+the BXA Coin issued by BTHMB pursuant to Article 2(2)(b) (ie, that the word
+“Party” in Article 2(2)(b) referred to him, even though he was not one of
+those defined as a “Party” in the CIA). 52
+
+##### Foot Note 52
+
+×
+
+DCS at paras 55 and 59(b).
+
+Similarly, BTHMB contended that the BXA Coin could be allotted / allocated in
+connection with a sale of the BXA Coins on behalf of BTHMB, ie, the BXA Coin
+could be allotted to purchasers of those BXA Coins, or intermediaries involved
+in the sale process, for the purposes of attracting financial investment under
+Article 2(2)(b) (even though such purchasers or intermediaries are not defined
+as a “Party” in the CIA). 53
+
+##### Foot Note 53
+
+×
+
+PCS at paras 69–70.
+
+The parties’ conduct
+
+47 Dr Kim argues that the parties’ conduct before and after the CIA supports a
+finding that he owned 20% of the total number of BXA Coins, including all the
+BXA Coins that he had collected sale proceeds of. He did not, however, plead
+any of the conduct he now relies upon. In any event, the conduct in question
+does not assist him.
+
+The Project A Agreement
+
+48 Dr Kim says that the CIA should be interpreted consistently with the
+Project A Agreement. 54
+
+##### Foot Note 54
+
+×
+
+DCS at para 61(a); Dr Kim’s AEIC at page 83 (the Project A Agreement) (4BAEIC
+at Tab 5, page 84).
+
+Of the four parties to the CIA, only one – BKSG – was a party to the Project A
+Agreement, with BTC Holding Company, Inc (“BTC”). Notably, BTHMB was not a
+party to the Project A Agreement, and Dr Kim’s argument is, in effect, that
+BTHMB’s rights under the CIA should be determined with respect to another
+agreement that it is not a party to. I do not accept that.
+
+49 The Project A Agreement related to a potential acquisition by BKSG of B
+Buster Pte Ltd (the “Target”) – an affiliate of BTC – and the terms of the
+agreement included the Target paying a total of 2.5 billion “BB Coin” to Dr
+Kim as a reward for participation in a paid-in capital increase of BKSG or the
+Target. 55
+
+##### Foot Note 55
+
+×
+
+Dr Kim’s AEIC at para 20 and page 83 (Article 2(8) of the Project A Agreement)
+(4BAEIC at Tab 5, page 12 and page 83).
+
+The structure of BTHMB’s Bithumb Korea acquisition was different – B Buster
+Pte Ltd was not the target company to be acquired, and it was BTHMB, not the
+company that was the target of the acquisition (ie, Bithumb Korea), that would
+issue the cryptocurrency. Moreover, Dr Kim agreed that in the negotiations
+leading to the 12 October 2018 transaction documents, a reference to a
+“reward” of coins to him in a draft share purchase agreement 56
+
+##### Foot Note 56
+
+×
+
+Dr Kim’s AEIC at page 94 (Article 5.7) (4BAEIC at Tab 5, page 94).
+
+had been removed from subsequent drafts, and was not there in the executed
+documents. 57
+
+##### Foot Note 57
+
+×
+
+NE, 7 March 2022, page 47 line 14 to page 50 line 9; page 55 line 24 to page
+56 line 15.
+
+There was no reference to any “reward” to Dr Kim in the 12 October 2018
+transaction documents. One cannot force on the CIA an interpretation that its
+terms cannot bear, with reference to an unpleaded prior agreement that
+involved different parties and a different deal.
+
+Did BTHMB acknowledge Dr Kim’s ownership of 20% of all BXA Coins?
+
+50 Dr Kim contends that his ownership of 20% of the total number of BXA Coins
+was acknowledged in at least two meetings of BTHMB’s board of directors, on 3
+January 2019 and 8 January 2019. 58
+
+##### Foot Note 58
+
+×
+
+DCS at para 61(b).
+
+The minutes of the 3 January 2019 board meeting 59
+
+##### Foot Note 59
+
+×
+
+Dr Kim’s AEIC at pages 1848–1850 (6BAEIC at Tab 7, pages 1848–1850).
+
+list five discussion items. The first four are recorded as having culminated
+in a resolution by the board. The fifth item, “#5 Any Other Matters”, does not
+similarly have a resolution recorded. That fifth item included reference to a
+workshop with a tentative date, location, and approximate budget; as well as a
+reference to “20% of BXA tokens allocated to BK”, as follows:
+
+A portion of 20% of BXA tokens allocated to BK will be taken and used as
+working capital for BXA. (note: If Kangho Kim successful sells 20% of equity
+of BTHMB Holdings Pte. Ltd., some of the BXA tokens allocated to BK will be
+given to the equity investors, and the remaining BXA tokens will be used for
+BXA working capital)
+
+51 Dr Kim argues that “BK” there was a reference to him, and the above passage
+acknowledged that he owned 20% of BXA Coin for free. 60
+
+##### Foot Note 60
+
+×
+
+Dr Kim’s AEIC at para 58(a) (4BAEIC at Tab 5, pages 55–56).
+
+I agree with BTHMB that the reference to “BK” there was a reference to SGBK,
+not Dr Kim, 61
+
+##### Foot Note 61
+
+×
+
+PCS at para 72(c).
+
+in light of Article 2(2)(b) of the CIA referring to SGBK, not Dr Kim.
+Moreover, the passage does not support the conclusion Dr Kim contends for: it
+does not show that “BK” could keep 20% of the total number of BXA Coins for
+free; on the contrary, there are references to a portion of that being given
+to equity investors, or “taken and used as working capital for BXA”. This is
+inconsistent with “BK” having a full 20% of BXA Coins that it could keep, or
+sell and keep the proceeds thereof. This supports BTHMB’s interpretation of
+Article 2(2)(b) of the CIA, not Dr Kim’s. In any event, in the absence of a
+recorded resolution, I do not accept that BTHMB’s board passed a resolution on
+that item.
+
+52 The minutes of the 8 January 2019 meeting 62
+
+##### Foot Note 62
+
+×
+
+Mr Hwang’s AEIC at pages 194–196 (2BAEIC at Tab 2, pages 194–196).
+
+do not refer to Dr Kim getting any BXA Coins for free. Instead, there are
+references to: (a) SGBK, represented by Dr Kim, in the first item which
+contemplates the delegation to SGBK of the signing of supplementary contracts
+for equity and token issuance; and (b) SGBK in the third item which
+contemplates that there would be no lock up of 10% of the total supply of BXA
+Coins “under [SGBK]”. All of that is consistent with the CIA and BTHMB’s
+interpretation of it: SGBK could use up to 20% of the total number of BXA
+Coins to raise funds for BTHMB, ie, those BXA Coins were not Dr Kim’s to keep
+for free.
+
+53 In this regard, the English version of the minutes is erroneous where it
+refers in the first item and the third item to “BKSG Group” or “BKSG”; the
+Korean and Chinese versions correctly reflect the references as being to SGBK
+Group / SGBK, consistent with the CIA (which was confirmed by Mr Hwang
+Sunghwan (“Mr Hwang”), a director of BTHMB, on the stand). 63
+
+##### Foot Note 63
+
+×
+
+NE, 23 September 2021, page 57 line 10 to page 58 line 11.
+
+Mandate Confirmation dated 15 October 2018 between SGBK and Oran G
+
+54 Dr Kim relies on a Token Sales Mandate Confirmation Agreement dated 15
+October 2018 between SGBK and Oran G (the “SGBK Mandate Confirmation”), 64
+
+##### Foot Note 64
+
+×
+
+Mr Hwang’s AEIC at page 152 (2BAEIC at Tab 2, page 152).
+
+under which SGBK authorised Oran G to pre-sell BXA Coins. Dr Kim contends that
+BTHMB knew at all times that he was pre-selling the BXA Coins, and that the
+terms of the SGBK Mandate Confirmation was consistent with him owning 20% of
+the total number of BXA Coins. 65
+
+##### Foot Note 65
+
+×
+
+DCS at paras 11 and 61(d).
+
+BTHMB was not a party to that agreement, but Dr Kim claims that he had shown
+it to a director of BTHMB. 66
+
+##### Foot Note 66
+
+×
+
+NE, 8 March 2022, page 62 line 18 to page 64 line 15; Dr Kim’s AEIC at para
+32(b)(ix) (4BAEIC at pages 27–28).
+
+The SGBK Mandate Confirmation was evidently backdated. It refers to a sale of
+up to 4 billion BXA tokens, being 20% of 20 billion BXA tokens. But as at 15
+October 2018, the intended cryptocurrency had yet to be named “BXA” (the name
+was discussed at a meeting on 8 November 2018) 67
+
+##### Foot Note 67
+
+×
+
+Mr Hwang’s AEIC at page 58 (2BAEIC at Tab 2, Page 58).
+
+, and the figure of 20 billion BXA Coins to be generated was only approved by
+BTHMB’s board on 7 December 2018. 68
+
+##### Foot Note 68
+
+×
+
+Mr Hwang’s AEIC at page 110 (2BAEIC at Tab 2, Page 110).
+
+As the SGBK Mandate Confirmation was backdated to 15 October 2018, and it is
+unclear when it was actually entered into, it does not substantiate Dr Kim’s
+contention that Oran G was selling his BXA Coins under the SGBK Mandate
+Confirmation, rather than BTHMB’s BXA Coins under a mandate from BTHMB.
+
+55 BTHMB had different mandate documents with Oran G, and I accept that BTHMB
+did not know of the SGBK Mandate Confirmation until it was disclosed by Dr Kim
+in his fourth list of documents in this suit. 69
+
+##### Foot Note 69
+
+×
+
+PCS at para 89(a).
+
+But even if Dr Kim had shown the SGBK Mandate Confirmation to some director of
+BTHMB as Dr Kim claims, that would not have indicated to BTHMB that SGBK was
+intending to sell BXA Coins that SGBK (or Dr Kim) claimed to own. After all,
+it was contemplated that SGBK and Dr Kim would be involved in the sale of BXA
+Coin owned by BTHMB, by which BTHMB would raise funds for the Bithumb Korea
+acquisition. Thus, under Article 2(2)(b) of the CIA, it would be SGBK
+designating the parties to whom BTHMB would allot / allocate BXA Coins owned
+by BTHMB in connection with the sale of those BXA Coins to financial investors
+(and in the event Dr Kim was the individual who gave instructions as to who
+those BXA Coins should be transferred to). The SGBK Mandate Confirmation
+between SGBK and Oran G is not inconsistent with BTHMB being the owner of the
+BXA Coins that SGBK was authorising Oran G to sell.
+
+56 The various mandates and mandate confirmations thus do not support Dr Kim’s
+contention that the BXA Coins sold belonged to him, and not BTHMB.
+
+Dr Kim’s account of sale proceeds, and partial payment of sale proceeds
+
+57 The account which Dr Kim provided on 1 May 2019 of the sale proceeds that
+had been received, and his partial payment of those sale proceeds to BTHMB
+(the two 15 February 2019 deposits, and the HDAC Coins), are consistent with
+BTHMB’s case, and inconsistent with Dr Kim’s.
+
+58 I accept BTHMB’s evidence that Dr Kim had indicated (to Mr Woo and Mr Choi)
+that the two 15 February 2019 deposits represented sale proceeds of BXA Coins;
+70
+
+##### Foot Note 70
+
+×
+
+Mr Woo’s AEIC at para 72 (2BAEIC at Tab 3, page 37).
+
+and that BTHMB accordingly accepted those deposits as such, and recorded them
+as such for accounting purposes. 71
+
+##### Foot Note 71
+
+×
+
+Mr Woo’s AEIC at para 73 (2BAEIC at Tab 3, page 37).
+
+BTHMB likewise accepted the HDAC Coins that Dr Kim had received from BXA Coin
+sales, as sale proceeds. 72
+
+##### Foot Note 72
+
+×
+
+Mr Woo’s AEIC at para 83 (2BAEIC at Tab 3, para 83).
+
+Conspicuously, Dr Kim has not sought to claim from BTHMB the amounts of the
+two 15 February 2019 deposits, or the HDAC Coins (or the value thereof). Why
+not, if they belonged to him, and not BTHMB? Instead, Dr Kim seemed content
+that BTHMB was not claiming against him for those amounts (which he had paid
+to BTHMB).
+
+59 The email exchanges between Mr Choi and Dr Kim in early May 2019 are
+telling. As I mentioned above at [27], on 1 May 2019 Dr Kim emailed Mr Choi a
+table setting out sale proceeds from the sale of BXA Coin. Mr Choi replied on
+3 May 2019 with comments (inserted into the text of Dr Kim’s 1 May email), and
+Dr Kim responded to that on 3 May 2019. 73
+
+##### Foot Note 73
+
+×
+
+Exhibit D-5.
+
+I set out relevant extracts below.
+
+Dr Kim’s email of 1 May 2019 with Mr Choi’s comments of 3 May 2019
+
+[Dr Kim] I send you a summary of the token sale.
+
+I pledge that there is no missing 1 KRW, and it is likely that sales and
+income written in the attached table are more than those I actually received.
+Although it is not well organized, I have prepared it with my best efforts,
+and have summed up all the amounts that might have come in, assuming that all
+amounts have been received. I have not counted out commissions because I did
+not receive receipts for commissions.
+
+[Mr Choi] The actual sales proceeds must be accurate. Any deficiencies as well
+as surpluses would be a problem, so you must give us the exact sales amount.
+Therefore, please count any estimated amounts out the sales. If there are fees
+you have actually paid, we need information on those fees for accounting of
+expenses.
+
+[Dr Kim] Many of the people included in KYC are foreign staff members of my
+clinic and their families. They said they would buy BXA to help me. I gave
+back the amounts that I had received from them, but I have considered all the
+amounts as received and I have added them in the sales summed up in the
+attached table.
+
+[Mr Choi] I didn’t understand exactly what you are saying. You made a sale to
+your clinic’s staff and their families, and you returned the money you had
+received from them, and then you have recorded the money as sales income?
+
+[Dr Kim] In addition, there are two other sales that I personally made. Both
+the sales were not small, and I sold coins to help the company. The selling
+price per token was also much higher than that Orang. B. received.
+
+I was paid in cash from buyers, and I paid commissions to the person who
+introduced buyers to me in cash. As he did not want to give me a receipt for
+the commissions, I have also included the commission amount in the token sales
+as token sales proceeds.
+
+[Mr Choi] If you have anything that you received in cash, please put the
+received cash into your personal account and then send it to the company with
+supporting documents. Also, do you mean that you paid commissions in cash? We
+need payment receipts to recognize them as expenses.
+
+[Dr Kim]
+
+I know that Hdac coins worth US$2 million were received.
+
+… someone can proceed with selling the coins on their own and paying the
+proceeds to MB [BTHMB’s Maybank account] even if it is somewhat cumbersome.
+
+[Mr Choi] … we will make a wallet to which the company can receive them. Then,
+we will request to transfer them to the wallet.
+
+Dr Kim’s email of 3 May 2019 to Mr Choi:
+
+You may settle accounts by regarding that you have received all, not
+estimates.
+
+I did not request for the reimbursement of expenses that I had paid for fees
+because I do not have supporting documents.
+
+There are $2,624 and $238,381.24 that I transferred in cash on 15 February in
+the bank account to which I had made cash deposits for the company.
+
+[Dr Kim then agreed to provide the wallet key for the HDAC Coin]
+
+60 From the above exchanges, I note the following:
+
+(a) Dr Kim did not assert that any of the BXA Coins sold belonged to him, and
+so he did not need to provide an account of their sale proceeds or pay the
+proceeds over to BTHMB;
+
+(b) instead, Dr Kim referred to the two 15 February 2019 deposits as payments
+of sale proceeds, and also arranged to transfer to BTHMB the HDAC Coins that
+had been received as sale proceeds; and
+
+(c) in providing an account of the sale proceeds received, and making partial
+payment to BTHMB, Dr Kim drew no distinction between the BXA Coins sold by
+Oran G, and the BXA Coins sold by him personally (or through Harbour).
+
+61 I find that the parties’ conduct does not support the interpretation of the
+CIA advanced by Dr Kim. Rather, the parties’ conduct supports BTHMB’s
+interpretation: the BXA Coins that were sold belonged to BTHMB, not Dr Kim.
+
+Dr Kim’s allegations of fraud
+
+62 Dr Kim seeks to bolster his case by making allegations of fraud against Mr
+JH Lee. He submits that he was a target of fraud perpetrated by Mr JH Lee, 74
+
+##### Foot Note 74
+
+×
+
+DCS at para 3(b).
+
+for which Mr JH Lee has been indicted and prosecuted in Korea. 75
+
+##### Foot Note 75
+
+×
+
+DCS at para 4.
+
+Dr Kim recognises that the fraud allegedly perpetrated on him is not the
+subject of these proceedings, 76
+
+##### Foot Note 76
+
+×
+
+DCS at para 4.
+
+and that this court “need not make any findings on fraud”. 77
+
+##### Foot Note 77
+
+×
+
+Defendant’s Reply Submissions (“DRS”) at para 2.
+
+However, he contends that “cognisance of the circumstances and JH Lee’s
+involvement provide the necessary context and frames the present dispute”. 78
+
+##### Foot Note 78
+
+×
+
+DRS paras 2 and 5.
+
+In particular, he says that his position about getting 20% of BXA Coin for
+free under Article 2(2)(b) is consistent with Mr JH Lee having promised him
+those BXA Coins, and that this explanation was reasonable in light of the
+fraud allegedly perpetrated against him by Mr JH Lee. 79
+
+##### Foot Note 79
+
+×
+
+DRS at para 19(d).
+
+63 After I had reserved my decision (following the parties’ closing
+submissions and reply submissions), Dr Kim requested through his solicitors
+that I withhold delivering judgment until after the conclusion of the criminal
+proceedings in Korea against Mr JH Lee. Dr Kim contended that the prospective
+Korean judgment “will be relevant and pertinent to contextualise the Suit”,
+and suggested that he would seek leave to adduce the Korean judgment as
+further evidence, proposing that parties file brief submissions on it. 80
+
+##### Foot Note 80
+
+×
+
+Letter from Quahe Woo & Palmer LLC dated 11 July 2022 at paras 3, 4, 6 and 7.
+
+64 BTHMB objected to this course of action, pointing out that Dr Kim’s
+allegations of fraud are irrelevant to the issues in the suit, and that BTHMB
+would be prejudiced. 81
+
+##### Foot Note 81
+
+×
+
+Letter from Allen & Gledhill dated 14 July 2022 at paras 2–5.
+
+65 I agreed that it would not be appropriate for me to defer judgment until
+after the conclusion of the Korean proceedings, and the parties were informed
+accordingly.
+
+66 Dr Kim’s allegations of fraud, promises, and representations by Mr JH Lee
+are unpleaded, and are irrelevant to the issues between BTHMB and Dr Kim in
+this suit:
+
+(a) Earlier in the proceedings, Dr Kim had made Mr JH Lee a party – a
+defendant to Dr Kim’s counterclaim in his Defence (Amendment No 1) dated 13
+December 2019. However, no fraud was alleged against Mr JH Lee. Rather, the
+counterclaim against Mr JH Lee was for breach of certain terms which Dr Kim
+said should be implied into the CIA. 82
+
+##### Foot Note 82
+
+×
+
+Defence & Counterclaim (Amendment No 1) dated 13 December 2019 at paras 20–22.
+
+(b) Dr Kim then withdrew his counterclaim against Mr JH Lee, and removed him
+as a party, by amending his pleadings to Defence (Amendment No 2) dated 30
+December 2020. His defence still referred to Mr JH Lee, but only in the
+context of (a) Mr JH Lee having invited Dr Kim to invest in and share control
+of the Bithumb Exchange, (b) Mr JH Lee being the controlling mind of the
+Exchange and an indirect majority shareholder of Bithumb Korea (and thus one
+of the Sellers of the majority shareholding in Bithumb Korea), and (c) Mr JH
+Lee and Dr Kim each being entitled to 5% of the total number of BXA Coins
+(under Article 2(3) of the CIA). 83
+
+##### Foot Note 83
+
+×
+
+Defence & Counterclaim (Amendment No 2) dated 30 December 2019 at paras 5(a)
+and 5(d)(iii).
+
+Dr Kim removed by amendment the earlier references to terms being implied into
+the CIA, and breaches of those terms. There were no allegations of fraud,
+promises, or representations by Mr JH Lee.
+
+(c) If Dr Kim’s position is that Mr JH Lee had promised, or represented, that
+Dr Kim could keep for free 20% of the total number of BXA Coins (in
+particular, those mentioned in Article 2(2)(b) of the CIA) that is a matter
+for Dr Kim to pursue with Mr JH Lee. What is in issue in this suit is whether,
+as between BTHMB and Dr Kim, BTHMB owned those BXA Coins, or Dr Kim did. On
+that, I have found that those BXA Coins belonged to BTHMB, not Dr Kim.
+
+Conclusion on the ownership of the BXA Coin
+
+67 On a construction of the terms of the CIA, the BXA Coins that were sold
+were owned by BTHMB. This conclusion is not displaced by a consideration of
+the parties’ conduct. Further, Dr Kim’s allegations of fraud against Mr JH Lee
+do not assist him.
+
+Did Dr Kim have an obligation to make payment of the sale proceeds to BTHMB?
+
+68 In the preceding section, I have found that BTHMB owned the BXA Coins that
+were sold.
+
+69 It should follow that Dr Kim has an obligation to make payment of the BXA
+Coin sale proceeds (or of an equivalent amount) to BTHMB. I accept BTHMB’s
+contention that Dr Kim was under such an obligation:
+
+(a) as a director of BTHMB owing fiduciary duties to BTHMB;
+
+(b) as an agent of BTHMB; and
+
+(c) as a trustee of the BXA Coin sale proceeds he received.
+
+Dr Kim’s obligation as a director of BTHMB
+
+70 At all material times, Dr Kim was a director of BTHMB – he was a director
+of BTHMB from 23 August 2018 to 12 April 2019, and joint managing director of
+BTHMB from 20 November 2018 to 12 April 2019. 84
+
+##### Foot Note 84
+
+×
+
+Dr Kim’s AEIC at para 6 (4BAEIC at Tab 5, page 3).
+
+As such, Dr Kim owed fiduciary duties to BTHMB: see s 157(1) of the Companies
+Act 1967 (2020 Rev Ed). Dr Kim argues that he did not breach any fiduciary
+duties because the BXA Coin that was sold belonged to him. 85
+
+##### Foot Note 85
+
+×
+
+Defendant’s Reply Submissions (“DRS”) at para [57(b)].
+
+However, what if the BXA Coin belonged to BTHMB (as I have found at [33]–[67]
+above)?
+
+71 Dr Kim says he transferred an amount equal to or greater than the sale
+proceeds to BTHMB, and in the next section I address whether this discharged
+his obligation to pay the sale proceeds to BTHMB. The point remains that as a
+fiduciary, Dr Kim was under an obligation to pay BTHMB the proceeds from the
+sale of BXA Coins which belonged to BTHMB. He was obliged to act in the
+interests of BTHMB, he could not keep those sale proceeds for himself.
+
+Dr Kim’s obligation as an agent of BTHMB
+
+72 BTHMB submits that Dr Kim had sold the BXA Coin and received their sale
+proceeds as an agent of BTHMB. 86
+
+##### Foot Note 86
+
+×
+
+PCS at paras 172–180.
+
+Dr Kim, on the other hand, says that an agency relationship between Dr Kim and
+BTHMB only came into existence on 25 December 2018 (the date of the 25
+December Mandate); 87
+
+##### Foot Note 87
+
+×
+
+Mr Choi’s AEIC at page 523 (1BAEIC at Tab 1, page 523).
+
+in particular, Dr Kim submits that it was only on 25 December 2018 that he (a)
+was conferred authority by BTHMB to sell the BXA Coin and receive the sale
+proceeds therefrom and/or (b) undertook to perform the 25 December Mandate on
+BTHMB’s behalf. 88
+
+##### Foot Note 88
+
+×
+
+DRS at para 55.
+
+Dr Kim’s contentions are flawed.
+
+73 I adopt the following definition of agency by GHL Fridman, The Law of
+Agency (Butterworths, 7th Ed, 1996) at page 11, quoted in Tan Cheng Han SC,
+The Law of Agency (Academy Publishing, 2nd Ed, 2017) at para 01.015, which was
+in turn cited in Ding Auto Pte Ltd v Yip Kin Lung and others [2019] SGHC 243
+at [129]:
+
+Agency is the relationship that exists between two persons when one, called
+the agent, is considered in law to represent the other, called the principal,
+in such a way as to be able to affect the principal’s legal position in
+respect of strangers to the relationship by the making of contracts or the
+disposition of property. [emphasis in original]
+
+(See also Public Prosecutor v Lam Leng Hung and others [2018] 1 SLR 659 (“Lam
+Leng Hung”) at [131].)
+
+74 In selling BTHMB’s BXA Coins, and collecting their sale proceeds, Dr Kim
+was acting on behalf of BTHMB – he was in an agency relationship with BTHMB, a
+relationship that did not only commence on 25 December 2018 (the date of the
+25 December Mandate):
+
+(a) BTHMB relies not only on the 25 December Mandate but also on the earlier
+11 December Mandate and the BTHMB Mandate Confirmation dated 28 November 2018.
+89
+
+##### Foot Note 89
+
+×
+
+Reply and Defence to Counterclaim at para 5(f) (SDB at page 64).
+
+All these agreements mandated Oran G to sell BXA Coins on behalf of BTHMB, not
+Dr Kim. 90
+
+##### Foot Note 90
+
+×
+
+Mr Hwang’s AEIC at pages 82 and 89 (2PBAEIC at Tab 2, pages 82 and 89).
+
+(b) From 12 December 2018 onwards, Dr Kim gave instructions for the transfer
+of BXA Coins from BTHMB to wallets held by investors and Oran G, which
+resulted in a total of 547,696,364 BXA Coins being transferred (see [23]
+above). Those transfers were integral to the sale of those BXA Coins. By this
+time, the 11 December Mandate and BTHMB Mandate Confirmation were already in
+place.
+
+(c) It was also agreed prior to the 25 December Mandate, that Dr Kim would
+receive the sale proceeds of the BXA Coin on behalf of BTHMB (as resolved at
+the BTHMB board meeting of 17 December 2018) (see [21] above).
+
+(d) Going back to the 12 October 2018 transaction documents (which pre-dated
+the BXA Coin sales and Dr Kim’s receipt of sale proceeds), the CIA provided
+for the involvement of SGBK and BTHMB, in the sale of BXA Coins to financial
+investors (see above at [55]). What Dr Kim did thereafter regarding the sale
+of BTHMB’s BXA Coins and receipt of their sale proceeds was not done in his
+personal capacity; it was done by him as an agent on behalf of SGBK and BTHMB.
+
+(e) Dr Kim was a director of BTHMB at all material times, and a director is
+clearly an agent of the company with onerous fiduciary duties: Lam Leng Hung
+at [287].
+
+75 Moreover, nothing in the various mandates or mandate confirmations limits
+their operation only to sales by Oran G after the dates of those documents.
+Oran G itself never took this position; on the contrary, when BTHMB asked Oran
+G what sale proceeds had been received, Oran G provided a full account of all
+the sale proceeds that had been collected, for all the BXA Coins that it had
+sold (including those sold as early as 18 October 2018): see [24] above. 91
+
+##### Foot Note 91
+
+×
+
+PBD at Tab 11, pages 141–146.
+
+76 There is no merit in Dr Kim’s contention that as the 25 December Mandate
+was dated 25 December 2018, he was not obliged to return any sale proceeds
+from BXA Coin sales prior to that date. On his account that all of the sales
+by Oran G were prior to that date, and indeed, some were pre-sales before the
+BXA Coin was even issued, 92
+
+##### Foot Note 92
+
+×
+
+DCS at para 7(b); Dr Kim’s AEIC at paras 36–37(a) (4BAEIC at Tab 5, pages
+30–32).
+
+he would not need to return any BXA Coin sale proceeds to BTHMB.
+
+77 If (as I have found at [33]–[67] above) BTHMB owned the BXA Coins that were
+sold, neither Oran G, nor SGBK, nor Dr Kim was entitled to keep the sale
+proceeds just because the sales predated the mandate documents between Oran G
+and BTHMB. Indeed, Dr Kim puts forward no positive case as to why he should be
+allowed to keep the BXA Coin sale proceeds should I find that the BXA Coins in
+question belonged to BTHMB. BTHMB does not need to rely on the mandate
+documents (to which Dr Kim is not a party) to recover from Dr Kim the sale
+proceeds of the BXA Coins that BTHMB owned.
+
+Dr Kim’s obligation as a trustee of the BXA Coin sale proceeds
+
+78 Dr Kim was entrusted with the BXA Coins that were being sold, and given
+dominion over those BXA Coins. He was involved in their sale, and received the
+sale proceeds in his personal bank account (see [16]–[22] above). He was also
+involved in giving instructions for those BXA Coins to be transferred to
+wallets held by investors and Oran G (see [23] above). In the circumstances,
+Dr Kim was a trustee in relation to those BXA Coins and their sale proceeds:
+Guy Neale and others v Nine Squares Pty Ltd [2015] 1 SLR 1097 (at [51], [59]
+and [60]).
+
+Were the payments made by Dr Kim payments of the sale proceeds to BTHMB?
+
+79 Dr Kim’s case is that although he owned the BXA Coins that were sold, and
+thus their sale proceeds, he had made payment of the sale proceeds to BTHMB,
+or in the alternative, payment of a sum equivalent to or greater than the sale
+proceeds. 93
+
+##### Foot Note 93
+
+×
+
+DCC at para 7 (SDB at pages 31–32.
+
+Thus, he contends, any obligation on him to pay the sale proceeds to BTHMB has
+been performed or discharged. Further or alternatively, he says that because
+of the payments he made to BTHMB, BTHMB has not suffered any loss. 94
+
+##### Foot Note 94
+
+×
+
+DCC at paras 11 and 12A (SDB at page 33).
+
+Dr Kim’s case on payment of sale proceeds
+
+80 Dr Kim’s defence is inherently inconsistent: he claims that he owned the
+BXA Coins and their sale proceeds (and so he was under no obligation to make
+payment of the BXA Coin sale proceeds to BTHMB), but he says he has made
+payment of the sale proceeds to BTHMB nevertheless.
+
+81 That begs two questions:
+
+(a) why was Dr Kim paying BTHMB sale proceeds that he considered belonged to
+him, rather than keeping them for himself; and
+
+(b) were the payments made by Dr Kim to BTHMB in the nature of payments of
+sale proceeds of BTHMB’s BXA Coin?
+
+82 It is common ground that the legal burden of proving the nature of the
+payments Dr Kim made to BTHMB rests on Dr Kim: SCT Technologies Pte Ltd v
+Western Copper Co Ltd [2016] 1 SLR 1471 (“SCT Technologies”) at [16]–[31]. In
+particular, Dr Kim having asserted that the obligations owed by him to BTHMB
+have been discharged by virtue of the payments he made to BTHMB, bears the
+burden of proving that: SCT Technologies at [31]; Ma Ong Kee v Cham Poh Meng
+[2013] SGHC 144 (“Ma Ong Kee”) at [42]. 95
+
+##### Foot Note 95
+
+×
+
+PCS at paras 57–59; DCS at para 30.
+
+83 In SCT Technologies, the respondent-debtor asserted that its debts on three
+invoices had been paid, pointing to certain payments that it had made to the
+creditor. The court held that the respondent-debtor bore the burden of proving
+the purpose of the payments, ie, that they were meant to discharge the debts
+in question (at [21]–[28) and [31]). On the evidence, however, there was
+little to support the respondent-debtor’s case on what the payments were for,
+and the court thus found that the respondent-debtor failed to prove that the
+debts had been discharged by virtue of the payments it had made (at
+[34]–[40]).
+
+84 Dr Kim pleads that he had made payment of the sale proceeds of the BXA
+Coins to BTHMB, pointing to 12 payments (the “Defence Transactions”) totalling
+US$58,141,908.69. 96
+
+##### Foot Note 96
+
+×
+
+DCC at para 7 (SDB at pages 31–32).
+
+The two 15 February 2019 deposits which BTHMB accepts were payments of BXA
+Coin sale proceeds (and so BTHMB does not claim those amounts against Dr Kim)
+are Defence Transactions Nos 11 and 12 (see above at [25]).
+
+85 In respect of the balance sale proceeds, Dr Kim relies on Defence
+Transactions Nos 1 to 10 (the “Ten Defence Transactions”) as payments of sale
+proceeds, or payments which otherwise afford him a defence.
+
+86 It is improbable that Dr Kim would have meant to pay some US$58m to BTHMB
+as sale proceeds, when he only received some US$22m in sale proceeds from
+selling BXA Coin. In his evidence, Dr Kim does not say that this is what he
+intended. Indeed, he does not say that any of the Ten Defence Transactions was
+meant as a payment of sale proceeds, ie, payment that BTHMB was entitled to
+because it owned the BXA Coins that were sold.
+
+87 Instead, Dr Kim says that he made the payments “to allow [BTHMB] to meet
+its payment obligations under the [Bithumb SPA]”. 97
+
+##### Foot Note 97
+
+×
+
+Dr Kim’s AEIC at para 40 (4BAEIC at Tab 5, page 36).
+
+That, however, only says what Dr Kim’s objective was in making the payments,
+98
+
+##### Foot Note 98
+
+×
+
+See DCS at paras 7(c), 7(d) and 40.
+
+it says nothing about the nature of the payments: were they payments of sale
+proceeds, loans, gifts, payments of share capital, etc? All these types of
+payments would have achieved Dr Kim’s objective of allowing BTHMB to meet its
+obligations, but the nature of the payments would differ.
+
+88 A simple example will illustrate the point: consider a person who borrows
+$1m from a bank, then uses the borrowed money to place a fixed deposit of the
+same amount with the same bank. His payment of $1m to the bank to place the
+fixed deposit does not discharge his liability to the bank for the bank loan
+he took. Rather, there are then two loans in existence: (1) he owes the bank
+$1m and interest on the loan he took; and the bank owes him $1m and interest
+on the fixed deposit he placed. His payment of $1m to the bank was not meant
+by him to discharge his bank loan – it was meant as a fixed deposit, and that
+is the nature of the payment.
+
+89 Returning to the present case, in his evidence Dr Kim does not say he meant
+the Ten Defence Transactions as payments of the sale proceeds of the BXA
+Coins. Indeed, for him to say that would be inconsistent with his primary case
+that the BXA Coin sale proceeds belonged to him, and he was under no
+obligation to pay the sale proceeds over to BTHMB.
+
+90 Dr Kim thus finds himself in the awkward situation of trying to prove that
+the Ten Defence Transactions were payments of sale proceeds, whilst not saying
+that is what he meant them to be. He tried to navigate this by tracing the
+source of some of the Defence Transactions to the sale proceeds that he had
+received. He relied on the expert opinion of Mr Wong Joo Wan (“Mr Wong”), who
+had concluded that US$18,490,836.92 of the sale proceeds was transferred to
+BTHMB. 99
+
+##### Foot Note 99
+
+×
+
+Expert Report of Wong Joo Wan (Mr Wong’s Report) at para 4.60 and page 28,
+exhibited in the Affidavit of Evidence-in-Chief of Wong Joo Wan (“Mr Wong’s
+AEIC”) at pages 49 and 60 (Bundle of Affidavits of Evidence-in-Chief Volume 7
+(“7BAEIC”) at Tab 8, pages 49 and 60).
+
+However, Mr Wong did not comment on the nature of the payments. Indeed, Mr
+Wong’s analysis was done expressly “barring the nature of the payments”. 100
+
+##### Foot Note 100
+
+×
+
+Mr Wong’s Report at paras 5.17 and 5.19, exhibited in Mr Wong’s AEIC at pages
+66 and 68 (7BAEIC at Tab 8, page 66 and 68); Exhibit P6 (Joint Expert
+Statement) at para 3.2.3.
+
+On the other hand, BTHMB’s expert, Mr Hawkes, correctly recognised that it is
+necessary to determine the nature of the payments. 101
+
+##### Foot Note 101
+
+×
+
+Exhibit P6 (Joint Expert Statement), para 3.2.3.
+
+In that regard, Mr Hawkes did not merely look at the source of the payments
+(as Mr Wong had), he also considered the obligations of the parties, the
+timing of the payments, the supporting documentation, and the accounting
+records. 102
+
+##### Foot Note 102
+
+×
+
+NE, 29 September 2021, page 69 line 3 to page 70 line 18.
+
+91 The source of a payment does not necessarily determine its nature. In my
+earlier example (at [88] above) about borrowed money being used to place a
+fixed deposit, the bank was the source of the money borrowed, but that does
+not mean that the use of the borrowed money to place a fixed deposit was in
+the nature of a repayment of the bank loan; it was simply a placement of a
+fixed deposit, leaving the bank loan still outstanding.
+
+92 If the payments Dr Kim made to BTHMB were in the nature of a loan, or a
+gift, or to acquire something from BTHMB (shares or another asset), they would
+not be in the nature of a payment of BXA Coin sale proceeds. Payments of a
+different nature would not discharge Dr Kim’s obligation to make payment of
+the BXA Coin sale proceeds to BTHMB.
+
+BTHMB’s case on payment of sale proceeds
+
+93 BTHMB put forward what it understood the payments to be. It regarded the
+first seven Defence Transactions to comprise: 103
+
+##### Foot Note 103
+
+×
+
+PCS at paras 118–147.
+
+(a) US$50,000,000 paid as share capital;
+
+(b) a surplus US$300,000 (out of Defence Transaction No 4) as an advance from
+BKSG; and
+
+(c) a surplus US$22,898.45 (out of Defence Transaction No 7) as capital
+reserves received from BKSG.
+
+94 BTHMB regarded Defence Transactions Nos 8 to 10 as advances by Dr Kim or
+BKSG. 104
+
+##### Foot Note 104
+
+×
+
+PCS at paras 148–162.
+
+95 Although BTHMB put forward a positive case for what the payments were, to
+support its contention that they were not payments of sale proceeds, that does
+not shift the legal burden away from Dr Kim to prove that they were payments
+of sale proceeds (see [82] above).
+
+Were the Ten Defence Transactions payments of sale proceeds?
+
+Defence Transactions Nos 1 to 7
+
+96 BTHMB recorded Defence Transactions Nos 1 to 7, and the payments totalling
+US$50,000,000 in share capital, as follows: 105
+
+##### Foot Note 105
+
+×
+
+PCS at para 118.
+
+Defence Transaction | Date| Paying party| Amount paid (US$)  
+---|---|---|---  
+1| 27 Sep 2018| BKSG| 10,000,000  
+2| 19 Oct 2018| Dr Kim| 3,000,000  
+3| 25 Oct 2018| BKSG| 10,000,000  
+4| 29 Oct 2018| BKSG| 7,000,000(and 300,000 as account payable)  
+5| 30 Oct 2018| BKSG| 10,000,000  
+6| 2 Nov 2018| Dr Kim| 199,995  
+-| 5 Nov 2018| Unknown| 299,995  
+7| 9 Nov 2018| BKSG| 9,500,010 (and 22,898.45 as capital reserves)  
+Total| | | 50,000,000  
+  
+97 As I noted above at [11], BTHMB’s Bithumb Korea acquisition involved SGBK
+increasing BKSG’s share capital by US$50m. It was contemplated that BKSG would
+in turn increase BTHMB’s share capital by US$50m, and BTHMB would use the
+funds it received to make payments towards the Bithumb Korea acquisition. 106
+
+##### Foot Note 106
+
+×
+
+Mr Choi’s AEIC at paras 14–21 (1BAEIC at Tab 1, pages 6–7).
+
+98 BTHMB did receive funds of US$50m (and more), and it made the first two
+payments required of it for the acquisition: US$10m on 15 October 2018, 107
+
+##### Foot Note 107
+
+×
+
+Mr Choi’s AEIC at para 40 (1BAEIC at Tab 1, page 14).
+
+and a further US$40m by 9 November 2018. 108
+
+##### Foot Note 108
+
+×
+
+Mr Choi’s AEIC at para 53 (1BAEIC at Tab 1, page 17).
+
+99 Contemporaneously, on 9 November 2018, Ms Jessica Oh of Lee Kim Alliance
+Pte Ltd (“Lee Kim”) (the company handling BTHMB’s accounts then) informed
+various persons (including Dr Kim) that: “The capital increase of BK SG PTE
+LTD has been completed … the capital is USD 50,000,000”. 109
+
+##### Foot Note 109
+
+×
+
+Agreed Bundle of Documents Volume 2 (“2AB”) at pages 1137–1144; Mr Choi’s AEIC
+at para 54 (1BAEIC at Tab 1, pages 17–18).
+
+Consequential changes were made to BKSG’s constitution, and its records with
+ACRA. BTHMB’s constitution (as of 20 November 2018) 110
+
+##### Foot Note 110
+
+×
+
+2AB at page 1178.
+
+and ACRA records (as of 18 November 2018) 111
+
+##### Foot Note 111
+
+×
+
+2AB at pages 1168–1177.
+
+were also changed to reflect that BKSG held 100,000 shares in BTHMB which had
+share capital of US$50m. BTHMB considered that it had by 9 November 2018
+received US$50m as an increase in its share capital, and that is how Lee Kim
+recorded the payments in its ledger, the Lee Kim Ledger. 112
+
+##### Foot Note 112
+
+×
+
+Mr Woo’s AEIC at para 48 and page 25 (2BAEIC at Tab 3, pages 24 and 25).
+
+BTHMB followed suit in its general ledger. 113
+
+##### Foot Note 113
+
+×
+
+Mr Woo’s AEIC at para 49 (2BAEIC at Tab 3, page 26).
+
+100 In or around January 2019, the Korean Fair Trade Commission (“KFTC”)
+investigated BTHMB’s Bithumb Korea acquisition. 114
+
+##### Foot Note 114
+
+×
+
+Mr Woo’s AEIC at para 35(2) (2BAEIC at Tab 3, page 18).
+
+In that regard, on 28 January 2019 Dr Kim emailed Mr Woo to say, “USD 50
+million … has been invested by CEO Kim Byung Gun (Industry: Operating plastic
+surgery hospitals in Korea, Singapore and China …)”. 115
+
+##### Foot Note 115
+
+×
+
+Mr Woo’s AEIC at page 738 (3BAEIC at Tab 4, page 738).
+
+Dr Kim also stated that the income was “derived from the plastic surgery so
+far” and that “BK SG increased the capital of BTHMB and paid for the purchase
+of BTC Holdings shares in Korea with the payment”. 116
+
+##### Foot Note 116
+
+×
+
+Mr Woo’s AEIC at pages 738 and 755 (3BAEIC at Tab 4, pages 738 and 755).
+
+101 On 7 February 2019, Dr Kim emailed Mr Woo again, this time to say: “The
+individual CEO Kim Byung Gun increased the capital of BK SG by [US]$50
+million. BK SG increased the capital of BTHMB and the amount was used as
+payment for the share purchase.” 117
+
+##### Foot Note 117
+
+×
+
+Mr Woo’s AEIC at page 761 (3BAEIC at Tab 4, page 761).
+
+102 Dr Kim’s emails above at [100]–[101] (the “early 2019 emails”) were his
+instructions to represent to the KFTC that there had been a US$50m increase in
+BTHMB’s share capital, which was derived from Dr Kim’s plastic surgery income
+(and not from the sale of cryptocurrency issued by BTHMB). 118
+
+##### Foot Note 118
+
+×
+
+Mr Woo’s AEIC at paras 35–36 (3BAEIC at Tab 4, pages 18–19).
+
+In other words, Dr Kim had represented to BTHMB that: (1) the US$50m he paid
+to BTHMB by Defence Transaction Nos 1 to 7 were in the nature of payments to
+increase BTHMB’s share capital; and (2) that the source of the US$50m was not
+the BXA Coin sale proceeds, but income from his plastic surgery. In so far as
+Dr Kim now contends that Defence Transactions Nos 1 to 7 were not in the
+nature of an increase in BTHMB’s paid-up share capital, and that some or all
+of them were payments of BXA Coin sale proceeds, that would contradict the
+early 2019 emails, and the explanations he provided in the early 2019 emails
+in relation to the KFTC’s investigations.
+
+103 On the stand, Dr Kim acknowledged that the early 2019 emails did not
+mention any sale proceeds from the BXA Coin going towards the first US$50m
+that BTHMB paid towards the Bithumb Korea acquisition; instead, that was said
+to have come from Dr Kim’s plastic surgery income. 119
+
+##### Foot Note 119
+
+×
+
+NE, 10 March 2022, page 10 lines 14–23.
+
+He said that the KFTC was “watching to see if there was participation of this
+cryptocurrency related party or person in this transaction”, and so “the fact
+that the coin sale proceeds were being used for the payment already, that
+could not be seen”. 120
+
+##### Foot Note 120
+
+×
+
+NE, 10 March 2022, page 12 lines 19–25.
+
+Dr Kim was saying that some part of the US$50m which he paid to BTHMB as share
+capital actually came from the BXA Coin sale proceeds, and that he had
+instructed Mr Woo to misrepresent the facts to the KFTC.
+
+104 Dr Kim’s admission that BTHMB had received US$50m as payments of share
+capital is crucial. That was the nature of that US$50m, whether the source of
+some of it was the BXA Coin sale proceeds (rather than all of it coming from
+Dr Kim’s plastic surgery income). As noted above at [88] and [91], the source
+of a payment does not necessarily determine its nature. BTHMB correctly
+regarded US$50m of what it received as payments by (or on behalf of) its
+shareholder, BKSG, to increase BTHMB’s share capital. That still leaves Dr Kim
+having to account for, and to pay to BTHMB, the full amount of the BXA Coin
+sale proceeds.
+
+105 On a related note, besides the Defence Transactions, Dr Kim had in the
+particulars to para 7 of his Defence & Counterclaim (Amendment No 3) dated 2
+July 2021 cited another transaction as being “payment of the Sale Proceeds …
+or in the alternative, a sum equivalent to or greater than the Sale Proceeds”.
+In particular, he pleaded that he had arranged for a further US$43,500,000
+from his own funds to be paid to BTHMB by way of an investment by him in a
+fund called “Winners Fund”, which paid the said sum to a company called BMC
+Global Limited (which in turn paid the sum of US$41,039,995 to BTHMB on or
+around 8 February 2019 for shares in BTHMB). 121
+
+##### Foot Note 121
+
+×
+
+DCC at para 7 (SDB at pages 31–32).
+
+On Dr Kim’s own description, that transaction was not a payment of the BXA
+Coin sale proceeds:
+
+(a) the payment to BTHMB was not made on the basis that it represented sale
+proceeds of BTHMB’s BXA Coins, instead it was payment for shares in BTHMB; and
+
+(b) the ultimate source of the payment to BTHMB was not even the BXA Coin sale
+proceeds, but Dr Kim’s own funds.
+
+106 That transaction could not be considered a payment of BXA Coin sale
+proceeds (that BTHMB could keep because it owned the BXA Coin that had been
+sold), for BTHMB provided consideration for the payment in the form of shares.
+Unsurprisingly, in his closing submissions Dr Kim abandoned reliance on this
+transaction, he relied only on the Defence Transactions. 122
+
+##### Foot Note 122
+
+×
+
+DCS at paras 29 to 52; DRS at paras 30 to 48; see also Plaintiff’s Reply
+Submissions (“PRS”) at paras 55 and 61.
+
+To the extent that Defence Transactions Nos 1 to 7 were also in the nature of
+payments of share capital to BTHMB (as discussed above at [97]–[103]), they
+would likewise not be payments of the sale proceeds of the BXA Coin, even if
+some of the BXA Coin sale proceeds had been used to make payments of share
+capital.
+
+Defence Transactions Nos 8 to 10
+
+107 Defence Transactions Nos 8 to 10 had initially been recorded in BTHMB’s
+general ledger as amounts due to BKSG. 123
+
+##### Foot Note 123
+
+×
+
+Mr Woo’s AEIC at paras 60-–67 (2BAEIC at Tab 3, pages 33-–36).
+
+Following documentary proof that Defence Transactions Nos 9 and 10 had come
+from Dr Kim, BTHMB will be updating its financial statements to reflect that.
+124
+
+##### Foot Note 124
+
+×
+
+PCS at para 148; Mr Woo’s AEIC at paras 68–69 (2BAEIC at Tab 3, page 36).
+
+BTHMB also takes the position that Defence Transaction No 8 was a transfer of
+money from BKSG to BTHMB as share capital for shares which were eventually
+cancelled, and that the money was thus recorded as an amount owed to BKSG as a
+shareholder of BTHMB. 125
+
+##### Foot Note 125
+
+×
+
+Mr Woo’s AEIC at paras 61–67 (2BAEIC at Tab 3, pages 33–35).
+
+In other words, BTHMB acknowledges that it owes BKSG US$2.448m in relation to
+Defence Transaction No 8; and that it owes Dr Kim US$4.5m in relation to
+Defence Transaction No 9 and US$930,000 in relation to Defence Transaction No
+10.
+
+108 Dr Kim did not tell BTHMB that Defence Transactions Nos 8, 9 or 10 were
+payments of sale proceeds; he does not say in his evidence that that is what
+they were, and BTHMB did not regard them as such.
+
+Conclusion on the Ten Defence Transactions
+
+109 I find that Dr Kim has not proved that the Ten Defence Transactions (or
+any part thereof) were payments of BXA Coin sale proceeds: he did not tell
+BTHMB at any point that the Ten Defence Transactions were payments of BXA Coin
+sale proceeds, BTHMB did not regard them as such, and on the evidence they
+were not in the nature of payments of BXA Coin sale proceeds.
+
+110 I would highlight that the first of the Defence Transactions (a US$10m
+payment on 27 September 2018) was received by BTHMB prior to BTHMB knowing of
+any BXA Coin sales – that payment predates the 12 October 2018 transaction
+documents; it predates the various mandate documents with Oran G; it predates
+any sale of BXA Coin (which Dr Kim says only started from 15 October 2018);
+126
+
+##### Foot Note 126
+
+×
+
+DCS at para 11(c).
+
+and it predates Dr Kim’s receipt of any BXA Coin sale proceeds (which he says
+he only started receiving on 22 October 2018). 127
+
+##### Foot Note 127
+
+×
+
+DCS at para 21(b).
+
+Dr Kim provides no basis for regarding Defence Transaction No 1 as a payment
+of sale proceeds to BTHMB; indeed, the same may be said for Defence
+Transactions Nos 2 to 7 as well.
+
+111 Further, I find that BTHMB was correct in not regarding Defence
+Transactions Nos 1 to 7 as involving any payment of sale proceeds. It
+correctly regarded US$50m from Defence Transactions Nos 1 to 7 as a payment to
+increase its share capital, leaving two smaller amounts: (a) US$300,000 out of
+Defence Transaction No 4 was regarded as an account payable (to BKSG); and (b)
+US$22,898.45 out of Defence Transaction No 7 was regarded as capital reserves
+(see [96] above). Mr Woo explained that he had treated these two amounts in
+that manner because: 128
+
+##### Foot Note 128
+
+×
+
+Mr Woo’s AEIC at para 50.
+
+(a) he was squaring off US$300,000 out of Defence Transaction No 4 against Dr
+Kim’s withdrawal of S$411,252.79 (approximately US$300,075) from BTHMB’s RHB
+account on 5 November 2018; and
+
+(b) after accounting for US$50m as an increase in share capital, there
+remained an excess of US$22,898.45 out of Defence Transaction No 7, which he
+thus regarded as capital reserves.
+
+112 Mr Woo was justified in not regarding these two amounts as payments of BXA
+Coin sale proceeds, based on the information he had (and the absence of any
+indication from Dr Kim that they should be regarded as payments of BXA Coin
+sale proceeds).
+
+113 I find that none of the Ten Defence Transactions was a payment of BXA Coin
+sale proceeds. However, BTHMB acknowledges that it owes Dr Kim the amount of
+Defence Transactions Nos 9 and 10, ie, US$4.5m and US$930,000, totalling
+US$5.43m (see [107] above). As Dr Kim is relying on those transactions as a
+defence to BTHMB’s claim against him, 129
+
+##### Foot Note 129
+
+×
+
+DCC at para 7 (SDB at pages 31–32).
+
+I allow that amount of US$5.43m (a debt admittedly owed by BTHMB to Dr Kim) to
+be set-off against Dr Kim’s liability to BTHMB for the balance sale proceeds.
+
+114 In the circumstances, Dr Kim is to pay BTHMB the balance sale proceeds of
+US$22,596,913.76 less the US$5.43m which BTHMB acknowledges it owes him in
+respect of Defence Transactions Nos 9 and 10, ie, Dr Kim is to pay BTHMB
+US$17,166,913.76. This is subject to Dr Kim’s counterclaim which he relies on
+as a set-off. 130
+
+##### Foot Note 130
+
+×
+
+DCC at para 13 (SDB at page 34).
+
+I consider Dr Kim’s counterclaim below.
+
+Dr Kim’s Counterclaim
+
+115 Dr Kim’s counterclaim is in relation to payments he says he made on behalf
+of BTHMB: (i) costs and/or expenses that were related to, connected with
+and/or arose out of BTHMB’s acquisition of Bithumb Korea and/or the Bithumb
+SPA and/or were expenses that in the ordinary course of business were payable
+by BTHMB, as well as (ii) expenses in the course of his duties as a director
+of BTHMB. 131
+
+##### Foot Note 131
+
+×
+
+DCC at para 14 (SDB at page 34).
+
+These payments were made in various currencies, and they amount to some
+US$2,398,444.39 (based on the exchange rates at the time Dr Kim’s counterclaim
+was prepared – 5 October 2020). 132
+
+##### Foot Note 132
+
+×
+
+Defence at para 14 (SDB at page 34).
+
+116 Dr Kim says he incurred these expenses on BTHMB’s instructions and/or with
+BTHMB’s agreement, and that BTHMB was at all material times aware of them. He
+says BTHMB is liable to him pursuant to a promise by BTHMB and/or agreement
+between him and BTHMB, during a meeting of BTHMB’s board on 26 December 2018
+that those expenses would be repayable on demand as a reimbursement by BTHMB
+to him. 133
+
+##### Foot Note 133
+
+×
+
+Defence at para 15 (SDB at page 34).
+
+117 The minutes of the 26 December 2018 board meeting 134
+
+##### Foot Note 134
+
+×
+
+Dr Kim’s AEIC at pages 2033–2035 (6BAEIC at Tab 7, pages 2033–2035).
+
+do not record a resolution by BTHMB’s board that BTHMB would reimburse Dr Kim
+for all “BXA-related expenses” (as Dr Kim asserts).
+
+118 The first item in those minutes was “#1 Bithumb Listing Activity (Tony)”.
+The minutes record what was discussed by the board regarding that item, and
+then what was resolved: “RESOLVED: #1 unanimously approved by the Board
+members attending the meeting.”
+
+119 The second item on expenses was recorded as follows:
+
+#2 Settlement of Expense Incurred by BXA (BK):
+
+Currently, the expenses are paid from BK’s personal account.
+
+1\. All BXA-related expenses are paid for using BK’s personal funds and it
+will be paid to BK once BXA has adequate working capital
+
+2\. The cost of the meetup in Shanghai on will be paid using BK’s Chinese
+card.
+
+120 There was no record of what the board resolved on the second item, in
+contrast with how the first item was recorded. The evidence of Mr Hwang – who
+was at the meeting – is that there was no agreement for the reimbursement of
+Dr Kim at the board meeting of 26 December 2018, as Dr Kim claims. 135
+
+##### Foot Note 135
+
+×
+
+Mr Hwang’s AEIC at para 50 (2BAEIC at Tab 2, page 18).
+
+121 I find that Dr Kim has not proved that the BTHMB board had resolved on 26
+December 2018 to reimburse him for “all BXA-related expenses”. That leaves Dr
+Kim to prove that he was nevertheless entitled to such reimbursement.
+
+122 Before I deal with that, I note that the expenses in question span the
+period from 21 August 2018 (item 1) to 27 March 2019 (items 76 to 79, and 81);
+136
+
+##### Foot Note 136
+
+×
+
+DCS at pages 86–124 (Table of Dr Kim’s alleged BXA-Related Expenses).
+
+some of the expenses were only incurred after the 26 December 2018 board
+meeting. As such, even if the board had on 26 December 2018 resolved to
+reimburse Dr Kim, in relation to the future expenses (at least) that could
+only be a decision in principle – whether a particular expense would be
+reimbursed would still depend on what it was. In this regard, the fact that Dr
+Kim is withdrawing his claim for two of the expenses (items 9 and 57, 137
+
+##### Foot Note 137
+
+×
+
+DCS at pages 90 and 109 (Table of Dr Kim’s alleged BXA-Related Expenses).
+
+both pre-dating the 26 December 2018 board meeting) neatly illustrates that
+BTHMB had not given blanket approval to reimburse Dr Kim for all BXA-related
+expenses that he might claim to have incurred:
+
+(a) item 9 was for payment of an invoice issued by Lee Kim to BKSG; and
+
+(b) item 57 was for a return flight booking from Seoul to Shanghai and back –
+Dr Kim’s position is, that is a duplicate claim with item 60 (for the ticket
+for that flight) so he withdraws item 57. 138
+
+##### Foot Note 138
+
+×
+
+DCS at page 109 (Table of Dr Kim’s Alleged BXA-Related Expenses at Item No
+57).
+
+123 On its part, BTHMB does not dispute Dr Kim’s claims in relation to 21
+items, namely: items 18, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34,
+35, 36, 37, 38, 39, 40, and 41. 139
+
+##### Foot Note 139
+
+×
+
+Mr Woo’s AEIC at para 107, PRS at Appendix A.
+
+These 21 items total S$1,054.14. I allow Dr Kim’s claims for these items.
+
+124 Of the disputed items, I allow Dr Kim’s claim for items 52 and 55, for a
+total of 4 months’ salary which Dr Kim paid to one Mr Shin Hyun Seop (“Mr
+Shin”). I accept Dr Kim’s evidence that (a) Mr Shin was hired by BTHMB, but Mr
+Shin was unable to obtain the necessary work permit or employment pass to
+enter Singapore; and (b) at Mr Shin’s request, Dr Kim paid him salary on
+behalf of BTHMB comprising KRW30,859,590 as three months’ salary (on 15
+December 2018), and a further KRW10,286,530 as one month’s salary (on 5
+January 2019). 140
+
+##### Foot Note 140
+
+×
+
+Dr Kim’s AEIC at paras 77–81 (4BAEIC at Tab 5, pages 68–69).
+
+In his confirmation letters dated 15 December 2018 and 5 January 2019, Mr Shin
+acknowledged that he had received KRW30,859,590 and KRW10,286,530 respectively
+“from BTHMB HOLDINGS PTE. LTD. Director Kim Byung Gun”. 141
+
+##### Foot Note 141
+
+×
+
+Dr Kim’s AEIC at pages 1954 and 1956 (6BAEIC at Tab 7, pages 1954 and 1965).
+
+There is also an email dated 3 December 2018 from Mr Woo wherein he mentions
+“Shin Hyun Sup S$36,585: Director Hyun-seop Shin, Consulting Cost …”, as an
+“Agency cost”. 142
+
+##### Foot Note 142
+
+×
+
+Mr Woo’s AEIC at page 1094 (3BAEIC at Tab 4, page 1094).
+
+That sum of S$36,585 is close to the three months’ salary Dr Kim says he paid
+on 15 December 2018, at the exchange rate prevailing then. The four months’
+salary which Dr Kim paid total KRW41,146,120.
+
+125 I also allow Dr Kim’s claims for items 4, 6 and 42 (for S$50,000,
+S$250,000 and S$30,000 respectively) totalling S$330,000. These items are not
+expenses for which Dr Kim claims reimbursement; rather, they were sums lent by
+Dr Kim to BTHMB, which he wanted repayment of. BTHMB and Dr Kim had entered
+into a Loan Agreement dated 2 November 2018 (the “Loan Agreement”) under which
+Dr Kim would make a loan to BTHMB (clause 3.1). 143
+
+##### Foot Note 143
+
+×
+
+Mr Woo’s AEIC at pages 1074–1078 (3BAEIC at Tab 5, page 1074–1078).
+
+Clause 3.3 of the Loan Agreement provided that the Loan Agreement had a one-
+year term (the “Initial Term”), and would be automatically renewed for
+successive one-year terms (each a “Renewal Term”) thereafter “until and unless
+either Party provides the other Party with thirty (30) days prior written
+notice to the end of the Initial Term or the Renewal Term”.
+
+126 In 2021, Dr Kim provided particulars of his claim for S$409,185.58,
+including the above three items totalling S$330,000. 144
+
+##### Foot Note 144
+
+×
+
+Particulars Served Pursuant to Request (Amendment No. 1) dated 2 July 2021
+(“Dr Kim’s Particulars”) at para 1 and Annex A, items 40–42 (SDB at pages 85
+and 96).
+
+He described them as loan remittances from his Maybank account to BTHMB, and
+said that the purpose of the loan remittances was for BTHMB’s Bithumb Korea
+acquisition / the Bithumb SPA. 145
+
+##### Foot Note 145
+
+×
+
+Dr Kim’s Particulars at Annex A, items 40–42 read with the Legend (SDB at
+pages 93 and 96).
+
+It is tolerably clear from the evidence and Dr Kim’s particulars that the
+three payments were not payments made by Dr Kim on behalf of BTHMB, but rather
+money lent by Dr Kim to BTHMB that he wanted back. In the circumstances, I
+accept that the particulars Dr Kim provided in 2021 were a sufficient written
+notice to terminate the Loan Agreement in accordance with clause 3.3 of the
+Loan Agreement, such that the sums lent to BTHMB should be repaid to Dr Kim.
+
+127 I do not allow Dr Kim the other disputed claims. I agree with BTHMB that
+Dr Kim has not satisfactorily proved that he incurred the expenses in
+question, or that they were incurred for the purposes alleged by him.
+
+128 I specifically address items 69, 70, 71, and 72, which were respectively
+for:
+
+(a) CNY180,000 which Dr Kim allegedly paid to Sun Ying Jun (“Tony Sun”);
+
+(b) CNY80,000 which Dr Kim allegedly paid to Tony Sun;
+
+(c) CNY11,200,000 which Dr Kim allegedly paid to Shanghai Qiri Information
+Technology Co Ltd (“Shanghai Qiri”); and
+
+(d) CNY2,086,381 which Dr Kim allegedly paid to Tony Sun.
+
+129 These payments make up the bulk (in monetary terms) of Dr Kim’s
+counterclaim. Dr Kim says: 146
+
+##### Foot Note 146
+
+×
+
+Dr Kim’s AEIC paras 68–72 (4BAEIC at Tab 5, pages 64–66).
+
+(a) BTHMB and One Root Investment Holding Ltd (“One Root”) had, to the best of
+his recollection, entered into a service agreement under which One Root would
+be provided with around 450m BXA Coins and paid US$20m in cash for its
+provision of BXA Coin management services;
+
+(b) BTHMB did not have the funds to pay the US$20m to One Root and so One Root
+notified BTHMB that it would not be able to provide the said management
+services to BTHMB;
+
+(c) BXA Coin was listed on 1 February 2019 on a minor coin exchange that Tony
+Sun (One Root’s CEO, and BTHMB’s joint managing director together with Dr Kim
+at that time) had introduced, and it was therefore necessary to engage One
+Root to provide “market making” services for the BXA Coin (Dr Kim recalls that
+One Root had offered to provide these services for approximately US$5m); and
+
+(d) Dr Kim could only afford to pay One Root approximately US$2m and he did so
+by transferring CNY13,546,381 to Shanghai Qiri and Tony Sun (as One Root’s
+nominated recipients) 147
+
+##### Foot Note 147
+
+×
+
+Dr Kim’s AEIC at paras 71(a) and 71(c) (4BAEIC at Tab 5, pages 65-–66).
+
+– items 69 to 72 of his counterclaim.
+
+130 Unlike his other expense claims, Dr Kim did not submit the above claims in
+relation to One Root / Shanghai Qiri / Tony Sun to Mr Woo for processing. 148
+
+##### Foot Note 148
+
+×
+
+Dr Kim’s AEIC at para 63 (4BAEIC at Tab 5, page 62).
+
+These payments were not recorded in BTHMB’s general ledger or other documents.
+
+131 Dr Kim has not adduced any documentary evidence of (a) the alleged service
+agreement between One Root and BTHMB; (b) the listing of BXA Coin on a minor
+exchange; (c) One Root’s offer to provide marketing services for US$5m; or (d)
+Shanghai Qiri or Tony Sun being One Root’s nominated recipients. In the
+circumstances, I consider that Dr Kim has not satisfactorily proved that these
+are expenses that BTHMB ought to reimburse him for. Whether Dr Kim has any
+recourse against One Root, Shanghai Qiri, or Tony Sun, is a separate matter.
+
+132 I thus allow Dr Kim’s counterclaim in part, to the extent of
+
+(a) S$331,054.14 (being S$1,054.14 (see [123] above) plus S$330,000 (see [126]
+above)); and
+
+(b) KRW41,146,120 (see [124] above).
+
+133 These sums may be set-off again his liability to pay BTHMB the sum of
+US$17,166,913.76 (the balance of the BXA Coin sale proceeds after setting-off
+amounts that BTHMB admits it owes Dr Kim: [114] above).
+
+Conclusion
+
+134 I order Dr Kim to pay BTHMB the principal sum of US$17,166,913.76 less the
+sums that I have allowed on Dr Kim’s counterclaim, ie, S$331,054.14 and
+KRW41,146,120. To that end, the S$ and KRW sums should be converted into US$.
+Should parties be unable to agree on the appropriate exchange rates to apply,
+they are to write in within 21 days stating their respective positions on this
+issue and I will determine it.
+
+135 Dr Kim is to pay BTHMB interest on the net sum owed to BTHMB (from the
+preceding paragraph) at the usual rate of 5.33% per annum from 27 June 2019
+(the date of the writ) to the date of this judgment.
+
+136 As a director, agent, and trustee, Dr Kim is an accounting party in
+relation to BTHMB (see Libertarian Investments Ltd v Thomas Alexej Hall (2013)
+16 HCCFAR 681 at [172], cited with approval by in UVJ v UVH [2020] 2 SLR 336
+at [27]). As such, I order Dr Kim to provide an account to BTHMB of what
+became of the US$22,596,913.76 in BXA Coin sale proceeds. I note that Dr Kim
+has provided Mr Wong’s expert opinion that, having conducted a tracing
+exercise, US$18,490,836.92 of the sale proceeds was paid to BTHMB as part of
+the Defence Transactions. 149
+
+##### Foot Note 149
+
+×
+
+Mr Wong’s Report at paras 4.59–4.60, exhibited in Mr Wong’s AEIC at pages 60
+(7BAEIC at Tab 8, page 60).
+
+Dr Kim may rely on Mr Wong’s expert opinion as an account for what happened to
+that amount of sale proceeds. However, there remains a shortfall of
+US$4,106,076.84 (being US$22,596,913.76 less US$18,490,836.92) that Dr Kim
+still has to account for. BTHMB may seek directions from a registrar regarding
+the provision of that account, and if it should appear that by retaining the
+sale proceeds Dr Kim has profited beyond the amount of interest awarded to
+BTHMB, BTHMB may seek an order for payment of the difference.
+
+137 As the successful party in this suit, BTHMB is entitled to costs from Dr
+Kim (to be assessed if not agreed), unless either party wishes to contend that
+some other costs order should be made. In that event, or if the parties are
+unable to agree on the quantum of costs, they shall put in their respective
+costs submissions (limited to 15 pages, excluding any schedule of
+disbursements) within 21 days.
+
+Andre Maniam  
+Judge of the High Court|  
+---|---  
+  
+Chan Tai-Hui Jason SC, Leong Yi-Ming and Tan Xue Yang (Allen & Gledhill LLP)
+for the plaintiff;
+
+Palmer Michael Anthony, Reuben Tan Wei Jer, Joel Raj Moosa and Nadine Victoria
+Neo Su Hui (Quahe Woo & Palmer LLC) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 26 Aug 2022 (11:47 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

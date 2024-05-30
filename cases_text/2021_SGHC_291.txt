@@ -1,0 +1,349 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE
+
+high court of the republic of singapore
+
+[2021] SGHC 291
+
+Suit No 331 of 2018
+
+Between
+
+| Haribo Asia Pacific Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Aquarius Corporation  
+---|---  
+  
+… Defendant
+
+Counterclaim of the Defendant
+
+Between
+
+| Aquarius Corporation  
+---|---  
+  
+… Plaintiff in Counterclaim
+
+And
+
+| Haribo Asia Pacific Pte Ltd  
+---|---  
+  
+… Defendant in Counterclaim
+
+supplemental judgment
+
+[Civil Procedure] — [Damages] — [Interest]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Haribo Asia Pacific Pte Ltd
+
+  
+v
+
+  
+
+Aquarius Corp
+
+[2021] SGHC 291
+
+General Division of the High Court — Suit No 331 of 2018  
+Lee Seiu Kin J  
+30 June, 2, 3, 6–8, 14–17 July 2020, 12, 13, 15 July, 3 September 2021
+
+27 December 2021
+
+Lee Seiu Kin J:
+
+The error to be corrected
+
+1 Following the release of my decision in Haribo Asia Pte Ltd v Aquarius
+Corporation [2021] SGHC 278 (the “Judgment”), counsel for the Defendant wrote
+to the court, clarifying that an incorrect contractual interest rate had been
+applied in the Judgment in respect of the judgment debt I determined they were
+to pay the Plaintiff. At [12]–[13] of the Judgment, I wrote:
+
+12 The Plaintiff pleads that the “base interest rate” prescribed by section
+247 of the Bürgerliches Gesetzbuch (the “BGB”) – the German Civil Code – is
+7.12% and that it is entitled from 1 July 2016 until the date of full payment.
+…
+
+13 The Defendant does not dispute that the Plaintiff is entitled to 8% over
+the rate of 7.12%. It contends, however, that the Plaintiff has no basis to
+claim interest from 1 July 2016. …
+
+[Emphasis added]
+
+2 Thereafter, at [228] and [236]–[237] of the Judgment, I proceeded to apply
+the rate of 8% over 7.12%, ie, 15.12%, which I observed was a “rather high”
+rate of interest. The Defendant now highlights, and the Plaintiff confirms,
+that this was erroneous, and that the correct rate of interest which should
+have been applied was 7.12%, not 15.12%. The applicable base interest rate
+should have been -0.88%, not 7.12%. Thus, 8% over -0.88% is 7.12%, which is
+the rate which should have been used.
+
+3 The Defendant suggests that this error stems from inconsistent usage, by the
+Plaintiff in its key documents, of the phrases “applicable base interest rate”
+and “applicable interest rate”. However, my incorrect usage of the figures in
+the Judgment in fact stems from the lack of clear distinction between these
+two phrases in the first place. At no point in the Plaintiff’s statement of
+claim, its written closing submissions, or its sole factual witness’s
+affidavit was the figure -0.88% stated, and if it had been, the character of
+the 7.12% figure would have been immediately apparent.
+
+4 The Statement of Claim provided:
+
+22\. Pursuant to Clause 10 of the Delivery Terms and Conditions, the Plaintiff
+is entitled to claim default interest at the rate of 8% over the applicable
+base interest rate pursuant to Section 247 of the German Civil Code from the
+expiration of the time provided for payment until payment.
+
+Particulars
+
+a. 7.12% per annum between 1 July 2016 and 31 December 2016
+
+b. 7.12% per annum between 1 January 2017 and 30 June 2017
+
+c. 7.12% per annum between 1 July 2017 and 31 December 2017
+
+d. 7.12% per annum between 1 January 2018 to date, up to 30 June 2018
+
+…
+
+AND the Plaintiff claims against the Defendant: … (2) Interest at 8% over the
+base interest rate prescribed on a six-monthly basis under Section 247 of the
+German Civil Code (BGB) on EUR 1,526,224.76 until the date of full payment …
+
+5 The Plaintiff’s written closing submissions then stated:
+
+28 It is also undisputed that the applicable base interest rate pursuant to
+Section 247 of the BGB is 7.12% per annum:
+
+Applicable Period| Applicable Interest Rate  
+---|---  
+1 Jan 2017 to 30 Jun 2017| 8 + 7.12% per annum  
+1 Jul 2017 to 31 Dec 2017| 7.12% per annum  
+1 Jan 2018 to 30 Jun 2018| 7.12% per annum  
+  
+[Part of table omitted]
+
+6 The Plaintiff’s sole factual witness, Mr Nikolay Karpuzov, stated in his
+affidavit of evidence-in-chief:
+
+49\. Pursuant to Condition 10 of the Delivery Terms and Conditions, HAP is
+entitled to claim default interest at the rate of 8% over the applicable base
+interest rate pursuant to Section 247 of the German Civil Code from the
+expiration of the time provided for payment until payment:
+
+Applicable Period| Applicable Interest Rate under Section 247 of the German
+Civil Code  
+---|---  
+1 Jul 2016 to 31 Dec 2016| 7.12% per annum  
+1 Jan 2017 to 30 Jun 2017| 7.12% per annum  
+1 Jul 2017 to 31 Dec 2017| 7.12% per annum  
+  
+[Part of table omitted]
+
+7 On the face of these averments and submissions, it is not clear whether the
+figure 7.12% was meant to represent the derived figure (ie, base rate + 8%),
+or whether it referred to the base interest rate indicated in the German Civil
+Code without the additional 8%. The Defendant now highlights that it addressed
+the Plaintiff’s error – particularly, the Plaintiff’s written closing
+submissions – in its own written reply submissions. I have re-examined the
+materials, and I accept that the Defendant did so, but the point was confined
+to a mere footnote.
+
+8 Having said the foregoing, I will not attribute any blame for the ultimate
+error. I will only note that roundabout ways of expressing simple positions
+are generally undesirable, especially in cases such as this, with written
+submissions running into two to three hundred pages per side. The applicable
+rate of interest was not a disputed issue, and references to the “base” and
+“applicable” rates were unnecessarily oblique. It could simply have been
+stated that the rate of interest being claimed was “8% over -0.88% (the base
+rate provided by the German Civil Code), ie, 7.12%”. This would have avoided
+further, unnecessary ambiguity amongst a whole host of other contentious
+issues. I leave this point with the following admonishment: the role of
+counsel is to assist the court and this is best carried out by the use of
+plain and simple language that clarify rather than obfuscate the issues.
+
+A consequential point raised by the Plaintiff
+
+9 As stated at [2] above, I observed in the Judgment that the initially-
+applied interest rate of 15.12% was “rather high”. On this basis, I ordered
+that the Plaintiff’s contractual interest be terminated on the date of the
+Defence and Counterclaim, 30 August 2018, and thereafter, that they would only
+be entitled to the court-ordered rate of 5.33%, same as the Defendant.
+
+10 At [236] of the Judgment, I said:
+
+236 The Plaintiff had prayed for contractual interest to apply until the date
+of payment, but I think that it is just, on the facts of this case, to
+terminate the contractual interest at an earlier date for the following
+reasons. First, the contractual interest rate of 15.12% is rather high, and in
+the context of the present-day interest rate environment, it behoves this
+court to be cautious in making any such award. Second, I have found that the
+Defendant is entitled to a counterclaim that is of a similar order of
+magnitude to the Plaintiff’s claim. After setting off the counterclaim, the
+sum for which the Defendant is indebted to the Plaintiff would be greatly
+diminished. In these circumstances, I am minded to exercise the discretion
+vested in me under s 12(1) of the Civil Law Act (Cap 43, 1999 Rev Ed) to order
+the Defendant to pay the contractual interest rate on the Plaintiff’s claims
+up to 30 August 2018, the date of filing of the Defence and Counterclaim, with
+interest thereafter to run at 5.33%. I also order interest at 5.33% on the sum
+ordered under the Counterclaim to run from the same date, 30 August 2018.
+
+11 In light of the error and the correction of the rate of interest down to
+7.12%, the Plaintiff submits that there is basis for me to reconsider not
+terminating the applicable contractual interest on 30 August 2018. Having
+considered the submission, I agree that difference between the Plaintiff’s
+contractual rate of 7.12% and the court-ordered rate of 5.33% is not as to
+engage the same considerations set out above. Indeed, apart from being almost
+three times the usual rate of 5.33%, 15.12% was, in my view, in and of itself
+bordering on usurious. The same cannot be said of 7.12% and the reason for not
+awarding the contractual rate no longer applies. I therefore change this
+aspect of my orders.
+
+Consequential changes to the Judgment
+
+12 Using the correct interest rate of 7.12%, and with the change stated in the
+paragraph above in mind, I set out the amendments to the following paragraphs
+of the Judgment:
+
+9 The parties tendered their written closing and reply submissions on 13
+August and 3 September 2021 respectively. No further oral replies were heard.
+Having considered these submissions and the evidence put before me, I allow
+the Plaintiff’s claim for the principal sum of €1,526,224.76 and its claim for
+contractual interest in full. I allow the counterclaim in part, and order that
+the Plaintiff pay the Defendant ₩1,969,018,000 with judgment interest of 5.33%
+from the date of the Defence and Counterclaim, 30 August 2018. I also find
+that the requirements for set off have been satisfied, and I will explain how
+the set off is to be applied from [236] to [240] below.
+
+…
+
+12 The Plaintiff pleads that the “base interest rate” prescribed by section
+247 of the Bürgerliches Gesetzbuch (the “BGB”) – the German Civil Code – is
+-0.88% and that it is entitled from 1 July 2016 until the date of full
+payment. Applying this rate and starting date, as at 13 August 2021 – the date
+on which closing submissions were filed – the Plaintiff calculates that it is
+entitled to €519,074.76 in interest.
+
+13 The Defendant does not dispute that the Plaintiff is entitled to 8% over
+the rate of -0.88% (ie, 7.12%). It contends, however, that the Plaintiff has
+no basis to claim interest from 1 July 2016. In support of this, the Defendant
+highlights that interest is only payable “from the expiration of the time
+provided for payment” (see [11] above). The earliest invoice on which the
+Plaintiff’s claim is based is dated 1 November 2016, and the invoice states
+that payment is to be made by the “3rd working day of [the] next month”. That
+is, 5 December 2016 – the 3rd and 4th of December being non-working days.
+
+…
+
+228 As such, I find that the Plaintiff is entitled to 7.12% interest on each
+of their invoices, starting from the day after the amount fell due on that
+particular invoice. The following table sets this out: …
+
+…
+
+236 [This paragraph is deleted]
+
+237 For the foregoing reasons, I allow the Plaintiff’s claim for the principal
+sum of €1,526,224.76 and its claim for contractual interest of 7.12% for the
+following sums from the following dates: (a) €1,390,464.86 with interest
+payable from 4 February 2017 until the date of this judgment, 2 December 2021;
+and (b) €135,759.90 with interest payable from 4 March 2017, also until the
+date of this judgment. In respect of (a), there are 1762 days between 4
+February 2017 and 2 December 2021 (this takes into account the Leap Day in
+2020), both dates inclusive. As such, interest amounts to €477,917.63. For
+(b), there are 1734 days and interest payable amounts to €45,920.62. Thus, in
+total, as of the date of this judgment, the Plaintiff is awarded the sum of
+€2,050,063.01. I will denote this sum (P1).
+
+238 [This paragraph is deleted]
+
+…
+
+240 With sums (P1) and (D) in mind, I turn then to the issue of set off
+involving a complication concerning currency exchange rates. The starting
+point is that I order that the parties determine the applicable exchange rate
+and set off their respective judgment debts on the date of this judgment. That
+is, (D) should be converted to Euro based on the exchange rate on 2 December
+2021 and deducted from (P1). As such, as of this date, the Defendant would
+only owe the Plaintiff (P1 – D), a sum in Euro, which I will denote (P2).
+Thereafter, the Plaintiff would be entitled to 7.12% interest only on (P2) –
+as opposed to (P1) – from the day after this judgment, 3 December 2021, to the
+date of full payment.
+
+…
+
+255 It is for these reasons that I held (at [240]) that the parties set off
+their claims on the date of this judgment, and consequently, that the
+Plaintiff is entitled to receive 7.12% interest only on (P2) from the day
+after this judgment.
+
+[Amendments emphasised]
+
+13 For the avoidance of doubt, my amended orders as set out above shall take
+effect from 2 December 2021, the date of the Judgment. As I explained at
+[240]–[253] of the Judgment, there are issues of set off and currency
+conversion arising in this matter, and there is a principled basis on which I
+decided to order the necessary conversion and set off to be effected on that
+date. This subsequent correction of the precise sums which form the subject of
+my orders does not justify a departure from the basis on which I made that
+decision.
+
+14 With these clarifications, the parties may proceed to effect the set off of
+their respective judgment debts using the relevant exchange rate on 2 December
+2021, and the Plaintiff may then proceed to enforce payment of the balance
+owing thereafter.
+
+Lee Seiu Kin  
+Judge of the High Court  
+---  
+  
+Chou Sean Yu, Oh Sheng Loong Frank, Daniel Lee Wai Yong, and Eve Dana Ng Shi
+Ying (WongPartnership LLP) for the Plaintiff;
+
+Gregory Vijayendran SC, Kevin Tan, Devathas Satianathan, Low Weng Hong, and Ng
+Shu Wen (Rajah & Tann Singapore LLP) for the Defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 27 Dec 2021 (10:46 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

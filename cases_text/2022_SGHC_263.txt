@@ -1,0 +1,2627 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE
+
+high court of the republic of singapore
+
+[2022] SGHC 263
+
+Suit No 1007 of 2020
+
+Between
+
+| UniCredit Bank AG  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Glencore Singapore Pte Ltd  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Banking — Letters of credit — Relationship of parties]
+
+[Bills of Exchange and other Negotiable Instruments — Letter of credit
+transaction]
+
+[Contract — Misrepresentation — Fraudulent]
+
+[Contract — Misrepresentation — Statements of intention]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+UniCredit Bank AG
+
+  
+v
+
+  
+
+Glencore Singapore Pte Ltd
+
+[2022] SGHC 263
+
+General Division of the High Court — Suit No 1007 of 2020  
+Andre Maniam J  
+17–20, 23–27 May, 25 July 2022
+
+21 October 2022 Judgment reserved.
+
+Andre Maniam J:
+
+Introduction
+
+1 In international trade, the purchase of goods is commonly financed by a
+letter of credit (“LC”):
+
+(a) the buyer (applicant) gets a bank to issue an LC in favour of the seller
+(beneficiary);
+
+(b) the seller presents to the issuing bank documents as stipulated in the LC;
+
+(c) the bank pays the seller if the documents comply with the LC; and
+
+(d) the buyer reimburses the bank thereafter.
+
+2 The buyer might resell the goods it purchased, to another party, or back to
+the seller. That resale might be simultaneous with the buyer’s initial
+purchase, or at some other time.
+
+3 In a case where the seller has simultaneously bought back the goods it had
+sold, is the seller fraudulent if it does not tell the issuing bank about that
+buyback transaction?
+
+4 The plaintiff bank (“UniCredit”) contended that this was fraud, and so it
+sought to recover from the defendant seller (“Glencore”) the amount UniCredit
+had paid to Glencore under an LC.
+
+5 UniCredit also alleged that the buyer’s purchase of the goods from Glencore
+was a sham or fictitious transaction, and so the LC should be rescinded, and
+Glencore should return what UniCredit had paid it. The buyer was Hin Leong
+Trading (Pte) Ltd (“Hin Leong”), a company now in liquidation.
+
+Background
+
+Hin Leong’s banking facilities from UniCredit
+
+6 On 22 November 2019, UniCredit granted Hin Leong banking facilities in the
+sum of US$85m, which Hin Leong could use to obtain LCs to finance the purchase
+of oil, petroleum products and other commodities. 1
+
+##### Foot Note 1
+
+×
+
+2AB 1180.
+
+7 On 27 November 2019, Hin Leong applied to UniCredit for an irrevocable LC in
+the sum of US$37,209,550.35 to finance the purchase of some 150,000 metric
+tonnes of High-Sulphur Fuel Oil (“the goods”). 2
+
+##### Foot Note 2
+
+×
+
+2AB 1779.
+
+Hin Leong’s purchase of the goods from Glencore, and Glencore’s buyback of the
+goods
+
+8 Hin Leong contracted to purchase the goods from Glencore the same day (the
+“Sale Contract”). The Sale Contract stated that the goods would be shipped on
+board the vessel “MT New Vision” and delivered to Singapore in the period of
+18 to 25 December 2019. 3
+
+##### Foot Note 3
+
+×
+
+2AB 1794 and 1875.
+
+9 Glencore, however, agreed to simultaneously buy back the goods from Hin
+Leong (the “Buyback Contract”). 4
+
+##### Foot Note 4
+
+×
+
+2AB 1867.
+
+Hin Leong and Glencore agreed that at 0001 hours on 2 December 2019, title to
+the goods would pass from Glencore to Hin Leong, and immediately back to
+Glencore.
+
+Hin Leong’s misrepresentation to UniCredit that it had not sold the goods
+
+10 On 28 November 2019, Hin Leong submitted to UniCredit a revised LC
+application. UniCredit asked Hin Leong for documents including the “Purchase
+and Sales contracts and/or a deal recap”. 5
+
+##### Foot Note 5
+
+×
+
+2AB 1889.
+
+Hin Leong replied the same day, saying that its LC application was for “Unsold
+cargo” and providing a copy of the Sale Contract. 6
+
+##### Foot Note 6
+
+×
+
+2AB 1888.
+
+In fact, the goods were not “unsold cargo” – Hin Leong had already contracted
+to sell the goods back to Glencore.
+
+The LC
+
+11 UniCredit issued the LC on 29 November 2019. 7
+
+##### Foot Note 7
+
+×
+
+3AB 1925.
+
+It was subjected to The Uniform Customs and Practice for Documentary Credits
+(2007 Revision) (“UCP 600”). The LC stated that the credit thereunder would be
+available against the presentation of various stipulated documents, including
+a signed commercial invoice, and “full set 3/3 original bills of lading
+[“BLs”] issued or endorsed to the order of ‘UniCredit Bank AG, Singapore
+Branch’ marked ‘freight payable as per charter party’.”
+
+12 The LC further stated that:
+
+in the event that documents called for are not available at time of
+presentation/negotiation, payment will be effected against:
+
+(a) Beneficiary’s commercial invoice.
+
+(b) Beneficiary’s letter of indemnity duly signed by authorized signatory(s).
+
+13 The format of the letter of indemnity (“LOI”) was prescribed in the LC.
+
+Glencore’s presentation of documents, and UniCredit’s payment
+
+14 On 2 December 2019, Glencore presented the following documents to UniCredit
+for payment under the LC: 8
+
+##### Foot Note 8
+
+×
+
+3AB 2001.
+
+(a) Glencore’s commercial invoice for the Sale Contract, addressed to Hin
+Leong; and
+
+(b) Glencore’s LOI addressed to Hin Leong, worded in accordance with the
+format prescribed in the LC (and so it mentioned the Sale Contract, but not
+the Buyback Contract) (see [79] below).
+
+15 On 3 December 2019, UniCredit paid Glencore pursuant to the LC. UniCredit
+made early payment based on a discount it had agreed with Glencore: UniCredit
+paid Glencore US$36,997,691.57. 9
+
+##### Foot Note 9
+
+×
+
+3AB 2076.
+
+16 When UniCredit issued the LC on 29 November 2019, and when UniCredit paid
+Glencore on 3 December 2019, UniCredit did not know that Glencore had bought
+back the goods.
+
+Hin Leong’s continued misrepresentation to UniCredit that Hin Leong had not
+sold the goods
+
+17 The LC’s maturity date was 28 February 2020. 10
+
+##### Foot Note 10
+
+×
+
+3AB 2018.
+
+On that day, UniCredit asked Hin Leong if the goods had been sold by Hin
+Leong, and if so for documents relating to that sale. Hin Leong replied the
+same day, saying that the goods “[s]till remain[ed] unsold”. 11
+
+##### Foot Note 11
+
+×
+
+3AB 2179.
+
+This was again untrue. Hin Leong had resold the goods to Glencore, indeed, on
+terms that had passed title to the goods back to Glencore at 0001 hours on 2
+December 2019.
+
+UniCredit’s demands, Hin Leong’s fate
+
+18 On 13 April 2020, UniCredit issued a notice of demand to Hin Leong,
+demanding repayment of, among other things, the outstanding advances and
+accrued interest arising out of UniCredit’s financing of Hin Leong’s purchase
+of the goods from Glencore. 12
+
+##### Foot Note 12
+
+×
+
+3AB 2361.
+
+By this time, Hin Leong had requested a meeting with its lenders.
+
+19 On 14 April 2020, UniCredit asked Glencore if it had the original BLs
+referred to in the LC; Glencore replied that it did not have the original BLs.
+13
+
+##### Foot Note 13
+
+×
+
+3AB 2374; 3AB 2379.
+
+20 Hin Leong was placed under interim judicial management on 27 April 2020,
+under judicial management on 7 August 2020, and into liquidation on 8 March
+2021.
+
+21 UniCredit thus found itself without repayment from Hin Leong, without the
+goods, without the BLs, and without security over the goods or the BLs.
+
+UniCredit’s claims
+
+22 UniCredit advances various causes of action against Glencore:
+
+(a) rescission of the LC because the Sale Contract was a sham or fictitious
+transaction (Statement of Claim (Amendment No 4) dated 9 September 2022
+(“SOC”), paras 42 to 43);
+
+(b) fraud or deceit by Glencore (SOC, paras 44 to 49A);
+
+(c) conspiracy between Glencore and Hin Leong to injure UniCredit by unlawful
+means (SOC, paras 50 to 52);
+
+(d) unjust enrichment (SOC, paras 53 to 57);
+
+(e) a claim under the Master Discounting Agreement between UniCredit and
+Glencore Grain Singapore Pte Ltd (which was later amalgamated into Glencore)
+dated 8 August 2014 (SOC, paras 57A to 57B); and
+
+(f) breach of the LOI pursuant to the Contract (Rights of Third Parties) Act
+(Cap 53B) and/or common law (SOC, paras 58 to 63).
+
+23 UniCredit seeks the following relief: rescission of the LC; a declaration
+that Glencore is liable to repay the sum of US$36,997,691.57 together with
+certain costs and expenses; an order for repayment of the said sum; further or
+alternatively, damages to be assessed; interest; costs; and further or other
+relief.
+
+24 UniCredit’s case has two dominant themes:
+
+(a) the Sale Contract was a sham or fictitious transaction because the Buyback
+Contract was a simultaneous buyback of the goods by Glencore; and
+
+(b) Glencore made fraudulent misrepresentations by its LOI and invoice, in
+that Glencore only mentioned the Sale Contract but not the Buyback Contract,
+thereby falsely representing that it intended to surrender the BLs to Hin
+Leong (when, having bought back the goods, Glencore intended to keep the BLs).
+
+25 I now address UniCredit’s causes of action in turn.
+
+(1) Rescission of the LC because Hin Leong’s purchase of the goods was a sham
+or fictitious transaction
+
+26 UniCredit asserts that the Sale Contract was a sham or fictitious
+transaction used to obtain finance from UniCredit and/or to deprive UniCredit
+of any security over the goods and the BLs). 14
+
+##### Foot Note 14
+
+×
+
+SOC, para 33(a).
+
+27 There was substantial agreement as to the legal principles applicable to
+this claim, as stated in the “points of law not in dispute” section in the
+parties’ lead counsel’s statements:
+
+2\. For a transaction to be sham, it is necessary for all parties to that
+transaction to have a common subjective intention that the transaction
+documents are not to create the legal rights and obligations which they give
+the appearance of creating.
+
+3\. There is a strong presumption that the parties to a contract intend to
+create legal relation by way of the contractual documents, and that the onus
+to rebut this presumption lies on the party alleging the sham. See Goodwood
+Associates v Southernpec [2020] SGHC 242, at [40]; Toh Eng Tiah v Jiang
+Angelina [2021] 1 SLR 1176 at [80], [83].
+
+4\. [On motive]
+
+Plaintiff’s wording:
+
+The motive for a transaction is not in itself determinative of whether it is a
+sham. See Credit Agricole v PPT Energy Trading [2022] SGHC(I) 1 at [120].
+
+Defendant’s wording:
+
+The motive of the parties, for example to make arbitrage profits, optimize
+working capital, leverage on credit terms or make use of available financing,
+does not render a transaction a sham if there was an intention to create legal
+relations in connection with genuine cargo. See Goodwood Associates v
+Southernpec [2020] SGHC 242, at [48]; Credit Agricole v PPT Energy Trading
+[2022] SGHC(I) 1 at [123], [141], [142].
+
+Whether a “financing deal” is necessarily a sham
+
+28 UniCredit argues that “[Glencore] has admitted that the simultaneous sale
+and buyback of the Goods between [Hin Leong] and [Glencore] was for the
+purposes of obtaining cheaper working capital … therefore … this was not a
+regular trade and there was no genuine sale and purchase of the Goods.” 15
+
+##### Foot Note 15
+
+×
+
+UniCredit’s closing submissions, para 4.
+
+[emphasis in original] UniCredit builds on this as follows: 16
+
+##### Foot Note 16
+
+×
+
+UniCredit’s closing submissions, para 242.
+
+First, [Glencore] has admitted that the Simultaneous Sale and Buy-Back
+Transactions was a financing deal. It was not a regular trade. A financing
+deal, by definition, cannot be a genuine sale and purchase that the autonomy
+principle in LCs for the facilitation of international trade was intended to
+protect. [Hin Leong’s] Purchase Transaction was no more than a part of the
+Simultaneous Sale and Buy-Back Transactions that [Glencore] employed to obtain
+financing from [UniCredit] to optimize [Glencore’s] working capital by taking
+advantage of the lower interest rate offered by [UniCredit] in commodity
+transactional financing (through an LC) as compared to the Glencore group
+treasury interest rate (and banks’ lending rates on clean lines).
+
+29 These submissions by UniCredit contradict what it had (in its lead
+counsel’s statement) agreed was a point of law not in dispute, based on
+UniCredit’s own wording: “The motive for a transaction is not in itself
+determinative of whether it is a sham.”
+
+30 UniCredit’s argument that the Sale Contract is a sham, is premised on
+Glencore having initiated the transactions for the purposes of obtaining
+cheaper working capital (and that is why Glencore described the transactions
+as a “financing deal” 17
+
+##### Foot Note 17
+
+×
+
+2AB 1663.
+
+). Glencore’s motive was indeed “financing”, but UniCredit agreed (and rightly
+so) that motive is not in itself determinative of whether the transactions
+were a sham. As Glencore formulated the point on motive (at [27] above):
+“financing” as a motive does not render the transactions a sham “if there was
+an intention to create legal relations in connection with genuine cargo”.
+
+31 It adds nothing for UniCredit to say (at [28] above) that “[a] financing
+deal, by definition, cannot be a genuine sale and purchase”. That is just
+UniCredit’s own definition of what a genuine sale and purchase is –
+UniCredit’s argument is merely an assumption of the conclusion it wishes to
+reach.
+
+32 A genuine sale and purchase is one that is not a sham. A “financing”
+transaction might or might not be a sham – that depends on whether all parties
+to the transaction (here, Glencore and Hin Leong) had a common subjective
+intention that the transaction documents are not to create the legal rights
+and obligations which they give the appearance of creating. In respect of the
+Sale Contract, those legal rights and obligations would include:
+
+(a) Glencore’s obligation to transfer title to the goods to Hin Leong (and Hin
+Leong’s corresponding right to such transfer of title); and
+
+(b) Hin Leong’s obligation to pay for the goods (and Glencore’s corresponding
+right to such payment).
+
+33 The Sale Contract would not be a sham unless there is evidence of a common
+intention between Glencore and Hin Leong that the purported rights and
+obligations under the Sale Contract are not real rights and obligations.
+
+Whether Glencore and Hin Leong shared a common intention that the purported
+rights and obligations under the Sale Contract were not to be real rights and
+obligations
+
+34 UniCredit has not proven, on the evidence, that Glencore and Hin Leong had
+such a common intention. On the contrary, it appears that the rights and
+obligations under the Sale Contract were real, and indeed the obligations of
+title transfer and payment were performed: Glencore transferred title to the
+goods to Hin Leong, and Hin Leong paid for the goods (by getting UniCredit to
+issue an LC pursuant to which UniCredit paid Glencore).
+
+35 Hin Leong could have resold the goods in various ways. Here, it was a
+simultaneous resale of the goods back to the seller, Glencore. However, Hin
+Leong could also have:
+
+(a) sold the goods to a third party (simultaneously or otherwise); or
+
+(b) sold the goods back to Glencore, but at some later point rather than
+simultaneously.
+
+36 In scenarios (a) and (b) above, the Sale Contract would not be a sham. Hin
+Leong’s decision to sell the goods to a third party would not involve any
+common intention between Hin Leong and Glencore relating to the Sale Contract.
+Nor would any subsequent agreement between Hin Leong and Glencore (for
+Glencore to buy back the goods) retrospectively make the Sale Contract a sham,
+if it was not a sham at the time of contracting.
+
+37 UniCredit’s argument thus reduces to the following: because Hin Leong and
+Glencore agreed on a simultaneous buyback of the goods by Glencore, the Sale
+Contract was a sham. Even so, a simultaneous sale-and-buyback arrangement may
+involve a genuine sale, and a genuine buyback.
+
+38 In Thai Chee Ken and others (Liquidators of Pan-Electric Industries Ltd) v
+Banque Paribas [1992] 1 SLR(R) 280 (HC) at [21], [24] and [26]; [1993] 1
+SLR(R) 871 (CA) at [9], [12] and [36], the High Court and the Court of Appeal
+both concluded that, having regard to the circumstances of the case, there was
+a genuine sale and buyback of shares between Pan Electric (“Pan-El”) and
+Banque Paribas (“BP”) to raise financing for the former. A key fact was that
+Pan-El had given negative pledge covenants to other banks that a secured loan
+would have offended against, making BP’s alternative proposal of a loan on the
+mortgage of the shares untenable. Parties thus explored and entered into a
+bona fide sale and buyback of the shares to avoid affecting the bank’s credit
+or security position; the transactions were not a lending on security
+disguised as a sale and buyback.
+
+39 The structure of the transactions in the present case as a simultaneous
+sale-and-buyback is thus not determinative of whether the Sale Contract was a
+sham (as UniCredit contended it was).
+
+40 UniCredit argues that Glencore did not intend title in the goods to pass to
+Hin Leong under the Sale Contract, for Glencore “did not even care to check
+that contractually, [it] did in fact have title to the Goods that could be
+passed on [Hin Leong] on 2 December 2019 at 0001 as required under the [Sale
+Contract].” 18
+
+##### Foot Note 18
+
+×
+
+UniCredit’s closing submissions, para 245(c).
+
+41 The evidence, however, presents a different picture: Glencore did check
+that it had title to pass to Hin Leong. Glencore purchased the goods from its
+sister company, Glencore Energy UK Ltd (“GENUK”), and a 27 November 2019 email
+19
+
+##### Foot Note 19
+
+×
+
+2AB 1593.
+
+confirmed that title in the goods would pass from GENUK to Glencore at 2359
+hours on 1 December 2019, ie, in time for Glencore to pass title to Hin Leong
+at 0001 hours on 2 December 2019. Glencore’s Mr Pereira said this was “the
+most important email”. 20
+
+##### Foot Note 20
+
+×
+
+Transcript, 24 May 2022, 64:5–21.
+
+42 The contract between GENUK and Glencore also provided for title to pass on
+1 December 2019 at 2359 hours. 21
+
+##### Foot Note 21
+
+×
+
+2AB 1613.
+
+UniCredit however points to the retention of title provision in that contract,
+which provided that “title and risk shall not pass to Buyer until Buyer has
+made and Seller has received payment”. 22
+
+##### Foot Note 22
+
+×
+
+2AB 1614.
+
+Glencore made payment to GENUK by way of internal settlement, 23
+
+##### Foot Note 23
+
+×
+
+Mr van Rooyen’s AEIC at para 58, 1DBAEIC 19.
+
+which Glencore’s Mr van Rooyen explained as follows: “it is settled against an
+intercompany account”; 24
+
+##### Foot Note 24
+
+×
+
+Transcript, 23 May 2022, 30:15–20.
+
+“no money passes hands but there is an internal set-off or debit, credit entry
+in the account of GENUK and the account of [Glencore] as they’re in the same
+group”. 25
+
+##### Foot Note 25
+
+×
+
+Transcript, 23 May 2022, 30:21–25.
+
+43 Even if that payment as between Glencore and GENUK had not been made as of
+2359 hours on 1 December 2019, it was open to GENUK and Glencore to agree that
+title would pass from GENUK to Glencore nevertheless, and the confirmation
+email of 27 November 2019 is to that effect. Indeed, UniCredit appears to
+accept this, when it says that the retention of title provision “was not
+adhered to and ignored”, and “because of the internal trade, the terms would
+not be enforced as between GENUK and [Glencore].” 26
+
+##### Foot Note 26
+
+×
+
+UniCredit’s closing submissions, para 185(a)(vi).
+
+Put another way, the retention of title provision would not stand in the way
+of title passing from GENUK to Glencore if they intended title to pass (and
+they did). GENUK and Glencore wanted title to pass from GENUK to Glencore, so
+that Glencore would not be in breach of the Sale Contract for not having title
+to pass to Hin Leong. Given the confirmation email of 27 November 2019, the
+fact that Glencore’s Mr Pereira did not delve into the contractual terms does
+not advance UniCredit’s case.
+
+44 Far from showing that the transfer of title from Glencore to Hin Leong
+under the Sale Contract was a sham, the GENUK-Glencore correspondence shows
+the contrary: the confirmation email of 27 November 2019 shows that Glencore
+genuinely wanted to have title in time to transfer title to Hin Leong. This is
+not a case where Glencore had not even purchased the goods for which it was
+purportedly passing title to Hin Leong, or where Glencore had only agreed to
+get title from GENUK after the Glencore-Hin Leong transactions had purportedly
+been performed.
+
+45 What UniCredit is left with to demonstrate a common intention between Hin
+Leong and Glencore are the following:
+
+(a) Glencore did not deliver the goods to Hin Leong; and
+
+(b) Glencore did not deliver the BLs to Hin Leong.
+
+46 As far as delivery of the goods is concerned, whether Hin Leong itself
+wished to take delivery would depend on whether Hin Leong resold the goods
+(whether to a third party, or back to Glencore). If Hin Leong resold the
+goods, it might no longer require delivery of the goods to itself; instead, it
+might want the goods delivered directly to its sub-buyer. This does not make
+any obligation of delivery in the Sale Contract a sham obligation. Indeed,
+goods may be resold (possibly more than once) with physical delivery only
+going to the ultimate buyer, as the English Court of Appeal observed in Garnac
+Grain Company Incorporated v HMF Faure & Fairclough Ltd and another [1966] 1
+QB 650 (“Garnac Grain”): see [49]–[56] below. The decision was unsuccessfully
+appealed to the House of Lords on grounds other than those for which I cite
+Garnac Grain in this judgment.
+
+47 As for non-delivery of the shipping documents, in particular, the BLs:
+
+(a) pursuant to the Sale Contract Glencore was to present the BLs, or an LOI,
+to obtain payment, 27
+
+##### Foot Note 27
+
+×
+
+2AB 1795.
+
+and on the terms of the LC UniCredit agreed to make payment on the same basis;
+but
+
+(b) pursuant to the Buyback Contract Hin Leong was likewise to present the
+BLs, or an LOI, to obtain payment. 28
+
+##### Foot Note 28
+
+×
+
+2AB 1868.
+
+48 In the event, both Glencore and Hin Leong obtained payment by way of LOIs,
+without the BLs changing hands. Glencore did not give the BLs to Hin Leong,
+and Hin Leong did not give the BLs back to Glencore. Hin Leong never asked
+Glencore for the BLs, and the BLs simply remained with GENUK: 29
+
+##### Foot Note 29
+
+×
+
+3AB 2436.
+
+evidently, that was fine with both Hin Leong and Glencore.
+
+49 As Glencore had bought back the goods from Hin Leong, it might not have
+expected to have to surrender the BLs to Hin Leong. That does not, however,
+mean that Glencore never had an obligation to surrender the BLs to Hin Leong,
+or that Glencore never had an intention to fulfil such an obligation, if
+circumstances required it. The fact that the parties do not expect an
+obligation to be performed (for reasons other than that obligation not
+existing in the first place) does not make that obligation a sham. Garnac
+Grain is authority for this.
+
+50 Garnac Grain involved a circle of contracts: the same goods were sold by
+Allied to Gersony, by Gersony to Garnac, by Garnac to Faure, and finally by
+Faure back to Allied. The circle might be described as A-B-C-D-A. The trial
+judge decided that the contract between Faure and Allied (ie, D-A in the
+circle) was a sham or fictitious contract. This was however reversed by a
+unanimous decision of the English Court of Appeal.
+
+51 Sellers LJ said (at 668):
+
+In many trades it may be that in the ordinary working of the market where
+goods are sold along a line or string, goods after changing hands will be
+bought back by the original seller and so a circle may be created. That is not
+this case. Here this circle was not fortuitous but was designed by Allied when
+it made the first sale and the reason was to raise finance.
+
+52 Even so, Sellers LJ did not find the Faure-Allied contract to be a sham or
+fictitious. He noted that the trial judge had accepted Faure’s evidence that
+it had a business purpose, and he said (at 673–674), “I do not find the
+evidence sufficient to establish some other agreement between Faure and Allied
+than that which the documents record.” Glencore’s evidence in the present case
+is, similarly, that it had a business purpose for the transactions with Hin
+Leong: the transactions enabled Glencore to obtain cheaper working capital. As
+for Hin Leong’s motive, UniCredit points to Hin Leong’s interim judicial
+managers’ (“IJMs”) statement that “these transactions were not entered into
+for any commercial benefit to [Hin Leong] except for the sole purpose of
+raising liquidity to pay loans that were or were becoming due and payable”. 30
+
+##### Foot Note 30
+
+×
+
+IJMs’ Report at para 162, 4AB 3079.
+
+That is another way of saying that the transactions were of commercial benefit
+to Hin Leong in raising finance. The transactions between Hin Leong and
+Glencore allowed each of them to use their respective bank facilities, to
+their own commercial benefit in terms of financing. In Garnac Grain, Allied’s
+purpose too was “financing”: Allied required the transactions to be financed
+by its customers (at 676), and for their role in the circle the various
+participants would each make a profit on resale.
+
+53 Sellers LJ further observed (at 674):
+
+There may be many cases where the parties do not expect to complete the
+transaction but to trade on differences in the hope that the result will be a
+profit, but if there is an obligation to fulfil the contract according to its
+tenor if circumstances require it, then the contract is enforceable.
+
+54 Danckwerts LJ’s judgment was in similar vein (at 679):
+
+The method of trading which the participants adopted was a series of sales,
+each at an enhanced price, to give the traders a profit. They could, of
+course, have adopted other methods, but they were entitled, if they chose, to
+adopt this method of a series of sales and purchases. No doubt normally it was
+not expected that any delivery of documents would take place until the final
+export sale, but, on the documents, there plainly was a right in the
+respective purchasers to demand delivery of documents.
+
+I do not think these were unreal transactions. There is no real evidence that
+they were other than what they purported to be.
+
+55 Likewise, Diplock LJ said (at 683–684):
+
+No doubt it was contemplated by all parties to all four contracts that if all
+went well those who knew themselves to be intermediate parties, that is, both
+buyers and sellers, would not insist upon handling the shipping documents but
+differences in price would be settled in account. The actual property in the
+goods would never pass to them and the contracts would not be performed
+according to their terms. No doubt Allied and Faure, who knew that the
+contracts formed a circle, contemplated that if all went well no documents
+would be delivered at all and no lard shipped pursuant to any of the
+contracts. But all might not go well …
+
+The mere fact that Allied and Faure expected all to go well, that there would
+in fact be no insolvency and that none of the parties to the circle of
+contracts would insist upon delivery of documents or shipments of the goods
+under their contracts because in the absence of insolvency there would be no
+business reason for doing so, does not affect their legal rights under the
+contracts …
+
+… [T]he [trial] judge meant no more than that the party as respects whom the
+contract is ‘fictitious’ did not contemplate that the contract would be
+performed in accordance with its terms. But, as I have already said, unless
+some question of waiver or estoppel arises the contemplation or expectation or
+intention (unless incorporated in the contract) of the parties or either of
+them as to the way in which it will be performed or left unperformed does not
+affect their legal rights or obligations under it. To affect these it is
+necessary to go further and to show that the parties really made some other
+and different contract between them and agreed that the ostensible contract
+should not give rise to legally enforceable rights or liabilities.
+
+56 To all three Lord Justices, expecting not to have to perform an obligation
+given the circumstances does not make that obligation a sham. The court would
+have to find that the parties had the common subjective intention that there
+was no real obligation, for there to be a sham.
+
+57 I accept Glencore’s evidence that if Hin Leong had required it to surrender
+the original BLs, Glencore would have done so:
+
+(a) Glencore’s Mr Pereira said, if Hin Leong asked for the BLs “I would
+proceed to find them and pass them on.”; 31
+
+##### Foot Note 31
+
+×
+
+Transcript, 24 May 2022, 71:24–72:3.
+
+“I do not know when or why … or if [Hin Leong] would request for the BLs.
+However, if they did, I would have acted on it.” 32
+
+##### Foot Note 32
+
+×
+
+Transcript, 24 May 2022, 71:6–8, 71:24–72:3, 72:25–73:1.
+
+Mr Pereira also said that if the BLs landed on his desk (as BLs sometimes
+did), he would have given them to Hin Leong as was his practice. 33
+
+##### Foot Note 33
+
+×
+
+Transcript, 24 May 2022, 88:18–89:3.
+
+(b) Glencore’s Ms Tan said, “The bills of lading can still be passed through
+the chain, even though it’s a flash title … There’s nothing wrong to send the
+bills of lading through the proper chain … We can still pass it through the
+chain, for it to come back to us.” 34
+
+##### Foot Note 34
+
+×
+
+Transcript, 19 May 2022, 78:6–24.
+
+She added, “If I’m requested by Hin Leong to present the documents through the
+bank, I can do it. And I will oblige”; 35
+
+##### Foot Note 35
+
+×
+
+Transcript, 19 May 2022, 79:21–22.
+
+“… if I am requested by Hin Leong to present the bills of lading, endorse it
+to [UniCredit], I will gladly hand over to the bank.” 36
+
+##### Foot Note 36
+
+×
+
+Transcript, 19 May 2022, 81:9–11.
+
+(c) Glencore’s Mr van Rooyen said that if Glencore received the BLs or if a
+counterparty requested them, Glencore would pass them on. 37
+
+##### Foot Note 37
+
+×
+
+Transcript, 23 May 2022, 71:2–3, 72:11–13, 72:18–21; see also 73:4 and 74:2.
+
+58 In the event, Glencore never received the BLs from GENUK, and Hin Leong
+never asked for them, so Glencore simply never surrendered the BLs to Hin
+Leong. That does not indicate that the purported obligation to surrender the
+BLs was a sham. There was no common subjective intention between Hin Leong and
+Glencore that there was only a sham obligation to surrender the BLs, and the
+obligation was thus not a sham one.
+
+59 Garnac Grain was applied in the local case of Goodwood Associates Pte Ltd v
+Southernpec (Singapore) Shipping Pte Ltd and another suit [2020] SGHC 242
+(“Goodwood”). Goodwood too involved circular transactions. The transactions in
+July 2015 involved the sale of fuel oil from SPPL to Taigu, Taigu to UA, UA to
+BMS, BMS to Digiland, Digiland to Goodwood, and Goodwood to SPPL. The issue
+before the court was whether the contracts whereby Goodwood sold fuel oil to
+SPPL were shams.
+
+60 The court noted first at [44] that circular chains of transactions are not
+ipso facto shams, citing Tower MCashback LLP 1 and another v Revenue and
+Customs Commissioners [2011] 2 AC 457 at [77]. The court went on at [45]–[46]
+to cite Garnac Grain as an example of “a genuine circular chain of four back-
+to-back contracts for the sale and purchase of lard”, quoting from the
+judgments of Danckwerts LJ at 679 and Diplock LJ at 683–684 (see [54]–[55]
+above).
+
+61 At [47], the court drew a distinction between circular trading transactions
+in which no delivery of goods is contemplated and those in which no trading is
+contemplated at all:
+
+In the first scenario, the parties fully intend the legal title in the
+subject-matter commodity to pass through the various parties in the circular
+chain of transactions. The intention to be bound to the various trade
+contracts constituting the circular chain is therefore present. In contrast,
+in the second scenario, the parties do not intend to trade in any commodity at
+all. They do not intend to take legal title in the subject-matter commodity,
+and do not intend the creation of any legal obligation to pay for the trades
+in the subject-matter commodity. The entire circular series of transactions,
+therefore, is nothing more than fiction. …
+
+62 The court thus emphasised at [48] that:
+
+[N]othing in [paragraph 47] should be taken to be an endorsement of circular
+trades in fictitious commodities … [T]here may be nothing uncommercial in
+parties seeking to make arbitrage profits or brokerage fees by exploiting the
+rapid and often capricious ebbs and flows of the commodities market as long as
+they trade in genuine commodities, albeit in a circular fashion. It is an
+entirely different matter if the parties seek to manipulate their reported
+financial performance by purporting to trade in commodities which in fact do
+not exist, or which the parties know are not available for trading eg
+commodities which are legally owned by none of the parties to the trading
+arrangement. According, if any party to a circular trading arrangement has
+such knowledge at the time the relevant trades are entered into, this is …
+prima facie evidence of his knowledge of a sham trading arrangement. [emphasis
+in original]
+
+63 The present case is not one where no trading was contemplated between Hin
+Leong and Glencore. To the extent that no delivery (of documents or goods) was
+contemplated, that does not make the transactions between Hin Leong and
+Glencore a sham (Goodwood at [47]). Nor does the present case involve
+fictitious goods, or goods which the parties knew were not available for
+trading: it involves a real cargo of fuel oil, which Glencore had purchased
+from GENUK and confirmed it had title to, in advance of the stipulated time
+for title to be transferred from Glencore to Hin Leong, and then back to
+Glencore.
+
+64 In Goodwood, the court stated that it would be necessary for Southernpec
+(SPPL and SPSPL – the defendants in the two suits) to prove on the evidence
+that Goodwood knew that its contract with SPPL was part of a scheme involving
+non-existent fuel oil (at [49] read with [15]–[17]). Southernpec failed in
+that regard (at [111]–[114]): on the evidence, there was no basis to conclude
+that Goodwood knew or intended the contracts to be shams (at [111]); Goodwood
+did not know about the whole circle, in particular it did not know about
+UA/Taigu (at [112]); but even if Goodwood knew that its contracts with SPPL
+were part of circular chains of trading transactions, there remained
+insufficient evidence to indicate that Goodwood knew that the fuel oil
+purportedly transacted was in fact non-existent and that therefore the
+circular chain of trading transactions was a sham (at [113]); by the whole of
+its conduct, Goodwood demonstrated that it consistently treated its contracts
+with SPPL as genuine (at [114]).
+
+65 Southernpec’s appeals were dismissed by the Court of Appeal, which was not
+persuaded that the trial judge was wrong, in particular, that the transactions
+were not sham ones.
+
+66 Another local case in which circular transactions were not found to be a
+sham is Crédit Agricole Corporate & Investment Bank, Singapore Branch v PPT
+Energy Trading Co Ltd and another suit [2022] SGHC(I) 1 (“Crédit Agricole”).
+There, a cargo of crude oil was sold by Zenrock to Shandong, Shandong to PPT,
+and PPT to Zenrock. Zenrock had procured an LC in favour of PPT. The LC
+issuing bank sought a declaration that PPT was not entitled to payment under
+the LC for its fraudulent participation in Zenrock’s round-tripping
+arrangements. The court found that at least two of PPT’s representatives were
+aware of the round-tripping nature of the transactions (at [113]–[115] and
+[119]). Nevertheless, the court did not find the circular transactions to be
+shams (at [120]–[121], [123] and [126]):
+
+120 Despite pleas that the round-tripping transactions were not “bona fide
+transactions” or were “paper round-tripping transactions” and the contention
+that these transactions were “sham” in the sense that they were not intended
+to be genuine sale and purchase contracts at the prices set out therein and
+for which letters of credit were provided, I could not see that this was
+sustainable. For a transaction to be “sham”, it is necessary for all the
+parties to that transaction who have a common subjective intention that the
+transaction documents are not to create the legal rights and obligations which
+they give the appearance of creating (Snook v London and West Riding
+Investments Ltd [1967] 2 QB 786 at 802). The motive for a transaction is not
+in itself determinative of whether it is a sham or not. It does not matter
+whether there is an ulterior purpose lying behind the transaction since the
+question is whether the transaction documents do give rise to the rights and
+liabilities set out therein. Whether or not the transaction documents appear
+artificial or uncommercial is neither here nor there. What is required for a
+sham is a finding the parties to the sham were dishonest in creating a
+pretence of a transaction in order to deceive others when there was in reality
+no such transaction.
+
+121 Here, the parties in a chain of sales intended to enter into real sale and
+purchase transactions which, on their face, provided by recap e-mails for all
+the elements which constituted genuine sales, with specific provisions
+relating to the trades including details of the oil to be sold, quality and
+quantity provisions and terms relating to price, delivery, payment, lay time
+and demurrage, applicable law and jurisdiction, assignment, anticorruption
+provisions and trade restrictions. Payment of the price was to be made by
+letter of credit against the provision of the seller’s commercial invoice and
+original bills of lading and other usual shipping documents, in accordance
+with TOTSA’s “General Terms and Conditions for F.O.B. Sales of Crude Oil”
+(“the TOTSA T&Cs”) which were incorporated, save that where the original
+shipping documents were not available by the due date for payment, payment was
+to be made against the seller’s invoice and the seller’s letter of indemnity.
+
+…
+
+123 There was no evidence that any of the traders in the chain did not intend
+property to pass in the Cargo in accordance with the terms of the sale and
+purchase contracts which they concluded. Whether or not the parties to those
+transactions ever expected original shipping documents to be provided (and the
+evidence was that those represented in court did not: see [49] above) is
+nothing to the point. Trading in oil products frequently involves what amounts
+to little more than trading in documents with the product being delivered to
+the ultimate purchaser, with money and documents being exchanged by the
+intervening participants in the chain from original supplier to that ultimate
+purchaser. That does not make the transactions any the less genuine or mean
+that property in the goods does not pass … the round-tripping transactions
+were genuine sales and purchases under which it was intended that the Cargo
+should be sold, title in it should pass and payment should be made. To label
+them as “financing transactions”, “sleeve transactions” or “credit sleeve
+transactions” does not change their character as real transactions whatever
+the underlying purpose of them might be, as long as the intention of the
+parties to them was to effect a sale or purchase as the case might be.
+
+…
+
+126 Whilst each party in the chain appears, under the TOTSA T&Cs, to have been
+entitled contractually to the delivery of the original shipping documents from
+its seller, after presentation of the invoice and letter of indemnity to
+obtain payment, the evidence showed that, as a matter of commercial practice,
+traders in legitimate unquestionable chains did not always insist on this and
+the cargo was delivered to the ultimate receiver without such documents ever
+reaching it (see [49] above). In pre-structured back-to-back transactions this
+appeared nearly always to be the case. Title would pass without any issue,
+whether described as marketable or otherwise, without regard to the original
+shipping documents, which in all probability were never, as in the present
+case, put into circulation beyond the original supplier and its affiliate, as
+appears below.
+
+[emphasis added]
+
+67 The decision in Crédit Agricole affirms several propositions already
+discussed above:
+
+(a) the motive for a transaction is not in itself determinative of whether the
+transaction is a sham or not, and that includes “financing transactions”
+(Crédit Agricole at [120], [123]);
+
+(b) a sham transaction is one where the parties had a common intention to
+create a pretence of a transaction in order to deceive others (Crédit Agricole
+at [120]); and
+
+(c) if the documentation appears genuine, and there is no evidence that the
+parties did not intend the rights and obligations to be real ones, the
+transaction would not be a sham (Crédit Agricole at [121], [123]).
+
+68 Crédit Agricole at [126] also recognises (as did Garnac Grain and Goodwood)
+that if the circumstances are such that the parties do not expect to have to
+perform an obligation (such as the delivery of shipping documents from one
+party to another), that does not mean the obligation is not a real one.
+
+69 I would also mention BWG v BWF [2020] 1 SLR 1296 (“BWG”) which was cited
+(and distinguished) in Goodwood (at [105]–[110]). In BWG, X sold cargo to the
+appellant, the appellant sold the cargo to the respondent, and the respondent
+sold the cargo back to X. The Court of Appeal agreed with the respondent that
+this was in fact a disguised loan arrangement (with the appellant injecting
+funds to kick-start the process for a substantial profit), rather than a
+series of genuine sale and purchase transactions. The transactions in BWG had
+the following questionable features (as noted in Goodwood at [107]):
+
+(a) the appellant could not explain why it was willing to sell a cargo worth
+more than US$30m to the respondent without any security and without any
+history of trading between the parties;
+
+(b) the only indication of the purported delivery of cargo was an email
+“update” from the master, which furthermore stated that the discharging of the
+crude oil had been completed without mentioning the cargo purportedly
+transacted, or the parties to the transaction; and
+
+(c) the notice of readiness tendered was not addressed to the appellant or the
+respondent, but to two other entities whose involvement was not explained.
+
+70 There are no such questionable features in the present case. In particular,
+the Sale Contract and the Buyback Contract were not on credit terms, instead
+payment was to be made by LCs (and those payments were duly made).
+
+71 UniCredit relies on Koon Seng Construction Pte Ltd v Chenab Contractor Pte
+Ltd and another [2008] 1 SLR(R) 375 (“Koon Seng”), where an allotment of
+shares was found to be a sham, but that case too is distinguishable. There,
+700,000 shares in Chenab were purportedly issued to Koon Seng as “fully paid”,
+to raise Chenab’s share capital and thus qualify it for a tender with the Port
+of Singapore Authority (“PSA”). In fact, Koon Seng paid nothing for the
+shares. The accounting documents reflected a loan from Chenab to a director,
+to pay for the shares; but Koon Seng did not have a director on the board of
+Chenab, and such financial assistance would moreover have prima facie been a
+breach of s 76 of the Companies Act (Cap 50, 2006 Rev Ed) carrying penal
+liabilities.
+
+72 Chenab’s counsel said that Koon Seng had “admitted that they are not in a
+real sense, shareholders of the company because the Plaintiffs are only
+entitled to 47% share of the profits of the PSA contract … and not any other
+contracts or profits of the company”; and Koon Seng’s counsel in effect
+confirmed this, saying that Koon Seng did not buy the shares with cash because
+it was not interested in the other contracts of Chenab, rather, Koon Seng’s
+interest was limited to the PSA contract (at [61]). Further, Raj (a majority
+shareholder and director of Chenab) admitted that Chenab had hoodwinked PSA
+into thinking that Chenab had $1.5m in paid-up capital, so as to qualify for a
+tender (at [66]).
+
+73 All these features of Koon Seng are absent from the present case. I reject
+UniCredit’s submission that Glencore’s production of the Sale Contract was
+“merely a paper exercise, akin to the actions of the defendant in Koon Seng.”
+38
+
+##### Foot Note 38
+
+×
+
+UniCredit’s closing submissions, para 245(b).
+
+74 For the above reasons, I find that the Sale Contract was not a sham or
+fictitious transaction (and for completeness, neither was the Buyback
+Contract, or both contracts taken together). It follows that UniCredit’s
+attempt to rescind the LC on this ground fails.
+
+(2) Fraud / deceit
+
+Elements
+
+75 The parties agree on the elements of the tort of deceit, as set out in
+their lead counsel’s statements (as a “point of law not in dispute”):
+
+(a) a representation of fact made by words or conduct; (b) that the
+representation must be made with the intention that it should be acted upon by
+the plaintiff, or by a class of persons which includes the plaintiff; (c) that
+the plaintiff had acted upon the false statement; (d) that the plaintiff
+suffered damage by so doing; and (e) the representation must be made with
+knowledge that it is false (it must be wilfully false, or at least made in the
+absence of any genuine belief that it is false), or made recklessly, without
+caring whether it be true or false. See JTrust Asia Pte Ltd v Group Lease
+Holdings Pte Ltd [2020] 2 SLR 1256 at [138]; Panatron Pte Ltd and anor v Lee
+Cheow Lee and anor [2001] 2 SLR(R) 435 at [13].
+
+76 In presenting its commercial invoice and the LOI to obtain payment under
+the LC, Glencore intended UniCredit to act on the documents by paying on the
+LC, and UniCredit did so. But what representations had Glencore thereby made
+to UniCredit, on which UniCredit could mount a claim in fraud / deceit?
+
+77 I consider the following:
+
+(a) What was represented by Glencore to UniCredit?
+
+(b) Were Glencore’s representations to UniCredit false?
+
+(c) Did Glencore act fraudulently?
+
+(d) Did Glencore intend that UniCredit should act on Glencore’s
+representations?
+
+(e) Did UniCredit act to its detriment on Glencore’s representations?
+
+What was represented by Glencore to UniCredit?
+
+The pleaded representations
+
+78 UniCredit says that on 2 December 2019, Glencore made false (and
+fraudulent) representations to UniCredit, when it presented to UniCredit its
+commercial invoice (addressed to Hin Leong) and the LOI (also addressed to Hin
+Leong).
+
+79 The LOI (which was in the format prescribed by UniCredit in the LC) read as
+follows: 39
+
+##### Foot Note 39
+
+×
+
+3AB 2003; 3AB 2021.
+
+DATE: 02 DECEMBER 2019
+
+FROM: GLENCORE SINGAPORE PTE LTD
+
+TO: HIN LEONG TRADING (PTE) LTD
+
+…
+
+L/C NO.: 901LC900330 DATED 29 NOVEMBER 2019 ISSUED BY UNICREDIT BANK AG,
+SINGAPORE
+
+LETTER OF INDEMNITY
+
+GENTLEMEN,
+
+GLENCORE SINGAPORE PTE LTD HAS NOT RECEIVED TO DATE AND THEREFORE IS UNABLE TO
+DELIVER TO YOU REQUIRED ORIGINAL DOCUMENTS IN CONNECTION WITH THE DELIVERY TO
+YOU PURSUANT TO CONTRACT NO. 90103105/71150341 DATED 27 NOVEMBER 2019 ('THE
+CONTRACT') OF A QUANTITY OF FUEL OIL ('THE PRODUCT') SAID TO BE 148,719.226
+METRIC TONS SHIPPED ON BOARD THE VESSEL M.T. NEW VISION AT KLAIPEDA PURSUANT
+TO BILLS OF LADING DATED 19 & 23 NOVEMBER 2019. THE MISSING DOCUMENTS ARE: 3/3
+ORIGINAL BILLS OF LADING AND ORIGINAL SHIPPING DOCUMENTS AS LISTED IN L/C NO.
+901LC900330 OF UNICREDIT BANK AG, SINGAPORE.
+
+IN CONSIDERATION OF YOUR PAYING THE FULL INVOICE PRICE OF U.S.D. 37,209,550.35
+WITHOUT DELIVERY TO YOU OF THE 3/3 ORIGINAL BILLS OF LADING AND OTHER ORIGINAL
+SHIPPING DOCUMENTS, GLENCORE SINGAPORE PTE LTD HEREBY EXPRESSLY WARRANTS TO
+YOU THAT IT TRANSFERS, HAS TRANSFERRED, OR WILL TRANSFER TO YOU GOOD TITLE TO
+THE OIL, IN ACCORDANCE WITH THE TERMS OF THE CONTRACT, FREE AND CLEAR OF ALL
+SECURITY INTERESTS, LIENS AND ENCUMBRANCES, THAT IT HAD, HAS OR WILL HAVE, AS
+REQUIRED BY THE CONTRACT, THE FULL RIGHT AND AUTHORITY TO TRANSFER SUCH TITLE
+AND TO EFFECT DELIVERY OF THE PRODUCT TO YOU AND THAT YOU SHALL HAVE AND ENJOY
+QUIET POSSESSION OF THE PRODUCT. GLENCORE SINGAPORE PTE LTD HEREBY AGREES TO
+LOCATE AND SURRENDER TO YOU THE 3/3 ORIGINAL BILLS OF LADING AND OTHER
+ORIGINAL SHIPPING DOCUMENTS.
+
+…
+
+THIS LETTER OF INDEMNITY SHALL EXPIRE UPON PRESENTATION TO YOU OF PROPERLY
+ISSUED OR ENDORSED 3/3 ORIGINAL BILLS OF LADING AND ORIGINAL SHIPPING
+DOCUMENTS IN L/C NO. 901LC900330 ISSUED BY UNICREDIT BANK AG, SINGAPORE EXCEPT
+FOR ANY CLAIMS ARISING UNDER THIS LETTER OF INDEMNITY MADE TO GLENCORE
+SINGAPORE PTE LTD PRIOR TO SUCH PRESENTATION.
+
+[bold in original; underlining added for emphasis]
+
+80 UniCredit pleads the two allegedly false representations as:
+
+(a) Glencore had agreed to locate and surrender to Hin Leong the original
+missing shipping documents (including the BLs), as stated in the LOI (the
+“first representation”); and
+
+(b) there was a genuine purchase of the goods by Hin Leong from Glencore (ie,
+the Sale Contract) in accordance with the terms of Glencore’s invoice that was
+being financed by UniCredit’s LC (the “second representation”). 40
+
+##### Foot Note 40
+
+×
+
+SOC, para 44.
+
+81 I have found (at [74]) that the Sale Contract was not a sham or fictitious
+transaction – there was a genuine purchase of the goods by Hin Leong from
+Glencore. Accordingly, any representation to that effect, ie, the second
+representation, would not be a false representation. That leaves the first
+representation.
+
+82 The first representation too was literally true: Glencore had agreed to
+locate and surrender to Hin Leong the original missing shipping documents
+(including the BLs).
+
+83 At face value, both the pleaded representations were not false
+representations, and UniCredit’s claim for fraud / deceit would fail
+accordingly.
+
+84 However, UniCredit says that there is more to the two representations that
+meets the eye; it argues that:
+
+(a) the first representation was that Glencore “not only agreed but also
+intended and would locate and surrender the original BLs to [Hin Leong]”
+[emphasis added]; 41
+
+##### Foot Note 41
+
+×
+
+UniCredit’s closing submissions, para 161.
+
+and
+
+(b) the second representation was not only that there was a genuine purchase
+of the goods, but that there was “a genuine purchase or only a purchase of the
+Goods by Hin Leong from Glencore” [emphasis added]. 42
+
+##### Foot Note 42
+
+×
+
+UniCredit’s closing submissions, heading before para 189; paras 191, 194, 200,
+and 203.
+
+85 I refer to these as the “expanded first representation” and “expanded
+second representation” respectively.
+
+The expanded first representation
+
+(1) Pleading requirements
+
+86 If UniCredit wished to assert that the first representation that Glencore
+had “agreed to locate and surrender” the BLs to Hin Leong (as pleaded) 43
+
+##### Foot Note 43
+
+×
+
+SOC, para 44(a).
+
+meant that Glencore had “not only agreed but also intended and would locate
+and surrender” the BLs (as submitted), UniCredit ought to have pleaded that
+compound meaning. As the Court of Appeal stated in Ernest Ferdinand Perez De
+La Sala v Compañia De Navegación Palomar, SA and others and other appeals
+[2018] 1 SLR 894 at [174]: “where a representation can be interpreted in a
+number of ways, a plaintiff is required to establish (and to plead) the sense
+in which he understood the representation at the time it was made, and it is
+in that sense which it must be established to be false”.
+
+87 Having said that, UniCredit did plead that the first representation was
+false in that Glencore “never had the intention to and/or did not have the
+intention at the material time to and/or knew that it would never surrender”
+the BLs to Hin Leong. It is tolerably clear from this that UniCredit was
+saying that the first representation said something about Glencore’s intention
+to surrender the BLs, or that it would surrender the BLs; the first
+representation did not merely convey the fact of agreement between Glencore
+and Hin Leong. Glencore did not take a pleading objection against the compound
+meaning advanced by UniCredit, but dealt with the expanded first
+representation on the merits, as do I.
+
+(2) Should a representation of intention be implied between promisor (seller)
+and promisee (buyer)?
+
+88 An actionable misrepresentation must be a false statement of existing or
+past fact: Tan Chin Seng and others v Raffles Town Club Pte Ltd [2003] 2
+SLR(R) 307 (“Tan Chin Seng”) at [20]–[21]. There is a distinction between an
+actionable representation and a future promise – an affirmation of the truth
+of a fact is different from a promise to do something in the future (Tan Chin
+Seng at [21]).
+
+89 Here:
+
+(a) The representation that Glencore had agreed with Hin Leong to locate and
+surrender the BLs to Hin Leong was a statement of existing or past fact: that
+there was such an agreement between Glencore and Hin Leong. This
+representation of fact was true.
+
+(b) A representation that Glencore intended to surrender the BLs is a
+statement of existing or past fact: as to Glencore’s present or past
+intentions. The question is whether such a representation had been made.
+
+(c) A representation that Glencore would surrender the BLs is a statement as
+to the future, not a statement of existing or past fact.
+
+90 The issue therefore reduces to this: by representing that Glencore had
+agreed to locate and surrender the BLs, had Glencore also represented that it
+intended to surrender the BLs?
+
+91 Two propositions need to be examined in that regard:
+
+(a) When a promise is made, does the promisor (Glencore) represent to the
+promisee (Hin Leong) that it intends to do what is promised?
+
+(b) If the promisor (Glencore) tells a third party (UniCredit) about the
+promise it had made, does the promisor likewise represent to the third party
+that it intends to do what was promised?
+
+92 As authority for proposition (a) – representation as between promisor and
+promisee – UniCredit cites Uday Mehra v L Capital Asia Advisors and others
+[2022] SGHC 23 (“Uday Mehra”) at [128]–[129], where the court stated:
+
+128 A broken promise gives rise to a viable claim in fraudulent
+misrepresentation only if the representor had no intention of fulfilling the
+promise at the time he made it. This is not an exception to the rule that an
+actionable misrepresentation must be a statement of fact. That is because, in
+truth, it is not the broken promise which is the actionable misrepresentation.
+The actionable misrepresentation is the implicit representation which
+accompanies every promise: that the promisor genuinely intends to honour his
+promise. If the promisor has no such intent, the promise is made fraudulently.
+That is because the implicit representation which accompanies the promise is
+false …
+
+129 … [C]lassifying the alleged representation as a promise rather than a
+statement of fact is not in itself a ground on which to dismiss the
+plaintiff’s claim in fraudulent misrepresentation. All that that means is that
+this claim cannot succeed simply by the plaintiff showing that the LCA Group
+has broken its promise. The plaintiff can nevertheless succeed by proving
+fraud, ie that the LCA Group represented to the plaintiff that it would pay
+him ‘2.5% of the gross profits of Fund II’ with no intention of keeping the
+promise.
+
+[emphasis added]
+
+93 UniCredit also cites the commentary in Clerk & Lindsell on Torts (Michael A
+Jones gen ed) (Sweet & Maxwell, 23rd Ed, 2020) (“Clerk & Lindsell”) at
+[17-11]–[17-12]:
+
+… [A] statement as to the future will often imply a statement as to present
+intention; as Lord Herschell put it, ‘that which is in form a promise may be
+in another aspect a representation’. Thus a promisor generally represents by
+implication that he has at the moment of making the promise the intention of
+fulfilling the obligations that he is undertaking; and if it can be shown that
+no such intention existed in his mind at that moment, he is guilty of a
+misrepresentation. [emphasis added]
+
+94 I make two points before stating my conclusion on this issue.
+
+95 First, there are various types of promises. There are contractual promises,
+and non-contractual promises. Some non-contractual promises are intended to be
+acted upon – such as a promise made to induce the promisee to enter into a
+contract (which was the contention in Uday Mehra – see [81] of the judgment).
+Other non-contractual promises might not be intended to have any legal effect
+– when parting acquaintances promise to “keep in touch”, they generally do not
+expect those pleasantries to be grounds for a claim in fraud. Whether there is
+an implied representation that the promisor intends to do what he promised,
+will depend on the circumstances.
+
+96 My analysis pertains to contractual promises, like that in this case: that
+Glencore would locate and surrender the BLs to Hin Leong. A contractual
+promise is an obligation which the promisor must fulfil, or face the
+consequences of breach of contract. However, the promisor’s fulfilment of that
+contractual obligation might not be required in various circumstances, because
+of supervening illegality, frustration, novation, variation, waiver, and so
+on. If, as Clerk & Lindsell suggests (at [93] above), a promisor generally
+represents by implication that he intends to fulfil the obligations that he is
+undertaking, that intention does not go beyond the subsistence of the
+obligations in question. An implied representation that the promisor intends
+to fulfil his obligations simply means that he intends to do what he had
+promised, if circumstances require it. He does not promise to do what he is no
+longer obliged to, and he does not impliedly represent that he intends to do
+that either.
+
+97 I thus consider that if any representation ought to be implied from a
+contractual promise, it is not that the promisor intends to do what was
+promised in all circumstances, but that the promisor intends to fulfil his
+obligation if circumstances require it.
+
+98 Garnac Grain (discussed at [49]–[56] above) is instructive in this context
+as well. Sellers LJ said that there may be many cases where the parties do not
+expect to complete the transaction but instead to trade on differences;
+Danckwerts LJ said, “normally it was not expected that any delivery of
+documents would take place until the final export sale”; Diplock LJ said, “it
+was contemplated by all parties to all four contracts that if all went well
+those who knew themselves to be intermediate parties, that is, both buyers and
+sellers, would not insist upon handling the shipping documents but differences
+in price would be settled in account. The actual property in the goods would
+never pass to them and the contracts would not be performed according to their
+terms.” (See also Crédit Agricole at [126], cited at [66] above.)
+
+99 In a case like Garnac Grain, it would not be appropriate to imply a
+representation that the parties intended to deliver documents or pass property
+in the goods to intermediate parties in the chain in all circumstances. That
+is not what they intended. This does not however mean that there was no
+“obligation to fulfil the contract according to its tenor if circumstances
+require it” [emphasis added] (as Sellers LJ put it), and on a parity of
+reasoning, the parties could still have intended to do what was contractually
+promised if circumstances require it.
+
+100 Second, the High Court in Uday Mehra expressed the proposition in absolute
+terms, that there is an implicit representation accompanying every promise.
+Clerk & Lindsell, however, does not put the proposition in absolute terms.
+Clerk & Lindsell says a statement as to present intention “will often” be
+implied, and that a promisor “generally” represents by implication that he
+intends to fulfil the obligations undertaken; Lord Herschell is quoted saying
+that a promise “may” be in another aspect a representation. This recognises
+that a promise might carry with it an implied representation, or it might not
+– it will depend on the circumstances.
+
+101 Just as a term cannot be implied into a contract if it goes against the
+actual intentions of the parties (Sembcorp Marine Ltd v PPL Holdings Pte Ltd
+and another and another appeal [2013] 4 SLR 193 at [95]), a representation as
+to intention cannot be implied from a contractual promise if it goes against
+the actual intentions of the parties.
+
+102 Whether a representation should be implied from a contractual promise (and
+if so, what representation) must depend on the circumstances. Diplock LJ held
+that “the contemplation or expectation or intention … of the parties or either
+of them as to the way in which it will be performed or left unperformed” does
+not affect their legal rights and obligations. In a similar vein, what the
+parties contemplated, expected, or intended, will inform what representations
+(if any) as to their intentions should be implied from the contractual
+promises they made.
+
+103 It has been observed that if a promisee “sues upon what is in truth a
+promise, he must show that this promise forms part of a valid contract.”:
+Andrew Phang Boon Leong, Law of Contract (Second Singapore and Malaysian
+Edition) (Butterworths Asia, 1998), cited with approval in Tan Chin Seng at
+[21]. Where the promise is part of a valid contract, that contract would
+govern the parties’ rights and obligations in relation to that contractual
+promise. That promise may be fulfilled, it may be breached, or the obligation
+to perform may be discharged or waived. To overlay the contractual framework
+with implied representations as to intention (which may afford a claim for
+fraud) has implications (for want of a better word).
+
+104 The promisee might recover in fraudulent misrepresentation what he might
+not have in contract – for instance, because of the expiry of a time-bar for
+contractual claims, contractual defences, or the contractual measure of
+damages. Adding a potential fraud claim to a contractual framework would not
+be appropriate where the parties had dealt with each other based on the
+contract between them, and not based on their respective intentions as to
+whether to perform that contract. Indeed, they may have carefully prescribed
+the consequences of potential breaches of contract, not expecting a fraud
+claim to also subsist alongside.
+
+105 As between Glencore and Hin Leong, I would not imply any representation
+that Glencore intended to surrender the BLs to Hin Leong in all circumstances
+– that would go against what the parties contemplated, expected, or intended
+to happen (borrowing the phrase of Diplock LJ’s from Garnac Grain at 683–684).
+At most, what might be implied – as between Glencore and Hin Leong – is a
+representation that Glencore intended to fulfil its contractual obligation to
+surrender the BLs to Hin Leong if circumstances required it.
+
+106 In the present case, Hin Leong sold the goods back to Glencore based on a
+simultaneous transfer of title from Glencore to Hin Leong, and back to
+Glencore. Glencore assumed a contractual obligation to give the BLs to Hin
+Leong, but Hin Leong assumed a corresponding obligation to give the BLs back
+to Glencore. With the sale-and-buyback arrangement, Hin Leong and Glencore did
+not expect Glencore to have to give Hin Leong the BLs, only for Hin Leong to
+give them back to Glencore. Hin Leong never asked Glencore for the BLs. Did
+the circumstances require that Glencore give the BLs to Hin Leong? No.
+
+(3) Should a representation of intention be implied as between seller
+(beneficiary) and issuing bank?
+
+107 UniCredit is one step away from the Sale Contract between Glencore and Hin
+Leong. What representation (if any) might be implied as between Glencore and
+Hin Leong would depend on the context between them, but that was a context
+that UniCredit was not party or privy to. Indeed, it is well-settled that an
+issuing bank like UniCredit deals in documents, and not the underlying
+contract between Glencore and Hin Leong, ie, the Sale Contract. That is
+enshrined in Articles 4a and 5 of UCP 600 which applies to the LC: 44
+
+##### Foot Note 44
+
+×
+
+2DBAEIC 1359.
+
+Article 4 Credits v. Contracts
+
+a. A credit by its nature is a separate transaction from the sale or other
+contract on which it may be based. Banks are in no way concerned with or bound
+by such contract, even if any reference whatsoever to it is included in the
+credit. Consequently, the undertaking of a bank to honour, to negotiate or to
+fulfil any other obligation under the credit is not subject to claims or
+defences by the applicant resulting from its relationships with the issuing
+bank or the beneficiary.
+
+A beneficiary can in no case avail itself of the contractual relationships
+existing between banks or between the applicant and the issuing bank.
+
+…
+
+Article 5 Documents v. Goods, Services or Performance
+
+Banks deal with documents and not with goods, services or performance to which
+the documents may relate.
+
+108 It is quite inconsistent for a bank dealing in documents, that is “in no
+way concerned with or bound by [the underlying] contract” (Article 4a), to be
+concerned with the seller’s intentions in relation to the underlying contract.
+Indeed, it is well settled that a bank must pay on an LC even if “the bank has
+knowledge that the seller at the time of presentation of the conforming
+documents … is alleged by the buyer to have, and in fact has already,
+committed a breach of his contract with the buyer for the sale of the goods …
+that would have entitled the buyer to treat the contract of sale as rescinded
+and to reject the goods and refuse to pay the seller the purchase price.”
+(United City Merchants (Investments) Ltd and others v Royal Bank of Canada and
+others [1982] 2 All ER 720 (“UCM”) at 725.)
+
+109 The Court of Appeal put it thus in Beam Technology (Mfg) Pte Ltd v
+Standard Chartered Bank [2003] 1 SLR(R) 597 (“Beam”) at [13]:
+
+The banker is only concerned with documents and what the credit requires them
+to be, not with goods or the contract which requires them to be paid for. If
+he does what he is told, he is safe; if he departs from the terms and
+conditions of the credit, he acts at his own risk. He is not obliged to go
+behind the documents and to consider whether the terms of the underlying
+contract conforms to the terms of the LC or whether they have been or will be
+performed … [emphasis added]
+
+110 If an issuing bank is not concerned with the underlying contract, and not
+obliged to consider whether the terms of the underlying contract “will be
+performed”, it should not matter to the bank what the seller’s intentions are
+in relation to that contract, on matters such as delivery of documents or
+goods to the buyer.
+
+111 The fraud exception still allows an issuing bank to refuse payment if the
+seller “fraudulently presents … documents that contain, expressly or by
+implication, material representations of fact that to his knowledge are
+untrue.” (UCM at 725; see also Beam at [22]). A seller cannot fraudulently
+present documents describing a shipment as bristles (which he had contracted
+to sell) when in fact he has shipped cowhair, other worthless material and
+rubbish: Sztejn v Schroder Banking Corp (1941) 31 NYS 2d 631. A seller cannot
+represent that all the goods contracted for were delivered on a particular
+date, if he knows that a vast majority of the goods were delivered on three
+other dates: DBS Bank Ltd v Carrier Singapore (Pte) Ltd [2008] 3 SLR(R) 261.
+
+112 In the present case, however, there was no such fraud by Glencore.
+Glencore’s representation that it had agreed to locate and surrender the BLs
+to Hin Leong was true: Glencore had agreed to do so. That representation was
+made in language prescribed by UniCredit in the LC. That is the only
+representation which I find Glencore made to UniCredit in that regard;
+Glencore did not impliedly represent to UniCredit anything about Glencore’s
+intentions regarding the Sale Contract between Glencore and Hin Leong.
+
+113 Those intentions were irrelevant to UniCredit’s obligation to pay Glencore
+if the documents presented conformed with the LC (and they did). UniCredit
+paid because the documents complied with the LC, not because UniCredit relied
+on Glencore’s intentions regarding the Sale Contract.
+
+114 I thus find that the expanded first representation was never made by
+Glencore to UniCredit.
+
+The expanded second representation
+
+(1) Pleading requirements
+
+115 The expanded second representation was a shift by UniCredit away from its
+pleaded case. What UniCredit pleaded was a representation that there was a
+genuine purchase of the goods by Hin Leong from Glencore. 45
+
+##### Foot Note 45
+
+×
+
+SOC, para 44(b).
+
+What UniCredit submitted, however, was that there was “a genuine purchase or
+only a purchase of the Goods by Hin Leong from Glencore” [emphasis added]. 46
+
+##### Foot Note 46
+
+×
+
+UniCredit’s closing submissions, heading before para 189; paras 191, 194, 200,
+and 203.
+
+116 That is not a minor refinement – it is a brand-new allegation of fraud.
+UniCredit first alluded to this in its Opening Statement at para 21(d) where
+it said that Glencore’s representation in the LOI and invoice about its sale
+to Hin Leong was a half-truth, for Glencore knew by then that it had already
+bought back the goods (and it did not tell UniCredit this). However, UniCredit
+never sought to amend its pleadings, and so the pleaded allegation remains:
+Glencore represented that there was a genuine purchase of the goods by Hin
+Leong from Glencore, not that Glencore represented that there was a genuine
+purchase or only a purchase of the goods by Hin Leong from Glencore.
+
+117 I accept Glencore’s submission 47
+
+##### Foot Note 47
+
+×
+
+Glencore’s closing submissions, paras 271–273.
+
+that UniCredit should not be permitted to pursue an unpleaded fraud case. In
+any event, the new fraud case would have failed on the merits, as I explain
+below.
+
+(2) Did Glencore represent that there was only a purchase of the goods by Hin
+Leong from Glencore, ie, that Hin Leong had not sold the goods?
+
+118 The shift to the half-truth case is significant, for it introduces an
+alternative to Glencore’s pleaded case that the Sale Contract was a sham or
+fictitious transaction. The half-truth case implicitly accepts that the “half
+of the truth” which Glencore told UniCredit was true: Hin Leong had purchased
+the goods from Glencore on a Sale Contract that was not a sham or fictitious
+transaction. UniCredit’s pleaded case though, was and is that the “half of the
+truth” was not true to begin with: ie, there was no genuine purchase of the
+goods by Hin Leong, and the Sale Contract was a sham or fictious transaction.
+
+119 With UniCredit shifting from “sham” to “half-truth”, the complaint
+becomes: Hin Leong had truly purchased the goods from Glencore, ie, the Sale
+Contract was not a sham or fictitious transaction; but this was a half-truth
+(and thus misleading) because Glencore did not tell UniCredit about the
+BuybackContract, another transaction that was also not a sham or fictitious
+transaction.
+
+120 The question thus becomes (as UniCredit expresses it): by only telling
+UniCredit about the Sale Contract, was Glencore representing that Hin Leong
+had not sold the goods?
+
+(A) What the LC expected of Glencore
+
+121 I start with the LC. The LC had everything to do with Hin Leong’s purchase
+of the goods by the Sale Contract, and nothing to do with any sale of the
+goods by Hin Leong (whether by the Buyback Contract, or by some other
+contract).
+
+122 The LC only referred to one transaction involving the goods, namely, the
+Sale Contract. Thus, the LC stated the amount of credit available to Glencore
+for Hin Leong’s purchase of the goods under the Sale Contract, the goods that
+Hin Leong was purchasing under the Sale Contract, the shipping terms under the
+Sale Contract (CFR Singapore via MT “New Vision” or substitute), and the unit
+price of the goods under the Sale Contract. 48
+
+##### Foot Note 48
+
+×
+
+3AB 1925–1926.
+
+123 Whether Glencore presented the full set of documents under the LC, or an
+LOI in place of some of them, it would have to present its commercial invoice
+for Hin Leong’s purchase of the goods under the Sale Contract. Glencore was
+not asked to provide any invoices Hin Leong might issue for any sale of the
+goods by Hin Leong.
+
+124 The prescribed format of the LOI likewise said nothing about any sale of
+the goods by Hin Leong, it only referred to Hin Leong’s purchase of the goods
+by the Sale Contract. The prescribed format thus referenced the Sale Contract,
+the invoice price under Glencore’s commercial invoice in respect of the Sale
+Contract, Glencore’s transfer of title to the goods to Hin Leong under the
+Sale Contract, and so on. 49
+
+##### Foot Note 49
+
+×
+
+3AB 1927.
+
+125 The LC thus did not require Glencore to tell UniCredit anything about any
+sale of the goods by Hin Leong (whether a sale back to Glencore, or a sale to
+a third party). In presenting to UniCredit its commercial invoice and the LOI,
+Glencore simply did what the LC called for.
+
+126 If UniCredit had wanted Glencore to tell it about any sale of the goods by
+Hin Leong, it could have made that a requirement of the LC, but UniCredit did
+not do so. Given that the LC only asked about the Sale Contract, it should not
+have been surprising to UniCredit that Glencore would only mention the Sale
+Contract.
+
+127 Moreover, as I observed above at [107]–[110], UniCredit in paying on the
+LC was only concerned with documents, “not with goods or the contract which
+requires them to be paid for” [emphasis added] (Beam at [13], quoted above at
+[109]). It follows that in that context UniCredit was not concerned with its
+customer’s subsequent dealings with the goods either. This may have been
+material to UniCredit in relation to obtaining reimbursement from Hin Leong,
+but that is separate from the matter of UniCredit paying Glencore on the LC.
+
+(B) What the facility agreement expected of Hin Leong
+
+128 I now look at the situation as between UniCredit and Hin Leong. The
+facility agreement dated 22 November 2019 between UniCredit and Hin Leong 50
+
+##### Foot Note 50
+
+×
+
+2AB 1180.
+
+had Specific Conditions 51
+
+##### Foot Note 51
+
+×
+
+2AB 1208.
+
+that allowed the facilities to be used for pre-sold goods, as well as unsold
+goods. Goods were pre-sold if Hin Leong had sold them, otherwise they were
+unsold.
+
+129 For pre-sold goods, the Specific Conditions stipulated in relation to
+repayment, that “[w]here the Commodities are sold on open account the off-
+taker is to be acceptable to the Bank and payment is to be made directly to
+the Borrower’s account held with the Bank”. If, however, Hin Leong’s sale of
+the goods was not on an open account basis, but against an export letter of
+credit, there was no stipulation that the off-taker (Hin Leong’s sub-buyer,
+here Glencore) had to be acceptable to UniCredit; what was stipulated instead,
+was that the export letter of credit was to be acceptable to UniCredit. In the
+present case, Glencore financed the Buyback Contract by an LC from Banco
+Bilbao Vizcaya Argentaria (“BBVA”), and so if Hin Leong had told UniCredit
+that the goods were pre-sold (to Glencore), there was no necessity for
+Glencore to be an acceptable off-taker in the eyes of UniCredit; instead, the
+BBVA LC would have to be acceptable to UniCredit. 52
+
+##### Foot Note 52
+
+×
+
+3AB 1961.
+
+130 For unsold goods, on the other hand, all that was stipulated in relation
+to repayment was: “[t]he Letter of Credit shall be refinanced by an Import
+Loan or repaid by other means as agreed by and acceptable to the Bank” and
+“[t]he collateral will not be released whilst the goods remain unsold and
+there remains any amount outstanding”. The collateral was: “[f]ull set of
+bills of lading issued or endorsed to the order of the Bank or in negotiable
+form or other title documentation acceptable to the Bank.”
+
+131 If the goods were unsold while Hin Leong was applying for the LC, but were
+then sold by Hin Leong after the LC was issued, the Specific Conditions did
+not require Hin Leong to obtain UniCredit’s consent to that sale. Instead:
+UniCredit would look to the BLs as collateral; with the LC to be refinanced by
+an import loan or repaid by other means as agreed by and acceptable to
+UniCredit. In the present case, UniCredit expected Hin Leong to make repayment
+from the proceeds of sale of the goods (see [167] below). The problem for
+UniCredit was that Hin Leong kept telling UniCredit that the goods remained
+unsold. As I noted above (at [10]), while applying for the LC, Hin Leong
+represented to UniCredit that the goods were unsold, when it had already
+entered into the Buyback Contract and so the goods were in fact pre-sold. As
+late as 28 February 2020, and into early March 2020, Hin Leong still
+maintained that the goods were unsold, when queried by UniCredit (see [17]
+above, and [167] below). Hin Leong misrepresented the position to UniCredit,
+but it does not follow that Glencore thereby did so too.
+
+132 Because of Hin Leong’s misrepresentation whilst applying for the LC, I
+accept that UniCredit issued the LC believing that the goods were unsold at
+that point in time.
+
+133 However, this was only UniCredit’s belief as to the state of the goods at
+the time of the LC’s issuance. Even if the goods were truly unsold (ie, there
+was just the Sale Contract, and no Buyback Contract) when the LC was issued,
+Hin Leong might still have sold the goods thereafter, between the time the LC
+was issued on 29 November 2019 and the time Glencore sought payment on 2
+December 2019. Thus, where UniCredit issued an LC for unsold goods, UniCredit
+would know that before payment was sought under the LC, those goods may well
+have been sold. Indeed, after issuing the LC on 29 November 2019, it was only
+on 28 February 2020 (the date of expiry of the LC), that UniCredit asked Hin
+Leong whether the goods had been sold (see [17] above). That query itself
+shows that UniCredit knew it was possible that Hin Leong had sold the goods in
+the interim.
+
+134 Accordingly, I do not accept that UniCredit still believed that the goods
+remained unsold up to the time Glencore sought payment on 2 December 2019;
+UniCredit would have known that Hin Leong might have sold the goods. As
+between UniCredit and Glencore, it is the time of payment and not the time of
+issuance that matters: UniCredit attributes the expanded second representation
+to Glencore’s invoice, which it presented to obtain payment, after the LC had
+been issued.
+
+135 If, prior to Glencore seeking payment on 2 December 2019, UniCredit did
+believe that the goods remained unsold, that would be based on what Hin Leong
+had said (coupled with UniCredit itself thinking that Hin Leong had not sold
+the goods in the interim) – it would not be based on any representation by
+Glencore, for the only representations UniCredit attributes to Glencore are in
+relation to Glencore’s presentation of its commercial invoice and the LOI on 2
+December 2019.
+
+136 To elaborate, before Glencore thus entered the picture:
+
+(a) Hin Leong might have misrepresented to UniCredit (while applying for the
+LC) that the goods were unsold – this is what happened; or
+
+(b) Hin Leong might have told UniCredit the truth that the goods were pre-
+sold, ie, Hin Leong might have told UniCredit about the Buyback Contract.
+
+137 In scenario (b) above, if Glencore proceeded to present its commercial
+invoice and LOI to UniCredit as it did, UniCredit would not have viewed that
+as a representation by Glencore that there was no Buyback Contract. UniCredit
+would have been told by Hin Leong that there was a Buyback Contract, and it
+would not consider that Glencore was contradicting that, just because Glencore
+did not mention the Buyback Contract. Indeed, UniCredit never expected
+Glencore to inform it as to whether Hin Leong had sold the goods: if UniCredit
+were expecting to hear about that from anyone, it was Hin Leong, not Glencore.
+
+138 Scenario (a) above does not change the nature of what Glencore represented
+to UniCredit. Whether or not Hin Leong misrepresented to UniCredit that the
+goods were unsold, Glencore would not have acted any differently. Glencore had
+no reason to believe that Hin Leong would lie to its bank, UniCredit. In any
+event, Glencore was entitled to regard the communications between Hin Leong
+and UniCredit as a matter between the two of them, it was not something that
+Glencore had to be concerned with.
+
+139 Glencore simply presented documents as stipulated in the LC, to obtain
+payment. Glencore thereby represented to UniCredit that it had sold the goods
+to Hin Leong on the terms of the Sale Contract (which was true), and that it
+had agreed to locate and surrender the BLs to Hin Leong (which was also true).
+
+140 UniCredit’s half-truth case seeks to fault Glencore for not doing more;
+for not telling UniCredit what it knew of Hin Leong’s sale of the goods. But
+Glencore was under no obligation to do so: the LC did not require Glencore to
+do so; and Glencore was not otherwise under an obligation to do so. If the
+complaint shifts from misrepresentation to non-disclosure, the non-disclosure
+case fails. Given that UniCredit was only expecting to hear from Glencore
+about the Sale Contract (and not about Hin Leong’s subsequent dealings with
+the goods), UniCredit would not have viewed Glencore’s LOI and invoice as
+saying anything about whether Hin Leong had sold the goods (back to Glencore,
+or to another party).
+
+(C) Whether Glencore told a half-truth
+
+141 What Glencore said about the Sale Contract was not false by reason of
+Glencore not also telling UniCredit that Hin Leong had sold the goods. A
+“half-truth” is a “partial and fragmentary statement of fact” where “the
+withholding of that which is not stated makes that which is stated absolutely
+false”: Aldabe Fermin v Standard Chartered Bank [2010] 3 SLR 722 at [125],
+citing Peek v Gurney (1873) LR 6 HL 377 at 403. What amounts to a half-truth
+is a “highly fact-sensitive” inquiry: Clerk & Lindsell at [17-07]. Here, the
+LC required Glencore to provide information and documents about the Sale
+Contract, and Glencore duly did so, truthfully. Not mentioning the Buyback
+Contract did not make any aspect of what Glencore said about the Sale Contract
+false.
+
+142 As articulated in UniCredit’s closing submissions, Glencore would be a
+fraudster if it knew of any sale of the goods by Hin Leong, and did not tell
+that to UniCredit. UniCredit’s argument was that by only telling UniCredit
+about the Sale Contract, Glencore was representing (falsely) that Hin Leong
+had not sold the goods. This would cover various scenarios:
+
+(a) a simultaneous buyback of the goods by Glencore (as with the Buyback
+Contract);
+
+(b) a subsequent buyback of the goods by Glencore;
+
+(c) a sale of the goods by Hin Leong to the original seller, GENUK (who had
+sold the goods to Glencore);
+
+(d) a sale of the goods by Hin Leong to another party (not Glencore or GENUK).
+
+143 In oral submissions, UniCredit’s counsel narrowed the scope of that
+argument, seeking to limit it to a buyback of the goods by Glencore, whether
+simultaneous or subsequent, ie, scenarios (a) and (b) above. 53
+
+##### Foot Note 53
+
+×
+
+Transcript, 25 July 2022, pages 158–166.
+
+That however undermines the submission in UniCredit’s written closing
+submissions, that by presenting its commercial invoice and the LOI (which only
+mentioned the Sale Contract), Glencore told a half-truth, namely, representing
+that there was only a purchase of the goods by Hin Leong from Glencore. 54
+
+##### Foot Note 54
+
+×
+
+UniCredit’s closing submissions, para 200(a).
+
+144 As explained in oral submissions, UniCredit considered it unobjectionable
+if, when it presented the LOI, Glencore knew that Hin Leong had already sold
+the goods to GENUK or to another party, and did not tell UniCredit about this.
+UniCredit would not regard it as a half-truth for Glencore not to volunteer
+information about Hin Leong’s sales to others; but UniCredit maintains it was
+a half-truth for Glencore not to tell UniCredit that Glencore itself had
+bought back the goods.
+
+145 It is noteworthy that UniCredit did not consider it objectionable for
+Glencore not to mention a sale by Hin Leong of the goods back to GENUK
+(although that would complete a circle of transactions, GENUK-Glencore-Hin
+Leong-GENUK). GENUK was the party holding the BLs, and with the closing of the
+circle GENUK would contractually be entitled to get the BLs back if it parted
+with them to Glencore, and Glencore in turn to Hin Leong.
+
+146 The core complaint UniCredit clings to, is that Glencore represented that
+it intended to surrender the BLs to Hin Leong, when there was no such
+intention. Why would that complaint not apply equally to a circular
+transaction back to GENUK which held the BLs? As Diplock LJ noted in Garnac
+Grain at 683–684, those who know that the contracts form a circle (and in this
+scenario, Glencore would know) “contemplated that if all went well no
+documents would be delivered at all and no [goods] shipped pursuant to any of
+the contracts”, ie, the BLs would just stay with GENUK, and so would the
+goods.
+
+147 Indeed, the sale and buyback arrangement between Glencore and Hin Leong is
+just another form of circular transaction; the “circle” simply involves only
+two parties. It does not make sense that UniCredit would consider a GENUK-
+Glencore-Hin Leong-GENUK circle unobjectionable, but regard a Glencore-Hin
+Leong-Glencore one as a sham or fictitious, involving fraud being perpetrated
+by Glencore on UniCredit.
+
+148 Likewise, if Hin Leong had sold the goods to another party (not GENUK or
+Glencore), Hin Leong might simply have asked that the BLs be delivered
+directly to that party, bypassing Hin Leong. As Danckwerts LJ observed in
+Garnac Grain at 679, “normally it was not expected that any delivery of
+documents would take place until the final export sale [to a party outside the
+circle]”. Indeed, the goods might even be delivered to the ultimate purchaser
+without the BLs ever reaching it. The court in Crédit Agricole found at [126]
+that:
+
+Whilst each party in the chain appears … to have been entitled contractually
+to the delivery of the original shipping documents from its seller, after
+presentation of the invoice and letter of indemnity to obtain payment, the
+evidence showed that, as a matter of commercial practice, traders in
+legitimate unquestionable chains did not always insist on this and the cargo
+was delivered to the ultimate receiver without such documents ever reaching
+it.
+
+149 By the end of oral submissions, UniCredit did not have a half-truth case
+anymore. 55
+
+##### Foot Note 55
+
+×
+
+Transcript, 25 July 2022, pages 165–166.
+
+It had reverted to its contention that Glencore represented that it had an
+intention to surrender the BLs to Hin Leong, when Glencore had no such
+intention. I have already rejected that contention in the preceding section,
+at [86]–[114].
+
+150 In presenting its commercial invoice and the LOI to UniCredit, Glencore
+represented that Hin Leong had purchased the goods from it on the terms of the
+Sale Contract, and that Glencore had agreed to surrender the BLs to Hin Leong.
+Glencore did not represent that Hin Leong had not sold the goods; Glencore did
+not represent that it had not bought back the goods. There was no expanded
+second representation.
+
+Were Glencore’s representations to UniCredit false?
+
+151 What I have said above is sufficient to dispose of UniCredit’s claim in
+fraud / deceit. For completeness, these are my views on the other elements of
+the claim.
+
+152 I have already found above (at [80]–[83]) that Glencore only made truthful
+representations to UniCredit:
+
+(a) Glencore had agreed to locate and surrender to Hin Leong the original
+missing shipping documents (including the BLs), as stated in the LOI (the
+first representation); and
+
+(b) there was a genuine purchase of the goods by Hin Leong from Glencore (ie,
+the Sale Contract) in accordance with the terms of Glencore’s invoice that was
+being financed by UniCredit’s LC (the second representation). 56
+
+##### Foot Note 56
+
+×
+
+SOC, para 44.
+
+153 If the expanded first representation had been made, it would only have
+been to the extent that Glencore intended to surrender the BLs if
+circumstances require it (see [105]–[106] above). That too was true.
+
+154 I have accepted the evidence of Glencore’s witnesses (at [57] above) that
+Glencore did intend to surrender the BLs to Hin Leong if circumstances require
+it: it might not have expected to have to do so, but if Hin Leong asked for
+the BLs Glencore would have located and surrendered them. So too, if Glencore
+came into possession of the BLs it would have surrendered them to Hin Leong.
+
+155 I cannot infer from the fact of Glencore never giving the BLs to Hin
+Leong, a lack of a genuine intention on Glencore’s part ever to do so. It was
+open to Glencore and Hin Leong as the contracting parties to vary the
+contractual obligations between them. Further, as between Glencore and Hin
+Leong, Glencore’s obligation to surrender the BLs to Hin Leong was an
+obligation for Hin Leong’s benefit; as such it was an obligation which Hin
+Leong could waive performance of. Further, in this regard:
+
+(a) Hin Leong never asked for the BLs;
+
+(b) Hin Leong had resold the goods back to Glencore and title had been
+transferred back to Glencore; and
+
+(c) if Glencore gave the BLs to Hin Leong, Hin Leong would have had to give
+them back to Glencore pursuant to the Buyback Contract.
+
+156 By their conduct, Hin Leong and Glencore varied their contractual
+obligations such that Glencore did not have to give the BLs to Hin Leong, and
+Hin Leong did not have to give them back to Glencore. At the very least, Hin
+Leong waived its right to get the BLs from Glencore. Fulfilment of Glencore’s
+obligation to give the BLs to Hin Leong was thus, in the circumstances, not
+required.
+
+157 In this context, the position taken by Hin Leong’s IJMs is noteworthy.
+UniCredit’s lawyers had corresponded with the IJMs’ lawyers with a view to
+getting the IJMs to demand the BLs from Glencore. 57
+
+##### Foot Note 57
+
+×
+
+4AB 2712. (See also 4AB 2903.)
+
+The IJMs’ lawyers replied to say that the IJMs would not be doing so. They
+explained: 58
+
+##### Foot Note 58
+
+×
+
+4AB 3143.
+
+As this was a buy-and-sellback transaction, and Hin Leong did sell the HSFO
+back to Glencore (and the title to the HSFO transferred to Glencore thereon),
+Hin Leong had a corresponding obligation to redeliver the Glencore Transaction
+BLs. The IJMs have ascertained that Hin Leong presented a letter of indemnity
+to Glencore’s bank in respect of the sale of the HSFO wherein Hin Leong agreed
+to surrender the Glencore Transaction BLs to Glencore. Thus, the IJMs are not
+in a position to procure Hin Leong to make a demand for the Glencore
+Transaction BLs from Glencore.
+
+158 Hin Leong’s IJMs correctly recognised that while Glencore had a
+contractual obligation to deliver the BLs to Hin Leong, Hin Leong had a
+corresponding obligation to redeliver them back to Glencore. Indeed, if Hin
+Leong were to obtain the BLs and give them to UniCredit, Hin Leong would run
+the risk of breaching its obligation to give the BLs back to Glencore (in the
+event of UniCredit refusing to part with the BLs). In the event, Hin Leong
+never sought to obtain the BLs from Glencore.
+
+159 As the court in Uday Mehra recognised (see [92] above), a plaintiff
+claiming in fraudulent misrepresentation cannot succeed simply by showing that
+a promise has been broken; he must prove that when the promise was made, there
+was no intention to honour it.
+
+160 That point is illustrated by Trafigura Beheer BV v Kookmin Bank Co [2005]
+EWHC 2350 (Comm) (“Trafigura”). The seller (Trafigura) too had presented an
+LOI to obtain payment on an LC (issued by Kookmin). In the LOI issued to the
+buyer (Huron), Trafigura stated that it was then unable to provide the
+original BLs, but that it agreed to “make all reasonable efforts to locate and
+surrender … as soon as possible, the full set of 3 [BLs] (or 2/3 [BLs] and
+Masters receipt for 1/3 of the original [BLs])”. When it presented the LOI,
+Trafigura did not have compliant BLs to present for payment, it had non-
+compliant ones. Subsequently Trafigura obtained compliant BLs, but it gave
+Kookmin 2 BLs and a Masters receipt in place of the third BL. Kookmin
+complained about not receiving all 3 original BLs – in parallel proceedings
+before the South Korean courts, it asserted that Trafigura acted fraudulently
+as it “received payment for the shipment with no intention to forward the
+remaining original bill of lading” (at [13(ii)]). Before the English court,
+Trafigura sought a declaration that it “did not undertake or represent that it
+would (or intended to) provide all the Bills of Lading to the Defendant” (at
+[16]).
+
+161 The court noted that the basis of Kookmin’s allegation “appear[ed] to rest
+at the point when payment was obtained by Trafigura with the intention of not
+sending the original Bills of Lading to Kookmin rather than on the subsequent
+failure to send them, and on a fraudulent intention at the time of obtaining
+such payment” (at [14]). The court found that there was no viable claim
+against Trafigura for fraudulent misrepresentation. Under the LC, Trafigura
+was entitled to present the LOI to obtain payment when conforming BLs were
+unavailable (at [25]). As such, in presenting the LOI, it was not thereby
+representing that it had no BLs whatsoever – it could be that it did not have
+3 sets of conforming BLs (as was the case). The fact that Trafigura did not
+eventually provide 3 BLs, but only 2 plus a Masters receipt in place of the
+third, did not support a conclusion that when Trafigura presented the LOI, it
+had no genuine intention to provide 3 BLs.
+
+162 I have similarly found that Glencore intended to surrender the BLs to Hin
+Leong if circumstances required it. Accordingly, I reject what UniCredit
+alleged in para 47 of the SOC, that “[Glencore] never had the intention to
+and/or did not have the intention at the material time to and/or knew that it
+would never surrender the original Missing Shipping Documents (including the
+original BLs) to [Hin Leong] as represented in the LOI”.
+
+Did Glencore act fraudulently?
+
+163 I do not accept that Glencore acted fraudulently. Having considered the
+written and oral evidence of Glencore’s representatives, I do not accept that
+they knowingly or recklessly made false statements to UniCredit. I do not
+accept that Glencore intended to cheat or defraud UniCredit.
+
+164 I highlight that on 31 May 2018, Glencore’s Mr van Rooyen informed
+UniCredit’s Mr Patrick Welch by email that Glencore engaged in “sale and buy
+back” repo financing transactions “for working capital optimisation”. 59
+
+##### Foot Note 59
+
+×
+
+6AB 4357.
+
+Glencore did not seek to hide from UniCredit the fact that it engaged in “sale
+and buy back” transactions. UniCredit seeks to distinguish such repo financing
+transactions from the Glencore-Hin Leong transactions, on the basis that in
+repo financing transactions the bank has visibility of both legs of the “sale
+and buy back”. The point remains, though, that there is nothing inherently
+wrong about a “sale and buy back” arrangement; UniCredit would know Glencore
+did not think there was anything wrong with it; and UniCredit would have known
+from that time, that Glencore did engage in “sale and buy back” transactions.
+UniCredit would thus not have concluded, when Glencore presented documents to
+obtain payment under the LC, that Glencore had not bought back the goods from
+Hin Leong.
+
+165 Further, I do not accept UniCredit’s assertion that Glencore knew or ought
+to have known that the goods and BLs under the Sale Contract were intended to
+have been pledged or given as security by Hin Leong to UniCredit. 60
+
+##### Foot Note 60
+
+×
+
+SOC, para 39.
+
+Glencore’s own financiers (for the Buyback Contract) did not require such
+security from Glencore, 61
+
+##### Foot Note 61
+
+×
+
+Mr van Rooyen’s AEIC at paras 14–15, 1DBAEIC 5–6.
+
+and I accept that Glencore did not know (nor ought it to have known) what the
+security arrangements between Hin Leong and UniCredit were – in particular
+that UniCredit intended to obtain a pledge over the goods and the BLs, for
+which it would require possession over them. Glencore’s own Uncommitted
+Framework Agreement with UniCredit did not envisage a pledge either, but only
+a guarantee. 62
+
+##### Foot Note 62
+
+×
+
+2AB 1263 and 1415.
+
+166 If it were crucial to UniCredit to have possession of the BLs, it could
+have made that a condition of payment under the LC, but instead it agreed to
+accept an LOI (addressed to Hin Leong) stating that Glencore had agreed to
+surrender the BLs to Hin Leong. Indeed, UniCredit’s Ms Loh testified that
+UniCredit contemplated receiving BLs only after the loan had been repaid and
+the transaction between UniCredit and Hin Leong had been closed. 63
+
+##### Foot Note 63
+
+×
+
+Ms Loh’s AEIC at para 25(a), 2PBAEIC 1002.
+
+In that scenario, the BLs would not be security to UniCredit for the loan to
+Hin Leong, for that loan would have already been repaid.
+
+167 Indeed, UniCredit wanted Hin Leong to sell the goods and use their
+proceeds to repay UniCredit. In early March 2020, Hin Leong falsely informed
+UniCredit that the goods had been discharged into Hin Leong’s Universal
+Terminal, and remained unsold. 64
+
+##### Foot Note 64
+
+×
+
+3AB 2261–2262.
+
+UniCredit asked that Hin Leong sell the goods quickly. 65
+
+##### Foot Note 65
+
+×
+
+3AB 2287.
+
+Meanwhile, UniCredit had on 28 February 2022 granted Hin Leong a 60-day import
+loan for US$37,209,550.35. 66
+
+##### Foot Note 66
+
+×
+
+3AB 2209.
+
+By encouraging Hin Leong to sell the goods, UniCredit was encouraging Hin
+Leong to part with the goods (and, if necessary, the BLs too) in favour of a
+sub-buyer. UniCredit’s Mr Iacono confirmed (with reference to UniCredit’s
+internal documents) that after discharge of cargo, UniCredit would be looking
+to receivables, ie, sale proceeds, rather than to BLs, as security. 67
+
+##### Foot Note 67
+
+×
+
+1AB 112; Transcript, 18 May 2022, 21:4–22:2.
+
+Did Glencore intend that UniCredit should act on Glencore’s representations?
+
+168 I accept that Glencore intended UniCredit to act on documents in which
+Glencore represented that it had agreed to give the BLs to Hin Leong, and that
+it had sold the goods to Hin Leong pursuant to the Sale Contract; but I have
+found that those representations were true.
+
+169 I do not accept that Glencore intended UniCredit to act on the expanded
+first representation (as to Glencore’s intentions regarding the Sale Contract,
+in particular, whether it intended to surrender the BLs to Hin Leong in all
+circumstances). Glencore intended UniCredit to act on the documents it
+presented; Glencore did not intend thereby to represent anything about its
+intentions regarding the Sale Contract, nor did Glencore intend that UniCredit
+should act on this.
+
+170 Likewise, I do not accept that Glencore intended UniCredit to act on the
+expanded second representation (that Hin Leong had not sold the goods).
+Glencore did not say anything about whether Hin Leong had or had not sold the
+goods. Glencore made no representation in that regard, and it follows that it
+could not have intended that UniCredit should act on any such representation
+either.
+
+Did UniCredit act to its detriment on Glencore’s representations?
+
+171 UniCredit acted on the documents Glencore presented, in paying Glencore
+under the LC. To the extent that UniCredit acted on representations by
+Glencore, that would not go beyond the first representation (that Glencore had
+agreed to locate and surrender the BLs to Hin Leong), and the second
+representation (that there was a genuine purchase of the goods by Hin Leong).
+Both those representations were true.
+
+172 I do not accept that the expanded first representation (as to Glencore’s
+intentions regarding the Sale Contract) was made, but in any event UniCredit’s
+payment to Glencore cannot be attributed to UniCredit believing that Glencore
+would surrender the BLs to Hin Leong in all circumstances: see [107]–[113]
+above.
+
+173 I also do not accept that the expanded second representation (that Hin
+Leong had not sold the goods) was made, but in any event UniCredit’s payment
+to Glencore cannot be attributed to UniCredit believing that the goods
+remained unsold: see [132]–[138] above.
+
+174 UniCredit complains that it failed to obtain any security in the goods, or
+in the BLs, but that is the consequence of UniCredit’s arrangements with Hin
+Leong, and how Hin Leong acted. UniCredit cannot blame its plight on Glencore.
+
+175 Hin Leong gave UniCredit a memorandum of pledge 68
+
+##### Foot Note 68
+
+×
+
+2AB 1239.
+
+which stipulated that UniCredit “shall have a pledge upon the Pledged Goods
+and all … bills of lading … issued in respect of the Pledged Goods (the
+“Pledged Documents”), which are now or may hereafter be … in [its] possession
+(whether actual or constructive) … or received by, deposited or lodged with,
+transferred to or otherwise held by [it] …”.
+
+176 Despite this agreement to pledge the goods and the BLs under the Sale
+Contract, UniCredit never had an actual pledge over the goods or the BLs, for
+UniCredit never had possession of the goods or the BLs. UniCredit accepts
+this. 69
+
+##### Foot Note 69
+
+×
+
+UniCredit’s closing submissions, paras 136 and 142.
+
+UniCredit complains about Glencore not giving UniCredit the BLs, but Glencore
+was under no obligation to do so. Glencore’s obligation was to surrender the
+BLs to Hin Leong, as stated in the LOI, not to surrender the BLs to UniCredit.
+Indeed, if Glencore had surrendered the BLs directly to Hin Leong, and Hin
+Leong did not then give them to UniCredit, UniCredit would be in a similar
+position to its present predicament: without the BLs, and without a pledge
+over the BLs. UniCredit says it counted on Glencore giving the BLs to Hin
+Leong through the banking chain 70
+
+##### Foot Note 70
+
+×
+
+UniCredit’s closing submissions, para 223.
+
+(rather than directly) in which case UniCredit would come into possession of
+them; but Glencore was not obliged to give the BLs to Hin Leong through the
+banking chain, it was simply obliged to give the BLs to Hin Leong.
+
+177 At the time of its LC application Hin Leong misrepresented to UniCredit
+that the LC was for “unsold goods” (when Hin Leong had already sold them to
+Glencore by the Buyback Contract). Hin Leong continued to misrepresent to
+UniCredit into early March 2020 that the goods remained unsold, when title had
+already passed back to Glencore (on 2 December 2019) and long after the
+delivery window under the Sale Contract (18 to 25 December 2019). None of this
+is Glencore’s fault. In this regard, UniCredit does not seek to rescind the LC
+because of Hin Leong’s misrepresentations, independent of fault on the part of
+Glencore (by Glencore entering into a sham transaction, or Glencore making
+fraudulent misrepresentations to Unicredit). 71
+
+##### Foot Note 71
+
+×
+
+SOC, para 66 read with paras 37 and 42 to 49A.
+
+178 UniCredit asserts that it would not have issued the LC if it had known of
+the Buyback Contract, 72
+
+##### Foot Note 72
+
+×
+
+SOC, para 41.
+
+but that has nothing to do with UniCredit relying on representations by
+Glencore: when UniCredit issued the LC, Glencore had not made any
+representations to UniCredit – the only such representations UniCredit relies
+on were made when Glencore presented its commercial invoice and LOI on 2
+December 2019, after the LC had been issued on 29 November 2019.
+
+179 UniCredit also says that if it had known of the Buyback Contract at the
+time of payment under the LC, it would not have paid Glencore. 73
+
+##### Foot Note 73
+
+×
+
+SOC, para 41.
+
+That too has nothing to do with UniCredit relying on any representations by
+Glencore. UniCredit paid Glencore because the documents presented for payment
+complied with the LC. Whether or not there was the Buyback Contract, the
+documents complied with the LC. I do not believe that UniCredit would have
+withheld payment from Glencore if, prior to payment, UniCredit had found out
+about the Buyback Contract. That would have put UniCredit in breach of its
+payment obligation under the LC, and exposed it to a suit by Glencore to which
+UniCredit would have no defence (see [107]–[109] above). If, for example, when
+Glencore presented documents to UniCredit, Glencore had also mentioned the
+Buyback Contract, and told UniCredit that it expected Hin Leong would not
+require the BLs (but that if Hin Leong did, Glencore would surrender the BLs
+to Hin Leong), Glencore would not have falsely represented anything to
+UniCredit. If UniCredit then refused to pay Glencore, that would have nothing
+to do with UniCredit relying on any false representations by Glencore. In any
+event, I do not believe UniCredit would have refused to pay Glencore.
+
+180 For all the above reasons, UniCredit’s claim against Glencore for fraud /
+deceit fails.
+
+(3) Conspiracy between Glencore and Hin Leong to injure UniCredit by unlawful
+means
+
+181 In its conspiracy claim, UniCredit says much about how Hin Leong had
+defrauded it; 74
+
+##### Foot Note 74
+
+×
+
+SOC, para 51(a) to (g).
+
+its claim that Glencore also defrauded it 75
+
+##### Foot Note 75
+
+×
+
+SOC, para 51(h) and (i).
+
+falls back on its claim against Glencore for fraud / deceit – a claim that
+fails for reasons stated above.
+
+182 What is left is a general plea that Hin Leong and Glencore conspired to
+defraud UniCredit, 76
+
+##### Foot Note 76
+
+×
+
+SOC, paras 50 and 50A.
+
+but there is no evidence of any such conspiracy. To the extent that the
+conspiracy is based on the allegation that the Sale Contract was a sham or
+fictitious transaction, I have found that the Sale Contract was not a sham,
+and it was not fictitious. There is no evidence that Glencore knew, or ought
+to have known, that Hin Leong was misrepresenting to UniCredit that the goods
+were “unsold” when in fact Hin Leong had sold them back to Glencore by the
+Buyback Contract. The dealings between Hin Leong and UniCredit were not
+Glencore’s responsibility or concern.
+
+183 Accordingly, I dismiss UniCredit’s conspiracy claim as well.
+
+(4) Unjust enrichment
+
+184 UniCredit’s unjust enrichment claim is based on:
+
+(a) the alleged fraud and/or conspiracy; and/or
+
+(b) UniCredit having acted under a mistaken belief (“UniCredit’s
+Misapprehension” 77
+
+##### Foot Note 77
+
+×
+
+SOC, paras 34–35.
+
+).
+
+185 To the extent that the unjust enrichment claim is based on the alleged
+fraud and/or conspiracy, I have dismissed both the fraud and conspiracy
+claims, and they thus provide no foundation for claiming unjust enrichment.
+
+186 UniCredit’s Misapprehension is said to involve UniCredit believing the
+following as a result of the acts of Hin Leong and Glencore: 78
+
+##### Foot Note 78
+
+×
+
+SOC, paras 34–35.
+
+(a) the Sale Contract was genuine;
+
+(b) Hin Leong had, and would continue to have, valid title to the goods
+pursuant to the Sale Contract;
+
+(c) UniCredit would have security over the goods and the BLs;
+
+(d) the goods and the BLs would be delivered by Glencore to Hin Leong and
+eventually to UniCredit, or to UniCredit directly; and
+
+(e) the goods had not been sold by Hin Leong.
+
+187 I have dealt with most of these aspects in discussing the fraud and
+conspiracy claims, and would simply make the following brief points:
+
+(a) The Sale Contract was genuine, there was no misapprehension there.
+
+(b) Glencore did transfer title to Hin Leong under the Sale Contract. There
+was nothing to stop Hin Leong from reselling the goods, which it did – back to
+Glencore, by the Buyback Contract, transferring title back to Glencore in the
+process. Glencore never represented to UniCredit that Hin Leong would continue
+to have title to the goods, ie, that Hin Leong would not resell the goods or
+transfer title to them. Indeed, UniCredit expected, and encouraged, Hin Leong
+to sell the goods: see [167] above.
+
+(c) Glencore made no representation to UniCredit that UniCredit would have
+security over the goods and the BLs – whether UniCredit had any such security
+depended on the arrangements between UniCredit and Hin Leong.
+
+(d) Glencore made no representation that the goods and the BLs would be
+delivered by Glencore to Hin Leong and eventually to UniCredit, or to
+UniCredit directly. Glencore made no representation that the goods would be
+delivered to UniCredit, indirectly or directly; indeed, UniCredit was not
+looking to take delivery of the goods. As between Hin Leong and Glencore, any
+obligation to deliver the goods could be modified – in the event, Hin Leong
+sold the goods back to Glencore, and Hin Leong did not seek to take physical
+delivery of the goods and redeliver them to Glencore. As for the BLs, Glencore
+never represented that it would give the BLs indirectly or directly to
+UniCredit. All that Glencore represented to UniCredit was that it had agreed
+to surrender the BLs to Hin Leong. As between Hin Leong and Glencore, that
+obligation could be modified – in the event, Hin Leong never asked for the
+BLs, and they remained with GENUK.
+
+(e) Glencore made no representation to UniCredit that Hin Leong would not
+resell the goods.
+
+188 Whatever grievances UniCredit may have against Hin Leong, it cannot blame
+UniCredit’s Misapprehension on Glencore. There is nothing unjust in Glencore
+being paid on the LC – Glencore was legally entitled to that payment, having
+presented complying documents to UniCredit. Moreover, that payment was for a
+genuine sale of goods by Glencore to Hin Leong. Glencore transferred title to
+the goods to Hin Leong in consideration for payment (which it then received
+from UniCredit under the LC). Glencore then detrimentally changed its position
+in reliance on that payment, by reimbursing its bank BBVA in the sum of
+US$37,194,678.42 (for the Buyback Contract), a sum which exceeds the
+US$36,997,691.57 that UniCredit had paid Glencore. 79
+
+##### Foot Note 79
+
+×
+
+Defence (Amendment No 2) dated 15 December 2021, para 29A.
+
+189 Accordingly, I dismiss UniCredit’s unjust enrichment claim.
+
+(5) Claim under the Master Discounting Agreement
+
+190 UniCredit’s claim under the Master Discounting Agreement is premised on
+there being some “fraud, illegality or unauthorized act on [Glencore’s] part,
+in relation to [UniCredit’s] discounted payment” under the LC. 80
+
+##### Foot Note 80
+
+×
+
+SOC, paras 21A(c) and 57A.
+
+UniCredit relies on its allegations of fraud / deceit and/or conspiracy as
+entitling it to recourse against Glencore under the Agreement. I have
+dismissed UniCredit’s claims for fraud / deceit and conspiracy, and it
+necessarily follows that I dismiss UniCredit’s claim under the Master
+Discounting Agreement as well. In the circumstances, I do not need to resolve
+the dispute as to whether the Master Discounting Agreement was even applicable
+to begin with.
+
+(6) Breach of the LOI pursuant to the Contract (Rights of Third Parties) Act
+and/or common law
+
+191 This final claim appears to have been largely abandoned by UniCredit, as
+Glencore observes in its closing submissions. 81
+
+##### Foot Note 81
+
+×
+
+Glencore’s closing submissions, para 45.
+
+192 The LOI was addressed to Hin Leong, and Glencore stated in it that it had
+agreed to surrender the BLs to Hin Leong.
+
+193 On a proper construction of the LOI, Glencore and UniCredit did not intend
+that the LOI would be enforceable by UniCredit. The LOI was in UniCredit’s
+prescribed form, and if UniCredit had wanted to be able to enforce the LOI
+itself, it could have prescribed that the LOI was to be addressed to UniCredit
+(rather than to Hin Leong), or to both UniCredit and Hin Leong; it could also
+have required Glencore to surrender the BLs to UniCredit, or to Hin Leong
+through UniCredit. UniCredit did not do so.
+
+194 That the LOI was enforceable by Hin Leong (and not by UniCredit) is
+reinforced by the fact that UniCredit, as an LC-issuing bank, dealt in
+documents and was not concerned with the underlying Sale Contract or the
+delivery of goods and BLs by Glencore to Hin Leong.
+
+195 Moreover, I find that Glencore had not breached the LOI. Glencore agreed
+to surrender the BLs to Hin Leong, but that was an obligation that could be
+modified as between them. Had Glencore surrendered the BLs to Hin Leong, Hin
+Leong would have been obliged to surrender them back to Glencore. In the
+event, the Sale Contract and the Buyback Contract were performed in terms of
+payments, and simultaneous title transfers, without the BLs changing hands.
+Had Hin Leong asked for the BLs, Glencore would have obtained and surrendered
+the BLs to Hin Leong; but Hin Leong never asked for them, and the BLs thus
+remained with GENUK. By its conduct, Hin Leong indicated that it did not
+require the BLs, and Hin Leong’s IJMs too declined to demand the BLs from
+Glencore. Glencore did not breach the LOI in not giving Hin Leong the BLs.
+
+196 Further, Glencore never agreed to give the BLs to UniCredit – Glencore
+agreed to give the BLs to Hin Leong. UniCredit claims damages for Glencore
+failing to give the BLs to UniCredit, 82
+
+##### Foot Note 82
+
+×
+
+SOC, para 63.
+
+but there was no such obligation on Glencore.
+
+197 The court in Trafigura at [34] similarly noted that the bank could not
+claim against the beneficiary under the LOI in that case:
+
+If complaint is made against Trafigura about what occurred after payment
+against the LOI, it can only be based upon the terms of the LOI, to which
+Kookmin was not a party, as it has repeatedly said. If it is not a party, it
+can have no claim under the LOI, whereas, if it did have such a contractual
+claim, it would be subject to the jurisdiction clause in favour of the English
+Courts. Kookmin agreed to pay against the commercial invoice and the LOI with
+the obligation in the latter to deliver Bills of Lading and/or a Master’s
+receipt to Huron, not to itself. If documents were then delivered in
+accordance with the terms of the LOI, there could not be any unlawful act vis-
+à-vis Huron, nor an unlawful act as against Kookmin.
+
+198 I dismiss UniCredit’s third party rights claim as well.
+
+Conclusion
+
+199 For the above reasons, I dismiss all of UniCredit’s claims against
+Glencore. Glencore was entitled to the payment which it received from
+UniCredit under the LC. Glencore did not defraud or deceive UniCredit; it did
+not conspire with Hin Leong to injure UniCredit; it was not unjustly enriched.
+UniCredit is not entitled to rescind the LC, or to recover the payment it made
+to Glencore.
+
+200 I award Glencore, as the successful party, costs to be assessed. I will
+address the quantum of those costs separately.
+
+Andre Maniam  
+Judge of the High Court|  
+---|---  
+  
+Tan Wee Kheng Kenneth Michael SC (Kenneth Tan Partnership) (instructed),
+Herman Jeremiah, Koh Kia Jeng, Andrea Gan Yingtian, Toh Cher Han, Hannah Chua
+and Tan Yi Xi Joie (Dentons Rodyk & Davidson LLP) for the plaintiff;
+
+Chan Leng Sun SC (Chan Leng Sun LLC), Colin Liew (Colin Liew LLC) and Tham
+Lijing (Tham Lijing LLC) (instructed co-counsel), Chong Ik Wei and Wong Shi Yi
+(Clasis LLC) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 21 Oct 2022 (11:09 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

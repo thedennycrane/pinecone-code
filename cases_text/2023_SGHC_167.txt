@@ -1,0 +1,1164 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 167
+
+Originating Summons No 780 of 2021
+
+Between
+
+(1)| JTrust Asia Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| Group Lease Holdings Pte Ltd  
+---|---  
+(2)| Mitsuji Konoshita  
+(3)| Adalene Limited  
+(4)| Bellaven Limited  
+(5)| Aref Holdings Limited  
+(6)| Baguera Limited  
+  
+… Defendants
+
+grounds of decision
+
+[Res judicata — Issue estoppel]
+
+[Res judicata — Applicable principles]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+JTrust Asia Pte Ltd
+
+  
+v
+
+  
+
+Group Lease Holdings Pte Ltd and others
+
+[2023] SGHC 167
+
+General Division of the High Court — Originating Summons No 780 of 2021  
+Lee Seiu Kin J  
+14 November 2022, 10 April 2023
+
+16 June 2023
+
+Lee Seiu Kin J:
+
+1 The plaintiff, the defendants, and companies related to these parties had
+been embroiled in various lawsuits across multiple jurisdictions. In HC/OS
+780/2021 (“OS 780”), the plaintiff seeks payment of the sum of
+US$124,474,854.00, with interest. 1
+
+##### Foot Note 1
+
+×
+
+See Originating Summons for HC/OS 780/2021 filed 3 August 2021.
+
+The key question that arose for my determination pertained to whether the
+plaintiff could rely on a previous finding by the Court of Appeal (“SGCA”)
+that the same defendants were liable for damages in the torts of deceit and/or
+conspiracy to the plaintiff.
+
+Introduction
+
+Facts
+
+The parties
+
+2 The plaintiff, JTrust Asia Pte Ltd (“JTA”) is an investment company
+incorporated in Singapore. Its parent company, J Trust Co, Ltd (“JTrust
+Japan”), is a company incorporated in Japan. 2
+
+##### Foot Note 2
+
+×
+
+Nobiru Adachi’s 1st affidavit dated 3 August 2021 at para 5.
+
+3 The first defendant, Group Lease Holdings Pte Ltd (“GLH”) is an investment
+company incorporated in Singapore. GLH’s sole shareholder is Group Lease
+Public Company Limited (“GL Thailand”), a company listed on the Stock Exchange
+of Thailand. 3
+
+##### Foot Note 3
+
+×
+
+Nobiru Adachi’s 1st affidavit dated 3 August 2021 at para 6.
+
+4 The second defendant, Mr Mitsuji Konoshita (“Mr Konoshita”), is a director
+of GLH and was previously Chairman and CEO of GL Thailand. The third to sixth
+defendants are companies incorporated in Cyprus (the “Cyprus companies”) and
+are controlled and/or beneficially owned by the second defendant at all
+material times. 4
+
+##### Foot Note 4
+
+×
+
+Nobiru Adachi’s 1st affidavit dated 3 August 2021 at paras 9–14.
+
+Background to the dispute
+
+5 This matter followed on the heels of several decisions already issued in the
+dispute between the parties. The relevant past judgments are as follows:
+
+(a) On 26 December 2017, JTA commenced proceedings against the defendants and
+Cougar Pacific Pte Ltd (“Cougar”) in HC/S 1212/2017 (“Suit 1212”). Cougar is a
+company incorporated in Singapore, which has the same registered address as
+GLH and whose sole shareholder is a company owned by a former director of GL
+Thailand’s subsidiary in Cambodia. JTA’s claim was that GL Thailand and the
+defendants had conspired to defraud JTA into believing that GL Thailand’s
+performance was better than it was, and to misappropriate JTA’s investment in
+GL Thailand to Mr Konoshita’s benefit by lending money to Cougar and the
+Cyprus companies.
+
+(i) Pursuant to Suit 1212, JTA then took out an application under HC/SUM
+148/2018 (“SUM 148”) to expand the scope of a Mareva injunction granted ex
+parte against several of the defendants in Suit 1212. It also took out an
+application under HC/SUM 377/2018 (“SUM 377”) for an order that specific
+conduct by several of the defendants in Suit 1212 be prohibited. On the other
+hand, GLH and Mr Konoshita took out applications to set aside the ex parte
+Mareva injunction (the “Setting Aside Applications”). The High Court dismissed
+SUM 148 and SUM 377 and allowed the Setting Aside Applications on 23 February
+2018: see JTrust Asia Pte Ltd v Group Lease Holdings Pte Ltd and others [2018]
+SGHC 38 at [1], [2] and [16].
+
+(ii) JTA appealed against this decision in CA/CA 46/2018 (“CA 46”). The SGCA
+allowed the appeal, reinstating the domestic Mareva injunctions against GLH,
+Mr Konoshita and Cougar, and expanding the injunctions against GLH and Cougar
+to worldwide Mareva injunctions on 1 June 2018 in JTrust Asia Pte Ltd v Group
+Lease Holdings Pte Ltd and others [2018] 2 SLR 159 (“CA 46 Decision”) at [3].
+
+(iii) GLH and Mr Konoshita applied under HC/SUM 5340/2018 (“SUM 5340”) to
+strike out Suit 1212 but were unsuccessful. The High Court gave its decision
+on 1 February 2019 in JTrust Asia Pte Ltd v Group Lease Holdings Pte Ltd and
+others [2019] SGHC 21 at [1] and [11].
+
+(b) On 12 February 2020, the High Court gave its decision in respect of Suit
+1212 where it dismissed JTA’s claims in the torts of deceit and conspiracy and
+discharged the domestic Mareva injunction against Mr Konoshita and the
+worldwide Mareva injunctions against GLH and Cougar: see JTrust Asia Pte Ltd v
+Group Lease Holdings Pte Ltd and others [2020] SGHC 29 at [25].
+
+(c) On 13 February 2020, JTA appealed against the High Court’s decision in
+Suit 1212 under CA/CA 21/2020 (“CA 21”).
+
+(i) JTA applied under CA/SUM 21/2020 (“SUM 21”) to reinstate the domestic
+Mareva injunction against Mr Konoshita and the worldwide Mareva injunctions
+against GLH and Cougar pending the determination of CA 21. The SGCA gave its
+decision on 1 June 2020 in JTrust Asia Pte Ltd v Group Lease Holdings Pte Ltd
+and others [2020] 2 SLR 490, wherein it reinstated the domestic Mareva
+injunction against Mr Konoshita and the worldwide injunction against GLH but
+dismissed the application to reinstate the Mareva injunction against Cougar
+(at [103]).
+
+(ii) JTA’s appeal in CA 21 was allowed by the SGCA on 6 October 2020: see
+JTrust Asia Pte Ltd v Group Lease Holdings Pte Ltd and others [2020] 2 SLR
+1256 (“CA 21 Decision”) at [3] and [257].
+
+(iii) Following the CA 21 Decision, JTA brought an application under CA/SUM
+132/2020 for the existing Mareva injunctions against GLH, Mr Konoshita and
+Cougar to remain in effect until the judgment debt and costs were satisfied,
+and for JTA to be released from undertakings it had provided when the
+worldwide Mareva injunctions were granted. GLH and Mr Konoshita in turn
+applied under CA/SUM 133/2020 for the enjoined quantum of the Mareva
+injunctions to be reduced. On 26 March 2021, in JTrust Asia Pte Ltd v Group
+Lease Holdings Pte Ltd and others [2021] 1 SLR 1298, the SGCA ordered, inter
+alia, that the Mareva injunctions be extended until GLH, Mr Konoshita and
+Cougar satisfied the judgment debt and costs that they owed to JTA, but
+reduced the enjoined sum (at [3] and [74]): see JTrust Asia v Group Lease
+Holdings Pte Ltd and others [2021] 1 SLR 1298.
+
+6 The above disputes – and also the present one – arose out of three
+investment agreements (“IAs”). Between March 2015 and September 2017, while Mr
+Konoshita was the chairman of GL Thailand, JTA made investments in GL Thailand
+pursuant to the following IAs (see CA 21 Decision at [13]):
+
+(a) The first IA (“1IA”): On 20 March 2015, JTA invested US$30m under the 1IA
+which provided that JTA would subscribe to US$30m worth of GL Thailand’s
+convertible debentures. JTA completed the subscription on 22 May 2015. In
+December 2015, JTA exercised its right to convert the debentures into shares.
+
+(b) The second IA (“2IA”): In June 2016, JTA subscribed for US$130m of GL
+Thailand’s convertible debentures. JTA completed the subscription on 1 August
+2016. If JTA elected not to convert the debentures into shares, it would be
+entitled to be repaid its investment in 2021.
+
+(c) The third IA (“3IA”): On 1 December 2016, JTA subscribed for a further
+US$50m of GL Thailand’s convertible debentures. JTA completed the subscription
+on 20 March 2017. If JTA elected not to convert the debentures into shares, it
+would be entitled to be repaid its investment in 2020.
+
+All three IAs contained an express warranty in respect of the accuracy of GL
+Thailand’s consolidated financial statements: see CA 21 Decision at [14].
+
+7 On 16 October 2017, the Securities and Exchange Commission (“SEC”) of
+Thailand issued a news release (the “SEC News Release”) stating that GLH had
+issued sham loans under a round-tripping scheme designed to inflate GL
+Thailand’s operating results. The SEC announced that it had filed a criminal
+complaint against Mr Konoshita: see CA 21 Decision at [18].
+
+8 On 26 December 2017, JTA commenced Suit 1212 against, inter alia, the
+defendants, bringing claims in the torts of unlawful conspiracy and deceit:
+see CA 21 Decision at [21]. As mentioned above, its claims were dismissed at
+first instance, but on appeal, the SGCA in CA 21 allowed JTA’s appeal for its
+claims in deceit and unlawful conspiracy: see CA 21 Decision at [202] and
+[210]. 5
+
+##### Foot Note 5
+
+×
+
+Nobiru Adachi’s 1st affidavit dated 3 August 2021 at paras 31–33.
+
+The SGCA found that the loans made were in fact shams and not bona fide,
+independent, arm’s length transactions: see CA 21 Decision at [45]. The SGCA
+allowed JTA’s appeal for its claims in deceit and unlawful conspiracy (see CA
+21 Decision at [202] and [210]) and awarded JTA damages for its loss suffered
+as a result of the exercise of conversion rights of the convertible debentures
+under the 1IA (see CA 21 Decision at [239]). The SGCA also held that JTA was
+entitled to the principal sum of US$50m owed under the 3IA, minus the interest
+it had received (see CA 21 Decision at [246]). However, JTA was unable to
+establish actual loss for the 2IA at the time, as it was only entitled to be
+repaid the principal sum of its investments in 2021 and had not proven that GL
+Thailand would not be able to pay back the principal sum for the 2IA in 2021
+(CA 21 Decision at [244]–[245]). 6
+
+##### Foot Note 6
+
+×
+
+Nobiru Adachi’s 1st affidavit dated 3 August 2021 at paras 31–33.
+
+Maturity of the 2IA and the present proceedings
+
+9 On 30 July 2021, GL Thailand issued a notice purporting to terminate the 2IA
+on the basis that JTA had, inter alia, issued a notice avoiding the 2IA on 30
+November 2017 (“the Avoidance Notice”). According to GL Thailand, JTA had
+therefore allegedly waived its contractual rights under the 2IA, which in turn
+“constituted the parties’ mutual intention to extinguish the [2IA]”. 7
+
+##### Foot Note 7
+
+×
+
+Nobiru Adachi’s 1st affidavit dated 3 August 2021 at para 38 and NA-10.
+
+10 Following the maturity of the 2IA on 1 August 2021, GL Thailand did not pay
+JTA the principal sum under the 2IA. 8
+
+##### Foot Note 8
+
+×
+
+Nobiru Adachi’s 1st affidavit dated 3 August 2021 at para 35; Plaintiff’s
+Written Submissions (“PWS”) at para 9.
+
+11 On 3 August 2021, JTA commenced OS 780 against the defendants to claim for
+loss and damage suffered by JTA as a result of entering into the 2IA. 9
+
+##### Foot Note 9
+
+×
+
+PWS at para 9.
+
+JTA essentially seeks to be paid its principal investment of US$130m minus the
+interest it received in respect of the 2IA. 10
+
+##### Foot Note 10
+
+×
+
+PWS at para 90.
+
+In OS 780, JTA sought the following orders: 11
+
+##### Foot Note 11
+
+×
+
+See Originating Summons for HC/OS 780/2021 filed 3 August 2021.
+
+(a) for the defendants to pay JTA the sum of US$124,474,854.00;
+
+(b) for a declaration that the defendants are jointly and severally liable to
+JTA for the sum of US$124,474,854.00;
+
+(c) for the defendants to pay JTA interest on any or all sums due and payable
+to it;
+
+(d) for the costs of and incidental to this application to be paid by the
+defendants; and
+
+(e) such further or other relief as the court deems fit.
+
+Proceedings in Thailand (the “Thai proceedings”)
+
+12 JTA and GL Thailand have also commenced proceedings against each other in
+Thailand. JTA has also initiated private prosecution complaints against GL
+Thailand and GL Thailand is also facing criminal investigations. I elaborate
+on these proceedings below.
+
+Proceedings by JTA
+
+13 First, JTA commenced Black Case No Por 83/2561 (the “Thai Civil Case”) on 9
+January 2018 against Mr Konoshita, GL Thailand, and three directors of GLH. In
+these proceedings, JTA sought damages arising from: (a) avoidance of the 2IA
+on the basis of fraudulent misrepresentations made by GL Thailand and GL
+Thailand’s failure to restore JTA into its former position prior to its entry
+into the 2IA, and (b) its claim against GL Thailand for committing the tort of
+fraudulent representation. As the trial dates were fixed on certain days
+between 8 November 2022 to 14 December 2022, the matter had not been heard at
+the time of the present proceedings. 12
+
+##### Foot Note 12
+
+×
+
+Nobiru Adachi’s 9th affidavit dated 7 October 2022 at paras 8–9; Don
+Rojanapenkul’s 1st affidavit dated 7 October 2022 at para 10(3); Nobiru
+Adachi’s 7th affidavit dated 8 April 2022 at para 65.
+
+14 Second, on 10 January 2018, JTA filed rehabilitation proceedings (the
+“Rehabilitation Proceedings”) against GL Thailand in the Central Bankruptcy
+Court of Thailand. 13
+
+##### Foot Note 13
+
+×
+
+Nobiru Adachi’s 9th affidavit dated 7 October 2022 at para 10; Don
+Rojanapenkul’s 1st affidavit dated 7 October 2022 at para 10(4).
+
+It was ultimately unsuccessful in its petition for rehabilitation. 14
+
+##### Foot Note 14
+
+×
+
+Don Rojanapenkul’s 2nd affidavit dated 28 October 2022 at para 24; Decision of
+the Supreme Court of Thailand (translated) dated 22 December 2021 (Amonwan
+Chatchalitwaphong’s 1st affidavit of 4 Jan 2022 at AC-1 Tab 2)
+
+Proceedings by GL Thailand
+
+15 First, in Black Case No 2313/2561 (“Thai Claim 2313”), GL Thailand seeks
+damages in tort arising from JTA’s unlawful commencement of Suit 1212 in
+Singapore, as well as the Thai Civil Case and Rehabilitation Proceedings. The
+Thai Civil Court gave its first instance decision on 5 March 2020. JTA
+appealed and its appeal was allowed by the Thai Court of Appeal in March 2021.
+On 31 August 2022, GL Thailand obtained leave to appeal against the Thai Court
+of Appeal’s decision to the Supreme Court of Thailand. The appeal is still
+pending. 15
+
+##### Foot Note 15
+
+×
+
+Nobiru Adachi’s 7th affidavit dated 8 April 2022 at para 71; Nobiru Adachi’s
+9th affidavit dated 7 October 2022 at para 12; Don Rojanapenkul’s 1st
+affidavit dated 7 October 2022 at para 10(7); Don Rojanapenkul’s 2nd affidavit
+dated 28 October 2022 at paras 31–32; Nobiru Adachi’s 10th affidavit dated 28
+October 2022 at paras 18–19.
+
+16 Second, GL Thailand filed Black Case No Aor 6/2561 with the Central
+Bankruptcy Court of Thailand against JTA and other persons, alleging that they
+had unlawfully filed the Rehabilitation Proceedings. On 9 August 2022, the
+claim was dismissed, and GL Thailand had yet to appeal at the material time.
+16
+
+##### Foot Note 16
+
+×
+
+Nobiru Adachi’s 9th affidavit dated 7 October 2022 at paras 13–27; Don
+Rojanapenkul’s 1st affidavit dated 7 October 2022 at para 10(9); Don
+Rojanapenkul’s 2nd affidavit dated 28 October 2022 at para 36; Nobiru Adachi’s
+10th affidavit dated 28 October 2022 at para 21.
+
+17 Third, GL Thailand filed Black Case No Por 4613/2563 (“Thai Claim 4613”)
+against JTrust Japan, JTA and two directors of JTA and JTrust Japan, alleging
+that they had wrongfully induced JTA to commence the Thai Civil Case,
+Rehabilitation Proceedings and/or Suit 1212. This matter was pending trial at
+the material time. 17
+
+##### Foot Note 17
+
+×
+
+Nobiru Adachi’s 7th affidavit dated 8 April 2022 at para 73; Nobiru Adachi’s
+9th affidavit dated 7 October 2022 at paras 18–23; Don Rojanapenkul’s 1st
+affidavit dated 7 October 2022 at para 10(8).
+
+18 Lastly, GL Thailand commenced Black Case No Por 5922/2564 (“Thai Claim
+5922”) against JTA and JTrust Japan, alleging that JTA had breached the 2IA
+and acted in a manner which undermined the purposes and intent of the 2IA.
+This matter was pending trial at the material time. 18
+
+##### Foot Note 18
+
+×
+
+Nobiru Adachi’s 7th affidavit dated 8 April 2022 at para 74; Nobiru Adachi’s
+9th affidavit dated 7 October 2022 at paras 24–25; Don Rojanapenkul’s 1st
+affidavit dated 7 October 2022 at para 10(10); Nobiru Adachi’s 10th affidavit
+dated 28 October 2022 at para 23.
+
+Criminal cases/private prosecutions
+
+19 In 2018, the Thai SEC filed Special Case No 36/2561 (“Special Case 36”)
+with the Department of Special Investigations of the Ministry of Justice of
+Thailand (“Department of Special Investigations (Thailand)” against Mr
+Konoshita on the basis that he had concealed transactions and prepared false
+accounts in respect of GL Thailand’s financial statements. 19
+
+##### Foot Note 19
+
+×
+
+Nobiru Adachi’s 9th affidavit dated 7 October 2022 at para 26; Don
+Rojanapenkul’s 1st affidavit dated 7 October 2022 at para 10(1).
+
+20 On 11 January 2018, JTA filed Special Case No 153/2561 with the Department
+of Special Investigations (Thailand) against GL Thailand, Mr Konoshita, and
+another person who was a director of both GL Thailand and GLH, complaining
+that they were in breach of the Thai Penal Code 1956 (“Thai Penal Code”) and
+the Thai Public Limited Companies Act 1992 (“Thai Public Limited Companies
+Act”) by making materially false statements to induce JTA’s investments in GL
+Thailand. 20
+
+##### Foot Note 20
+
+×
+
+Nobiru Adachi’s 9th affidavit dated 7 October 2022 at para 27; Don
+Rojanapenkul’s 1st affidavit dated 7 October 2022 at para 10(2).
+
+On 29 June 2022, the Thai Attorney-General issued a non-prosecution order
+(“NPO”) in respect of the offence under the Thai Penal Code. Moreover, the
+investigations in respect of the offences under the Thai Public Limited
+Companies Act would be considered under Special Case 36 instead. Such
+investigations were still ongoing at the material time. 21
+
+##### Foot Note 21
+
+×
+
+Nobiru Adachi’s 9th affidavit dated 7 October 2022 at NA-91; Nobiru Adachi’s
+10th affidavit dated 28 October 2022 at para 24; Don Rojanapenkul’s 1st
+affidavit dated 7 October 2022 at para 10(2); Don Rojanapenkul’s 2nd affidavit
+dated 28 October 2022 at paras 11 and 22.
+
+21 JTA also initiated two private prosecution complaints which were still
+pending at the material time:
+
+(a) on 18 July 2022, JTA commenced Black Case Aor No 2201/2565 against GL
+Thailand, Mr Konoshita, and one Mr Tashiro alleging that they had defrauded
+JTA and seeking reliefs pursuant to s 341 of the Thai Penal Code; 22
+
+##### Foot Note 22
+
+×
+
+Nobiru Adachi’s 9th affidavit dated 7 October 2022 at para 30(a); Don
+Rojanapenkul’s 1st affidavit dated 7 October 2022 at para 10(6);
+Rojanapenkul’s 2nd affidavit dated 28 October 2022 at para 25.
+
+and
+
+(b) on 26 April 2022, JTA commenced Black Case No Aor 991/2565 against the
+same persons in [(a)] and one Mr Tatsuya Konoshita, alleging that they were in
+breach of s 216 of the Thai Public Limited Companies Act by jointly making
+false entries in GL Thailand’s financial statements and by failing to disclose
+GL Thailand’s interest in the contracts entered into by the GL group of
+companies. 23
+
+##### Foot Note 23
+
+×
+
+Nobiru Adachi’s 9th affidavit dated 7 October 2022 at para 30(b); Don
+Rojanapenkul’s 1st affidavit dated 7 October 2022 at para 10(5).
+
+Procedural history
+
+22 I turn now to the procedural history of OS 780. Pursuant to an application
+under HC/SUM 3637/2021 made on 3 August 2021 by JTA, a worldwide Mareva
+injunction was issued by way of HC/ORC 4388/2021 (“ORC 4388”) against GLH, and
+a domestic Mareva injunction HC/ORC 4389/2021 (“ORC 4389”) was issued against
+Mr Konoshita, pending the final determination of OS 780 or further order.
+
+23 Separately, GLH and Mr Konoshita applied under HC/SUM 4368/2021 for a stay
+of OS 780 in favour of the courts of Thailand on the basis that Singapore was
+not the proper or appropriate forum for the determination of the dispute in OS
+780 and/or on case management grounds. This application was dismissed, and GLH
+and Mr Konoshita appealed against the decision in HC/RA 18/2022 (“RA 18”). On
+11 February 2022, I dismissed the appeal in RA 18 and ordered that the costs
+of RA 18 be costs in the cause fixed at S$9,000, all in. 24
+
+##### Foot Note 24
+
+×
+
+See HC/ORC 937/2022 dated 21 February 2022.
+
+The parties’ cases
+
+Whether the issue of the first and second defendants’ liability in deceit and
+unlawful means conspiracy is res judicata
+
+24 The crux of JTA’s submissions was that the finding of the SGCA that the
+defendants were liable in tort of deceit and conspiracy in respect of the 2IA
+was res judicata and created binding issue estoppels precluding the defendants
+from re-litigating the issue of liability. Alternatively, JTA submitted that
+the defendants were barred by the rule in Henderson v Henderson (1843) 3 Hare
+100 (the “Henderson rule”) from raising this argument in OS 780 in abuse of
+process. 25
+
+##### Foot Note 25
+
+×
+
+PWS at paras 48–65 and 104–113; Plaintiff’s Reply Submissions (“PRS”) at paras
+38 and 45.
+
+25 GLH and Mr Konoshita, as the first and second defendants respectively, in
+turn submitted that the SGCA findings were not binding on them in relation to
+the 2IA. They pointed out that the SGCA had accepted JTA’s claims on the basis
+of news released by the SEC News Release of 16 October 2017 (see above at [7])
+which stated that the SEC had filed a criminal complaint against Mr Konoshita
+with the Department of Special Investigations (Thailand) and was investigating
+other persons. 26
+
+##### Foot Note 26
+
+×
+
+Defendants’ Written Submissions (“DWS”) at paras 25–26.
+
+However, the SGCA did not have the opportunity to consider the NPO which
+showed that the Department of Special Investigations (Thailand) and the Office
+of the Attorney-General had found that there was insufficient evidence to
+justify prosecution under s 341 of the Thai Penal Code. 27
+
+##### Foot Note 27
+
+×
+
+DWS at paras 80–85 and 100(1).
+
+Moreover, the SGCA in CA 21 had not made any determination as to JTA’s alleged
+loss suffered under the 2IA. 28
+
+##### Foot Note 28
+
+×
+
+DWS at paras 86–97 and 100(2).
+
+In reply submissions, JTA responded that GLH and Mr Konoshita’s arguments that
+there were material changes to the background facts were “factually and
+legally fallacious”. 29
+
+##### Foot Note 29
+
+×
+
+PRS at para 45.
+
+Whether JTA suffered loss and damage as a result of the torts
+
+26 JTA submitted that under the 2IA, it was entitled to be repaid its
+principal investment sum of US$130m upon the maturity date of 1 August 2021,
+and that GL Thailand had failed to pay JTA since the passing of this maturity
+date. 30
+
+##### Foot Note 30
+
+×
+
+PWS at para 68.
+
+The quantum it presently sought constituted the principal sum of US$130m, less
+the interest of US$5,525,146 received in respect of the 2IA. 31
+
+##### Foot Note 31
+
+×
+
+PWS at para 90.
+
+27 JTA also submitted that it did not cause or contribute to its own loss
+through its commencement of proceedings against GL Thailand. The SGCA had not
+accepted such an argument with respect to proceedings commenced by JTA prior
+to 6 October 2020 (when the CA 21 Decision was issued), and JTA had not
+commenced fresh proceedings between 6 October 2020 and the maturity date of
+the 2IA on 1 August 2021. 32
+
+##### Foot Note 32
+
+×
+
+PWS at paras 91–99.
+
+The proceedings that were commenced after 1 August 2021 were also irrelevant
+as they had no bearing on whether GL Thailand would be in a position to pay
+JTA on the maturity date, and as one of them had been commenced by GL Thailand
+itself. 33
+
+##### Foot Note 33
+
+×
+
+PWS at paras 100–103.
+
+28 The first and second defendants in turn submitted that no loss and damage
+was suffered by JTA in respect of the 2IA. This was because JTA’s position in
+the Thai Civil Case was that it had cancelled and/or voided the 2IA by way of
+the Avoidance Notice on 30 November 2017, prior to the commencement of Suit
+1212. 34
+
+##### Foot Note 34
+
+×
+
+DWS at paras 102–105.
+
+Moreover, JTA had not established how GL Thailand’s refusal to pay JTA the
+principal sum under the 2IA would constitute a loss that JTA could recover
+from GLH and Mr Konoshita. 35
+
+##### Foot Note 35
+
+×
+
+DWS at paras 119–120.
+
+29 In reply, JTA submitted that the Avoidance Notice and evidence of the Thai
+Civil Case had been before the SGCA in CA 21. There was nothing inconsistent
+about JTA taking the position in the Thai Civil Case that 2IA and 3IA had been
+avoided as a matter of Thai law, and the position in Suit 1212 and CA 21 that
+as a matter of Singapore law, JTA had suffered loss and damage as it would not
+have entered into the IAs but for the defendants’ deceit and conspiracy. 36
+
+##### Foot Note 36
+
+×
+
+PRS at paras 49–53.
+
+Further, in Suit 1212 and CA 21, it was the first and second defendants who
+had pleaded that notwithstanding JTA’s Avoidance Notice, JTA would still
+receive the principal sum invested. 37
+
+##### Foot Note 37
+
+×
+
+PRS at para 55.
+
+30 The first and second defendants submitted in reply that the precise
+interest said to have been infringed upon was JTA’s right to receive a return
+of the principal sum (less the interest) upon maturity of the 2IA. Since it
+had not been established that GL Thailand was not in an ordinary position to
+repay the principal sum on 1 August 2021, there was no basis for JTA to assert
+that it has been defrauded into thinking that GL Thailand would be in an
+ordinary position to repay the principal on maturity. 38
+
+##### Foot Note 38
+
+×
+
+Defendants’ Reply Submissions (“DRS”) at paras 51–52.
+
+Whether a case management stay should be granted
+
+31 JTA submitted that the Thai proceedings did not affect the outcome of OS
+780 and no case management stay should be granted. JTA argued that the
+defendants were also barred by issue estoppel or the Henderson rule from
+arguing that the Thai proceedings – and their findings on GL Thailand’s
+liability to JTA and any set-off that may arise from the findings in the Thai
+proceedings – would affect the outcome of OS 780. 39
+
+##### Foot Note 39
+
+×
+
+PWS at paras 118–142.
+
+In any case, JTA contended that the question of whether JTA had suffered loss
+and damage in respect of the torts of deceit and conspiracy under Singapore
+law did not depend on the liability, if any, incurred in the proceedings in
+Thailand between JTA and GL Thailand. 40
+
+##### Foot Note 40
+
+×
+
+PWS at para 144–153; PRS at paras 79–80 and 85.
+
+JTA also submitted that there were no grounds for a case management stay as
+there were no overlapping issues with the Thai proceedings, which in turn
+meant that the resolution of OS 780 did not depend on the determination of the
+Thai proceedings; rather, the facts required for a proper resolution of OS 780
+had already been determined in CA 21. 41
+
+##### Foot Note 41
+
+×
+
+PWS at paras 159–164.
+
+Even if there was some notional or theoretical overlap, JTA argued it would
+still not be in the interests of justice or efficient case management for OS
+780 to be stayed. 42
+
+##### Foot Note 42
+
+×
+
+PWS at paras 165–166.
+
+32 The first and second defendants in turn submitted that a case management
+stay should be granted pending the determination of the Thai proceedings
+including the Thai Civil Case, Thai Claim 5922, Thai Claim 2313, and Thai
+Claim 4613 on the ground that it would be just and convenient to do so to
+avoid the risk of inconsistent judgments and of double recovery. Even if JTA
+was found to have suffered loss and damage in respect of the 2IA, the first
+and second defendants submitted that the quantum of damages could not be
+determined when Thai proceedings dealing with the same issue were ongoing (ie,
+the Thai Civil Case and Thai Claim 5922). 43
+
+##### Foot Note 43
+
+×
+
+DWS at paras 144–147, 178–181.
+
+Moreover, the question of whether GLH and Mr Konoshita were liable in the
+torts of deceit and conspiracy remained under investigation in the Thai Civil
+Case with fresh evidence of the NPO. 44
+
+##### Foot Note 44
+
+×
+
+DWS at paras 166–217; DRS at paras 71 and 84–86.
+
+They also suggested that no real prejudice would be occasioned through a
+temporary case management stay. 45
+
+##### Foot Note 45
+
+×
+
+DRS at para 6.
+
+Issues to be determined
+
+33 The following issues arose for my consideration:
+
+(a) whether the first and second defendants were liable in the tort of deceit
+in respect of the 2IA;
+
+(b) whether the first and second defendants were liable in the tort of
+conspiracy in respect of the 2IA;
+
+(c) whether JTA suffered any loss or damage;
+
+(d) whether JTA’s loss or damage was caused by or contributed to by JTA’s
+alleged wrongful acts in commencing various proceedings against GL;
+
+(e) the quantum of damages, if any, to be awarded; and
+
+(f) whether there should be a case management stay in view of the ongoing Thai
+proceedings.
+
+Doctrine of res judicata
+
+34 The doctrine of res judicata has been described as a “portmanteau term
+which is used to describe a number of different legal principles with
+different juridical origins” (see The Royal Bank of Scotland NV (formerly
+known as ABN Amro Bank NV) and others v TT International Ltd (nTan Corporate
+Advisory Pte Ltd and others, other parties) and another appeal [2015] 5 SLR
+1104 (“RBS”) at [98]). Essentially, it provides that the final judicial
+pronouncement of a competent court creates legal barriers to re-litigation,
+and it is founded on two undergirding considerations: the public interest of
+finality in litigation and the private interest that nobody be proceeded
+against twice on the same matter (see Turf Club Auto Emporium Pte Ltd and
+others v Yeo Boong Hua and others and another appeal and other matters [2017]
+2 SLR 12 (“Turf Club”) at [81]). There are three conceptually distinct but
+interrelated principles which make up the doctrine of res judicata (Turf Club
+at [82]):
+
+(a) cause of action estoppel;
+
+(b) issue estoppel; and
+
+(c) the extended doctrine of res judicata, ie, the defence of abuse of process
+or the Henderson rule (the “extended doctrine”).
+
+35 Cause of action estoppel holds that when a cause of action has been
+determined by a court of competent jurisdiction to exist or not to exist
+between the same parties, that outcome may not be challenged by either party
+in subsequent proceedings: (see Turf Club at [83]; RBS at [99]).
+
+36 Issue estoppel is wider in application than cause of action estoppel, and
+operates as long as some question of fact or law which is necessarily common
+to both an earlier action and a later action had been decided on the earlier
+occasion and is binding on the parties, either in the course of the same
+litigation (eg, as a preliminary point) or in other litigation which raises
+the same point between the same parties (see Turf Club at [84]; RBS at [100]).
+The following requirements must be met to establish an issue estoppel (see
+Turf Club at [87], citing Lee Tat Development Pte Ltd v MCST Plan No 301
+[2005] 3 SLR(R) 157 at [14]–[15]):
+
+(a) there must be a final and conclusive judgment on the merits;
+
+(b) the judgment must be by a court of competent jurisdiction;
+
+(c) the two actions that are being compared must involve the same parties; and
+
+(d) there must be identity of subject matter in the two proceedings.
+
+37 That being said, the doctrine of issue estoppel may be excluded in the
+special circumstance where relevant evidence subsequently becomes available
+(see Beh Chew Boo v Public Prosecutor [2021] 2 SLR 180 at [39]). This
+exception has been referred to in local case law as the Arnold exception,
+taking its name from the House of Lords decision of Arnold and others v
+National Westminster Bank plc [1991] 2 AC 93, where it was considered that
+there might be “an exception to issue estoppel in the special circumstance
+that there has become available to a party further material relevant to the
+correct determination of a point involved in the earlier proceedings”,
+provided that the further material in question “could not by reasonable
+diligence have been adduced in those [earlier] proceedings” (at 109A–109B).
+However, the Arnold exception is a highly circumscribed one, for which five
+cumulative conditions which must be fulfilled before such exception can arise:
+(see RBS at [103] and [190]):
+
+(a) first, the decision said to give rise to issue estoppel must directly
+affect the future determination of the rights of the litigants;
+
+(b) second, the decision must be shown to be clearly wrong;
+
+(c) third, the error in the decision must be shown to have stemmed from the
+fact that some point of fact or law relevant to the decision was not taken or
+argued before the court which made that decision and could not reasonably have
+been taken or argued on that occasion;
+
+(d) fourth, there can be no attempt to claw back rights that have accrued
+pursuant to the erroneous decision or to otherwise undo the effects of that
+decision; and
+
+(e) fifth, it must be shown that great injustice would result if the litigant
+in question were estopped from putting forward the particular point which is
+said to be the subject of issue estoppel – in this regard, if the litigant
+failed to take advantage of an avenue of appeal that was available to him, it
+will usually not be possible for him to show that the requisite injustice
+nevertheless exists.
+
+38 Finally, the extended doctrine applies to situations where litigants seek
+to argue points not previously determined by the court as they had not been
+brought to the court’s attention but ought properly to have been raised or
+argued then. The extended doctrine essentially extends the cause of action
+estoppel and issue estoppel to preclude parties, in the absence of special
+circumstances, from raising in subsequent proceedings matters which were not,
+but could and should have been, raised in the earlier proceedings (see Turf
+Club at [85]; RBS at [101]–[102]).
+
+Decision
+
+The first and second defendant’s liability in deceit and unlawful means
+conspiracy was res judicata
+
+39 A major plank of the first and second defendants’ submissions was
+essentially that JTA’s causes of action in tort and the issue of JTA’s loss
+under the 2IA were both not complete as the issue of loss and damage had not
+been resolved in CA 21. 46
+
+##### Foot Note 46
+
+×
+
+DWS at paras 93(1) and 93(2).
+
+JTA clarified in its reply submissions that it did not take the position that
+cause of action estoppel would apply as a result of the CA 21 Decision. 47
+
+##### Foot Note 47
+
+×
+
+PRS at para 38(a).
+
+In any event, I did not think it was necessary to consider the operation of
+cause of action estoppel here. It was clear from the CA 21 Decision that JTA
+had causes of action in the torts of deceit and conspiracy with respect to the
+2IA against the first and second defendants; the real dispute before me was
+not actually over the question of whether parties were entitled to challenge
+the existence or non-existence of this cause of action. Instead, the question
+before me was whether the doctrine of issue estoppel applied in this case; ie,
+whether the defendants were precluded in OS 780 from litigating issues
+pertaining to their liability in deceit and conspiracy, in light of the SGCA’s
+holding in CA 21 that actual loss under 2IA had not been established as it was
+not evident that GL Thailand would not be able to pay JTA in 2021 for the 2IA
+(see CA 21 Decision at [243]–[245]).
+
+40 Turning then to the question of issue estoppel, I was of the view that with
+respect to the 2IA, the doctrine of issue estoppel would operate to prevent
+re-litigation of the question of whether the defendants were liable in the
+torts of deceit and conspiracy. Out of the four requirements to make out issue
+estoppel (see above at [36]), the first three were clearly met in the present
+case. It was hence unsurprising that the first and second defendants only
+appeared to seriously dispute the fourth requirement, ie, that there must be
+identity of subject matter in both CA 21 and the present proceedings.
+
+41 The first and second defendants contended that there was no final and
+conclusive judgment on the merits in the CA 21 Decision in relation to the
+issue of JTA’s loss under the 2IA, and hence the CA 21 Decision had no
+preclusive effect on their ability to defend themselves on the issue of loss
+and damage. 48
+
+##### Foot Note 48
+
+×
+
+DWS at para 93(2).
+
+I did not agree with this line of argument. With respect to JTA’s claim in
+deceit, the SGCA had found in the CA 21 Decision that:
+
+(a) GLH had made false representations of fact to JTA through GL Thailand’s
+financial statements (at [146]);
+
+(b) Mr Konoshita and GLH had both made false representations of fact (at
+[165]); and
+
+(c) JTA had relied on Mr Konoshita’s representations along with GL Thailand’s
+financial statements before entering into the 2IA (at [172]);
+
+(d) JTA had established dishonest intent on the part of GLH and Mr Konoshita
+(at [192], [194]–[201]); and
+
+(e) JTA had made out all the elements of its claim in deceit against GLH and
+Mr Konoshita (at [202]).
+
+42 With respect to JTA’s claim in unlawful conspiracy, the SGCA held that the
+first to seventh respondents in CA 21 had intended to cause loss to JTA and
+were liable for the unlawful conspiracy claim (at [210]).
+
+43 The SGCA proceeded to note at [221] that:
+
+Having found [Mr Konoshita] and GLH liable for the deceit claim and the first
+to seventh respondents liable for the unlawful conspiracy claim, we now turn
+to the assessment of damages.
+
+It then held that actual loss under 2IA had not been established as it was not
+evident that GL Thailand would not be able to pay JTA in 2021 for the 2IA (see
+CA 21 Decision at [243]–[245]).
+
+44 From the above, it was clear to me that the only question of fact and/or
+law which was not caught by issue estoppel was the question of the quantum of
+damages to which JTA was entitled under the 2IA following its maturity, and GL
+Thailand’s non-payment of the principal sum. This question could be considered
+in the present application and will be addressed later in these grounds. Other
+questions pertaining to liability in deceit and/or unlawful conspiracy were
+however already resolved in CA 21 and could not be re-litigated in the present
+application.
+
+45 Turning to another point, the first and second defendants also submitted
+that although the SGCA had accepted JTA’s claims mounted on the basis of the
+SEC News Release, the SGCA had not yet considered the NPO as well as the Thai
+Civil Case, which had not yet been concluded at the material time.
+Preliminarily and for the sake of clarity, while Suit 1212 was commenced soon
+after the SEC News Release, I did not think that the subsequent and final
+decision in CA 21 was based solely on the SEC News Release. Rather, the SGCA
+had premised its findings in respect of GLH’s liability on evidence of: (a)
+two levels of round-tripping, which in turn showed that there had been sham
+loans designed to misrepresent GL Thailand’s profitability; (b) the unusual
+and suspicious nature of the loans in question; and (c) Mr Konoshita’s
+beneficial ownership of the third to seventh respondent borrowers, which
+included the Cyprus companies (see CA 21 Decision at [46]–[86], [101]–[111]).
+
+46 Turning then to the NPO, I did not think the NPO sufficed to change the
+complexion of JTA’s case against GLH, such that the Arnold exception would
+thereby arise in GLH’s favour. Applying the cumulative conditions of the
+Arnold exception (see above at [37]), I did not see how the NPO would
+establish that CA 21 had been clearly wrong. The NPO was concerned with
+criminal fraud as defined in s 341 of the Thai Penal Code. This had no bearing
+on the SGCA’s finding of whether the elements of deceit and unlawful means
+conspiracy in Singapore tort law were made out; the NPO did not throw up any
+new evidence that would be relevant to establishing the first and second
+defendant’s liability for the torts of deceit and unlawful means conspiracy.
+
+47 As for the Thai Civil Case, this was a claim for contractual damages
+against GL Thailand on the basis of JTA’s Avoidance Notice of the 2IA and was
+distinct from the loss and damage claimed for here, which instead was based on
+JTA’s claim that it entered into the 2IA as a result of the defendants’ deceit
+and conspiracy. Accordingly, I did not see how any decision in the Thai Civil
+Case would engage the Arnold exception since it would not be relevant to the
+first and second defendant’s liability in tort. Further, as noted by JTA, the
+CA 46 Decision had already held at [50] that JTA’s contractual claim against
+GL Thailand in the Thai proceedings was separate from its claims in tort in
+Singapore against entities which it alleged to be part of a conspiracy to
+defraud it. 49
+
+##### Foot Note 49
+
+×
+
+PWS at para 43.
+
+48 As such, I found that issue estoppel would bar the defendants from
+relitigating the question of whether they were liable in deceit and
+conspiracy.
+
+The remaining issue of the quantum of damages to which JTA was entitled
+
+49 For the same reasons as above, I was satisfied that JTA had suffered loss
+or damage pursuant to the 2IA. I was of the view that only the quantum of
+damages pursuant to the 2IA was a live issue in OS 780.
+
+50 The first and second defendants contended that GL Thailand’s ability to
+make repayment had been impaired by JTA’s unreasonable intervening conduct in
+the form of bringing proceedings in various jurisdictions as well as the
+obtaining of Mareva injunctions. 50
+
+##### Foot Note 50
+
+×
+
+DWS at paras 148–163.
+
+I saw little merit in this line of argument. It was already established in the
+CA 21 Decision that JTA’s loss and damage arose from the tortious wrongs
+inflicted by the defendants. Moreover, JTA was entitled to seek legal remedies
+for alleged wrongs that it had sustained; I did not see how doing so would
+constitute unreasonable intervening conduct.
+
+51 Turning back to the quantum of damages, I was of the view that JTA is
+entitled to the principal sum under the 2IA of US$130m less interest already
+received. After deducting the interest already received, I found the first and
+second defendants jointly and severally liable to pay JTA the sum of
+US$124,474,854.00, with interest to accrue on the said sum at the rate of
+5.33% per annum from 1 August 2021 to the date of full payment.
+
+Whether a case management stay should be granted
+
+52 Finally, I turn to the question of whether a case management stay should be
+granted. For case management concerns to be relevant at all, there must be the
+existence or at least the imminence of separate legal proceedings giving rise
+to a real risk of overlapping issues. The typical case would be one where, in
+the action, there was some overlap in the parties, some overlap in the issues
+engaged, and possibly an underlap in the remedies to be granted: see Rex
+International Holding Ltd and another v Gulf Hibiscus Ltd [2019] 2 SLR 682 at
+[11].
+
+53 I was not minded to grant a case management stay with respect to OS 780.
+The Thai Civil Claim, for one, was against GL Thailand and there was hence no
+overlap in parties. The issues also differed sufficiently as the Thai Civil
+Claim is for a contractual claim. Moreover, given what I had found above with
+respect to issue estoppel, I also did not think the other live Thai
+proceedings – which were largely concerned with questions of contractual
+liability, unlawful commencement of proceedings or criminal complaints under
+the laws of Thailand – were relevant to or had any bearing on the findings and
+orders granted in OS 780.
+
+54 Further, as submitted by JTA, 51
+
+##### Foot Note 51
+
+×
+
+PRS at para 88.
+
+Merck Sharp & Dohme Corp (formerly known as Merck & Co, Inc) v Merck KGaA
+(formerly known as E Merck) [2021] 1 SLR 1102 stands for the proposition that
+where, between the same parties, there is a prior or subsequent local judgment
+that is inconsistent with a foreign judgment, the foreign judgment should not
+be recognised (at [36(b)]). As such, even if any findings are made in the
+various Thai proceedings as to the first and second defendant’s tortious
+liability, I did not think such an overlap would justify the issuance of a
+case management stay.
+
+55 Likewise, with respect to the quantum of damages, which I have given my
+decision on (see [51] above), I did not think there was a real risk of
+overlapping issues which would justify a case management stay.
+
+Conclusion
+
+56 For the foregoing reasons, I allowed OS 780 and ordered the first and
+second defendants to pay to JTA damages in the sum of US$124,474,854.00 plus
+interest on the said sum at the rate of 5.33% per annum from 1 August 2021 to
+the date of full payment.
+
+57 As for costs, I ordered the first and second defendants to jointly and
+severally pay JTA the costs of OS 780, fixed at S$30,000, and disbursements at
+such quantum to be agreed, failing which parties shall be at liberty to apply.
+I also ordered the first and second defendants to jointly and severally pay
+JTA the costs of HC/RA 18/2022, which had been fixed at S$9,000 pursuant to
+HC/ORC 937/2022.
+
+58 Upon JTA’s undertaking to take out a formal application for a post-judgment
+Mareva injunction within 7 days, the orders in ORC 4388 and 4389 were to
+remain in force until further order for full payment of the judgment sum,
+interests and costs.
+
+Lee Seiu Kin  
+Judge of the High Court  
+---  
+  
+Chan Leng Sun SC and Colin Liew (instructed), Ang Hsueh Ling Celeste, Danitza
+Hon Cai Xia, Yiu Kai Tai and Yap Yong Li (Wong & Leow LLC) for the plaintiff;
+
+Teh Kee Wee Lawrence, Pan Xingzheng Edric, Chia Huai Yuan, Melvin See Hsien
+Huei, Alexander Kamsany Lee, V Santhosh, Clarence Cheang Wei Ming and Philip
+Teh Ahn Ren (Dentons Rodyk & Davidson LLP) for the first and second
+defendants;
+
+The third to sixth defendants absent and unrepresented.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 16 Jun 2023 (10:11 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

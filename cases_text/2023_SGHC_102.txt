@@ -1,0 +1,1722 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 102
+
+Suit No 913 of 2021
+
+Between
+
+| Calpeda Asia Pacific Pte Ltd  
+---|---  
+|  
+  
+… Plaintiff
+
+And
+
+| Chew Construction & Plumbing Pte Ltd  
+---|---  
+|  
+  
+… Defendant
+
+Counterclaim
+
+Between
+
+| Chew Construction & Plumbing Pte Ltd  
+---|---  
+|  
+  
+… Plaintiff in Counterclaim
+
+And
+
+| Calpeda Asia Pacific Pte Ltd  
+---|---  
+|  
+  
+… Defendant in Counterclaim
+
+judgment
+
+[Building and Construction Law — Subcontracts — Claims by subcontractor]
+
+[Building and Construction Law — Damages — Damages for defects]
+
+[Building and Construction Law — Damages — Delay in completion]
+
+[Building and Construction Law — Contractors’ duties — Maintenance]
+
+[Building and Construction Law — Contractors’ duties — Defect liability
+provisions]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Calpeda Asia Pacific Pte Ltd
+
+  
+v
+
+  
+
+Chew Construction & Plumbing Pte Ltd
+
+  
+
+[2023] SGHC 102
+
+General Division of the High Court — Suit No 913 of 2021  
+Kwek Mean Luck J  
+25–27, 30, 31 January, 31 March 2023
+
+18 April 2023 Judgment reserved.
+
+Kwek Mean Luck J:
+
+Introduction
+
+1 The plaintiff in Suit 913 of 2021 (“Suit 913”), Calpeda Asia Pacific Pte Ltd
+(“Calpeda”) claims against the defendant, Chew Construction & Plumbing Pte Ltd
+(“Chew Construction”), for a total sum of $683,147.92, for the work it has
+done in supplying and installing pumps in five building construction projects
+(the “Five Projects”, or singularly, the “Project”). 1
+
+##### Foot Note 1
+
+×
+
+Plaintiff’s Statement of Claim dated 8 November 2021 (“Statement of Claim”) at
+para 3.
+
+Chew Construction counterclaims for a total sum of $683,664.73. 2
+
+##### Foot Note 2
+
+×
+
+Defence & Counterclaim (Amendment No 3) dated 6 December 2022 (“Defence &
+Counterclaim”) at p 23.
+
+Issues that arise in this Suit generally revolve around whether the
+outstanding sums for each respective Project were due and payable, and whether
+Calpeda satisfied its work obligations under the relevant quotation for each
+Project.
+
+Facts
+
+2 Both Calpeda and Chew Construction are Singapore-incorporated companies
+operating within or in relation to the business of, amongst other things,
+building construction.
+
+3 Chew Construction engaged Calpeda for the supply and installation of pumps
+in the following Five Projects: 3
+
+##### Foot Note 3
+
+×
+
+Statement of Claim at para 3.
+
+(a) Punggol NorthShore C1 & C2 (“C1&C2”), including Variations 1 and 2 of this
+Project;
+
+(b) How Sun Road (“How Sun”);
+
+(c) Housing Development Board ("HDB”) C39 (“C39”);
+
+(d) Sembawang; and
+
+(e) The Terrace@Punggol (“Terrace”).
+
+Background to the dispute
+
+4 After completing the supply and installation of the pumps for the Five
+Projects, Calpeda sought payment from Chew Construction of all sums payable
+under the relevant contractual agreements. Calpeda claimed that an outstanding
+sum of $683,147.92 remained payable to it and commenced Suit 913 to claim
+these moneys from Chew Construction. The breakdown of this sum is as follows:
+4
+
+##### Foot Note 4
+
+×
+
+Statement of Claim at para 3.
+
+Project| Liability For| Payable Sum  
+---|---|---  
+C1&C2| Invoices| $504,826.00  
+How Sun| Invoices| $37,557.00  
+C39| Invoice| $25,359.00  
+Sembawang| Retention Sum| $64,200.00  
+Terrace| Retention Sum| $51,205.92  
+Total Outstanding Sum Payable| $683,147.92  
+  
+5 In response, Chew Construction asserted that Calpeda had breached the terms
+under the relevant agreements for C1&C2, How Sun, C39, and Terrace, by
+failing/refusing to carry out certain works and rectify such breaches.
+Consequently, Chew Construction incurred additional costs which it
+counterclaims against Calpeda: 5
+
+##### Foot Note 5
+
+×
+
+Defence & Counterclaim at para 5 and pp 23-24.
+
+Project| Liability For| Payable Sum  
+---|---|---  
+C1&C2| Back charges imposed by China Construction| $169,400.00 6
+
+##### Foot Note 6
+
+× Defence & Counterclaim at para 13.A(5).  
+Plastering of floors| $442,146.98 7
+
+##### Foot Note 7
+
+× Defence & Counterclaim at para 13.A(7).  
+How Sun| Cost of engaging third-party to complete works| $3,500.00 8
+
+##### Foot Note 8
+
+× Defence & Counterclaim at para 13.B(1).  
+C39| Cost of engaging third-party to complete works| $43,125.00 9
+
+##### Foot Note 9
+
+× Defence & Counterclaim at para 13.C(1).  
+Terrace| Damages incurred by Chew Construction for damage from water leakages|
+$25,492.75 10
+
+##### Foot Note 10
+
+× Defence & Counterclaim at para 13.E(2).  
+Total Outstanding Sum Payable| $683,664.73  
+  
+The parties’ cases
+
+6 In support of their submissions, Calpeda called as witnesses, Mr Quek Yew
+Chye (“Ken”), its Managing Director; Ms Tan Lee Lee (“Tan”), its Admin and
+Finance Director; and Mr Khoa Weilong, Geoffrey (“Geoffrey”), Director of
+Promptech (M&E) Pte Ltd (“Promptech”), Calpeda’s sub-contractor that installed
+the pumps for the projects ("Calpeda’s Sub-Contractor”). Chew Construction
+called as witnesses, Mr Chew Chee Chiang (“Chew”), its Managing Director; and
+Ms Lee Bee Fen (“Lee”), an accountant in Chew Construction.
+
+7 The issues which arise in this Suit are specific to each of the Five
+Projects and are therefore identified and addressed with respect to each
+Project.
+
+C1&C2
+
+Calpeda’s claim for $504,826
+
+8 It was undisputed that the quoted sum payable for the C1&C2 Project was
+$1,780,000 ($1,904,600, inclusive of Goods and Services Tax ("GST”)) pursuant
+to the quotation dated 20 February 2017. 11
+
+##### Foot Note 11
+
+×
+
+Plaintiff’s Core Bundle of Documents dated 17 January 2023 ("PCB”) at p 15;
+Defendant’s Opening Statement dated 19 January 2023 (“Defendant’s Opening
+Statement”) at para 2, Defendant’s Closing Submissions dated 14 March 2023
+(“Defendant’s Closing Submissions”) at para 6 and Chew Chee Chiang’s Affidavit
+of Evidence-in-Chief dated 3 January 2023 (“Chew’s AEIC”) at para 10.
+
+Calpeda’s position is that Chew Construction made full payment on the first 17
+invoices it sent from 21 February 2019 to 16 April 2020, and partial payment
+on the invoice sent on 23 October 2020, for a total of $1,502,708. 12
+
+##### Foot Note 12
+
+×
+
+PCB at p 5.
+
+Calpeda submits that, however, the amount of $401,892, which it had invoiced
+Chew Construction over nine invoices from 23 October 2020 to 27 July 2021,
+remains outstanding. 13
+
+##### Foot Note 13
+
+×
+
+Tan Lee Lee’s Affidavit of Evidence-In-Chief dated 3 January 2023 at para 6.
+
+9 The C1&C2 Project also involved two variation orders (“VOs”) – Variation
+Order 1 (“VO1”) and Variation Order 2 (“VO2”). Calpeda has executed these VOs
+and Chew Construction paid $29,425 for part of VO1. However, $102,934 remains
+outstanding – $28,783 for VO1 and $74,151 for VO2. Calpeda claims for this
+amount. 14
+
+##### Foot Note 14
+
+×
+
+PCB at p 5.
+
+10 Calpeda’s position is that Chew Construction has paid $1,532,133 (inclusive
+of GST) in total to Calpeda for the C1&C2 project, with $504,826 outstanding.
+Calpeda adduced emails and a statement of accounts from Calpeda to Chew
+Construction asking for payment. 15
+
+##### Foot Note 15
+
+×
+
+PCB at pp 1-5.
+
+11 Chew Construction’s accountant, Lee, testified that Chew Construction had
+paid $1,535,985 towards the main quotation. 16
+
+##### Foot Note 16
+
+×
+
+Lee Bee Fen’s Affidavit of Evidence-In-Chief dated 3 January 2023 at para 4.
+
+Chew Construction submitted that the amount owed should hence be $244,015
+($1,780,000 less $1,535,985).
+
+12 Calpeda and Chew Construction thus differed initially on the total amount
+paid by Chew Construction, in the amount of $3,852. 17
+
+##### Foot Note 17
+
+×
+
+Plaintiff’s 2nd Additional Submissions dated 28 March 2023 (“Plaintiff’s 2nd
+Additional Submissions”) at para 2.
+
+However, this was resolved at the hearing on 31 March 2023. Calpeda explained
+that the difference arose because it had attributed payment of the $3,852 to
+the Terrace Project rather than the C1&C2 Project. 18
+
+##### Foot Note 18
+
+×
+
+Plaintiff’s 2nd Additional Submissions at para 3.
+
+On the other hand, Chew Construction sought to attribute this sum from the
+C1&C2 Project. 19
+
+##### Foot Note 19
+
+×
+
+Defendant’s Further Submissions dated 28 March 2023 at para 2.
+
+However, this would increase the outstanding sum it owes to Calpeda for the
+Terrace Project by $3,852. I also note that the other reason for the
+difference between the parties’ calculations was that Chew Construction’s
+overall calculation failed to account for the GST payable on the main
+quotation amount of $1,780,000. At the hearing on 31 March 2023, Chew
+Construction accepted that there was no dispute over the total amount it had
+paid in relation to C1&C2 (ie. $1,532,133) and that payment of the $3,852
+would be attributed to the Terrace Project, as Calpeda had done in its
+calculations. 20
+
+##### Foot Note 20
+
+×
+
+Minute Sheet dated 31 March 2023 at p 2.
+
+13 In its defence to Calpeda’s claim, Chew Construction did not plead, or
+testify through its witnesses, that Calpeda had failed to supply or install
+the pumps or to carry out the VOs. Instead, Chew Construction contended that:
+(a) Calpeda installed and refused to “repair or maintain pump systems that are
+unfit for purpose … as some of the pump systems alarms periodically sound
+causing much annoyance and disturbance of the quiet enjoyment of the
+residence”; 21
+
+##### Foot Note 21
+
+×
+
+Chew’s AEIC at para 13.e; Defence & Counterclaim at para 13.A(9).
+
+and (b) Calpeda “abandoned and aborted the project in that they failed to
+carry out outstanding works during the [defect liabilities period (“DLP”)]
+including but not limited to providing [four] quarterly maintenance reports
+with warranty”. 22
+
+##### Foot Note 22
+
+×
+
+Defence & Counterclaim at para 13.A(8).
+
+14 Based on these contentions, two issues arise:
+
+(a) whether the pumps installed by Calpeda were unfit for purpose; and
+
+(b) whether Calpeda failed to maintain the pumps as it had abandoned the C1&C2
+Project.
+
+Issue 1: Whether the installed pumps were unfit for purpose
+
+15 Chew Construction’s contention that Calpeda installed pumps which were
+“unfit for purpose” was primarily reliant on Chew’s testimony. However, Chew
+testified during the trial that he did not say “that [Calpeda’s pump systems
+were] unfit for purpose”. 23
+
+##### Foot Note 23
+
+×
+
+Certified Transcript for the hearing dated 30 January 2023 (“Transcript (30
+January 2023)”) at p 98, line 27, to p 99, line 4, and p 101, lines 28-30,.
+
+Instead, his evidence was that the pumps were correctly installed but that
+there were many incidents of alarms going off due to the pumps. 24
+
+##### Foot Note 24
+
+×
+
+Transcript (30 January 2023) at p 99, lines 2-13.
+
+Chew Construction informed Calpeda of these incidents. 25
+
+##### Foot Note 25
+
+×
+
+Chew Chee Chiang’s Affidavit-in-Reply dated 9 Feb 2022 (“Chew’s 1st
+Affidavit”) at paras 19-20.
+
+16 In response, Calpeda provided the following explanations: 26
+
+##### Foot Note 26
+
+×
+
+Plaintiff’s Closing Submissions dated 14 March 2023 (“Plaintiff’s Closing
+Submissions”) at para 10.
+
+(a) Geoffrey, Director of Calpeda’s Sub-Contractor, testified that he went
+down to check on the pump systems and found that there was an overflow at a
+particular pump. This overflow was due to a stone getting caught inside the
+pilot valve, damaging the pump. This incident was then resolved. Geoffrey also
+referred to an earlier WhatsApp (“WA”) message he sent to Chew Construction
+stating the same. 27
+
+##### Foot Note 27
+
+×
+
+Chew’s 1st Affidavit at pp 52 and 57.
+
+(b) Ken, Calpeda’s Managing Director, explained that Calpeda responded to an
+incident raised and found soil coming out from the water chamber. He referred
+to an email report on this incident which contained photos of Calpeda’s
+findings from Calpeda to Chew Construction. 28
+
+##### Foot Note 28
+
+×
+
+Quek Yew Chye’s Affidavit of Evidence-In-Chief dated 3 January 2023 (“Ken’s
+AEIC”) at pp 210-212.
+
+(c) In another incident where the alarm went off, Ken explained that Calpeda
+found that an unauthorised person used the hosereel hose, which triggered the
+alarm. This information was relayed by Ken to Chew Construction in an email
+update. 29
+
+##### Foot Note 29
+
+×
+
+Ken’s AEIC at p 294.
+
+17 These explanations, along with Calpeda’s evidence showed, first, that
+Calpeda had been willing to respond to incidents and rectify any issues
+arising from the pumps they installed. Second, they showed that the incidents
+did not involve defects in the pump systems that they installed. Ken also
+testified that, where the incidents were due to manufacturing defects, Calpeda
+could have submitted a claim under the warranty for the pump. 30
+
+##### Foot Note 30
+
+×
+
+Certified Transcript for the hearing dated 27 January 2023 at p 50, lines
+16-20.
+
+In other words, if the incidents were caused by defects in the pump system,
+there is no reason why Calpeda would have chosen to ignore them instead of
+rectifying the defect. Calpeda’s evidence was not rebutted by Chew
+Construction.
+
+18 Ken and Geoffrey also testified that fully tested and duly commissioned
+pump systems for all 15 blocks of HDB flats of this project were handed over
+by Calpeda and its Sub-Contractor to either Chew Construction or the main
+contractor for C1&C2, China Construction, during the period between June 2020
+to July 2021. 31
+
+##### Foot Note 31
+
+×
+
+Ken’s AEIC at para 82; Transcript (30 January 2023) at p 5, lines 17-31. Khoa
+Weilong, Geoffrey’s Affidavit of Evidence-in-Chief dated 3 January 2023
+(“Geoffrey’s AEIC”) at para 19(a).
+
+This was also evidenced by documents adduced by Calpeda setting out the
+handover, testing, and checking dates for the pump systems installed for
+C1&C2. 32
+
+##### Foot Note 32
+
+×
+
+PCB at pp 32-48.
+
+Chew, himself, testified that the HDB blocks were completed between June 2020
+to July 2021 and that residents had moved in from June 2021. 33
+
+##### Foot Note 33
+
+×
+
+Chew Chee Chiang’s Affidavit dated 24 November 2022 ("Chew’s 2nd Affidavit”)
+at para 8.
+
+In order for residents to move into the HDB blocks, the Temporary Occupancy
+Permit ("TOP”) must have been issued. As it is common ground between the
+parties that passing the HDB’s inspections of the pump systems was part of the
+requirements for the issuance of the TOP for these blocks, Chew’s testimony
+contradicts Chew Construction’s submission that there was “no actual
+handover”. 34
+
+##### Foot Note 34
+
+×
+
+Defendant’s Closing Submissions at paras 26-29.
+
+19 During cross-examination, Chew Construction’s accountant, Lee, insisted
+that, despite residents moving into the HDB blocks, there were many
+outstanding defects in Calpeda’s work. 35
+
+##### Foot Note 35
+
+×
+
+Transcript (30 January 2023) at p 35, lines 11-13.
+
+She suggested that there was a list of defects compiled by Chew Construction
+which recorded all the defects of the pumps installed by Calpeda. 36
+
+##### Foot Note 36
+
+×
+
+Transcript (30 January 2023) at p 35, lines 13-21.
+
+However, when Lee was asked where this list of defects could be found in Chew
+Construction’s bundle of documents, she was unable to identify any part of the
+bundle which actually contained it. 37
+
+##### Foot Note 37
+
+×
+
+Transcript (30 January 2023) at p 35, lines 18-20.
+
+Counsel for Calpeda invited counsel for Chew Construction to assist Lee.
+However, counsel for Chew Construction conceded that no such list of defects
+existed. 38
+
+##### Foot Note 38
+
+×
+
+Transcript (30 January 2023) at p 35, lines 18-32.
+
+20 Chew Construction’s failure to show that there were any defects in the
+installed pumps, coupled with Chew’s testimony that the pumps were not “unfit
+for purpose”, means that there was no evidential foundation for its submission
+that the pumps were “unfit for purpose”. I hence find that Chew Construction
+has not proven that the pump systems installed by Calpeda were unfit for
+purpose.
+
+Issue 2: Whether Calpeda failed to carry out maintenance because it abandoned
+the project
+
+21 Chew Construction also contended, in its defence, that Calpeda failed to
+carry out "outstanding works” on the pumps during the DLP and thereby
+abandoned the C1&C2 Project. These “outstanding works” included the provision
+of quarterly maintenance reports on the installed pumps. 39
+
+##### Foot Note 39
+
+×
+
+Defence & Counterclaim at p 11.
+
+22 Chew Construction referred to an email exchange in an attempt to show
+Calpeda’s intention not to rectify defects in the pumps it installed. 40
+
+##### Foot Note 40
+
+×
+
+Ken’s AEIC at pp 215-218.
+
+However, that exchange shows Calpeda responding to Chew Construction and
+asking Geoffrey, Managing Director of its Sub-Contractor, to rectify the
+defect. Geoffrey replied on the actions taken in relation to work that was
+within the scope of Calpeda’s obligations and also specified what was not in
+this scope. There is no evidence that shows that Chew Construction disagreed
+with Geoffrey’s reply on the specifications of the scope of Calpeda’s
+obligations or that Calpeda would rectify defects within the scope of its
+obligations.
+
+23 Calpeda does not dispute that it did not actually maintain the pumps it had
+installed. In its defence, Ken testified that Calpeda was prevented from
+maintaining the pumps. Ken explained that, after a project is completed,
+Calpeda must be put in touch with the person-in-charge of the development,
+which could be the relevant Town Council or Management Corporation Strata
+Title ("MCST”), to discuss and commence the maintenance period. 41
+
+##### Foot Note 41
+
+×
+
+Certified Transcript for the hearing dated 26 January 2023 (“Transcript (26
+January 2023)”) at p 81, lines 1-3 and 25-27.
+
+This is because the main contractor may no longer be involved in the project
+during the maintenance period. 42
+
+##### Foot Note 42
+
+×
+
+Transcript (26 January 2023) at p 103, lines 4-14.
+
+However, despite Calpeda writing to Chew Construction on three separate
+occasions – on 8 June 2021, 43
+
+##### Foot Note 43
+
+×
+
+Ken’s AEIC at p 201.
+
+14 May 2022, 44
+
+##### Foot Note 44
+
+×
+
+Ken’s AEIC at p 568.
+
+and 3 June 2022 45
+
+##### Foot Note 45
+
+×
+
+Ken’s AEIC at p 637.
+
+– Chew Construction did not arrange to put Calpeda in touch with the Town
+Council so that Calpeda could follow up and carry out the maintenance of the
+pumps. 46
+
+##### Foot Note 46
+
+×
+
+Ken’s AEIC at paras 75-81.
+
+Chew Construction did not rebut this evidence or explain why they did not put
+Calpeda in touch with the Town Council to begin the maintenance. Further, Chew
+Construction did not submit or adduce any evidence to the effect that
+maintenance could have been started without putting Calpeda in touch with the
+Town Council. Calpeda submitted that the reason for Chew Construction’s
+inaction was because they wanted to avoid paying the large outstanding sum due
+for the C1&C2 Project, which Chew Construction would have had to pay if they
+accepted the handover. In such circumstances, Calpeda should not be penalised
+for Chew Construction’s inaction.
+
+24 I find that on the evidence, Calpeda was willing to carry out the
+maintenance and sought to do so, only to be inhibited by Chew Construction.
+Moreover, as set out above, where there were incidents involving the pumps and
+Calpeda was asked to respond, they did so. Consequently, I find that Chew
+Construction has not proven its contention that Calpeda abandoned the project
+and refused to carry out maintenance. While Calpeda was in breach of its
+obligations, this breach may be wholly attributed to Chew Construction, who is
+thus not entitled to seek a reduction in the amount due to Calpeda on this
+basis.
+
+25 In summary, I find that Calpeda has proven its claims for the C1&C2 Project
+for the outstanding invoiced amount of $401,892 and the VOs of $102,934. Chew
+Construction has not proven its claims that the pumps installed by Calpeda
+were unfit for purpose or that Calpeda failed to carry out maintenance because
+it abandoned the project.
+
+Chew Construction’s Counterclaim
+
+26 I next turn to consider Chew Construction’s counterclaim against Calpeda in
+relation to C1&C2 for: 47
+
+##### Foot Note 47
+
+×
+
+Defence & Counterclaim at p 23.
+
+(a) back charges imposed by the main contractor of C1&C2, China Construction,
+amounting to $169,400; 48
+
+##### Foot Note 48
+
+×
+
+Defence & Counterclaim at para 13.A(5).
+
+(b) the cost of reinstating and replastering the excess rooms of 244 floors,
+amounting to $442,146.98; 49
+
+##### Foot Note 49
+
+×
+
+Defence & Counterclaim at para 13.A(7).
+
+and (c) exemplary or aggravated damages for perpetrating fraud against HDB
+inspectors. 50
+
+##### Foot Note 50
+
+×
+
+Defence & Counterclaim at para 13.A(12).
+
+As Chew Construction’s counterclaim for (a) and (b) are based on the same two
+contentions, I will deal with these two prayers together.
+
+27 This section deals with the following issues:
+
+(a) whether Calpeda is liable for the back charges and rectification costs
+incurred by Chew Construction; and
+
+(b) whether Calpeda perpetrated fraud against the HDB inspectors.
+
+Issue 1: Whether Calpeda is liable for the back charges and rectification
+costs incurred by Chew Construction
+
+28 Chew Construction contended that in the process of performing its
+obligations in relation to C1&C2, Calpeda caused damage which had to be
+rectified. Chew Construction submitted that, first, Calpeda failed to provide
+pipe sleeves at the conduit passage of each floor. This would have provided
+allowance for Calpeda to run the conduit through even if China Construction
+were to cover up the conduit passages with concrete. 51
+
+##### Foot Note 51
+
+×
+
+Defence & Counterclaim at para 13.A(5).
+
+Second, the running of the conduits was delayed. Chew Construction submits
+that the conduits should have been run before the floors of the risers were
+covered up. If it had done so, Calpeda would not have needed to hack through
+the concrete cover for the conduit passages of each floor corridor in order to
+lay the conduit. 52
+
+##### Foot Note 52
+
+×
+
+Defence & Counterclaim at para 13.A(4).
+
+This hacking resulted in damage that required re-sealing with concrete to make
+good. 53
+
+##### Foot Note 53
+
+×
+
+Chew’s AEIC at para 22 and Defence & Counterclaim at para 13.A(5).
+
+However, Calpeda refused to carry out such re-sealing. 54
+
+##### Foot Note 54
+
+×
+
+Defence & Counterclaim at para 13.A(5).
+
+29 Based on Chew Construction’s submissions, two sub-issues arise:
+
+(a) whether Calpeda was required to provide the pipe sleeves; and
+
+(b) whether the delay on Calpeda’s part, if any, resulted in its need to hack
+the riser floors to install the conduits.
+
+(1) Whether Calpeda was required to provide pipe sleeves
+
+30 Chew Construction’s position was that the damage caused by the hacking and
+the consequent rectification costs it incurred would have been avoided but for
+Calpeda’s failure to provide conduit pipe sleeves. However, I find that
+Calpeda was not required to do so for the following reasons.
+
+31 First, Calpeda was engaged only to supply and install pumps for Chew
+Construction. Contrary to Chew Construction’s submissions, the provision and
+installation of pipe sleeves constitutes piping and/or cement works, which was
+not part of the works for which Calpeda was engaged to do. This is supported
+by Calpeda’s quotations addressed to Chew Construction for C1&C2 which clearly
+set out all the works that Calpeda was engaged to carry out. According to the
+quotation dated 20 February 2017, these works mainly related to the supply and
+installation of pumps, valves, the control panel, cabling between the pump and
+control panel, and the supply of a telemonitoring system. 55
+
+##### Foot Note 55
+
+×
+
+PCB at pp 15-27.
+
+This quotation also specifically excluded, amongst other things, “[c]ivil
+works of any description including cast-in items, etc.” and “[a]ny description
+which is not mentioned in this quote”. 56
+
+##### Foot Note 56
+
+×
+
+PCB at p 27.
+
+These same caveats are found in Calpeda’s quotation dated 31 May 2018, 57
+
+##### Foot Note 57
+
+×
+
+PCB at p 29.
+
+which related to the supply and installation of an ejector system. 58
+
+##### Foot Note 58
+
+×
+
+PCB at pp 28-30.
+
+The effect of these caveats is that, as the provision of pipe sleeves was not
+included in the quotations, Calpeda was not required to provide pipe sleeves.
+
+32 Second, Chew Construction did not provide any documentary evidence that
+showed that it was Calpeda’s responsibility to provide the pipe sleeves.
+Neither is there any mention in the affidavits of Chew Construction’s
+witnesses, of an agreement on the part of Calpeda to do so.
+
+33 Third, Calpeda appears to have been operating under the presumption that
+pipe sleeves would be provided at the site. This was evident from Calpeda’s
+email to Chew Construction on 17 September 2019 stating, amongst other things,
+that pipe sleeves had not been provided for. 59
+
+##### Foot Note 59
+
+×
+
+Defendant’s Core Bundle dated 18 January 2023 (“DCB”) at p 112.
+
+Chew Construction did not respond to correct this presumption or to insist
+that it was Calpeda’s responsibility to provide pipe sleeves.
+
+(2) Whether the delay on Calpeda’s part resulted in the need to hack the riser
+floors
+
+34 Chew Construction’s position was that Calpeda’s installation of the
+conduits was delayed, which resulted in Calpeda’s need to hack the riser
+floors. However, I find that Chew Construction has not shown that Calpeda was
+aware of when the riser floors would be covered.
+
+35 On the contrary, Geoffrey’s unrebutted testimony was that no notice had
+been served on them of deadlines as to when they should install the conduit by
+and when the riser floors were be covered. Hence, they could not be said to
+have missed deadlines. 60
+
+##### Foot Note 60
+
+×
+
+Certified Transcript for the hearing dated 25 January 2023 at p 84, lines
+6-26.
+
+Additionally, Chew Construction has not provided any evidence to show that
+Calpeda was informed to lay the conduit by a certain date, after which the
+riser floors would be covered. Moreover, Calpeda also sent an email on 17
+September 2019 to Chew Construction stating, amongst other things, that the
+installation could not commence because the site was not ready. 61
+
+##### Foot Note 61
+
+×
+
+DCB at p 112.
+
+I therefore find that Chew Construction has not shown that these damages were
+incurred due to a delay on Calpeda’s part. As Calpeda had no knowledge as to
+when the riser floors would be covered, it also had no knowledge as to when it
+would need to install the conduit by to avoid any hacking.
+
+36 Further, Chew Construction was aware that Calpeda’s Sub-Contractor,
+Promptech, were going to hack the riser floors. This is evident from the email
+exchange adduced by Geoffrey. In an email to Calpeda, copied to Chew
+Construction, Geoffrey set out a list of 15 HDB blocks for which, “as agreed”,
+Promptech “[would] drill the risers”. 62
+
+##### Foot Note 62
+
+×
+
+Geoffrey’s AEIC at paras 15-17 and p 12.
+
+Chew’s response to Geoffrey’s email dated 29 May 2019 was to ask another
+person in Chew Construction, one Bryan, to check. 63
+
+##### Foot Note 63
+
+×
+
+Geoffrey’s AEIC at p 12.
+
+Chew Construction did not reply that they disagreed with Promptech carrying
+out the drilling.
+
+37 There is also no correspondence or agreement as to which party is
+responsible for the rectification after the drilling. It should be reiterated
+that the hacking performed by Calpeda was not contractually provided for in
+the quotation. Given that both hacking and rectifying were outside the scope
+of Calpeda's responsibilities, I find that Calpeda should not be responsible
+for the back charges and rectification costs.
+
+38 Following from the above, I find that Chew Construction has not proven that
+the hacking of the riser floors was due to a delay on Calpeda’s part or that
+Calpeda should be liable for back charges and rectification costs arising from
+the hacking. My finding is further bolstered by the fact that the cost of the
+additional rectification works was only allegedly incurred. Chew Construction
+has not adduced any evidence that it has actually incurred the back charges
+and rectification costs which it alleges was due to damage caused by Calpeda.
+
+Issue 2: Whether Calpeda is liable for exemplary damages for the alleged fraud
+committed
+
+39 Chew Construction also claimed that Calpeda was liable to Chew Construction
+for exemplary damages for an alleged fraud committed against HDB inspectors.
+64
+
+##### Foot Note 64
+
+×
+
+Defendant’s Opening Statement at para 25.
+
+In its pleadings, Chew Construction sought aggravated damages in the
+alternative. However, this alternative remedy was not canvassed in Chew
+Construction’s submissions and thus this section will only consider its claim
+for exemplary damages.
+
+40 Chew claimed that Calpeda removed properly installed domestic transfer
+pump(s) from one Blk 413A and installed it in one Blk 413B pending the HDB’s
+inspection of the latter. Once the inspection of Blk 413B was completed,
+Calpeda then removed the pump from Blk 413B and reinstalled the same at Blk
+413A. 65
+
+##### Foot Note 65
+
+×
+
+Chew’s AEIC at para 30.
+
+In other words, Chew Construction alleges that Calpeda defrauded the HDB
+inspectors by conjuring the illusion that the pump had been properly installed
+at Blk 413B when in reality it was not.
+
+41 I find this to be a completely baseless claim, both legally and
+evidentially.
+
+(1) No legal basis for exemplary damages
+
+42 First and foremost, there is no legal basis for Chew Construction’s claim
+that it was entitled to exemplary damages. In its Opening Statement, Chew
+Construction cited Kuddud v Chief Constable of Leicestershire [2002] 1 AC 122
+(“Kuddud”) as its authority that fraud attracts exemplary damages (referenced
+in Harvey McGregor, Martin Spencer & Julian Picton, McGregor on Damages (Sweet
+& Maxwell, 18th Ed, 2009) (“McGregor”) at para 11-001). 66
+
+##### Foot Note 66
+
+×
+
+Defendant’s Opening Statement at para 29.
+
+However, McGregor at para 11-007 notes that the House of Lords in Kuddud was
+not in agreement on whether fraud attracts exemplary damages. In other words,
+Kuddud does not stand for the proposition that Chew Construction submits. This
+legal submission was subsequently abandoned by Chew Construction after the
+trial, and no other legal authority was cited in its place. 67
+
+##### Foot Note 67
+
+×
+
+Defendant’s Closing Submission at paras 59-60.
+
+43 More pertinently, even if there was legal authority that the perpetration
+of fraud attracted exemplary damages, Chew Construction did not provide legal
+basis that it was entitled to such damages, despite not being the subject of
+fraud. If any purported fraud had been committed, it would have been HDB who
+was defrauded, not Chew Construction. Yet, Chew Construction maintains the
+position that it is entitled to exemplary damages on the basis that it is a
+“victim” who is imposed with common law and contractual duties to ensure the
+safety of its constructions and to rectify any defects. 68
+
+##### Foot Note 68
+
+×
+
+Defendant’s Closing Submissions at para 60.
+
+Even if Chew Construction was saddled with such duties, there remains no legal
+basis that it is a “victim” and entitled to exemplary damages.
+
+(2) No evidential basis for exemplary damages
+
+44 Even if there was legal basis for Chew Construction’s claim of exemplary
+damages, there is no evidential basis for it. First, there is no documentary
+evidence that Chew Construction considered itself a victim of fraud, or that
+it was aggrieved on finding out about the transfer of pumps. On the contrary,
+there is no evidence that Chew Construction reported this alleged fraud to the
+authorities or confronted Calpeda on its discovery. Similarly, there is no
+evidence that China Construction made any such report. There is thus no
+evidential basis for Chew Construction’s submission that it was a victim by
+virtue of its contractual responsibility to China Construction to ensure the
+safety of the construction.
+
+45 At the hearing on 31 March 2023, Chew Construction conceded that the
+evidence at trial did not meet the threshold for proving fraud, since Chew’s
+evidence was based on hearsay.
+
+46 In view of the above, I dismiss Chew Construction’s counterclaims in
+relation to C1&C2.
+
+How Sun
+
+47 Chew Construction engaged Calpeda to do works for the How Sun Project set
+out in quotations dated 26 March 2021 69
+
+##### Foot Note 69
+
+×
+
+PCB at pp 577-583.
+
+and 23 June 2021. 70
+
+##### Foot Note 70
+
+×
+
+PCB at p 576.
+
+These quotations were duly signed by Chew Construction. 71
+
+##### Foot Note 71
+
+×
+
+PCB at pp 576 and 583.
+
+Calpeda completed the works pursuant to these quotations, adducing documents
+showing the testing and commissioning dates as evidence of such completion. 72
+
+##### Foot Note 72
+
+×
+
+PCB at pp 592 and 601-614.
+
+Chew Construction has made partial payment to Calpeda in relation to the How
+Sun Project. However, Calpeda claims an invoiced amount of $37,557 that it
+submits remains outstanding. Chew Construction does not dispute this claim.
+What is in dispute is whether Calpeda had failed to satisfy its obligations in
+relation to Item 5 of the 26 March 2021 quotation, which relates to a “Sump
+Pump System for Irrigation Tank” (“Item 5”). 73
+
+##### Foot Note 73
+
+×
+
+PCB at p 581.
+
+48 Calpeda submits that there was an oral agreement between the parties that
+Calpeda would no longer be obligated to perform Item 5. This agreement was
+evidenced by the following WA messages that were exchanged between Ken and
+Chew on 9 August 2021: 74
+
+##### Foot Note 74
+
+×
+
+Ken’s AEIC at p 811.
+
+[9/8/21, 4:59:59 PM] Ken: Irrigation pump u need us to send and install?
+
+[9/8/21, 5:19:48 PM] Chew Plumbling [sic] Boss Mr Chew: I take come ready ??
+[sic]
+
+…
+
+[9/8/21, 6:11:37 PM] Ken: Alex told me 3 Wilo pump is there.
+
+Chew Construction had, on 5 August 2021, engaged Wilo (Singapore) Pte Ltd
+(“Wilo”) to supply the same pump as that in Item 5. 75
+
+##### Foot Note 75
+
+×
+
+Chew’s 1st Affidavit at pp 93-94.
+
+However, it provided no prior notice to Calpeda that it would be engaging a
+third party to do so. In Ken’s email on 4 October 2021 to Chew Construction,
+he said: 76
+
+##### Foot Note 76
+
+×
+
+Ken’s AEIC at p 804.
+
+[Calpeda] need fund to arrange for the irrigation pump installation but you
+tell us to take out irrigation but proceed with some electrical work for the
+irrigation system, you will find pumps and install. We should not invoice the
+irrigation pump installation as we did not install and you will not back
+charge us. In fact in my Whatsapp message to you, I asked if we can proceed to
+install the irrigation but you reply you already got the pumps.
+
+49 In response, Chew Construction claims that it engaged Wilo to complete Item
+5 at $16,300, which was $3,500 more than what Calpeda had quoted, being
+$12,800 (exclusive of GST). Chew Construction thus counterclaims against
+Calpeda for $3,500 on the basis that there was no variation of Calpeda’s
+obligation in relation to Item 5. 77
+
+##### Foot Note 77
+
+×
+
+Defence & Counterclaim at p 23.
+
+50 The nub of Chew Construction’s case is that it engaged Wilo to complete
+Item 5 because Calpeda was late in so doing. On 26 March 2021, Chew had sent
+Ken a WA text saying “I direct order sewer pump c39 ,because u also no pump
+right.? Your subcon also dont care , we cant wait , u know ?? Tomorrow i want
+meet u afternoon after 4pm” [errors in original]. 78
+
+##### Foot Note 78
+
+×
+
+Chew’s 1st Affidavit at p 106.
+
+However, there is no evidence of what was discussed during the meeting which
+Chew requested in this WA message. The 26 March 2021 WA message is therefore
+merely evidence of the possibility of Chew Construction directly ordering a
+sewer pump rather than of Chew Construction informing Calpeda that it would
+not be relying on Calpeda any further.
+
+51 Chew Construction also refers to a WA message sent on 26 July 2021 whereby
+it informed Calpeda that the works for the How Sun Project, including Item 5,
+had to be completed by 28 July 2021. 79
+
+##### Foot Note 79
+
+×
+
+Chew’s 1st Affidavit at p 88.
+
+However, the 26 July 2021 WA message did not specify what aspect of the works
+had to be completed by 28 July 2021. In particular, there was no mention of
+Item 5. Instead, this WA message demonstrates Chew Construction’s continued
+expectation and reliance on Calpeda to complete the works as of 26 July 2021.
+There was no indication that Chew Construction would be engaging another party
+to complete the works if Calpeda failed to complete it by this date.
+
+52 Ken’s unchallenged testimony is that Calpeda had proceeded to complete the
+works that were necessary for inspection by the authorities. 80
+
+##### Foot Note 80
+
+×
+
+Ken’s AEIC at para 115.
+
+Further, a WA message on 9 August 2021 shows that Calpeda remained willing to
+install the irrigation pump as of that date. 81
+
+##### Foot Note 81
+
+×
+
+Ken’s AEIC at p 811.
+
+Chew Construction did not have any emails or messages where it informed
+Calpeda that item 5 was to be installed by a certain date, that it was going
+to hire someone else if Calpeda was late, or that it had already appointed
+Wilo to install the pumps.
+
+53 Chew Construction accepts that there is “no written evidence” that it was
+chasing Calpeda to install Item 5. 82
+
+##### Foot Note 82
+
+×
+
+Defendant’s Closing Submissions at para 67.
+
+Chew Construction also did not rebut Calpeda’s position in its email dated 4
+October 2021 that Chew Construction had asked Calpeda to take out the
+irrigation system. 83
+
+##### Foot Note 83
+
+×
+
+Ken’s AEIC at para 118 and p 804.
+
+54 I find that on the evidence, Chew Construction proceeded to purchase Item 5
+from Wilo without informing Calpeda, which remained willing and able to
+complete Item 5. There is no evidence that Chew Construction had to go to Wilo
+because Calpeda was late for that item, that Calpeda was informed of deadlines
+or that Chew Construction would be going to another vendor in default of the
+deadlines. In the circumstances, there is no basis for Chew Construction to
+counterclaim against Calpeda for the additional cost incurred by engaging Wilo
+for Item 5.
+
+55 I hence allow Calpeda’s claim for $37,557 for the How Sun Project and
+dismiss Chew Construction’s counterclaim for $3,500 in relation to this
+project.
+
+C39 Project
+
+56 In relation to C39, Calpeda claims from Chew Construction $25,359, being
+the outstanding sum under an invoice based on a quotation dated 15 July 2021
+("July 2021 Quotation”) that remains unpaid. 84
+
+##### Foot Note 84
+
+×
+
+PCB at pp 625-626 and 632-633.
+
+The parties had previously agreed on the scope of Calpeda’s works for C39 in a
+quotation dated 7 November 2019 ("November 2019 Quotation") for $183,012.80.
+85
+
+##### Foot Note 85
+
+×
+
+PCB at pp 615-624.
+
+However, Calpeda’s case is that the parties verbally agreed to vary Calpeda’s
+obligations such that Calpeda would only supply the pumps. 86
+
+##### Foot Note 86
+
+×
+
+Plaintiff’s Closing Submissions at para 45 and 47.
+
+Thus, the November 2019 Quotation was replaced by the July 2021 Quotation.
+
+57 In support of this submission, Ken referred to his email to Chew
+Construction dated 13 March 2021 where he set out that it had been agreed
+that: 87
+
+##### Foot Note 87
+
+×
+
+Ken’s AEIC at p 186.
+
+1\. Chew Plumbing will talk to Safeway and Calpeda buy the fire pump from
+Safeway
+
+2\. Calpeda will purchase the control panel from Syntech and engage Syntech
+for the testing
+
+3\. Chew plumbing will assist in the mechanical installation of fire pump
+
+4\. Calpeda will complete the electrical, testing and commissioning of fire
+pump system.
+
+58 The verbal agreement is also recorded in the email dated 1 June 2021 from
+Ken to Chew, where Ken said: 88
+
+##### Foot Note 88
+
+×
+
+PCB at p 1.
+
+You have requested to cancel C39 contract amount of $171,040 to Calpeda, which
+you have enter contract with other supplier. You have acknowledge we had
+attended to BLK 228A, 229A and BLK 228 MCSP and agreed we will charge you the
+hosereel pumps, submersible pump, pressure tank and manpower attending
+testing, inspection and co-ordination work.
+
+59 This was then followed up by the July 2021 Quotation that Chew Construction
+signed with Calpeda, thereby reducing the cost of the works for the C39
+project to $25,359. 89
+
+##### Foot Note 89
+
+×
+
+PCB at pp 625-626.
+
+60 Chew Construction does not dispute that Calpeda supplied the pumps as set
+out in the July 2021 Quotation. However, it maintains that the July 2021
+Quotation was not intended to replace the November 2019 Quotation and that
+Calpeda failed to complete the remaining works as set out in the latter. 90
+
+##### Foot Note 90
+
+×
+
+Defendant’s Closing Submissions at paras 71-72.
+
+Due to such failure, Chew Construction claims that it had to engage a third
+party contractor, Safeway, on 12 March 2021 to complete the works at the cost
+of $214,165. 91
+
+##### Foot Note 91
+
+×
+
+Chew’s 1st Affidavit at pp 107-115.
+
+This cost was $43,125 more than Calpeda’s quote in the November 2019 Quotation
+and therefore, Chew Construction counterclaims this sum, being the additional
+cost incurred due to Calpeda’s alleged failure.
+
+61 Chew Construction was unable to offer any documentary evidence to refute
+Calpeda’s evidence that the agreement pursuant to the November 2019 Quotation
+for works of the amount of $171,040 was cancelled and replaced with an
+agreement pursuant to the July 2021 Quotation for the reduced sum of $25,359.
+I hence find that Chew Construction has not proven that Calpeda was liable to
+carry out the works set out in the November 2019 Quotation and had failed to
+do so. Accordingly, Calpeda is not liable for the sums Chew Construction paid
+to Safeway in relation to C39.
+
+62 In view of the above, I allow Calpeda’s claim for the amount of $25,359 and
+dismiss Chew Construction’s counterclaim in relation to the C39 Project.
+
+Sembawang
+
+63 It is undisputed that Chew Construction would retain a sum amounting to 10%
+of the sum payable to Calpeda until the completion of the DLP and the
+rectification of all defects arising during this period. In relation to the
+Sembawang Project, this 10% sum amounted to $64,200 (the “Sembawang retention
+sum”). 92
+
+##### Foot Note 92
+
+×
+
+Statement of Claim at para 3.
+
+Calpeda seeks the return of the Sembawang retention sum on the basis that the
+DLP had expired. However, Chew Construction's defence was that this sum was
+not due and payable as at the date Calpeda commenced Suit 913 on 8 November
+2021 because the DLP period had not expired.
+
+64 Relying on Saga Foodstuffs Manufacturing (Pte) Ltd v Best Food Pte Ltd
+[1994] 1 SLR(R) 505 at [9(b)], Chew Construction submits that a cause of
+action cannot include a claim that does not exist when the originating process
+is filed. 93
+
+##### Foot Note 93
+
+×
+
+Defendant’s Opening Statement at para 33.
+
+Chew Construction asserted that, even if the cause of action has become fully
+constituted at the time of the hearing, the claim is void ab initio and fresh
+proceedings would be needed to advance that claim. It cited Singapore Court
+Practice 2017 (Jeffrey Pinsler gen ed) (LexisNexis, 2017) at para 5/1/3.1 in
+support of this assertion. 94
+
+##### Foot Note 94
+
+×
+
+Defendant’s Opening Statement at para 33.
+
+Chew Construction submitted that the DLP was to expire between December 2021
+to January 2022 and thus Calpeda’s claim for the retention sum in Suit 913 is
+invalid. 95
+
+##### Foot Note 95
+
+×
+
+Defendant’s Opening Statement at para 32.
+
+65 Accordingly, to determine whether the Sembawang retention sum was due at
+the time this Suit was commenced, I first assess whether the DLP had expired
+at the said time. As the quotation for the Sembawang Project did not state the
+length of the DLP, or when the DLP would commence/expire, I considered the
+parties’ evidence.
+
+66 Ken testified that Calpeda would commence its quarterly maintenance
+schedules immediately following the testing and due commissioning of the pumps
+system. Upon the conclusion of these schedules, or one year from the date of
+issue of their tax invoice(s), the DLP will expire. 96
+
+##### Foot Note 96
+
+×
+
+Ken’s AEIC at para 20.
+
+In other words, Calpeda’s evidence was that the DLP was 12 months’ long. On
+the other hand, Chew Construction’s evidence was that the DLP was 14 months’
+long. Chew testified that the Sembawang retention sum was due and payable upon
+the completion of 14 months of maintenance. 97
+
+##### Foot Note 97
+
+×
+
+Certified Transcript for the hearing dated 31 January 2023 (“Transcript (31
+January 2023)”) at p 83, lines 15-30.
+
+67 During trial, Chew Construction submitted that the DLP period was from 15
+December 2020 to 14 December 2021. In support of its submission, Chew
+Construction referred to a letter which it claimed stated the DLP to be as it
+submitted. 98
+
+##### Foot Note 98
+
+×
+
+Defendant’s Closing Submissions at para 73 referencing Chew’s 1st Affidavit at
+p 116.
+
+However, this letter did not relate to Calpeda’s claim as it was addressed to
+one “Nanjing Dadi Construction (Group) Co., Ltd” and there was no mention of
+Calpeda or its sub-contractors. Further, although Calpeda had done an
+additional maintenance of the pumps at Sembawang on 14 December 2021, this was
+done at Chew Construction’s request. 99
+
+##### Foot Note 99
+
+×
+
+Ken’s AEIC at para 145.
+
+There was no evidence of a contractual obligation between the parties that the
+DLP was until 14 December 2021. Nor was the fact that Calpeda agreed to do
+this additional maintenance, evidence that the DLP period was until this date.
+
+68 Calpeda adduced several “3 monthly maintenance checklists”. 100
+
+##### Foot Note 100
+
+×
+
+PCB at pp 634-825.
+
+Each checklist verified that three months of monthly maintenance had been
+performed by Calpeda. It is undisputed that these three checklists were also
+signed off by a representative of the main contractor of the Sembawang
+Project, Jeffrey. 101
+
+##### Foot Note 101
+
+×
+
+Transcript (31 January 2023) at p 83, line 32, to p 84, line 25.
+
+The first of these checklists were signed off on 5 February 2020 and
+consequently, Calpeda’s maintenance of the Sembawang Project would have
+started three months prior, ie, sometime on or around 5 November 2019. This is
+consistent with Ken’s testimony that Calpeda completed its work obligations in
+relation to Sembawang in 2019, after the relevant HDB blocks were constructed
+and built, 102
+
+##### Foot Note 102
+
+×
+
+Ken’s AEIC at para 144.
+
+and the DLP period would have commenced soon after. The last of the checklists
+was signed off on 2 November 2021. 103
+
+##### Foot Note 103
+
+×
+
+PCB at pp 817-825.
+
+While there is no evidence on why Calpeda continued with maintenance till 2
+November 2021 when it started around 5 November 2019 (given that Ken testified
+that the DLP period is one year long), on the basis of the “3 monthly
+maintenance checklists”, Calpeda would have completed the maintenance by
+November 2021.
+
+69 I note that even if the maintenance only commenced on 5 February 2020
+(instead of 5 November 2019) and the DLP was to be 14 months’ long, as Chew
+had testified, the DLP would have concluded by April 2021 at the latest.
+Accordingly, even on Chew’s evidence, the Sembawang retention sum would have
+been due and payable by April 2021, several months prior to Calpeda’s
+commencement of this Suit. Chew also agreed during cross-examination that he
+did not have any documents to refute that the retention sum for the Sembawang
+project was due and payable. 104
+
+##### Foot Note 104
+
+×
+
+Transcript (30 January 2023) at p 135, lines 8-23.
+
+70 As the evidence is that the Sembawang retention sum was due and payable as
+at the commencement of this Suit, I allow Calpeda’s claim for the amount of
+$64,200.
+
+Terrace
+
+71 Similar to the Sembawang Project, 10% was retained by Chew Construction in
+relation to Terrace, amounting to $51,205.92 (the “Terrace retention sum”).
+105
+
+##### Foot Note 105
+
+×
+
+Statement of Claim at para 3.
+
+Calpeda demands the return of this sum. Chew Construction does not dispute
+that the Terrace retention sum is due and payable. Chew agreed when it was put
+to him that the retention amount of $51,205.92 for the Terrace Project is due
+and payable. 106
+
+##### Foot Note 106
+
+×
+
+Transcript (30 January 2023) at p 133 lines 14-22.
+
+However, Chew Construction counterclaims against Calpeda for $25,492.75 for
+damage allegedly incurred from water leakages from the pumps installed by
+Calpeda at Terrace. 107
+
+##### Foot Note 107
+
+×
+
+Defence & Counterclaim at para 13.E and p 24.
+
+72 Chew Construction submits that Calpeda’s poor workmanship and negligence in
+the installation of pumps caused constant water leakages at Terrace. Due to
+these leakages, coupled with Calpeda’s alleged delay in rectifying said
+leakages, Chew Construction claims that it incurred $25,492.75 (inclusive of
+GST) in damages. 108
+
+##### Foot Note 108
+
+×
+
+Defence & Counterclaim at para 13.E(2).
+
+73 I find that Chew Construction failed to prove its counterclaim.
+
+74 First, Chew Construction has not adduced any documentary evidence that
+shows that there were water leakages caused by poor workmanship and negligence
+on Calpeda’s part in installing the pumps. There was no satisfactory
+explanation from any of Chew Construction’s witnesses as to how any damages
+incurred by Chew Construction, or water leakages, were causally related to
+Calpeda’s installation of the pumps.
+
+75 Chew Construction relies primarily on a debit note it generated to bill
+Calpeda (“Debit Note”). 109
+
+##### Foot Note 109
+
+×
+
+Defendant’s Closing Submissions at para 75; Chew’s 1st Affidavit at p 9.
+
+The main description in the Debit Note states “Backcharge due to Transfer Pump
+timing no adjust properly” (the “main description”). 110
+
+##### Foot Note 110
+
+×
+
+Chew’s 1st Affidavit at p 9.
+
+This Debit Note contains a list of eight items following the main description
+(the “Item(s)”) for which it claims sums from Calpeda. However, Chew
+Construction has not provided any evidence that the transfer pump timing was
+not adjusted properly, that such lack of adjustment was due to Calpeda’s poor
+workmanship or negligence, or that as a result of such lack of adjustment
+there were water leakages.
+
+76 Second, Chew Construction has not shown that the Items, or the documents it
+relies on to support the Items, are related to the main description in the
+Debit Note. The Debit Note contains the following descriptions and list of
+Items:
+
+The Terrace
+
+Backcharge due to Transfer Pump timing no adjust properly
+
+1) ZT claim due to cutting of ceiling for leaking pipes
+
+2) STL-A1 claim due to re-plaster works
+
+3) To check exisitng [sic] wiring, cable insultation [sic] resistance and
+light fitting
+
+4) To replace damaged intercom system
+
+5) To reinstate damaged sprinkler head
+
+6) To repalce [sic] damaged traffic bollard
+
+7) To supply and install Blk D signage
+
+8) Water loss claim due to several pipes burst incidents happened at Blk 88
+and Blk 102
+
+77 The Items, on their face, do not relate to the main description in the
+Debit Note. The supporting documents for the Items are equally unrelated on
+the face. For example, Chew Construction attributed Items 3 to 5 of the Debit
+Note to an invoice from one Zacd Posh Pte Ltd, on behalf of Terrace’s MCST
+(the “Posh Invoice"), which stated: 111
+
+##### Foot Note 111
+
+×
+
+Defendant’s Closing Submissions at para 76 referencing Chew’s 1st Affidavit at
+p 11.
+
+Reimbursement for Blk 98 job
+
+1\. To check existing wiring, cable insultation [sic] resistance and light
+fitting
+
+2\. To replace damaged intercom system
+
+3\. To reinstate damaged sprinkler head (GST charge)
+
+4\. To replace damaged traffic bollard (GST charge)
+
+5\. To supply and install blk ID signage
+
+The link between the above descriptions for the “Blk 98 job” and the main
+description in the Debit Note is unclear. Chew Construction provided no
+further information as to what the “Blk 98 job” entailed and how it related to
+the works performed by Calpeda at Terrace.
+
+78 As for Item 8 of the Debit Note, Chew Construction attributed it to an
+invoice issued to them by Terrace’s MCST (the “MCST Invoice”). 112
+
+##### Foot Note 112
+
+×
+
+Chew’s 1st Affidavit at p 10.
+
+The MCST Invoice describes the damages claimed for as “Water loss claim due to
+several pipes burst incidents happened at Blk 88 and Blk 102 since April
+2019”. 113
+
+##### Foot Note 113
+
+×
+
+Chew’s 1st Affidavit at p 10.
+
+However, Chew Construction did not provide any evidence to show that the water
+loss, and the damages incurred for such loss, was caused by or related to the
+alleged water leakage caused by Calpeda.
+
+79 I consequently allow Calpeda’s claim for Terrace project, in the amount of
+$51,205.92 and dismiss Chew Construction’s counterclaim in relation to this
+project.
+
+Conclusion
+
+80 In conclusion, I allow Calpeda’s claim for $683,147.92 and dismiss Chew
+Construction’s counterclaim. There will be interest at the rate of 5.33% per
+annum on this sum from the date of the Writ service to the date of Judgment
+issuance, pursuant to s 12 of the Civil Law Act 1909 (2020 Rev Ed). The sum of
+$200,000 that has been lodged into court by Chew Construction is to be
+released to Calpeda in part satisfaction of Calpeda’s claim.
+
+81 Parties are to agree on costs, or failing agreement, to file their
+submissions on costs within seven days of this Judgment.
+
+Kwek Mean Luck  
+Judge of the High Court|  
+---|---  
+  
+Oh Kim Heoh Mimi and Debbie Lee (Ethos Law Corporation) for the plaintiff;
+
+Rajwin Singh Sandhu (Rajwin & Yong LLP) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 18 Apr 2023 (10:22 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,445 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE
+
+high court of the republic of singapore
+
+[2022] SGHC 196
+
+Originating Application No 381 of 2022
+
+In the Matter of Section 64 of the Insolvency, Restructuring and Dissolution
+Act 2018
+
+Zipmex Company Limited  
+---  
+  
+… Applicant
+
+Originating Application No 382 of 2022
+
+In the Matter of Section 64 of the Insolvency, Restructuring and Dissolution
+Act 2018
+
+Zipmex Pte Ltd  
+---  
+  
+… Applicant
+
+Originating Application No 383 of 2022
+
+In the Matter of Section 64 of the Insolvency, Restructuring and Dissolution
+Act 2018
+
+Zipmex Asia Pte Ltd  
+---  
+  
+… Applicant
+
+Originating Application No 384 of 2022
+
+In the Matter of Section 64 of the Insolvency, Restructuring and Dissolution
+Act 2018
+
+Zipmex Australia Pty Ltd  
+---  
+  
+… Applicant
+
+Originating Application No 385 of 2022
+
+In the Matter of Section 64 of the Insolvency, Restructuring and Dissolution
+Act 2018
+
+Zipmex Exchange Indonesia  
+---  
+  
+… Applicant
+
+BRIEF grounds
+
+[Insolvency Law — Moratoria]
+
+[Insolvency Law — Cross-border insolvency]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Re Zipmex Co Ltd
+
+  
+
+and other matters
+
+[2022] SGHC 196
+
+General Division of the High Court — Originating Application Nos 381, 382,
+383, 384 and 385 of 2022  
+Aedit Abdullah J  
+15 August 2022
+
+17 August 2022
+
+Aedit Abdullah J:
+
+1 These are my brief remarks capturing my decision granting an extension of
+the moratoria operating in favour of the applicants. The focus of these
+remarks will be on the jurisdiction of the Court over the applicants which are
+foreign companies, which turns on the existence of a substantial connection to
+Singapore. It is hoped that the publication of these remarks will assist
+counsel and practitioners in this area, and that it will also clarify to the
+account holders abroad what is happening in these Singapore proceedings.
+
+2 A recording of the hearing for this case has been uploaded to YouTube,
+though, because of an error, the video footage was not recorded, and only the
+audio was captured. The recording may be accessed at the following address:
+https://www.youtube.com/watch?v=Exo9cAqfjHM. A full recording was uploaded of
+a separate moratoria application relating to another crypto company, Defi
+Payments Pte Ltd (“Defi”), which may be accessed at the following link:
+https://www.youtube.com/watch?v=HH1pd8d0GOM. These efforts were made primarily
+to address the needs of the large number of creditors who are account holders
+in these various entities, most of whom are situated outside Singapore, and
+who may not have been able to attend the open court proceedings, even online.
+
+Background
+
+3 The applications were made by companies in the Zipmex Group: Zipmex Asia Pte
+Ltd (the group holding company incorporated in Singapore, “Zipmex Asia”),
+Zipmex Pte Ltd (a Singapore subsidiary, “Zipmex Singapore”), Zipmex Company
+Limited (“Zipmex Thailand”), Zipmex Australia Pty Ltd (“Zipmex Australia”) and
+PT Zipmex Exchange Indonesia (“Zipmex Indonesia”). The group operates a
+cryptocurrency exchange platform, which is accessed through the Zipmex App, on
+which various cryptocurrencies are traded. The various country entities were
+apparently established to comply with local market regulations.
+
+4 A registered customer gains access to the Zipmex App and a “trade wallet”.
+The trade wallet contains a “fiat wallet”, into which they deposit fiat
+currency, ie, national currencies, which can be used to buy cryptocurrencies.
+These cryptocurrencies are known as “On-Exchange Assets”, and are stored in a
+“hosted wallet”, which is also part of the “trade wallet”. The
+cryptocurrencies can be kept in another wallet outside of the Zipmex App or
+withdrawn. For customers registered with Zipmex Singapore, Zipmex Australia,
+and Zipmex Indonesia, once fiat currency is converted to a crypto asset or a
+crypto asset is deposited into the “hosted wallet”, the ownership of the said
+asset is transferred to each respective entity. These assets may be used by
+the entities, such as to pledge, re-pledge, hypothecate, etc, as it sees fit
+for its own purposes. For Zipmex Thailand, the assets are held on a custodial
+basis.
+
+5 Yet another wallet, the “Z wallet” is used for the ZipUp+ service
+(“ZipUp+”), which is subject to separate terms and conditions. ZipUp+ is
+offered to all users. Apart from Zipmex Thailand, the remaining entities offer
+their local customers access to ZipUp+, which is run by the respective
+entities. For Zipmex Thailand, Thailand-based customers use the service
+through Zipmex Singapore. ZipUp+ allows existing customers to deposit crypto
+assets held in their “hosted wallet” (which is held in their “trade wallet”)
+into the “Z wallet”, in return for various benefits. Upon transfer of the
+crypto assets from the “hosted wallet” to the “Z wallet”, the crypto assets
+cease to be governed by the terms and conditions of each specific entity.
+Instead, they are governed by the terms and conditions of ZipUp+. Under these
+terms, the assets in the “Z wallet” are held by Zipmex Asia (which is
+incorporated in Singapore), ie, at a group level, in an aggregated hot wallet
+(ie, a wallet connected online rather than one kept offline, or “cold”).
+Essentially, this allows the Zipmex Group to make use of the cryptocurrencies.
+
+6 All of the crypto assets, whether deposited in the various “Z wallets”
+(hosted by Zipmex Australia, Zipmex Indonesia, and Zipmex Singapore) or in the
+“hosted wallet”, are held in a wallet which is hosted by Zipmex Asia. Zipmex
+Asia has the right to utilise these assets and deploy them to third parties,
+such as crypto exchanges or crypto asset management companies. As for the fiat
+currencies, which are deposited into the “fiat wallet” (which is a part of the
+“trade wallet”), they are held on a custodial basis for the customers, and are
+held in omnibus accounts created and maintained with banks in each of the
+subsidiary entities’ names.
+
+Section 64 and 65 applications in summary
+
+7 As noted in Re IM Skaugen SE and other matters [2019] 3 SLR 979 (“IM
+Skaugen”), the precursor to s 64 of the Insolvency, Restructuring and
+Dissolution Act 2018 (“Act”), namely s 211B of the Companies Act (Cap 50, 2006
+Rev Ed) (“Companies Act”), introduced the moratoria regime, to allow a company
+in difficulties breathing space to put together a rescue plan, avoiding a
+scramble among creditors to liquidate the company: [41] of IM Skaugen, citing
+the second reading of the Companies (Amendment) Bill 2017 (Singapore
+Parliamentary Debates, Official Report (10 March 2017) Vol 94). The trade-off
+for the moratorium or suspension of proceedings against the company is showing
+that there is support from creditors, and an undertaking or promise by the
+company to put forward a rescue plan or proposal: s 64(4) of the Act. The
+cases interpreting s 211B of the Companies Act continue to be applicable to s
+64 of the Act. IM Skaugen, in particular, gives guidance on the approach to be
+taken. Where a company intends to propose a compromise or arrangement,
+evidence of creditor support for the moratorium had to be shown, requiring on
+a broad assessment that there was reasonable prospect of the intended
+compromise or arrangement working and being acceptable to the general run of
+creditors. The Court does not take a vote at this time, but takes a broad
+assessment bearing in mind the quality of creditor support, particularly from
+significant or crucial creditors: [48]–[58] of IM Skaugen. The Court in s 64
+proceedings cannot determine the merits of claims or order the applicant to
+pay them off.
+
+8 Section 65 of the Act extends the protection of the moratoria by an
+applicant under s 64 to subsidiaries, holding companies or ultimate holding
+companies, where such related companies play a necessary and integral role in
+the proposed compromise or arrangement being considered in the application
+under s 64. In gist, the objective is to protect integral parts of the group
+to ensure the success of the restructuring effort.
+
+The applications
+
+9 I was satisfied that the requirements under ss 64 and 65 of the Act were met
+by the respective applicants. In particular, there was sufficient indication
+that the proposed scheme would work and be acceptable to the general run of
+creditors. However, I was of the view that a five-month moratoria extension
+would not be appropriate, and instead allowed an approximately three-month
+extension for each of the applications, so that the Court could monitor
+progress and engagement. The Court did indicate for the benefit of the
+possible investors that further extensions could be granted if matters were in
+order.
+
+10 It should also be noted that, as empowered by ss 64(5)(b) and 65(4)(b) of
+the Act, the moratoria operate against the acts of a person in Singapore or
+within the jurisdiction of the Court regardless of whether that act occurs in
+Singapore or elsewhere.
+
+11 While much of the application did not throw up substantial issues, I was of
+the view that the establishment of substantial connection merited separate
+submissions, which I consider below. I also consider it opportune in these
+remarks to highlight a few considerations for future applications.
+
+Substantial connection – jurisdiction over entities
+
+12 Sections 64 and 65 of the Act govern moratoria of proceedings against a
+company and its subsidiaries and holding companies. Section 63 includes within
+the term “company”, any corporation liable to be wound up under the Act.
+Section 246(1) provides that an unregistered company, which is a foreign
+company, may be wound up only if it has a substantial connection. Such
+substantial connection may be established by a number of factors including
+that Singapore is the centre of main interests of the company: s 246(3) of the
+Act.
+
+13 The concept of the centre of main interests (also known as “COMI”) has been
+considered in Singapore primarily in the context of recognition of foreign
+proceedings, where COMI is used in the UNCITRAL Model Law, as implemented in
+Singapore through s 252(1) of the Act: Re Zetta Jet Pte Ltd and others (Asia
+Aviation Holdings Pte Ltd, intervener) [2019] 4 SLR 1343 (“Re Zetta Jet”). In
+Re Opti-Medix Ltd (in liquidation) and another matter [2016] 4 SLR 312 (“Opti-
+Medix”), I considered that a common law notion of COMI could be introduced and
+used in common-law recognition, ie, recognition outside the operation of the
+UNCITAL Model law.
+
+14 I am satisfied that there is no reason to differentiate between the use of
+COMI in different contexts, ie, recognition of proceedings under the Model
+Law, winding-up under the Act and protection of restructuring via moratoria
+through ss 64 and 65 of the Act. I did not see anything that would indicate
+any such intention on the part of Parliament, in its adoption of the term
+outside the context of the Model Law. Nor would there be any reason in
+principle for such differentiation: COMI is a useful concept in identifying
+the jurisdiction with the closest and most tangible or impactful connection to
+a company.
+
+15 In Zetta Jet, a number of observations were made about the determination of
+COMI:
+
+(a) What COMI factors are objectively ascertainable by potential creditors is
+a material consideration: [76] of Zetta Jet.
+
+(b) What weight would be given by such a creditor to a particular factor: [78]
+of Zetta Jet.
+
+(c) The focus is on the practical, with activities on the ground being more
+important than the legal structure: [82] of Zetta Jet.
+
+(d) The factors should have an element of settled or intended permanence: [79]
+of Zetta Jet.
+
+(e) Ultimately, the court considers on a robust basis, where, on balance, the
+centre of gravity of the material factors is located: [80] of Zetta Jet.
+
+16 The applicants relied on Singapore being their COMI being established for
+each of them through their business structure and interlinked operations.
+Reliance was placed on Singapore being the hub of the business, with each of
+the subsidiary applicants being established to comply with local regulations.
+For the Thai customers, the use of the “Z wallet” (which provides additional
+benefits) was through Zipmex Singapore. This allowed the assets to be dealt
+with by Zipmex Singapore. All the “On-exchange Assets”, ie, the crypto assets,
+are held in a hot wallet hosted by Zipmex Asia, with each of the subsidiaries
+giving Zipmex Asia the authority to effectively trade or commit these assets
+for business purposes. Thus for the individual entities, Singapore was the
+COMI because:
+
+(a) In respect of Zipmex Thailand, the management and operations of the
+company are made in Singapore, and a large majority of the assets are credited
+to Zipmex Singapore because of the ZipUp+ facility.
+
+(b) Similar factors point to Singapore in respect of Zipmex Indonesia and
+Australia with strong indications of support in favour of the restructuring in
+Singapore.
+
+17 I determined that the COMI was Singapore, and that this gave substantial
+connection, allowing the Court to exercise its ss 64 and 65 jurisdiction under
+the Act.
+
+18 The consolidation of assets in the hot wallet hosted by Zipmex Asia in
+Singapore, from all the entities, lay at the bottom of the business model and
+operations of the group. While not all the creditors may have actually been
+aware of this, the fact that such consolidation occurred does point to a
+Singapore centre of gravity.
+
+19 I did note that in the present case, while there would be some creditors
+who would have, in depositing their cryptocurrency with Zipmex Thailand, put
+store by the cryptocurrencies being held in Thailand, there were clearly those
+who were happy to have the benefits of the upscaled account in the form of the
+ZipUp+. Those accounts would have involved contracts with Zipmex Singapore. I
+also noted that there were complaints that there was not enough notified to
+the account holders about what the ZipUp+ account would entail, and there was
+not much choice given. However, the analysis from a COMI perspective was not
+what specific creditors would have known or done, but what would have been
+evident to a creditor before extending credit. Thus, the fact that some
+creditors did not know of the Singapore connection would not affect the
+analysis.
+
+20 As for direction and control, these did point to a Singapore focus, but I
+would note that its strength would be less than that in cases such as Zetta
+Jet, where the fact that management and direction was largely centred in the
+US as opposed to Singapore would be more readily apparent to creditors and
+other observers.
+
+21 Taking a holistic assessment of these various factors, therefore, given the
+location of the ultimate use of the assets through the hot wallet, the use of
+the ZipUp+ facility, and the locus of management in Singapore, the COMI for
+each of the entities was Singapore. Specifically for the Thai entity, the
+preponderance of the use of the ZipUp+ facility and the hot wallet was
+significant.
+
+Substantial connection on other grounds
+
+22 The applicants put forward an alternative argument, that the factors above
+also established a substantial connection aside from their COMI being in
+Singapore, citing Re Pacific Andes Resources Development Ltd and other matters
+[2018] 5 SLR 125 (“Pacific Andes”). The applicants point in particular, that
+for Zipmex Indonesia and Zipmex Australia, substantial assets were, with the
+consent of their customers, held by Zipmex Asia. It is argued that the lex
+situs of the assets is Singapore. As for Zipmex Thailand, a large proportion
+of the assets are held in Zipmex Singapore because of the management of the
+assets held through the ZipUp+ accounts. Additionally, the applicants rely on
+the business of the group being centred in Singapore, with Singapore being the
+nerve centre, and the focus of the investments.
+
+23 I accept that these factors would operate to establish, aside from COMI,
+substantial connection to Singapore, which would be sufficient to give the
+Court jurisdiction under ss 64 and 65 of the Act. This is not however the
+appropriate case for the court to explicate further on what counts as
+substantial connection under s 246(3) of the Act, given the absence of
+contrary submissions here. I would only reiterate what I noted in Re PT MNC
+Investama TBK [2020] SGHC 149 at [13], that there should be activities of some
+permanence or permanent effect, and that transient activities would be
+excluded. Here, in particular, the holding of a large proportion of the
+assets, whatever their nature, in Singapore, is a substantial connection.
+Added to that is the management and direction of the group as a whole being
+concentrated here. I have not determined the lex situs of the assets, nor do I
+assume that these assets have a lex situs: the resolution of the precise
+nature of cryptocurrencies in an insolvency case in Singapore is left for
+another day.
+
+24 I note that in Pacific Andes there was some discussion whether the factors
+went to discretion or jurisdiction. It did not make a difference there,
+ultimately. In the present case, given the language of ss 64, 65 and 246 of
+the Act, I would think that these matters would now go to jurisdiction, but
+again, not much difference, if any, results.
+
+Townhall / Engagement / Creditor Committees / Independent advisors
+
+25 I would highlight, for the benefit of potential applicants dealing not just
+with crypto assets, but with large numbers of unrepresented creditors, that
+engagement is important, and would be under scrutiny by the courts when an
+application for extension is made. What follows is not a checklist: what may
+be needed will vary from case to case, but applicants should seriously
+consider each of them, and be prepared to answer to the court why a particular
+form of engagement is not being used.
+
+26 Applicants should ensure proper communication and engagement, perhaps
+through the use of townhalls. At a minimum, facilities should be provided for
+dissemination of information, electronically or otherwise. It will not be an
+answer to point to large numbers: the applicant would have had the benefit of
+a large customer base, and cannot seek to hide behind numbers when things come
+to grief. Similarly, translations of documents should be provided wherever
+feasible. Explanations of how s 64 of the Act works, possible investments and
+the likely timelines should also be given. I would also note that the website
+of the Singapore Courts provided a simplified overview of s 64 of the Act for
+the benefit of creditors in the present application by way of an information
+note. The note may be accessed at the following address:
+https://www.judiciary.gov.sg/news-and-resources/news/news-details/information-
+note-on-zipmex-entities-hearing-on-15-august-2022.
+
+27 Serious thought should be given to the establishment of creditor
+committees. A framework for selection and representation ought to be explored.
+It is important to give voice to the creditors. If feasible, independent legal
+and financial advisors should be appointed and their remuneration provided
+for. These advisors should be focused on the needs of unrepresented creditors
+in navigating the process in obtaining a moratorium under s 64 of the Act,
+which together with any scheme application under s 210 of the Companies Act
+1967, may take a while to come to a landing.
+
+28 At the very least, the appointment of a financial advisor by the applicant,
+as is being pursued here, would be helpful.
+
+29 I have no doubt that there may be other mechanisms that may be helpful, and
+would encourage applicants to consider what is done in other jurisdictions.
+The objective is to provide timely communications, and to assist the creditors
+in understanding what is happening, and to have some voice in the process.
+
+30 The court for its part will consider what can be done to facilitate access
+to hearings. The use of the Zoom webinar system for the present application as
+well as in the Defi application, is one such measure, as is the uploading of
+the recordings on YouTube. It is likely, subject to specific needs, that
+similar cases will continue to be held in open court in this way. While the
+court will endeavour to accommodate large numbers of creditors as best as it
+can, there will be limits on resources available, so it may not always be
+possible to do so. Nonetheless, the court will continue to consider what may
+be done in appropriate situations.
+
+Conclusion
+
+31 The applications were accordingly allowed, with extensions granted until 2
+December 2022. Directions were given for various matters to be pursued by the
+applicants, including the holding of town halls and exploration of the
+establishment of creditor committees, especially for Thailand.
+
+Aedit Abdullah  
+Judge of the High Court  
+---  
+  
+Daniel Chia Hsiung Wen, Tang Yuan Jonathan, Wong Ru Ping Jeanette and Kuek
+Ying Ching Chrystle (Morgan Lewis Stamford LLC) for the applicants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 17 Aug 2022 (16:29 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,1150 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+##  Bumi Geo Engineering Pte Ltd _v_ Civil Tech Pte Ltd  
+[2015] SGHC 261
+
+Case Number| :| Suit No 803 of 2013  
+---|---|---  
+Decision Date| :| 12 October 2015  
+Tribunal/Court| :| High Court  
+Coram| :|  Lee Seiu Kin J  
+Counsel Name(s)| :|  Raj Singh Shergill (Lee Shergill LLP) for the plaintiff;
+Tan Tian Luh and Lin Zixian (Chancery Law Corporation) for the defendant.  
+Parties| :|  Bumi Geo Engineering Pte Ltd — Civil Tech Pte Ltd  
+  
+12 October 2015| Judgment reserved.  
+---|---  
+  
+Lee Seiu Kin J:
+
+Introduction
+
+1 This is a dispute arising out of payment for work done under a construction
+sub-contract.
+
+Background
+
+2 In early 2010, the defendant appointed the plaintiff as its subcontractor to
+carry out ground improvement works by jet grout pile (“JGP”) method in the
+project titled proposed common services tunnel (CST) at Downtown Marina Bay
+(“the MC01 Project”). The plaintiff was to install JGP columns with pre-set
+nominal widths at specified treatment depths, and would be paid $92 for every
+cubic metre of soil treated.
+
+3 Significantly, this was not the first time the parties had dealt with each
+other. Prior to the MC01 Project, the parties had worked on a project known as
+“Proposed Construction of C482 Marina Coastal Expressway Marina South –
+Section 1” (“the C482 Project”).
+
+4 By way of background, the JGP process is a method of soil treatment
+involving the mixing of cement grout into soil so that the resultant cemented
+soil forms a stable mass that can support any structure above it, or form an
+impermeable layer against water ingress. The process is carried out in the
+following manner. A surveyor marks out the points at which JGP columns are to
+be installed. At each point, the JGP machine drills a hole to the required
+depth using a rod. Water is then injected at very high pressure through the
+rotating rod. This water pre-cutting erodes a circular area of the soil and
+this is followed by injection of cement grout. The rod is retracted at a
+predetermined rate so that a vertical cylinder of cemented soil to the
+required diameter and depth is left behind. The installation of multiple
+overlapping columns will eventually produce an entire concrete block of
+cemented soil. The overlaps between the columns ensure that there are no
+pockets of untreated soil.
+
+5 The volume of soil treated by the installation of the first JGP column would
+be the area of the circular cross section of the column multiplied by its
+length. This is the volume of the whole column, or nominal volume. The volume
+of the JGP column installed next to this first one will be less than the
+nominal volume. Once the first JGP column has cured, it will not be displaced
+by the installation of an adjacent column. Therefore, the volume of soil
+treated in the second JGP column will be less than the nominal volume to the
+extent of the overlap of the two circles. Similarly a third column would be
+reduced by two overlaps, and so on. A further complication arises where a JGP
+column abuts sheet piles. These form a barrier to the soil treatment and the
+treatment would not go beyond the sheet piles. A JGP column abutting sheet
+piles would therefore treat a smaller volume of soil than the nominal volume.
+
+6 The contract between the parties called for payment of $92 per cubic metre
+of soil treated. In this suit, the defendant’s position was that payment would
+be based on the actual volume of soil treated and any overlap, whether with a
+neighbouring JGP column or with sheet piles, would not be counted as otherwise
+there would be payment for untreated soil. The plaintiff’s position was that
+the overlaps should be rounded to a 10% deduction based on the nominal volumes
+of all JGP columns installed, and alternatively, that an 18% deduction should
+be used.
+
+The payment dispute
+
+7 The contractual works were completed on 24 April 2012. Upon completion, the
+plaintiff requested for the final account and release of retention monies.
+
+8 On the morning of 21 January 2013, the defendant put out a Statement of
+Final Accounts (“1SOFA”) that valued the plaintiff’s work at $2,419,789.61.
+1SOFA was prepared on the basis of a 17% deduction per column (_ie_ ,
+regardless of actual overlaps). After deducting back charges of $378,832.87
+and previous payments of $1,841,920.64, 1SOFA indicated that an outstanding
+balance of $199,036.10 was due to the plaintiff.
+
+9 Some six hours later, the defendant produced a revised Statement of Final
+Account (“2SOFA”), which valued the plaintiff’s work at $1,924,462.58. 2SOFA
+was purportedly prepared on the basis of the volume of the JGP columns
+installed by the plaintiff, nett of the actual overlaps (_ie_ , not a fixed
+deduction). After deducting back charges and previous payments, the revised
+document showed a negative balance (_ie_ , an overpayment) of $296,290.93.
+
+10 The plaintiff accepted the deductions made by the defendant for back
+charges. However, it disputed the defendant’s valuation of the work done.
+According to the plaintiff, the correct valuation of the works was
+$2,670,818.74. This figure translated to an unpaid balance of $481,569.80 due
+to the plaintiff, after accounting for the back charges and previous payments.
+The plaintiff’s valuation was derived by deducting 10% (a fixed percentage)
+from the nominal volume of the JGP columns installed by the plaintiff, and
+multiplying that figure by the unit rate of $92 per cubic metre.
+
+11 On 9 September 2013, the plaintiff commenced the present action, claiming
+the unpaid value of its works. On 17 October 2013, the defendant filed its
+defence and counterclaimed for $62,886.07 for overpayment to the plaintiff,
+and $55,348.40 for outstanding machinery rental incurred by the plaintiff. The
+plaintiff admitted liability for the outstanding machinery rental.
+
+12 Up to this point, the plaintiff was relying on its valuation of
+$2,670,818.74 (after applying the 10% fixed deduction). The defendant had at
+various points, produced different valuations:
+
+(a) 21 January 2013 (at 10.25a.m.): $2,419,789.61.
+
+(b) 22 January 2013 (at 4.27p.m.): $1,924,462.58.
+
+(c) 17 October 2013: $2,157,867.44.
+
+The versions of the Agreement
+
+13 There are two versions of the contract, one produced by each party, with
+slightly different terms.
+
+14 In the plaintiff’s version (“the Plaintiff’s Contract”), the term “triangle
+grid spacing” is used in item 2 of Appendix A – Schedule of Prices, as
+follows:
+
+2\. Supply and install nominal 1600mm, 1800mm & 2000mm diameter with _triangle
+grid spacing_ to the required treatment depth as per Civil Tech’s Consultant
+design and drawing (quantities are provisional).
+
+[emphasis added]
+
+15 In the defendant’s version (“the Defendant’s Contract”), the term “triangle
+grid spacing” is not used. Item 2 of Appendix A – Schedule of Prices in the
+Defendant’s Contract states as follows:
+
+2\. Supply & install jet grout piles, drilling commencing from existing ground
+level to required design depth varies from 17 to 36m, treatment depth varies
+from 1.5 to 4m, all in accordance to Specification and drawing (_Quantity
+shall measure nett on as-built drawing)_
+
+[emphasis added]
+
+16 There are two issues to be determined to resolve the dispute between the
+parties:
+
+(a) Whether the Plaintiff’s Contract or the Defendant’s Contract represented
+the final agreement between the parties.
+
+(b) How the plaintiff’s work should be measured.
+
+Which version is the binding contract
+
+17 The parties agree that there was an earlier version of the agreement and
+that it was revised at an unascertained date. This revised version constituted
+the contract between them. The sole question is whether this was the
+Plaintiff’s Contract or the Defendant’s Contract.
+
+18 The plaintiff’s sole witness was Chim Chee Kan (“Mr Chim”) who was its
+executive director at the material time. He testified that he went to the
+defendant’s office and was provided with the Defendant’s Contract in
+duplicate. He proceeded to sign the acceptance page of both copies. He then
+affixed the plaintiff’s company stamp on every page of the document and
+initialled each page of it, starting from the last page and proceeding to the
+first. However he stopped initialling midway as he noticed terms that were not
+in order. He requested for amendments to be made and returned the duplicates
+to Dora Tay (“Ms Tay”), the defendant’s contracts manager. He testified that
+it was this amended version, which is the Plaintiff’s Contract, that was the
+one that the parties had agreed to.
+
+19 The defendant takes a diametrically opposite position. The defendant
+submits that the Defendant’s Contract reflects the final agreement between the
+parties. The defendant’s project director at the material time, Chua Thing
+Chong (“Mr Chua”) testified that, he re-read the Plaintiff’s Contract sometime
+after the document was signed by all the relevant parties. It was at this
+point that he realised Appendix A – Schedule of Prices of the Plaintiff’s
+Contract did not provide that the plaintiff would be paid on the basis of nett
+treated volume, as was agreed between the parties. Thus, he instructed Ms Tay
+to amend the Plaintiff’s Contract, and the Defendant’s Contract was the
+product of this amendment.
+
+Decision
+
+20 After careful consideration of the evidence of the witnesses, I am
+satisfied that the Plaintiff’s Contract had come later in time. Unlike Mr
+Chua’s account which appears to be largely uncorroborated, I find Mr Chim’s
+account of events to be largely consistent with the contemporaneous evidence.
+I set out my reasons below.
+
+Versions of the Defendant’s Contract
+
+21 I note that the defendant had produced two different copies of the
+Defendant’s Contract _ie_ , with slight differences in the placement of the
+signatures and company stamps on each copy. This indicates that the defendant
+had retained both copies of the Defendant’s Contract after they were signed.
+This means that a copy of the Defendant’s Contract was not handed to the
+plaintiff, which is consistent with the plaintiff’s position that this was not
+the final version of the contract between them because if it was, then the
+defendant would not be in possession of both copies as one would be handed to
+the plaintiff. Indeed in both versions of the contract it is stated that “the
+duplicate copy is for [the subcontractor’s] retention”. I further note that
+this part of the evidence appears to corroborate another aspect of Mr Chim’s
+evidence – his claim that he had returned to the defendant the duplicates of
+the Defendant’s Contract for amendments to be made.
+
+Discrepancies between both versions of the contract
+
+22 I shall now proceed to examine other relevant discrepancies between both
+versions of the contract.
+
+Missing initials
+
+23 The parties had a practice of initialling every page of contracts, aside
+from the enclosures. The clearest evidence of this practice may be found in
+the main body of the Plaintiff’s Contract which bears the initials of Mr Chim,
+Mr Chua and Mr Tan Hang Meng (“Mr Tan”), the defendant’s managing director. In
+contrast, some of these initials were conspicuously absent from the main body
+of the Defendant’s Contract. Although Mr Tan’s full signature appeared near
+the end of the main body of the Defendant’s Contract, his initials were
+missing from the rest of the document. It is also significant to note that Mr
+Chim’s initials were also missing from the first five pages of the Defendant’s
+Contract.
+
+24 On balance, I find that the missing initials lend credence to Mr Chim’s
+account of events. The absence of Mr Chim’s initials on the first five pages
+of the Defendant’s Contract is consistent with his evidence that he started
+initialling the document from back to front, but stopped when he realised that
+the terms of the Defendant’s Contract were not in order.
+
+25 The defendant, on the other hand, was unable to discredit Mr Chim’s account
+of events. Mr Chua sought to downplay the significance of the missing initials
+and insisted that the Defendant’s Contract was valid notwithstanding the
+missing initials since the “crucial part” of the document _ie_ , the
+acknowledgement and acceptance page, was signed. This argument clearly misses
+the point. The crux of the dispute is whether the Plaintiff’s Contract or the
+Defendant’s Contract evidences the final agreement between the parties. The
+fact that the acknowledgement and acceptance page of the Defendant’s Contract
+was signed does not solve the conundrum since the same could be said for the
+Plaintiff’s Contract.
+
+26 Although Mr Chua also attempted to explain the absence of Mr Tan’s initial
+by suggesting that the latter might have been too busy to initial the
+Defendant’s Contract given the company’s phenomenal growth from a $10mcompany
+to a $400m company within two years, his explanation did not stand scrutiny
+because Mr Tan had time to initial the Plaintiff’s Contract as well as the
+contract for the C482 Project. This fact is certainly more consistent with the
+plaintiff’s position than that of the defendant.
+
+Numbering of sub-clauses in cl 2
+
+27 The defendant took pains to stress that the sub-clauses in cl 2 of the
+Defendant’s Contract were logically numbered whereas the same clauses in the
+Plaintiff’s Contract were not. The defendant asserted that it would be
+illogical that the contract would have been re-numbered in the manner shown in
+the Plaintiff’s Contract.
+
+28 I am not persuaded by this argument as it does not unequivocally lead to
+the conclusion that the Defendant’s Contract came later in time. It is equally
+possible that the numbering was disrupted when the Plaintiff’s Contract was
+amended to the Defendant’s Contract. I do not think that this point favours
+one version over the other.
+
+Adverse inference for failing to call Ms Tay
+
+29 The reasons given above are sufficient to support a finding that the
+Plaintiff’s Contract came later in time. However I would like to also address
+the plaintiff’s argument that an adverse inference should be drawn against the
+defendant for failing to call Ms Tay and Mr Tan as witnesses at the trial.
+According to the plaintiff, Ms Tay is the person who would be in the best
+position to clarify matters such as the date on which the contract was amended
+and identify the version of the contract that evidences the final agreement
+between the parties, whereas Mr Tan would be best placed to explain why,
+contrary to what he did for previous contracts, he did not put his initials on
+the Defendant’s Contract.
+
+30 The defendant counters this submission by contending that the issue of
+contract amendment only arose during the trial and prior to that, it was not
+possible to tell that Ms Tay’s evidence would be relevant. However, there was
+no explanation offered for Mr Tan’s absence.
+
+31 I am of the view that an adverse inference should be drawn against the
+defendant for failing to call Ms Tay as a witness. However, it is not
+appropriate to do the same for the defendant’s failure to call Mr Tan.
+
+32 In the process of litigation, parties have the prerogative to call all
+witnesses they deem necessary to advance their case. While they may elect not
+to exercise this prerogative, the court is entitled to presume that “evidence
+which could be and is not produced would if produced be unfavourable to the
+person who withholds it”. According to Newton and Norris JJ in _O’Donnell v
+Reichard_ [1975] VR 916 at 929:
+
+[W]here a party without explanation fails to call as a witness a person whom
+he might reasonably be expected to call, if that person’s evidence would be
+favourable to him, then, although the jury may not treat as evidence what they
+may as a matter of speculation think that person would have said if he had
+been called as a witness, nevertheless it is open to the jury to infer that
+that person’s evidence would not have helped the party’s case; if the jury
+draw that inference, then they may properly take it into account _against the
+party in question_ for two purposes, namely: (a) in deciding whether to accept
+any particular evidence, which has in fact been given, either for or against
+that party, and which relates to a matter with respect to which the person not
+called as a witness could have spoken; and (b) in deciding whether to draw
+inferences of fact, which are open to them upon evidence which has been given,
+again in relation to matters with respect to which the person not called as a
+witness could have spoken. [emphasis in original]
+
+33 In Singapore, the source of the court’s power to draw such an inference
+lies in s 116(_g_) of the Evidence Act, which relevantly provides:
+
+**Court may presume existence of certain fact**
+
+116\. The court may presume the existence of any fact which it thinks likely
+to have happened, regard being had to the common course of natural events,
+human conduct, and public and private business, in their relation to the facts
+of the particular case.
+
+…
+
+(_g_) that evidence which could be and is not produced would if produced be
+unfavourable to the person who withholds it;
+
+34 In _Cheong Ghim Fah and another v Murugian s/o Rangasamy_ [2004] 1 SLR(R)
+628 at [42], V K Rajah JC endorsed the following principles laid down by the
+English Court of Appeal in _Wisniewski v Central Manchester Health Authority_
+[1998] 5 PIQR 324:
+
+(1) In certain circumstances a court may be entitled to draw adverse
+inferences from the absence or silence of a witness who might be expected to
+have material evidence to give on an issue in an action.
+
+(2) If a court is willing to draw such inferences, they may go to strengthen
+the evidence adduced on that issue by the other party or to weaken the
+evidence, if any, adduced by the party who might reasonably have been expected
+to call the witness.
+
+(3) There must, however, have been some evidence, however weak, adduced by the
+former on the matter in question before the court is entitled to draw the
+desired inference: in other words, there must be a case to answer on that
+issue.
+
+(4) If the reason for the witness’s absence or silence satisfies the court,
+then no such adverse inference may be drawn. If, on the other hand, there is
+some credible explanation given, even if it is not wholly satisfactory, the
+potentially detrimental effect of his/her absence or silence may be reduced or
+nullified.
+
+[_per_ Brooke LJ]
+
+35 Before an adverse inference may be drawn against a party for the absence of
+a material witness, the court must be satisfied of the availability and
+materiality of the evidence. I am of the view that both elements are satisfied
+_vis-à-vis_ Ms Tay for the following reasons:
+
+(a) Availability: Under cross-examination, Mr Chua said that Ms Tay remained
+in the employ of the defendant company. He did not say that she was
+unavailable.
+
+(b) Materiality: Ms Tay is the key person to shed light on the circumstances
+surrounding the signing of the contract. The failure to call her as a witness
+resulted in the situation in which neither party could tell the court when
+exactly the contract was signed or amended.
+
+36 That said, I am not sufficiently convinced about the materiality of the
+evidence that Mr Tan would have given, had he been called to testify at the
+trial. Apart from the act of signing and/or initialling the contract, there is
+no suggestion by the parties that Mr Tan’s evidence would have been material
+to the other issues at the trial. The only real reason to call him as a
+witness would be to clarify why he did not initial on all the pages of the
+Defendant’s Contract when he had done so for the Plaintiff’s Contract. His
+evidence appears to be of limited relevance. This is rather unlike the
+situation _vis-à-vis_ Ms Tay who was personally involved in the preparation
+and drafting of the contract.
+
+37 In view of the above, the adverse inference drawn against the defendant for
+failing to call Ms Tay added another string to the plaintiff’s evidential bow.
+For completeness, I would like to address a few other points raised by the
+defendant which I considered and rejected.
+
+Additional observations
+
+Project manager
+
+38 The defendant contends that Mr Ong Kok Peng’s (“Mr Ong”)designation as the
+project manager in the Defendant’s Contract suggests that the Defendant’s
+Contract came later in time. The Plaintiff’s Contract states that Gan Kok
+Leong (“Mr Gan”) was the project manager, whereas Defendant’s Contract states
+Mr Ong as the project manager. According to the affidavits of Mr Chua and Mr
+Ong, Mr Ong was eventually appointed the project manager of MC01 Project
+around July 2010, to replace the original project manager, Mr Gan, who was
+reassigned. Therefore, the defendant argues that this factor alone shows that
+Defendant’s Contract came later in time because it reflects an accurate update
+as to the identity of the project manager.
+
+39 I am not convinced. _First_ , there is no clear evidence that Mr Ong was
+appointed the project manager of MC01 Project around July 2010; the objective
+evidence showed that Mr Ong was only appointed the project manager around July
+2011. Mr Ong testified that he was appointed the project manager around July
+2011. This is borne out by the documentary evidence since he was only
+reflected as the project manager in payment certificates issued after July
+2011.
+
+40 _Second_ , it is impossible to draw the conclusion that the Plaintiff’s
+Contract was amended to reflect Mr Ong’s updated designation. On the
+defendant’s own case, the contract was amended somewhere between late June
+2010 (when the first interim valuation was issued) and October 2010 (when the
+second interim valuation was issued). Thus, the amendment would have come
+quite a long way before Mr Ong was actually appointed the project manager.
+
+41 In this regard, it is equally important to note that the last payment
+certificate, as well as 1SOFA and 2SOFA, were signed by Mr Gan because Mr Ong
+was later reassigned to another project. If anything, this goes to show that
+there may be multiple changes of project managers over the course of one
+project. Thus, Mr Ong’s designation in the Defendant’s Contract and his
+subsequent assignment as the project manager could be a mere factual
+coincidence. Seen in that light, the significance of Mr Ong’s designation in
+the Defendant’s Contract is greatly reduced.
+
+Removal of “quantity shall measure nett on as-built drawing”
+
+42 The defendant argues that since the phrase “quantity shall measure nett on
+as-built drawing” was more favourable to the defendant, it is inherently
+illogical that Mr Chua would have amended the Defendant’s Contract to remove
+those words. However the same could be said about the Plaintiff’s Contract.
+Since the plaintiff claims that the term “triangle grid spacing” favoured its
+claim, it would be similarly illogical for the plaintiff to agree to an
+amended contract that omits that term. Thus, the defendant’s argument is
+essentially self-serving and devoid of merit.
+
+43 Looking at the matter in the round, whilst there are indeed shortcomings in
+the plaintiff’s evidence, there remains sufficient evidence to show on a
+balance of probabilities that the Plaintiff’s Contract came later in time, and
+therefore documented the final agreement between the parties.
+
+How the contract should be interpreted
+
+44 To re-cap, following from my finding that the Plaintiff’s Contract
+evidences the final agreement between the parties, it leaves to be determined
+the method of measuring the work done by the plaintiff. The parties agree that
+the final sub-contract sum shall be ascertained by re-measurement based on
+approved _as-built drawings_. This is provided for in cl 2.3 of both versions
+of the contract.
+
+Adequacy of plaintiff’s pleadings
+
+45 Before delving into the parties’ submissions proper, I shall deal with the
+defendant’s preliminary objections to the plaintiff’s case. The main thrust of
+the defendant’s objections is that the fixed deductions of 5.77%, 10% and 18%
+were never pleaded.
+
+46 Pleadings serve to define the dispute between parties: _Bullen & Leake and
+Jacob’s Precedents of Pleadings_ (Sweet & Maxwell, 17th Ed, 2012) vol 1, para
+1-01. The function of pleadings have been summarised by the High Court of
+Australia in _Dare v Pulham_ (1982) 148 CLR 658 (at p 664):
+
+Pleadings and particulars have a number of functions: they furnish a statement
+of the case sufficiently clear to allow the other party a fair opportunity to
+meet it (_Gould and Birbeck and Bacon v. Mount Oxide Mines Ltd. (In liq.)_
+[(1916) 22 CLR 490, at p 517]; they define the issues for decision in the
+litigation and thereby enable the relevance and admissibility of evidence to
+be determined at the trial (_Miller v. Cameron_ [(1936) 54 CLR 572], at pp
+576-577; and they give a defendant an understanding of a plaintiff's claim in
+aid of the defendant's right to make a payment into court. …
+
+47 In _NEC Semi-Conductors Ltd v The Commissioners for Her Majesty's Revenue
+and Customs_ [2006] EWCA Civ 25, Mummery LJ added a further gloss to the issue
+(at [131]:
+
+While it is good sense not to be pernickety about pleadings, the basic
+requirement that material facts should be pleaded is there for a good
+reason—so that the other side can respond to the pleaded case by way of
+admission or denial of facts, thereby defining the issues for decision for the
+benefit of the parties and the court. Proper pleading of the material facts is
+essential for the orderly progress of the case and for its sound
+determination. The definition of the issues has an impact on such important
+matters as disclosure of relevant documents and the relevant oral evidence to
+be adduced at trial. In my view, the fact that the nature of the grievance may
+be obvious to the respondent or that the respondent can ask for further
+information to be supplied by the claimant are not normally valid excuses for
+a claimant’s failure to formulate and serve a properly pleaded case setting
+out the material facts in support of the cause of action. …
+
+48 As pleadings form the backbone of a litigation, parties are strictly bound
+by their pleadings and the court may not decide on issues not raised therein:
+_Kiaw Aik Hang Co Ltd v Tan Tien Choy_ [1964] MLJ 99. Moreover, the
+deficiencies in pleadings may not be made good by affidavit evidence or other
+forms of evidence: Jeffrey Pinsler, _Supreme Court Practice 2014_ vol 1 (Lexis
+Nexis 2014) at para 18/19/4.
+
+49 More recently, in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another
+and another appeal_ [2013] 4 SLR 193 (at [73]), the Court of Appeal
+highlighted the significance of proper pleadings where parties attempt to
+introduce contextual evidence to construe a contract.
+
+… Therefore, to buttress the evidentiary qualifications to the contextual
+approach to the construction of a contract, the imposition of four
+requirements of civil procedure are, in our view, timely and essential:
+
+(a) first, parties who contend that the factual matrix is relevant to the
+construction of the contract must plead with specificity each fact of the
+factual matrix that they wish to rely on in support of their construction of
+the contract;
+
+(b) second, the factual circumstances in which the facts in (a) were known to
+both or all the relevant parties must also be pleaded with sufficient
+particularity;
+
+(c) third, parties should in their pleadings specify the effect which such
+facts will have on their contended construction; and
+
+(d) fourth, the obligation of parties to disclose evidence would be limited by
+the extent to which the evidence are relevant to the facts pleaded in (a) and
+(b).
+
+Fixed deduction of 5.77%
+
+50 In the statement of claim, the plaintiff pleaded that the “nett volume of
+each triangle grid” (the “triangle grid method”) was to be used to compute the
+work done by the plaintiff, and that the method was borne out by the course of
+dealing between the parties as well as industry norms. However, the statement
+of claim did not define the triangle grid method, and did not plead the
+quantity of work done. These details were only provided in the reply dated 8
+November 2013 in the following manner:
+
+(a) In Annex B of the reply, the plaintiff alluded to a 5.77% deduction by
+setting out an area ratio of 94.23%.
+
+(b) At para 49 of the reply, the plaintiff stated the total quantity of work
+done to be 27, 943.682 cubic metres.
+
+51 The defendant argues that the plaintiff has failed to plead the fundamental
+basis of its claim, and that this deficiency is fatal to the plaintiff’s
+claim. To this end, the defendant cites the Court of Appeal decision in _Romar
+Positioning Equipment Pte Ltd v Merriwa Nominees Pty Ltd_ [2004] 4 SLR(R) 574
+(“ _Romar Positioning_ ”) for the proposition that the reply cannot be used to
+supplement the statement of claim.
+
+52 I do not accept the defendant’s contention. Whilst parties may not raise
+new claims in the reply, the rule does not go so far as to prevent a party
+from further particularising or supplementing a point that has been raised in
+a previous pleading. The general rule is that a party may plead any matter
+which has arisen at any time, whether before or since the issue of the writ: O
+18 r 9 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed)(“ROC”). However, this
+right is qualified by O 18 r 10(1) of the ROC which provides:
+
+A party shall not in any pleading make an allegation of fact, or raise any new
+ground or claim, _inconsistent_ with a previous pleading of his.
+
+[emphasis added]
+
+53 In the present case, the plaintiff did not seek to introduce an
+inconsistent plea in the reply. What it did was to particularise the triangle
+grid method which was pleaded in the statement of claim.
+
+54 Furthermore, the case of _Romar Positioning_ does not quite assist the
+defendant. The circumstances in that case were very different. The respondent
+included, in its amended reply, a position that was diametrically opposite to
+that adopted in its statement of claim. On that basis, the Court of Appeal
+found that the respondent had introduced an inconsistent plea which should
+have been made in the alternative in the statement of claim.
+
+55 Since the plaintiff was entitled to supplement the statement of claim in
+the reply, the failure to mention the 5.77% deduction in the statement of
+claim is not fatal to its case.
+
+Fixed deductions of 10% and 18%
+
+56 I am of the view that the plaintiff is not entitled to rely on the
+deductions of 10% and 18% because these percentages were not included in its
+pleadings. It is trite that deficient pleadings may not be cured by the
+evidence in an affidavit and other form. This point is made abundantly clear
+in _Abdul Latif bin Mohammed Tahiar (trading as Canary Agencies) v Saeed
+Husain s/o Hakim Gulam Mohiudin (trading as United Limousine)_ [2003] 2 SLR(R)
+61 MPH Rubin J said (at [7]):
+
+… It is a settled principle of law that parties stand by their pleaded case
+and any defect in the pleadings cannot be cured by any averments in
+affidavits, let alone an oblique reference in counsel’s closing speech …
+
+57 Although the plaintiff claims to have pleaded an estoppel on the basis of
+an 18% deduction, it clearly did not do so. The relevant parts of the
+statement of claim read as follows:
+
+10 … The Plaintiffs aver that each payment invoiced was without exception
+certified as due and owing by the Project Quantity Surveyor, and/or Manager,
+and/or Director on the basis that the Plaintiffs were, pursuant to the terms
+of the Sub-Contract Agreement, entitled to payment to be computed according to
+the _volume of each triangle grid_ as opposed to the volume of the total
+treated area. The Plaintiffs will further aver that the Defendants are in the
+premises, estopped from denying that the payment was to be computed on that
+basis. _Further or in the alternative, the Plaintiffs plead an estoppel by
+convention arises [sic] in this regard_.
+
+11 The Plaintiffs will further place reliance on the previous course of
+dealing between the parties and the industry norms to aver that the Sub-
+Contract Agreement referred to costing on the basis of _nett volume of each
+triangle grid_.
+
+[emphasis added]
+
+58 As is clear from above, the pleaded estoppel pertained only to the triangle
+grid method, which according to the plaintiff, entails a 5.77% deduction. In
+the course of the trial the plaintiff realised its pleadings were deficient in
+relation to the 10% and 18% deductions and applied to amend its statement of
+claim to include these percentages. However that application was withdrawn in
+the face of objections from the defendant. In my view, there is no pleading
+that states the plaintiff’s alternative case of 10% and 18% deductions.
+Therefore the plaintiff is not entitled to any findings in this regard
+whatever the state of the evidence.
+
+59 On a related note, the plaintiff attempts to rely on the same estoppel
+argument as a defence to the counterclaim. However, since the point has not
+been pleaded in the statement of claim _or_ the reply, the plaintiff may not
+rely on it.
+
+60 I accept that the court is free to depart from the pleaded meanings to
+construe the contract since an objective interpretation of a contractual term
+“is quite different from listening to the parties’ version of what they each
+meant”: _Quainoo v NZ Breweries Ltd_ [1991] 1 NZLR 161 at 165, line 18.
+However, parties are not permitted to put forth a case that is clearly
+inconsistent with its pleaded case.
+
+61 In view of my findings, the only issues that fall to be determined are as
+follows:
+
+(a) whether, upon a proper construction of the contract, the parties intended
+to adopt the triangle grid method (_ie_ , 5.77% deduction) or the treated area
+method to compute work done by the plaintiff; or
+
+(b) whether the defendant is estopped by convention from denying that the
+triangle grid method (_ie_ , 5.77% deduction) applies to compute work done by
+the plaintiff.
+
+Measurement of the plaintiff’s work
+
+62 The modern starting point of contractual interpretation may be found in
+Lord Hoffmann’s statement in _Investors Compensation Scheme Ltd v West
+Bromwich Building Society_ [1998] 1 WLR 896 (at 912H) that:
+
+Interpretation is the ascertainment of the meaning which the document would
+convey to a reasonable person having all the background knowledge which would
+reasonably have been available to the parties in the situation in which they
+were at the time of the contract.
+
+63 The court has no power to improve upon the instrument which it is called
+upon to construe, whether it be a contract, a statute or articles of
+association. It naturally follows that the court may not introduce terms to
+make the contract fairer or more reasonable: _Attorney General of Belize and
+others v Belize Telecom Ltd and another_ [2009] 1 WLR 1988 at [16].
+
+64 Contractual terms must be construed in the light of the _context_ in which
+they were drafted. The relevance of the context cannot be overstated. As
+stated by Lord Hoffmann in _Kirin-Amgen Inc v Hoechst Marion Roussel Ltd_
+[2005] RPC 169 at [64]:
+
+No one has ever made an acontextual statement. There is always some context to
+any utterance, however meagre.
+
+However, as I have earlier observed (at [49]), such contextual evidence may
+only be introduced if it has been properly pleaded.
+
+5.77% deduction
+
+65 The sub-contract sum is derived from the product of the agreed unit rate
+and the quantity of work done.
+
+(a) _Agreed unit rate_ : The parties agree that the unit rate was fixed at $92
+per cubic metre. The issue of “per cubic metre” of what is addressed in (b)
+below.
+
+(b) _Quantity of work done_ : The parties also agree that the quantum of work
+done was to be ascertained through re-measurement on the basis of information
+provided by approved _as-built drawings_. However, the parties disagree as to
+how such re-measurement was to be carried out.
+
+The plaintiff’s case
+
+66 The plaintiff contends that the _triangle grid method_ was to be used to
+account for the overlaps between the columns. A “triangle grid” refers to an
+arrangement of JGP columns within a group such that the centres of three
+adjacent circular piles form a triangle, as shown in the figure below:
+
+![](data:image/png;base64,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)
+
+67 In such a triangle grid (comprising only of three circles), there are
+_three_ overlaps. This gives an average of one overlap per circle (and
+consequently, per JGP column). This arrangement results mathematically in each
+overlap area to be 5.77% (rounded to the nearest 0.01%) of the area of each
+circle. On this basis, the plaintiff contends that 5.77% should be deducted
+from the total nominal volume of the JGP columns installed by the plaintiff.
+
+68 At the heart of the plaintiff’s case lies the term “triangle grid spacing”
+which appears at Appendix A – Schedule of Prices of the Plaintiff’s Contract:
+
+Supply and install nominal 1600mm, 1800mm & 2000mm diameter with _triangle
+grid spacing_ to the required treatment depth as per Civil Tech’s Consultant
+design and drawing (quantities are provisional).
+
+[emphasis added]
+
+The plaintiff contends that the term “triangle grid spacing” means a fixed
+deduction of 5.77% per pile on the basis of the three column configuration
+illustrated in [66] above. This means that the plaintiff was entitled to
+payment for 94.23% of the nominal volume of its JGP columns.
+
+69 According to the plaintiff, this interpretation of “triangle grid spacing”
+is borne out by the _parties’ course of dealing_ and _industry norms_. To
+establish course of dealing, the plaintiff relied on a previous contract
+between the same parties. This was the contract dated 23 December 2009 for the
+C482 Project. There, the same or similar terminology was employed, and the
+plaintiff contends that it was clearly understood by parties to refer to
+costing on the basis of the nett volume of each triangle grid.
+
+70 The plaintiff brought in two expert witnesses to establish industry norms
+with respect to the triangle grid method. The first, Mr Martin Anthony Riddett
+(“Mr Riddett”) gave evidence that besides “a method of work, [the triangle
+grid] can also be a reference for pricing purpose”. The second, Mr Er Murthy
+Abhishek (“Mr Abhishek”) gave evidence that the triangle grid method is the
+“most common method” of measurement.
+
+The defendant’s case
+
+71 The defendant contends that the triangle grid was a method of construction,
+not a method used to calculate work done. _First_ , the defendant argues that
+the triangle grid method does not make any allowance for actual further
+overlaps that would occur in the course of construction. Since the triangle
+grids will eventually form an entire concrete block, the assumption of one
+overlap per JGP column is _inaccurate_. The defendant cites as example the
+situation of seven interlocking JGP columns, as shown below:
+
+![](data:image/png;base64,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)
+
+72 In such a situation where Column X was installed after Columns 1–6, its
+volume would be reduced by six times of 5.77%, _ie_ , approximately 34.6%. At
+this point, it is worth noting that in the situation where there is a large
+number of columns, there would be an average of three overlaps per column and
+the reduction in volume for each column would be 3 x 5.77%, which works out to
+17.3%. This figure is significant as it is close to the 18% deduction used by
+the defendant in making progress payments to the plaintiff.
+
+73 Besides that, the defendant asserts that the percentage to be deducted per
+JGP column could go up to 53.2% in a case where the JGP column overlaps with
+four other columns as well as sheet piles as shown in the diagram below.
+
+![](data:image/png;base64,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)
+
+74 _Second_ , the defendant contends that the triangle grid method fails to
+account for situations where an equilateral triangle has not been formed _eg_
+, where the three-pile group consists of one pile of a different diameter. The
+formula operates on the assumption that the centres of the three columns form
+an equilateral triangle.
+
+75 Furthermore, the defendant stresses the fact that the 5.77% deduction was
+never mentioned until 25 June 2012, after the plaintiff’s works were
+completed. On 25 June 2012, Mr Chim sent Mr Ong an email that reads:
+
+We refer to our meeting on the 22nd June 2012 at your site office.
+
+We are pleased to attach the computation of effective area of treatment by JGP
+method using triangle spacing as per our discussion last Friday.
+
+We would like you to review the attachment and we can meet soon to finalized
+[_sic_] the subcontract’s final account.
+
+76 The defendant argues that the above email did not refer to any pre-existing
+understanding of the triangle grid method, and that even then, it was not
+obvious to a reader how the plaintiff was calculating its final claim.
+
+77 In light of the aforementioned difficulties with the concept of the
+triangle grid method, the defendant contends that the “nett volume of the
+total treated area” should be preferred (“treated area method”). This method
+takes into account the actual overlaps and deducts them from the nominal
+volume of the JGP columns.
+
+Decision
+
+78 I do not accept that the plaintiff’s concept of the triangle grid method
+was the contractually agreed method of re-measurement. Besides the inherent
+problems with the triangle grid formula, I am of the view that the plaintiff’s
+evidence failed to demonstrate credibly that the term “triangle grid spacing”
+entailed the application of the triangle grid method.
+
+79 _First_ , contrary to what the plaintiff alleged, the C482 Project had
+nothing to do with the triangle grid method. In that project, the plaintiff
+had consistently claimed on the basis of a 10% deduction but the defendant had
+certified those claims on the basis of a 17%–18% deduction. It should be noted
+this is close to the figure of 17.3%, which is the average deduction per pile
+in the situation where a large number of piles are installed using the
+“triangle grid spacing” set out in the MC01 Project.
+
+80 _Second_ , the plaintiff’s expert failed to cast light on any industry
+practice with respect to the triangle grid method. Mr Abhishek made an
+_unsubstantiated_ claim that the triangle grid method was the “most common
+method” of re-measurement. He did not cite in support of his opinion any
+related literature, industry guidelines or other sources. Notably, Mr Abhishek
+conceded during cross-examination that although there would normally be
+deductions made, the precise amount of deduction was left to the parties. Like
+Mr Abhishek, Mr Riddett was also hard-pressed to cite examples of sub-contract
+or industry guidelines applying the triangle grid method.
+
+81 Most significantly, Mr Chim conceded under cross examination that the 5.77%
+deduction was never discussed during his negotiations with the defendant. In
+the circumstances, it is quite likely that the 5.77% deduction was a mere
+afterthought conjured by the plaintiff.
+
+82 How then should the plaintiff’s work be quantified? Although the plaintiff
+submits that the parties had intended to eschew the treated area method by
+removing the phrase “quantity shall measure nett on as-built drawing” from
+Appendix A – Schedule of Prices of the Defendant’s Contract, I am unable to
+agree. In my judgment, the removal of “quantity shall measure nett on as-built
+drawing” does not exclude the defendant’s method of valuation. This is because
+the following words in cl 2.3 of the Plaintiff’s Contract are sufficiently
+broad to encapsulate the treated area method:
+
+Payment and final Sub-Contract Sum shall be ascertained by re-measurement
+based on approved as-built drawings.
+
+83 Apart from referring to the treated area method that the defendant relies
+upon, I cannot see any other meaning that these words could take. I accept
+that a fixed deduction per column could be another method of valuing JGP
+works. That said, the application of a fixed deduction per column is
+inconsistent with cl 2.3 which requires “re-measurement based on approved as-
+built drawings”. Although as-built drawings contain sufficient information for
+payment on the basis of a fixed deduction per column, such information is also
+available from site records which would contain information on the number of
+JGP columns installed and the depth of each one. More importantly, the fixed
+deduction method will not entail any “re-measurement” of the as-built drawings
+whereas this is consistent with the defendant’s treated area method which
+entails measuring actual overlaps between columns and with sheet piles.
+Finally, under the plaintiff’s method, there is absolutely no basis for
+deductions of 5.77% or 10%. The only number for which there is a rationale is
+17.3% (see [72] above). But this number was not even used by the plaintiff in
+its interim claim and its pleadings in this suit. Therefore, in my judgment,
+the method of valuation the parties agreed on, as discerned from the clear
+words of cl 2.3, is the treated area method.
+
+84 Finally, I am not persuaded by the plaintiff’s submission that the
+defendant is estopped from denying the applicability of the triangle grid
+method. That said, before I proceed to elaborate on the merits of the estoppel
+argument, I will first consider the plaintiff’s submission that “estoppels by
+convention are not restricted to mere defences but may create a cause of
+action”.
+
+85 Metaphorically, it has been said that an estoppel can only act as a shield,
+not a sword. This is traditionally understood to mean that an estoppel cannot
+itself constitute a new cause of action. However this sword/shield dichotomy
+has been criticised for being too simplistic. It suggests that an estoppel may
+conceivably be used in only two ways (_viz_ , as a cause of action or a
+defence) when in reality “the use that can be made of an estoppel can be
+represented by a spectrum ranging from a defence to the creation of a new
+cause of action”: Roger Halson, “The offensive limits of promissory estoppel”
+(1999) LMCLQ 256 at p 259. “Sword” and “shield” represent two opposite ends of
+that spectrum. Along this spectrum, it is unclear how far an estoppel may
+assist in establishing a cause of action: _per_ Mance LJ in _Baird Textile
+Holdings Ltd v Marks & Spencer Plc_ [2001] CLC 999 at [88].
+
+86 This issue was explored in _Amalgamated Investment & Property Co Ltd (in
+liquidation) v Texas Commerce International Bank Ltd_ [1982] QB 84 (“
+_Amalgamated Investment_ ”). A helpful summary of the case is provided in
+_Chitty on Contracts_ vol 1 (Hugh Beale gen ed) (Sweet & Maxwell, 31st Ed,
+2012) at 3-108. A had negotiated with X Bank for a loan to B (one of A’s
+subsidiaries) for the purpose of acquiring and developing a property in the
+Bahamas. The loan was to be secured by a mortgage on that property and also by
+a guarantee from A. In the guarantee, A promised to pay all moneys due to X
+Bank from B. The words were inappropriate since the loan to B was not made
+directly by X Bank but by one of its subsidiaries, Y Bank. Consequently, if
+the guarantee were read literally, it would not apply to the loan since no
+money was due from B to X Bank.
+
+87 The Court of Appeal held that on a true construction, the guarantee applied
+to the loan made by Y Bank. It took the view that the literal interpretation
+of the guarantee would defeat the intention of the parties. Even if the
+guarantee did not produce this result on its true construction, A was estopped
+by convention from denying that the guarantee covered the loan by Y Bank,
+since when negotiating the loan, both A and X Bank had assumed that the
+guarantee did cover it and since X Bank continued to act on that assumption in
+granting various indulgences to A.
+
+88 A argued that X Bank was seeking to use estoppel as a sword rather than a
+shield, which the law of estoppel did not permit. Brandon LJ thought otherwise
+(at 131):
+
+In my view much of the language used in connection with these concepts is no
+more than a matter of semantics. Let me consider the present case and suppose
+that [X Bank] had brought an action against [A] before they went into
+liquidation to recover moneys owed by [B] to [Y Bank]. In the statement of
+claim in such an action [X Bank] would have pleaded the contract of loan
+incorporating the guarantee, and averred that, on the true construction of the
+guarantee, [A was] bound to discharge the debt owed by [B] to [Y Bank]. By
+their defence [A] would have pleaded that, on the true construction of the
+guarantee, [A was] only bound to discharge debts owed by [B] to [X Bank], and
+not debts owed by [B] to [Y Bank]. Then in their reply [X Bank] would have
+pleaded that, by reason of an estoppel arising from the matters discussed
+above, [A was] precluded from questioning the interpretation of the guarantee
+which both parties had, for the purpose of the transactions between them,
+assumed to be true.
+
+In this way [X Bank], while still in form using the estoppel as a shield,
+would in substance be founding a cause of action on it. This illustrates what
+I would regard as the true proposition of law, that, _while a party cannot in
+terms found a cause of action on an estoppel, he may, as a result of being
+able to rely on an estoppel, succeed on a cause of action on which, without
+being able to rely on that estoppel, he would necessarily have failed_. That,
+in my view, is, in substance, the situation of [X Bank] in the present case.
+
+It follows from what I have said above that I would reject the second argument
+against the existence of an estoppel put forward on behalf of [A] as well as
+the first. It further follows, from my rejection of both arguments against the
+existence of an estoppel, that I would answer the second of the two questions
+which I formulated earlier by holding that, if [A] did not, by the contract
+relating to the Nassau loan, undertake to [X Bank] to discharge any
+indebtedness of [B] to [Y Bank], they are, nevertheless, estopped from denying
+that they did so by reason of the basis, accepted by both [X Bank] and [A], on
+which the transactions between them were later conducted during the period
+from 1974 to 1976.
+
+[emphasis added]
+
+89 It may be discerned from the above passage that a party may rely on an
+estoppel to preclude its counterparty from questioning the interpretation of a
+contractual term. This is so even if the estoppel operated to assist that
+party to enforce a cause of action which would otherwise fail.
+
+90 Further judicial support for this approach may be found in _Shoreline
+Housing Partnership Ltd v Mears Ltd_ [2013] EWCA Civ 639 (“ _Mears_ ”). In
+that case, Gloster LJ drew a distinction between the situation where a
+claimant was seeking to set up a contract by estoppel, where there was no
+contract at all and the case where an estoppel is alleged to have qualified
+the terms of the contract and where it is alleged that the parties conducted
+their contractual relationship on the basis of an assumed and shared state of
+facts or law (at [23]). It was held that the former fell afoul of the rule
+that an estoppel does not operate as a sword, but not the latter.
+
+91 To my mind, the correctness of the approach, as established in _Mears_ and
+_Amalgamated Investment_ , is fortified by examining the circumstances in
+which the sword/shield dichotomy originated. The dichotomy was first used in
+argument by counsel and then adopted by Birkett LJ in the oft-cited English
+Court of Appeal decision of _Combe v Combe_ [1951] 2 KB 215. In that case, the
+issue was whether the plaintiff could recover maintenance on her husband’s
+promise upon which she had relied. Reliance was placed on promissory or
+equitable estoppel. The wife’s claim was rejected. Whilst it was held that an
+estoppel never stands alone as giving a cause of action in itself, Denning LJ
+(in his opinion) accepted that an estoppel may nevertheless play a
+supplementary role in establishing a cause of action (at 220):
+
+In none of these cases was the defendant sued on the promise, assurance, or
+assertion as a cause of action in itself: he was sued for some other cause,
+for example, a pension or a breach of contract, and the promise, assurance or
+assertion only played a supplementary role—an important role, no doubt, but
+still a supplementary role. That is, I think, its true function. It may be
+part of a cause of action, but not a cause of action in itself.
+
+92 The above cases show that the “sword” metaphor was intended to describe
+situations where a party’s cause of action is simply a “naked” estoppel, _ie_
+, where the estoppel itself is the cause of action. It was not meant to
+include situations (like the present) where the estoppel merely supplements an
+existing cause of action.
+
+93 Here, the plaintiff seeks to estop the defendant from interpreting the sub-
+contract in a manner that is contrary to the parties’ understanding and
+conduct. The plaintiff asserts that the parties had, by their conduct,
+established a pricing mechanism to calculate work done under the sub-contract.
+The plaintiff’s cause of action is founded on a contractual right to be paid,
+and the estoppel merely informs the interpretation of the payment terms. The
+estoppel itself is not the cause of action. There is therefore no legal
+impediment to the plaintiff’s reliance on the estoppel to assist its
+contractual claim.
+
+94 I turn now to examine the merits of the estoppel argument.
+
+95 To establish an estoppel by convention, the following elements must be
+present (_Travista Development Pte Ltd v Tan Kim Swee Augustine and others_
+[2008] 2 SLR(R) 474 at [31]):
+
+(a) The parties must have acted on “an assumed and incorrect state of _fact or
+law_ ” [emphasis added] (_per_ Bingham LJ in _The Vistafjord_ [1988] 2 Lloyd’s
+Rep 343 at 352) in their course of dealing.
+
+(b) The assumption must be either shared by both parties pursuant to an
+agreement or something akin to an agreement, or made by one party and
+acquiesced to by the other.
+
+(c) It must be unjust or unconscionable to allow the parties (or one of them)
+to go back on that assumption.
+
+96 Here, there is no evidence that the plaintiff assumed that a 5.77%
+deduction would apply. In the statement of claim and the reply, the plaintiff
+averred that the interim claims were certified on the basis of the triangle
+grid method which entails a deduction of 5.77%. This is not true. The
+plaintiff had consistently claimed on the basis of a 10% deduction and the
+defendant had certified those claims on the basis of an 18% deduction. In
+fact, the triangle grid method was not invoked until 25 June 2012,
+approximately two years after the parties entered into the MC01 contract.
+Since there is no evidence that the plaintiff had assumed that a 5.77%
+deduction would apply, there can be no estoppel to speak of.
+
+97 In contrast, had the plaintiff pleaded an estoppel on the basis of an 18%
+deduction, I would have been prepared to find that the defendant was estopped
+from relying on the treated area method for the following reasons.
+
+98 _First_ , the defendant had consistently been applying an 18% deduction to
+the interim claims. _Second_ , under cross-examination, Mr Chua conceded that
+the final account of the C482 Project was settled at a fixed deduction of 18%.
+This settlement was reached despite clear words in the contract for the C482
+Project providing for measurement based on the “treated area of JGP works”.
+_Finally_ , the plaintiff appears to have relied on the assumption of an 18%
+deduction to its detriment, although I must state that the evidence, such as
+it is, is not conclusive. The plaintiff certainly was stunned with the large
+deduction that the defendant had made to its claims and that was what
+triggered this suit. Pertinently, the defendant’s Mr Ong admitted that if the
+interim claims had been certified on the basis of a much higher deduction (as
+opposed to the 18% deduction that was actually applied), the “subcontractor
+will run”.
+
+Whether counterclaim should succeed
+
+99 The defendant values the plaintiff’s work at $2,097,867.44. This figure is
+the product of the unit rate of $92 per cubic metre and the nett treated
+volume of 22,802.907 cubic metres. The defendant also accepts that the
+plaintiff is entitled to another sum of $60,000 as a “mobilisation fee”. This
+gives a final sub-contract sum of $2,157,867.44. After deducting back-charges
+of $378,832.87 and previous payments totalling $1,841,920.64, there is a
+negative balance of $62,886.07. On this basis, the defendant contends that the
+plaintiff has been overpaid $62,886.07 and seeks the refund of the same.
+
+100 Save for the nett treated volume, the rest of the figures are not in
+dispute. To succeed in its counterclaim, the defendant has to prove that the
+plaintiff has completed works amounting to a nett treated volume of 22,802.907
+cubic metres. To establish the nett treated volume, the defendant relies on
+numbers contained in a table that appears in Mr Ong’s affidavit of evidence-
+in-chief (“AEIC”) (“the Table”). These numbers are stated to be derived from
+calculations done using Autocad software, on the basis of information
+contained in as-built drawings.
+
+101 Save for the assertion that those numbers were computed using Autocad
+software, it is unclear how they were derived. In his AEIC, Mr Ong gave
+evidence that he was familiar with Autocad, and that he had verified those
+calculations. He did not explain in his AEIC how he had done so. At the trial,
+however, Mr Ong took a different position. Under cross-examination, he said
+that the calculations were done by the defendant’s employee, Ms Khaizar. He
+also admitted that he had only conducted a random check _ie_ , he did not
+check all the numbers.
+
+102 It is clear that Mr Ong was in no position to give evidence on the
+veracity of the figures in the Table. Instead, Ms Khaizar is the best person
+to explain the numbers that the defendant is seeking to rely on. She is the
+only person with direct knowledge of how the numbers were calculated. However,
+Ms Khaizar was not called as a witness although she remains in the employ of
+the defendant company. In view of Ms Khaizar’s absence at the trial, the
+defendant may not rely on the truth of the contents of the Table to establish
+its counterclaim unless the evidence falls within one of the exceptions to the
+hearsay rule.
+
+103 Generally, the hearsay rule renders inadmissible a document adduced to
+establish the facts it refers to in the absence of direct evidence of the
+facts contained therein: Jeffrey Pinsler, _SC Evidence and the Litigation
+Process_ (LexisNexis, 4th Ed, 2013) at para 4.001. Direct evidence would take
+the form of the evidence of someone who has personal knowledge of those facts.
+
+104 In my view, the information in the Table does not fall within any of the
+exceptions to the hearsay rule. In particular, I am of the view that the
+defendant may not avail itself of the exception contained in s 32(1)(_b_) of
+the Evidence Act which permits the admission of statements “made by a person
+in the ordinary course of a trade, business, profession or other occupation”.
+The rationale for this exception has been stated in M C Sarkar et al,
+_Sarkar’s Law of Evidence vol I_ (LexisNexis, 17th Ed Reprint, 2011) (“
+_Sarkar’s Law of Evidence_ ”) at p 970:
+
+The ground of admission is that a statement or entry made in the ordinary
+course or routine of business or duty may be presumed to have been done from
+disinterested motive and may therefore be taken to be generally true.
+
+105 To qualify under this exception, the entry must have been in the way of
+business. This has been defined to mean a course of transactions performed in
+one’s habitual relations with others and as a material part of one’s mode of
+obtaining a livelihood: _Sarkar’s Law of Evidence_ at p 973.
+
+106 Here, it must be borne in mind that the Table exhibited in Mr Ong’s AEIC
+was prepared for the purposes of litigation. Furthermore, there is no evidence
+to show that the information contained in the Table was extracted from any
+document that was prepared in the ordinary course of trade, business,
+profession or other occupation. That being so, it is my view that the Table is
+inadmissible for the purposes of proving the quantity of work done by the
+plaintiff.
+
+107 There are also other difficulties with the admission of the figures
+contained in the Table. If Ms Khaizar had done the calculations on the basis
+of information from the Autocad software, the question remains as to where
+that information had come from. Details such as the location of the JGP
+columns and the sequence in which the columns were installed are out-of-court
+statements that will similarly constitute hearsay evidence.
+
+108 The defendant’s counterclaim appears to be constructed on multiple layers
+of hearsay evidence. What is troubling is that the defendant does not seem to
+be cognizant of the heavy, if not sole, reliance on hearsay evidence. I
+further note that there is a conspicuous absence of any safeguards or measures
+which would ensure a minimal degree of reliability of the evidence. As noted
+at [12] above, the defendant has proffered different valuations of the
+plaintiff’s work at different junctures.
+
+109 In view of these shortcomings, I find that the defendant has not
+discharged its burden of proof _vis-à-vis_ its counterclaim. Accordingly, the
+defendant’s counterclaim must fail.
+
+Conclusion
+
+110 To summarise, I have made the following findings:
+
+(a) That the Plaintiff’s Contract evidenced the final agreement between the
+parties.
+
+(b) That the treated area method applies to quantify the plaintiff’s work.
+
+(c) That there is no evidence supporting the plaintiff’s case in estoppel
+_vis-à-vis_ the 5.77% deduction.
+
+111 Accordingly, the plaintiff’s claim fails. That said, due to the evidential
+shortcomings in relation to the defendant’s counterclaim, I am also of the
+view that the counterclaim must fail. Both claim and counterclaim in this suit
+are therefore dismissed.
+
+112 I will hear counsel on the question of costs.
+
+Copyright © Government of Singapore.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 0: 12 Oct 2015 (00:00 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

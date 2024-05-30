@@ -1,0 +1,781 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+IN THE APPELLATE DIVISION OF
+
+  
+THE HIGH COURT OF THE REPUBLIC OF SINGAPORE
+
+[2023] SGHC(A) 34
+
+Appellate Division / Civil Appeal No 113 of 2022
+
+Between
+
+Chee Yin Meh  
+---  
+  
+… Appellant
+
+And
+
+(1)| Ong Kian Guan  
+---|---  
+(2)| Khor Boon Hong  
+(3)| Goh Yeow Kiang Victor  
+  
+… Respondents
+
+In the matter of Suit No 350 of 2019
+
+Between
+
+Chee Yin Meh
+
+… Claimant
+
+And
+
+(1)| Sim Guan Seng  
+---|---  
+(2)| Khor Boon Hong  
+(3)| Goh Yeow Kiang Victor  
+  
+… Defendants
+
+grounds of decision
+
+[Trust — Constructive trusts — Common intention constructive trusts]
+
+[Equity — Estoppel — Proprietary estoppel]
+
+[Land — Residential Property Act]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Chee Yin Meh
+
+  
+v
+
+  
+
+Ong Kian Guan and others
+
+[2023] SGHC(A) 34
+
+Appellate Division of the High Court — Civil Appeal No 113 of 2022  
+Kannan Ramesh JAD, Debbie Ong Siew Ling JAD and Andre Maniam J  
+12 July 2023
+
+27 October 2023
+
+Andre Maniam J (delivering the grounds of decision of the court):
+
+Introduction
+
+1 Under the Residential Property Act (Cap 274, 2009 Rev Ed) (“RPA”), can a
+foreign person acquire an estate or interest in residential property by way of
+a common intention constructive trust or proprietary estoppel? In AD/CA
+113/2022 (“AD 113”), we upheld the decision of the trial judge (“the Judge”)
+that this was not permissible under the RPA.
+
+Background
+
+2 The appellant, Mdm Chee Yin Meh (“Mdm Chee”), is married to Mr Fan Kow Hin
+(“Mr Fan”) (now a bankrupt). Their residence at Sunrise Drive (the “Sunrise
+Drive property”) was acquired in the sole name of Mr Fan. In May 2017, Mr
+Fan’s trustees in bankruptcy sold the Sunrise Drive property (the respondents
+are his present trustees). Mdm Chee filed HC/OS 906/2018 (“OS 906”) seeking a
+declaration that Mr Fan held half of the beneficial interest in the property
+on trust for her, and an order that the trustees transfer 50% of the net
+proceeds to her. OS 906 was converted to HC/S 350/2019 (“Suit 350”) and
+proceeded to trial.
+
+3 When the Sunrise Drive property was transferred to Mr Fan on 11 August 2011,
+Mdm Chee was not a Singapore citizen, although she had applied for citizenship
+two months prior on 10 June 2011. 1
+
+##### Foot Note 1
+
+×
+
+Mdm Chee’s Affidavit of Evidence-in-Chief (“AEIC”) at [40] (ROA Vol III A, p
+11).
+
+It is common ground that as at 11 August 2011:
+
+(a) she was a “foreign person” within s 2 of the RPA;
+
+(b) the Sunrise Drive property was “residential property” under s 2 of the
+RPA; and
+
+(c) she had not obtained the Minister’s approval “to purchase, acquire or
+retain any estate or interest in any residential property” under s 25 of the
+RPA.
+
+4 Mdm Chee knew about such approvals under the RPA – she had previously
+obtained approval under the RPA to purchase and acquire an interest as a joint
+tenant with Mr Fan for their previous matrimonial home at Sunrise Terrace (the
+“Sunrise Terrace property”). 2
+
+##### Foot Note 2
+
+×
+
+Mdm Chee’s AEIC at [14] (ROA Vol III A, p 6).
+
+5 For the Sunrise Drive property, however, Mdm Chee did not apply for and
+obtain the Minister’s approval under the RPA. In Mdm Chee’s affidavit of
+evidence-in-chief (“AEIC”), she said that the lawyer who handled her husband’s
+purchase of the Sunrise Drive property had advised that it would be difficult
+for her to buy the Sunrise Drive property as she was not a Singapore citizen
+and she was already an owner of the Sunrise Terrace property. Mdm Chee says
+the lawyer advised that:
+
+(a) Mdm Chee should apply for Singapore citizenship (which she did on 10 June
+2011); and
+
+(b) pending approval of her citizenship application, Mdm Chee should ask Mr
+Fan to hold 50% of the Sunrise Drive property on trust for her. 3
+
+##### Foot Note 3
+
+×
+
+Mdm Chee’s AEIC at [38] (ROA Vol III A, p 10).
+
+The lawyer denied giving such advice – she said that she would not have given
+such advice as it would have been in contravention of the RPA. 4
+
+##### Foot Note 4
+
+×
+
+Ms Angela Ng’s AEIC at [5]–[12] (ROA Vol III P, pp 286–288).
+
+6 Mdm Chee said that after she shared the lawyer’s advice with Mr Fan, Mr Fan
+agreed that he would acquire the Sunrise Drive property in his name “and to
+hold 50% of the property for [her] until [she] acquired Singapore
+citizenship”. 5
+
+##### Foot Note 5
+
+×
+
+Mdm Chee’s AEIC at [10]–[39] (ROA Vol III A, pp 5 and 11); see also Transcript
+23 February 2021 page 64 lines 2 – 8 (ROA Vol III Q, p 69).
+
+7 Mdm Chee also said that payments for the purchase of the Sunrise Drive
+property came from joint bank accounts (of her and Mr Fan), a housing loan
+which Mr Fan took, and a term loan which they jointly took. Further, Mdm Chee
+said that payments for furniture and fittings were made from a joint bank
+account and that she had made payments towards property tax. 6
+
+##### Foot Note 6
+
+×
+
+Mdm Chee’s AEIC at [59], [69] and [75] (ROA Vol III A, pp 16, 19 and 20).
+
+8 Mdm Chee became a Singapore citizen on 23 December 2011, but the Sunrise
+Drive property remained in the sole name of Mr Fan. Thus, in Suit 350, Mdm
+Chee claimed that Mr Fan held 50% of the beneficial interest of the Sunrise
+Drive property on trust for her.
+
+9 Mdm Chee’s claim was based on:
+
+(a) “a common intention constructive trust (the “CICT”) under which Fan had
+agreed to hold half of the [Sunrise Drive property] for the Plaintiff”, which
+“arose at some time in the latter part of May 2011”; and
+
+(b) further or alternatively, proprietary estoppel. 7
+
+##### Foot Note 7
+
+×
+
+Mdm Chee’s Closing Submissions at [7] (ROA Vol IV D, p 198).
+
+10 The Judge held in Chee Yin Meh v Sim Guan Seng and others [2023] 3 SLR 1380
+(the “Judgment”) that even if what Mdm Chee said was true, the RPA operated to
+defeat her claim. We upheld that decision, for the reasons set out below.
+
+Findings
+
+The RPA bars foreign persons from purchasing or acquiring an interest in
+residential property by way of a trust
+
+11 We concluded, as did the Judge, that the RPA bars foreign persons from
+acquiring an interest in residential property under a common intention
+constructive trust.
+
+12 Section 25(2) of the RPA provides that “any foreign person who desires to
+purchase, acquire or retain any estate or interest in any residential property
+other than non-restricted residential property must apply to the Minister
+through the Controller for the grant of the Minister’s approval to acquire or
+to retain residential property”. That is subject to a saving provision for the
+retention of any estate or interest vested immediately before 11 September
+1973, which does not apply in the present case.
+
+13 Mdm Chee desired to purchase or acquire an interest in the Sunrise Drive
+property – she said in her AEIC that she and Mr Fan had intended to buy the
+Sunrise Drive property as joint tenants in the same way as they had bought the
+Sunrise Terrace property, and the option to purchase the Sunrise Drive
+property was thus made out in both their names. 8
+
+##### Foot Note 8
+
+×
+
+Mdm Chee’s AEIC at [36]–[37] (ROA Vol III A, p 9).
+
+As a foreign person who desired to purchase or acquire an interest in the
+Sunrise Drive property (which was residential property), Mdm Chee was obliged
+under section 25(2) of the RPA to apply for the Minister’s approval to do so,
+but she did not make the requisite application.
+
+14 Instead, Mdm Chee sought to acquire an interest in the Sunrise Drive
+property by relying on an agreement with Mr Fan whereby he would acquire the
+property in his name, but “hold 50% of the property for [her] until [she]
+acquired Singapore citizenship”. 9
+
+##### Foot Note 9
+
+×
+
+Mdm Chee’s AEIC at paras 10 and 39 (ROA Vol III A, pp 5, 10); see also
+Transcript 23 February 2021 page 64 lines 2 – 8 (ROA Vol III Q p 69).
+
+15 Mdm Chee thus claimed that her name was struck out from the option. Mr Fan
+exercised the option in his sole name on 2 June 2011, and the purchase was
+completed on 11 August 2011. 10
+
+##### Foot Note 10
+
+×
+
+Mdm Chee’s AEIC at [38] (ROA Vol III A, p 10).
+
+16 In AD 113, Mdm Chee’s case was that she had a 50% beneficial interest in
+the Sunrise Drive property under a common intention constructive trust.
+Section 23 of the RPA, however, prohibits foreign persons from purchasing or
+acquiring any estate or interest in any residential property, by way of a
+trust. Section 23 provides as follows:
+
+Residential property not to be purchased or acquired by citizen or approved
+purchaser as nominee of foreign person
+
+23.—(1) A —
+
+(a) citizen or approved purchaser must not purchase or acquire any estate or
+interest in any residential property that is not non‑restricted residential
+property as a nominee of any foreign person with the intention that the
+citizen or approved purchaser is to hold it in trust for that foreign person;
+and
+
+(b) foreign person must not authorise or appoint as the foreign person’s
+nominee any citizen or approved purchaser to purchase or acquire any estate or
+interest in any residential property that is not non‑restricted residential
+property with the intention that that citizen or approved purchaser is to hold
+it in trust for that foreign person.
+
+(2) Any trust created in whatever manner or form pursuant to subsection (1) is
+void and there is no resulting trust in favour of the foreign person; and any
+contract or covenant between such citizen or approved purchaser and the
+foreign person in respect of such residential property or any estate or
+interest therein is void.
+
+…
+
+(4) Any person who contravenes subsection (1)(a) or (b) shall be guilty of an
+offence and shall be liable on conviction to a fine not exceeding $100,000 or
+to imprisonment for a term not exceeding 3 years or to both.
+
+…
+
+[emphasis added in bold italics]
+
+17 Section 23(1)(a) of the RPA prohibits citizens from purchasing or acquiring
+an interest in residential property with the intention of holding it on trust
+for any foreign person. Section 23(1)(b) prohibits foreign persons from
+authorising or appointing any citizen as a nominee to acquire an interest in
+residential property with the intention that the citizen is to holds the
+interest on trust for the foreign person. Section 23(1)(a) and s 23(1)(b) work
+in tandem, placing prohibitions on both parties in such a trust arrangement:
+the foreign person (as beneficiary), and the Singapore citizen (as trustee).
+
+18 Section 23(2) is the corresponding “voiding” provision for s 23(1),
+providing that any trust created in favour of the foreign person is void and
+that there is no resulting trust in favour of the foreign person. Section
+23(4) then provides for criminal liability for any person who contravenes ss
+23(1)(a) and 23(1)(b) of the RPA.
+
+19 Thus, even on Mdm Chee’s case, ss 23(1)(a) and (b) were contravened by Mr
+Fan and Mdm Chee respectively:
+
+(a) Mr Fan purchased or acquired the Sunrise Drive property with the intention
+that he holds a 50% beneficial interest in it on trust for Mdm Fan; and
+
+(b) Mdm Fan authorised or appointed Mr Fan as her nominee to purchase or
+acquire the Sunrise Drive property with the intention that he holds a 50%
+beneficial interest in it on trust for Mdm Chee.
+
+20 It followed that the trust was void under s 23(2) of the RPA.
+
+21 Mdm Chee relied on the case of Public Prosecutor v Intra Group (Holdings)
+Co Inc [1999] SGHC 11 (“Intra Group”) to argue that there was nothing in the
+RPA to prohibit a common intention constructive trust. In that case, Yong Pung
+How CJ (as he then was) held at [36] and [37] that:
+
+36 These provisions all refer to, and prohibit the creation of, express
+trusts. Section 14(2) prohibits a resulting trust from arising upon the
+failure of the express trust. This is an important provision to which I will
+return later. There is, however, nothing in the statute which prohibits a
+constructive trust from arising by operation of law. A constructive trust (at
+least one arising in the manner I have stated) falls into none of the
+prohibitions: it is neither a trust for sale nor an acquisition by a person
+intending to hold it only as a nominee. The Act prohibits trusts created by a
+transfer of property with the consent of, or the intention to benefit, the
+beneficiary. The constructive trust, on the other hand, is imposed by law when
+the transfer occurs against the wishes of the beneficiary, often fraudulently,
+and without exception, to his detriment.
+
+37 The Parliamentary Debates reveal that the creation of a constructive trust
+in favour of a foreign person was never an issue which concerned the
+legislators. That is perhaps understandable – I do not see how giving effect
+to a constructive trust, at least one arising in the manner I have described,
+can contravene the objectives of the Act. If the property is purchased by a
+Singapore citizen intending to hold it absolutely, then, at face value, there
+is no violation of the Act: even if his investment is speculative, this is not
+the type of speculation which the Act is aimed at. If, however, it happens
+that he was a fiduciary for some foreign person and had misappropriated the
+foreign person’s moneys to acquire the property, then the declaration of a
+constructive trust in the foreign person’s favour does not in any way
+contravene the intention of the Act. There was no intention on the part of the
+foreign person to speculate in Singapore property. It cannot even be said that
+he intended to acquire that property. The acquisition of the property on trust
+for him is against his wishes, and, in my view, he is entitled to trace his
+moneys into the property or the proceeds of its sale. In short, a constructive
+trust in moneys used to purchase residential property would survive the
+provisions of the Act.
+
+[emphasis added]
+
+22 From the extract above, Yong CJ was specifically referring to constructive
+trusts “imposed by law when the transfer occurs against the wishes of the
+beneficiary”, where a foreign person’s money was misappropriated and used to
+acquire residential property. In such a case, the foreign person had no
+intention to acquire the residential property in question; as a corollary, the
+Singapore citizen had no intention to hold the residential property on trust
+for the foreign person: on its terms s 23 of the RPA would not apply. The
+constructive trust discussed in Intra Group was one imposed by law to protect
+an innocent party, it was not one involving a contravention of s 23(1)(a) by
+the Singapore citizen (as trustee), or s 23(1)(b) by the foreign person (as
+beneficiary).
+
+23 Common intention constructive trusts come within the ambit of s 23 of the
+RPA, for they arise from the “common intention” of the parties; if the
+intentional conduct of the parties is prohibited by s 23 of the RPA, there is
+no basis to exclude common intention constructive trusts from the scope of the
+section. As the Judge below correctly found, “it is impossible to recognise,
+as a class, common intention constructive trusts which arises from an express
+common intention without undermining the policy of the [RPA] and the purpose
+of the prohibitions in it”: Judgment at [46]. This must be correct because
+otherwise, a foreigner can skirt the prohibitions in s 3 and 23 of the RPA and
+acquire an interest in residential property by alleging a “common intention
+constructive trust” as opposed to an “express trust”.”
+
+24 Mdm Chee also argued that the RPA should not apply to trusts in favour of
+foreign persons who eventually acquire Singapore citizenship. Section 2(1) of
+the RPA however defines “foreign person” as:
+
+(a) any person who is not a citizen;
+
+(b) any permanent resident
+
+… who … has not been granted approval under section 25.
+
+25 Mdm Chee was not a citizen, she was a permanent resident, and she had not
+been granted approval under section 25 of the RPA. The fact that she had
+applied for citizenship did not take her out of the statutory definition of
+“foreign person”. A common intention constructive trust in favour of Mdm Chee,
+a foreign person, was void under the RPA.
+
+The RPA bars foreign persons from purchasing or acquiring an interest in
+residential property except by way of a mortgage, charge or reconveyance
+
+26 Further, s 3(1)(c) of the RPA prohibits foreign persons from purchasing or
+acquiring an interest in residential property except by way of a mortgage,
+charge or reconveyance (and Mdm Chee’s claim did not involve any of those
+modes). Any purchase or acquisition prohibited by s 3(1)(c) is rendered void
+by s 3(2)(c).
+
+27 Sections 3(1) and (2) of the RPA provide as follows:
+
+Prohibition on transfer to, or purchase or acquisition by, foreign persons of
+residential property
+
+3.—(1) Except as provided in this Act —
+
+(a) a person must not, whether for consideration or by way of gift inter vivos
+or otherwise, transfer any residential property or any estate or interest
+therein to any foreign person;
+
+(b) a person must not create any trust for sale in respect of any residential
+property or any estate or interest therein in favour of any foreign person;
+and
+
+(c) a foreign person must not purchase or acquire any residential property or
+any estate or interest therein except by way of a mortgage, charge or
+reconveyance.
+
+(2) Any —
+
+(a) transfer of any residential property or of any estate or interest therein
+by any person to a foreign person made in contravention of subsection (1)(a);
+
+(b) trust for sale in respect of any residential property or any estate or
+interest therein created by any person in favour of any foreign person in
+contravention of subsection (1)(b); and
+
+(c) purchase or acquisition of any residential property or of any estate or
+interest therein by any foreign person, except by way of a mortgage, charge or
+reconveyance, made in contravention of subsection (1)(c),
+
+is void.
+
+…
+
+[emphasis added in bold italics]
+
+28 Section 3(1)(c) of the RPA covered Mdm Chee’s claim – she purported to
+purchase or acquire a beneficial interest in the Sunrise Drive property by way
+of a trust, but that contravened the prohibition in s 3(1)(c), and was thus
+void under s 3(2)(c).
+
+29 Although the trustees had more generally cited s 3 of the RPA, the Judge
+identified s 3(1)(b) (rather than s 3(1)(c)) as the specific sub-sub-section
+to apply: Judgment at [35], [39], [49]. The Judge also referred to s 3(1)(a)
+at [49] of the Judgment, but in the context he may have meant that as a
+reference to s 3(1)(b).
+
+30 At [35] of the Judgment, the Judge said “Section 3(1)(b) of the [RPA]
+prohibits any person from creating any “estate or interest” in residential
+property in favour of a foreign person. Section 3(2)(b) of the RPA renders
+void any “estate or interest” created by any person in favour of a foreign
+person in contravention of s 3(1) of the [RPA].” That paraphrase does not
+accurately capture the scope of s 3(1)(b) of the RPA – what is prohibited is
+not the creation of an estate or interest in residential property, but the
+creation of “any trust for sale in respect of any residential property or any
+estate or interest therein” [emphasis added].
+
+31 The term “trust for sale” is a term of art — it refers to a trust which
+directs the trustee of that trust to sell the trust property, invest the
+proceeds, and hold the resulting fund upon the trusts declared by the settlor:
+Foo Jee Seng and others v Foo Jhee Tuang and another [2011] SGHC 235 at [16]
+and [17]. Mdm Chee’s claim did not concern a trust for sale: she did not
+contend that the arrangement she and Mr Fan had agreed upon, required him to
+sell the Sunrise Drive property; instead, she simply wanted to own that
+property together with him.
+
+32 The relevant sub-sub section under s 3 of the RPA is thus s 3(1)(c), with
+its corresponding voiding provision in s 3(1)(c), not s 3(1)(b) read with s
+3(2)(b).
+
+Where the purchase or acquisition is barred under s 23 or s 3 of the RPA, the
+foreign person cannot claim an interest by proprietary estoppel
+
+33 As an alternative to a common intention constructive trust, Mdm Chee
+claimed a 50% beneficial interest by proprietary estoppel. However, the
+factual position that Mdm Chee had put forward and given evidence on at trial,
+was based on a common intention constructive trust. If that claim failed
+because of the RPA, she could not then disavow the trust arrangement, and put
+forward a different factual position to support proprietary estoppel.
+
+34 In any event, Mdm Chee’s proprietary estoppel claim was based on the same
+agreement between Mdm Chee and Mr Fan whereby he would “hold 50% of the
+property for [her] until [she] acquired Singapore citizenship”. 11
+
+##### Foot Note 11
+
+×
+
+Mdm Chee’s AEIC at [38] (ROA Vol III A, p 10).
+
+35 The Judge rightly rejected Mdm Chee’s alternative claim of proprietary
+estoppel. At [52] of the Judgment, he cited Joshua Steven v Joshua Deborah
+Steven [2004] 4 SLR(R) 403 (“Joshua Steven”) where the court held that the
+prohibitions in the RPA applied to a beneficial interest arising from a
+proprietary estoppel just as it applied to a beneficial interest under a
+trust. At [15] of Joshua Steven, the court stated that “it is trite that a
+party cannot rely on estoppel in defiance of a statute.”
+
+36 In the present case, we had concluded that the common intention
+constructive trust was void under s 23 of the RPA, and moreover that Mdm
+Chee’s acquisition of a beneficial interest in the Sunrise Drive property was
+void under s 3(1)(c) read with s 3(2)(c) of the RPA. Mdm Chee’s proprietary
+estoppel claim was founded on the same agreement between her and Mr Fan, that
+ss 23 and 3 of the RPA strike at. Allowing Mdm Chee to acquire the same
+interest by proprietary estoppel would allow her to circumvent the RPA. In any
+event, Mdm Chee’s acquisition of a beneficial interest by proprietary estoppel
+would itself be an acquisition prohibited by s 3(1)(c) and thus void under s
+3(2)(c) of the RPA.
+
+Mdm Chee could not claim a beneficial interest pursuant to a “contingent
+trust”
+
+37 At first instance, Mdm Chee’s claim was that Mr Fan held a 50% beneficial
+interest in the Sunrise Drive property “for [her] until [she] acquired
+Singapore citizenship” 12
+
+##### Foot Note 12
+
+×
+
+Mdm Chee’s AEIC at paras 10 and 39 (ROA Vol III A, pp 5, 10); see also
+Transcript 23 February 2021 page 64 lines 2 – 8 (ROA Vol III Q p 69).
+
+, pursuant to an agreement on those terms between them. That was repeated in
+Mdm Chee’s appellant’s case at paragraph 4. Later in her appellant’s case,
+however, Mdm Chee advanced an alternative (and inconsistent) argument:
+
+(a) that the common intention constructive trust “was alternatively a
+contingent trust – contingent upon [Mdm Chee] becoming a citizen” (at [38]);
+and
+
+(b) “the CICT properly construed cannot be understood to mean that Fan was to
+hold 50% of the property in trust for [Mdm Chee] indefinitely…properly
+construed, the CICT meant that Fan would hold 50% of the [Sunrise Drive
+property] for [Mdm Chee]. Should [Mdm Chee] not acquire citizenship, the CICT
+would not confer [Mdm Chee] any right or interest in the [Sunrise Drive
+property]. As matters turned out, [Mdm Chee] acquired citizenship within 4
+months of the purchase of the [Sunrise Drive property]” (at [29] and [30]).
+
+38 As with her proprietary estoppel claim, Mdm Chee’s “contingent trust” claim
+suffers from not being the factual position she had put forward and given
+evidence on at trial (see [33] above).
+
+39 Moreover, this alternative was inconsistent with Mdm Chee’s pleadings; and
+not only was it unsupported by evidence, but it was also inconsistent with Mdm
+Chee’s evidence.
+
+40 The following extracts from Mdm Chee’s Statement of Claim (Amendment No 1)
+in Suit 350 illustrate the contradiction with her pleadings: 13
+
+##### Foot Note 13
+
+×
+
+Statement of Claim (Amendment No 1) in Suit 350 (ROA Vol II, pp 61 to 72).
+
+2.1.2 During the course of two or more discussions in or around early May
+2011, [Mdm Chee] and [Mr Fan] identified [the Sunrise Drive property] and it
+was orally agreed between [Mdm Chee] and [Mr Fan] that the parties would
+jointly purchase [the Sunrise Drive property] for a sum of $3,100,000 … It was
+also agreed that [Mdm Chee] and [Mr Fan] would have equal beneficial ownership
+of [the Property] irrespective of [the] parties’ actual contributions to the
+Purchase Price.
+
+…
+
+2.1.4 Further to their discussions in early May 2011, during the course of two
+or more discussions in the period of 19 May 2011 to 2 June 2011, [Mdm Chee]
+and [Mr Fan] agreed that while [the Sunrise Drive property] would be purchased
+in [Mr Fan’s] sole name, [Mr Fan] would still hold half the beneficial
+interest in [the Sunrise Drive property] on trust for [Mdm Chee].
+
+…
+
+2.1.4.6 Angela Ng further advised [Mdm Chee] and [Mr Fan] that [Mr Fan] would
+hold at least 50% of the property in trust for [Mdm Chee] until [Mdm Chee’s]
+name was added to the certificate.
+
+2.1.5 On or about 2 June 2011, [Mr Fan] exercised the option to purchase
+[Sunrise Drive property] ... The purchase was completed on 11 August 2011 and
+[the Sunrise Drive property] was conveyed into the name of [Mr Fan] in
+accordance with the oral agreement between [Mdm Chee] and [Mr Fan]…
+
+[emphasis added]
+
+41 Mdm Chee’s pleaded case was that she had agreed with Mr Fan that he would
+purchase the Sunrise Drive property in his sole name but still hold half the
+beneficial interest on trust for her upon completion, acting on advice that Mr
+Fan would hold that interest in trust for her until her name was added to the
+certificate. That was the trust which Mdm Chee claimed to exist. Nothing was
+said about the trust, or Mdm Chee’s interest under it, being contingent on her
+becoming a Singapore citizen.
+
+42 If, by her “contingent trust” argument, Mdm Chee was suggesting that until
+and unless she became a Singapore citizen there was no trust, or she had no
+beneficial interest, that was not her case at first instance.
+
+43 Compounding Mdm Chee’s problem was her own evidence, that Mr Fan would
+“hold 50% of the property for [her] until [she] acquired Singapore
+citizenship”. 14
+
+##### Foot Note 14
+
+×
+
+Mdm Chee’s AEIC at [38] (ROA Vol III A, p 10).
+
+Not only was this stated in Mdm Chee’s AEIC, but she also confirmed it in her
+oral testimony: 15
+
+##### Foot Note 15
+
+×
+
+Transcript, 23 February 2021, page 79 line 8 to 12 (ROA Vol III Q, p 83).
+
+Q. I'll ask you a simple question: is Fan's holding on trust of the 50 per
+cent of the property for you, did it arise before or after you became citizen?
+
+A. It arise [sic] before I become a citizen.
+
+44 Thus, her closing submission was that the trust “arose at some time in the
+latter part of May 2011”, ie, the trust was in place by the time Mr Fan
+exercised the option in his sole name (in June 2011) and the Sunrise Drive
+property was transferred to him (in August 2011). All these were inconsistent
+with there being no trust, or Mdm Fan having no beneficial interest, until and
+unless she became a Singapore citizen (which happened in December 2011) – if
+this was what Mdm Fan’s “contingent trust” argument meant.
+
+45 We also noted that Mdm Chee put forward no legal authorities for the
+concept of a “contingent trust” that she advanced for the first time on
+appeal.
+
+Mdm Chee was not entitled to equitable relief because she lacked “clean hands”
+
+46 We also affirmed the Judge’s decision that Mdm Chee was not entitled to
+equitable relief because she lacked “clean hands”: Judgment at [53]–[56].
+
+47 We agreed with the Judge that on Mdm Chee’s case, she had acted with intent
+to circumvent the RPA. Having obtained the Minster’s approval to be a co-owner
+of the Sunrise Terrace property, Mdm Chee did not seek or obtain such approval
+for the Sunrise Drive property. Instead, she sought to acquire a 50%
+beneficial interest in it pursuant to a trust arrangement or proprietary
+estoppel.
+
+The award of indemnity costs against Mdm Chee at first instance was justified
+
+48 The Judge awarded indemnity costs against Mdm Chee because he accepted that
+Mdm Chee had brought and conducted Suit 350 in bad faith.
+
+49 One aspect of this was the Judge’s finding that Mdm Chee lacked “clean
+hands” as discussed in the preceding section. Another aspect was that Mdm Chee
+had sought to change her case in response to a striking out application.
+
+50 We would add that Mdm Chee’s conduct indicated a lack of integrity on her
+part:
+
+(a) When she initially made her claim to the trustees for 50% beneficial
+interest in the Sunrise Drive property, she explained that the property was
+purchased in the Mr Fan’s sole name because it was easier for him to obtain a
+housing loan in his sole name given that she was unemployed at the material
+time. 16
+
+##### Foot Note 16
+
+×
+
+Mdm Chee’s Letter to the Trustees dated 26 January 2018 (ROA Vol III H, pp
+5–11)..
+
+She did not mention that she was prohibited by the RPA from acquiring any
+interest in the Sunrise Drive property at the material time because she was
+not a citizen then.
+
+(b) Similarly, in her first Statement of Claim dated 10 January 2019, there
+was no mention of her citizenship, or lack thereof. 17
+
+##### Foot Note 17
+
+×
+
+Statement of Claim (Amendment No 1) in Suit 350 (ROA Vol II, pp 61 to 72).
+
+In her first affidavit filed in Suit 350 on 24 July 2018, she repeated her
+explanation that Mr Fan purchased the Sunrise Drive property in his sole name
+because it would have been easier for him to apply for a housing loan in his
+sole name. 18
+
+##### Foot Note 18
+
+×
+
+Mdm Chee’s Affidavit filed in HC/S 350/2019 dated 24 July 2018 at [1.3.4] (ROA
+VolV O, p 251).
+
+(c) Upon the trustees discovering her citizenship issues and commencing
+striking out applications in HC/SUM 6078/2019, she then changed her case. She
+amended her Statement of Claim to allege for the first time that her lawyer
+had advised her that she could obtain 50% beneficial interest in the Sunrise
+Drive property notwithstanding that the purchase would be made by Mr Fan. The
+court noted when giving its decision on the striking out application on 10
+February 2020 that it “certainly appears that [the appellant] is changing her
+case now that it has come to light that she was not a Singapore citizen at the
+time the [Sunrise Drive property] was purchased” and that her alleged
+discussions with Mr Fan appeared to be “an afterthought, in a bid to avoid a
+striking out of the claim”. 19
+
+##### Foot Note 19
+
+×
+
+Minute Sheet dated 10 February 2020 in HC/S 350/2019.
+
+51 Having regard to Mdm Chee’s conduct, compounded by her advancing a
+“contingent trust” argument for the first time on appeal (which was both
+unpleaded and inconsistent with her case at first instance), we decided that
+an award of indemnity costs was also warranted for the appeal.
+
+Conclusion
+
+52 For the above reasons, we dismissed Mdm Chee’s appeal in AD 113. We ordered
+her to pay to the trustees costs on an indemnity basis, fixed at $50,000, and
+disbursements of $8,000. The usual consequential orders were made.
+
+Kannan Ramesh  
+Judge of the Appellate Division| Debbie Ong Siew Ling  
+Judge of the Appellate Division  
+---|---  
+Andre Maniam  
+Judge of the High Court |   
+  
+Goh Kok Leong, Fu Xiangming Max and Navin Kumar s/o Tamil Selvan (Ang &
+Partners) for the appellant;
+
+Chan Chee Yin Andrew, Tay Yu Xi, Yeo Alexander Lawrence Han Tiong, Chew Jing
+Wei, Lee Suet Yean Cherlyn and Edwin Teong Ying Keat (Allen & Gledhill LLP)
+for the respondents.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 27 Oct 2023 (12:02 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

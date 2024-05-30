@@ -1,0 +1,1068 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 320
+
+Suit No 616 of 2021 (Registrar’s Appeals Nos 182 and 183 of 2023)
+
+Between
+
+Intertek Testing Services (Singapore) Pte Ltd  
+---  
+  
+… Plaintiff
+
+And
+
+Haidir bin Mohamad Khir  
+---  
+  
+… Defendant
+
+Counterclaim of Defendant
+
+Between
+
+Haidir bin Mohamad Khir  
+---  
+  
+… Plaintiff in Counterclaim
+
+And
+
+Intertek Testing Services (Singapore) Pte Ltd  
+---  
+  
+… Defendant in Counterclaim
+
+judgment
+
+[Civil Procedure — Discovery]
+
+[Contract — Breach — Independent breach]
+
+[Contract — Remedies — Damages]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Intertek Testing Services (Singapore) Pte Ltd
+
+  
+v
+
+  
+
+Haidir bin Mohamad Khir
+
+[2023] SGHC 320
+
+General Division of the High Court — Suit No 616 of 2021 (Registrar’s Appeals
+Nos 182 and 183 of 2023)  
+Goh Yihan J  
+3 October 2023
+
+8 November 2023 Judgment reserved.
+
+Goh Yihan J:
+
+1 There are two appeals before me. They stem from the claim that the
+plaintiff, Intertek Testing Services (Singapore) Pte Ltd, has brought against
+the defendant, Mr Haidir bin Mohamad Khir, in the underlying suit, HC/S
+616/2021 (the “Suit”). The two appeals are:
+
+(a) HC/RA 182/2023 (“RA 182”), being the defendant’s appeal against part of
+the learned Assistant Registrar’s (the “AR”) decision in HC/SUM 1536/2023
+(“SUM 1536”) to refuse specific discovery of: 1
+
+##### Foot Note 1
+
+×
+
+HC/SUM 1536/2023 filed on 22 May 2023, Annex A at paras 1–2.
+
+(i) documents and/or correspondence (internal or otherwise) evincing costs
+associated with the provision of services captured by cl 11.1 of the
+Employment Agreement (the “Relevant Services”) for the period of February 2021
+to 23 October 2021, including and not limited to profit and loss statements
+specific to the department which the defendant was formerly part of, ledgers,
+and department communications; and
+
+(ii) documents evincing any difference (for the period of February 2021 to 24
+April 2021; and 24 April 2021 to 23 October 2021) in costs associated with the
+provision of the Relevant Services.
+
+For convenience, I will term these documents as the “RA 182 Documents”.
+
+(b) HC/RA 183/2023 (“RA 183”), being the defendant’s appeal against part of
+the learned AR’s decision in HC/SUM 1529/2023 (“SUM 1529”) to grant specific
+discovery of documents and/or correspondence between the defendant and some of
+the plaintiff’s customers between 16 July 2021 and 24 October 2021, relating
+to and/or evidencing that the defendant had offered to provide and/or provided
+said customers with the sale or supply of “Infringing Services”, as defined in
+para 1 of the plaintiff’s Further and Better Particulars dated 27 October
+2022.
+
+For convenience, I will term these documents as the “RA 183 Documents”.
+
+2 After hearing the parties and considering their submissions, I allow RA 182
+in part and RA 183 in full. These are the reasons for my decision.
+
+Background facts
+
+3 I begin with the background facts. The plaintiff is a Singapore-registered
+company. Its key business is in the provision of petroleum, fuel, lubricant
+and petrochemical testing, and cargo inspection services for local and
+international clients. 2
+
+##### Foot Note 2
+
+×
+
+1st Affidavit of Ang Chee Teck dated 14 July 2021 at para 8.
+
+The plaintiff had employed the defendant as an Operations Manager. The
+defendant’s employment with the plaintiff started on 2 January 2020. This was
+pursuant to an Executive Agreement dated 29 November 2019 entered into by the
+plaintiff and the defendant. I have referred to this as the “Employment
+Agreement” above and will continue to do so for the rest of this judgment.
+
+4 It is undisputed that the defendant’s employment with the plaintiff was
+terminated on 24 April 2021. Although the defendant tendered his resignation
+on 23 April 2021, 3
+
+##### Foot Note 3
+
+×
+
+1st Affidavit of Haidir bin Mohamad Khir dated 30 July 2021 at para 57 and p
+55.
+
+this was not effective on that day because it required three months’ prior
+notice or three months’ salary in lieu of such notice. 4
+
+##### Foot Note 4
+
+×
+
+1st Affidavit of Ang Chee Teck dated 14 July 2021 at paras 43–45.
+
+In response, the plaintiff issued a Notice of Termination of Employment on 24
+April 2021. 5
+
+##### Foot Note 5
+
+×
+
+1st Affidavit of Ang Chee Teck dated 14 July 2021 at para 45.
+
+The defendant joined his current employer, Saybolt (Singapore) Pte Ltd, by
+signing an employment agreement dated 28 April 2021.
+
+5 The plaintiff commenced the Suit against the defendant on 16 July 2021. This
+was in relation to the defendant’s alleged breaches of contractual obligations
+set out in the Employment Agreement. The parties have taken different
+positions as to the said termination. The plaintiff’s position is that it
+terminated the defendant’s employment because, amongst other things, the
+defendant had allegedly disclosed the plaintiff’s confidential proprietary
+information to third parties without authorisation. 6
+
+##### Foot Note 6
+
+×
+
+1st Affidavit of Ang Chee Teck dated 14 July 2021 at paras 23–30.
+
+As against this, the defendant’s position is that he had terminated the
+Employment Agreement when he accepted the plaintiff’s breaches of the
+Employment Agreement. 7
+
+##### Foot Note 7
+
+×
+
+1st Affidavit of Haidir bin Mohamad Khir dated 30 July 2021 at para 71.
+
+For the purposes of the present appeals, it is sufficient to focus on just
+some of the plaintiff’s claims against the defendant.
+
+6 Among other things, the plaintiff alleges that the defendant breached cll
+11.2.1 and 11.2.2 of the Employment Agreement. These clauses provide as
+follows: 8
+
+##### Foot Note 8
+
+×
+
+1st Affidavit of Ang Chee Teck dated 14 July 2021 at p 55.
+
+11.2 During the course of and as a consequence of the Employee’s employment by
+the Company he will have access to and acquire knowledge of confidential
+information. He will also have regular dealings with and establish
+relationships with relevant persons. In order to protect the Company’s
+interests the Employee agrees that he will not without the company’s written
+consent, directly or indirectly (in any capacity) and whether for yourself or
+on behalf of anyone else, for a period of six months commencing on the date on
+which the Employee’s employment ends,:
+
+11.2.1 be engaged in the provision of relevant services to, for or on behalf
+of any relevant person;
+
+11.2.2 solicit or attempt to solicit business from any relevant person in
+connection with the provision of relevant services
+
+…
+
+Accordingly, the effect of cll 11.2.1 and 11.2.2 of the Employment Agreement
+is that the defendant is prohibited from conducting the Relevant Services for
+a period of six months from the date of the end of his employment with the
+plaintiff. This would be from 24 April 2021 to 24 October 2021 (the
+“Restricted Period”).
+
+7 More specifically, the plaintiff pleaded that the defendant breached cll
+11.2.1 and 11.2.2 of the Employment Agreement by, among other acts, offering
+to provide and/or providing the Relevant Services during the Restricted
+Period. In particular, the plaintiff pleaded specifically as follows at para
+7(c) of the Statement of Claim (Amendment No 2) dated 27 October 2022 (“SOC
+A2”):
+
+After the termination of his employment in Intertek, Haidir offered to provide
+and/or provided one or more of Intertek’s Customers with the sale or supply of
+services which are the same as or similar to services provided by Intertek
+within the last 12 months of Haidir’s employment in Intertek.
+
+The term “Intertek’s Customers” is defined at para 3A of the SOC A2 to
+include, among others, Equinor ASA (“Equinor”), Equinor Asia Pacific Pte Ltd,
+Total Trading Asia Pte Ltd (“TOTSA”), Trafigura Global Services Pvt Ltd, and
+Vitol Asia Pte Ltd. These are the five customers whose communications with the
+defendant that the plaintiff seeks specific disclosure of in SUM 1529.
+
+8 As a result of the defendant’s alleged breaches of cll 11.2.1 and 11.2.2 of
+the Employment Agreement, the plaintiff further pleaded at para 10 of the SOC
+A2 that its “Gasoline Blending Team has suffered a sharp decline in business
+(i.e. falling outside an acceptable degree of variance) from customers such as
+Equinor and TOTSA since 24 April 2021”.
+
+9 In his Defence and Counterclaim (Amendment No 2) dated 22 June 2022 (“DCC
+A2”), the defendant pleaded the following defences in respect of his alleged
+breaches of cll 11.2.1 and 11.2.2 of the Employment Agreement.
+
+(a) He denied that he had breached these clauses by offering to provide and/or
+provided one or more of the plaintiff’s customers with the Relevant Services
+within the last 12 months of his employment with the plaintiff. 9
+
+##### Foot Note 9
+
+×
+
+Defence and Counterclaim (Amendment No 2) dated 22 June 2022 (“DCC A2”) at
+para 12.
+
+(b) He denied that any of his act or omission resulted in a sharp decline in
+the plaintiff’s business. 10
+
+##### Foot Note 10
+
+×
+
+DCC at para 13.
+
+(c) He pleaded that the plaintiff “is not entitled to the reliefs sought”. 11
+
+##### Foot Note 11
+
+×
+
+DCC at para 22.
+
+10 With these background facts in mind, I turn to consider each of the present
+appeals but begin by alluding to some general points on the applicable law on
+specific discovery.
+
+The applicable law on specific discovery
+
+11 To begin with, the law on specific discovery, based on O 24 rr 5 and 7 of
+the Rules of Court (2014 Rev Ed) (the “ROC 2014”), is trite and not in
+dispute. Reduced to its essence, first, the documents must be relevant; and
+second, even if relevance is proven, discovery must be necessary either for
+disposing fairly of the cause or matter or for saving costs.
+
+12 Further, in assessing relevance, the parties “seeking discovery must show a
+nexus between the pleaded causes of action and the documents they want
+discovered” (see the High Court decision of Dante Yap Go v Bank Austria
+Creditanstalt AG [2007] SGHC 69 (“Dante Yap Go”) at [28]). If discovery is
+sought in relation to an issue unrelated to the pleaded causes of action, this
+may constitute an impermissible fishing exercise (see the High Court decision
+of UMCI Ltd v Tokio Marine & Fire Insurance Co (Singapore) Pte Ltd and others
+[2006] 4 SLR(R) 95 at [71]). As for necessity, the test is whether discovery
+is necessary for disposing fairly of the proceedings or for saving costs.
+Here, a bare assertion that the documents are necessary because they are
+relevant will not be sufficient (see Dante Yap Go at [32], citing the High
+Court decision of Bayerische Hypo- und Vereinsbank AG v Asia Pacific Breweries
+(Singapore) Pte Ltd and other applications [2004] 4 SLR(R) 39 at [37]). It is
+incumbent on the party seeking discovery to put his case forward, supported by
+an affidavit, so that the counterparty knows the case it has to meet if it
+wishes to resist discovery.
+
+13 In fact, I can do no better than refer to Assistant Registrar Scott Tan’s
+concise and helpful summary of the applicable law in the High Court decision
+of EQ Capital Investments Ltd v Sunbreeze Group Investments Ltd and others
+[2017] SGHCR 15 (at [46]):
+
+(a) The court’s jurisdiction to grant an order for specific discovery is
+enlivened when (i) there is sufficient evidence to show that the requested
+documents are in the possession, custody or power of the requested party and
+(ii) the requested documents are relevant: see decision of the Singapore High
+Court in The Management Corporation Strata Title Plan No 689 v DTZ Debenham
+Tie Leung (SEA) Pte Ltd and another [2008] SGHC 98 (“DTZ Debenham”) at [29]
+and [30].
+
+(b) A deposition in an affidavit to the effect that the requested documents
+are in the possession, custody or power of the requested party is normally
+sufficient to constitute ‘sufficient evidence’ of the same: see DTZ Debenham
+at [30].
+
+(c) The ‘relevance’ of a document must be determined by reference to the
+pleaded cases of the parties (see the decision of the Singapore High Court in
+Dante Yap Go v Bank Austria Creditanstalt AG [2007] SGHC 69 (“Dante Yap Go”)
+at [20]) and can take one of two forms:
+
+(i) A document is directly relevant if it is one on which the party relies or
+will rely; where it could adversely affect his own or another party’s case; or
+where it supports another party’s case: see O 24 rr 5(3)(a) and (b) of the
+Rules and Dante Yap Go at [18].
+
+(ii) A document is indirectly relevant if may lead the applicant to a “train
+of inquiry resulting in his obtaining information which may” adversely affect
+his or another party’s case or which may support another party’s case: see O
+24 r 5(3)(c) of the Rules and Dante Go Yap at [29].
+
+(d) If discovery is sought of a class of documents rather than a specific
+document, relevance must be shown in relation to the entire class described as
+a class, and not only some parts of the class (see the decision of the
+Singapore High Court in CIFG Special Assets Capital I Ltd (formerly known as
+Diamond Kendall Ltd) v Polimet Pte Ltd and others [2016] 1 SLR 1382 at [24]).
+
+(e) Even after the court’s jurisdiction has been engaged, the court still
+retains a discretion to decide whether or not to make the order for specific
+discovery. A court may refuse to give the order or make it only in part if it
+is satisfied that ‘discovery is not necessary either for disposing fairly of
+the cause or matter or for saving costs’: see O 24 r 7 of the Rules and the
+decision of the Singapore High Court in Bayerische Hypo- und Vereinsbank AG v
+Asia Pacific Breweries (Singapore) Pte Ltd and other applications [2004] 4
+SLR(R) 39 (“Bayerische”) at [38]).
+
+[emphasis in original]
+
+14 With these principles in mind, I turn now to RA 182.
+
+RA 182
+
+15 As I mentioned at the outset, RA 182 concerns the learned AR’s decision to
+refuse the defendant’s application for specific discovery of documents that,
+broadly speaking, relate to what the defendant says is the quantification of
+the plaintiff’s damages.
+
+The learned AR’s decision
+
+16 The learned AR refused specific discovery for the RA 182 Documents for the
+primary reason that the issue as to the quantum of damages suffered by the
+plaintiff does not form part of the pleaded issues.
+
+17 The learned AR provided two reasons in support of his decision. First, the
+learned AR held that the DCC A2 contains a general averment that the plaintiff
+is not entitled to the reliefs sought but does contain averments regarding the
+quantum of damages. More specifically, the defendant did not contest the
+plaintiff’s method of quantifying its damages in the DCC A2. Second, the
+learned AR held that the plaintiff is not precluded from seeking to quantify
+its damages based on its loss of revenue. Therefore, the defendant can
+ascertain the plaintiff’s loss of revenue based on the documents already
+disclosed by the plaintiff. 12
+
+##### Foot Note 12
+
+×
+
+Letter from court dated 8 August 2023, Judgment for HC/SUM 1529/2023 and
+HC/SUM 1536/2023 at [28]–[32].
+
+The parties’ positions
+
+18 The defendant’s position is that the RA 182 Documents are necessary to
+assess the plaintiff’s loss of profit, as opposed to its loss of revenue. This
+is because the defendant takes issue with the plaintiff’s quantification of
+its damages on the basis of its loss of revenue (the “Revenue Method”).
+Instead, the defendant argues that the quantification of the plaintiff’s
+damages should be based on its loss of profit (the “Profit Method”).
+Therefore, the defendant says that he should not be prematurely deprived of
+the opportunity to rely on the Profit Method as a mode of quantification of
+damages, as opposed to the Revenue Method. 13
+
+##### Foot Note 13
+
+×
+
+Defendant’s Written Submissions dated 19 September 2023 (“DWS”) at para 59.
+
+19 As for the learned AR’s view that the defendant did not raise any issue in
+its pleadings as to how the plaintiff quantifies its damages, the defendant
+argues that there was no avenue for him to take issue with the Revenue Method.
+This is because the plaintiff did not plead the Revenue Method in its
+pleadings. Instead, the plaintiff had simply alleged that it suffered loss and
+damage as a result of its Gasoline Blending Team’s “sharp decline in
+business”. The plaintiff then asked for damages to be assessed without
+specifying a mode of quantification. As such, the defendant argues that the
+onus is on the plaintiff to plead the Revenue Method for him to respond
+accordingly. Moreover, even if the parties’ pleadings only contain an averment
+for damages to be assessed, without specifying the method of quantification,
+the defendant submits that the court is not precluded from allowing discovery
+of the RA 182 Documents as they would assist the trial court in fairly
+disposing of the matter. The defendant cites the High Court decision of
+Beckkett Pte Ltd v Deutsche Bank AG and Another [2006] SGHC 26 (“Beckkett”)
+for this proposition. 14
+
+##### Foot Note 14
+
+×
+
+DWS at paras 55–62.
+
+20 In response, the plaintiff makes the following points. First, it has
+already adduced sufficient evidence in respect of its claim for damages. In
+this regard, the plaintiff has disclosed invoices from its customers to
+demonstrate the “sharp decline in business”. The plaintiff has also disclosed
+a table showing the decrease in revenue from these customers based on the
+invoices. Therefore, there is sufficient evidence to ascertain the plaintiff’s
+loss of revenue. 15
+
+##### Foot Note 15
+
+×
+
+Plaintiff’s Written Submissions dated 19 September 2023 (“PWS”) at paras
+15–18.
+
+Second, the defendant has not pleaded the relevance of the Revenue Method and
+its attempt to seek specific discovery of the documents is a fishing
+expedition. 16
+
+##### Foot Note 16
+
+×
+
+PWS at paras 19–22.
+
+Third, and in any event, the RA 182 Documents sought are extremely broad, and
+relevance in relation to the whole category has not been established. 17
+
+##### Foot Note 17
+
+×
+
+PWS at paras 26–27.
+
+My decision: RA 182 is allowed
+
+21 Having considered the parties’ submissions, I allow RA 182 in part for two
+principal reasons.
+
+The RA 182 Documents are relevant because the plaintiff is entitled only to
+recovery for loss of profit, which is necessarily calculated by reference to
+its business costs
+
+22 First, while the defendant has framed his advocated-for Profit Method as
+being a direct choice against the plaintiff’s preferred Revenue Method, I
+think the real issue in the present appeal is whether the plaintiff’s case, as
+pleaded, can be assessed only by the Profit Method, such that I should allow
+the defendant’s appeal for discovery of the RA 182 Documents for that
+assessment to take place.
+
+23 To begin with, the apparent contest between the Profit Method and the
+Revenue Method relates to how the plaintiff’s expectation loss is to be
+calculated. The plaintiff’s expectation loss, if proven at trial, may be
+characterised from either the “gross” or “net” points of view. In other words,
+the plaintiff’s expectation loss may be measured by: (a) its loss of gross
+profit, which is its profit before it deducts its expected expenses, and
+therefore appears to be the Revenue Method; or (b) its loss of net profit,
+which is its profit after it deducts its expected expenses, which appears to
+be the Profit Method. Indeed, as the Court of Appeal held in Turf Club Auto
+Emporium Pte Ltd and others v Yeo Boong Hua and others and another appeal
+[2018] 2 SLR 655 (at [125]), a plaintiff’s expectation loss “would encompass
+the plaintiff’s total (or gross) loss – including the expected (or net) profit
+that the plaintiff would have received had there been no breach of contract as
+well as his expected expenses, which he would have recouped if the contract
+had been performed” [emphasis in original].
+
+24 A helpful illustration of the distinction between the “gross” or “net”
+points of view was provided by the High Court in Smile Inc Dental Surgeons Pte
+Ltd v OP3 International Pte Ltd [2020] 3 SLR 1234 (“Smile Inc”) (at [56]):
+
+A hypothetical scenario aptly demonstrates this. In the hypothetical, an
+entity owns a shop. The cost of the entity’s permanent staff and its rental is
+$8 per month. For expending the fixed expenses of $8 a month, the entity makes
+$10 per month in total revenue, thereby earning a monthly net profit of $2.
+If, due to another entity’s breach (eg, defective works), the entity is unable
+to open its shop for a month, the entity would still have to expend $8 a month
+in paying its permanent staff and rental, as such expenses are fixed expenses
+which do not depend on whether the shop is opened or not. This $8 would be
+wasted fixed expenditure, as the entity would not be able to generate any
+revenue while its shop is closed due to the other entity’s defective works. If
+the entity is only allowed to claim for its loss of net profit in this case,
+the entity’s claim would be $2, which would not even cover the entity’s wasted
+fixed expenditure of $8. Hence, to ensure that the entity is put in the same
+position as it would have been but for the breach, the damages due to the
+entity ought to be $10, being the sum of the entity’s net profits and wasted
+fixed expenditure. This $10 would be used to offset the entity’s wasted fixed
+expenditure of $8, leaving the entity with the $2 net profit which it would
+have earned but for the other entity’s breach.
+
+25 However the plaintiff’s expectation loss is characterised, the key concern
+is ensuring that it is not compensated for loss that it did not actually
+suffer, or that it is compensated twice over for the same loss (see also the
+Appellate Division of the High Court decision of Crescendas Bionics Pte Ltd v
+Jurong Primewide Pte Ltd and other appeals [2023] 1 SLR 536 (“Crescendas”) at
+[205]). Using the illustration in Smile Inc, a plaintiff may claim for loss of
+its gross profit of $10, which comprises its net profit of $2 and wasted
+expenses of $8. But a plaintiff may not claim, eg, a sum of $18, comprising
+its gross profit of $10 and wasted expenses of $8. This would result in over-
+compensation because its gross profit of $10, when broken down, already
+includes the wasted expenses of $8 and a net profit of $2 (see Crescendas at
+[205]).
+
+26 While this distinction appears deceptively clear in theory, it is important
+to consider whether it is borne out in practice. More specifically, where, as
+in the present appeal, a defendant has breached a promise not to solicit a
+plaintiff’s clients, the said plaintiff will need to prove its lost business.
+The measure of damages will depend on what the plaintiff would have done.
+Whether the plaintiff may claim for wasted expenses depends on whether the
+plaintiff would necessarily incur those expenses regardless of that
+defendant’s alleged breach. In this regard, Richard Arnold J clearly
+summarised the possible scenarios in the English High Court decision of Force
+India Formula One Team Ltd v 1 Malaysia Racing Team Sdn Bhd [2012] EWHC 616
+(Ch) (“Force India”) (at [424]):
+
+… Where the claimant exploits the confidential information by manufacturing
+and selling products for profit, and his profits have been diminished as a
+result of the breach, then he can recover his loss of profit. Where the
+claimant exploits the confidential information by granting licences to others,
+and his licence revenue has been diminished as a result of the breach, he can
+recover the lost revenue. Where the claimant would have “sold” the
+confidential information but for the breach, he can recover the market value
+of the information as between a willing seller and a willing buyer. Where the
+claimant cannot prove he has suffered financial loss in any of these ways, he
+can recover such sum as would be negotiated between a willing licensor and a
+willing licensee acting reasonably as at the date of the breach for permission
+to use the confidential information which has been misused in the manner in
+which the defendant has used it [ie, Wrotham Park damages]. …
+
+As such, the precise method of calculating the expectation loss will depend on
+the factual situation at hand.
+
+27 In the present case, I find that the plaintiff may claim damages only on
+the basis of the Profit Method, for two related reasons.
+
+28 First, having regard to the plaintiff’s pleaded case, it appears that the
+plaintiff has proceeded on the basis of its loss of profits. To begin with,
+cll 11.2.1 and 11.2.2 of the Employment Agreement provide that, among other
+things, the defendant is not to “be engaged in the provision of relevant
+services to, for or on behalf of any relevant person” [emphasis added], or to
+“solicit or attempt to solicit business from any relevant person in connection
+with the provision of relevant services”. 18
+
+##### Foot Note 18
+
+×
+
+1st Affidavit of Ang Chee Teck dated 14 July 2021 at p 55.
+
+The plaintiff’s pleaded case is about its inability to provide such services
+at previous levels owing to the defendant’s alleged breaches of the Employment
+Agreement. The plaintiff also pleads that its “Gasoline Blending Team has
+suffered a sharp decline in business”. 19
+
+##### Foot Note 19
+
+×
+
+Statement of Claim (Amendment No 2) dated 27 October 2022 at para 10.
+
+Given the plaintiff’s focus on its inability to provide services at previous
+levels, this must be, on balance, quantified based on its loss of profits.
+
+29 Second, and relatedly, the plaintiff is not entitled to claim damages on
+the basis of the Revenue Method. This is because, unlike what Arnold J stated
+in Force India about loss of revenue arising from the reduced grant of
+licenses, there must certainly be operating expenses in relation to the
+provision of services. Therefore, if the plaintiff claims damages for this
+loss only on the basis of its revenue, then that would ignore the expenses
+that it would have had to incur in providing those services in the first
+place. The plaintiff would, in other words, be compensated for expenses that
+it would have expended even if the defendant had not breached the Employment
+Agreement. Put differently, regardless of whether the defendant allegedly
+breached the Employment Agreement, the plaintiff would have to incur a fixed
+amount of expenses. Allowing the plaintiff to claim damages on the Revenue
+Method would amount to double recovery, which is impermissible.
+
+30 Accordingly, I am of the view that the plaintiff can claim damages only on
+the Profit Method, which means that the defendant legitimately must know the
+plaintiff’s expenses in providing the services which the plaintiff alleges the
+volume of which has been affected due to the defendant’s breach. The defendant
+has therefore prima facie established the relevance of the RA 182 Documents.
+
+The defendant has sufficiently pleaded the relevance of the RA 182 Documents
+
+31 However, the learned AR had found that the defendant did not sufficiently
+plead the relevance of the RA 182 Documents. In so far as the learned AR’s
+decision was premised on the plaintiff having a choice between the Revenue
+Method and the Profit Method, it must be the case, in light of my conclusion
+above, that the plaintiff could only have pleaded the Profit Method as a
+matter of law. In other words, when the defendant pleaded that the plaintiff
+“is not entitled to the reliefs sought”, it must be that the defendant has put
+the Profit Method into issue. Therefore, the defendant has sufficiently
+pleaded to the relevance of the RA 182 Documents, in so far as they relate to
+the Profit Method.
+
+32 There is therefore no need for me to comment on the defendant’s argument
+that Beckkett stands for a general proposition that “even if the parties’
+pleadings only contain an averment for damages to be assessed (without
+specifying the mode of quantification), … the [c]ourt is not precluded from
+allowing discovery of the [RA 182 Documents]”. 20
+
+##### Foot Note 20
+
+×
+
+DWS at para 60.
+
+As I understand it, the defendant is arguing that a general averment for
+damages to be assessed is sufficient to put the mode of quantification into
+issue. If it were necessary for me to comment on this argument, I would have
+doubted the relevance of Beckkett, which concerned the unrelated situation
+where discovery was allowed despite the trial being bifurcated. Be that as it
+may, I have some sympathy for the defendant’s argument that it cannot be
+expected to respond to the plaintiff’s general pleading for damages without
+specifying the mode of assessment. Indeed, where a plaintiff has a choice as
+to the characterisation of damages arising from breach of contract, the
+plaintiff bears the burden of exercising that choice as a matter of law (see,
+eg, the High Court decision of Van Der Horst Engineering Pte Ltd v Rotol
+Singapore Ltd [2006] 2 SLR(R) 586, though cf the Appellate Division of the
+High Court decision of Liu Shu Ming and another v Koh Chew Chee and another
+matter [2023] 1 SLR 1477 at [217]).
+
+The scope of discovery should be reduced
+
+33 Despite my conclusion that the defendant has established the prima facie
+relevance of the RA 182 Documents, and that the defendant has sufficiently
+pleaded to this relevance, it remains to be considered if the scope of the RA
+182 Documents is too broad. For convenience, I set out the categories sought
+once again:
+
+(a) documents and/or correspondence (internal or otherwise) evincing costs
+associated with the provision of the Relevant Services for the period of
+February 2021 to 23 October 2021, including and not limited to profit and loss
+statements specific to the department which the defendant was formerly part
+of, ledgers, and department communications; and
+
+(b) documents evincing any difference (for the period of February 2021 to 24
+April 2021; and 24 April 2021 to 23 October 2021) in costs associated with the
+provision of the Relevant Services.
+
+34 In my view, it is not clear how the category referred to in [33(b)] is
+relevant to the determination of the plaintiff’s expenses that it would have
+incurred in providing the Relevant Services. For one, it is not clear why the
+starting date of February 2021 is chosen, when the defendant had allegedly
+breached the Employment Contract on 24 April 2021. There does not appear to be
+any connection between February 2021 to any of the material dates in question.
+Further, I also do not see the relevance of the difference in costs associated
+with the provision of the Relevant Services. If discovery is ordered of the
+category referred to in [33(a)], then the defendant would be able to calculate
+the costs for the provision of the Relevant Services. There is no further need
+for the documents in the category referred to in [33(b)]. As such, I affirm
+the learned AR’s decision not to allow discovery of the documents in the
+category referred to in [33(b)].
+
+35 As for the documents in the category referred to in [33(a)], I acknowledge
+the plaintiff’s concern that these may contain “confidential personal
+information relating to the [p]laintiff’s employees’ salaries and office
+rent”. 21
+
+##### Foot Note 21
+
+×
+
+PWS at para 26.
+
+However, if, as I have concluded above, the plaintiff’s expenses in the
+provision of the Relevant Services are relevant, then it is inevitable that
+the plaintiff will need to disclose information about salaries and rent.
+However, in so far as there are confidentiality concerns, the plaintiff can
+seek to redact parts of the documents prior to disclosure but yet not deprive
+the defendant of the information he requires. I therefore order the disclosure
+of the documents in the category referred to in [33(a)] without any
+qualification. It is up to the plaintiff to seek further orders in respect of
+these documents if it requires.
+
+36 For the reasons given above, I therefore allow RA 182 in part.
+
+RA 183
+
+37 I turn now to RA 183, which concerns the learned AR’s decision to allow the
+plaintiff’s application for specific discovery of documents and/or
+correspondence between the defendant and each of the customers relating to
+and/or evidencing that the defendant had offered to provide and/or provided
+the customers with the sale or supply of Relevant Services during the
+Restricted Period, in so far as those documents post-date 16 July 2021, being
+the date of filing of the writ for this Suit.
+
+The learned AR’s decision
+
+38 Because the parties agreed that the documents between 24 April 2021 and 16
+July 2021 are relevant, the only contention before the learned AR was the
+relevance of the documents between 17 July 2021 and 24 October 2021. The
+learned AR held that they were relevant. This was because it was implicit in
+the plaintiff’s pleadings that “the cause of action for breach of cl 11.2.2 in
+respect of all of the [plaintiff’s customers] would have accrued when the
+[w]rit was filed on 16 July 2021, and any fresh offers made after 16 July 2021
+would merely be further instances of a single, continuing breach of cl 11.2.2”
+[emphasis in original omitted]. Further, for infringing services provided
+before 16 July 2021, any services provided after 16 July 2021 “would
+necessarily be further instances of a single continuing breach of cl 11.2.2”.
+22
+
+##### Foot Note 22
+
+×
+
+Letter from court dated 8 August 2023, Judgment for HC/SUM 1529/2023 and
+HC/SUM 1536/2023 at [25].
+
+The parties’ positions
+
+39 The defendant’s position is that the defendant’s alleged fresh offers of
+Relevant Services to the customers after 16 July 2021 is not relevant to the
+parties’ pleaded cases in the Suit. This is because the plaintiff’s pleadings
+do not state whether each alleged transaction between the defendant and each
+customer had taken place before or after 16 July 2021, let alone that all of
+the transactions had taken place before 16 July 2021. Therefore, any post-16
+July 2021 offer would constitute fresh breaches of the Employment Agreement
+and would be irrelevant to the Suit. The defendant therefore disagrees with
+the learned AR’s view that it is “implicit” in the plaintiff’s pleaded case
+that the causes in action in respect of all of the customers had accrued
+before 16 July 2021. 23
+
+##### Foot Note 23
+
+×
+
+DWS at paras 34–37.
+
+40 In response, the plaintiff maintains that the RA 183 Documents are relevant
+to the Suit because they will shed light on the circumstances of the
+defendant’s communications with the plaintiff’s customers during the
+Restricted Period. The plaintiff argues that the defendant misunderstands the
+law on the relevance of matters occurring post-writ. In this regard, the
+plaintiff submits that facts occurring after the issuance of the writ can be
+relied on in support of a cause of action that existed at the date of the
+writ. Thus, post-writ conduct is relevant as further instances of a single
+continuing breach. In the present case, the plaintiff relies on the learned
+AR’s finding that it was “implicit” in its pleadings that the defendant had
+already offered or made offers to provide infringing services to all of the
+plaintiff’s customers before 16 July 2021. 24
+
+##### Foot Note 24
+
+×
+
+PWS at paras 32–33.
+
+My decision: RA 183 is allowed
+
+41 Having considered the parties’ submissions, I allow RA 183 for the
+following reasons.
+
+Causes of action that accrued only after the date of the writ are not relevant
+
+42 The starting point is that a party cannot amend his pleadings to include a
+cause of action that did not exist at the date when the writ was filed (see
+the High Court decision of Saga Foodstuffs Manufacturing (Pte) Ltd v Best Food
+Pte Ltd [1994] 1 SLR(R) 505 at [9(b)]). The parties do not dispute that facts
+occurring after the issuance of the writ can be relied on only in support of a
+cause of action that existed at the date of the writ. This is made clear by O
+18 r 9 of the ROC 2014, which provide that “[s]ubject to [r]ules 7(1), 10 and
+15(2), a party may in any pleading plead any matter which has arisen at any
+time, whether before or since the issue of the writ”. In this regard, O 18 r
+15(2) provides that “[a] statement of claim must not contain any allegation or
+claim in respect of a cause of action unless that cause of action is mentioned
+in the writ”. This must mean that a party’s pleadings may only contain causes
+of action mentioned in the writ. The crux of RA 183 is whether the defendant’s
+alleged breaches of the Employment Agreement after the date of the writ are to
+be taken as giving rise to new causes of action.
+
+43 This therefore requires a consideration of when a cause of action for a
+breach of contract materialises. In a related context, in the High Court of
+Australia decision of Larking v Great Western (Nepean) Gravel Ltd (1940) 64
+CLR 221, Owen Dixon J explained the difference between a continuing breach and
+a breach once-and-for-all (at 236):
+
+If a covenantor undertakes that he will do a definite act and omits to do it
+within the time allowed for the purpose, he has broken his covenant finally
+and his continued failure to do the act is nothing but a failure to remedy his
+past breach and not the commission of any further breach of his covenant. His
+duty is not considered as persisting and, so to speak, being for ever renewed
+until he actually does that which he promised. On the other hand, if his
+covenant is to maintain a state or condition of affairs, as, for instance,
+maintaining a building in repair, keeping the insurance of a life on foot, or
+affording a particular kind of lateral or vertical support to a tenement, then
+a further breach arises in every successive moment of time during which the
+state or condition is not as promised, during which, to pursue the examples,
+the building is out of repair, the life uninsured, or the particular support
+unprovided.
+
+[emphasis added]
+
+The relevance of this passage lies in Dixon J’s explanation that there is a
+difference between the obligation to do a definite act (being a “once-and-for-
+all” breach) and the obligation to maintain a state of affairs (being a
+continuing breach). Where a breach is a continuing breach, “a further breach
+arises in every successive moment of time during which the state or condition
+is not as promised” (at 236). This means that every further breach of the same
+contractual term constitutes a fresh cause of action that can independently
+sustain a claim for breach of contract. This must follow from the trite
+principle that the commission of two independent breaches each confers an
+independent right to terminate the performance of a contract (see, eg, the
+House of Lords decision of Maclaine v Gatty [1921] 1 AC 376 at 387).
+
+44 Thus, in the English High Court decision of AMT Futures Ltd v Boural and
+others [2018] 3 WLR 358, a broker sued its former clients for breaching a
+jurisdiction clause, by which the parties had submitted to the exclusive
+jurisdiction of the English courts. In particular, the jurisdiction clause
+contained an implied undertaking not to begin proceedings other than in the
+agreed forum, ie, the English courts. In this context, the court found that
+the former clients had breached the jurisdiction clause by commencing
+proceedings in Germany against the broker. Each of the former clients’ further
+act in pursuance of their claim in Germany constituted a “further and
+independent breach”. The court held that (at [43]):
+
+… it is a fundamental characteristic of “successive breaches” that they are
+independent of one another. In my judgment, each further act done by the
+applicants in pursuance of the German Claims is capable of having amounted to
+a further, and independent, breach of clause 33. Those further steps were not
+“necessary and direct consequences” of the commencement of the German Claims,
+as Mr Wright submitted. On the contrary, they were separate steps taken by the
+applicants, who could at any time have brought (and could still bring) the
+German Claims to an end.
+
+In essence, where the contractual term obliges a party to maintain a state of
+affairs, every breach of the same term in a contract would constitute a
+successive breach that is independent of earlier breaches of the same term.
+The latter breaches cannot be regarded as “continuing” breaches of the same
+term. More importantly, for present purposes, each breach would give rise to a
+fresh cause of action.
+
+45 Accordingly, in the present case, every alleged transaction which the
+defendant entered into with a customer would be a “successive breach” that is
+independent of its former breaches. Therefore, any offer to a customer that is
+allegedly made after 16 July 2021 would constitute fresh breaches of the
+Employment Agreement. These would not have existed at the time of the writ.
+They would need to be claimed in a separate action that is commenced after the
+date of breach. This conclusion is supported by the English High Court
+decision of Eshelby v Federated European Bank Ltd [1932] 1 KB 254, where the
+plaintiff had issued his writ to claim payment of one instalment of money
+under the contract. Crucially, after the issue of the writ, the defendant
+there defaulted in paying a further instalment under the same contract. The
+plaintiff tried to amend his pleading to claim for the second instalment in
+the same action. The court held that he could not do so. This is because the
+non-payment of the second instalment was a separate cause of action that did
+not exist at the time when the writ was issued. It would need to be claimed in
+a separate action.
+
+46 In as much as the plaintiff here relies on the Singapore International
+Commercial Court decision of DyStar Global Holdings (Singapore) Pte Ltd v Kiri
+Industries Ltd and others and another suit [2018] 5 SLR 1, I find that is
+misplaced. In so far as it is relevant, that case involved a minority
+shareholder starting proceedings against a co-investor and majority
+shareholder for oppressive conduct. The court found that, given that the
+minority shareholder was able to establish oppressive conduct by a shareholder
+as at the date of the writ, the post-writ conduct could be relied on as
+evidence of oppressive conduct continuing beyond the date of the writ. Such
+conduct could also be relevant for determining the appropriate relief. In
+essence, the cause of action for oppression had materialised at the first
+instance of oppression, and further instances of oppressive conduct could be
+relied on as evidence of oppressive conduct. This is quite different from the
+situation where a successive breach of the same term constitutes a new cause
+of action.
+
+Post-writ breaches in the present case are successive breaches of cl 11 of the
+Employment Agreement
+
+47 Coming to the facts of the present case, it is important to bear in mind
+the term that the defendant allegedly breached. For convenience, I set out cll
+11.2.1 and 11.2.2 of the Employment Agreement once again: 25
+
+##### Foot Note 25
+
+×
+
+1st Affidavit of Ang Chee Teck dated 14 July 2021 at p 55.
+
+11.2 During the course of and as a consequence of the Employee’s employment by
+the Company he will have access to and acquire knowledge of confidential
+information. He will also have regular dealings with and establish
+relationships with relevant persons. In order to protect the Company’s
+interests the Employee agrees that he will not without the company’s written
+consent, directly or indirectly (in any capacity) and whether for yourself or
+on behalf of anyone else, for a period of six months commencing on the date on
+which the Employee’s employment ends,:
+
+11.2.1 be engaged in the provision of relevant services to, for or on behalf
+of any relevant person;
+
+11.2.2 solicit or attempt to solicit business from any relevant person in
+connection with the provision of relevant services
+
+...
+
+48 Crucially, cl 11.1 defines “relevant person” in the following terms: 26
+
+##### Foot Note 26
+
+×
+
+1st Affidavit of Ang Chee Teck dated 14 July 2021 at p 55.
+
+“Relevant Person” shall mean any person, firm, company or other organization
+and any prospective person, firm, company or other organization with whom the
+company or any other company in the Intertek Group or in respect of whom the
+Employee had managerial responsibility in either case during the last 12
+months of employment.
+
+49 Accordingly, it is clear from a plain reading of cl 11 that each time the
+defendant is alleged to have approached a “relevant person”, he would have
+breached cl 11 afresh. It cannot be said that each of the defendant’s alleged
+successive breaches is somehow a “continuation” of his earlier breach of cl
+11. This does not cohere with the basic contractual doctrine that would give
+the plaintiff a fresh right of termination with respect to every new breach.
+
+50 Additionally, I respectfully disagree with the learned AR’s distinction
+between: (a) a fresh offer to provide infringing service to the plaintiff’s
+customers made after 16 July 2021; and (b) the provision of infringing
+services to the plaintiff’s customers that had started before 16 July 2021 and
+continued after 16 July 2021. In my view, the distinction is simply between
+breaches of contract before and after the date of the writ, being 16 July
+2021. Therefore, the plaintiff should have pleaded breaches of contract that
+had taken place after 16 July 2021 in a fresh action. For this reason alone, I
+allow RA 183 and hold that the plaintiff is not entitled to the RA 183
+Documents that post-dated 16 July 2021 as they are not relevant to the Suit.
+
+51 For completeness, and while it is not necessary for me to do so because
+parties did not raise this in their submissions, I recognise that cl 11.1
+defines “relevant person” in broad terms, in that it does not refer to
+distinct customers as different relevant persons. Be that as it may, I do not
+think that it is plausible to interpret “relevant person” as referring to the
+entire group of customers allegedly approached by the defendant, such that the
+defendant’s breach of cl 11 would have been continuing. It is trite that when
+interpreting contracts, due consideration ought to be given to the commercial
+purpose of the transaction or provision, and more narrowly, to why a
+particular obligation was undertaken (see the Court of Appeal decision of
+Leiman, Ricardo and another v Noble Resources Ltd and another [2020] 2 SLR 386
+at [60]). Given that cl 11 was intended to prevent the defendant from using
+the plaintiff’s confidential information and business relationships acquired
+during employment by the plaintiff for the benefit of himself or his future
+employment, I do not think that it would have been a commercially sensible
+outcome for the parties to have intended cl 11.1 to be so broad as to refer to
+the entire group of customers allegedly approached by the defendant.
+Nevertheless, I stress that this was not a live issue before me.
+
+The plaintiff’s pleadings do not make clear that its causes in action in
+respect of all of the customers had accrued before 16 July 2021
+
+52 While it is not necessary for me to do so, I also respectfully disagree
+with the learned AR that it was “implicit” in the plaintiff’s pleadings that
+the defendant had already offered or made offers to provide infringing
+services to all of the plaintiff’s customers before 16 July 2021: 27
+
+##### Foot Note 27
+
+×
+
+Letter from court dated 8 August 2023, Judgment for HC/SUM 1529/2023 and
+HC/SUM 1536/2023 at [25].
+
+… However, it is implicit in Intertek’s pleaded case that Haidir had already
+offered or made offers to provide infringing services to all of the Intertek
+Customers before 16 July 2021. This is because Intertek’s claim in Suit 616 is
+for Haidir’s breach of cl 11.2.2 in the Restricted Period, ie, between 24
+April 2021 to 24 October 2021. In other words, the cause of action for breach
+of cl 11.2.2 in respect of all of the Intertek Customers would have accrued
+when the Writ was filed on 16 July 2021, and any fresh offers made after 16
+July 2021 would merely be further instances of a single, continuing breach of
+cl 11.2.2. …
+
+[emphasis in original]
+
+53 Even if it were open to the plaintiff as a matter of law to argue that
+breaches after 16 July 2021 were instances of a single, continuing breach of
+cl 11, nowhere in SOC A2 did the plaintiff plead that the breaches had accrued
+as of the date of the writ. The learned AR does not explain why it was
+“implicit” that this was so. I can only surmise that this was because the
+plaintiff had filed the writ on 16 July 2021, which the learned AR took to
+imply that the plaintiff pleaded that all offers that the defendant made were
+with respect to a single breach that had occurred before that date. If this
+was the learned AR’s reasoning, I would respectfully disagree because this
+absolves the plaintiff from having to plead its case with utmost clarity.
+Further, it cannot be that it is implied from the date of filing a writ that a
+plaintiff intended to plead that all instances of default were a continuation
+of the original default.
+
+54 For the reasons I have given, I therefore allow RA 183.
+
+Conclusion
+
+55 In sum, I allow RA 182 in part and allow RA 183 in full.
+
+56 Unless the parties are able to agree on the appropriate costs orders for
+both the appeals and the proceedings below, they are to tender written
+submissions no longer than ten pages, within 14 days of this decision.
+
+Goh Yihan  
+Judge of the High Court|  
+---|---  
+  
+Tan May Lian Felicia, Uday Duggal, Goh Enchi Jeanne and Ang Kai Le (TSMP Law
+Corporation) for the plaintiff;  
+Boey Swee Siang, Lin Yuankai, Toh Yunyuan Selina and Suchitra Suresh Kumar
+(Premier Law LLC) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 3: 30 Nov 2023 (09:12 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

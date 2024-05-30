@@ -1,0 +1,657 @@
+Case Summary Summary Judgment Download PDF PDF X Close Window Judgments
+Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the Appellate DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2024] SGHC(A) 7
+
+Originating Application No 59 of 2023
+
+In the matter of Order 18 Rule 29(1) Rules of Court 2021
+
+Between
+
+| Luckin Coffee Inc  
+---|---  
+  
+… Applicant
+
+And
+
+(1)| Interactive Digital Finance Limited  
+---|---  
+(2)| Tiah Thee Kian  
+(3)| Credit Suisse AG  
+  
+… Respondents
+
+In the matter of Originating Claim No 225 of 2023 (Registrar’s Appeal No 206
+of 2023)
+
+Between
+
+(1)| Interactive Digital Finance Limited  
+---|---  
+(2)| Tiah Thee Kian  
+  
+… Claimants
+
+And
+
+(1)| Credit Suisse AG  
+---|---  
+(2)| Luckin Coffee Inc  
+  
+… Defendants
+
+judgment
+
+[Civil Procedure — Appeals — Leave]
+
+[Civil Procedure — Service — Leave for service out of jurisdiction]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Luckin Coffee Inc
+
+  
+v
+
+  
+
+Interactive Digital Finance Ltd and others
+
+[2024] SGHC(A) 7
+
+Appellate Division of the High Court — Originating Application No 59 of 2023  
+Woo Bih Li JAD and Debbie Ong Siew Ling JAD  
+19 December 2023
+
+5 March 2024
+
+Woo Bih Li JAD (delivering the judgment of the court):
+
+The parties and the action
+
+1 Interactive Digital Finance Limited (“IDFL”) is incorporated in the British
+Virgin Islands. It is beneficially owned and controlled by Mr Tiah Thee Kian
+(“Mr Tiah”) who is a Malaysian citizen. IDFL neither carries on a business nor
+has a permanent establishment in Singapore. For convenience, we refer to IDFL
+and Mr Tiah collectively as the “Claimants” below.
+
+2 Credit Suisse AG is a global investment bank which has a branch in Singapore
+(also referred to as “CS Singapore”). The Claimants hold accounts with CS
+Singapore through which investments were transacted.
+
+3 Luckin Coffee Inc (“Luckin”) is incorporated in the Cayman Islands with its
+shares listed on NASDAQ in the USA.
+
+4 HC/OC 225/2023 (“OC 225”) is an action filed in Singapore on 13 April 2023
+by IDFL and Mr Tiah against Credit Suisse AG as the first defendant and Luckin
+as the second defendant.
+
+5 As Luckin is located outside Singapore, the Claimants obtained leave from
+the court to serve the originating claim on Luckin in the Cayman Islands.
+Luckin then applied to set aside the leave granted. This application was
+contested by the Claimants and also by Credit Suisse AG. The application was
+dismissed by the Deputy Registrar (the “DR”) and Luckin’s appeal against this
+decision was dismissed by a judge of the General Division of the High Court
+(the “Judge”). Luckin is now applying for permission to appeal against the
+Judge’s decision. Accordingly, Luckin is the applicant (the “Applicant”) and
+IDFL and Mr Tiah are the first and second respondents respectively in the
+application. Credit Suisse AG is the third respondent.
+
+6 The Claimants are claiming for losses sustained on investments made through
+the Claimants’ accounts in CS Singapore. These investments include:
+
+(a) Derivatives based on Luckin’s shares called Daily Accrual Callable Notes
+and Tracker Certificates with Bonus. These are collectively known as the
+“Derivative Products”.
+
+(b) Direct purchases of shares issued by Luckin.
+
+(collectively, the “Luckin Investments”)
+
+7 All Luckin Investments were held in the Claimants’ accounts with CS
+Singapore or a custodian account operated by CS Singapore.
+
+8 The Claimants' claims are primarily for deceit and for negligence because of
+representations made by CS Singapore and Luckin. The representations have been
+referred to as:
+
+(a) the “CS Representations” (being representations made by CS Singapore);
+
+(b) the “LK Representations” (being representations made by Luckin); and
+
+(c) the “Schakel Representations” (being representations made by one Mr
+Schakel who was Luckin’s Chief Financial Officer and Chief Strategy Officer at
+the material time).
+
+9 The Claimants allege that they relied on the CS and LK Representations to
+engage in the Luckin Investments, where they had invested in derivative
+products which used securities issued by Luckin (as a reference share) or
+directly purchased shares issued by Luckin. These investments were made
+through accounts maintained with CS Singapore. The Claimants allege that the
+representations were false and that there was fraud in Luckin's affairs, which
+was discovered from 2 April 2020.
+
+10 As a result of the Schakel Representations made after 2 April 2020, IDFL
+purchased additional shares in Luckin. The Claimants continued to hold on to
+the Luckin Investments save for the sale of some shares which is not material
+for present purposes.
+
+11 As indicated above at [8], there is also a claim against both Credit Suisse
+AG and Luckin as joint tortfeasors for deceit under which the Claimants allege
+that Credit Suisse AG and Luckin acted under a common design to procure
+investments in and/or based on Luckin’s shares via the LK Representations and
+CS Representations.
+
+12 As mentioned, after the Claimants commenced an action in Singapore against
+Credit Suisse AG and Luckin, the Claimants subsequently obtained leave to
+serve the originating claim out of the jurisdiction on Luckin in the Cayman
+Islands vide HC/SUM 1197/2023 (“SUM 1197”) on 26 April 2023.
+
+Luckin’s application to set aside the permission for Luckin to be served out
+of jurisdiction in SUM 1197
+
+13 Subsequently, on 3 July 2023, Luckin filed HC/SUM 1973/2023 (“SUM 1973”) to
+seek the following reliefs:
+
+(a) a declaration that the Singapore courts have no jurisdiction against
+Luckin;
+
+(b) an order to set aside the leave granted to the Claimants to serve the
+Originating Claim on Luckin in the Cayman Islands;
+
+(c) further and/or in the alternative, an order that the Singapore action
+against Luckin be stayed because of a lack of jurisdiction by the Singapore
+courts; or
+
+(d) an order that the Singapore action against Luckin be stayed on the grounds
+of forum non conveniens.
+
+14 The DR heard the application on 25 August 2023. He delivered his decision
+on 4 September 2023. We set out below the DR’s helpful summary of the relevant
+provisions in issue and the claims of the Claimants:
+
+Under section 16(1)(a)(ii) of the Supreme Court of Judicature Act 1969, the
+General Division has jurisdiction to hear and try an action in personam where
+the defendant is served with an originating claim outside Singapore in the
+circumstances authorised by and in the manner prescribed by the Rules of
+Court.
+
+Under Order 8 Rule 1(1) of the Rules of Court 2021, an originating process may
+be served out of Singapore with the Court’s approval if it can be shown that
+the Court has the jurisdiction or is the appropriate court to hear the action.
+Order 8 Rule 1(2) of the Rules of Court 2021 adds that to obtain the Court’s
+approval, the claimant must apply to the Court by summons without notice and
+supported by affidavit, which must state (among other things) why the Court
+has the jurisdiction or is the appropriate court to hear the action.
+
+Paragraph 63(2) of the Supreme Court Practice Directions 2021 (“SCPD 2021”)
+states that, for the purposes of showing why the Court is the appropriate
+court to hear the action, the claimant should include in the supporting
+affidavit any relevant information showing that:
+
+(a) there is a good arguable case that there is sufficient nexus to Singapore;
+
+(b) Singapore is the forum conveniens; and
+
+(c) there is a serious question to be tried on the merits of the claim.
+
+Paragraph 63(3) of the SCPD 2021 adds that for the purposes of showing that
+there is a good arguable case that there is sufficient nexus to Singapore, the
+claimant should “refer to any of the following non-exhaustive list of factors
+(as may be applicable) in the supporting affidavit”. The description of the
+factors in paragraph 63(3)(a) to (t) of the SCPD 2021 as “non-exhaustive”
+signals that the requirement for there to be “a good arguable case that there
+is sufficient nexus to Singapore” may be satisfied even if a claim does not
+fall neatly within one of the factors enumerated in paragraph 63(3)(a) to (t)
+of the SCPD 2021.
+
+The Claimants make the following claims against [Luckin]:
+
+(a) a claim for deceit against [Credit Suisse AG and Luckin] as joint
+tortfeasors by common design, based on one or more of the CS Representations
+and/or one or more of the LK Representations (the “joint tortfesor [sic]
+claim”);
+
+(b) a claim for deceit against [Luckin] based on one or more of the LK
+Representations;
+
+(c) a claim for deceit against [Luckin] based on one or more of the Schakel
+Representations; and
+
+(d) a claim for negligence against [Luckin] based on one or more of the
+Schakel Representations.
+
+…
+
+The Claimants rely on paragraph 63(3)(c), (f) and (p) of the SCPD 2021 to show
+that there is a good arguable case that there is sufficient nexus to
+Singapore.
+
+Paragraph 63(3)(c) of the SCPD 2021 applies where “the claim is brought
+against a person duly served in or outside Singapore, and a person outside
+Singapore is a necessary or proper party to the claim”. This factor is
+relevant only to the joint tortfeasor claim….
+
+…
+
+Paragraph 63(3)(f)(i) of the SCPD 2021 applies where “the claim ... is founded
+on a tort ... which is constituted, at least in part, by an act or omission
+occurring in Singapore”.
+
+Paragraph 63(3)(f)(ii) of the SCPD 2021 applies where “the claim ... is wholly
+or partly founded on ... damage suffered in Singapore caused by a tortious act
+or omission wherever occurring”.
+
+Paragraph 63(3)(p) of the SCPD 2021 applies where “the claim is founded on a
+cause of action arising in Singapore”.
+
+15 The main arguments advanced by the parties in SUM 1973 were based very much
+on the specific facts of the case. This can be seen from the following summary
+of the parties’ arguments before the DR below.
+
+(a) Luckin’s submissions: Before the DR, Luckin argued that there was no
+sufficient nexus with Singapore under any of the factors provided for under
+paras 63(3)(c), (f) or (p) of the SCPD 2021. More specifically, concerning the
+claim of joint tortfeasorship, Luckin also argued that there was no common
+design between Credit Suisse AG and Luckin to deceive the Claimants as alleged
+which would satisfy para 63(3)(f) of the SCPD 2021 or raise a serious question
+to be tried. Any representation made was made outside Singapore, ie, in New
+York, where Luckin’s shares are listed. New York is the place of the tort. The
+representations were received by the Claimants outside Singapore. It did not
+agree that reliance on the representations occurred in Singapore. The only
+connection with Singapore was the location in which the Claimants' accounts
+were opened, which they argue was fortuitous. While CS Singapore was located
+in Singapore, the Claimants and Luckin were based outside Singapore and bore
+no personal connections with Singapore. While it may be correct for the
+Claimants to sue Credit Suisse AG, any claim against Luckin should be made in
+New York and not Singapore. The Deposit Agreement for the American Depository
+Shares offered for sale by Luckin states that it is governed by New York law.
+The fact that Credit Suisse AG filed a contribution notice against Luckin was
+insufficient to drag Luckin into the jurisdiction of Singapore.
+
+(b) Claimants’ Submissions: The Claimants submitted that the requirement of a
+sufficient nexus had been made out via paras 63(3)(c), (f) and (p) of the SCPD
+2021.
+
+(i) Under para 63(3)(c) of the SCPD 2021, the Claimants argued that Credit
+Suisse AG is a person duly served in Singapore and Luckin is a necessary or
+proper party for three reasons. First, there is no dispute that Credit Suisse
+AG was duly served in Singapore. Second, Luckin is a necessary and proper
+party to the joint tortfeasor claim. An investigation must be conducted into
+the alleged common design between Credit Suisse AG and Luckin. This would
+require an order of discovery against and the cross-examination of both
+defendants. Third, Credit Suisse AG issued a contribution notice against
+Luckin in respect of claims made against Credit Suisse AG by the Claimants.
+
+(ii) Under para 63(3)(f) of the SCPD 2021, the Claimants argued that both
+limbs of this paragraph are made out to establish sufficient jurisdictional
+nexus to Singapore. Concerning the first limb under para 63(3)(f)(i), the
+Claimants argued that the LK Representations were made in Singapore because CS
+Singapore communicated them to the Claimants in Singapore. In any event, based
+on Luckin's Defence, the LK Representations were made in China and not New
+York. The Schakel Representations were also made in China.
+
+Furthermore, another aspect of the tort was the Claimants’ reliance on the
+various representations. The reliance was in Singapore as the investments were
+made through the accounts opened with CS Singapore. The torts of deceit and
+negligence were constituted in Singapore because reliance occurred in
+Singapore. This was relevant for para 63(3)(p) of the SCPD 2021.
+
+Concerning the second limb under para 63(3)(f)(ii), the damage was suffered in
+Singapore as the Luckin Investments were held in accounts opened with CS
+Singapore. The damage occurred when the investments were made through these
+accounts.
+
+(iii) On the requirement that Singapore is the more appropriate forum to
+determine the action, the Claimants argued that Singapore is the more
+appropriate forum compared to New York. It was undesirable to have one set of
+proceedings in Singapore against Credit Suisse AG and one set in New York
+against Luckin.
+
+(c) Credit Suisse AG’s submissions: Credit Suisse AG aligned itself with the
+Claimants’ position that OC 225 should be heard in Singapore. It submitted
+that the factual matrix underpinning the claims against both Luckin and Credit
+Suisse AG are inextricably linked, given that the alleged CS Representations,
+which form the basis of the claims against CS Singapore, are closely connected
+to the LK Representations and Schakel Representations. Furthermore, the same
+loss is claimed concerning all the claims, whether those claims are formulated
+against Luckin or Credit Suisse AG individually or both. Given the
+inextricable link between the Claimant’s claims against Luckin and Credit
+Suisse AG, Credit Suisse AG filed a contribution notice against Luckin on 13
+July 2023.
+
+(d) Credit Suisse AG also argued that Singapore is a more appropriate forum
+than New York to hear the claims. New York would not be able to hear claims
+against Credit Suisse AG because of the exclusive jurisdiction agreement,
+which bound the Claimants to commence claims against Credit Suisse AG in
+Singapore. Furthermore, there were other important connecting factors pointing
+to Singapore, such as the location of potential witnesses and the place from
+which the CS Representations were given.
+
+16 Having heard the parties’ submissions, the DR dismissed SUM 1973 on 4
+September 2023. He was of the view that there is a good arguable case that
+there is sufficient nexus to Singapore under paras 63(3)(c), (f) and (p) of
+the SCPD 2021. The DR decided that any tort of deceit or negligence would be
+constituted when reliance on the relevant representations took place in
+Singapore by the investments made by the Claimants or by holding onto the
+investments already made. Damage was suffered in Singapore when there was a
+fall in the value of the investments. Regarding forum non conveniens, the DR
+observed that Luckin pointed only to New York as the more appropriate forum
+than Singapore. He was satisfied that Singapore is the forum conveniens of the
+dispute. This is because whether the Claimants can succeed in the claims
+against Luckin for deceit and negligence falls to be determined under
+Singapore law, and Credit Suisse AG’s witnesses are based in Singapore. The
+location of the Claimants’ and Luckin’s witnesses and the location of
+documents are neutral factors. The DR also made the following observations:
+
+While [Luckin’s] securities are listed on NASDAQ in New York, [Luckin] must
+have appreciated that it would have attracted investors from around the world.
+I do not regard [Luckin’s] unilateral submission to the jurisdiction of the
+New York courts as determinative of the matter.
+
+Given the relationship between the Claimants’ claims against the [Defendants]
+(in particular, the overlapping damage suffered), there are clear juridical
+advantages in having the claims against [Luckin] tried in Singapore together
+with the claims against [Credit Suisse AG].
+
+The subsequent appeal to the General Division of the High Court
+
+17 Luckin then appealed to a judge of the General Division of the High Court
+(“the Judge”) vide HC/RA 206/2023 (“RA 206”). The appeal was heard on 21
+November 2023. The Judge dismissed the appeal, finding that he was in “broad
+agreement” with the DR’s decision:
+
+I agree with the Claimants that there is a good arguable case that there is
+sufficient nexus to Singapore because their claims against [Luckin] for deceit
+and/or negligence fall within:
+
+\- SCPD paragraph 63(3)(f)(i) – Reliance on the LK Representations and the
+Schakel Representations took place in Singapore where the transactions were
+effected.
+
+\- SCPD, paragraph 63(3)(f)(ii) – Damage was suffered in Singapore where the
+accounts through which the transactions were effected were held.
+
+\- SCPD, paragraph 63(3)(p) – The causes of action arose in Singapore.
+
+It is not necessary for this purpose to consider the claim based on joint
+tortfeasorship by common design.
+
+Given my finding that there is a good arguable case of sufficient nexus to
+Singapore based on SCPD, paragraphs 63(3)(f) and (p), it is unnecessary to
+separately consider whether there are serious questions to be tried on the
+merits of the claims for deceit and negligence.
+
+As for the issue of forum conveniens, I agree with the Claimants and [Credit
+Suisse AG] that Singapore is the proper forum. As the place of the torts was
+Singapore, it is also prima facie the natural forum. Further, the claim
+against [Credit Suisse AG] is subject to the exclusive jurisdiction of
+Singapore. I agree that given the overlap between the claims against [Credit
+Suisse AG] and [Luckin], and [Credit Suisse AG’s] claim against [Luckin] for
+contribution, fragmentation should be avoided as far as possible.
+
+18 Concerning whether Credit Suisse AG’s claim for contribution against Luckin
+could satisfy para 63(3)(q) of the SCPD, the Judge considered that the
+expression “in respect of a liability enforceable by proceedings in Singapore”
+means “the liability faced by the party seeking indemnity or contribution”.
+
+Luckin’s case on seeking permission to appeal
+
+19 Luckin now seeks permission to appeal against the decision of the Judge on
+the grounds that it raises the following three questions:
+
+(a) Question of general principle decided for the first time: Whether a
+foreign issuer of shares is subject to the Singapore courts’ jurisdiction
+where an investor has purchased shares and/or derivative products based on
+that foreign issuer’s shares through an investment account in Singapore
+(“Question 1”).
+
+(b) Question of importance upon which further argument and a decision of a
+higher tribunal would be to the public advantage: Whether a foreign company
+listed on a foreign stock exchange is subject to the Singapore courts’
+jurisdiction where an investor has purchased derivative products based on that
+listed company’s shares (which products the listed company had no involvement
+in preparing and/or marketing) through a bank account in Singapore (“Question
+2”).
+
+(c) Question of importance upon which further argument and a decision of a
+higher tribunal would be to the public advantage: Whether the filing of a
+contribution notice amounts to a sufficient nexus to establish jurisdiction
+over a foreign defendant in Singapore, and whether para 63(3)(q) of the SCPD
+2021 refers to the liability faced by the party seeking indemnity or
+contribution when it refers to “a liability enforceable by proceedings in
+Singapore” (“Question 3”).
+
+Our decision
+
+20 In seeking permission to appeal, it is trite that the three grounds upon
+which such permission may be granted are: (a) a prima facie error of law; (b)
+a question of general principle decided for the first time; or (c) a question
+of importance upon which further argument and a decision of a higher tribunal
+would be to the public advantage: Lee Kuan Yew v Tang Liang Hong and another
+[1997] 2 SLR(R) 862 at [16].
+
+21 Questions 1 and 2 are substantially the same and may be considered
+together. It is evident from how the questions are framed that they are framed
+widely without regard to the specific facts of the case at hand. The
+questions, as framed, are too broad and may not be answered without regard to
+the specific facts. The Judge had applied established principles concerning
+the service out of jurisdiction to the specific facts of the case. Matters of
+application of established principles do not raise a question of general
+principle: Lin Jianwei v Tung Yu-Lien Margaret and another [2021] 2 SLR 683 at
+[86]. In effect, what Luckin is adverting to is that a foreign issuer of
+shares listed on a foreign stock exchange can never be subject to the
+Singapore courts’ jurisdiction for a tort in respect of an investment by a
+claimant in derivative products which used such shares as a reference share or
+in respect of the direct purchase of such shares, regardless of the facts of
+the case. Yet, Luckin never couched its case so widely in the courts below.
+
+22 Luckin’s emphasis on its status as the issuer of foreign shares has no
+bearing on the analysis of whether Singapore is forum conveniens. As Credit
+Suisse AG highlights, the claims against Luckin are for its alleged
+misrepresentation based on the LK Representations and the Schakel
+Representations. Any liability of Luckin would originate from these
+representations, not from its issuance of shares. This is a case concerning
+claims for misrepresentation. The more specific question is whether there are
+sufficient factors connecting these misrepresentation claims to Singapore
+which would warrant the case being heard here. The legal principles on the
+connecting factors for a claim of misrepresentation (ie, concerning the
+question of where reliance, damage and cause of action have occurred in a
+jurisdiction) are well established. Significantly, Luckin does not allege that
+the DR or the Judge made prima facie errors of law or fact in the application
+of these principles.
+
+23 Addressing Question 3, the second part pertains to para 63(3)(q) of the
+SCPD 2021. We reiterate that this applies where “the claim is for a
+contribution or an indemnity in respect of a liability enforceable by
+proceedings in Singapore”. While the Claimants had alluded to the contribution
+notice by Credit Suisse AG against Luckin, this was raised in the context of
+an argument on para 63(3)(c), not para 63(3)(q).
+
+24 It was Credit Suisse AG who argued before the DR that it would have been
+entitled to rely on para 63(3)(q) to bring Luckin into OC 225, if necessary.
+In the appeal before the Judge, Luckin had apparently argued that para
+63(3)(q) pertained to Luckin’s liability, which was not enforceable by
+proceedings in Singapore, as opposed to the liability of Credit Suisse AG to
+the Claimants. The Judge was of the view that the provision refers to the
+liability faced by the party seeking indemnity or contribution, ie, the
+liability faced by Credit Suisse AG to the Claimants.
+
+25 However, the meaning of para 63(3)(q) of the SCPD 2021 is not material in
+the present circumstances as the Claimants did not rely on that provision in
+seeking leave to serve the originating claim on Luckin outside Singapore.
+Furthermore, para 63(3)(q) was not in any case essential to the Judge’s
+decision since he was of the view that there was a good arguable case of a
+sufficient nexus to Singapore under paras 63(3)(f) and (p) of the SCPD 2021.
+
+26 The first part of Question 3 is not accurately framed since the Claimants
+did not suggest that the mere filing of a contribution notice by Credit Suisse
+AG necessarily amounts to a sufficient nexus with Singapore.
+
+Conclusion and costs
+
+27 In the circumstances, we dismiss Luckin’s application in OA 59 for
+permission to appeal against the decision of the Judge in RA 206.
+
+28 We order that Luckin is to pay the costs of the application fixed at
+$7,000, inclusive of disbursements, to the Claimants collectively, and also to
+Credit Suisse AG individually. The usual consequential orders apply. Any
+security for costs provided by Luckin is to be shared equally between the
+Claimants on the one hand and Credit Suisse AG on the other hand.
+
+Woo Bih Li  
+Judge of the Appellate Division| Debbie Ong Siew Ling  
+Judge of the Appellate Division  
+---|---  
+  
+Thio Shen Yi SC, Ong Pei Ching, Chew Xizhi Stephanie, Chin Yen Bing Arthur and
+Terence Yeo (TSMP Law Corporation) for the applicant;
+
+Chin Li Yuen Marina SC, Ng Ka Luon Eddee, Lynn Chew Aiping Alcina, Lee Pei Hua
+Rachel and Gitta Priska Adelya (Tan Kok Quan Partnership) for the first and
+second respondents;
+
+Harpreet Singh SC and Jordan Tan (Audent Chambers LLC) (instructed), Chan
+Daniel, Lim Wei Lee and Lim Yuan Jing (WongPartnership LLP) for the third
+respondent.
+
+SUPREME COURT OF SINGAPORE
+
+5 March 2024
+
+Case summary
+
+Luckin Coffee Inc v Interactive Digital Finance Limited and others [2024]
+SGHC(A) 7
+
+\--------------------------------------------------------------------------------------------------------------------------------------
+
+Decision of the Appellate Division of the High Court (delivered by Justice Woo
+Bih Li):
+
+Outcome: The Appellate Division of the High Court dismisses Luckin Coffee
+Inc’s (“Luckin”) application for permission to appeal against the decision of
+the General Division of the High Court which upheld a decision by the Deputy
+Registrar to dismiss Luckin’s application to set aside permission granted for
+Luckin to be served process out of jurisdiction.
+
+Pertinent and significant points of the judgment
+
+• Luckin’s suggested question of whether a foreign issuer of shares is subject
+to the Singapore courts’ jurisdiction where an investor has purchased shares
+or derivative products based on these shares is not a question of general
+principle as the decision below concerned the application of established
+principles to the specific facts of the case: at [21].
+
+• Luckin’s emphasis on its status as an issuer of shares on a foreign stock
+exchange in the United States of America (“USA”) has no bearing on the crucial
+question of whether Singapore is the natural forum for the resolution of the
+claims against it. As Luckin is defending claims based on misrepresentations
+it had allegedly made, whether Singapore is the natural forum is governed by
+established principles on the factors connecting these alleged
+misrepresentations to Singapore: at [22].
+
+Background
+
+1 Luckin is incorporated in the Cayman Islands with its shares listed on
+NASDAQ in the USA.
+
+2 Interactive Digital Finance Limited (“IDFL”) and Tiah Thee Kian (“Mr Tiah”)
+filed a claim for deceit and negligence against Credit Suisse AG and Luckin
+for losses suffered in the purchase of Luckin’s shares and derivative products
+because of allegedly false representations made by both Credit Suisse AG and
+Luckin.
+
+3 As Luckin is located outside Singapore, IDFL and Mr Tiah obtained permission
+from the court to serve the originating claim on Luckin in the Cayman Islands.
+
+4 The Deputy Registrar granted IDFL and Mr Tiah permission to serve their
+originating claim out of Singapore on Luckin in the Cayman Islands. This was
+subsequently upheld by a judge of the General Division of the High Court (the
+“Judge”).
+
+5 In AD/OA 59/2023, Luckin seeks permission to appeal against the decision of
+the Judge on the basis that the following questions amount to either questions
+of general principle to be decided for the first time or questions of
+importance upon which a decision of a higher tribunal would be to the public
+advantage:
+
+a. Whether a foreign issuer of shares is subject to the Singapore courts’
+jurisdiction where an investor has purchased shares and/or derivative products
+based on that foreign issuer’s shares through an investment account in
+Singapore
+
+b. Whether a foreign company listed on a foreign stock exchange is subject to
+the Singapore courts’ jurisdiction where an investor has purchased derivative
+products based on that listed company’s shares (which products the listed
+company had no involvement in preparing and/or marketing) through a bank
+account in Singapore.
+
+c. Whether the filing of a contribution notice amounts to a sufficient nexus
+to establish jurisdiction over a foreign defendant in Singapore, and whether
+paragraph 63(3)(q) of the SCPD 2021 refers to the liability faced by the party
+seeking indemnity or contribution when it refers to “a liability enforceable
+by proceedings in Singapore”.
+
+Decision
+
+6 The alleged question of whether a foreign issuer of shares is subject to the
+Singapore courts’ jurisdiction where an investor has purchased shares or
+derivative products based on these shares is not a question of general
+principle as the Judge’s decision concerned the application of established
+principles to the specific facts of the case: at [21].
+
+7 Luckin’s issuance of shares on a foreign stock exchange in the USA has no
+bearing on the crucial question of whether Singapore is the natural forum for
+the resolution of the claims against it. As Luckin is defending claims based
+on misrepresentations it had allegedly made, whether Singapore is the natural
+forum is governed by established principles on the factors connecting these
+alleged misrepresentations to Singapore: at [22].
+
+8 As for the meaning of para 63(3)(q) of the SCPD 2021, this is not material
+in the present circumstances as IDFL and Mr Tiah did not rely on that
+provision in seeking permission to serve the originating claim on Luckin
+outside Singapore: at [25].
+
+This summary is provided to assist in the understanding of the Court’s grounds
+of decision. It is not intended to be a substitute for the reasons of the
+Court. All numbers in bold font and square brackets refer to the corresponding
+paragraph numbers in the Court’s grounds of decision.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 05 Mar 2024 (12:31 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

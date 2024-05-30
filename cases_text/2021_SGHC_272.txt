@@ -1,0 +1,5325 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE high court of the republic of singapore
+
+[2021] SGHC --272
+
+Suit No 1252 of 2018
+
+Between
+
+(1)| FUJIFILM Business Innovation Asia Pacific Pte Ltd  
+---|---  
+(2)| FUJIFILM Business Innovation Singapore Pte Ltd  
+(3)| FUJIFILM Business Innovation Corp  
+  
+And
+
+| PTC Business Systems Pte Ltd  
+---|---  
+  
+grounds of decision
+
+[Intellectual Property] — [Copyright] — [Infringement] — [Primary
+infringement]
+
+[Intellectual Property] — [Copyright] — [Infringement] — [Secondary
+infringement]
+
+[Intellectual Property] — [Copyright] — [Parallel imports]
+
+[Intellectual Property] — [Trade marks and trade names] — [Defences] —
+[Descriptive use]
+
+[Intellectual Property] — [Trade marks and trade names] — [Parallel imports]
+
+[Intellectual Property] — [Trade marks and trade names] — [Passing off]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+FUJIFILM Business Innovation Asia Pacific Pte Ltd and others
+
+  
+v
+
+  
+
+PTC Business Systems Pte Ltd
+
+[2021] SGHC 272
+
+General Division of the High Court — Suit No 1252 of 2018  
+Mavis Chionh Sze Chyi J  
+14–17 July 2020, 4–7 January, 30 July 2021
+
+30 November 2021
+
+Mavis Chionh Sze Chyi J:
+
+Introduction
+
+1 The plaintiffs sued the defendant for trade mark infringement under the
+Trade Marks Act (Cap 332, 2005 Rev Ed) (“Trade Marks Act”), passing off, and
+copyright infringement under the Copyright Act (Cap 63, 2006 Rev Ed)
+(“Copyright Act”). In gist, the plaintiffs pleaded that, without their
+consent, the defendant had modified and sold machines bearing the plaintiffs’
+“ApeosPort”, “DocuCentre” and/or “Fuji Xerox” marks in Singapore. The
+plaintiffs specifically referred to six photocopiers which had originally been
+manufactured by the 3rd plaintiff or its subsidiaries in countries other than
+Singapore and were not intended for any market outside of those countries.
+
+2 On 30 July 2021, I allowed the plaintiffs’ claims in respect of trade mark
+infringement, passing off, secondary copyright infringement and rights
+management information infringement under s 260 of the Copyright Act. I
+rejected the plaintiffs’ claim for primary copyright infringement. The
+defendant filed a Notice of Appeal against my decision on 30 August 2021, and
+I now give my reasons for my decision.
+
+The facts
+
+The parties
+
+3 Shortly before I gave my decision, the plaintiffs were granted leave in
+HC/SUM 3049/2021 to amend their names in this action. In these written
+grounds, I will refer to the plaintiffs by their amended names.
+
+4 The 1st plaintiff, FUJIFILM Business Innovation Asia Pacific Pte Ltd, is a
+company incorporated in Singapore in the business of, inter alia,
+manufacturing and importing printing and media equipment under the “Fuji
+Xerox” mark (“Fuji Xerox Equipment”) in the Asia Pacific region. It has been
+carrying on business in Singapore using the “Fuji Xerox” mark since its
+incorporation in 1991, in connection with the provision of the said goods and
+services. 1
+
+##### Foot Note 1
+
+×
+
+Statement of Claim dated 11 December 2018 (“SOC”) at para 1.
+
+5 The 2nd plaintiff, FUJIFILM Business Innovation Singapore Pte Ltd, is a
+wholly-owned subsidiary of the 1st plaintiff. It is also incorporated in
+Singapore and has been carrying on business in Singapore using the “Fuji
+Xerox” mark since its incorporation in 1985, in connection with the provision
+of goods and services of, inter alia, importing, distributing and marketing
+Fuji Xerox Equipment in Singapore. 2
+
+##### Foot Note 2
+
+×
+
+SOC at para 2.
+
+6 The 3rd plaintiff, FUJIFILM Business Innovation Corp, is a company
+incorporated in Japan. The 1st plaintiff is a wholly-owned subsidiary of the
+3rd plaintiff, and the 3rd plaintiff is a joint venture between Fujifilm
+Holdings in Japan and Xerox Corporation in the USA. 3
+
+##### Foot Note 3
+
+×
+
+SOC at para 3.
+
+In 2019, Fujifilm Holdings bought over the Xerox Corporation shares in the 3rd
+plaintiff. 4
+
+##### Foot Note 4
+
+×
+
+Affidavit of Evidence-in-Chief (“AEIC”) of Caron Batchelor Veronica dated 22
+June 2020 (“Batchelor AEIC”) at para 11.
+
+7 The defendant, PTC Business Systems Pte Ltd, is a company incorporated in
+Singapore selling, inter alia, office equipment and stationery. 5
+
+##### Foot Note 5
+
+×
+
+AEIC of Poh Beng Leong dated 22 June 2020 (“Poh AEIC”) at para 4.
+
+It is mot disputed that the defendant is not an authorised dealer of Fuji
+Xerox Equipment in Singapore. It does, however, claim to be in the business of
+parallel importing and exporting various office equipment, including
+photocopiers and printing machines. 6
+
+##### Foot Note 6
+
+×
+
+Defence (Amendment No. 2) dated 13 July 2020 (“Defence”) at para 6.
+
+Background
+
+The marks
+
+8 Among the Fuji Xerox Equipment, the plaintiffs sell (inter alia) two series
+of multifunction photocopiers under the mark “DocuCentre” and under the mark
+“ApeosPort”. These multifunction photocopiers are equipped with various
+capabilities, including colour printing and copying. Fuji Xerox Equipment
+under the mark “ApeosPort” have functions that are not found in Fuji Xerox
+Equipment under the mark “DocuCentre” and are sold at higher prices. 7
+
+##### Foot Note 7
+
+×
+
+SOC at para 4.
+
+“ApeosPort” Fuji Xerox Equipment will have product names starting with “AP”,
+while “DocuCentre” Fuji Xerox Equipment will have product names starting with
+“DC”. 8
+
+##### Foot Note 8
+
+×
+
+Batchelor AEIC at paras 18–19.
+
+Each product has an accompanying 4-digit code that denotes the printing speed
+of the machine: eg a “5575” model will print 55 pages per minute. Larger
+digits denote a higher function machine that will carry a higher price. 9
+
+##### Foot Note 9
+
+×
+
+Batchelor AEIC at para 21.
+
+Each machine that carries the “ApeosPort” or “DocuCentre” mark also carries
+the “Fuji Xerox” trade mark. 10
+
+##### Foot Note 10
+
+×
+
+Batchelor AEIC at para 30.
+
+9 The 3rd plaintiff is the registered proprietor of the trade mark “ApeosPort”
+(TM No. T0513649E) in respect of products in Class 9, which includes facsimile
+machines, printers for use with computers and computer software. 11
+
+##### Foot Note 11
+
+×
+
+SOC at para 6.
+
+The 1st and 2nd plaintiffs are licensees of the “ApeosPort” registration. 12
+
+##### Foot Note 12
+
+×
+
+SOC at para 7; Batchelor AEIC at para 24.
+
+Xerox Corporation owns the “DocuCentre” and “Fuji Xerox” trade marks, and all
+three plaintiffs pay royalties to Xerox Corporation for the use of these
+marks. 13
+
+##### Foot Note 13
+
+×
+
+Transcript, 14 July 2020 at p 15, line 13–p 16, line 29; p 72, lines 16–28.
+
+10 According to the 1st plaintiff’s head legal counsel Caron Batchelor
+Veronica (“Ms Batchelor”), all the Fuji Xerox Equipment in this case was
+manufactured and branded by the 3rd plaintiff in Japan with Xerox
+Corporation’s express or implied consent. All the Fuji Xerox Equipment was
+installed with licensed software/firmware owned by the 3rd plaintiff, which
+was required to run and operate the Fuji Xerox Equipment. While the media on
+which the software/firmware is installed may be sold, the software/firmware
+itself (including intellectual property rights like copyright) is only
+licensed. 14
+
+##### Foot Note 14
+
+×
+
+Batchelor AEIC at paras 13–14.
+
+For Fuji Xerox Equipment marketed and sold in Singapore, the 2nd plaintiff
+(under the authority of the 1st and 3rd plaintiffs) imports the Fuji Xerox
+Equipment from the 3rd plaintiff. 15
+
+##### Foot Note 15
+
+×
+
+Batchelor AEIC at para 15.
+
+Terms of sale and lease in the 2nd plaintiff’s contracts
+
+11 The 2nd plaintiff’s contracts with its customers for the sale of
+“DocuCentre” or “ApeosPort” goods list the “Software / FXS Licensed Software”
+separately from the machine. 16
+
+##### Foot Note 16
+
+×
+
+Agreed Bundle of Documents dated 29 June 2020 (“AB”) Vol 2 at pp 476–478.
+
+The contracts include certain standard clauses:
+
+3\. FXS, its related company or licensor (as the case may be) shall at all
+times remain the absolute owner of all rights, title and interest in the FXS
+Licensed Software. The License is non-exclusive and non-transferable, and is
+solely for use in conjunction with the Equipment in which installation is
+first made by FXS.
+
+…
+
+3.2 Customer will not do or allow any act or thing which is likely to
+jeopardise or invalidate any of the intellectual property rights in the FXS
+Licensed Software and will not copy, reproduce or in any other way alter,
+modify, duplicate, reverse engineer, decompile or disassemble the FXS Licensed
+Software.
+
+According to Ms Batchelor, “FXS” refers to the 2nd plaintiff, while “its
+related company or licensor” refers to the 3rd plaintiff. 17
+
+##### Foot Note 17
+
+×
+
+Batchelor AEIC at paras 36–37.
+
+12 Software/firmware for leasing arrangements is treated in a similar manner.
+18
+
+##### Foot Note 18
+
+×
+
+Batchelor AEIC at para 39; AB Vol 8 at pp 2089–2096.
+
+For example, one of the contracts between the 3rd plaintiff (the “Seller”) and
+a leasing company (“Party A”) provides:
+
+Article 6 Transfer of ownership
+
+(1) The ownership of the Machines/Software will transfer from the Seller to
+Party A once delivered.
+
+(2) The copyrights of the program installed in the Machines and the program
+installed in the Software (collectively referred to as “Program”) will NOT
+transfer from the Seller to Party A.
+
+Article 7 Setting of License
+
+…
+
+(2) Party A shall not use the Program for its own purpose.
+
+(3) Party A shall not duplicate or modify the Program.
+
+(4) Party A shall not disclose or provide the Program to any party other than
+the Customer of the third party that signed the Lease Contract with Party A.
+
+…
+
+Article 14 Measures to take when Lease Contract expires
+
+…
+
+(2) … if Party A and the Customer were not going to renew the lease, Party A
+will abandon ownership of the Machines and transfer it to the Seller, unless
+specified otherwise. The Seller will then re-use the Machines or recycle them.
+
+(3) … in case re-leasing will not be carried out between Party A and the
+Customer, yet Software is included in the Lease Contract, the Seller would
+collect back the Software, and the technician of the Seller will delete or
+destroy the Program in the floppy discs or other media used…
+
+…
+
+[emphasis in original]
+
+13 The plaintiffs also provided a template Dealership Agreement that the 2nd
+plaintiff would enter into for dealerships in Singapore. 19
+
+##### Foot Note 19
+
+×
+
+Batchelor AEIC at para 47; AB Vol 8 at pp 2173–2203.
+
+The template Dealership Agreement states, inter alia:
+
+9.2 The Dealer shall not without the prior written consent of FXS:
+
+(a) sell directly or indirectly any of the products outside [Singapore], or to
+any person in [Singapore], when it knows or has reason to believe that the
+Products would be resold outside [Singapore].
+
+15.2 The Dealer further undertakes:
+
+(a) not to cause or permit anything which may damage or endanger the
+intellectual property rights of FXS or FX, or assist or allow others to do so;
+
+…
+
+(h) not to tamper with any markings or name plates or other indication of the
+source or origin of the Products which may be placed by FXS on the Products;
+
+(i) not to use the intellectual property unless it is permitted under this
+Agreement;
+
+…
+
+(n) to refrain from engaging and to procure its sub-Dealer(s) (if any) not to
+engage in any parallel import activities.
+
+14 It is apparent that under the 2nd plaintiff’s Dealership Agreements, a
+reseller cannot sell Fuji Xerox Equipment outside the territory: eg if the
+reseller is in China, they may only sell the Fuji Xerox Equipment within
+China. This was confirmed by Ms Batchelor under cross-examination. 20
+
+##### Foot Note 20
+
+×
+
+Transcript, 14 July 2020 at p 19, lines 10–16.
+
+Software/firmware
+
+15 I now turn to the software/firmware that was installed in the Fuji Xerox
+Equipment. According to the plaintiffs, the Fuji Xerox Equipment is inoperable
+without this software/firmware. 21
+
+##### Foot Note 21
+
+×
+
+Batchelor AEIC at para 58.
+
+While the physical machine of the Fuji Xerox Equipment may be leased or sold,
+this software/firmware is only licensed, and no end-user is granted a right to
+sub-license the software/firmware. 22
+
+##### Foot Note 22
+
+×
+
+Batchelor AEIC at paras 60–61.
+
+An end-customer who has bought a Fuji Xerox Equipment may sell the equipment,
+but the software/firmware will “automatically become an unlicensed copy upon
+any such sale”. 23
+
+##### Foot Note 23
+
+×
+
+Batchelor AEIC at para 62.
+
+16 Within the software/firmware, relevant rights management information in
+electronic form is embodied in it. This rights management information is
+unique to each Fuji Xerox Equipment machine. It includes the serial number,
+machine model, machine name and product code. The plaintiffs can track every
+item or component of a Fuji Xerox Equipment by way of this information,
+through its traceability system. The plaintiffs will also affix a physical
+label on every Fuji Xerox Equipment machine, where the said rights management
+information is incorporated into the surface of the Fuji Xerox Equipment: this
+is intended to be a permanent part of the machine. 24
+
+##### Foot Note 24
+
+×
+
+Batchelor AEIC at paras 64–66.
+
+Investigation reports and letters of demand
+
+17 From 2014, the plaintiffs conducted various investigations into the
+defendant’s business. I summarise these as follows.
+
+(1) April 2014: Acquiring Offending Machine 4
+
+18 Around 15 April 2014, the 2nd plaintiff acquired one of the Offending
+Machines (Offending Machine 4) from S M Compass Enterprise Pte Ltd (“S M
+Compass”), 25
+
+##### Foot Note 25
+
+×
+
+Batchelor AEIC at para 169; AB Vol 9 at pp 2323 and 2328.
+
+which S M Compass had bought from the defendant about two weeks earlier 26
+
+##### Foot Note 26
+
+×
+
+AB Vol 9 at pp 2321–2322.
+
+. The 2nd plaintiff stored the machine at the 1st plaintiff’s premises in
+Singapore. 27
+
+##### Foot Note 27
+
+×
+
+Batchelor AEIC at para 178.
+
+That same month, one Doi Kensuke, an employee of the 3rd plaintiff, examined
+Offending Machine 4 and prepared the Seito Investigation report. 28
+
+##### Foot Note 28
+
+×
+
+AB Vol 3 at pp 716–722; AEIC of Minako Morimoto dated 19 June 2020 (“Morimoto
+AEIC”) at para 6.
+
+This report stated, inter alia, that this machine, which had an original
+serial number of 312708, “might be sold to Singapore Dealer from Malaysia”. 29
+
+##### Foot Note 29
+
+×
+
+AB Vol 3 at p 717.
+
+19 The 2nd plaintiff, through its solicitors, subsequently sent letters to the
+defendant on 20 June 2014 (“June 2014 Letter”), 30
+
+##### Foot Note 30
+
+×
+
+AB Vol 3 at pp 724–725.
+
+3 July 2014 (“July 2014 Letter”) 31
+
+##### Foot Note 31
+
+×
+
+AB Vol 3 at p 726.
+
+, and 1 August 2014 (“August 2014 Letter”). 32
+
+##### Foot Note 32
+
+×
+
+AB Vol 3 at pp 728–732.
+
+In the June 2014 Letter, the 2nd plaintiff’s then-solicitors stated that “[the
+defendant] [had] changed the label and the serial number of the FujiXerox
+photocopiers that you are marketing and selling”, and such conduct amounted
+“to a misrepresentation of the true identity of the subject product”. 33
+
+##### Foot Note 33
+
+×
+
+AB Vol 3 at p 724.
+
+In the August 2014 Letter, the 2nd plaintiff’s new solicitors stated that this
+“change of serial number in the display of our client’s product…entails
+unauthorized alteration of our client’s proprietary, embedded software program
+for operation of the product”. 34
+
+##### Foot Note 34
+
+×
+
+AB Vol 3 at p 729, para 7(c).
+
+(2) November 2014: Acquiring Offending Machines 5 and 6
+
+20 Around November 2014, the 2nd plaintiff acquired Offending Machine 5 from
+Focus Art Pte Ltd (“Focus Art”), which had bought it from the defendant around
+21 October 2014. 35
+
+##### Foot Note 35
+
+×
+
+Batchelor AEIC at para 173; AB Vol 3 at pp 752–756.
+
+The 2nd plaintiff also acquired Offending Machine 6 from Raymond Ng &
+Associates Pte Ltd (“Raymond Ng & Associates”), which had bought it from the
+defendant around 5 November 2014. 36
+
+##### Foot Note 36
+
+×
+
+Batchelor AEIC at para 174; AB Vol 3 at pp 757–759.
+
+Offending Machines 5 and 6 were stored at the 1st plaintiff’s premises. 37
+
+##### Foot Note 37
+
+×
+
+Batchelor AEIC at para 178.
+
+21 Subsequently, one Minako Morimoto (“Morimoto”), a staff member of the
+Customer Satisfaction Quality Assurance Group of the 3rd plaintiff, examined
+Offending Machines 5 and 6 and prepared the Seito Investigation for Changed
+Serial No. dated 26 November 2014 (the “26 November 2014 Report”). 38
+
+##### Foot Note 38
+
+×
+
+Morimoto AEIC at para 8; AB Vol 3 at pp 760–779.
+
+Morimoto found, inter alia, that the serial numbers of both the machines
+(455024 and 455224) were not “[the] original one[s] in the factory”, which
+were 440578 and 840161 respectively. 39
+
+##### Foot Note 39
+
+×
+
+AB Vol 3 at p 761.
+
+22 On 22 May 2015, the 2nd plaintiff’s solicitors sent a letter to the
+defendant’s solicitors with its investigative findings on Offending Machines
+4, 5 and 6. 40
+
+##### Foot Note 40
+
+×
+
+AB Vol 4 at pp 861–864.
+
+The letter stated that “these actions render these illegally modified products
+non-genuine”, and that the “practical effect” of the defendant’s sale of these
+products was to “deprive the end-customer of product warranty, maintenance and
+after-sales services, normally associated with a genuine product”. 41
+
+##### Foot Note 41
+
+×
+
+AB Vol 4 at p 863, paras 7 and 9.
+
+The letter also demanded that the defendant provide the 2nd plaintiff with the
+defendant’s supplier information. 42
+
+##### Foot Note 42
+
+×
+
+AB Vol 4 at p 863, para 13.
+
+(3) June and July 2017: Further investigations by the plaintiffs
+
+23 Subsequently, in June 2017, the 2nd plaintiff engaged Covert Investigation
+Pte Ltd (“Covert Investigation”) to conduct surveillance on the defendant.
+Covert Investigation prepared an investigation report dated 30 June 2017 (the
+“Covert Investigation Report”). 43
+
+##### Foot Note 43
+
+×
+
+Batchelor AEIC at para 179; AB Vol 5 at pp 1072–1217; AEIC of Lee Sing Ling
+Wendell Dennis dated 22 June 2020 (“Dennis Affidavit”) at paras 8–9.
+
+As stated in the Covert Investigation Report, the investigators observed the
+delivery of various Fuji Xerox Equipment to different locations in Singapore,
+including a delivery of toners to Grace Management & Consultancy Services Pte
+Ltd (“GMC”) on 16 June 2017. 44
+
+##### Foot Note 44
+
+×
+
+AB Vol 5 at pp 1078 and 1162.
+
+24 Subsequently, Ai Yasuda (“Ms Yasuda”), a Quality Management Executive of
+the 3rd plaintiff, prepared a Parallel Import Investigation Report dated 25
+July 2017 (the “July 2017 Report”). 45
+
+##### Foot Note 45
+
+×
+
+AB Vol 5 at pp 1218–1235; AEIC of Ai Yasuda dated 19 June 2020 (“Yasuda AEIC”)
+at para 27.
+
+The July 2017 Report detailed a visit to Rooftop Recruiters Pte Ltd on 12 July
+2017 and showed, inter alia, that instead of a valid machine name, the machine
+name had been changed to an individual person’s name. 46
+
+##### Foot Note 46
+
+×
+
+Yasuda AEIC at para 33.
+
+However, this was not one of the six Offending Machines referred to in the
+Statement of Claim. 47
+
+##### Foot Note 47
+
+×
+
+Yasuda AEIC at para 38.
+
+(4) November 2017: Acquiring Offending Machines 1, 2 and 3
+
+25 The 1st plaintiff reviewed the list of places which the defendant’s staff
+were observed visiting in the Covert Investigation Report – and which included
+GMC. 48
+
+##### Foot Note 48
+
+×
+
+Batchelor AEIC at para 187.
+
+Around November 2017, a representative from the 1st plaintiff visited GMC,
+together with Ms Yasuda and the 2nd plaintiff’s engineer. They found that
+Offending Machines 1, 2 and 3 had been modified and reported this to the
+directors of GMC. The directors were not aware of the modifications, and they
+exchanged Offending Machines 1, 2 and 3 with Fuji Xerox Equipment supplied by
+the 2nd plaintiff. 49
+
+##### Foot Note 49
+
+×
+
+Batchelor AEIC at paras 187–189; AB Vol 9 at pp 2329–2330.
+
+26 The 2nd plaintiff took possession of Offending Machines 1, 2 and 3 around
+12 December 2017 and stored them at the premises of SG Investigators Pte Ltd
+(“SG Investigators”) that same day. 50
+
+##### Foot Note 50
+
+×
+
+Batchelor AEIC at para 188; AEIC of Kang Chor Hee dated 22 June 2020 (“Kang
+AEIC”) at paras 5–6.
+
+(5) Events of 2018
+
+27 On 4 June 2018, the 1st plaintiff was granted leave in HC/OS 226/2018 to
+commence proceedings against the defendant for, inter alia, infringement of
+the registered “ApeosPort” mark.
+
+28 On 3 September 2018, SG Investigators transported Offending Machines 4, 5
+and 6 from the 1st plaintiff’s premises to its own office. 51
+
+##### Foot Note 51
+
+×
+
+Kang AEIC at para 7.
+
+All six Offending Machines continue to be stored at SG Investigators under
+constant video surveillance. 52
+
+##### Foot Note 52
+
+×
+
+Kang AEIC at para 8.
+
+Offending Machines 1, 2 and 3 (the “GMC Machines”) were inspected by Ms Yasuda
+on 18 December 2017, and again by Ms Yasuda and one Ronald Glico, a Customer
+Service Engineer of the 2nd plaintiff, on 28 August 2018. 53
+
+##### Foot Note 53
+
+×
+
+Kang AEIC at para 9; Yasuda AEIC at para 41.
+
+29 After the inspections, Ms Yasuda prepared a Parallel Import Investigation
+Report dated 7 September 2018 (the “September 2018 Report”). 54
+
+##### Foot Note 54
+
+×
+
+AB Vol 6 at pp 1355–1416.
+
+In the September 2018 Report, Ms Yasuda detailed her findings in respect of
+each Offending Machine: 55
+
+##### Foot Note 55
+
+×
+
+Yasuda AEIC at paras 40, 45–49.
+
+(a) Offending Machine 1, sold under the name “ApeosPort”: This machine had its
+copy speed (and corresponding product name), product code and serial number
+changed. 56
+
+##### Foot Note 56
+
+×
+
+AB Vol 6 at pp 1357–1365.
+
+(b) Offending Machine 2, sold under the name “ApeosPort”: This machine had its
+product name changed from the lower-priced “DocuCentre” model to the higher-
+priced “ApeosPort” model. It also had its serial number changed. 57
+
+##### Foot Note 57
+
+×
+
+AB Vol 6 at pp 1366–1376.
+
+(c) Offending Machine 3, sold under the name “ApeosPort”: According to the
+plaintiffs, the serial number of this machine had been changed when it was in
+the defendant’s possession, but had reverted to the original, genuine serial
+number by the time the 3rd plaintiff’s representative examined the machine. 58
+
+##### Foot Note 58
+
+×
+
+AB Vol 6 at pp 1377–1389; Yasuda AEIC at para 48.
+
+(d) Offending Machine 4, sold under the name “DocuCentre”: This machine had
+its copy speed (and corresponding product name) and serial number changed. 59
+
+##### Foot Note 59
+
+×
+
+AB Vol 6 at pp 1390–1397.
+
+(e) Offending Machine 5, sold under the name “DocuCentre”: This machine had
+its copy speed (and corresponding product name), product code, and serial
+number changed. 60
+
+##### Foot Note 60
+
+×
+
+AB Vol 6 at pp 1398–1406.
+
+(f) Offending Machine 6, sold under the name “DocuCentre”: This machine had
+its copy speed (and corresponding product name) and serial number changed. 61
+
+##### Foot Note 61
+
+×
+
+AB Vol 6 at pp 1407–1415.
+
+30 On 11 December 2018, the plaintiffs filed HC/S 1252/2018 (“Suit 1252”) in
+respect of the six Offending Machines. The 3rd plaintiff gave an undertaking
+not to commence legal proceedings in its own name against the defendant for
+trade mark infringement. It remained a party to the passing off, copyright and
+rights management information infringement claims. 62
+
+##### Foot Note 62
+
+×
+
+SOC at para 8.
+
+The plaintiffs’ case
+
+Trade mark infringement
+
+31 The plaintiffs pleaded that the defendant infringed the ApeosPort
+registration by using in the course of trade and without the 3rd plaintiff’s
+consent a mark which was identical to the “ApeosPort” mark in relation to
+goods which were "identical to those for which the “ApeosPort” mark is
+registered. 63
+
+##### Foot Note 63
+
+×
+
+SOC at para 9.
+
+In particular, the plaintiffs claimed – under s 27(1) of the Trade Marks Act –
+that the defendant had been selling, offering or exposing for sale, leasing,
+servicing, importing and/or advertising photocopiers, printers and facsimile
+machines bearing the mark “ApeosPort” to members of the public in Singapore,
+on the defendant’s website and at the defendant’s registered business address.
+According to the plaintiffs, the defendant had been affixing the mark
+“ApeosPort” to its photocopiers, printers and facsimile machines and/or their
+packaging; as well as using the “ApeosPort” mark on catalogues, price lists
+and other documents.
+
+32 Specifically, the plaintiffs alleged that around 2015 to 2016, the
+defendant sold Offending Machines 1, 2 and 3 bearing the “ApeosPort” mark to
+GMC. These could be traced to machines which were originally put on the market
+in Japan by the 3rd plaintiff or its subsidiaries in Japan in 2010, 2012 and
+2013 respectively, and which were not intended for any market outside Japan:
+these machines had been designated as scrap and were to have been destroyed in
+Japan. The GMC Machines had their conditions altered from the original
+machines, inter alia, with altered firmware, the incorporation of a step-down
+transformer, and altered print-speed configuration. 64
+
+##### Foot Note 64
+
+×
+
+SOC at para 9(d).
+
+33 Alternatively, the plaintiffs relied on section 27(2) of the Trade Marks
+Act. They pleaded that the defendant had infringed the ApeosPort registration
+by using in the course of trade without the consent of the 3rd plaintiff a
+mark, where – because the mark was identical with or similar to the ApeosPort
+mark in relation to goods which were identical with or similar to those for
+which the ApeosPort mark is registered – there existed a likelihood of
+confusion on the part of the public. 65
+
+##### Foot Note 65
+
+×
+
+SOC at para 11.
+
+Passing off
+
+34 The plaintiffs also alleged passing off by the defendant in respect of the
+“ApeosPort”, “DocuCentre” and “Fuji Xerox” marks. In gist, the plaintiffs
+alleged that the defendant’s acts of, inter alia, importing and selling
+photocopiers and other printing equipment under each of those marks to members
+of the public in Singapore, when these were not unmodified photocopiers or
+other printing equipment, amounted to a misrepresentation to members of the
+public and was likely to cause confusion to the relevant public by leading
+them to believe that machines affixed with those marks and sold by the
+defendant were those manufactured by the plaintiffs or connected to/associated
+with the plaintiffs. 66
+
+##### Foot Note 66
+
+×
+
+SOC at paras 16, 18, 24, 26, 32 and 34.
+
+35 The plaintiffs referred to the defendant’s sale of three machines
+(Offending Machines 4, 5 and 6), bearing the “DocuCentre” mark, as “BRAND NEW”
+in 2014. These could be traced to machines originally manufactured and put on
+the market in Malaysia and China by the 3rd plaintiff or its subsidiaries in
+2014, and were not intended for any market outside those countries. 67
+
+##### Foot Note 67
+
+×
+
+SOC at para 24(d).
+
+Offending Machines 4, 5 and 6 had their conditions altered from the original
+machines: inter alia, the firmware had been altered and the print-speed
+configuration had been altered to an increased setting.
+
+Copyright infringement
+
+36 In respect of copyright infringement, the plaintiffs pleaded: 68
+
+##### Foot Note 68
+
+×
+
+SOC at para 41.
+
+(a) primary infringement pursuant to s 26(1)(a)(v) of the Copyright Act by the
+making of an unlicensed adaptation of the plaintiffs’ software/firmware;
+
+(b) secondary infringement pursuant to s 32 of the Copyright Act, by importing
+an article into Singapore for the purpose of selling, letting for hire,
+offering or exposing for sale or hire, distributing it etc without the licence
+of the 3rd plaintiff when it knew or ought reasonably to have known that the
+making of the article was carried out without the consent of the 3rd
+plaintiff; and
+
+(c) secondary infringement pursuant to s 33 of the Copyright Act, by selling,
+letting for hire, offering or exposing for sale or hire etc without the
+licence of the 3rd plaintiff when it knew or ought reasonably to have known
+that the making of the article was carried out without the consent of the 3rd
+plaintiff.
+
+37 Lastly, the plaintiffs pleaded their reliance on s 260 of the Copyright
+Act, alleging that the defendant had: 69
+
+##### Foot Note 69
+
+×
+
+SOC at para 43.
+
+(a) knowingly removed or altered the rights management information embodied in
+the software/firmware without the 3rd plaintiff’s consent when it knew or
+ought reasonably to have known that the removal or alteration of the said
+rights management information would induce, enable, facilitate or conceal an
+infringement;
+
+(b) distributed or imported for distribution the said rights management
+information which had been altered without the 3rd plaintiff’s consent, when
+the defendant knew that such alteration had been done without the 3rd
+plaintiff’s consent and when the defendant knew or ought reasonably to have
+known that the distribution or importation of the altered rights management
+information would induce, enable, facilitate or conceal an infringement; and
+
+(c) distributed or imported for distribution copies of computer
+software/firmware in respect of which the rights management information had
+been removed or altered without the 3rd plaintiff’s consent, when the
+defendant knew that such removal or alteration had been done without the 3rd
+plaintiff’s consent and the defendant knew or ought reasonably to have known
+that the distribution or importation of the altered rights management
+information would induce, enable, facilitate or conceal an infringement.
+
+The defendant’s case
+
+38 First, the defendant claimed that those of its photocopiers, printers and
+facsimile machines which bore the mark “ApeosPort” were imported into
+Singapore as parallel imports and that it was therefore entitled to rely on s
+29(1) of the Trade Marks Act. 70
+
+##### Foot Note 70
+
+×
+
+Defence at para 10.
+
+In response to the plaintiffs’ passing off claims, the defendant also raised
+the argument that these machines were parallel imports purchased from third
+party suppliers. 71
+
+##### Foot Note 71
+
+×
+
+Defence at paras 27 and 37.
+
+39 Next, the defendant claimed that the “ApeosPort” mark found on all its
+advertisements, catalogues and other commercial documents was “used to
+indicate the kind, quality, quantity, intended purpose or other characteristic
+of the photocopiers or any products bearing the mark “ApeosPort”, and that
+such use of the “ApeosPort” mark was “in accordance with honest practices in
+industrial or commercial matters” for the purposes of s 28(1) of the Trade
+Marks Act. 72
+
+##### Foot Note 72
+
+×
+
+Defence at para 10.
+
+40 As for the plaintiffs’ claims of copyright infringement, the defendant’s
+position was that it was not required to check or to know about the software
+installed in the machines it dealt with, nor did it have the technical know-
+how or means to modify any software/firmware. It denied making any adaption of
+the software/firmware or authorising anyone to do so, and said that it had no
+knowledge of – and no reason to know of – whether the adaptation was made and
+whether the article was made without the 3rd plaintiff’s consent. Lastly, the
+defendant alleged that the 3rd plaintiff had exhausted its rights to any
+copyright allegedly subsisting in the software/firmware when the machines
+containing that software/firmware were first put in the market by the 3rd
+plaintiff. 73
+
+##### Foot Note 73
+
+×
+
+Defence at para 46.
+
+The issues to be determined
+
+41 The following issues arose for my determination:
+
+(a) Whether the defendant had infringed the registered trade mark “ApeosPort”;
+
+(b) Whether the defendant had passed off the “ApeosPort”, “DocuCentre” and
+“Fuji Xerox” marks as its own marks; and
+
+(c) Whether the defendant had infringed copyright under ss 32, 33 and/or 260
+of the Copyright Act.
+
+Infringement of the registered “ApeosPort” mark
+
+42 I address first the plaintiffs’ claim against the defendant for
+infringement of the registered trade mark “ApeosPort”, in relation to
+Offending Machines 1, 2 and 3.
+
+Section 27(1) of the Trade Marks Act
+
+43 In order to establish the claim under s 27(1) of the Trade Marks Act, the
+plaintiffs have to prove that not only are their registered “ApeosPort” mark
+and the defendant’s mark identical, but that the goods in question are also
+identical. Similarity in either aspect is not enough: anything less than
+complete identity will fail to satisfy the strict requirement of “double
+identity” under s 27(1) (see eg the judgment of the Court of Appeal (the “CA”)
+in City Chain Stores (S) Pte Ltd v Louis Vuitton Malletier [2010] 1 SLR 382
+(“City Chain Stores”) at [39]).
+
+44 I found that although the plaintiffs’ “ApeosPort” mark and the mark used by
+the defendant were clearly identical, the parties’ photocopiers and other
+machines were not. The plaintiff’s counsel stated in the course of the trial
+that “[the defendant] is not selling the exact same machine because they have
+been modified.” 74
+
+##### Foot Note 74
+
+×
+
+Transcript, 7 January 2021 at p 67, lines 10–11.
+
+This was also attested to by the defendant’s director, Poh Beng Leong (“Poh”).
+75
+
+##### Foot Note 75
+
+×
+
+Transcript, 7 January 2021 at p 52, lines 11–13.
+
+On the evidence adduced, it appeared that there were differences between the
+physical nature of the plaintiffs’ machines and the defendant’s, including up-
+speeding of machines, installation of step-down transformers, and replacement
+of original serial numbers with false serial numbers. 76
+
+##### Foot Note 76
+
+×
+
+SOC at para 9(d).
+
+45 In light of what the plaintiffs and the defendant both said, I did not find
+that the “double identity” required by s 27(1) of the Trade Marks Act had been
+established.
+
+Section 27(2) of the Trade Marks Act
+
+46 In the alternative, the plaintiffs relied on s 27(2) of the Trade Marks
+Act. Under s 27(2), it is enough for the plaintiffs to show that their
+registered mark is identical with or similar to the defendant’s mark, and that
+the defendant’s mark is used in relation to goods that are identical with or
+similar to those for which the plaintiffs’ trade mark was registered.
+
+47 On the evidence adduced, including the various investigative reports put
+forward by the plaintiffs, I was satisfied that the plaintiffs were able to
+prove that their registered “ApeosPort” mark was identical with the mark used
+by the defendant; that the machines in question were similar, even if not
+identical; that the defendant was using its mark in the course of trade, ie as
+a badge of origin and not merely for descriptive purposes as it claimed in its
+amended defence; that the defendant was acting without the consent of the
+trade mark owner (the 3rd plaintiff); and that taking into account all the
+circumstances of the case, there existed a likelihood of confusion on the part
+of members of the public as to the origin of the machines.
+
+48 First, the registered “ApeosPort” mark was clearly identical with the mark
+used by the defendant and the defendant admitted to using the “ApeosPort” mark
+in the course of trade. 77
+
+##### Foot Note 77
+
+×
+
+Defence at para 10.
+
+This was also acknowledged in cross-examination by Poh, who stated that the
+defendant used the name “ApeosPort” because the machines “were named like
+this” and the defendant “just followed” to “call it by such because the
+machine is as such”. 78
+
+##### Foot Note 78
+
+×
+
+Transcript, 6 January 2021 at p 51, lines 6–10; Transcript, 7 January 2021 at
+p 67, lines 3–7.
+
+49 Second, as to similarity of goods, section 27(2)(a) of the Trade Marks Act
+requires similarity between the goods or services for which the offending sign
+is used and those for which the trade mark is registered. In Sarika
+Connoisseur Cafe Pte Ltd v Ferrero SpA [2013] 1 SLR 531 (“Sarika”), the
+appellant was sued by the respondent for infringement of the latter’s
+“Nutella” trade marks; in particular, the “Nutella” word mark in Class 30 of
+the International Classification Goods and Services in Singapore (“ICGS”). The
+respondent brought suit after the appellant introduced a gourmet coffee
+beverage, under the “Nutello” sign, which was made with ingredients that
+included the cocoa-based hazelnut spread marketed by the appellant under the
+brand name “Nutella”. The CA held that for the purpose of determining
+similarity of goods under section 27(2)(b) of the Trade Marks Act, the court
+needed to compare the appellant’s product not only with the actual Nutella
+product (ie the Nutella hazelnut spread), but also with the specification of
+the registration (ie “chocolate products”) (at [52]). In making a comparison
+between the appellant’s “Nutello” beverage and the “chocolate products”
+registration specification, the CA held that although the appellant’s
+“Nutello” beverage was introduced as a hot coffee beverage, it could be
+considered to fall within the “chocolate products” specification in view of
+evidence that various consumers had commented on its chocolate nature (at
+[53]).
+
+50 In the present case, there was no dispute between the parties as to the
+similarity between the defendant’s Offending Machines and the products in the
+registration specification in which the “ApeosPort” trade mark is registered
+(which includes facsimile machines, printers for use with computers and
+computer software etc).
+
+51 As for the comparison between the Offending Machines and the plaintiff’s
+actual goods, the original machines and the Offending Machines were both for
+the same use of photocopying, and the users of the original machines were in
+Japan, while the users of the Offending Machines were different parties in
+Singapore. I also found that Offending Machines 1, 2 and 3 were of a similar
+physical nature to the original machines. Ms Yasuda’s September 2018
+Investigation Report (see [29] above) found inter alia that each of these
+machines bore different machine labels from the original machine, had modified
+serial numbers, and were installed with step-down transformers. Despite these
+modifications, however, the Offending Machines still had the same
+characteristics and features as the original machines: eg like the original
+machines, they had a serial number, product code, and machine name, although
+these were modified, and they had the same components as the original
+machines, eg a fuser assembly, although the genuine labels had been removed
+from those components. 79
+
+##### Foot Note 79
+
+×
+
+AB Vol 6 at pp 1363, 1372 and 1383.
+
+The trade channels by which the original machines and the Offending Machines
+reached the market were of course different; the original machines were sold
+or leased by the plaintiffs to users in Japan, while the Offending Machines
+were sold by the defendant, who was not an authorised dealer of Fuji Xerox
+Equipment, to users in Singapore. Lastly, the defendant’s sale of these
+machines made it a “direct competitor[]” of the plaintiffs”, as stated by Poh
+himself. 80
+
+##### Foot Note 80
+
+×
+
+Transcript, 7 January 2021 at p 54, lines 1–4.
+
+52 Overall, I found that Offending Machines 1, 2 and 3 were similar to the
+original machines. The fact that the users and trade channels for the
+Offending Machines differed from the users and trade channels for the original
+machines did not detract from my conclusion: in my view, this did not arise
+from the fact that the Offending Machines were dissimilar to the original
+machines, but from the defendant’s own acts of selling the Offending Machines
+to users in Singapore when the plaintiffs had never authorised these machines
+for sale in Singapore in the first place. 81
+
+##### Foot Note 81
+
+×
+
+Yasuda AEIC at para 49.
+
+53 Third, the defendant admitted in its Defence that it had been using the
+“ApeosPort” mark in the course of trade, including in advertising on its
+website and in its catalogues. 82
+
+##### Foot Note 82
+
+×
+
+Defence at para 10.
+
+This was evidenced by the printouts and screenshots of the defendant’s
+website, which showed it offering machines for sale, lease or rent under the
+name “ApeosPort”. 83
+
+##### Foot Note 83
+
+×
+
+AB Vol 5 at pp 1288–1290 (2 October 2017); AB Vol 9 at p 2273 (29 July 2019).
+
+The defendant’s website also stated, inter alia, that its “major products
+supplied include the FUJI Xerox ApeosPort series”. 84
+
+##### Foot Note 84
+
+×
+
+AB Vol 9 at p 2271.
+
+54 Fourth, I found that the defendant was using the “ApeosPort” mark in the
+course of trade without the consent of the 3rd plaintiff. Poh admitted this
+under cross-examination: “I didn’t get permission [from Fuji Xerox] because I
+will not be able to get permission from them.” 85
+
+##### Foot Note 85
+
+×
+
+Transcript, 7 January 2021 at p 63, lines 29–31.
+
+55 Lastly, on the element of likelihood of confusion, I note that the CA has
+made it clear that evidence of actual confusion is not required, and that the
+question of whether there is likely to be confusion is “ultimately one for the
+court rather than for witnesses” (Hai Tong Co (Pte) Ltd v Ventree Singapore
+Pte Ltd and another and another appeal [2013] 2 SLR 941 (“Hai Tong”) at [99]).
+In Hai Tong, which was a case involving inter alia a claim of secondary trade
+mark infringement under section 27(2)(b) of the Trade Marks Act, the CA noted
+that “finding and producing actual evidence of confusion may be difficult as
+members of the public are generally reluctant to attend proceedings in court”,
+and held that “while evidence of actual confusion can be very helpful, its
+absence should not be accorded undue significance” (at [100]). In assessing
+the likelihood of confusion, there are “three specific elements that plainly
+must be considered” (at [85(c)], in view of the express terms of section
+27(2):
+
+… These are: (i) the similarity between the registered mark and the allegedly
+infringing mark; (ii) the similarity or identity between the goods or services
+in relation to which the marks are used; and (iii) the relevant segment of the
+public in relation to whom the court must consider the likelihood of
+confusion. Each of these elements can vary. The marks may be identical or
+similar, and if the latter, they can vary in their degree of similarity. In
+the same way, the goods or services in relation to which the marks are used
+may be identical or similar, and again, if the latter, they may vary in the
+degree or extent to which they are similar. In assessing the degree of
+similarity, it may be appropriate to have regard to steps that have been taken
+to differentiate the goods or services. And as to the relevant segment of the
+public, there may be characteristics that are particular to the group in
+question. Each of these factors will have a bearing on the likelihood of
+confusion. As an illustrative proposition, the likelihood of confusion must be
+greater where, say, the contesting marks are similar to a high degree, the
+goods are identical in nature and the segment of the public in question is
+undistinguished in its attention than would be the case if the marks and the
+goods are somewhat similar but not exceedingly so, and the relevant segment of
+the public happens to be highly knowledgeable and very fastidious. …
+
+56 In the present case, the marks used by the plaintiff and the defendant were
+identical, and their machines were highly similar. As to the relevant segment
+of the public, I did not think there was any real dispute that this would
+mainly be comprised of businesses and commercial entities requiring office
+equipment of a not particularly specialised nature: the machines in question
+are not, after all, sophisticated scientific or medical equipment or
+specialised tools. It did not appear to me that the relevant segment of the
+public in this case would be “highly knowledgeable and very fastidious”. In
+the circumstances, I found that the likelihood of confusion would be high.
+
+57 Given that the competing marks were identical and the competing goods
+sufficiently similar such that having regard to the characteristics of the
+likely consumer, there would be a likelihood of confusion, it was not
+necessary – and indeed, it would not be permissible – to have regard to yet
+further extraneous considerations that might have the effect of diminishing
+the likelihood of confusion: per the CA in Staywell Hospitality Group Pty Ltd
+v Starwood Hotels & Resorts Worldwide, Inc and another and another appeal
+[2014] 1 SLR 911 (at [85]–[86]).
+
+58 For the reasons set out above at [46] to [57], I was satisfied that the
+plaintiffs had made out their case of infringement of the “ApeosPort” mark
+under section 27(2)(a) of the Trade Marks Act.
+
+Section 28(1) of the Trade Marks Act: Descriptive marks
+
+59 In arriving at these conclusions, I considered the defendant’s attempt to
+invoke s 28(1) of the Trade Marks Act. The defendant submitted that its use of
+the “ApeosPort” mark on advertisements and other commercial document was “in a
+purely descriptive manner” in relation to the series and model of the machines
+to better enable the machines to be distinguished and identified, that its use
+of the “ApeosPort” mark was in accordance with honest practices to indicate to
+the public that it sold, repaired or maintained certain machines and that it
+had never informed customers it was an authorised reseller of the plaintiffs’
+or that it was in any way connected to the plaintiffs. 86
+
+##### Foot Note 86
+
+×
+
+Defendant’s Closing Submissions dated 26 February 2021 (“DCS”) at paras 100,
+104–106.
+
+60 I found the defendant’s reliance on s 28(1) to be entirely baseless and
+without merit.
+
+61 First, it was telling that even in its amended Defence, the defendant
+pleaded its reliance on s 28(1) in the broadest and vaguest of terms, without
+even trying to particularise those characteristics of its machines which it
+claimed the mark was descriptive of. It merely asserted that the mark
+“ApeosPort” was used to indicate the kind, quality, quantity, intended purpose
+or other characteristic of the products bearing the mark “ApeosPort”. 87
+
+##### Foot Note 87
+
+×
+
+Defence at para 10.
+
+62 Second, in the evidence put forward by the defendant, there was similarly
+no coherent effort to flesh out its attempt to invoke s 28(1).
+
+63 Third, as the plaintiffs pointed out, “ApeosPort” is an invented set of
+words: it is difficult, if not impossible, to see how it is descriptive of a
+characteristic such as kind, quality, quantity, or intended purpose. 88
+
+##### Foot Note 88
+
+×
+
+Plaintiff’s Closing Submissions dated 26 February 2021 (“PCS”) at paras 9 and
+32.
+
+In any event, the defendant appeared to me to have made little – if any –
+genuine effort to substantiate its purported reliance on s 28(1) of the Trade
+Marks Act. In fact, the defendant stated in its written submissions that it
+did not dispute the plaintiff’s “ApeosPort” mark was distinctive. 89
+
+##### Foot Note 89
+
+×
+
+DCS at para 111.
+
+Having accepted this, and having stated that it was using the mark to “better
+enable the machines to be distinguished and identified”, the defendant could
+not maintain that its use of the mark was “purely descriptive in nature”.
+
+64 Lastly, having invoked s 28(1), the defendant also had the onus of
+satisfying me that its allegedly descriptive use of the “ApeosPort” mark was
+“in accordance with honest practices in industrial or commercial matters”. In
+this connection, the CA has held in The Audience Motivation Company Asia Pte
+Ltd v AMC Live Group China (S) Pte Ltd [2016] 3 SLR 517 (“AMC Live”) that the
+“honest practices” proviso “calls for an objective inquiry that examines and
+assesses the defendant’s conduct in the light of standards and practices
+commonly applied in the business or industry”, while at the same time also
+examining “whether the particular motivations and intentions of the defendant
+were honest”. In its judgment, the CA emphasised that “as an evidentiary
+matter, each element must be weighed, on a balance of probabilities, on the
+basis of a reasonable evaluation of the evidence and not on the subjective and
+inevitably self-serving pronouncements of the defendant” (at [57]). That last
+reminder by the CA is highly useful in this case because, on the subject of
+“honest practices”, the defendant also failed entirely to adduce any evidence,
+let alone any credible evidence. I would add that Poh’s bare assertions about
+industry practice counted for nothing 90
+
+##### Foot Note 90
+
+×
+
+See eg Transcript, 6 January 2021 at p 56, lines 19–28; Transcript, 7 January
+2021 at p 26, lines 9–20 and p 52, line 29–p 53, line 19.
+
+as they plainly fell into the category of “subjective and inevitably self-
+serving pronouncements of the defendant”.
+
+Section 29(1) of the Trade Marks Act: Parallel imports defence
+
+65 As to the defendant’s attempt to invoke s 29(1) of the Trade Marks Act, I
+found this to be equally baseless and without merit.
+
+The parties’ submissions
+
+66 The defendant submitted that Offending Machines 1, 2 and 3 were parallel
+imports, and that accordingly it could rely on the defence under s 29(1) of
+the Trade Marks Act. 91
+
+##### Foot Note 91
+
+×
+
+DCS at para 49.
+
+Section 29 states:
+
+Exhaustion of rights conferred by registered trade mark
+
+29.—(1) Notwithstanding section 27, a registered trade mark is not infringed
+by the use of the trade mark in relation to goods which have been put on the
+market, whether in Singapore or outside Singapore, under that trade mark by
+the proprietor of the registered trade mark or with his express or implied
+consent (conditional or otherwise).
+
+(2) Subsection (1) does not apply where —
+
+(a) the condition of the goods has been changed or impaired after they have
+been put on the market; and
+
+(b) the use of the registered trade mark in relation to those goods has caused
+dilution in an unfair manner of the distinctive character of the registered
+trade mark.
+
+67 The defendant argued that Offending Machines 1, 2 and 3 had been put on the
+market by the 3rd plaintiff or with its express or implied consent, 92
+
+##### Foot Note 92
+
+×
+
+DCS at paras 52, 56–57.
+
+and that the plaintiffs had not provided evidence of changes to the conditions
+of these machines after they had been put on the market. 93
+
+##### Foot Note 93
+
+×
+
+DCS at para 59.
+
+While the defendant accepted that the original Japanese-language front
+operation panel and precautions label had been removed and replaced with a
+non-original English language panel and label, and that rear data plates
+bearing, inter alia, the original serial number had been removed and a step-
+down transformer had been incorporated, it said there was no clear evidence
+that the firmware, print-speed configuration, and rights managements
+information had been altered. 94
+
+##### Foot Note 94
+
+×
+
+DCS at para 61.
+
+The defendant argued that the plaintiffs had incorrectly determined the
+original conditions of these machines by deriving the serial number from
+replaceable and interchangeable parts of the Offending Machines such as the
+fuser assembly, and that it was possible that the fuser assembly components on
+these machines were not original parts but had come from other machines. 95
+
+##### Foot Note 95
+
+×
+
+DCS at paras 66–67.
+
+Lastly, it submitted that the use of the “ApeosPort” mark had not caused
+dilution in an unfair manner either by “blurring” or “tarnishment”. 96
+
+##### Foot Note 96
+
+×
+
+DCS at paras 83 and 85.
+
+68 The plaintiffs, for their part, submitted that the defendant traded in
+machines where the conditions were extensively changed or altered after they
+were first put on the market. 97
+
+##### Foot Note 97
+
+×
+
+PCS at para 237.
+
+No independent third party had acquired the right of disposal of the
+plaintiffs’ goods in the market where the machines were put: for used Fuji
+Xerox Equipment, once the machines were withdrawn from the market, they were
+to be destroyed. 98
+
+##### Foot Note 98
+
+×
+
+PCS at para 238.
+
+The defendant offered no evidence at all that its alleged suppliers had
+acquired the right of disposal of the plaintiffs’ goods in the market where
+the machines were put. 99
+
+##### Foot Note 99
+
+×
+
+PCS at para 239.
+
+The law
+
+69 Under section 29(1) of the Trade Marks Act, goods are “put on the market”
+when an “independent third party has acquired the right of disposal of the
+goods bearing the trade mark”, and this must be an act that simultaneously
+allows the proprietor of the trade mark to realise the commercial or economic
+value of the trade-marked goods, and deprives him of the right to control the
+subsequent exploitation of the goods. Such an act includes, but is not limited
+to, a sale of the goods by the proprietor to the third party (Samsonite IP
+Holdings Sarl v An Sheng Trading Pte Ltd [2017] 4 SLR 99 (“Samsonite”) at
+[100]). The goods must have been first put on the market with the consent of
+the proprietor of the trade mark. Even if the proprietor’s consent to the
+first putting on the market is conditional and not unqualified, it will still
+be treated as valid consent under s 29(1) of the Trade Marks Act (Samsonite at
+[140]).
+
+Applying the law to the facts
+
+70 I found the defendant’s account of the sources from which it allegedly
+acquired its machines as parallel imports to be glib, riddled with
+inconsistencies, and frankly unbelievable.
+
+(1) The defendant’s lack of supplier information and purchase orders
+
+71 First, I found it highly suspicious – and quite telling – that despite its
+repeated claims about being a genuine parallel importer, the defendant gave
+discovery of only a very small number of documents allegedly related to its
+purchase and importation of the machines – none of which I found in the least
+credible or helpful in shoring up its defence of parallel imports. Poh’s
+various explanations under cross-examination only added to these suspicions.
+For example, Poh claimed that he had communicated with the suppliers via
+WhatsApp messages – but no such WhatsApp messages were disclosed. This total
+lack of supporting evidence was then said by Poh to be due to his having
+changed his mobile number and his purported ignorance that “such messages
+could be used or disclosed”. 100
+
+##### Foot Note 100
+
+×
+
+Transcript, 6 January 2021 at p 44, lines 15–17.
+
+When asked to disclose the identity of the defendant’s current supplier, Poh
+was evasive: he would not disclose any supplier details and would only say
+that the defendant had stopped purchasing Fuji Xerox photocopiers in 2019. He
+even claimed that he “did not import but [he] had businesses with local
+leasing companies like Oryx and Ethos” and would “purchase when it’s
+necessary” – a claim which had never been mentioned in his AEIC. 101
+
+##### Foot Note 101
+
+×
+
+Transcript, 6 January 2021 at p 72, line 32–p 73, line 20.
+
+72 Further, when asked to describe how the defendant would conduct the
+“detailed supplier evaluations” mentioned in his AEIC, 102
+
+##### Foot Note 102
+
+×
+
+Poh AEIC at para 9.
+
+Poh’s reply was: 103
+
+##### Foot Note 103
+
+×
+
+Transcript, 6 January 2021 at p 51, line 31–p 52 line 3.
+
+I don’t know how to answer. In the normal circumstances, the suppliers will
+come through referrals. We will establish contact and then give them a
+contract with a small-scale purchase, and then verify that the company is
+existent, and then pay them. That’s about it.
+
+Having made these claims about giving potential suppliers “a contract with a
+small-scale purchase”, Poh then claimed that he had not disclosed any
+documentation in respect of these “supplier evaluations” because he “didn’t
+know that this small trial order had to be disclosed”. 104
+
+##### Foot Note 104
+
+×
+
+Transcript, 6 January 2021 at p 53, line 13.
+
+Poh’s excuses were unbelievable because the court order dated 7 August 2019 in
+HC/SUM 3440/2019 specifically ordered the defendant to give discovery of “all
+correspondences between the supplier(s) and PTC” and “invoices between the
+supplier(s) and PTC”.
+
+73 Despite being one of the defendant’s directors, and, on his own evidence,
+the person who oversaw the defendant’s business operations, 105
+
+##### Foot Note 105
+
+×
+
+Poh AEIC at para 5; Supplementary AEIC of Poh dated 28 July 2020 (“Poh
+Supplementary AEIC”) at para 19.
+
+Poh was similarly unable to give a coherent explanation of whether, when the
+defendant ordered Fuji Xerox photocopiers, it had issued documentary purchase
+orders – or not. Initially, Poh asserted that there “ought to be documents
+when purchasing Fuji Xerox copiers”. After making this assertion, however, he
+quickly backpedaled and said: “Sometimes we would not use purchase orders. In
+fact, we don’t use purchase orders, because we would discuss, and then come to
+an agreement…” 106
+
+##### Foot Note 106
+
+×
+
+Transcript, 6 January 2021 at p 58, lines 22–23 and p 58 line 31–p 59 line 2.
+
+74 I found Poh to be a shifty and deceitful witness. His inability to give any
+coherent evidence about the defendant’s supplier information and its
+operations was highly damaging to the credibility of its parallel importing
+claim. This impression was only strengthened by Poh’s evidence on each of the
+Offending Machines.
+
+(2) Evidence on Offending Machines 1, 2 and 3
+
+75 The defendant allegedly bought Offending Machines 1, 2 and 3 on 5 February
+2016, 4 March 2016 and 13 May 2016 respectively from Digital Junction OA
+Solution (“Digital Junction”), a Malaysian company – as can be seen from the
+invoices and payment vouchers. 107
+
+##### Foot Note 107
+
+×
+
+AB Vol 21 at pp 5615–5616 (February 2016), 5617–5618 (March 2016) and
+5619–5620 (13 May 2016); Transcript, 6 January 2021 at p 62, lines 4–10.
+
+However, as attested to by Ms Batchelor, 108
+
+##### Foot Note 108
+
+×
+
+Transcript, 15 July 2020 at p 19, lines 31–32.
+
+and as shown by the company searches, there were no company or business
+records to be found for Digital Junction. 109
+
+##### Foot Note 109
+
+×
+
+AB Vol 30 at p 8101; Transcript, 7 January 2021 at p 9, lines 16–20.
+
+Poh admitted that he also had not found any company registry records for
+Digital Junction, although he insisted – without offering any reasons – that
+“[b]y me not finding about the company, it does not mean that the company does
+not exist”. 110
+
+##### Foot Note 110
+
+×
+
+Transcript, 6 January 2021 at p 69, lines 7–13.
+
+76 The plaintiffs also referred to several invoices dated 9 October 2014, 21
+November 2015, 4 May 2017 and 6 November 2017 from Fortune OA Solution
+(“Fortune OA”), which – based on the address on the invoice – was apparently
+located next door to Digital Junction. 111
+
+##### Foot Note 111
+
+×
+
+AB Vol 21 at pp 5611–5612 (9 October 2014), 5613–5614 (21 November 2015),
+5621–5622 (4 May 2017) and 5623–5624 (6 November 2017); compare address with
+AB Vol 21 at p 5615.
+
+Based on the Malaysian company registration documents, Fortune OA was
+registered on 6 April 2015, and the registration expired on 5 April 2018. 112
+
+##### Foot Note 112
+
+×
+
+AB Vol 9 at p 2268.
+
+Poh conceded that this meant Fortune OA was not officially registered in
+Malaysia at the time the defendant purportedly transacted with it in 2014, but
+claimed that he “didn’t take note” of this at the time. 113
+
+##### Foot Note 113
+
+×
+
+Transcript, 6 January 2021 at p 74, line 14.
+
+77 Again, I found Poh’s evidence about Digital Junction and Fortune OA to be
+entirely unbelievable, especially considering his own testimony that part of
+the defendant’s “supplier evaluations” involved “verify[ing] that the company
+is existent”. 114
+
+##### Foot Note 114
+
+×
+
+Transcript, 6 January 2021 at p 52, line 2.
+
+I did not accept that Digital Junction and Fortune OA were legitimate third-
+party suppliers from whom the defendant had purchased the machines.
+
+78 Poh was also referred to several invoices from Nagatomo Co Ltd
+(“Nagatomo”), a Japanese company, which he claimed had sold some items to
+Quest Tech International (“Quest Tech”), a Singapore company, which had in
+turn sold them to the defendant. 115
+
+##### Foot Note 115
+
+×
+
+Transcript, 6 January 2021 at p 75, lines 14–15; p 76, lines 12–15.
+
+Poh was referred to a Nagatomo invoice to Quest Tech with a printed date of 26
+November 2013 and a handwritten date of 17 December 2013 (which showed that a
+total of $16,559.30 was paid by Quest Tech to Nagatomo 116
+
+##### Foot Note 116
+
+×
+
+AB Vol 23 at p 6077.
+
+), as well as a corresponding Quest Tech invoice to the defendant dated 17
+December 2013 (which showed that a total of $16,559.30 was paid to Quest Tech
+by the latter). 117
+
+##### Foot Note 117
+
+×
+
+AB Vol 21 at p 5609.
+
+There was also another invoice from Nagatomo to Quest Tech with a printed date
+of 21 April 2014 and a handwritten date of 9 May 2014, showing that Quest Tech
+paid Nagatomo $86,475.60, 118
+
+##### Foot Note 118
+
+×
+
+AB Vol 23 at p 6078.
+
+and a corresponding invoice from Quest Tech to the defendant dated 9 May 2014,
+showing the latter had paid $86,475.60 to Quest Tech. 119
+
+##### Foot Note 119
+
+×
+
+AB Vol 21 at p 5610.
+
+It was evident from a comparison of the invoices that Quest Tech had not made
+any profit from either transaction, since PTC paid Quest Tech exactly the same
+amount as the amount paid by Quest Tech to Nagatomo.
+
+79 When asked if he agreed that Quest Tech had not made any profit at all from
+these transactions, Poh’s reply was again revealing in its evasiveness: 120
+
+##### Foot Note 120
+
+×
+
+Transcript, 6 January 2021 at p 77, lines 4–9.
+
+A: That could be the case. What I can imagine is that sometimes a customer
+made---might have made an order, but in the end decided not to carry on with
+the order. So they just decided to sell the machines.
+
+Ct: Who decides just to sell the machine? Who are you talking about?
+
+A: I don’t know.
+
+[emphasis added]
+
+It was only when Poh was pressed further in cross-examination that it emerged
+that Quest Tech was actually a company set up by his wife Png Beng Kuan
+(“Png”) and her friend, and that his wife Png had also become a director of
+the defendant on 27 April 2015. 121
+
+##### Foot Note 121
+
+×
+
+Transcript, 6 January 2021 at p 78, line 6–p 79, line 1.
+
+Astonishingly, Poh had not seen fit to disclose in his AEIC that the director
+of Quest Tech was his wife. 122
+
+##### Foot Note 122
+
+×
+
+Transcript, 6 January 2021 at p 78, line 25–p 79, line 1; Poh Supplementary
+AEIC at para 19; AB Vol 30 at pp 8097–8098.
+
+80 Poh’s belated admission in cross-examination about Quest Tech having been
+established by his wife supported the inference that Quest Tech was – as the
+plaintiffs’ counsel put it – a “puppet” for the defendant. 123
+
+##### Foot Note 123
+
+×
+
+Transcript, 6 January 2021 at p 78, lines 4–5; AB Vol 30 at pp 8097–8098.
+
+As Poh himself said (rather ironically): “If PTC were the real purchasers,
+then Nagamoto [sic] could have just directly issued invoices to PTC. Why go
+through Quest Tech?” 124
+
+##### Foot Note 124
+
+×
+
+Transcript, 6 January 2021 at p 79, lines 10–11.
+
+Plainly, the defendant went through Quest Tech to obfuscate its shady dealings
+in respect of the Offending Machines. As with Digital Junction and Fortune OA,
+therefore, I rejected the defendant’s assertion that Quest Tech was a
+legitimate third-party supplier.
+
+(3) Whether goods had been put on the market with the plaintiffs’ consent
+
+81 Having regard to my assessment of the evidence adduced, I rejected the
+defendant’s assertion that Offending Machines 1, 2 and 3 had been put on the
+market under the “ApeosPort” mark with the express or implied consent of the
+plaintiffs (s 29(1) of the Trade Marks Act).
+
+82 First, for the reasons set out in [71] to [80] above, I did not believe
+that the defendant’s alleged suppliers even existed at the time the defendant
+purportedly transacted with them. If they were not in existence, then they
+could not have been the “independent third parties” who “acquired the right of
+disposal” of the relevant Offending Machines (Samsonite at [100]). I also did
+not accept that the defendant’s purported suppliers had done any acts to allow
+the plaintiffs to realise the commercial or economic value of the machines. It
+was not shown, for instance, that the plaintiffs had sold Offending Machines
+1, 2 and 3 to these alleged suppliers for a profit (Samsonite at [104]).
+
+83 Second, the plaintiffs clearly did not consent to Offending Machines 1, 2
+and 3 being diverted to the defendant (Samsonite at [142]). In this regard,
+the restrictions imposed by the plaintiffs were highly relevant to determining
+the relevant market, and the question of consent (express or implied) must be
+related to the market (Samsonite at [146]). In the present case, the
+plaintiffs’ account was that Offending Machines 1, 2 and 3 were originally
+sold or leased in Japan; none of them were authorised for sale in Singapore
+(see [14] above). 125
+
+##### Foot Note 125
+
+×
+
+AB Vol 6 at p 1356; Yasuda AEIC at para 49.
+
+Ms Yasuda similarly testified that sales offices and authorised dealers of
+Fuji Xerox Equipment were not permitted to sell their machines beyond their
+own countries. 126
+
+##### Foot Note 126
+
+×
+
+Transcript, 5 January 2021 at p 9, lines 24–25.
+
+Ms Batchelor also testified: 127
+
+##### Foot Note 127
+
+×
+
+Transcript, 15 July 2020 at p 11, line 27–p 12, line 2.
+
+… So majority of our machines, once when the customer returns or if we upgrade
+to a higher machine, the machines are taken back and disposed of. But for
+certain---if there is a requirement for these machines to be refurbished, we
+have a very high, stringent standard and quality to meet to refurbish the
+machines that we think can be or would be refurbished. But our policy mer---is
+to actually dispose the machines.
+
+[emphasis added]
+
+Based on the restrictions imposed by the plaintiffs, I found that the putting
+of the goods on the market did not occur when the plaintiffs supplied
+Offending Machines 1, 2 and 3 to their authorised dealers in Japan: the
+plaintiffs could, and did, legitimately impose restrictions on its Japanese
+dealers as to how the machines were to be distributed (Samsonite at [146]).
+Nor could it be said that the machines were put on the market when they came
+into the hands of the defendant’s alleged suppliers, since (as I have said
+earlier) there was no evidence that these alleged suppliers were legitimate
+independent third parties who had acquired the right of disposal of the goods,
+nor evidence that profits from these transactions were passed on to the
+plaintiffs as the proprietor of the “ApeosPort” mark (Samsonite at [104]).
+
+84 In the circumstances, I found that the defendant could not rely on the
+defence of parallel imports under s 29(1) of the Trade Marks Act in relation
+to Offending Machines 1, 2 and 3.
+
+Section 29(2) of the Trade Marks Act
+
+85 Further, even if Offending Machines 1, 2 and 3 had been put on the market,
+I accepted the plaintiffs’ evidence about the changes made to the Offending
+Machines; and I was satisfied that the proviso in s 29(2) would apply so as to
+preclude the defendant from relying on s 29(1) of the Trade Marks Act in
+relation to Offending Machines 1, 2 and 3. I accepted that the condition of
+these machines had been changed after they had been put on the market, and the
+use of the “ApeosPort” mark in relation to those goods had caused dilution in
+an unfair manner of the distinctive character of the registered “ApeosPort”
+mark.
+
+(1) The condition of Offending Machines 1, 2 and 3 had been changed
+
+86 First, as noted earlier, the defendant did not dispute that the original
+Japanese-language front operation panel and precautions label had been removed
+and replaced with a non-original English-language panel and label, that rear
+data plates bearing, inter alia, the original serial number had been removed,
+and that a step-down transformer had been incorporated. The defendant sought
+to argue, however, that there was no clear evidence that the firmware, print-
+speed configuration, and rights managements information had been altered. 128
+
+##### Foot Note 128
+
+×
+
+DCS at paras 60–61.
+
+87 In this regard, the defendant submitted that the plaintiffs’ investigative
+methods were unreliable. The plaintiffs had ascertained the original
+information of Offending Machines 1 and 2 with reference to the barcodes found
+on the fuser assembly, while for Offending Machine 3, this was ascertained
+with reference to the barcodes on the power supply board assembly. 129
+
+##### Foot Note 129
+
+×
+
+AB Vol 6 at pp 1363, 1372 and 1384; Yasuda AEIC at paras 58, 73, 89 (for
+Offending Machines 1, 2 and 3), 107, 119 and 133 (for Offending Machines 4, 5
+and 6); Transcript, 5 January 2021 at p 21, lines 15–18.
+
+In gist, the defendant argued that the plaintiffs had incorrectly determined
+the original conditions of these machines by deriving the serial number from
+replaceable and interchangeable parts of the Offending Machines: it was
+possible (or so the defendant claimed) that these were not original parts but
+came from other machines. 130
+
+##### Foot Note 130
+
+×
+
+DCS at paras 66–67.
+
+88 In respect of Offending Machine 1, the defendant’s counsel suggested during
+the trial that the “fuser assembly” or “heater unit” from another machine (the
+“Saitama Machine”) had been placed into Offending Machine 1, and that the
+Saitama Machine had been destroyed. 131
+
+##### Foot Note 131
+
+×
+
+Transcript, 5 January 2021 at p 27, lines 9–25; DCS at paras 186 and 188.
+
+Counsel also suggested that since Ms Yasuda had not requested for the
+scrapping records of the Saitama Machine, and there was no report of any
+thefts, the Saitama Machine must have been decommissioned and destroyed. 132
+
+##### Foot Note 132
+
+×
+
+Transcript, 5 January 2021 at p 25, line 11–p 26, line 10.
+
+I did not see any evidential basis for this suggestion. While the defendant
+argued that it was “possible” that the fuser assembly on the Saitama Machine
+had been removed and attached to Offending Machine 1, 133
+
+##### Foot Note 133
+
+×
+
+DCS at paras 67 and 188–189.
+
+this was mere speculation on its part. Further, Ms Yasuda testified that Fuji
+Xerox and its dealers would use “brand new” parts for any replacement, 134
+
+##### Foot Note 134
+
+×
+
+Transcript, 5 January 2021 at p 19, lines 22–32.
+
+and that while it was physically possible to swap the fuser assemblies of two
+identical machines, this was not a practice that was recognised. 135
+
+##### Foot Note 135
+
+×
+
+Transcript, 4 January 2021 at p 22, lines 7–15.
+
+I found that the findings in the September 2018 Report in respect of Offending
+Machine 1 were reliable: ie, the product name for Offending Machine 1 had in
+fact been changed from AP4C2270 to AP4C3370, the product code had been changed
+from NC100342 to NC500341, and the serial number had been changed from 788168
+to 855300. 136
+
+##### Foot Note 136
+
+×
+
+AB Vol 6 at p 1356.
+
+89 As for Offending Machine 2, the defendant’s counsel suggested that the
+“heater unit” in the machine, also known as the fuser assembly unit, had in
+fact been changed by the defendant. He referred to a service history report
+dated 4 April 2018 that stated “REPLACED HEATER UNIT”. 137
+
+##### Foot Note 137
+
+×
+
+AB Vol 10 at p 2469.
+
+However, as Ms Yasuda pointed out, there was no indication whether the “HEATER
+UNIT” mentioned in the report was in fact the fuser assembly which the
+plaintiffs referred to in deriving the machine’s original information. 138
+
+##### Foot Note 138
+
+×
+
+Transcript, 5 January 2021 at p 42, lines 17–30.
+
+The technician who was said to have replaced this heater unit was not called
+as a witness by the defendant. 139
+
+##### Foot Note 139
+
+×
+
+Transcript, 7 January 2021 at p 59, lines 28–30.
+
+As Poh himself acknowledged, “many components [in the Fuji Xerox Equipment]
+are related to heaters”. 140
+
+##### Foot Note 140
+
+×
+
+Transcript, 7 January 2021 at p 60, lines 1–14.
+
+Lastly, as the plaintiffs pointed out, this was also an admission by the
+defendant that it had indeed changed components in Offending Machine 2. 141
+
+##### Foot Note 141
+
+×
+
+Plaintiff’s Reply Submissions dated 26 March 2021 (“PRS”) at para 37.
+
+In the circumstances, I accepted the plaintiffs’ findings in the September
+2018 Report that the product name had indeed been changed from DC4C4475 to
+AP4C4475 (ie it was changed from a DocuCentre machine to an ApeosPort
+machine), and the serial number had been changed from 310612 to 302040. 142
+
+##### Foot Note 142
+
+×
+
+AB Vol 6 at p 1356.
+
+90 Finally, for Offending Machine 3, the defendant conceded that referring to
+the barcodes on the Power Supply Board Assembly was a reliable method of
+investigation, as this was a part that was not easily interchangeable or
+subject to common wear-and-tear. 143
+
+##### Foot Note 143
+
+×
+
+DCS at para 180.
+
+In the defendant’s configuration report dated 16 May 2016, the defendant
+recorded that the machine model was ApeosPort-IV C5575, the serial number was
+607738, the product code was NC100426, and the Controller ROM was “Ver
+1.31.14”. 144
+
+##### Foot Note 144
+
+×
+
+AB Vol 10 at p 2440.
+
+In the plaintiffs’ September 2018 Report, they recorded the machine model as
+ApeosPort-IV C5575, the serial number as 629586 and the product code as
+NC100411. 145
+
+##### Foot Note 145
+
+×
+
+AB Vol 6 at p 1382.
+
+According to Ms Yasuda, by the time the 1st plaintiff acquired Offending
+Machine 3 from GMC around 12 December 2017, the serial number had reverted to
+the original, genuine serial number of 629586: this “could probably be due to
+the software having been reset. 146
+
+##### Foot Note 146
+
+×
+
+Yasuda AEIC at para 190.
+
+Her evidence was that the software version “Ver 1.31.14” as stated in the
+defendant’s configuration report from 16 May 2016 did not exist at the time:
+this software version was only released in August 2016. As such, the machine
+must have been tampered with. 147
+
+##### Foot Note 147
+
+×
+
+Transcript, 5 January 2021, at p 61, lines 23–32; Plaintiffs’ Further
+Submissions dated 12 May 2021 (“PFS”) at p 15, para 36(c)(iii).
+
+Based on Ms Yasuda’s evidence, which I found credible, I accepted that the
+serial number of the machine had been changed, that the Controller ROM
+software version “Ver 1.31.14” reflected in the defendant’s configuration
+report from May 2016 did not in fact exist at that time, and that the software
+must therefore have been modified.
+
+(2) Dilution in an unfair manner
+
+91 Lastly, I found that the use of the “ApeosPort” mark on Offending Machines
+1 to 3 had caused dilution in an unfair manner of the distinctive character of
+the “ApeosPort” mark.
+
+92 “Dilution” refers to the lessening of the capacity of the trade mark to
+identify and distinguish goods or services, regardless of whether there is any
+competition between the plaintiffs and defendant or any likelihood of
+confusion on the part of the public (s 2(1) of the Trade Marks Act). In this
+regard, the CA in Sarika has said that the essence of dilution is “the
+weakening of the mark’s ability to identify goods” (at [96]), and that it is
+sufficient to show a real or serious probability of damage to the mark’s
+advertising quality or symbolic function to establish a dilution claim (at
+[94]).
+
+93 I found that dilution by blurring was made out on the facts, as the
+relevant public would make a connection or establish a “link” between the
+defendant’s use of the “ApeosPort” mark and the plaintiffs’ “ApeosPort” mark
+(Sarika at [99]–[100]). In fact, the defendant’s own submissions stated that
+the public would have “no difficulty” associating the machines sold by the
+defendant with the plaintiffs. 148
+
+##### Foot Note 148
+
+×
+
+DCS at para 83.
+
+First, given the invented nature of the word “ApeosPort” and its distinctive
+quality, it would be easier to establish such a link. Second, there was
+reproduction to a substantial extent of the word “ApeosPort” in the
+defendant’s use of the mark – either in whole (“ApeosPort”) or with minimal
+variation (“Apeosport”/“ApoesPort”). Lastly, as the defendant’s Offending
+Machines 1, 2 and 3 were similar to the plaintiffs’ original machines, it was
+extremely likely that consumers would draw a “mental link” between the
+defendant’s use of the sign and the plaintiffs’ “ApeosPort” mark.
+
+94 In summary, the plaintiffs were successful in making out their claim of
+trade mark infringement vis-à-vis the “ApeosPort” registration.
+
+Passing off
+
+ApeosPort mark
+
+95 I next address the plaintiffs’ claim of passing-off vis-à-vis the
+“ApeosPort” mark, in relation to Offending Machines 1, 2 and 3. To succeed in
+its claim of passing-off, the plaintiffs must prove the classic trinity of
+goodwill, misrepresentation and damage (per the CA in AMC Live at [80]).
+
+Goodwill
+
+96 On the element of goodwill, “[t]he court’s concern is whether there exists
+any attractive force in the plaintiff’s business that brings in custom”; and
+at this stage of the inquiry, the court does not inquire whether the
+plaintiff’s goodwill is associated with a name or mark (AMC Live at
+[81]–[82]). As the CA observed in AMC (at [83]), “if the inquiry as to whether
+the plaintiff’s goodwill is associated with a name or mark is analysed at the
+goodwill stage, there is a risk of conflating the issue of goodwill with the
+separate issue of whether there has been misrepresentation and consequently,
+damage to the goodwill of the plaintiff’s business”.
+
+97 In the present case, the defendant did not mount any challenge to the
+plaintiffs’ assertion of the existence of goodwill. In any event, there was
+more than enough evidence to establish such goodwill: see eg the plaintiffs’
+evidence of the sales revenue 149
+
+##### Foot Note 149
+
+×
+
+SOC at para 15(b); AEIC of Sim Seok Seah dated 22 June 2020 (“Sim AEIC”) at
+paras 7–8; AB Vol 9 at pp 2345–2359.
+
+and marketing expenditure for Fuji Xerox Equipment in Singapore between 2010
+and 2017. 150
+
+##### Foot Note 150
+
+×
+
+SOC at para 15(c); Sim AEIC at para 26.
+
+98 Goodwill can be limited to particular sections of the public: per the CA in
+Novelty Pte Ltd v Amanresorts Ltd and another [2009] 3 SLR(R) 216
+(“Amanresorts (CA)”) at [44]. In the present case, I did not understand the
+plaintiffs to be claiming goodwill vis-à-vis the public at large in Singapore:
+rather, the relevant sector of the public in Singapore would be actual and
+potential customers of the plaintiffs’ machines, who would primarily come from
+businesses and commercial entities that had need of office equipment such as
+printers, facsimile machines and other such goods – businesses much like GMC,
+Raymond Ng & Associates, and the other companies which featured in the
+plaintiffs’ investigations.
+
+Misrepresentation
+
+99 As to the element of misrepresentation, this would be established by proof
+that the defendant’s machines were held out to be, or to be connected with,
+those of the plaintiff’s business (AMC Live at [86]). The primary question was
+whether the defendant’s use of the “ApeosPort” mark would lead the relevant
+segment of the public to believe that the machines supplied by the defendant
+were actually machines supplied by the plaintiffs (or machines supplied with
+the plaintiffs’ authorisation and consent), or that the defendant was
+economically related to the plaintiffs.
+
+100 The defendant argued that it had never advertised or informed customers
+that it was an authorised reseller of the plaintiffs’ or that it was connected
+to the plaintiffs. 151
+
+##### Foot Note 151
+
+×
+
+DCS at para 113.
+
+Its company name (PTC) and contact details could be found on its machines and
+its tax invoices. This indicated that the defendant was the party supplying
+the machines. Conversely, there was nothing to indicate that it was acting on
+behalf of the plaintiffs. 152
+
+##### Foot Note 152
+
+×
+
+DCS at paras 117–118.
+
+101 The plaintiffs submitted, however, that the defendant used business
+identifiers that were identical to the inherently distinctive badges of origin
+belonging to the plaintiffs, and that there was accordingly a likelihood of
+confusion. 153
+
+##### Foot Note 153
+
+×
+
+PCS at paras 109–110.
+
+102 Having regard to the evidence before me, I also found the element of
+misrepresentation to be proven. In this connection, “the court must, at a
+threshold level, consider whether the [plaintiffs’] goodwill is sufficiently
+associated with its name or the marks that it uses” (AMC Live at [87]). The
+defendant in this case did not seriously dispute that the plaintiffs’ goodwill
+was sufficiently associated with its “ApeosPort” mark. Indeed, Poh agreed in
+cross-examination that the plaintiffs have goodwill in Singapore in the
+“ApeosPort” mark 154
+
+##### Foot Note 154
+
+×
+
+Transcript, 7 January 2021 at p 64, lines 12–15.
+
+; and there was in any event ample evidence of the plaintiffs’ sales revenue
+from their “ApeosPort” machines in Singapore between 2006 and 2017. 155
+
+##### Foot Note 155
+
+×
+
+SOC at para 15(b); PCS at para 46; AB Vol 9 at pp 2345–2348.
+
+103 Next, the alleged misrepresentation “must be analysed from the perspective
+of those who have goodwill in the plaintiff’s get-up” (City Chain at [73]);
+and it must be asked whether those people in Singapore with goodwill towards
+the plaintiffs’ machines believed that the defendant’s machines were those
+manufactured, imported, distributed, sold, leased, serviced or marketed by the
+plaintiffs, and/or were connected to or associated with the plaintiffs. As I
+noted earlier (at [98]), the specific section of the public which had goodwill
+towards the “ApeosPort” mark would be potential and actual customers – ie
+businesses and commercial entities – who required the photocopiers, printers
+and other machines for their office use. The misrepresentations must be
+analysed from their perspective. Based on the evidence adduced, I was
+satisfied that there was misrepresentation to the relevant section of the
+public.
+
+104 Inter alia and in particular, as I noted earlier, the screenshots of the
+defendant’s website showed that it was offering machines for sale, lease or
+rent under the name “ApeosPort”. 156
+
+##### Foot Note 156
+
+×
+
+AB Vol 5 at pp 1288–1290 (2 October 2017); AB Vol 9 at p 2273 (29 July 2019).
+
+The defendant’s website also stated that its “major products supplied include
+the FUJI Xerox ApeosPort series”. 157
+
+##### Foot Note 157
+
+×
+
+AB Vol 9 at p 2271.
+
+It is trite that a misrepresentation is actionable under the law of passing
+off only if it gives rise to confusion: Amanresorts (CA) at [77]. While there
+was no evidence that persons in Singapore with goodwill towards the
+plaintiffs’ machines were confused in actual fact by the defendant’s use of
+the “ApeosPort” mark on its machines, the lack of such evidence was not fatal
+to the plaintiffs’ claim. Instead, “the court is entitled to consider whether
+the average reasonable person, with characteristics reflective of the relevant
+section of the public as identified under the examination of goodwill, is
+likely to be confused by the [defendant’s] misrepresentation” (City Chain at
+[79]). Given that the sign used by the defendant was identical to the
+plaintiffs’ mark, and the fact that the plaintiffs and defendant were in the
+same business of selling photocopiers (Amanresorts (CA) at [82] and [84]), I
+found that the average reasonable person would likely be confused, as he or
+she would form the impression that the defendant was offering machines
+supplied by the plaintiffs or was related to the plaintiffs’ business.
+
+Damage
+
+105 As to the element of damage, the test for damage in passing off cases is
+either actual or probable damage to the plaintiff’s goodwill (Amanresorts (CA)
+at [94]).
+
+106 The plaintiffs submitted that they had been damaged by both “blurring” and
+“tarnishment”. “Blurring” would mean that the plaintiffs’ get-up had become
+indicative of the defendant’s goods or services, resulting in a diversion of
+sales from the plaintiffs to the defendant: this could be inferred if the
+parties were in direct competition. “Tarnishment” would mean that the
+defendant’s goods and services were of a worse quality than the plaintiff’s,
+and customers would think the plaintiff was the source of those poor quality
+goods: this too could be inferred if the defendant sold heavily modified,
+refurbished, old and obsolete machines more prone to wear and tear
+(Amanresorts (CA) at [97]–[98]). 158
+
+##### Foot Note 158
+
+×
+
+PCS at paras 155 and 157.
+
+107 The defendant claimed that its practice was to “check the photocopiers for
+functionality and errors for used machines”: if the machines were beyond
+repair, it would scrap the machine and salvage the spare parts. According to
+the defendant, there was no evidence that Offending Machines 1, 2 and 3 were
+more prone to wear and tear. 159
+
+##### Foot Note 159
+
+×
+
+DCS at paras 89–90.
+
+The get-up remained indicative of the plaintiffs’ goods, and not that of the
+defendant’s, so there was no damage by blurring. 160
+
+##### Foot Note 160
+
+×
+
+DCS at para 124.
+
+108 On the basis of the evidence adduced, I found that the element of damage
+too was made out.
+
+109 A likelihood of blurring is readily inferred where parties are in direct
+competition with each other: Allergan, Inc and another v Ferlandz Nutra Pte
+Ltd [2016] 4 SLR 919 at [210]. In this regard, Poh admitted that the defendant
+was a direct competitor of the plaintiffs. 161
+
+##### Foot Note 161
+
+×
+
+Transcript, 7 January 2021 at p 54, lines 1–4.
+
+In the circumstances, I accepted that there had been dilution by “blurring”.
+Poh also testified that the defendant dealt with “second-hand machines” which
+had been used for three to five years and which were then refurbished by the
+defendant. 162
+
+##### Foot Note 162
+
+×
+
+Transcript, 6 January 2021 at p 55, lines 20–23.
+
+He admitted that old used machines would generally be more prone to wear and
+tear, technical faults and errors than new machines. 163
+
+##### Foot Note 163
+
+×
+
+Transcript, 7 January 2021 at p 40, lines 19–22.
+
+He further admitted that the defendant would repair these second-hand machines
+using spare parts from other used machines – and it would not tell its
+customers that it had done so. 164
+
+##### Foot Note 164
+
+×
+
+Transcript, 7 January 2021 at p 39, line 24–p 40 line 12.
+
+Given these facts, it could be inferred that the machines sold by the
+defendant were of lower quality than the plaintiffs’ original machines, since,
+on Poh’s own admission, they were more prone to breaking down. Moreover, due
+to the defendant’s use of the “ApeosPort” mark, buyers of those machines would
+think the plaintiffs were the source of those low-quality goods. In the
+circumstances, I also found for the plaintiffs on their claim of tarnishment.
+
+Parallel imports
+
+110 In arriving at these conclusions, I considered the defendant’s attempt to
+rely on the defence of parallel imports in relation to the plaintiffs’ passing
+off claims for the “ApeosPort” mark. 165
+
+##### Foot Note 165
+
+×
+
+Defence at para 19.
+
+The parallel importation of genuine goods does not constitute passing off: Sin
+Heak Hin Pte Ltd and another v Yuasa Battery Singapore Co Pte Ltd [1995] 3
+SLR(R) 123 at [82].
+
+111 For reasons similar to those I alluded to earlier in dealing with the
+defendant’s reliance on s 29(1) of the Trade Marks Act (see [70] to [94]
+above), I found that there was no basis for the defendant’s reliance on the
+defence of parallel imports. I was satisfied, therefore, that the plaintiffs
+had made out their claim of passing-off vis-à-vis the “ApeosPort” mark.
+
+DocuCentre mark and Fuji Xerox mark
+
+112 For similar reasons, I also found that the plaintiffs had made out their
+claims of passing-off vis-à-vis the “DocuCentre” and “Fuji Xerox” marks.
+
+Goodwill
+
+113 On the element of goodwill, the defendant argued that the plaintiffs did
+not own the goodwill in the “DocuCentre” or “Fuji Xerox” mark. 166
+
+##### Foot Note 166
+
+×
+
+DCS at paras 128 and 136.
+
+114 As I noted earlier, at the goodwill stage of the inquiry, the court does
+not inquire whether the plaintiff’s goodwill is associated with a name or mark
+(AMC Live at [81]–[83]). The question the court asks itself at this stage of
+the inquiry is whether there exists any attractive force in the plaintiff’s
+business that brings in custom; and in this connection, there was considerable
+evidence to establish “attractive force in the [plaintiffs’] business that
+brings in custom”: see eg the plaintiffs’ evidence of the sales revenue and
+marketing expenditure for Fuji Xerox Equipment in Singapore between 2010 and
+2017. 167
+
+##### Foot Note 167
+
+×
+
+SOC at para 15; AB Vol 9 at pp 2345–2359; Sim AEIC at paras 7–8 and 26.
+
+Misrepresentation and damage
+
+115 The element of misrepresentation is shown by proof that the defendant’s
+goods or services were held out to be, or to be connected with, those of the
+plaintiff’s business. The primary question then is whether the defendant’s use
+of the “DocuCentre” and “Fuji Xerox” marks would lead the relevant segment of
+the public to believe that the machines provided by the defendant were
+actually machines provided by the plaintiffs or that the defendant was
+economically related to the plaintiffs (AMC Live at [86]). In connection with
+this, the court must, at a threshold level, consider whether the plaintiffs’
+goodwill is sufficiently associated with the “DocuCentre” and “Fuji Xerox”
+marks that they use, or, framed in another way, whether these marks are
+distinctive of the plaintiffs’ machines (AMC Live at [87]).
+
+116 The defendant argued that the plaintiffs could not claim any goodwill
+associated with the “DocuCentre” and “Fuji Xerox” marks because both these
+marks are owned by Xerox Corporation and the plaintiffs pay royalties to Xerox
+Corporation for the trade mark use. According to the defendant, the plaintiffs
+had stated there was a licence agreement between Xerox Corporation and the 3rd
+plaintiff, although they had not adduced evidence of this; 168
+
+##### Foot Note 168
+
+×
+
+DCS at paras 130, 132 and 137.
+
+and the “default position” in the case of a licensor-licensee relationship is
+that the licensor – in this case, Xerox Corporation – is the owner of the
+goodwill (Harvard Club of Singapore v President and Fellows of Harvard College
+[2020] 4 SLR 1378 (“Harvard Club”) at [88]). 169
+
+##### Foot Note 169
+
+×
+
+DCS at para 131.
+
+Ms Batchelor had also agreed that Xerox Corporation owned the goodwill. 170
+
+##### Foot Note 170
+
+×
+
+Transcript, 14 July 2020 at p 18, lines 11–13.
+
+117 In response, the plaintiffs submitted – citing Han’s (F&B) Pte Ltd v
+Gusttimo World Pte Ltd [2015] 2 SLR 825 (“Han’s”) – that Xerox Corporation and
+the plaintiffs were part of the same group of companies, and the goodwill in
+the “DocuCentre” and “Fuji Xerox” marks was associated with the business of
+the group. 171
+
+##### Foot Note 171
+
+×
+
+PRS at paras 48 and 51–52.
+
+118 In Han’s, the issue was whether the plaintiff – the parent company of the
+subsidiary that operated the Han’s restaurant and the registered owner of the
+Han’s trade mark – owned the goodwill in the Han’s mark when the plaintiff had
+not itself operated the business of the Han’s restaurant (at [187]). The
+defendant in Han’s argued that since goodwill was not in the Han’s trade mark,
+logo or get-up but in the carrying on of business, and since the plaintiff (an
+investment holding company) had never carried on the business of the Han’s
+restaurants, the plaintiff could have no goodwill to speak of. The High Court
+rejected the defendant’s arguments. The court found that the plaintiff owned
+the goodwill jointly and severally with the subsidiary, because the Han’s mark
+was used by the subsidiary for the benefit of the Han’s group which was headed
+by and under the control of the plaintiff; the goodwill in the mark was
+connected to the Han’s group, and in any event was enjoyed by both the
+plaintiff and the subsidiary (at [190], [194]).
+
+119 It should be noted that in Harvard Club, the High Court expressly
+cautioned that “in a case where there is no express contract or agreement as
+to the ownership of the goodwill, it is especially important that one does not
+end the inquiry by employing a “default position” analysis. Rather, one must
+have regard to the full factual matrix of a case to determine ownership in an
+implied licence situation” (Harvard Club at [90]). In QB Net Co Ltd v Earnson
+Management (S) Pte Ltd and others [2007] 1 SLR(R) 1 (“QB Net”, cited by the
+court in Harvard Club), the High Court observed obiter that goodwill could be
+jointly owned by the foreign licensor and the domestic licensee (QB Net at
+[30]), even though there were two licence agreements between them which gave
+the licensee the right to open 10-minute haircut salons under the trade names
+“QB House” and “QB Shell”, and to adopt the foreign licensor’s QB house
+system, get-up, and house marks (QB Net at [4], [6]). The High Court in QB Net
+found that the licensee had contributed significantly to publicity efforts in
+Singapore and also substantially modified the licensor’s instruction manuals
+to make them suitable for use here (QB Net at [37]–[39]). In contrast, in
+Harvard Club the court found that ownership of the goodwill resided in the
+University as the evidence showed that the success and continuing operation of
+the Club would not have been possible without the help and support of the
+University; and also because events post the University’s revocation of the
+Club’s status as the official Harvard Club showed that the attractive force in
+the activities and function of the Club was actually rooted in the connection
+to the University (Harvard Club at [93]–[96]).
+
+120 In the present case, bearing in mind the court’s injunction in Harvard
+Club to have regard to the full factual matrix of the case, I accepted the
+plaintiffs’ submission that they and Xerox Corporation were clearly part of
+the same group of companies engaged in the same areas of business. As noted
+earlier (at [6]), the 1st plaintiff is a wholly-owned subsidiary of the 3rd
+plaintiff which in turn is a joint venture between Xerox Corporation and
+Fujifilm Holdings in Japan (with the latter buying over Xerox Corporation’s
+shares in the 3rd plaintiff in 2019). I also accepted the plaintiffs’
+submission that the goodwill in the “DocuCentre” and “Fuji Xerox” marks was
+(as in Han’s), associated with the business of both the plaintiffs and Xerox
+Corporation. 172
+
+##### Foot Note 172
+
+×
+
+PRS at para 51.
+
+The marks were used by the plaintiffs, with Xerox Corporation’s consent, for
+the benefit of the plaintiffs themselves and Xerox Corporation – ie in similar
+fashion to the subsidiary in Han’s which used the Han’s trade marks, with the
+parent company’s consent, for the benefit of the Han’s group (Han’s at [188],
+[190]). In short, I was satisfied that the goodwill in the “DocuCentre” and
+“Fuji Xerox” marks was jointly owned by both Xerox Corporation and the
+plaintiffs.
+
+121 In this case, the Offending Machines were offered for sale, lease or rent
+on the defendant’s website under the names “DocuCentre” and “Fuji Xerox”. 173
+
+##### Foot Note 173
+
+×
+
+AB Vol 5 at pp 1288–1290; AB Vol 9 at pp 2270–2275, 2284–2285, 2287–2290.
+
+The defendant’s website stated that the defendant’s “major products supplied
+include the FUJI Xerox … DocuCentre series”. 174
+
+##### Foot Note 174
+
+×
+
+AB Vol 9 at p 2271.
+
+It had also used the “DocuCentre” mark and “Fuji Xerox” mark in its brochures
+and pamphlets. 175
+
+##### Foot Note 175
+
+×
+
+AB Vol 9 at pp 2207–2247; Transcript, 7 January 2021 at p 63, lines 14–16.
+
+Given the identity between the defendant’s signs and the plaintiffs’ marks,
+and the fact that they were in the same business of selling photocopies and
+other office machines, I found that the average reasonable person with
+characteristics reflective of the relevant segment of the public (as earlier
+identified under the examination of goodwill, at [98]), was likely to be
+confused by the defendant’s misrepresentation.
+
+122 Adopting the reasoning set out earlier at [104]–[109], I found the
+elements of misrepresentation and damage to be made out.
+
+Parallel imports
+
+123 The defendant also pleaded that Offending Machines 4, 5 and 6, which bore
+the “DocuCentre” mark, were sold and/or imported into Singapore as parallel
+imports, and were all purchased from third party suppliers. 176
+
+##### Foot Note 176
+
+×
+
+Defence at para 27.
+
+For reasons similar to those I set out earlier (at [70]–[84]) in dealing with
+the defendant’s reliance on s 29(1) of the Trade Marks Act for Offending
+Machines 1, 2 and 3, I found no basis for the defendant’s reliance on the
+defence of parallel imports in the context of these passing-off claims.
+
+(1) Evidence on Offending Machine 4
+
+124 In respect of Offending Machine 4, the defendant’s explanation was that
+Fairmont Office Equipment (“Fairmont”), a Malaysian company, had received
+Offending Machine 4 from another Malaysian company, Kim Fook Engineering (“Kim
+Fook”); that Fairmont had made changes in machine information and print speed
+upon receipt; and that the defendant had thereafter taken delivery of a
+DocuCentre VC 3375 from Fairmont on 27 March 2014. 177
+
+##### Foot Note 177
+
+×
+
+DCS at para 210.
+
+This purchase, according to Poh, was made “through a recommendation by
+Starcopy Co. Ltd” and payment was made directly to Starcopy Co. Ltd
+(“Starcopy”). 178
+
+##### Foot Note 178
+
+×
+
+Poh AEIC at para 24, pp 314 and 316.
+
+Kim Fook was an authorised reseller of Fuji Xerox Equipment in Malaysia. 179
+
+##### Foot Note 179
+
+×
+
+AB Vol 6 at p 1397; Transcript, 17 July 2020 at p 7, line 22.
+
+125 First, I noted that according to the Malaysian company registration
+records, Fairmont was registered as a business on 24 April 2009, and its
+registration had expired on 23 April 2010. 180
+
+##### Foot Note 180
+
+×
+
+AB Vol 30 at p 8099.
+
+This meant that Fairmont was not registered as a company in Malaysia at the
+time of the purported transaction with the defendant on 27 March 2014. Poh’s
+explanation at trial – that “perhaps [Fairmont] forgot to renew after the
+registration expired” – was unbelievable, in light of what I have earlier
+found at [77] above. 181
+
+##### Foot Note 181
+
+×
+
+Transcript, 7 January 2021 at p 9, lines 9–12.
+
+126 Second, Poh failed to offer any intelligible explanation for the role of
+Kim Fook or how payment was made for Offending Machine 4.
+
+127 In his AEIC, Poh adduced an invoice dated 27 March 2014 that showed a
+total amount of RMB 44,000 due from the defendant to Starcopy (“Starcopy
+Invoice”) for a machine “DCVC3375”. 182
+
+##### Foot Note 182
+
+×
+
+Poh AEIC at pp 314 and 316.
+
+Poh also adduced a payment voucher dated 9 May 2014 ostensibly issued by the
+defendant, showing payment of RMB 44,000 had been made to Starcopy for
+“DCVC3375” (“PTC-Starcopy Payment Voucher”). 183
+
+##### Foot Note 183
+
+×
+
+Poh AEIC at p 318.
+
+In his supplementary AEIC, Poh adduced a delivery order issued by Fairmont to
+the defendant purporting to record Fairmont’s sale and delivery of Offending
+Machine 4 to the defendant on 27 March 2014 (“Fairmont-PTC Delivery Order”).
+184
+
+##### Foot Note 184
+
+×
+
+Poh Supplementary AEIC at p 10.
+
+This document recorded that the machine “DCVC3375” had a serial number of
+611106, and indicated a “Debit” of RMB 44,000 – a handwritten note appeared to
+make reference to the Starcopy Invoice. The Fairmont-PTC Delivery Order also
+stated that Fairmont’s address was in Johor Bahru, Malaysia (the “Jalan Kempas
+Address”).
+
+128 The plaintiffs adduced a receipt from Kim Fook dated 12 February 2014,
+which recorded that Kim Fook had received MYR 21,000 from Q Tech International
+(“Q Tech”) for Q Tech’s purchase of a new machine, DC-VC2275 with a serial
+number of 312708 (“Kim Fook-Q Tech Receipt”). 185
+
+##### Foot Note 185
+
+×
+
+Plaintiff’s Bundle of Documents (Volume 1) dated 15 July 2020 (“1 PB”) at p 7.
+
+The plaintiffs also adduced an invoice dated 14 February 2014 issued by Kim
+Fook to Q Tech for the same sum of MYR 21,000, for a machine with the same
+serial number of 312708 (“Kim Fook-Q Tech Invoice”). 186
+
+##### Foot Note 186
+
+×
+
+1 PB at p 5.
+
+The Kim Fook-Q Tech invoice showed that Q Tech International had the same
+address in Singapore as Quest Tech – which was Poh’s wife’s business. 187
+
+##### Foot Note 187
+
+×
+
+See the address of Quest Tech at AB Vol 23 at p 6077; Supplementary AEIC of
+Batchelor dated 15 July 2020 (“Batchelor Supplementary AEIC”) at para 10.
+
+Lastly, the plaintiffs adduced a delivery order from Kim Fook to Q Tech (“Kim
+Fook-Q Tech Delivery Order”) dated 14 February 2014, which stated that
+delivery of this machine “DCVC2275” with serial number 312708 was to be made
+to the Jalan Kempas Address in Malaysia – which was Fairmont’s address (see
+[126] above). 188
+
+##### Foot Note 188
+
+×
+
+1 PB at p 6.
+
+129 At trial, Poh accepted that the delivery address shown in the Kim Fook-Q
+Tech Delivery Order was the same as Fairmont’s Jalan Kempas Address in the
+Fairmont-PTC Delivery Order. 189
+
+##### Foot Note 189
+
+×
+
+Transcript, 7 January 2021 at p 8, lines 5–9.
+
+Poh also conceded that the serial number of the machine had changed from
+312708 in the Kim Fook-Q Tech Delivery Order to 611106 in the Fairmont-PTC
+Delivery Order. 190
+
+##### Foot Note 190
+
+×
+
+1 PB at p 6 (serial number of 312708), compare with Poh Supplementary AEIC at
+p 10 (serial number of 611106); Transcript, 7 January 2021 at p 8, lines
+10–15.
+
+Lastly, Poh accepted that Q Tech had the same address as Quest Tech, which was
+solely owned by his wife. 191
+
+##### Foot Note 191
+
+×
+
+Transcript, 7 January 2021 at p 4, lines 1–4.
+
+As mentioned earlier at [79], Poh’s wife was also appointed a director of the
+defendant on 27 April 2015.
+
+130 The documentary evidence, and Poh’s testimony, led to the following
+findings. Around 14 February 2014, Q Tech, a Singapore company which shared
+the same address as a business solely owned by Poh’s wife, paid Kim Fook (the
+plaintiffs’ authorised reseller in Malaysia) MYR 21,000 for a machine
+“DCVC2275” with a serial number 312708, to be delivered to Fairmont in
+Malaysia at the Jalan Kempas Address. About a month later, around 27 March
+2014, Fairmont then delivered a machine “DCVC3375” to the defendant with a
+serial number of 611106. Starcopy received payment of RMB 44,000 for arranging
+this transaction between Fairmont and the defendant around 9 May 2014, some
+two months after the delivery – despite the Starcopy Invoice stating that
+payment was to be made “in Advance”, with “Cash before delivery”.
+
+131 These findings raised a host of questions. Why did Q Tech – allegedly a
+different business from the Quest Tech company owned by Poh’s wife – share the
+same address as Quest Tech? Why would Q Tech deliver a machine to Fairmont if
+Fairmont was not even a registered company at the time? Did Fairmont pay Q
+Tech for the delivery, and if so, how much? Why did the defendant pay Starcopy
+rather than paying Fairmont directly? Why did Starcopy apparently allow
+payment to be made two months after delivery?
+
+132 Poh’s evidence in response to these questions came across as contrived and
+– again – frankly unbelievable.
+
+133 First, in his supplementary AEIC, Poh claimed that the defendant was not
+aware of Q Tech (even though it shared the same address as his wife’s company
+Quest Tech and had a highly similar name to Quest Tech). Poh pronounced
+himself surprised by the plaintiffs’ claim that Offending Machine 4 had been
+sold to Q Tech. 192
+
+##### Foot Note 192
+
+×
+
+Poh Supplementary AEIC at para 7.
+
+According to Poh, “there is no existence of this company called Q Tech”. 193
+
+##### Foot Note 193
+
+×
+
+Transcript, 7 January 2021 at p 79, lines 9–10.
+
+He also claimed that Kim Fook’s boss (“Chin”) had told him that Kim Fook had
+never sold any machine to Q Tech, and that the manager “might have made a
+mistake in this document”. 194
+
+##### Foot Note 194
+
+×
+
+Transcript, 7 January 2021 at p 5, lines 1–9.
+
+Having given this testimony, however, Poh then went further to allege that the
+Kim Fook-Q Tech Delivery Order, Kim Fook-Q Tech Receipt and Kim Fook-Q Tech
+Invoice were not just incorrect but were fabricated. 195
+
+##### Foot Note 195
+
+×
+
+Transcript, 7 January 2021 at p 11, line 27; p 78, lines 22–26; p 79, lines
+8–12.
+
+In his supplementary AEIC, he claimed that these documents departed
+significantly from Kim Fook’s own practice or from the industry practice. 196
+
+##### Foot Note 196
+
+×
+
+Poh Supplementary AEIC at paras 12, 14, 16 and 17; pp 19–20, 22, 24, 26, 28
+and 30–43.
+
+134 Despite the obviously serious nature of his allegations about fabricated
+Kim Fook documentation, Poh did not call Chin as a witness to testify to any
+of these allegations. 197
+
+##### Foot Note 197
+
+×
+
+Transcript, 7 January 2021 at p 6, lines 8–17.
+
+Instead, he adduced two letters dated 16 July 2020 in his supplementary AEIC,
+purportedly from Chin, as well as two “draft statements” of Chang Swee Keong
+(“Chang”), the alleged sales manager of Kim Fook. 198
+
+##### Foot Note 198
+
+×
+
+Poh Supplementary AEIC at paras 8 and 10.
+
+The two letters from Chin had largely the same content, save for the
+differences I have emphasised below: 199
+
+##### Foot Note 199
+
+×
+
+Poh Supplementary AEIC at pp 12–13.
+
+The first letter:
+
+… Mr. Chang [the sales manager] cannot recall if there has been mix up on the
+invoice to Singapore as we did not send/sold anything to the Singapore address
+[of Q Tech]. We are not sure if the invoice address correct or there may be an
+error or miscommunication on the address. We also did not check or verify the
+background of this company in JB. We only followed the instructions to deliver
+the copier to [the Jalan Kempas Address]. …
+
+The second letter:
+
+… Mr. Chang [the sales manager] cannot recall if there has been mix up on the
+invoice to Singapore. The invoice (PI-14/02/14) was for our own internal
+records only. We are not sure if the invoice address correct or there may be
+an error or miscommunication on the address. We also did not check or verify
+the background of this company in JB. We only followed the instructions to
+deliver the copier to [the Jalan Kempas Address]. …
+
+[emphasis added]
+
+135 As for Chang’s “draft statements”, which were purportedly sent by email
+from Chang to Chin on 7 May 2014, 200
+
+##### Foot Note 200
+
+×
+
+Poh Supplementary AEIC at pp 15–17.
+
+the first of these “draft statements” said:
+
+Some where January this year :
+
+I can’t really recall the actual date.
+
+A Singapore lady so call Miss Koh from Q TECH INTERNATIONAL , she call me up
+to request for the Color Machine proposal,
+
+After did some enquiries ,I proposed to her the Newest Model that we have (
+The DC-VC 2275 .)
+
+February this year :
+
+She call me up again said her boss already confirmed to buy the Color Machine…
+
+Just after 2 days, she call me to install the machine in Kempas , I do asked
+for the Installation Address but she failed to reply me.
+
+She call me up again the next day … She want to collect the machine by
+themselves first and install whenever their Network Is ready. …
+
+The second “draft statement” said:
+
+…I consulted my boss , he said ,since it is a first time we deal with this
+customer we want cash before installation.
+
+They agreed and provide us the Address in JB. And mentioned that the
+installation will be somewhere in mid of Feb. 2014.
+
+Before the installation date , they came and want to pick up the copier and do
+the installation themselves. …
+
+136 Given that no one from Kim Fook (and indeed, no one besides Poh) was
+called by the defendant to testify about the “fabrication” of the Kim Fook
+documents and/or supposed errors in them, Kim Fook’s practices and/or
+“industry practice”, Poh’s claims about the documents amounted to nothing more
+than bare – and plainly self-serving – assertions. Further, even if one could
+accept the authenticity of Chin’s purported letters and Chan’s purported
+“draft statements” (and the defendant offered no objective evidence to
+establish their authenticity), these documents actually contradicted each
+other. Chin’s first letter stated that Kim Fook had not sold anything to “the
+Singapore address [ie Q Tech]”, but Chang’s “draft statement” identified Q
+Tech as having purchased the machine “for [a] customer in JB”. 201
+
+##### Foot Note 201
+
+×
+
+Poh Supplementary AEIC at pp 13 and 16–17.
+
+137 Second, since Poh insisted that “there is no existence of this company
+called Q Tech”, he had to explain why Kim Fook would deliver the machine to
+the Jalan Kempas Address if it had not received any payment from Q Tech. 202
+
+##### Foot Note 202
+
+×
+
+Transcript, 7 January 2021 at p 79, lines 9–10.
+
+Once again, his explanation made no sense: 203
+
+##### Foot Note 203
+
+×
+
+Transcript, 7 January 2021 at p 11, line 28–p 12 line 8.
+
+Kim Fook and Star Copy knew each other and had dealings with each other. So
+sometimes, they might give money from one person to another. Many of these
+companies do it this way.
+
+The assertion that Kim Fook and Starcopy knew each other was not in Poh’s
+AEIC: it was made for the first time in cross-examination. 204
+
+##### Foot Note 204
+
+×
+
+Transcript, 7 January 2021 at p 12, line 18.
+
+Poh also did not adduce any evidence to show that someone else besides Q Tech
+– eg Starcopy or Fairmont – had paid Kim Fook, nor did he explain why either
+Starcopy or Kim Fook would have “[done] it this way”. Lastly, I also did not
+believe Poh’s claims that Q Tech did not exist: given that it shared the same
+address as his wife’s company Quest Tech, and had a very similar name, it
+would seem reasonable to infer that Q Tech and Quest Tech were more probably
+than not one and the same company.
+
+138 Lastly, Poh claimed that it was Fairmont that had made modifications to
+Offending Machine 4. 205
+
+##### Foot Note 205
+
+×
+
+Transcript, 7 January 2021 at p 8, lines 20–23.
+
+Poh adduced a letter dated 26 June 2015, supposedly from Fairmont’s manager,
+one Shirley Koh. 206
+
+##### Foot Note 206
+
+×
+
+AB Vol 23 at p 6086.
+
+The letter stated:
+
+… This is to certify that one unit of Fuji Xerox DCVC3375 (serial number
+611106) was sold by us to a Singapore buyer. This machine was purchased in
+Malaysia through an authorised Fuji Xerox reseller channel and we got the
+machine as DCVC2275 (serial number 312708) and through our IT friend, we
+managed to upgrade the machine from Fuji Xerox DCVC2275 to Fuji Xerox DCVC3375
+… Payment was made to my friend Mr Xu (a Taiwanese) who knows the buyer and
+ordered the machine through our company.
+
+139 I was not persuaded by this letter. Apart from the fact that it was
+hearsay (since no one from Fairmont was called to attest to the authenticity
+of this letter), Fairmont was not even a registered company in Malaysia at the
+time of the alleged transaction. In any event, the defendant’s case appeared
+to be internally inconsistent: it was not explained how the defendant could on
+the one hand submit that the machine mentioned in the various Kim Fook-Q Tech
+documents (with a serial number of 312708) was not the Offending Machine 4
+(with a serial number of 611106) sold by Fairmont to the defendant, and at the
+same time rely on this letter to argue that Fairmont was responsible for the
+modifications to this machine. 207
+
+##### Foot Note 207
+
+×
+
+DCS at para 210.
+
+140 The convoluted route by which the defendant obtained Offending Machine 4 –
+and Poh’s inability to provide any coherent explanation for the various
+discrepancies – pointed to duplicity on the defendant’s part. Having regard to
+my findings on the evidence adduced, I rejected the defendant’s claim that it
+acquired Offending Machine 4 from a legitimate third-party supplier.
+
+141 In any event, to rely on the defence of parallel imports in response to a
+passing off claim, the defendant must have imported and resold genuine goods
+(see [110] above]. Offending Machine 4 was not resold as a genuine good, given
+that it had been modified. I return to this issue at [176]–[181] below.
+
+(2) Evidence on Offending Machines 5 and 6
+
+142 In his AEIC, Poh claimed that the defendant had bought Offending Machines
+5 and 6 from Shanghai Quanle Office Equipment Operations Co Ltd (“Shanghai
+Quanle”), a Chinese company. 208
+
+##### Foot Note 208
+
+×
+
+Poh AEIC at paras 28 and 30.
+
+Shanghai Quanle is an authorised reseller of the plaintiffs in China. 209
+
+##### Foot Note 209
+
+×
+
+AB Vol 8 at pp 2119–2152 (English translation); pp 2153–2170 (Chinese
+version).
+
+143 Poh produced two invoices – one dated 13 August 2014 (the “13 August 2014
+Invoice”) which showed the alleged purchase by the defendant of a “Xerox DC
+VC3375 + Duplex + Fax” for RMB 46,080, and another dated 16 September 2014
+(the “16 September 2014 Invoice”) which showed the purchase by the defendant
+of, inter alia, a “Xerox DC VC3375 + Duplex + Fax”, for a total of RMB 83,520.
+210
+
+##### Foot Note 210
+
+×
+
+Poh AEIC at pp 337 and 339.
+
+As with Offending Machine 4, Poh claimed that he had obtained clarification
+from Shanghai Quanle in June 2015 that the modifications to Offending Machines
+5 and 6 were done by the shipper when they left Shanghai. 211
+
+##### Foot Note 211
+
+×
+
+Poh AEIC at paras 32 and 34; pp 346 and 348.
+
+Poh also produced an alleged certificate of authorisation from Fuji Xerox
+(“Authorisation Certificate”). 212
+
+##### Foot Note 212
+
+×
+
+AB Vol 23 at pp 6117–6118.
+
+144 Poh’s evidence in this regard was again full of anomalies and
+discrepancies. First, the company name on the Authorisation Certificate,
+“Shanghai Quanle Office Equipment Operations Co. Ltd”, did not match any of
+the three company names stated on the 13 August 2014 Invoice and the 16
+September 2014 Invoice. Poh’s initial explanation was that the names on the
+two invoices were a “short-form”. 213
+
+##### Foot Note 213
+
+×
+
+Transcript, 7 January 2021 at p 21, lines 8–13.
+
+When probed further on how he knew this, he admitted: “I came up with that
+myself.” 214
+
+##### Foot Note 214
+
+×
+
+Transcript, 7 January 2021 at p 21, line 26.
+
+This initial explanation was then jettisoned in favour of another story – ie
+that the name “SHANGHAI QUANLE” in the invoices was the “name of the
+authorised reseller”. 215
+
+##### Foot Note 215
+
+×
+
+Transcript, 7 January 2021 at p 22, lines 6–15.
+
+From the manner in which Poh glibly shifted from one story to another, it
+appeared to me he was simply making up his answers on the fly. It should also
+be highlighted that a search of the China National Company Registration
+Database showed the company “Shanghai Xerox Office Equipment Operation Co Ltd”
+(the first company name stated in Mandarin at the top of the two invoices) did
+not even exist. 216
+
+##### Foot Note 216
+
+×
+
+AB Vol 9 at pp 2360–2361; Transcript, 7 January 2021 at p 23, lines 14–19.
+
+145 Second, Poh accepted that the description of the products sold in both the
+13 August 2014 Invoice and the 16 September 2014 Invoice did not match the
+description in the shipment proofs. 217
+
+##### Foot Note 217
+
+×
+
+AB Vol 31 at pp 8097–8098 (shipment proof dated 13 August 2014), compare with
+AB Vol 10 at pp 2391 (13 August 2014 Invoice); AB Vol 31 at pp 8099–8100
+(shipment proof dated 15 September 2014), compare with AB Vol 10 at p 2395 (16
+September 2014 Invoice); Transcript, 7 January 2021 at p 24, line 27 –p 25,
+line 31.
+
+His explanation was that the Chinese parties’ “proficiency of the English is
+limited, so when they typed it out, this is how they do it” – it did not mean
+“that the products are different”. 218
+
+##### Foot Note 218
+
+×
+
+Transcript, 7 January 2021 at p 26, lines 9–20.
+
+His evidence appeared to be pure conjecture, since the defendants failed to
+call any witnesses from the Chinese company to testify about this. 219
+
+##### Foot Note 219
+
+×
+
+Transcript, 7 January 2021 at p 27, lines 5–8.
+
+146 Third, Poh produced a letter purporting to be from Shanghai Quanle, an
+authorised reseller of the 3rd plaintiff, dated 19 June 2015. 220
+
+##### Foot Note 220
+
+×
+
+AB Vol 23 at pp 6084–6085.
+
+The letter stated:
+
+These 2 machines – DocuCentre-V C2275 CPS of serial no. 840161; 440578 – are
+confirmed to have been shipped from our company’s warehouse. Based on
+investigation of the 2 machines, they have been upgraded to DocuCentre-V C3375
+CPS by the shipper when they left Shanghai. …
+
+Quite apart from the doubtful authenticity of this letter, it did not in any
+event assist to shed light on the defendant’s case. 221
+
+##### Foot Note 221
+
+×
+
+Transcript, 7 January 2021 at p 31, lines 21–29.
+
+Oddly, in particular, the “shipper” who was said to have “upgraded” Offending
+Machines 5 and 6 “when they left Shanghai” was not even named or identified;
+nor was any explanation offered as to why the “shipper” should have taken it
+upon themselves to effect such “upgrading” when the defendant itself claimed
+not to have known of the “upgrading”, much less asked for it. Lastly, I note
+that the defendant did not pursue this point about the shipper performing the
+upgrades in its closing submissions. Instead, in its closing submissions, the
+defendant contended – rather startlingly and without any apparent evidential
+basis – that the changes in the software/firmware were made by Shanghai Quanle
+and that Shanghai Quanle had a “clear motivation to alter the Machine
+Information of [Offending] Machines 5 and 6 to avoid detection from the
+[p]laintiffs”. 222
+
+##### Foot Note 222
+
+×
+
+DCS at paras 212 and 215.
+
+147 Lastly, I note that the plaintiffs provided a copy of the distribution
+agreement between the plaintiff’s Chinese office and Shanghai Quanle dated 26
+July 2018 (the “Shanghai Quanle Agreement”). 223
+
+##### Foot Note 223
+
+×
+
+AB Vol 8 at pp 2119–2152.
+
+The Shanghai Quanle Agreement provided, inter alia, that it was “prohibited to
+make any substitution or modification to the products or packaging … provided
+by the Supplier without the prior written consent of the Supplier”. 224
+
+##### Foot Note 224
+
+×
+
+AB Vol 8 at p 2123.
+
+It also stated that “Without the consent of the Supplier, the Dealer shall not
+directly or through a third person sell the products … outside the mainland of
+China.” 225
+
+##### Foot Note 225
+
+×
+
+AB Vol 8 at p 2124.
+
+148 Although the plaintiffs originally tendered a statement from Shanghai
+Quanle dated 7 November 2019 stating “[o]ur company has not sold any modified
+equipment to PTC Business System Pte Ltd” 226
+
+##### Foot Note 226
+
+×
+
+AB Vol 8 at pp 2171–2172.
+
+, Ms Batchelor testified at trial that Shanghai Quanle had supplied Offending
+Machines 5 and 6 in breach of its distribution agreements with the plaintiffs.
+However, Shanghai Quanle was not the one who made the modifications. 227
+
+##### Foot Note 227
+
+×
+
+Transcript, 14 July 2020 at p 42, line 4–p 43 line 7 and p 45, line 12;
+Transcript, 17 July 2020 at p 41, lines 3–6.
+
+The defendant argued that this proved it must have obtained the machines from
+the same Shanghai Quanle that was the plaintiffs’ authorised reseller. 228
+
+##### Foot Note 228
+
+×
+
+DCS at para 214.
+
+In their reply submissions, the plaintiffs pointed out that this did not mean
+Shanghai Quanle had “directly sold” to the defendant: it only meant that
+Shanghai Quanle was the ultimate source upstream of the machines that ended up
+with the defendant. 229
+
+##### Foot Note 229
+
+×
+
+PRS at para 69.
+
+149 I was not persuaded by the defendant’s arguments. Even if Shanghai Quanle
+had, in breach of its agreement with the plaintiffs, resold Offending Machines
+5 and 6 directly to the defendant, this would not allow the defendant to
+invoke the defence of parallel imports in response to the passing off claim.
+This was because Offending Machines 5 and 6 had been modified and were not
+resold as genuine goods in Singapore (see [182]–[191] below).
+
+Copyright infringement
+
+150 I next address the 3rd plaintiff’s claim of copyright infringement, which
+was the subject of the further submissions I requested from parties. I
+examined the evidence adduced in the light of the parties’ closing submissions
+as well as their further submissions and further reply submissions.
+
+Primary infringement
+
+151 I deal first with the 3rd plaintiff’s claim of primary infringement of
+copyright in respect of their software/firmware. This was for infringement
+pursuant to s 26(1)(a)(v) read with s 31(1) of the Copyright Act, for making
+an unlicensed adaptation of the plaintiffs’ software/firmware. Section
+26(1)(a)(v) states:
+
+Nature of copyright in original works
+
+26.—(1) For the purposes of this Act, unless the contrary intention appears,
+copyright, in relation to a work, is the exclusive right —
+
+(a) in the case of a literary, dramatic or musical work, to do all or any of
+the following acts:
+
+…
+
+(v) to make an adaptation of the work;
+
+…
+
+152 In this connection, the plaintiffs alleged the following changes to the
+six Offending Machines: 230
+
+##### Foot Note 230
+
+×
+
+AB Vol 6 at p 1356.
+
+(a) Offending Machine 1: The product name was changed from AP4C2270 to
+AP4C3370, the product code was changed from NC100342 to NC500341, and the
+serial number was changed from 788168 to 855300. 231
+
+##### Foot Note 231
+
+×
+
+AB Vol 6 at pp 1358–1365.
+
+(b) Offending Machine 2: The product name was changed from DC4C4475 to
+AP4C4475, and the serial number was changed from 310612 to 302040. 232
+
+##### Foot Note 232
+
+×
+
+AB Vol 6 at pp 1367–1376.
+
+(c) Offending Machine 3: The serial number of this machine had been changed
+when it was in the defendant’s possession but had reverted to the original
+serial number by the time Ms Yasuda examined the machine. 233
+
+##### Foot Note 233
+
+×
+
+AB Vol 6 at pp 1377–1389; Yasuda AEIC at para 48.
+
+(d) Offending Machine 4: The product name was changed from DC5C2275 to
+DC5C3375, and the serial number was changed from 312708 to 611106. 234
+
+##### Foot Note 234
+
+×
+
+AB Vol 6 at pp 1391–1397.
+
+(e) Offending Machine 5: The product name was changed from DC5C2275 to
+DC5C3375, the product code was changed from TC100757 to TC100760, and the
+serial number was changed from 440578 to 455024. 235
+
+##### Foot Note 235
+
+×
+
+AB Vol 6 at pp 1399–1406.
+
+(f) Offending Machine 6: The product name was changed from DC5C2275-T2 to
+DC5C3375-T2, and the serial number was changed from 840161 to 455224. 236
+
+##### Foot Note 236
+
+×
+
+AB Vol 6 at pp 1408–1415.
+
+153 The plaintiffs relied on s 130 of the Copyright Act to presume subsistence
+and ownership of copyright in the software/firmware by the 3rd plaintiff. 237
+
+##### Foot Note 237
+
+×
+
+PCS at paras 169, 188.
+
+At all material times, the 3rd plaintiff had licensed to its subsidiaries,
+including the 2nd plaintiff, the intellectual property rights such as the
+copyright for software/firmware and had made it clear that the same was not
+transferred. 238
+
+##### Foot Note 238
+
+×
+
+PCS at para 189.
+
+The plaintiffs submitted that the defendant had knowledge of the
+software/firmware licence terms and had admitted that it was not licensed by
+the plaintiffs. 239
+
+##### Foot Note 239
+
+×
+
+PCS at para 229.
+
+According to the plaintiffs, it was probably the defendant who had changed the
+serial number, product code and firmware/software as the defendant had control
+over the machines. 240
+
+##### Foot Note 240
+
+×
+
+PCS at paras 469, 487 and 504.
+
+154 The defendant, on the other hand, argued that the plaintiffs had not
+established there was copyright subsisting in the software/firmware. According
+to the defendant, the plaintiff had to establish that copyright subsisted
+under Japanese law as the software/firmware was first published in Japan. 241
+
+##### Foot Note 241
+
+×
+
+DCS at paras 141 and 144.
+
+The defendant also argued that while the plaintiffs alleged numerous instances
+where the serial numbers were altered, the plaintiffs had not produced
+evidence to prove that the defendant was the party who did so. 242
+
+##### Foot Note 242
+
+×
+
+DCS at para 20(b).
+
+Further, even if the defendant had made any alleged alterations to the
+software/firmware, these alleged alterations did not amount to an adaptation
+of the copyright in the software/firmware. 243
+
+##### Foot Note 243
+
+×
+
+DCS at paras 222 and 241.
+
+Subsistence of copyright
+
+155 Having considered the evidence and parties’ submissions, I found that
+copyright did subsist in the software/firmware and that it was owned by the
+3rd plaintiff.
+
+156 First, I disagreed with the defendant’s submission that Regulation 5(b)(i)
+of the Copyright (International Protection) Regulations (Cap 63, 2009 Rev Ed)
+(“Copyright (International Protection) Regulations”) was applicable to
+ascertain whether protection under the Copyright Act should be granted to the
+software/firmware. 244
+
+##### Foot Note 244
+
+×
+
+DCS at paras 142–143.
+
+Regulation 5 refers to a “published edition of a work or works”. Copyright in
+published editions of works, under s 86 and s 91 of the Copyright Act, is
+popularly known as a publisher’s right or a copyright in the layout or typeset
+of a published work (Global Yellow Pages Ltd v Promedia Directories Pte Ltd
+and another matter [2017] 2 SLR 185 at [92]–[93]).
+
+157 Software/firmware, however, is a “literary work” (s 7A(1)(b) of the
+Copyright Act). In this regard, the Copyright Act shall apply in relation to
+the plaintiffs’ software/firmware that was first published in Japan (or
+Malaysia or China) in like manner as it would apply in relation to
+software/firmware first published in Singapore (Regulation 3(1)(a) of the
+Copyright (International Protection) Regulations). Japan, Malaysia, and China
+are all members of the World Trade Organisation and are parties to the Berne
+Convention. 245
+
+##### Foot Note 245
+
+×
+
+PCS at para 185.
+
+Thus, the software/firmware in the present case enjoyed copyright protection
+in Singapore, as if it had been published in Singapore. The plaintiffs did not
+need to establish that the software/firmware enjoyed copyright protection
+under Japanese copyright law. 246
+
+##### Foot Note 246
+
+×
+
+DCS at paras 144–145.
+
+158 It should be noted, moreover, that the plaintiffs in this case relied on s
+130 of the Copyright Act for the presumption as to subsistence and ownership
+of the copyright in the 3rd plaintiff (s 130(1)(a) of the Copyright Act). 247
+
+##### Foot Note 247
+
+×
+
+PCS at para 169.
+
+Insofar as the defendant apparently refused to admit the subsistence of
+copyright in the software/firmware or the 3rd plaintiff’s ownership of such
+copyright, there was no evidence adduced by the defendant to satisfy me that
+it was putting these matters in issue in good faith: s 130(1A) of the
+Copyright Act. The 3rd plaintiff’s Katsumi Kizaki had also filed an affidavit
+stating that the 3rd plaintiff was the owner of the software/firmware, and
+this stood as prima facie proof of the matters stated therein (s 130(1B) of
+the Copyright Act, Nanofilm Technologies International Pte Ltd v Semivac
+International Pte Ltd and others [2018] 5 SLR 956 at [57]). 248
+
+##### Foot Note 248
+
+×
+
+AEIC of Katsumi Kizaki dated 18 June 2020 at paras 14–15.
+
+The defendant did not adduce any evidence to prove the contrary.
+
+Adaptation
+
+159 In relation to computer programs, s 7(1)(c) of the Copyright Act defines
+an “adaptation” as a version of the work (whether or not it is in the
+language, code or notation in which the work was originally expressed), not
+being a reproduction of the work. Section 17 of the Copyright Act states that
+references to an adaptation of a work to a material form includes references
+to the storage of that adaptation in, inter alia, a computer or on any medium
+by electronic means.
+
+160 The plaintiffs submitted that the “adaptation” made by the defendant could
+be found, inter alia, in the following ways: the Offending Machines had object
+code embodied in the ROM where the functions they produced were identical to
+that found in original Fuji Xerox Equipment, the version numbers on some of
+the Offending Machines did not make chronological sense to the plaintiffs, the
+Offending Machines had altered or modified rights management information,
+there were Offending Machines that had been up-speeded (which could only be
+achieved by modifying the software/firmware), and there were Offending
+Machines that used to be “DocuCentre” Fuji Xerox Equipment, but later
+contained “ApeosPort” object code. 249
+
+##### Foot Note 249
+
+×
+
+Plaintiffs’ Further Submissions dated 12 May 2021 (“PFS”) at para 36.
+
+161 The defendant, for its part, argued that the plaintiffs had not provided
+any evidence of the similarities and differences between their proprietary
+source code and the allegedly infringing code, and that there was no evidence
+to support a finding that the object code in the ROM was an adaptation of the
+plaintiffs’ source code. 250
+
+##### Foot Note 250
+
+×
+
+Defendant’s Reply Submissions to the Plaintiffs’ Further Submissions dated 21
+May 2021 (“DRS 2”) at paras 5 and 7.
+
+There was also no evidence that the defendant had access to the plaintiffs’
+source code which would enable it to adapt the said code to the allegedly
+infringing object code. 251
+
+##### Foot Note 251
+
+×
+
+DRS 2 at para 8.
+
+162 Taking into consideration the available evidence, I was satisfied that the
+software/firmware came within the definition of an unlicensed adaptation. I
+was also satisfied that the original software/firmware in each Offending
+Machine had been altered. I set out below my findings in respect of the
+evidence for each machine.
+
+(1) Offending Machine 1
+
+163 According to the plaintiffs, the original product name for Offending
+Machine 1 was changed from AP4C2270 to AP4C3370, the original product code was
+changed from NC100342 to NC500341, and the original serial number was changed
+from 788168 to 855300. 252
+
+##### Foot Note 252
+
+×
+
+AB Vol 6 at p 1356.
+
+164 From the plaintiffs’ investigations, Offending Machine 1 was manufactured
+on 7 November 2010, sold by Fuji Xerox Saitama in Japan and installed on 26
+November 2010, and later removed from the client’s location on 24 June 2015.
+253
+
+##### Foot Note 253
+
+×
+
+AB Vol 6 at pp 1363–1364; Transcript, 5 January 2021 at p 21, lines 19–23.
+
+165 The defendant acquired Offending Machine 1 on 5 February 2016. 254
+
+##### Foot Note 254
+
+×
+
+AB Vol 10 at p 2403 (Fuji Xerox APIVC3370).
+
+On 15 February 2016, the defendant recorded its serial number as 884121, and
+gave it the reference number 801964. 255
+
+##### Foot Note 255
+
+×
+
+AB Vol 10 at p 2404.
+
+The defendant’s configuration report dated 15 February 2016 (with a timestamp
+of 2:27pm) showed that the Controller ROM version was “Ver 1.1.22”, the serial
+number was 884121, the product code was NC100354, and the machine model was
+ApeosPort-IV C3370. 256
+
+##### Foot Note 256
+
+×
+
+AB Vol 10 at p 2407.
+
+Offending Machine 1 was then sold by the defendant to GMC around 23 June 2016.
+257
+
+##### Foot Note 257
+
+×
+
+AB Vol 10 at pp 2454–2455; Yasuda AEIC at para 149.
+
+166 The plaintiffs acquired Offending Machine 1 from GMC on or around 12
+December 2017. 258
+
+##### Foot Note 258
+
+×
+
+Yasuda AEIC at para 154.
+
+The plaintiffs used the serial number of the fuser assembly unit to derive the
+original serial number of the machine, which was 788168. 259
+
+##### Foot Note 259
+
+×
+
+Transcript, 5 January 2021 at p 18, lines 23–27; p 19, lines 6–10; p 26, lines
+28–29.
+
+The plaintiffs’ September 2018 Report recorded the Controller ROM version as
+“Ver 1.2.4”, the serial number as 855300, the product code as NC500341 and the
+machine model as ApeosPort-IV C3370. 260
+
+##### Foot Note 260
+
+×
+
+AB Vol 6 at p 1362.
+
+Ms Yasuda’s evidence – which was not refuted – was that this installed
+software version was only released in March 2012 for the Fuji Xerox domestic
+region. 261
+
+##### Foot Note 261
+
+×
+
+Yasuda AEIC at para 57; AB Vol 6 at p 1362.
+
+167 I accepted that the version number of the software/firmware on Offending
+Machine 1 recorded by the plaintiffs in 2018 (“Ver 1.2.4”) could not have been
+present in Offending Machine 1 at the time it was manufactured in Japan in
+November 2010, since this version was only released for the Japanese market in
+March 2012. 262
+
+##### Foot Note 262
+
+×
+
+Yasuda AEIC at para 57; AB Vol 6 at p 1362.
+
+This meant that the software/firmware must have been modified from the
+original version at the time of manufacture. I also accepted that based on the
+September 2018 Report, the product name, product code and serial number of
+Offending Machine 1 had been changed from the original machine information.
+
+(2) Offending Machine 2
+
+168 For Offending Machine 2, the plaintiffs asserted that the original product
+name was changed from DC4C4475 to AP4C4475 (ie it was changed from a
+DocuCentre to an ApeosPort machine), and the original serial number was
+changed from 310612 to 302040. 263
+
+##### Foot Note 263
+
+×
+
+AB Vol 6 at p 1356.
+
+169 Offending Machine 2 was manufactured on 30 October 2012, sold on 15
+November 2012 by Fuji Xerox Chiba, and removed from the client’s premises in
+Japan on 27 August 2015. 264
+
+##### Foot Note 264
+
+×
+
+AB Vol 6 at pp 1372–1373.
+
+It was acquired by the defendant on 4 March 2016. 265
+
+##### Foot Note 265
+
+×
+
+AB Vol 10 at p 2418.
+
+On 7 March 2016, the defendant recorded that this machine had the serial
+number 309583, and assigned it the reference number of 802064. 266
+
+##### Foot Note 266
+
+×
+
+Yasuda AEIC at para 163; AB Vol 10 at pp 2419–2420.
+
+The defendant’s configuration report dated 7 March 2016 (with a timestamp of
+2:28pm) showed the “Controller ROM” version as “Ver 1.71.15”, the serial
+number as 309583, the product code as NC100411, and the machine name as
+ApeosPort-IV C4475. 267
+
+##### Foot Note 267
+
+×
+
+AB Vol 10 at p 2422.
+
+170 The defendant sold Offending Machine 2 to GMC around 22 March 2016. 268
+
+##### Foot Note 268
+
+×
+
+Yasuda AEIC at para 166; AB Vol 10 at p 2430.
+
+The plaintiffs acquired Offending Machine 2 from GMC around 12 December 2017.
+The plaintiffs’ September 2018 Report showed the “Controller ROM” version as
+“Ver 1.31.12”, the serial number as 302040, the product code as NC100426, and
+the machine name as ApeosPort-IV C4475. 269
+
+##### Foot Note 269
+
+×
+
+AB Vol 6 at p 1371.
+
+171 Ms Yasuda testified that Offending Machine 2 must have been tampered with
+at some point before 7 March 2016 because, as of 7 March 2016, the software
+version “1.71.15” recorded in the defendant’s configuration report did not
+exist; this version was only released in October 2017. 270
+
+##### Foot Note 270
+
+×
+
+Transcript, 4 January 2021 at p 8, lines 28–31; Transcript, 5 January 2021 at
+p 45, lines 18–22; p 55, line 27–p 56, line 9.
+
+In addition, the September 2018 Report stated that the installed software
+version “Ver 1.31.12” at that date was released in May 2015 271
+
+##### Foot Note 271
+
+×
+
+AB Vol 6 at p 1371; Yasuda AEIC at para 72.
+
+– about three years after the manufacture of the machine. Ms Yasuda’s evidence
+in this respect was not refuted. From the evidence, I accepted that the
+software versions in the machine must have been altered from the original
+version. I also accepted that the serial number and product code had been
+altered.
+
+172 For completeness, the plaintiffs said in the September 2018 Report that
+Offending Machine 2 contained “SSL/TLS Settings” which DocuCentre machines do
+not have, and also contained an application called “BMLinkS”, which was not a
+genuine Fuji Xerox application. 272
+
+##### Foot Note 272
+
+×
+
+AB Vol 6 at p 1375; AB Vol 31, at pp 8101–8369.
+
+Ms Yasuda initially testified that this application was “not an officially
+directly provided item by Fuji Xerox”. 273
+
+##### Foot Note 273
+
+×
+
+Transcript, 6 January 2021 at p 2, lines 4–5.
+
+Subsequently she clarified that the “connectivity function from BMLinkS is a
+function that is offered by Fuji Xerox” and that these were “standard
+functions” for “ApeosPort4C4475 and DocuCentre4C4475”. 274
+
+##### Foot Note 274
+
+×
+
+Transcript, 6 January 2021 at p 5, lines 15–16 and p 6, lines 2–4.
+
+Given her clarification that it was in fact a genuine Fuji Xerox application
+that was standard for both the modified machine model and for the original
+machine model, I did not find that the BMLinkS function on Offending Machine 2
+was evidence of an unlicensed adaptation of the software/firmware.
+
+(3) Offending Machine 3
+
+173 Offending Machine 3 was manufactured on 2 July 2013, installed on 30
+August 2013 and removed from the client’s premises in Japan on 5 February
+2016. 275
+
+##### Foot Note 275
+
+×
+
+AB Vol 6 at pp 1384–1385.
+
+The defendant acquired Offending Machine 3 on 13 May 2016. 276
+
+##### Foot Note 276
+
+×
+
+AB Vol 10 at p 2436.
+
+On 16 May 2016, the defendant assigned it a reference number of 802219, and
+recorded its serial number as 607738. 277
+
+##### Foot Note 277
+
+×
+
+Yasuda AEIC at para 179; AB Vol 10 at pp 2437–2438.
+
+The defendant’s configuration report dated 16 May 2016 (with a timestamp of
+11:31am) recorded the Controller ROM as “Ver 1.31.14”, the machine model as
+“ApeosPort-IV C5575”, the serial number as 607738, and the product code as
+NC100426. 278
+
+##### Foot Note 278
+
+×
+
+AB Vol 10 at p 2440.
+
+The defendant sold this machine to GMC on 30 May 2016. 279
+
+##### Foot Note 279
+
+×
+
+Yasuda AEIC at para 182; AB Vol 10 at p 2448.
+
+It was acquired by the plaintiffs around 12 December 2017.
+
+174 In the plaintiffs’ September 2018 Report, they recorded the machine model
+as ApeosPort-IV C5575, the serial number as 629586 and the product code as
+NC100411. 280
+
+##### Foot Note 280
+
+×
+
+AB Vol 6 at p 1382.
+
+According to Ms Yasuda, this serial number 629586 was the correct and genuine
+serial number, which had probably reappeared upon the software being reset.
+281
+
+##### Foot Note 281
+
+×
+
+Yasuda AEIC at paras 189–190.
+
+Ms Yasuda’s evidence – which was not refuted - was that the software version
+“Ver 1.31.14” as stated in the defendant’s configuration report from 16 May
+2016 did not exist at the time of May 2016 (it was only released in August
+2016), and hence that machine must have been tampered with. 282
+
+##### Foot Note 282
+
+×
+
+Transcript, 4 January 2021 at p 9, lines 10–12; Transcript, 5 January 2021, at
+p 61, lines 31–32.
+
+175 Based on the evidence, I accepted that the serial number of Offending
+Machine 3 had been changed from 629586 to 607738, and then reverted to 629586
+by the time of the plaintiffs’ September 2018 Report. I also accepted that the
+Controller ROM software version “Ver 1.31.14” reflected in the defendant’s
+configuration report from May 2016 did not exist at that time, and so the
+software must have been modified either before that time or upon delivery.
+Similarly, per the plaintiffs’ investigations in the September 2018 Report,
+the software version “Ver 1.31.8” was only released for the Fuji Xerox
+domestic region in June 2014, after the manufacture of Offending Machine 3 in
+July 2013, so the software in Offending Machine 3 must have been modified at
+some point between the defendant acquiring Offending Machine 3 in May 2016 and
+the plaintiffs acquiring Offending Machine 3 in December 2017. 283
+
+##### Foot Note 283
+
+×
+
+AB Vol 6 at p 1382.
+
+(4) Offending Machine 4
+
+176 According to the plaintiffs, the original product name for Offending
+Machine 4 was changed from DC5C2275 to DC5C3375, and the original serial
+number was changed from 312708 to 611106. 284
+
+##### Foot Note 284
+
+×
+
+AB Vol 6 at pp 1356, 1395. I have referred to the serial number of 611106
+based on the configuration report at p 1395, although the summary at p 1356
+states that the serial number is 611105.
+
+177 Offending Machine 4 was manufactured on 27 December 2013. 285
+
+##### Foot Note 285
+
+×
+
+AB Vol 6 at p 1396.
+
+It was sold by Fuji Xerox Malaysia to Kim Fook, an authorised reseller, on 28
+January 2014, with a serial number of 312708. 286
+
+##### Foot Note 286
+
+×
+
+AB Vol 6 at p 1397.
+
+Ms Yasuda testified that Fuji Xerox knew about this sale to Kim Fook as at
+2014, but did not know what happened after that. 287
+
+##### Foot Note 287
+
+×
+
+Transcript, 5 January 2021 at p 69, lines 19–31.
+
+178 From the evidence set out earlier, Kim Fook had sold Offending Machine 4
+to Q-Tech in February 2014 with the original serial number of 312708. The
+machine was delivered to Fairmont, and then sold to the defendant on 27 March
+2014 with a different serial number of 611106. Around 15 April 2014, the 2nd
+plaintiff acquired Offending Machine 4 from S M Compass. 288
+
+##### Foot Note 288
+
+×
+
+Yasuda AEIC at para 201; Batchelor AEIC at para 169; AB Vol 9 at pp 2323 and
+2328.
+
+179 From the plaintiffs’ September 2018 Report, they found that the Controller
+ROM was “Ver 1.1.6”, the machine model was DocuCentre-V C3375, the serial
+number was 611106, and the product code was TC100705. 289
+
+##### Foot Note 289
+
+×
+
+AB Vol 6 at p 1395.
+
+The Seito Investigation report from April 2014 also recorded the same
+information. 290
+
+##### Foot Note 290
+
+×
+
+AB Vol 3 at pp 716–722.
+
+180 Based on the documentary evidence available, I was satisfied that the
+machine sold by Kim Fook to Q-Tech/Fairmont and subsequently to the defendant
+was the same Offending Machine 4, and that its original serial number and
+product name had been changed.
+
+181 For completeness, I noted that the Controller ROM version number “Ver
+1.1.6” as found by the plaintiffs in the September 2018 Report was released in
+December 2013 for the Fuji Xerox Asia Pacific region, including Fuji Xerox
+Malaysia. 291
+
+##### Foot Note 291
+
+×
+
+AB Vol 6 at p 1395.
+
+I did not think that this indicated the software/firmware in Offending Machine
+4 was an unlicensed adaptation. Since the machine was manufactured in December
+2013, it was plausible that the software version released in December 2013 was
+incorporated into Offending Machine 4 from the time of manufacture and was not
+subsequently modified.
+
+(5) Offending Machine 5
+
+182 According to the plaintiffs, for Offending Machine 5, the product name was
+changed from DC5C2275 to DC5C3375, the original product code was changed from
+TC100757 to TC100760, and the original serial number was changed from 440578
+to 455024. 292
+
+##### Foot Note 292
+
+×
+
+AB Vol 6 at p 1356.
+
+183 Offending Machine 5 was manufactured on 19 February 2014. 293
+
+##### Foot Note 293
+
+×
+
+AB Vol 6 at p 1404.
+
+It was sold by Fuji Xerox in China to Shanghai Quanle, an authorised reseller
+of Fuji Xerox Equipment within China, on 27 March 2013. 294
+
+##### Foot Note 294
+
+×
+
+Yasuda AEIC at para 205; AB Vol 6 at p 1405.
+
+It was acquired by the defendant around August/September 2014, 295
+
+##### Foot Note 295
+
+×
+
+Poh AEIC at pp 337 and 339.
+
+and subsequently sold by the defendant to Focus Art around 21 October 2014.
+296
+
+##### Foot Note 296
+
+×
+
+Yasuda AEIC at para 209; AB Vol 10 at p 2397; AB Vol 3 at pp 752–756.
+
+The plaintiffs acquired Offending Machine 5 from Focus Art around November
+2014. 297
+
+##### Foot Note 297
+
+×
+
+AB Vol 3 at pp 752–756.
+
+The 19 June 2015 statement from Shanghai Quanle refers to the original serial
+number of the machine, 440578. 298
+
+##### Foot Note 298
+
+×
+
+AB Vol 23 at p 6085.
+
+184 From the plaintiffs’ investigations in the September 2018 Report, the
+Controller ROM version was “Ver 1.1.9”, the machine model was DocuCentre-V
+C3375, the serial number was 455024, and the product code was TC100760. 299
+
+##### Foot Note 299
+
+×
+
+AB Vol 6 at p 1403.
+
+The changes from the original serial number of 440578 to 455024, change in
+product code (from TC100757 to TC100760) and print speed (from 2275 to 3375)
+were also recorded in Morimoto’s 26 November 2014 Report. 300
+
+##### Foot Note 300
+
+×
+
+AB Vol 3 at pp 760–779, at p 764.
+
+185 Based on the documentary evidence available, I accepted that the original
+product code, product name and serial number for Offending Machine 5 had been
+changed and this was an unlicensed adaptation.
+
+186 As for the Controller ROM version number “Ver 1.1.9” found by the
+plaintiffs in the September 2018 Report, the plaintiffs said this was released
+in February 2014 only for the Fuji Xerox Asia Pacific region. 301
+
+##### Foot Note 301
+
+×
+
+AB Vol 6 at p 1403.
+
+However, I did not think this pointed towards the software/firmware in
+Offending Machine 5 being an unlicensed adaptation: since the machine was
+manufactured in February 2014, it was plausible that the software released in
+February 2014 was incorporated into Offending Machine 5 from the time of
+manufacture, and was not subsequently modified.
+
+(6) Offending Machine 6
+
+187 As for Offending Machine 6, the plaintiffs alleged that the product name
+was changed from DC5C2275-T2 to DC5C3375-T2, and the serial number was changed
+from 840161 to 455224. 302
+
+##### Foot Note 302
+
+×
+
+AB Vol 6 at p 1356.
+
+188 Offending Machine 6 was manufactured on 18 June 2014. 303
+
+##### Foot Note 303
+
+×
+
+AB Vol 6 at p 1413.
+
+It was sold by Fuji Xerox in China to Shanghai Quanle on 26 September 2014.
+304
+
+##### Foot Note 304
+
+×
+
+AB Vol 6 at p 1414.
+
+The defendant’s records for the deliveries from Shanghai Quanle are dated 13
+August 2014 and 16 September 2014. 305
+
+##### Foot Note 305
+
+×
+
+Poh AEIC at pp 337 and 339.
+
+The 19 June 2015 statement from Shanghai Quanle referred to the original
+serial number of the machine, 840161. 306
+
+##### Foot Note 306
+
+×
+
+AB Vol 23 at p 6085.
+
+The labels on the packaging of the machine (which Poh testified was what the
+defendant had received from Shanghai Quanle) indicated the modified serial
+number of 455224 and the modified product name of C3375. 307
+
+##### Foot Note 307
+
+×
+
+AB Vol 23 at pp 6119–6120; Transcript, 7 January 2021 at p 28, lines 18–30 and
+p 29, lines 8–16.
+
+These labels also indicated a date of 4 November 2013. As Ms Yasuda stated in
+her AEIC, there was inconsistency in these dates as the machine was sold to
+Shanghai Quanle on 26 September 2014 – yet the defendant’s documents purported
+to show that it had made the purchases from Shanghai Quanle from 13 August
+2014 or 16 September 2014, while the delivery labels indicated that the
+defendant had received it around 4 November 2013. 308
+
+##### Foot Note 308
+
+×
+
+Yasuda AEIC at para 215.
+
+189 The defendant assigned Offending Machine 6 a reference number of 226081.
+309
+
+##### Foot Note 309
+
+×
+
+Yasuda AEIC at para 217.
+
+The defendant then sold this machine to Raymond Ng & Associates on 5 November
+2014, with a handwritten reference number 226081. 310
+
+##### Foot Note 310
+
+×
+
+Yasuda AEIC at para 218; AB Vol 10 at pp 2400–2402.
+
+The plaintiffs acquired Offending Machine 6 around November 2014 (see [20]
+above). 311
+
+##### Foot Note 311
+
+×
+
+AB Vol 3 at pp 757–759.
+
+190 From the plaintiffs’ September 2018 Report, Offending Machine 6 had a
+Controller ROM version “Ver 2.0.9”, machine model DocuCentre-V C3375 T2, and
+serial number 455224. 312
+
+##### Foot Note 312
+
+×
+
+AB Vol 6 at p 1412.
+
+The change in the serial number from 840161 to 455224 and the change in the
+print speed (from 2275 to 3375) was also confirmed by Morimoto’s 26 November
+2014 Report. 313
+
+##### Foot Note 313
+
+×
+
+AB Vol 3 at pp 760–779, at p 772.
+
+From the evidence, I accepted that the original serial number and the original
+product name of Offending Machine 6 had been changed.
+
+191 I noted that the Controller ROM version “Ver 2.0.9” was released in
+February 2014 for the Fuji Xerox Asia Pacific region, including China. 314
+
+##### Foot Note 314
+
+×
+
+AB Vol 6 at p 1412.
+
+However, since the machine was manufactured on 18 June 2014 ie after the
+software version was released, and hence it was plausible it would have had
+that version installed; this did not indicate that the software/firmware in
+the machine was an unlicensed adaptation.
+
+(7) Summary of findings
+
+192 In summary, I found that Offending Machines 1 to 6 contained
+software/firmware that had been modified from the original version, as
+evidenced by the various changes in serial numbers, product codes and machine
+models. I accepted the plaintiffs’ submission that the altered rights
+management information showed that the object code in the Offending Machines
+was an “altered version” that was an unlicensed adaptation. 315
+
+##### Foot Note 315
+
+×
+
+PFS at para 36(d).
+
+193 The question, though, for the purposes of the primary infringement claim,
+was whether it was the defendant who made the unlicensed adaptation, as the
+3rd plaintiff claimed.
+
+Whether it was the defendant who made the unlicensed adaptation
+
+194 Under s 31(1) of the Copyright Act, the defendant would be liable for
+copyright infringement if it had made the unlicensed adaptation or authorised
+the making of the unlicensed adaptation.
+
+195 I found Poh’s attempts to downplay the technical skills of the defendant’s
+staff to be self-serving 316
+
+##### Foot Note 316
+
+×
+
+Transcript, 7 January 2021 at p 32, lines 2–5; p 69, lines 1–3 and 7–10; p 70,
+lines 28–31.
+
+, but even if I accepted that the defendant’s staff had some degree of
+technical proficiency, it would be a very different thing to say firstly that
+they must have the level of technical expertise required to carry out a range
+of changes to the software/firmware, including changes to allow for up-
+speeding (which the plaintiffs acknowledged to be a highly sophisticated
+process that they themselves had not engaged in); 317
+
+##### Foot Note 317
+
+×
+
+PCS at paras 419, 421; Transcript, 16 July 2020 at p 29, lines 2–13 and p 34,
+lines 3–8; Transcript, 5 January 2021 at p 70, lines 22–25.
+
+and secondly, that the defendant’s staff were in fact the ones who made these
+changes.
+
+196 I did not find that the evidence before me was enough for me to conclude
+that the defendant was the one who made the unlicensed adaptation of the
+software/firmware. In the circumstances, I found that the 3rd plaintiff was
+not able to prove its claim of primary infringement.
+
+Secondary infringement
+
+197 The plaintiffs had, however, another string to their bow. They pleaded in
+the alternative a claim of secondary infringement by importation for sale or
+hire. Under s 32 of the Copyright Act, there is secondary infringement where
+the article in question is an infringing copy. The plaintiffs submitted that
+under ss 32 and 33, all they were required to establish was that the defendant
+knew or ought reasonably to have known that the making of the article was
+carried out without the consent of the 3rd plaintiff. 318
+
+##### Foot Note 318
+
+×
+
+PFS at para 38.
+
+The “making of the article” could be discerned from the fact that the
+defendant extensively refurbished the “used” machines which were intended to
+be destroyed by the plaintiff, the fact there were Offending Machines that had
+been up-speeded, modification of some Offending Machines from “DocuCentre”
+equipment to have “ApeosPort” functions and capabilities, and the probability
+that all the Offending Machines had altered or modified rights management
+information. 319
+
+##### Foot Note 319
+
+×
+
+PFS at para 58.
+
+In this case, the “article” would be considered to be the whole of each of the
+Offending Machines. 320
+
+##### Foot Note 320
+
+×
+
+PFS at para 62.
+
+The defendant was aware that the owner of the software/firmware was the
+plaintiffs and that the defendant was not licensed. 321
+
+##### Foot Note 321
+
+×
+
+PFS at para 69.
+
+198 The defendant submitted that there was no infringing article, but that if
+the court disagreed, then its position was that the making of the allegedly
+infringing article had been carried out with the consent of the 3rd plaintiff.
+322
+
+##### Foot Note 322
+
+×
+
+DCS at para 251.
+
+The “making” of an article under ss 32 and 33 of the Copyright Act referred to
+the process of manufacturing the article, which was substantially done by the
+plaintiffs. 323
+
+##### Foot Note 323
+
+×
+
+DCS at para 266.
+
+In the alternative, the defendant submitted that it did not possess the
+requisite knowledge regarding the 3rd plaintiff’s lack of consent. 324
+
+##### Foot Note 324
+
+×
+
+DCS at para 284.
+
+The defendant claimed, in addition, that the alleged software installations
+could not amount to a “making of the article”. 325
+
+##### Foot Note 325
+
+×
+
+DRS 2 at para 17.
+
+199 I reproduce below the relevant provisions of the Copyright Act:
+
+Infringement by importation for sale or hire
+
+32. The copyright in a literary, dramatic, musical or artistic work is infringed by a person who, without the licence of the owner of the copyright, imports an article into Singapore for the purpose of —
+
+(a) selling, letting for hire, or by way of trade offering or exposing for
+sale or hire, the article;
+
+(b) distributing the article —
+
+(i) for the purpose of trade; or
+
+(ii) for any other purpose to an extent that will affect prejudicially the
+owner of the copyright; or
+
+(c) by way of trade exhibiting the article in public,
+
+where he knows, or ought reasonably to know, that the making of the article
+was carried out without the consent of the owner of the copyright.
+
+Infringement by sale and other dealings
+
+33.—(1) The copyright in a literary, dramatic, musical or artistic work is
+infringed by a person who, in Singapore, and without the licence of the owner
+of the copyright —
+
+(a) sells, lets for hire, or by way of trade offers or exposes for sale or
+hire, an article; or
+
+(b) by way of trade exhibits an article in public,
+
+where he knows, or ought reasonably to know, that the making of the article
+constituted an infringement of the copyright or, in the case of an imported
+article, the making of the article was carried out without the consent of the
+owner of the copyright.
+
+(2) For the purposes of subsection (1), the distribution of any articles —
+
+(a) for the purpose of trade; or
+
+(b) for any other purpose to an extent that affects prejudicially the owner of
+the copyright concerned,
+
+shall be taken to be the sale of those articles.
+
+200 Secondary infringement would be established if the defendant had (inter
+alia) without the licence of the plaintiffs, imported an article into
+Singapore for the purpose of selling the article, where it knew or ought
+reasonably to know that the making of the article was carried out without the
+consent of the plaintiffs. The rights of the copyright owner of the
+plaintiffs’ software/firmware include the right of adaptation; and I found in
+this case (as explained above at [159]–[192]) that the software/firmware found
+in the Offending Machines constituted an unlicensed adaption. I agreed with
+the plaintiffs that the “article” in this case refers to the whole of each of
+the Offending Machines. 326
+
+##### Foot Note 326
+
+×
+
+PFS at para 62.
+
+Thus, the “making of the article” referred to the “making” of each Offending
+Machine, which was done by modifying the plaintiffs’ original machines without
+its consent. It was also clear that the defendant, who was not an authorised
+reseller, had – without the licence of the plaintiffs – imported the articles
+(the Offending Machines) into Singapore for the purpose of selling them, or
+had sold the Offending Machines in Singapore.
+
+201 Lastly, the plaintiffs submitted that the defendant knew – and indeed,
+required – that its suppliers modify and alter the machines they imported,
+including installing step-down transformer plugs, upgrading software, and
+removing or changing serial numbers. 327
+
+##### Foot Note 327
+
+×
+
+PCS at para 576.
+
+The defendant, for its part, countered that it had no actual or constructive
+knowledge of any software alterations made to the Offending Machines. 328
+
+##### Foot Note 328
+
+×
+
+DCS at para 288.
+
+202 While I was not able to conclude that it was the defendant who had
+modified the software/firmware on the Offending Machines, I was satisfied that
+the defendant knew or ought reasonably to have known that modifications had
+been made to the Offending Machines, and that this was done without the
+plaintiffs’ consent. I explain below my reasons for coming to this conclusion.
+
+203 For a defendant to be found liable for secondary infringement under s 32
+of the Copyright Act, it must be shown that the defendant “knows, or ought
+reasonably to know” that the making of the article he imports or offers for
+sale was carried out without the consent of the copyright owner. The same
+formulation – “knows, or ought reasonably to know” – appears in s 136 in the
+context of copyright infringement offences. In Public Prosecutor v Teo Ai Nee
+and another [1995] 1 SLR(R) 450 (“Teo Ai Nee”) at [45], the High Court
+considered the meaning of the phrase “knows, or ought reasonably to know” in
+the context of s 136 of the Copyright Act. The court held that the word “know”
+meant that a defendant would need to possess actual knowledge. The phrase
+“ought reasonably to know”, on the other hand, contemplated knowledge of
+circumstances which would put an honest and reasonable man on inquiry: this
+would encompass (i) wilfully shutting one’s eyes to the obvious, (ii) wilfully
+and recklessly failing to make such inquiries as an honest and reasonable man
+would make, and (iii) knowledge of the circumstances which would indicate the
+facts to an honest and reasonable man.
+
+204 The phrase “ought reasonably to know” was also considered by the CA in
+Singsung Pte Ltd v LG 26 Electronics Pte Ltd (trading as L S Electrical
+Trading) [2016] 4 SLR 86 at [116] (“Singsung”), in the context of a secondary
+copyright infringement claim. There, the CA held that the relevant knowledge
+for this purpose “is not knowledge, as a matter of legal conclusion, that [the
+defendant] might be infringing copyright but knowledge, as a matter of fact,
+that [the defendant] might be using something that belonged to [the plaintiff]
+without its consent”. The CA held that the burden was on the defendant to show
+that it had conducted sufficient inquiries to dispel the prospect that it was
+about to use the copyrighted material without the copyright owner’s consent.
+
+205 In this case, I found that the defendant knew, or ought reasonably to have
+known, about the modifications to the Offending Machines, at the time it
+purchased the Offending Machines, and it also knew that the modifications to
+the Offending Machines were made without the plaintiffs’ consent. Even if I
+were to be wrong about this, I found nevertheless that the defendant knew
+about the modifications when the plaintiffs sent their letters of demand – and
+despite this knowledge, it persisted in selling the Offending Machines.
+
+206 First, I found that the defendant had actual knowledge of the
+modifications to the Offending Machines at the time it purchased the Offending
+Machines. I noted that in cross-examination, Poh stated – in relation to
+Offending Machines 4, 5 and 6 – that “It was the same machine put up on the
+market. How can I…explain that they have made changes to the machine? They are
+selling second-hand machines.” [emphasis added]. 329
+
+##### Foot Note 329
+
+×
+
+Transcript, 7 January 2021 at p 47, lines 4–6.
+
+In similar vein, Poh also testified that the defendant normally sold Fuji
+Xerox photocopiers without serial number labels on them; he conceded that Fuji
+Xerox would be able to “close off” the defendant’s “source of supply” from its
+suppliers if it were able to trace the exporters using the serial numbers, and
+that was “why the exporters would remove the serial numbers” [emphasis added].
+330
+
+##### Foot Note 330
+
+×
+
+Transcript, 6 January 2021 at p 68, lines 16–29.
+
+This showed that the defendant was well aware that there had been
+modifications to the Offending Machines at the time of purchase.
+
+207 Even if I were wrong in coming to the above conclusion, I found in any
+event that the defendant ought reasonably to have known about the
+modifications to the Offending Machines at the time it purchased them. Poh
+admitted in cross-examination that while he did not “tell” the defendant’s
+suppliers to modify the Fuji Xerox machines to be suitable for use in
+Singapore, “transformers would then have to be installed” [emphasis added]. He
+was extremely evasive about who would be doing the installation. 331
+
+##### Foot Note 331
+
+×
+
+Transcript, 6 January 2021 at p 56, lines 1–28.
+
+Similarly, when asked about the sticker labels on the machines, Poh said: “The
+sticker label is just a piece of paper…If let’s say the film was originally
+written in the Japanese language and we had to use the machines in Singapore,
+we would have to change the sticker labels to English.” [emphasis added] 332
+
+##### Foot Note 332
+
+×
+
+Transcript, 7 January 2021 at p 56, lines 12–15.
+
+In other words, Poh was actually admitting that the sticker labels on the
+machines would have to be changed – whether or not it was done directly by the
+defendant itself. Thus, at the very least, the defendant was shutting its eyes
+to the obvious.
+
+208 Alternatively, the evidence before me was also sufficient to support a
+conclusion that the defendant had wilfully and recklessly failed to “make such
+inquiries as an honest and reasonable man would make” (Teo Ai Nee at [45]).
+Poh admitted that the defendant would not ask the supplier to verify whether
+the machines to be supplied were designated for decommissioning or destruction
+in their home countries. 333
+
+##### Foot Note 333
+
+×
+
+Transcript, 6 January 2021 at p 55, lines 26–32.
+
+This showed that the defendant had conducted no inquiries “as to the
+provenance and ownership” of the Offending Machines (Singsung at [116]). In
+other words, not only did the defendant fail to ensure the veracity of its
+suppliers, it also failed to enquire into whether the machines it received
+were genuine, unmodified versions.
+
+209 Further, I found that the defendant had actual knowledge that any
+modifications to the Offending Machines were carried out without the
+plaintiffs’ consent. This was admitted by Poh himself in cross-examination:
+334
+
+##### Foot Note 334
+
+×
+
+Transcript, 7 January 2021 at p 53, line 28–p 54, line 4.
+
+Ct: Counsel says that clearly Fuji Xerox did not authorise the installation of
+transformers on its copiers to change the voltage from 100V to 220V; agree or
+disagree?
+
+Poh: I agree but I need to explain.
+
+Ct: Yes.
+
+Poh: We, as parallel importers, are direct competitors of Fuji Xerox so why
+would Fuji Xerox authorise us to do such things? In fact, what Fuji Xerox
+wanted was to monopolise the market; why would they authorise such things?
+
+Similarly, Poh conceded that any up-speeding done by someone who was not from
+Fuji Xerox would be an unauthorised modification of the software in the
+photocopier. 335
+
+##### Foot Note 335
+
+×
+
+Transcript, 7 January 2021 at p 69, lines 24–27.
+
+210 For the reasons set out above, I found that at the time of purchase, the
+defendant knew, or ought reasonably to have known, that the Offending Machines
+had been modified and that this had been done without the plaintiffs’ consent.
+
+211 Lastly, even if the defendant was genuinely unaware of the modifications
+made to the Offending Machines at the time of purchase, it would have been
+alerted to these modifications by 20 June 2014 (see [19] above) when it
+received the plaintiffs’ first letter of demand (the June 2014 Letter). 336
+
+##### Foot Note 336
+
+×
+
+PCS at para 580; Poh AEIC at para 27.
+
+In his AEIC, Poh acknowledged that the defendant had received the June 2014
+Letter and August 2014 Letter from the plaintiffs, and adduced a copy of each
+letter. 337
+
+##### Foot Note 337
+
+×
+
+Poh AEIC at para 27; pp 320–321 (June 2014 Letter) and pp 323–327 (August 2014
+Letter).
+
+Under cross-examination, Poh stated that in the letters of demand, the
+plaintiffs had said that the defendant was not allowed to use the plaintiffs’
+photos on the defendant’s website, had mentioned “many other things such as,
+about trademarks and some changes”, 338
+
+##### Foot Note 338
+
+×
+
+Transcript, 7 January 2021 at p 64, lines 22–28; at p 65, line 30–p 66 line
+30.
+
+and had referred to “some changed serial numbers” in the machines sold by the
+defendant. 339
+
+##### Foot Note 339
+
+×
+
+Transcript, 7 January 2021 at p 46, lines 17–25.
+
+As set out at [19] above, in the June 2014 Letter, the 2nd plaintiff’s then-
+solicitors stated, inter alia, that “[the defendant] [had] changed the label
+and the serial number of the FujiXerox photocopiers that you are marketing and
+selling”, and such conduct amounted “to a misrepresentation of the true
+identity of the subject product”, 340
+
+##### Foot Note 340
+
+×
+
+AB Vol 3 at p 724.
+
+while in the August 2014 Letter, the 2nd plaintiff’s new solicitors stated
+that this “change of serial number in the display of our client’s
+product…entails unauthorized alteration of our client’s proprietary, embedded
+software program for operation of the product”. 341
+
+##### Foot Note 341
+
+×
+
+AB Vol 3 at p 729, para 7(c).
+
+Despite receiving such notice, the defendant sold Offending Machines 5 and 6
+in November 2014, and sold Offending Machines 1, 2 and 3 to GMC in 2016.
+
+212 In summary, based on the evidence adduced, I was satisfied that the 3rd
+plaintiff had made out its case of secondary infringement under ss 32 and 33
+of the Copyright Act.
+
+Section 260 of the Copyright Act: Rights management information
+
+213 I address next the 3rd plaintiff’s claim against the defendant in respect
+of infringement of its rights in rights management information which has been
+altered without its consent pursuant to s 260 of the Copyright Act.
+
+214 The plaintiffs submitted that the computer software/firmware that is on
+the ROM of the Offending Machines is in the form of object code protected as a
+literary work under the Copyright Act, and the rights management information
+encoded in this computer software/firmware was the subject of the s 260 causes
+of action. 342
+
+##### Foot Note 342
+
+×
+
+PFS at para 75.
+
+The rights management information includes the serial number, machine model,
+machine name and product code. 343
+
+##### Foot Note 343
+
+×
+
+PCS at para 197.
+
+The plaintiffs can track every item or component of a Fuji Xerox Equipment
+using this information through its Traceability System. 344
+
+##### Foot Note 344
+
+×
+
+PFS at para 78.
+
+The plaintiffs also affix a physical label on every machine where the said
+rights management information is incorporated into the surface of the Fuji
+Xerox Equipment, which is intended to be a permanent part of the machine. 345
+
+##### Foot Note 345
+
+×
+
+PFS at para 79.
+
+These pieces of information constitute rights management information as they
+represent information which identifies the work or subject-matter, being
+numbers or codes that represent the information (s 258(d) of the Copyright
+Act). 346
+
+##### Foot Note 346
+
+×
+
+PFS at para 80.
+
+Lastly, the defendant knew that the rights management information had been
+removed or altered without the 3rd plaintiff’s consent, and knew or ought
+reasonably to know that removal or alteration of the said rights management
+information would induce, enable, facilitate or conceal an infringement (ss
+260(2) and (3) of the Copyright Act). 347
+
+##### Foot Note 347
+
+×
+
+PFS at para 108.
+
+Alternatively, the defendant had distributed or imported for distribution the
+rights management information relating to the 3rd plaintiff’s
+software/firmware, which had been altered without the 3rd plaintiff’s consent.
+348
+
+##### Foot Note 348
+
+×
+
+PCS at para 598(b).
+
+215 The defendant argued that the information did not fall within the
+definition of rights management information under s 258 of the Copyright Act
+as it did not identify the author of the work, 349
+
+##### Foot Note 349
+
+×
+
+DCS at para 295.
+
+did not identify the allegedly copyrighted works, 350
+
+##### Foot Note 350
+
+×
+
+DCS at para 301.
+
+and did not contain information about the terms of use of the works. 351
+
+##### Foot Note 351
+
+×
+
+DCS at para 310.
+
+Further, the defendant argued that it had not made changes to the alleged
+rights management information, 352
+
+##### Foot Note 352
+
+×
+
+DCS at para 314.
+
+nor did it have actual or constructive knowledge that such alteration would
+induce, enable, facilitate or conceal an infringement. 353
+
+##### Foot Note 353
+
+×
+
+DCS at para 316.
+
+Whether information fell within definition of rights management information
+
+216 I accepted the submission that the serial number, machine model, machine
+name and product code comprised part of the relevant rights management
+information in this case, as they constitute information which inter alia
+enables the copyright owner to track usage of its works, gives users
+confidence in the authenticity of the source of the work and certainty as to
+the conditions of its use, and prevents distribution of copies where such
+information has been removed or manipulated in order to induce, enable,
+facilitate or conceal an infringement. 354
+
+##### Foot Note 354
+
+×
+
+PFS at para 83.
+
+In my view, this information fell within s 258(d) of the Copyright Act as “any
+numbers or codes representing the information referred to”.
+
+Whether act of infringement made out
+
+217 On the whole, as I stated at [196] above, I was not convinced that there
+was enough evidence to say that it was the defendant who had made the
+unauthorised removal or alteration of rights management information in this
+case (s 260(2)(a) of the Copyright Act). However, I was satisfied that the 3rd
+plaintiff had made out the alternative claim against the defendant of
+distributing and/or importing for distribution rights management information
+which has been altered without the copyright owner’s consent under s 260(3) of
+the Copyright Act.
+
+218 First, the rights management information had clearly been altered without
+the plaintiffs’ consent (s 260(3)(a) of the Copyright Act). The defendant had
+also distributed, or imported for distribution, the rights management
+information relating to the 3rd plaintiff’s software/firmware by importing and
+selling the Offending Machines containing this altered rights management
+information without the plaintiffs’ consent (s 260(3)(b) of the Copyright
+Act), and knowing that this rights management information had been altered
+without the plaintiffs’ consent (s 260(3)(c) of the Copyright Act; see
+[205]–[211] above).
+
+219 Additionally, I found that the defendant must have known, or ought
+reasonably to have known, that the distribution or importation of the rights
+management information would induce, enable, facilitate or conceal an
+infringement of the copyright in the software/firmware to which the rights
+management information related (s 260(3)(d)(i) of the Copyright Act). I found
+that the defendant knew its distribution of the altered rights management
+information would enable an infringement of the copyright in the
+software/firmware since, every time the Offending Machine was turned on,
+either by the defendant or its customers, the unlicensed adaptation of the
+software/firmware would be reproduced. 355
+
+##### Foot Note 355
+
+×
+
+PFS at paras 94 and 97.
+
+Even if that was wrong, however, I found that the defendant at least knew that
+its distribution of the altered rights management information would conceal an
+infringement of the copyright in the software/firmware, because the altered
+information would make it harder for the plaintiffs to trace each machine in
+its traceability system. As I have noted, Poh testified that the defendant
+normally sold Fuji Xerox photocopiers without serial number labels on them,
+precisely because otherwise Fuji Xerox would be “able to trace the exporters”
+and “close off” the defendant’s “source of supply”: as Poh himself conceded,
+this was why “the exporters would remove the serial numbers” [emphasis added].
+356
+
+##### Foot Note 356
+
+×
+
+Transcript, 6 January 2021 at p 68, lines 16–29.
+
+Poh thus knew only too well that the serial numbers on the machines were a
+means for the plaintiffs to trace the origin of the machines, and that
+removing the serial numbers would hamper the plaintiffs’ efforts in detecting
+whether there had been any infringement of its copyright in the
+software/firmware.
+
+220 I add that while the defendant sought to argue that it was not required to
+check on or know anything about the software/firmware required to operate the
+machines and that it knew nothing about the changes made to the said
+software/firmware, I found the evidence proffered by the defendant to be
+entirely unbelievable; and I reiterate in particular that I found Poh to be a
+shifty and deceitful witness.
+
+Parallel imports
+
+221 I also rejected the defendant’s belated attempt to rely on a defence of
+parallel imports in relation to the 3rd plaintiff’s claims of copyright
+infringement. 357
+
+##### Foot Note 357
+
+×
+
+Defence at para 46.
+
+I agree with the 3rd plaintiff that in this connection, the defendant has
+presented (with respect) a distorted and misconceived interpretation of the
+concept of parallel imports.
+
+222 Inter alia, as the plaintiffs pointed out in their first set of reply
+submissions, the defendant stands on a totally different footing from a
+legitimate parallel importer who can show that its source (whether in Japan or
+elsewhere) purchased a machine legitimately and that the software/firmware on
+that machine is exactly that which was installed by the copyright owner or its
+licensor. 358
+
+##### Foot Note 358
+
+×
+
+PRS at para 28.
+
+Not only did the defendant produce no such evidence, the testimony of its sole
+witness Poh – and in particular his admissions under cross-examination,
+alongside the obvious lies strewn throughout his testimony – led me to infer
+that the defendant was at all material times well aware of the unauthorised
+changes made to the 3rd plaintiff’s software/firmware (including the rights
+management information).
+
+Reliefs granted
+
+223 In summary, I found that the plaintiffs had made out their claims of trade
+mark infringement of the “ApeosPort” mark, passing off in respect of the
+“ApeosPort”, “DocuCentre” and “Fuji Xerox” marks, secondary infringement under
+ss 32 and 33 of the Copyright Act, and infringement of rights in their rights
+management information under s 260 of the Copyright Act.
+
+224 Having regard to those of the plaintiffs’ claims which were made out, I
+found that the plaintiffs were entitled to the reliefs prayed for as follows:
+
+(a) 1st plaintiff: the order for an injunction; the order for delivery up and
+forfeiture or destruction; and the order for an inquiry as to damages, or, at
+the plaintiffs’ election in the alternative, an account of profits in respect
+of the infringement of the “ApeosPort” registration. 359
+
+##### Foot Note 359
+
+×
+
+SOC at p 30, paras 1–3.
+
+(b) 3rd plaintiff: the order for an injunction; the order for delivery up and
+forfeiture or destruction; and the order for an inquiry as to damages, or at
+the plaintiffs’ election in the alternative, an account of profits, or
+statutory damages in lieu of damages, in respect of the infringement of the
+copyright in the 3rd plaintiff’s computer software/firmware in the relevant
+Fuji Xerox Equipment and the infringement of the 3rd plaintiff’s rights in the
+rights management information in such computer software/firmware. 360
+
+##### Foot Note 360
+
+×
+
+SOC at pp 31–32, paras 4–6.
+
+(c) In respect of all the plaintiffs: the order for an injunction; the order
+for delivery up and/or destruction upon oath; and the order for an inquiry
+into damages or, at the plaintiffs’ election in the alternative, an account of
+profits for the passing-off by the defendant. 361
+
+##### Foot Note 361
+
+×
+
+SOC at pp 32–33, paras 8–10.
+
+225 I ordered the defendant to pay all sums which may be found to be due to
+the plaintiffs, with interest to run on such sums as may be found due at the
+rate of 5.33% from the date of judgment till payment.
+
+226 As this trial was bifurcated, I ordered that the Registry was to conduct
+pre-trial conferences for the purpose of following up on the subsequent
+proceedings in respect of any inquiry into damages or account of profits. The
+Registrar conducting these pre-trial conferences shall give directions and
+timelines for the plaintiffs to make the necessary election in respect of the
+orders for an inquiry into damages or in the alternative an account of profits
+(and as another alternative, statutory damages in lieu of damages in the case
+of the infringement of the 3rd plaintiff’s copyright in the software/firmware
+and rights management information).
+
+Additional damages
+
+227 In respect of the 3rd plaintiff’s claim for additional damages under s
+119(4) of the Copyright Act, 362
+
+##### Foot Note 362
+
+×
+
+SOC at p 32, para 7.
+
+it was not disputed that the aim of an award of additional damages is
+punishment and deterrence, rather than to benefit the plaintiff, and such an
+award should not translate into an extraordinary profit for the plaintiff: see
+the judgment of Judith Prakash J (as she then was) in Lotus Development Corp
+and another v Ong Seow Pheng and others [1996] 2 SLR(R) 514 (“Ong Seow Pheng”)
+at [45]; and also the judgment of Tay Yong Kwang J (as he then was) in New
+Line Productions, Inc and another v Aglow Video Pte Ltd and others and other
+suits [2005] 3 SLR(R) 660 (“New Line Productions”) at [110].
+
+228 The plaintiffs submitted that it would be appropriate to fix a dollar sum
+per machine for which the number of machines could be the midpoint of the
+defendant’s estimate of 500 to 600 Fuji Xerox branded machines that it had
+imported in the last five years, ie 550 machines; 363
+
+##### Foot Note 363
+
+×
+
+PFS at para 123.
+
+and that additional damages should be at least $2.2 million (550 machines x
+$4,000). 364
+
+##### Foot Note 364
+
+×
+
+PFS at para 128.
+
+The defendant countered that there was no basis for awarding statutory
+damages, and that even if there were such basis, the extent of infringement in
+the present case was much narrower compared to the cases cited by the
+plaintiffs. 365
+
+##### Foot Note 365
+
+×
+
+DRS 2 at para 29.
+
+229 Having considered the evidence and parties’ further submissions, I
+accepted the 3rd plaintiff’s submission that there was sufficient evidence of
+the scale and flagrancy of the defendant’s operations and its deplorable
+conduct to warrant an award of additional damages. Inter alia, on the
+defendant’s own admission, it had imported 500 to 600 Fuji Xerox branded
+machines over the last five years alone, 366
+
+##### Foot Note 366
+
+×
+
+Transcript, 6 January 2021 at p 39, line 30–p 40, line 6.
+
+and the evidence showed that it had blatantly advertised these as “new” Fuji
+Xerox machines 367
+
+##### Foot Note 367
+
+×
+
+AB Vol 5 at p 1289; AB Vol 9 at pp 2284, 2287–2288.
+
+despite its own admission at trial that at least some of the machines it
+imported were used machines (see [109] above). I have also found that the
+evidence showed the defendant to have gone through extremely circuitous and
+convoluted routes to obtain the machines, which included making use of
+companies whose existence appeared suspect (to say the least) (see [75]–[80]
+and [125] above) – in order, no doubt, to obfuscate its trail. Even after
+receiving letters from the plaintiffs’ solicitors in 2014, the defendant
+continued to market and sell its offending machines.
+
+230 However, I did not accept the 3rd plaintiff’s submission that the
+additional damages should be computed by reference to the defendant’s profit
+per sale of Offending Machine and quantified globally at $2.2 million. There
+appeared to me to be no basis for the proposition that additional damages be
+quantified in this manner. I reiterate that additional damages are punitive in
+nature and are not meant to benefit a plaintiff by way of extraordinary
+profit. I also note that in the CA’s decision on the appeal in Ong Seow Pheng
+(in Ong Seow Pheng and others v Lotus Development Corp and another [1997] 2
+SLR(R) 113 at [56]), the CA reduced the additional damages awarded to the
+plaintiffs from US$200,000 to US$100,000 after finding that, although the
+defendants had dealt in 6,720 infringing copies of the plaintiffs’ manuals and
+31 infringing copies of their software programmes, there was no evidence of
+the defendants having further authorised retailers to make copies of the
+plaintiffs’ computer programmes (at [36]). In New Line Productions, Tay J (as
+he then was) awarded the plaintiffs additional damages in the total sum of
+$99,940, being 9,994 sets of imported VCDs multiplied by $10 – but this was
+not a computation which he tied to any profits shown to be made by the
+defendants (at [112]).
+
+231 In the present case, I was of the view that taking into account the
+factors considered by the courts in Ong Seow Pheng and in New Line Productions
+(including the scale of the defendant’s operations, the lengths it went to in
+order to avoid detection of its wrongful activities, and the extent to which
+it had enriched itself at the expense of the copyright owner), a sum of
+$100,000 should be awarded to the 3rd plaintiff as additional damages under s
+119(4) of the Copyright Act.
+
+Conclusion
+
+232 The plaintiffs having succeeded on most of their claims on liability, I
+was of the view that the costs of the plaintiffs obtaining judgment on
+liability (including the costs of the trial before me) should follow the
+event. I ordered that costs were to be paid by the defendant to the
+plaintiffs, to be taxed if not agreed within two weeks from the date of my
+decision. The costs of any subsequent inquiry into damages or account of
+profits were reserved to the court having conduct of such inquiry or
+accounting.
+
+Mavis Chionh Sze Chyi  
+Judge of the High Court  
+---  
+  
+Lim Ying Sin Daniel (Joyce A. Tan & Partners LLC) (instructed), Ch’ng Chin
+Leong James and Tan Sher Meen (A. Ang, Seah & Hoe) for the plaintiffs;
+
+Koh Chia Ling and Quek Yong Zhi Timothy (OC Queen Street LLC) (instructed),
+Tan Guodong and Bryan Soon Wei (Ella Cheong LLC) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 30 Nov 2021 (12:52 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

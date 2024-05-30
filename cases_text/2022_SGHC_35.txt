@@ -1,0 +1,986 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 35
+
+Originating Summons No 1261 of 2021
+
+In the matter of Section 71 of the Insolvency, Restructuring and Dissolution
+Act 2018 (Act 40 of 2018)  
+---  
+  
+Brightoil Petroleum (S’pore) Pte Ltd  
+---  
+  
+… Applicant
+
+GROUNDS OF DECISION
+
+[Companies — Schemes of arrangement — Section 71 of the Insolvency,
+Restructuring and Dissolution Act 2018]
+
+[Companies — Schemes of arrangement — Classification of scheme creditors —
+Lock-up agreements]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Re Brightoil Petroleum (S’pore) Pte Ltd
+
+[2022] SGHC 35
+
+General Division of the High Court — Originating Summons No 1261 of 2021  
+Aedit Abdullah J  
+25 January 2022
+
+18 February 2022
+
+Aedit Abdullah J:
+
+Introduction
+
+1 These are my written grounds issued to provide guidance regarding the
+court’s reasoning in approving an uncontested scheme of arrangement where no
+meeting of creditors was held pursuant to s 71 of the Insolvency,
+Restructuring and Dissolution Act 2018 (Act 40 of 2018) (“IRDA”) in respect of
+Brightoil Petroleum (S’pore) Pte Ltd (“BPS”). I granted the application and
+now set out my reasons in full.
+
+2 The present case is one of the first written considerations of a lock-up
+agreement. Under such agreements, a scheme company undergoing restructuring
+invites creditors to provide an undertaking to vote in favour of the proposed
+scheme of arrangement in exchange for certain benefits. The benefits usually
+come in the form of consent fees which are often fixed by reference to a
+percentage of the face value of the debt held by the creditor. These benefits
+act as an incentive for scheme creditors to commit to the proposal at an early
+stage, thereby ensuring that the scheme will not fail subsequently.
+
+3 It has not been considered in a published decision in Singapore whether
+creditors who enter into such lock-up agreements should be placed in a
+separate class from the other creditors for the purpose of voting on a scheme
+of arrangement, ie, whether these lock-up agreements would “fracture” a class
+of creditors.
+
+Brief background
+
+4 BPS is a Singapore-incorporated private company that is limited by shares.
+The company’s principal activities lie in international trading and bunkering.
+1
+
+##### Foot Note 1
+
+×
+
+Ng Chin Hock’s 1st Affidavit filed on 10 December 2021, in HC/OS 1261/2021
+(“Ng’s 1st Affidavit”), at para 6.
+
+BPS is one of the indirect wholly-owned subsidiaries of Brightoil Petroleum
+(Holdings) Limited (“BOHL”), which in turn, is a company listed on the stock
+exchange of Hong Kong. 2
+
+##### Foot Note 2
+
+×
+
+Ng’s 1st Affidavit at para 7.
+
+5 BOHL encountered financial difficulties arising from the voluntary
+suspension in the trading of its shares on the stock exchange due to delays in
+the publication of its consolidated financial results. 3
+
+##### Foot Note 3
+
+×
+
+Ng’s 1st Affidavit at para 8.
+
+This led to finance institutions tightening the credit terms, which in turn,
+caused BPS to be unable to secure financing to support its trading activities.
+4
+
+##### Foot Note 4
+
+×
+
+Ng’s 1st Affidavit at para 9.
+
+BPS has been unable to continue its operations since 2019.
+
+6 BOHL together with its other 90-plus direct and indirect subsidiaries
+(collectively, the “Brightoil Group”) had embarked on a complex debt
+restructuring exercise in November 2018. 5
+
+##### Foot Note 5
+
+×
+
+Ng’s 1st Affidavit at para 10.
+
+To support the Brightoil Group’s debt restructuring, BPS applied for and
+obtained moratorium protection under s 211B of the Companies Act (Cap 50, 2006
+Rev Ed) (“CA”) to restrain legal proceedings against it. BOHL also applied for
+and obtained moratorium protection under s 211C of the CA. These moratoria had
+been extended multiple times by court orders until 31 January 2022. 6
+
+##### Foot Note 6
+
+×
+
+Ng’s 1st Affidavit at paras 11–12.
+
+At the hearing on 25 January 2022, I heard the applications and granted a
+further extension of these moratoria for BPS and BOHL, respectively, in HC/OS
+1539/2018 (HC/SUM 5726/2021) and HC/OS 134/2019 (HC/SUM 5727/2021). These
+extensions were sought to cover the period from the expiry of the moratoria to
+the date on which the court order sanctioning the scheme is lodged with the
+Accounting and Corporate Regulatory Authority of Singapore.
+
+7 BPS was able to successfully resolve a significant portion of its
+liabilities totalling more than US$390 million. 7
+
+##### Foot Note 7
+
+×
+
+Ng’s 1st Affidavit at para 15.
+
+The scheme of arrangement proposed (the “BPS Scheme”), which is the subject of
+HC/OS 1261/2021, is the penultimate step in restructuring the remaining debts
+due by BPS to its unsecured creditors. The key terms of the BPS Scheme are as
+follows: 8
+
+##### Foot Note 8
+
+×
+
+Ng’s 1st Affidavit at para 17.
+
+(a) The BPS Scheme is intended to bind all creditors of BPS as of 31 July
+2021, save for certain categories of excluded creditors as defined in the BPS
+Scheme (the “Scheme Creditors”).
+
+(b) The BPS Scheme is intended to restructure the unsecured debts and
+liabilities owing by BPS to the Scheme Creditors and there is a single class
+of unsecured creditors.
+
+(c) The Scheme Creditors will receive payments fixed at US$6 million, to be
+distributed on a pari passu basis.
+
+(d) Upon the BPS Scheme becoming effective pursuant to s 210(5) of the CA, BPS
+shall be completely and absolutely released and discharged from any and all
+claims, other than obligations arising under the BPS Scheme.
+
+8 The potential recovery for Scheme Creditors under the BPS Scheme is
+estimated to be about 12.0% of the debt value, as compared to recovery in a
+liquidation scenario of 0.2%. 9
+
+##### Foot Note 9
+
+×
+
+Ng’s 1st Affidavit at para 44.
+
+Liquidation is the most likely alternative outcome should the BPS Scheme not
+be sanctioned by the court, 10
+
+##### Foot Note 10
+
+×
+
+Ng’s 1st Affidavit at para 19.
+
+and is thus the appropriate comparator.
+
+9 Subsequently, a voting form for the BPS Scheme was circulated amongst the 12
+Scheme Creditors which were eligible to vote, for the purposes of tabulating
+what the notional votes in favour of the BPS Scheme would have been had a
+creditors’ meeting been held (since an application to sanction the scheme was
+to be made under s 71 of the IRDA). 11 of the 12 Scheme Creditors casted their
+votes (representing US$50,143,082.20 in value). 11
+
+##### Foot Note 11
+
+×
+
+Ng’s 1st Affidavit at para 37.
+
+There was only a single class of creditors constituted for the voting process.
+The results of the votes casts are as follows: 12
+
+##### Foot Note 12
+
+×
+
+Ng’s 1st Affidavit at para 36.
+
+(a) Ten of the Scheme Creditors (out of 11) representing US$47,269,535.04 in
+value (94.26%) voted in favour of the BPS Scheme.
+
+(b) One Scheme Creditor (out of 11) representing US$2,873,547.16 in value
+(5.74%) voted against the BPS Scheme.
+
+10 Hence, it seems clear that there is sufficiently strong support for the BPS
+Scheme. BPS then sought the court’s sanction of the scheme under s 71 of the
+IRDA.
+
+11 Crucially though, three of the Scheme Creditors, namely: SK Trading
+International Co Ltd, Global Energy Trading Pte Ltd and TransAsia Private
+Capital Limited (collectively, the “Locked-in Creditors”), had provided
+undertakings to vote in favour of the BPS Scheme in exchange for certain
+benefits (“BOHL Lock-up Agreements”). 13
+
+##### Foot Note 13
+
+×
+
+Ng’s 1st Affidavit at para 40.
+
+The benefit consisted of a fee of 1.0% of the Scheme Creditor’s admitted debt
+against BPS (“BOHL Consent Fee”). 14
+
+##### Foot Note 14
+
+×
+
+Ng’s 1st Affidavit at para 41(d).
+
+BOHL had, prior to the distribution of the explanatory statement and the BPS
+Scheme, offered to all Scheme Creditors an opportunity to enter into the BOHL
+Lock-up Agreements. 15
+
+##### Foot Note 15
+
+×
+
+Ng’s 1st Affidavit at para 41.
+
+This was done to introduce some certainty in the restructuring process, given
+that the BPS Scheme was intended to be pursued under s 71 of the IRDA without
+a meeting of creditors. The issue which arises is whether these Locked-in
+Creditors should have been placed in a separate class when voting instead of
+being allowed to vote in a single class with the other voting Scheme
+Creditors. If the Locked-in Creditors should have been classed separately,
+then the reliability of the vote conducted is in question.
+
+12 Additionally, one of the Locked-in Creditors, TransAsia Private Capital
+Limited (“TPCL”), had entered into a modified lock-up agreement with BPS. In
+addition to the BOHL Consent Fee offered, TPCL’s support for the BPS Scheme
+was also conditional upon BOHL making a separate payment to TPCL in part
+satisfaction of BOHL’s guarantee obligations (the guarantee was linked to loan
+facilities extended by TPCL to BPS). 16
+
+##### Foot Note 16
+
+×
+
+Ng’s 1st Affidavit at para 45.
+
+In total, BOHL agreed to pay an additional US$1.25 million to TPCL under the
+modified lock-up agreement.
+
+13 Further, six of the Scheme Creditors, consisting of: BO 688 Oil Tanker Pte
+Ltd, Brightoil 666 Oil Tanker Pte Ltd, Brightoil 639 Oil Tanker Pte Ltd,
+Brightoil 319 Oil Tanker Pte Ltd, BO 329 Oil Tanker Pte Ltd and BO 326 Oil
+Tanker Pte Ltd (collectively, the “Related Creditors”), are indirect wholly-
+owned subsidiaries of BOHL. 17
+
+##### Foot Note 17
+
+×
+
+Ng’s 1st Affidavit at para 33.
+
+This raises the issue of whether the votes of these Related Creditors should
+be appropriately discounted.
+
+Summary of the Applicant’s arguments
+
+14 The Applicant submitted that the notional voting outcome satisfied the
+statutory majority requirements under s 210(3AB)(a)–(b) of the CA. 18
+
+##### Foot Note 18
+
+×
+
+Applicant’s Skeletal Submissions dated 20 January 2022 (“Applicant’s
+Submissions”) at para 21.
+
+Since the BPS Scheme seeks only to restructure the unsecured debts and
+liabilities of the Scheme Creditors, then there would only be one class of
+Scheme Creditors for the purposes of voting. All the Scheme Creditors are
+unsecured creditors with similar rights and these existing rights of the
+Scheme Creditors vis-à-vis BPS will be compromised to the same extent. 19
+
+##### Foot Note 19
+
+×
+
+Applicant’s Submissions at para 28.
+
+There is no distinction between the new rights conferred onto each Scheme
+Creditor under the terms of the BPS Scheme as all will receive payments fixed
+at US$6 million on a pari passu basis. 20
+
+##### Foot Note 20
+
+×
+
+Applicant’s Submissions at para 28.
+
+15 The Applicant argued, following foreign cases, that the presence of the
+BOHL Lock-up Agreements did not mean that the Locked-in Creditors had to be
+classed separately for voting purposes. Firstly, the BOHL Lock-up Agreements
+were offered to all Scheme Creditors in July 2021 prior to the despatch of the
+BPS Scheme. Secondly, the BOHL Consent Fee of 1.0% of the Scheme Creditor’s
+admitted debt was not so substantial that it would induce the Locked-in
+Creditors to vote in favour of the scheme (which they might otherwise reject).
+In particular, there was sufficient commercial justification for Scheme
+Creditors to vote in favour of the BPS Scheme. 21
+
+##### Foot Note 21
+
+×
+
+Applicant’s Submissions at para 43.
+
+16 Regarding the additional US$1.25 million paid by BOHL to TPCL in partial
+satisfaction of BOHL’s guarantee obligations, the Applicant submitted that
+this additional payment to TPCL did not require TPCL to be placed in a
+separate class for voting. In particular, TPCL’s rights against BOHL in
+respect of the guarantee were distinct and independent from TPCL’s rights
+against BPS. 22
+
+##### Foot Note 22
+
+×
+
+Applicant’s Submissions at para 45.
+
+17 On the issue concerning the Related Creditors, the Applicant submitted that
+those creditors’ votes should be given their full value without any
+discounting as the Related Creditors ceased to be within the control of BOHL
+when they were placed in a creditors’ voluntary liquidation, and the decision
+to vote in favour of the scheme was made independently by the appointed
+liquidators. 23
+
+##### Foot Note 23
+
+×
+
+Applicant’s Submissions at para 53.
+
+Approval of schemes of arrangements under s 71 of the IRDA
+
+18 It was held in Re DSG Asia Holdings Pte Ltd [2021] SGHC 209 (“Re DSG Asia”)
+at [28] that there are two essential elements to obtaining the court’s
+approval under s 71 of the IRDA:
+
+(a) disclosure of information; and
+
+(b) satisfaction of the statutory majority requirements in the notional
+counting of votes.
+
+19 It is implicit in the second latter requirement that the creditors be
+properly classified for the notional counting of votes: Re DSG Asia at [29].
+The onus is on the applicant to show on a clear case standard that there has
+been proper disclosure of information and the fulfilment of the notional
+voting requirements: Re DSG Asia at [31].
+
+20 I accepted that the first requirement has been satisfied by BPS relating to
+the disclosure of information under s 71(3)(a) of the IRDA, as a detailed
+explanatory statement was issued. 24
+
+##### Foot Note 24
+
+×
+
+Ng’s 1st Affidavit, Exhibit NCH-1, at pp 32–69.
+
+The other statutory requirements pertaining to notices have also been complied
+with in accordance with s 71(3)(b) and s 71(3)(c) of the IRDA. 25
+
+##### Foot Note 25
+
+×
+
+Ng Chin Hock’s 2nd Affidavit filed on 17 January 2022, in HC/OS 1261/2021
+(“Ng’s 2nd Affidavit”), at paras 6 and 9.
+
+21 The key issue remaining is whether the statutory majority requirements in
+the notional counting of votes have been satisfied under s 71(3)(d) of the
+IRDA, which I now turn to.
+
+Statutory majority requirements
+
+22 The first substantive question was whether the notional statutory majority
+requirements specified under s 210 were met.
+
+23 Under s 210(3AB)(a)–(b) of the CA, a scheme of arrangement must be approved
+by a majority in number of the scheme company’s creditors or shareholders (as
+the case may be) representing three-fourths in value of the creditors or
+shareholders. This requirement need only be satisfied notionally in the
+context of s 71 of the IRDA for pre-packaged schemes since there is no actual
+voting conducted in a creditor’s meeting: Re DSG Asia at [29]. In classifying
+the creditors to determine whether the notional voting outcomes would have
+satisfied the statutory majority requirements, the court considers the
+creditors’ rights: Re DSG Asia at [53(a)]. Further, even if the statutory
+majority requirements would have been satisfied, the court in deciding whether
+to approve the scheme must be satisfied that the creditors whose votes were
+solicited for purpose of the notional voting outcomes were fairly
+representative of the class of creditors to which they belong, and the
+creditors’ private interests are relevant to this inquiry: Re DSG Asia at
+[53(b)].
+
+24 The notional statutory majority requirements would appear to have been
+satisfied as the BPS Scheme had received strong support from the Scheme
+Creditors. A majority in number of the voting Scheme Creditors (ten out of
+11), representing 94.26% of the total value (US$47,269,535.04 of
+US$50,143,082.20) had casted their votes in favour of the proposed scheme. 26
+
+##### Foot Note 26
+
+×
+
+Ng’s 1st Affidavit at para 38.
+
+All of the voting Scheme Creditors were placed in a single class for this
+notional voting exercise.
+
+25 The issue then was whether the Lock-in Creditors were properly part of the
+single class or whether they should have been placed in a separate class from
+the other creditors who did not enter into the lock-up agreements with BOHL
+(“Non-Locked-in Creditors”). The three Locked-in Creditors constituted 57.32%
+of total debt value amongst the votes that were cast (US$28,742,356.92 of
+US$50,143,082.20). 27
+
+##### Foot Note 27
+
+×
+
+Ng’s 1st Affidavit at para 31.
+
+This meant that without the buy-in from these Locked-in Creditors, the
+question would possibly have arisen as to whether the statutory majority
+requirements would have been met.
+
+Classification of creditors
+
+26 I was satisfied that the Lock-in Creditors were properly part of the same
+class as the other creditors.
+
+27 As observed in Re DSG Asia (at [44]) the requirements on the proper
+classification of creditors can be carried over from the case law touching
+upon s 210 of the CA. The test for classification (the “dissimilarity
+principle”) has been laid down in the seminal case of The Royal Bank of
+Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International
+Ltd and another appeal [2012] 2 SLR 213 (“TT International (No 1)”) at [131]:
+those creditors whose rights are so dissimilar to each other’s that they
+cannot sensibly consult together with a view to their common interest must
+vote in different classes. Other pertinent principles were also elaborated
+upon by the Court of Appeal (at [140]–[141]) in TT International (No 1):
+
+140 … the dissimilarity principle means that if a creditor’s (or a group of
+creditors’) position will improve or decline to such a different extent vis-à-
+vis other creditors simply because of the terms of the scheme (and not because
+of its own unique circumstances, ie, its “private interests”) assessed against
+the most likely scenario in the absence of scheme approval (“the appropriate
+comparator”), then it should be placed in a different voting class from the
+other creditors. We should highlight here that the appropriate comparator
+depends on the facts of each case and is not necessarily an insolvent
+liquidation. …
+
+141 … The application of the dissimilarity principle to complex transactions
+and situations where there are different levels of secured and unsecured
+creditors, as well as intra-creditor relationships, is not without its
+difficulties. Defining a “legal right” in these contexts can be thorny. The
+courts have therefore to take a broad, practical and objective approach in
+analysing creditor relationships and ensure that the application of this
+principle does not lead to an impractical mushrooming of classes that could
+potentially result in the creation of unjustified minority vetoes. An overly
+legalistic approach might inhibit the usage of schemes as a practical
+alternative to other insolvency measures with more extreme consequences for
+creditors as a whole.
+
+[emphasis in original; internal citations omitted]
+
+28 The proposed BPS Scheme is intended to restructure the unsecured debts and
+liabilities owed by BPS to the Scheme Creditors, 28
+
+##### Foot Note 28
+
+×
+
+Ng’s 1st Affidavit at para 17(c).
+
+and the appropriate comparator here is a liquidation scenario. Unsecured
+creditors are entitled to a pari passu distribution of the remaining pool of
+assets in liquidation (see United Securities Sdn Bhd (in receivership and
+liquidation) and another v United Overseas Bank Ltd [2021] 2 SLR 950 at [47]).
+The position of the Scheme Creditors would all be improved by a similar extent
+vis-à-vis each other under the terms of the BPS Scheme, as they will all
+receive payments totalling US$6 million on a pari passu basis. 29
+
+##### Foot Note 29
+
+×
+
+Ng’s 1st Affidavit at para 17(d).
+
+Hence, it is axiomatic that in applying the dissimilarity principle, there
+would only be one class of unsecured creditors for voting purposes as the
+Scheme Creditors’ positions were improved to a similar extent under the
+scheme.
+
+29 The question which remains is whether the Locked-in Creditors should be
+classed separately from the Non-Locked-in Creditors since they had acquired
+additional benefits under the BOHL Lock-up Agreements in the form of the 1.0%
+BOHL Consent Fee.
+
+The foreign jurisprudence concerning lock-up agreements
+
+30 The authorities from other jurisdictions, such as England and Hong Kong,
+point to the usefulness and propriety of such lock-in agreements, provided
+that certain requirements are met.
+
+(1) English authorities
+
+31 In England, this issue has only been dealt with in first instance
+decisions. As observed by Snowden J in Re ColourOz Investment 2 LLC and others
+[2021] 1 BCLC 55 (“Re ColourOz”), in the context of seeking a court order to
+convene a meeting of creditors under s 896 of the Companies Act 2006 (c 46)
+(UK) (the “UK Companies Act 2006”), at [98]: “The full implications of the
+practice of paying consent fees … have never been considered at an appellate
+level. However, a number of authorities at first instance indicate that in
+principle a consent fee … will not fracture a class …”.
+
+32 Amongst those first instance decisions include the earlier case of Re DX
+Holdings Ltd and other companies [2010] EWHC 1513 (Ch) (“Re DX Holdings”). In
+Re DX Holdings, Floyd J considered the question of whether creditors who
+signed lock-up agreements should be classed separately from the other
+creditors in an application to convene a meeting of creditors under s 896 of
+the UK Companies Act 2006. Floyd J held that no separate classification was
+required having regard to the following factors in Re DX Holdings at [7]:
+
+(a) all the scheme creditors were offered an opportunity to enter into the
+lock-up agreement;
+
+(b) it was unlikely that a creditor who considered the scheme to be against
+its interests would be persuaded to vote in favour of the scheme by the
+existence of the consent fee; and
+
+(c) the amount of consent fee payable (ranging from 0.5% to 2.5%) is small in
+relation to the common interests of the creditors in the restructuring.
+
+33 Subsequent decisions such as Re Noble Group Ltd (No 1) [2019] 2 BCLC 505
+(“Re Noble”) further elaborate upon the requirements set out in the earlier
+cases, and in particular, how the court should assess whether the consent fee
+payable to creditors under a lock-up agreement is so material that the rights
+of the creditors who will not be paid the fees are sufficiently dissimilar
+such that they cannot consult together with a view to their common interest.
+In Re Noble (at [150]), Snowden J observed that in evaluating the materiality
+of consent fees, it is inappropriate to simply look at the percentage which
+the fee bears to the face value of the debt held. Rather, what is more
+relevant is the size of the fee when compared to the predicted returns offered
+to all creditors under the scheme and the returns that creditors are predicted
+to make in a liquidation scenario (or the appropriate comparator): Re Noble at
+[151].
+
+34 For instance, in Re Codere Finance 2 (UK) Ltd (No 1) [2021] 2 BCLC 396 (“Re
+Codere”) (at [105]), in evaluating whether the size of the consent fee was
+material, Falk J did not merely consider the absolute value of the consent fee
+in the abstract, but made a comparison to the likely forecasted returns under
+the scheme and a liquidation scenario (which was the appropriate comparator).
+It was held that a consent fee between 0.5%–1.0% (Re Codere at [26]) is
+unlikely to exert a material influence on the creditors’ voting decision: Re
+Codere at [105]. This observation was made in the context where the company
+was expected to make full recovery if the scheme was implemented (Re Codere at
+[15]–[16]), as opposed to a likely liquidation scenario where the returns
+ranged between 0%–4.1% (Re Codere at [20]–[21]).
+
+35 In the decision of Re ColourOz, Snowden J conducted a comprehensive survey
+of the English first instance cases and summarised the position regarding
+lock-up agreements as follows (at [98]): “… a consent fee … will not fracture
+a class provided that it is made available to all scheme creditors, and
+provided also that it does not induce creditors to commit to vote in favour of
+a scheme which they might otherwise reject.” The general tenor of cases in
+England indicates that the mere fact that a benefit is conferred on some
+creditors who enter into lock-up agreements to vote in favour of a scheme is
+insufficient to require those creditors to be constituted as a separate class,
+and the overall inquiry is a highly fact-specific one (see Re Seat Pagine
+Gialle SPA [2012] EWHC 3686 (Ch) at [22]).
+
+36 However, caution had also been expressed in Re Sunbird Business Services
+Ltd [2021] 2 All ER (Comm) 1019 (“Re Sunbird”) (at [115]–[116]) regarding the
+increasing prevalence of lock-up agreements:
+
+115 The widespread use of lock-up agreements in recent years is, however, not
+without difficulties. One such concern (not present in the instant case)
+relates to the payment of lock-up fees. In many schemes, the company might
+offer to pay a fee to induce scheme creditors to enter into a legally binding
+agreement at an early stage to support the proposed scheme. The payment of
+such fees has been accepted in a number of cases at first instance, but
+serious concerns remain … Questions may well arise as to whether the payment
+of such fees should either result in the court ordering separate class
+meetings for those who have locked-up (and may thus be unable to change their
+mind absent a material change of circumstances) and those who have not; or
+otherwise as to the reliability of a majority vote comprising creditors in
+receipt of a lock-up fee and those who have not qualified to receive it.
+
+116 A second concern, which is relevant in this case, relates to the unequal
+provision of information to different groups of creditors.
+
+37 In Re Sunbird, Snowden J refused to sanction the scheme of arrangement
+despite the majority vote of the creditors. Amongst the various reasons cited
+was the fact that some majority creditors were misinformed (being hastily
+urged into signing the lock-up agreements) and were misled into signing the
+lock-up agreement under the erroneous impression that this was a requirement
+necessary to satisfy the court: Re Sunbird at [121].
+
+38 While there is good commercial sense in offering lock-up agreements in
+conjunction with proposed schemes as it could “avoid a potential waste of time
+and costs of starting the scheme process” (Re Sunbird at [114]), the court
+must be cognizant of the attendant risks as well.
+
+(2) Hong Kong authorities
+
+39 In Re Winsway Enterprises Holdings Ltd [2017] 1 HKLRD 1 (“Re Winsway”), the
+Hong Kong Court of First Instance appeared to agree with the English position
+in Re DX Holdings regarding whether creditors who enter lock-up agreements
+should be classed separately when voting on a scheme (at [20]):
+
+20 … the question will normally be the same: is the right to be paid an
+additional sum likely to influence materially a scheme creditor in deciding
+how to vote? Whether or not it may is likely to depend on whether or not the
+sum is substantial and has been offered in a manner, which creditors are
+likely to consider fair regardless of whether or not they took advantage of
+the opportunity to agree in advance to vote in favour of the restructuring. …
+
+40 Harris J held that, on the facts of that case, there was no need to place
+the creditors who entered into lock-up agreements in a separate voting class
+from the rest as the consent fee of 2.0% is relatively small, the agreements
+were made available to all scheme creditors and it was a bona fide attempt to
+introduce certainty in the restructuring process: Re Winsway at [20].
+
+41 Similarly, in the more recent decision of Re Da Sen Holdings Group Ltd
+[2022] HKCU 324 (“Re Da Sen”) (at [16]), it was observed that a payment of a
+consent fee will not fracture a class of creditors if the lock-up agreement
+was made available to all creditors and the consent fee offered would not have
+distorted the outcome of the voting. Harris J then held that a consent fee of
+5.0% was not unusually large and would not alter the classification of
+creditors: Re Da Sen at [16]. This conclusion was made in the context where
+the unsecured creditors’ recovery under the scheme was estimated to be about
+50.0%–60.0% and the recovery in a liquidation scenario (which was the
+appropriate comparator) was no more than 32.0%: Re Da Sen at [8].
+
+The legal position to be adopted in Singapore
+
+42 In my determination, lock-in agreements will generally not fracture a class
+when voting on a scheme of arrangement, subject to certain requirements.
+
+43 In determining the classification of creditors, the court considers any
+rights conferred or to be conferred in other agreements that are provided for
+under the terms of the scheme or which are conditional on the scheme: Re DSG
+Asia at [58]. Hence, the presence of lock-up agreements with some creditors is
+relevant to the court’s consideration for the classification of creditors when
+voting on a scheme.
+
+44 The rationale for offering lock-up agreements to creditors in a proposed
+restructuring is to reduce the risk that the proposed scheme that is
+introduced will fall through due to it not being able to garner the necessary
+statutory majority support: Re Winsway at [20]. There can be significant
+savings of time and costs if properly employed.
+
+45 Lock-up agreements (with their accompanying benefits, eg, consent fees
+payable) are undeniably designed to provide some material inducement for
+creditors to commit on their voting intentions so that the company proposing a
+scheme would not embark on the process in vain without sufficient support: Re
+ColourOz at [97]. It cannot be the case that the entering into lock-up
+agreements by creditors, in and of itself, would mean that those creditors
+must be classed separately when voting. One must be careful not to fracture a
+class too easily without a clear dissimilarity of rights such that minority
+creditors in another class would have a disproportionate right of veto (see Re
+Noble at [158]). The classification of creditors remains a perennially thorny
+issue given the myriad contexts which might arise (see the Report of the
+Insolvency Law Review Committee (2013) at pp 138–139, para 11). Hence, the
+assessment must remain a fact-specific one with all the circumstances
+considered in toto.
+
+46 Distilling the assistance from the cases in England and Hong Kong, the
+following, non-exhaustive, principles are to my mind relevant in determining
+whether creditors who enter into lock-up agreements should be classed
+separately for the purposes of voting on a scheme of arrangement, even for the
+notional tabulation of votes under s 71 of the IRDA:
+
+(a) While the benefits that can be conferred on creditors who enter into lock-
+up agreements are varied, the most common of which are the payment of consent
+fees, the critical question in every case is whether the benefit conferred is
+so sizeable that it would have a significant influence on the decision of a
+reasonable creditor when voting for the proposed scheme. In assessing whether
+there was a significant influence, one would look at the relative size of the
+consent fee (or benefit) when compared to the forecasted returns to creditors
+under the implemented scheme and the estimated recovery in liquidation (or
+another appropriate comparator).
+
+(b) The lock-up agreement must have been made available to all scheme
+creditors within the relevant class such that they were all given the equal
+right to enter into the agreement, and the agreements made with each creditor
+must be on substantially the same terms. Beyond that, whether a creditor
+chooses to exercise that right to enter into the lock-up agreement is beyond a
+scheme company’s control.
+
+(c) The use of the lock-up agreement must be done bona fide (eg, no misleading
+of creditors). It is trite that the court will not sanction a scheme if the
+company and/or its majority creditors are not acting bona fide: TT
+International (No 1) at [74]. This applies with equal force in the context of
+s 71 of the IRDA: Re DSG Asia at [66].
+
+Application to the facts – classification of Locked-in Creditors
+
+47 Applying the principles set out above to the facts at hand, I determined
+that there was no need to place the Locked-in Creditors in a separate class
+from the other Non-Locked-in Creditors for the purpose of determining whether
+the notional voting outcomes satisfied the statutory majority requirements,
+and the reliability of the notional majority vote was not compromised. I found
+that the Scheme Creditors whose votes were solicited for the notional voting
+outcomes were fairly representative of the class of creditors to which they
+belong.
+
+48 Regarding the size of the BOHL Consent Fee offered, the question was
+whether it is so sizeable that it would have a significant influence on the
+decision of a reasonable creditor when voting for the proposed scheme. When
+compared to the figures in the abovementioned cases like Re Codere and Re Da
+Sen, to my mind, the consent fee of 1.0% of the Scheme Creditor’s admitted
+debt would not be so significant as compared to the potential recovery of
+12.0% under the BPS Scheme and a 0.2% recovery in liquidation.
+
+49 By acceding to the BPS Scheme compared to the recovery in liquidation,
+there is a potential 60-fold recovery of the admitted debt value which would
+have been sufficient commercial justification alone for the Scheme Creditors
+to vote in favour of the BPS Scheme. In these circumstances, even without the
+additional BOHL Consent Fee of 1.0%, it is foreseeable that a reasonable
+creditor would have voted in favour of the scheme regardless. There is little
+reason to think that the voting outcomes were distorted.
+
+50 At this juncture, I caution that such an assessment is not one that is
+based purely on numerical comparison but must be done contextually, taking
+into account the other reasons as to why a reasonable creditor might enter the
+scheme and compromise on their debts.
+
+51 Next, the BOHL Lock-up Agreements were offered as a bona fide attempt, as
+part of the BPS Scheme, to introduce certainty into the restructuring process.
+30
+
+##### Foot Note 30
+
+×
+
+Ng’s 1st Affidavit at para 41.
+
+BPS had informed the Scheme Creditors of the present application to sanction
+the scheme under s 71 of the IRDA and, as of the date of the application,
+there had been no objections. 31
+
+##### Foot Note 31
+
+×
+
+Ng’s 2nd Affidavit at paras 6 and 8.
+
+It is also important that the lock-up agreement does not mislead creditors as
+to what could be recovered under the proposed scheme of arrangement. I noted
+that the expected recovery under the scheme was described in the BOHL Lock-up
+Agreements to be “between 8.8% and 18.1%” of the admitted debt, whereas it was
+stated that there would be “no recovery” in liquidation. 32
+
+##### Foot Note 32
+
+×
+
+Ng’s 1st Affidavit, Exhibit NCH-7, at para 6.
+
+This is not too far off from the eventual 12.0% and 0.2% recovery that was
+estimated by BPS in the respective scenarios.
+
+52 As an aside, some of the English authorities suggests that it is
+appropriate for lock-up agreements to include a provision that allows a
+signatory to terminate the agreement and cease to support the scheme in the
+event of a “material adverse change” to the company’s financial position (see
+Re ColourOz at [94]). This would ensure that a creditor is not irrevocably
+bound in all circumstances. I noted that within the BOHL Lock-up Agreement,
+there was no such clause. 33
+
+##### Foot Note 33
+
+×
+
+Ng’s 1st Affidavit, Exhibit NCH-7, at pp 309–312.
+
+My tentative view is that while the presence of such a provision in the lock-
+up agreement goes towards the bona fides and fairness of the arrangement, this
+is not a mandatory requirement. A conclusive pronouncement will need to await
+full arguments in an appropriate case.
+
+53 Lastly, the BOHL Lock-up Agreements were made available and sent to all
+Scheme Creditors. 34
+
+##### Foot Note 34
+
+×
+
+Ng’s 1st Affidavit at para 42.
+
+Hence, each Scheme Creditor was conferred an equal right to enter the
+arrangement proffering a consent fee of 1.0%, and none was being exalted over
+the other. These offers were all made on the same terms.
+
+54 As mentioned above at [12], a complication arises as, amongst the three
+Locked-in Creditors which acceded to the BOHL Lock-up Agreement, TPCL had
+entered into a modified agreement – where BOHL would make a separate payment
+in the amount of US$1.25 million in part satisfaction of BOHL’s obligations
+under a guarantee. 35
+
+##### Foot Note 35
+
+×
+
+Ng’s 1st Affidavit at para 45.
+
+Nevertheless, I agree broadly with the Applicant’s submissions that TPCL’s
+legal rights against BOHL in respect of the guarantee is distinct and
+independent from TPCL’s legal rights against BPS regarding the unsecured
+loans. It is trite that each incorporated entity has a separate legal
+personality with distinct legal rights and liabilities, and this principle
+applies to companies within an ownership group as well: Goh Chan Peng and
+others v Beyonics Technology Ltd and another and another appeal [2017] 2 SLR
+592 at [71]. Hence, the fact that BOHL agrees to make a payment to TPCL in
+part satisfaction of its outstanding guarantee obligations will not change
+substantively TPCL’s legal rights vis-à-vis BPS, despite the fact that BPS is
+one of the indirect wholly-owned subsidiaries of BOHL. This would mean that
+TPCL could still be classed with the other Scheme Creditors for voting as its
+rights were not so dissimilar with the others such that it could not sensibly
+consult together with a view to their common interest.
+
+55 The court should not look at the scheme in isolation, but must consider
+rights conferred or to be conferred in other agreements that are conditional
+on the scheme: Re DSG Asia at [58]. Under the BPS Scheme, it is expressly
+provided under one of the clauses that: 36
+
+##### Foot Note 36
+
+×
+
+Ng’s 1st Affidavit, Exhibit NCH-7, at p 80.
+
+4.3 For the avoidance of doubt, unless expressly provided in this Scheme:
+
+…
+
+(b) a Scheme Creditor shall not be required to waive, release or discharge its
+claims against any other party, including any Brightoil Group Entity, or any
+liability and obligation owing by such other party to the Scheme Creditor, in
+connection with or in relation to the Claims of the Scheme Creditor against
+the Company or otherwise.
+
+Hence, BOHL’s outstanding guarantee obligations owed to TPCL would not be
+waived even if the BPS Scheme were sanctioned. Put it another way, it could
+not be said that BOHL’s part payment of its existing guarantee obligation was
+one that was conditional upon the scheme being sanctioned. The court is not
+required to consider rights that are genuinely independent of the scheme: Re
+DSG Asia at [58]. That independence trumped the possible argument that the
+guarantee was commercially part of the same transaction.
+
+Votes of related creditors
+
+56 Regarding the votes of related creditors, the six Related Creditors are
+also the indirect wholly-owned subsidiaries of BOHL (just like BPS), and
+hence, they are related to BPS (the scheme company) as they share a common
+controlling shareholder.
+
+57 The votes of creditors which are also wholly-owned subsidiaries of the
+scheme company should be discounted to zero: TT International (No 1) at [158],
+while it appears that a partial discounting approach should be taken for other
+related creditors which are not wholly-owned subsidiaries of the scheme
+company: TT International (No 1) at [170]–[171]. On the other hand, I note the
+obiter observations in SK Engineering & Construction Co Ltd v Conchubar
+Aromatics Ltd and another appeal [2017] 2 SLR 898 (“SK Engineering”) (at
+[66]–[67]) that disagreed with the partial discounting approach taken in TT
+International (No 1) as it is inevitably arbitrary, not amenable to definitive
+guidance, and because it appears more principled and certain to wholly
+discount the votes of creditors once they are found to be related to the
+scheme company. Here, we are dealing with the situation where the Related
+Creditors are not the wholly-owned subsidiaries of the scheme creditor.
+Without having to resolve the divergent views expressed in TT International
+(No 1) and SK Engineering, my decision is that no discount should be applied
+to the votes of the six Related Creditors.
+
+58 I agreed with the Applicant’s submission that these six Related Creditors
+ceased to be within the management control of BOHL as they had been placed
+into a creditors’ voluntary liquidation on 16 August 2021. 37
+
+##### Foot Note 37
+
+×
+
+Ng’s 1st Affidavit at para 33.
+
+The decision by the six Related Creditors on whether to vote for or against
+the BPS Scheme, therefore, stemmed from an independent decision made by the
+appointed liquidator who owed duties to the creditors of the respective
+companies. The liquidators also confirmed that this decision was made without
+any discussion with the Related Creditors. 38
+
+##### Foot Note 38
+
+×
+
+Ng’s 1st Affidavit at para 33.
+
+Hence, no discount should be applied.
+
+Conclusion
+
+59 Accordingly, as the notional voting outcome satisfied the statutory
+majority requirements and the reliability of the majority vote was not
+compromised due to any improper classification of creditors, the application
+was granted.
+
+Aedit Abdullah  
+Judge of the High Court|  
+---|---  
+  
+Hing Shan Shan Blossom, Chan Wei Meng, Foo Guo Zheng Benjamin and Clarie Ong
+Bee Sim (Drew & Napier LLC) for the applicant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 18 Feb 2022 (12:11 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

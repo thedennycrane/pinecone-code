@@ -1,0 +1,510 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the Appellate DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC(A) 21
+
+Civil Appeal No 81 of 2022
+
+Between
+
+| Purnima Anil Salgaocar  
+---|---  
+  
+… Appellant
+
+And
+
+| Lakshmi Anil Salgaocar (suing as the administratrix of the estate of Anil
+Vassudeva Salgaocar, deceased)  
+---|---  
+  
+… Respondent
+
+In the matter of Originating Claim No 49 of 2022 (Summons No 2031 of 2022)
+
+Between
+
+| Lakshmi Anil Salgaocar (suing as the administratrix of the estate of Anil
+Vassudeva Salgaocar, deceased)  
+---|---  
+  
+… Claimant
+
+And
+
+| Purnima Anil Salgaocar  
+---|---  
+|  
+  
+… Defendant
+
+JUDGMENT
+
+[Contract — Contractual Terms — Rules of construction]
+
+[Civil Procedure — Injunctions — Enforcement of negative covenant]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Purnima Anil Salgaocar
+
+  
+v
+
+  
+
+Lakshmi Anil Salgaocar (suing as the administratrix of the estate of Anil
+Vassudeva Salgaocar, deceased)
+
+[2023] SGHC(A) 21
+
+Appellate Division of the High Court — Civil Appeal No 81 of 2022  
+Woo Bih Li JAD and Aedit Abdullah J  
+15 March 2023
+
+5 June 2023
+
+Woo Bih Li JAD (delivering the judgment of the court):
+
+Introduction
+
+1 This is an appeal against the judge’s (the “Judge”) decision to grant an
+injunction: Lakshmi Anil Salgaocar (suing as the administratrix of the estate
+of Anil Vassudeva Salgaocar, deceased) v Purnima Anil Salgaocar [2023] SGHC 49
+(the “GD”).
+
+2 Having considered the parties’ respective cases, we allow the appeal and set
+aside the injunction. These are our reasons.
+
+Facts and Procedural History
+
+3 This case concerns a dispute between a mother (“L”) and a daughter (“P”) in
+respect of the estate of the patriarch of the family (“AVS”).
+
+4 On 11 August 2015, a suit was filed, ie, HC/S 821/2015 (“S 821”) by AVS
+against one Darsan Jitendra Jhaveri (“DJJ”) claiming that a trust was created
+with DJJ as trustee. AVS passed away intestate on 1 January 2016 and L has
+continued the action as sole administratrix of his estate (“the Estate”).
+
+5 The beneficiaries of the Estate are L, as his widow, and four children which
+include P. Disputes arose between P and L.
+
+6 On 13 April 2020, L and P entered into a settlement agreement. P
+subsequently alleged that L had breached their settlement agreement and filed
+HC/OS 928/2020 (“OS 928”).
+
+7 On 27 May 2021, L and P entered into a second settlement agreement (“2SA”)
+to settle OS 928.
+
+8 Under cl 7 of 2SA, L was obliged to provide an account (“the Accounts”) of
+certain assets referred to as “the Estate’s Non-India Assets” (the “Non-India
+Assets”) for the period from 1 January 2016 to 31 December 2020 to be drawn up
+by an independent and qualified accountant. The Accounts were to be procured
+and placed at the office of Mr Gurbachan Singh of GSM Law LLP by 1 December
+2021. P was entitled to inspect the Accounts with advance notice given but not
+to take photos, video or audio recordings of any material or information
+during the inspection.
+
+9 P alleges that L breached this provision for two reasons. First, the
+Accounts were not provided on 1 December 2021, even though cl 20 of 2SA
+stipulates that time shall be of the “essence in the performance of this
+Agreement”.
+
+10 Second, even when a document was eventually provided late (for inspection
+on 28 January 2022), it was not an account of the Non-India Assets. Instead,
+it was a thin report by an accountant which purported to set out valuations of
+the Non-India Assets, excluding the assets which are the subject of S 821, on
+two dates, ie, 31 December 2015 and 31 December 2020. P’s grievance was not
+that the report should include the assets which are the subject of S 821 but
+rather that, even for the other Non-India Assets, the report did not contain
+any information on L’s dealings with the other Non-India Assets between 31
+December 2015 and 31 December 2020. We will say more about this contention
+later.
+
+11 Accordingly on 27 April 2022, P filed an action, ie, HCF/OSP 6/2022 (“OSP
+6”) in the Family Justice Court under r 786 of the Family Justice Rules 2014
+for an order:
+
+(a) to direct L to provide the Accounts and make a copy available to P within
+one month from the date of the court’s order;
+
+(b) that an independent auditor be appointed from certain named accounting
+practices to audit the Accounts;
+
+(c) that P be at liberty to apply for an inquiry into any unauthorised
+disbursements shown in the Accounts;
+
+(d) that P be given liberty to falsify or surcharge the Accounts; and
+
+(e) costs.
+
+12 Instead of filing an affidavit in reply to OSP 6, L filed another action
+which was an originating claim in HC/OC 49/2022 (“OC 49”) on 18 May 2022. In
+this action, L alleged primarily that by filing OSP 6 itself, P herself was in
+breach of 2SA because under the terms thereof, viz, cll 11 and 18, P was
+precluded from commencing any action, even if L were in breach of 2SA, except
+an action for breach of 2SA, until S 821 was finally determined. Under 2SA,
+the final determination of S 821 included the trial and any appeal thereafter.
+In other words, L perceived OSP 6 as an action which was not for breach of 2SA
+as such.
+
+13 L also claimed damages for P’s alleged breach including repayment of
+certain money which L had paid P under cl 4 of 2SA. L sought the following
+reliefs in OC 49:
+
+(a) an injunction to restrain P from commencing or maintaining any action
+other than for breach of 2SA until the final disposal of S 821;
+
+(b) a declaration that P is not entitled to commence or maintain any action
+other than for breach of 2SA until the final disposal of S 821;
+
+(c) damages for breach of 2SA including the repayment of certain money paid by
+L to P under 2SA; and
+
+(d) costs and interest.
+
+14 On 31 May 2022, L filed HC/SUM 2031/2022 (“SUM 2031”) in OC 49 to seek an
+injunction to restrain P along the lines as alleged in the main relief sought
+in OC 49.
+
+15 On 1 June 2022, L filed HCF/SUM 145/2022 (“SUM 145”) in OSP 6 for OSP 6 to
+be struck out or stayed pending the hearing of OC 49. SUM 145 was supposed to
+have been filed on 31 May 2022, ie, at the same time when SUM 2031 was filed
+but due to some error it had to be re-filed on 1 June 2022.
+
+16 On 10 June 2022, P filed a defence and counterclaim in OC 49. In her
+counterclaim, P sought payment of money which L was obliged to make under cl
+4(b) of 2SA (see below at [22]).
+
+17 On 28 June 2022, SUM 2031 was heard and decided by the Judge who granted an
+injunction as sought in SUM 2031.
+
+18 On 12 July 2022, P filed AD/OA 10/2022 (“OA 10”) in the Appellate Division
+of the High Court (“AD”) for permission to appeal against the decision of the
+Judge.
+
+19 On 13 September 2022, the AD granted P permission to appeal. On 15
+September 2022, P filed AD/CA 81/2022 (“AD 81”) as her appeal against the
+Judge’s decision. This formed the subject matter of the present appeal.
+
+20 On 13 October 2022, P filed HC/SUM 3781/2022 (“HC SUM 3781”) in OC 49 for:
+
+(a) an order that L to produce certain documents in discovery;
+
+(b) a declaration that 2SA remained binding on L;
+
+(c) an order that L pay damages being equivalent to the amounts payable by L
+under 2SA and an order that L continue to make such payments; and
+
+(d) interest and costs.
+
+21 Apparently, SUM 3781 was split into two hearings, one before a judge and
+one before an assistant registrar (“AR”). The application for discovery of
+certain documents was first heard by an AR on 22 November 2022 who dismissed
+it. P’s appeal against that decision was heard by Justice Philip Jeyaretnam on
+27 January 2023 and he dismissed P’s appeal.
+
+22 In the meantime, on 25 November 2022, Jeyaretnam J heard the other aspect
+of SUM 3781, ie, that L be ordered to make payment of certain money under 2SA.
+Under cl 4(a) of 2SA, L was to pay P $135,000 in two instalments. Under cl
+4(b), L was also to pay P $15,000 on the 15th day of each calendar month from
+15 June 2021 until the final distribution of the Non-India Assets. L had paid
+the $135,000. She had also paid the $15,000 monthly payments until P’s
+allegation that L had breached her obligation to provide the Accounts
+whereupon L stopped making the $15,000 monthly payments (from June 2022) and
+in fact claimed the return of the money which she had already paid to P.
+Jeyaretnam J noted that L was alleging that 2SA still subsists, ie, L was not
+saying that 2SA had been terminated. Accordingly, he ordered L to make payment
+of the $15,000 per month to P as damages (in so far as this pertained to
+overdue payments) and to continue to pay that sum in accordance with 2SA.
+
+23 On 28 February 2023, Kannan Ramesh JAD rendered his decision in S 821:
+Lakshmi Anil Salgaocar (suing as the administratrix of the estate of Anil
+Vassudeva Salgaocar) and another v Darsan Jitendra Jhaveri and others (Kwan Ka
+Yu Terence, third party) [2023] SGHC 47. This was said by L to be in favour of
+the Estate. However, as DJJ may file an appeal, that decision is not the final
+determination of S 821 for the purpose of 2SA.
+
+24 On 4 May 2023, the trial of OC 49 was heard by Jeyaretnam J. We understand
+that closing submissions are due to be submitted by 5 June 2023.
+
+25 In the meantime, AD 81 is pending a decision from this court and OSP 6
+remains outstanding pending our decision in AD 81.
+
+Observations
+
+26 We note that in SUM 2031, the Judge did not merely grant an interlocutory
+injunction pending the outcome of OC 49. She did not merely reach a tentative
+conclusion on the interpretation of two important provisions in 2SA, ie, cll
+11 and 18, pending a decision thereon in OC 49. It appears that she reached a
+final decision as seen in her grounds of decision dated 28 February 2023: GD
+at [29]. Hence, the terms of the injunction she granted restrained P from
+commencing or maintaining any action for the Non-India Assets pending the
+final determination of S 821 instead of pending the outcome in OC 49 (cf RGA
+Holdings International Inc v Loh Choon Phing Robin and another
+
+  
+
+[2017] 2 SLR 997 where the appellant had sought an interim prohibitory
+injunction in Suit 226 of 2016 to restrain the respondents from selling a
+property until the determination of that suit itself).
+
+27 If that is the case, it would mean that the Judge had effectively granted L
+one of the main reliefs L had sought in OC 49, ie, the injunction. In so far
+as L had also sought a declaration, this was an overlap with the injunction.
+
+28 On the other hand, it also appears that the parties have proceeded on the
+premise that the decision of the Judge granting the injunction is
+interlocutory in that it is still pending a final decision from the court
+hearing OC 49. For example, P had sought and obtained permission to appeal
+against the decision of the Judge. This suggests that that decision was an
+interlocutory one. In the circumstances, we are prepared to act on the premise
+that the Judge’s decision was an interlocutory one and that the injunction she
+granted was pending a decision in OC 49, unless our decision in AD 81 renders
+the decision on this point in OC 49 academic.
+
+29 While both sides must have been aware that parties were proceeding with OC
+49 in tandem with AD 81, neither side has informed us that in view of the
+hearing for OC 49, our decision in AD 81 is unnecessary. For example, P filed
+her submissions for AD 81 on 15 March 2023. At para 122, she simply says that
+the trial for OC 49 has been fixed for 4 May 2023, but it is uncertain how
+long it will be until the final determination of OC 49. There is no suggestion
+that our decision in AD 81 would be subject to the decision in OC 49. Neither
+is there a suggestion that OC 49 should await our decision in AD 81. If our
+decision in AD 81 is not final and binding on the parties and is still subject
+to a decision in OC 49, then we question whether there is any useful purpose
+in rendering a decision in AD 81 because OC 49 has been heard. Even if it is
+unclear when the decision in OC 49 will be rendered and there may be a further
+appeal from a decision in OC 49, a decision in AD 81 will not help P unless
+the decision in AD 81 is final and binding on the parties. If it does not so
+bind, a decision in AD 81 favourable to P will only mean that P can proceed
+with OSP 6 subject to the final determination in OC 49 on the question of an
+injunction and any further appeal from that decision.
+
+30 Aside from P’s claim for payments under cl 4(b) of 2SA and L’s claim for
+damages for P’s alleged breach in commencing OSP 6, the main dispute between
+the parties is whether: (a) P is precluded from commencing OSP 6 even if L is
+in breach of cl 7; and (b) if P is not precluded from doing so, whether L has
+in fact breached cl 7 and P is entitled to the reliefs sought in OSP 6. The
+main difference between OSP 6 and OC 49 appears to be that in OSP 6, P is
+seeking an order that L provide the Accounts and other consequential relief
+whereas this is not part of her counterclaim in OC 49. Nevertheless, there is
+an overlap between OSP 6 and OC 49 on the facts and the issues between P and
+L. It seems to us that the parties should not have proceeded with OC 49 in the
+meantime pending a decision in AD 81. This is because if the court in AD 81
+makes a decision that P is entitled to commence OSP 6 (assuming that L is in
+breach of cl 7), that may well reduce the scope of the litigation in OC 49 or
+even negate the need to carry on with OC 49 (leaving aside the question of P’s
+claim for L’s breach of cl 4(b) or L’s claim for damages against P which could
+easily be resolved by the court).
+
+31 As for L, her submissions for AD 81 were filed on 15 March 2023. There is
+no elaboration in L’s submissions as to the interaction between the hearing in
+AD 81 and in OC 49. Like P, L’s submissions do not say whether one should
+await the outcome of the other or why both should proceed in tandem.
+
+The court’s decision in respect of the appeal
+
+32 Be that as it may, we will proceed to give our ruling on AD 81 which is the
+appeal before us. Whether the appeal should be allowed, and the injunction
+discharged, turns on the interpretation of cll 11 and 18 which state as
+follows:
+
+11\. Provided that the terms of this Agreement are fully complied with by [L],
+[P] also agrees not to commence any further litigation against the Estate or
+any of the other beneficiaries of the Estate, in relation to the Non-India
+Assets and/or matters connected with [S 821] and/or by using any information,
+correspondence and/or documents arising in relation to and pursuant to this
+Agreement, until after the trial in [S 821] has been concluded and any
+appeal(s) thereafter has been finally determined and/or when [S 821] is
+withdrawn and/or settled.
+
+…
+
+18\. In the event of any breach of this Agreement, the Parties shall only be
+entitled to sue on this Agreement and shall not be entitled to revive or
+pursue OS 928.
+
+33 P argues that because L has failed to provide the Accounts, P is entitled
+to commence a fresh action for the Accounts and other reliefs and is not
+confined to commencing a fresh action solely for a breach of 2SA.
+
+34 On the other hand, L argues that even if she had failed to provide the
+Accounts, P is entitled only to commence action for breach of 2SA. It is
+implicit in L’s arguments that she considers OSP 6 to be more than an action
+for breach of 2SA. Presumably, this is because OSP 6 was filed in the Family
+Justice Courts as opposed to being filed in the General Division of the High
+Court of Singapore. On the other hand, P does not make it clear whether she
+considers OSP 6 to be consistent with an action for breach of 2SA although it
+is clear that OSP 6 seeks reliefs other than as specifically provided in 2SA.
+For example, 2SA does not specifically provide for the appointment of an
+independent accountant to audit the Accounts if and when the Accounts are
+provided.
+
+35 We are of the view that OSP 6 may be considered an action for breach of 2SA
+and may come within cl 18. However, if cl 18 prevails over cl 11, it is
+arguable whether P is entitled to the appointment of an independent accountant
+or the third and fourth reliefs claimed by P (see [11] above) until after the
+final determination of S 821.
+
+36 In any event, we are of the view that cl 11 prevails over cl 18 in the
+circumstances and will elaborate below.
+
+37 However, first, we observe that these clauses were not well drafted
+although it seems that they were drafted with input from the lawyers of the
+parties. There is an apparent inconsistency between the two.
+
+38 P argues that cl 18 was only meant to resolve disputes in OS 928 whereas cl
+11 was meant to address the wider issue about the Non-India Assets. Hence, cl
+11 prevails if L fails to provide the Accounts. However, in our view, this is
+not clearly stated in 2SA even with knowledge of the background of their
+dispute over the alleged past failure of L to provide any accounts. For
+example, 2SA does not clearly state that cl 18 is subject to cl 11 or that cl
+11 will apply regardless of any other clause in 2SA.
+
+39 On the other hand, while L argues that cl 18 is a general clause and covers
+a situation where even cl 7 is not complied with, this also is not clearly
+stated because it then seems to render the qualification in the opening words
+of cl 11 otiose. According to L, even if she fails to provide the Accounts, P
+can only sue for her to provide the Accounts (because of a breach of cl 7) but
+nothing else until S 821 is finally determined. Hence, regardless of whether L
+breaches cl 7, P is still bound to await the final determination of S 821
+before P can file any other action or seek any other relief beyond the
+Accounts.
+
+40 In granting P permission to appeal, the AD was of the tentative view that
+cl 18 is narrower in scope than cl 11. Under cl 18, P cannot revive OS 928 but
+under cl 11, P can commence litigation in relation to the Non-India Assets if
+L defaults in complying with cl 7.
+
+41 We are of the view that if P is entitled only to sue on 2SA, this would
+render otiose the qualifying words in cl 11, “Provided that the terms of this
+Agreement are fully complied with …”. That clause is meant to stress to L that
+if she does not want P to file any action for the Non-India Assets until the
+final determination of S 821, L has to comply with the terms of 2SA and
+especially the provision of the Accounts.
+
+42 Second, if L is correct in her argument, it would mean that regardless of
+whether she is in breach of 2SA, P cannot commence any action in respect of
+the Non-India Assets until after the final determination of S 821. But yet P
+may do so, even if L has complied with 2SA, so long as S 821 has been finally
+determined. In our view, if P’s position were to be so constrained and remain
+the same whether L is in breach of 2SA or not, clear words to that effect are
+necessary. Clause 18 is not enough.
+
+43 This brings us to the third point. In our view, cl 18 allows P to sue for
+breach of 2SA and precludes P from pursuing OS 928 or reviving the matters
+stated in OS 928, except for those stated in cl 11 of 2SA. It is not disputed
+that OSP 6 relates to the matters mentioned in cl 11.
+
+44 In the circumstances, we are of the view that, if L has breached cl 7, P is
+not precluded from commencing OSP 6.
+
+45 We come to P’s argument that it is for L who is seeking to enforce cll 11
+and 18, as interpreted by L, to show that L has in fact complied with cl 7.
+This is not a valid argument. If L’s interpretation is correct, P is only
+entitled to sue for breach of 2SA even if L is in breach of cl 7.
+
+46 Moving to the next point and assuming that P’s interpretation of cll 11 and
+18 is correct, P argues that L is indeed in breach of cl 7.
+
+47 On the other hand, L has denied that she is in breach of cl 7 but her focus
+is instead firstly on cll 11 and 18. Secondly, she argues that P’s pleadings
+in OC 49 do not allege a breach of cl 7 as such but only that the Accounts
+were not provided on time and P has waived the late compliance.
+
+48 We are of the view that L’s second argument is not in respect of an issue
+before us because in SUM 2031, L had sought an injunction to restrain P from
+proceeding with OSP 6, not P’s counterclaim in OC 49. In OSP 6, there is no
+pleading and P has clearly contended in her supporting affidavit that the
+accounts provided were not the Accounts required under cl 7 of 2SA. Indeed,
+the Judge proceeded on the premise that this was P’s position. However, the
+Judge thought that it would not matter even if L had failed to provide the
+Accounts because of her decision on cll 11 and 18.
+
+49 For the time being, we need only note that P has some basis to allege that
+L has breached cl 7. However, we need not decide whether L has breached cl 7
+because we are not hearing OSP 6 or OC 49 at present. Neither do we need to
+rule on whether P’s pleadings in OC 49 allege a breach of cl 7.
+
+50 Finally, there was some argument by P as to whether the Judge was correct
+in granting the injunction in view of the principles in American Cyanamid Co v
+Ethicon Ltd [1975] 1 AC 396, ie, whether there is a serious question to be
+tried and whether the balance of convenience lies in favour of granting the
+injunction. This argument is misplaced. Once the Judge had interpreted cll 11
+and 18 as she did, it was unsurprising that she granted the injunction. She
+had answered the question to be determined and the injunction was the
+consequence of her decision.
+
+51 For the avoidance of doubt, we state that our decision that P is not
+restricted to suing for a breach of 2SA and may commence OSP 6 is a final
+decision which binds the parties in OC 49 as well as in OSP 6 (including SUM
+145). It is a decision on a preliminary point which a court is entitled to
+make on its own accord (see O 9 r 19 of the Rules of Court 2021). Indeed,
+neither side suggested that our decision in AD 81 would necessarily be subject
+to the decision of the court hearing OC 49. We add that neither side suggested
+that oral evidence of the parties’ intention is necessary or required in the
+exercise the court has undertaken for the interpretation of cll 11 and 18.
+That is also our view.
+
+52 Therefore, we allow this appeal and set aside the injunction granted by the
+Judge. The consequence of our decision is that P is entitled to proceed with
+OSP 6 even though OC 49 has been heard but not yet decided.
+
+53 We suggest that OSP 6 be fixed for hearing as soon as possible before
+Jeyaretnam J, if possible, since he has heard OC 49. It is for the learned
+judge to decide if he should defer his decision on OC 49 until he hears OSP 6
+so as to avoid inconsistent decisions or avoid decisions or appeals being
+given or heard further apart in time than is desirable in the light of
+overlapping facts and/or issues between OSP 6 and OC 49. If directions for OSP
+6 are required, it would make sense for Jeyaretnam J to give the directions.
+
+54 We order L to pay P the costs of OA 10 and AD 81 fixed at $23,000 all in.
+We also order L to pay P the costs of SUM 2031 fixed at $10,000 all in.
+
+55 The usual consequential orders are to apply.
+
+Woo Bih Li  
+Judge of the Appellate Division| Aedit Abdullah  
+Judge of the High Court  
+---|---  
+  
+Lim Gerui and Estad Amber Joy (Drew & Napier LLC) for the appellant.
+
+Kanapathi Pillai Nirumalan, Liew Teck Huat and Phang Cunkuang (Niru & Co LLC)
+for the respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 06 Jun 2023 (12:30 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

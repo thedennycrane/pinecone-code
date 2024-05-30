@@ -1,0 +1,3564 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2021] SGHC 219
+
+Suit No 847 of 2020
+
+Between
+
+| Dathena Science Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Justco (Singapore) Pte Ltd  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Contract] — [Discharge] — [Frustration]
+
+[Contract] — [Contractual terms] — [Unfair Contract Terms Act]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Dathena Science Pte Ltd
+
+  
+v
+
+  
+
+Justco (Singapore) Pte Ltd
+
+[2021] SGHC 219
+
+General Division of the High Court — Suit No 847 of 2020  
+Lai Siu Chiu SJ  
+26–29 January, 15 March, 5 April 2021
+
+28 September 2021 Judgment reserved
+
+Lai Siu Chiu SJ:
+
+Introduction
+
+1 This is one of the first cases, if not the very first case, that resulted
+from the measures that were taken by the Singapore government to control the
+spread of the Covid-19 pandemic in 2020. It culminated in a claim for
+$286,891.50 and a counterclaim of $2,399,796.00.
+
+The facts
+
+2 The plaintiff, Dathena Science Pte Ltd (“Dathena”), is a cybersecurity
+company incorporated in Singapore in 2016 and is in the business of developing
+software that provides data security and privacy applications to its clients.
+Its founder and chief executive officer (“CEO”) is Christopher Vincent Muffat
+(“Muffat”). Besides Singapore, Dathena has offices in Bangkok, Geneva,
+Lausanne, Paris, London and New York City.
+
+3 The defendant JustCo (Singapore) Pte Ltd (“JustCo”) was incorporated in
+Singapore in 2015 and is in the business of providing workspaces to its
+customers in offices or commercial buildings that it rents. Apart from
+Singapore, JustCo also has operations in other Asian cities such as Bangkok
+and Jakarta.
+
+4 Sometime in end-2019, as Dathena was expanding, JustCo proposed that it let
+to Dathena units located at #12-01, #13-01, #14-01 and #15-01 in No 63, Chulia
+Street, OCBC Centre East, Singapore (“the OCBC Premises” or where the context
+refers to the entire building, “OCBC CE”). Due to the nature of its business,
+it was of paramount importance to Dathena that the OCBC Premises could meet
+its information technology (“IT”) requirements and that Dathena could move its
+servers into the OCBC Premises before the start date of the lease.
+
+5 JustCo confirmed to Dathena that its IT requirements would be met. The
+agreed requirements and costs are as follows: 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of evidence-in-chief (“AEIC”) of Rohaidah bte Ripangi (“Aida’s
+AEIC”) at para 2.3.6.
+
+| Location| Item| Quantity| Charges  
+---|---|---|---|---  
+1| Server room| Full server rack (each rack is 42U) rental| 2| $2,500 per rack
+per month x 2 = $5,000  
+2| Server room| Dedicated SSID -within suite| 1| $150 per month  
+3| Server room| Internet service provider (“ISP”) Co-ordination fee1 x site
+survey1 x site installation| 1| $500  
+  
+6 On 16 January 2020, Dathena and JustCo entered into an agreement (“the
+Membership Agreement”) whereby Dathena agreed to lease the OCBC Premises from
+JustCo for two years commencing from 1 May 2020 to 30 April 2022 (“the Lease”)
+which was referred to as the Security Term in the document. In the Membership
+Agreement, Dathena was referred to as “the Member”, JustCo was referred to as
+“the Company” and the OCBC Premises were referred to as “the Allocated Office
+Space”.
+
+7 The salient terms of the Membership Agreement are as follows: 2
+
+##### Foot Note 2
+
+×
+
+AB145–150 (the Membership Agreement).
+
+(a) Dathena would pay JustCo a monthly sum of $99,991.50 (termed “the
+Membership Fee”) which comprised of a membership fee of $72,050 and a
+miscellaneous fee of $21,400 plus applicable Goods and Services Tax;
+
+(b) Dathena would pay JustCo a refundable security deposit of $186,000 (“the
+Security Deposit”) throughout the duration of the Lease;
+
+(c) Under cl 2(a)(iii) of the Membership Agreement, 3
+
+##### Foot Note 3
+
+×
+
+AB146 (ibid cl 2(a)(iii)).
+
+Dathena could request JustCo to provide “Additional Services” at extra cost
+and upon such other terms as were advised by JustCo.
+
+The court will return to the Membership Agreement later for its other terms
+and conditions relevant to this dispute. It will also be seen later that the
+terms and conditions of the Membership Agreement were heavily weighted in
+favour of JustCo against its members. One prime example would be the lack of a
+termination clause to enable a member to terminate the Membership Agreement
+but JustCo unilaterally had such right. 4
+
+##### Foot Note 4
+
+×
+
+AB147 (ibid cl 8).
+
+Indeed, a member could not even assign or transfer its membership to another
+party without prior written consent from JustCo. 5
+
+##### Foot Note 5
+
+×
+
+AB147 (ibid cl 9).
+
+On the other hand, JustCo could unilaterally replace a member’s “Allocated
+Office Space” with alternative spaces 6
+
+##### Foot Note 6
+
+×
+
+AB146 (ibid cl 2(c)).
+
+if “necessary due to the operational requirements of [JustCo]”. 7
+
+##### Foot Note 7
+
+×
+
+AB146 (ibid cl 2(c)).
+
+8 In the Appendix attached to the Lease, 8
+
+##### Foot Note 8
+
+×
+
+AB149 (ibid Appendix).
+
+Dathena separately agreed to pay JustCo $40,000 as a one-time construction
+cost for the following items:
+
+(a) three managerial rooms;
+
+(b) one additional phone booth;
+
+(c) a larger meeting room (from four to six persons) and a storeroom;
+
+(d) 84 data ports (entitlement 50 ports with an additional 34);
+
+(e) air-conditioning and fire sprinkler works; and
+
+(f) all building approvals.
+
+9 Pursuant to the Membership Agreement, Dathena paid JustCo on 5 March 2020
+the sum of $286,891.50 (“the Deposit”). The Sum comprised of the Security
+Deposit and the monthly membership fee ($72,050) due for May 2020.
+
+10 However, Dathena did not occupy the OCBC Premises starting 1 May 2020 or at
+all due to unexpected and/or unforeseen events as set out below and which are
+pleaded in Dathena’s statement of claim (“SOC”).
+
+11 On 11 March 2020, the World Health Organisation (“the WHO”) declared the
+Covid-19 pandemic to be a global health crisis.
+
+12 With the increasing number of Covid-19 cases in Singapore, the Singapore
+Government announced on 3 April 2020 that it would, on 7 April 2020, implement
+what came to be known as the Circuit Breaker Measures (“the CB Measures”)
+promulgated under the Covid-19 (Temporary Measures) (Control Order)
+Regulations 2020 (“Covid-19 Regulations”). Under the CB Measures, the
+Government required non-essential services to cease. Service-providers like
+Dathena had to adopt home-based remote telecommuting arrangements for their
+workforce and cease operations at its physical office(s). The CB Measures were
+originally scheduled to end on 4 May 2020. However, on 21 April 2020, the
+Government announced that the measures would be extended to 1 June 2020 as the
+Covid-19 situation in Singapore remained critical.
+
+13 Due to the CB Measures, JustCo claimed it could not ready the OCBC Premises
+for Dathena in time for moving in on 1 May 2020. This posed a problem for
+Dathena as its then tenancy at One George Street (“OGS”) would expire on 1 May
+2020. It should be noted at this stage that the OCBC Premises were part of
+OCBC Centre East (“OCBC CE”), a new development which was still under
+construction in early 2020.
+
+14 The representative from Dathena who negotiated with JustCo was its
+Lifestyle Manager Rohaidah Binte Ripangi (“Aida”) and her counterpart was
+Sian-Tzu Casteels (“Sian-Tzu”) who was then JustCo’s Assistant Manager of
+Enterprise Sales. Other people involved on Dathena’s side were its IT
+personnel Jérémie Simon Arnaud (“Jeremie”) and Sai Tun Nay Lin (“Sai Tun”). On
+JustCo’s part, the persons involved were Sheena Goh (“Sheena”) who is its
+Assistant Vice President & Director (Enterprise Sales) and Sharlene Poh
+(“Sharlene”) another Assistant Manager of Enterprise Sales.
+
+15 The salient events that unfolded after the Membership Agreement was signed
+are set out in the following paragraphs.
+
+16 On 23 January 2020, Aida and Dathena’s IT personnel met representatives of
+JustCo to discuss Dathena’s requirement for early access to the server room of
+the OCBC Premises to enable Dathena to move in its servers in order to
+minimise disruptions to its operations on 1 May 2020. Early moving-in of
+Dathena’s servers meant that JustCo also had to provide power supply (for
+network installation and air-conditioning) to the server room. Dathena further
+required JustCo to grant early access to Dathena’s ISP who was M1, so that
+internet connectivity could be activated before 1 May 2020.
+
+17 Aida emailed Sian-Tzu with the list set out earlier at [5] on 19 February
+2020. JustCo provided a quotation of the listed items on 19 March 2020 which
+Muffat signed on 20 March 2020. 9
+
+##### Foot Note 9
+
+×
+
+AB843–844 (Quotations dated 19 March 2020).
+
+“Item No 2” of JustCo’s quotation was for the supply of two server racks in
+the server room at $5,000 per month. Aida emailed the signed quotation back to
+JustCo on 23 March 2020. On Aida’s email inquiry on 17 March 2020 on the
+timelines, 10
+
+##### Foot Note 10
+
+×
+
+AB430 (Aida’s email to Sian-Tzu dated 17 March 2020).
+
+Sharlene emailed Aida on 24 March 2020 with the following timelines (“the
+First Timelines”): 11
+
+##### Foot Note 11
+
+×
+
+AB504–507 (email chain between Sharlene and Aida with attachment).
+
+(a) IT works: 23 March–24 April 2020;
+
+(b) Server room set-up: 30 March–6 April 2020;
+
+(c) Power supply for server room: 1–24 April 2020;
+
+(d) Dathena’s equipment & installation: 1–24 April 2020;
+
+(e) AV & AP set up, IT Testing & Commissioning: 22–28 April 2020; and
+
+(f) Moving in: 1 May 2020.
+
+18 On 25 March 2020, Sharlene informed Dathena that there would be a delay
+such that frosting (of glass) could only be done after Dathena moved into the
+OCBC Premises. 12
+
+##### Foot Note 12
+
+×
+
+AB653–654 (Sharlene’s email to Aida dated 25 March 2020).
+
+19 On 8 April 2020, after the CB Measures were announced, JustCo informed
+Dathena that there would be a one month’s delay in Dathena’s moving into the
+OCBC Premises. 13
+
+##### Foot Note 13
+
+×
+
+AB631–632 (Sian-Tzu’s email to Aida dated 8 April 2020).
+
+20 On 10 April 2020, Muffat and Aida had a telephone conversation with Sian-
+Tzu. In that call, 14
+
+##### Foot Note 14
+
+×
+
+Aida’s AEIC at para 3.5.8.
+
+JustCo was informed that:
+
+(a) Dathena wanted a revision of the commercial terms of the Membership
+Agreement (either by way of temporary rent waiver or rent reduction) since it
+was not otherwise acceptable that the OCBC Premises would not be ready by the
+original agreed date of 1 May 2020;
+
+(b) Dathena was required to vacate its premises at OGS by 5 May 2020 and it
+was imperative that it could move into or at least house its servers in, the
+OCBC Premises;
+
+(c) due to the CB Measures, Dathena’s staff had to telecommute and it only
+required premises for about 65–70 staff (bearing in mind mandatory social-
+distancing requirements and split-team arrangements).
+
+JustCo kept notes of the conversation but Dathena did not. 15
+
+##### Foot Note 15
+
+×
+
+Aida’s AEIC exhibit RR-16 at p 416 (Sharlene’s email to Sian-Tzu dated 10
+April 2020).
+
+However, Aida disagreed with Sian-Tzu’s notes that stated “Dathena have
+stopped expansion plans” and “reduce number of staff to 65–70 pax”. Aida
+denied both statements were ever made. 16
+
+##### Foot Note 16
+
+×
+
+Aida’s AEIC at para 3.5.10.
+
+21 On 13 April 2020, 17
+
+##### Foot Note 17
+
+×
+
+AB647 (Sian-Tzu’s email to Aida dated 13 April 2020).
+
+Sian-Tzu emailed Aida referring to the telephone conversation 10 April 2020
+and said:
+
+… we have taken note of your request to renegotiate the commercial terms of
+your membership agreement signed with JustCo in OCBC Centre (including
+membership fees free period or reduction in the monthly membership fees).
+While we empathise the situation that your business is going thru, we are
+however not in a position to allow any change in commercial terms as our
+operating costs remain unchanged. We are still committed and obligated to our
+landlord, vendors and staff to pay the full cost of our rent, services and
+salary during this period.
+
+Aida replied to the above email on the same day to reiterate that Dathena
+required at least 64 seats and inquired what options were available to Dathena
+since the OCBC Premises were not ready. 18
+
+##### Foot Note 18
+
+×
+
+Aida’s AEIC at exhibit RR-17 at p 469 (Aida’s email to Sian-Tzu dated 13 April
+2020).
+
+22 On 16 April 2020, JustCo informed Dathena that the latter could move into
+the OCBC Premises by 1 June 2020. On the same day, Sian-Tzu revised the First
+Timelines in [17] to the following (“the Second Timelines”): 19
+
+##### Foot Note 19
+
+×
+
+AB581 (Sian-Tzu’s email to Aida dated 16 April 2020).
+
+(a) IT works: 5–15 May 2020;
+
+(b) Server room set-up: 14–18 May 2020;
+
+(c) Power supply for server room: 18 May 2020 onwards;
+
+(d) Dathena’s equipment & installation: 18–22 May 2020;
+
+(e) AV & AP set up, IT Testing & Commissioning: 19–27 May 2020;
+
+(f) Moving in: 29 May–1 June 2020.
+
+23 After the Government announcement on 21 April 2020 that the CB Measures
+would be extended to 1 June 2020 (as mentioned at [12]), Sian-Tzu emailed Aida
+on 22 and 30 April 2020 to say that item (f) in the Second Timelines (ie,
+moving in) at [22] would be pushed back to 30 June 2020. 20
+
+##### Foot Note 20
+
+×
+
+AB605 (Sian-Tzu’s email to Aida dated 22 April 2020); AB635 (Sian-Tzu’s email
+to Aida dated 30 April 2020).
+
+24 On 30 April 2020, Sian-Tzu further revised the First Timelines in [17] to
+the following (“the Third Timelines”): 21
+
+##### Foot Note 21
+
+×
+
+AB643 (Dathena’s timeline dated 30 April 2020).
+
+(a) IT works: 2–12 June 2020;
+
+(b) Server room set-up: 15–19 June 2020;
+
+(c) Power supply for sever room: 19 June 2020 onwards;
+
+(d) Dathena’s equipment & installation: 17–23 June 2020;
+
+(e) AV & AP set up, IT Testing & Commissioning: 22–26 June 2020; and
+
+(f) Moving in: 30 June 2020.
+
+25 On 18 May 2020, Sian-Tzu emailed Muffat to say: 22
+
+##### Foot Note 22
+
+×
+
+AB691 (Sian-Tzu’s email to Muffat dated 18 May 2020).
+
+We are targeting to let you move in sometime end of June (as soon as
+possible). However, the agreement will be from 1 July onwards thus you are
+right – you will not be paying for space at OCBC Centre East in June.
+
+26 In his AEIC, 23
+
+##### Foot Note 23
+
+×
+
+Muffat’s AEIC at para 2.3.11.
+
+Muffat described the rent waiver for June 2020 and alleged cost saving thereby
+as illusory since Dathena could not occupy the OCBC Premises in June 2020 in
+any event and should not be paying rent for that month.
+
+27 In a telephone call on 26 May 2020, Dathena was informed by JustCo that it
+could not be certain when the OCBC Premises would be ready. 24
+
+##### Foot Note 24
+
+×
+
+Aida’s AEIC at para 3.1.1(e).
+
+Despite the uncertainty surrounding when Dathena could move into the OCBC
+Premises, JustCo had sent an invoice dated 1 May 2020 25
+
+##### Foot Note 25
+
+×
+
+AB847 (JustCo’s tax invoice to Dathena dated 1 May 2020).
+
+for $18,350.50 to Dathena as a follow-up to the quotation in [17] (ie, based
+on the First Timelines) which Dathena promptly paid on 2 May 2020. 26
+
+##### Foot Note 26
+
+×
+
+AB848 (outward FAST payment transaction advice of DBS dated 2 May 2020).
+
+28 It should be noted at this stage that the chronology of events set out in
+[16] to [27] are not exhaustive of the communication between the parties –
+only the salient events have been identified.
+
+29 As a result of the telephone call mentioned at [27] which was the
+proverbial last straw, Dathena issued a notice of termination to JustCo on 29
+May 2020 (“the Notice of Termination”) signed by Muffat. Paragraphs 3 and 4 of
+the Notice of Termination read as follows: 27
+
+##### Foot Note 27
+
+×
+
+AB726–727.
+
+3\. Regrettably, we consider the [Membership Agreement] to be now terminated,
+or frustrated, for the following reasons:
+
+a. Dathena’s use and occupancy of the Premises has not been able to commence
+up till now, even though the commencement date of 1 May 2020 (“Commencement
+Date”) has come and gone. JustCo has explained to us on three (3) occasions
+that this Commencement Date has been delayed due to delays in construction and
+renovation work on the Premises. But there is no indication or visibility
+given as to when the construction and renovation work can be completed and,
+more importantly, when the Premises will be available for occupancy. We trust
+that it can be appreciated that it was not in the contemplation of the parties
+that Dathena would have to wait for an indefinite period of time for the use
+and occupancy of the Premises to commence.
+
+b. Furthermore, in view of the Covid-19 epidemic (“Covid-19”) situation that
+was unforeseen by all, the broad scope of social-distancing measures
+implemented by the Singapore government, as well as the continued expectation
+of Singapore government for all businesses to telecommute from home as far as
+possible for the foreseeable future, it would be reasonable to say that
+Dathena’s original intended use of the Premises is now no longer possible or
+viable.
+
+4\. In light of the above, we would kindly request for a refund of the
+Security Deposit and Advance Payment within the next 14 days.
+
+[emphasis in original]
+
+The “Advance Payment” referred to in para 4 was the one month’s rental of
+$93,450.00 for May 2020 which Dathena had paid (see [27]). Dathena’s refund
+request was for the Deposit of $286,891.50 (the Security Deposit of $186,900
+plus advance Membership Fee of $99,991.50).
+
+30 Not unsurprisingly, Dathena’s request for a refund was rejected by JustCo’s
+vice president and general counsel Nicholas Song (“Song”) whose reply by email
+on 1 June 2020 (“JustCo’s Response”) to the Notice of Termination, inter alia,
+stated: 28
+
+##### Foot Note 28
+
+×
+
+AB728.
+
+We note that Dathena’s inability to obtain access to its Allocated Office
+Space at OCBC [Centre] East is due entirely to the mandatory circuit breaker
+measures imposed by the Singapore government to address the Coivid-19 crisis.
+These measures include prohibitions on non-essential services from working in
+the office and on the conduct of renovation works during the circuit breaker
+period. OCBC [Centre] East is a brand new [centre] and our renovations at OCBC
+[Centre] East are well advanced; until the circuit breaker measures were
+imposed, we were on track to be able to make the Allocated Office Space
+available to Dathena by the stipulated commencement date.
+
+Unfortunately, with the prohibition on renovation works during the circuit
+breaker period, and with the restrictions on renovation works following the
+end of the circuit breaker period, we are not yet able to confirm when
+Dathena’s Allocated Office Space will be available. This is entirely dependent
+on when the Building and Construction Authority will allow us to resume our
+renovation works at OCBC [Centre] East. Please be assured that we [are]
+following up with the Building and Construction Authority very actively and
+very regularly on this. No one can be more eager than us to complete the
+renovation works at OCBC [Centre] so that we can open it to our members.
+
+Accordingly, we are not able to agree that the membership agreement is
+terminated or frustrated. The delay in making the Allocated Office Space
+available is due to reasons entirely beyond our control. The delay is only
+temporary and we are doing our best to persuade the authorities to allow us to
+finish the renovation works as quickly as possible. Also, the membership
+agreement allows us to provide alternative office space to Dathena in lieu of
+the originally specified Allocated Office Space, and it also provides that the
+member will not have any claim against us for any interruption, disruption or
+cessation of the use of the [centre] or the Allocated Office Space.
+
+Notwithstanding our rights under the membership agreement, we do [recognise]
+the disruptions and difficulties which Dathena is experiencing as a result of
+the delay in moving into the Allocated Office Space, and we are willing to
+work with Dathena to find a mutually acceptable solution. On a without
+prejudice basis, for example, we would be willing to provide Dathena with
+alternative office space at preferential rates until OCBC [Centre] East is
+ready.
+
+The court will return to the Notice of Termination as well as JustCo’s
+Response in the course of this judgment. Dathena described JustCo’s Response
+as entirely self-serving and disappointing. 29
+
+##### Foot Note 29
+
+×
+
+Aida’s AEIC at para 3.9.13.
+
+31 It was JustCo’s case that due to the CB Measures then in force, JustCo
+and/or the developers of OCBC CE could not apply for permission to install
+internet services “as essential services” (a category exempted from the CB
+Measures, as elaborated at [193]) because this work was considered as part of
+the prohibited construction category of works.
+
+32 Notwithstanding Dathena’s termination of the Membership Agreement, it was
+still prepared to consider JustCo’s offers of alternative premises for its
+occupation. JustCo offered Dathena a temporary space at Verizon’s premises at
+Ocean Financial Centre (“the Verizon Premises”) for the period 6 to 31 May
+2020, where Dathena had a pre-existing lease. Dathena could not accept the
+offer as the floor plan provided by JustCo for the temporary space showed that
+Dathena would be sharing that space with other companies, which was not ideal,
+given the safe-distancing and contact tracing requirements of Covid-19
+regulations. 30
+
+##### Foot Note 30
+
+×
+
+Aida’s AEIC at paras 3.5.15(d)–3.5.16(a).
+
+33 In her AEIC, 31
+
+##### Foot Note 31
+
+×
+
+Aida’s AEIC at para 3.8.
+
+Aida complained that despite not being able to deliver the OCBC Premises to
+Dathena either on 1 May or 1 June 2020, JustCo attempted to invoice Dathena
+for rent due on 1 June 2020 despite Sian-Tzu’s email dated 16 April 2020 to
+Dathena where she said: 32
+
+##### Foot Note 32
+
+×
+
+AB630 (Sian-Tzu’s email to Aida dated 16 April 2020).
+
+… the term will start only from 01 June 2020 instead of 01 May 2020 thus you
+will have sone cost savings from there ...
+
+Aida deposed she was shocked to receive from JustCo via email on 11 May 2020:
+(a) an invoice for $21,239.50 for provision of Telecommunications & IT, rental
+of server racks and usage etc for the months of May and June 2020 (even though
+no such services were provided) and (b) another invoice for $99,991.50 being
+rent for June 2020. 33
+
+##### Foot Note 33
+
+×
+
+Aida’s AEIC at para 3.8.2.
+
+Item (a) was a double billing as Dathena had been billed and paid, for May
+2020. She felt that JustCo simply wanted to keep charging Dathena even though
+nothing had been delivered. 34
+
+##### Foot Note 34
+
+×
+
+Aida’s AEIC at para 3.8.3.
+
+34 When Dathena pointed out the invoicing mistakes to JustCo, Aida deposed
+that Sian-Tzu confirmed that JustCo would issue credit notes to offset
+Dathena’s payment for May 2020 for the server rack rental charges, which
+JustCo did. However, nothing was said and to-date, no credit note(s) have been
+issued for JustCo’s invoice(s) for June 2020. During Sian-Tzu’s cross-
+examination it appeared that JustCo‘s failure to issue credit notes was
+JustCo’s hope (even up to the trial according to her) of a “solution” to the
+dispute. 35
+
+##### Foot Note 35
+
+×
+
+Transcripts dated 28 January 2021 at pp 560–561.
+
+35 Following a teleconference call between Muffat and Aida with JustCo on 3
+June 2020, Sian-Tzu emailed Dathena the same evening to offer premises at No
+51 Bras Basah Road (“the Bras Basah Premises”) at a monthly rent of $48,000
+for 45 open workstations or $1,060 per workstation. While Dathena was prepared
+to consider the Bras Basah Premises, it was not in a prime location like the
+OCBC Premises and were more expensive as the OCBC Premises worked out to
+$778.75 per workstation. Aida conveyed Dathena’s views to JustCo.
+Notwithstanding Dathena’s rejection, Aida agreed at Muffat’s request to
+inspect the Bras Basah Premises. 36
+
+##### Foot Note 36
+
+×
+
+Aida’s AEIC at paras 4.1.1–4.1.6.
+
+36 Aida visited the Bras Basah Premises on 10 June 2020. She took a video to
+show to and discuss with Muffat subsequently. Muffat and/or Aida felt the Bras
+Basah Premises were not suitable (apart from its location) due to the fact
+that Dathena had to share the premises with personnel from other companies
+(including the only available conference room on the entire floor) and it did
+not have a storeroom which Dathena needed to store spare parts for its IT
+equipment. 37
+
+##### Foot Note 37
+
+×
+
+Aida’s AEIC at paras 4.1.8–4.1.9.
+
+37 Aida conveyed Dathena’s reservations in [36] to Sian-Tzu on 15 June 2020
+via WhatsApp 38
+
+##### Foot Note 38
+
+×
+
+AB750.
+
+and repeated them on 18 June 2020 in a telephone call with JustCo. 39
+
+##### Foot Note 39
+
+×
+
+Aida’s AEIC at para 4.2.1(a).
+
+However, Sian-Tzu continued to push the Bras Basah Premises to Dathena and
+presented the OCBC Premises as a second option projected to be ready by
+September 2020. 40
+
+##### Foot Note 40
+
+×
+
+AB769 (Sian-Tzu’s email dated 18 June 2020).
+
+38 Out of goodwill, Muffat (with Aida) inspected the Bras Basah Premises on 1
+July 2020 with Sian-Tzu. However, the visit only confirmed the unsuitability
+of the premises. Aida alleged in her AEIC that at the site visit, Sian-Tzu
+informed them JustCo was facing cash flow problems as many of its tenants were
+seeking to terminate or withdraw from their leasing arrangements due to
+Covid-19. 41
+
+##### Foot Note 41
+
+×
+
+Aida’s AEIC at para 4.2.1(c).
+
+39 On 7 July 2020, 42
+
+##### Foot Note 42
+
+×
+
+AB792 (Muffat’s email to Sian-Tzu dated 7 July 2020).
+
+Muffat emailed Sian-Tzu to explain why both options presented by JustCo were
+not acceptable. During his cross-examination, 43
+
+##### Foot Note 43
+
+×
+
+Transcripts dated 27 January 2021 at p 326.
+
+Muffat explained that the OCBC Premises could have allowed Dathena to expand
+its office to accommodate 120 staff but not the Bras Basah Premises. However,
+the OCBC Premises were no longer considered as there was no clarity as to when
+it would be delivered. On the same day, Sheena responded via email, 44
+
+##### Foot Note 44
+
+×
+
+AB791–792.
+
+repeating JustCo’s response, that the Membership Agreement was still in force
+and the OCBC Premises would be ready by 9 September 2020.
+
+40 By then, Dathena had signed a lease for alternative and larger premises at
+No 43 Niven Road and at No 11 Blair Road. 45
+
+##### Foot Note 45
+
+×
+
+Muffat’s AEIC at para 5.2.1; Transcripts dated 27 January 2021 at p 358.
+
+Hence, on 8 July 2020, Muffat and Aida, in a conference call with JustCo,
+repeated Dathena’s request for a refund of the Deposit as stated in the Notice
+of Termination. 46
+
+##### Foot Note 46
+
+×
+
+Muffat’s AEIC at para 5.2.3.
+
+41 Although Sheena had on 9 July 2020 emailed Muffat and Aida to say that
+Dathena’s request was “pending” the management’s decision, 47
+
+##### Foot Note 47
+
+×
+
+AB791 (Sheena’s email to Muffat and Aida dated 9 July 2020).
+
+she reverted by email on 16 July 2020 to say Dathena’s request was denied. 48
+
+##### Foot Note 48
+
+×
+
+AB802.
+
+Attached to Sharlene’s email was JustCo’s letter signed by Kong Wan Long dated
+14 July 2020 (“Kong’s Letter”) who is its co-founder and chief commercial
+officer. Kong’s Letter reiterated JustCo’s Response, insisted that the
+Membership Agreement remained in effect and binding, that JustCo did not agree
+to its termination and it did not accept that the Membership Agreement was
+frustrated.
+
+42 On 22 July 2020, Dathena’s solicitors sent a letter of demand (“Dathena’s
+Letter of Demand”) to JustCo requiring refund of the Deposit within 14 days.
+49
+
+##### Foot Note 49
+
+×
+
+AB804–807.
+
+43 On 27 July 2020, Song responded on JustCo’s behalf to Dathena’s Letter of
+Demand reiterating JustCo’s Response and added in paras 4 and 5: 50
+
+##### Foot Note 50
+
+×
+
+AB810–811.
+
+4\. There is also no frustration of the Membership Agreement.
+
+a) Dathena could not in any case have access to the Allocated Office Space
+during the circuit breaker period.
+
+b) We had offered to discuss with Dathena various accommodation options while
+its Allocated Office Space is being [finalised] for occupation after the
+Building and Construction Authority has permitted the works to resume …
+
+c) It is also not correct that Dathena has been left to wait indefinitely for
+its Allocated Space to be available. Apart from offering Dathena various
+accommodation options, we advised Dathena on 18 June 2020 that its Allocated
+Office Space would likely be available in September 2020. We followed up with
+Dathena on 7 July 2020 to confirm that its Allocated Office Space would be
+available on 9 September 2020. Given the length of the term of the Membership
+Agreement, a short adjournment of the commencement date necessitated by
+mandatory measures imposed by the government, coupled with our willingness to
+provide alternative interim measures, which are within our contractual rights,
+cannot be said to have frustrated the Membership Agreement.
+
+d) Also, Dathena has not indicated that it was imperative that it must be able
+to move into its Allocated Office Space and no other space, immediately after
+the end of the circuit breaker period. We believe that the real reason
+underlying Dathena’s desire to exit the Membership Agreement is due to
+business considerations which do not form the basis of frustration.
+
+44 The comment in the first sentence in para 4(d) seems to suggest that no one
+in JustCo had apprised Song of the fact that JustCo had been informed by
+Dathena on 10 April 2020 that its lease at OGS expired on 5 May 2020 and it
+needed to have a new office immediately thereafter (as mentioned at [20(b)]).
+Indeed, it was Sian-Tzu’s testimony that from the outset (in November 2019),
+she knew that Dathena’s lease at OGS would expire in May 2020. 51
+
+##### Foot Note 51
+
+×
+
+Transcripts dated 28 January 2021 at p 470.
+
+45 The last sentence in 4(d) above seemed to imply that it was Dathena’s
+financial situation or difficulties that motivated the Notice of Termination
+and its need to reduce its headcount and office space. This was a reliance by
+JustCo on the notes that Sian-Tzu purportedly made of the meeting on 10 April
+2020 with Dathena but, as noted earlier at [20], Aida had contested those
+comments. In any case, Song’s surmise is at odds with the fact that Dathena’s
+lease at No 43 Niven Road and No 11 Blair Road (as mentioned at [40]) was for
+space that was even larger than the OCBC Premises. Moreover, in its closing
+submissions, 52
+
+##### Foot Note 52
+
+×
+
+JustCo’s Closing Submissions at para 7.
+
+JustCo disclosed its “business was badly hit by the financial pressures
+brought about by the pandemic”. Indeed, JustCo’s conduct throughout its
+dealings with Dathena suggests it was operating under financial pressures.
+
+46 Dathena took the view that JustCo’s reply in [43] was wholly unfounded. In
+his AEIC, Muffat referred to his and Aida’s telephone conversation with Sian-
+Tzu on 10 April 2020. He felt that Song’s response in [43] demonstrated that
+JustCo had never really listened to Dathena’s concerns and was attempting to
+force Dathena to choose one of two equally unviable options. 53
+
+##### Foot Note 53
+
+×
+
+Muffat’s AEIC at para 5.2.9(c).
+
+47 On 1 September 2020, Sheena suddenly sent an email to Dathena stating
+Dathena had not responded to JustCo’s letter of 27 July 2020 at [43] and that
+the Membership Agreement and Allocated Office Space for the OCBC Premises
+would be available from 9 September 2020 to 30 April 2022. 54
+
+##### Foot Note 54
+
+×
+
+AB816.
+
+48 As Dathena considered the Lease to have been terminated/frustrated by the
+Notice of Termination in [29], Aida immediately replied to Sheena’s email as
+follows: 55
+
+##### Foot Note 55
+
+×
+
+AB815–816.
+
+We already served the notice of termination and/or frustration of the
+membership Agreement on JustCo on 29 May 2020 and our position still stands.
+
+There is no basis for JustCo to consider that Dathena is continuing with the
+agreement.
+
+49 Even so, Aida (on Muffat’s instructions) visited the OCBC Premises on 4
+September 2020 as a matter of courtesy to ascertain if JustCo was lying again.
+Aida went alone as Muffat was busy. In her AEIC, Aida deposed that she felt
+“ambushed” as JustCo at the site inspection kept insisting that it assumed
+Dathena would continue with the Membership Agreement as the OCBC Premises were
+ready for occupation on 9 September 2020. According to Aida, JustCo wanted to
+strike a deal even though Muffat was not present and she was told that JustCo
+would keep the Deposit which would be set-off against the rent if Dathena
+moved in. Aida responded that she had no authority to make any decision as she
+was not part of the management of Dathena. 56
+
+##### Foot Note 56
+
+×
+
+Aida’s AEIC at paras 4.3.5–4.3.7; Transcripts dated 28 January 2021 at p 435,
+lines 17–21.
+
+50 Aida took issue with JustCo’s Defence and Counterclaim 57
+
+##### Foot Note 57
+
+×
+
+At para 4(m).
+
+that alleged that she “had conveyed to [JustCo’s] representatives during the
+site inspection. amongst others, that [Dathena] intended to significantly
+reduce its staff size, and that [Dathena] is open to explore options to
+resolve the issues relating to the Membership Agreement amicably”. Aida
+contended that the allegation was misleading. She had only said that Dathena
+was downsizing an overseas office. She pointed out JustCo would have been
+aware of this fact as Dathena did not renew its Bangkok lease with JustCo. She
+asserted that Dathena did not intend to downsize its Singapore office and she
+never told JustCo it would do so. 58
+
+##### Foot Note 58
+
+×
+
+Aida’s AEIC at para 4.3.8.
+
+51 Aida briefed Muffat on the outcome of the site inspection. 59
+
+##### Foot Note 59
+
+×
+
+Aida’s AEIC at para 4.3.11.
+
+Muffat felt that the parties were at an impasse. Accordingly, he instructed
+Dathena’s solicitors to and they did, commence this suit on that day itself
+(ie, 4 September 2020). 60
+
+##### Foot Note 60
+
+×
+
+Muffat’s AEIC at para 5.3.9.
+
+The pleadings
+
+The Statement of Claim (“SOC”)
+
+52 In the SOC, Dathena relied, inter alia, on cl 2 in the Membership Agreement
+which states:
+
+(a) [Dathena] accepts and [JustCo] agrees to provide business studio/suite
+facilities at [the OCBC Premises] (“Business Studio/Suite Services”) … as set
+out below:
+
+(i) (for Business Studio/Suite Services) the use of the Allocated Office Space
+together with the non-exclusive right in common with [JustCo] and other
+members on the [OCBC Premises] to use the passageways, lavatories, pantries,
+breakout areas and other common areas in [the OCBC Premises];
+
+(ii) the non-exclusive use of fixtures, fittings, furniture and other
+facilities provided by [JustCo] at the [OCBC Premises] …
+
+Dathena further referred to provisions in the Membership Agreement relating to
+payment of the Membership Fees and refundable Security Deposit, as mentioned
+at [7].
+
+53 Dathena then averred that JustCo had breached the Membership Agreement by
+referring to the timelines that JustCo provided at [17], [22] and [24] but
+which it breached. Dathena contended that it did not accept and/or acquiesce
+to the delays proposed in JustCo’s emails of 22 April 2020 at [23] and 18 May
+2020 at [25]. Dathena added that as a result of JustCo’s breaches, Dathena was
+unable to use the OCBC Premises from the commencement date of 1 May 2020. This
+amounted to a repudiatory breach of the Membership Agreement and a breach of a
+fundamental term and/or a breach depriving Dathena of the whole or substantial
+benefit of the Membership Agreement and/or it evinced JustCo’s intention to no
+longer be bound by the Membership Agreement. 61
+
+##### Foot Note 61
+
+×
+
+At para 7.
+
+54 Dathena said it was therefore entitled to and did, terminate the Membership
+Agreement on 29 May 2020 by the Notice of Termination. As a result, Dathena
+had suffered loss and damage by the claim amount (as set out at [29]). 62
+
+##### Foot Note 62
+
+×
+
+At paras 8–9.
+
+55 In the reliefs set out in the SOC, Dathena claimed a declaration that the
+Membership Agreement was terminated with effect from 29 May 2020 and prayed
+for a refund of the Deposit.
+
+The Defence and Counterclaim
+
+56 JustCo not only put up a blanket denial of Dathena’s allegations in the SOC
+but also countered with a substantial counterclaim.
+
+57 In the Defence, JustCo relied heavily on provisions in the Membership
+Agreement to assert that Dathena did not have a claim of any nature against
+JustCo. In particular, JustCo relied on: 63
+
+##### Foot Note 63
+
+×
+
+At paras 4 and 9(3).
+
+(a) Clause 2(c), to say this gave JustCo the right to replace the Allocated
+Office Space (as defined in the Membership Agreement) with any other premises
+of comparable size in the event where it may be necessary due to JustCo’s
+operational requirements;
+
+(b) Clause 8(c)(i) to assert that Dathena is liable to JustCo for the
+Membership Fee for the remainder of the membership term;
+
+(c) Clause 12(b)(i) to say that Dathena has no claim whatsoever against
+JustCo;
+
+(d) Clause 11 to say that Dathena has to indemnify JustCo against all claims,
+demands, actions etc; and
+
+(e) the absence of a termination provision in the Membership Agreement to
+assert that the Notice of Termination is invalid.
+
+58 Relying on the CB Measures (as well as their extension to 1 June 2020) and
+the emails set out earlier at [21] and [25], JustCo asserted that it did its
+best to offer alternative arrangements in the continued performance of the
+Membership Agreement. JustCo further referred to its email of 13 April 2020 in
+[21] above to contend that it was prepared to “renegotiate the commercial
+terms” of the Membership Agreement. JustCo also referred to its email of 16
+April 2020 where it offered Dathena alternative temporary space from 6 to 31
+May 2020 given that no construction works were allowed at OCBC Premises during
+the period the CB Measures were in force. 64
+
+##### Foot Note 64
+
+×
+
+AB581.
+
+JustCo added that it was prepared to push back the commencement date of the
+Lease to 1 June 2020.
+
+59 JustCo added that it had offered Dathena alternative space for immediate
+occupation at the Bras Basah Premises which Dathena did not accept.
+
+60 JustCo also asserted it had offered Dathena two options namely either:
+
+(a) occupy the Bras Basah Premises; or
+
+(b) occupy the OCBC Premises at a later date of 9 September 2020.
+
+61 However, Dathena rejected both options on 7 July 2020. JustCo had informed
+Dathena that its rejection of both options did not amount to a termination of
+the Membership Agreement. The message was repeated in Kong’s Letter dated 14
+July 2020 emailed on 16 July 2020 to Dathena (as mentioned at [41]).
+
+62 JustCo refuted the allegations in Dathena’s Letter of Demand and rejected
+the demand for refund of the Deposit by Kong’s Letter.
+
+63 On 1 September 2020, JustCo informed Dathena via email that the OCBC
+Premises would be available from 9 September 2020 to 30 April 2022. Dathena
+requested to visit the said premises. The site inspection took place on 4
+September 2020 during which Dathena’s representative Aida conveyed to the
+JustCo’s representatives that (a) Dathena intended to significantly reduce its
+staff size and (b) Dathena wanted to resolve amicably the issues relating to
+the Membership Agreement. However, in bad faith, Dathena commenced this suit
+on the same day.
+
+64 JustCo sought a declaration that Dathena had repudiated the Membership
+Agreement and that it was entitled to terminate the same. JustCo further
+counterclaimed from Dathena $2,399,796 for the Membership Fee for the entire
+duration of the Lease.
+
+65 Dathena’s detailed Reply and Defence to the Counterclaim joined issue with
+JustCo’s Defence and Counterclaim. Dathena averred that the parties had a pre-
+existing relationship since 2019 as Dathena had used JustCo’s office space
+Bangkok between February 2019 and January 2020. In December 2019, Dathena had
+also taken office space from an entity related to JustCo at Ocean Financial
+Centre #16-01 (presumably the Verizon Premises). Dathena pleaded that after
+the Notice of Termination was issued, Dathena continued to engage JustCo in
+good faith and without prejudice to Dathena’s termination of the Membership
+Agreement, as the OCBC Premises were not ready for Dathena’s use by the
+commencement date. Dathena referred to the first timeline in [17] that Dathena
+failed to meet in regard to the IT works.
+
+66 Dathena averred that the Membership Agreement was based on JustCo’s
+standard written terms of business. It contended that cl 2(c) is unenforceable
+by reason of ss 3 and 11 of the Unfair Contracts Terms Act (Cap 396, 1994 Rev
+Ed) (“the UCTA”). In the alternative, cl 2(c) ought to be read contra
+proferentum against JustCo.
+
+67 As for JustCo’s Counterclaim, Dathena alleged that JustCo was obliged to
+take all reasonable steps but failed, to mitigate its losses and is not
+entitled to recover the Membership Fees in full or in part. 65
+
+##### Foot Note 65
+
+×
+
+Reply and Defence to Counterclaim at para 38.
+
+68 JustCo filed a Rejoinder where it joined issue with JustCo’s Defence and
+Counterclaim. JustCo averred that the server room was set up prior to 6 April
+2020 (including installation of an internet router by M1 Dathena’s ISP). IT
+testing and commissioning, clearing and preparation works were disrupted by
+the CB Measures as the period during within which they were to take place fell
+with the CB Measures period. JustCo added that it went above and beyond what
+was required in the Membership Agreement to render assistance and suggest
+alternatives for housing Dathena’s servers. 66
+
+##### Foot Note 66
+
+×
+
+Rejoinder at para 3.
+
+JustCo further alleged that by its conduct, Dathena showed unequivocally that
+the Membership Agreement could still be performed and that it was still
+willing to perform the same after 1 May 2020. 67
+
+##### Foot Note 67
+
+×
+
+Rejoinder at para 4.
+
+69 In response to JustCo’s Rejoinder, Dathena filed a Surrejoinder in which it
+asserted that the server room was still not ready by 6 April 2020. While the
+router had been installed, the internet line had not yet been activated. 68
+
+##### Foot Note 68
+
+×
+
+Surrejoinder at para 2.
+
+The evidence
+
+70 Five witnesses testified during the four days’ trial before this court.
+Dathena had three witnesses in Aida, Jeremie and Muffat while JustCo’s
+witnesses were Sian-Tzu and Sheena.
+
+Dathena’s case
+
+71 The facts that Aida deposed to in her AEIC have been set out in [5] to [51]
+above with other facts being extracted from Muffat’s AEIC.
+
+72 In cross-examination, Aida agreed that Dathena did not convey to JustCo
+before 19 January 2020 its requirement to have the server room set up by a
+certain timeline. Neither was the requirement included in the Appendix to the
+Membership Agreement. 69
+
+##### Foot Note 69
+
+×
+
+Transcripts dated 26 January 2021 at pp 14–15; AB105.
+
+However, Aida’s email to Sharlene of 25 March 2020 stated (albeit for the
+first time) that Dathena required to move in and set up its equipment
+(servers) in the OCBC Premises between 27–30 April 2020. 70
+
+##### Foot Note 70
+
+×
+
+AB551.
+
+Counsel for JustCo, Mr Leong, pointed out to Aida that JustCo did not promise
+to meet this timeline. 71
+
+##### Foot Note 71
+
+×
+
+Transcripts dated 26 January 2021 at p 37.
+
+Even so, a day earlier on 24 March 2020, 72
+
+##### Foot Note 72
+
+×
+
+AB504.
+
+Aida had been given timelines by Sharlene in graph format which included
+setting-up the server room between 30 March–6 April 2020. 73
+
+##### Foot Note 73
+
+×
+
+AB507 (Dathena Timeline).
+
+It should be noted that on 9 January 2020, 74
+
+##### Foot Note 74
+
+×
+
+AB157–158 (Aida’s email to Sian-Tzu).
+
+Dathena had apprised JustCo of its IT requirements but did not indicate a
+deadline.
+
+73 In his cross-examination of Aida, 75
+
+##### Foot Note 75
+
+×
+
+Transcripts dated 26 January 2021 at p 45.
+
+Mr Leong sought to make a distinction. He said there was a difference between
+housing the staff of Dathena at the OCBC Premises which was, and housing
+Datherna’s servers which was not, JustCo’s contractual obligation. Aida
+disagreed stating it was for both purposes. She further disagreed with Mr
+Leong’s suggestion that after the CB Measures were implemented, Dathena’s
+priority shifted from wanting office space to wanting server space. 76
+
+##### Foot Note 76
+
+×
+
+Transcripts dated 26 January 2021 at p 54.
+
+74 Because of JustCo’s delays and/or failure to give any updated timelines
+with regard to the OCBC Premises to Dathena, Aida testified Dathena moved its
+servers to a third party data centre provider, Voiden Internet Solutions Pte
+Ltd (“Vodien”) located in Changi because Dathena’s space at the Verizon
+Premises could not house its servers. 77
+
+##### Foot Note 77
+
+×
+
+Transcripts dated 26 January 2021 at pp 50, 72.
+
+75 Mr Leong further suggested to Aida (who disagreed) that it was Dathena’s
+responsibility not JustCo’s, to arrange with M1 to set up the internet service
+line at the OCBC Premises. She testified that JustCo should but did not apply
+for M1 as an “essential service” to be allowed to do the installation. 78
+
+##### Foot Note 78
+
+×
+
+Transcripts dated 26 January 2021 at p 60.
+
+She further disagreed that it was Dathena’s not JustCo’s responsibility to
+apply to the relevant authorities for exemption so that M1 could set up the
+internet connection. She pointed out that JustCo was the tenant not Dathena,
+of the OCBC Premises. 79
+
+##### Foot Note 79
+
+×
+
+Transcripts dated 26 January 2021 at p 67.
+
+76 Mr Leong had also put it to Aida (who disagreed) that the Verizon Premises
+were a real option and alternative for Dathena to move to, when the OCBC
+Premises were not ready by 1 May 2020. 80
+
+##### Foot Note 80
+
+×
+
+Transcripts dated 26 January 2021 at p 90.
+
+He drew her attention to the fact that JustCo even introduced Dathena to a
+third party (“KDDI”) on 5 May 2020 who could provide Dathena with server racks
+and a data centre to house its servers temporarily until the OCBC Premises
+were ready for occupation. 81
+
+##### Foot Note 81
+
+×
+
+AB659 (KDDI’s email to Aida).
+
+On 18 May 2020, in accordance with Dathena’s request, JustCo cancelled the
+rental for the server racks. 82
+
+##### Foot Note 82
+
+×
+
+AB676.
+
+77 As for the Bras Basah Premises, JustCo’s case was that Dathena used the
+excuse that it lacked storage space to reject it as a real option. Not
+surprisingly, Aida disagreed pointing out that those premises were too small
+to house all staff of Dathena as well as the fact that although it is not in
+as prime a location as the OCBC Premises, it was more expensive on a per
+square foot basis. 83
+
+##### Foot Note 83
+
+×
+
+Transcripts dated 26 January 2021 at pp 125–126.
+
+78 Aida testified that JustCo’s offer to Dathena to lease the OCBC Premises
+for two years starting in September 2020 with two months’ rent waiver was not
+a viable option because Dathena had already issued the Notice of Termination
+and JustCo kept pushing back the commencement date. Aida also disagreed with
+Mr Leong’s suggestion that Dathena backed out of the Membership Agreement for
+the OCBC Premises because it no longer made financial sense to Dathena as its
+expansion plans were put on hold due to the pandemic. 84
+
+##### Foot Note 84
+
+×
+
+Transcripts dated 26 January 2021 at p 130.
+
+79 Jeremie was, at all material times, Dathena’s head of its IT team. His
+role, as his designation suggests, was to take charge of the internet and
+computers set-up for Dathena at the OCBC Premises. 85
+
+##### Foot Note 85
+
+×
+
+Jeremie’s AEIC at para 1.1.1.
+
+In his AEIC, 86
+
+##### Foot Note 86
+
+×
+
+Jeremie’s AEIC at paras 2.1.2–2.1.3.
+
+Jeremie explained the importance of Dathena’s IT requirements at the OCBC
+Premises.
+
+80 For security reasons and in their interests, Jeremie deposed that Dathena
+stored their clients’ data in Dathena’s servers rather than on the cloud. In
+addition, Dathena’s operations in Singapore and overseas rely on Dathena’s
+servers in Singapore. Jeremie therefore had to ensure that Dathena’s servers
+ran smoothly and without interruption for both its clients and employees (both
+local and overseas). If there was any outage on the data centres hosting the
+servers and/or downtime on the servers, there would be severe disruption to
+Dathena’s operations globally as their clients would face downtime and Dathena
+as well as its overseas offices, may be unable to work. It was therefore
+undesirable for Dathena to relocate its servers often, as frequent moves would
+lead to service disruption and heighten business continuity risks.
+
+81 Jeremie was aware that Aida handled negotiations with JustCo on the lease
+for the OCBC Premises and would have conveyed to the latter the IT
+requirements of Dathena. If the OCBC Premises could not accommodate Dathena’s
+IT requirement, he doubted that Dathena would have considered leasing the
+same. Jeremie deposed that Dathena required a dedicated server room with
+certain hardware specifications. 87
+
+##### Foot Note 87
+
+×
+
+Jeremie’s AEIC at paras 3.1.1–3.1.4.
+
+He referred to and relied on Aida’s email to Sian-Tzu dated 9 January 2020 88
+
+##### Foot Note 88
+
+×
+
+AB157–158.
+
+(sent after consulting him) where Dathena’s IT requirements were clearly spelt
+out.
+
+82 On or about 23 January 2020 (as mentioned at [16]), Jeremie, along with
+Aida, Sai Tun and Lylian Kieffer, met up with JustCo’s representatives. 89
+
+##### Foot Note 89
+
+×
+
+Jeremie’s AEIC at para 3.2.2.
+
+On Dathena’s side there were concerns regarding the date when the server room
+at the OCBC Premises could be set up as well as when Dathena could have early
+access to those premises. Jeremie deposed it was crucial for Dathena to move
+its servers into the OCBC Premises before it moved its staff out of OGS, to
+ensure business continuity and minimise disruptions to Dathena’s operations.
+He recalled he had emphasised the importance of the server set-up to JustCo’s
+representatives many times in their interactions after 23 January 2020. In
+particular, Jeremie stated he had highlighted Dathena’s need for power, air-
+conditioning and networks to be installed early. Dathena also requested early
+access to the server room so that its ISP could complete connecting its
+internet line and Dathena could ensure smooth installation of its equipment
+and servers.
+
+83 In response to JustCo’s email (from Sharlene) dated 30 January 2020
+requesting IT requirements and port-mapping, 90
+
+##### Foot Note 90
+
+×
+
+AB166.
+
+Jeremie replied on 5 February 2020 setting out in detail Dathena’s
+requirements for (a) network; (b) physical set-up and (c) office arrangement
+as well as providing a network diagram by way of illustration. 91
+
+##### Foot Note 91
+
+×
+
+AB206.
+
+Sian-Tzu replied to Jeremie’s queries on 7 February 2020. 92
+
+##### Foot Note 92
+
+×
+
+AB236
+
+In answer to his following question:
+
+How early can we get our ISP deployed in the OCBC JustCo server room?
+
+Sian-Tzu replied:
+
+The server room is targeted to be ready between 10-20 March. We can reorganise
+this once you confirm your ISP.
+
+84 After further toing and froing, Sharlene requested Jeremie to confirm on 12
+February 2020 the additional chargeable works for additional quotes for
+JustCo’s assistance with IT-related installation set-up. 93
+
+##### Foot Note 93
+
+×
+
+AB245.
+
+Aida responded on 19 February 2020 to confirm Dathena’s requirements and the
+charges payable. 94
+
+##### Foot Note 94
+
+×
+
+AB244–245.
+
+85 Between end-February and end-March 2020, Jeremie and/or Sai Tun
+corresponded with Sian-Tzu, Sharlene and Raymond Ow (“Ow”) as well as KDDI’s
+David Hen on Dathena’s IT requirements and logistical set-up. 95
+
+##### Foot Note 95
+
+×
+
+Jeremie’s AEIC at para 3.2.8.
+
+86 Jeremie referred to Sharlene’s email of 24 March 2020 (as mentioned at
+[17]) which showed that the original timeline of 10–20 March 2020 for IT works
+was shifted to 23 March–24 April 2020.
+
+87 Due to the CB Measures which required employees to telecommute from home,
+Jeremie deposed in his AEIC that Dathena required a static Internet Protocol
+(“IP”), not the dynamic IP that JustCo had. 96
+
+##### Foot Note 96
+
+×
+
+Jeremie’s AEIC at para 4.2.1.
+
+This was to ensure that Dathena’s employees working from home or overseas
+could remotely access Dathena’s internet domain.
+
+88 Jeremie linked Ow up with M1 in mid-March 2020 so that JustCo could grant
+M1 inspection of and access to the OCBC Premises to prepare for internet
+connection. 97
+
+##### Foot Note 97
+
+×
+
+Jeremie’s AEIC at para 4.2.2.
+
+On 13 March 2020, M1 emailed Dathena and provided the following timelines: 98
+
+##### Foot Note 98
+
+×
+
+AB428–429.
+
+(a) Site survey: 17–19 March 2020;
+
+(b) Fibre cabling: 19–23 March 2020;
+
+(c) Fibre router installation: 23–27 March 2020.
+
+89 For all three installations, M1 needed to liaise with the “building
+management” of OCBC CE. By 1 April 2020, only item (c) was outstanding.
+Consequently, Jeremie emailed Ow on 1 April 2020 to inform JustCo. Once M1 had
+installed the router, Jeremie stated that Dathena would like to start moving
+in its servers, firewall and switches. Ow’s response on the same day merely
+said “[w]e will revert again on this and wait for my Que [sic]”. 99
+
+##### Foot Note 99
+
+×
+
+AB516.
+
+90 Jeremie ascertained on 3 April 2020 that the router had been installed but
+the internet line was not activated. He emailed M1 copied to JustCo, on the
+same day to inquire as to the reason. 100
+
+##### Foot Note 100
+
+×
+
+Jeremie’s AEIC at para 4.2.8 and see AB528–529.
+
+M1 replied to inform that its “Field Engineer will be going down to check, and
+[M1] will need [Dathena’s] confirmation if [Dathena] will be available”. 101
+
+##### Foot Note 101
+
+×
+
+AB526–527.
+
+Ow’s unhelpful response was as follows: 102
+
+##### Foot Note 102
+
+×
+
+AB526.
+
+Sorry no one will be around at the work site, due to Govt. rule. We will re-
+arrange on the date and timing again.
+
+Without any further action by JustCo, Jeremie emailed Aida, Lylian Kieffer and
+Sai Tun on 8 April 2020 and said: 103
+
+##### Foot Note 103
+
+×
+
+AB526.
+
+FYI, JustCo is delaying the internet installation, which will likely prevent
+us from moving in time should we stick to the date of the 4th of May.
+
+91 It did not help either that on the same day, Sian Tzu emailed Aida to say
+that the lockdown would delay completion of the whole OCBC CE since no
+construction work was allowed. 104
+
+##### Foot Note 104
+
+×
+
+AB583.
+
+Dathena’s allocated office space would only be ready 29 May or 1 June at the
+earliest and “subject to the actual timeline that we are working on currently,
+and provided that the lockdown is not extended”.
+
+92 In response, Aida emailed Sian-Tzu on 15 April 2020 as follows: 105
+
+##### Foot Note 105
+
+×
+
+AB582–583.
+
+1\. Can JustCo or OCBC apply for the Essential Services under MOM for M1 to
+install internet services?
+
+2\. Once CB ends on the 4th, will the server room in OCBC be ready by then? If
+not, what is the timeline?
+
+3\. Can you please send us the new timeline as if it would be ready 29th May
+or 1st June?
+
+Moving the server to Verizon is not an option for us. Question 1 is a priority
+for us, so please let us know what the processes on your side are. We would
+need to start planning ASAP.
+
+93 Despite Aida’s rejection of the Verizon Premises, Sian-Tzu replied to
+Aida’s above email on 16 April 2020 stating, inter alia: 106
+
+##### Foot Note 106
+
+×
+
+AB581.
+
+Temporary Space from 06 May – 31 May 2020
+
+Since some of your team is already seated at Verizon, we thought it would be
+easiest to house everyone in that centre as well.
+
+…
+
+Monthly Lumpsum rental - SGD40,900.
+
+…
+
+With regard to the issue on the servers, please find our responses below ...:
+
+1\. Unfortunately internet is not under essential services in this case as
+this is part of the construction category;
+
+2\. We expect the server room and permanent and reliable power supply to be
+ready 2 weeks upon lifting the circuit breaker. In this case, we are looking
+at about 19 May. You may then bring in your servers. If you are unable to
+house the servers in your current premises until 19 May, we have actually
+found options where you can house your servers on short term rental (2-4
+weeks) in a data centre. We expect the high level cost to be about
+SGD4,000/Month. The moving cost and installation to be done by Dathena.
+
+3\. Please find attached timeline that we have prepared to capture the
+changes.
+
+94 All sense of urgency on the part of Dathena as conveyed in Aida’s email of
+15 April 2020 appeared to be lost on JustCo, judging by its above reply. The
+timeline Sian-Tzu referred to in her para 2 meant that Dathena would need to
+wait for two weeks after the CB Measures ended on 1 June 2020 (ie, until 15
+June 2020 at the earliest), to be able to move into the OCBC Premises.
+
+95 In his AEIC, Jeremie explained why the option in para 2 as proposed by
+JustCo was not viable. 107
+
+##### Foot Note 107
+
+×
+
+Jeremie’s AEIC at para 4.4.2.
+
+The alternative third party data centre that JustCo recommended to Dathena
+(for short term rental of server storage space) (ie, KDDI) was not suitable
+because it provided an internet speed and bandwidth of 20Mb per second which
+was 100 times slower than what Dathena’s servers required as a technology and
+cybersecurity firm. M1 could have provided a speed of 2 Gb/second at the OCBC
+Premises had M1 been able to complete the internet installation there. When
+Sian-Tzu testified, it was noted that JustCo only suggested introducing KDDI
+to Dathena as late as on 30 April 2020. 108
+
+##### Foot Note 108
+
+×
+
+AB635; transcripts dated 28 January 2021 at p 536 at lines 11–12.
+
+KDDI was wholly inadequate for Dathena’s server storage requirements.
+
+96 Dathena had managed to obtain an extension up to 8 June 2020 from its
+landlord to vacate the OGS Premises. 109
+
+##### Foot Note 109
+
+×
+
+Jeremie’s AEIC at para 4.4.2.
+
+Based on the revised timeline given by JustCo in [94], it meant that after
+Dathena vacated OGS on 8 June 2020, it had nowhere to go if the OCBC Premises
+could only be ready in mid-June 2020. Jeremie had explained (at [80]) the
+risks involved in moving the servers for a short-term period. Due to the
+exigencies of the situation, Jeremie deposed that Dathena had no alternative
+but to move Dathena’s servers to Vodien in mid-May 2020.
+
+97 Notwithstanding the delays Dathena encountered, Jeremie and Aida continued
+their email exchanges with JustCo between 19–21 May 2020 in regard to the IT
+set-up at OCBC Premises until Jeremie was told about Sian-Tzu’s telephone call
+to Muffat on 26 May 2020, which prompted the issuance of the Notice of
+Termination in [29]. 110
+
+##### Foot Note 110
+
+×
+
+Jeremie’s AEIC at para 4.4.3.
+
+98 During Jeremie’s cross-examination, JustCo’s counsel Ms Chai sought to show
+that it was due to no fault on JustCo’s part that the OCBC Premises could not
+be ready for occupation by Dathena on 1 May 2020. She suggested that it was
+Dathena that was responsible for arranging with M1 for internet connectivity.
+111
+
+##### Foot Note 111
+
+×
+
+Transcripts dated 26 January 2021 at pp 195–200.
+
+She added that M1 was responsible for the delay in activating the internet
+line 112
+
+##### Foot Note 112
+
+×
+
+Transcripts dated 26 January 2021 at pp 202–203.
+
+because it failed to activate the router within the scheduled timeline
+mentioned at [88] (ie, 23–27 March 2020) set by M1’s Mr Lim Ming Yao in his
+email to Jeremie of 13 March 2020. 113
+
+##### Foot Note 113
+
+×
+
+AB531.
+
+Ms Chai went further to suggest to Jeremie that due to the CB Measures, it was
+in JustCo’s interests to prevent anyone from entering the construction site at
+OCBC CE during the circuit breaker period. Jeremie’s response was to point out
+that JustCo should have made some efforts to arrange for Dathena to move
+forward. 114
+
+##### Foot Note 114
+
+×
+
+Transcripts dated 27 January 2021 at pp 221–222.
+
+99 Ms Chai further suggested to Jeremie that Ow’s email of 8 April 2020 set
+out earlier at [90] was to safeguard JustCo’s interest. Ms Chai’s cross-
+examination of Jeremie placed the burden on Dathena to request JustCo to apply
+for exemption from the Ministry of Manpower (“MOM”) to grant access to the
+OCBC Premises for M1’s technicians to activate the internet connection. 115
+
+##### Foot Note 115
+
+×
+
+Transcripts dated 27 January 2021 at pp 224–226.
+
+The court rejects JustCo’s position for the reason set out at [115] below.
+
+100 Muffat was Dathena’s third and last witness. His evidence-in-chief very
+much echoed Aida’s testimony which has been dealt with above at [5] to [51].
+Hence, the court turns to Muffat’s testimony during cross-examination.
+
+101 JustCo’s case put to Muffat in cross-examination was identical to that put
+to Aida – that Dathena never informed JustCo prior to the execution of the
+Membership Agreement that its server room had to be put up by a certain date.
+116
+
+##### Foot Note 116
+
+×
+
+Transcripts dated 27 January 2021 at p 263.
+
+102 It was also suggested to Muffat that as a cybersecurity company, its staff
+need not be physically present at the location of its servers or where a
+cybersecurity issue arises; Muffat disagreed. 117
+
+##### Foot Note 117
+
+×
+
+Transcripts dated 27 January 2021 at p 265.
+
+He explained that Dathena has two activities: (a) it develops software or
+artificial intelligence which can be done remotely but with high
+collaboration; 118
+
+##### Foot Note 118
+
+×
+
+Transcripts dated 27 January 2021 at p 270.
+
+(b) servicing its clients which requires Dathena to have confidential
+information from its clients’ data centre. 119
+
+##### Foot Note 119
+
+×
+
+Transcripts dated 27 January 2021 at p 269.
+
+For activity (b), working remotely may be complicated from time to time for
+security reasons. 120
+
+##### Foot Note 120
+
+×
+
+Transcripts dated 27 January 2021 at p 269.
+
+It was Dathena’s preference to have its staff physically near its servers in
+case there is an outage. 121
+
+##### Foot Note 121
+
+×
+
+Transcripts dated 27 January 2021 at p 271.
+
+He added that while he had not experienced an outage during his years in
+Singapore, Dathena had experienced outage internally due to hardware
+deficiency and it require quick intervention on Dathena’s part. 122
+
+##### Foot Note 122
+
+×
+
+Transcripts dated 27 January 2021 at p 273.
+
+103 Mr Leong went further to suggest to Muffat that because Dathena was cash-
+strapped, it did not accept any of the alternative proposals put forth by
+JustCo. Not surprisingly, Muffat disagreed. He said he gave Aida a budget to
+set up the new office at the OCBC Premises and compared with the Bras Basah
+Premises, the former was cheaper on a per seat basis. 123
+
+##### Foot Note 123
+
+×
+
+Transcripts dated 27 January 2021 at pp 314–315.
+
+104 Mr Muffat’s attention was drawn to the fact that the Membership Agreement
+had no termination clause. 124
+
+##### Foot Note 124
+
+×
+
+Transcripts dated 27 January 2021 at p 299 and 28 January 2021 at p 424.
+
+105 Notwithstanding the Notice of Termination, it has been noted earlier at
+[37] that JustCo had emailed Dathena on 18 June 2020 offering the Bras Basah
+Premises at a reduced monthly rate of $38,000 instead of the original asking
+price of $48,000. 125
+
+##### Foot Note 125
+
+×
+
+AB769.
+
+JustCo’s case
+
+106 As stated earlier at [70], Sian-Tzu and Sheena were JustcCo’s witnesses.
+Both their AEICs were not particularly helpful as they were purely narrative
+in content with no personal input. Sian-Tzu, JustCo’s first witness, reports
+to Sheena who is her manager. For expediency, the court will review her
+testimony in cross-examination as her chronology of events did not differ from
+Dathena’s version.
+
+107 In her AEIC and oral testimony, 126
+
+##### Foot Note 126
+
+×
+
+Sian-Tzu’s AEIC at para 6; transcripts dated 28 January 2021 at p 465.
+
+Sian-Tzu confirmed that JustCo’s lease at the Verizon’s Premises was a
+temporary measure to house 22 employees until a larger permanent office could
+be found. In cross-examination, Sian-Tzu said she also knew by 9 January 2020
+that Dathena needed to house its servers in a server room and its other
+equipment in a storeroom. 127
+
+##### Foot Note 127
+
+×
+
+Transcripts dated 28 January 2021 at p 472; AB66.
+
+In fact, JustCo had invoiced Dathena on 19 March 2020 $5,000 for the server
+room’s server rack. 128
+
+##### Foot Note 128
+
+×
+
+AB498.
+
+This was followed by Sharlene’s email 24 March 2020 giving timelines of 30
+March–6 April 2020 and 1–24 April 2020 respectively, for the setting up of the
+server room and Dathena’s equipment and installation respectively. 129
+
+##### Foot Note 129
+
+×
+
+AB504 and 507.
+
+108 Sian-Tzu was also aware from her and Sharlene’s conference call with
+Muffat and Aida on 10 April 2020 that Dathena may have to vacate OGS by 5 May
+2020. 130
+
+##### Foot Note 130
+
+×
+
+Transcripts dated 28 January 2021 at p 518.
+
+In her AEIC, 131
+
+##### Foot Note 131
+
+×
+
+Sian-Tzu’s AEIC at paras 30–31.
+
+Sian-Tzu deposed that both Muffat and Aida in that call had requested for
+JustCo to waive the Membership Fee for a few months or reduce the same
+temporarily because Dathena’s business had been affected by Covid-19. She was
+told Dathena intended to reduce its headcount to about 65–70 from the original
+figure of 120. She added that JustCo could not accede to Dathena’s request and
+informed Dathena accordingly in her email dated 13 April 2020. 132
+
+##### Foot Note 132
+
+×
+
+AB558–559.
+
+As pointed out earlier at [20], Aida disputed Sian-Tzu’s version of the
+conversation in that conference call.
+
+109 Sian-Tzu confirmed that by 13 April 2020, JustCo had billed Dathena
+$18,350 for “Telecommunications & IT” as well as “Workspace Services”. 133
+
+##### Foot Note 133
+
+×
+
+AB846.
+
+The provision of these services would come under the ambit of “Additional
+Services” in cl 2(a)(iii) of the Membership Agreement alluded to earlier at
+[7(c)] above.
+
+110 On the issue of giving Dathena early access to the server room after 6
+April 2020, Sian-Tzu was not sure it was a contractual obligation; she said
+JustCo was just giving Dathena a helping hand. 134
+
+##### Foot Note 134
+
+×
+
+Transcripts dated 28 January 2021 at p 505.
+
+111 It was during her cross-examination that Sian-Tzu acknowledged that
+besides its limited capacity (for only 64 persons) to accommodate all the
+staff of Dathena, the Verizon Premises were also not exclusive to Dathena,
+unlike the OCBC Premises. 135
+
+##### Foot Note 135
+
+×
+
+Transcripts dated 28 January 2021 at p 531.
+
+This can be seen when the floorplan of the OCBC Premises is compared with that
+of the Verizon Premises. 136
+
+##### Foot Note 136
+
+×
+
+AB150 and 588.
+
+Further, the Verizon Premises did not have server or storage space. Sian-Tzu
+conceded that the Verizon Premises was only a temporary solution that was
+offered to Dathena. 137
+
+##### Foot Note 137
+
+×
+
+Transcripts dated 28 January 2021 at pp 556–557.
+
+In answer to the court’s questions, 138
+
+##### Foot Note 138
+
+×
+
+Transcripts dated 28 January 2021 at pp 612–613.
+
+Sian-Tzu agreed that the OCBC Premises had more exclusivity than the Bras
+Basah Premises. Notwithstanding those negative factors, not only was JustCo
+very insistent in Dathena’s moving to the Verizon Premises but it further
+expected Dathena to bear the costs of moving there and from there, move again
+to the OCBC Premises when the latter premises were ready as mentioned at [93].
+
+112 Cross-examined, Sian-Tzu disagreed that it was “unfair” to expect Dathena
+to bear two sets of moving costs, one from OGS to the Verizon Premises and the
+second set from the latter to the OCBC Premises in order to accommodate
+JustCo. She said that “everyone was just trying to manage the situation”. 139
+
+##### Foot Note 139
+
+×
+
+Transcripts dated 28 January 2021 at pp 541–542.
+
+The court reminded her that, in relation to the parties’ respective
+obligations under the Membership Agreement, Dathena was not the party at fault
+as it was JustCo that was late and failed to meet the timelines – why then
+should Dathena bear the additional moving charges? Sian-Tzu’s explanation was
+that the delay was not caused by JustCo per se – it could not continue with
+construction due to the pandemic. As will be elaborated below, her excuse is
+not tenable in the light of the court’s findings below at [113]–[116].
+
+113 Sian-Tzu’s attention was drawn by counsel for Dathena, Mr Tay, to JustCo’s
+revised timelines showing it had re-scheduled the setting-up of Dathena’s
+server room to 14–18 May 2020 when the earlier timeline was 30 March–6 April
+2020. 140
+
+##### Foot Note 140
+
+×
+
+AB at p 590 (Dathena Timeline).
+
+Mr Tay pointed out 6 April 2020 was the eve of the implementation of CB
+Measures. Had JustCo adhered to its own earlier timeline, Dathena’s servers
+could have been installed and internet connectivity activated before 7 April
+2020 if there had been power supply. Sian-Tzu opined that the May 2020
+timelines were an error. 141
+
+##### Foot Note 141
+
+×
+
+Transcripts dated 28 January 2021 at pp 544–545.
+
+However, as the revised schedule was prepared by Sharlene who did not testify,
+her answer did not advance JustCo’s case.
+
+114 Sian-Tzu disclosed that she relied on information from JustCo’s own IT
+team to say that the building control authorities would not have allowed
+access to the OCBC Premises during the CB Measures period. She did not conduct
+her own independent checks to verify whether IT works constituted essential
+services that were exempted from CB Measures restrictions. 142
+
+##### Foot Note 142
+
+×
+
+Transcripts dated 29 January 2021 at pp 730–733.
+
+She was not even aware of Time Limited Exemptions from CB Measures until Aida
+brought it up and she then checked with her IT team. Again, Sian-Tzu took her
+team’s word that Time Limited Exemption was strictly disallowed without
+verifying the information independently. In fact, JustCo’s IT team made no
+attempts to apply for such exemption. 143
+
+##### Foot Note 143
+
+×
+
+Transcripts dated 28 January 2021 at pp 537–538.
+
+In the light of JustCo’s inaction, Sian-Tzu’s answer during cross-examination
+that “we are always looking to help” rings hollow. 144
+
+##### Foot Note 144
+
+×
+
+Transcripts dated 28 January 2021 at p 619.
+
+115 Further, Sian-Tzu deposed that: 145
+
+##### Foot Note 145
+
+×
+
+Sian-Tzu’s AEIC at para 24(d).
+
+[JustCo’s] obligation in relation to the server room was to ensure that the
+space would be ready for [Dathena] to install its equipment. As M1 was
+directly contracted by [Dathena] to be its internet service provider, [JustCo]
+had no obligation to follow up with the installation or activation of internet
+fibre services by M1.
+
+This ignored the realities of the situation and the legal niceties – that
+JustCo as the tenant (and not Dathena) had the locus standi to gain access to
+OCBC Premises if it had made efforts to obtain a Time Limited Exemption for M1
+from MOM to activate the internet connectivity.
+
+116 Sian-Tzu had also informed Aida that: 146
+
+##### Foot Note 146
+
+×
+
+Sian-Tzu’s AEIC at para 33(a).
+
+the installation of internet services is not an essential service, and
+therefore, [JustCo] could not apply to the government for permission to
+install internet services in the OCBC [Premises] during the circuit breaker
+period.
+
+This clearly showed that JustCo was unaware of Time Limited Exemptions to
+Covid-19 restrictions on work activities and JustCo’s misapprehension of what
+was lacking in relation to Dathena’s internet connectivity. All that was
+required was for the internet line to be activated, not installed. This was
+made even clearer when the court questioned Sian-Tzu. 147
+
+##### Foot Note 147
+
+×
+
+Transcripts dated 29 January 2021 at p 731–737.
+
+117 Despite repeatedly being asked in cross-examination, Sian-Tzu would not
+agree that JustCo’s attempts on 18 June 2020 to have Dathena sign a new
+agreement pertaining to either taking up (a) the OCBC Premises or (b) the Bras
+Basah Premises amounted to a new agreement. 148
+
+##### Foot Note 148
+
+×
+
+AB at pp 769–770 (Sian-Tzu’s Email to Muffat and Aida dated 18 June 2020).
+
+She maintained it was an amendment to the Membership Agreement. 149
+
+##### Foot Note 149
+
+×
+
+Transcripts dated 28 January 2021 at p 620.
+
+To make matters worse for Dathena, should it opt for the Bras Basah Premises,
+Sian-Tzu’s email of 18 June 2020 150
+
+##### Foot Note 150
+
+×
+
+AB751.
+
+stated that it had to pay JustCo $13,050 for reinstatement and other costs
+JustCo had apparently incurred at OCBC Premises even though such costs were
+attributable to JustCo’s actions.
+
+118 During her re-examination Sian-Tzu sought to suggest that the delay in
+delivering to Dathena the OCBC Premises was a blessing as Dathena could not in
+any event have used the space during the CB Measures period thereby saving
+rent. Further, even after the CB Measures ended on 1 June 2020, only half of
+Dathena’s workforce would have been allowed to resume working at its office.
+Hence, a smaller office like the Verizon Premises would have suited Dathena
+better and result in costs savings in rent. 151
+
+##### Foot Note 151
+
+×
+
+Transcripts dated 29 January 2021 at p 693.
+
+Such self-justification does not detract from the fact that the four months’
+delay in commencement of Dathena’s lease was simply not what parties had
+agreed to under the terms of the Membership Agreement.
+
+119 The same observation would apply to Sian-Tzu’s testimony that the fact
+that JustCo offered Dathena the OCBC Premises at reduced rental rates meant
+that it was “not relevant to bring anything about comparable space”, 152
+
+##### Foot Note 152
+
+×
+
+Transcripts dated 29 January 2021 at p 695.
+
+and that it was also not relevant to talk of a substitute space for Dathena in
+the light of its reduced workforce at its office. 153
+
+##### Foot Note 153
+
+×
+
+Transcripts dated 29 January 2021 at p 696.
+
+120 It would be appropriate at this stage to point out that JustCo’s
+allegation that Aida had, at the Bras Basah Premises site meeting on 1 July
+2020, said Dathena did not want the OCBC Premises because they downsized their
+operations and needed less office space requirements is contradicted by
+Dathena’s act in taking bigger premises at No 43 Blair Road and No 11 Niven
+Road. Yet, when she was confronted with this fact, Sin-Tzu disagreed that she
+must have misheard what Aida said. 154
+
+##### Foot Note 154
+
+×
+
+Transcripts dated 29 January 2021 at p 632.
+
+121 Sian-Tzu disclosed that by the time of the trial, JustCo had found a
+replacement tenant for the OCBC Premises for six months; the lease signed in
+December 2020 commenced on 1 February 2021. 155
+
+##### Foot Note 155
+
+×
+
+Transcripts dated 28 January 2021 at p 451; Transcripts dated 29 January 2021
+at p 667.
+
+Despite that fact, JustCo did not amend its Counterclaim filed on 28 September
+2020, to reduce its claim for $2,399,796 which was the Membership Fee for the
+entire Lease period from 1 May 2020 to 30 April 2022 (ie, 24 months). 156
+
+##### Foot Note 156
+
+×
+
+Defence and Counterclaim at para 18.
+
+Although the rent JustCo received is about 6% lower than Dathena’s under the
+new contract, 157
+
+##### Foot Note 157
+
+×
+
+Transcripts dated 29 January 2021 at p 664.
+
+JustCo sought to claim the full value of the Membership Fee, which – on
+JustCo’s own evidence – could not have been an accurate estimation of its
+damages caused by the plaintiff’s alleged breach.
+
+122 Sian-Tzu repeatedly mentioned that the Covid-19 pandemic rendered it
+impossible for JustCo to fulfil its contractual obligations to Dathena (which
+is addressed at [194]). That is the test for frustration under s 2(2) of the
+Frustrated Contract Act (Cap 115, 2014 Rev Ed) (“the FCA”) and it contradicts
+the stand taken in JustCo’s Response mentioned at [30] as well as by Sheena,
+that there was no frustration of the Membership Agreement.
+
+123 Although cl 2(c) of the Membership Agreement gave JustCo the right to
+provide alternative premises to Dathena to replace the OCBC Premises, Sian-Tzu
+admitted that JustCo did not invoke that clause when she offered Dathena the
+alternatives of the Bras Basah and Verizon Premises. It had already been noted
+earlier (at [32] and [35]) that neither premises could be considered
+comparable in terms of size, which Sian-Tzu admitted was JustCo’s obligation
+to provide under that clause. 158
+
+##### Foot Note 158
+
+×
+
+Transcripts dated 29 January 2021 at p 655.
+
+124 I move now to look at Sheena’s testimony. She deposed that she was not
+involved in direct communication with Dathena until she participated in the
+conference call with Muffat and Aida on 26 May 2020 although she was in the
+email loop for communication between both parties. 159
+
+##### Foot Note 159
+
+×
+
+Sheena’s AEIC at para 7.
+
+Neither was Sheena present when Aida made a site visit to the Bras Basah
+Premises on 1 July 2020 despite which, Sheena deposed to what transpired
+thereat. 160
+
+##### Foot Note 160
+
+×
+
+Sheena’s AEIC at para 20.
+
+125 In her email to Muffat on 7 July 2020, 161
+
+##### Foot Note 161
+
+×
+
+AB776.
+
+Sheena stated that the OCBC Premises “will now be ready on 9 September 2020”.
+This was more than four months after the agreed commencement date of 1 May
+2020 for Dathena’s lease. The court had pointed out to Sian-Tzu that four
+months equated to ¹/6 of the 24 months’ term under the Membership Agreement.
+162
+
+##### Foot Note 162
+
+×
+
+Transcripts dated 29 January 2021 at p 639.
+
+Further, despite the 4 months’ delay in commencement of the lease, Dathena’s
+lease would still terminate on 30 April 2022 which meant that the lease could
+have only been for 20 months in any event, not 24 as JustCo counterclaimed.
+
+126 Sheena’s involvement in the dispute after the Notice of Termination on 29
+May 2020 is also largely irrelevant. Her version of the teleconference on 16
+July 2020 between herself and Sian-Tzu with Muffat and Aida did not differ
+very much from Dathena’s version. 163
+
+##### Foot Note 163
+
+×
+
+Sheena’s AEIC at para 26.
+
+127 However, for Sheena to depose 164
+
+##### Foot Note 164
+
+×
+
+Sheena’s AEIC at para 22.
+
+that Muffat’s email of 7 July 2020 did not state that the Membership Agreement
+was terminated is to conveniently overlook the Notice of Termination as well
+as Muffat’s email to Song on 1 June 2020 which stated: 165
+
+##### Foot Note 165
+
+×
+
+AB732.
+
+Let’s agree to disagree. So far, we did not receive any viable alternative
+from JustCo that would suit our needs. We are now out of options (we left our
+previous office), hence we consider the agreement frustrated.
+
+128 Despite the above message and Dathena’s Letter of Demand, 166
+
+##### Foot Note 166
+
+×
+
+AB807.
+
+Sheena opined in her AEIC that she believed Dathena had accepted that the
+Membership Agreement remained operational because it did not respond to
+JustCo’s letter dated 27 July 2020 signed by Song. 167
+
+##### Foot Note 167
+
+×
+
+Sheena’s AEIC at para 30.
+
+129 In this regard, it is to be noted that Dathena’s Letter of Demand clearly
+stated that “Dathena reiterates its position that the Agreement has been
+terminated and the Refund is due and owing…” [emphasis in original].
+
+130 The material portions of JustCo’s response letter dated 27 July 2020 have
+already been set out earlier at [43] save for paras 2 and 5 which state: 168
+
+##### Foot Note 168
+
+×
+
+AB810–811.
+
+2 We do not agree that the [Membership Agreement] … has been terminated or has
+been frustrated. Accordingly, the Membership Agreement remains in effect and
+we are not obliged to pay to Dathena the amounts demanded in the [Letter of
+Demand].
+
+…
+
+5 We further refer to Section 16 of the Covid-19 (Temporary
+Measures)(Amendment) Act 2020 passed by the government on 5 June 2020. It is
+noteworthy that the contemplation of the law is to allow a party to seek just
+and equitable adjustments to its obligations under a contract affected by
+construction delays rather than to allow a party to simply walk away
+completely from the contract.
+
+It is noteworthy that apart from the above brief reference to s 16 of the
+Covid-19 (Temporary Measures) (Amendment) Act 2020 (the “Covid-19 (Amendment)
+Act”), no evidence was presented by JustCo that it invoked that provision
+either with Dathena and/or more pertinently, with the landlord of OCBC CE to
+obtain waiver and/or reductions in rent.
+
+131 Sheena’s assumption that the Membership Agreement continued is not
+credible as counsel for Dathena put to her, in the light of the very clear
+language used in Dathena’s Letter of Demand to which JustCo’s letter dated 27
+July 2020 was a reply. 169
+
+##### Foot Note 169
+
+×
+
+Transcripts dated 29 January 2021 at pp 763–767.
+
+The court said as much to Sheena and likened JustCo’s attitude to that of an
+ostrich putting its head into the sand, not wanting to know what was going on
+in the world outside. 170
+
+##### Foot Note 170
+
+×
+
+Transcripts dated 29 January 2021 at p 765.
+
+The issue(s)
+
+132 In respect of the plaintiff’s claim, the issues the court needs to decide
+in this case are:
+
+(a) Was Dathena entitled to and/or justified in giving the Notice of
+Termination?
+
+(b) If the Notice of Termination was valid, did Dathena waive its rights of
+termination by viewing/considering the Verizon and Bras Basah Premises as
+alternatives to the OCBC Premises? Were those premises alternatives to the
+OCBC Premises?
+
+(c) Alternatively, was the Membership Agreement frustrated by the
+implementation of the CB Measures?
+
+(d) Are certain provisions in the Membership Agreement unenforceable under the
+UCTA?
+
+133 In respect of the defendant’s Counterclaim, the court will consider
+whether JustCo has a valid Counterclaim.
+
+The submissions
+
+134 Before the court makes its findings, it turns to review the main points
+made in the parties’ closing submissions.
+
+Dathena’s submissions
+
+135 Dathena set out the chronology of events in its submissions which the
+court need not repeat, as the events are not disputed save for what Aida
+purportedly said to JustCo in the telephone call on 10 April 2020 (as
+mentioned at [20]) and at the site inspection of the OCBC Premises on 4
+September 2020 (as mentioned at [49]).
+
+136 Citing RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd [2007] 4 SLR(R) 413
+and Tian Teck Construction Pte Ltd v Exklusiv Auto Pte Ltd [1992] 1 SLR(R) 948
+in support of its position, Dathena submitted that JustCo’s delays in
+delivering the OCBC Premises to Dathena amounted to a breach of a condition of
+the Membership Agreement. Dathena’s position was that the start date of 1 May
+2020 was a condition of the contract with time being of the essence.
+
+137 Dathena submitted that it was undisputed that as at 26 May 2020, the
+situation was that the delays were indefinite (as mentioned at [27]). It was
+only well after the Notice of Termination had been issued (ie, 29 May 2020)
+that by Sian-Tzu’s email of 6 July 2020, 171
+
+##### Foot Note 171
+
+×
+
+AB777–778; transcripts dated 29 January 2021 at pp 642–643.
+
+JustCo gave a definite date of 9 September 2020 for Dathena to move into the
+OCBC Premises.
+
+138 Dathena added that JustCo’s fundamental breach extended to its inability
+to provide the server room, the benefit of which Dathena was substantially
+deprived. 172
+
+##### Foot Note 172
+
+×
+
+Dathena’s Closing Submissions at Section 3, para 3.5.2.
+
+139 As an alternative, Dathena’s position was that the Additional Services to
+be provided by JustCo as part of the Membership Agreement included the supply
+of a server room which was confirmed by JustCo’s issuance of a quotation dated
+19 March 2020 (mentioned at [17]). 173
+
+##### Foot Note 173
+
+×
+
+Dathena’s Closing Submissions at para 3.1.8; transcripts dated 28 January 2021
+at p 503.
+
+140 Consequently, Dathena argued that JustCo was in repudiatory breach of the
+Membership Agreement for its inability to deliver the OCBC Premises for more
+than four months (1 May to 9 September 2020). Dathena submitted that the
+repudiatory breach occurred from 8 April 2020 onwards when JustCo first
+informed Dathena that it could not deliver the OCBC Premises on time (as
+mentioned at [19]). 174
+
+##### Foot Note 174
+
+×
+
+AB631–632.
+
+141 Dathena also submitted that JustCo bore the responsibility for M1’s
+inability to complete the internet installation. 175
+
+##### Foot Note 175
+
+×
+
+Dathena’s Closing Submissions at para 3.3.
+
+It added that JustCo’s proposed alternative third party data centre at KDDI to
+store Dathena’s servers was not a viable alternative not to mention that
+JustCo expected Dathena to pay for the same. 176
+
+##### Foot Note 176
+
+×
+
+Dathena’s Closing Submissions at paras 3.4.5–3.4.8.
+
+142 Dathena further submitted that it neither waived JustCo’s delays nor
+varied the Membership Agreement 177
+
+##### Foot Note 177
+
+×
+
+Dathena’s Closing Submissions at paras 4.1.1 to 4.1.10.
+
+– neither its conduct nor communication prior to this suit indicated that the
+Lease was continuing. Its Notice of Termination was irrevocable at law.
+
+143 Dathena added that JustCo did not offer comparable alternative premises by
+way of the Verizon and Bras Basah Premises. Even if the alternative premises
+were of comparable sizes in terms of square footage, other factors other than
+square footage must be considered such as (a) the location of the premises;
+(b) the exclusivity of the space to Dathena’s use without the need to share
+the space with another entity; and (c) the provision of a server room and
+other amenities. In any case, the alternative premises were “not even
+comparable in terms of size” to the OCBC Premises. 178
+
+##### Foot Note 178
+
+×
+
+Dathena’s Closing Submissions at paras 5.1.9–5.1.10.
+
+144 As against JustCo’s Counterclaim, Dathena submitted that JustCo failed to
+take all reasonable steps to mitigate its loss, 179
+
+##### Foot Note 179
+
+×
+
+Dathena’s Closing Submissions at paras 9.2.1–9.2.3.
+
+assuming Dathena was in breach. Relying on Klerk-Elias Liza v K T Chan Clinic
+Pte Ltd [1993] 1 SLR(R) 609, Dathena submitted that JustCo could not claim for
+losses which could have been mitigated by finding alternative tenants within a
+reasonable time period. Dathena also submitted that the quantum that JustCo
+sought in its Counterclaim was “preposterous” as it was an overestimation of
+the alleged damages suffered as a result of Dathena’s alleged breach. 180
+
+##### Foot Note 180
+
+×
+
+Dathena’s Closing Submissions at para 9.3.1.
+
+145 The court will later address Dathena’s submissions that cl 2(c) of the
+Membership Agreement is unenforceable under ss 3 and 11 of the UCTA and that
+JustCo cannot rely on cl 2(c) of the Membership Agreement in relation to the
+Verizon Premises.
+
+146 In the alternative, Dathena submitted that the Membership Agreement was
+frustrated, relying on s 2(2) of the FCA (which will be elaborated at [183]).
+
+JustCo’s submissions
+
+147 Not surprisingly, JustCo’s submissions contended that Dathena is not
+entitled to a refund of the Deposit as the Membership Agreement was not
+frustrated and there was no basis for the Notice of Termination. 181
+
+##### Foot Note 181
+
+×
+
+JustCo’s Closing Submissions at para 6.
+
+148 JustCo accused Dathena of leading it by the nose for over three months
+during which time it signed lease agreements for office space at No 43 Niven
+Road and No 11 Blair Road with third party landlords without notifying JustCo.
+JustCo alleged that Dathena continued to send mixed signals to JustCo even
+after it found alternative office space by requesting a site visit to the OCBC
+Premises as late as 4 September 2020. Even after Dathena’s Letter of Demand,
+Dathena’s representatives continued to provide JustCo with inconsistent
+messages. 182
+
+##### Foot Note 182
+
+×
+
+JustCo’s Closing Submissions at para 4.
+
+149 JustCo denied it had breached the Membership Agreement by not providing a
+server room. 183
+
+##### Foot Note 183
+
+×
+
+JustCo’s Closing Submissions at paras 26–33.
+
+It asserted that it had no contractual obligation to allow Dathena to move its
+servers into the OCBC Premises by 6 April 2020. There was nothing in the
+Appendix to the Membership Agreement which imposed this obligation on JustCo.
+Neither did the parties agree, subsequent to the signing of the Membership
+Agreement, as to when Dathena should be able to move its servers into the OCBC
+Premises. Further, the dates in the construction timelines provided by JustCo
+to Dathena were always subject to change.
+
+150 Additionally, at no point before the imposition of the CB Measures did
+Dathena inform JustCo that it was imperative that the former be allowed to
+move in its servers by 6 April 2020. 184
+
+##### Foot Note 184
+
+×
+
+JustCo’s Closing Submissions at paras 34–38.
+
+On the contrary, Aida’s emails to Sharlene of 19 February 2020 185
+
+##### Foot Note 185
+
+×
+
+AB241.
+
+and 25 March 2020 186
+
+##### Foot Note 186
+
+×
+
+AB522.
+
+talked of moving Dathena’s equipment (servers) into the OCBC Premises by late
+April 2020. Realistically, Dathena would not have shifted its servers into the
+OCBC Premises during the CB period in any event as the permanent electricity
+supply would only be installed closer to the completion of the construction
+works which were projected to be late April 2020 under the First Timelines at
+[17]. 187
+
+##### Foot Note 187
+
+×
+
+AB504.
+
+151 As the permanent electricity supply was to power the whole co-working
+space leased by JustCo at the OCBC CE, it was not possible to set up the
+permanent electricity solely for the server room. Temporary power had been
+installed in the server room by the start of April 2020 but JustCo would not
+allow its clients to move their servers into the OCBC Premises without
+permanent electricity supply being installed because (according to Sian-Tzu)
+“if the temporary power supply were to be disrupted, then it would be very
+detrimental to the information kept within the server”. 188
+
+##### Foot Note 188
+
+×
+
+Transcripts dated 29 January 2021 at p 721, lines 12–15.
+
+152 In any case, Dathena could not have moved its servers into the OCBC
+Premises by 6 April 2020 because Dathena’s ISP failed to activate the fibre
+router before 7 April 2020 when the CB Measures were imposed. 189
+
+##### Foot Note 189
+
+×
+
+JustCo’s Closing Submissions at paras 39–46.
+
+153 JustCo alleged that Dathena had informed JustCo in early April 2020 that
+it had stopped its expansion plans and it wanted “rental reliefs” to lower its
+expenditure on office space. Prior to the purported Notice of Termination,
+JustCo understood from its communications with Dathena that the latter’s main
+concern was with costs. Hence, the purported Notice of Termination came as a
+surprise to JustCo – Dathena’s concerns over the temporary arrangements
+offered by JustCo (at the Verizon and Bras Basah Premises) had never been
+communicated to JustCo. 190
+
+##### Foot Note 190
+
+×
+
+JustCo’s Closing Submissions at paras 56–60.
+
+154 JustCo submitted that the Membership Agreement continued to subsist post
+the commencement date, because of cl 2(c) of the Membership Agreement. 191
+
+##### Foot Note 191
+
+×
+
+JustCo’s Closing Submissions at paras 150–152.
+
+In any case, JustCo argued that Dathena had waived its right in respect of the
+commencement date – it did not terminate the Membership Agreement based on
+JustCo’s failure to meet the commencement date and in that regard, accepted
+that the commencement date had to be postponed. 192
+
+##### Foot Note 192
+
+×
+
+JustCo’s Closing Submissions at paras 185–186.
+
+As indicated earlier at [145], the court will return to cl 2(c) later when it
+makes its findings.
+
+155 In regard to Dathena’s reliance on ss 3 and 11 of the UCTA, JustCo
+submitted those provisions do not render cl 2(c) of the Membership Agreement
+unenforceable. 193
+
+##### Foot Note 193
+
+×
+
+JustCo’s Closing Submissions at para 32.
+
+JustCo also submitted that the Membership Agreement was not frustrated by the
+implementation of the CB Measures. 194
+
+##### Foot Note 194
+
+×
+
+JustCo’s Closing Submissions at paras 195–198.
+
+156 As for its Counterclaim, JustCo maintained it was entitled to claim the
+Membership Fees for the full term of the Lease. 195
+
+##### Foot Note 195
+
+×
+
+JustCo’s Closing Submissions at paras 202–204.
+
+It however conceded it should deduct the Membership Fees received from the
+replacement tenant of the OCBC Premises amounting to $87,843 per month for a
+period of six months. Less what it received from the replacement tenant,
+JustCo reduced its Counterclaim to $1,585,846.50. In the alternative, it
+claimed damages to be assessed. 196
+
+##### Foot Note 196
+
+×
+
+JustCo’s Closing Submissions at para 204.
+
+The findings
+
+Was Dathena entitled or justified in giving the Notice of Termination?
+
+157 It is noteworthy that although the Membership Agreement clauses favoured
+JustCo, there was no provision that gave JustCo the right to deliver the OCBC
+Premises to Dathena after 1 May 2020. Earlier at [125], the court had observed
+that the four months’ delay (ie, 1 May to 9 September 2020) in the
+commencement of the Lease amounted to ¹/6 or approximately 17% of the duration
+of the Lease. Moreover, in the telephone call between parties on 26 May 2020
+mentioned at [27], JustCo could not state with any certainty when Dathen could
+occupy the OCBC Premises. It was this lack of clarity and the uncertainty
+attendant thereto that prompted Muffat to issue the Notice of Termination
+three days later. 197
+
+##### Foot Note 197
+
+×
+
+Muffat’s AEIC at para 3.1.7.
+
+158 It is also to be noted that it was JustCo’s own evidence that the parties
+had a pre-existing relationship before 2019 as Dathena had rented office space
+from JustCo’s Bangkok office with Sian-Tzu being Dathena’s main point of
+contact for that transaction. 198
+
+##### Foot Note 198
+
+×
+
+Sheena’s AEIC at para 5.
+
+Consequently, JustCo/Sian-Tzu were cognisant of the nature of Dathena’s
+business and its IT requirements.
+
+159 Mr Leong’s attempts during cross-examination to extract from Aida and
+Muffat an admission that JustCo’s contractual obligation was to provide office
+(and not server space) to Dathena is misconceived. 199
+
+##### Foot Note 199
+
+×
+
+Transcripts at pp 52 and 282.
+
+Because of their previous business relationship, JustCo well knew that Dathena
+as a cybersecurity company cannot operate without servers and internet
+connectivity, be it in an office or a home setting. Moreover, as Dathena
+pointed out in its Reply Submissions, 200
+
+##### Foot Note 200
+
+×
+
+At para 1.1.2(a).
+
+JustCo had issued a quotation and invoice to Dathena for the server room
+(which was mentioned at [17]) and, it was thus contractually obligated to
+deliver such Additional Services under the Membership Agreement. It was not a
+mere moral obligation as JustCo sought to argue, relying on the case of
+Hongkong and Shanghai Banking Corp Ltd v Jurong Engineering Ltd and Others
+[2000] 1 SLR(R) 204; 201
+
+##### Foot Note 201
+
+×
+
+JustCo’s Closing Submissions at paras 135–138.
+
+the case is not relevant.
+
+160 It had earlier been noted at [7] that there is no clause in the Membership
+Agreement that allows Dathena to terminate the contract, unlike JustCo which
+can do so under cl 8, which will be addressed at [171] and [179]. That cannot
+be right as a matter of contract law in a commercial context.
+
+161 Clause 16 of the Membership Agreement is an entire agreement clause. 202
+
+##### Foot Note 202
+
+×
+
+AB at p 104 (Membership Agreement at Clause 10).
+
+According to the appellate court’s decision in Ng Giap Hon v Westcomb
+Securities Pte Ltd and Anor [2009] 3 SLR(R) 518 that Dathena cited, 203
+
+##### Foot Note 203
+
+×
+
+Dathena’s Closing Submissions at p 27.
+
+such a law does not preclude the implication of terms into a contract. Even if
+an entire agreement clause might be able to exclude the implication of terms
+into a contract, if in substance it is an exception clause, the clause would
+be subject to both the common law constraints on exclusion clauses as well as
+the UCTA, which legislation the court turns now to consider.
+
+162 The court finds that Dathena was justified in issuing the Notice of
+Termination for the Membership Agreement due to JustCo’s failure to deliver
+the OCBC Premises for its occupation on 1 May 2020.
+
+163 As Dathena submitted in its reply submissions, 204
+
+##### Foot Note 204
+
+×
+
+Dathena’s Reply Submissions at para 1.1.2.
+
+it does not lie in JustCo’s mouth to accuse Dathena of seeking to get out of
+its contractual obligations (as it did in its closing submissions) 205
+
+##### Foot Note 205
+
+×
+
+JustCo’s Closing Submissions at para 22.
+
+when it was JustCo that failed to deliver on its contractual obligations.
+
+164 The evidence adduced from Aida and Muffat clearly showed that neither the
+Verizon nor Bras Basah Premises were of “comparable size” to OCBC Premises as
+required under cl 2(c) of the Membership Agreement. The court finds it hard to
+appreciate JustCo’s insistence conveyed through Sian-Tzu, that Dathena should
+move to the Verizon Premises as a “temporary compromise” in order to suit
+JustCo’s convenience and from there move to the OCBC Premises when the same
+were ready. 206
+
+##### Foot Note 206
+
+×
+
+Transcripts dated 27 January 2021 at p 351.
+
+If JustCo was in breach of the Membership Agreement, then as the defaulting
+party, it is in no position to dictate terms to Dathena as it repeatedly
+sought to do. The same comment would apply to JustCo’s attempts to have
+Dathena take the Bras Basah Premises in lieu of the OCBC Premises.
+
+165 The court therefore finds that JustCo’s offers to Dathena of the two
+alternatives to the OCBC Premises did not come within the definition of
+alternative “Allocated Office Space of comparable size” under cl 2(c) of the
+Membership Agreement.
+
+166 A repeated refrain in JustCo’s submissions was that JustCo had no
+contractual obligation to allow Dathena to move its servers into the OCBC
+Premises by 6 April 2020. 207
+
+##### Foot Note 207
+
+×
+
+JustCo’s Closing Submissions at paras 140, 149 and 208.
+
+The short answer to that submission is that JustCo should not then have led
+Dathena to believe that it could move in its servers earlier, let alone
+invoiced Dathena on 19 March 2020 based on that date. It bears mentioning that
+Sian-Tzu was aware, even before the execution of the Membership Agreement,
+from a meeting with Dathena on 15 January 2020, of Dathena’s IT requirements
+and timelines. 208
+
+##### Foot Note 208
+
+×
+
+Transcripts dated 28 January 2021 at p 475.
+
+167 For JustCo’s counsel to put to Muffat that it was Dathena’s not JustCo’s
+responsibility to obtain the requisite approval from MOM to enable M1
+technicians to enter the OCBC Premises is again to ignore the fact that the
+master lessee of the OCBC Premises with the landlord was JustCo not Dathena.
+209
+
+##### Foot Note 209
+
+×
+
+Transcripts dated 27 January 2021 at p 241.
+
+Dathena would have had no locus standi vis-à-vis the landlord to make such an
+application which if made, would likely not have been entertained. In this
+regard, it is noteworthy that JustCo’s invoice dated 19 March 2020 for
+“Additional Services” included a charge of $500 for “ISP-JustCo Coordination
+fee for survey and installation” (as highlighted at [17]) which invoice
+Dathena promptly signed the day after on 20 March 2020. JustCo did not deliver
+what it invoiced to Dathena. Despite the signed invoice, Ow’s response in his
+email on 8 April 2020 on the same issue of internet connectivity (when pressed
+by Dathena) was wholly unhelpful (as noted at [90]).
+
+168 Equally, there was no duty on the part of Dathena to inform JustCo that it
+had successfully applied for Jeremie and Sai Tun to enter the OGS Premises
+under MOM’s Time Limited Exemptions to Covid-19 restrictions. 210
+
+##### Foot Note 210
+
+×
+
+Transcripts dated 26 January 2021 at p 242.
+
+With due respect, it is not relevant to Dathena’s SOC or JustCo’s Defence.
+Indeed, the court found it surprising that Sian-Tzu was not even aware of such
+an exemption until Aida told her (as highlighted at [114]).
+
+Do any provisions in the Membership Agreement offend and are unenforceable
+under the provisions of the UCTA?
+
+169 The court must consider the UCTA in conjunction with the terms in the
+Membership Agreement upon which JustCo relied in its Defence and Counterclaim
+(as summarised at [57]). Earlier, the court had commented at [7] how the terms
+and conditions of the Membership Agreement are heavily skewed in favour of
+JustCo and how Dathena is disadvantaged as a “member”.
+
+170 Relevant extracts of cl 2 of the Membership Agreement were set out earlier
+at [52]; the clause also contained the following extracts:
+
+[Dathena] accept and [JustCo] agrees to provide …and/or (iii) any other
+additional services (“the Additional Services”) that may be provided by
+[JustCo] upon request by [Dathena], at such extra cost and upon such other
+terms to be advised by [JustCo] where applicable.…
+
+(c) [JustCo] reserves the right to replace [Dathena’s] Allocated Office Space,
+if any, with another Allocated Office Space of comparable size at [OCBC CE] or
+any other of [JustCo’s] operating premises in the event where this may be
+necessary due to the operational requirements of [JustCo] for the provision of
+the Services and/or Additional Services.
+
+171 Next is cl 8(c)(i) which states:
+
+(c) In the event that this Agreement is terminated by [JustCo] pursuant to
+Clause 8(a), [Dathena] shall be liable to pay to [JustCo]:
+
+(i) the Membership Fee for the remainder of the Service Term in full within
+fourteen (14) days from the date of [JustCo’s] written notice; …
+
+172 Then there is cl 11 which states:
+
+[Dathena] shall indemnify and hold harmless [JustCo], the Justco Group, its
+directors, employees, agents, affiliates and/or third party service providers
+(together with [JustCo] and the JustCo Group, the “Indemnified Persons”), from
+and against all claims, demands, actions, proceedings, judgments, damages,
+losses, costs and expenses of any nature including legal costs on a full
+indemnity basis which any of the Indemnified Persons (as the case may be) may
+at any time and from time to time sustain, incur or suffer relating to or
+arising out of;
+
+(a) any occurrences whatsoever in the [OCBC Premises]…;
+
+(b) any default by [Dathena] ... in complying with the provisions of this
+Agreement…;
+
+(c) any claims against [JustCo] or a JustCo Group Company by any party in
+relation to any matter arising out of or in connection with the Rights granted
+to [Dathena] hereunder; or
+
+(d) the use of the Services or Additional Services by [Dathena] and or its
+Permitted Occupier.
+
+173 Finally, there is cl 12(b)(i) which states:
+
+(b) Notwithstanding anything herein contained, none of the Indemnified Persons
+shall be liable to [Dathena] and/or its Permitted Occupier nor shall [Dathena]
+and/or its Permitted Occupier have any claim of any nature against any of the
+Indemnified Persons in respect of or arising out of:
+
+(i) any interruption, disruption or cessation in [Dathena’s] use of the [OCBC
+Premises] and/or any other premises under the JustCo group and/or Allocated
+Office Space for any reason whatsoever; …
+
+174 It was Dathena’s pleaded case that cl 2(c) of the Membership Agreement is
+unenforceable under ss 3 and 11 of the UCTA. JustCo however had argued in its
+closing submissions that ss 3 and 11 of the UCTA would not apply as Dathena
+was not dealing as a “consumer” with JustCo and in any case, cl 2(c) of the
+Membership Agreement satisfies the test of “reasonableness” under s 11(1) of
+the UCTA.
+
+175 The relevant portions of ss 3 and 11 of the UCTA states:
+
+3.—(1) This section applies as between contracting parties where one of them
+deals as consumer or on the other’s written standard terms of business.
+
+(2) As against that party, the other cannot by reference to any contract term
+—
+
+(a) when himself in breach of contract, exclude or restrict any liability of
+his in respect of the breach; or
+
+(b) claim to be entitled —
+
+(i) to render a contractual performance substantially different from that
+which was reasonably expected of him; or
+
+(ii) in respect of the whole or any part of his contractual obligation, to
+render no performance at all,
+
+except in so far as (in any of the cases mentioned in this subsection) the
+contract term satisfies the requirement of reasonableness.
+
+11.—(1) In relation to a contract term, the requirement of reasonableness for
+the purposes of this Part and section 3 of the Misrepresentation Act [Cap.
+390] is that the term shall have been a fair and reasonable one to be included
+having regard to the circumstances which were, or ought reasonably to have
+been, known to or in the contemplation of the parties when the contract was
+made.
+
+(2) In determining for the purposes of section 6 or 7 whether a contract term
+satisfies the requirement of reasonableness, regard shall be had in particular
+to the matters specified in the Second Schedule; …
+
+(5) It is for those claiming that a contract term or notice satisfies the
+requirement of reasonableness to show that it does.
+
+176 Under the Second Schedule to the UCTA, the guidelines for application of
+the “reasonableness” test include:
+
+(a) the strength of the bargaining positions of the parties relative to each
+other, taking into account (among other things) alternative means by which the
+customer’s requirements could have been met;
+
+…
+
+(c) whether the customer knew or ought reasonably to have known of the
+existence and extent of the term (having regard, among other things, to any
+custom of the trade and any previous course of dealing between the parties);
+
+(d) where the term excludes or restricts any relevant liability if some
+condition is not complied with, whether it was reasonable at the time of the
+contract to expect that compliance with that condition would be practicable; …
+
+Under s 12(3) of the UCTA, the burden is on JustCo to prove that Dathena is
+not a “consumer”.
+
+177 The court is of the view that Dathena is indeed a “consumer”  
+within the meaning of s 3 of the UCTA. Assuming arguendo that JustCo is
+correct and Dathena is not a “consumer”, Dathena would still come under the
+second disjunctive limb of s 3(1) as dealing with JustCo “on the other’s
+written standard terms of business”.
+
+178 In its closing submissions, 211
+
+##### Foot Note 211
+
+×
+
+JustCo’s Closing Submissions at para 172.
+
+JustCo sought to show that although the initial draft agreement was provided
+by JustCo, the executed Membership Agreement was a product of negotiations
+between the parties and JustCo would have been open to changes in the contract
+terms if Dathena had requested. Therefore, the terms were “fair and
+reasonable” within the ambit of s 11(1) of the UCTA. The court is sceptical of
+this submission. It is quite apparent that the Membership Agreement terms are
+JustCo’s standard terms and conditions applicable to all its clients or
+“members”. No evidence was presented that there was room for negotiation of
+those standard terms. What was in evidence was that Dathena signed a similar
+agreement for its Bangkok office. Contrary to JustCo’s submissions, 212
+
+##### Foot Note 212
+
+×
+
+JustCo’s Closing Submissions at para 172; transcripts dated 28 January 2021 at
+p 478, lines 2–7.
+
+Sian-Tzu’s evidence at trial, which JustCo referred the court to in its
+submissions, did not suggest that JustCo was open to negotiating the standard
+terms of the Membership Agreement. Quite to the opposite, Sian-Tzu testified
+that the Membership Agreement is “just a standard agreement that it was -- is
+generated from the system”. 213
+
+##### Foot Note 213
+
+×
+
+Transcripts dated 29 January 2021 at p 653.
+
+In that regard, Sian-Tzu confirmed multiple times at the trial that the
+Membership Agreement is a standard contract used by JustCo for its clients
+“until the appendix page”. 214
+
+##### Foot Note 214
+
+×
+
+Transcripts dated 28 January 2021 at p 478.
+
+179 The court views the terms in the Membership Agreement set out earlier at
+[170]–[173] as grossly unfair and disadvantageous to Dathena and an affront to
+the UCTA. Those provisions are unenforceable.
+
+Did Dathena waive its rights to terminate the Membership Agreement by
+considering the Verizon Premises and inspecting the Bras Basah Premises as
+alternatives to the OCBC Premises?
+
+180 Once the Membership Agreement was validly terminated as the court finds,
+it was Dathena’s prerogative (not obligation), to decide whether it would
+waive the Notice of Termination and accept any alternatives proposed by JustCo
+to replace the OCBC Premises. As the court pointed out to Sian-Tzu, 215
+
+##### Foot Note 215
+
+×
+
+Transcripts dated 29 January 2021 at p 737.
+
+Dathena cannot be forced to accept the alternatives of the Verizon and Bras
+Basah Premises just because it suits JustCo’s purpose to do so.
+
+181 The evidence does not show that Dathena waived the Notice of Termination.
+Dathena’s willingness after 29 May 2020 to look at alternative premises
+offered by JustCo (including the OCBC Premises on 4 September 2020) was on the
+basis that it was without prejudice to the Notice of Termination. Further,
+having given the Notice of Termination, the court cannot comprehend how
+Dathena, as JustCo alleged, 216
+
+##### Foot Note 216
+
+×
+
+JustCo’s Closing Submissions at para 5.
+
+can be said to have repudiated the contract on 4 September 2020 by filing this
+suit.
+
+182 Sheena’s assumption that the Membership Agreement continued because of
+Dathena’s conduct after 29 May 2020 is not credible (as counsel for Dathena
+said to her), in the light of the very clear language used in Dathena’s Letter
+of Demand. The court said as much to Sheena and likened JustCo’s self-denial
+to that of an ostrich putting its head into the sand, not wanting to know what
+was going on in the world outside. 217
+
+##### Foot Note 217
+
+×
+
+Transcripts dated 29 January 2021 at p 765.
+
+Was the Membership Agreement frustrated by the implementation of the CB
+Measures?
+
+183 Dathena’s alternative case had relied on the FCA and s 2 in particular
+which states:
+
+(1) Where a contract has become impossible of performance or been otherwise
+frustrated, and the parties to the contract have for that reason been
+discharged from the further performance of the contract, this section shall,
+subject to section 3, have effect in relation to that contract.
+
+(2) Subject to subsection (3), all sums paid or payable to any party in
+pursuance of the contract before the time when the parties were so discharged
+(referred to in this Act as the time of discharge) shall, in the case of sums
+so paid, be recoverable from him as money received by him for the use of the
+party by whom the sums were paid, and, in the case of sums so payable, cease
+to be so payable.
+
+(3) If the party to whom the sums were so paid or payable under subsection (2)
+incurred expenses before the time of discharge in, or for the purpose of, the
+performance of the contract, the court may, if it considers it just to do so
+having regard to all the circumstances of the case, allow him to retain or, as
+the case may be, recover the whole or any part of the sums so paid or payable,
+not being an amount in excess of the expenses so incurred.
+
+184 It bears noting that JustCo repeatedly insisted that the Membership
+Agreement was not frustrated as Dathena asserted. 218
+
+##### Foot Note 218
+
+×
+
+JustCo’s Closing Submissions at paras 195–198.
+
+However, the doctrine of frustration of contracts and the operation of the FCA
+is not dependant on parties’ agreement. It is the law that determines that a
+contract is frustrated if it is, regardless of the parties’ views. Once a
+supervening event occurs after the formation of the contract without the
+default of either party which renders the contractual obligation radically
+fundamentally different from what was agreed or, a contract becomes impossible
+to perform (as set out under s 2(1) of the FCA at [183]), a contract is
+frustrated. The result is that both parties are automatically discharged from
+their contract by operation of law (Allied Concrete Singapore Pte Ltd v Sato
+Kogyo (S) Pte Ltd [2014] 3 SLR 857). It is not JustCo’s prerogative to decide
+that the Membership Agreement was not frustrated if indeed it was.
+
+185 Under s 2(2) of the FCA, sums paid under the frustrated contract must be
+refunded, which was what Dathena claimed.
+
+186 Did JustCo’s four month’s delay in delivering the OCBC Premises to Dathena
+and its inability to provide alternative comparable premises during that
+period render the Lease and the Membership Agreement frustrated? Was JustCo’s
+contractual obligation radically fundamentally different from what was agreed
+to?
+
+187 Looking at the facts, it is this court’s finding that the answers must be
+in the affirmative to the foregoing two questions. Nothing could be more
+telling of the termination (whether via operation of law or by the Notice of
+Termination) of the Membership Agreement than JustCo’s own attempts to
+persuade Dathena to sign a new agreement to replace the Membership Agreement.
+Despite Sian-Tzu’s valiant attempts (as elaborated at [117]) and disagreement
+when questioned by the court, the court is not persuaded that the new
+agreement was only to amend the existing contract – it was a fresh agreement
+altogether for entirely different premises (ie, the Bras Basah Premises) being
+the subject of the new lease. It was meant to supersede the Membership
+Agreement dated 16 January 2020. JustCo’s own conduct thus indicated that at
+the material time, it was aware that it could not perform its contractual
+obligations as previously agreed to in the Membership Agreement.
+
+188 Consequently, JustCo’s repeated attempts to replace the Lease of the OCBC
+Premises with a new lease first of the Verizon Premises and subsequently, of
+the Bras Basah Premises amounted to a fundamentally different contract than
+what the parties bargained for. This is especially so in the circumstances
+where it was not disputed that the sizes of the alleged alternative premises
+were not comparable to the OCBC Premises and other factors (such as location
+and exclusivity to use the premises) also clearly distinguished the
+alternative premises from the OCBC Premises. In short, the Verizon Premises,
+the Bras Basah Premises, additional moving costs incurred, and significantly
+delayed commencement dates were simply not what parties had agreed to.
+
+Additional findings
+
+189 A related and disputed issue was JustCo’s allegation of Dathena’s change
+of business plans and its intended reduction of workforce and workspace. The
+court notes that as early as 15 November 2019, 219
+
+##### Foot Note 219
+
+×
+
+AB21.
+
+JustCo’s own email from Sian-Tzu to Aida clearly stated that the latter
+required an open plan office for 120 persons. Consequently, it was an exercise
+in futility for JustCo’s counsel to suggest to Muffat repeatedly that the
+requirement to accommodate 120 staff was an afterthought on his part used to
+reject the Bras Basah Premises. It therefore also did not matter what
+Dathena’s headcount in Singapore was, between the execution of the Membership
+Agreement (ie, 16 January 2020) and the Notice of Termination (ie, 29 May
+2020). Further, it is undisputed that Dathena rented larger space at No 43
+Niven Road and No 11 Blair Road than what it contracted at the OCBC Premises.
+
+190 There was no basis for JustCo to surmise that during and after, the
+imposition of CB Measures, Dathena’s priority shifted from wanting an office
+space to wanting a server space. What the court does note from the evidence
+is, how quick JustCo was, first in pressing Dathena to execute the Membership
+Agreement and subsequently in invoicing Dathena for payments under the
+Membership Agreement even when those payments were not yet due (eg, the June
+2020 rent mentioned at [33]–[34]). In this regard, Song’s surmise in para 4(d)
+of JustCo’s letter dated 27 July 2020 that “business considerations” motivated
+Dathena’s change of heart on renting the OCBC Premises (as mentioned at [45])
+is unfounded, in the light of Dathena’s lease of alternative and larger
+premises at No 43 Niven Road and No 11 Blair Road after the Notice of
+Termination was issued.
+
+191 As an aside, JustCo’s letter of 27 July 2020 as set out at [130] had
+relied on s 16 of the Covid-19 (Amendment) Act. Section 16 therein actually
+refers to an insertion of s 36 into the main legislation, namely the Covid-19
+(Temporary Measures) Act (the “Covid-19 Act”).
+
+192 The entire s 36 (which is under Part 8) of the Covid-19 Act is headed
+“Contracts affected by delay in the performance or breach of a construction
+contract, supply contract or related contract”. It applies where certain
+requirements are met, such that under s 36(1)(a)(iii) as parties entering into
+a contract that:
+
+(iii) is, on or after 1 February 2020 and before the expiry of the prescribed
+period, affected in the prescribed manner by a delay in the performance by a
+party to a construction (or construction-related) contract …, or a breach of
+such contract, where such delay or breach (A) occurs on or after 1 February
+2020 and before the expiry of the prescribed period; and (B) is to a material
+extent caused by a COVID-19 event.
+
+193 Under Schedule 2 Part 2(2) of the Covid-19 Act. “Essential Services”
+include services related to (a) fixed telephony services; (b) mobile telephony
+services; (c) broadband internet access services; and (d) national domain name
+registry services.
+
+194 Based on Sian-Tzu’s testimony as mentioned at [117], the court finds that
+JustCo could have but failed to take steps (as the tenant of OCBC CE) to
+assist M1 to activate Dathena’s internet connection at the OCBC Premises.
+
+195 JustCo’s repeated refrain in its closing submissions that it was never
+given an opportunity to address Dathena’s concerns (regarding KDDI, the
+Verizon and Bras Basah Premises) does not sit well with the evidence that was
+adduced. Aida had WhatsApp 220
+
+##### Foot Note 220
+
+×
+
+AB750.
+
+to JustCo that the Verizon Premises were unsuitable while Muffat’s email of 7
+July 2020 221
+
+##### Foot Note 221
+
+×
+
+AB792.
+
+said the same of the Bras Basah Premises, as stated earlier at [37] and [39].
+As JustCo was not knowledgeable of IT, the court does not see why Dathena was
+obliged to update JustCo on KDDI’s unsuitability (as explained at [95]),
+bearing in mind that by mid-May 2020, Dathena was forced to contract with
+Vodien to host its servers as it had vacated its previous premises at OGS by
+early May 2020 (of which Sian-Tzu was informed much earlier on 10 April 2020,
+at [20]).
+
+196 In the light of the above findings, the court rules in favour of Dathena
+on its claim.
+
+Does JustCo have a valid counterclaim?
+
+197 Sheena’s testimony on when JustCo stated looking for tenants to take over
+the space leased to Dathena was highly unsatisfactory. Taking into
+consideration that the date of the Notice of Termination was 29 May 2020,
+JustCo could have done more earlier to find a replacement tenant. Her
+explanation during re-examination did not improve the court’s opinion of
+JustCo. 222
+
+##### Foot Note 222
+
+×
+
+Transcripts dated 29 January 2021 at p 780.
+
+Sheena testified that even if JustCo wanted to look for a replacement tenant,
+it “would not have been easy”, given that “office was actually especially
+customised for the Dathena size”. The court also notes that JustCo intended to
+charge Dathena for reinstatement costs to reinstate a certain wall at the OCBC
+Premises in any case so the fact that the office was customised for Dathena’s
+use is a lame and unacceptable excuse for failing to be more proactive in
+looking for replacement tenants. JustCo’s lack of effort in this regard
+adversely affects its Counterclaim.
+
+198 JustCo’s reliance on cl 8(c)(i) to claim the full balance of the
+Membership Fee for the 24 months’ duration of the Lease 223
+
+##### Foot Note 223
+
+×
+
+JustCo’s Closing Submissions at paras 204–205.
+
+in its Counterclaim is in complete disregard of a contracting party’s duty at
+law to take reasonable steps to mitigate its loss (see, eg, The “Asia Star”
+[2010] 2 SLR 1154). The court finds that JustCo failed to take more pro-active
+steps to mitigate its loss for the reasons expounded at [197]. However,
+nothing more needs to be said in this regard as, following upon the court’s
+earlier findings in favour of Dathena, JustCo’s Counterclaim is dismissed.
+
+Costs
+
+199 Prior to release of this judgment, the court was informed that the parties
+had made Offers to Settle (“OTS”) to one another pursuant to O 22A of the
+Rules of Court (2014 Rev Ed) (“the Rules”).
+
+200 On 7 January 2020, Dathena filed its OTS as follows:
+
+(a) it would accept payment of $250,000 from JustCo within four weeks of
+JustCo’s acceptance of its OTS in full and final settlement of this suit and
+the Membership Agreement; and
+
+(b) after receipt by Dathena of JustCo’s payment of $250,000, the parties
+would file Notice of Discontinuance of the Claim and Counterclaim with no
+orders as to costs.
+
+Dathena’s OTS did not refer to JustCo’s Counterclaim.
+
+201 On 13 January 2020, JustCo filed its OTS offering to settle this suit on
+the following terms:
+
+(a) JustCo would retain all the monies Dathena had paid to JustCo pursuant to
+the Membership Agreement;
+
+(b) Dathena would pay JustCo an additional two months’ membership fee
+amounting to $186,900;
+
+(c) The parties would file Notice of Discontinuance with no orders as to costs
+within five working days from the date of receipt by JustCo of the sum of
+$186,900.
+
+202 Dathena did not accept JustCo’s OTS nor did JustCo accept Dathena’s OTS.
+As the court has found in favour of Dathena’s claim which is for $286,891.50,
+the court’s judgment is more favourable than Dathena’s OTS which was to accept
+$250,000 from JustCo. Under O 22A r 9(1)(b) of the Rules, Dathena is therefore
+entitled to costs on a standard basis to the date of its OTS and costs on an
+indemnity basis thereafter.
+
+203 As the court has dismissed JustCo’s Counterclaim, its OTS need not be
+considered. Since Dathena’s OTS did not include JustCo’s Counterclaim, costs
+of the Counterclaim to Dathena will be on a standard basis.
+
+Conclusion
+
+204 Accordingly, the court grants Dathena the declaration requested in its
+SOC, namely that the Membership Agreement was terminated with effect from 29
+May 2020 and awards Dathena judgment in the sum of $286,891.50 together with
+interest at 5.33% per annum from 4 September 2020 until payment, Dathena is
+entitled to costs for its claim on a standard basis until 7 January 2020 and
+costs on an indemnity basis from 8 January 2020. Conversely, JustCo’s
+Counterclaim is dismissed with costs to Dathena on a standard basis.
+
+Lai Siu Chiu  
+Senior Judge  
+---  
+  
+Joseph Tay Weiwen, Lin Ruizi, Lim Wei Zhen @ Jennifer Lim Wei Zhen (Shook Lin
+& Bok LLP) for the plaintiff
+
+Leong Li Shiong, Chai Rui Min Angela (Withers KhattarWong LLP) for the
+defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 2: 12 Oct 2021 (14:37 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

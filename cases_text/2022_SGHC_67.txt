@@ -1,0 +1,2848 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 67
+
+Suit No 175 of 2019
+
+Between
+
+| Simran Bedi  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Mark A Montgomery  
+---|---  
+  
+… Defendant
+
+JUDGMENT
+
+[Contract — Breach — Repudiatory breach]
+
+[Contract — Contractual terms — Implied terms]
+
+[Contract — Remedies — Damages]
+
+[Restitution — Failure of consideration — Total failure of consideration]
+
+[Restitution — Change of position]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Simran Bedi
+
+  
+v
+
+  
+
+Montgomery, Mark A
+
+[2022] SGHC 67
+
+General Division of the High Court — Suit No 175 of 2019  
+S Mohan J  
+23–25 June, 1 July, 13 August 2021, 2 November 2021
+
+31 March 2022 Judgment reserved.
+
+S Mohan J:
+
+Introduction
+
+1 This case revolves around a relatively straightforward contract for the sale
+of shares in Xeitgeist Entertainment Group Pte Ltd (“Xeitgeist”) by the
+defendant, Mark A Montgomery, to the plaintiff, Simran Bedi (“the Contract”).
+While the plaintiff furnished the purchase price of US$270,000, it is not
+disputed that the defendant never transferred the shares to her. The crux of
+the dispute concerns whether the plaintiff was required, under the terms of
+the Contract, to execute a document known as a Deed of Ratification and
+Accession (the “DRA”) as a pre-condition to receiving her shares. Executing
+the DRA would have the effect of binding the plaintiff to a supplemental
+shareholders’ agreement, which had been signed by Xeitgeist’s pre-existing
+shareholders on 28 November 2013 (“1SSA”), prior to the conclusion of the
+Contract.
+
+Background Facts
+
+2 The plaintiff has been the director of Beetroot Investments Pte Ltd
+(“Beetroot”) since 19 March 2008. 1
+
+##### Foot Note 1
+
+×
+
+Agreed Bundle (“AB”) at p 107.
+
+The defendant is the President and Secretary, as well as a director and
+shareholder, of Xeitgeist. Xeitgeist is a company registered in Singapore
+whose principal business is the production of motion pictures and other visual
+media. At the time, Xeitgeist had another director, Mr Jomon Thomas (“Joe”),
+who is also a shareholder of the company. 2
+
+##### Foot Note 2
+
+×
+
+Mark A Montgomery’s 1st Affidavit of Evidence-in-Chief dated 30 January 2020
+(“MM-1”) at para 3 (Defendant’s Bundle of Affidavits of Evidence-in-Chief
+(“DBAEIC”) at p 5).
+
+3 The plaintiff was first introduced to the defendant through the defendant’s
+wife in October 2016. 3
+
+##### Foot Note 3
+
+×
+
+Simran Bedi’s 1st Affidavit of Evidence-in-Chief dated 27 February 2020
+(“SB-1”) at para 13 (Plaintiff’s Bundle of Affidavits of Evidence-in-Chief
+(“PBAEIC”) at p 8); MM-1 at para 4 (DBAEIC at p 5).
+
+The plaintiff gave evidence that she subsequently became close friends with
+the defendant and his wife. 4
+
+##### Foot Note 4
+
+×
+
+SB-1 at para 13 (PBAEIC at p 8).
+
+In addition, the plaintiff claimed that, at the defendant’s request and on
+account of their friendship, she introduced the defendant to several of her
+contacts for his business purposes. 5
+
+##### Foot Note 5
+
+×
+
+SB-1 at para 16 (PBAEIC at p 9).
+
+4 Sometime between November 2016 and January 2017, the defendant approached
+the plaintiff with an opportunity to invest in “Hotel Mumbai”, a movie that
+Xeitgeist was making at the time about the horrendous terrorist attacks that
+occurred in Mumbai in 2008. 6
+
+##### Foot Note 6
+
+×
+
+SB-1 at paras 18–19 (PBAEIC at p 9–10); AB at p 292.
+
+The cast of “Hotel Mumbai” included, among others, well-known names such as
+Dev Patel of “Slumdog Millionaire” fame. 7
+
+##### Foot Note 7
+
+×
+
+AB at p 293.
+
+5 On 21 January 2017, the defendant e-mailed the plaintiff to suggest that
+instead of investing directly in “Hotel Mumbai”, the plaintiff could purchase
+shares in Xeitgeist. 8
+
+##### Foot Note 8
+
+×
+
+AB at p 40–41.
+
+It is not disputed that the parties subsequently entered into the Contract,
+under which the plaintiff agreed to purchase 82,192 shares in Xeitgeist from
+the defendant at a price of US$270,000. Neither is it now disputed that the
+terms of the Contract are contained in a series of e-mails exchanged between
+the parties from 30 January 2017 to 14 February 2017. 9
+
+##### Foot Note 9
+
+×
+
+Plaintiff’s Closing Submissions dated 11 October 2021 (“PCS”) at para 23;
+Defendant’s Closing Submissions dated 11 October 2021 (“DCS”) at p 3, para 6;
+Defendant’s Reply Closing Submissions dated 1 November 2021 (“DRS”) at paras
+15–16.
+
+The parties continued corresponding via e-mail regarding the Contract until 17
+June 2017.
+
+6 As these e-mails exchanged between the parties form a material part of the
+background to the present dispute, I summarise the contents of these e-mails
+below. A full chronology of the parties’ correspondence can be found at Annex
+A to this judgment.
+
+7 Following the defendant’s e-mail on 21 January 2017 (see [5] above), the
+defendant e-mailed the plaintiff on 30 January 2017 to furnish her with more
+details of the share offer. 10
+
+##### Foot Note 10
+
+×
+
+AB at p 318–319.
+
+In particular, the defendant offered to sell the plaintiff US$300,000 worth of
+Xeitgeist shares that he held in his name, at a 10% discount. The purchase
+price was therefore US$270,000, or US$3.285 per share. 11
+
+##### Foot Note 11
+
+×
+
+AB at p 318.
+
+The defendant told the plaintiff that the shares had to come from himself or
+Joe, as the shares held by Xeitgeist itself could not be discounted. 12
+
+##### Foot Note 12
+
+×
+
+AB at p 318.
+
+8 On 1 February 2017, the defendant e-mailed the plaintiff and Mr Jeremy Kong
+(“Jeremy”), who was an account manager from TKNP Professional Services
+(“TKNP”), Xeitgeist’s corporate secretarial services provider. 13
+
+##### Foot Note 13
+
+×
+
+AB at p 322; Affidavit of Evidence-in-Chief of Kong Ming-Tat, Jeremy dated 30
+January 2020 (“JK-1”) at para 3 (DBAEIC at p 219).
+
+The defendant informed Jeremy that the plaintiff would be acquiring his shares
+in Xeitgeist, and instructed Jeremy to send the plaintiff the “transfer
+papers”, including “all the associated shareholders agreements for her review
+and signing”. 14
+
+##### Foot Note 14
+
+×
+
+AB at p 322.
+
+9 On 8 February 2017, another employee of TKNP, Ms Grace Goh (“Grace”),
+followed up on the defendant’s instructions by e-mailing the plaintiff several
+documents. 15
+
+##### Foot Note 15
+
+×
+
+AB at p 462.
+
+The first of these was a share transfer deed, which the plaintiff was
+instructed to execute and return to TKNP (the “Share Transfer Deed”). Grace’s
+e-mail also stated that the remaining documents had been enclosed for the
+plaintiff’s “reference”, namely:
+
+(a) a shareholders’ agreement dated 10 June 2013;
+
+(b) a copy of the 1SSA; and
+
+(c) an undated supplemental shareholders’ agreement, which would be dated upon
+being signed by all existing shareholders;
+
+(collectively, the “Shareholders’ Agreements”).
+
+10 Under the terms of the 1SSA attached to Grace’s e-mail (see [9(b)] above),
+any person bound by the 1SSA was required to sign a DRA as a pre-condition to
+acquiring any shares in Xeitgeist: 16
+
+##### Foot Note 16
+
+×
+
+AB at p 465.
+
+Article 10 – Shareholders’ Subscription Agreement
+
+…
+
+‘Article 10 – Deed of Ratification and Accession to the Shareholder’s
+Agreement
+
+1\. Pre-condition to acquisition of Shares
+
+Notwithstanding any other provision of this Deed, no acquisition of [sic]
+transfer of any Shares in the Company shall be effected or be valid and
+binding unless the person or entity acquiring the Shares, if not already bound
+by the provisions of this Deed, executes a Deed of Ratification and Accession.
+
+…
+
+[emphasis in original omitted; emphasis added]
+
+11 In addition, the 1SSA attached to Grace’s e-mail contained a blank draft
+DRA, ie, a DRA that left blank the respective portions for the name, personal
+details and number of shares held by the incoming shareholder. 17
+
+##### Foot Note 17
+
+×
+
+AB at p 476.
+
+12 On 14 February 2017, the plaintiff e-mailed Grace, Jeremy and the defendant
+querying, “Do we alos need to do a contract for Xietgiest shares or just a
+share transfer” [sic]. 18
+
+##### Foot Note 18
+
+×
+
+AB at p 332.
+
+On the same day, Grace replied to the plaintiff’s e-mail, informing her that
+she would need to provide TKNP with the original signed Share Transfer Deed
+and a scanned copy thereof, to “complete the share transfer process”. 19
+
+##### Foot Note 19
+
+×
+
+AB at p 331.
+
+Likewise, the defendant replied to the plaintiff’s e-mail later that day,
+stating that she would need to “basically … sign the paperwork” and transfer
+funds to a designated account. 20
+
+##### Foot Note 20
+
+×
+
+AB at p 331.
+
+Grace then sent another e-mail to the plaintiff that day, again enclosing the
+Shareholders’ Agreements as well as a copy of Xeitgeist’s latest business
+profile, for the plaintiff’s “reference”. 21
+
+##### Foot Note 21
+
+×
+
+AB at p 330.
+
+13 The parties signed the Share Transfer Deed on 12 April 2017, 22
+
+##### Foot Note 22
+
+×
+
+AB at p 962.
+
+following which Grace e-mailed the plaintiff on 20 April 2017 to congratulate
+her on becoming a Xeitgeist shareholder and inform her that steps were being
+taken to arrange for payment to the tax authorities of the stamp duty “in
+relation to this share transfer” by GIRO. 23
+
+##### Foot Note 23
+
+×
+
+AB at p 439.
+
+In the same e-mail, Grace also confirmed that once the GIRO payment was
+approved, TKNP would proceed “to file the share transfer in ACRA and send you
+the latest Business Profile of Xeitgeist and your share certificate” [emphasis
+added in italics and bold italics].
+
+14 Subsequently, on 24 April 2017, Grace sent the following e-mail to the
+plaintiff, with the defendant copied: 24
+
+##### Foot Note 24
+
+×
+
+AB at p 444.
+
+Dear Simran,
+
+I understand that upon successful transfer of shares from Mark to yourself,
+you wish to transfer your shareholdings to your corporate entity.
+
+I have listed down the following steps for us to proceed.
+
+Stage 1) Transfer from Mark to your personal name:
+
+Next steps to complete the transfer:
+
+1) Kindly sign attached deed of ratification and scan to us.
+
+2) Scan to us a copy of proof of payment (USD270,000) to Mark
+
+3) We will proceed with e-filing of share transfer.
+
+Stage 2) Transfer from your personal name to your corporate entity:
+
+For KYC purposes and preparation of paperwork, please let us have the
+following information:
+
+1) Do you wish to transfer all of your shareholdings (82,192 ordinary SGD
+shares) or otherwise (______)?
+
+2) Corporate and beneficial owners’ identification documents (as per attached
+KYC Roadmap) – if not furnished to us yet.
+
+…
+
+[emphasis in original omitted; emphasis added in bold italics]
+
+15 It is not disputed that this was the first time that the plaintiff was told
+to sign a DRA. 25
+
+##### Foot Note 25
+
+×
+
+Notes of Evidence (“NEs”), 25 June 2021, p 59 lines 9–12.
+
+As compared to the blank draft DRA attached to the 1SSA sent by Grace to the
+plaintiff on 8 February 2017 (see above at [11]), this later version of the
+DRA contained the plaintiff’s name, personal information and details of the
+share transfer from the defendant. 26
+
+##### Foot Note 26
+
+×
+
+AB at p 965.
+
+On the same day, the plaintiff replied to Grace’s e-mail requesting Grace to
+send her “the share holders [sic] agreement to sign”. 27
+
+##### Foot Note 27
+
+×
+
+AB at p 442.
+
+16 On 8 May 2017, the plaintiff transferred to the defendant the sum of
+S$377,190, being the approximate Singapore Dollar equivalent of the agreed
+purchase price of US$270,000. 28
+
+##### Foot Note 28
+
+×
+
+SB-1 at para 33 (PBAEIC at p 16); Statement of Defence dated 25 June 2021
+(Amendment No 4) (“Defence”) at para 9; 2nd Supplementary Affidavit of
+Evidence-in-Chief of Mark A Montgomery dated 30 June 2021 (“MM-3”) at para 3.
+
+From 22 May to 16 June 2017, TKNP sent the plaintiff several e-mails reminding
+her that they had not received the signed DRA. 29
+
+##### Foot Note 29
+
+×
+
+AB at p 453, 455 and 458.
+
+On 17 June 2017, the plaintiff replied to TKNP’s e-mails (with the defendant
+copied) stating that she could “sign [the DRA] next week as I have carpel
+[sic] tunnel syndrome on my right hand” and that she would “sign and send [the
+DRA] by Friday”. 30
+
+##### Foot Note 30
+
+×
+
+AB at p 460.
+
+17 It is common ground that the plaintiff ultimately did not sign the DRA, and
+that the Xeitgeist shares were not transferred to her. Nonetheless, on 24
+November 2017, the plaintiff was listed as a shareholder of Xeitgeist in the
+Shareholders’ Circulation List, which was distributed by TKNP to all of
+Xeitgeist’s shareholders. 31
+
+##### Foot Note 31
+
+×
+
+SB-1 at para 34 (PBAEIC at p 16); PBAEIC at p 296.
+
+18 Following the e-mail of 17 June 2017 from the plaintiff referred to at [16]
+above, matters remained as they were until almost two years later in January
+2019. On 8 January 2019, the plaintiff’s solicitors wrote to the defendant to,
+inter alia, put him on notice that he was in repudiatory breach of the
+Contract by failing to transfer the Xeitgeist shares to the plaintiff. The
+letter also proceeded to accept the defendant’s repudiation of the Contract
+and demanded that the defendant pay back the sum of US$270,000 to the
+plaintiff. 32
+
+##### Foot Note 32
+
+×
+
+AB at pp 238–239.
+
+The parties’ cases
+
+19 Mr Gerard Quek (“Mr Quek”), lead counsel for the plaintiff, argues that the
+plaintiff is entitled to the return of the US$270,000 that she had paid to the
+defendant on three broad grounds. First, Mr Quek submits that the plaintiff
+should be awarded the sum as damages for repudiatory breach of the Contract.
+The Contract was concluded by 14 February 2017, and the terms of the Contract
+are contained in the e-mails exchanged between the parties from 30 January
+2017 to 14 February 2017. 33
+
+##### Foot Note 33
+
+×
+
+PCS at paras 23 and 27.
+
+Based on these e-mails, Mr Quek contends that the signing of the DRA was not a
+term of the Contract. 34
+
+##### Foot Note 34
+
+×
+
+PCS at para 38.
+
+Accordingly, by failing to transfer to the plaintiff the Xeitgeist shares that
+she had paid for, the defendant had committed a repudiatory breach of the
+Contract. 35
+
+##### Foot Note 35
+
+×
+
+PCS at paras 70–71.
+
+20 In the alternative, Mr Quek submits that the plaintiff is entitled to the
+US$270,000 as restitution, on the basis of total failure of consideration
+and/or unjust enrichment. 36
+
+##### Foot Note 36
+
+×
+
+Statement of Claim dated 23 June 2021 (Amendment No 2) (“SOC”) at para 15; PCS
+at para 72.
+
+He argues that consideration has completely failed as the plaintiff never
+received the Xeitgeist shares that she paid for.
+
+21 The third and other alternative ground on which the plaintiff rests its
+case is that of misrepresentation. Mr Quek submits that the plaintiff is
+entitled to rescind the Contract and be awarded damages, on the basis of
+several misrepresentations that the defendant made to her between November
+2016 and January 2017. 37
+
+##### Foot Note 37
+
+×
+
+PCS at para 165.
+
+The plaintiff claims that these representations were made orally, through a
+deck of slides that the defendant had shown and/or sent to the plaintiff in
+November 2016 (“the 2016 slide deck”), or through the defendant’s e-mails to
+the plaintiff. 38
+
+##### Foot Note 38
+
+×
+
+PCS at paras 95–133.
+
+The plaintiff alleges that the defendant made the following
+misrepresentations: 39
+
+##### Foot Note 39
+
+×
+
+SOC at para 19; PCS at para 134.
+
+(a) Xeitgeist’s growth was long-term and “assured”;
+
+(b) Xeitgeist could obtain the revenue projections stated in the 2016 slide
+deck;
+
+(c) Xeitgeist was worth US$13.5m on or around 21 January 2017;
+
+(d) Xeitgeist’s shares were worth US$3.65 per share in January 2017;
+
+(e) The plaintiff was obtaining a “fantastic deal” to purchase Xeitgeist
+shares from the defendant at a discounted rate, compared to the valuation of
+the company at the material time;
+
+(f) The defendant would be able to obtain investor(s) within 24 months from
+January 2017, to buy out Xeitgeist at a valuation of US$25m;
+
+(g) Xeitgeist was always profitable and had a strong financial record; and
+
+(h) The defendant offered the plaintiff the opportunity to invest in Xeitgeist
+because he felt that she could contribute to Xeitgeist’s growth by introducing
+her contacts to the defendant.
+
+22 Mr Quek submits that the facts of the case support a claim (a) for
+fraudulent misrepresentation, (b) under s 2 of the Misrepresentation Act (Cap
+390, 1994 Rev Ed) (the “Misrepresentation Act”), or (c) for negligent
+misrepresentation. 40
+
+##### Foot Note 40
+
+×
+
+PCS at paras 141, 147 and 148.
+
+23 Mr Quek argues that the true reason why the defendant had insisted that the
+plaintiff sign the DRA was because he intended to engineer a buyout of
+Xeitgeist by Pandanomia Pte Ltd (“Pandanomia”), another company that the
+defendant was a director and shareholder of. 41
+
+##### Foot Note 41
+
+×
+
+PCS at paras 3 and 39.
+
+If the plaintiff signed the DRA, she would have been bound by a “drag-along
+provision” in the 1SSA, which allows Xeitgeist’s majority shareholders to
+force minority shareholders to sell their shares. 42
+
+##### Foot Note 42
+
+×
+
+2nd Affidavit of Evidence-in-Chief of Simran Bedi dated 10 June 2021 (“SB-2”)
+at paras 16–17 (PBAEIC at p 519).
+
+Mr Quek submitted that the defendant therefore insisted that the plaintiff
+sign the DRA, so that he could rely on the “drag-along provision”, should the
+plaintiff refuse to sell her shares in the event of a buyout. 43
+
+##### Foot Note 43
+
+×
+
+PCS at paras 54–55.
+
+24 I turn now to the defendant’s case. Contrary to the plaintiff’s position
+that the Contract was concluded by 14 February 2017, the defendant takes the
+position that the Contract was concluded (or “accepted”) on 12 April 2017,
+when the Share Transfer Deed was signed. 44
+
+##### Foot Note 44
+
+×
+
+DRS at para 16–17.
+
+25 As I noted above at [5], the defendant does not dispute that the terms of
+the Contract are set out in the e-mail correspondence between the parties from
+30 January to 14 February 2017. Nonetheless, the defendant argues that the
+Share Transfer Deed signed on 12 April 2017 somehow incorporates an obligation
+on the part of the plaintiff to sign the DRA. The defendant’s counsel at the
+time of the trial before me, Ms Jacintha d/o Gopal (“Ms Gopal”), contends that
+per the wording of the Share Transfer Deed, the plaintiff agreed to hold the
+Xeitgeist shares subject to the “several conditions” on which the defendant
+had previously held the shares. 45
+
+##### Foot Note 45
+
+×
+
+DCS at p 6, paras 16–17.
+
+It was accepted by the plaintiff that the defendant held his Xeitgeist shares
+subject to the 1SSA, under which the signing of the DRA was stipulated as a
+pre-condition for acquiring any Xeitgeist shares (see [10] above). 46
+
+##### Foot Note 46
+
+×
+
+DCS at p 6, para 17.
+
+Ms Gopal argues that the phrase “several conditions” in the Share Transfer
+Deed therefore incorporated the obligations set out in the 1SSA into the
+Contract, such that the plaintiff was required to sign the DRA as a term of
+the Contract. 47
+
+##### Foot Note 47
+
+×
+
+Defence at paras 4–6; DCS at p 6, para 17.
+
+26 In any case, Ms Gopal contends that the signing of the DRA was also
+incorporated as a term when the defendant e-mailed the plaintiff on 1 February
+2017, informing her that the “associated shareholders agreements” would be
+sent to her for “review and signing” [emphasis added in bold italics] (see [8]
+above). 48
+
+##### Foot Note 48
+
+×
+
+DCS at p 9, paras 27–28.
+
+As noted at [9] above, Grace followed up on the defendant’s e-mail by sending
+the plaintiff the Shareholders’ Agreements, which included a copy of the 1SSA.
+Ms Gopal argues that the reference to “review and signing” therefore
+envisioned that the plaintiff was to be bound by the 1SSA, including the
+obligation therein to sign the DRA.
+
+27 In the alternative, Ms Gopal submits that a term should be implied into the
+Contract, that the plaintiff would cooperate with the defendant to execute the
+necessary documents, including the signing of the DRA, to perfect the transfer
+of shares. 49
+
+##### Foot Note 49
+
+×
+
+DCS at p 12, paras 36–37.
+
+28 With regard to the plaintiff’s claim in restitution, the defendant’s case
+is that consideration has not totally failed. 50
+
+##### Foot Note 50
+
+×
+
+DCS at p 23, para 76.
+
+In this regard, the defendant argues that the plaintiff received benefits from
+being associated with Xeitgeist, such as being credited as an executive
+producer of “Hotel Mumbai” on the IMDB movie website and a sponsored trip to
+the Cannes Film Festival. 51
+
+##### Foot Note 51
+
+×
+
+DCS at pp 23–24, para 79.
+
+In any event, the defendant raises a defence of change of position, as he
+claims that he spent part of the money he had received from the plaintiff
+(amounting to S$207,565.71). 52
+
+##### Foot Note 52
+
+×
+
+DCS at p 26, para 90.
+
+In addition, the defendant argues that the plaintiff is estopped from claiming
+that consideration has totally failed. 53
+
+##### Foot Note 53
+
+×
+
+DCS at p 32, para 108.
+
+29 As for the plaintiff’s claim in misrepresentation, the defendant argues
+that the statements he made are not actionable misrepresentations, and in any
+case, that the plaintiff was not induced by his statements into entering the
+Contract. 54
+
+##### Foot Note 54
+
+×
+
+DCS at p 33, para 110.
+
+Issues to be determined
+
+30 Based on the background set out above, I consider that the following issues
+arise for my determination:
+
+(i) When was the Contract concluded (“Issue 1”)?
+
+(ii) What were the terms of the Contract (“Issue 2”)?
+
+(iii) Whether the defendant repudiated the Contract (“Issue 3”)?
+
+(iv) If Issue 3 is answered in the affirmative, whether the plaintiff is
+entitled to damages from the defendant, and for what amount (“Issue 4”)?
+
+(v) Whether the plaintiff is entitled to restitution by reason of total
+failure of consideration and/or unjust enrichment (“Issue 5”)?
+
+(vi) Whether the plaintiff has a claim against the defendant for fraudulent
+misrepresentation, under the Misrepresentation Act or negligent
+misrepresentation (“Issue 6”)?
+
+Issue 1: When was the Contract concluded?
+
+31 As I have summarised at [24], the plaintiff argues that the Contract was
+concluded by 14 February 2017, while the defendant submits that this occurred
+somewhat later on 12 April 2017 when the Share Transfer Deed was signed. In my
+view, the dispute over when the Contract was concluded is, ultimately,
+somewhat of a red herring. As I noted above at [1], the crux of the present
+dispute really concerns what the terms of the Contract are, or more
+specifically, whether the signing of the DRA was a term of the Contract. Given
+that it is undisputed that the terms of the Contract are contained in e-mails
+exchanged between the parties between 30 January and 14 February 2017 (see [5]
+above), the terms of the Contract may be ascertained with reference to these
+e-mails alone, without having to decide the issue of precisely when or on
+which date the Contract was concluded. That being said, as the defendant has
+made the somewhat contradictory submission that the Share Transfer Deed signed
+on 12 April 2017 also incorporated the obligations under the 1SSA as terms of
+the Contract (see [25] above), I consider it prudent to nonetheless address
+the issue of when the Contract was formed. Moreover, in deciding what the
+terms of the Contract are, it would in any case be useful to identify the
+point in time at which the Contract was concluded, since the parties would, by
+that time, have agreed on all material terms of the Contract. As such, I first
+address the anterior issue of when the Contract was concluded, before moving
+on to Issue 2 proper.
+
+32 In my judgment, I am unable to see any basis for the defendant’s contention
+that the Contract was only concluded on 12 April 2017. First, it is unclear to
+me what the defendant means by the statement that the Contract was only
+“accepted, and consequently concluded” on 12 April 2017; this was not part of
+the defendant’s pleaded case and was raised for the first time in the
+defendant’s closing submissions. 55
+
+##### Foot Note 55
+
+×
+
+DCS at paras 5(1) and 55–58; DRS at para 17.
+
+If the purport of the defendant’s argument is that the parties had only been
+in negotiations prior to 12 April 2017, such that the plaintiff only accepted
+the defendant’s offer to purchase Xeitgeist shares on 12 April 2017, I find
+that this contention is plainly contradicted by the evidence. Based on the
+e-mail correspondence between the parties, it is clear that the plaintiff’s
+acceptance of the defendant’s offer occurred much earlier. As early as 1
+February 2017, the defendant had instructed Jeremy that “Simran will be
+acquiring USD300,000 of my Xeitgeist stock” at a 10% discount, and then
+congratulated the plaintiff on joining the Xeitgeist team. 56
+
+##### Foot Note 56
+
+×
+
+AB at p 50.
+
+Likewise, in his e-mail sent on 14 February 2017, the defendant informed the
+plaintiff that “the transfer papers that you have been sent approve the
+transfer of shares at the price we have agreed” [emphasis added]. 57
+
+##### Foot Note 57
+
+×
+
+AB at p 331.
+
+Clearly, by 14 February 2017, the parties were well past the point of
+negotiating the Contract. Offer and acceptance had been completed. I therefore
+find that by 14 February 2017 at the latest, the Contract had been concluded
+and its essential terms were agreed, namely that the defendant would sell and
+transfer to the plaintiff 82,192 Xeitgeist shares held in his name, in return
+for the sum of US$270,000 to be paid by the plaintiff to the defendant.
+
+33 To the extent that the parties continued liaising after 14 February 2017 on
+the signing of the Share Transfer Deed, these communications related only to
+the paperwork or formalities necessary to execute the Contract. For instance,
+the day before the parties signed the Share Transfer Deed, the defendant
+e-mailed Jeremy to inform him that he would be meeting the plaintiff the next
+day, and that the plaintiff’s “paper work and transfer will be initiated this
+week”. 58
+
+##### Foot Note 58
+
+×
+
+AB at p 435.
+
+Clearly, the parties were not contemplating the formation of the Contract by
+that point. They were simply carrying out the steps needed to formalise the
+Contract or completing the steps necessary in performance of it.
+
+34 For the foregoing reasons, I therefore agree with the plaintiff’s pleaded
+case that the Contract was concluded between 30 January and 14 February 2017.
+59
+
+##### Foot Note 59
+
+×
+
+SOC at paras 3–4.
+
+The plaintiff’s and defendant’s signing of the Share Transfer Deed on 12 April
+2017 was simply an executory step of the Contract, and did not signify, as the
+defendant contends, the conclusion of the Contract on that date. With this in
+mind, I now turn to consider Issue 2.
+
+Issue 2: What were the terms of the Contract?
+
+35 In cases such as the present one, where at least on the parties’ cases,
+there is no single document containing all the terms of the Contract, the
+court is entitled to consider all relevant documents as well as testimony in
+order to ascertain the terms of the Contract: Forefront Medical Technology
+(Pte) Ltd v Modern-Pak Pte Ltd [2006] 1 SLR(R) 927 at [7]. Given that it is
+not disputed that the terms of the Contract are contained in the e-mail
+correspondence between the parties from 30 January to 14 February 2017 (see
+[5] above), I direct my attention to this series of e-mail exchanges.
+
+36 Based on the e-mails exchanged from 30 January to 14 February 2017, it is
+clear to me that the signing of the DRA was not a term of the Contract. First,
+there was absolutely no mention in any of the e-mail exchanges during this
+period that the plaintiff would be required to sign the DRA, as a pre-
+condition to the transfer of the Xeitgeist shares from the defendant to the
+plaintiff. On the contrary, the plaintiff received multiple assurances that
+she would not need to do anything other than sign the Share Transfer Deed and
+make payment of the purchase price, in order to receive the Xeitgeist shares.
+As noted above at [12], when the plaintiff sent an e-mail on 14 February 2017
+querying if she needed to conclude a separate contract for the transfer of the
+Xeitgeist shares, Grace assured the plaintiff that she only needed to provide
+TKNP with the original signed Share Transfer Deed and a scanned copy thereof,
+in order to complete the share transfer process. Grace’s e-mail stated as
+follows: 60
+
+##### Foot Note 60
+
+×
+
+AB at p 331–332.
+
+Kindly furnish us the scanned and original signed copy of the attached share
+transfer deed before we proceed to update ACRA on the share transfer.
+
+After we lodge with ACRA, we will provide you a copy of the latest Business
+Profile as well as a share certificate reflecting your shareholdings in XEG.
+
+The above will complete the share transfer process.
+
+[emphasis in original omitted; emphasis added in bold italics]
+
+37 Later that same day, the defendant also replied to the plaintiff’s e-mail,
+stating as follows: 61
+
+##### Foot Note 61
+
+×
+
+AB at p 331.
+
+Thanks Grace, in the meantime can you send Simran a current Xeitgeist BizFile
+for her records please.
+
+Simran the transfer papers that you have been sent approve the transfer of
+shares at the price we have agreed.
+
+You will also receive the company shareholders agreement and supplemental
+agreements that all shareholders have signed upon, most recently Richard
+Sharkey.
+
+The process is basically you sign the paperwork and send a scanned copy to
+Jeremy and Grace.
+
+You transfer the funds in to designated account.
+
+Once that has occurred they issue the stock in your name and update the ACRA
+file and send the share certificates to you.
+
+Jeremy did I miss anything?
+
+[emphasis added in bold italics]
+
+38 There was no further reply from Jeremy. As is clear from the above e-mails,
+there was no suggestion that the plaintiff was required to sign the DRA as
+well. Given that the defendant had been copied on Grace’s e-mail, he could
+reasonably have corrected Grace in his later e-mail, had Grace inadvertently
+omitted to mention the signing of the DRA. However, the defendant did not do
+this. Instead, the defendant reiterated that the plaintiff only needed to
+“basically … sign the paperwork” and make payment of US$270,000. The Share
+Transfer Deed was the only paperwork that the plaintiff was given to sign as
+at 14 February 2017, ie, the latest date by which, as I have found, the
+Contract had been concluded (see [9] and [34] above). As such, it is plain to
+me that at the time the Contract was concluded, the parties did not
+contemplate that the plaintiff was required to sign the DRA as a term of the
+Contract.
+
+39 In fact, for slightly over two months after the Contract was concluded,
+there continued to be no mention of any need for the plaintiff to sign the
+DRA. On 16 February 2017, Jeremy e-mailed the plaintiff asking for an update
+on when “we will receive the share transfer deed” and stating that the Share
+Transfer Deed was “the last document before we can execute the transaction”
+[emphasis added]. 62
+
+##### Foot Note 62
+
+×
+
+JK-1 at p 36 (DBAEIC at p 253).
+
+On 5 April 2017, Jeremy sent another e-mail to follow up with the plaintiff on
+Grace’s e-mail of 14 February 2017, in which Grace had re-sent the
+Shareholders’ Agreements to the plaintiff (see [12] above). 63
+
+##### Foot Note 63
+
+×
+
+AB at p 430.
+
+Jeremy’s e-mail attached the Shareholders’ Agreements again (which included
+the 1SSA and the draft DRA therein), and stated that “documents” to “execute”
+the share transfer had been appended. Nonetheless, during cross-examination,
+Jeremy confirmed that his e-mail did not contain any instruction or
+requirement for the plaintiff to sign the DRA. 64
+
+##### Foot Note 64
+
+×
+
+NEs, 13 August 2021, p 60 line 25 to p 61 line 4.
+
+40 Even on 20 April 2017, when Grace e-mailed the plaintiff to, inter alia,
+congratulate her on becoming a Xeitgeist shareholder and update her on the
+share transfer process, there was still no reference to the requirement of
+signing the DRA. 65
+
+##### Foot Note 65
+
+×
+
+AB at p 439.
+
+In his evidence-in-chief, Jeremy sought to explain his e-mail of 16 February
+2017 and the reference therein to the Share Transfer Deed being the “last
+document” to be executed as an oversight on his part. 66
+
+##### Foot Note 66
+
+×
+
+JK-1 at para 14 (DBAEIC at p 223).
+
+I found this explanation difficult to believe. There was no attempt to correct
+this oversight, if there indeed had been one, by anyone in TKNP. Grace was
+copied on Jeremy’s e-mail of 16 February 2017 and said nothing to correct
+Jeremy. There was also nothing said by way of a correction in the e-mails sent
+by Jeremy and Grace to the plaintiff on 5 April and 20 April respectively.
+Ultimately, as noted above at [15], the first time that the plaintiff was
+informed of the need to sign the DRA was only on 24 April 2017 when Grace
+e-mailed the plaintiff. This was accepted by both the defendant and Jeremy in
+cross-examination. 67
+
+##### Foot Note 67
+
+×
+
+NEs, 25 June 2021, p 58 line 30 to p 59 line 12; 13 August 2021, p 63 lines
+2–3.
+
+41 Moreover, the DRA attached to Grace’s e-mail on 24 April 2017 was different
+to the one that had been sent to the plaintiff on 8 and 14 February 2017. As I
+noted above at [15], the draft DRA that was first sent to the plaintiff on 8
+February 2017 was blank, whereas the DRA sent on 24 April 2017 contained the
+plaintiff’s personal details and details of the share transfer from the
+defendant. In addition, there were slight differences in the wording of the
+two DRAs: 68
+
+##### Foot Note 68
+
+×
+
+AB at p 476 (blank DRA sent on 8 February 2017); p 965 (DRA sent on 24 April
+2017).
+
+Draft DRA sent on 8 February 2017
+
+2 WHEREAS:
+
+(A) The Company and the existing Shareholders of the Company (‘Existing
+Shareholders’), being parties to a written Shareholders’ Agreement, dated 10
+June 2013, have agreed, thereunder, to regulate the affairs of the Company …
+
+DRA sent on 24 April 2017
+
+WHEREAS:
+
+(A) The Company and the existing Shareholders of the Company (‘Existing
+Shareholders’), being parties to a written Shareholders’ Agreement dated 10
+June 2013, as revised by two Supplemental Shareholders’ Agreements dated 28
+November 2013 and _______ 2016 respectively, have agreed, thereunder, to
+regulate the affairs of the Company …
+
+[emphasis added]
+
+42 The defendant himself conceded that there were differences between these
+two versions of the DRA, and that the plaintiff saw this newer version of the
+DRA for the first time on 24 April 2017. 69
+
+##### Foot Note 69
+
+×
+
+NEs, 25 June 2021, p 58 lines 20–27.
+
+In my view, this suggests that even if the plaintiff received a draft DRA in
+February 2017, the parties did not actually contemplate or even consider that
+the plaintiff should sign the DRA any time before April 2017. Had the parties
+agreed that the signing of the DRA would be a term of the Contract, it did not
+make sense for TKNP to send the plaintiff a draft DRA with no relevant
+information filled in, assure the plaintiff she only needed to sign the Share
+Transfer Deed to complete the share transfer, and then send the plaintiff a
+re-drafted DRA in April 2017 with the plaintiff’s personal information and
+details of the share transfer filled in.
+
+43 I also note that the version of the DRA that the plaintiff received on 24
+April 2017 referred to her as a current subscriber of Xeitgeist shares, rather
+than a prospective shareholder: 70
+
+##### Foot Note 70
+
+×
+
+AB at p 965.
+
+Name: SIMRAN BEDI
+
+…
+
+(Hereinafter called the ‘Subscriber’);
+
+…
+
+(B) The Subscriber is the subscriber of 82,192 SGD ordinary shares (‘Shares’)
+in the issued share capital of the Company, by virtue of a share transfer
+entered into in respect thereof, on 12 April 2017 …
+
+[emphasis in original omitted; emphasis added in italics and bold italics]
+
+44 As such, it appears to me that the parties conducted themselves as if the
+plaintiff had discharged her obligations under the Contract by 12 April 2017
+when the Share Transfer Deed was signed by the plaintiff and defendant, such
+that she was already in effect a Xeitgeist shareholder, with the only
+remaining obligation on the plaintiff’s part being payment of the purchase
+price to the defendant. In this regard, the signing of the DRA was therefore
+not a pre-condition to the plaintiff receiving her shares under the terms of
+the Contract. Rather, it was, in my view, a further formality raised belatedly
+by the defendant only on 24 April 2017 via TKNP, well after the conclusion of
+the Contract in February 2017. This may well have been due to an oversight on
+the part of the defendant or may have simply been something that the defendant
+raised only as an afterthought. Alternatively, the defendant may have, post-
+Contract, contemplated the plaintiff signing the DRA as part of a process to
+further transfer the shares from the plaintiff to her company, Beetroot, which
+indeed was the impression that the plaintiff had from TKNP’s e-mails (as
+detailed below at [112]). In any case, why the defendant raised the issue of
+signing the DRA belatedly is ultimately an issue that is unnecessary for me to
+decide for the purposes of ascertaining the terms of the Contract. For present
+purposes, what matters is that on the evidence before me, the signing of the
+DRA was not contemplated by the parties at the time the Contract was
+concluded, and therefore cannot reasonably be a term of the Contract.
+
+45 I am also not persuaded by the defendant’s argument that the obligation to
+sign the DRA was somehow incorporated as a term of the Contract, when the
+parties signed the Share Transfer Deed on 12 April 2017 (see [25] above).
+Given the defendant’s concession that the terms of the Contract are contained
+in the e-mails exchanged from 30 January to 14 February 2017, and my
+conclusion that the Contract was concluded by 14 February 2017 (at [34]
+above), I do not see how the Share Transfer Deed signed later on 12 April 2017
+could somehow incorporate terms into the Contract which had been concluded at
+an earlier point in time. In this regard, I note that neither party pleaded
+nor contended that the terms of the Contract were varied at any time after 14
+February 2017. As a document, the Share Transfer Deed was therefore, at best,
+merely evidence of the Contract and its terms which had already been agreed
+upon by 14 February 2017. Likewise, the execution of the Share Transfer Deed
+was, at most, a step contemplated in the performance of the Contract. In the
+circumstances, even if the Share Transfer Deed states that the plaintiff would
+purchase the Xeitgeist shares subject to the same “several conditions” on
+which the defendant held his shares, I disagree that this incorporates the
+signing of the DRA as a term of the Contract.
+
+46 In any case, I am not convinced that the wording of the Share Transfer Deed
+alone is sufficient to incorporate the terms of the 1SSA and the obligation
+therein to sign a DRA. The defendant may be right to contend that a party is,
+generally, bound by the terms of a contract it signs even if it does not read
+or understand those terms. However, where it is argued that terms in another
+document have been incorporated into a contract by reference, the defendant’s
+contention above only holds true when the relevant terms have been
+incorporated into the contract by an express incorporating clause: Bintai
+Kindenko Pte Ltd v Samsung C&T Corp and another [2019] 2 SLR 295 (“Bintai
+Kindenko”) at [60]–[61]. On the contrary, in the absence of an express
+incorporating clause, onerous and unusual conditions cannot be incorporated
+unless the attention of the party sought to be bound has been specifically
+drawn to them: Bintai Kindenko at [60]–[61]; see also Wartsila Singapore Pte
+Ltd v Lau Yew Choong and another suit [2017] 5 SLR 268 at [122]. On the facts
+before me, I am not persuaded that the reference to “several conditions” in
+the Share Transfer Deed is the equivalent of an express incorporating clause.
+Rather, I find that the obligations attendant upon the incorporation of the
+terms of the 1SSA, such as the signing of a DRA, can be characterised as
+“onerous and unusual”, since signing the DRA would have the effect of binding
+the plaintiff to the “drag-along provision” (see [23] above). Accordingly, I
+find that such obligations, in the absence of an express incorporating clause
+in the Contract, cannot be incorporated unless the plaintiff was specifically
+alerted to them at the time the Contract was concluded. I have already found
+that the plaintiff was not alerted to them at any time up to 14 February 2017,
+which is the latest time by when the Contract was concluded (see [39] above).
+Therefore, the wording of the Share Transfer Deed alone would not in any event
+suffice to incorporate the terms of the 1SSA into the Contract.
+
+47 The defendant also relies on International Research Corp PLC v Lufthansa
+Systems Asia Pacific Pte Ltd and another [2014] 1 SLR 130 (“International
+Research”) in support of its contention that the Share Transfer Deed
+incorporates the obligations of the 1SSA. The defendant’s reliance on
+International Research does little to advance its case. As the defendant
+itself observes, International Research stands for the proposition that “[t]he
+task before the court in determining whether or not there has been
+incorporation by reference is one of construction, namely, to ascertain the
+parties’ intentions when they entered into the contract by reference to the
+words that they used” [emphasis in original omitted; emphasis added in bold
+italics]: at [33].
+
+48 It was for this reason that I found it irrelevant that the plaintiff
+conceded in cross-examination that she wanted some of the benefits of the
+Shareholders’ Agreements, or that she supposedly accepted that the defendant
+was bound by the Shareholders’ Agreements. 71
+
+##### Foot Note 71
+
+×
+
+DCS at p 8 and 10, paras 26 and 30.
+
+These facts pertain to the plaintiff’s subjective knowledge or intentions;
+what matters is the intentions of the parties, objectively ascertained, at the
+time the Contract was concluded (ie, by 14 February 2017). Looking at the
+e-mails between the parties during that time, there was simply no discussion
+at all of the plaintiff being bound by the Shareholders’ Agreements, let alone
+the signing of the DRA (as I have already noted above at [36]). The defendant
+also concedes that there is no express reference in the Share Transfer Deed to
+the Shareholders’ Agreements or the DRA. 72
+
+##### Foot Note 72
+
+×
+
+DCS at p 6, para 20.
+
+In the premises, I cannot see how one can reasonably conclude that the parties
+had an objectively ascertainable intention to incorporate either the 1SSA or
+the obligations contained within the 1SSA into the Contract, through the later
+signing of the Share Transfer Deed.
+
+49 I turn now to consider the defendant’s argument that the 1SSA, and the
+obligation therein to sign the DRA, were incorporated into the Contract
+through his e-mail on 1 February 2017, when he instructed Jeremy to provide
+the plaintiff with the “associated shareholders agreements” for her “review
+and signing” (see above at [26]).
+
+50 Applying the reasoning in Bintai Kindenko as detailed above at [46], I am
+likewise unconvinced that the reference in the defendant’s e-mail to
+“associated shareholders agreements” for the plaintiff’s “review and signing”
+can be construed as, or having the same effect as, an express incorporation
+clause. In addition, on the evidence before me, it is clear that the defendant
+did not intend by his e-mail of 1 February 2017 to incorporate the 1SSA into
+the Contract. When Grace followed up on the defendant’s instructions to
+provide the plaintiff with the “associated shareholders agreements”, her
+e-mail of 8 February 2017 expressly stated that the enclosed Shareholders’
+Agreements were for the plaintiff’s “reference” only. 73
+
+##### Foot Note 73
+
+×
+
+AB at p 52.
+
+Despite being copied on Grace’s e-mail, the defendant did not reply Grace’s
+e-mail to say anything to the contrary. I also note that the Shareholders’
+Agreements did not even contain fields for the plaintiff’s signature, as they
+were copies of prior agreements concluded between other shareholders. 74
+
+##### Foot Note 74
+
+×
+
+AB at pp 479, 511, 542–546.
+
+In the circumstances, I find it unbelievable and implausible that the
+defendant actually intended for the plaintiff to review and sign the
+Shareholders’ Agreements that were sent to her on 8 February 2017.
+
+51 In this regard, I note the defendant contends in his closing submissions
+that it was not a requirement that the Shareholders’ Agreements themselves had
+to be executed by the plaintiff, but that the defendant nonetheless intended
+for the Shareholders’ Agreements to be “important documents which the
+Plaintiff would be bound by”. 75
+
+##### Foot Note 75
+
+×
+
+DCS at p 9, para 28.
+
+I reject this argument for two reasons. Firstly, it ignores the defendant’s
+own evidence at trial that he expected the plaintiff to sign all the documents
+referred to in Grace’s e-mail of 14 February 2017, including the Shareholders’
+Agreements. 76
+
+##### Foot Note 76
+
+×
+
+NEs, 25 June 2021, p 49 lines 13–26.
+
+No explanation has been offered by the defendant to explain the contradiction
+between his testimony and his submissions. Secondly, this submission lacks
+plausibility. If the defendant had indeed wanted to incorporate the
+Shareholders’ Agreements into the Contract, it makes little sense that the
+defendant would inform the plaintiff (through TKNP) that the Shareholders’
+Agreements were for her “reference” only, and thereafter execute a Share
+Transfer Deed that made no express mention of these Shareholders’ Agreements.
+
+52 In any case, even if the defendant’s e-mail of 1 February 2017 is evidence
+that he wanted the plaintiff to be bound by the Shareholders’ Agreements at
+some point, I do not think it proves that the parties intended for the
+plaintiff to be bound by the obligations under the Shareholders’ Agreements as
+a pre-condition to receiving the Xeitgeist shares from the defendant under the
+Contract. Nothing to this effect was communicated in the defendant’s e-mail of
+1 February 2017. In my view, the Shareholders’ Agreements were, at best,
+separate contracts that the defendant proposed the parties should enter into.
+They should not be conflated with the terms of the Contract, under which it
+was not an express term or a pre-condition that the plaintiff would be bound
+by the obligations in the Shareholders’ Agreements.
+
+53 For the foregoing reasons, I reject the defendant’s contention that the
+1SSA, and the obligation therein to sign the DRA, were incorporated into or
+formed any part of the terms of the Contract.
+
+54 For completeness, I address the defendant’s argument that a term should be
+implied into the Contract, that the plaintiff would cooperate with the
+defendant to execute the necessary documents, including the signing of the
+DRA, to perfect the transfer of shares. 77
+
+##### Foot Note 77
+
+×
+
+DCS at p 12, paras 36–37.
+
+It is not disputed that in determining whether to imply a term into a
+contract, the court will apply the three-step test in Sembcorp Marine Ltd v
+PPL Holdings Pte Ltd and another and another appeal [2013] 4 SLR 193
+(“Sembcorp Marine”), namely that:
+
+(a) First, the court will ascertain if there is a gap in the contract and if
+so, how the gap arises. Implication will only be considered if the court finds
+that the gap arose because the parties did not contemplate the gap in the
+contract (at [95] and [101(a)]).
+
+(b) Second, the court will consider if it is necessary in the business or
+commercial sense to imply a term to give the contract efficacy. The threshold
+for implying a term is therefore necessarily a high one (at [100] and
+[101(b)]).
+
+(c) Third, the court considers the specific term to be implied. This must be a
+term which the parties, having regard to the need for business efficacy, would
+have responded “Oh, of course!” had the proposed term been put to them at the
+time of the contract (at [101(c)]).
+
+55 With regard to the first step of the Sembcorp Marine test, I am prepared to
+accept that there is a gap in the Contract, in the sense that the Contract is
+silent on whether the plaintiff is obliged to sign the DRA, and the parties
+did not contemplate this issue up to the time Contract was concluded (see [36]
+above).
+
+56 This brings me to the second stage of the Sembcorp Marine test. In my
+judgment, I cannot see how it is necessary in the business or commercial
+sense, for the sake of efficacy, to imply a term that would require the
+plaintiff to sign the DRA. Firstly, the evidence suggests that at least one
+other shareholder of Xeitgeist acquired shares in Xeitgeist without signing a
+similar DRA (namely, one Patric Markus Jeuch who acquired shares in Xeitgeist
+in December 2016 without executing any DRA). 78
+
+##### Foot Note 78
+
+×
+
+PBAEIC at p 562; NEs, 13 August 2021, p 48 lines 12–25.
+
+Secondly, when the plaintiff raised the possibility of transferring her
+Xeitgeist shares to Beetroot, there was also curiously no mention in Grace’s
+e-mail of 24 April 2017 (on which the defendant was copied) of Beetroot having
+to sign a DRA as an incoming shareholder. 79
+
+##### Foot Note 79
+
+×
+
+AB at p 964.
+
+The defendant has not explained why this is the case, nor proven why it is
+necessary in the interest of efficacy for an incoming shareholder to sign a
+DRA. I do not accept the defendant’s contention that an implied term is
+necessary to ensure compliance with the “administrative requirements” of the
+transfer of the Xeitgeist shares. 80
+
+##### Foot Note 80
+
+×
+
+DCS at p 13, para 45.
+
+Absent any proof that such administrative requirements are themselves
+necessary in the interest of efficacy, the defendant’s insistence on the
+signing of the DRA is, in my view, a self-created impediment to contractual
+performance. That cannot be the basis on which a term is implied into the
+Contract.
+
+57 For the reasons set out above, I decline to imply a term into the Contract
+as the defendant urges me to and therefore find that the plaintiff was not
+required to sign the DRA under the terms of the Contract.
+
+Issue 3: Whether the defendant repudiated the Contract
+
+58 Following from my conclusion above at [57], it is evident that the
+defendant has breached the Contract. The defendant does not dispute that he
+had a contractual obligation to transfer the Xeitgeist shares to the
+plaintiff; by failing to do so despite the plaintiff furnishing the purchase
+price on 8 May 2017, the defendant was in breach of the Contract.
+
+59 The question that remains is whether the defendant’s breach is sufficient
+to amount to a repudiation of the Contract. As the defendant submits, an
+innocent party will have the right to terminate the contract when the other
+party “by his words or conduct, simply renounces its contract inasmuch as it
+clearly conveys to the other party to the contract that it will not perform
+its contractual obligations at all” [emphasis original]: RDC Concrete Pte Ltd
+v Sato Kogyo (S) Pte Ltd and another appeal [2007] 4 SLR(R) 413 (“RDC
+Concrete”) at [93]. It is a “question of fact” in each case whether the party
+in question has acted in such a way that it might reasonably be taken to have
+renounced the contract: GIB Automation Pte Ltd v Deluge Fire Protection (SEA)
+Pte Ltd [2007] 2 SLR(R) 918 (“GIB Automation”) at [77].
+
+60 On the facts before me, I find that the defendant’s conduct did amount to a
+repudiation of the Contract. The plaintiff had paid the defendant for the
+Xeitgeist shares by May 2017, and yet the defendant failed to transfer the
+shares to her, despite the plaintiff being included as a shareholder in
+Xeitgeist’s Shareholders’ Circulation List in November 2017. 81
+
+##### Foot Note 81
+
+×
+
+SB-1 at para 34 (PBAEIC at p 16).
+
+Moreover, as detailed at [81] below, almost immediately after receiving the
+purchase price from the plaintiff, the defendant proceeded to utilise the
+same. The state of affairs remained for almost two years with no steps being
+taken to transfer the shares to the plaintiff, and continued to be the case
+when the plaintiff elected to terminate the Contract in January 2019 by a
+letter from her solicitors. 82
+
+##### Foot Note 82
+
+×
+
+AB at p 238.
+
+In my judgment, the totality of the evidence demonstrates a clear
+unwillingness on the defendant’s part to fully perform his side of the
+bargain.
+
+61 In this regard, I disagree with the defendant that he “gave every sign”
+that he considered himself to still be bound by the Contract. 83
+
+##### Foot Note 83
+
+×
+
+DCS at p 20, para 67.
+
+Even if TKNP had informed the plaintiff on 16 June 2017 that they were
+awaiting the signed DRA before they would forward her the share certificates,
+there appears to have been no follow-up since then. On the evidence before me,
+the last correspondence between the parties pertaining to the Contract was on
+17 June 2017, following which the next communication was the plaintiff’s
+solicitors’ letter of termination in January 2019. 84
+
+##### Foot Note 84
+
+×
+
+AB at p 238.
+
+No explanation has been provided for why the defendant decided to sit on his
+hands for close to two years. Nor was any evidence presented by the defendant
+that he sent follow-up e-mails to the plaintiff during that time, spoke to her
+or made any attempt to complete the share transfer process. In the
+circumstances, I do not think it can be said that the defendant acted in a way
+that shows that he considered himself still bound by the Contract; on the
+contrary, the defendant gave every indication that he was not willing to
+follow through with contractual performance.
+
+62 That the defendant had instructed Jeremy to include the plaintiff in the
+Shareholders’ Circulation List circulated in November 2017, is, in my view,
+equivocal. 85
+
+##### Foot Note 85
+
+×
+
+DCS at p 20, para 69; JK-1 at para 21 (DBAEIC at p 226).
+
+It does not say much about the defendant’s willingness to perform his end of
+the bargain when considered against his complete inaction for nearly two
+years. Nor do I consider it relevant that the plaintiff represented to TKNP on
+17 June 2017 that she would “sign and send” the DRA shortly. 86
+
+##### Foot Note 86
+
+×
+
+AB at p 460; DCS at p 20, para 68.
+
+Given my conclusion that the plaintiff is not required to sign the DRA under
+the terms of the Contract, the signing of the DRA is a wholly separate issue
+and does not, in my judgment, change the fact that the defendant failed to
+perform his obligations under the Contract. Moreover, as I noted above at
+[44], it is possible that the parties contemplated the signing of the DRA as
+part of the process to further transfer the Xeitgeist shares from the
+plaintiff to Beetroot. As I detail below at [112], this was indeed the
+plaintiff’s understanding of why she was asked to sign a DRA. Any discussions
+between 24 April and 17 June 2017 on the plaintiff signing the DRA therefore
+do not, in my view, detract from the analysis of whether the defendant, by his
+actions and conduct, evinced an intention to still be bound by the Contract or
+otherwise. This is especially so when viewed against the backdrop of the
+defendant doing nothing after 17 June 2017.
+
+63 Finally, I disagree with the defendant that the facts of the present case
+are analogous to those in GIB Automation. On the facts of GIB Automation, the
+plaintiff had formed the preliminary view that it was entitled to withhold
+performance under the sub-contract. However, as the sub-contract referenced
+certain terms from the main contract, the plaintiff requested the defendant to
+provide it with a copy of the main contract, so that it could “review” the
+defendant’s demand that the plaintiff effect contractual performance (at
+[71]). Without providing the plaintiff with a copy of the main contract, the
+defendant instead alleged that the plaintiff had renounced the sub-contract
+and elected to terminate the contract. Judicial Commissioner Sundaresh Menon
+(as he then was) held that the plaintiff’s conduct did not evince its
+intention to renounce the sub-contract as it was simply “attempting to
+understand the defendant’s position” (at [74]). Accordingly, the court held
+that the defendant had unlawfully terminated the sub-contract.
+
+64 The present case is not, as was the case in GIB Automation, a situation
+where one party was simply trying to clarify the extent of its contractual
+obligations. As I noted at [61] above, the defendant in the present case did
+not, from the available evidence, even contact the plaintiff for close to two
+years after June 2017 regarding performance of the Contract. Short of an
+express statement from the defendant that he refused to transfer the Xeitgeist
+shares to the plaintiff, there can hardly be any clearer indication that the
+defendant was, by his conduct and complete silence, unwilling to perform his
+side of the bargain – in my judgment, that was sufficient to constitute
+conduct amounting to a repudiatory breach of the Contract. GIB Automation
+therefore does not assist the defendant.
+
+65 For the reasons detailed above, I find and hold that the defendant’s
+conduct had the effect of renouncing the Contract, such that the plaintiff was
+entitled to accept the defendant’s repudiation of the Contract and terminate
+it. The plaintiff duly exercised that right of termination through her
+solicitors’ letter of 8 January 2019, which expressly accepted the defendant’s
+repudiatory breach. 87
+
+##### Foot Note 87
+
+×
+
+AB at p 238.
+
+Issue 4: Whether the plaintiff is entitled to damages from the defendant, and
+for what amount
+
+66 Having answered Issue 3 in the affirmative, I turn now to the issue of the
+appropriate award of damages, for the defendant’s breach of contract. The
+plaintiff claims a sum of US$270,000, representing the amount that she
+transferred to the defendant for the Xeitgeist shares; as stated at [16]
+above, the precise amount transferred by the plaintiff to the defendant was
+S$377,190. For convenience and unless the context otherwise requires me to, I
+will refer to the sum paid in US Dollars (ie, US$270,000). The defendant
+rightly observes that the plaintiff’s claim is one for reliance losses, and
+that there is a line of authority for the proposition that a party will not be
+allowed to claim reliance losses to escape a bad bargain. 88
+
+##### Foot Note 88
+
+×
+
+DCS at pp 56–57, paras 212–214.
+
+As noted by Justice Vinodh Coomaraswamy in Loh Chiang Tien and another v Saman
+Dharmatilleke [2020] SGHC 45 (“Loh Chiang Tien”) at [25]–[26]:
+
+25 The alternative measure of damages in contract is the promisee’s reliance
+loss. A claim for reliance loss allows a promisee to recover from the promisor
+the costs and expenses which the promisee incurred in reliance on the
+promisor’s performing his obligations under the contract, where such costs and
+expenses are then wasted by the promisor’s breach. A promisee cannot, however,
+elect reliance loss as the measure of its damages if it has made a bad bargain
+(C & P Haulage v Middleton [1983] 1 WLR 1461). The burden is on the promisor
+to prove that the bargain was a bad one (Commonwealth Bank of Australia v
+Amann Aviation Pty Ltd (1991) 17 CLR 64).
+
+26 As the learned authors of The Law of Contract in Singapore (Andrew Phang
+Boon Leong gen ed) (Academy Publishing, 2012) (‘The Law of Contract in
+Singapore’) explain at para 21.052, this limitation on the recovery of
+reliance loss is to prevent overcompensating promisees. A promisee who has
+made a bad bargain would not have recovered its reliance expenditure in full
+even if the promisor had performed its obligations under the contract. When
+the contract is breached, to compensate that promisee by an award of its
+reliance loss would put the promisee in a position better than it would have
+been in had the contract been performed.
+
+[emphasis added in italics and bold italics]
+
+67 What stands out to me from the above passages is that the burden is on the
+promisor, being the defendant in this case, to prove that the bargain the
+plaintiff entered into was in fact a bad one. The notion that the burden of
+proof rests with the defendant promisor was also affirmed by Justice Lee Seiu
+Kin in the recent case of Koh Chew Chee v Liu Shu Ming and another [2022] SGHC
+25 at [117]–[118]:
+
+117 Lastly, there will invariably be cases where the plaintiff will not be
+able to prove the profitability of the contract … Should this then mean that
+the plaintiff ought to be left without a means to recover payments made to the
+defendant, as well as reasonably incurred expenses?
+
+118 In respect of the former, there is of course, the law of unjust
+enrichment. However, even within the field of contract, the law’s answer to
+this question is a rebuttable ‘no’, and it has reached this position by
+relieving the plaintiff of the burden of proving that, had the contract be
+[sic] performed, sufficient revenue would have been earned at least to cover
+his reasonable capital outlay and expenses. The burden is then shifted to the
+defendant to prove that the contract would not only have been unprofitable,
+but that the plaintiff would not even have been able to recover what he put
+down in expectation of performance. Put simply, though the plaintiff may have
+entered a bad bargain, this is a matter for the defendant to prove. If the
+defendant is unable to discharge this burden, the plaintiff would be entitled
+to damages assessed on the reliance measure.
+
+[emphasis added in bold italics]
+
+68 From the foregoing, it is therefore clear that the plaintiff is entitled to
+damages assessed based on reliance losses, unless the defendant can prove that
+the plaintiff entered into a bad bargain. On the evidence before me, the
+defendant has not discharged this burden of proof. Given that the plaintiff
+had furnished the purchase price for the Xeitgeist shares on 8 May 2017, she
+would have been entitled to the shares from that point onward. The defendant
+has not led any evidence on the valuation of the Xeitgeist shares as of 8 May
+2017, or any time after that. Without such evidence, it is impossible to
+ascertain if this is a case where a claim for reliance losses would place the
+plaintiff in a better position than if the Contract had been performed.
+
+69 I am not convinced that it is sufficient for the defendant to simply allege
+that the plaintiff’s case is that the Xeitgeist shares are “worthless”, 89
+
+##### Foot Note 89
+
+×
+
+DCS at p 57, para 214.
+
+to satisfy its burden of proving that the plaintiff entered into a bad
+bargain. In my view, the plaintiff’s submissions on the value of the Xeitgeist
+shares relate primarily to its argument that the defendant misrepresented the
+value of the shares to the plaintiff sometime from November 2016 to January
+2017; they were not submissions on the actual value of the Xeitgeist shares as
+of May 2017 or later. 90
+
+##### Foot Note 90
+
+×
+
+PCS at paras 130–131.
+
+While the plaintiff may have raised concerns about the solvency of Xeitgeist
+from 2015 to 2017 by adducing the financial statements of Xeitgeist for that
+period, I am not satisfied that this is sufficient evidence that the Xeitgeist
+shares were worthless. 91
+
+##### Foot Note 91
+
+×
+
+PBAEIC at p 356 and 384; see also NEs, 1 July 2021, p 44 lines 1–7.
+
+It goes without saying that the valuation of shares may be determined by a
+multitude of factors including a company’s projected growth. In the absence of
+direct evidence on the valuation of Xeitgeist shares in May 2017, I hesitate
+to treat Xeitgeist’s financial statement for the financial year ending on 31
+December 2017 as a sufficient basis on which to conclude that the Xeitgeist
+shares were worthless. In this case, if I had to fix a point in time when the
+defendant’s breach occurred, I would be prepared to proceed on the assumption
+that the shares ought reasonably to have been transferred to the plaintiff by
+the end of June 2017, following payment by the plaintiff of the purchase price
+on 8 May 2017. No evidence was led by the defendant that as of 30 June 2017,
+the Xeitgeist shares were worthless. Even taking the plaintiff’s pleaded case
+that a reasonable period within which the shares ought to have been registered
+with ACRA was no more than three months after the purchase price had been paid
+(ie, by 8 August 2017), 92
+
+##### Foot Note 92
+
+×
+
+SOC at para 6.
+
+no evidence was led by the defendant that the shares of Xeitgeist were
+worthless as of that date.
+
+70 In addition, while the plaintiff highlights in its closing submissions that
+there was a tentative structure floated sometime around May 2018 that
+Xeitgeist would be bought out by an entity to be set up, known as Xeitgeist
+UAE, at a price of approximately US$0.69 per share 93
+
+##### Foot Note 93
+
+×
+
+PCS at Annex A.
+
+, I note that this price appears to be a back-of-the-envelope calculation.
+There has also been little evidence led on the circumstances surrounding the
+proposed buyout of Xeitgeist by Xeitgeist UAE, or how Xeitgeist came to be
+valued at US$2m in May 2018. I therefore find that this approximation of the
+value of Xeitgeist’s shares in May 2018 cannot be authoritative or bear
+probative value. I also take into account the fact that the defendant himself
+has never asserted that the Xeitgeist shares are presently worthless or were
+worthless at any material time, including in June 2017. On the contrary, the
+defendant maintained that at the time, Xeitgeist had a good number of movies
+in the pipeline including “Hotel Mumbai”, had a sizeable intellectual property
+library as part of its asset base, and had healthy revenue projections. 94
+
+##### Foot Note 94
+
+×
+
+DCS at p 45, para 167; NEs, 1 July 2021, p 47 line 23 to p 48 line 6; p 72
+lines 23–26.
+
+In the circumstances, I find that the defendant has not proven that the
+plaintiff entered into a bad bargain, such that she is not entitled to claim
+reliance losses.
+
+71 Finally, I disagree with the defendant that a parallel can be drawn between
+the facts of the present case and Loh Chiang Tien. 95
+
+##### Foot Note 95
+
+×
+
+DCS at p 57, para 214.
+
+The latter case concerned an agreement that the defendant would transfer
+shares (the “INS shares”) to the plaintiff as repayment for a loan by 24 April
+2011 (at [4]). In breach of the agreement, the defendant failed to transfer
+the INS shares to the plaintiff by that date. Nonetheless, Coomaraswamy J
+observed that even if the INS shares had been duly transferred to the
+plaintiff, the share transfer would have been nullified in August 2011 by an
+order of court obtained by two of INS’ shareholders (at [23]). Moreover, even
+though no evidence was adduced on the value of the INS shares as of 24 April
+2011, the learned Judge found it was “manifest” that the INS shares had become
+worthless, as INS went into insolvent liquidation in February 2013 (at [24]).
+In any case, if it had been necessary to make a finding on the value of the
+INS shares as of 24 April 2011, Coomaraswamy J noted that he would have found
+the INS shares to be worthless on that date, because of the financial
+difficulties that INS was facing and the internal shareholder conflict which
+afflicted the company (at [24]). In the circumstances, the learned Judge found
+that the plaintiff had made a bad bargain and would be barred from claiming
+reliance losses (at [27]).
+
+72 Based on the evidence placed before me, the facts of Loh Chiang Tien are
+clearly not on all fours with the present case. In the case before me, had the
+defendant transferred his shares to the plaintiff, there is no suggestion that
+this share transfer would be nullified or in any way invalidated, as was the
+case in Loh Chiang Tien. Moreover, at least on the evidence adduced by the
+parties, there is no allegation that Xeitgeist has since entered insolvent
+liquidation. In addition, as I noted above at [69]–[70], I am not prepared to
+conclude that it is “manifest” that the Xeitgeist shares were worthless as of
+June 2017 (or 8 August 2017), based on the evidence that was led at trial. In
+any case, I note that the analysis and findings in Loh Chiang Tien on this
+issue were obiter and unnecessary for the decision, as the plaintiff’s claim
+in that case for damages arising from breach of contract was found to be time-
+barred (at [28]).
+
+73 For the foregoing reasons, I therefore agree with the plaintiff that she is
+entitled to claim for her reliance losses, which in this case, translate to
+the sum paid by her to the defendant as the purchase price for the shares. As
+I noted above at [66], the plaintiff claims a sum of US$270,000. However, in
+my view, a more accurate and proper quantification of the plaintiff’s damages
+would be the sum actually paid by the plaintiff and received by the defendant,
+ie, S$377,190 (being the approximate Singapore Dollar equivalent of
+US$270,000). 96
+
+##### Foot Note 96
+
+×
+
+MM-3 at para 3.
+
+I therefore award the plaintiff damages in the sum of S$377,190.
+
+Issue 5: Whether the plaintiff is entitled to restitution by reason of total
+failure of consideration and/or unjust enrichment
+
+Failure of consideration
+
+74 As an alternative ground for my decision, I turn to consider the
+plaintiff’s claim in restitution.
+
+75 It is well-established that for a claim grounded on failure of
+consideration to succeed, the failure of consideration must be total: Benzline
+Auto Pte Ltd v Supercars Lorinser Pte Ltd and another [2018] 1 SLR 239
+(“Benzline Auto v Supercars”) at [53]. What amounts to “consideration”, or the
+basis of the transfer, must be objectively determined based on what is
+communicated between the parties; not every expectation which a party has in
+making a transfer forms part of the basis for that transfer: Benzline Auto v
+Supercars at [51].
+
+76 Bearing this in mind, I am satisfied that there has been a total failure of
+consideration on the present facts. Looking at the e-mails between the parties
+with an objective lens, I find that the parties regarded the share transfer as
+a straightforward transaction: the plaintiff would pay the defendant
+US$270,000 for 82,192 Xeitgeist shares, nothing more and nothing less. In all
+the e-mails between the parties leading up to the payment to the defendant on
+8 May 2017, there was simply no other basis mentioned for the transfer of the
+US$270,000. The parties also regarded the share transfer as a transaction
+separate from any of their other business dealings. For instance, in his
+e-mail to the plaintiff on 30 January 2017, the defendant outlined the share
+transfer as a proposal distinct from the plaintiff’s potential direct
+investment into Hotel Mumbai, or her tenure on Xeitgeist’s advisory panel as
+an Indian cultural advisor. 97
+
+##### Foot Note 97
+
+×
+
+AB at p 318–319.
+
+77 In the circumstances, I reject the defendant’s contention that any benefits
+that the plaintiff received from being associated with Xeitgeist (eg, being
+credited as an executive producer of “Hotel Mumbai” on the IMDB movie website,
+or attending the Cannes Film Festival) can be considered as part of the basis
+for the transfer of US$270,000. Put simply, the agreement between the parties
+was that the plaintiff would pay US$270,000 for shares in Xeitgeist, and not
+that she would pay US$270,000 to be generally associated with Xeitgeist. As
+such, any additional benefits that the plaintiff received from her general
+association with Xeitgeist cannot be said to be benefits that the plaintiff
+“bargained for under the contract” (Ooi Ching Ling v Just Gems Inc [2003] 1
+SLR(R) 14 at [44]).
+
+78 In any case, I note that some of these additional benefits were not even
+conferred upon the plaintiff in her capacity qua shareholder. During cross-
+examination, the defendant himself appeared to acknowledge (at least
+initially) that the plaintiff had attended the Cannes Film Festival (“the
+Festival”) due to her role as a member of Xeitgeist’s advisory panel, rather
+than in her capacity as a shareholder of Xeitgeist. 98
+
+##### Foot Note 98
+
+×
+
+NEs, 25 June 2021, p 103, lines 18–25.
+
+Although the defendant subsequently suggested during further cross-examination
+that the plaintiff’s attendance at the Festival was due to a combination of
+her roles as a member of Xeitgeist’s advisory panel, a direct investor in
+“Hotel Mumbai” and a shareholder of Xeitgeist, 99
+
+##### Foot Note 99
+
+×
+
+NEs, 25 June 2021, p 105, lines 16–22; PCS at para 78.
+
+I find this explanation implausible. It was not disputed that as a member of
+the advisory panel, the plaintiff was required to travel overseas for the
+purposes of inter alia, attending the Festival, in return for being paid a
+retainer. 100
+
+##### Foot Note 100
+
+×
+
+NEs, 25 June 2021, p 104, lines 19–23.
+
+The retainer agreement made no mention that the plaintiff was undertaking
+those obligations whilst also wearing her shareholder hat. 101
+
+##### Foot Note 101
+
+×
+
+AB at p 97.
+
+It was, to my mind, clear that any benefits that might have been enjoyed by
+the plaintiff by reason of her attendance at the Festival was in her capacity
+qua advisory board member. In the round, I thus see no merit in the
+defendant’s argument that consideration had only partially failed, simply
+because the plaintiff received some non-tangible benefits by virtue of her
+association with Xeitgeist.
+
+79 In sum, I find that the only basis for the plaintiff’s transfer of
+US$270,000 (or more precisely, S$377,190) to the defendant was the expected
+transfer of the Xeitgeist shares from the defendant to her. As the defendant
+failed to effect the transfer of his Xeitgeist shares to the plaintiff, there
+was, in my judgment, a total failure of consideration.
+
+80 For clarity, while the plaintiff urged me to adopt the reasoning in Giedo
+Van Der Garde v Force India Formula One Team [2010] EWHC 2373 (QB) 102
+
+##### Foot Note 102
+
+×
+
+PCS at para 74.
+
+, I do not find it necessary to do so, given my findings at [76]–[79]. I now
+turn to address the defences that the defendant raised in respect of the
+plaintiff’s claim in restitution.
+
+Change of position
+
+81 The defendant argues that even if the plaintiff has a claim for restitution
+by reason of total failure of consideration and/or unjust enrichment, he
+should be able to avail himself of the defence of change of position. 103
+
+##### Foot Note 103
+
+×
+
+DCS at p 26, para 90.
+
+The defendant confirms that he received S$377,190 from the plaintiff on 8 May
+2017 (being the approximate equivalent of US$270,000) in his personal DBS bank
+account number 033-9-091811 (the “DBS Account”). The defendant claims that he
+then incurred various expenditures amounting to a total of S$207,565.71, as
+follows: 104
+
+##### Foot Note 104
+
+×
+
+MM-3 at paras 3–15.
+
+S/N| Date| Amount| Description  
+---|---|---|---  
+1 | 8 May 2017| S$18,000| Payment of 2 months’ rent for the property at 7 Grange Road, Singapore 239694 (the “Grange Road property”) which was used as the defendant’s residence and home office  
+2 | 9 May 2017| S$52,281.05| Payment to Joe for expenses relating to Xeitgeist’s trip to Cannes Film Festival  
+3 | 10 May 2017| S$5,500| Payment to Mr Johnny Yeow for transport services that Xeitgeist engaged in Malaysia, and for the transportation of VIP guests visiting Singapore  
+4 | 10 May 2017| S$20,000| Transfer to the defendant’s Standard Chartered bank account number 0119197502 (the “SCB Account”) for Xeitgeist’s expenses related to a trip to Sydney, Australia in October 2017  
+5 | 12 May 2017| S$50,000| Unsecured loan to Xeitgeist  
+6 | 13 May 2017| S$15,000| Payment to the defendant’s SCB Account as part payment of his own salary  
+7 | 14 May 2017| S$7,608.51| Payment to a real estate agency for Xeitgeist’s accommodation during the Cannes Film Festival  
+8 | 16 May 2017| S$3,050| Purchase of laptop for Xeitgeist  
+9 | 18 May 2017| S$30,000| Unsecured loan to Xeitgeist  
+10 | 18 May 2017| S$3,126.15| Payment for accommodation for Xeitgeist staff at the Cannes Film Festival  
+11 | 25 May 2017| S$3,000| Payment for expenses incurred on credit cards linked to the defendant’s SCB Account  
+| TOTAL| S$207,565.71|  
+  
+82 There are three elements to the defence of change of position, namely that
+(a) the payee has changed his position; (b) the change was bona fide; and (c)
+it would be inequitable to require the person enriched to make restitution or
+to make restitution in full: Management Corporation Strata Title Plan No 473 v
+De Beers Jewellery Pte Ltd [2002] 1 SLR(R) 418 (“De Beers”) at [35]; see also
+Cavenagh Investment Pte Ltd v Kaushik Rajiv [2013] 2 SLR 543 (“Cavenagh”) at
+[58].
+
+83 With regard to the first element that the payee has changed his position,
+the payee must demonstrate that there is a causative link between the payment
+received and the change of position; in other words, the payee must prove that
+he would not have changed his position “but for” the payment received:
+Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific
+Breweries (Singapore) Pte Ltd and another and another appeal [2011] 3 SLR 540
+at [140]; Cavenagh at [67].
+
+84 The second element, that the payee must have acted bona fide, arises from
+the proposition that the defence will not be open to someone who has changed
+his position in bad faith or who is a “wrongdoer”: Seagate Technology Pte Ltd
+and another v Goh Han Kim [1994] 3 SLR(R) 836 (“Seagate”) at [31].
+
+85 As for the third element that it would be inequitable to require the payee
+to make restitution, the inequity itself must arise from the payee’s change of
+position, and in this all the circumstances relating to the change of position
+should be taken into consideration: Seagate at [31]. In addition, it would not
+be inequitable to require a payee to make restitution, if the expenditure
+might in any event have been incurred by him in the ordinary course of things:
+De Beers at [36].
+
+86 I turn to the facts before me. As a preliminary point, I note that the
+defence of change of position applies pro tanto and the payee will only be
+allowed to keep that part of the money which he has disposed of: De Beers at
+[52]. This means that even if the defendant in the present case succeeds in
+establishing the defence of change of position, he would only have a partial
+defence to the plaintiff’s claim in restitution, since he received S$377,190
+from the plaintiff but incurred, on his own best case, expenditure amounting
+to a lesser sum of S$207,565.71.
+
+87 In any case, I am doubtful that the defendant has adduced sufficient
+evidence to even prove the first element of his defence, ie, that he changed
+his position. In this regard, the defendant relies on his DBS Account
+statement for the month of May 2017, as well as several miscellaneous receipts
+and documents that the defendant claims prove the expenditures he incurred as
+a result of the payment from the plaintiff. 105
+
+##### Foot Note 105
+
+×
+
+MM-3, Tabs 1–6.
+
+Yet I note that these were documents adduced at the eleventh hour, just prior
+to the penultimate day of trial. Moreover, after the plaintiff filed a notice
+of non-admission to the authenticity of these documents, the defendant
+conceded that he was “unable to take any further steps to prove the
+authenticity of those documents”, save for two documents (namely, the
+defendant’s DBS Account statement and the tenancy agreement for the Grange
+Road property). 106
+
+##### Foot Note 106
+
+×
+
+NEs, 13 August 2021, p 4 lines 1–4.
+
+88 Even then, the defendant purported to “prove” the authenticity of the DBS
+Account statement by downloading a copy of his bank statement for the month of
+May 2017 from the DBS website, while testifying via video-link in open court
+proceedings. As the Court of Appeal in CIMB Bank Bhd v World Fuel Services
+(Singapore) Pte Ltd and another appeal [2021] 1 SLR 1217 (“CIMB v World Fuel”)
+noted at [54]:
+
+A party who has the burden of proving the authenticity of a document first has
+to produce primary or secondary evidence thereof, ie, the alleged original or
+a copy, within the provisions of the EA. Thereafter, it also has to prove that
+the document is what it purports to be …
+
+[emphasis added in italics and bold italics]
+
+89 As such, even if I find that the soft copy of the DBS Account statement (as
+downloaded by the defendant during trial) is the corresponding original of the
+bank statement that the defendant exhibited in his AEIC, the defendant still
+has to adduce evidence that the DBS Account statement is what it purports to
+be. This could have been done by, for example, adducing evidence from a DBS
+representative that the DBS Account statement indeed reflects the deposits and
+withdrawals in and out of the DBS Account for the month of May 2017. However,
+no such evidence was adduced by the defendant. Moreover, I disagree with the
+defendant that he has established the authenticity of the DBS Account
+statement, simply by operation of Explanation 3 to s 64 of the Evidence Act
+(Cap 97, 1997 Rev Ed) (the “EA”). 107
+
+##### Foot Note 107
+
+×
+
+DCS at p 28, paras 82–83.
+
+This provision states:
+
+Primary evidence
+
+64. Primary evidence means the document itself produced for the inspection of the court.
+
+…
+
+Explanation 3.—Notwithstanding Explanation 2, if a copy of a document in the
+form of an electronic record is shown to reflect that document accurately,
+then the copy is primary evidence.
+
+Illustrations
+
+(a) An electronic record, which has been manifestly or consistently acted on,
+relied upon, or used as the information recorded or stored on the computer
+system (the document), is primary evidence of that document.
+
+…
+
+90 As can be seen from the wording of the provision, s 64 of the EA merely
+defines what qualifies as primary evidence, which in turn may be used to prove
+the contents of documents under s 63 of the EA. This is relevant to the first
+step of the procedure for proving authenticity set out in CIMB v World Fuel
+(see above at [88]), but it does not relieve the defendant from its burden of
+going on to prove that the document is what it purports to be. Neither was
+this a case where the defendant sought to rely on the presumption under s
+116A(2) of the EA, which provides as follows:
+
+Presumptions in relation to electronic records
+
+116A.—(1) …
+
+(2) Unless evidence to the contrary is adduced, the court shall presume that
+any electronic record generated, recorded or stored is authentic if it is
+established that the electronic record was generated, recorded or stored in
+the usual and ordinary course of business by a person who was not a party to
+the proceedings on the occasion in question and who did not generate, record
+or store it under the control of the party seeking to introduce the electronic
+record.
+
+Illustration
+
+A seeks to adduce evidence against B in the form of an electronic record. The
+fact that the electronic record was generated, recorded or stored in the usual
+and ordinary course of business by C, a neutral third party, is a relevant
+fact for the court to presume that the electronic record is authentic.
+
+[emphasis added in bold italics]
+
+91 As is clear from the italicised wording, the presumption of authenticity
+under s 116A(2) of the EA may be raised if a party proves that the electronic
+record is “generated, recorded or stored in the usual and ordinary course of
+business by a person who was not a party to the proceedings”. The defendant
+may well have been able to rely on s 116A(2) of the EA to prove the (presumed)
+authenticity of the electronic DBS Account statement, had he obtained evidence
+to prove that the said statement was a record “generated, recorded or stored
+in the usual and ordinary course of business” by DBS. However, the defendant
+did not do so, and did not in any case advance any arguments on s 116A(2) of
+the EA.
+
+92 Likewise, with regard to the tenancy agreement for the Grange Road
+property, following from the Court of Appeal’s observations in CIMB v World
+Fuel (see above at [88]), the first step to proving authenticity would have
+been for the defendant to produce the original tenancy agreement before the
+court. This was not done. I note that in his closing submissions, the
+defendant argues that pursuant to s 67(1)(c) of the EA, he should be entitled
+to rely on a copy of the tenancy agreement as secondary evidence as he “was in
+Australia at the time of the trial and was consequently not able to produce
+the original of the Tenancy Agreement”. 108
+
+##### Foot Note 108
+
+×
+
+DCS at p 29–30, para 98.
+
+I stress that this alleged fact was never put into evidence and no explanation
+has been provided regarding the whereabouts of the original tenancy agreement.
+
+93 Even if the defendant could justifiably rely on a copy of the tenancy
+agreement as secondary evidence under the exception set out in s 67(1)(c) of
+the EA, the second step to proving authenticity would be to adduce evidence to
+prove that the tenancy agreement is what it purports to be (see above at
+[88]). In this regard, the defendant suggested it could do so by relying on a
+certificate of stamp duty, which it disclosed in its 6th Supplemental List of
+Documents. 109
+
+##### Foot Note 109
+
+×
+
+NEs, 13 August 2021, p 4 lines 12–26; DCS at p 30, para 99.
+
+Yet, this certificate of stamp duty was ultimately not adduced in evidence.
+Accordingly, I cannot see what the defendant relies on to prove the
+authenticity of the tenancy agreement.
+
+94 In the circumstances, I find that the defendant has not discharged its
+burden of proving the authenticity of the documents it seeks to rely on to
+establish the defence of change of position. Given that authenticity is a
+“necessary condition” of admissibility, those documents are therefore not
+admissible in evidence: Super Group Ltd v Mysore Nagaraja Kartik [2018] SGHC
+192 at [53].
+
+95 In addition to my reasons above, I am also of the view that there is
+insufficient evidence of a causative link between the defendant’s expenditure
+and the transfer from the plaintiff, or similarly, that the defendant would
+not have incurred the expenditure in the ordinary course, such that it would
+be inequitable to require him to make restitution. The defendant contends that
+he would not have incurred the expenditure of S$207,565.71 but for the receipt
+of money from the plaintiff, as he only had S$396.97 in his DBS Account
+immediately prior to receiving the money from the plaintiff. 110
+
+##### Foot Note 110
+
+×
+
+DCS at p 26, para 92.
+
+In my judgment, this observation alone says little about what the defendant’s
+expenditure would otherwise have been, had the plaintiff not transferred to
+him the sum of S$377,190 on 8 May 2017. The defendant’s evidence at trial was
+that he drew an annual salary of S$240,000 from Xeitgeist in 2016 and 2017.
+111
+
+##### Foot Note 111
+
+×
+
+NEs, 1 July 2021, p 35 line 28 to p 36 line 3; p 41 lines 10–18; see also
+PBAEIC at p 397.
+
+Moreover, as is clear from the defendant’s own evidence, he has at least two
+bank accounts, namely the DBS Account and the SCB Account. Accordingly, the
+mere fact that the defendant had S$396.97 in his DBS Account on 7 May 2017
+does not necessarily show the entirety of his means, nor does it indicate that
+he would not have incurred the expenditure of S$207,565.71 but for the payment
+received from the plaintiff.
+
+96 In addition, and turning to examine the specific expenses that the
+defendant incurred, I note that the defendant conceded that he would have had
+to pay rent on the Grange Road property (S/N 1 in the table at [81] above)
+regardless of whether he received payment from the plaintiff. 112
+
+##### Foot Note 112
+
+×
+
+NEs, 1 July 2021, p 109 line 30 to p 110 line 1.
+
+This was therefore not an extraordinary expense that the defendant incurred as
+a result of the payment from the plaintiff. Likewise, it is unclear what
+expenses the defendant had used the credit cards linked to his SCB account for
+(S/N 11 in the table at [81] above), and accordingly, it cannot be said on a
+balance of probabilities that these were extraordinary expenses. As for the
+remaining items of expenditure incurred by the defendant, these related to
+unsecured loans extended to Xeitgeist and purported expenses of Xeitgeist.
+Crucially however, there was no evidence led either through affidavit or at
+trial, that these expenses would not have been incurred by the defendant in
+the ordinary course. The mere fact that the defendant was not “legally
+obliged” to make such payments does not prove that he would not have incurred
+such expenses in the ordinary course. 113
+
+##### Foot Note 113
+
+×
+
+DCS at p 27, para 95.
+
+97 In any case, it is also arguable that the defendant should not be allowed
+to rely on the change of position defence in relation to the loans that he
+extended to Xeitgeist. As the learned editors of Goff & Jones, The Law of
+Unjust Enrichment (Sweet & Maxwell, 9th Ed, 2016) (“Goff & Jones”) note at
+[27–03]:
+
+To develop the [change of position] defence in a principled way the courts
+must understand its rationale. The defence generally applies where the benefit
+transferred from the claimant to the defendant has been irretrievably lost so
+that the courts must choose which of the parties should bear this loss…
+
+[emphasis added in bold italics]
+
+98 A loan can hardly be characterised as an “irretrievable loss”, since the
+lender would ordinarily expect the return of the loan. In any case, the
+defendant did not adduce any evidence that the money loaned to Xeitgeist was
+an irretrievable loss. As such, even if the defendant had proven that he would
+not have extended loans to Xeitgeist but for the payment from the plaintiff, I
+would be reluctant to find that the change of position defence should be
+available to the defendant in respect of these loans.
+
+99 Finally, I express my doubts that the change of position defence should be
+available to a defendant who spends a sum of money, in full knowledge that he
+received the said sum conditional upon his performance of a contractual
+obligation. The learned editors of Goff & Jones note at [27–58]:
+
+(d) Failure of Basis
+
+When money is paid to a recipient on an agreed basis, he knows that he may
+have to repay a like sum if the basis fails to materialise, suggesting that he
+cannot spend the money in the honest belief that the transferor had an
+unqualified intention to benefit him. So, for example, if a claimant pays a
+defendant money to build a house, and the defendant spends it on a holiday
+that he would not otherwise have bought, the law will almost certainly not
+permit him to rely on this fact in the event that the house is not built and
+the claimant sues to recover his money.
+
+[emphasis added]
+
+100 In support of this proposition, the editors of Goff & Jones highlight the
+case of Murray Stanley Goss and another v Laurence George Chilcott [1996] 3
+WLR 180 (“Goss v Chilcott”). The defendants, Mr and Mrs Goss, had borrowed
+money from a company. This sum of money was then paid to a third party (“Mr
+Haddon”), as a personal loan from the defendants. Mr Haddon did not return
+this money, and consequently the defendants failed to repay the loan. The
+company then sued the defendants. Lord Goff, delivering judgment on behalf of
+the Privy Council, held that the defendants had received the money on the
+basis that they covenanted to repay the loan, and that having failed to do so,
+the company therefore had a claim in restitution for total failure of
+consideration (at 187–188). In this regard, Lord Goff rejected the argument
+that the defendants were entitled to the change of position defence, simply
+because they had paid away the money to Mr Haddon. Lord Goff observed (at
+189):
+
+From the beginning, the defendants were under an obligation to repay the
+advance once it had been paid to them or to their order; and this obligation
+was of course unaffected by the fact that they had allowed the money to be
+paid over to Mr. Haddon. The effect of the alteration of the mortgage
+instrument was that their contractual obligation to repay the money was
+discharged; but they had nevertheless been enriched by the receipt of the
+money, and prima facie were liable in restitution to restore it. They had
+however allowed the money to be paid over to Mr. Haddon in circumstances in
+which, as they well knew, the money would nevertheless have to be repaid to
+the company. They had, therefore, in allowing the money to be paid to Mr.
+Haddon, deliberately taken the risk that he would be unable to repay the
+money, in which event they themselves would have to repay it without recourse
+to him. Since any action by them against Mr. Haddon would now be fruitless
+they are seeking, by invoking the defence of change of position, to shift that
+loss onto the company. This, in their Lordships' opinion, they cannot do. The
+fact that they cannot now obtain reimbursement from Mr. Haddon does not, in
+the circumstances of the present case, render it inequitable for them to be
+required to make restitution to the company in respect of the enrichment which
+they have received at the company's expense.
+
+[emphasis added]
+
+101 Goss v Chilcott was followed by the English Court of Appeal in Haugesund
+Kommune and another v Depfa ACS Bank (Wikborg Rein & Co, Part 20 defendant)
+[2012] 2 WLR 199 (“Haugesund Kommune”). This case concerned a series of swap
+contracts entered into ultra vires by Norwegian local authorities, under which
+the respondent bank (“Depfa”) loaned the local authorities several sums of
+money, which were then re-invested in financial instruments. These investments
+were unprofitable and resulted in substantial losses. Depfa brought a claim in
+restitution to recover the sums advanced to the local authorities. Lord
+Justice Aikens, delivering the majority judgment, held that the local
+authorities could not rely on the defence of change of position, as the local
+authorities had received the money from Depfa on the understanding that they
+had to repay it (at [124]–[125]). As such, even though the local authorities
+had acted bona fide when they made the investments, they were the ones who had
+taken the risk that their investments would fail, rather than Depfa which
+simply extended a loan on the expectation that it would be repaid. Lord
+Justice Aikens observed that the “justice of the case” therefore lay with
+allowing Depfa’s claim in restitution (at [126]).
+
+102 I note that Haugesund Kommune was applied by Judicial Commissioner Aedit
+Abdullah (as he then was) in Supercars Lorinser Pte Ltd and another v Benzline
+Auto Pte Ltd [2016] SGHC 281 (“Supercars”). The case concerned payment of a
+sum of money by the plaintiff (“Supercars”) to the defendant (“Benzline”),
+ahead of entry into an exclusive dealership agreement. Abdullah JC found that
+the payment had been made conditional on the parties entering into the
+exclusive dealership agreement, and accordingly that when the parties failed
+to form such an agreement, the basis for the payment failed (at [37]). The
+learned Judicial Commissioner rejected that Benzline was entitled to a change
+of position defence, observing (at [79]):
+
+79 However, where the basis has been found to have failed, change of position
+is not made out as a defendant in such a position would know that flowing from
+such failure, repayment would follow. It is therefore not inequitable to
+require repayment: Haugesund Kommune and another v Depfa ACS Bank (Wikborg
+Rein & Co, Part 20 defendant) [2010] EWCA Civ 579 at [123], [125]. An
+exception noted in Goff & Jones is made in respect of situations where the
+basis requires some advance expenditure, such as a contract requiring work,
+before it is frustrated, but that is a different situation from what we have
+here.
+
+103 However, when the case went on appeal in Benzline Auto v Supercars (as
+noted at [75] above), the Court of Appeal took the differing view that the
+payment had not been made conditional on the parties entering into the
+exclusive dealership agreement (at [66]–[67]). Rather, the Court of Appeal
+found that the basis for the payment was that Benzline would offer Supercars
+the exclusive dealership agreement on terms that corresponded in material ways
+to a prior draft agreement. Given that Benzline had been prepared to execute
+the exclusive dealership agreement, there had been no failure of consideration
+(at [68]–[69]). The Court of Appeal therefore disallowed Supercars’ claim in
+restitution, and consequently did not need to comment on the change of
+position defence.
+
+104 Since the High Court’s decision in Supercars, it appears that there has
+been no further development on this aspect of the law: namely, whether the
+change of position defence is available to a defendant who spends away a
+benefit, despite knowing that he received the benefit conditional upon his
+performance of a contractual obligation. From my review of the cases and
+commentary above, it is not entirely clear which of the three elements of the
+change of position defence (summarised above at [82]) this question of law
+relates to. In the extract at [99] above, the editors of Goff & Jones suggest
+that this is a matter that touches on the question of whether the defendant
+has acted with an “honest belief”, which in turn suggests that it is the
+defendant’s bona fides that is relevant (ie, the second element). On the other
+hand, the courts in Haugesund Kommune as well as Supercars appear to have
+based their analysis in the context of the third element, ie, whether it was
+inequitable in the circumstances to allow restitution. These finer points
+were, however, not fully canvassed before me and as such, I hesitate to
+analyse them in any detail or to arrive at any definitive conclusion. In any
+case, there is no need for me to do so for present purposes.
+
+105 Nonetheless, and without expressing any preference between the reasoning
+of the editors of Goff & Jones and that of the courts in Haugesund Kommune and
+Supercars, I would express my preliminary agreement with the general
+proposition that a defendant should not be allowed to rely on the change of
+position defence in circumstances when he pays away money that he knows he
+received subject to an obligation on his part to perform. In the present case,
+the defendant spent over half of the money he had received from the plaintiff,
+knowing that he had received the money subject to his obligation to transfer
+the Xeitgeist shares to the plaintiff, and that he had not done so as of May
+2017 (when the defendant spent the money). Moreover, even after he had
+expended the money received from the plaintiff, the defendant persisted in his
+failure to transfer the Xeitgeist shares to the plaintiff. This failure
+persisted even as of 30 June 2017, when the defendant ought reasonably to have
+transferred the shares to the plaintiff, and even as of 8 August 2017, by
+which time the shares ought, according to the plaintiff, reasonably to have
+been registered with ACRA (see [69] above). In such circumstances, I fail to
+see how it would be equitable to allow the defendant to escape making
+restitution (or inequitable to require him to do so), simply because he spent
+the money he received with particular expedition.
+
+106 As I stated above at [104], this is a point that is best left to be fully
+considered on another occasion when the court has had the benefit of full
+argument. For present purposes, I find that the defendant has not adduced
+sufficient evidence that he changed his position, that there was a causative
+link between his expenditure and the payment from the plaintiff, or that he
+would not have incurred the expenditure in the ordinary course of things. For
+these reasons, I find that the defendant has failed to establish his defence
+of change of position.
+
+Estoppel
+
+107 Alternatively, the defendant argues that the plaintiff is estopped from
+asserting a total failure of consideration and bringing a claim in
+restitution, or denying that she had a contractual obligation to sign the DRA,
+as she made “an explicit representation acknowledging the [execution of the]
+DRA as a condition precedent to the share transfer” in her e-mail on 17 June
+2017. 114
+
+##### Foot Note 114
+
+×
+
+DCS at pp 31–32, para 104 and 108.
+
+Grace had e-mailed the plaintiff on 16 June 2017 to remind the plaintiff to
+sign the DRA. 115
+
+##### Foot Note 115
+
+×
+
+AB at p 1412.
+
+In her response e-mail on 17 June 2017 (on which the defendant was copied),
+the plaintiff stated: 116
+
+##### Foot Note 116
+
+×
+
+AB at p 1411.
+
+Dear grace
+
+Thank you for your email
+
+I can sign it next week as I have carpel [sic] tunnel syndrome on my right
+hand and unable to sign documents
+
+Will sign and send by Friday to you
+
+Regards
+
+Simran
+
+108 The defendant claims that he relied on the plaintiff’s representation that
+she would sign the DRA to his detriment, as he incurred expenditure of
+S$207,565.71 and lost the opportunity to sell his shares at the non-discounted
+rate of US$3.645 per share. 117
+
+##### Foot Note 117
+
+×
+
+DCS at p 32, paras 106–107.
+
+109 As a preliminary observation, I find the defendant’s argument that he
+incurred expenditure of S$207,565.71 in reliance on the plaintiff’s
+representation on 17 June 2017 somewhat puzzling. On the defendant’s own case,
+he incurred expenditure of S$207,565.71 in May 2017 (see [81] above), before
+the plaintiff sent her response e-mail on 17 June 2017. It is not the
+defendant’s case that the plaintiff made any representation to a similar
+effect at any time before 17 June 2017. I therefore cannot see how the
+defendant could have spent the said sum in May 2017, in reliance on an e-mail
+the plaintiff sent only later in June 2017.
+
+110 In any case, in order to establish the defence of estoppel by
+representation, the defendant must show that (a) there has been a
+representation of fact; (b) which was relied on by the defendant; and (c) the
+defendant suffered detriment as a result of the reliance (United Overseas Bank
+Ltd v Bank of China [2006] 1 SLR(R) 57 at [18]). In this regard, the
+representation of fact relied on to establish the defence cannot be
+“promissory in nature” (Chng Bee Kheng and another (executrixes and trustees
+of the estate of Fock Poh Kum, deceased) v Chng Eng Chye [2013] 2 SLR 715 at
+[94]); it must be a representation that deals with existing fact rather than
+future intention (Day, Ashley Francis v Yeo Chin Huat Anthony and others
+[2020] 5 SLR 514 (“Ashley Francis Day”) at [201]).
+
+111 In the present case, I find that the plaintiff’s representations that she
+could “sign [the DRA] next week” and that she would “sign and send by Friday”
+are clearly statements of future intention. They did not deal with a state of
+affairs that was existing as of 17 June 2017. Accordingly, I find that the
+defendant has not surmounted the first step to establishing estoppel by
+representation, which is to show that there has been a representation of fact.
+
+112 Moreover, in order for the defence of estoppel by representation to be
+made out, the representation of fact relied upon must be “clear and
+unambiguous”: Ashley Francis Day at [196]. In my judgment, the plaintiff’s
+e-mail of 17 June 2017 did not contain a clear and unambiguous representation
+that she would execute the DRA as a condition precedent to receiving the
+Xeitgeist shares from the defendant. First, nowhere is it stated in the
+plaintiff’s e-mail of 17 June 2017 that she would execute the DRA in order to
+receive the Xeitgeist shares. Second, reading the plaintiff’s e-mail of 17
+June 2017 in the context of the prior correspondence between the parties, I
+find that it is ambiguous why the plaintiff stated that she would execute the
+DRA. I find it plausible that in her e-mail of 17 June 2017, the plaintiff
+meant that she would execute the DRA in order to transfer the Xeitgeist shares
+from her name to Beetroot, and not to transfer the shares from the defendant
+to her own name. Grace had raised the signing of the DRA for the first time on
+24 April 2017, in response to the plaintiff’s interest in transferring the
+Xeitgeist shares (once she had received them) from her name to Beetroot (see
+[14]–[15] above). 118
+
+##### Foot Note 118
+
+×
+
+AB at p 444.
+
+In cross-examination, the plaintiff acknowledged that Grace, in her e-mail of
+24 April 2017, had instructed the plaintiff to sign the DRA in order to
+complete the share transfer from the defendant to her own name, but admitted
+that she had misread Grace’s e-mail. 119
+
+##### Foot Note 119
+
+×
+
+NEs, 23 June 2021, p 119 line 27 to p 120 line 2.
+
+The plaintiff instead understood Grace’s e-mail to mean that she only needed
+to sign the DRA as a formality if she wanted to transfer her Xeitgeist shares
+onward to Beetroot, 120
+
+##### Foot Note 120
+
+×
+
+NEs, 23 June 2021, p 119 lines 23–26; p 123 lines 5–6; p 126 line 24 to p 127
+line 17.
+
+and continued harbouring this impression when Jeremy had e-mailed her on 22
+May 2017 to remind her to sign the DRA. 121
+
+##### Foot Note 121
+
+×
+
+NEs, 23 June 2021, p 124 lines 7–9.
+
+As such, when she sent the e-mail at [107] above to Grace on 17 June 2017, the
+plaintiff explained that she thought that the Xeitgeist shares had already
+been transferred to her name. 122
+
+##### Foot Note 122
+
+×
+
+NEs, 23 June 2021, p 128 line 16; p 129 lines 1–23.
+
+113 I find the plaintiff’s explanation to be believable, particularly when
+considered in the context of the e-mails and discussions leading up to Grace’s
+e-mail of 24 April 2017, when the issue of signing the DRA was raised with the
+plaintiff for the first time (as I have summarised and analysed at [7]–[13]
+and [32]–[53] above). Thus, when read in context, the plaintiff’s e-mail of 17
+June 2017 does not, in my view, constitute a clear and unambiguous
+representation “acknowledging the [execution of the] DRA as a condition
+precedent to the share transfer” from the defendant to the plaintiff under the
+Contract, as contended by the defendant (see [107] above). For completeness, I
+also consider it immaterial, for similar reasons, that the plaintiff replied
+to Grace’s e-mail of 24 April 2017 on the same day, asking for the “share
+holders [sic] agreement to sign” (see [15] above). In my judgment, the
+defendant has therefore not made out the defence of estoppel by
+representation.
+
+Remedies
+
+114 As the defendant has not established any defences to the plaintiff’s
+alternative claim for restitution grounded upon total failure of consideration
+and/or unjust enrichment, the defendant is, in my judgment, obliged to make
+restitution of the sum of S$377,190 he received from the plaintiff.
+
+Issue 6: The plaintiff’s claim for misrepresentation
+
+115 Given that I have allowed the plaintiff’s claim in contract and
+alternatively for restitution, I do not find it necessary to deal with the
+plaintiff’s further alternative claim grounded on misrepresentation. Nor is it
+necessary for me to address or make any specific findings on the plaintiff’s
+allegation that the defendant intended, from the inception, to engineer a
+forced buyout of Xeitgeist (see [23] above).
+
+Conclusion
+
+116 For the foregoing reasons, the plaintiff is entitled to damages from the
+defendant for breach of contract in the sum of S$377,190 or alternatively, to
+restitution in the same amount by reason of a total failure of consideration
+and/or unjust enrichment.
+
+117 Accordingly, I grant the plaintiff judgment against the defendant in the
+sum of S$377,190, together with interest thereon at the rate of 5.33% per
+annum from the date of the writ to the date of this judgment.
+
+118 I shall hear the parties separately on the question of costs of the
+action.
+
+S Mohan  
+Judge of the High Court|  
+---|---  
+  
+Quek Wen Jiang Gerard and Ling Ying Ming Daniel (PDLegal LLC) for the
+plaintiff;
+
+Naidu Priyalatha and Jacintha d/o Gopal (Advocatus Law LLP) for the defendant.
+
+Annex 1: Chronology of e-mail correspondence
+
+Date| Details  
+---|---  
+21 January 20175.26pm| Defendant e-mails the plaintiff to propose acquiring
+shares in Xeitgeist instead of investing directly in “Hotel Mumbai”, as well
+as to offer her tenure on Xeitgeist’s advisory board for 12 months. 123
+
+##### Foot Note 123
+
+× AB at pp 40–43.  
+30 January 201712.06am| Defendant e-mails the plaintiff with further details
+regarding his proposal that she invests in Xeitgeist or invests directly in
+“Hotel Mumbai”. With regard to the proposed share acquisition, the defendant
+suggests that the plaintiff purchase US$300,000 worth of Xeitgeist shares at a
+10% discount from him (ie, at a purchase price of US$270,000).In addition, the
+defendant again offers the plaintiff 12-months tenure on Xeitgeist’s advisory
+panel as an Indian cultural advisor. 124
+
+##### Foot Note 124
+
+× AB at pp 318–319.  
+30 January 20179.29am| Defendant e-mails the plaintiff attaching a copy of the
+commission agreement that Xeitgeist uses. 125
+
+##### Foot Note 125
+
+× AB at p 45.  
+30 January 201711.29am| Defendant e-mails the plaintiff to clarify the
+commissions she would receive from potential future fund raising, as well as
+to provide more details on his proposal that the plaintiff invests in “Hotel
+Mumbai”. The defendant states that Xeitgeist “will be entering a significant
+growth phase in 2018”. 126
+
+##### Foot Note 126
+
+× AB at pp 316–317.  
+30 January 201710.22pm| Joe e-mails the defendant and plaintiff stating he
+agrees with the defendant’s e-mails on the discounted Xeitgeist shares and
+process. 127
+
+##### Foot Note 127
+
+× AB at p 45.  
+1 February 2017 4.19pm| Defendant e-mails the plaintiff and Jeremy. Defendant
+informs Jeremy that the plaintiff will be acquiring US$300,000 of his shares
+in Xeitgeist. Defendant instructs Jeremy to apply a 10% discount to the shares
+priced at US$3.65, and to send the plaintiff the “transfer papers”, including
+“all the associated shareholders agreements for her review and signing which
+has been signed by all the Xeitgeist shareholders”.Defendant informs the
+plaintiff that Jeremy will be sending her the “paperwork and details for the
+share transfer” and congratulates her on joining the Xeitgeist team. 128
+
+##### Foot Note 128
+
+× AB at pp 322–323.  
+1 February 20175.49pm| Jeremy e-mails the plaintiff congratulating her on her
+“acquisition” and says he will provide the transfer documents the next day.
+129
+
+##### Foot Note 129
+
+× AB at p 321.  
+8 February 20176.03pm| Grace e-mails the plaintiff (with the defendant
+copied), attaching the Share Transfer Deed. Grace instructs the plaintiff to
+scan and mail the executed copy of the Share Transfer Deed to TKNP.In
+addition, Grace’s e-mail encloses (a) a shareholders’ agreement dated 10 June
+2013; (b) a copy of the 1SSA; (c) an undated supplemental shareholder’s
+agreement for the plaintiff’s reference. 130
+
+##### Foot Note 130
+
+× AB at p 462.  
+9 February 20174.26pm| Grace e-mails both the plaintiff and defendant
+instructing them to sign on the attached Share Transfer Deed, and scan and
+mail the original signed copy to TKNP. 131
+
+##### Foot Note 131
+
+× AB at p 327.  
+14 February 201710.17am| Plaintiff e-mails the defendant and TKNP, asking “Do
+we alos need to do a contract for Xietgiest shares or just a share transfer”
+[sic]. Plaintiff also states that she is “sending all [her] papers” to her
+lawyer, who can advise the parties if needed. 132
+
+##### Foot Note 132
+
+× AB at p 332.  
+14 February 201712.23pm| Grace replies the plaintiff’s e-mail stating: “Kindly
+furnish us the scanned and original signed copy of the attached share transfer
+deed before we proceed to update ACRA on the share transfer. After we lodge
+with ACRA, we will provide you a copy of the latest Business Profile as well
+as a share certificate reflecting your shareholdings in XEG.The above will
+complete the share transfer process.” 133
+
+##### Foot Note 133
+
+× AB at p 331.  
+14 February 20173.33pm| Defendant replies to the plaintiff’s e-mail stating:“…
+Simran the transfer papers that you have been sent approve the transfer of
+shares at the price we have agreed.You will also receive the company
+shareholders agreement and supplemental agreements that all shareholders have
+signed upon, most recently Richard Sharkey.The process is basically you sign
+the paperwork and send a scanned copy to Jeremy and grace. You transfer the
+funds in to designated account.Once that has occurred they issue the stock in
+your name and update the ACRA file and send the share certificates to you.
+Jeremy did I miss anything?” 134
+
+##### Foot Note 134
+
+× AB at p 331.  
+14 February 20174.04pm| Grace e-mails the plaintiff, re-attaching the
+documents from her e-mail on 8 February 2017, and attaching the latest
+business profile of Xeitgeist. 135
+
+##### Foot Note 135
+
+× AB at p 330.  
+16 February 201710.25pm| Jeremy e-mails the plaintiff asking for an update on
+when TKNP would receive the Share Transfer Deed, as it “is the last document
+before [TKNP] can execute the [share transfer] transaction”. 136
+
+##### Foot Note 136
+
+× AB at p 64.  
+27 March 20171.21pm| Defendant e-mails plaintiff and her brother, Aman Bedi
+(“Aman”), detailing Simran’s expected future involvement in Xeitgeist.
+Defendant states that “[i]t is core to where we are going that Simran is a
+shareholder in Xeitgeist. This can be done as either a direct investment into
+Xeitgeist or purchasing shares from Joe and myself at the discounted price we
+have discussed. The accountants have this paperwork ready to execute.” 137
+
+##### Foot Note 137
+
+× PBAEIC pp 126–127.  
+5 April 20172.13pm| Jeremy forwards Grace’s e-mail of 14 February 2017 at
+4.04pm to the plaintiff, stating “please find appended below our last
+correspondence to you on the share transfer, and documents to execute the
+same”. 138
+
+##### Foot Note 138
+
+× AB at p 430.  
+20 April 20173.45pm| Grace e-mails the plaintiff congratulating her on
+becoming a Xeitgest shareholder. Grace informs the plaintiff that TKNP is
+arranging for payment of stamp duties on the share transfer, and will forward
+the plaintiff her share certificates after the transfer is registered with
+ACRA. 139
+
+##### Foot Note 139
+
+× AB at p 439.  
+24 April 20174.24pm| Grace e-mails the plaintiff stating:“Dear Simran,I
+understand that upon successful transfer of shares from Mark to yourself, you
+wish to transfer your shareholdings to your corporate entity. I have listed
+down the following steps for us to proceed. Stage 1) Transfer from Mark to
+your personal name:Next steps to complete the transfer:1) Kindly sign attached
+deed of ratification and scan to us. 2) Scan to us a copy of proof of payment
+(USD270,000) to Mark3) We will proceed with e-filing of share transfer. Stage
+2) Transfer from your personal name to your corporate entity:For KYC purposes
+and preparation of paperwork, please let us have the following information:1)
+Do you wish to transfer all of your shareholdings (82,192 ordinary SGD shares)
+or otherwise (______)?2) Corporate and beneficial owners’ identification
+documents (as per attached KYC Roadmap) – if not furnished to us yet.” 140
+
+##### Foot Note 140
+
+× AB at p 444.  
+24 April 20179.57pm| Plaintiff e-mails Grace stating “Please can you also send
+me the share holders [sic] agreement to sign”. 141
+
+##### Foot Note 141
+
+× AB at p 442.  
+28 April 20178.00am| Grace e-mails the plaintiff and the defendant, stating
+that upon receipt of the signed DRA and proof payment from the plaintiff, TKNP
+would proceed with the share transfer. 142
+
+##### Foot Note 142
+
+× AB at p 447.  
+28 April 20178.17am| Plaintiff replies to Grace’s e-mail stating that she will
+complete the funds transfer by 5 May 2017. 143
+
+##### Foot Note 143
+
+× AB at p 447.  
+22 May 2017| Jeremy e-mails the plaintiff reminding her that TKNP has yet to
+receive the signed DRA. 144
+
+##### Foot Note 144
+
+× AB at p 453.  
+3 June 20176.21am| Plaintiff replies to Jeremy’s e-mail, stating “I have
+already done the payment for xietgiest [sic] shares. What documents we need to
+sign and you need to transfer shares on my name”. 145
+
+##### Foot Note 145
+
+× AB at p 453.  
+3 June 20177.27am| Grace e-mails plaintiff requesting her to sign the DRA to
+“finalise the paperwork for [her] share transfer”. 146
+
+##### Foot Note 146
+
+× AB at p 455.  
+16 June 201710.57pm| Grace e-mails plaintiff stating that TKNP is “pending
+receipt” of the signed DRA, before TKNP forwards the share certificates to
+her. Grace states that she hopes to hear from the plaintiff soon so “we can
+wrap up the paperwork for this share transfer”. 147
+
+##### Foot Note 147
+
+× AB at p 458.  
+17 June 20179.37am| Plaintiff replies to Grace’s e-mail, stating:“Dear
+graceThank you for your emailI can sign it next week as I have carpel [sic]
+tunnel syndrome on my right hand and unable to sign documentsWill sign and
+send by Friday to you”. 148
+
+##### Foot Note 148
+
+× AB at p 460.  
+  
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 31 Mar 2022 (10:55 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

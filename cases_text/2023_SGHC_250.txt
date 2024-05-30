@@ -1,0 +1,349 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 250
+
+Originating Application No 592 of 2023
+
+Between
+
+(1)| Majestica Enterprises Limited  
+---|---  
+(2)| The Challenger Trade Finance Segregated Portfolio of the South Africa
+Alpha SPC  
+  
+… Applicants
+
+And
+
+| Kams Singapore Pte Ltd (in compulsory liquidation)  
+---|---  
+  
+… Respondent
+
+grounds of decision
+
+[Insolvency Law — Winding up — Funding by creditors]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Majestica Enterprises Ltd and another
+
+  
+v
+
+  
+
+Kams Singapore Pte Ltd (in compulsory liquidation)
+
+[2023] SGHC 250
+
+General Division of the High Court — Originating Application No 592 of 2023  
+Chua Lee Ming J  
+2 August 2023
+
+7 September 2023
+
+Chua Lee Ming J:
+
+Introduction
+
+1 The respondent is a company in compulsory liquidation (the “Company”). The
+applicants (who are creditors of the Company) made this application for an
+order pursuant to s 204(3) of the Insolvency, Restructuring and Dissolution
+Act 2018 (2020 Rev Ed) (“IRDA”) that they be given an advantage over other
+creditors with respect to the distribution of assets/expenses recovered or
+assets protected or preserved as a result of funding provided by them.
+
+2 I granted the application for the reasons set out below.
+
+Facts
+
+3 The Company was wound up in 2020 and a liquidator was appointed by the court
+(the “Liquidator”). The applicants were creditors of the Company and they
+filed their proofs of debt accordingly.
+
+4 The Liquidator took steps to investigate the Company’s affairs but the
+Company and/or the liquidation estate ran out of funds for the Liquidator to
+continue his work.
+
+5 At a creditors’ meeting, the Liquidator informed the Company’s creditors
+that he was unable to continue investigations into the Company’s affairs and
+pursue recovery of the Company’s assets due to a lack of funds. At the same
+meeting, a Committee of Inspection was formed.
+
+6 The Liquidator and the applicants subsequently entered into a funding
+agreement (the “Funding Agreement”) for the purposes of pursuing recovery of
+the Company’s assets. The essential terms of the Funding Agreement were as
+follows:
+
+(a) The applicants would provide funding for the Liquidator’s investigations
+into the Company’s accounts and prior transactions (“Phase 1”). Phase 1 would
+not involve any recovery of the Company’s assets.
+
+(b) Upon completion of Phase 1, the Liquidator would inform the applicants if
+he wishes to proceed with any claim for which funding would be required. The
+applicants had the right but not the obligation to fund any of the claims.
+
+(c) The Liquidator would have full control of any legal proceedings brought by
+the Company.
+
+(d) Any moneys recovered from proceedings funded by the applicants (the
+“Recovered Assets”) would be applied, on a quarterly basis, as follows:
+
+(i) The Recovered Assets would first be used to pay the applicants the amounts
+funded by them.
+
+(ii) Thereafter, 75% of the Recovered Assets would go towards payment of the
+amounts adjudicated by the Liquidator to be owing to the applicants under
+their respective proofs of debt. The remaining 25% would go towards payment of
+the amounts adjudicated to be owing to the other creditors under their
+respective proofs of debt.
+
+(iii) The Liquidator retained the discretion to pay the applicants less than
+75% of the Recovered Assets in any quarter (but no less than 70%) where he
+reasonably believed that more funds were required for the purpose of the
+liquidation of the Company. When such concerns had been addressed and the
+Company had sufficient funds, the Liquidator would pay the applicants the
+amount withheld in addition to 75% of the Recovered Assets that would be
+payable in the next applicable quarter.
+
+7 The Company’s other creditors were given the opportunity to provide the
+Liquidator with funding but declined to do so. They also did not object to the
+Funding Agreement.
+
+The law
+
+8 The application was made pursuant to s 204(3) of the IRDA. Section 204 of
+the IRDA states as follows:
+
+Funding by creditors
+
+204.—(1) Where in any winding up —
+
+(a) assets have been recovered under an indemnity for costs of litigation
+given by certain creditors;
+
+(b) assets have been protected or preserved by the payment of moneys or the
+giving of an indemnity by certain creditors; or
+
+(c) expenses in relation to which a creditor has indemnified a liquidator have
+been recovered,
+
+the Court may make such order as it thinks just with respect to the
+distribution of those assets and the amount of those expenses so recovered,
+with a view to giving those creditors an advantage over others in
+consideration of the risks run by those creditors in giving those indemnities
+or paying those moneys.
+
+(2) Any creditor may apply to the Court for an order under subsection (3)
+prior to —
+
+(a) giving an indemnity for costs of litigation for recovering any assets;
+
+(b) paying any moneys or giving an indemnity to protect or preserve any
+assets; or
+
+(c) indemnifying a liquidator in relation to the liquidator’s expenses.
+
+(3) On an application by a creditor under subsection (2), the Court may, for
+the purpose of giving the creditor an advantage over others in consideration
+of the risks to be run by that creditor in giving the indemnity or payment for
+the purposes mentioned in that subsection, grant an order with respect to the
+distribution of —
+
+(a) the assets mentioned in subsection (2)(a) that may be successfully
+recovered;
+
+(b) the assets mentioned in subsection (2)(b) that may be successfully
+protected or preserved; or
+
+(c) the amount of expenses mentioned in subsection (2)(c) that may be
+successfully recovered.
+
+9 Section 204(1) of the IRDA is similar to s 328(10) of the Companies Act (Cap
+50, 2006 Rev Ed), which has since been repealed by the IRDA. However, ss
+204(2) and 204(3) of the IRDA are new. As the High Court noted in Song Jianbo
+v Sunmax Global Capital Fund 1 Pte Ltd (in compulsory liquidation [2022] SGHC
+312 (“Song Jianbo”) at [12]:
+
+As can be observed, the main difference between s 204 of the IRDA and s 328(1)
+of the Companies Act is that the latter only provided for retrospective
+orders, in the sense that the court may make a relevant order only after the
+relevant assets had been recovered, protected, or preserved, or after the
+relevant expenses had been recovered. In contrast, s 204(2) of the IRDA now
+allows the court to make, in addition to retrospective orders, prospective
+orders prior to the giving of an indemnity by a creditor. This means that a
+court can make a relevant order before the relevant assets have been
+recovered, protected, or preserved, or before the relevant expenses have been
+recovered. …
+
+[emphasis in original]
+
+Factors to be considered under s 204(3) of the IRDA
+
+10 In Song Jianbo, the court set out the following general non-exhaustive list
+of factors to be considered in the grant of a prospective order under s 204(3)
+of the IRDA (at [23]):
+
+(a) the complexity and necessity of the proceedings in respect of which the
+funding or indemnity is given;
+
+(b) the extent of the funding or indemnity to be provided, and the level of
+risk to be undertaken and the costs to be borne by the funding creditor;
+
+(c) the failure of other creditors to provide funding or indemnity and whether
+the other creditors were given the opportunity to do so;
+
+(d) the emergence of other creditors between the making of the order and the
+date of a distribution under the order to the funding creditor;
+
+(e) the public interest in encouraging creditors to provide funding or
+indemnity to enable assets to be recovered; and
+
+(f) the presence or absence of any objections from the other creditors, the
+liquidator, or the Official Assignee.
+
+11 With respect to factor (a), it is not clear that much can be said about the
+necessity of the intended proceedings. After all, the reason why the funding
+or indemnity is required in the first place is that the proceedings are
+necessary to recover moneys or assets due to the Company. As for the
+complexity of the proceedings, its relevance is that it is a good indication
+of the level of risk assumed by the funding creditor (which is dealt with
+under factor (b)). In general, the more complex the proceedings, the higher
+the risk.
+
+12 Factor (b), ie, the extent of the funding or indemnity and the level of
+risk, is relevant to the question of the degree or extent of the advantage
+that the court should give to the funding creditor. This is clear from s
+204(3) of the IRDA which refers to “giving the creditor an advantage over
+others in consideration of the risks to be run by that creditor” [emphasis
+added].
+
+13 The court in Song Jianbo did not elaborate on factor (d) above, ie, the
+emergence of other creditors after the making of the order. It is not clear
+how this factor should be applied since it refers to matters arising after the
+order has been made. In my view, this should not be a factor to be considered
+when the court is making a prospective order under s 204(3) of the IRDA.
+
+14 As for factor (e), ie, the public interest in encouraging creditors to
+provide funding or indemnity, it seems to me that this merely explains the
+rationale behind s 204(3) of the IRDA.
+
+15 In Song Jianbo, the court also decided (at [61]) that notwithstanding the
+order granted under s 204(3) of the IRDA, other creditors who may be
+prejudiced by the order should be given an opportunity to bring an appropriate
+challenge. However, in the present case, I agreed with the applicants that an
+order under s 204(3) of the IRDA should not be subject to such a term.
+
+16 Section 204(2) of the IRDA was enacted to permit prospective orders because
+it was recognised that otherwise, at the point of providing the funds, the
+funding creditors would have no assurance that the court would make an order
+giving them an advantage over other creditors (see Report of the Insolvency
+Law Review Committee: Final Report (Chair: Lee Eng Beng SC) (2013) at p 74;
+Singapore Parliamentary Debates, Official Report (1 October 2018) vol 94 (Mr
+Edwin Tong Chun Fai, Senior Minister of State for Law)). Creditors would be
+less willing to provide the necessary funding or indemnity without any such
+assurance and, as the court recognised in Song Jianbo (at [16]), it is in the
+public interest to encourage creditors to provide funding or indemnity to
+enable assets to be recovered. Making an order under s 204(3) of the IRDA
+subject to the possibility of subsequent challenges by other creditors would
+be inconsistent with the purpose of the prospective order and unfair to the
+funding creditor.
+
+17 Another factor to be considered is whether the proposed funding or
+indemnity requires the liquidator to cede control over the intended
+proceedings to the funding creditor: see, also, Song Jianbo at [60(a)]. The
+liquidator should retain control over the intended proceedings. Such control
+addresses the public policy concerns about the administration of justice: see
+Lavrentiadis, Lavrentios v Dextra Partners Pte Ltd (in liquidation) and
+another matter [2023] SGHC 131 (“Lavrentiadis”) at [30]. It is not necessary
+for the liquidator to have complete control of every single aspect of the
+legal proceedings; it would be reasonable for the funding creditor’s consent
+to be required with respect to the choice of solicitors, or any settlement or
+discontinuance of the proceedings: Lavrentiadis at [30].
+
+18 In summary, in my view, the non-exhaustive factors to be considered in the
+grant of a prospective order under s 204(3) of the IRDA are as follows:
+
+(a) Whether the advantage to be given to the funding creditor is reasonable,
+taking into account the funding or indemnity to be provided and the level of
+risk to be undertaken. The complexity of the intended proceedings is a
+relevant factor in assessing the level of risk to be undertaken.
+
+(b) Whether the other creditors were given the opportunity to provide the
+funding or indemnity.
+
+(c) Whether there are any objections from the other creditors, the liquidator
+or the Official Assignee. It is unlikely though that there would be objections
+from the liquidator since any proposed funding or indemnity would have been
+negotiated and agreed upon with the liquidator first.
+
+(d) Whether the liquidator retains control over the intended proceedings.
+
+My decision on the application
+
+19 I granted the application and made an order under s 204(3) of the IRDA
+giving the applicants an advantage over other creditors on the terms set out
+in the Funding Agreement for the following reasons:
+
+(a) The advantage to be given to the applicants (see [6] above) was reasonable
+given the risk that the applicants would be undertaking. Clearly, there was no
+certainty of recovery.
+
+(b) The other creditors were given the opportunity to provide funding or
+indemnity but had declined to do so.
+
+(c) There were no objections from the other creditors, the Liquidator or the
+Official Assignee.
+
+(d) The Liquidator would retain full control of any legal proceedings brought
+by the Company.
+
+Chua Lee Ming  
+Judge of the High Court|  
+---|---  
+  
+Baldev Singh Bhinder and Vaybhav Kumar Sharma s/o Thakor Prasad Sharma
+(BlackStone & Gold LLC) for the first applicant;
+
+Jamal Siddique Peer and Suresh Viswanath (Shook Lin & Bok LLP) for the second
+applicant;
+
+Muhammad Imran Bin Abdul Rahim and Kuek Zihui (Eldan Law LLP) for the
+respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 07 Sep 2023 (12:19 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

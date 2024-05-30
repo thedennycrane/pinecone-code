@@ -1,0 +1,1828 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 2
+
+Suit No 754 of 2020
+
+Between
+
+| Gravitas International Associates Pte Ltd  
+---|---  
+  
+And
+
+| Invictus Group Pte Ltd  
+---|---  
+  
+Judgment
+
+[Choses in Action] — [Assignment] — [Bare right to litigate] — [Maintenance
+and champerty]
+
+[Choses in Action] — [Assignment] — [Contracts of employment]
+
+[Choses in Action] — [Assignment] — [Non-assignment clauses] — [Effect]
+
+[Choses in Action] — [Assignment] — [Non-assignment clauses] —
+[Interpretation]
+
+[Contract] — [Breach]
+
+[Contract] — [Personal contracts] — [Assignability]
+
+[Tort] — [Inducement of breach of contract] — [Contract of service]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Gravitas International Associates Pte Ltd
+
+  
+v
+
+  
+
+Invictus Group Pte Ltd
+
+[2022] SGHC 2
+
+General Division of the High Court — Suit No 754 of 2020  
+Lee Seiu Kin J  
+10–12 August, 8 October 2021
+
+7 January 2022 Judgment reserved.
+
+Lee Seiu Kin J:
+
+Introduction
+
+1 The Plaintiff brings two causes of action against the Defendant. The first
+is contractual, and stems from a contract, executed on 8 February 2018, for
+the provision of consultancy services relating to an initial coin offering
+(“ICO”) (the “Contract”). Briefly, ICOs are a means of raising funds by
+offering to the public, cryptocurrency tokens. In some ways, an ICO is
+analogous to an initial public offering of shares, and for present purposes,
+it is adequate to think of such ICO-related consultancy services as being
+loosely comparable to some of the work a capital markets practice team might
+do, or engage third parties to do.
+
+2 The consultant who provided these services was one Gravitas Holdings Pte Ltd
+(“GHPL”). The Defendant, Invictus Group Pte Ltd, was the recipient of GHPL’s
+services; it is in the business of providing an e-platform for businesses to
+engage in business-to-business transactions. Before going further, however, I
+must call to attention that GHPL is not the Plaintiff in this matter. The
+Plaintiff, Gravitas International Associates Pte Ltd, purports – by virtue of
+a deed of assignment (the “Deed”) – to be the proper plaintiff on the grounds
+that it is the assignee of all of GHPL’s “rights, benefits, interests, claims
+and titles” 1
+
+##### Foot Note 1
+
+×
+
+Malcolm Tan Chun Chuen’s Affidavit of Evidence-in-Chief (“PAEIC”) at p 25.
+
+under the Contract. I will address the Plaintiff’s locus standi to bring this
+claim at [11]–[48] below. For now, I return to the outline of the claims and
+defences.
+
+3 The Plaintiff’s contractual claim, mounted on the basis of the Contract,
+comprises two parts. First, a claim for unpaid fees for services which it
+avers has been rendered by GHPL. This allegedly totals US$184,750. 2
+
+##### Foot Note 2
+
+×
+
+Statement of Claim (17 Aug 2020) (“SOC”) at paras 19.1–19.2 and 21.1–21.2.
+
+Second, a claim for damages which it avers GHPL suffered as a result of the
+Defendant’s repudiatory breach of the Contract. By this claim for damages, the
+Plaintiff seeks to recover lost profits, ie, sums it claims GHPL would have
+earned had the Defendant not committed repudiatory breaches of the Contract.
+
+4 The Plaintiff’s second claim is in tort, and lies against the Defendant for
+its alleged inducement of breach of contract; for this alleged wrong, the
+Plaintiff prays for an order for damages to be assessed. 3
+
+##### Foot Note 3
+
+×
+
+SOC at paras 19.5 and 21.4.
+
+The breached contract in question was a contract of employment entered between
+GHPL and one Stefano Virgilli (“Mr Virgilli”) (the “Employment Contract”). On
+the Plaintiff’s account, Mr Virgilli was an employee of GHPL and, in that
+capacity, had performed work on behalf of the Plaintiff for the Defendant
+pursuant to the Contract. In the course of working with Mr Virgilli, the
+Plaintiff avers, the Defendant caused him to breach his Employment Contract
+with GHPL “by entering into a service or consultancy agreement with [him]
+sometime in March 2018”. 4
+
+##### Foot Note 4
+
+×
+
+SOC at para 10.
+
+As a consequence, Mr Virgilli refused thereafter to work for GHPL. 5
+
+##### Foot Note 5
+
+×
+
+SOC at para 11.
+
+5 Two pertinent points arise in respect of this action. First, again, by the
+above-mentioned Deed, the Plaintiff claims to be the assignee of all of GHPL’s
+“rights, benefits, interests, claims and titles” as arising from the
+Employment Contract. 6
+
+##### Foot Note 6
+
+×
+
+PAEIC at p 25.
+
+Thus, it also asserts that it is the proper party in this tortious action.
+Second, the Plaintiff brought a separate suit against Mr Virgilli in respect
+of disputes stemming from the Employment Contract. Kwek Mean Luck JC has
+rendered judgment on that matter (see Gravitas International Associates Pte
+Ltd v Stefano Virgilli HC/S 755/2020 (22 July 2021) (General Division of the
+High Court) (“Gravitas International v Virgilli”)), and where necessary, I
+will refer to his decision insofar as it bears on the case before me.
+
+6 The Defendant’s responses to these claims are relatively straightforward. In
+respect of both, the Defendant’s overarching case is that the Plaintiff simply
+is not the proper party. As regards the former, the Defendant avers that the
+contract between it and GHPL was not validly assigned. 7
+
+##### Foot Note 7
+
+×
+
+Defence (10 Mar 2021) (“Defence”) at paras 4 and 18.
+
+For this, it relies on a clause in the Contract which provides that neither it
+nor GHPL may assign their rights thereunder “without the prior consent” of the
+other. 8
+
+##### Foot Note 8
+
+×
+
+PAEIC at pp 40–41, cl 8.3.
+
+It is not disputed that GHPL did not even seek such prior consent. 9
+
+##### Foot Note 9
+
+×
+
+Notes of Evidence (“NEs”) 10 Aug 2021 at p 13, lines 1–6.
+
+In relation to the tortious claim, the Defendant simply asserts without
+particularity that – even if the tort is found to have been committed – the
+loss would have been suffered by GHPL, not the Plaintiff. 10
+
+##### Foot Note 10
+
+×
+
+Defence at para 13(c).
+
+7 I turn then to the substantive defences on the facts. As regards the claim
+for unpaid fees, the Defendant’s case is that GHPL did not perform the work
+the Plaintiff claims it did. 11
+
+##### Foot Note 11
+
+×
+
+Defence at para 16.
+
+This is the starting point of the Defendant’s case and the Plaintiff must
+therefore prove that the work in respect of which it claims unpaid fees as an
+assignee, was performed. It also advances certain positive defences, but I
+will address these, if necessary, in due course. This brings me to the defence
+to the claim in tort for inducing Mr Virgilli’s breach of the Employment
+Contract with GHPL. On this action, the Defendant simply refutes having
+knowledge of the legal relationship between Mr Virgilli and GHPL. 12
+
+##### Foot Note 12
+
+×
+
+Defence at para 13(a).
+
+8 I heard the parties’ evidence in August 2021 in support of their respective
+cases outlined above. They each put forth one factual witness. Malcolm Tan
+Chun Chuen (“Mr Tan”), who was a director of GHPL during the material period,
+and who is presently a director of the Plaintiff, 13
+
+##### Foot Note 13
+
+×
+
+PAEIC at para 1.
+
+gave evidence for the Plaintiff. The Defendant’s sole witness, Lam Choong See
+(“Mr Lam”), is its sole director and chief executive officer. 14
+
+##### Foot Note 14
+
+×
+
+Lam Choong See’s AEIC (“DAEIC”) at para 1.
+
+On 24 September and 8 October 2021 respectively, the parties tendered their
+written closing and reply submissions. I did not hear further oral
+submissions. After considering all the material put before me, I have decided
+to dismiss the claims. I now give the reasons for my decision, beginning with
+the preliminary issue of whether the Plaintiff even has standing. Although, as
+I will explain, the Plaintiff has not satisfied me that it has the requisite
+standing to bring the two claims it has, in the event I have erred in law, I
+will nevertheless consider the facts on the basis that the Plaintiff has
+standing. On this alternative, I have found that the Plaintiff’s claims also
+fail on the facts.
+
+Preliminary issue: Locus standi of the Plaintiff
+
+9 As stated at [2] and [4] above, in respect of both causes of action brought
+by the Plaintiff, it purports to have standing to sue the Defendant by virtue
+of the above-mentioned Deed. This Deed was executed on 24 April 2020, and its
+key, operative terms are as follows: 15
+
+##### Foot Note 15
+
+×
+
+PAEIC at pp 25–33, cll 1.1 and 1.2.
+
+THIS DEED OF ASSIGNMENT (the “Deed”) is made on the 24th day of April 2020.
+
+BETWEEN
+
+GRAVITAS HOLDINGS (PTE.) LIMITED …
+
+AND
+
+GRAVITAS INTERNATIONAL ASSOCIATES PTE. LTD. …
+
+WHEREAS
+
+A. The Assignor is desirous of assigning to the Assignee all rights, benefits,
+title and interest of all claims, suits and proceedings of the Assignor and
+all contracts and/or agreements more specifically stated hereinafter upon the
+terms and conditions herein contained.
+
+1\. ASSIGNMENT
+
+With effect from the date herein, the Assignor hereby absolutely transfers and
+assigns to the Assignee, all of its rights, benefits, interests, claims and
+titles to
+
+1.1 whether arising directly and indirectly from, in and under:
+
+(a) the Employment Agreement between the Assignor and Stefano Virgilli
+commencing 23 February 2018 (including collateral contracts of the same, if
+any);
+
+(b) the Consultancy/Advisory Agreement between the Assignor and Invictus Group
+Pte Ltd dated 8 Februar 2018; and
+
+…
+
+1.2 all choses of action, rights, demands and claims of the Assignor against
+third parties, including but not limited to, all the counter-parties in the
+agreements stated in Clause 1.1 above.
+
+10 It is clear from the broad language of cll 1.1 and 1.2 that GHPL intended
+to assign everything it could to the Plaintiff. However, therein lies the
+difficulty which the Plaintiff faces. Whether GHPL could assign the rights
+which are being enforced in this suit turns not on this Deed, but the terms of
+the Contract and the Employment Contract, respectively. I therefore address
+them in turn.
+
+Validity of the assignment of the Contract
+
+The non-assignment clause in this case
+
+11 The Defendant disputes the Plaintiff’s standing on the grounds that the
+Contract contained a qualified non-assignment clause. Clause 8.3 provides:
+
+Neither Party may assign any of its rights under this Agreement without the
+prior consent of the other Party, which shall not be unreasonably withheld;
+provided. This Agreement shall apply to, be binding in all respects upon, and
+inure to the benefit of the successors and permitted assigns of the Parties.
+
+[Emphasis added]
+
+12 I note from the outset that this clause is poorly drafted. It is unclear
+what was to follow the word “provided” at the end of the first sentence.
+“Provided” is a conjunction which precedes a qualification of the clause
+before it. For example, “which shall not be withheld unreasonably; provided
+the assigning Party gives at least two weeks’ notice of its intention to
+assign”. Here however, the second sentence does not add any qualification to
+the first. Therefore, it is likely that the inclusion of “provided” was simply
+a typological error. This is the most plausible account of why it even appears
+in cl 8.3.
+
+13 Clauses which prohibit assignment are common in boilerplate contracts,
+especially consultancy contracts which involve some degree of personalisation
+in the services to be rendered thereunder. What likely happened here is that
+the drafters of the Contract found a boilerplate non-assignment clause,
+intended to remove some qualification to the first sentence, but somehow
+failed to complete this rather simple task. I invited parties to put forth the
+original boilerplate clause, but they were unable to assist me. 16
+
+##### Foot Note 16
+
+×
+
+NEs 10 Aug 2021 at p 14, line 15 to p 15, line 20.
+
+I will therefore approach cl 8.3 as if the word “provided” was not there.
+
+14 However, before examining the consequence of this clause in particular, it
+is necessary to explain the nature of non-assignment clauses generally, how to
+analyse them, and the potential consequences they may have.
+
+The effect of non-assignment clauses: A matter of interpretation
+
+15 The leading case on this topic is the House of Lords’ decision in Linden
+Gardens Trust Ltd v Lenesta Sludge Disposals Ltd and another appeal [1994] 1
+AC 85 (“Linden Gardens”). Lord Browne-Wilkinson, who gave the reasoning of the
+court, accepted that the consequence of a non-assignment clause depends on the
+construction of the contract (at 104D–105D). In considering the possible
+constructions, he referred to a case note by Professor Roy Goode on Helstan
+Securities Ltd v Hertfordshire County Council [1978] 3 All ER 262 (“Helstan
+Securities”): “Inalienable Rights?” (1979) 42(5) MLR 553–557. Professor
+Goode’s analysis of the facts of Helstan Securities is not relevant for
+present purposes. What was significant was his astute observation that non-
+assignment clauses are “capable of at least four alternative interpretations”
+(at 554).
+
+16 First, as a personal undertaking not to assign, the breach of which gives
+rise to a claim for damages. Second, as precluding, and thus invalidating the
+assignment of rights to performance under the contract. Third, as precluding,
+and thus invalidating not only the assignment of rights to performance but
+also any fruits of performance. Last, as a condition of the contract, the
+breach of which is repudiatory. Lord Browne-Wilkinson accepted this
+classification and added that, although not a possibility considered by
+Professor Goode, it is hypothetically possible for a non-assignment clause to
+invalidate the assignment of rights to future performance in a subsisting
+contract, but not the fruits which have already accrued for performance
+rendered (at 105). This would fall somewhere between the second and third
+categories.
+
+17 For completeness, I note that the approach which their Lordships took
+towards non-assignment clauses in Linden Gardens has been accepted in
+Singapore, though not yet by the Court of Appeal. In Total English Learning
+Global Pte Ltd v Kids Counsel Pte Ltd [2014] SGHC 258 (“Total English”), Tay
+Yong Kwang J (as he then was) remarked, “Although [counsel] urged me to depart
+from the English position set out in Linden Gardens v Lenesta, there was no
+reason to suggest why the legal reasoning adopted therein would be
+inapplicable to the local context” (at [64]). In Arris Solutions, Inc v Asian
+Broadcasting Network (M) Sdn Bhd [2017] 4 SLR 1 (“Arris Solutions”), after
+noting that Linden Gardens had been applied in Total English, Simon Thorley
+IJ, delivering the decision of the Singapore International Commercial Court,
+stated the law as follows: “Linden Gardens stands for the rule that where
+there is a contractual prohibition on assignment without prior consent, a
+purported assignment executed without obtaining such consent will be only
+effective as between the assignor and assignee, but will not bind the other
+contracting party, whose rights and obligations will remain to the assignor”
+(at [20]). The assignment in question was one between the first and third
+plaintiff, and the court, having found that the defendant’s prior written
+consent had not been sought for the third plaintiff’s assignment to the first
+plaintiff, entered judgment for the third (see [25] and [44]).
+
+18 The clause in Arris Solutions was drafted as follows: “Neither party shall
+be entitled to assign, transfer, and/or subcontract any of its rights and
+obligations under this Agreement without the prior written consent of the
+other Party, such consent not to be unnecessarily withheld or delayed”
+[emphasis added] (at [5]). The phrase “shall not be entitled” does seem to
+preclude assignability at a more fundamental level (ie, the second or third of
+Professor Goode’s categories: see [16] above), rather than merely operating,
+for example, as a personal undertaking not to assign (ie, the first of
+Professor Goode’s categories). That being said, I should qualify that I am not
+expressing a general view that the use of a certain phrase or word will carry
+a definite legal effect. The rules of contractual interpretation are well-
+known and very often, a great deal turns on legal and factual context of the
+case. Indeed, beyond having to determine whether the terms of the non-
+assignment clause should be understood as a restriction on the very
+alienability of the chose in action itself, the types of choses in action to
+which the clause applies must also be determined. For example, the non-
+assignment clause may only prohibit the assignment of rights to performance;
+it may do so in respect of both rights to performance as well as rights to
+accrued fruits; it may even be read as prohibiting the assignment future
+fruits; and so on.
+
+19 Consider the following example. The non-assignment clause in Linden Gardens
+itself provided that “the employer shall not without the written consent of
+the contractor assign this contract” [emphasis added] (at 99). It seems that
+the academic commentators, Ying Khai Liew, Guest on Assignments (Sweet &
+Maxwell, 4th Ed, 2021) (“Guest”) at para 4-03, Marcus Smith and Nico Leslie,
+The Law of Assignments (OUP, 3rd Ed, 2018) (“Smith and Leslie”) at para 25.05,
+and Gregory J Tolhurst, The Assignment of Contractual Rights (Hart Publishing,
+2nd Ed, 2016) (“Tolhurst”) at 269–270, would interpret “shall not assign” as a
+promise or personal undertaking not to assign, rather than a preclusion of the
+power to assign. From the point of view of the plain meaning of those words, I
+tend to agree. It seems to me that the phrase “shall not assign” connotes a
+sense of obligation. It does not obviously speak to the character or
+attributes of the property, ie, the chose in action itself. In fact, if one
+examines the arguments in Linden Gardens closely, it will be seen that counsel
+for Linden Gardens (an assignee), John Dyson QC (who would later become Lord
+Dyson), made a similar submission. He sought to distinguish the phrase “shall
+not assign” from firmer expressions such as “unassignable” and “non-
+transferable” (Linden Gardens at 90–91), which more clearly went towards the
+alienability of the chose in action.
+
+20 Yet, the House unanimously agreed with the decision of Lord Browne-
+Wilkinson, who took the view that, on a true construction of the clause, its
+effect was to prohibit and thus invalidate non-compliant assignments (Linden
+Gardens at 105). The brief facts of the first case in Linden Garden, which
+comprised two appeals, were as follows. The employer company was the lessee of
+a property. The contractor had been engaged to remove asbestos from these
+premises. After the works were completed, the employer found more asbestos
+which should have been removed. Subsequently, the employer assigned its
+leasehold interest to the plaintiff, and thereafter, brought an action against
+the contractor for damages. After the commencement of this action, the
+employer purported to assign to the plaintiff, without seeking the
+contractor’s written consent, its rights of action in the claim for damages.
+At first instance, the judge found that the assignment was invalid. In the
+Court of Appeal, the majority, comprising Nourse LJ and Sir Michael Kerr,
+overturned this decision (see (1992) 57 Build LR 57). They took the view that
+the non-assignment clause in question (see [19] above) permitted the
+assignment of rights to fruits arising from the contract, though it prohibited
+assignments (without written consent) of the right to require future
+performance. Thus, since the right of action to sue the contractor was a right
+to fruits, it could be validly assigned without consent.
+
+21 The House of Lords rejected this distinction, and in arriving at this
+conclusion, they took considerable notice of the particular contractual
+context in which the clause appeared. Lord Browne-Wilkinson noted that, in
+building contracts, claims for the price are often met with cross-claims for
+defective performance. This being the case, if an assignee receives a right of
+action for defective performance, but the assignor remains liable for the
+price (to the contractor), his Lordship queried whether the assignor would
+still be able to abate payment of the price on the basis of defective
+performance, or whether the assignee would need to be joined in the
+proceedings. In light of these questions, he eventually concluded that the
+parties are unlikely to have intended such a “confused” state of affairs (at
+105):
+
+In the context of a complicated building contract, I find it impossible to
+construe clause 17 as prohibiting only the assignment of rights to future
+performance, leaving each party free to assign the fruits of the contract. The
+reason for including the contractual prohibition viewed from the contractor's
+point of view must be that the contractor wishes to ensure that he deals, and
+deals only, with the particular employer with whom he has chosen to enter into
+a contract. Building contracts are pregnant with disputes: some employers are
+much more reasonable than others in dealing with such disputes. The disputes
+frequently arise in the context of the contractor suing for the price and
+being met by a claim for abatement of the price or cross-claims founded on an
+allegation that the performance of the contract has been defective. Say that,
+before the final instalment of the price has been paid, the employer has
+assigned the benefits under the contract to a third party, there being at the
+time existing rights of action for defective work. On the Court of Appeal's
+view, those rights of action would have vested in the assignee. Would the
+original employer be entitled to an abatement of the price, even though the
+cross-claims would be vested in the assignee? If so, would the assignee be a
+necessary party to any settlement or litigation of the claims for defective
+work, thereby requiring the contractor to deal with two parties (one not of
+his choice) in order to recover the price for the works from the employer? I
+cannot believe that the parties ever intended to permit such a confused
+position to arise.
+
+[Emphasis added]
+
+22 I would, with great respect to the English Court of Appeal, agree with his
+Lordship. The distinction which Nourse LJ and Sir Michael Kerr sought to draw
+on the uncomplicated terms of the actual non-assignment clause (“shall not…
+assign this contract”), seems to me rather forced. On my part, I would press
+for a reminder to return to the beginning of Lord Browne-Wilkinson’s speech.
+He stated there that determining the effect of a non-assignment clause is, at
+its core, a question of construction. It is, as such, important to approach
+the issue by asking what the parties might objectively have intended by the
+clause, starting with its text as the “first port of call” (Lucky Realty Co
+Pte Ltd v HSBC Trustee (Singapore) Ltd [2016] 1 SLR 1069 at [2], where the
+Court of Appeal reiterated the importance of starting with the text of any
+contract).
+
+23 I will simply add that this question of interpretation should be a focused
+one, chiefly directed at asking two successive questions. First, whether the
+terms of the non-assignment clause suggest that parties intended for the very
+alienability of the right to be restricted. Second, still referring to the
+terms of the clause, what type of rights does it appear to capture (ie, rights
+to performance, rights to present or future fruits, or combinations thereof).
+The formulation of these two questions, in this manner, is nothing novel. It
+is derived from Professor Goode’s observations on the possible interpretations
+which can be applied to a non-assignment clause. By breaking the inquiry down
+into two parts, which in any event, appeared to me to address distinct issues,
+it is hoped that the question of interpretation is slightly more manageable.
+
+24 Having said the above, I am mindful that the technical complexities in this
+area of law, ie, the assignability of choses in action, make for a rather
+stark mismatch between the boilerplate reality of contract drafting and the
+underlying legal principles (as we see in this case: see [11]–[13] above).
+This will likely entail some difficulty in the search for what parties
+objectively “intended”, and it is somewhat exacerbated by the fact, as I
+observed at [19]–[20] above, that there is genuine room for disagreement as to
+the consequence of even the most basic phrases, such as “shall not assign” in
+Linden Gardens. In my view, however, this is not an issue which can or should
+be resolved by the proposal of a grand conceptual scheme in a single decision.
+I have, in the paragraphs above, set out a general approach towards answering
+the question: “does this non-assignment clause prohibit this assignment”. As
+much turns on the specific text of the clause, the factual background of the
+case, as well as the relevant contractual context, there is little more that
+can be said by way of general guidance.
+
+Interpretation of the non-assignment clause in this case
+
+25 With all of the above in mind, in particular, the questions posed at [23]
+above, there are two parts of cl 8.3 of the Contract (see [11] above) which
+call for interpretation. First, “Neither Party may assign”; and second, “any
+of its rights under this Agreement”.
+
+26 The phrase “Neither Party may assign” is equivalent to the phrase “The
+Parties may not assign”. Where the parties are all known, there is no
+difference between saying all of them “may not” do something, and none of them
+“may” do that thing. Both carry the same meaning. Hence, as it is less
+cumbersome, I will interpret the phrase “may not”.
+
+27 In my view, “may not” suggests that cl 8.3 operates as a curtailment of the
+power of the parties to assign. To use the language of my own formulated
+question at [23] above, the phrase “may not” appears to me to affect the very
+alienability of the chose in action in question. The requirement of consent
+thus takes effect as a condition-precedent to a valid assignment. Such a view
+of the phrase “may not” is also taken by Professor Tolhurst in his text
+dedicated to the subject: see Tolhurst at 270. Admittedly, the phrase “may
+not” does not convey as strong a prohibition as the non-assignment clauses in
+certain other cases which have also reached this conclusion (cross-reference
+Arris Solutions at [18] above; also see Hendry v Chartsearch Ltd [1998] CLC
+1382 (“Hendry v Chartsearch”) where, like Arris Solutions, the phrase “shall
+not be entitled to assign” was also used in the non-assignment clause).
+Indeed, it would not be unfair to query the difference between “shall not” –
+which Guest, Smith and Leslie, and Tolhurst would read as a promise not to
+assign – and “may not”, which as stated, Tolhurst suggests likely invalidates
+an assignment.
+
+28 The answer seems to lie in the linguistic differences between “shall” and
+“may”. When we say one “shall” do something, that is an obligation to act (as
+I suggested at [19] above); conversely, when one “shall not” do something,
+that is an obligation to abstain. Hence, if a person acts in contravention of
+a clause expressed in those terms, it would connote a breach of contract.
+However, when we say one “may” do something, that permits or empowers that
+individual to perform the act but does not oblige him to do so. By the phrase
+“may not”, we forbid the doing of the act, or deprive him of any power to
+perform that act. This has connotations of invalidity of the act rather than
+the breach of an obligation. This generally intuitive distinction between the
+meaning of the terms is, in my view, sufficient to explain the difference
+between “shall not” and “may not”, and therefore their differing legal
+consequences in relation to non-assignment clauses. That said, I am conscious
+that this distinction cannot be pushed too far. The context of the clause may
+have a greater effect on the interpretation than the natural meaning of those
+words, and in light of the outcome in Linden Gardens, it is not unarguable to
+say that when a person “shall not” do something, he is deprived of the power
+to do that specific act, rather than being under a mere obligation to abstain
+from doing it.
+
+29 This, however, does not pose a problem to my analysis. Indeed, the fact
+that the language of “shall not” can quite comfortably accommodate both the
+concepts of a duty as well as a restriction on one’s power is probably a
+useful way to reconcile the academic views of the phrase “shall not” with the
+actual decision in Linden Gardens as I set out at [21] above. Furthermore, the
+force of this explanation seems supported by the fact that such re-
+characterisation cannot be so easily applied to the phrase “may not”. That is,
+recasting the phrase “may not” as an obligation to abstain seems to attract
+much greater dissonance between the language and the proposed concept.
+Obligations in contract are supposed to be, at least generally, sharp and
+defined; one either must or must not do a thing. The language of “may” and
+“may not” can, but does not comfortably encapsulate this. If, for example, in
+a contract for the sale of goods, I am only able to receive delivery on a
+specified day, and I contract with the seller for this, it is awkward to
+achieve this by stating in the contract that the seller “may not” deliver on
+any day other than my specified day. Conversely, saying he “may” deliver on
+that day does not create the obligation I wish to impose. Of course, we could
+say that he “may only” make delivery on that day, but the operative obligation
+is then not created by the word “may” but rather the word “only”.
+
+30 I do not mean to say that it is not possible for the language of “may” and
+“may not” to be recast in this way. My point is that doing so creates
+disjunction between the usual understanding of the terms and the underlying
+legal concepts. Thus, just as the difference in academic commentary and the
+outcome of Linden Gardens can be explained by the relative ease with which the
+phrase “shall not” can be re-characterised as a strict prohibition, I would
+suggest that the lack of ease in applying the same treatment to the phrase
+“may not” can be said to be a reasoned explanation of Professor Tolhurst’s
+seemingly intuitive suggestion that, “Provisions stating that a party ‘may
+not’ assign probably also fall within [the group of clauses drafted to negate
+the power to assign]” (Tolhurst at 270).
+
+31 I turn then to the second phrase in cl 8.3 requiring interpretation: “any
+of its rights under this Agreement”. In my view, this should include all
+choses in action arising from the Contract. As suggested at [22] above, the
+first port of call is to look at the language of the provision. Nothing about
+the phrase “rights under this Agreement” suggest that the parties intended to
+distinguish between rights of performance, which are irrelevant in this suit,
+and rights to fruits, which are relevant. In fact, to the contrary, the rather
+poor drafting of cl 8.3 I highlighted at [11]–[12] above indicates that the
+parties probably did not have such a specific, legally precise intention upon
+entering the Contract.
+
+32 I therefore find that the legal consequence of non-compliance with the
+terms of cl 8.3, specifically, failing to seek the “prior consent of the other
+Party”, is that the purported assignment will be invalid. On this basis, I
+turn to consider GHPL’s purported assignment of its “rights, benefits,
+interests, claims and titles” under the Contract to the Plaintiff.
+
+The effect of failing to seek prior consent as required
+
+33 As stated at [6] above, it is not disputed that no prior consent was
+sought. In fact, the purported assignment – effected on 24 April 2020 – was
+only brought to the Defendant’s attention on 13 August 2020, by a letter from
+Malcolm Tan Chambers LLC. 17
+
+##### Foot Note 17
+
+×
+
+DAEIC at p 235.
+
+It is salient to note that the content of this letter was that of a notice; it
+did not request that the Defendant provide its consent to the assignment. 18
+
+##### Foot Note 18
+
+×
+
+DAEIC at p 235, para 3.
+
+Further, the entity for whom Malcolm Tan Chambers LLC was acting was the
+Plaintiff, 19
+
+##### Foot Note 19
+
+×
+
+DAEIC at p 235, para 1.
+
+not GHPL.
+
+34 Thereafter, on 12 March 2021, Malcolm Tan Chambers LLC sent another letter,
+though this time to the Defendant’s then-counsel, Silvester Legal LLC. The
+letter requested that the Defendant give consent to the assignment by 17 March
+2021, “failing which” – the letter suggests – it would be deemed that such
+consent is given. 20
+
+##### Foot Note 20
+
+×
+
+1PB pp 27–28.
+
+No reply was adduced as evidence, so it is unclear if there was any. 21
+
+##### Foot Note 21
+
+×
+
+NEs 11 Aug 2021 at p 112, line 10 to p 114, line 31.
+
+Finally, on 28 July 2021, the Plaintiff’s new solicitors, Magna Law LLC sent a
+further letter directly to the Defendant, again requesting that they provide
+consent to the assignment. 22
+
+##### Foot Note 22
+
+×
+
+Plaintiff’s Bundle of Documents (“1PB”) at pp 25–26.
+
+Again, no reply was adduced.
+
+35 The Plaintiff relies on these letters to make the claim that, even if there
+were procedural defects in the assignment, they have been cured. The
+difficulty I have with this submission, is that the letters were all sent
+after the Deed was executed on 24 April 2020. No subsequent deed was re-
+executed after the letters were issued. If that had been the case, it could at
+least have been argued that the Defendant’s consent was sought, but
+unreasonably refused. It is difficult to say that the Defendant unreasonably
+refused prior consent when such consent had never been requested. Further, the
+letters were not even sent by GHPL, but the Plaintiff. So, they do nothing to
+address the issue of whether the assignor, GHPL, properly sought the prior
+consent of the obligor, its counterparty in the Contract, the Defendant. This
+is what cl 8.3 of the Contract requires (see [11] above), and the letters do
+not demonstrate that this has been satisfied.
+
+36 Given my finding at [32], the letters, however, gives rise to a slightly
+more difficult question, and one which the English Court of Appeal considered,
+obiter, in Hendry v Chartsearch. The non-assignment clause in that case
+provided: “The Client [Defendants] shall not be entitled to assign, licence or
+otherwise transfer the benefit of this Agreement whether in whole or in part
+without the prior written consent of Interface … Interface shall not be
+entitled to assign or otherwise transfer this Agreement in whole or in part or
+to sub-contract any of obligations hereafter without the prior written consent
+of the Client which shall not be unreasonably withheld” [emphasis added] (at
+[8]). The essential facts are straightforward: Interface did not seek consent
+prior to assigning certain rights to the plaintiff, who was alongside his
+wife, the owner of Interface. The plaintiff proceeded to sue for breach of the
+purportedly assigned contracts. The plaintiff also alleged that the defendant
+had induced Interface’s employees to break their contracts of employment. On
+the facts of the case, Evans LJ, delivering the judgment of the court, held
+that, had the defendant been properly asked, it would have been entitled to
+reasonably refuse consent to the assignment. So, the case could be disposed of
+on this basis.
+
+37 However, the court’s factual decision aside, it also mooted the following
+question. Where an assignor does not even ask for consent, contrary to the
+terms of a non-assignment clause, may that assignment nevertheless be
+effective on the grounds that, had the consent of the obligor been sought
+beforehand, it could not in any event have been reasonably withheld? In light
+of his assessment of the facts, Evans LJ found it unnecessary to decide the
+point, and preferred to leave it open (at 1392–1393). He did, however, express
+inclination towards the view that – if consent could not have been
+unreasonably withheld – the assignment could be valid notwithstanding the
+assignor’s failure to even seek prior consent. To understand why he was so
+inclined, we need to examine Millett LJ’s observations.
+
+38 Millett LJ took the view that it is irrelevant whether consent could have
+been unreasonably withheld. In his terms, the matter “is not a proper subject
+of inquiry” (at 1393). To arrive at this view, he started from the premise
+that it is settled law that, if the lessor’s consent is required for an
+assignment, failure to obtain such consent is fatal to any assignment
+attempted by the lessee (at 1394). He cited Barrow v Isaacs & Son [1891] 1 QB
+417 and Eastern Telegraph Co Ltd v Dent [1899] 1 QB 835, and I note that there
+are many more authorities. For decisions following Hendry v Chartsearch, see
+Norwich Union Life Insurance Society v Shopmoor Ltd [1999] 1 WLR 531, passim;
+Greymouth Gas Kaimiro Ltd v GXL Royalties Ltd [2011] 1 NZLR 289 at [10], Young
+J delivering the judgment of the Supreme Court of New Zealand; and Fulham
+Partners LLC v National Australia Bank Ltd [2013] NSWCA 296 (“Fulham
+Partners”) at [38], Basten JA giving the delivering the judgment of the
+Supreme Court of New South Wales.
+
+39 He then goes on to say that, although there are “significant differences”
+between the assignment of an interest in land, and the benefit of a contract,
+these differences do not bear on the validity of an assignment which fails to
+comply with the requirement to seek prior consent. The learned Lord Justice,
+in reasoning this assertion, begins with the observation that, where interests
+in land are concerned, the law finds repugnant and holds void, conditions
+against the alienation of such interests. Yet, even then, the cases (eg, those
+cited above) have established that where a lessee fails to seek consent to
+assign, such consent having been covenanted for, it is “no answer” for him to
+say that no reasonable objection could have been made if consent had been
+sought (at 1394). Thus, in the case of contractual choses in action, where the
+law does not even object to stipulations of inalienability, a fortiori, a
+failure to seek consent should be fatal to the assignment. This reasoning
+essentially builds on that of Lord Browne-Wilkinson in Linden Gardens. There,
+his Lordship held that – unlike interests in land – there is no public policy
+against restricting the alienability of choses (Linden Gardens at 107):
+
+In the face of this authority, the House is being invited to change the law by
+holding that such a prohibition is void as contrary to public policy. For
+myself I can see no good reason for so doing. Nothing was urged in argument as
+showing that such a prohibition was contrary to the public interest beyond the
+fact that such prohibition renders the chose in action inalienable. Certainly
+in the context of rights over land the law does not favour restrictions on
+alienability. But even in relation to land law a prohibition against the
+assignment of a lease is valid. We were not referred to any English case in
+which the courts have had to consider restrictions on the alienation of
+tangible personal property, probably because there are few cases in which
+there would be any desire to restrict such alienation. In the case of real
+property there is a defined and limited supply of the commodity, and it has
+been held contrary to public policy to restrict the free market. But no such
+reason can apply to contractual rights: there is no public need for a market
+in choses in action. A party to a building contract, as I have sought to
+explain, can have a genuine commercial interest in seeking to ensure that he
+is in contractual relations only with a person whom he has selected as the
+other party to the contract. In the circumstances, I can see no policy reason
+why a contractual prohibition on assignment of contractual rights should be
+held contrary to public policy.
+
+[Emphasis added]
+
+40 Henry LJ took the same position as Millett LJ, though he provided an
+additional, more straightforward reason in support (at 1394):
+
+The suggestion that the assignor can validly assign in breach of his contract
+without ever seeking prior consent by asserting that, as such consent could
+not reasonably be refused, so it is unnecessary, seems to me to be a recipe to
+promote uncertainty and speculative litigation. I prefer the simple certainty
+that prior consent never applied for is never withheld or refused (whether
+reasonably or otherwise). The burden of suing should be on the party who
+asserts that he is not obliged to ask for prior consent as his contract
+required him to because it could not reasonably be refused.
+
+[Emphasis added]
+
+41 Returning then to Evans LJ’s view. He does not cast any doubt on the rule
+insofar as leases are concerned. However, he suggests that there is no
+authority which has extended the rule to the assignment of contractual rights,
+and that it “may be arguable that a debtor cannot object to the validity of an
+assignment on the ground that he was not asked for his consent, when he could
+not reasonably have refused it” (at 1392).
+
+42 I can see the intuitive appeal of Evans LJ’s suggestion. After all, if the
+assignment would not have failed had an ostensibly minor procedural step been
+taken, it seems harsh to deny a plaintiff the standing it needs to bring a
+claim, particularly if it is meritorious. This harshness may be amplified
+further in cases where the assignee no longer exists, or is simply
+disinterested in re-effecting a fresh, compliant assignment. However, I do not
+think it is permissible to accept these concerns whilst also purporting to
+follow Linden Gardens. If we start from that position, bearing in mind Total
+English and Arris Solutions insofar as Singapore law is concerned, it is in my
+view difficult to assert on one hand that non-assignment clauses (properly
+interpreted) are effective in invalidating non-compliant assignments, whilst
+also saying on the other that it is permissible for the court to consider the
+hypothetical question posed by Evans LJ.
+
+43 In this regard, I think it useful to refer to the paper of Gregory J
+Tolhurst and JW Carter, “Prohibitions on Assignment: A Choice to be Made”
+(2014) 73(3) CLJ 405–434 (“Tolhurst and Carter”). Here, the learned professors
+consider the two opposing views which have arisen in this area: (a) the
+“property view” – ie, that encapsulated by the judgment of Lord Browne-
+Wilkinson in Linden Gardens; and (b) the “contract view” – ie, that which
+proposes that contracted prohibitions on assignment, no matter how they are
+framed, should operate only in the realm of contract (as promises not to
+assign), and not at the level of property.
+
+44 Preferring the latter view necessarily entails a departure from Linden
+Gardens, for which I am aware there is both judicial and scholarly support. In
+First Abu Dhabi Bank PJSC (Formerly National Bank of Abu Dhabi PJSC) v BP Oil
+International Limited [2018] EWCA Civ 14 (“First Abu Dhabi”), Gloster LJ (with
+whom Lord Briggs and Patten LJ agreed) expressed that, had she not been
+constrained by the authority of Linden Gardens, she would likely have
+preferred the contract view (at [28]), citing an article by Professor Goode
+making the case therefor: “Contractual Prohibitions against Assignment” [2009]
+LMCLQ 300–318. Indeed, I would also regard the decisions of Barbados Trust Co
+Ltd v Bank of Zambia and another [2007] 2 All ER (Comm) 445 and Don King
+Productions Inc v Warren and others [1998] 2 All ER 608 as decisions which
+exemplify an unspoken discomfort with the strict, “property view” that Linden
+Gardens applies to non-assignment clauses. In these cases, it was held that a
+declaration of a trust over a chose in action, in favour of an intended
+assignee, can escape the effect of a non-assignment clause. Of course, these
+courts arrived at their decisions by interpreting the prohibitory clause in
+question. This seems aligned with Linden Gardens. However, given that a trust
+over a chose in action, mechanically, operates in the same manner as an
+equitable assignment (Smith and Leslie at para 25.41; though I make no remark
+on the far more difficult conceptual difference which has attracted the
+attention of an entire monograph: see CH Tham, Understanding the Law of
+Assignment (CUP, 2019)), the distinction seems quite vexed. The willingness of
+the courts in these cases to draw such fine distinctions to, ostensibly, get
+around the consequences of Linden Gardens might warrant at least, closer
+examination of the Lords’ decision, if and when the applicability of Linden
+Gardens goes before the Singapore Court of Appeal.
+
+45 That said, as far as the matter before me is concerned, I – like the judges
+in Total English and Arris Solutions – have not been presented with any reason
+to depart from Linden Gardens in favour, eg, of First Abu Dhabi. Indeed,
+though Tolhurst and Carter argue that the “property view” should be preferred
+for a range of reasons, their ultimate point, as would be apparent from the
+title of the article, is that it is “necessary to make a clear informed choice
+as to the operation of provisions which prohibit assignment. That choice is
+not a simple one as it goes to the very heart of the law of assignment and
+personal property” (at 434). Without the benefit of full arguments on the
+issue, I am not in a position to choose between the “property view”, the
+“contract view”, or some other middle-of-the-road approach which Evans LJ’s
+inclination might be said to reflect.
+
+46 The consequence of this, as I alluded to at [42] above, is that I prefer
+the view of Millett and Henry LJJ in Hendry v Chartsearch. This is consistent
+with Linden Gardens, which Evans LJ’s does not appear to be. It is worth
+noting that in Fulham Partners, the Supreme Court of New South Wales also took
+this view. After a brief restatement of Linden Gardens, Basten JA suggested
+that if consent is not even sought, the assignment would be ineffective
+whether or not it was reasonably or unreasonably withheld (at [38]–[41]).
+Applying this to the present case, GHPL’s purported assignment to the
+Plaintiff of its rights under the Contract is plainly invalid as no prior
+consent was ever sought from the Defendant. The Plaintiff therefore has no
+standing to bring its contract claim.
+
+Do non-assignment clauses survive termination?
+
+47 This then brings me to a final point which arises because of an argument
+the Plaintiff makes. In essence, counsel for the Plaintiff argues that cl 8.3
+is irrelevant because it does not survive the Contract’s termination. In
+support of this, he relies on cll 3.1 and 6.2 of the Contract which expressly
+provide that cll 3 and 2, respectively, shall survive termination. There is,
+however, no clause that preserves cl 8.3. 23
+
+##### Foot Note 23
+
+×
+
+Plaintiff’s Written Submissions (24 Sep 2021) (“PWS”) at paras 14–16.
+
+48 I do not accept this. A consequence of accepting Linden Gardens is that the
+inherent transferability of the chose in action created by the contract is, by
+the non-assignment clause, restricted. Put another way, the terms of the
+contract do not operate as a bar on the transferability at the level of
+contract, instead, it is the very proprietary character of the chose in action
+which is restricted. This is precisely the distinction between the “property
+view” of non-assignment clauses which is encapsulated by Linden Gardens and
+the “contract view” for which Gloster LJ expressed support in First Abu Dhabi.
+Thus, as it is the inherent proprietary characteristics of the chose in action
+which restricts transferability, it is not relevant that the Contract has
+ended or that the non-assignment clause “has not survived”.
+
+Validity of the assignment of the Employment Contract
+
+49 As mentioned at [4] above, the Plaintiff asserts standing in respect of its
+claim against the Defendant for inducing Mr Virgilli’s breach of his
+Employment Contract. The terms of the Deed assigning the rights under this
+contract from GHPL to the Plaintiff, are set out at [9] above.
+
+50 It is well-established on the authority of Nokes v Doncaster Amalgamated
+Collieries Ltd [1940] AC 1014 that the right to receive services of an
+employee under a contract of employee is a personal right which cannot validly
+be assigned without the employee’s consent (at 1020 per Viscount Simon LC,
+1026 per Lord Atkin). One need only consult the standard texts to conclude
+that this position is beyond doubt (see Tolhurst at para 6.72; Smith and
+Leslie at para 24.12; Guest at para 4-48). I am, of course, mindful that the
+Plaintiff is not asserting a right to Mr Virgilli’s performance of work as an
+employee. However, as I will explain shortly, the inability of GHPL to assign
+the right to Mr Virgilli’s services as an employee, without his consent, is a
+crucial point which must be borne in mind.
+
+51 The right of GHPL which the Plaintiff actually asserts in the present suit
+is its right to bring an action for damages against the Defendant, in respect
+of its alleged inducement of Mr Virgilli’s breach of the Employment Contract.
+The parties’ submissions do not even canvass the standing of the Plaintiff to
+bring this tortious claim. I find this curious given that the Defendant has
+made much of the Plaintiff’s lack of standing to bring its claims under the
+Contract. It should at least have been noticed that, by bringing this claim in
+tort, the Plaintiff may have been enforcing a bare right to litigate.
+
+52 In any case, the parties’ omission does not raise any particular
+challenges. Although the concepts maintenance and champerty have been
+described to be “evolving concepts” given their roots in public policy (see,
+eg, Smith and Leslie at paras 23.07–23.13), the law as it stands is broadly
+settled. Since the decision in Trendtex Trading Corp v Credit Suisse [1982] AC
+679 (“Trendtex”) (also see Lim Lie Hoa and another v Ong Jane Rebecca [1997] 1
+SLR(R) 775 (“Lim Lie Hoa”) at [24]–[47], where the Court of Appeal referred to
+many salient portions of the House of Lords’ reasoning with approval), it has
+been accepted that an assignment of a right of action will not necessarily be
+struck down as savouring of maintenance or champerty. This depends on whether
+the assignee can show a “genuine commercial interest” in receiving the right
+and enforcing it for his benefit. In assessing the existence of such interest,
+the court looks at the “totality of the transaction” (Trendtex at 703 per Lord
+Roskill).
+
+53 Given the lack of a performance interest in the Employment Contract, it is
+difficult to see what genuine commercial interest the Plaintiff can have in a
+suit against the Defendant for the tort of inducing breach of such contract.
+It should be apparent from the name of the tort that the wrong which it seeks
+to remedy, is, primarily, the breach or non-performance of the contract in
+question. The tort is secondary to this contractual breach. As the House of
+Lords explained in OBG Ltd v Allan [2008] 1 AC 1, liability for inducing
+another’s breach of contract is a form of secondary liability ([44] per Lord
+Hoffmann, [189] per Lord Nicholls, [254] per Lord Walker, [302] per Baroness
+Hale, and [319] per Lord Brown; also see EFT Holdings, Inc v Marinteknik
+Shipbuilders (S) Pte Ltd [2014] 1 SLR 860 at [76], which similarly adopts this
+view).
+
+54 Put simply, in the present case, even if it can be found that Mr Virgilli
+breached the Employment Contract, this is of no concern to and has no impact
+on the Plaintiff as it is not his employer. There is, as such, no genuine
+commercial interest which the Plaintiff can vindicate by this tortious right
+of action against the Defendant. I therefore find that this right of action is
+not assignable because it is a bare right to litigate which savours of
+champerty.
+
+55 Before I leave this point, however, it is proper for me to mention Kwek
+JC’s decision in Gravitas International v Virgilli (see [5] above). The
+Plaintiff, not GHPL, was also the plaintiff in that case, and it succeeded in
+establishing certain claims against Mr Virgilli, based on the Employment
+Contract. The most significant of which were sums Kwek JC found to be due
+following a novation of the Employment Contract (Gravitas International v
+Virgilli at [36]–[50]). The issue of the Plaintiff’s standing was not raised
+in that case. Even so, there is no inconsistency which this creates; and this
+is for two key reasons.
+
+56 First, it is not controversial that fruits of a contract of employment,
+such as wages earned by an employee or conversely, sums due to an employer,
+are assignable (see Beckham v Drake (1849) 2 HLC 579, where the House of Lords
+held that a sum due to an employee pursuant to his employment contract was
+validly assigned to and taken over by his trustees in bankruptcy; also see
+other cases cited by Smith v Leslie at para 24.12). This is distinct from the
+present case, which concerns a right of action in tort, not contract.
+Historically, the law has tended to view assignments of rights of action in
+tort as invalid (see, eg, Defries v Milne [1913] 1 Ch 98 at 109 per Farwell
+LJ). Although such a broad proposition cannot hold in modern law (see, eg,
+Clerk & Lindsell on Torts (Michael A Jones gen ed) (Sweet & Maxwell, 23rd Ed,
+2020) at paras 5-68–5-70), my analysis at [53]–[54] above shows that the
+tortious action in this case certainly is not one which should push the law
+further away from history.
+
+57 The second reason requires us to inquire as to the nature of the fruits
+assigned by GHPL to the Plaintiff: eg, actions in debts or damages. As a
+starting point, I observe that the law has developed in such a way as to treat
+debts as a kind of property, such that rights of action which need to be
+exercised in order to vindicate that property, are merely an incident of the
+property (see, eg, Camdex International Ltd v Bank of Zambia [1998] QB 22 at
+32 and 39 per Hobhouse LJ, 40 per Peter Gibson LJ, and 41 per Neill LJ; also
+see Lim Lie Hoa at [38] which affirmed this view). The validity of assignment
+of debts thus rides on the long been established rule that where a right of
+action attends or is incidental to a transfer of property, an assignment of
+such right will not savour of maintenance or champerty.
+
+58 With this in mind, it appears to me that the claims the Plaintiff made in
+Gravitas International v Virgilli (at least those on which it succeeded) were
+of the nature of debts, and not claims for contract damages. This included a
+salary claim and certain fees owed by Mr Virgilli on the basis of a novated
+Employment Contract between him and GHPL. Thus, its successful claims in that
+case, based on the facts found by Kwek JC do not suggest that the Plaintiff
+had any interest in performance of the Employment Contract (ie, in the sense
+of being entitled to Mr Virgilli’s performance of work), so as to alter my
+analysis at [53]–[54] above. It was merely enforcing a right to the fruits of
+the contract.
+
+The Plaintiff’s contractual claim
+
+59 Given my finding at [46] above on the issue of the Plaintiff’s locus
+standi, or rather, lack thereof, I dismiss its claim. However, in the event
+that I have erred on the law, I will consider the Plaintiff’s claim on the
+facts.
+
+Claim for unpaid fees
+
+Key terms of the Contract
+
+60 I have loosely stated the purpose of the Contract at [1] above.
+
+61 With that in mind, the starting point is to note that the Contract did not
+prescribe a fixed list of services for which the Defendant was paying upfront,
+and would thus be entitled to receive. Instead, the structure of the Contract
+was such that the Defendant agreed to pay an “Engagement Fee” to GHPL, and in
+exchange, GHPL agreed to make available a suite of services to the Defendant,
+each service having its own individual, itemised cost. This is evident from
+cll 2.1 and 2.2 of the Contract which I set out in full below: 24
+
+##### Foot Note 24
+
+×
+
+PAEIC at p 37, cll 2.1 and 2.2.
+
+2\. Scope of Service and Fees
+
+2.1 In consideration of the [Defendant’s] promise to pay the Engagement Fee to
+[GHPL], [GHPL] agrees to provide advisory services to the [Defendant] in
+relation to the preparation for capital raising, based on the White Paper and
+such information reasonably requested for by [GHPL] and provided to [GHPL] by
+the [Defendant], and such advice shall consist of:
+
+(a) advisory and assistance to the [Defendant] in raising capital from the
+Investors, which shall consist of (i) preparing an investment deck, and (ii)
+advising the [Defendant] on the manner and strategy with which to approach an
+Investor,
+
+and [GHPL] shall provide the advice referred to in this Clause 2.1 to the
+[Defendant] no later than 1 week from the execution of this Agreement, or the
+date of payment by the [Defendant] to [GHPL] for the Engagement Fee, whichever
+is later, provided that the [Defendant] has provided the information requested
+by [GHPL] (and in a timely manner).
+
+2.2 The Engagement Fee payable to [GHPL] by the [Defendant] shall consists of
+a one-time fee of 1 [Bitcoin] and an additional 10% of the amounts raised
+through [GHPL’s] contacts and shall be paid to [GHPL] within 7 days of the
+execution of this Agreement. In the event where the [Defendant] achieves its
+Pre-Sale soft-cap targets, [GHPL] shall then be appointed as an Advisor to the
+ICO Project, with a remuneration of 0.5% of the total of the Token Sale
+(including Pre-Sale and Public Sale figures raised collectively).
+
+62 The suite of services which GHPL agreed to provide was as follows: 25
+
+##### Foot Note 25
+
+×
+
+PAEIC at pp 43–44.
+
+SERVICE| DESCRIPTION| PRICE (USD)  
+---|---|---  
+Business Services  
+White Paper Writing| Create a whitepaper and infographics based on business|
+20,000  
+Business Advisory| Designing a business model that utilizes the blockchain|
+50,000 (incl. white paper)  
+Development Services  
+Smart Contract Dev| Bitcoin or Ethereum Blockchain| 15,500  
+ICO/Crowdsale Website| Design and Development of a website| 7,000  
+Cryptocurrency Wallet| Design and Development of a Web Wallet| 22,500  
+Android Wallet App| Translation of wallet into Android App| 20,000  
+iOS Wallet App| Translation of wallet into iOS App| 20,000  
+Block Explorer| Administrate your blockchain and manage users| 15,000  
+Marketing Services (USD 100,000 for full Marketing and PR)  
+Marketing Strategy| Monthly retainer service, create a marketing calendar|
+10,000  
+Social Media Management| Monthly retainer service, management of each account|
+2,000  
+Advertising Management| Secure and manage advertising spaces| 3,000* (*not
+inclusive of listing fees)  
+Network population| Migrating users into: Telegram, Slack or registration
+page| 0.4/user/platform  
+Listening on Exchanges| Secure and manage exchanges to list on| 5,000* (*not
+inclusive of listing fees)  
+Crypto Advocacy and PR| Monthly retainer service, advocate to local (1 locale)
+and global crypto community| 10,000  
+Legal and Compliance Services (This Portion Pending Further Discussion)  
+Legal Opinion, Compliance| Issue a legal opinion on ICO in Singapore as the
+ICO Jurisdiction, inclusive up to 20 hours of engaging with Regulators if
+required| 100,000  
+  
+Fees already paid by the Defendant
+
+63 On 13 February 2018, after the execution of the Contract, the Defendant
+paid GHPL’s nominee S$77,684.70. 26
+
+##### Foot Note 26
+
+×
+
+PAEIC at p 70, para 6; DAEIC at para 9, read with pp 43 and 113.
+
+This sum represented an engagement fee of one Bitcoin (see cll 2.1 and 2.2 at
+[60] above), 27
+
+##### Foot Note 27
+
+×
+
+PAEIC at p 37, at cl 2.1.
+
+then valued at S$11,335.20, and US$50,000, converted to Singapore dollars at a
+rate of S$1 to US$1.32699. 28
+
+##### Foot Note 28
+
+×
+
+DAEIC at p 43.
+
+The US$50,000 was paid for “Business” services as listed in the schedule, ie,
+for “White Paper Writing” and “Business Advisory” (see [62] above). This is
+the only sum the Defendant paid GHPL under the Contract.
+
+Fees being claimed by the Plaintiff for work done
+
+64 The Plaintiff claims now that it is owed US$184,750 for services which have
+been rendered but not paid for. As stated at [7] above, the Defendant denies
+that GHPL performed any of the work which the Plaintiff claims it did. The
+Plaintiff must therefore satisfy me on a balance of probabilities that the
+works claimed were actually done, and that the fee being charged is accurate.
+I consider each of the fees claimed individually. 29
+
+##### Foot Note 29
+
+×
+
+SOC at paras 19.1–19.2, read with 1PB at pp 32–33, para 7.
+
+(1) Android Wallet App: US$20,000
+
+65 The Plaintiff did not adduce any evidence demonstrating that they have
+started development works for an Android Wallet App for the Defendant, much
+less that they completed such works. Indeed, in submissions, the Plaintiff
+wrote that it is claiming damages on the expectation measure, “for the items
+[GHPL] was contracted to do but unable to fulfil due to the Defendant’s
+repudiation”. 30
+
+##### Foot Note 30
+
+×
+
+PWS at paras 62–64.
+
+This is not the Plaintiff’s pleaded case. Its case is that the sum of
+US$20,000 for the “Android Wallet App” has “yet to be billed”. 31
+
+##### Foot Note 31
+
+×
+
+SOC at para 19.1(a).
+
+It is clear from this that the Plaintiff is claiming a debt, ie, earned but
+unpaid fees, save that the Defendant was not issued an invoice. By its
+submissions, the Plaintiff now seems to have conceded that the work was not
+done. I therefore dismiss this claim.
+
+66 There is no question of any claim in damages as this is not the Plaintiff’s
+pleaded case.
+
+(2) iOS Wallet App: US$20,000
+
+67 There is also no evidence relating to works done for an iOS Wallet App.
+Further, the Plaintiff’s closing arguments in respect of the “Android Wallet
+App” were also made in respect of this item. 32
+
+##### Foot Note 32
+
+×
+
+PWS at para 64.
+
+Accordingly, I dismiss this claim for the same reasons.
+
+(3) Block Explorer: US$15,000
+
+68 Again, the Plaintiff has adduced no evidence that there has been any work
+done in relation to the administration of the Defendant’s blockchain. I
+dismiss this claim accordingly.
+
+(4) Social media management: US$2,000
+
+69 Mr Tan gave evidence that GHPL had attempted to engage the Defendant to
+commence its social media marketing campaign. The example he gave, was the
+basic creation of a Telegram group. This, however, he claims did not lead
+anywhere as the Defendant dragged its feet. 33
+
+##### Foot Note 33
+
+×
+
+NEs 10 Aug 2021 at p 70, lines 5–24.
+
+In an email sent by Mr Tan to the Defendant on 14 May 2018, he made comments
+to a similar effect, but crucially, it is noted in this email that as a result
+of the Defendant’s alleged feet dragging, there was “NOTHING to community
+manage”. 34
+
+##### Foot Note 34
+
+×
+
+PAEIC at p 140.
+
+70 I am mindful that this item is listed in the Contract as a “Monthly
+retainer service”, however, the commencement of a retainer must still be
+triggered. If the Defendant was, as Mr Tan’s evidence shows, unwilling to even
+commence social media marketing, I do not find it logical that they would have
+triggered the start of a retainer just for a member of GHPL’s staff to be paid
+to do no work. There is no other evidence showing positively that such
+retainer was commenced. I therefore dismiss this claim.
+
+(5) Smart Contract Development: US$15,500
+
+71 The key piece of evidence on which the Plaintiff relies to prove work done
+in respect of this item, are two documents, titled “smart contract matrix” and
+“Final token offering table”. 35
+
+##### Foot Note 35
+
+×
+
+PAEIC at pp 136–137.
+
+Mr Tan relied on scanned copies of these documents in his AEIC, signed by the
+Defendant’s representatives, to make the suggestion that there had been
+“technical work” done by GHPL. 36
+
+##### Foot Note 36
+
+×
+
+PAEIC at para 33.
+
+72 I do not accept this. The documents are scarcely technical. They simply
+list information which Mr Lam explains the Defendant provided to GHPL, which
+was required for the smart contract development works to commence. 37
+
+##### Foot Note 37
+
+×
+
+NEs 12 Aug 2021 at p 25, lines 4 to p 26, line 24.
+
+I prefer Mr Lam’s evidence. On each document, the Defendant’s representatives
+signed their names and wrote “Agreed and approved on 04 May 2018”. This
+supports Mr Lam’s account that it was information the Defendant provided. It
+is possible that work was subsequently done by GHPL using this information,
+but this was not proven to me, and in any case, unlikely given that the
+Plaintiff’s own case is that, on 16 May 2018, it terminated the Contract on
+the basis of the Defendant’s breaches of contract. 38
+
+##### Foot Note 38
+
+×
+
+PAEIC at para 5.
+
+There is no evidence that GHPL undertook any “Smart Contract Development”
+works in this short interval between 4 and 16 May 2018. I therefore dismiss
+this claim.
+
+(6) ICO/Crowdsale Website: US$7,000
+
+73 Whilst giving evidence on the Defendant’s inertia in creating a Telegram
+group (see [69] above), Mr Tan made the following remark: “But because these
+clients never got out of the preliminary stage, we were not able to go out and
+sell because the website is not even ready, the white paper is not even
+ready”. 39
+
+##### Foot Note 39
+
+×
+
+NEs 10 Aug 2021 at p 70, lines 12–14.
+
+This suggests to me that work on the website did not commence, or at the very
+least, was not completed. The Plaintiff adduced no other evidence as to the
+status of the work done for this website, and so, I dismiss its claim.
+
+(7) Cryptocurrency Wallet (Discounted by 50%): US$11,250
+
+74 Exhibited in Mr Tan’s AEIC is an email in which a representative of the
+Defendant wrote, on 22 April 2018, that the Defendant wishes to “lock in the
+agreed Token & Wallet works timeline”. He then queries, “Why are these taking
+so long to complete (14 May ‘18) especially since Satoshi [a developer] 40
+
+##### Foot Note 40
+
+×
+
+DAEIC at p 203, “26/03/2018, 10:03”.
+
+has already started works since beginning of April ‘18?”.
+
+75 Responding to this, GHPL’s representative states, “the timelines he had
+given previously were only for the ERC20 token creation, the wallet creation
+and payment gateway integration which we reviewed on Friday are separate
+timelines that will be completed by the 14th of May, we will share the Excel
+file later”. 41
+
+##### Foot Note 41
+
+×
+
+PAEIC at p 123.
+
+It is extraordinarily unclear – and Mr Tan’s oral evidence sheds no light on
+this – whether the cryptocurrency wallet was ultimately completed on 14 May
+2018. I accept that this email exchange suggests that work had commenced on
+this item, but as there is a dearth of evidence as regards its status, much
+less its completion, I dismiss the Plaintiff’s claim for the sum of US$11,250.
+
+(8) Marketing Strategy (Pro-rated): US$33,000
+
+76 This item is indicated by the Plaintiff as “pro-rated till 16 May 2018”. 42
+
+##### Foot Note 42
+
+×
+
+1PB at p 33.
+
+As the Contract lists this item as a “monthly retainer service”, the sum is
+derived from the date on which the Contract was executed, 8 February 2018. As
+stated at [70] above, retainers need to be commenced; the question therefore
+is whether the Defendant did place GHPL on a retainer for this purpose.
+
+77 In cross-examination, counsel for the Defendant, Mr Han, put to Mr Tan that
+“marketing strategy” works (as well as “Crypto Advocacy and PR”: see [83]
+below) could not have been undertaken because the White Paper and not been
+completed. 43
+
+##### Foot Note 43
+
+×
+
+NEs 10 Aug 2021 at p 75, lines 7–26.
+
+In response, Mr Tan vaguely said that “there were a lot of things done, and we
+had substantial manpower that was involved”. 44
+
+##### Foot Note 44
+
+×
+
+NEs 10 Aug 2021 at p 76, lines 6–14.
+
+As to whether the commencement of the retainer was triggered, he referred to
+cl 6.1 of the Contract which states, “This Agreement shall commence on the
+date of execution of this Agreement and shall continue until such time as it
+is terminated…”. 45
+
+##### Foot Note 45
+
+×
+
+PAEIC at p 40, cl 6.1.
+
+78 I reject the Plaintiff’s reliance on cl 6.1. As I explained at [61] above,
+the Contract was not structured in such a way as to oblige the Defendant to
+use and pay for all of GHPL’s potential services. This is why they paid an
+engagement fee, of one Bitcoin, which does not go towards the cost of any work
+done. It is to secure GHPL’s role as a potential service provider.
+
+79 I also reject Mr Tan’s claim that there would have been any “marketing
+strategy” work done. His own evidence is that the preparation of a White Paper
+is one of two key features for a successful ICO, the other being a website. 46
+
+##### Foot Note 46
+
+×
+
+NEs 10 Aug 2021 at p 52, line 13 to p 53, line 31.
+
+It is on this basis that he said (also at [73] above): “But because these
+clients never got out of the preliminary stage, we were not able to go out and
+sell because the website is not even ready, the white paper is not even
+ready”. This obviously begs the question as to what work GHPL could have done
+if the basic elements required for them to perform any marketing services,
+were not even complete.
+
+80 On the Defendant’s part, if there was nothing by way of “marketing
+strategy” work which GHPL could logically have done, I do not see any reason
+for it to have triggered the retainer and incurred unnecessary, additional
+costs. I accordingly dismiss this claim.
+
+(9) Advertising Management: US$3,000
+
+81 By this work item, GHPL was to “Secure and manage advertising spaces” (see
+[62] above). Given, as I have stated above, no advertising work seems to have
+commenced, there would equally be no need for GHPL to have performed work for
+this item. No evidence was adduced to show otherwise, and I therefore dismiss
+this claim.
+
+(10) Listing on Exchanges: US$5,000
+
+82 This claim clearly reaches too far. The Defendant’s White Paper had not
+even been completed; I cannot see how GHPL would have commenced works to list
+the Defendant’s yet-to-be-created cryptocurrency tokens, on an exchange. In
+its pleadings, this sum is listed as an item for which work had been done, 47
+
+##### Foot Note 47
+
+×
+
+SOC at paras 14 and 19.2, read with 1PB at p 33.
+
+and this assertion beggars’ belief. There is no evidence to show that any such
+work had been commenced, and I roundly dismiss this claim.
+
+(11) Crypto Advocacy and PR (Pro-rated): US$33,000
+
+83 This item is indicated by the Plaintiff as “pro-rated till 16 May 2018”, 48
+
+##### Foot Note 48
+
+×
+
+1PB at p 33.
+
+and is also listed as a monthly retainer (see [62] above). In the course of
+trial, it was dealt together with the retainer for “marketing strategy”, thus,
+for the same reasons stated at [77]–[80] above, I dismiss this claim.
+
+Claim for damages
+
+84 Beyond the value of the consultancy services the Plaintiff alleges GHPL
+rendered to the Defendant pursuant to the Contract, which I have discussed
+above, the Plaintiff also seeks to recover two categories of damages under the
+Contract. The first is “damages … in respect of the 0.5% of the Token Sale”.
+49
+
+##### Foot Note 49
+
+×
+
+SOC at paras 19.3 and 21.3.
+
+The second is, rather comically, pleaded as “damages to be assessed in respect
+of the ‘2% Liquidated Damages’” [emphasis added]. 50
+
+##### Foot Note 50
+
+×
+
+SOC at paras 19.4 and 21.5.
+
+I should not need to explain that, as a premise, liquidated damages entail the
+specification of a certain sum to be paid upon breach of contract. By
+definition, liquidated damages are not meant to be assessed. In any case, the
+Contract did not contain a liquidated damages clause, which counsel for the
+Plaintiff rightly conceded. 51
+
+##### Foot Note 51
+
+×
+
+NEs 10 Aug 2021 at p 9, line 26 to p 10, line 20.
+
+85 As such, I return to the first category. The Plaintiff’s claim for damages
+which represent “0.5% of the Token Sale” stems from cl 2.2 of the Contract,
+the relevant portion of which provides: “In the event where the [Defendant]
+achieves its Pre-Sale soft-cap targets, [GHPL] shall then be appointed as an
+Advisor to the ICO Project, with a remuneration of 0.5% of the total of the
+Token Sale (including Pre-Sale and Public Sale figures raised collectively)”.
+52
+
+##### Foot Note 52
+
+×
+
+PAEIC at p 37, cl 2.2.
+
+The phrases “Pre-Sale soft-cap targets” and “Public Sale figures” are not
+defined. However, from context, they seem to refer to the private and public
+sale of cryptocurrency tokens which would have taken place had the Defendant
+successfully launched its ICO and raised the funds it intended.
+
+86 Put simply, the Plaintiff seems to be saying that, had the Defendant not
+acted in repudiatory breach of the Contract, the Defendant would have achieved
+its “Pre-Sale soft-cap targets”, and GHPL would have been appointed as an
+“Advisor to the ICO Project”. Such appointment would then have allowed GHPL to
+earn “0.5% of the total of the Token Sale”. This was, in effect, a claim for
+lost profits on the expectation measure. The Defendant’s defence in respect of
+this claim was simply to put the Plaintiff to proof. 53
+
+##### Foot Note 53
+
+×
+
+Defence at para 21.
+
+87 The Plaintiff’s pleaded case in respect of how the Defendant committed
+repudiatory breaches of the Contract is poorly pleaded and extremely vague. It
+avers that the Defendant committed four repudiatory breaches: (a) entering
+into a consultancy contract with Mr Virgilli; (b) refusing to cooperate with
+GHPL; (c) refusing, omitting and/or failing to perform its obligations under
+the Contract; and (d) non-payment of an invoice. 54
+
+##### Foot Note 54
+
+×
+
+SOC at para 16.
+
+As to (a), although the Defendant accepts that it did enter into a separate
+consultancy contract with Mr Virgilli, 55
+
+##### Foot Note 55
+
+×
+
+DAEIC at para 76.
+
+it is not immediately obvious why this was a repudiatory breach. Indeed, as I
+state at [101] below, the Plaintiff has not adduced any evidence that by
+entering into this contract, the Defendant induced Mr Virgilli to breach his
+Employment Contract with GHPL. I have found in respect of (d) that no fees are
+owing to GHPL. So, this leaves breaches (b) and (c), but the Plaintiff has
+provided no particulars as to how and to what extent the Defendant failed to
+cooperate or perform its obligations under the Contract, much less why these
+failures were repudiatory breaches. I accordingly find that there is
+inadequate basis for me to conclude that the Defendant committed any
+repudiatory breaches of the Contract.
+
+88 In any event, even if I assume the Defendant committed such breaches, the
+Plaintiff has not adduced any evidence that, had the Contract been performed
+to completion, the Defendant would have – as cl 2.2 prescribes as a condition
+– achieved its “Pre-Sale soft-cap targets”. To reiterate the burden of proof
+expected of plaintiffs seeking to recover lost profits, I can do no better
+than quote Mason CJ and Dawson J in Commonwealth of Australia v Amann Aviation
+Pty (1991) 104 ALR 1 (at 9–10):
+
+The onus of proving damages sustained lies on a plaintiff and the amount of
+damages awarded will be commensurate with the plaintiff’s expectation,
+objectively determined, rather than subjectively ascertained. That is to say,
+a plaintiff must prove, on the balance of probabilities, that his or her
+expectation of a certain outcome, as a result of performance of the contract,
+had a likelihood of attainment rather than being mere expectation.
+
+[Emphasis added]
+
+89 In the present case, the evidence of the Plaintiff’s sole witness, Mr Tan,
+focused on GHPL’s performance of services under the Contract, the Defendant’s
+alleged breach of contract, as well as their alleged inducement of Mr
+Virgilli’s breach of contract. He did not give any evidence which went towards
+what would have happened had the Contract been performed. Absent such
+evidence, it is pure speculation for the Plaintiff to aver that they would
+have earned the “0.5% of the total of the Token Sale”.
+
+90 For these reasons, even if I had not found the Plaintiff to be lacking
+locus standi, I would have dismissed its claims for damages arising from the
+Contract.
+
+The defences to the contract claim
+
+91 As mentioned at [7] above, the Defendant goes further in this case than
+simply putting the Plaintiff to proof of its contractual claim. It advances a
+positive case, and in this connection, three substantive defences.
+
+92 First, it avers that the work performed by GHPL was of such low quality 56
+
+##### Foot Note 56
+
+×
+
+DAEIC at paras 15–30.
+
+that GHPL breached certain terms which have been implied into the Contract. 57
+
+##### Foot Note 57
+
+×
+
+Defence at paras 16(a)–(c).
+
+Second, it avers that Mr Tan made misrepresentations which induced it to enter
+into the Contract. 58
+
+##### Foot Note 58
+
+×
+
+Defence at paras 5–6.
+
+Lastly, but most significantly, the Defendant avers that, in light of GHPL’s
+poor work quality, it approached GHPL with doubts about its ability to
+complete the tasks necessary for the Defendant’s planned ICO. As a result, the
+Defendant and GHPL’s representatives (including Mr Virgilli) engaged in a
+conference call to discuss how to move forward with the Contract. It is the
+Defendant’s case that, during this discussion, it and GHPL agreed that: (a)
+the Contract would be terminated; (b) any work which had been substantially
+commenced by GHPL would be completed, alongside other works which were needed
+for the “orderly cessation of services”, but only to the extent of the value
+of the upfront fees the Defendant had already paid; and (c) all other
+outstanding services under the Contract, which GHPL had not commenced, was to
+be performed by Mr Virgilli’s company, Queen George Pte Ltd (operating under
+the trade name “Vox”), pursuant to a new contract. 59
+
+##### Foot Note 59
+
+×
+
+DAEIC at paras 68–89; Defence at para 4.
+
+93 In light of my findings above that the claims for unpaid fees as well as
+damages fails, I do not need to consider these alternate defences.
+
+94 I will, however, make an observation about the Defendant’s allegation of
+misrepresentation. In its defence, the Defendant avers that, in the period
+leading up to 8 February 2018, Mr Tan – then a director of GHPL – made
+numerous misrepresentations which induced it to enter the Contract. These
+alleged representations were that: (a) Mr Tan and GHPL were “competent and
+able to promote investment products and provide investment advice in the
+matter of ICOs”; (b) that Mr Tan and GHPL were “each knowledgeable, capable
+and experienced in conducting ICOs”; (c) that Mr Tan had “organised several
+ICOs, where he had personally raised 50 million United States Dollars for the
+owners in each of them”; (d) that Mr Tan “was a lawyer of good reputation and
+character”; and that lastly, (e) that Mr Tan had exaggerated his involvement
+in a number of ICOs with which he allegedly claimed to have been “intimately
+involved”. 60
+
+##### Foot Note 60
+
+×
+
+Defence at paras 6(a)–(e).
+
+95 On the basis of these representations, the Defendant makes two operative
+pleadings. First, that the false representations “gives rise to an action in
+misrepresentation under s 2 of the Misrepresentation Act (Cap 390) and/or
+fraudulent and negligent misrepresentation for the losses incurred by the
+Defendant in making the investment”. 61
+
+##### Foot Note 61
+
+×
+
+Defence at para 5.
+
+However, no counterclaim was brought by the Defendant. There is nothing in the
+defence which even attempts to particularise what these losses might be. Thus,
+save for the factual averment that misrepresentations were made by Mr Tan, I
+cannot understand what the Defendant sought to achieve with this pleading, and
+I do not find that anything substantive can be made of it.
+
+96 The second operative pleading which the Defendant makes in respect of the
+misrepresentations Mr Tan allegedly made is that it has, on this basis, “a
+right to rescind or terminate the [Contract]”. 62
+
+##### Foot Note 62
+
+×
+
+Defence at para 6.
+
+On the case of both parties, the Contract has long been terminated, and as
+such, seeking “termination” is meaningless. As to rescission, I cannot
+understand what the Defendant seeks when it says the Contract should be
+rescinded. If it prays for the remedy of rescission ab initio, a proper
+counterclaim should have been brought as I have stated in the paragraph above.
+So, once again, nothing can be made of this pleading.
+
+The Plaintiff’s tortious claim
+
+97 For the reasons at [53]–[54] above, I found that the right of action
+against the Defendant for inducing Mr Virgilli’s breach of the Employment
+Contract is, a bare right to litigate which could not have been validly
+assigned by GHPL to the Plaintiff. Indeed, as I have stated, it savours of
+champerty. I therefore dismiss the Plaintiff’s tortious claim on this basis.
+That said, as with the Plaintiff’s claim in contract, I will alternatively
+consider this claim on the facts.
+
+98 The elements for the tort of inducement of breach of contract are well-
+known (see, eg, Clearlab SG Pte Ltd v Ting Chong Chai [2015] 1 SLR 163 at
+[285]): (a) the defendant must know of the existence of the contract and
+intend to procure its breach; (b) there must have been procurement of the
+breach whether by persuasion, inducement or otherwise; (c) there must in fact
+have been a breach; and (d) the plaintiff must have suffered damage as a
+result of the breach of contract.
+
+99 The Plaintiff’s claim fails roundly on the last element. Its pleaded case
+is that the Defendant caused Mr Virgilli to “cease and/or refuse” to work for
+GHPL by entering into a new consultancy agreement with Mr Virgilli’s company,
+Vox. In Gravitas International v Virgilli, the Plaintiff averred that Mr
+Virgilli failed to give the requisite one-months’ notice pursuant to the
+Employment Contract. On that basis, one claim in that suit was for S$11,000
+representing a month of Mr Virgilli’s salary, in lieu of his notice (see
+Gravitas International v Virgilli at [58]). Kwek JC allowed the Plaintiff’s
+claim, finding that Mr Virgilli had failed to give notice of termination (at
+[60]).
+
+100 Having successfully claimed one months’ salary in lieu of notice, there
+seems to me to be no other loss which GHPL – and by extension, the Plaintiff
+as its assignee – can recover. It is trite that employees may terminate their
+contracts of employment, without any cause, so long as requisite notice is
+served. Given the “minimum legal obligation rule” (see, eg, Wong Sung Boon v
+Fuji Xerox Singapore Pte Ltd [2021] SGHC 24 at [120]–[121], citing Alexander
+Proudfoot Productivity Services Co S’pore Pte Ltd v Sim Hua Ngee Alvin and
+another appeal [1992] 3 SLR(R) 933 at [13]), where an employee fails to give
+sufficient notice in breach of contract, the quantum of the employer’s claim
+is limited to the salary representing the period of notice which should have
+been given.
+
+101 The proposition that employees can validly terminate their contracts of
+employment with sufficient notice is so established, in fact, that there is no
+need for me to deal with the other factual elements in the alternative.
+Though, I will make one brief remark in vindication of the Defendant. The
+Plaintiff adduced no evidence which showed that the Defendant persuaded,
+induced, or otherwise procured Mr Virgilli’s breach of contract. All the
+Plaintiff has shown is that the Defendant entered into the new consultancy
+agreement with Mr Virgilli. There was no evidence showing that Mr Virgilli was
+prohibited from taking on external work – in fact, the Plaintiff did not even
+adduce the Employment Contract as evidence before me – nor was there anything
+showing that the Defendant knew that, by entering into the new consultancy
+agreement, that Mr Virgilli would even terminate the Employment Contract
+without notice.
+
+102 Thus, even on the facts, the Plaintiff’s tortious claim fails.
+
+Conclusion
+
+103 For the foregoing reasons, I dismiss both the Plaintiff’s contractual and
+tortious claims primarily on the grounds that it lacks locus standi. The
+proper plaintiff is GHPL. In any event, I have nevertheless assessed the
+evidence in support of the Plaintiff’s claims, and I find alternatively that,
+even if I had erred on the law, the facts do not bear them out.
+
+104 I will hear parties on costs.
+
+Lee Seiu Kin  
+Judge of the High Court|  
+---|---  
+  
+K V Sudeep Kumar and Airell Ang (Magna Law Corporation) for the plaintiff;
+
+Han Wah Teng and Winston Chui (CTLC Law Corporation) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 07 Jan 2022 (11:31 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

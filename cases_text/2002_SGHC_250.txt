@@ -1,0 +1,911 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+## Leow Tiak Cheow & Another v Pan-United Industries Pte Ltd  
+[2002] SGHC 250
+
+Case Number | : | Suit No 1568 of 2001  
+---|---|---  
+Decision Date | : | 28 October 2002  
+Tribunal/Court | : | High Court  
+Coram | : |  Woo Bih Li JC   
+Counsel Name(s) | : |  Jeffrey Beh Eng Siew (Lee Bon Leong & Co) and Leow Tiat Hong (T H Leow & Co) for both plaintiffs; Francis Xavier and Mark Tan (Rajah & Tann) for the defendant   
+Parties | : | —  
+  
+Contract – Contractual terms – Warranties – Whether breach of warranty in
+share sale agreement on net tangible asset value of company – Whether
+revaluation of company property necessary to reflect correct net tangible
+asset value  
+  
+
+Held, giving judgment to the plaintiffs for part of their claim:
+
+> Nam Kee’s statutory accountant Irving Tan did not carry out a further audit
+> up to 15 January 2001 in respect of the 16 May 2001 and 8 August 2001
+> Completion Accounts. This was because Irving Tan himself had used the word
+> ‘review’ in each of his cover letters enclosing the respective Completion
+> Accounts and also because he had failed to take the necessary steps which
+> would have been done in an audit. (See [12] – [13]).
+>
+> It was not the NTA value per se that was important in the dispute but the
+> NTA value as determined in accordance with clause 8.4.1 that was important.
+> (See [19].)
+>
+> The plaintiffs’ suggestion that the 16 May 2001 Completion Accounts, under
+> which the NTA as determined according to clause 8.4.1 was $2,038,808.95,
+> were for discussion purposes only was a desperate excuse to justify its
+> revision. (See [22], [26]).
+>
+> Clause 6.2 of the SSA did not require a revaluation of the Property and the
+> plaintiffs had breached the NTA warranty. This was because there was no
+> specific plea by the plaintiffs that the Statement of Accounting Standards
+> would require revaluation of the property and in any event, the Property
+> being last revalued on 30 August 1997, needed another revaluation only in
+> August 2002 in the absence of evidence of volatile market conditions.
+> Moreover, Irving Tan did not seek a revaluation of the Property when
+> auditing the 16 May 2001 Completion Accounts and neither did the plaintiffs
+> propose a revaluation. The idea of using Mr Wong’s 3 January 2001 valuation
+> came about only after it was admitted on behalf of the plaintiffs that they
+> had not met the NTA warranty. The case of _Pacific Century Regional
+> Development Ltd v Estate of Seow Khoon Seng_ was distinguished from the one
+> at hand. (See [36] – [37], [50] – [54], [57]).
+>
+> The NTA value, as determined in accordance with clause 8.4.1 had resulted in
+> a shortfall of $461,191.05. After setting off the shortfall against the
+> Retention Sum, PUI still had to pay the plaintiffs $38,808.95. Judgment was
+> granted to the plaintiffs for this sum and interest thereon at 6% per annum
+> from the date of the writ to the date of judgment. (See [79]).
+
+**
+
+Case(s) referred to
+
+> **_
+
+Pacific Century Regional Developments Ltd v Estate of Seow Khoon Seng
+
+_[1997] 3 SLR 761 (not flld) _
+
+Lim Bio Hiong Roger v City Developments Ltd
+
+_[2000] 1 SLR 289 (not flld)
+
+****
+
+**Judgment** _Cur Adv Vult_
+
+**_GROUNDS OF DECISION_**
+
+_**
+
+Introduction
+
+**_1\. Leow Tiak Cheow, the first plaintiff, was the beneficial shareholder of
+all the issued shares in Nam Kee Asphalt Pte Ltd (‘Nam Kee’) i.e 5,014,000
+shares. In 2000, Pan-United Industries Pte Ltd (‘PUI’), the defendant, was
+interested in buying all the issued shares in Nam Kee. There were negotiations
+resulting in a Memorandum of Understanding dated 12 October 2000.
+Subsequently, a Sale and Purchase of Assets Agreement dated 23 December 2000
+was entered into between Nam Kee, Tiak Cheow and Pan-United Engineering Pte
+Ltd (a related company of PUI) and a Share Sale Agreement (‘SSA’) dated 8
+January 2001 was entered into between Tiak Cheow, Leow Tiak Chuan who is the
+second plaintiff and PUI. There was also a Put Option and a Deed of Indemnity
+but these agreements are irrelevant for present purposes.
+
+2\. Tiak Chuan came to be a registered shareholder of two shares in Nam Kee in
+the following circumstances. Out of the 5,014,000 shares, two had been held by
+one Leow Lee Choo as nominee for Tiak Cheow. The rest were registered in Tiak
+Cheow’s name. As Lee Choo was in London at the material time and in
+anticipation of the sale of his shares in Nam Kee to PUI, Tiak Cheow caused
+Lee Choo to transfer the two shares to the name of Tiak Chuan.
+
+3\. It was agreed that the Pan-United group would buy certain assets of Nam
+Kee and the shares beneficially owned by Tiak Cheow in Nam Kee at a certain
+aggregate price. It was also agreed that the price be apportioned so that the
+consideration for the shares was $3,985,000. I would add that there was also a
+sweetener on top of the aggregate price but that is not material to the
+dispute before me and only the terms of the SSA are material.
+
+4\. Clause 3 of the SSA provides for the consideration to be payable in the
+following manner:
+
+> ‘3.1 S$3,485,000 at Completion; and
+>
+> 3.2 S$500,000 ("the Retention Sum") less any deductions by [PUI] pursuant to
+> Clause 10.3 without interest at the expiry of 6 months after the Completion
+> Date.’
+
+The Completion Date was defined to mean 15 January 2001 or such other date as
+the parties may agree in writing. The actual completion was on 17 January
+2001.
+
+5\. As stated, the Retention Sum is subject to any deduction by PUI pursuant
+to Clause 10.3 of the SSA. Clause 10.3 entitles PUI to deduct from the
+Retention Sum the amount of any claim which PUI may have pursuant to Clause
+10.1 which in turn provides for the Plaintiffs to indemnify PUI for any breach
+of the warranties in the SSA.
+
+6\. The material warranty is Clause 8.4.1 of the SSA. It states:
+
+> ‘8.4 The Vendors further jointly and severally represents and warrants to
+> and undertake with the Purchaser and its successors in title … that:-
+>
+> 8.4.1 the net tangible asset value of the Company as at the Completion Date
+> as reflected in the Completion Accounts, adjusted to exclude the Completion
+> Account Receivables, the Completion Liabilities and any amount owed to the
+> Company by Pan-United Engineering Pte Ltd pursuant to the Asset Sale
+> Agreement, will not be less than S$2,500,000;
+
+> …’
+
+I will refer to the warranty under clause 8.4.1 as ‘the NTA warranty’.
+
+7\. The Completion Accounts are defined in the SSA to mean ‘the audited
+balance sheet of the Company as at the Completion Date and the audited profit
+and loss statement for the period from 1 January 2001 to the Completion Date’.
+
+8\. Clause 6.2 of the SSA provides
+
+> ‘6.2 The Parties shall jointly procure, as soon as practicable and in any
+> event within 30 days after Completion, the preparation of the Completion
+> Accounts which shall be prepared by the Company on the basis of the same
+> accounting principles as the Audited Accounts and the Nine-Months Audited
+> Accounts and audited by the Company’s auditors, who shall also be instructed
+> to certify the Completion Account Receivables and Completion Liabilities.’
+
+9\. The Plaintiffs’ position is that they are entitled to the payment of the
+Retention Sum and that there is no breach of the NTA warranty. The Plaintiffs’
+position on the NTA warranty is based on their assertion that there should be
+a revaluation of Nam Kee’s leasehold land, and buildings thereon, at 15 Sungei
+Kadut 3, Singapore (‘the Property’) and the revaluation would result in a net
+tangible asset (‘NTA’) value which, when determined in accordance with clause
+8.4.1, will meet the NTA warranty. In respect of the revaluation, the
+Plaintiffs rely on a valuation of the Property done by one Wong Kum Sek dated
+3 January 2001. That valuation was done actually for the purpose of stamping
+the transfer of shares from Lee Choo to Tiak Chuan.
+
+10\. PUI’s primary position is that there is a breach of the NTA warranty in
+that the NTA value of Nam Kee as at the Completion Date and as reflected in
+the 16 May 2001 Completion Accounts, which I shall come to, and as determined
+in accordance with clause 8.4.1, is $2,038,808.95 only. Therefore the
+shortfall is $461,191.05. PUI’s primary position is based on its stand that
+the Property need not be revalued for the Completion Accounts. There was also
+evidence for PUI that even if revaluation should be carried out, the
+Plaintiffs would still be in breach of the NTA warranty because the valuation
+which PUI has obtained is even lower than the book value of the Property
+before revaluation. However PUI’s pleadings do not assert this alternative.
+This means that the minimum that the Plaintiffs are entitled to is the
+difference between the Retention Sum and the shortfall in the NTA warranty as
+determined in accordance with clause 8.4.1 from the 16 May 2001 Completion
+Accounts i.e $500,000 - $461,191.05 = $38,808.95. In its pleadings, PUI also
+alleges other breaches by the Plaintiffs and counterclaimed damages. However,
+in the course of the trial, PUI abandoned its allegation of other breaches and
+relied solely on the breach of the NTA warranty. This means that PUI’s
+counterclaim is effectively abandoned.
+
+_**
+
+Further facts and allegations
+
+**_
+
+11\. The statutory auditor of Nam Kee’s accounts was Tan Peck Leng, Irving of
+Irving Tan & Co. After some chasing, he provided the Completion Accounts
+purportedly audited by him with his cover letter dated 16 May 2001. I have
+refereed to this set of Completion Accounts as ‘the 16 May 2001 Completion
+Accounts’. These Completion Accounts were prepared and purportedly audited as
+at 15 January 2001, the contractual completion date even though the actual
+completion date was 17 January 2001. However, no issue was taken on the
+difference of two days.
+
+12\. I would add that Irving Tan insisted that he did audit the 16 May 2001
+Completion Accounts, as well as a revised set of Completion Accounts forwarded
+with a cover letter dated 8 August 2001 (‘the 8 August 2001 Completion
+Accounts’), even though each of his cover letters enclosing the respective
+Completion Accounts used the word ‘review’ and not ‘audit’. Although he has
+about ten years’ experience as a certified public accountant, he said he was
+not aware that the Singapore Standard of Accounting made a distinction between
+a review and an audit. To him, the two words were used interchangeably. On the
+other hand, PUI’s expert witness Mr Foong Daw Ching was of the opinion that
+Irving Tan did not do an audit, partly because Irving Tan himself had used the
+word ‘review’ and also because Irving Tan had failed to take certain necessary
+steps which would have been done in an audit, for example, a bank
+reconciliation, and a debtors and creditors circularisation as at 15 January
+2001 (NE 216 and 217).
+
+13\. I accept Mr Foong’s evidence on this point. I would add that although
+Irving Tan said he did not exhibit all the work he had done before coming up
+with the first set of Completion Accounts i.e the 16 May 2001 Completion
+Accounts, it is clear to me that, in any event, the work he had not exhibited
+pertained to the audit of the accounts up to 31 December 2000 only as he
+himself admitted (NE 55). True, that work would assist him to follow up with
+an audit of the accounts up to 15 January 2001, but that is a different point.
+I am of the view that he did not carry out a further audit up to 15 January
+2001 in respect of the 16 May 2001 and the 8 August 2001 Completion Accounts.
+I find his assertion that he had done an audit up to 15 January 2001,
+notwithstanding the omissions mentioned by Mr Foong and notwithstanding his
+cover letters that he had done a review, to be incredible. I also do not
+believe his assertion that he was not aware of a distinction between a review
+and an audit in the Singapore Standard of Accounting and that he used ‘review’
+interchangeably with ‘audit’.
+
+14\. However, as the Plaintiffs are taking the position that the 16 May 2001
+Completion Accounts were audited and Mr Francis Xavier, Counsel for PUI,
+accepts that an audit would not yield a different figure for the purpose of
+the NTA warranty, I am treating the 16 May 2001 Completion Accounts as having
+been audited for the purpose of this action only. Strangely enough, Mr Xavier
+was still taking the point that for the 8 August 2001 Completion Accounts,
+such Accounts were not audited even though an audit per se would also not
+yield a different figure for the purpose of the NTA warranty. The primary
+difference between the 16 May 2001 and the 8 August 2001 Completion Accounts
+was the inclusion in the latter of Mr Wong’s 3 January 2001 valuation of the
+Property. Accordingly, for the purpose of this action only, I am also treating
+the 8 August 2001 Completion Accounts as having been audited by Irving Tan.
+Whether the Completion Accounts should include a revaluation of the Property
+is another matter.
+
+15\. Mr Xavier also took the point that, as regards the 8 August 2001
+Completion Accounts, these Accounts were prepared more than 30 days after
+completion. On the other hand, he was content to accept the 16 May 2001
+Completion Accounts even though they too were prepared more than 30 days after
+completion. It seems to me that he was blowing hot and cold again, depending
+on which set of Completion Accounts was in favour of PUI. In my view, the fact
+that each of the Completion Accounts was prepared more than 30 days after the
+completion does not in itself make the respective Completion Accounts invalid.
+There might be a breach by one or both of the parties but that is a different
+matter.
+
+16\. Mr Xavier also took the point that the 8 August 2001 Completion Accounts
+were not jointly procured as envisaged by clause 6.2 of the SSA. Mr Xavier was
+using this point to argue that Irving Tan should not have unilaterally adopted
+Mr Wong’s 3 January 2001 valuation for the 8 August 2001 Completion Accounts,
+without giving PUI a chance to address Irving Tan on that valuation. There is
+some merit in this point but, in any event, it is no longer material since
+each side has adduced evidence before me on the valuation report it relies on,
+should a revaluation be necessary.
+
+17\. Coming back to the 16 May 2001 Completion Accounts, it was not disputed
+that these Accounts showed the NTA value of Nam Kee to be $2,038,808.95 if
+determined in accordance with clause 8.4.1. This would mean a breach of the
+NTA warranty of $2.5 million, the amount of the breach being $461,191.05, as
+stated above.
+
+18\. I digress briefly to deal with a suggestion by both Counsel for the
+opposing parties during the trial that the 16 May 2001 Completion Accounts had
+not been prepared and audited in accordance with clause 8.4.1. This turned out
+to be a misleading suggestion and caused confusion. The SSA does not require
+the Completion Accounts to be prepared and audited in accordance with clause
+8.4.1. It simply requires the Completion Accounts to be prepared by Nam Kee
+under clause 6.2 ‘on the basis of the same accounting principles as the
+Audited Accounts and the Nine-Months Audited Accounts and audited by the
+Company’s auditors …’. In other words, clause 6.2 does not require Nam Kee to
+take into account clause 8.4.1 when it is preparing the Completion Accounts.
+Nor does it require Irving Tan to take into account clause 8.4.1 when he does
+his audit. It is only after the Completion Accounts have been prepared and
+audited in accordance with clause 6.2 that the parties will then apply the
+formula in clause 8.4.1 to determine whether the Plaintiffs have met the NTA
+warranty or not.
+
+19\. In this connection, paragraph 10(d) of the Reply and Defence to
+Counterclaim was misleading. It states that the 16 May 2001 Completion
+Accounts shows an NTA value of $2,723,263.74. While that may be true, this
+figure is not determined in accordance with clause 8.4.1 and hence irrelevant
+to the dispute about the NTA warranty. In other words, it is not the NTA value
+per se that is important in the dispute but the NTA value _as determined in
+accordance with clause 8.4.1_ that is important.
+
+20\. After the 16 May 2001 Completion Accounts were submitted to PUI, PUI’s
+solicitors Rajah & Tann took the position that there was a breach of the NTA
+warranty while the Plaintiffs’ then solicitors Leong Kwok Yan disputed the
+breach. I would add that the exchange of correspondence between solicitors on
+the NTA warranty is confusing. For example, Rajah & Tann had assumed, even
+then, that the Completion Accounts had to take into account the formula in
+clause 8.4.1 and hence alleged that these Completion Accounts were not correct
+(AB 416). On the other hand, Leong Kwok Yan was relying on a figure from the
+Completion Accounts as having met the NTA warranty without taking into account
+the formula in clause 8.4.1 (AB 420). As I have said, the Completion Accounts
+do not, per se, have to take into account clause 8.4.1 It is only when the
+parties want to determine whether the NTA warranty has been met, that the
+formula in clause 8.4.1 kicks in.
+
+21\. There was subsequently a meeting on or about 2 August 2001 (‘the 2 August
+2001 meeting’) at Rajah & Tann’s office attended by representatives from PUI
+and from Rajah & Tann and Tiak Cheow, his solicitor Leong Kwok Yan and Irving
+Tan. There was some dispute as to whether this meeting was on a ‘without
+prejudice’ basis but as the substance of the meeting was referred to by both
+sides in the course of the trial without qualification, until the
+qualification was raised at a late stage in the trial, I am of the view that
+it is too late for the parties, and in particular the Plaintiffs, to assert
+that evidence as to what was said at the meeting is inadmissible.
+
+22\. It transpired that at the 2 August 2001 meeting there was an admission on
+behalf of the Plaintiffs that the NTA warranty had not been met because the
+NTA value of Nam Kee based on the 16 May 2001 Completion Accounts, and
+determined in accordance with clause 8.4.1, was $2,038,808.95 (NE 11 line 16,
+22 and 28, see also AB 447/448). Indeed, during cross-examination, Tiak Cheow
+again acknowledged that under the 16 May 2001 Completion Accounts, the NTA
+warranty had not been met (NE 11 line 11).
+
+23\. There is a dispute whether Ng Bee Bee, a director and Senior General
+Manager of PUI, had told the meeting that if the Plaintiffs could come up with
+another set of Completion Accounts which would show Nam Kee’s NTA value to be
+not less than $2.5 million, PUI would be happy to release the Retention Sum to
+the Plaintiff. However, I do not have to rule on this dispute because the
+Plaintiffs have not pleaded this allegation either as constituting a variation
+of the SSA or an estoppel of some sort.
+
+24\. What is not in dispute is that Tiak Cheow, his solicitor, and Irving Tan
+had had their own discussion as they were leaving the meeting and had come up
+with an approach which would allow the Plaintiffs to meet the NTA warranty.
+This was to adopt the valuation of the Property which had been done by Mr Wong
+on 3 January 2001 for the purpose of stamp duty in relation to the transfer of
+the two shares from Lee Choo to Tiak Chuan. Mr Wong had valued the Property at
+$2.5 million which was more than the book value of the Property. According to
+Mr Jeffrey Beh, Counsel for the Plaintiffs, the book value was $2.003 million
+(NE 3). Using Mr Wong’s valuation, Irving Tan then revised the 16 May 2001
+Completion Accounts and the revised Completion Accounts were then forwarded to
+Nam Kee with his cover letter dated 8 August 2001. As a result, the NTA value
+of Nam Kee, as determined in accordance with clause 8.4.1, became
+$2,545,369.74 instead of $2,038,808.85 under the 16 May 2001 Completion
+Accounts.
+
+25\. Irving Tan sought to justify his revision of the Completion Accounts on
+the basis that the 16 May 2001 Completion Accounts was meant for discussion
+purposes only and in any event Ng Bee Bee had agreed at the 2 August 2001
+meeting that PUI would pay the Retention Sum if the Plaintiffs could come up
+with Completion Accounts showing the NTA value as at least $2.5 million, when
+determined in accordance with clause 8.4.1.
+
+26\. I do not accept his first reason. His cover letter dated 16 May 2001
+forwarding the Completion Accounts did not suggest that it was for discussion
+purposes only. Furthermore, if it was for discussion purposes only, there
+would not have been an admission of a breach of the NTA warranty. In my view,
+the suggestion that the 16 May 2001 Completion Accounts were for discussion
+purposes only was a desperate excuse to justify its revision.
+
+27\. As for the allegation about what Ng Bee Bee had said, I have already said
+that this was not pleaded as constituting a variation or an estoppel.
+
+28\. Therefore, the main issue is whether, under the terms of the SSA, the
+Property should be revalued for the Completion Accounts.
+
+_**
+
+Should the Property be revalued?
+
+**_
+
+29\. Mr Beh relied on the terms of clause 6.2 which I have set out in para 8
+above. He also submitted that PUI does not dispute that it is an accounting
+policy of Nam Kee to revalue its leasehold land and buildings from time to
+time.
+
+30\. On this point, Mr Beh was relying on Note 2.2 of Nam Kee’s accounts for
+the year ended 31 March 2000 which states, inter alia:
+
+> ‘The building is subject to 24 years lease commencing February 1985. It was
+> revalued by a professional valuers on 30 August 1997. The revalued leasehold
+> land and building is subject to amortization for its remaining 12.5 years.’
+
+However, in my view, this submission faced considerable difficulties.
+
+31\. First, paragraph 10(d) to (f) of the Reply and Defence to Counterclaim
+states:
+
+> ‘(d) The Plaintiffs state that a Completion Account dated 16 May 2001 was
+> furnished to the Defendants. The Completion Account showed a net tangible
+> asset value of $2,723,263.74. [This was misleading as I have said in para 19
+> above.]
+>
+> (e) The Completion Account was subsequently revised which revised Completion
+> Account, dated 8 August 2001, showed a net tangible asset value of
+> $2,545,369.74, excluding the duly certified Completion Account Receivables,
+> the Completion Liabilities and any amount owed to the Company by Pan-United
+> Engineering Pte Ltd, in compliance with Clause 8.4.1 aforesaid.
+>
+> (f) _In both_ cases, the Completion Accounts were prepared on the basis of
+> the same accounting principles as the Audited Accounts and the Nine-Months
+> Audited Accounts and were duly audited by the said M/s Irving Tan & Co,
+> Certified Public Accountants, in compliance with Clause 6.2 aforesaid and in
+> consultation with the Defendants.’
+>
+> _
+>
+> [
+>
+> _ Emphasis added.]
+
+32\. I do not see how both the Completion Accounts prepared in May and in
+August 2001 could have been prepared on the same accounting principles as one
+relied on the 3 January 2001 valuation of the Property whereas the other (the
+16 May 2001 one) did not.
+
+33\. It was also not pleaded specifically that the accounting principles of
+Nam Kee required revaluation of the Property. Neither was it pleaded that the
+revaluation was done every year. Indeed, looking at Note 2.2, there was only
+one revaluation between February 1985 and 30 August 1997.
+
+34\. Mr Beh sought to rely on the fact that, in cross-examination, Mr Cheong
+Sang Hoon, a Finance and Admin Manager of PUI, was shown Note 2.2 about
+revaluation and he agreed that Nam Kee had a policy of revaluing the Property
+‘from time to time’. Mr Cheong also agreed that Irving Tan was permitted to
+take into account any revaluation of the Property in the context of the
+Completion Accounts (NE 203). In my view, this evidence does not go as far as
+Mr Beh was submitting. If there had been a revaluation for the purpose of
+updating Nam Kee’s accounts, Irving Tan would have been entitled to take that
+revaluation into account for the Completion Accounts. However, Mr Wong’s 3
+January 2001 valuation was not for the purpose of updating Nam Kee’s accounts.
+Besides, even Irving Tan, who had been the statutory auditor of Nam Kee for
+some years, did not seek a revaluation of the Property or rely on Mr Wong’s 3
+January 2001 valuation when he was auditing the 16 May 2001 Completion
+Accounts.
+
+35\. On this point, paragraph 6 of Irving Tan’s AEIC simply states that it was
+the accounting policy and practice of Nam Kee to re-value its immovable
+property but paragraph 6 stops short of stating that Nam Kee’s accounting
+policy required revaluation to be done every year. Irving Tan must have
+realised this and that is why in paragraph 7 of his AEIC, he relies not so
+much on Nam Kee’s accounting policy but on the Statement of Accounting
+Standards (‘SAS’). However, he could only say that under SAS 14, a property
+was required to be re-valued yearly if market conditions are volatile or
+between three to five years where the market is stable.
+
+36\. There was no specific plea by the Plaintiffs that the SAS would require
+revaluation of the Property. In any event, as the Property was last revalued
+on 30 August 1997, the next valuation could be in August 2002 in the absence
+of evidence of volatile market conditions.
+
+37\. It bears repeating that when Irving Tan was auditing the 16 May 2001
+Completion Accounts, he did not seek a revaluation of the Property nor rely on
+Mr Wong’s 3 January 2001 valuation even though it was Irving Tan’s office who
+had asked that such a valuation be done for the purpose of stamping the
+transfer of shares from Lee Choo to Tiak Cheow. Neither did the Plaintiffs
+propose a revaluation for the purpose of the Completion Accounts. The idea of
+using Mr Wong’s 3 January 2001 valuation came about only after it was admitted
+on behalf of the Plaintiffs that they had not met the NTA warranty.
+
+38\. As an aside, I would add that I notice that Note 2.2 of the accounts
+refers to a professional valuation on 30 August 1997 and Tiak Cheow said in
+paragraph 20 of his AEIC that ‘All previous valuations of the company’s land
+were undertaken by Wong Kum Sek & Co’. Yet Mr Wong’s second AEIC exhibited two
+earlier valuation reports in 1990 and 1995 only and none in 1997. There was no
+evidence before me as to who had done the 30 August 1997 valuation.
+
+39\. Mr Beh also sought to rely on a press report dated 20 January 2001 based
+on a press release from the Pan-United group stating that ‘The two wholly-
+owned subsidiaries of Pan-United Corporation arrived at the total purchase
+price of $10.5 million after considering NKA’s earnings potential and the
+market value of its assets". He submitted that this demonstrated that PUI had
+made its purchase on the market value of the assets of Nam Kee and not the
+book value. However, there was no other evidence that PUI was thinking of or
+had obtained or relied on a revaluation of the Property for the purpose of the
+Completion Accounts when the SSA was signed or even as at 16 May 2001. Even
+Tiak Cheow and Irving Tan were not thinking of relying on Mr Wong’s 3 January
+2001 valuation up to 16 May 2001, even though each of them was aware that Mr
+Wong had done a recent valuation for the purpose of stamp duty.
+
+40\. Likewise, although PUI had accepted the figure of $2.5 million as the
+value of the Property for the purpose of stamping forms for the transfer of
+shares to it, this did not mean that PUI had agreed to adopt $2.5 million as
+the value of the Property for the purpose of the Completion Accounts. It
+appears to me that, whatever the reason, when the SSA was signed and when the
+16 May 2001 Completion Accounts were being prepared, no one gave a thought to
+using the $2.5 million figure for the Completion Accounts, until August 2001.
+
+41\. Mr Beh then placed much reliance on the case of _Pacific Century Regional
+Developments Ltd v Estate of Seow Khoon Seng_ [1997] 3 SLR 761. In that case,
+Pacific Century Regional Developments Ltd (‘PCRD’) agreed to acquire 3,510,000
+shares from one Seow Khoon Seng, who had passed away, in a company called
+Pioneer Die Casting Co Ltd (‘Pioneer Die Casting’). One of the objectives of
+the agreement was the listing of Pioneer Die Casting within three years from
+the date of the agreement. Under clause 6.3.1 of the agreement, the deceased
+would have the option of re-acquiring the shares if the objective of listing
+failed. The relevant provision required the valuation of the shares to be
+based on the NTA or PE of Pioneer Die Casting, whichever was the higher.
+Clause 6.3.2 of the agreement in that case provided:
+
+> ‘(a) ‘NTA’ means the net tangible asset value of the company as at the end
+> of the financial year immediately preceding the exercise date based on the
+> audited financial statements of the company _in accordance with generally
+> accepted accounting principles and practices_ in Singapore _as determined_
+> by the auditors of the company who shall decide _as experts_ and not as
+> arbitrators, and whose determination shall be final and conclusive.’
+
+> [Emphasis added.]
+
+42\. The shares of Pioneer Die Casting were not listed. One Vincent Seow,
+representing the estate of the deceased, then wrote on 27 September 1995 to Mr
+Gerard Ee of Ernst & Young to obtain a valuation of the shares as at 31
+December 1994 for the purpose of exercising ‘appropriate options’, meaning the
+option to re-acquire the shares from PCRD although there were various options
+available. Ernst & Young were the statutory auditors of Pioneer Die Casting.
+Mr Ee replied promptly on 28 September 1995. In his opinion, the NTA value as
+at 31 December 1994 was approximately $1.10 per share. However his reply had a
+specific qualification which stated:
+
+> ‘Kindly note that the fixed assets should be revalued for proper valuation.
+> It includes leasehold land and building which was last revalued based on
+> professional valuation on 24 November 1981.’
+
+At that time, Mr Ee had not seen clause 6.3.2.
+
+43\. Vincent Seow was dissatisfied with this qualification as revaluation had
+not been stated in the agreement or in his letter to Ernst & Young. He then
+met with Mr Ee and brought his attention to clause 6.3.2 Mr Ee then issued
+another letter also dated 28 September 1995 but the qualification was removed.
+However, Mr Ee maintained that he had expressly said that the second letter
+was not to be used in conjunction with clause 6.3.2 of the agreement. On 10
+November 1995, the estate’s solicitors gave notice of election to re-acquire
+all the shares held by PCRD in Pioneer Die Casting at $1.10 per share.
+
+44\. On 15 November 1995, PCRD wrote in response to this notice as well as the
+28 September 1995 letter from Mr Ee (which did not contain the qualification).
+PCRD stated that the valuation had failed to take into account the relevant
+market value of the real estate properties of Pioneer Die Casting and its
+subsidiaries. Also, they requested the PE figure to be determined. On 16
+November 1995, PCRD’s solicitors wrote to Ernst & Young to request a valuation
+based on the PE. On the same day, Mr Ee replied. The relevant part of his
+letter stated that the value given on the shares on 28 September 1995 took the
+values as stated in the audited balance sheet as at 31 December 1994. The
+value was given ‘in response to a general enquiry from a director and is not
+by reference to any terms that may be set out in any option agreement’. On 21
+November 1995, Mr Ee stressed the same point in another letter to PCRD’s
+solicitors. In addition, he informed them that the valuation based on PE was
+four cents.
+
+45\. In the meantime, PCRD’s President had sent Mr Ee a fax on 16 November
+1995 asking for his determination of the NTA value with respect to clause
+6.3.2. On 29 November 1995, Mr Ee replied to state that the NTA per share was
+$1.50. According to Mr Ee, this value had been arrived at by taking into
+account the revaluation of the leasehold land and buildings of the group as at
+31 December 1994, based upon independent professional valuers’ reports.
+
+46\. The trial judge did not think that there was room for further
+investigation or revaluation once the accounts of Pioneer Die Casting had been
+finalised. The Court of Appeal disagreed for three reasons.
+
+47\. First, clause 6.3.2 in that case provided for the NTA ‘to be based on the
+audited financial statements of the company _in accordance with generally
+accepted accounting principles and practices_.’ [Emphasis added.] The Court of
+Appeal was of the view that the second limb meant that the NTA would not be
+based solely on the audited financial statements, otherwise the second limb
+would be otiose. In addition, there were six affidavits from partners of well-
+known accounting firms all of whom stated that if they were appointed as an
+expert under clause 6.3.2, they would value the shares on the basis of
+revalued assets.
+
+48\. Secondly, clause 6.3.2 required the statutory auditors there to make a
+decision as ‘experts and not as arbitrators’. If the NTA was to be based on
+the audited financial statements alone, appointing an expert to assess the NTA
+would seem unnecessary. On the other hand, only an auditor, as an expert,
+would be in a position to revalue the fixed assets and assess the NTA as a
+result.
+
+49\. Thirdly, the Court of Appeal was of the view that the agreement had to be
+looked at from a commercial perspective. Relying on the book Share Valuations
+by TA Hamilton Baynes, the Court of Appeal was of the view that basing the NTA
+purely on the audited financial statements would not reflect the correct worth
+of the shares. The last revaluation was on 24 November 1981, about 13 to 14
+years earlier. No reasonable person would expect the shares to be based on
+figures last determined in 1981 and, again, the Court of Appeal relied on the
+six affidavits from partners of well-known accounting firms which I have
+already mentioned.
+
+50\. In the case before me, the SSA is silent about revaluation as was the
+case of the agreement in the _PCRD_ case. However, many of the facts before me
+are somewhat different from those in the _PCRD_ case.
+
+51\. First, clause 6.2 of the SSA does not have the second limb of clause
+6.3.2 in the _PCRD_ case.
+
+52\. Secondly, the statutory auditors of Nam Kee are not required to act as
+experts. On this point, I digress to say that the requirement of an auditor to
+decide as an expert and not as an arbitrator does not , by itself, necessarily
+mean that there must be revaluation. I do not consider the judgment of the
+Court of Appeal in the _PCRD_ case to mean that. The phrase ‘to decide as
+experts and not as arbitrators’ is often used to ensure that the auditors’
+decision is not appealable even though another phrase ‘whose determination
+shall be final and conclusive’ is used as well. In my view, the latter phrase
+is used merely to emphasize the point that the auditors’ decision is not
+appealable.
+
+53\. Thirdly, while I accept that the SSA should be viewed from a commercial
+perspective, even though Irving Tan claimed he had been told by one of PUI’s
+representatives that it was a friendly deal (NE 35), this is not a case where
+the last valuation was done 13 or 14 years ago but about three and a half
+years ago. More importantly, unlike the _PCRD_ case, there was no evidence on
+the Plaintiffs’ side from any other auditor that a revaluation of the Property
+should be done first before the accounts of Nam Kee were prepared as at the
+Completion Date. Indeed, it will be recalled that under clause 6.2 of the SSA,
+the statutory auditors are only required to audit the Completion Accounts.
+They are not required to determine the NTA value under clause 8.4.1. That is
+for the parties to ascertain from the Completion Accounts once they have been
+prepared and audited (up to the Completion Date).
+
+54\. Fourthly, unlike Gerard Ee in the _PCRD_ case, the statutory auditor
+Irving Tan did not initially mention the need for a revaluation of the
+Property for the purpose of the Completion Accounts. I have already set out
+the circumstances as to how Irving Tan came to use the 3 January 2001
+valuation of Mr Wong, after there was already an admission of a breach of the
+NTA warranty.
+
+55\. The evidence of PUI’s expert witness Foong Daw Ching did not shed any
+further light on this point. In his report, he said only that upon receipt of
+Mr Wong’s 3 January 2001 valuation report, Irving Tan should have sought the
+views of PUI. However, this comment appeared to apply to the revision of the
+Completion Accounts dated 8 August 2001. Mr Foong did not assert, one way or
+the other, whether there should be, in the first place, a revaluation under
+clause 6.2 of the SSA. Neither was he asked this question in cross-
+examination.
+
+56\. Mr Beh also submitted that PUI had recognised the need for revaluation
+because its solicitors Rajah & Tann wrote to Irving Tan on 6 December 2001 to
+ask him to take into account two valuation reports, one of which was from CB
+Richard Ellis Pte Ltd (‘Richard Ellis’). The other was from DTZ Debenham Tie
+Leung (SEA) Pte Ltd, but I have disallowed a late application to adduce
+evidence from a representative of DTZ as the application should have been made
+earlier. It seems to me that while the letter from Rajah & Tann does appear to
+suggest that PUI was proceeding on the basis of a revaluation of the Property,
+it should not be read in isolation. Rajah & Tann had already on 17 September
+2001 written to Leong Kwok Yan to object to any revaluation. Therefore their
+letter dated 6 December 2001 should be read to mean that, if a revaluation was
+necessary, PUI had obtained valuation from two other valuers.
+
+57\. In the particular circumstances, I am of the view that Clause 6.2 of the
+SSA does not require a revaluation of the Property and the Plaintiffs have
+breached the NTA warranty.
+
+_**
+
+Secondary Question
+
+**_
+
+58\. A secondary question is whether there should be an adjustment
+nevertheless to the 16 May 2001 Completion Accounts. In cross-examination,
+Irving Tan said that the accountant in Nam Kee had applied depreciation for
+the two week period from 1 January to 15 January 2001. As the depreciation
+charge was on an annual basis, he would put back $11,977.55 i.e increase the
+NTA of Nam Kee by this sum. However, he did not explain why, in the first
+place, he had included the depreciation charge when he audited the 16 May 2001
+Completion Accounts. It is not as though he was unaware of this depreciation
+charge at the material time. He could have rejected the depreciation charge
+then but he did not.
+
+59\. I am of the view that Irving Tan cannot try and revise or adjust the
+depreciation charge now. While the depreciation charge is usually applied on
+an annual basis, it should be pro-rated since the Completion Accounts were to
+be prepared as at 15 January 2001.
+
+_**
+
+The correct value of the Property as at 15 January 2001
+
+**_
+
+60\. In the circumstances, it is not necessary for me to decide whether Mr
+Wong’s 3 January 2001 valuation should be adopted to determine whether the NTA
+warranty has been breached. However, for completeness, I will deal with this
+point.
+
+61\. Mr Xavier raised a number of arguments to persuade me why I should not
+accept Mr Wong’s 3 January 2001 valuation, if a revaluation should be done,
+and that I should instead adopt a valuation report dated 23 November 2001 by
+Richard Ellis which valued the Property at $1.85 million. I will mention Mr
+Xavier’s main arguments only.
+
+62\. First, Mr Wong’s 3 January 2001 valuation was not for the purpose of the
+SSA but for stamp duty on the transfer of shares from Lee Choo to Tiak Chuan.
+Even Irving Tan had said, during cross-examination, that he did not actually
+ask to see a copy of Mr Wong’s 3 January 2001 valuation before issuing the 16
+May 2001 Completion Accounts because that valuation was for a share transfer
+(NE 44). I would add that although Irving Tan then said in re-examination that
+he had not thought about that valuation at the material time (NE 59), he did
+not explain why this was so if revaluation should have been done. The truth of
+the matter is that up to 16 May 2002 he did not think that a revaluation
+should be done.
+
+63\. Secondly, although Mr Wong’s valuation was based on comparables, the
+comparable properties were not listed in Mr Wong’s 3 January 2001 valuation.
+Mr Wong did not dispute that the had omitted the list of comparables in the
+valuation report but said that he had had them in mind when he did the
+valuation. In his first AEIC, he enclosed a list of comparables. However, some
+of the information in that list was inaccurate as to either the floor area or
+the price per square foot of a sale. Mr Wong then filed a second AEIC to
+include a list to replace the one he had exhibited to his first AEIC. In that
+list he corrected the earlier errors and included information on the period
+remaining of the leasehold comparables. However, there were again errors in
+his fresh list.
+
+64\. For example, as regards two of the comparables, the period remaining of
+their leases was incorrect because Mr Wong had calculated the remaining period
+from 15 January 2001 whereas he should have instead calculated it from the
+respective dates of sales/ transfers. Mr Xavier also submitted that item 3 of
+Mr Wong’s list of comparables (which is 16 Benoi Sector) was of a property
+sold or transferred on 15 January 2001 i.e after Mr Wong’s 3 January 2001
+valuation. He could not have had this comparable in mind as at 3 January 2001
+and he probably included it in his subsequent list to justify his valuation.
+To be fair, when Mr Wong sought to include his list of comparables, he
+referred to it as ‘evidence of value’ and he did not actually say that these
+were the comparables he had had in mind when he gave his 3 January 2001
+report/valuation. In cross-examination, he said he included this property to
+show the trend of values (NE 78). In my view, he should have made it clear in
+his list that that property was sold/ transferred after the date of his
+valuation.
+
+65\. Thirdly, Mr Xavier submitted that although Mr Wong had inspected the
+Property again before his 3 January 2001 valuation, he had not measured the
+floor area of the buildings again. What Mr Wong had done was to adopt a figure
+of 4,449.2 square metres reflected in his earlier 1990 report of the Property.
+I would also mention that although Mr Wong used the word ‘Built-in-area’, what
+he meant was the floor area. The 4,449.2 square metres was the total floor
+area of two office buildings, two single-storey factory buildings and two
+single-storey guardhouses. Mr Wong explained that this figure was based on
+actual site measurements as opposed to measurements taken from plans.
+
+66\. On the other hand, Richard Ellis’ measurements, as reflected in their
+report, were taken from plans. They came up with a figure of 3,694.80 square
+metres excluding a covered linkway between two production buildings and two
+guardhouses. However, Richard Ellis’ witness Ms Sim Hwee Yan had, prior to
+giving evidence, done on-site measurements, and her measurements resulted in a
+floor area of 3,754.26 square metres. She also measured the covered linkway
+between two production buildings and the two guardhouses on site and if these
+were taken into account, the total would be 4,059.60 square metres, still less
+than Mr Wong’s 4,449.2 square metres.
+
+67\. Unfortunately for the Plaintiffs, Mr Wong no longer had his working
+papers for the 1990 valuation. Furthermore, Richard Ellis’ measurements from
+the plans and on-site measurements were not challenged during cross-
+examination.
+
+68\. To explain why his measurement of the floor area was 4,449.2 square
+metres, Mr Wong said that he had included the areas below the roof eaves as
+floor area. However, Ms Sim had, also prior to giving evidence, measured these
+areas to test his assertion. The areas below the eaves would have resulted in
+an additional 970.50 square metres, if the covered linkway was included, which
+would then make the total floor area 5,030.10 square metres (i.e 4,059.60 +
+970.50 square metres). This was quite a lot more than Mr Wong’s 4,449.20
+square metres.
+
+69\. Mr Xavier also submitted that Mr Wong’s 1990 report stated that the floor
+area of the larger of the two office buildings was 598 square metres,
+including the power station. The total floor area of both the office buildings
+was 918 square metres. This meant that the floor area of the smaller office
+building was 320 square metres (i.e 918 - 598 square metres). However, Ms
+Sim’s measurements on site showed the floor area of the smaller office to be
+324 square metres without taking into account the eaves area around this
+building. This figure of 324 square metres, without the eaves area, was
+already more than Mr Wong’s 320 square metres. The eaves area, of the smaller
+office building, would be another 71.40 square metres (Exhibit D9).
+
+70\. Mr Xavier submitted that Mr Wong could not have included the eaves area
+in his measurement in 1990 of the floor area and that the explanation about
+the eaves area was just an excuse to justify Mr Wong’s error of 4,449.2 square
+metres.
+
+71\. Mr Wong’s reason for including the eaves area as floor area appeared to
+be that the eaves area was concreted and was used as part of the building. It
+could be used to store goods (NE 87). On the other hand, the evidence of Ms
+Sim was that floor areas given in comparables do not include the area below
+the eaves (NE 228). She was not challenged on this. I do not accept Mr Wong’s
+reason as a good reason. The area below the eaves was almost as much exposed
+to weather as the area outside of the eaves. The fact that the floor of the
+eaves area was concreted was of minimal value as he himself accepted (NE 88).
+
+72\. However, Mr Beh submitted that on the authority of _Lim Bio Hiong Roger v
+City Developments_ Ltd [2000] 1 SLR 289, the eaves area should be treated as
+part of the floor area for the purpose of valuation. In my view, that case did
+not assist Mr Beh because it did not concern the valuation of a property and
+also did not concern the eaves area. I accept Mr Xavier’s submission that Mr
+Wong had used the eaves area as an attempt to justify the total floor area he
+had reported in 1990.
+
+73\. It also seems to me that Mr Wong had done his 3 January 2001 valuation
+rather casually. That is why he did not attach a list of comparables to that
+valuation. That is also why there were errors in the list of comparables he
+tendered eventually and errors again in his revised list. He must have known
+that his 3 January 2001 valuation was in respect of the transfer of two shares
+only and hence did not put in as much effort as he might otherwise have done
+had he been instructed to do a valuation for Nam Kee’s accounts.
+
+74\. Although Mr Wong’s 3 January 2001 valuation has the benefit of having
+been done before any dispute arose, Ms Sim said that Richard Ellis were told
+that their valuation was for the company’s financial statement (NE 223). There
+was no suggestion that they knew that the valuation was required to resolve a
+dispute.
+
+75\. Ms Sim is a director of Richard Ellis although it was a licensed valuer
+of Richard Ellis, Claire Woo, who did the initial leg-work such as inspecting
+the Property, taking photographs, inspecting comparables, calculating floor
+area, and making adjustments in view of comparables. However Ms Sim said she
+did sit down with Claire Woo to discuss Ms Woo’s proposed valuation before the
+report was finalised and Ms Sim did inspect the Property before she gave her
+evidence. Furthermore, as I have said, although Richard Ellis’ valuation was
+based on measurements of floor area taken from plans, Ms Sim did go down to
+the site subsequently to take measurements of the floor areas and later, the
+eaves area, before she gave evidence.
+
+76\. Although Mr Beh submitted that working papers of Richard Ellis were not
+produced in evidence, he did not ask for them to be produced or, as I have
+said, challenge the accuracy of their measurements during cross-examination.
+Furthermore, I was quite impressed by Ms Sim’s overall evidence which I find
+to be generally steady.
+
+77\. On balance, I am of the view that the valuation report by Richard Ellis
+is to be preferred subject to the qualification that Ms Sim’s on-site
+measurements revealed a slightly larger floor area of 4,059.70 square metres
+(which includes the floor area of the covered linkway and two guardhouses) as
+compared to 3,964.80 square metres (which is based on plans and excludes the
+covered linkway and two guardhouses). The difference is 94.9 square metres,
+slightly more than 2%. In any event, Ms Sim had said that other valuers might
+differ between 5% to 10% from Richard Ellis’ valuation and her own range of
+the value was $1.82 million to $1.9 million (NE 229 and 225). Using the higher
+end of her range i.e $1.9 million and adding 10% thereto would result in a
+figure of about $2.09 million which I will round up to $2.1 million.
+
+78\. Accordingly, if a revaluation of the Property should be done, I am of the
+view that the correct value thereof as at 15 January 2001 would be $2.1
+million and the Completion Accounts should then be adjusted accordingly before
+clause 8.4.1 is applied.
+
+_**
+
+Conclusion
+
+**_
+
+79\. As I have concluded that the SSA does not require a revaluation of the
+Property, the NTA value, as determined in accordance with clause 8.4.1, has
+resulted in a shortfall of $461,191.05. After setting off the shortfall
+against the Retention Sum, PUI still has to pay the Plaintiffs $38,808.95. I
+grant judgment to the Plaintiffs for $38,808.95 and interest thereon at 6% per
+annum from the date of Writ to the date of judgment. PUI’s counterclaim is
+dismissed. The Plaintiffs have not succeeded substantially on their claim and
+I will hear the parties on costs.
+
+_**
+
+Observation
+
+**_
+
+80\. I would add one observation. PUI had initially raised some other defences
+which were unmeritorious or irrelevant. These defences were dropped only
+during the trial. In my view, its attempt to rely on such defences does not
+reflect well on it.
+
+Sgd:
+
+**
+
+** WOO BIH LI
+
+JUDICIAL COMMISSIONER
+
+SINGAPORE
+
+Copyright © Government of Singapore.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 0: 28 Oct 2002 (00:00 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

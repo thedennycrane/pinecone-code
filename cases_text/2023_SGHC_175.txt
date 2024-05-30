@@ -1,0 +1,1469 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE high court of the republic of singapore
+
+[2023] SGHC 175
+
+Originating Application No 160 of 2023
+
+In the matter of Order 36, Rule 3 of the Rules of Court 2021
+
+And
+
+In the matter of Section 27 of the Building and Construction Industry Security
+of Payment Act 2004
+
+And
+
+In the matter of Section 27(6) of the Building and Construction Industry
+Security of Payment Act 2004
+
+And
+
+In the matter of the Adjudication Application No 226 of 2022 between A I
+Associates Pte Ltd as Claimant and Asia Grand Pte Ltd as Respondent
+
+And
+
+In the matter of the Adjudication Determination dated 15 February 2023 in
+respect of Adjudication Application No 226 of 2022
+
+Between
+
+| Asia Grand Pte Ltd  
+---|---  
+  
+… Claimant
+
+And
+
+| A I Associates Pte Ltd  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Building and Construction Law — Statutes and regulations — Date of service of
+payment claim — Sections 10(2)(a)(ii) and 10(3)(b) of the Building and
+Construction Industry Security of Payment Act 2004 (2020 Rev Ed) — Regulations
+5(1) and 5(3) of the Building and Construction Industry Security of Payment
+Regulations (2006 Rev Ed)]
+
+[Building and Construction Law — Statutes and regulations — Application of the
+Building and Construction Industry Security of Payment Act 2004 (2020 Rev Ed)
+— Whether ambit of application is based on frequency and method for
+quantification of payment claims]
+
+[Building and Construction Law — Jurisdictional objection — Whether lack of
+performance bond a ground for setting aside adjudication determination]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Asia Grand Pte Ltd
+
+  
+v
+
+  
+
+A I Associates Pte Ltd
+
+[2023] SGHC 175
+
+General Division of the High Court — Originating Application No 160 of 2023  
+Teh Hwee Hwee JC  
+13, 26 April 2023
+
+22 June 2023 Judgment reserved.
+
+Teh Hwee Hwee JC:
+
+1 The Building and Construction Industry Security of Payment Act 2004 (2020
+Rev Ed) (“SOPA”) was enacted to introduce a regime for interim payments and a
+procedure to resolve payment disputes that facilitate cash flow in the
+construction industry. The legislative purpose is achieved by creating a
+statutory scheme for payment for work done or materials supplied that is
+effected “through an expeditious process that requires strict adherence to
+timelines”: see the High Court decision of Libra Building Construction Pte Ltd
+v Emergent Engineering Pte Ltd [2016] 1 SLR 481 (“Libra”) at [84], referring
+to the Court of Appeal decision of Citiwall Safety Glass Pte Ltd v Mansource
+Interior Pte Ltd [2015] 5 SLR 482 at [27]–[30], in which the importance of
+strict compliance with the timelines under the SOPA for responses, notices,
+and adjudication applications and responses was underscored. The present case
+raises the issue of how the various timelines in this process are to be
+determined and concerns the interpretation of the relevant provisions under
+the SOPA.
+
+Facts
+
+2 The claimant in this application is Asia Grand Pte Ltd (“AGPL”). The
+defendant is A I Associates Pte Ltd (“AI”). Both companies are incorporated in
+Singapore.
+
+3 AGPL was the employer in a project known as the “Remodelling of Chinese
+Restaurant at #03-22 Fairmont Hotel, 80 Bras Basah Road, Singapore 189560”
+(the “Project”). 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Andrew Cheng Lloyd dated 21 March 2023 (“ACL”) at para 6.
+
+Through a letter of award dated 13 July 2022 sent by AGPL’s interior design
+consultant, AGPL awarded AI a contract (the “Contract”) to carry out works for
+the Project. 2
+
+##### Foot Note 2
+
+×
+
+Affidavit of Chau Pak Heen dated 22 February 2023 (“CPH”) at p 692; ACL at
+para 7.
+
+4 The Contract did not contain a provision specifying the date on which
+payment claims under the Contract were to be served. 3
+
+##### Foot Note 3
+
+×
+
+AGPL’s Written Submissions dated 5 April 2023 (“CWS”) at paras 14 and 15.
+
+Neither did the Contract specify the date on which payment responses under the
+Contract were to be served. 4
+
+##### Foot Note 4
+
+×
+
+ACL at para 10; AI’s Written Submissions dated 3 April 2023 (“DWS”) at para 9.
+
+However, the Contract provided for “weekly progress claims” under cl 14, which
+was titled “Terms of Payment & Retention”. 5
+
+##### Foot Note 5
+
+×
+
+CPH at para 38 and p 357.
+
+5 On 16 November 2022, AI served its payment claim bearing reference number
+SQ1396-22 (the “PC”) on AGPL. 6
+
+##### Foot Note 6
+
+×
+
+CPH at pp 530–563; ACL at para 8.
+
+The PC was for a sum of $133,529.08, inclusive of Goods and Services Tax
+(“GST”). 7
+
+##### Foot Note 7
+
+×
+
+CPH at p 531; ACL at para 8.
+
+6 On 13 December 2022, AI served a Notice of Intention to Apply for
+Adjudication in respect of the PC that was served on AGPL. 8
+
+##### Foot Note 8
+
+×
+
+CPH at para 35 and pp 613–617; ACL at para 15.
+
+On the same day, AI lodged an adjudication application with the authorised
+nominating body, the Singapore Mediation Centre, claiming the sum of
+$133,529.08 as stated in the PC, inclusive of GST. 9
+
+##### Foot Note 9
+
+×
+
+Adjudication Determination dated 15 February 2023 (“AD”) at paras 9 and 107.
+
+This was adjudication application SOP/AA 226 of 2022 (“SOP/AA 226 of 2022”).
+
+7 On 14 December 2022, one day after the adjudication application was filed,
+AGPL served a payment response in respect of the PC. 10
+
+##### Foot Note 10
+
+×
+
+CPH at pp 98–143.
+
+In the cover letter for the payment response, AGPL asserted that its payment
+response was served in compliance with the timelines provided under the SOPA
+and the Building and Construction Industry Security of Payment Regulations
+(2006 Rev Ed) (“SOPR”) and that AI’s 13 December 2022 notice was defective. 11
+
+##### Foot Note 11
+
+×
+
+CPH at p 98, paras 2–4.
+
+Decision of the learned Adjudicator in SOP/AA 226 of 2022
+
+8 The learned Adjudicator appointed to adjudicate SOP/AA 226 of 2022 held an
+adjudication conference on 19 January 2023 and heard the oral submissions of
+the parties. 12
+
+##### Foot Note 12
+
+×
+
+AD at paras 26–27.
+
+The written adjudication determination (the “Adjudication Determination”) was
+released on 15 February 2023. The Adjudication Determination comprised
+separate sections, with one section assessing the jurisdictional issues raised
+in SOP/AA 226 of 2022, and another section dealing with the merits. Only the
+jurisdictional issues are relevant in the present application.
+
+9 The first jurisdictional issue that the learned Adjudicator had to decide
+was whether the adjudication application in SOP/AA 226 of 2022 was premature.
+This issue turned on the time at which the PC was served by AI, which had a
+direct bearing on when the payment response from AGPL was due. This
+consequently affected the question of when AI’s entitlement to make an
+adjudication application under s 12(2) of the SOPA first arose. 13
+
+##### Foot Note 13
+
+×
+
+AD at para 41.
+
+The main dispute revolved around the question of whether the PC should be
+regarded as having been served on 16 November 2022, which is the date on which
+it was actually served, or on 30 November 2022, being the last day of the
+month, which AGPL argued is the deemed date of service under ss 10(2)(a)(ii)
+and 10(3)(b) of the SOPA.
+
+10 The learned Adjudicator determined that the date of service of the PC was
+16 November 2022. In his view, the PC was not deemed to have been served on 30
+November 2022 because that date was not the “prescribed date” within the
+meaning of ss 10(2)(a)(ii) and 10(3)(b) of the SOPA. 14
+
+##### Foot Note 14
+
+×
+
+AD at para 42.
+
+The learned Adjudicator expressed the opinion that reg 5(1) of the SOPR, which
+governs contracts that do not contain any provision specifying the time at
+which a payment claim must be served, requires a claimant to serve the payment
+claim by, and not on, the last day of the month. A payment claim could
+therefore be served on any day in a month as reg 5(1) of the SOPR provides for
+a period of time for the service of a payment claim, as opposed to any
+specific or prescribed date. 15
+
+##### Foot Note 15
+
+×
+
+AD at para 43.
+
+Further, AGPL’s interpretation would require reg 5(1) to be read to require a
+payment claim to be served on the last day of the month, which is not what the
+regulation provides for. 16
+
+##### Foot Note 16
+
+×
+
+AD at para 43.
+
+11 The learned Adjudicator observed that Parliament had introduced the deeming
+provisions in s 10(3) of the SOPA to save payment claims served earlier than
+the contractually provided dates from being defeated, by deeming those claims
+to be validly served in accordance with the contractually provided timelines.
+17
+
+##### Foot Note 17
+
+×
+
+AD at paras 49–50.
+
+Before the SOPA was amended in 2018, there were instances where the validity
+of payment claims was challenged because the payment claims were served on the
+“wrong date” (see Singapore Parliamentary Debates, Official Report (2 October
+2018) vol 94 (Mr Zaqy Mohamad, Minister of State for National Development)
+(“2018 Debate”)). That led to payment delays. In the learned Adjudicator’s
+view, s 10(3)(b) of the SOPA has no application in any reg 5(1) situation
+where the contract is silent on service timelines for payment claims, as there
+is nothing to be saved since the payment claim may be served on any day in a
+month. Section 10(3) therefore does not come into play. 18
+
+##### Foot Note 18
+
+×
+
+AD at para 50.
+
+In addition, the learned Adjudicator noted that the words “or last day
+mentioned in subsection 2(a)(i) …” [emphasis added], which are present in s
+10(3)(a) of the SOPA, are absent in s 10(3)(b) of the SOPA. He relied on that
+to provide support for the view that the prescribed date mentioned in s
+10(3)(b) of the SOPA cannot be the last day of the month. 19
+
+##### Foot Note 19
+
+×
+
+AD at para 52.
+
+12 In light of the foregoing, the learned Adjudicator decided that the time
+for AGPL to serve the payment response had started running from 17 November
+2022. 20
+
+##### Foot Note 20
+
+×
+
+AD at para 53.
+
+On this basis, the payment response was due on 30 November 2022 21
+
+##### Foot Note 21
+
+×
+
+AD at para 84.
+
+and the entitlement to lodge an adjudication application would then subsist
+from 8 to 14 December 2022. 22
+
+##### Foot Note 22
+
+×
+
+AD at paras 58–59.
+
+The learned Adjudicator, therefore, found the adjudication application lodged
+by AI on 13 December 2022 in SOP/AA 226 of 2022 to be in compliance with the
+statutory timeline. 23
+
+##### Foot Note 23
+
+×
+
+AD at paras 59–60.
+
+Relatedly, the learned Adjudicator found that AGPL’s payment response served
+on 14 December 2022 was served late and was not valid. 24
+
+##### Foot Note 24
+
+×
+
+AD at paras 84–86.
+
+13 The second jurisdictional issue that the learned Adjudicator had to
+determine was whether the PC fell outside the ambit of the SOPA because the
+Contract provided for weekly (as opposed to monthly) progress claims. 25
+
+##### Foot Note 25
+
+×
+
+AD at para 61.
+
+14 The learned Adjudicator determined that the word “weekly” in cl 14  would
+be rendered void under s 36(2)(a) of the SOPA as a contractual term purporting
+to modify the operation of reg 5(1A) of the SOPR. 26
+
+##### Foot Note 26
+
+×
+
+AD at para 73.
+
+In his view, if the word “weekly” is rendered void, or if the entire provision
+in cl 14 is rendered void, then the Contract would be silent on the frequency
+of payment claims and/or whether AI was entitled to submit payment claims for
+work done, which allows the SOPA to operate as a “gap-filler” to prescribe for
+monthly payment claims. 27
+
+##### Foot Note 27
+
+×
+
+AD at paras 74–76.
+
+The learned Adjudicator rejected AGPL’s argument that since the Contract
+provides for weekly and not monthly payment claims, this breaches the maximum
+frequency of one claim per month allowable under the SOPA and therefore any
+payment claims served would fall outside the ambit of the SOPA. In this
+regard, the learned Adjudicator observed that to allow contracts to fall
+outside the ambit of the SOPA through a contractual term providing for a
+frequency of claims exceeding one payment claim per month would allow parties
+to easily contract out of the provisions of the SOPA, which is inimical to the
+legislative purpose of the SOPA. 28
+
+##### Foot Note 28
+
+×
+
+AD at para 77.
+
+15 Finally, the learned Adjudicator examined AGPL’s contention that the PC
+encompassed multiple claims and was therefore impermissible under the SOPA. 29
+
+##### Foot Note 29
+
+×
+
+AD at para 79.
+
+The learned Adjudicator found that this contention took the form of a vague
+statement in AGPL’s written submissions at the adjudication stating that “it
+is possible that there are multiple claims with respect to the ‘Progress
+Claim’ of 16 November 2022” [emphasis added]. 30
+
+##### Foot Note 30
+
+×
+
+AD at para 79.
+
+Crucially, the learned Adjudicator noted that no other details of the
+“multiple claims” were provided by AGPL. 31
+
+##### Foot Note 31
+
+×
+
+AD at para 80.
+
+I note that AGPL did not attempt to revive this contention as a basis for
+setting aside the Adjudication Determination.
+
+16 In summary, the learned Adjudicator determined that he had jurisdiction to
+adjudicate SOP/AA 226 of 2022. Upon an evaluation of the merits of the claim,
+he determined that AGPL was to pay AI the adjudicated amount of $94,097.21
+(inclusive of GST) plus 100% of the costs of the adjudication. 32
+
+##### Foot Note 32
+
+×
+
+AD at paras 3(a), 174 and 183.
+
+The parties’ cases in this application
+
+AGPL’s case as the claimant
+
+17 In the present application, AGPL is applying, inter alia, to set aside the
+Adjudication Determination. 33
+
+##### Foot Note 33
+
+×
+
+HC/OA 160/2023 filed on 24 February 2023 at prayer 1.
+
+18 AGPL first argues that the adjudication application for SOP/AA 226 of 2022
+was prematurely, and therefore invalidly, lodged, rendering the learned
+Adjudicator devoid of jurisdiction. 34
+
+##### Foot Note 34
+
+×
+
+CWS at paras 7–8 and 52–53.
+
+AGPL contends that since the Contract does not specify a date for service of
+payment claims thereunder, ss 10(2)(a)(ii) and 10(3)(b) of the SOPA, read with
+regs 5(1) and 5(3) of the SOPR, operate to deem the date of service of the PC
+to be the last day of the month in which it was served (ie, 30 November 2022).
+35
+
+##### Foot Note 35
+
+×
+
+CWS at paras 27–29 and 35–37.
+
+Accordingly, it argues that the time for service of the payment response only
+started running after this deemed service date. 36
+
+##### Foot Note 36
+
+×
+
+CWS at para 39.
+
+AGPL submits that it had until 14 December 2022 to file its payment response
+in relation to the PC, and, even after 14 December 2022, it could still have
+elected to file the payment response by the end of the Dispute Settlement
+Period on 21 December 2022. 37
+
+##### Foot Note 37
+
+×
+
+CWS at para 55.
+
+Therefore, AI’s lodgement of its adjudication application on 13 December 2022
+was premature, and the Adjudication Determination ought to be set aside for
+want of jurisdiction.
+
+19 AGPL further argues that the Contract fell outside the ambit of the SOPA
+because the Contract provided for weekly payment claims, and that the PC,
+which was served for work done under the Contract, was therefore not amenable
+to adjudication under the SOPA regime. 38
+
+##### Foot Note 38
+
+×
+
+CWS at paras 56 and 61–63.
+
+In AGPL’s submission, the SOPA only applies to monthly valuated payment
+claims. 39
+
+##### Foot Note 39
+
+×
+
+CWS at paras 70–71 and 80.
+
+Furthermore, according to AGPL, s 36 of the SOPA has no application in the
+present case to void the weekly payment term in the Contract. 40
+
+##### Foot Note 40
+
+×
+
+CWS at paras 81–84.
+
+The SOPA also cannot operate to substitute an existing term in the present
+Contract for another term. 41
+
+##### Foot Note 41
+
+×
+
+CWS at paras 89 and 108–111.
+
+20 In addition, AGPL points to AI’s failure to provide a performance bond in
+accordance with the Contract, 42
+
+##### Foot Note 42
+
+×
+
+CWS at paras 100–103.
+
+and argues that the SOPA is not intended to allow claims by contractors like
+AI who do not meet basic contractual requirements to the prejudice of
+employers. 43
+
+##### Foot Note 43
+
+×
+
+CWS at para 106.
+
+AGPL further asserts that the failure to provide the performance bond should
+have been, but was not, factored into the learned Adjudicator’s assessment,
+resulting in errors in the adjudicated amount in SOP/AA 226 of 2022. 44
+
+##### Foot Note 44
+
+×
+
+CWS at paras 112–117; Minute sheet in HC/OA 160/2023 dated 13 April 2023.
+
+AI’s case as the defendant
+
+21 In response, AI argues that AGPL’s application to set aside the
+Adjudication Determination should be dismissed. 45
+
+##### Foot Note 45
+
+×
+
+DWS at para 78.
+
+22 AI first argues that the learned Adjudicator’s determination of the
+statutory timelines, as summarised at [12] above, is correct. 46
+
+##### Foot Note 46
+
+×
+
+DWS at paras 17–19.
+
+Therefore, AI had filed its adjudication application within the prescribed
+time. 47
+
+##### Foot Note 47
+
+×
+
+DWS at para 19.
+
+AI contends that, statutorily, there is no prescribed date for the submission
+of the PC under ss 10(2)(a)(ii) and 10(3)(b) of the SOPA because a payment
+claim may be served on any day in a month pursuant to reg 5(1) of the SOPR,
+and it is not stated anywhere in the SOPA or the SOPR that “the last day of
+the month” is the “prescribed date” stated in s 10(3)(b) of the SOPA. 48
+
+##### Foot Note 48
+
+×
+
+DWS at paras 21–29.
+
+In the alternative, AI contends that any day can be a “prescribed date” since
+a payment claim can be served anytime. 49
+
+##### Foot Note 49
+
+×
+
+DWS at para 30.
+
+AI also reasons that s 10(3) of the SOPA has no application in the present
+case since the purpose of the deeming provision is to save payment claims that
+were served on an incorrect date. 50
+
+##### Foot Note 50
+
+×
+
+DWS at paras 32–34.
+
+AI further makes the point that AGPL’s reading of the deeming provision serves
+to retard rather than speed up the payment process – on AGPL’s reading, a
+payment claim served earlier in the month is deemed to have been served only
+on the last day of the month – and this is contrary to Parliament’s intent. 51
+
+##### Foot Note 51
+
+×
+
+DWS at paras 35–36.
+
+23 In responding to AGPL’s contentions about the weekly frequency of progress
+claims under cl 14 of the Contract, AI argues that reg 5(1A) of the SOPR does
+not preclude a contractor from serving any payment claim just because the
+relevant payment clause in the contract provides for the submission of claims
+more often than once per month. 52
+
+##### Foot Note 52
+
+×
+
+DWS at para 40.
+
+Instead, all reg 5(1A) does is to regulate the frequency of payment claims. 53
+
+##### Foot Note 53
+
+×
+
+DWS at para 40.
+
+AI argues that only the frequency portion of cl 14 of the Contract is
+nullified by reg 5(1A) of the SOPR, and AI is still entitled to serve payment
+claims under that clause, albeit on a monthly basis. 54
+
+##### Foot Note 54
+
+×
+
+DWS at para 42.
+
+AI’s alternative argument on this point is that if the entirety of cl 14 of
+the Contract on the submission of weekly progress claims is nullified, then
+the SOPA functions as a “gap-filler” to entitle AI to serve monthly payment
+claims. 55
+
+##### Foot Note 55
+
+×
+
+DWS at paras 43 and 47.
+
+24 In relation to AGPL’s arguments about the alleged failure by AI to provide
+a performance bond, AI submits that this point was not raised in the affidavit
+submitted by AGPL to this court. 56
+
+##### Foot Note 56
+
+×
+
+Minute sheet in HC/OA 160/2023 dated 26 April 2023.
+
+AI further submits that AGPL’s arguments on the performance bond touch on the
+merits of the learned Adjudicator’s determination, and that the court, in
+hearing a setting aside application, should not review the merits of the
+learned Adjudicator’s determination. 57
+
+##### Foot Note 57
+
+×
+
+Minute sheet in HC/OA 160/2023 dated 26 April 2023; DWS at para 61.
+
+Issues
+
+25 The following issues arise for my decision in this application:
+
+(a) whether, for the purposes of ascertaining the due date for the provision
+of a payment response under s 11(1) of the SOPA and the time frame within
+which an adjudication application must be filed under s 13(3)(a) read with s
+12 of the SOPA, the date the PC was “served under section 10” is 16 November
+2022, which is the actual date on which the PC was served, or 30 November
+2022, which AGPL contends is the date the PC is “deemed to have been served”
+under s 10(3)(b) of the SOPA;
+
+(b) whether a provision in the Contract for “weekly progress claims” takes the
+Contract outside the ambit of the SOPA; and
+
+(c) whether AI’s alleged failure to provide a performance bond disentitles AI
+from making a progress payment claim and is a ground for setting aside the
+Adjudication Determination, and, relatedly, whether there are errors in the
+adjudicated amount that would warrant the setting aside of the Adjudication
+Determination.
+
+The relevant statutory timelines
+
+26 I turn first to consider the statutory timelines for the service of a
+payment claim and payment response, where the contract, such as the Contract
+in this case, does not stipulate the relevant dates.
+
+27 Where the contract does not contain terms that specify, or provide for the
+determination of, a date or period for the service of a payment claim, s
+10(2)(a)(ii) of the SOPA applies to require that the payment claim be served
+not later than the date prescribed for the purpose of s 10(2)(a)(ii) of the
+SOPA (“the Prescribed Date”). In cases where s 10(2)(a)(ii) applies and a
+payment claim is served before the Prescribed Date, s 10(3)(b) of the SOPA
+deems it to have been served on the Prescribed Date. After the payment claim
+is served on the respondent, the respondent is required to provide the
+claimant with a payment response. In this regard, s 11(1)(b) of the SOPA
+requires, in situations where the contract does not contain terms that
+specify, or provide for the determination of, a date by which the payment
+response is to be provided, the payment response to be provided within 14 days
+after the payment claim is “served under section 10”. If a respondent fails to
+provide a payment response under s 11(1)(b) of the SOPA, s 12(5)(b) of the
+SOPA provides that the respondent may still do so during the Dispute
+Settlement Period, which is the period of seven days after the period within
+which the payment response is required to be provided under s 11(1) of the
+SOPA: see s 12(6) of the SOPA. If, by the end of the Dispute Settlement
+Period, the dispute is not settled or the respondent does not provide the
+payment response, the claimant is, pursuant to s 12(2) of the SOPA, entitled
+to make an adjudication application in relation to the payment claim. Under s
+13(3)(a) of the SOPA, the adjudication application must be made within seven
+days after the entitlement to make the adjudication application first arises
+under s 12 of the SOPA. The preceding statutory timelines and the parties’
+positions 58
+
+##### Foot Note 58
+
+×
+
+DWS at para 18.
+
+may be summarised as follows:
+
+| Relevant statutory provisions| AGPL’s position| AI’s position  
+---|---|---|---  
+Service of payment claim| If the contract does not contain any terms that
+specify, or provide for the determination of, a date or period for the service
+of a payment claim, s 10(2)(a)(ii) provides that the payment claim must be
+served not later than the Prescribed Date. If a payment claim is served before
+the Prescribed Date, s 10(3)(b) provides that the payment claim is deemed to
+have been served on the Prescribed Date.| While the actual date of service was
+16 November 2022, the PC was deemed to have been served on 30 November 2022,
+being the last day of the month.| The actual date of service was 16 November
+2022.The deemed date of service has no application.  
+Service of payment response| If the contract does not contain any terms that
+specify, or provide for the determination of, a date by which the payment
+response is to be provided, the payment response must be provided within 14
+days after the payment claim is served (s 11(1)(b)).Alternatively, the payment
+response may be provided within the Dispute Settlement Period (s 12(5)(b)),
+which is seven days after the period within which the payment response is
+required to be provided (s 12(6)).| The due date was 14 December 2022.
+Alternatively, it was the end of the Dispute Settlement Period on 21 December
+2022.AGPL provided the payment response on 14 December 2022.| The due date was
+30 November 2022. Alternatively, it was the end of the Dispute Settlement
+Period on 7 December 2022.  
+Date on which entitlement to make adjudication application first arose| The
+claimant is entitled to make an adjudication application if, by the end of the
+Dispute Settlement Period, the dispute is not settled, or no payment response
+is provided (s 12(2)).| First arose on 22 December 2022.| First arose on 8
+December 2022.  
+Period within which the adjudication application is to be filed| The
+adjudication application must be made within seven days after the entitlement
+of the claimant to make an adjudication application first arises (s
+13(3)(a)).| Within seven days after 22 December 2022.| Between 8 and 14
+December 2022 (both dates inclusive). 59
+
+##### Foot Note 59
+
+× DWS at para 19. AI filed the adjudication application on 13 December 2022.  
+  
+28 As the High Court observed in Libra at [32], a payment claim that is served
+in compliance with s 10(1) of the SOPA is the bedrock upon which the
+adjudication process rests, and it is the trigger for the adjudication
+process. As may be seen from the procedure set out at [27] above, the process
+is “triggered” with the service of the payment claim, and the due dates for
+the subsequent steps in the process hinge on the date the payment claim is
+“served under section 10” (see s 11(1) of the SOPA). In this case, the date on
+which the payment claim is “served under section 10” is therefore core to the
+inquiries of whether the payment response was served out of time, and whether
+the adjudication application was premature. If the date the PC was “served
+under section 10” was the actual date of service on 16 November 2022 as AI
+contends, the payment response provided by AGPL would have been out of time,
+and the adjudication application filed by AI on 13 December 2022 would have
+been filed in accordance with the statutory timelines and valid. If, however,
+the date on which the PC was “served under section 10” was deemed (under s
+10(3)(b) of the SOPA) to be 30 November 2022 as AGPL contends, then the
+payment response filed by AGPL would have been filed within time, and the
+adjudication application filed by AI would have been premature and invalid.
+
+29 The determination of the date of service of the PC turns on the question of
+what the Prescribed Date is. The answer to the latter question lies in how ss
+10(2)(a)(ii) and 10(3)(b) of the SOPA are to be read with regs 5(1) and 5(3)
+of the SOPR. To begin with, ss 10(2)(a) and 10(3) of the SOPA provide as
+follows:
+
+Payment claims
+
+…
+
+(2) A payment claim must be served —
+
+(a) not later than —
+
+(i) the date, or the last day of a period, specified in, or determined in
+accordance with, the terms of the contract relating to the purpose of this
+subsection; or
+
+(ii) the date prescribed for the purpose of this subsection if the contract
+does not contain such terms; and
+
+…
+
+(3) In subsection (2) —
+
+(a) a payment claim that is served before the date or last day mentioned in
+subsection (2)(a)(i) is deemed to have been served on that date or day, as the
+case may be; and
+
+(b) a payment claim that is served before the prescribed date mentioned in
+subsection (2)(a)(ii) is deemed to have been served on that date.
+
+30 Regulation 5 of the SOPR, which deals with payment claims, states at regs
+5(1) and 5(3) as follows:
+
+Payment claims
+
+5.—(1) Where a contract does not contain any provision specifying the time at
+which a payment claim must be served or by which such time may be determined,
+then a payment claim made under the contract must be served by the last day of
+—
+
+(a) the month following the month in which the contract is made; or
+
+(b) any subsequent month.
+
+…
+
+(3) In this regulation, “month” means a period of time beginning on the first
+day of each of the 12 calendar months into which a year is divided, and ending
+on the last day of each of these months.
+
+31 The provisions above address two different questions. First, s 10(2)(a) of
+the SOPA, read with regs 5(1) and 5(3) of the SOPR, deals with the question of
+the date by which a payment claim must be served, ie, the service period.
+Under s 10(2)(a)(i), where the contract specifies, or provides for the
+determination of, a date or period, for the service of a payment claim, then
+the payment claim must be served not later than the contractual date or the
+last day of the contractual period. Under s 10(2)(a)(ii), if the contract does
+not contain terms that specify, or provide for the determination of, a service
+date or service period, then the payment claim must be served not later than
+the Prescribed Date. It is pertinent to note that s 2(1) of the Interpretation
+Act 1965 (2020 Rev Ed) defines “prescribed” as “prescribed by the Act in which
+the word occurs or by any subsidiary legislation made thereunder”. The
+relevant provisions of the subsidiary legislation are regs 5(1) and 5(3) of
+the SOPR. Regulation 5(1) specifies the day by which a payment claim must be
+served in a case where the contract does not contain any provision that
+specifies, or provides for the determination of, the time at which a payment
+claim must be served. So, where s 10(2)(a)(ii) applies, reg 5(1) of the SOPR
+also applies to provide that a payment claim must be served by the last day of
+the month following the month in which the contract is made or any subsequent
+month. In this regard, reg 5(3) clarifies that “month” means a calendar month.
+Reading these provisions together, it follows that the Prescribed Date
+contemplated in s 10(2)(a)(ii) must be the last day of the relevant calendar
+month. Put simply, where s 10(2)(a)(ii) applies, the payment claim must be
+served not later than the last day of the relevant calendar month.
+
+32 Second, s 10(3) of the SOPA deals with the separate question of when a
+payment claim is deemed to have been served for the purposes of the running of
+the statutory timelines, ie, the service date. In other words, the actual date
+of service of the payment claim, and the deemed date of service of the payment
+claim, may differ. Under s 10(3)(a), where the contract specifies, or provides
+for the determination of, a date or period for the service of a payment claim,
+a payment claim that is served before the contractual date or the last day of
+the contractual period is deemed to have been served on that contractual date
+or on that last day of that contractual period, as the case may be. Under s
+10(3)(b), if the contract does not contain terms that specify, or provide for
+the determination of, a date or period for the service of a payment claim,
+then a payment claim that is served before the Prescribed Date is deemed to
+have been served on the Prescribed Date. This deemed service date is important
+because it determines the subsequent timelines for the provision of a payment
+response and the filing of an adjudication application (if any).
+
+33 From the above, it is clear that both ss 10(2)(a)(ii) and 10(3)(b) apply to
+scenarios where the contract does not contain terms that specify, or provide
+for the determination of, a contractual service date or contractual service
+period. Specifically, s 10(2)(a)(ii) provides for a service period and s
+10(3)(b) provides for a deemed service date. What, then, is the cumulative
+effect of these two provisions when applied together?
+
+34 In answering this question, AI submits that, where ss 10(2)(a)(ii) and
+10(3)(b) apply, there is a prescribed service period but there is no
+Prescribed Date on which a payment claim must be deemed to have been served,
+relying heavily on the Court of Appeal decision in Lee Wee Lick Terence (alias
+Li Weili Terence) v Chua Say Eng (formerly trading as Weng Fatt Construction
+Engineering) and another appeal [2013] 1 SLR 401 (“Chua Say Eng”). 60
+
+##### Foot Note 60
+
+×
+
+DWS at para 24.
+
+AI argues that since Chua Say Eng held at [93]–[94] that reg 5(1) of the SOPR
+provides that a payment claim shall be served “by the last day of each month
+following the month in which the contract is made”, and that “it would not
+matter on what day [of the month] the claim is made”, this means that a
+payment claim may be served on any day in a month. There is, therefore, no
+“prescribed date” as such, and no requirement to serve a payment claim at the
+end of the month. 61
+
+##### Foot Note 61
+
+×
+
+DWS at paras 24–28.
+
+AI further argues that it is not stated in reg 5(1) of the SOPR that the last
+day of the month is the Prescribed Date.
+
+35 I am unable to agree with that submission. In my view, the fact that reg
+5(1) allows for a period in which a payment claim must be actually served does
+not detract from its separate effect of also deeming a service date for the
+purpose of s 10(3)(b). It bears emphasis that the Prescribed Date in s
+10(2)(a)(ii), read with reg 5(1), is the same “prescribed date” referred to in
+s 10(3)(b). This is because s 10(3)(b) refers to the “prescribed date
+mentioned in subsection (2)(a)(ii)” of s 10. This means that the Prescribed
+Date in s 10(2)(a)(ii), that sets out the last day on which a payment claim
+may be served, is also the deemed date of service under s 10(3)(b). In light
+of my finding in [31] that the Prescribed Date is the last day of the relevant
+calendar month, the deemed date of service under s 10(3)(b) is therefore also
+the last day in the relevant calendar month. Accordingly, the effect of ss
+10(2)(a)(ii) and 10(3)(b) is that if the contract does not contain terms that
+specify, or provide for the determination of, a service date or service
+period, then any payment claim will be deemed to have been served on the last
+day of the calendar month in which it was served, regardless of when it was
+actually served.
+
+36 There is a further reason why I do not accept AI’s argument. It disregards
+the fact that the Building and Construction Industry Security of Payment
+(Amendment) Act 2018 (Act 47 of 2018) (“SOPA Amendment Act”) amended s 10 of
+the SOPA by introducing the deeming provision in s 10(3) of the SOPA via s
+5(a) of the SOPA Amendment Act. Indeed, the Explanatory Statement to the
+Building and Construction Industry Security of Payment (Amendment) Bill (Bill
+No 38/2018) (“SOPA Amendment Bill”) (pursuant to which the SOPA Amendment Act
+was enacted) explains that the new s 10(3) was inserted “to specify the deemed
+date of service for a payment claim that is served before the applicable due
+date in section 10(2)”. Further, when Parliament enacted s 10(3)(b) of the
+SOPA, it decided, for the purpose of defining the Prescribed Date, to adopt
+the same date as that mentioned in s 10(2)(a)(ii). Accordingly, AI’s argument
+that there is no Prescribed Date is flawed as it turns a blind eye to the
+deeming provision in s 10(3)(b) of the SOPA and the scheme adopted by
+Parliament for determining the statutory timelines under the SOPA.
+
+37 It is apposite at this juncture to deal with a point made by the learned
+Adjudicator, that the words “or last day mentioned in subsection 2(a)(i) …”
+[emphasis added] which are present in s 10(3)(a) of the SOPA, are absent in s
+10(3)(b) of the SOPA. In the learned Adjudicator’s view, this point supports
+the position that the Prescribed Date mentioned in s 10(3)(b) of the SOPA
+cannot possibly be the last day of the month, which is AGPL’s interpretation
+of the statute. 62
+
+##### Foot Note 62
+
+×
+
+AD at para 52.
+
+I am unable to agree with the learned Adjudicator. In my judgment, there is no
+reference to the “last day” in s 10(3)(b) of the SOPA simply because s
+10(2)(a)(ii) makes no reference to the last day of a period. As s 10(2)(a)(ii)
+refers only to the Prescribed Date, s 10(3)(b) likewise makes reference to a
+single date. This single date is the Prescribed Date, which, as explained at
+[31] and [35] above, is the last day of the month. In contrast, s 10(3)(a)
+refers to “the date or last day mentioned in subsection (2)(a)(i)” as s
+10(2)(a)(i) refers to both a “date” and also “a period”. The reference to
+“last day” in s 10(3)(a) of the SOPA is necessary to accommodate the reference
+in s 10(2)(a)(i) to “a period”, which, logically, has a “last day”. Therefore,
+the fact that the words “last day” appear in s 10(3)(a) but are absent from s
+10(3)(b) says nothing about whether the Prescribed Date can or cannot be the
+last day of the month.
+
+38 AI’s alternative submission is that Chua Say Eng’s holding supports its
+view that “any day” can be the Prescribed Date. 63
+
+##### Foot Note 63
+
+×
+
+DWS at paras 28 and 30.
+
+I do not think that Chua Say Eng assists AI’s case. First, Chua Say Eng was
+not concerned with the interpretation of the SOPA or SOPR to ascertain the
+date of the service of the payment claim, as is the case here. Second, AI’s
+reliance on Chua Say Eng is problematic in that it attempts to apply an
+authority that was decided before the SOPA was amended in 2018. The deeming
+provision in s 10(3) of the SOPA, with which we are concerned, was only
+introduced in the 2018 amendments. As for reg 5(3), it was inserted by the
+Building and Construction Industry Security of Payment (Amendment) Regulations
+2019. As such, the Court of Appeal’s statements in Chua Say Eng did not
+directly concern the interpretation of these specific provisions and should
+not be taken out of their proper context.
+
+39 Critically, on AI’s argument that the Prescribed Date can be “any day”, ss
+10(2)(a)(ii) and 10(3)(b) of the SOPA would read absurdly. It will result in s
+10(2)(a)(ii) providing that “[a] payment claim must be served … not later than
+… [any day]”. As for s 10(3)(b), I will use the present Contract for
+illustration. If the Prescribed Date is taken to be “any day”, it would result
+in s 10(3)(b) of the SOPA providing, in the present context, that “a payment
+claim that is served before [16 November 2022 (being the actual date of
+service)] is deemed to have been served on [16 November 2022]”. This
+interpretation gives no indication as to the deemed date of service for a
+payment claim that was actually served on 16 November 2022. Further, if the
+deemed date of service is taken to be 16 November 2022, then this
+interpretation renders the provision otiose as it begs the question of why a
+payment claim that is actually served on 16 November 2022 must be specifically
+deemed to be served on that date.
+
+40 In contrast, AGPL’s submission that the Prescribed Date refers to the “last
+date of the month” 64
+
+##### Foot Note 64
+
+×
+
+CWS at para 35.
+
+coheres better with parliamentary intent for the 2018 SOPA amendments, as
+expressed in the speech of the then Minister of State for National
+Development, Mr Zaqy Mohamad, at the Second Reading of the SOPA Amendment Bill
+on 2 October 2018. The Minister stated (see 2018 Debate):
+
+Currently, the Act requires claimants to serve payment claims according to the
+contract terms. Typically, a contract will stipulate a specific date or fixed
+period for payment claims to be served so that employers can better manage
+payment claims from multiple sub-contractors. However, there have been past
+cases where claimants unintentionally serve their claims on the wrong date.
+
+This technically invalidates the payment claim during adjudication. Such
+issues have also been raised before the Courts, leading to payment delays. To
+address this, clause 5 will provide that the payment claim will be valid even
+if it is served before the date or the period specified in the contract.
+
+In such cases, the payment claim will be deemed as served on the contract
+specified date or on the last day of the fixed period. To illustrate, if a
+contract specifies that the payment claim must be made on the 29th of the
+month, the payment claim will still be valid if the claimant serves it before
+the 29th of the month. However, the respondent's deadline for payment response
+will only start running from the 29th of the month. If the claimant serves a
+payment claim on the 30th of the month instead of 29th, his claim will be
+treated as being served in the next month.
+
+[emphasis added]
+
+41 I am fully cognisant that the Minister, in the extract above, was mainly
+discussing the effect of s 10(3)(a) of the SOPA, which is the sister provision
+of s 10(3)(b). The difference between the two provisions is that s 10(3)(a) of
+the SOPA applies to contracts where the service date or service period for
+payment claims is specified in the contract or can be determined in accordance
+with contractual terms, whereas s 10(3)(b) of the SOPA applies to contracts
+where the service date or service period is not specified and cannot be so
+determined using the contractual terms. Based on the Minister’s explanation,
+under s 10(3)(a) of the SOPA, if a payment claim is served before the date
+stipulated in the contract for service of a payment claim, the payment claim
+will still be valid, but the respondent’s deadline for the payment response
+will only start running from the date stipulated in the contract for service
+of payment claims or from the last day of the service period (in the event the
+contract stipulates a period for service). However, I note that both ss
+10(3)(a) and 10(3)(b) are worded similarly, and there is no reason why the
+Minister’s comments on the effect of s 10(3)(a) of the SOPA should not also
+apply in parallel to s 10(3)(b), such that the respondent’s deadline for
+payment response will only start running from the Prescribed Date.
+
+42 Next, as against AGPL’s proposed reading of s 10(3)(b), ie, that the
+Prescribed Date refers to the “last date of the month”, AI submits that AGPL’s
+interpretation would retard rather than speed up the payment process. 65
+
+##### Foot Note 65
+
+×
+
+DWS at para 36.
+
+This argument does not advance AI's case. In the context of a contract like
+the present one, wherein the parties do not stipulate timelines for the
+service of payment claims or payment responses, it is reasonable for the
+respondent's deadline for payment response to be fixed to run only from the
+last day of the calendar month. This provides certainty for the respondent and
+helps to facilitate the timely service of payment responses. A payment process
+that keeps to regular timelines that run from a consistent day in each month
+keeps the SOPA mechanism running smoothly, prevents the missing of deadlines
+due to inadvertence, and minimises disputes. As a corollary, this also
+relieves a respondent from the need to constantly keep track of payment claims
+that are not served according to any stipulated contractual timelines. Indeed,
+the practical value of having a consistent and fixed date for the calculation
+of payment claim and payment response timelines was observed by the Minister
+at the Second Reading of the SOPA Amendment Bill when he stated that
+“[t]ypically, a contract will stipulate a specific date or fixed period for
+payment claims to be served so that employers can better manage payment claims
+from multiple sub-contractors” (see 2018 Debate).
+
+43 Finally, AI makes the broad argument that the deeming provision in s 10(3)
+of the SOPA does not operate in situations such as the present, where reg 5(1)
+of the SOPR allows a payment claim to be served on any day of the month. 66
+
+##### Foot Note 66
+
+×
+
+DWS at para 34.
+
+According to AI, the rationale of s 10(3) of the SOPA is to save prematurely
+served payment claims from invalidation (see 2018 Debate), and a payment claim
+served in a contract such as the present one, where there is no stipulated
+date for service, does not require saving. 67
+
+##### Foot Note 67
+
+×
+
+DWS at paras 32–34.
+
+Parenthetically, I note that this argument was looked upon favourably by the
+learned Adjudicator. 68
+
+##### Foot Note 68
+
+×
+
+AD at paras 49–51.
+
+44 I am, however, not able to agree with this line of argument. As observed
+above at [32], s 10(3)(b) is the deeming provision that applies where the
+contract does not contain terms that stipulate, or provide for the
+determination of, a date or period for the service of a payment claim. The
+issue of payment claims being prematurely served before the contractually
+stipulated date or service period therefore does not arise in such situations.
+Yet, in such situations, Parliament saw it fit to introduce s 10(3)(b) as a
+deeming provision that would apply to payment claims. It is therefore patently
+obvious that s 10(3) of the SOPA applies even when payment claims do not
+require saving. In my view, s 10(3)(b) provides certainty for the timelines
+for the filing of payment responses and adjudication applications, and it
+achieves this by altering, for the purposes of s 11(1) of the SOPA, the date
+on which a payment claim is regarded as “served under section 10” from the
+actual date of service to the deemed date of service. It is therefore not open
+to AI to argue that s 10(3)(b) should not be given effect at all on the basis
+that the payment claims in such situations do not need saving.
+
+45 In view of the foregoing, I find that the Prescribed Date for the purposes
+of ss 10(2)(a)(ii) and 10(3)(b) of the SOPA is “the last day of the month”,
+with “month” referring to a calendar month. I set out below illustrations of
+how the date on which a payment claim is “served under section 10” of the SOPA
+should be ascertained based on this reading of the legislation:
+
+Scenarios| Contractual date for service of payment claim| Applicable statutory
+provision| Actual date of service of payment claim| Date on which payment
+claim is served under s 10  
+---|---|---|---|---  
+Scenario A:Where the contract contains terms that stipulate a payment claim
+service date.| Assuming that the contract provides for the 15th of the month.|
+Sections 10(2)(a)(i) and 10(3)(a) of the SOPA| Assuming that it is on 10 July|
+15 July  
+Scenario B:Where the contract contains terms that stipulate a payment claim
+service period.| Assuming that the contract provides for the 15th–18th of the
+month.| Sections 10(2)(a)(i) and 10(3)(a) of the SOPA| Assuming that it is on
+10 July| 18 July  
+Scenario C:Where the contract is silent on when a payment claim must be served. | No date is stated.| Sections 10(2)(a)(ii) and 10(3)(b) of the SOPA, read with regs 5(1) and 5(3) of the SOPR| Assuming that it is on 10 July| 31 July  
+  
+46 With the applicable principles in mind, I turn now to the facts of this
+case. I begin with the question of the date on which the PC was served under s
+10 of the SOPA. In this regard, since the PC was actually served on 16
+November 2022 and the Contract does not stipulate the date for service, the PC
+is deemed to have been served on 30 November 2022, being the last day of
+November 2022. Turning then to ascertain the date by which the payment
+response must have been provided, given that the Contract does not prescribe a
+timeline for the provision of the payment response, s 11(1)(b) of the SOPA
+states that the payment response must be provided by AGPL “within 14 days
+after the payment claim is served under section 10”. Therefore, the payment
+response should have been provided by 14 December 2022, which was 14 days
+after the deemed date of service of the PC.
+
+47 I now consider the date on which AI was entitled to make an adjudication
+application. Taking into account the Dispute Settlement Period as provided for
+by ss 12(2) read with 12(6), which is a period of seven days after the date by
+which the payment response is required to be provided (ie, 14 December 2022),
+I find that AI’s entitlement to make an adjudication application first arose
+after 21 December 2022, on 22 December 2022.
+
+48 After this entitlement first arose on 22 December 2022, s 13(3)(a) provides
+that AI was entitled to make the adjudication application within seven days
+thereafter. Accordingly, the earliest date for the making of a valid
+adjudication application in respect of the PC was 22 December 2022. The
+present adjudication application in SOP/AA 226 of 2022, which was lodged on 13
+December 2022, was therefore lodged prematurely. As the right to make an
+adjudication application had not arisen at the time it was filed, the
+adjudication application is invalid, and the learned Adjudicator had no power
+to adjudicate. Thus, the learned Adjudicator was without jurisdiction to
+render a determination in SOP/AA 226 of 2022 and the Adjudication
+Determination should be set aside. This is sufficient to dispose of this
+application brought by AGPL, but I will deal briefly with the other two issues
+raised by AGPL for completeness.
+
+The provision for “weekly progress claims”
+
+49 I turn now to consider AGPL’s contention that no payment claims for work
+done under the Contract may be made under the SOPA, 69
+
+##### Foot Note 69
+
+×
+
+CWS at paras 56, and 61–63.
+
+as cl 14 of the Contract, which provides for “weekly progress claims”, takes
+the Contract outside the ambit of the SOPA. In this regard, AGPL asserts that
+the SOPA only applies to monthly valuated payment claims.
+
+50 I begin my analysis of this issue with reference to s 4 of the SOPA, which
+deals with the “Application of [the] Act”. Section 4(1) of the SOPA provides
+that “[s]ubject to subsection (2), this Act applies to any contract that is
+made in writing on or after 1 April 2005, whether or not the contract is
+expressed to be governed by the law of Singapore” [emphasis added]. Section
+4(1) of the SOPA must be read with s 2, which defines a “contract” under the
+SOPA to mean “a construction contract or a supply contract”. It is undeniable
+that the Contract is a construction contract, being a contract for the
+remodelling of premises.
+
+51 I turn next to s 4(2) of the SOPA, which excludes certain contracts from
+the ambit of the SOPA. None of the exclusions are relevant in the present
+case. Specifically, a contract providing for quantified weekly payment is not
+excluded.
+
+52 I therefore find AGPL’s contention that the Contract is outside the ambit
+of the SOPA to be without basis or merit.
+
+53 As for AGPL’s reliance on reg 5(1A) of the SOPR in support of their
+contention that payment claims made under the SOPA are restricted only to
+monthly claims, 70
+
+##### Foot Note 70
+
+×
+
+CWS at para 71.
+
+I find it to be misconceived. Regulations 5(1) and 5(1A) provide:
+
+Payment claims
+
+5.—(1) Where a contract does not contain any provision specifying the time at
+which a payment claim must be served or by which such time may be determined,
+then a payment claim made under the contract must be served by the last day of
+—
+
+(a) the month following the month in which the contract is made; or
+
+(b) any subsequent month.
+
+(1A) For the purposes of paragraph (1), only one payment claim made under a
+contract may be served in each month.
+
+…
+
+54 It is clear from the statutory language that reg 5(1A) of the SOPR, which
+restricts the service of payment claims to one each month, is only “[for] the
+purposes of [reg 5(1)]”. Where reg 5(1) applies, ie, where the contract does
+not contain any provision that specifies, or provides for the determination
+of, the time at which a payment claim must be served, reg 5(1A) is meant to
+regulate the frequency of service of payment claims. There is nothing in reg
+5(1A) which limits the application of the SOPA or which excludes contracts
+from the ambit of the SOPA. Indeed, in Libra, the court considered the Court
+of Appeal’s guidance in Chua Say Eng and arrived at the conclusion that “the
+time for and frequency of service of a payment claim is first and foremost a
+matter of contract” (at [42(c)]), and that reg 5(1) only operates to provide a
+“default setting” in situations “where the contract is silent” (at [42(d)]). I
+agree with the learned Adjudicator that the provision for weekly progress
+claims in the Contract does not disentitle AI from serving payment claims
+under the SOPA. To conclude otherwise would also defeat the protective regime
+of the SOPA because the SOPA may be disapplied, whether intentionally or
+inadvertently, by employers and contractors simply through seemingly innocuous
+contractual terms varying the payment frequency in contracts that do not
+contain any provision specifying the time at which a payment claim must be
+served. Indeed, s 36(1) of the SOPA prevents this by providing that “[t]he
+provisions of [the SOPA] have effect despite any provision to the contrary in
+any contract or agreement”. I therefore reject AGPL’s contention that the term
+providing for “weekly progress claims” takes the Contract outside the ambit of
+the SOPA.
+
+55 There is no need for me to go further and deal with the arguments on
+whether the “weekly progress claims” term is a contractual term that purports
+to modify the operation of reg 5(1A) of the SOPA and which is therefore
+“nullified” by s 36 of the SOPA, or whether the Contract may be supplemented
+by the provisions in the SOPA notwithstanding any gaps created by the
+nullification of the “weekly progress claims” term. AI advances these
+arguments in response to AGPL’s contention that the SOPA has no application to
+the Contract. However, there is nothing that disentitles AI from serving the
+PC on AGPL as I have found at [52] and [54] that the SOPA applies to the
+Contract. In this regard, it is clear that AI’s entitlement to progress
+payment, as provided for by the Contract, is consistent with s 5 of the SOPA
+which states that any “person who has carried out any construction work, or
+supplied any goods or services, under a contract is entitled to a progress
+payment”. Pertinently, AI is not acting in contravention of reg 5(1A) of the
+SOPR when it combined its payment entitlements for work done under the
+Contract within a reference period that stretched from 19 July to 31 October
+2022 when it submitted the PC for a “FINAL CLAIMED AMOUNT” on 16 November
+2022. 71
+
+##### Foot Note 71
+
+×
+
+CPH at p 68.
+
+In short, there is no issue of the “weekly progress claims” term being engaged
+in any way to thwart the operation of the SOPA or any part of the SOPA, or to
+contravene reg 5(1A).
+
+56 Similarly, to the extent that AGPL’s complaint about the Contract is that
+“the claims were based on instalment [sic] and not valuation”, 72
+
+##### Foot Note 72
+
+×
+
+CWS at para 62.
+
+I have not been referred to any legislative or case authority in support of
+AGPL’s contention that the claims, which AGPL refers to as instalments, put
+the Contract outside the ambit of the SOPA. On the contrary, s 2 of the SOPA
+provides that a “progress payment” means a payment to which a person is
+entitled for the carrying out of construction work, or the supply of goods or
+services, under a contract, and includes a single or one-off payment
+(including a final payment) or a payment that is based on an event or a date
+(including a final payment). There is nothing in that provision that excludes
+a progress payment that is based on a pre-determined quantification that the
+contracting parties had agreed to or an aggregation of such quantifications.
+In fact, s 6(a) of the SOPA provides that the amount of a progress payment is
+the amount calculated in accordance with the contract. It is only if the
+contract does not contain such a provision that s 6(b) of the SOPA applies to
+provide that the amount of a progress payment is to be calculated on the basis
+of the value of the construction work carried out or of the goods or services
+supplied. In short, the parties in this case had agreed to progress payments
+to be paid under the Contract on a regular interval for pre-determined
+amounts, and there is nothing in the SOPA or the SOPR which precludes such an
+arrangement. In my view, therefore, AGPL’s argument that the Contract is
+outside the ambit of the SOPA because it provides for instalment (as opposed
+to valuated) payments also cannot stand and should not be accepted.
+
+AI’s alleged refusal to provide a performance bond
+
+57 Finally, I turn to AGPL’s contention that the SOPA is not intended to allow
+claims by contractors who do not meet basic contractual requirements to the
+prejudice of employers. In this regard, AGPL complains about AI’s alleged
+refusal to provide a performance bond as required by cl 9 of the Contract and
+argues that the alleged failure of the learned Adjudicator to account for the
+performance bond sum created errors in the adjudicated amount.
+
+58 This argument by AGPL may be promptly disposed of. It is not stated
+anywhere in the SOPA that a contractor’s entitlement to a progress payment is
+contingent on the provision of a performance bond, even if there is a
+contractual stipulation for the provision of such a bond. Further, any issue
+with the adjudicated amount determined by the learned Adjudicator, including
+any alleged failure to account for the performance bond amount that AGPL
+contends AI is contractually bound to furnish, would go to the merits of the
+learned Adjudicator’s evaluation of AI’s claim, and is not a ground to set
+aside the Adjudication Determination in SOP/AA 226 of 2022. As noted by the
+Court of Appeal in Comfort Management Pte Ltd v OGSP Engineering Pte Ltd
+[2018] 1 SLR 979 at [73], the role of a court in reviewing an adjudicator’s
+determination is not to review the merits of the determination, and any
+setting aside must be premised on the adjudicator’s acting in excess of his
+jurisdiction or in breach of the rules of natural justice. This principle
+applies to the present case.
+
+Concluding remarks
+
+59 Given my finding at [48] that the Adjudication Application was lodged
+prematurely and that the learned Adjudicator was without jurisdiction to
+render a determination in SOP/AA 226 of 2022, I allow AGPL’s application and
+set aside the Adjudication Determination pursuant to s 27(8)(a) of the SOPA. I
+also make the usual consequential orders for payment out of the security
+furnished by AGPL.
+
+60 I will hear the parties on costs.
+
+Teh Hwee Hwee  
+Judicial Commissioner|  
+---|---  
+  
+Lee Wei Yung and Harpal Singh (Tito Isaac & Co LLP) for the claimant
+
+Chia Swee Chye Kelvin (Lumen Law Corporation) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 22 Jun 2023 (18:05 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

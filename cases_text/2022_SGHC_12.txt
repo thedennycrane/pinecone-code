@@ -1,0 +1,2493 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 12
+
+Originating Summons No 30 of 2021 (Registrar’s Appeal No 112 of 2021)
+
+Between
+
+| Ethoz Capital Ltd  
+---|---  
+  
+… Applicant
+
+And
+
+(1)| Im8ex Pte Ltd  
+---|---  
+(2)| Chua Soo Liang  
+(3)| Tan Meng Kim  
+  
+… Respondents
+
+GROUNDS OF DECISION
+
+[Contract] — [Misrepresentation]
+
+[Credit and Security] — [Mortgage of real property] — [Equity of redemption]
+
+[Damages] — [Liquidated damages or penalty]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Ethoz Capital Ltd
+
+  
+v
+
+  
+
+Im8ex Pte Ltd and others
+
+[2022] SGHC 12
+
+General Division of the High Court — Originating Summons No 30 of 2021
+(Registrar’s Appeal No 112 of 2021)
+
+Andre Maniam J  
+29 June, 13 August, 22 October 2021
+
+21 January 2022
+
+Andre Maniam J:
+
+Introduction
+
+1 In 1996, two ladies financed the purchase of their hawker stall by a 15-year
+term loan from Hong Leong Finance Ltd (“HLF”). The loan was secured by a
+mortgage over the stall. Interest on the loan was 5.5% per annum for the first
+two years, and 6.75% per annum for the rest of the term. The ladies defaulted
+on the loan within the first year. HLF recalled the loan and went to court to
+seek possession of the stall; it also charged default interest at 18% per
+annum.
+
+2 The High Court denied HLF judgment, instead allowing the ladies to keep the
+stall on the basis that they resume paying the monthly instalments: Hong Leong
+Finance Ltd v Tan Gin Huay and another [1998] SGHC 318. The court also
+commented that the 18% per annum default interest rate smacked of a penalty.
+
+3 HLF appealed. The Court of Appeal allowed the appeal in part (Hong Leong
+Finance Ltd v Tan Gin Huay and another [1999] 1 SLR(R) 755 (“Hong Leong”)),
+granting HLF judgment for the outstanding loan and possession of the stall.
+However, the court stayed execution of the judgment on the basis that the
+ladies continued paying the monthly instalments as ordered by the High Court.
+So the ladies got to keep their stall after all.
+
+4 The Court of Appeal also held that the default interest of 18% per annum was
+a penalty. It was “eminently an extravagant increase from the rate of 5.5% for
+the first two years of the term loan and 6.75% thereafter and was not
+referable to the true amount of the loss suffered by [HLF] following the
+breach by the [ladies].”
+
+5 Some 23 years later, the first defendant (“Im8ex”) borrowed a total of $6.3
+million from the plaintiff (“Ethoz”) by way of four 15-year term loans (“the
+Facilities”). The Facilities were secured by mortgages over four properties,
+including the homes of the second defendant (“Mr Chua”) and the third
+defendant (“Mr Tan”). Interest on the Facilities was at the rate of 3.75% flat
+per annum, which is the equivalent of an effective interest rate of 6.444% per
+annum (in the region of the loan interest rates in Hong Leong). However,
+default interest was at the rate of 0.065% per day, compounded monthly, ie, an
+effective rate of 26.08% per annum (more than 8% higher than the 18% per annum
+which the Court of Appeal found to be a penalty in Hong Leong).
+
+6 Ethoz’s counsel argued that Hong Leong was outdated and should not be
+followed. I disagreed, and found the default interest here to be a penalty.
+
+7 Ethoz also claimed that if Im8ex should default at any time, Ethoz could
+demand immediate payment not only of the balance of the outstanding loan, but
+also the balance of 15 years’ worth of interest (amounting to 56.25% of the
+loan). I found that any purported entitlement to interest for a future period,
+was a penalty.
+
+8 I further found that Ethoz had misrepresented to Im8ex that the Facilities
+were “better” than previous loans taken by Im8ex from Ethoz for the same
+principal sum of $6.3 million (“the Prior Facilities”), which the Facilities
+had re-financed. This was untrue:
+
+(a) the Facilities’ loan interest rate was worse;
+
+(b) the prepayment regime was worse; and
+
+(c) the consequences of default (including accelerated payment of future
+interest, and a higher default interest rate) were worse.
+
+9 As Im8ex had entered into the Facilities in reliance on Ethoz’s
+misrepresentations, Ethoz could not enforce the Facilities to the extent that
+they were worse than the Prior Facilities. In particular, Ethoz could not
+demand payment of future interest (of up to 15 years’ worth) and thereby
+prevent Im8ex from paying off the Facilities and redeeming the mortgaged
+properties.
+
+10 I allowed Im8ex to redeem the Facilities and the mortgaged properties, by
+paying the balance of the loan amount (“the Advance”), together with interest
+at the contractual rate of 3.75% flat per annum prior to the date of
+redemption, ie, without another 13 years’ worth of future interest, and
+without default interest.
+
+11 Ethoz has appealed, and these are my grounds of decision.
+
+Background
+
+Procedural background
+
+12 This matter came before me on a registrar’s appeal – an assistant registrar
+(“AR”) had granted Ethoz judgment for possession of the four mortgaged
+properties, and for the amounts it had claimed.
+
+13 The AR regarded himself bound by the High Court decision in Ethoz Capital
+Ltd v T-Pacific Pte Ltd and others HC/RA 350/2019, HC/OS 938/2019 (1 April
+2020) [High Court] (“T-Pacific”), a case between Ethoz and another borrower,
+involving a loan on similar terms.
+
+14 In the present case, at first instance Im8ex did not challenge Ethoz’s
+claim for default interest. Had this been challenged, the AR would not have
+been bound by T-Pacific (which concerned default interest of 0.0273% per day ≈
+10.28% per annum) to grant Ethoz’s claim for default interest under the
+Facilities, which was at the higher rate of 0.065% per day ≈ 26.08% per annum:
+it was open to the AR to have found that to be a penalty, on the authority of
+Hong Leong in relation to 18% per annum default interest.
+
+15 I respectfully declined to follow T-Pacific insofar as that case decided
+that upon default, Ethoz was entitled to immediate payment of interest for the
+whole term of the loan, including future interest.
+
+16 Moreover, the evidence before me (with further affidavits having been filed
+after the AR’s decision) showed that Ethoz had misrepresented to Im8ex that
+the Facilities were “better” than the Prior Facilities when they were not.
+There was no issue of misrepresentation in T-Pacific.
+
+17 On appeal before me, Ethoz took the position that if I should strike down
+its claims for 15 years’ worth of interest and/or for default interest, the
+matter need not go to trial; the court could just substitute a lower figure.
+That is what I did: I found that the clauses purporting to allow Ethoz to
+claim future interest, and default interest at 0.065% per day ≈ 26.08% per
+annum to be penalties, and thus unenforceable. They were also unenforceable
+because of Ethoz’s misrepresentations.
+
+18 All three defendants were collectively represented by one solicitor at
+first instance and through the filing of the registrar’s appeal; but
+thereafter the defendants gave notice of their intention to act in person,
+following which a new solicitor was appointed only for Im8ex and Mr Chua. Mr
+Tan did not appear in person for the appeal hearing either. I was informed
+that there were concerns about his mental health, but no one was appointed as
+a representative of his. The defendants’ positions were however aligned: Im8ex
+and Mr Chua thus shouldered the burden of the appeal.
+
+The Prior Facilities
+
+19 The Facilities refinanced the Prior Facilities, which were for a short term
+of 12 months, for a total principal sum of $6.3 million; secured by mortgages
+over properties, and guarantees:
+
+(a) a $1,000,000 loan at an interest rate of 6.25% effective per annum in
+September 2018 (specifically referring to properties at Alexandra View,
+Bayshore Road, and Hoe Chiang Road);
+
+(b) a $3,150,000 loan at an interest rate of 6.25% effective per annum in
+September 2018 (specifically referring to the three properties mentioned
+above); and
+
+(c) a $2,150,000 loan at an interest rate of 6.5% effective per annum in
+January 2019 (specifically referring to a property at Taman Permata).
+
+20 The Prior Facilities were governed by facility letters and facility
+agreements (the “Prior Facility Letters” and “Prior Facility Agreements”,
+respectively). The mortgages over the properties were on an “all monies”
+basis, covering all monies owing or remaining unpaid to Ethoz under or in
+connection with the Prior Facilities (and later, the Facilities).
+
+21 The properties at Alexandra View and Hoe Chiang Road were tenanted out; the
+Bayshore Road property was Mr Chua’s home; the Taman Permata property was Mr
+Tan’s home.
+
+The Facilities
+
+22 In or around July 2019, Ethoz and Im8ex began discussions on a possible
+renewal of the Prior Facilities. This resulted in the Facilities that are the
+subject of the present action, which were secured by mortgages over the same
+four properties, and guarantees from Mr Chua and Mr Tan:
+
+(a) a $1,425,000 loan in November 2019 (specifically referring to the Bayshore
+Road property);
+
+(b) a $1,725,000 loan in November 2019 (specifically referring to the
+Alexandra View property);
+
+(c) a $1,000,000 loan in November 2019 (specifically referring to the Hoe
+Chiang Road property); and
+
+(d) a $2,150,000 loan in January 2020 (specifically referring to the Taman
+Permata property).
+
+23 The Facilities were for the same total principal amount of $6.3 million as
+the Prior Facilities. The Facilities were, however, for a long term of 180
+months, ie, 15 years, at an interest rate of 3.75% flat per annum, whereas the
+Prior Facilities were for a short term of 12 months at interest rates of 6.25%
+or 6.5% effective per annum. The Facilities were governed by the Facility
+Letters and Facility Agreements that are in issue here.
+
+24 I now address the following:
+
+(a) Total Interest;
+
+(b) default interest;
+
+(c) misrepresentation; and
+
+(d) redemption.
+
+Total Interest
+
+25 In the Facility Agreements, the phrase “Total Interest” is used in Clause
+7(B) as follows:
+
+Payment of Interest: The Total Interest for the Advance as specified in
+Schedule 3 shall be deemed earned and accrued in full upon the drawdown of the
+Advance. Such interest shall be paid monthly in instalments on each Instalment
+Date as set out in Schedule 3. For the avoidance of doubt, the Borrower shall
+not be entitled, upon any prepayment under Clauses 6(A) and 6(B), to any
+rebate of interest paid prior to such prepayment.
+
+26 Total Interest as specified in Schedule 3 of each Facility Agreement is a
+specific sum that is the total of all the monthly interest payments for 15
+years, which at the contractual interest rate of 3.75% flat per annum amounts
+to 3.75% x 15 = 56.25% of the Advance. Schedule 3 is a table of instalment
+payments, with columns for “Reducing Principal”, “Monthly Principal”, “Monthly
+Interest” and “Monthly Instalment”. 1
+
+##### Foot Note 1
+
+×
+
+Mr Ng’s first affidavit, pp 83–86, 129–132, 175–178 and 221–224.
+
+27 Im8ex defaulted in payment within the first year of the 15-year term, and
+on 3 September 2020 Ethoz gave notice citing Clauses 5(A) and 14(B),
+purporting to make the balance of the Advance and Total Interest immediately
+due and payable. 2
+
+##### Foot Note 2
+
+×
+
+Mr Ng’s first affidavit, para 45 and pp 298–306.
+
+28 Ethoz relied on the phrase in Clause 7(B) of the Facility Agreements: “The
+Total Interest for the Advance as specified in Schedule 3 shall be deemed
+earned and accrued in full upon the drawdown of the Advance”. Ethoz also
+relied on T-Pacific which involved a loan on similar terms: the loan amount
+was $2.3 million, the term was 10 years, the loan interest rate was 3.75% flat
+per annum, and the default interest rate was 0.0273% per day ≈ 10.28% per
+annum. The court said the “starting position” was Clause 7 of the facility
+agreement (specifically, Clause 7(B)), and decided that it “fix[ed] the
+minimum interest that the plaintiff stands to earn under the Agreement”,
+making the borrower liable for the full ten years’ worth of interest from the
+date of drawdown ([3]–[4] of T-Pacific).
+
+29 After that interpretation of Clause 7(B), the court turned to Clauses 6(B)
+and 5(A)(1) and decided that:
+
+(a) In the case of prepayment under Clause 6(B), the borrower would need to
+pay the balance of the Advance and the Total Interest, ie, “interest computed
+thereon” meant Total Interest ([6]–[7] of T-Pacific).
+
+(b) In the case of default of payment under Clause 5(A)(1), Ethoz could treat
+the balance of the Advance and Total Interest as immediately due and payable,
+ie, “interest thereon” in Clause 5(A)(1) meant Total Interest ([8]–[10] of the
+judgment). The court said this would be the harmonious reading of the entirety
+of Clause 5(A)(1), as well as Clause 7(B) and Schedule 3.
+
+30 The court thus decided that, on the borrower’s default of payment, Ethoz
+was entitled to immediate repayment of the Advance and the Total Interest.
+This interpretation of Ethoz’s facility agreements was followed in Ethoz
+Capital Ltd v Thistle Energy Pte Ltd and another HC/RA 118/2021, HC/OS
+1127/2020 (10 August 2021) [High Court] (“Thistle”).
+
+31 I respectfully disagreed with those interpretations of Ethoz’s facility
+agreements.
+
+32 First, Clause 7(B) does not, in itself, entitle Ethoz to immediate payment
+of the Advance and Total Interest upon the borrower’s default of payment.
+Ethoz recognised as much, in citing Clauses 5(A)(1) and 14(B)(2) as well. 3
+
+##### Foot Note 3
+
+×
+
+Mr Ng’s first affidavit, pp 298–306; Ethoz’s Submissions dated 11 August 2021
+at para 39.
+
+33 Instead of first interpreting Clause 7(B) as entitling Ethoz to the Total
+Interest as “the minimum interest that [it] stands to earn under the
+Agreement”, and then using that interpretation to constrain the interpretation
+of Clauses 5 and 6, I considered it more appropriate to analyse the effect of
+Clause 7(B) in various contexts:
+
+(a) instalment payments in accordance with Clause 5 and Schedule 3;
+
+(b) prepayment under Clause 6;
+
+(c) default in payment under Clause 5; and
+
+(d) Events of Default under Clause 14.
+
+34 That analysis then informed my decision on whether Ethoz’s claim to Total
+Interest was a penalty in the context of:
+
+(a) default in payment under Clause 5; or
+
+(b) non-payment as an Event of Default under Clause 14.
+
+Total Interest in the context of instalment payments
+
+35 Clause 5 of the first Facility Agreements provided as follows:
+
+5\. INSTALMENT PAYMENTS
+
+(A) Instalment Amount:
+
+(1) In consideration of the Facility to be granted by the Lender to the
+Borrower, the Borrower hereby covenants that it will repay to the Lender the
+Advance and interest thereon by one hundred and eighty (180) equal instalments
+of S$12,369.79 (or by such other payment schedule as may be notified by the
+Lender to the Borrower from time to time) until the Advance and interest
+thereon are fully repaid. The respective amounts of principal and interest
+payable on each Instalment Date is set out in the Schedule 3 - Table of
+Instalment Payments, as amended, varied, supplemented, modified or replaced by
+the Lender from time to time. The first instalment is to be paid on the date
+of the Advance and each subsequent Instalment Date shall fall on the date one
+(1) month thereafter until the Advance and interest thereon are fully repaid.
+In default of payment of any of the said instalments for any reason
+whatsoever, the Lender may treat the whole of the Facility or the balance
+thereof for the time being owing and unpaid together with interest thereon and
+all other sums due and owing under this Agreement as immediately due and
+payable without any demand.
+
+(2) On or before each Instalment Date, the instalment then due shall be paid
+by the Borrower by direct debiting of the Borrower's bank account (GIRO) to
+the Lender's bank account No. [XX] with Overseas Chinese Banking Corporation
+Limited (or such other bank account as the Lender may notify the Borrower in
+writing) or in such other manner of payment as shall be agreed between the
+Lender and the Borrower. If the monies standing to the credit of the Borrower
+in the account are insufficient to pay any instalment amount as aforesaid, the
+Borrower shall forthwith pay the shortfall amount indicated by the Lender to
+the Borrower. In addition to any default interest payable by the Borrower to
+the Lender and any other charges which the Lender may levy, an administrative
+fee of S$10.00 and any goods and services tax (if any) payable thereon shall
+be payable by the Borrower to the Lender for each GIRO transaction that fails
+to occur.
+
+(B) Final Instalment Date: Without prejudice to the foregoing, the Borrower
+shall repay the Advance and interest thereon (together with all other
+interest, fees and any other sums payable hereunder and not payable prior
+thereto) in full to the Lender on or before the Final Instalment Date.
+
+(C) Non-Revolving Facility: All repayments shall not be re-drawn, re-borrowed
+or exchanged.
+
+[emphasis in original]
+
+36 The second, third, and fourth Facility Agreements also contained the same
+clause, save that the quantum of Monthly Instalments for each Facility
+Agreement was different.
+
+37 By Clause 5(A)(1) of the Facility Agreements, Im8ex covenanted to repay to
+Ethoz the Advance and “interest thereon” by 180 equal instalments, until the
+Advance and “interest thereon” were fully repaid. The phrase “Total Interest”
+is not used in Clause 5; instead, the phrase “interest thereon” is used four
+times in Clause 5(A)(1), and once in Clause 5(B).
+
+38 Clause 5(A)(1) provided that “[t]he respective amounts of principal and
+interest payable on each Instalment Date is set out in the Schedule 3 – Table
+of Instalment Payments …” and, as noted above at [26]: the phrase Total
+Interest as specified in Schedule 3 is a specific sum that is the total of all
+the Monthly Interest payments for 15 years, amounting to 56.25% of the
+Advance.
+
+39 There was then Clause 7 which specified the rate of interest on the Advance
+as 3.75% flat per annum (Clause 7(A)), and stipulated that such interest shall
+be paid monthly in instalments on each Instalment Date as set out in Schedule
+3 (Clause 7(B), set out at [25] above).
+
+40 On the terms of the Facility Agreements, if the instalments were paid in
+accordance with Schedule 3 for the whole 15-year term of the loan, Ethoz would
+have received the full amount of Total Interest, and its entitlement to Total
+Interest would be fairly uncontroversial.
+
+41 The deeming provision in Clause 7(B), that the Total Interest “shall be
+deemed earned and accrued in full upon [drawdown]” served to protect Ethoz
+from a challenge to the Monthly Interest component of the Monthly Instalments.
+
+42 First, each Monthly Instalment (with its Monthly Interest component) was
+paid in advance: Clause 5(A) read with Schedule 3. The first Monthly
+Instalment was to be paid on the date of the Advance pursuant to Clause
+5(A)(1) (and indeed, that payment was a drawdown condition under Clause
+4(A)(3)), the second Monthly Instalment in advance of the second month, and so
+on. If interest on the Advance accrued from day to day, Im8ex might dispute
+Ethoz’s entitlement to be paid Monthly Interest, ahead of Im8ex having the use
+of the Advance for the relevant period. That difficulty was avoided by deeming
+the Monthly Interest component to have been earned and accrued upon drawdown.
+
+43 Second, and relatedly, each Monthly Instalment was for the same amount, but
+the breakdown of the instalments into “Monthly Principal” and “Monthly
+Instalment” varied from instalment to instalment. The Monthly Principal
+amounts went up over time, and the Monthly Interest amounts went down over
+time. Taking the third Facility for $1,000,000 as an example, the total
+Monthly Interest in the first 12 Monthly Instalments totalled $72,306, some
+7.23% of the Advance of $1,425,000, whereas the total Monthly Interest in the
+last 12 Monthly Instalments was just $2,694, some 0.27% of the Advance.
+
+44 If Im8ex were to prepay the Facility after 12 months, it would already have
+paid $72,306 in Monthly Interest, but interest on the Facility at the
+contractual rate of 3.75% flat per annum for that period was just $37,500. The
+deeming provision in Clause 7(B) allowed Ethoz to assert that because the
+Monthly Interest comprised in the agreed Monthly Instalments for the first 12
+months was “earned and accrued” upon drawdown, Im8ex was not entitled to any
+refund or rebate of interest. This was reinforced by the proviso in Clause
+6(B)(5) that Im8ex “shall not be entitled to any return of interest paid prior
+to the payment”, and by Clause 7(B) providing that Im8ex was not entitled,
+upon prepayment, to any rebate of “interest paid prior to such prepayment”.
+Clause 6(B)(5) still preserved the possibility of a return of “interest
+payable on the Advance” at Ethoz’s sole discretion.
+
+Total Interest in the context of prepayment
+
+45 Clause 6(B) of the first two Facility Agreements provided as follows:
+
+(B) Prepayment: The Borrower may at any time after the expiry of six (6)
+months from the date of drawdown of the Advance, at its option prepay the
+Advance and interest computed thereon in full (and not in part only) on any
+Interest Payment Date together with such additional amounts as may be
+necessary to compensate the Lender for any costs or losses (including funding
+losses) directly or indirectly resulting from such prepayment, subject to the
+following conditions and Clause 14 hereof:-
+
+(1) the Borrower shall give the Lender not less than three (3) month’s prior
+written notice of the date of the proposed prepayment, failing which the
+Borrower shall pay to the Lender a fee of an amount equivalent to the next
+three (3) month’s interest due to be paid on the Advance.
+
+…
+
+(4) the Borrower shall pay to the Lender a prepayment fee of one point five
+per cent (1.5%) flat of the amount of the Advance prepaid; and
+
+(5) the prepayment may be subject to a return of interest payable on the
+Advance of such amount as may be determined by the Lender at its sole
+discretion Provided Always That the Borrower shall not be entitled to any
+return of interest paid prior to the prepayment.
+
+[emphasis in original]
+
+46 That Clause was the same for the third and fourth Facility Agreements, save
+that the period in Clause 6(B) after which Im8ex could prepay, was six months
+and not three months.
+
+47 Like Clause 5 (which uses the phrase “interest thereon”), Clause 6 did not
+use the phrase “Total Interest” in the context of prepayment. Instead,
+prepayment entailed Im8ex paying:
+
+(a) “the Advance and interest computed thereon in full (and not in part only)
+on any Interest Payment Date together with”;
+
+(b) “such additional amounts as may be necessary to compensate the Lender for
+any costs or losses (including funding losses) directly or indirectly
+resulting from such prepayment”; and
+
+(c) “a prepayment fee of one point five per cent (1.5%) flat of the amount of
+the Advance prepaid”.
+
+[emphasis in original omitted; emphasis added in italics]
+
+48 The phrase “interest computed thereon” in Clause 6 is not synonymous with
+“Total Interest” in Clause 7(B). Ethoz could easily have used the phrase
+“Total Interest” in Clause 6 if it intended “interest computed thereon” to
+mean “Total Interest”, and indeed in Clause 5 as well where it used “interest
+thereon” instead. It does not necessarily follow that “interest computed
+thereon” in Clause 6 in the context of prepayment, or “interest thereon” in
+Clause 5 in the context of payment or default of payment, must mean “Total
+Interest” (which Ethoz would have received had the instalments dutifully been
+paid for the 15 years). These are different scenarios, and the meaning of the
+various “interest” phrases may be shaped by the context.
+
+49 It was open to the parties to stipulate that, in the event of prepayment or
+default of payment, Im8ex would not need to pay the Total Interest, but only a
+lesser sum in terms of interest. I found that they did so by way of Clause 6.
+
+50 I scrutinised the phrase “interest computed thereon” in Clause 6. What was
+there to “compute” in relation to interest on the Advance, when a specific
+figure was already stated as Total Interest in Schedule 3? I found that
+“interest computed thereon” meant interest on the Advance prior to prepayment,
+at the contractual rate of 3.75% flat per annum. What that was, would not be
+immediately apparent by looking at Schedule 3, hence the need for it to be
+“computed”. Alternatively, “interest computed thereon” meant the total of the
+Monthly Interest payments prior to the date of prepayment. But “interest
+computed thereon” did not mean Total Interest, it meant interest for the
+period prior to prepayment.
+
+51 That interpretation fitted harmoniously with the scheme of Clauses 6 and 7
+in relation to interest that was “payable” or, had already been “paid”. As I
+noted above at [44]:
+
+(a) the proviso in Clause 6(B)(5) stated that Im8ex “shall not be entitled to
+any return of interest paid prior to the payment” [emphasis added];
+
+(b) Clause 7(B) states that Im8ex is not entitled, upon prepayment, to any
+rebate of “interest paid prior to such prepayment” [emphasis added]; and
+
+(c) Clause 6(B)(5) preserved the possibility of a return of “interest payable
+on the Advance” [emphasis added] at Ethoz’s sole discretion.
+
+52 Nothing in Clause 6 itself provided for acceleration of all instalment
+payments in a prepayment scenario. Nor did the deeming proviso in Clause 7(B)
+purport to make Total Interest immediately payable in all contexts. Instead,
+Clause 5(A)(1) expressly provided that “[t]he respective amounts of principal
+and interest payable on each Instalment Date is set out in the Schedule 3 –
+Table of Instalment Payments …” [emphasis added]. The general position was
+thus: the Monthly Interest amounts comprised in the Monthly Instalments were
+not all payable upon drawdown; they were payable on the respective Instalment
+Dates. Only the first Monthly Instalment (and the Monthly Interest comprised
+in it) was payable upon drawdown: see [42] above.
+
+53 Moreover, the use of the phrases “interest paid prior to the [pre]payment”
+[emphasis added] in Clause 6(B)(5) and “interest paid prior to such
+prepayment” [emphasis added] in Clause 7(B) focused on interest that had
+already been paid prior to prepayment, ie, the Monthly Interest in the Monthly
+Instalments that had already been paid. Im8ex had no entitlement to any return
+or rebate of interest, in relation to the Monthly Interest that it had already
+paid prior to prepayment, but under Clause 6(B)(5) Ethoz could nevertheless
+(in its sole discretion) make the prepayment “subject to a return of interest
+payable on the Advance”.
+
+54 The phrase “interest payable”, like “interest paid”, referred only to
+interest payable prior to prepayment, and did not extend to future interest.
+Pursuant to Clauses 5, Schedule 3, and Clause 7, the Monthly Interest in
+Monthly Instalments after the date of prepayment was not payable prior to
+prepayment. In a prepayment scenario, those future Monthly Instalments (and
+the Monthly Interest comprised in them) would never become payable in
+accordance with Clause 5, Schedule 3 and Clause 7; instead, Im8ex would have
+made prepayment of “the Advance and interest computed thereon”, and redeemed
+the Facilities and the security for the Facilities. As such, there was no need
+for future interest to be addressed in the various provisions regarding return
+or rebate of interest paid or payable prior to prepayment. The phrase
+“interest payable” is wider than “interest paid”, for “interest payable” would
+encompass Monthly Interest in Monthly Instalments prior to the date of
+prepayment, that had been defaulted upon, and so were “payable” but had not
+been “paid”; the focus nevertheless remains on interest payable or paid up to
+the date of prepayment, and not future interest.
+
+55 This focus on interest paid or payable prior to prepayment is
+understandable, for (as noted above at [43]) the Monthly Interest in Schedule
+3 was front-loaded such that on any Instalment Date prior to maturity of the
+loans, Im8ex would have paid more in interest (by way of Monthly Interest
+comprised in the Monthly Instalments) than if interest at the contractual rate
+of 3.75% flat per annum were computed on the Advance for the period since
+drawdown. It was thus stipulated that Im8ex was not entitled to any return or
+rebate of interest paid, but Ethoz could still grant a discretionary return of
+such interest.
+
+56 Consider, for example, prepayment of the third Facility for $1,000,000 at
+the 12-month mark. At that point, the first 12 Monthly Instalments would have
+been paid or payable by Im8ex, and if all those instalments had duly been
+paid, then according to Schedule 3 Im8ex would have paid Monthly Interest
+totalling $72,306 (see [43] above), and Monthly Principal totalling
+$31,860.72; leaving $968,139.28 as the Reducing Principal. Prepayment would
+entail Im8ex paying the balance of the Advance, ie, the Reducing Principal of
+$968,139.28, and interest computed on the Advance at the contractual rate of
+3.75% flat per annum for the 12-month period prior to prepayment. That
+interest would amount to $37,500. Im8ex would already have paid more in
+interest ($72,306), but in view of Clause 6(B)(5) and Clause 7(B), Im8ex was
+not entitled to any return or rebate of interest paid. However, under Clause
+6(B)(5) Ethoz could still grant a discretionary return of interest payable on
+the Advance, ie, the $72,306 in total Monthly Interest for the first 12
+months.
+
+57 In T-Pacific, the court held that the discretionary return of interest
+payable at Ethoz’s sole discretion under Clause 6(B) supported the
+interpretation that the full measure of interest accrued under Clause 7(B) is
+the consideration payable to Ethoz for granting the loan (see [7] of
+T-Pacific). I respectfully disagreed. The borrower had indeed agreed to repay
+Ethoz the Advance and “interest thereon”, in consideration of the Facility
+granted by Ethoz (Clause 5(A)(1)), but interest was only payable in accordance
+with Schedule 3. The Monthly Interest in Monthly Instalments after the date of
+prepayment was not payable prior to prepayment. Thus, the discretionary return
+of interest under Clause 6(B) would not apply to those future Monthly Interest
+payments. This indicated that “interest computed thereon” in Clause 6(B) does
+not mean “Total Interest”. It necessarily followed that Ethoz’s entitlement to
+Total Interest was dependent on the circumstances.
+
+58 In The Angelic Star [1988] 1 Lloyd’s Rep 122 (“The Angelic Star”), the
+relevant clause provided that “the loan, together with all other monies due to
+the lenders by the owners, shall immediately become payable [upon default in
+payment]”. The English Court of Appeal interpreted “all other monies due” to
+mean “all other monies due at the time of the happening of an event of
+default”, and not “all other monies which would otherwise become due … in the
+future”. If it were interpreted as covering future interest, it would have
+been a penalty (see further [71]–[72] below). Likewise, “interest payable” in
+Clause 6(B)(5) should be interpreted to mean “interest payable prior to
+prepayment”, and not Total Interest, ie, the sum of all Monthly Interest
+payments, whether payable prior to prepayment, or which would otherwise become
+payable in the future.
+
+59 The same reasoning supports the interpretation of “interest computed
+thereon” in Clause 6(B) as meaning interest on the Advance at the contractual
+rate for the period prior to prepayment. It should not be interpreted to mean
+Total Interest, for that would have a component of interest only payable in
+the future.
+
+60 Other aspects of Clause 6 also support not interpreting “interest computed
+thereon” in Clause 6(B) to mean Total Interest. If “interest computed thereon”
+meant Total Interest, then any prepayment could result in Im8ex paying more
+than the whole of the Advance and 15 years’ worth of interest, for:
+
+(a) under Clause 6(B) Im8ex would also have to “compensate [Ethoz] for any
+costs or losses (including funding losses) directly or indirectly resulting
+from such prepayment”;
+
+(b) if prepayment were made within 12 months of drawdown, under Clause 6(B)(4)
+Im8ex would have to pay a 1.5% prepayment fee on the amount of the Advance
+prepaid; and
+
+(c) if Im8ex failed to give three months’ prior written notice of prepayment
+pursuant to Clause 6(B)(1), it would also have to pay a fee of an amount
+equivalent to the next three months’ interest due to be paid on the Advance.
+
+61 If Total Interest had to be paid in a prepayment scenario, it is hard to
+envisage what costs or losses Ethoz could suffer, which Im8ex would have to
+compensate Ethoz for, or why a prepayment fee of 1.5% would apply for
+prepayments within 12 months, or why Im8ex should pay an amount equivalent to
+the next three months’ interest due to be paid. Such prepayment would result
+in Ethoz receiving immediate payment of an amount that it was prepared to
+accept in instalments over 15 years. Ethoz did not suggest how that might be
+disadvantageous to it.
+
+62 Indeed, the reference to “an amount equivalent to the next three (3)
+month’s interest due to be paid on the Advance” in Clause 6(B)(1) itself
+indicates that prepayment did not involve paying Total Interest (encompassing
+both Monthly Interest already payable, and Monthly Interest only payable in
+future). That phrase recognises that the “next 3 month’s interest due to be
+paid” was not “payable” yet, and upon prepayment would never become payable:
+hence the stipulation to pay an amount “equivalent to” those interest
+payments. In any case, it makes no sense to have required Im8ex to pay a full
+15 years’ worth of interest, and the equivalent of another three months of
+interest payments, totalling more than 15 years’ worth of interest in all, to
+prepay a 15-year loan (if Im8ex should do so without giving due notice).
+
+63 In the context of prepayment, I could only interpret “interest computed
+thereon” to mean interest on the Advance at the contractual rate for the
+period prior to prepayment, or at most the total of the Monthly Interest
+payments prior to the date of prepayment (see [50] above). On that basis, I
+can see how Ethoz might suffer some costs or losses from prepayment. That
+might justify some compensation on top of “the Advance and interest computed
+thereon”, or a prepayment fee, or the equivalent of three months’ of interest
+payments for Im8ex not giving due notice. For instance, Ethoz might have
+obtained funding in the expectation of receiving interest payments for a
+longer period of time, only to find that the Advance was being repaid with
+interest prior to prepayment (and not beyond that).
+
+64 The Facility Agreements had express stipulations for acceleration of
+payments not otherwise payable yet, which I turn to consider – but these
+stipulations were only in the context of default, ie, Clause 5(A)(1) and
+Clause 14(B)(2), and not in the context of prepayment under Clause 6.
+
+Total Interest in the context of default of payment
+
+65 Clause 5(A)(1) provided that in default of payment Ethoz “may treat the
+whole of the Facility or the balance thereof for the time being owing and
+unpaid together with interest thereon and all other sums due and owing under
+this Agreement as immediately due and payable without any demand”.
+
+66 Ethoz contended that the phrase in Clause 5(A)(1), “the whole of the
+Facility or the balance thereof for the time being owing and unpaid together
+with interest thereon” meant “the Advance and the Total Interest” (which is
+the phrase used in Clause 14(B)(2)). The court in T-Pacific accepted that
+“interest thereon” in Clause 5(A)(1) was synonymous with “Total Interest” in
+Clause 7(B) and Schedule 3. As I noted above (at [48]–[49]), however, it does
+not necessarily follow that all references to “interest” in the Facility
+Agreements must mean “Total Interest” per Clause 7(B) and Schedule 3,
+especially where Ethoz did not use the phrase “Total Interest”, but instead
+“interest computed thereon” in Clause 6(B) in the context of prepayment, and
+“interest thereon” in Clause 5(A)(1) in the context of default in payment. A
+consistent and harmonious reading of different clauses addressing different
+matters does not require that different phrases in those different clauses all
+be given the same meaning (and I thus declined to follow T-Pacific at [10]).
+
+67 Clause 5 did not use the phrase “Total Interest”. Instead, Clause 5 used
+the phrase “interest thereon” five times. Clause 5(A)(1) provides that in
+consideration of the Facility, Im8ex agreed to repay “the Advance and interest
+thereon” in 180 equal instalments, until “the Advance and interest thereon”
+were fully repaid; the instalments were to be paid monthly until “the Advance
+and interest thereon” were fully repaid. “Total Interest” could well have been
+substituted for “interest thereon” in the above contexts, all of which dealt
+with full payment in accordance with the instalment schedule.
+
+68 Clause 5(B) on the Final Instalment Date, however, provides that Im8ex
+shall repay “the Advance and interest thereon” in full to Ethoz on or before
+the Final Instalment Date. It does not follow that “Total Interest” should
+also be substituted for “interest thereon” in that context, because payment on
+or before the Final Instalment Date would encompass both payment over 15
+years, and prepayment. As I analysed in the previous section, Im8ex was not
+obliged to pay Total Interest in prepaying the Facilities.
+
+69 There was then the crucial phrase in Clause 5(A)(1) allowing Ethoz, upon
+default of payment by Im8ex, to “treat the whole of the Facility or the
+balance thereof for the time being owing and unpaid together with interest
+thereon … as immediately due and payable” (which I refer to as the
+acceleration provision in Clause 5(A)(1)).
+
+70 The separate reference to “interest thereon” indicates that the phrase “the
+whole of the Facility or the balance thereof” referred to the Advance or the
+balance thereof. That was accepted in T-Pacific, but the court interpreted
+“interest thereon” to mean “Total Interest”.
+
+71 In the absence of Clause 7(B), I would not have interpreted “interest
+thereon” in the acceleration provision in Clause 5(A)(1) to allow for
+acceleration of Monthly Interest payments for a future period, and thus not
+payable yet. In The Angelic Star, the court interpreted the acceleration
+provision there to only allow acceleration of the whole principal amount lent,
+and any interest payments already due, but not interest for a future period
+(hence not due yet).
+
+72 The English Court of Appeal held that if a loan agreement provides for
+acceleration of instalment payments on default, that is not a penalty provided
+that, in addition to principal, it claims no more than accrued interest and
+not interest for the unexpired balance of the original period of credit. Sir
+John Donaldson MR said, “[c]learly a clause which provided that in the event
+of any breach of contract a long term loan would immediately become repayable
+and that interest thereon for the full term would not only be still payable
+but would be payable at once would constitute a penalty” [emphasis added]. The
+court declined to interpret the phrase “[t]he loan, together with all other
+monies due to the lenders by the owners, shall immediately become payable” as
+covering future interest: it only covered the principal sum, and interest
+prior to default. Applying the same reasoning, “interest thereon” in the
+acceleration provision in Clause 5(A)(1) should be interpreted as interest on
+the Advance prior to default, and not interest for the remainder of the term,
+ie, Total Interest.
+
+73 The Angelic Star was applied in ZCCM Investments Holdings plc v Konkola
+Copper Mines plc [2017] EWHC 3288 (Comm) (“ZCCM”) to the acceleration of
+instalment payments under a Settlement Agreement. The Settlement Agreement
+allowed KCM to pay various sums (together with accrued interest) to ZCCM in
+instalments, but there was a provision for acceleration of payment on default.
+The court held at [34]: “An accelerated payment clause in a loan agreement
+entitles the lender to immediate repayment of the sums that he has lent: ie to
+the repayment of his own money.” [emphasis added].
+
+74 Ethoz contended that the deeming provision in Clause 7(B) made all the
+difference here: with the full 15 years’ worth of interest on the Advance
+being deemed accrued upon drawdown, 1.5625 times the Advance became
+immediately due from Im8ex, albeit payable only in instalments – unless
+accelerated upon default pursuant to Clause 5(A)(1) and/or Clause 14(B)(2),
+that is.
+
+75 The deeming provision in Clause 7(B) served to protect Ethoz’s entitlement
+to advance payments of Monthly Interest, and also to any Monthly Interest that
+had been paid, or had become payable, in accordance with Schedule 3 (see
+[41]–[44] above). I do not however accept that it makes Im8ex liable for the
+Total Interest if it should default. While Clause 7(B) says that Total
+Interest shall be deemed earned and accrued in full upon drawdown, the
+numerous references to “interest” in the contractual documents indicate that
+Total Interest had not lost its character as “interest”, ie, payment in
+respect of the use of funds for a period of time:
+
+(a) each Facility Letter was for a “term loan facility” with a “Principal
+Amount” and an “Interest Rate”;
+
+(b) paragraph 10 of the Facility Letters on prepayment stated that Im8ex could
+“prepay the Facility in full”, but that did not say that prepayment would
+entail Im8ex paying 15 years’ worth of interest on top of the Advance, ie, the
+Total Interest; indeed, there was no reference to Total Interest in the
+Facility Letters;
+
+(c) the Facility Letters did not say that if Im8ex should default, it could be
+required to pay the Advance plus the Total Interest; there was just a
+reference to default interest;
+
+(d) each Facility Agreement was described as a “secured term loan facility
+agreement”;
+
+(e) the table of instalments in Schedule 3 to the Facility Agreements had
+separate figures for “Total Principal” and Total Interest”, and for “Reducing
+Principal”, “Monthly Principal”, and “Monthly Interest”;
+
+(f) Clause 7(A) of the Facility Agreements stipulated the rate of interest on
+the Advance;
+
+(g) Clause 5(A)(1) of the Facility Agreements referred to payment of “the
+Advance and interest thereon”, and stated that the respective amounts of
+principal and interest payable on each Instalment Date are set out in Schedule
+3;
+
+(h) the acceleration provision in Clause 5(A)(1) provided that in default of
+payment of any instalment, Ethoz may treat “the whole of the Facility or the
+balance thereof for the time being owing and unpaid together with interest
+thereon … as immediately due and payable”;
+
+(i) Clause 6 of the Facility Agreements referred to prepayment of the Advance
+and “interest computed thereon” upon three months’ notice, with payment of a
+fee of “an amount equivalent to the next three (3) month’s interest due to be
+paid on the Advance” for failure to give notice;
+
+(j) Clause 6(B)(5) of the Facility Agreements provided for a potential return
+of “interest payable on the Advance” at Ethoz’s sole discretion, with a
+proviso that Im8ex “shall not be entitled to any return of interest paid prior
+to the payment”; and Clause 7(B) similarly provided that Im8ex was not
+entitled, upon prepayment, to any rebate of “interest paid prior to such
+prepayment”; and
+
+(k) the acceleration provision in Clause 14(B)(2) of the Facility Agreements
+provided that, following an Event of Default, Ethoz might declare “all amounts
+due and owing under the Facility, including the Advance and the Total Interest
+and any default interests, fees and any other sum then payable under this
+Agreement to be immediately due and payable, whereupon they shall become so
+due and payable.”
+
+76 I do not accept that Total Interest lost its identity as “interest”, such
+that it was aggregated with the Advance once and for all upon drawdown, with
+Im8ex thereby liable to pay Ethoz 1.5625 times the Advance in all
+circumstances. In particular, as I held above (at [62]), Im8ex could prepay
+the Advance and “interest computed thereon” (meaning interest at the
+contractual rate for the period prior to prepayment) without having to pay the
+Total Interest.
+
+Total Interest in the context of Events of Default
+
+77 The phrase “Total Interest” was however used in the acceleration provision
+in Clause 14(B)(2). Where an Event of Default had occurred (including non-
+payment under Clause 14(A)(1)), under Clause 14(B)(2) of the Facility
+Agreements Ethoz could give notice to make “[a]ll amounts due and owing under
+the Facility, including the Advance and the Total Interest … immediately due
+and payable”.
+
+78 Ethoz contended that since the Total Interest was “deemed earned and
+accrued in full” upon drawdown (Clause 7(B)), it was “due and owing” from the
+time of drawdown, albeit only payable (subject to acceleration) in accordance
+with Schedule 3. Similarly, Clause 14(B)(2) expressly referred to Total
+Interest, including that among the “amounts due and owing” which Ethoz could
+accelerate and make immediately due and payable. I accepted that this is how
+the acceleration provision in Clause 14(B)(2) should be interpreted.
+
+79 I found, however, that this was a penalty (and the acceleration provision
+in Clause 5(A)(1) would be too, if that should be interpreted to encompass
+Total Interest).
+
+Was the acceleration of Total Interest a penalty?
+
+80 Ethoz relied on both Clause 5(A)(1) and Clause 14(B)(2) to accelerate
+payment of all remaining instalments, ie, the balance of both the Advance and
+Total Interest.
+
+81 Ethoz contended that Clause 7 allowed it to get around the restriction in
+The Angelic Star against the acceleration of future interest. It argued that
+the stipulation, “The Total Interest for the Advance … shall be deemed earned
+and accrued in full upon the drawdown of the Advance” made 15 years’ worth of
+interest “accrued interest”, and so applying The Angelic Star and ZCCM, it was
+entitled to immediate payment of the Advance plus Total Interest, ie, 1.562
+times the Advance, if Im8ex should default at any time.
+
+82 Ethoz drew an analogy with Wallingford v Mutual Society (1880) 5 App Cas
+685 (“Wallingford”). There, the defendant was a member of a society which
+allowed the borrowing of money by members bidding repayment amounts, with the
+loan going to the highest bidder. The borrower was then allowed to repay the
+amount he had bid, in instalments.
+
+83 The House of Lords held that it was not a penalty for the total sum due to
+be immediately payable upon default. The defendant had chosen to borrow a sum
+of money on the basis of him naming a sum to be added to the principal and
+repaid. None of their Lordships described that premium (the difference between
+the total sum, and the amount borrowed) as being in the nature of interest.
+
+84 In essence, Ethoz’s contention was that although the Facilities appeared to
+be 15-year term loans with interest at a stipulated rate, Clause 7(B)
+transformed them into contracts whereby Im8ex had agreed to pay Ethoz 1.5625
+times the amount borrowed, no matter what: whether Im8ex kept up the
+instalments for 15 years, or it made prepayment, or it defaulted in payment.
+
+85 I did not accept that the effect of the deeming provision in Clause 7 is to
+entitle Ethoz to the Total Interest in all circumstances. In particular, I did
+not accept that Im8ex could only prepay the Facilities by paying 1.5625 times
+the Advance. This distinguishes the present case from Wallingford, where the
+borrower was, in all circumstances, obliged to pay the repayment amount that
+he had bid: he did not have the option of paying a lesser sum in the event of
+prepayment.
+
+86 Ethoz was not entitled to Total Interest in all circumstances: in the event
+of prepayment, only loan interest for the period prior to prepayment would
+have to be paid. Contrary to T-Pacific, I thus do not regard Total Interest as
+“the minimum interest that the plaintiff stands to earn under the Agreement”.
+The portion of Total Interest referable to a future period, was still future
+interest, for Im8ex could avoid paying it by making prepayment.
+
+87 In the case of non-payment, the effect of the acceleration provision in
+Clause 14(B)(2) (and that in Clause 5(A)(1) if interpreted the same way) was
+to oblige Im8ex to make immediate payment of interest for the full term, which
+the court in The Angelic Star considered would be a penalty, for including
+future interest.
+
+88 In Denka Advantech Pte Ltd and another v Seraya Energy Pte Ltd and another
+and other appeals [2021] 1 SLR 631 (“Denka”), the applicability of the
+principles in Dunlop Pneumatic Tyre Co, Ltd v New Garage and Motor Co, Ltd
+[1915] AC 79 (“Dunlop”) was affirmed, and the Court of Appeal reviewed the
+application of those principles. Denka decided that in Singapore, the penalty
+rule does not apply to situations outside of breach of contract (see
+[92]–[93]). In other words, the penalty rule is confined to the sphere of
+secondary obligations and does not apply to primary obligations (at [92]).
+However, the court acknowledged that the threshold of a breach of contract may
+be thought of as being too easy to circumvent by clever drafting (at [95]),
+and in that regard, “[t]he problem of drafting is dealt with in the ways that
+courts have always dealt with problems of construction – by prioritising
+substance over form, bearing in mind all the circumstances of the case in line
+with the contextual approach to contractual interpretation”.
+
+89 In the present case, default of payment under Clause 5(A) was a breach of
+contract: the primary obligation was to make instalment payments in accordance
+with Schedule 3, and that had been breached. Likewise, the Event of Default
+relied upon to trigger Clause 14(B)(2) was a breach of contract, namely non-
+payment under Clause 14(A)(1): “the Borrower does not pay in the manner
+provided in this Agreement any sum payable under it when due”.
+
+90 The obligation to make immediate payment of all future instalments is thus
+a secondary obligation arising upon breach of a primary obligation by Im8ex.
+Payment of the Advance plus Total Interest (totalling 1.5625 times the
+Advance) was not a primary obligation, for Im8ex could make prepayment without
+having to pay Total Interest. Im8ex thus did not owe Ethoz a debt of 1.5625
+times the Advance from the time of drawdown, for if Im8ex made prepayment at
+any time, it would only pay a lesser sum in interest, not Total Interest. The
+penalty rule thus applies to the payment of the Advance plus Total Interest.
+
+91 If Im8ex defaulted in payment, and Ethoz could accelerate payment of all
+instalments, Im8ex would find itself having to pay 15 years’ worth of interest
+although it had only had the use of the Advance for a short period of time.
+That contrasts sharply with Im8ex being entitled to prepay the Facilities, in
+which event the interest Im8ex would have to pay, would merely be loan
+interest for the period prior to prepayment.
+
+92 The payment of future interest in the event of breach is not a genuine pre-
+estimate of damage Ethoz would suffer from Im8ex’s non-payment, it is a
+penalty, as recognised in The Angelic Star (see also Denka at [151]–[152]).
+Indeed, Im8ex did not seek to justify the payment of future interest as a
+genuine pre-estimate of damage. Rather, it argued that the Penalty Rule just
+did not apply, because it contended that the Total Interest was payable in all
+circumstances, but I rejected that.
+
+93 The “single lump sum” test recognised in Denka at [303] also points to the
+acceleration of future interest being a penalty: there is a presumption that
+when “a single lump sum is made payable by way of compensation, on the
+occurrence of one or more or all of several events, some of which may occasion
+serious and others but trifling damage” [emphasis in original], it is a
+penalty.
+
+94 Here, Ethoz would get future interest for the remainder of the term,
+whether Im8ex was slightly late in paying one instalment, or the default was
+more serious – such as a complete failure to repay the Advance. That attracts
+the “single lump sum” presumption.
+
+95 In similar vein, the acceleration of future interest has the effect of
+penalising Im8ex more for a breach early in the term, as compared to later on,
+when that is not referable to the damage suffered by Im8ex. So, for instance:
+
+(a) if Im8ex defaulted in payment after one year, and thereafter repaid the
+Advance in full together with loan interest for that year, Ethoz would demand
+payment of the remaining 14 years of Monthly Interest; but
+
+(b) if Im8ex defaulted in payment after 14 years, and thereafter repaid the
+Advance in full together with loan interest for 14 years, Ethoz would only
+demand payment of the final’s year’s Monthly Interest.
+
+96 In both scenarios, if the Advance is then fully repaid with loan interest
+up to that point, Ethoz suffers no greater loss after 14 years, than after one
+year: it would have received the Advance back, together with loan interest for
+the period that the Advance was taken. Yet Im8ex would have to pay Total
+Interest in both scenarios, whether it took the Advance for just one year, or
+for 14 years.
+
+97 The “greatest loss principle” (Denka at [254]) also points to the
+acceleration of future interest being a penalty. The principle, stated in
+Dunlop, is that a clause would be a penalty if the sum stipulated for is
+“extravagant and unconscionable in amount in comparison with the greatest loss
+that could conceivably be proved to have followed from the breach” [emphasis
+in original].
+
+98 Here, the greatest loss that Ethoz could have suffered from Im8ex’s non-
+payment, would happen if (after taking the Advance), Im8ex completely failed
+to pay anything. In that event, Ethoz would be out-of-pocket for the whole
+amount of the Advance (save for the amount of the first Monthly Instalment,
+which Im8ex ought to have paid as a condition precedent to drawdown). In that
+scenario, Im8ex would contend that it was entitled to 1.5625 times the Advance
+(ie, the Advance plus fifteen years’ worth of interest) from Ethoz, with
+default interest besides.
+
+99 As compensation for the loss of use of funds, however, the court typically
+awards interest in judgments at the rate of 5.33% per annum. Thus, without any
+acceleration provisions, if Ethoz sued for the unpaid Advance, it would get
+judgment for the amount of the Advance and interest thereon. But (absent
+contractual stipulation), the rate of interest awarded would be just 5.33% per
+annum, and if Im8ex paid the judgment debt, that would stop interest running.
+Ethoz could seek interest at the contractual rate of 3.75% flat per annum ≈
+6.444% effective per annum (calculated below at [148]), but that would not be
+much more than the court’s usual rate of 5.33% per annum. The court would not
+award Ethoz 1.5625 times the Advance, let alone that plus default interest of
+26.08% per annum as well.
+
+100 The acceleration of future interest would thus oblige Im8ex to pay more
+than the greatest loss Ethoz could have suffered from not being repaid the
+Advance.
+
+101 On a related note, 1.5625 times the Advance would also be more than what
+Ethoz could have recovered at common law, for non-payment of the Advance by
+Im8ex (see Denka at [266]).
+
+102 For the above reasons, I found the clauses which purported to accelerate
+payment of Total Interest upon default, to be unenforceable penalties.
+
+Default interest
+
+103 Clause 15 of the Facility Agreements provides that in the event of non-
+payment, Im8ex would have to pay interest on the overdue sum(s) at the rate of
+0.065% per day, such interest calculated daily with monthly rests; and such
+interest which is due but unpaid would be added to the relevant outstanding
+amount on a monthly basis and would itself bear interest at the default
+interest rate.
+
+104 With such monthly compounding, 0.065% per day rate of default interest is
+equivalent to an effective rate of some 26.08% per annum. On a conservative
+basis of 30-day months, the first month’s interest would be 0.065% per day x
+30 days = 1.95% of the overdue sum, and with monthly compounding the total
+amount to be paid after 12 months is 1.019512 = 1.2608. After a year, default
+interest would thus amount to 26.08% of the overdue sum at the time of
+default.
+
+105 Ethoz contended that, upon acceleration, the unpaid balance of both the
+Advance and Total Interest would be overdue and attract default interest.
+Thus, Ethoz’s claim was for the unpaid balance of 1.5625 times the Advance,
+and default interest at an effective rate of 26.08% on top of that, ie, with
+some extent of interest upon interest.
+
+106 In T-Pacific, the default interest rate was 0.0273% per day ≈ 10.28% per
+annum. The court allowed Ethoz’s claim to default interest on that basis,
+stating at [19], “I also do not think that cl 15, which imposes default
+interest of 0.0273% per day, or about 9.96% per annum, would fall foul of the
+penalty rule.” The court did not consider the monthly compounding of default
+interest (yielding an effective rate of 10.28% per annum), but simply reckoned
+the rate as “about 9.96% per annum”, calculated on a simple interest basis.
+Either way, that rate would be lower than the default interest of 18% per
+annum declared to be a penalty in Hong Leong.
+
+107 The default interest rate here, 0.065% per day ≈ 26.08% per annum (or
+23.725% per annum without monthly compounding), is some two and a half times
+higher than that in T-Pacific, and some 8% more than the 18% per annum default
+interest rate in Hong Leong. T-Pacific is thus not an authority that the
+default interest rate in the present case is not a penalty.
+
+108 Thistle concerned the same default interest rate as in this case, ie,
+0.065% per day, which was allowed by the court. But it does not appear that in
+that case there was any discussion of the default interest rate, which
+differed from that in T-Pacific, and was higher than that in Hong Leong. I
+thus did not derive any assistance from Thistle in my analysis of the default
+interest rate in the present case.
+
+109 Moreover, neither T-Pacific nor Thistle, concerned misrepresentations by
+Ethoz – here, I found that Ethoz had misrepresented to Im8ex the effect and
+contents of the terms of the Facilities (see below at [137]–[220]).
+
+110 I rejected Ethoz’s submission that Hong Leong should not be followed
+because it was allegedly outdated.
+
+111 While Hong Leong was decided in 1999, some 22 years before the present
+case, the loan interest in Hong Leong (which the court compared to the default
+interest rate of 18% per annum) was 5.5% per annum for the first two years,
+6.75% per annum for the rest of the term. That was in the same region as the
+interest rate on the Facilities of 3.75% flat per annum ≈ 6.444% effective per
+annum.
+
+112 Moreover, Hong Leong was decided with reference to the principles in
+Dunlop, recently affirmed by the Court of Appeal in Denka.
+
+113 One of those principles is: “[4(b)] It will be held to be a penalty if the
+breach consists only in not paying a sum of money, and the sum stipulated is a
+sum greater than the sum which ought to have been paid”, which Lord Dunedin
+regarded as a corollary to “[4(a)] It will be held to be penalty if the sum
+stipulated for is extravagant and unconscionable in amount in comparison with
+the greatest loss that could conceivably be proved to have followed from the
+breach.”
+
+114 Those principles were cited in Hong Leong at [18], and at [19] the court
+had this to say about a stipulation for default interest: “… a provision to
+pay a larger sum of money upon the failure to pay the stipulated sum within a
+stipulated time. Such a provision traditionally is the clearest and the
+classic example of a penalty.” Thus, the court stated at [20]: “… a provision
+in an agreement for payment of a higher rate of interest in the event of
+default of payment of a sum due would appear to possess all the attributes of
+a penalty, and as such, it is prima facie unenforceable”. The court concluded
+at [27]:
+
+… the default rate at 18% per annum was eminently an extravagant increase from
+the rate of 5.5% for the first two years of the term loan and 6.75% thereafter
+and was not referable to the true amount of the loss suffered by the
+appellants following the breach by the respondents … this rate was fixed in
+terrorem of the respondents and was intended to deter a breach of the
+agreement. In our judgment, the default interest at the rate of 18% per annum
+was manifestly extravagant and was out of all proportion in comparison with
+the greatest loss that could conceivably be proved to have followed from the
+breach by the respondents and was therefore a penalty and was unenforceable.
+
+115 In support of its contention that Hong Leong should not be followed, Ethoz
+cited CLAAS Medical Centre Pte Ltd v Ng Boon Ching [2010] 2 SLR 386 (“CLAAS”)
+at [63] and [67], where the Court of Appeal accepted that the burden rests on
+the defendant to show that a provision is a penalty, and he fails if the
+evidence before the court does not support this. The court did not, however,
+thereby depart from Hong Leong (which it cited at [66] for acceptance of the
+“genuine pre-estimate of loss” test).
+
+116 Both CLAAS and Hong Leong were decided based on the principles in Dunlop.
+CLAAS was not a case about default interest like Hong Leong was, it concerned
+a liquidated damages clause for breach of a restrictive covenant. The court
+did not find that to be a penalty, for in the circumstances of that case, it
+could be a genuine pre-estimate of damages.
+
+117 Hong Leong is not inconsistent with the proposition that it is for the
+defendant to show that a provision is a penalty, on the evidence before the
+court. That evidence was sufficient in Hong Leong, but it was not in CLAAS.
+
+118 While the legal burden is on the defendant to show that a provision is a
+penalty, the evidence may be such as to shift the evidential burden to the
+plaintiff to justify the provision as a genuine estimate of loss.
+
+119 One instance of this, is when the provision is a stipulation for default
+interest. In Hong Leong, the Court of Appeal considered that a provision for
+default interest was prima facie unenforceable, that the default rate was an
+“extravagant increase” from the loan interest rates, and that was not
+referable to the true amount of the loss the lender suffered from the
+borrowers’ non-payment – it was out of all proportion in comparison with the
+greatest loss that could have followed from that breach – see [114] above.
+When the circumstances are such that a provision is prima facie unenforceable,
+the evidential burden is then on the plaintiff to justify the provision.
+
+120 I applied the principles in Hong Leong in relation to the default interest
+rate in the present case. The default interest rate of some 26.08% per annum
+as compared to the usual contractual rate of some 6.444% per annum is even
+more “manifestly extravagant” an increase than that in Hong Leong from the
+loan interest rates of 5.5% per annum and 6.75% per annum, to the default
+interest rate of 18% per annum. The default interest rate of some 26.08% is
+also higher than the 18% per annum found to be a penalty in Hong Leong.
+
+121 Ethoz cited CIFG Special Assets Capital I Ltd v Polimet Pte Ltd and others
+[2017] SGHC 22 where a default interest rate of 2% per month (or 24% per
+annum) in Convertible Bond Subscription Agreements (“CBSAs”) was found not to
+be a penalty. The court noted that the plaintiff had adduced unchallenged
+evidence that private equity funds, similar to mezzanine funds such as the
+fund that owned the plaintiff, typically target an internal rate of return of
+between 20% and 25% per annum. The plaintiff thus contended that the
+defendant’s default caused a lost opportunity to deploy the funds for other
+investments which could conceivably have generated such annualised returns.
+
+122 There is no equivalent evidence from Ethoz in the present case. All that
+was said on the point was (in para 9 of Mr Ng’s third affidavit):
+
+The Defendants’ assertion that Clause 15 of the Facility Agreements is a
+penalty clause is equally unmeritorious especially since it is devoid of any
+factual basis. The default interest at a rate of 0.0650% per day is the
+Plaintiff’s genuine estimate of the Plaintiff’s loss, taking into account the
+Plaintiff’s business considerations (including the loss of the use of funds).
+There is also no question of the default interest being “interest-on-
+interest”, given that the Total Interest forms part of the agreed
+consideration for the grant of the loan to the 1st Defendant.
+
+123 That contrasts sharply with the specificity of the evidence of the
+plaintiff in CIFG regarding the targeted internal rate of return. Here, Ethoz
+simply recited the Dunlop test, “genuine estimate of the Plaintiff’s loss”,
+also mentioning “business considerations (including the loss of use of
+funds)”, bereft of details. The court is not obliged to accept a lender’s bare
+assertion that a default interest provision (which Hong Leong regarded as
+prima facie unenforceable) is a genuine estimate of loss.
+
+124 Moreover, the default interest rate of 26.08% here is higher than the 24%
+in CIFG.
+
+125 CIFG can additionally be distinguished because there, the court emphasised
+that it was dealing with a negotiated contract between properly advised
+parties of comparable bargaining power; there was no dispute that the terms of
+the CBSAs were specifically negotiated, the Initial Shareholder defendants
+were advised by an advisory company and a banking executive, and the terms
+were not unilaterally imposed by the plaintiff’s owner, KC. All of that is
+different in the present case: Im8ex did not have as much bargaining power as
+Ethoz (see para 35 of Mr Chua’s third affidavit); the contractual documents
+were not specifically negotiated – they were drafted by Ethoz; Im8ex and the
+individual defendants were not advised; and the terms of the Facilities were
+unilaterally imposed by Im8ex. Moreover, Ethoz had misrepresented to Im8ex
+that the Facilities were “better” than the Prior Facilities which the
+Facilities refinanced (which I discuss below).
+
+126 Ethoz’s other refrain was that Im8ex had not provided any evidence that
+the default interest rate was a penalty. However, there is sufficient evidence
+in the present case, as there was in Hong Leong, for the court to conclude
+that the default interest rate is a penalty. If Ethoz’s point is that it was
+not Im8ex that provided the evidence (but Ethoz itself), what matters is not
+who provided the evidence, but whether the evidence before the court is
+sufficient – and it is.
+
+127 Here, as in Hong Leong, the court had information about the loans in
+question, including the loan interest rate and the default interest rate. The
+loans were also secured – in Hong Leong, over a hawker stall; here, over four
+properties, with personal guarantees from Mr Chua and Mr Tan. In evaluating
+the consequences of default, it is relevant that the contract provided for
+security. Here, the provision of security was a condition precedent to
+drawdown (Clause 3 of the Facility Agreements read with Schedule 1, paras
+9–20). Moreover, the principal amounts of the various loans were limited to
+the amount stated in the contractual documents, or between 71.67% and 75% of
+the fair market value of the respective properties, whichever is lower (Clause
+1(a) of the Facility Letters). The parties thus expected Ethoz to be fully
+secured for the principal amount of the Advance, and indeed Ethoz was: Im8ex
+was able to raise enough to pay the balance of the Advance and loan interest
+to date, by selling one of the properties and using the remaining three as
+collateral for a loan from a new financier. The fact that Ethoz was expected
+to be secured for at least the amount lent, is relevant in deciding whether a
+26.08% per annum default interest rate is a genuine estimate of Ethoz’s loss
+from default in payment.
+
+128 One added feature of the present case, is that the Facilities refinanced
+Prior Facilities granted by Ethoz to Im8ex for the same total principal sum of
+$6.3 million, secured by the same four properties, and also secured by
+guarantees. The Prior Facilities had a lower default interest of 0.0273% per
+day ≈ 10.28% per annum, as compared to the Facilities at 0.065% per day ≈
+26.08% per annum. That huge increase in the default interest rate (an increase
+of some 16% per annum, or over two and a half times more) is not proportionate
+to the slight increase in the loan interest rate of the Facilities as compared
+to the Prior Facilities.
+
+129 Of the three Prior Facilities, two (for a total of $4,150,000) were at an
+effective rate of 6.25% per annum, the third (for $2,150,000) was at an
+effective rate of 6.50% per annum. For the whole principal amount of $6.3
+million, that is equivalent to a blended effective interest rate of 6.34% per
+annum, ie, ($4,150,000 x 6.25%) + (2,150,000 x 6.5%) / $6.3 million.
+
+130 The Facilities, for the same total principal amount of $6.3 million at a
+flat rate of 3.75% per annum (which as noted below at [148] is equivalent to
+an effective rate of some 6.444% per annum), were at a slightly higher
+interest rate.
+
+131 The large increase in the default interest rate is thus not explicable
+with reference to the slight increase in the loan interest rate from the Prior
+Facilities to the Facilities. Indeed, Ethoz had misrepresented to Im8ex that
+the Facilities were at a lower interest rate than the Prior Facilities, when
+in fact the interest rate of the Facilities was higher.
+
+132 Presumably, Im8ex would describe the Prior Facilities’ default interest
+rate of 0.0273% per day ≈ 10.28% per annum (as it did the Facilities’ default
+interest rate of 0.065% per day ≈ 26.08% per annum) as a genuine estimate of
+its loss, taking into account business considerations (including the loss of
+use of funds). But if 10.28% per annum were a genuine estimate of Ethoz’s
+loss, that would itself indicate that 26.08% per annum was not also a genuine
+estimate of Ethoz’s loss. And it still begs the question: why the dramatic
+increase?
+
+133 All that I can infer from the facts of the present case, and the decisions
+in T-Pacific and Thistle, is that Ethoz may have increased the default
+interest rate across the board, comparing 2018 facilities (like that in
+T-Pacific and the Prior Facilities in this case) to 2019 facilities (like that
+in Thistle, and the Facilities in this case). But that still begs the
+question: why?
+
+134 Ethoz did not answer that question. It put forward nothing in the external
+environment, or in the relationship between Ethoz and Im8ex, or specific to
+Ethoz, or specific to Im8ex, to justify the increase in the default interest
+rate.
+
+135 I found the Facilities’ default interest at the rate of 0.065% per day ≈
+26.08% per annum to be a penalty.
+
+136 The default interest is even more so a penalty if (contrary to my holding
+above) Ethoz’s claim for accelerated Total Interest upon default in payment is
+not a penalty, for Ethoz would already be receiving 1.5625 times the Advance,
+and the default interest would be calculated on the unpaid balance of that
+(with a principal component and an interest component).
+
+Misrepresentation
+
+Ethoz’s representations
+
+137 Mr Chua dealt primarily with one Ms Ong Xing Pei (“Ms Ong”) from Ethoz in
+negotiating the Facilities on behalf of Im8ex. At paras 36 and 37 of Mr Chua’s
+third affidavit, filed on 30 June 2021, he said:
+
+(a) Ethoz offered to renew the Prior Facilities.
+
+(b) He agreed in principle to renew those loans but told Ethoz not to increase
+the interest rate (his WhatsApp message of 24 October 2019, 2:39:38pm to Ms
+Ong said, “Pls don’t increase the interest”; Ms Ong replied on 24 October
+2019, 2:51:25pm, “We have proposed to my mgmt the same terms as last year”). 4
+
+##### Foot Note 4
+
+×
+
+Mr Ng’s third affidavit, p 148.
+
+(c) On or around 12 November 2019, Ms Ong and her superior visited him and
+told him that Ethoz had a better offer of loans for Im8ex: they said the
+interest rate was lower, ie, 3.75% flat per annum instead of 6.25% effective
+per annum or 6.50% effective per annum, and the term of the loans was longer,
+ie, 180 months (15 years) instead of 12 months. From para 9 of Mr Chua’s first
+affidavit filed on 8 March 2021, Ms Ong’s superior would have been team leader
+Mr Edmund Chow (“Mr Chow”) who settled the terms of the loan. At that meeting,
+they handed Mr Chua the first two Facility Letters; the Facility Agreements
+followed shortly after.
+
+138 The affidavit filed by Ethoz in response, was not from Ms Ong or Mr Chow,
+but from its Executive Vice President Mr Ng Boon Tee (“Mr Ng”) (who filed all
+of the affidavits from Ethoz in this action). He asserted at para 14 of his
+third affidavit, dated 21 July 2021, that the Prior Facilities were
+irrelevant. However, he went on in para 15 to set out Ethoz’s account of the
+background facts, “for completeness”. He acknowledged at para 15(3) that “the
+initial intention was to extend facilities to [Im8ex] on similar terms as that
+in the Prior Facilities (without any increase on the interest rate levied)”
+but Ethoz “subsequently proposed to extend fresh facilities on fresh terms as
+set out under the Facility Letters and Facility Agreements instead, which
+provided for repayment over 180 months and charged an interest rate of 3.75%
+flat per annum.”
+
+139 Further, Mr Ng said at para 15(4) of his third affidavit, that Im8ex had
+the opportunity to review each of the Facility Letters and Facility
+Agreements, and to obtain legal advice if it so wished, prior to signing the
+same.
+
+140 Mr Ng did not dispute Mr Chua’s assertion that Ethoz had represented to
+him that the Facilities were on better terms than the Prior Facilities, and,
+specifically, that the interest rate was lower ie, 3.75% flat per annum
+instead of 6.25% effective per annum or 6.50% effective per annum.
+
+141 Indeed, Ethoz’s counsel submitted that the Facilities were on better terms
+than the Prior Facilities, specifically, because the Facilities were at a
+lower interest rate:
+
+(a) at the hearing of HC/SUM 2951/2021, Im8ex’s application to adduce Mr
+Chua’s third affidavit as further evidence (which I granted), Ethoz’s counsel
+submitted with reference to paras 36 and 37 of Mr Chua’s third affidavit, that
+Im8ex knew the Facilities were on different terms than the Prior Facilities,
+it knew it was being offered lower interest; and
+
+(b) at the hearing on 13 August 2021, he submitted that the lower interest was
+a quid pro quo for the acceleration provisions in the Facilities making a full
+15 years’ worth of interest payable if Im8ex were to default.
+
+Ethoz’s representations were false
+
+142 On the evidence, Ethoz had misrepresented to Im8ex that the Facilities
+were on better terms than the Prior Facilities. The Facilities were not on
+better terms. Specifically:
+
+(a) the loan interest rate of the Facilities was higher than that of the Prior
+Facilities (when it was represented to be lower);
+
+(b) the prepayment regime was worse under the Facilities; and
+
+(c) the consequences of default (including accelerated payment of future
+interest, and a higher default interest rate) were worse under the Facilities.
+
+Interest rate
+
+143 The Facilities were not at a lower interest rate than the Prior
+Facilities, contrary to what Ethoz had represented to Im8ex.
+
+144 Of the three Prior Facilities, two (for a total of $4,150,000) were at an
+effective rate of 6.25% per annum, the third (for $2,150,000) was at an
+effective rate of 6.50% per annum. For the whole principal amount of $6.3
+million, that is equivalent to a blended effective interest rate of 6.34% per
+annum, ie, (($4,150,000 x 6.25%) + ($2,150,000 x 6.5%)) / $6.3 million.
+
+145 The Prior Facilities were on an effective interest basis, whereas the
+Facilities were on a flat rate basis. How does the blended effective rate of
+6.34% per annum under the Prior Facilities compare to the rate under the
+Facilities?
+
+146 I use the third of the Facilities, for the principal sum of $1,000,000, to
+illustrate. Interest of 3.75% flat per annum for 180 months (15 years) means
+that a total of 3.75% x 1,000,000 x 15 would be paid in interest, ie, $562,500
+(which is the Total Interest stated in Schedule 3). 5
+
+##### Foot Note 5
+
+×
+
+Mr Ng’s first affidavit, p 175.
+
+Although the outstanding principal amount decreases over time (as shown by the
+“Reducing Principal” column in the same schedule), that does not affect the
+interest payable, which is at a flat rate on amount of the Advance, ie,
+$1,000,000.
+
+147 On an effective interest rate basis, however, interest would be calculated
+on a decreasing principal amount over the term of the loan. Thus, a flat
+interest rate is the equivalent of a higher effective interest rate, if the
+principal amount is reduced by instalment payments over time.
+
+148 Using an online mortgage calculator on a Singapore Government agency
+website (), a flat interest rate of 3.75% per annum on a 15-year loan with
+equal monthly instalments is equivalent to an effective interest rate of
+6.444% per annum, with interest calculated on reducing principal amounts (to
+be precise, the effective interest rate is slightly above 6.444% per annum:
+applying 6.444% per annum, the calculator works out a monthly payment of
+$8,680.32 (as compared to $8,680.51 in Schedule 3), and a total payment of
+$562,457.21 in interest (as compared to $562,500 in Schedule 3) – these are
+marginal differences.)
+
+149 The Facilities, for the same total principal amount of $6.3 million at a
+flat rate of 3.75% per annum (which as noted above at [148] is equivalent to
+an effective rate of some 6.444% per annum), were at a higher loan interest
+rate than the blended effective interest rate of the Prior Facilities. Ethoz
+misrepresented to Mr Chua and Im8ex that the Facilities were at a lower
+interest rate. Mr Chua had asked Ms Ong not to raise the interest rate; Ms Ong
+replied to say that “the same terms as last year” had been proposed to Ethoz’s
+management; and then Ethoz represented that it had a better offer for Im8ex,
+with a lower interest rate.
+
+Prepayment
+
+150 The prepayment regime under the Facilities was also worse than that under
+the Prior Facilities.
+
+151 Im8ex was concerned about when it could redeem the loans, and on what
+terms, as is evident from Mr Chua’s messages to Ms Ong. In Mr Chua’s message
+of 26 June 2019, 2:26:19pm, he asked, “what’s the notice period for full
+redemption? Any penalty?” 6
+
+##### Foot Note 6
+
+×
+
+Mr Ng’s third affidavit, p 146.
+
+Ms Ong’s reply of 26 June 2019, 2:34:01pm was: “You will need to give 3 mths
+prior written notice. N there will be a prepayment fee of 1% on the
+outstanding principal amt prepaid.” 7
+
+##### Foot Note 7
+
+×
+
+Mr Ng’s third affidavit, p 146.
+
+152 Mr Chua and Ms Ong exchanged further messages about early redemption: Mr
+Chua queried why there should be a prepayment fee of 1% if three months’
+notice were given and the loans were repaid after 12 months; Ms Ong explained
+that prepayment would apply for the new contract. Indeed, two of the three
+Prior Facilities would mature in or around September 2019, and for those,
+payment on maturity would not be prepayment. Ms Ong then sent her message of 9
+September 2019, 6:32:56pm: “For the calculation of early redemption, I’ll
+email u tmr morn”. 8
+
+##### Foot Note 8
+
+×
+
+Mr Ng’s third affidavit, p 146.
+
+If such an email were sent thereafter, it was not in the evidence before me.
+In the event, the Prior Facilities were not redeemed before maturity, or at
+maturity; instead the full principal amount of $6.3 million became the subject
+of the Facilities – with a slight gap between the maturity of the first two of
+the Prior Facilities (for a total $4.15 million) in September 2019, and the
+commencement of the first three of the Facilities (for the same total of $4.15
+million) in November 2019.
+
+153 There was no specific discussion about how the prepayment provisions for
+the Facilities compared with those for the Prior Facilities. Ethoz simply
+represented to Mr Chua in November 2019 that the Facilities were “better” than
+the Prior Facilities, specifically highlighting the supposedly lower interest
+rate, and the longer term of 180 months (15 years) as compared to 12 months.
+Three of the four Facilities were then granted in November 2019.
+
+154 Before the last of the Facilities was granted in January 2020, Ms Ong
+messaged Mr Chua on 13 January 2020, 3:46:31pm (a Monday) to say: “Hi Mr Chua,
+are u free on wed aftnn to pass u the letter of offer? I’m waiting for the
+letter of offer to be out within these 2 days. Conditions all remain the same.
+Can redeem 3 mths later. Will scan a copy to you first once I get it.” 9
+
+##### Foot Note 9
+
+×
+
+Mr Ng’s third affidavit, p 151.
+
+155 That letter of offer (the fourth Facility Letter) was dated 13 January
+2020; Ms Ong messaged Mr Chua on Wednesday, 15 January 2020 to say she had
+just sent him the letter of offer, and Mr Chua replied the same day to say,
+“let me have a read”.
+
+156 Ms Ong’s representation of “[c]an redeem 3 mths later” correctly stated
+that the fourth Facility Letter allowed prepayment after the first three
+months. So did the third Facility Letter. The first two Facility Letters had a
+longer initial period of six months, during which there was no right of
+prepayment.
+
+157 However, Ms Ong only mentioned when Im8ex could effect prepayment. She did
+not say what prepayment would entail. She did not inform Mr Chua that it was
+Ethoz’s position that prepayment would involve Im8ex paying the Advance and 15
+years’ worth of interest, ie, Ethoz would have to pay 1.5625 times the
+Advance, even if Im8ex were to prepay as early as three or six months after
+drawdown. Mr Chua could not have had that in mind; he would not have had to do
+that under the Prior Facilities.
+
+158 Under the Prior Facilities, if early redemption were effected, there was a
+prepayment fee of 1% of the Advance prepaid (under Clause 6 of the Prior
+Facility Agreements). Under the Facilities, however, the corresponding
+prepayment fee was higher, at 1.5% of the Advance prepaid, in the event of
+prepayment within the first 12 months. In this regard too, the Facilities were
+worse for Im8ex than the Prior Facilities.
+
+(1) Prepayment of the Prior Facilities
+
+159 For the Prior Facilities, Clause 6 of the Prior Facility Agreements first
+provided in sub-Clause (A) that prepayment within the first six months was
+generally not allowed. Clause 6(B) then provides as follows:
+
+(B) Prepayment: The Borrower may at any time after the expiry of six (6)
+months from the date of drawdown of Advance, at its option prepay the Advance
+and interest computed thereon in full (and not in part only) on any Interest
+Payment Date together with such additional amounts as may be necessary to
+compensate the Lender for any costs or losses (including funding losses)
+directly or indirectly resulting from such prepayment, subject to the
+following conditions and Clause 14 hereof:-
+
+(1) the Borrower shall give the Lender not less than three (3) month’s prior
+written notice of the date of the proposed prepayment, failing which the
+Borrower shall pay to the Lender a fee of an amount equivalent to the next
+three (3) month’s interest due to be paid on the Advance.
+
+…
+
+(4) the Borrower shall pay to the Lender a prepayment fee of one per cent (1%)
+flat of the amount of the Advance prepaid.
+
+[emphasis in original]
+
+160 Two scenarios can be considered: (a) full payment of the Advance after a
+year; and (b) full payment of the Advance after six months.
+
+161 In the first scenario, there would be no prepayment, and no prepayment fee
+– that would be payment of the Advance on maturity (12 months from drawdown),
+in accordance with the parties’ agreement.
+
+162 In the second scenario, assuming Im8ex had duly given three months’ notice
+of the proposed prepayment, pursuant to Clause 6(B) of the Prior Facility
+Agreements Im8ex would have to pay Ethoz the Advance, and a prepayment fee of
+1% on the Advance. As interest accrued from day to day, if Im8ex had already
+paid the first six months’ interest on the Advance, Im8ex would not have to
+pay any further interest in respect of the remaining six months of the
+12-month term.
+
+163 The reference in Clause 6(B) of the Prior Facility Agreements to
+prepayment of “the Advance and interest computed thereon” would be a reference
+to the Advance and interest thereon prior to the date of prepayment, computed
+based on the loan interest rate. It could not mean interest for the whole 12
+months of the term, for the last six months’ worth of interest had not
+accrued, and would not accrue. Again, Clause 19(A) of the Prior Facility
+Agreements stipulated that “Interest on the Advance … shall accrue from day to
+day”.
+
+164 Clause 6(A) of the Prior Facility Agreements provided that within the
+first six months, if Ethoz consented to prepayment, Im8ex would have to pay a
+prepayment fee of 1% on the Advance (also stipulated in Clause 6(B)(4) for
+prepayment after six months), as well as “an amount equivalent to 12 months’
+interest on the Advance less any amounts of interest already paid to the
+Lender under Clause 7 as at the date of the prepayment” (Clause 6(A)(2)).
+There is no equivalent stipulation in Clause 6(B) for prepayment after six
+months, that a full 12 months’ worth of interest had to be paid.
+
+165 If Ethoz had intended that a full 12 months’ worth of interest had to be
+paid, whether prepayment took place within the first six months (with Ethoz’s
+consent), or after six months (which Im8ex could do as a matter of right),
+Clause 6(A)(2) would have been drafted to apply to all prepayments. But it was
+not, and Clause 6(B) does not have that effect either.
+
+166 At worst, prepayment of the Prior Facilities would thus entail Im8ex
+paying the Advance plus a full 12 months’ worth of interest at 6.34% effective
+per annum (amounting to 1.0634 times the Advance), and a prepayment fee of 1%
+of the amount of the Advance prepaid.
+
+(2) Prepayment of the Facilities
+
+167 For the Facilities, Clause 6 of the Facility Agreements on prepayment
+first provided in Clause 6(A) that the Borrower shall not prepay the Advance
+within a certain period (for the first two Facilities, this was six months;
+for the third and fourth Facilities, this was three months). Clause 6(A) of
+the Facility Letter was more restrictive than that for the Prior Facilities,
+in that it made no provision for repayment within that initial period (of
+three or six months) with Ethoz’s consent (unlike Clause 6(A) of the facility
+letters for the Prior Facilities). But in principle Ethoz could still consent.
+
+168 Clause 6(B) of the first two Facility Agreements then provided as follows:
+
+(B) Prepayment: The Borrower may at any time after the expiry of six (6)
+months from the date of drawdown of the Advance, at its option prepay the
+Advance and interest computed thereon in full (and not in part only) on any
+Interest Payment Date together with such additional amounts as may be
+necessary to compensate the Lender for any costs or losses (including funding
+losses) directly or indirectly resulting from such prepayment, subject to the
+following conditions and Clause 14 hereof:-
+
+(1) the Borrower shall give the Lender not less than three (3) month’s prior
+written notice of the date of the proposed prepayment, failing which the
+Borrower shall pay to the Lender a fee of an amount equivalent to the next
+three (3) month’s interest due to be paid on the Advance.
+
+…
+
+(4) the Borrower shall pay to the Lender a prepayment fee of one point five
+per cent (1.5%) flat of the amount of the Advance prepaid; and
+
+(5) the prepayment may be subject to a return of interest payable on the
+Advance of such amount as may be determined by the Lender at its sole
+discretion Provided Always That the Borrower shall not be entitled to any
+return of interest paid prior to the prepayment.
+
+[emphasis in original]
+
+169 That clause was the same for the third and fourth Facility Agreements,
+save that the period in 6(B) after which Im8ex could prepay, was six months
+and not three months.
+
+170 Clause 6(B) in the Prior Facility Agreements had been on the same terms,
+save that:
+
+(a) the prepayment fee of the Prior Facilities was lower at 1%, whereas the
+prepayment fee of the Facilities was 1.5%; and
+
+(b) the Facility Agreements had an extra sub-Clause (5) relating to a possible
+return of interest at Ethoz’s sole discretion.
+
+171 The presence of Clause 6(B)(5) of the Facility Agreements (about a
+possible discretionary return of interest) does not add much, if anything, to
+the stipulation in Clause 7(B), that “[f]or the avoidance of doubt, the
+Borrower shall not be entitled, upon any prepayment under Clauses 6(A) and
+6(B), to any rebate of interest paid prior to such prepayment.” That
+stipulation in Clause 7(B) was common to both the Facilities, and the Prior
+Facilities (where it appears in Clause 7(B)(1) of the Prior Facility
+Agreements). The simple point is, any return or rebate of interest paid was at
+Ethoz’s sole discretion (which Ethoz could grant, with or without Clause
+6(B)(5) of the Facility Agreements), it was not something Im8ex had an
+entitlement to.
+
+172 Ethoz contended that under Clause 6(B) of the Facility Agreements for the
+Facilities, if Im8ex wished to prepay after the first six months, having given
+the requisite three months’ notice, Im8ex would have to pay the Advance plus a
+full 15 years’ worth of interest (ie, Total Interest as per Clause 7(B) and
+Schedule 3). As I stated above, I did not agree with that interpretation.
+
+173 For present purposes, it suffices to say that Ethoz had misrepresented to
+Im8ex that the Facilities were better than the Prior Facilities, when in terms
+of prepayment the provisions were worse:
+
+(a) the prepayment fee for the Facilities was higher (1.5% as compared to 1%);
+and
+
+(b) if Ethoz is right, prepayment of the Facilities would entail Im8ex paying
+the Advance plus a full 15 years’ worth of interest at 3.75% flat per annum ≈
+6.444% effective per annum (amounting to 1.5625 times the Advance), whereas if
+Im8ex prepaid the Prior Facilities at worst it would pay the Advance and one
+year’s worth of interest at 6.34% effective per annum (amounting to 1.0634
+times the Advance).
+
+174 Ethoz never told Im8ex that it considered Im8ex obliged to pay the Advance
+plus 15 years’ worth of interest in all circumstances: whether Im8ex paid the
+instalments for 15 years, or Im8ex made prepayment, or Im8ex defaulted in
+payment. It just told Im8ex that the Facilities were better, but that was
+untrue.
+
+Consequences of default
+
+175 A further difference between the Facilities and the Prior Facilities,
+relates to the acceleration of payment, and other consequences, if Im8ex
+should default in payment.
+
+176 Under the Prior Facility Agreements:
+
+(a) Clause 7(C) provided as follows: “Default: In default of payment of any of
+the said interest payment for any reason whatsoever, the Lender may treat the
+whole of the Facility together with interest thereon and all other sums due
+and owing under this Agreement as immediately due and payable without any
+demand” (Clause 5(A)(1) of the Facility Agreements is similar);
+
+(b) Clause 14(A)(1) provided that the Events of Default included: “Non-
+Payment: the Borrower does not pay in the manner provided in this Agreement
+any sum payable under it when due” (the Facility Agreements have the same
+clause);
+
+(c) Clause 14(B) on “Cancellation/Acceleration” provided that if any Event of
+Default had occurred:
+
+… the Lender may by notice to the Borrower declare:-
+
+(1) the Commitment and/or Facility to be cancelled, whereupon it shall be
+cancelled; and/or
+
+(2) all amounts due and owing under the Facility, including the Advance and
+the Total Interest and any default interests, fees and any other sum then
+payable under this Agreement to be immediately due and payable, whereupon they
+shall become so due and payable.
+
+(The Facility Agreements have the same clause); and
+
+(d) Clause 15 provided for payment of default interest on any overdue sums at
+the rate of 0.0273% per day, compounded monthly (the Facility Agreements have
+the same clause, save that the rate was increased to 0.065% per day).
+
+177 If Im8ex had defaulted in payment during the term of the Prior Facilities:
+
+(a) under Clause 7(C) of the Prior Facility Agreements, Ethoz could “treat the
+whole of the Facility together with interest thereon and all other sums due
+and owing under this Agreement as immediately due and payable without any
+demand”;
+
+(b) that would be an Event of Default and under Clause 14(B)(2) of the Prior
+Facility Agreements, Ethoz could give notice to make “[a]ll amounts due and
+owing under the Facility, including the Advance and the Total Interest … to be
+immediately due and payable”; and
+
+(c) Clause 15 of the Prior Facility Agreements stipulated default interest at
+the rate of 0.0273% per day.
+
+178 Assume Im8ex defaulted at the six-month mark, having paid the first six
+months’ worth of interest. Ethoz could require immediate payment of the
+Advance, and any unpaid interest prior to default. But Ethoz could not require
+immediate payment of 12 months’ worth of interest, relying on Clause 7(C)
+and/or Clause 14(B)((2) of the Prior Facilities. Interest for the remaining
+six months of the term would not be due and owing at the six-month mark, for
+Clause 19(A) of the Prior Facility Agreements stipulated that “Interest on the
+Advance … shall accrue from day to day”. “Due” in a clause on default means
+“due at the time of default” – interest for a future period is not “due”: see
+The Angelic Star.
+
+179 Accordingly, interest for the remaining six months:
+
+(a) would not be “due and owing under this Agreement” within Clause 7(C) of
+the Prior Facility Agreements; and
+
+(b) would not be “due and owing under the Facility” within Clause 14(B)(2) of
+the Prior Facility Agreements.
+
+180 The use of the undefined phrase “Total Interest” in Clause 14(B)(2) of the
+Prior Facility Agreements cannot transform interest for a future period, which
+is thus not “due and owing”, into something that is “due and owing”. “Total
+Interest” in Clause 14(B) of Prior Facility Agreements cannot retrospectively
+be ascribed the same meaning as “Total Interest” in Clause 14(B) of the
+Facility Agreements (which came later, and which Im8ex would not have seen at
+the time of the Prior Facilities). Crucially, the Prior Facility Agreements
+had no stipulation that interest on the Advance was deemed earned and accrued
+in full upon drawdown (like Clause 7(B) of the Facility Agreements). On the
+contrary, Clause 19(A) of the Prior Facility Agreements stipulated that
+“Interest on the Advance … shall accrue from day to day” – that shuts the door
+on any claim for interest for a future period.
+
+181 Under the Facilities, however, if Im8ex defaulted in payment at the six-
+month mark after having paid the first six instalments:
+
+(a) under Clause 5(A)(1) of the Facility Agreements, Ethoz could “treat the
+whole of the Facility or the balance thereof for the time being owing and
+unpaid together with interest thereon and all other sums due and owing under
+this Agreement as immediately due and payable without any demand”;
+
+(b) that would be an Event of Default and under Clause 14(B)(2) of the
+Facility Agreements, Ethoz could give notice to make “[a]ll amounts due and
+owing under the Facility, including the Advance and the Total Interest …
+immediately due and payable; and
+
+(c) Clause 15 of the Facility Agreements stipulated default interest at the
+rate of 0.065% per day.
+
+182 As stated above, I accepted that Clause 14(B) of the Facility Agreements
+allows acceleration of Total Interest as defined in Clause 7(B) with reference
+to Schedule 3. Ethoz contended that Clause 5(A)(1) too had the same effect,
+but I did not accept this.
+
+183 On the terms of the Prior Facilities, if Im8ex defaulted at the six-month
+mark:
+
+(a) it could only be liable to pay the Advance and interest prior to default,
+or (if Total Interest in Clause 14(B) of the Prior Facilities means one whole
+year’s worth of interest), at worst another six months’ worth of interest; and
+
+(b) the amount overdue would attract default interest of 0.0273% per day ≈
+10.28% per annum.
+
+184 In contrast, on the terms of the Facilities, if Im8ex defaulted at the
+six-month mark:
+
+(a) it could be liable to pay the Advance and 15 years’ worth of interest; and
+
+(b) the amount overdue would attract default interest at the higher rate of
+0.065% per day ≈ 26.08% per annum.
+
+185 Thus, on the terms of the Prior Facilities, if Im8ex defaulted in payment,
+at worst it would have to pay the Advance and one year’s worth of interest at
+an effective rate of 6.34% effective per annum (amounting to 1.0634 times the
+Advance), with default interest at 0.0273% per day ≈ 10.28% per annum.
+
+186 On the terms of the Facilities, however, if Im8ex defaulted in payment, it
+would have to pay the Advance and 15 years’ worth of interest at 3.75% flat
+per annum ≈ 6.444% effective per annum (amounting to 1.5625 times the
+Advance), with default interest at 0.065% per day ≈ 26.08% per annum.
+
+187 Im8ex was thus much worse off if it defaulted under the Facilities, than
+if it defaulted under the Prior Facilities.
+
+188 As I note above, Ethoz’s counsel sought to justify the consequence of
+accelerating 15 years’ worth of interest under the Facilities, by contending
+that this was a quid pro quo for Im8ex enjoying lower interest under the
+Facilities; but in fact, the Facilities were at a higher interest rate. There
+was no quid pro quo.
+
+The longer term of the Facilities
+
+189 In representing that the Facilities offered were better than the Prior
+Facilities, besides the supposedly lower loan interest rate of the Facilities
+(which was a misrepresentation), Ethoz mentioned the longer term of 180 months
+(15 years) as compared to 12 months.
+
+190 From the evidence, however, Im8ex was not looking for a longer term in the
+first place. It was content to renew on the same basis, ie, another 12 months
+on the same terms, when Ethoz represented that it had a better offer.
+
+191 The Facilities allowed Ethoz 180 months to pay the Advance in instalments,
+whereas under the Prior Facilities Ethoz was obliged to pay the Advance in a
+lump sum at the end of 12 months. As a corollary, however, under the
+Facilities Im8ex was potentially exposed in a default scenario (and Ethoz
+contends also in a prepayment scenario) to paying the Advance plus 15 years’
+worth of interest, amounting to 1.5625 times the Advance; whereas under the
+Prior Facilities with their 12-month term, at worst Ethoz would have to pay
+the Advance plus 12 months’ worth of interest, amounting to 1.0634 times the
+Advance.
+
+192 Im8ex was not looking for a period of more than 12 months to repay the
+Advance; on the contrary, it wanted to be able to prepay the Facilities with a
+minimum of restrictions and adverse consequences. The Facilities offered were
+much worse for Im8ex than the Prior Facilities in that regard.
+
+193 It is also instructive to consider the value of the properties which were
+offered as security for the loans. The Facility Letters each limited the
+principal amount lent, to the stated amount of the Advance, or no more than
+75% of the fair market value of the respective properties, whichever was
+lower. Thus, what was lent would not be more than 75% of the fair market value
+of the properties.
+
+194 On Ethoz’s case, however, Total Interest of 56.25% (3.75% x 15 years) was
+immediately added to the Advance, and that would have to be paid by Im8ex in
+all scenarios, including early redemption. If the amount lent were 75% of the
+fair market value of the properties, adding 56.25% to the Advance would exceed
+the fair market value of the properties by over 17% (0.75 x 1.5625 = 1.1719).
+Indeed, if the Advance were anything more than 64% of the fair market value of
+the properties, adding 56.25% to the Advance would exceed the fair market
+value of the properties (0.64 x 1.5625 = 1). Accelerated payment of future
+interest would result in the sale proceeds of the properties being
+insufficient to meet Ethoz’s claims, and it would not be possible to re-
+finance the loans using the same properties as collateral either. Im8ex’s
+difficulties in re-financing were recounted by Mr Chua in his first affidavit
+at paras 14 to 15.
+
+195 Mr Chua was particularly upset about the Hoe Chiang Road property which he
+owned – he said that it had en bloc potential which Ethoz was aware of, and en
+bloc negotiations were ongoing when the property was provided as security to
+Ethoz. If Im8ex were obliged to pay 15 years’ worth of interest in a re-
+financing situation, that would get in the way of re-financing and early
+redemption of the Facilities. If an en bloc sale were to happen, Mr Chua could
+not take advantage of it unless he could get the mortgage discharged. But the
+Facility Agreement purported to lock Im8ex into the Facilities, such that
+Im8ex could not sensibly get out (see para 3(b) of Mr Chua’s first affidavit).
+Ironically, allowing Ethoz to foreclose would mean that Ethoz, not Mr Chua,
+would benefit from any en bloc sale.
+
+196 In the context of the parties’ discussions at the time, Ethoz’s general
+representation that the Facilities were “better” than the Prior Facilities was
+a misrepresentation. Ethoz’s specific representation that the Facilities were
+at a lower rate than the Prior Facilities was also a misrepresentation.
+
+Inducement
+
+197 On the evidence, I accept that Im8ex was induced by Ethoz’s
+misrepresentations into taking up the Facilities.
+
+198 Indeed, Ethoz’s counsel’s submission that Im8ex knew it was being offered
+lower interest under the Facilities, is implicit recognition that Im8ex had
+relied on Ethoz’s misrepresentation that the interest rate under the
+Facilities was lower, when in fact it was higher.
+
+199 Ethoz, however, contended that whatever misrepresentations it had made,
+the terms of the Facility Agreements would have shown Im8ex what the truth
+was, and so Im8ex remained bound by the Facility Agreements. Ethoz relied on
+the Court of Appeal’s decision in Broadley Construction Pte Ltd v Alacran
+Design Pte Ltd [2018] 2 SLR 110 for this proposition.
+
+200 Ethoz’s contention stems from a misreading of the Court of Appeal’s
+decision in Broadley. There, the alleged representation was based on silence:
+at a meeting, the subcontractor had remained silent in response to the
+supplier saying that if the main contractor did not pay, the subcontractor
+would remain liable to the supplier for the outstanding sum. The three parties
+however then signed an undertaking that authorised the main contractor to pay
+the supplier on the subcontractor’s behalf (“the Undertaking”), and also
+stated that the subcontractor was released of all liability to the supplier.
+The signed Undertaking was thus contrary to the subcontractor’s position as
+stated at the earlier meeting.
+
+201 The Court of Appeal found that the subcontractor’s silence did not amount
+to a representation in the first place – at best, it was ambiguous; moreover,
+the parties expected that a written agreement would be forthcoming, and the
+subcontractor’s disagreement with the supplier’s stated position was manifest
+from the terms of the draft Undertaking.
+
+202 The Court of Appeal went on to find that even if the subcontractor’s
+silence amounted to a misrepresentation, it was corrected by the draft
+Undertaking, such that the supplier could not have been induced by the
+misrepresentation into signing the Undertaking. That aspect (inducement) is
+the most pertinent for present purposes, in particular the following:
+
+35 The present case is one where the misrepresentation (assuming the silence
+constituted a representation) was dispelled by the express terms of the
+contract …
+
+36 Peekay stands for the proposition that a plaintiff would not ordinarily be
+held to be induced by a misrepresentation if the express contractual terms,
+which the plaintiff placed importance on, read and signed, and which the
+defendant expected that the plaintiff would read and understand, contradict or
+correct the defendant’s misrepresentation. … It is still the law that
+representees are not obliged to test the accuracy of the representations made
+to them, and it does not matter if they had the opportunity to discover the
+truth as long as they did not actually discover it (Peekay at [40]). But where
+the true position appears clearly from the terms of the very contract which
+the plaintiff says it was induced to enter into by the misrepresentation
+(Peekay at [43]), the position is quite different. After all, it is a
+corollary of the basic principle of contract law that a person is bound by the
+terms of the contract he signs, notwithstanding that he may be unaware of its
+precise legal effect. Such a claimant should be taken to have actually read
+the contract and known the falsity of the earlier representation. To hold
+otherwise would undercut the basis of the conduct of commercial life – that
+businessmen with equal bargaining power would read their contracts and defend
+their own interests before entering into contractual obligations, and that
+they would rely on their counterparties to do the same.
+
+…
+
+38 In our judgment, the reasoning in Peekay applies with equal force to the
+present case. The Undertaking clearly contradicted or corrected the position
+that Broadley would remain liable for the Outstanding Sum. Both parties knew
+and acted on the basis that the written Undertaking was meant to be the
+operative contract between them and not the oral agreement made at the Second
+Meeting. It was incumbent on Mr Lin to read and understand the Undertaking,
+which was brief and simple and which he had ample time to read before signing.
+Broadley’s position was patently obvious from the Undertaking. If Mr Lin did
+not understand or did not agree to its terms, he could have declined to sign
+the Undertaking or sought clarification as to the legal effect of the
+Undertaking (either from Mr Govin or through legal advice). If he chose
+instead to sign the Undertaking without seeking any clarification, this was
+completely pursuant to his own assumption that it reflected the agreement at
+the Second Meeting, and the consequences arising therefrom must fall on
+Alacran alone. This is especially so in the present case since the indemnity
+clause was not buried in a mass of small print but clearly appeared just above
+the space for signature by the parties.
+
+…
+
+40 We find that Mr Govin’s misrepresentation (if any) did not induce Mr Lin to
+enter into the Undertaking. The above analysis is distinct from cases where a
+representation is made as to the effect and contents of the contractual
+document, such as in Curtis v Chemical Cleaning and Dyeing Co [1951] 1 KB 805
+[(“Curtis”)] where the shop assistant told the plaintiff that the document she
+was about to sign limited the shop’s liability to a lesser extent that the
+document stated or Lloyds Bank plc v Waterhouse [1993] 2 FLR 97
+[(“Waterhouse”)] where the defendant was induced to sign a guarantee for a
+loan by the bank’s misrepresentation as regards the scope and content of the
+guarantee. In Peekay it was not argued that the bank had represented anything
+as to the effect of the investment documents: Peekay at [60]. Here, it is
+common ground that the parties intended that the agreement reached at the
+Second Meeting would form the basis of their written agreement … The parties
+met before the Undertaking was signed and could have made changes to the
+Undertaking had they desired to do so. But even if such a representation were
+made, in our judgment, Mr Lin similarly could not be said to have been induced
+by this representation to enter into the Undertaking. That representation was
+made well before the Undertaking was even drafted, and Mr Lin was given more
+than enough time to review its contents. The divergence from the
+representation, if any, was obvious in the language of the Undertaking, and
+for the reasons set out at [38] above, we find that this argument cannot
+assist Alacran.
+
+203 First and foremost, the present case is one where the misrepresentations
+were about the effect and contents of the contractual documents, namely that
+the Facilities were on better terms than the Prior Facilities, and in
+particular that the interest rate was lower. The Court of Appeal (at [40])
+specifically regarded such cases (citing Curtis and Waterhouse as examples) as
+distinct from the situation in Broadley.
+
+204 In Curtis, the plaintiff was asked to sign a document by drycleaners, so
+that they could disclaim liability for damage in relation to beads and
+sequins. In fact, the document contained a condition stating that the
+drycleaners were “not liable for any damage howsoever arising”. The dress the
+plaintiff sent for cleaning was then stained. The plaintiff was awarded
+damages for negligence, and that decision was upheld by the English Court of
+Appeal. As Denning LJ put it, the drycleaners were disentitled to rely on the
+exemption because the plaintiff’s agreement to it had been obtained by
+misrepresentation.
+
+205 In Waterhouse, an “all monies” guarantee was signed, after the bank led
+the guarantor to believe that it would only guarantee money borrowed to
+purchase a piece of land. The bank then sought to enforce the guarantee for a
+separate overdraft. The English Court of Appeal held that the bank could not
+do so. Woolf LJ said, “[m]isrepresentation can always amount to a defence to a
+claim on a contract if that misrepresentation was made by the party seeking to
+enforce the contract ... As a result of the misrepresentation, the father was
+misled and the bank never having corrected the misrepresentation is not
+entitled to rely on the guarantees which the father entered into …” Sir Edward
+Eveleigh said, “the guarantee was signed under a mistake which was negligently
+induced by the manager and, therefore, the mistake prevents the signature from
+having a binding effect inter partes”. He was also of the opinion that there
+was a breach of duty to the defendant which disentitle the bank to enforce the
+guarantee.
+
+206 In the present case, at first instance the AR considered that,
+notwithstanding any misrepresentation by Ethoz, on the authority of Broadley
+Im8ex would remain bound by the terms of the Facilities. The decision in
+Broadley does not have that consequence – the misrepresentation was as to the
+effect and contents of the contractual documents between Ethoz and Im8ex,
+namely that Ethoz was offering better terms (which was not the case),
+including a lower interest rate (which was also not the case).
+
+207 The AR also cited two High Court decisions which followed Broadley: Wen
+Wen Food Trading Pte Ltd v Food Republic Pte Ltd [2019] SGHC 60 (“Wen Wen”) at
+[19], and Jin Ling Enterprise Pte Ltd v E C Prime Pte Ltd [2019] SGHC 209
+(“Jin Ling”) at [75]. These decisions are likewise distinguishable.
+
+208 In Wen Wen, the plaintiff alleged that the defendant had represented that
+the plaintiff could operate in the defendant’s food-court for a period of at
+least six years. The plaintiff said it relied on this representation when
+entering into the Licence Agreement. However, the booking form that was signed
+was for a two-year period. This was followed by the Licence Agreement,
+likewise for a two-year period, with an entire agreement clause that stated
+that the plaintiff “has not relied upon any oral or written representation
+made to it by the Company …” It was not contended that the defendant had
+misrepresented the effect and contents of the Licence Agreement. In the
+circumstances, the plaintiff’s claim alleging misrepresentation and wrongful
+repudiation of the Licence Agreement was struck out.
+
+209 In Jin Ling, the plaintiff wished to use certain commercial units for a
+“zichar” restaurant involving heavy cooking. It claimed that it had been
+induced to purchase the units by misrepresentations, including one that the
+units could be used as shops or restaurants that involved heavy cooking. The
+sale and purchase agreements, however, stated in Clause 20M that the approved
+use of the units was “as a shop in the grant of the Written Permissions for
+the Building … [and] the Purchaser shall not use the Unit[s] or allow the
+Unit[s] to be used for any purpose other than the approved use as specified
+above …”
+
+210 Prior to the signing of the sale and purchase agreements, there had been
+correspondence between the parties’ solicitors:
+
+(a) the plaintiff asserted that the defendant had represented that the Units
+had been approved as “restaurants”, and asked to amend Clause 20M;
+
+(b) the defendant denied the alleged representation, and rejected the
+plaintiff’s request to amend Clause 20M.
+
+211 In those circumstances, the court found that the plaintiff was not induced
+by misrepresentation to enter into the sale and purchase agreements. Again, it
+was not asserted that there was a misrepresentation as to the effect and
+contents of the contractual document: the plaintiff knew full well that Clause
+20M contradicted the alleged representation, and asked to amend it; the
+defendant refused to amend Clause 20M, and the parties proceeded to sign the
+sale and purchase agreements.
+
+212 I would also mention Ma Hongjin v Sim Eng Tong [2021] SGHC 84, where the
+court found that the defendant had not been induced by misrepresentation to
+enter into a loan agreement. The court expressly noted that no representation
+as to the contents or effect of the contractual document was alleged: “The
+plaintiff does not plead that the defendant made any representation, whether
+by words or conduct, as to the contents of the Master Loan Agreement or the
+effect of Recital A and cl 1.1.” (at [77]).
+
+213 For completeness, I would add that the proposition from Peekay Intermark
+Ltd v Australia and New Zealand Banking Group Ltd [2006] 2 Lloyd’s Rep 511,
+which the Court of Appeal in Broadley accepted at [36] is not an absolute one;
+it is that: “a plaintiff would not ordinarily be held to be induced by a
+misrepresentation if the express contractual terms, which the plaintiff placed
+importance on, read and signed, and which the defendant expected that the
+plaintiff would read and understand, contradict or correct the defendant’s
+misrepresentation.” [emphasis added]
+
+214 Thus, even if the misrepresentation is not as to the effect and contents
+of the contractual document (as it was in this case), Broadley does not oblige
+a court to find that the misrepresentation has not induced the contract, if in
+the circumstances of a particular case it has.
+
+215 Here, the parties had dealt with each other before, in relation to the
+Prior Facilities, for which there were the Prior Facility Letters and Prior
+Facility Agreements. The discussions on a possible renewal then started on the
+basis that Ethoz might offer the same terms as those of the Prior Facilities;
+that led to the misrepresentation that better terms were being offered for the
+Facilities. The misrepresentations were made at a meeting when Mr Chua was
+presented with the first two Facility Letters, with the Facility Agreements
+following shortly after. They were misrepresentations as to the effect and
+contents of the contractual documents that Im8ex was being asked to agree to.
+
+216 In the circumstances, Ethoz cannot avoid the consequences of its
+misrepresentations by contending that it expected that Im8ex would assiduously
+comb through the contractual documents for the Facilities, and discover that
+Ethoz had misrepresented the position.
+
+217 Each Facility Letter was some six pages long, and each Facility Agreement
+another 39 pages long. It would not be immediately apparent that the change
+from an “effective” interest rate of over 6% per annum to a “flat” rate of
+3.75% per annum, actually resulted in the interest rate being higher, not
+lower (as represented). Indeed, Ethoz’s own counsel was unaware that the
+Facilities were not at a lower interest rate. Nor is comparing the provisions
+regarding default and prepayment a simple matter.
+
+218 Further, the full consequences of default were not spelled out in the
+Facility Letters: in particular the Facility Letters did not mention that
+Im8ex might have to pay the Advance plus 15 years’ worth of interest if it
+should default (that was only stipulated in the Facility Agreements, which
+Im8ex only received later). The Facility Letters mentioned default interest
+(in para 5), but nothing was said about Ethoz being able to accelerate payment
+(per Clause 14(B) or Clause 5(A)(1) of the Facility Agreements). Similarly,
+the paragraph on “prepayment” in the Facility Letters did not say that Im8ex
+would have to pay the Advance plus 15 years’ worth of interest if it wanted to
+prepay the Facilities (which is Ethoz’s position). The Facility Letters simply
+stated in para 10.5, “Prepayment of the Facility is subject to full settlement
+of the Loan Agreement …”. Ethoz’s argument on this rests on the clauses in the
+Facility Agreement.
+
+219 On the evidence before me, I found that Im8ex was induced by Ethoz’s
+misrepresentations into taking up the Facilities; Broadley does not stand in
+the way of that finding.
+
+220 Im8ex did not seek to avoid the Facilities on account of the
+misrepresentations; instead, akin to the defendants in Curtis and Waterhouse,
+Im8ex sought to preclude Ethoz from relying on the terms of the Facilities to
+the extent that they were less favourable to Im8ex than those of the Prior
+Facilities. In particular, Im8ex asserted that it ought to be allowed to
+prepay the Facilities by paying the Advance plus loan interest prior to
+prepayment, as it could have done had the Facilities been on the same terms as
+the Prior Facilities. I agreed with this.
+
+Could Im8ex redeem the Facilities and the mortgaged properties by paying the
+Advance plus loan interest?
+
+The right to redeem the Facilities and the mortgaged properties
+
+221 Ethoz contended that Im8ex could no longer prepay the Facilities – Ethoz
+said that after Im8ex defaulted, and Ethoz accelerated payment of all
+remaining instalments, Im8ex had no alternative but to pay the Advance plus
+Total Interest plus default interest.
+
+222 However, I found the acceleration of Total Interest to be a penalty, and
+the default interest also to be a penalty, and so Ethoz could not enforce
+those aspects of the Facilities against Im8ex. The acceleration of the Advance
+was unobjectionable, but Im8ex was quite willing to pay the Advance plus loan
+interest prior to the date of prepayment.
+
+223 Moreover, given Ethoz’s misrepresentations, Ethoz could not enforce the
+terms of the Facilities to the extent that they were less favourable to Im8ex
+than those of the Prior Facilities. In particular, under the Prior Facilities
+Im8ex could make prepayment on the basis of paying the Advance plus loan
+interest till the date of prepayment, and under the Facilities it should be
+allowed to do likewise. Indeed, prepayment under the Prior Facilities would
+have involved Im8ex paying no more than the Advance plus loan interest for 12
+months.
+
+224 Nothing in the Facility Agreements says that Im8ex could no longer make
+prepayment if it had defaulted, or if it had defaulted and Im8ex had
+accelerated payment of the Advance. For the full Advance to be immediately
+payable is not inconsistent with Im8ex still being able to prepay the
+Facilities pursuant to Clause 6 by paying the full Advance and loan interest
+prior to the date of prepayment.
+
+225 Given that the law is protective of the equity of redemption, when
+property is provided as security for a loan, I would incline towards an
+interpretation of the Facility Agreements that allows the borrower to still
+make prepayment notwithstanding that there has been a default, or even
+acceleration of payment of the principal sum lent.
+
+226 In any event, if acceleration of Total Interest, and default interest,
+cannot be enforced against Im8ex, what remains is the Advance and loan
+interest. Once Im8ex paid that, Ethoz would have received what was due to it,
+and could not refuse to release the securities it held.
+
+227 Hong Leong expressly recognises that even after default, the mortgagor can
+still pay off the mortgagee, indeed, they may adjourn a summons for possession
+to afford the mortgagor a chance of doing so (at [12]).
+
+228 This matter first came before me on 29 June 2021, when I granted the
+application by Im8ex and Mr Chua to adduce further evidence. Additional
+affidavits were filed, and the registrar’s appeal was then heard by me on 13
+August 2021. It was then adjourned for further submissions and also for the
+first and second defendants to provide an update as to whether they could
+refinance the Facilities, if Im8ex only had to pay the Advance and loan
+interest prior to the date of repayment.
+
+229 At the adjourned hearing on 22 October 2021, Im8ex indicated that it could
+indeed refinance the Facilities on that basis. There was then a dispute over
+calculations, which I resolved in Im8ex’s favour.
+
+Payment calculations
+
+230 Im8ex calculated that it would need to pay Ethoz a further $4,041,987.21
+if payment were made on 31 October 2021. This accounted for:
+
+(a) the proceeds of the Alexandra View property (which was sold, and the
+proceeds paid to Ethoz or its solicitors on 29 April 2021);
+
+(b) loan interest on the principal sum of $1,725,000 on the second Facility,
+which specifically referred to the Alexandra View property, for the period
+prior to 29 April 2021;
+
+(c) loan interest on the other Facilities for the period prior to 31 October
+2021; and
+
+(d) legal costs of $15,000 which had been awarded to Ethoz at first instance.
+
+231 Ethoz, on the other hand, maintained that Im8ex needed to pay not only the
+Advance, but also Total Interest and default interest.
+
+232 Even without Total Interest and default interest, Ethoz still put forward
+a higher figure of $4,621,813.88. That and Im8ex’s figure of $4,041,987.21
+differed principally for two reasons:
+
+(a) Ethoz was using Schedule 3 to reckon loan interest payable upon
+redemption; and
+
+(b) Ethoz added the equivalent of three months of Monthly Interest for Im8ex’s
+alleged failure to give three months’ prior notice.
+
+233 I disagreed with Ethoz on both these points, and accepted Im8ex’s
+calculations.
+
+234 As I decided above at [50], in a prepayment scenario “interest computed
+thereon” [ie, on the Advance] within Clause 6 means interest at the
+contractual rate of 3.75% flat per annum for the period prior to prepayment.
+It does not mean the sum total of the Monthly Interest payments in Schedule 3
+for the period prior to prepayment. Indeed, Ethoz itself had not asserted that
+this is what “interest computed thereon” meant: Ethoz contended that the
+phrase meant Total Interest.
+
+235 Moreover, given Ethoz’s misrepresentation that the Facilities were better
+than the Prior Facilities, it should not be allowed to insist on front-loaded
+interest per Schedule 3: there was no such front-loading in the Prior
+Facilities, where interest simply accrued day to day, and was payable monthly.
+
+236 As for the need to give three months’ prior written notice, I found that
+Im8ex had done so:
+
+(a) In correspondence between solicitors, Im8ex had indicated that it wished
+to seek refinancing and pay off Ethoz: in Im8ex’s solicitors’ letter of 7
+December 2020, they said that Im8ex disputed (in particular) the interest
+charged by Ethoz, which it found very exorbitant, unfair, and indeed usurious.
+They went on to say that Im8ex had been sourcing for refinancing but the
+amount of interest claimed by Ethoz made it impossible for any other financial
+institution to step in and take over as they could not structure a loan
+sufficient to pay off Ethoz’s claims, based on the security of the four
+properties.
+
+(b) Mr Chua said at para 13 of his first affidavit that after Im8ex had
+defaulted, Mr Chow told him to take steps to sell his properties to repay
+Ethoz – hence he took steps to sell one property (Alexandra View). Mr Chua
+said (at para 14) that he had approached other finance companies to seek
+refinancing, but to no avail given Ethoz’s claims to Total Interest and
+default interest. Mr Chua went on to say (at para 15) that “the extremely high
+interest will prevent me from redeeming the mortgages of all four (4)
+properties.” Ethoz would have known from Mr Chua’s first affidavit (filed on 8
+March 2021) that Im8ex wished to pay off Ethoz, but were unable to do so
+because of Ethoz’s claims to Total Interest and default interest.
+
+(c) In Mr Chua’s third affidavit (filed on 30 June 2021, earlier exhibited to
+Mr Chua’s second affidavit filed on 23 June 2021), he said that in an attempt
+to repay Ethoz, Im8ex attempted to raise loans from other lenders; he said he
+approached Hong Leong Finance Ltd and Singapura Finance Ltd, exhibiting his
+correspondence with Singapura Finance Ltd dating back to August–September
+2020. 10
+
+##### Foot Note 10
+
+×
+
+Mr Chua’s third affidavit, pp 169–172.
+
+He concluded by saying at para 73 that if the court were to find that Total
+Interest and default interest were penalties, then loans could be obtained
+from other lenders to enable Im8ex to repay the appropriate outstanding sum
+and avert foreclosure of the mortgaged properties. Indeed, that is precisely
+what happened.
+
+(d) At the hearing on 13 August 2021, Im8ex’s counsel submitted that Im8ex
+could well have refinanced the Facilities but for the large claims (for Total
+Interest and default interest) made by Ethoz. The hearing was then adjourned
+for further submissions and also to allow Im8ex to provide an update as to
+whether it could refinance the Facilities if it only needed to pay the Advance
+and loan interest prior to the date of redemption. Again, Ethoz would know
+from that that Im8ex wished to pay off the Facilities and redeem the mortgaged
+properties.
+
+237 In any event, as Ethoz’s claims to Total Interest and default interest
+were what had prevented Im8ex from paying off Ethoz, from late 2020 or early
+2021, Ethoz should be precluded from adding to the bill a further three months
+of Monthly Interest on account of Im8ex allegedly not giving three months’
+prior written notice to pay off the Facilities.
+
+238 Im8ex was content to pay off Ethoz by paying the Advance plus loan
+interest at the contractual rate of 3.75% flat per annum prior to the date of
+redemption. Im8ex did not take issue with the loan interest rate, presumably
+because it did not realise that this was slightly more than the loan interest
+rate under the Prior Facilities.
+
+239 I made no adjustment in relation to the loan interest rate. I simply
+allowed Im8ex to pay off the Facilities, and redeem the mortgaged properties,
+by paying the Advance and loan interest at the contractual rate of 3.75% flat
+per annum for the period prior to redemption. Im8ex had calculated the balance
+amount payable if redemption were to take place on 31 October 2021, as
+$4,041,987.21.
+
+240 Ethoz contended that interest should continue to run on the second
+Facility although it had on 29 April 2021 received the proceeds of Alexandra
+View property in the sum of $2,295,241.80, and a further sum of around $48,000
+was paid to its solicitors to account of costs ($15,000 being what was awarded
+at first instance). Adjusting for the correct amount of costs, Ethoz received
+the net sum of $2,329,055 towards what was due on the Facilities. That
+exceeded the amount due on the second Facility by $608,855.10.
+
+241 Ethoz argued that as it was holding the proceeds of the Alexandra View
+property in escrow, Im8ex should continue paying interest on it. I disagreed.
+Any escrow arrangement was necessarily subject to the outcome of the
+proceedings, where I found that Ethoz was not entitled to Total Interest or
+default interest. Moreover, since 29 April 2021, Im8ex did not have the use of
+the funds that were paid to Ethoz. Accordingly, from 29 April 2021 no interest
+should run against Im8ex in respect of the $2,329,055 that Ethoz had received
+from the Alexandra View property. It does not however appear that Im8ex
+adjusted the interest payable on the other three Facilities by the credit of
+$608,855.10 in its favour.
+
+242 Im8ex indicated that it might have logistical difficulties in redeeming
+the Facilities and the mortgaged properties by 31 October 2021, and I allowed
+it till 19 January 2022, which essentially corresponded with the three-month
+availability period of the new loan Im8ex had obtained.
+
+243 I further ordered that Im8ex was to pay interest at the contractual rate
+of 3.75% flat per annum on the balance sum of $4,041,987.21. In retrospect,
+that was over-generous to Ethoz, for the balance sum had itself included an
+interest component.
+
+Relief
+
+244 When I gave my decision, I had stated that the outcome could be justified
+by way of relief against forfeiture: see Pacific Rim Investments Pte Ltd v Lam
+Seng Tiong and another [1995] 2 SLR(R) 643 at [39]–[62]. In appropriate cases,
+the court has the jurisdiction to grant relief against the forfeiture of an
+interest in land (here, the mortgaged properties), the forfeiture being by way
+of security for the payment of money.
+
+245 On further reflection, there is no need to invoke relief against
+forfeiture: allowing Ethoz to redeem the Facilities and the mortgaged
+properties by paying the Advance and loan interest, is in line with the
+stipulation on prepayment in Clause 6 of the Facility Agreements, shorn of the
+unenforceable penalties of accelerated Total Interest and default interest. In
+any event, because of Ethoz’s misrepresentations, Ethoz could not prevent
+Im8ex from redeeming the Facilities in the same way that Im8ex could have
+redeemed the Prior Facilities, ie, by paying the Advance and loan interest
+prior to redemption. Im8ex could not impede such redemption by accelerating
+Total Interest and charging default interest of 26.08% per annum. It is also
+consonant with the jurisdiction recognised in Hong Leong, to afford Im8ex the
+opportunity to pay off Ethoz to redeem the mortgaged properties.
+
+246 In Hong Leong, it appears that the borrowers were not able to pay off the
+loan in full, yet the Court of Appeal (by granting a stay of execution)
+allowed them to keep the mortgaged property if they kept up the instalment
+payments as ordered by the High Court.
+
+247 Here, Im8ex did not seek that accommodation: it was quite prepared to pay
+off the loans in full, with loan interest for the period prior to redemption.
+Instead of granting Ethoz judgment for possession of the mortgaged properties,
+and a monetary sum, it was appropriate to allow Im8ex some time (in line with
+[12] of Hong Leong) to pay off Ethoz – without Im8ex having to pay 15 years’
+worth of interest, or default interest.
+
+248 Even if I had allowed the first instance judgment in favour of Ethoz to
+stand, I would have stayed execution on that judgment (as the Court of Appeal
+did in Hong Leong). That stay would have been conditioned on Im8ex redeeming
+the Facilities and the mortgage properties on the same terms that I had
+allowed it to.
+
+Conclusion
+
+249 For the above reasons, I set aside the judgment that had been granted to
+Ethoz at first instance, and instead allowed Im8ex to redeem the Facilities
+and the mortgaged properties, by paying the Advance and loan interest at the
+contractual rate of 3.75% flat per annum for the period prior to redemption,
+without Im8ex having to pay 15 years’ worth of interest, or default interest.
+
+250 In the circumstances of the case, I made no order as to costs of the
+registrar’s appeal. Im8ex had defaulted in payment, but I had found that it
+was not liable to pay 15 years’ worth of interest, or default interest: those
+aspects of the Facilities were unenforceable penalties. Moreover, I had found
+that Ethoz misrepresented to Im8ex that the Facilities were “better” than the
+Prior Facilities, when they were not – in fact, they were much worse.
+
+Postscript – stay of execution
+
+251 After my decision, Ethoz applied for a stay of execution. Im8ex and Mr
+Chua indicated that they did not object, but they said they should not be
+prejudiced in the event of Ethoz losing the pending appeal. Should that
+happen, they asked that interest payable to Ethoz be capped as at 19 January
+2022 (the deadline I had set for Im8ex to redeem the Facilities and the
+mortgaged properties). On the other hand, Ethoz cited O 56A r 16 of the Rules
+of Court (2014 Rev Ed) which states that interest for such time as execution
+has been delayed must be allowed unless the High Court’s General Division or
+Appellate Division otherwise orders.
+
+252 I granted the stay on the basis that if it delayed the redemption of the
+Facilities beyond 19 January 2022, Im8ex need not pay interest to Ethoz for
+the period after that date unless the Appellate Division otherwise orders in
+conjunction with the pending appeal.
+
+Andre Maniam  
+Judge of the High Court  
+---  
+  
+Adrian Wong, Ang Leong Hao and Timothy Ng
+
+(Rajah & Tann Singapore LLP) for the applicant;
+
+Ranvir Kumar Singh (UniLegal LLC)
+
+for the first and second respondents;
+
+The third respondent absent and unrepresented.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 3: 11 Feb 2022 (16:43 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

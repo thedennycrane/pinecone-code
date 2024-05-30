@@ -1,0 +1,2307 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 96
+
+Suit No 806 of 2018
+
+Between
+
+| Chan Pik Sun  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| Wan Hoe Keet  
+---|---  
+(2)| Ho Sally  
+(3)| Ho Hao Tian Sebastian  
+(4)| Strategic Wealth Consultancy Pte Ltd (formerly known as SW4U Consultancy
+Pte Ltd)  
+  
+… Defendants
+
+JUDGMENT
+
+[Tort — Conspiracy — Unlawful means conspiracy]
+
+[Tort — Conspiracy — Lawful means conspiracy]
+
+[Tort — Misrepresentation — Fraud and deceit]
+
+[Tort — Misrepresentation — Negligent misrepresentation]
+
+[Tort — Misrepresentation — Innocent misrepresentation]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Chan Pik Sun
+
+  
+v
+
+  
+
+Wan Hoe Keet and others
+
+[2023] SGHC 96
+
+General Division of the High Court — Suit No 806 of 2018  
+Andre Maniam J  
+4–6, 10–13 May, 26–28 July, 16 August 2022, 16 January 2023
+
+14 April 2023 Judgment reserved.
+
+Andre Maniam J:
+
+Introduction
+
+1 Is there a “sure win” way of making money gambling against a casino?
+
+2 The plaintiff (“Sandra”) lost millions of dollars participating in a scheme
+called “SureWin4U”. SureWin4U sold packages promising lucrative returns from
+the winnings of professional gamblers playing baccarat at casinos.
+
+3 SureWin4U was however a Ponzi scheme. It did not have a way of consistently
+winning money through gambling, let alone a “sure win” way. As such,
+participants’ returns essentially came from the money that they and fellow
+participants put into the scheme.
+
+4 SureWin4U was also a pyramid scheme involving a multi-level marketing
+strategy: participants (as “uplines”) received referral bonuses for bringing
+in new participants (“downlines”), with the uplines getting further bonuses if
+their downlines bought more packages themselves or brought in others. A scheme
+like SureWin4U is inherently unsustainable, for it depends on an ever-
+increasing inflow of money from an ever-increasing number of participants.
+
+5 The Surewin4U scheme started in July 2012. Sandra became a participant in or
+around March 2014. Sandra says she invested a total of HK$36,765,900 1
+
+##### Foot Note 1
+
+×
+
+Sandra’s oral closing submissions slides, slide 49.
+
+(some $6 million using, for convenience, an exchange rate of HK$6 to $1).
+Sandra purchased gambling-related Investment Packages, Share Investment
+Packages (which supposedly involved the acquisition of a company to be listed
+on the Singapore Exchange), and US Property Packages (which supposedly
+involved the purchase of properties in Detroit). She rose to the level of
+5-star agent in the Surewin4U hierarchy, and aspired to the rank of 7-star
+agent.
+
+6 The scheme collapsed in September 2014 – SureWin4U’s Taiwanese
+representative was arrested, SureWin4U’s website could not be accessed, and
+SureWin4U’s two founders (brothers Peter and Philip Ong) could not be
+contacted. Participants had used real money to buy SureWin4U packages, their
+money being converted into a virtual currency called 赢币 (“yingbi”) – “winning
+currency”, abbreviated as “YB”. Participants’ returns were given in terms of
+YB, which they could convert back into cash and withdraw, leave to their
+credit in the system, or use to buy more packages. When the scheme collapsed
+in September 2014, participants lost the value of their packages, and any YB
+they had earned but not withdrawn.
+
+7 To recover her losses, Sandra sued three earlier participants in the scheme:
+
+(a) Ken, the first defendant;
+
+(b) Sally, the second defendant, Ken’s wife;
+
+(c) Sebastian (or “Ah Hao”), the third defendant, Sally’s brother.
+
+8 Sandra also sued the fourth defendant company Strategic Wealth Consultancy
+Pte Ltd (“Strategic Wealth”, formerly known as SW4U Consultancy Pte Ltd),
+which Ken and Sally are shareholders and directors of. Ken and Sally used
+Strategic Wealth to hold their earnings from SureWin4U, as well as a yacht
+purchased with money from Peter Ong.
+
+9 Sandra advanced as her causes of action: fraudulent misrepresentation,
+conspiracy (by unlawful means or lawful means), negligent misrepresentation,
+and innocent misrepresentation. I will address them in turn, but it is useful
+first to consider why SureWin4U was a Ponzi scheme; this has an impact on
+Sandra’s various causes of action.
+
+SureWin4U was a Ponzi scheme
+
+10 Participants who purchased Investment Packages were entitled to attend
+classes: a “99.8%” class for those who purchased Bronze, Silver, or White
+Silver Packages; a “100%” class for those who purchased Gold or Platinum
+Packages. Sandra attended both those classes. She first attended the 99.8%
+class, and then the 100% one. She believed that she would receive the
+lucrative returns SureWin4U had promised her because of SureWin4U’s ability to
+win money gambling at casinos.
+
+The 99.8% formula
+
+11 The 99.8% formula is described by Ken at para 14 of his AEIC. He says that
+Philip Ong explained that there was a 50% chance of either the “banker” or the
+“player” winning each hand at baccarat if he placed a bet in accordance with
+the SureWin4U method. That suggests that SureWin4U had some way of eliminating
+the “house edge” (advantage) which one would expect a casino to have over
+gamblers, such that baccarat became an even game of chance between a gambler
+and a casino. What that “SureWin4U method” was, however, was not explained in
+the evidence.
+
+12 I doubt that SureWin4U was able to equalize odds with the casino gambling
+at baccarat, but even if it could, that would just give SureWin4U equal
+chances of winning or losing, like betting “heads” or “tails” on a coin toss.
+How then would SureWin4U make money to pay its participants the returns it had
+promised them?
+
+13 Philip Ong’s explanation was: the gambler should increase his bet every
+time he lost. If he won the next hand, he would recover his previous losses
+and make a small profit. If he were to play nine hands in a row, there was
+mathematically only a 0.1953% (1/29 or 1/512) chance that he would lose nine
+out of nine hands. This meant that, correspondingly, there was a 99.8047%
+chance that he would not lose nine hands in a row. Hence, SureWin4U claimed
+the 99.8% formula gave it a 99.8% winning rate, and mathematically that was
+true.
+
+14 However, the mere reference to a 99.8% win rate gives an incomplete
+picture, for it says nothing about what SureWin4U would lose if the 0.2%
+chance of loss were to happen. Although there is only a small (0.2%) chance of
+losing nine hands in a row, if that should happen the loss would be a big
+loss, since each bet was larger than the previous one.
+
+15 Consider a gambler who starts with a $1 bet, and doubles his bet each time
+he loses. If he wins the first hand, he wins $1. If he loses the first hand,
+but wins the second hand, he loses $1 then wins $2 (thus winning a net $1
+after two hands). If he loses the first two hands, but wins the third hand, he
+loses $1, then loses $2, then wins $4 (thus winning a net $1 after three
+hands). Likewise, if he loses three, four, five, six, seven, or eight hands in
+a row, but wins the next hand, he wins a net $1 after each sequence.
+
+16 But if the gambler loses nine hands in a row, he loses $1 + $2 + $4 + $8 +
+$16 + $32 + $64 + $128 + $256: he loses a total of $511. He only has a 1/512
+(0.2%) chance of losing nine hands in a row, but that is a 1/512 (0.2%) chance
+of losing $511. He has a 511/512 (99.8%) chance of not losing nine hands in a
+row, but that is a 511/512 chance of only winning $1 after each sequence. As a
+matter of probability, the gambler would win $1 each time after 511 of 512
+sequences, but he would lose $511 once in every 512 sequences: his $511 from
+winning $1 after each of 511 sequences would be cancelled out by the one $511
+loss. That is not a “sure win” way of making money gambling against a casino.
+It is just a zero-sum game, where expected wins and expected losses cancel
+each other out. It was, after all, an equal game of chance to begin with.
+
+17 One of Surewin4U’s promotional videos (Video 6) shows Ken saying: “What do
+you call a 50-50 chance? Gambling. What do you call a 99.8% chance?
+Withdrawal.” The 99.8% formula as described by Ken in his AEIC was, however,
+still gambling based on a 50-50 chance of winning each hand at baccarat. It
+was certainly not like a withdrawal of money from an automated teller machine
+(“ATM”). An ATM does not have a 0.2% chance of taking back all the money that
+it has dispensed the other 99.8% of the time.
+
+18 SureWin4U promised those who purchased a package and attended a 99.8% class
+that if they could disprove the 99.8% win rate claimed by Surewin4U, they
+would get back the money they had paid for the package. Sandra attended the
+99.8% class, and believed in the 99.8% formula (although she knew there was a
+risk of loss). She did not seek a return of the money she had paid for her
+initial packages; instead, she bought more packages and encouraged others to
+do so too.
+
+The 100% formula
+
+19 Participants who purchased more expensive packages (at least a Gold
+Package) were entitled to attend SureWin4U’s 100% class.
+
+20 Ken said that whereas the 99.8% formula involved sequences of up to nine
+bets, the 100% formula involve sequences of up to 19 bets. Like the 99.8%
+formula, the 100% formula involved the gambler increasing his bet every time
+he lost (up to 19 losses in a row). 2
+
+##### Foot Note 2
+
+×
+
+Transcript, 16 August 2022, page 191.
+
+For the 100% formula, bets would not be doubled: Ken’s recollection was, the
+first bet was 300, the second 400, the third 500; he said it was then seven
+(presumably 700), nine (presumably 900), and 11 (presumably 1,100).
+
+21 Given that the starting premise was that SureWin4U was engaged in an equal
+game of chance playing baccarat against a casino, I do not accept that the
+formula described by Ken would give SureWin4U an advantage over the casino.
+Mathematically, the 100% formula would still result in a zero-sum game since
+the gambler and the casino each have an equal chance of winning any hand.
+
+22 Of course, the probability of losing 19 hands in a row with the 100%
+formula is smaller (1/524,288) as compared to losing nine hands in a row with
+the 99.8% formula (1/512). But, if that loss happens it would be a big loss –
+indeed, the loss from losing 19 times in a row would be bigger than that from
+losing nine times in a row. The problems with the 100% formula are illustrated
+by the ill-fated attempt by some SureWin4U participants (including Sandra and
+Sebastian) to use the 100% formula to win money from a casino after the scheme
+had collapsed. Ken and Sally had provided $148,000 as capital for that.
+Instead of making money, the group lost money. Ken says that the capital of
+$148,000 was insufficient to implement the 100% formula fully (until 19 losses
+in a row) – he says Sebastian told him that $148,000 was only enough to lose
+11 hands in a row. 3
+
+##### Foot Note 3
+
+×
+
+Transcript, 16 August 2022, page 192.
+
+Sebastian’s evidence is slightly different in that he says that 18 bets were
+required (Ken says 19 bets), and that with the capital available they only
+managed to go up to 10 bets (Ken says 11 bets). On either account, the
+eventual loss would be very large if $148,000 were only enough for 10 or 11
+bets, and 19 hands in a row were lost with bets increasing each time.
+
+23 In any event, the 100% formula does not result in a 100% win rate – there
+is still a risk of losing 19 hands in a row. Sandra attended the 100% class,
+and a related demonstration of the 100% formula in a Macau casino; 4
+
+##### Foot Note 4
+
+×
+
+Sandra’s AEIC paras 72–73.
+
+Ken and Sally attended the same demonstration. Sandra says participants were
+introduced to some persons they were told were professional gamblers, and they
+were all divided into 8 small groups to watch gambling with the 100% formula
+at the casino. The result of the demonstration was that of the eight teams of
+gamblers, seven teams won but one lost. Sandra says, “This apparently proved
+that the 100% winning formula worked.” Whatever that demonstration proved, it
+did not prove that that 100% formula gave SureWin4U a 100% win rate – there
+was still some risk of loss; indeed, one of the eight teams of gamblers had
+lost. The evidence does not show that Sandra believed that SureWin4U had a
+method of achieving a 100% win rate – she knew there was still some risk of
+loss, but she believed that SureWin4U and its gambling business model could
+win money for her.
+
+Some other formula?
+
+24 Ken also said, in response to questions by the court after cross-
+examination, that SureWin4U’s gamblers in fact used some other formula that
+was not the 99.8% formula, or the 100% formula; it was something more advanced
+than the 100% formula. 5
+
+##### Foot Note 5
+
+×
+
+Transcript, 16 August 2022, page 184–185.
+
+He said Philip Ong said so during the 100% class, and that he could not recall
+whether this was also disclosed during the 99.8% class.
+
+25 There was no evidence what this other formula was, which was not the 99.8%
+formula or the 100% formula. Mathematically, however, no formula could give
+SureWin4U a winning advantage over a casino in an equal game of chance.
+
+26 Other than the Share Investment Packages, which were introduced shortly
+before SureWin4U collapsed, all the other types of SureWin4U packages promised
+periodic returns based on SureWin4U winning money by having gamblers gamble at
+baccarat against casinos. As a matter of probability, though, that business
+model would not generate a net profit for SureWin4U, let alone the vast sums
+required to pay the lucrative returns it had promised participants, some of
+which it had actually paid.
+
+27 SureWin4U did not have a viable method of making money to pay scheme
+participants – it was a Ponzi scheme drawing in money by promising lucrative
+returns, with SureWin4U actually paying some of that money to participants
+before the collapse of the scheme.
+
+28 The question is whether Ken, Sally, and Sebastian (earlier participants in
+the scheme), and Ken and Sally’s company – Strategic Wealth – are liable to
+compensate Sandra (a later participant) for her losses. I now turn to consider
+Sandra’s causes of action.
+
+Fraudulent misrepresentation
+
+Preliminary observations
+
+29 In Sandra’s statement of claim (“SOC”), she pleaded a host of
+misrepresentations, 6
+
+##### Foot Note 6
+
+×
+
+SOC, paras 33–66.
+
+which she says were false and fraudulent, 7
+
+##### Foot Note 7
+
+×
+
+SOC, para 73.
+
+and induced her to buy SureWin4U packages. 8
+
+##### Foot Note 8
+
+×
+
+SOC, paras 73 and 78.
+
+30 As presented in the SOC, Sandra’s claims for misrepresentation
+(particularly fraudulent misrepresentation) were at the forefront of Sandra’s
+claims. The conspiracy claim was pleaded more briefly in paras 76–77 of the
+SOC, and, in Sandra’s AEIC at paras 136–137, conspiracy was simply described
+as an alternative cause of action to her misrepresentation claims.
+
+31 Similarly, para 14 of Sandra’s opening statement stated, “The Plaintiff’s
+primary cause of action is in misrepresentation.”
+
+32 By the time of closing submissions, however, Sandra’s focus had shifted to
+her conspiracy claim: that was addressed first (at paras 20–151 of Sandra’s
+closing submissions), before her claims for misrepresentation (at paras 152–
+270 of Sandra’s closing submissions). Sandra submitted that “if the Court
+accepts the Conspiracy Claim, there is strictly no necessity to discuss the
+Representations Issue”. 9
+
+##### Foot Note 9
+
+×
+
+Sandra’s closing submissions, para 152.
+
+However, the conspiracy and misrepresentation claims cannot be separated so
+neatly, because Sandra had pleaded fraudulent misrepresentation 10
+
+##### Foot Note 10
+
+×
+
+See SOC, para 73.
+
+as the unlawful means of the unlawful means conspiracy 11
+
+##### Foot Note 11
+
+×
+
+See SOC, para 76.
+
+Thus, if Sandra cannot establish that the representations she alleged were
+false and fraudulent, and induced her to invest, her claim for unlawful means
+conspiracy would fail. She could still assert lawful means conspiracy if the
+representations were not false and fraudulent, provided that the
+representations induced her to invest. But if she fails on inducement, the
+lawful means conspiracy claim would fail too.
+
+33 In the circumstances, I first consider Sandra’s claim for fraudulent
+misrepresentation.
+
+Who made the alleged misrepresentations?
+
+34 In the SOC, Sandra pleaded that the individual defendants and/or Peter Ong
+had made fraudulent representations to her which deceived her into investing
+monies with SureWin4U. 12
+
+##### Foot Note 12
+
+×
+
+SOC, para 73.
+
+She did not mention Philip Ong although he, too, was a founder of SureWin4U
+together with his brother, Peter (collectively, the “Ong brothers”); Philip
+Ong had also conducted the SureWin4U gambling classes. Philip Ong is not
+mentioned at all in the SOC.
+
+35 As for Peter Ong, although Sandra had named him as one of those who had
+made false and fraudulent representations to her, 13
+
+##### Foot Note 13
+
+×
+
+SOC, para 73.
+
+her particulars of falsity in the same paragraph do not identify any
+representation made by Peter Ong as being false. Instead, she only mentioned
+“Ken and Sally’s claims”, 14
+
+##### Foot Note 14
+
+×
+
+SOC, paras 73(a), 73(d), and 73(g).
+
+“Ken, Sally and Sebastian’s representations”, 15
+
+##### Foot Note 15
+
+×
+
+SOC, paras 73(b), 73(e) and 73(f).
+
+and whether Ken and Sally had been gifted a Ferrari and yacht. 16
+
+##### Foot Note 16
+
+×
+
+SOC, para 73(c).
+
+36 In paras 33–66 of the SOC, where Sandra sets out the representations that
+she complains of, only one representation is attributed to Peter Ong – at para
+51(e) of the SOC, Sandra pleads that at the “1st Presidential Suite Meeting”
+in June 2014, “Ong, Ken and Sally informed the Plaintiff that SureWin4U was
+doing well and had a promising future.” Yet, Para 51(e) was not subsequently
+referred to in her particulars of falsity at para 73.
+
+37 Sandra does, however, plead that SureWin4U was a Ponzi scheme perpetuated
+by the defendants and/or Peter Ong, 17
+
+##### Foot Note 17
+
+×
+
+SOC, para 1.
+
+and that the defendants conspired with Peter Ong and/or SureWin4U to cause
+injury to her; 18
+
+##### Foot Note 18
+
+×
+
+SOC, paras 76–77.
+
+she also refers to SureWin4U’s program booklet 19
+
+##### Foot Note 19
+
+×
+
+SOC, para 39.
+
+and promotional brochure, 20
+
+##### Foot Note 20
+
+×
+
+SOC, para 40.
+
+which, on the evidence, Peter and Philip Ong as the founders of SureWin4U
+would be responsible for.
+
+38 As for Sebastian, Sandra had mentioned him in para 73 of the SOC as having
+made false and fraudulent representations to her. But in her particulars of
+falsity she only mentions him in para 73(b), which in turn refers to
+representations at paras 34(e), 37(c), 40(b), 43(b), 47(a), 53(a), 57(b) and
+63. Out of those other paragraphs, representations are only attributed to
+Sebastian in para 63, which reads as follows:
+
+63\. Like Ken and Sally, Sebastian would frequently encourage the Plaintiff to
+increase her investments and sales by telling her that the investments were
+safe, that she was a rising star and had potential to be the next “Seven-star
+Agent”. Sebastian would also keep the Plaintiff informed of the upcoming
+SureWin4U events or help convey messages from Ken and Sally to the Plaintiff.
+Such communication was usually done via texts, voice messages or phone calls.
+
+39 In opening Sandra’s case, her lawyers gave a slide presentation of which
+slide 20 only names Ken and Sally as the defendants who have been “sued for
+fraudulent / negligent misrepresentation”. Sebastian and Strategic Wealth were
+said to only have been sued for conspiracy.
+
+40 For now, I simply observe that the focus of Sandra’s misrepresentation
+claims was very much on Ken and Sally.
+
+What were the alleged misrepresentations?
+
+41 Although Sandra had pleaded a host of representations in the SOC, at the
+stage of closing submissions her lawyers clarified that the core of her case
+is based on four main actionable representations, set out as follows: 21
+
+##### Foot Note 21
+
+×
+
+Sandra’s reply submissions, para 3.
+
+(a) The primary actionable representation is that it was represented to her
+that it was safe and profitable to invest in the Scheme (the “Safe and
+Profitable Representation”) …
+
+(b) The Safe and Profitable Representation is applicable to all 3 tranches of
+her investments. In contrast, the other 3 actionable representations are
+relevant to only the 3rd Tranche. They are as follows:
+
+(i) that investing in the US Property Package entitled her to title deeds to
+houses in Detroit (the “US Property Representation”);
+
+(ii) that her monies invested under the Share Investment Package would be used
+to acquire a company that was going to be listed on the Singapore Stock
+Exchange in October 2014 (the “Share Investment Representation”); and
+
+(iii) that by investing 4 sets of the US Property and Share Investment
+Packages, Sandra could become a “Seven-Star Agent” and Ken and Sally would
+groom her to become Hong Kong’s top representative (the “HK No.1
+Representation”).
+
+42 These representations were further addressed in Sandra’s oral closing
+submissions, in conjunction with slide 38 of the slides presented at the
+hearing, which I consider in greater detail later.
+
+Fraudulent misrepresentation – principles
+
+43 The parties agreed on the basic principles applicable to a claim in
+fraudulent misrepresentation, as set out in Panatron Pte Ltd and another v Lee
+Cheow Lee and another [2001] 2 SLR(R) 435 at [14]:
+
+(a) there must be a representation of fact;
+
+(b) the representation must be made with the intention that it should be acted
+upon by the plaintiff, or by a class of persons which includes the plaintiff;
+
+(c) the plaintiff must have acted upon the false statement;
+
+(d) the plaintiff must have suffered damage by so doing; and
+
+(e) the representation must be made with the knowledge that it is false (it
+must be wilfully false, or at least made in the absence of any genuine belief
+that it is true).
+
+44 I now turn to consider the four “main representations” that Sandra relies
+on.
+
+The first main representation – the “Safe and Profitable Representation”
+
+Sandra’s first tranche investment
+
+45 In April 2014, Sandra first invested in SureWin4U by buying two Silver
+Packages; cheaper Bronze Packages were available, and would likewise have
+entitled Sandra to attend the 99.8% class. But Sandra chose to buy Silver
+Packages because their rate of return was better than Bronze Packages. She
+also chose to buy two packages at once, rather than just one, prior to
+attending the 99.8% class.
+
+46 Sandra says she invested in SureWin4U in reliance on Ken and Sally
+representing that the SureWin4U scheme was “safe and profitable”. Sandra says
+that the “Safe and Profitable Representation” was first made by Ken and Sally
+at a SureWin4U seminar at the Royal Pacific Hotel (“RPH”) in March 2014. Ken
+and Sally deny making such a representation – they say no such seminar took
+place. But they acknowledge that they did meet Sandra at RPH through the
+introduction of Nelly, who became one of Sandra’s uplines when Sandra
+invested.
+
+47 The key issue is: what did Ken and Sally say to Sandra about SureWin4U?
+
+48 Sandra’s case is not so much that Ken and Sally used the words “safe” and
+“profitable” but that this was a constant theme in Ken and Sally’s description
+of SureWin4U. 22
+
+##### Foot Note 22
+
+×
+
+Sandra’s AEIC, para 31.
+
+49 Ken and Sally were happy about their participation in SureWin4U: they made
+a lot of money from it, and they continued buying SureWin4U packages
+(including Share Investment Packages that were the last to be introduced
+shortly before SureWin4U collapsed). When Ken and Sally spoke about their
+participation in SureWin4U, whether at SureWin4U events, or other occasions,
+they described SureWin4U in positive terms. In itself, their successful
+participation in SureWin4U would suggest that they believed it was a good
+scheme to participate in. However, Ken and Sally were not founders of
+SureWin4U, and they did not run the scheme. What they said to Sandra, they
+said as earlier participants in the scheme. That context colours what Ken and
+Sally said to Sandra, and how Sandra understood it.
+
+50 First, I find that what Ken and Sally said to Sandra about SureWin4U was a
+statement of their opinion, not an actionable statement of fact. As the court
+put it in Kong Chee Chui v Soh Ghee Hong [2014] SGHC 8 at [4] (citing Deutsche
+Bank AG v Chang Tse Wen [2013] 1 SLR 1310 at [93]): “…statements of fact must
+be distinguished from ‘statements as to future intention, predictions,
+statements of opinion or belief, sales puffs, exaggerations and statements of
+law’, all of which cannot give rise to actionable misrepresentation.”
+
+51 Sandra knew that as fellow scheme participants, Ken and Sally would not
+know – as a matter of fact – whether SureWin4U was “safe and profitable”, any
+more than she would when she invested in the scheme. Ken and Sally could only
+tell her their opinion of SureWin4U, much like what Sandra would later do at a
+SureWin4U event, and to her downlines and potential downlines. If the person
+to whom the representation is made knows that the maker is not in possession
+of the facts, and can only be giving his opinion, the representation would
+amount to a statement of opinion: Chitty on Contracts (Sweet & Maxwell, 34th
+Ed, 2021) at para 9.008
+
+52 Second, when questioned about whether Ken and Sally said the scheme was
+“safe”, Sandra said she understood the scheme to be “safe” in the sense that
+if SureWin4U could not prove the 99.8% formula, she would be refunded what she
+had paid for her initial packages. 23
+
+##### Foot Note 23
+
+×
+
+Transcript, 10 May 2022, pages 32–34
+
+That buying SureWin4U packages was “safe” because a refund had been promised
+in those circumstances is different from Sandra’s case that she understood
+“safe” to mean, legitimate, not a scam.
+
+53 Indeed, Sandra said she considered that there was “no risk” in buying her
+initial packages, because of the promise that if SureWin4U could not prove the
+99.8% formula, she would be refunded what she had paid for the packages: 24
+
+##### Foot Note 24
+
+×
+
+Transcript, 10 May 2022, page 85.
+
+I decided to join them on 1 May because he said that if, on 1 May, he cannot
+prove that this method works, I can get back my HK$300,000 in full. So to me,
+that contains no risk.
+
+54 Sandra’s reply submissions say the same: 25
+
+##### Foot Note 25
+
+×
+
+Sandra’s reply submissions, para 58(b).
+
+“Sandra was told that by purchasing a package, she would be entitled to attend
+the 99.8% class and if she could disprove the method then, she would obtain a
+full refund. Therefore, it is correct to say that at that stage, investing the
+1st Tranche carried no risk.” Sandra considered that there was “no risk” in
+buying the first two packages not because she was relying on Ken and Sally
+representing that SureWin4U was legitimate and not a scam, but because of
+SureWin4U’s “money back guarantee”. However, if SureWin4U were a scam, then
+there would be a risk in buying the initial packages, for SureWin4U might not
+make good on its money back guarantee; indeed, SureWin4U might well have
+collapsed even before Sandra could attend the 99.8% class!
+
+55 Third, I find that Ken and Sally did not represent to Sandra that SureWin4U
+was “safe and profitable” in the sense which Sandra says she understood it:
+that “the Scheme was legitimate, not a scam, and that I would not lose the
+sums that I invested in it." 26
+
+##### Foot Note 26
+
+×
+
+Sandra’s AEIC, para 16(a).
+
+56 Fourth, and relatedly, I find that that was not Sandra’s understanding of
+what Ken and Sally had said about SureWin4U.
+
+57 The case of Tradewaves Ltd v Standard Chartered Bank [2017] SGHC 893 is
+instructive in this regard. The plaintiffs had invested into what turned out
+to be a Ponzi scheme of Bernard L Madoff. The plaintiffs contended that the
+defendant bank’s relationship managers had made negligent or fraudulent
+misrepresentations that induced the plaintiffs to invest, and remain invested,
+until the fund collapsed. The court held at [75]: “…the Plaintiffs’
+understanding of the representation that Fairfield Sentry ‘was a safe and
+stable investment with consistent good returns and low volatility’ had nothing
+to do with the risk of loss due to managerial fraud. What the Plaintiffs had
+in mind when Fairfield Sentry was marketed to them was investment performance
+and market volatility. Fraud and managerial wrongdoing did not cross their
+minds.” As what caused the loss was the fraudulent deeds of Madoff, rather
+than adverse market movements, ie, market risk, the representations which the
+plaintiffs understood to relate to market risk were irrelevant (at [73]).
+
+58 In the same way, what Ken and Sally said about SureWin4U was focused on the
+viability of SureWin4U’s way of making money – by gambling. In describing
+SureWin4U, Ken and Sally were not talking about whether SureWin4U was
+legitimate and not a scam. Indeed, it would have been incongruous for Ken and
+Sally to have said, at SureWin4U events: “Peter and Philip are not fraudsters,
+SureWin4U is not a scam, you will not be cheated of your money.” SureWin4U
+events, and its promotional materials, focused on the positive benefits of
+participation, with success stories like that of Ken and Sally. “Fraud and
+managerial wrongdoing” was never a topic.
+
+59 On Sandra’s part, at that time, she was not focused on whether SureWin4U
+was legitimate and not a scam. She was focused on the returns from the
+packages on offer, and on SureWin4U’s method of making money to pay those
+returns – by gambling at baccarat.
+
+60 Sandra was introduced to SureWin4U in January 2014 by her husband’s friend,
+Zhou Jing Hua. She only met Ken and Sally at RPH two months later. I do not
+believe that Sandra understood what Ken and Sally (as earlier participants)
+said about SureWin4U as a factual representation that SureWin4U was
+legitimate, not a scam. The fact that Sandra bought 2 packages, and Silver
+Packages rather than Bronze Packages at that, prior to attending the 99.8%
+class, suggests that whether the scheme was legitimate was not a concern of
+hers then.
+
+61 In summary, I find in relation to the first tranche of Sandra’s investments
+in SureWin4U, that:
+
+(a) Ken and Sally did not represent as a fact that SureWin4U was legitimate,
+not a scam – they only expressed their positive opinion about participating in
+the scheme;
+
+(b) Sandra did not rely on what Ken and Sally said about the scheme being
+“safe and profitable”, in making the first tranche of her investments – she
+considered that there was no risk in making those investments not because Ken
+and Sally had assured her that SureWin4U was legitimate and not a scam; she
+considered that there was no risk because SureWin4U had promised to refund
+what she had paid, if she could disprove the 99.8% formula; and
+
+(c) Ken and Sally did not represent that SureWin4U was legitimate, not a scam;
+their description of the scheme was about the viability of SureWin4U making
+money through its gambling business model.
+
+62 To that, I would add that in all the messages in evidence between Sandra
+and her downlines, Sandra never referred to any of the representations that
+she now says Ken, Sally or Sebastian made, which she claims induced her to
+invest in SureWin4U. Instead, she mentioned SureWin4U’s promised returns,
+SureWin4U’s gambling formulas, what SureWin4U said in its brochures, and how
+she believed in SureWin4U. If, in fact, any of the alleged representations by
+Ken, Sally or Sebastian had played a real and substantial part in Sandra’s
+decision to invest in SureWin4U, one would have expected to see that mentioned
+in her messages to her downlines. But that is not to be found. The explanation
+that Sandra offered was that her downlines also attended the SureWin4U
+seminars, and so they would have heard for themselves what was said at those
+seminars. 27
+
+##### Foot Note 27
+
+×
+
+Transcript, 5 May 2022, pages 85–88.
+
+I do not find that explanation convincing. The same may be said about
+SureWin4U’s gambling methods, which those who purchased packages could attend
+classes on. Yet, Sandra went on at length about how much she believed in those
+gambling methods. Gambling, and the lucrative returns promised by SureWin4U,
+were foremost in Sandra’s mind.
+
+63 Sandra’s own description of what she told her downline Ms Feng is
+noteworthy: 28
+
+##### Foot Note 28
+
+×
+
+Transcript, 5 May 2022, pages 6–7.
+
+I only told [her] what Ken and Sally had told me. I was just a messenger. I
+told [her] that [she] needed to purchase a package first before [she] could
+attend all the meetings by the company and find out more about the packages.
+If the company could not prove that their method worked, then he could ask for
+100 per cent return of the fee, and that is guaranteed. And all this
+information was also in the brochure that was passed to me.
+
+64 There is no reference there to any “safe and profitable” representation,
+nor any other representations by Ken, Sally, and Sebastian on which Sandra’s
+misrepresentation case is now founded.
+
+65 The AEIC of another downline, Shelley Wong, as to why she invested, is in
+similar vein: 29
+
+##### Foot Note 29
+
+×
+
+Ms Wong’s AEIC, paras 5–7.
+
+5\. On or around early May 2014, 1 met up with Sandra in Hong Kong. She told
+me that she had just returned from her trip to Singapore, where she attended a
+conference organised by SureWin4U, which was an investment scheme she was
+participating in. She told me that the returns were lucrative. She shared with
+me about how SureWin4U operated, and the 99.8% class that she had attended
+during the conference.
+
+6\. Sandra also showed me a promotional brochure that SureWin4U had
+distributed. … I recall that SureWin4U was described in it as a safe and
+profitable investment scheme. To me, that meant it was a genuine scheme and
+not some sort of dubious scheme.
+
+7\. In reliance on the representations made in the promotional brochure that
+the scheme was safe and profitable, I purchased…
+
+66 There is again no reference to any “safe and profitable” representation by
+Ken and Sally, nor any of the other representations that Sandra is now suing
+on. Shelly Wong invested in reliance on what SureWin4U was saying about itself
+in the brochure, after being told by Sandra about the lucrative returns, how
+SureWin4U operated, and the 99.8% class.
+
+67 Further, I find that Sandra’s conduct in the aftermath of the collapse of
+SureWin4U is inconsistent with her assertion that she had invested in reliance
+on representations by Ken, Sally, and Sebastian. I will address this later.
+
+Sandra’s second tranche investment
+
+68 The second tranche of Sandra’s investments into SureWin4U happened in May
+2014, after Sandra had attended the Suntec Conference held from 1 to 3 May
+2014, during which she attended the 99.8% class.
+
+(1) The SureWin4U promotional booklet and brochure
+
+69 Sandra claimed that at the Suntec Conference, Ken and Sally were the ones
+who distributed the SureWin4U promotional booklet and brochure; she seemed to
+suggest that they thereby bore responsibility for whatever was said in those
+documents.
+
+70 I find that the SureWin4U promotional booklet and brochure were distributed
+by SureWin4U, not by Ken and Sally; moreover, Ken and Sally cannot be held
+responsible for everything said in those documents.
+
+71 Sandra conceded that she had no basis to say that Ken and Sally had
+authored those documents, or printed them. 30
+
+##### Foot Note 30
+
+×
+
+Transcript, 10 May 2022, pages 43 to 44.
+
+She said that when she passed brochures to her downlines, and spoke to them
+about SureWin4U and how she believed in it, that was different from what Ken
+and Sally did to her, because she was honest and they were dishonest. 31
+
+##### Foot Note 31
+
+×
+
+Transcript, 10 May 2022, pages 47 to 49.
+
+Putting state of mind to one side, what Sandra did in sharing (with her
+downlines) her positive experience with SureWin4U, was the same as what Ken
+and Sally did in relation to Sandra.
+
+72 In a similar vein, Sandra agreed that when she spoke at a SureWin4U event
+on 15 June 2014, she was expressing her experience of how profitable it had
+been for her to be an investor in SureWin4U. 32
+
+##### Foot Note 32
+
+×
+
+Transcript, 10 May 2022, pages 97 to 98.
+
+73 The brochure claimed that SureWin4U was a “profitable and safe option”
+which “Enables you to make a lot of money, but it’s safe. It’s not just talk,
+but is proven to work.” 33
+
+##### Foot Note 33
+
+×
+
+8AB 2221.
+
+“Safe” in the context of those statements by SureWin4U, referred to the
+viability of SureWin4U’s business model of making money by gambling,
+particularly given the “proven to work” reference. SureWin4U was not saying,
+“we are legitimate, we are not a scam”, but if that might be implied because
+SureWin4U was the party running the scheme, that meaning cannot be attributed
+to Ken and Sally (or Sebastian), who did not run the scheme, but were
+participants in it, as discussed earlier.
+
+(2) The representations about Ken and Sally’s earnings from SureWin4U
+
+74 I do however find that Ken and Sally should bear some responsibility for
+the statements made in the promotional booklet and brochure, and at the Suntec
+Conference, about their earnings from the scheme. There were three aspects to
+this:
+
+(a) that Ken and Sally had earnings of HK$201,325,564.70; 34
+
+##### Foot Note 34
+
+×
+
+7AB 2121.
+
+(b) that SureWin4U had gifted Ken and Sally a Ferrari sportscar for them
+completing something in 58 days; 35
+
+##### Foot Note 35
+
+×
+
+10 AB 2820.
+
+and
+
+(c) that Ken and Sally had received a yacht from SureWin4U for their
+participation in the scheme.
+
+75 Sandra had earlier alleged that it was untrue that Ken and Sally had
+received the yacht from SureWin4U, but this appears to have been dropped in
+her closing submissions. In any event, I accept Ken and Sally’s position that
+the yacht was paid for with cash from Peter Ong – there was thus nothing false
+about the representation that they had received a yacht for their
+participation in the scheme.
+
+76 The representations about the earnings of about HK$201 million, and the
+Ferrari, however, had some element of exaggeration.
+
+77 The HK$201 million figure included future earnings on the packages Ken and
+Sally had; 36
+
+##### Foot Note 36
+
+×
+
+Transcript, 28 July 2022, page 93;
+
+that was not a sum that Ken and Sally could demand immediate payment of. 37
+
+##### Foot Note 37
+
+×
+
+16 August 2022, pages 24–25.
+
+Ken and Sally’s position is that they had withdrawn some S$7 million to $10
+million before SureWin4U collapsed, and what they had in the scheme was still
+worth some $10.5 million. Based on those figures, their earnings up to the
+time of SureWin4U’s collapse were no more than $20.5 million (around some
+HK$123 million) not the HK$201 million figure that in May 2022 they were said
+to have earned.
+
+78 The HK$201 million figure was also exaggerated in that it included the
+value of what SureWin4U had paid towards the Ferrari (some $138,000) and the
+yacht (some $750,000). 38
+
+##### Foot Note 38
+
+×
+
+Transcript, 28 July 2022, page 89.
+
+The impression given, however, was that Ken and Sally had received a Ferrari
+and a yacht on top of HK$201 million in earnings.
+
+79 The supposed gift of the Ferrari was itself an exaggeration in that
+although SureWin4U first paid the full $398,000 price of the car, that was on
+the basis that SureWin4U would ultimately only contribute $138,000 towards it;
+the balance of $260,000 was to be repaid by Ken and Sally by 12 monthly
+deductions of their YB. 39
+
+##### Foot Note 39
+
+×
+
+Transcript, 28 July 2022, pages 20 and 27; 13 May 2022, page 203.
+
+80 SureWin4U had “commitment challenges” with rewards that included “YB
+100,000 car rewards”, which accords with Ken and Sally’s position that
+SureWin4U’s ultimate contribution towards their Ferrari was YB 100,000, which
+was equivalent to $138,000.
+
+81 The SureWin4U June Sri Lanka Commitment Challenge in respect of Sandra 40
+
+##### Foot Note 40
+
+×
+
+7AB 2149–2150.
+
+made express reference to such “YB 100,000 car rewards”. In a 27 July 2014
+message, Sebastian asked Sandra if she wanted 6 property packages under her
+own name because of “100k for car funds”. 41
+
+##### Foot Note 41
+
+×
+
+2AB 503.
+
+82 Had Sandra thought in May 2014 that SureWin4U had given Ken and Sally the
+full value of a Ferrari, by June or July 2014 she should have realised that
+the value of SureWin4U’s car rewards was YB 100,000 ($138,000). I do not,
+however, consider Ken and Sally’s Ferrari to have played a real and
+significant role in Sandra’s decision to invest – what was said about the
+Ferrari she subsumes in the “safe and profitable” representation, and the
+difference of $260,000 (being what Ken and Sally were liable to repay in
+instalments from their YB) is a small amount in comparison with their earnings
+figure of HK$201 million.
+
+83 Returning then to the earnings figure of HK$201 million: the value of
+SureWin4U’s contributions towards the Ferrari and the yacht, even if one were
+to use the full value of the Ferrari ($398,000), would be some $1,148,000 or
+HK$6,888,000 out of the HK$201 million figure – around 3.5% of the total. So,
+it is the exaggeration by including future earnings that is more significant.
+
+84 As I noted above, based on their own evidence Ken and Sally’s earnings from
+SureWin4U were no more than $20.5 million (HK$123 million) at the time
+SureWin4U collapsed in September 2014. The figure of HK$201 million was
+represented in May 2014, some 4 months earlier. As their earnings were
+accumulated progressively, their earnings as of May 2014 would have been
+somewhat less than $20.5 million (HK$123 million); but those earnings would
+still have been in the millions of dollars, whether in terms of $ or HK$.
+
+85 I do not accept that, if Ken and Sally’s earnings as of May 2014 had been
+accurately stated, say, as HK$100 million ($16 million) rather than HK$201
+million, that would have made a real and significant difference to Sandra’s
+decision to invest further. It would still have been a sizeable, impressive
+sum. Again, Sandra’s case is not so much that the exaggeration in the figure
+made a significant difference to her, but more that Ken and Sally’s success
+story was part and parcel of the “sale and profitable representation”, in the
+sense of SureWin4U being legitimate, not a scam. Whether the correct figure
+was HK$201 million, or, say, HK$100 million, is not material to whether
+SureWin4U was legitimate and not a scam.
+
+86 On a related note, I accept that Ken and Sally knew that they had not
+earned the full amount of HK$201 million as at May 2022, but I do not find
+that they decided to exaggerate the figure to induce others to invest in
+SureWin4U. I accept their evidence that the figure was provided by SureWin4U.
+42
+
+##### Foot Note 42
+
+×
+
+Transcript, 16 August 2022, pages 24–27, 195–200.
+
+(3) The 99.8% class
+
+87 I find that the 99.8% class was conducted by Philip Ong, rather than by
+Peter, Ken, and Sally, as Sandra suggests. The classes which Sandra’s
+downlines Shelley Wong and Wujun attended were likewise conducted by Philip
+Ong.
+
+88 Sandra believed in SureWin4U’s 99.8% formula, and praised it – that is
+clear from what she said contemporaneously. From 1 July 2014, she told her
+downline Yuan Jun:
+
+I learned in the winner project that I have 99.8% winning chances and I did
+win it.
+
+It’s believable. I hope more people will know this and have this blessing. 43
+
+##### Foot Note 43
+
+×
+
+2DBD 767
+
+89 However, she went on to caution him against trying SureWin4U’s method
+himself, for there was a risk of loss:
+
+In fact, I don't recommend you go to the casino to play this thing. Because
+you don't have time for 1, 2, if I encounter that 0.2, I am a little worried.
+Although he has 512 throws, he will lose with one stroke. This mentality is
+very important, so I am more worried about you.
+
+…
+
+So, I don't think you need to keep going to the casino, is meaningless
+
+First, no self-control ability. Secondly, may encounter the 0.2. Third, you
+don't have that much time. 44
+
+##### Foot Note 44
+
+×
+
+2DBD 776–778.
+
+90 Sandra recognised that although the 99.8% formula had a 99.8% win rate,
+there was a 0.2% or 1/512 chance of loss.
+
+91 In similar vein, she told one Ms Feng on 5 July 2014:
+
+If I strictly followed the teacher's method, I really swear to Chairman Mao, I
+really have never lost before. I suggest you to keep practicing in your home,
+practice every day, practice every day, and then see for yourself if you can
+encounter. I haven't encountered it anyway.
+
+…
+
+512 rounds, it is hard not to win any. No.
+
+I sometimes do it with my opinion because I can read the cards. This is hard
+to teach. If you have so many years of experience, maybe you will also read
+the cards yourself. This method cannot teach other people, because many do not
+know how to gamble and can only follow the teacher’s methods.
+
+…
+
+When there is a clash between my own methods and the teacher’s methods, I will
+choose the teacher’s methods. 45
+
+##### Foot Note 45
+
+×
+
+2DBD 670–671.
+
+92 There, she was talking about not having encountered the risk of loss. At
+trial, she put this down to coincidence:
+
+… coincidentally, I won -- I won everytime. It was just coincidence. But that
+doesn't mean that -- but it doesn't mean that the method is correct, and it
+doesn't mean that I can win every time.
+
+…
+
+Yes, the fact is I have never lost. 46
+
+##### Foot Note 46
+
+×
+
+Transcript, 5 May 2022, page 64.
+
+93 The point is that at the time Sandra was well aware that there was a risk
+of loss; but she believed in the 99.8% formula, and sought to convince others
+of it.
+
+94 In her testimony, Sandra also said:
+
+I was misled by them, by all their falsehoods, whatever they had said were all
+false, they even said that publicly, so I was misled by all they said. They
+said that it was safe, it was legitimate, it was stable, and they said that
+the winning risk was 99.8 per cent, and they said that we would 100 per cent
+win this. They said this openly, and I was cheated by them. 47
+
+##### Foot Note 47
+
+×
+
+Transcript, 5 May 2022, page 18.
+
+95 The evidence does not bear out Sandra’s allegation that Ken, Sally, or
+Sebastian ever said, “we would 100 per cent win this”. She knew full well that
+a 99.8% chance of winning was a 99.8% chance of winning, it was not a 100%
+chance of winning.
+
+96 On the evidence, I find that Sandra made her second tranche of investments
+not because of any false representations that she attributes to Ken, Sally, or
+Sebastian, but because she was attracted by the returns promised by SureWin4U,
+and she believed in SureWin4 U’s gambling methods, particularly after
+attending the 99.8% class.
+
+Sandra’s third tranche investment
+
+97 The third tranche of Sandra’s investments into SureWin4U happened in August
+2014, shortly before the scheme collapsed in September 2014.
+
+(1) What Ken and Sally said after the Suntec Conference
+
+98 Sandra attributes various representations to Ken and Sally, but none of
+them (nor all of them taken together) amount to a representation that
+SureWin4U was “safe and profitable” in the sense of the scheme being
+legitimate, not a scam.
+
+(2) What Sebastian said to Sandra
+
+99 In her closing submissions, Sandra relies heavily on the following exchange
+of messages with Sebastian on 29 July 2014:
+
+Sandra: I fully trust surewin
+
+I put almost all my money in their hands
+
+Should I do this?
+
+……
+
+Sebastian: Must see how u play. I also put all my money in. Not as much as u
+put la.
+
+100 Sandra asked Sebastian “Should I do this?”, having told him that she fully
+trusted SureWin4U and had “put almost all my money in their hands”. I accept
+that she was asking Sebastian if he thought SureWin4U could be trusted.
+Sebastian’s answer, however, was rather non-committal: “Must see how u play. I
+also put all my money in. Not as much as u put la.” His response, “Must see
+how u play” was not a resounding endorsement of SureWin4U’s trustworthiness;
+rather, it means, “it really depends on how you want to do these things”, as
+Sebastian explained at trial. 48
+
+##### Foot Note 48
+
+×
+
+Transcript, 13 May 2022, pages 56–57.
+
+101 In her submissions, Sandra contends that Sebastian lied when he said, “I
+also put all my money in”, for he had not literally put into SureWin4U every
+cent that he had. But that is not what Sebastian conveyed by his remark. He
+did not mean that he had put in every cent that he had, and that is not what
+Sandra understood either. He said, “I also put all my money in”, in response
+to Sandra saying that she had “put almost all my money in their hands”. His
+use of the word “also” indicates that he meant the same as Sandra: almost all
+his money, rather than literally all his money. I accept his explanation on
+this point. 49
+
+##### Foot Note 49
+
+×
+
+Transcript, 13 May 2022, pages 50–51.
+
+102 In that exchange of messages, Sandra did not tell Sebastian what she now
+claims to be the case: that she fully trusted SureWin4U because Ken and Sally
+told her it was safe and profitable, that SureWin4U was legitimate, not a
+scam. Instead, she asked him, “Should I do this”.
+
+103 It is ironic that Sebastian’s response was not specifically pleaded by
+Sandra as a misrepresentation. If it had operated on her mind in inducing her
+to make her third tranche of investments, one would have expected her to
+specifically plead it, especially since the messages were in written form. Nor
+did Sandra mention these messages in her AEIC. To top it off, in Sandra’s
+opening statement, she indicated that her causes of action in
+misrepresentation were being raised against Ken and Sally, but not Sebastian.
+I find that Sandra did not rely on her exchange of messages with Sebastian as
+an assurance by Sebastian that she could trust SureWin4U; she did not rely on
+that in making the third tranche of her investments.
+
+(3) The 100% class
+
+104 Prior to the third tranche of Sandra’s investments, she attended the 100%
+class. That made her even more enthusiastic about SureWin4U and its gambling
+methods, as shown by her messages on 17 July 2014 to Yuan Jun: 50
+
+##### Foot Note 50
+
+×
+
+2DBD 784, 787.
+
+Sandra: Just learned 100% yesterday, feeling great. I'm even more excited that
+I couldn't sleep.
+
+Now I believe in this project even more, I will practice more, keep it up.
+
+Yuan: Did you test it out? you used small money to make big money?
+
+Sandra: Of course. We test it out the day before in Macau
+
+Yuan: Great, I want to learn it too Send me the website again
+
+Sandra: This company is so great
+
+……
+
+I have not returned to Hong Kong yet. I am practicing 100%.
+
+105 As Sandra said, she was “even more excited” having learned the 100%
+formula, she had tested it out, and was practicing it; and she considered
+SureWin4U to be “so great”.
+
+106 In her evidence, Sandra did not provide a description of the 100% formula
+that she had tested and practised. Her case is that in fact SureWin4U did not
+have a formula with a 100% chance of winning, but I do not believe that she
+ever thought that SureWin4U had a 100% chance of winning. Significantly, in
+her 17 July 2014 messages to Yuan Jun (whom she had warned of the risk of loss
+earlier that month, when she only knew the 99.8% formula), she did not tell
+him that the 100% formula gave SureWin4U a 100% chance of winning. I find she
+knew that there was still some risk of loss in SureWin4U’s gambling methods,
+but she nevertheless believed in those methods.
+
+107 Thus, Sandra’s claim in relation to the Safe and Profitable Representation
+fails.
+
+The second “main representation” – the “US Property Representation”
+
+108 The US Property Representation is formulated in Sandra’s reply submissions
+as follows: 51
+
+##### Foot Note 51
+
+×
+
+Sandra’s reply submissions, para 3.
+
+“that investing in the US Property Package entitled her to title deeds to
+houses in Detroit”. That is said to be false because “Sandra did not receive
+the title deeds to any US property in respect of the US Property Package.” 52
+
+##### Foot Note 52
+
+×
+
+Sandra’s closing submissions, para 249(b).
+
+Sandra’s complaint about the US Property Representation is thus that SureWin4U
+did not keep its promise to give her title deeds to houses in Detroit. That,
+however, involves no false representation of fact. In Sandra’s oral closing
+submissions slides, at slide 18 – on “The Representations are statements of
+fact” – it is merely asserted that “The US Property Representation that Sandra
+will receive a title deed for each Detroit property is a statement of fact.”
+[emphasis added] A statement that something “will” happen in future, is not a
+statement of fact – it is either a statement as to the future, or a promise.
+The only thing factual about the US Property Representation, is that it was a
+term of the US Property Package that those who bought that package were
+entitled to a title deed to a house in Detroit. There was nothing false in
+that: this was a term of the US Property Package.
+
+109 Compounding Sandra’s problems with this alleged representation, the SOC
+mentions the US Property Package as something Ken and Sally promoted (at para
+53(d)–(f) of the SOC). However, para 53(d)–(f) of the SOC is not referred to
+in para 73 of the SOC, where Sandra pleads why the representations she
+complains about were false.
+
+110 The US Property Representation involves no false statement of fact made by
+Ken, Sally, or Sebastian, and they did nothing fraudulent in that regard
+either.
+
+111 In buying the US Property Package, Sandra knew that it was a term of that
+package that she was entitled to a title deed to a house in Detroit, but
+whether she received that title deed would depend on whether SureWin4U kept
+its promise in that regard.
+
+112 Her claim against Ken, Sally, and Sebastian in relation to the US Property
+Representation thus fails.
+
+The third main representation – the “Share Investment Representation”
+
+113 Sandra’s case in relation to the Share Investment Representation is beset
+with the same problems. The representation is formulated in Sandra’s reply
+submissions as follows: 53
+
+##### Foot Note 53
+
+×
+
+Sandra’s reply submissions, para 3.
+
+“that her monies invested under the Share Investment Package would be used to
+acquire a company that was going to be listed on the Singapore Stock Exchange
+in October 2014 (the ‘Share Investment Representation’)”. Sandra’s complaint
+about this representation is that SureWin4U did not use her money to acquire
+any company that was going to be listed in October 2014; instead, the scheme
+collapsed in September 2014. However, that involves no false representation of
+fact. A statement that something “would be” done in the future, is not a
+statement of fact – it is either a statement as to the future, or a promise.
+The only thing factual about the Share Investment Representation, is that it
+was a term of the Share Investment Package that those who bought that package
+would acquire an interest in a company that SureWin4U would be acquiring.
+There was nothing false in this: this was a term of the Share Investment
+Package.
+
+114 Again, Sandra’s submissions involve a shift away from her pleaded case.
+She pleads at para 58(a) of the SOC that Ken and Sally had represented that
+“SureWin4U had plans to buy over a company that was going to be listed on the
+Singapore Stock Exchange in October 2014”; this is said to be false (in para
+73(d) of the SOC) in that “SureWin4U had no real plans to nor did it acquire a
+listed company contrary to Ken and Sally’s claims”.
+
+115 The fact that SureWin4U collapsed before it could keep its promise to
+acquire a listed company, involves no false statement of fact on the part of
+Ken and Sally (or Sebastian), and there was nothing fraudulent in what Ken and
+Sally (or Sebastian) did in relation to the Share Investment Package. It was a
+term of the Share Investment Package that SureWin4U would acquire a company
+that was to be listed, but whether SureWin4U did acquire that company would
+depend on whether SureWin4U kept its promise in that regard.
+
+116 Moreover, it does not follow that because SureWin4U did not acquire a
+company to be listed (if that is the case), that it had no real plans to do so
+– Sandra has failed to prove this. Indeed, Sandra has not even proved that her
+money was not used by SureWin4U to acquire a company that was to be listed.
+There is simply no evidence what SureWin4U did with the money it received from
+Sandra for the Share Investment Packages – SureWin4U may well have used it to
+acquire some company with a view of listing it.
+
+117 Slide 18 of Sandra’s oral closing submissions slides involves a further
+shift – the representation is recast as being one “that Sandra’s investment
+will be used to acquire a particular target company (i.e. China Kunda
+Technology Holdings Ltd)”. However, it was neither Sandra’s pleaded case nor
+her evidence that the particular target company was ever mentioned to her
+prior to her purchasing the Share Investment Packages.
+
+118 Sandra’s case ranges from saying that SureWin4U had no intention to
+acquire “any company that was to be listed”, 54
+
+##### Foot Note 54
+
+×
+
+Sandra’s closing submisions, para 249(c).
+
+to saying that SureWin4U had no intention to acquire China Kunda Technology
+Holdings Ltd 55
+
+##### Foot Note 55
+
+×
+
+Sandra’s oral closing submission slide 18.
+
+which was already listed. I accept Ken’s explanation that it was only after
+the collapse of SureWin4U that he came to know, from one of his downlines,
+that the intention was to acquire China Kunda Technology Holdings Ltd. 56
+
+##### Foot Note 56
+
+×
+
+Transcript, 16 August 2022, pages 95–100.
+
+119 The fact that China Kunda Technology Holdings Ltd was already listed, does
+not help Sandra’s case. The SureWin4U June Sri Lanka Commitment Challenge 57
+
+##### Foot Note 57
+
+×
+
+7AB 2149–2150.
+
+document states: “The subsidiary of Surewin will be backdoor listed on
+Singapore RTO before the end of 2014. Any buyer of the diamond package can get
+the right of first refusal to subscribe for the internal shares of Surewin
+subsidiary, (500,000 YB).” A “backdoor listing” pursuant to an “RTO” (in the
+context, a reverse takeover) involves using one company to acquire another
+that was already listed, thereby gaining listed status. This is consistent
+with, as opposed to being inconsistent with, China Kunda Technology Holdings
+Ltd already being listed.
+
+The fourth main representation – the “HK No.1 Representation”
+
+120 In the SOC, Sandra pleads that at the 1st Presidential Suite Meeting,
+Sally told her:
+
+(a) even though Sandra had not achieved the top sales position in Hong Kong,
+she was invited to the meeting because Ken and Sally had told Peter Ong of
+Sandra’s potential to become the top representative for Hong Kong (para
+51(b));
+
+(b) Sally introduced Sandra to Peter Ong as the “next top representative for
+Hong Kong” (para 51(c));
+
+(c) Sally encouraged Sandra to buy and sell more packages so that she could
+become the next “Sally” of Hong Kong (para 51(d)).
+
+121 Sandra further pleads that at the 2nd Presidential Suite Meeting, Ken and
+Sally repeated their earlier representations at the 1st Presidential Suite
+Meeting and told Sandra that they saw potential in her and wanted to groom her
+to become Hong Kong’s top representative (para 58(e)).
+
+122 In para 73 of the SOC, however, Sandra does not say that the above
+representations were false; those paragraphs of the SOC are not mentioned in
+para 73.
+
+123 In her closing submissions, however, the “HK No.1 Representation” was
+portrayed as one of the four main actionable representations at the core of
+Sandra’s case. The representation is formulated in Sandra’s reply submissions
+as follows: 58
+
+##### Foot Note 58
+
+×
+
+Sandra’s reply submissions, para 3.
+
+“that by investing 4 sets of the US Property and Share Investment Packages,
+Sandra could become a ‘Seven-Star Agent’ and Ken and Sally would groom her to
+become Hong Kong’s top representative”. That is said to be false in that
+“Despite investing in the US Property and Share Investment Packages, Sandra
+did not become Hong Kong’s No.1 salesperson.” 59
+
+##### Foot Note 59
+
+×
+
+Sandra’s closing submissions, para 249(d).
+
+Her submissions are a departure from her pleaded case.
+
+124 In her oral closing submissions, at slide 18, Sandra asserts that “The HK
+No.1 Representation that if Sandra purchased 4 US Property and 4 Share
+Investment Packages, she would become Hong Kong’s top salesperson with Ken and
+Sally’s grooming is a statement of fact as Ken and Sally had no such intention
+– SureWin4U was about to collapse!”.
+
+125 I find that the HK No.1 Representation was never made by Ken and Sally –
+they never said that if Sandra purchased 4 US Property and 4 Share Investment
+Packages, she would become Hong Kong’s top salesperson (whether with Ken and
+Sally’s grooming or otherwise).
+
+126 In any event, this (if it had been said) would not have been a statement
+of fact; it would be a statement as to the future, at most a promise. But Ken
+and Sally were in no position to promise that Sandra would become Hong Kong’s
+top salesperson (and Sandra knew that) – that would depend on how she did,
+relative to others in Hong Kong. If someone else in Hong Kong outperformed
+Sandra, Sandra would then not have become Hong Kong’s top salesperson.
+
+127 In any event, Sandra has failed to prove that she had not become Hong
+Kong’s top salesperson – on the evidence, she may well have become that by the
+time of SureWin4U’s collapse.
+
+128 For completeness, I find that there was nothing false or fraudulent in
+what Ken, Sally, or Sebastian said to Sandra about her performance and
+potential in the context of SureWin4U.
+
+The aftermath of SureWin4U’s collapse
+
+129 Sandra’s conduct in the aftermath of SureWin4U’s collapse shows that
+Sandra had not relied on the representations she alleges Ken, Sally, and
+Sebastian had made to her, in investing into SureWin4U.
+
+130 First, just a few days after the collapse, there is the following exchange
+of messages on 14 September 2014 between her and her upline Mr Zhou Jing Hua:
+
+Zhou: I am very sorry! Take care! A healthy body is your asset!
+
+Sandra: It's OK, I knew the risk. I will face it.
+
+Next time work every day in a casino in Macau, haha.
+
+Zhou: You're a manly lady, you're broad-minded!
+
+I heard that Ken, Sally have gone to Hong Kong. You can meet them and give
+them some advice.
+
+Sandra: That's great, thank you.
+
+[emphasis added]
+
+131 There are two points of note:
+
+(a) Sandra told Mr Zhou: “It’s OK, I knew the risk, I will face it.” She did
+not say she thought her participation in SureWin4U was free of risk, and she
+did not say she thought it was free of risk because Ken and Sally told her
+SureWin4U was “safe and profitable”.
+
+(b) Sandra did not say that she had invested in SureWin4U because of
+representations made by Ken and Sally (and Sebastian) – instead, when Mr Zhou
+suggested that she can meet Ken and Sally (who have gone to Hong Kong where
+Sandra was) and give them some advice, she said, “That’s great, thank you.”
+
+132 That is not the behaviour of someone who thought that Ken and Sally had
+defrauded her, or that they had made false representations which had induced
+her to invest in SureWin4U and consequently lose millions of dollars.
+
+133 Second, there is an exchange with Sally on 17 September 2014 where Sally
+asked Sandra whether the latter had given her downlines any guarantees, and
+told her that that she cannot do so. In response, Sandra said, “I have not
+guarantee them one bit... I told them there are risks but the problem is that
+they trust me...” [emphasis added]. What Sandra said contemporaneously – that
+she had told her downlines that there are risks – is fundamentally
+inconsistent with her present position that she thought her participation in
+SureWin4U was free of risk because Ken and Sally (and Sebastian) had assured
+her that SureWin4U was “safe and profitable”. She knew there were risks, and
+she told her downlines as much. Sandra did not say to Sally that she had
+invested in SureWin4U because of representations that Ken, Sally, or Sebastian
+had made to her.
+
+134 Third, in October 2014 Sandra came to Singapore and stayed at Ken and
+Sally’s home for about a week. At that time, a group of ten investors,
+including Sebastian and Sandra, went to the Marina Bay Sands Casino with
+$148,000 in capital provided by Ken and Sally to attempt to win money using
+the 100% formula. Sandra still believed in SureWin4U’s 100% formula (as did
+Ken, Sally, and Sebastian), she went to live with Ken and Sally, and she was
+part of this effort with Sebastian (using Ken and Sally’s money) – she
+evidently did not think then, that they had defrauded her or made false
+representations that had induced her into investing in SureWin4U.
+
+135 I find that Ken and Sally provided the $148,000 capital because they too
+believed that the 100% formula could be used to win money at a casino, and
+Sebastian believed that too. I do not believe they spent that sum to create
+the impression that they were innocent parties. At that time, they were not
+facing any allegations that they were fraudulent, or in cahoots with the Ong
+brothers.
+
+136 Fourth, in May 2015 Sandra had the following exchange with Yuan Jun:
+
+Why are ken and sally accused? It's because they now earn about 50 million
+Singapore dollars in this project Now they don't want to spit out the money,
+so everyone is forcing them to catch them and return the money to us.
+
+…
+
+Thank you for willing to reply me. You're right, it's my fault and I don't
+blame you for your reaction. I just wanted good for everyone in the first
+place. I also studied a lot and then put in the money. I didn't expect it was
+such a big scam. I didn't run away and chose to stay with everyone to find
+solutions together. But now I'm not the one to take your money, I'm also the
+victim. You lost 3 million and I lost 2 million. You all know Mijian is now 54
+years old and lost all of his savings. He is now in debt. Every time I think
+of this, I'm terribly guilty and I can't sleep at night. The good
+relationships we used to have is now gone, and this makes me very sad.
+
+137 There, Sandra said the reason for going after Ken and Sally was because
+they had made money, while others had lost money; she did not say that Ken and
+Sally had made false representations that had induced her and others to invest
+in SureWin4U. She further said that it was her fault; she had studied a lot
+and then put in the money, but she didn’t expect that it was such a big scam.
+She did not blame Ken and Sally for having induced her to invest in SureWin4U
+by the “safe and profitable” representation, or other representations.
+Instead, she said it was her fault that others had lost money, and she felt
+terribly guilty.
+
+138 The evidence does not show that Sandra invested in SureWin4U because of
+any false representations of fact made by Ken, Sally, or Sebastian. The
+picture which emerges instead is:
+
+(a) Sandra was attracted by the lucrative returns SureWin4U promised, which
+she had started receiving on her initial packages.
+
+(b) To her, there was no risk in purchasing her initial packages because of
+SureWin4U’s “money back guarantee” if she could disprove the 99.8% formula;
+
+(c) She attended the 99.8% and 100% classes, and believed in SureWin4U’s
+gambling methods, which she had successfully tried herself;
+
+(d) She did not believe that investing in SureWin4U was free of risk – she
+knew there was a risk in SureWin4U’s gambling methods; she knew there was a
+risk in investing in SureWin4U, and said “I knew the risk. I will face it.”
+She said she told her downlines that there were risks.
+
+(e) In getting her downlines to invest, Sandra never told them about any
+representations made by Ken, Sally, or Sebastian; she told them about the
+returns promised by SureWin4U, SureWin4U’s gambling methods, SureWin4U’s
+brochure, and her belief in SureWin4U.
+
+(f) Sandra’s conduct in the aftermath of SureWin4U’s collapse is inconsistent
+with her case that she had invested because of false representations made to
+her by Ken, Sally, or Sebastian.
+
+139 SureWin4U had exaggerated the extent of Ken and Sally’s earnings, as
+presented at the Suntec Conference, and Ken and Sally must take some
+responsibility for that, for they knew that their earnings up to that point
+were not that much. However, I find that if Ken and Sally’s earnings had been
+accurately represented by SureWin4U, it would have made no difference to
+Sandra’s investment decisions.
+
+140 Further, many of the representations Sandra sues on are not even
+statements of fact, but statements as to the future, or promises, or
+statements of opinion.
+
+141 I also generally find that Ken, Sally, and Sebastian were not fraudulent
+in the sense of them having made statements knowing they were false, or not
+genuinely believing in the truth of what was said (I will discuss this further
+in relation to the claim for conspiracy to defraud). At most, I would fault
+Ken and Sally for not insisting that SureWin4U make a correction to what it
+planned to say about their earnings. But I find that although Ken and Sally
+associated themselves with the exaggeration of their earnings, they did not
+condone the exaggeration with the intention of inducing others to invest in
+SureWin4U. Nor did the exaggeration of earnings play any real and substantial
+part in Sandra’s decisions to invest.
+
+Unlawful means conspiracy
+
+Preliminary observations
+
+142 As I noted above at [29]–[33], the unlawful means Sandra relies on for her
+unlawful means conspiracy claim, are the same representations that she relies
+on for her misrepresentation claims.
+
+143 My finding that Sandra did not rely on the alleged representations to
+invest in SureWin4U, is fatal to both the unlawful means conspiracy claim, and
+the lawful means conspiracy claim.
+
+144 I nevertheless consider whether Sandra had made out the elements of
+agreement, and intention, for her conspiracy claims.
+
+The element of agreement
+
+Sandra’s case
+
+145 Sandra pleads that the defendants conspired with Peter Ong and/or
+SureWin4U to cause injury to her. 60
+
+##### Foot Note 60
+
+×
+
+SOC, para 76.
+
+The SOC does not mention Philip Ong, but her closing submissions include him
+as a conspirator – this is not a satisfactory way of putting forward a
+conspiracy claim.
+
+146 I have noted above at [129]–[138] that Sandra’s conduct in the aftermath
+of SureWin4U’s collapse is inconsistent with her thinking that Ken, Sally, and
+Sebastian had, by false representations, induced her to invest in SureWin4U.
+The same conduct is likewise inconsistent with Sandra thinking that Ken,
+Sally, and Sebastian were involved in a conspiracy to defraud her.
+
+147 The evidence before the court as to events up to the collapse of SureWin4U
+does not prove any agreement – between the defendants on the one hand, and
+SureWin4U and/or the Ong brothers (or either of them) on the other hand – to
+cause injury to Sandra.
+
+148 Unsurprisingly, Sandra relies heavily on two events after the collapse of
+SureWin4U in attempting to prove the alleged conspiracy:
+
+(a) a meeting between Ken and Sally, and Peter Ong, in Macau in 2018; and
+
+(b) Ken, Sally, and Sebastian all changing their mobile phones in or around
+2015, without retaining any of the messages in them that related to SureWin4U,
+other than one message that Sally had made a point to retain.
+
+Ken and Sally’s 2018 meeting with Peter Ong in Macau
+
+149 It appears that the 2018 meeting in Macau was the first time since the
+scheme’s collapse, that Ken and Sally met with Peter Ong.
+
+150 In the intervening period, Ken and Sally had been sued by another
+SureWin4U investor in April 2016. Sandra filed an affidavit giving evidence on
+behalf of the plaintiff. However, that suit did not proceed to trial, as it
+was settled in October 2017 and discontinued in November 2017.
+
+151 Ken says in his AEIC (at paras 127 to 129) that out of the blue, in March
+2018, Peter Ong asked some of the former top investors in SureWin4U to meet
+him in Macau, claiming that he had some plan for them to recover their losses.
+Ken says that he and Sally decided to go as they wanted to find out what had
+happened with SureWin4U.
+
+152 Ken says:
+
+(a) Peter had about 20 bodyguards with him, and was aggressive and
+intimidating;
+
+(b) Peter asked that they take a group photograph with him, which they
+initially refused. But Peter got very upset and angry, and so they agreed to
+be photographed; they smiled because Peter had demanded that;
+
+(c) They found out that Peter’s proposal was another scheme similar to
+SureWin4U; they did not reject that on the spot but did so when they returned
+to Singapore.
+
+153 In their oral testimony, Sally and Ken say that at the meeting, Peter Ong
+explained that SureWin4U had collapsed because of the actions of the
+authorities in Taiwan and Malaysia. 61
+
+##### Foot Note 61
+
+×
+
+Transcript, 27 July 2022, pages 106 – 116; 16 August 2022, page 127.
+
+Sally says she did not go further and ask him what had happened to the money
+that they still had in the scheme when it collapsed. 62
+
+##### Foot Note 62
+
+×
+
+Transcript, 27 July 2022, page 216.
+
+Ken, however, says that Peter Ong’s new scheme would allow them to recover
+that, but only if participants put in fresh money. 63
+
+##### Foot Note 63
+
+×
+
+Transcript, 16 August 2022, page 138–139.
+
+154 In the event, the photographs with Ken and Sally in them, smiling, with
+wads of money, and making a “thumbs up” gesture, were used by Peter Ong to
+launch his new Prince Sun City Scheme. 64
+
+##### Foot Note 64
+
+×
+
+11 AB 3048 and 3049.
+
+155 I do not, however, believe that Ken and Sally were part of Peter Ong’s new
+scheme. I accept their evidence that they did not participate in that,
+although they obliged his request for photographs. I bear in mind that by the
+time of that meeting in 2018, Ken and Sally had already been sued by one
+SureWin4U investor; another – Sandra – had also given affidavit evidence
+against them in that suit. If Ken and Sally got involved with Peter Ong’s new
+scheme, they would be inviting lawsuits from Sandra and possibly others too.
+Indeed, in June 2018, Sandra found out about the Prince Sun City Scheme, and
+saw the photographs of Ken and Sally with Peter Ong that were used to promote
+that scheme; she was convinced that Ken and Sally were in cahoots with Peter
+Ong, and in August 2018 she sued.
+
+156 Unlike the Ong brothers, Ken and Sally did not go missing for years; they
+stayed in Singapore and defended the suits against them.
+
+157 Considering the evidence about the meeting with Peter Ong in Macau, in the
+context of the rest of the evidence in this case, I do not find that Ken and
+Sally had conspired with SureWin4U and/or the Ong brothers (or either of them)
+to defraud or injure Sandra.
+
+Ken, Sally, and Sebastian’s missing messages
+
+158 The last piece of evidence (or, rather, missing evidence), is the messages
+that Ken, Sally, and Sebastian once had in their mobile phones, which they did
+not retain when they all changed mobile phones in or around 2015.
+
+159 I agree with Sandra’s contention that it is unusual for a person to change
+his mobile phone without retaining the messages in it – either by transferring
+those messages to his new phone, or making a backup of the messages. For three
+persons to do the same, in the year after SureWin4U’s collapse, is too much of
+a coincidence to be coincidental. It is more likely that one or more of them
+deliberately did not keep messages from the time they were involved in
+SureWin4U. But why? And what should the court do now that the messages are not
+available as evidence?
+
+160 Sandra contends that the messages would show that Ken, Sally, and
+Sebastian were conspirators with SureWin4U and/or the Ong brothers (or either
+of them), and so they got rid of the messages; and that the court should now
+draw that very inference – that they were conspirators.
+
+161 Sally only kept one page of the messages between her and Peter Ong. On 18
+September 2014, some 8 days after the scheme collapsed, she sent two texts
+saying “We need you! Pls pls help us!”, “Many wants to committ suicide”,
+followed by sad and tearful cartoon pictures. 65
+
+##### Foot Note 65
+
+×
+
+7 AB 2048.
+
+162 In a previous affidavit, 66
+
+##### Foot Note 66
+
+×
+
+Exhibit P3. See also transcript, 27 July 2022, pages 148–152.
+
+Sally stated she had “only printed and kept that one screenshot…to demonstrate
+to [Ken and Sally’s] downlines, who had been harassing them, that they had, in
+fact, tried to get in touch with Peter Ong, but there was no response from
+him, and that in essence, the screenshot was taken, and printed to appease
+their downlines, and show them that [Ken and Sally] had genuinely tried to
+help them.”
+
+163 Why then did Sally not keep any of her other messages concerning
+SureWin4U? She said, “I was very, very depressed. I don’t even dare to look at
+the phone. Yeah. And I was told – and I was been [sic] encouraged [by people
+who cared, SureWin4U members] to throw away the phone, to don’t answer, get
+rid of everything, wash it off.” 67
+
+##### Foot Note 67
+
+×
+
+Transcript, 26 July 2022, pages 19–20.
+
+So she decided to change her phone. She gave it to someone – possibly her
+helper then, but she could not remember who – with the information that was in
+it. 68
+
+##### Foot Note 68
+
+×
+
+Transcript, 26 July 2022, pages 20–22.
+
+164 Those responses are telling, for they indicate that Sally wished to
+dissociate herself from SureWin4U. I find that in similar vein, the name of
+the fourth defendant company was changed from “SW4U” to “Strategic Wealth” to
+dissociate it (with its original name being “SW4U”) from SureWin4U.
+
+165 Under s 116(g) of the Evidence Act 1893, the court may “presume that
+evidence which could be and is not produced would if produced be unfavourable
+to the person who withholds it”.
+
+166 In Tribune Investment Trust Inc v Soosan Trading Co Ltd [2000] 2 SLR(R)
+407 (“Tribune Investment”), the Court of Appeal stated at [50]:
+
+Whether or not in each case an adverse inference should be drawn depends on
+all the evidence adduced and the circumstances of the case. There is no fixed
+and immutable rule of law for drawing such inference. Where, as was the case
+here, the trial judge is of the view that the plaintiffs themselves had not
+made out their claim to the requisite standard, then no drawing of an adverse
+inference against the defendants is necessary. The drawing of an adverse
+inference, at least in civil cases, should not be used as a mechanism to shore
+up glaring deficiencies in the opposite party’s case, which on its own is
+unable to meet up to the requisite burden of proof. Rather, the procedure
+exists in order to render the case of the party against whom the inference is
+drawn weaker and thus less credible of belief.
+
+167 In the present case, if I were to put to one side the issue of the missing
+messages, I would find that on the rest of the evidence Sandra has failed to
+prove the conspiracy she alleges. In the words of Tribune Investment, she has
+“not made out [her] claim to the requisite standard”, and her case, “on its
+own is unable to meet up to the requisite burden of proof”. In the
+circumstances, no drawing of an adverse inference against Ken, Sally, and
+Sebastian is necessary.
+
+168 If, however, Sandra’s case on the rest of the evidence does provide a
+foundation for the drawing of an adverse inference in relation to the missing
+messages, whether to draw such an inference – and what inference – still
+depends on the circumstances. As the court put it in Sudha Natrajan v The Bank
+of East Asia Ltd [2017] 1 SLR 141 at [23]: “s 116(g) does not afford the court
+the opportunity to speculate as to what the evidence may be without some basis
+for the drawing of the inference which the opposing party seeks to persuade
+the court to draw. That is, the court must put its mind to the manner in which
+the evidence that is not produced is said to be unfavourable when drawing the
+adverse inference under s 116(g).”
+
+169 In the present case, I can accept that the missing messages would have
+shown more contact between Ken, Sally, and Sebastian, on the one hand, and the
+Ong brothers and others involved in running SureWin4U, on the other hand. The
+messages may have shown that Ken, Sally, and Sebastian were closer to those
+running SureWin4U, than appears from the available evidence.
+
+170 But would the messages have shown that Ken, Sally, and Sebastian had
+conspired with SureWin4U and/or the Ong brothers (or either of them) to
+defraud investors? That is what Sandra urges me to find.
+
+171 In Sandra’s AEIC, she did not put her case that high. She said: 69
+
+##### Foot Note 69
+
+×
+
+Sandra’s AEIC, para 125.
+
+“One way for Ken and Sally to establish that their relationship with Peter Ong
+was nowhere as close as the objective evidence clearly suggests is for them to
+show their communications with him, for example, their exchange of phone
+messages. Yet, in discovery, they claimed that they were no longer in
+possession of such messages because they allegedly changed their phones in
+February 2015 and kept no backup of such messages…”
+
+172 Sandra’s point there was that Ken and Sally do not have the benefit of
+using the missing messages to show that they were not as close to Peter Ong as
+the objective evidence suggests. Sandra did not say there that the missing
+messages would have shown them to be conspirators. Contrary to Sandra’s
+contention, I do not find the objective evidence suggests that Ken and Sally
+were very close to Peter Ong. Ken and Sally do not need the missing messages
+to counter the picture which emerges from the objective evidence. Rather,
+Sandra is the party who is now saying, in effect, that the missing messages
+would have proven her case in a way that the objective evidence cannot. Put
+another way, Sandra does not have evidence to prove the alleged conspiracy,
+but she says that the missing messages would have been the evidence she
+needed.
+
+173 If it were appropriate to draw an adverse inference against Ken, Sally,
+and Sebastian on account of the missing messages, in the circumstances I would
+still not draw an adverse inference that the missing messages would have shown
+them to be in a conspiracy with SureWin4U and/or the Ong brothers (or either
+of them).
+
+174 The rest of the evidence does not support a finding that Ken, Sally, and
+Sebastian were other than investors in SureWin4U. There were just like Sandra
+was, save that they were earlier investors, and so they did better out of the
+scheme than she did.
+
+175 I agree with the defendants that those involved in a conspiracy to defraud
+thousands of people out of millions of dollars are unlikely to document that
+conspiracy in messages left in mobile phones – which might be misplaced, or
+might be seized by authorities. If they were truly conspirators, it is more
+likely that their incriminating discussions would have been oral, rather than
+in a form of a convenient paper (or digital) trail.
+
+176 In declining to draw an adverse inference, I have considered not only the
+objective evidence, but also the evidence given by the parties, and how Ken,
+Sally, and Sebastian came across as witnesses. My impression of them is that
+they were simple rather than cunning, and that they genuinely did not think
+that SureWin4U was a Ponzi scheme. Sandra too did not think SureWin4U was a
+Ponzi scheme, and so she actively sold SureWin4U packages, and spoke
+enthusiastically about her participation in the scheme at a SureWin4U event.
+
+177 Thus, not only does Sandra’s claim for unlawful means conspiracy fail
+because she has failed to prove reliance on the representations that she has
+sued on, it also fails because she has failed to prove the requisite agreement
+between the alleged conspirators.
+
+The element of intention
+
+178 Further, I find that Sandra has failed to prove the requisite intention on
+the part of Ken, Sally, and Sebastian to cause damage, or injury to her. I do
+accept that Sandra was defrauded by SureWin4U, and those behind it; but I do
+not find Ken, Sally, or Sebastian to be amongst those behind the scheme.
+
+The position of Strategic Wealth
+
+179 For completeness, Sandra’s conspiracy claim against Strategic Wealth fails
+for additional reasons too. Sandra’s contention is that Strategic Wealth is
+liable as a conspirator because it owned the yacht that Ken and Sally received
+from participating in SureWin4U. 70
+
+##### Foot Note 70
+
+×
+
+See SOC, para 76.
+
+However, there was nothing false in the representation that Ken and Sally had
+been gifted the yacht in relation to their participation. Strategic Wealth
+also held Ken and Sally’s earnings from the scheme, but that does not make it
+a conspirator in a conspiracy to defraud Sandra. All that is left is the fact
+that one of the meetings that Sandra relied upon took place on the yacht; but
+I do not accept that providing the venue for an occasion on which Sandra says
+false representations were made, is sufficient to make Strategic Wealth a
+conspirator. The other points I have made as to why Sandra’s unlawful means
+conspiracy claim fails, would also apply.
+
+Lawful means conspiracy
+
+180 Sandra’s alternative claim for lawful means conspiracy does not assist
+her. For such a claim, she would need to show (as she pleads in para 77 of the
+SOC) that “the predominant intent of the Defendants was to injure the
+Plaintiff”. She says it was their predominant intent to injure her “inter
+alia, by deriving financial benefit at the Plaintiff’s expense”. This
+contention is flawed in law, and in fact.
+
+181 As a matter of law, the High Court observed in Dynasty Line Ltd (in
+liquidation) v Sia Sukamto [2013] 4 SLR 253 that “where the alleged
+conspirators’ actions serve their own commercial purpose, the infliction of
+loss on the plaintiff will not be the predominant purpose” (at [112], citing
+Quah Kay Tee v Ong and Co Pte Ltd [1996] 3 SLR(R) 637 at [50]). It is thus
+insufficient for Sandra just to say that Ken, Sally, and Sebastian’s purpose
+was getting richer, such as by way of referral bonuses, or by getting her to
+provide funds to SureWin4U from which SureWin4U could pay returns to them.
+
+182 Sandra’s claim fails on the facts because I find that Ken, Sally, and
+Sebastian (and Strategic Wealth) did not have the predominant purpose of
+injuring Sandra, or other investors. Indeed, Ken, Sally, and Sebastian did not
+have any intention of injuring other investors. On the contrary, they as
+SureWin4U investors were happy for other SureWin4U investors to also prosper
+from participating in the scheme.
+
+Negligent misrepresentation
+
+183 The elements necessary to make out negligent misrepresentation are (IM
+Skaugen SE and another v MAN Diesel & Turbo SE and another [2018] SGHC 123 at
+[121], citing IM Skaugen SE and another v MAN Diesel & Turbo SE and another
+[2016] SGHCR 6 at [65]–[66]):
+
+(a) The defendant must have made a false representation of fact;
+
+(b) The representation induced actual reliance;
+
+(c) The defendant must owe a duty of care;
+
+(d) There must a breach of that duty of care; and
+
+(e) The breach must have caused damage to the plaintiff.
+
+184 Sandra’s claim for negligent misrepresentation fails because I do not
+accept that the representations on which she relies (for both the fraudulent
+misrepresentation claim, and the negligent misrepresentation claim) induced
+her to invest in SureWin4U.
+
+185 I also do not accept that Ken, Sally, and Sebastian owed Sandra a duty of
+care that they breached, as she contends.
+
+186 Sandra says that by virtue of Ken and Sally’s special status in SureWin4U,
+their capacity as her “uplines” and their role as her “mentor” in SureWin4U,
+it was reasonably expected that she would rely on Ken and Sally to give
+reliable advice or information relating to SureWin4U. 71
+
+##### Foot Note 71
+
+×
+
+SOC, para 74.
+
+She says it was also reasonably expected that she would rely on Sebastian’s
+advice as he was Ken and Sally’s agent (so she claims). She contends that Ken,
+Sally, and Sebastian owed her a duty of care by reason of their assumption of
+responsibility over persons like her who relied on them for information
+concerning the business and offerings of SureWin4U.
+
+187 Sandra’s case on the imposition of a duty of care was fleshed out in para
+265 of her closing submissions, as follows:
+
+(a) In view of the Scheme’s unorthodox modus operandi, it was reasonably
+foreseeable that Sandra would rely on their representation of the Scheme’s
+safety and profitability.
+
+(b) As Ken and Sally knew that Sally was interested in attaining the status of
+a 7-Star Agent, it was reasonably foreseeable that Sandra would rely on the HK
+No. 1 Representation in deciding to invest in the US Property and Share
+Investment Packages.
+
+(c) Sally testified that she did not have to help Sandra. However, she took
+steps to do so and in fact, actively encouraged her to invest vast amounts
+into the Scheme. In addition, as we have seen, in relation to the 3rd Tranche,
+they were strongly encouraging her to invest in the US Property and Share
+Investment Packages.
+
+188 I do not accept that these are good reasons for imposing a duty of care on
+Ken, Sally, and Sebastian. I have rejected Sandra’s case on the “Safe and
+Profitable Representation”, and the “HK No.1 Representation”, in discussing
+her claim for fraudulent representation – among other reasons, because those
+representations were never made by Ken, Sally, and Sebastian to Sandra.
+
+189 That leaves Sandra’s third point – that because Ken, Sally and Sebastian
+encouraged her to invest in SureWin4U, they owe her a duty of care. However,
+an aspect of a typical Ponzi scheme (and SureWin4U was no different) is that
+participants are incentivised to encourage others (whether existing or
+prospective participants) to participate in the scheme. Sandra herself did so.
+
+190 If Sandra’s case on negligent misrepresentation were accepted, it might
+result in the imposition of a duty of care on each SureWin4U investor, in
+relation to every other SureWin4U investor.
+
+191 In essence, Sandra is saying that if Ken, Sally, and Sebastian were not
+fraudulent (and so they did not know that SureWin4U was a Ponzi scheme), they
+were nevertheless negligent for not figuring out that SureWin4U was a Ponzi
+scheme, and she could sue them for that (although she too did not figure out
+that SureWin4U was a Ponzi scheme). But Ken, Sally, and Sebastian might
+equally say that Sandra ought to have figured out that SureWin4U was a Ponzi
+scheme, and warned them against investing further.
+
+192 Applying the framework in Spandeck Engineering (S) Pte Ltd v Defence
+Science & Technology Agency [2007] 4 SLR(R) 100 (“Spandeck”) at [73], the
+threshold question is whether the defendant reasonably ought to have foreseen
+that his negligence would cause harm to the plaintiff.
+
+193 In the context of SureWin4U, each person purchasing a package was invited
+to try and disprove SureWin’s 99.8% formula after attending a 99.8% class
+(with a money back guarantee if the formula could be disproved). Sandra
+attended that class, and she believed in SureWin’s gambling methods – not
+because of anything Ken, Sally, and Sebastian told her, or even because Ken,
+Sally, and Sebastian themselves were participants; she believed because she
+had seen the 99.8% formula for herself, and tried it successfully. She became
+even more enthusiastic after attending the 100% class.
+
+194 In that context, I do not consider that Ken, Sally, and Sebastian
+reasonably ought to have foreseen that if they were negligent in not figuring
+out that SureWin4U’s gambling methods did not work, their negligence would
+cause harm to Sandra. Each participant was invited to see and evaluate
+SureWin4U’s gambling methods for themselves. Moreover, the relevant
+information was equally available to Sandra, Ken, Sally, and Sebastian – how
+the 99.8% formula was supposed to work, and how the 100% formula was supposed
+to work.
+
+195 If Sandra did get past the threshold question, there is still no requisite
+proximity in terms of the closeness, and directness of the relationship
+between the parties, in relation to the first stage inquiry in the Spandeck
+framework. In any event, at the second stage inquiry, policy considerations
+would militate against imposing a duty of care on a whole class of persons
+(SureWin4U participants) in relation to the same class of persons, to take
+care for one another (in relation to finding out – based on common information
+– that each of them was being defrauded by a scheme they were all
+participating in).
+
+196 Sandra’s closing submissions do not go that far: she does not say that all
+participants owe each other a duty of care, or that earlier participants owe
+later participants a duty of care, or that those who made money owe those who
+lost money a duty of care; instead, she seeks to put Ken, Sally, and Sebastian
+on a pedestal so as to impose a duty of care on them. But on the facts, Ken,
+Sally, and Sebastian were essentially just earlier (and so more successful)
+participants in the scheme.
+
+197 It is also instructive to consider the breaches of duty that Sandra
+complains of, for this will inform the inquiry as to the duty she would have
+the court impose on Ken, Sally, and Sebastian. She says at para 266 of her
+closing submissions that Ken, Sally, and Sebastian breached the standard of
+care they owed to her in the following manner:
+
+(a) As Ken admitted, he had in fact never seen any of the alleged professional
+gamblers in action.
+
+(b) The Wans admitted that they never conducted any due diligence or valuation
+on the US properties.
+
+(c) The evidence shows that the Wans did not even bother to find out anything
+about the target company under the Share Investment Packages. If Ken’s
+testimony is to be believed, they only made enquiries about the Target after
+the collapse.
+
+(d) In relation to the 3rd Tranche, Sebastian admitted that he did not even
+know the owners of the several bank accounts when he instructed Sandra to make
+payment.”
+
+198 The same points may be made about Sandra:
+
+(a) Sandra had in fact never seen any of the alleged professional gamblers in
+action (other than at the demonstration of the 100% formula, which Ken and
+Sally also attended).
+
+(b) Sandra never conducted any due diligence or valuation on the US
+properties.
+
+(c) Sandra did not even bother to find out anything about the target company
+under the Share Investment Packages.
+
+(d) In relation to the 3rd Tranche, Sandra did not even know the owners of the
+several bank accounts that she was instructed to make payment into.
+
+199 The question is thus: should a duty of care be imposed on Ken, Sally, and
+Sebastian to do what Sandra herself did not do? Ken, Sally, and Sebastian were
+not Sandra’s financial advisors, or estate agents. They were not even her
+financial advisor or estate agent friends that she was approaching for
+assistance within their area of expertise. Ken, Sally, and Sebastian were
+scheme participants interacting with Sandra as a fellow participant. Ken,
+Sally, and Sebastian did not expressly or implied assume responsibility
+towards Sandra, to do all the things which she says they should have done for
+her, things which she did not do herself, things which she never even asked
+them to do for her. I find that no such duty should be imposed.
+
+200 In the circumstances, Sandra’s claim for negligent misrepresentation claim
+fails.
+
+Innocent misrepresentation
+
+201 Finally, Sandra had pleaded a strange claim for innocent
+misrepresentation: “If, which is denied, the representations were not made
+fraudulently, or negligently, the Defendants are liable for innocent
+misrepresentation.” (SOC, para 75B)
+
+202 This was repeated in Sandra’s AEIC at para 130: “If, which is denied, the
+representations were not made fraudulently, or negligently, the Defendants are
+liable for innocent misrepresentation.”
+
+203 It was never explained how the defendants could be found liable to Sandra
+for innocent misrepresentation – Sandra’s submissions are silent on this.
+
+204 I dismiss the claim for innocent misrepresentation.
+
+Conclusion
+
+205 It is tragic that Sandra lost millions of dollars by investing in
+SureWin4U, but she has no recourse against the defendants for that. Sandra was
+attracted by the lucrative returns promised by SureWin4U, and she believed in
+its gambling methods. But she knew that SureWin4U’s gambling methods involved
+risk – she knew that SureWin4U did not have a “sure win” way of making money
+gambling against a casino. She also knew that there was a risk of her losing
+what she had invested in SureWin4U. She nevertheless believed it was a good
+scheme to participate in – because of what SureWin4U said about itself, and
+because of SureWin4U’s gambling methods (which she learned from attending
+SureWin4U’s gambling classes and demonstrations, and then successfully tried
+on her own). Sandra was not induced to invest by false representations made by
+Ken, Sally, or Sebastian; and she has failed to prove that they (and Strategic
+Wealth) were in some conspiracy to injure her.
+
+206 For the reasons stated in these grounds, I dismiss all of Sandra’s claims
+(some of which had been withdrawn earlier, but I dismiss them too for good
+order).
+
+207 As the defendants have succeeded in their defence, I award them costs to
+be assessed, if not agreed. Unless the parties agree on costs, they shall put
+in their costs submissions, limited to ten pages (excluding any schedule of
+disbursements), within three weeks.
+
+Andre Maniam
+
+Judge of the High Court
+
+Lok Vi Ming, SC, Joseph Lee, Jonathan Muk, Tanya Tan and Clara Lim (LVM Law
+Chambers LLC) for the plaintiff;
+
+Christopher Anand Daniel, Harjean Kaur, Eileen Yeo, Saadhvika Jayanth and Lim
+Yi Zheng (Advocatus Law LLP) for the defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 14 Apr 2023 (11:26 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

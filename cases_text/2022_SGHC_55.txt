@@ -1,0 +1,1083 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 55
+
+Originating Summons No 452 of 2020  
+(Summons No 2085 of 2021)
+
+In the matter of Sections 227B and 227G of  
+the Companies Act (Cap 50, 2006 Rev Ed)
+
+| Ocean Tankers (Pte) Ltd  
+---|---  
+  
+… Applicant
+
+grounds of decision
+
+[Companies — Receiver and manager — Judicial management order]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Re Ocean Tankers (Pte) Ltd
+
+[2022] SGHC 55
+
+General Division of the High Court — Originating Summons No 452 of 2020
+(Summons No 2085 of 2021)  
+Kannan Ramesh J  
+31 August, 13, 20 September 2021
+
+14 March 2022
+
+Kannan Ramesh J:
+
+1 HC/SUM 2085/2021 (“SUM 2085”) arose out of the judicial management of Ocean
+Tankers (Pte) Ltd (“OTPL”). It was an application by the judicial managers of
+OTPL (“the OTPL JMs”) for directions under s 227G(5) of the Companies Act (Cap
+50, 2006 Rev Ed) (“the Companies Act”). The directions related to claims
+arising out of OTPL’s charter of 76 vessels owned by some 40 subsidiaries of
+Xihe Holdings (Pte) Ltd (“Xihe Holdings”) (also in judicial management), and
+whether such claims were expenses of OTPL’s judicial management (“judicial
+management expenses”) to be paid in priority to OTPL’s unsecured debts. On 20
+September 2021, I gave guidance on which of the claims were judicial
+management expenses. The judicial managers of Xihe Holdings (“the Xihe JMs”)
+have appealed my decision. I now give my detailed grounds of decision.
+
+Background
+
+2 OTPL and Xihe Holdings were both incorporated by Mr Lim Oon Kuin (“Mr Lim”)
+who also incorporated Hin Leong Trading (Pte) Ltd (“HLT”). Mr Lim also
+incorporated the various companies in the “Xihe Group” which consisted of,
+amongst others, Xihe Holdings and Xihe Capital (Pte) Ltd (“Xihe Capital”).
+Prior to OTPL, HLT and certain companies in the Xihe Group entering an
+insolvency process, their businesses were connected. Some of the companies
+within the Xihe Group (“the vessel-owning subsidiaries”) owned vessels which
+OTPL, a ship chartering and ship management company, would charter principally
+under bareboat charters (some vessels were chartered under time
+charterparties). Xihe Holdings itself did not own any vessels. A large part of
+OTPL’s fleet was vessels chartered from the vessel-owning subsidiaries. OTPL
+would sub-charter those vessels to or enter into contracts of carriage with
+HLT, which was one of Singapore’s largest oil and related commodities trading
+companies at that time. This was a significant part of OTPL’s business, with
+approximately one-third of its revenue prior to April 2020 coming from HLT.
+
+3 As noted above, SUM 2085 only concerned vessels on charter from some of the
+vessel-owning subsidiaries, namely, 40 subsidiaries of Xihe Holdings. These
+subsidiaries of Xihe Holdings were later placed in various insolvency
+processes with insolvency office holders other than the Xihe JMs appointed.
+Throughout the course of these grounds of decision, I refer to these
+subsidiaries as “the vessel owners”. The Xihe JMs represented them in SUM
+2085, and thus references to submissions made by the Xihe JMs should be taken
+to mean submissions made on the vessel owners’ behalf as well.
+
+4 HLT filed an application for judicial management in late April 2020. OTPL
+followed soon thereafter, filing a similar application on 6 May 2020. On 12
+May 2020, the OTPL JMs were appointed as interim judicial managers (“the IJM
+Order”). They were appointed as judicial managers on 7 August 2020 (“the JM
+Order”). References to the OTPL JMs in the period 12 May 2020 to 6 August 2020
+ought to therefore be understood as referring to the OTPL JMs acting in their
+capacity as interim judicial managers of OTPL.
+
+5 Following the appointment of interim judicial managers and pending disposal
+of the application for judicial management, OTPL continued to retain its
+sizeable fleet of chartered vessels from the vessel-owning subsidiaries. As
+interim judicial managers, the OTPL JMs examined the affairs of OTPL and
+recognised that it was unprofitable to maintain the fleet and explored
+different uses for the vessels.
+
+Attempts to redeliver vessels
+
+6 On 18 May 2020, the OTPL JMs met with the Xihe Group. At this meeting, the
+OTPL JMs presented a slideshow with several options, including redelivery of
+119 vessels. The slideshow also contained what was described as an
+“alternative to physical delivery”. This was for OTPL to enter into ship
+management agreements with the vessel-owning subsidiaries. This proposal (ie,
+the ship management agreements) was, however, not accepted by the Xihe Group.
+It should be emphasised that the meeting was with the management of the Xihe
+Group – at this point, the entities in the Xihe Group were not in an
+insolvency process. Many of them only entered interim judicial management in
+August 2020 (see [10] below).
+
+7 From 20 May 2020 to 3 June 2020, notices of termination (“the Termination
+Notices”) were issued by the relevant vessel-owning subsidiaries in respect of
+bareboat charters for 41 vessels and time charters for two vessels. Some of
+these vessels were the subject of SUM 2085. In e-mails in late May 2020, the
+OTPL JMs accepted the Termination Notices and agreed to redelivery subject to
+payment of “remaining on board” (“ROB”) under the charterparties.
+
+8 The two vessels on time charter were redelivered prior to the JM Order.
+However, redelivery for the 41 vessels under the bareboat charters could not
+take place because the relevant vessel-owning subsidiaries: (a) had not
+obtained written consent from the mortgagees of the vessels to terminate the
+bareboat charters and take redelivery; and (b) required leave of court to take
+redelivery of the vessels during the interim judicial management period.
+
+9 Accordingly, on 6 July 2020, the relevant vessel-owning subsidiaries filed
+HC/OS 652/2020 (“OS 652”) to obtain leave of court for redelivery of 37
+vessels that were the subject of bareboat charters with OTPL. It was unclear
+why leave was not sought for all 41 vessels. The OTPL JMs did not resist the
+application, maintaining their earlier position that they wished to redeliver
+the vessels. However, they made it clear that redelivery was subject to leave
+of court and the mortgagees’ consent being obtained. Ultimately, no hearing
+date was fixed as the applicants were directed at a pre-trial conference on 21
+July 2020 to obtain consent from the mortgagees to terminate the bareboat
+charters, and then to work out the terms of redelivery with the OTPL JMs.
+
+10 However, the discussions on the terms of redelivery did not reach a
+conclusion. On 13 August 2020, Xihe Holdings and four of its vessel-owning
+subsidiaries were placed under interim judicial management orders, following
+applications brought by Overseas-Chinese Banking Corporation Ltd, a creditor.
+The Xihe JMs were appointed as interim judicial managers and took control of
+28 vessels that were the subject of OS 652. The Xihe JMs were appointed
+judicial managers on 13 November 2020. References to the Xihe JMs in the
+period 13 August 2020 to 13 November 2020 ought to therefore be understood as
+referring to the Xihe JMs acting in their capacity as interim judicial
+managers of Xihe Holdings.
+
+Events after the Xihe JMs were appointed
+
+11 From 31 August 2020 to 3 September 2020, the OTPL JMs sent notices to the
+vessel owners, electing not to adopt the bareboat charters with regard to a
+number of vessels (the “Notices of Non-Adoption”), pursuant to s 227I(3) of
+the Companies Act. When I gave my decision, I stated that it was not made
+clear to me how many of the 76 vessels in SUM 2085 had Notices of Non-Adoption
+issued in relation to them. However, upon further review of the materials, it
+appears that Notices of Non-Adoption were issued in relation to 74 out of the
+76 vessels that were the subject of SUM 2085. The remaining two vessels, the
+“Ocean Princess” and the “Ocean Pride”, were on time charters which were
+terminated on 4 June 2020 and redelivered by OTPL prior to the JM Order (see
+[8] above). Accordingly, Notices of Non-Adoption were not necessary. The
+Notices of Non-Adoption were also sent to the relevant mortgagees.
+
+12 The conduct of the Xihe JMs following the issuance of the Notices of Non-
+Adoption was significant as it represented a volte face compared to the
+position taken by the management of the Xihe Group. The Xihe JMs took the
+following steps. First, between 1 and 2 September 2020 they issued notices to
+the OTPL JMs retracting the Termination Notices, notwithstanding that they had
+been accepted by the OTPL JMs (subject to the conditions noted at [7]–[8]
+above). Second, in response to the Notices of Non-Adoption, between 10 and 15
+September 2020, they issued notices to the OTPL JMs affirming the bareboat
+charters. Finally, they sought leave to discontinue OS 652. Leave was granted
+on 28 September 2020.
+
+13 In response, on 1 October 2020, the OTPL JMs filed HC/SUM 4257/2020 (“SUM
+4257”) to disclaim and terminate 96 bareboat charters as unprofitable
+contracts pursuant to s 332 read with s 227X of the Companies Act. Parties to
+SUM 4257 attended mediation and were able to resolve issues with regards to a
+large number of vessels. Accordingly, SUM 4257 proceeded only with regard to
+57 vessels – 52 of these vessels belonged to the subsidiaries of Xihe
+Holdings, while five belonged to Xihe Capital and its subsidiaries.
+
+14 On 23 November 2020, I heard SUM 4257 and granted leave for the OTPL JMs to
+disclaim the bareboat charters (“the Disclaimer Order”). The Disclaimer Order
+contained consent orders pertaining to how redelivery of the vessels was to be
+effectuated and also stipulated that the vessel-owning subsidiaries and
+mortgagees would bear all costs for crewing, maintenance and upkeep that might
+be reasonably incurred from 10 November 2020 until redelivery. However, the
+Disclaimer Order was without prejudice to the rights of the vessel-owning
+subsidiaries to claim such amounts from OTPL.
+
+The Xihe JMs assert priority claims
+
+15 On 2 December 2020, M/s WongPartnership LLP (“WongP”), solicitors for the
+Xihe JMs, wrote to M/s K&L Gates Straits Law LLC (“Straits Law”), solicitors
+for the OTPL JMs (“the 2 December Letter”). In the letter, the Xihe JMs
+reserved their right to lodge proofs of debt in the judicial management or
+winding up of OTPL for several categories of claim amounting to approximately
+US$156m. These included charterhire and costs for crewing, maintenance,
+upkeep, insurance, surveys and the repair of the vessels. Importantly, the 2
+December Letter stated that (a) the claims would be lodged as priority claims
+that ranked pari passu with the OTPL JMs’ remuneration and expenses, and (b)
+the OTPL JMs should preserve sufficient funds to meet these claims pending
+their adjudication.
+
+16 On 4 December 2020, the OTPL JMs wrote to OTPL’s creditors, including the
+vessel owners, inviting them to submit their proofs of debt by 5.00pm, 18
+December 2020. This was done to determine creditor voting entitlements at the
+first creditors’ meeting that was to be held on 6 January 2021 (“the First
+Creditors’ Meeting”).
+
+17 On 15 December 2020, Straits Law responded to the 2 December Letter by
+e-mail. This e-mail simply noted the contents of the 2 December Letter, and
+stated that the OTPL JMs would carry out the administration of OTPL’s affairs
+and funds as they deemed fit and in accordance with their obligations at law.
+
+18 On 18 December 2020, the Xihe JMs, on behalf of the vessel owners, filed
+proofs of debt. These proofs of debt labelled certain bareboat charter claims
+as priority claims. These were adjudicated for the purpose of determining
+voting entitlement, but there was no admission that the claims would be
+accorded any such priority.
+
+19 On 26 December 2020, WongP wrote to Straits Law and reminded the OTPL JMs
+to set aside sufficient funds to meet the claims. Several days later on 29
+December 2020, Straits Law responded stating that the OTPL JMs did not agree
+that the claims in the proofs of debt amounted to priority claims, and that
+they would make an application to court to determine the issue. Several days
+later at the First Creditors’ Meeting, the OTPL JMs clarified that they would
+not make any payment until the court gave directions on the issue concerning
+the claims.
+
+20 On 10 February 2021 and 1 April 2021, the Xihe JMs emailed the OTPL JMs
+stating that they agreed to pay certain crew wages that OTPL had claimed for
+November and December 2020. However, they also made deductions from these
+payments for certain repair costs they had incurred for several vessels. The
+OTPL JMs did not agree to such deductions on the basis that it was not clear
+what those costs related to.
+
+21 On 20 April 2021, WongP wrote to Straits Law to demand immediate payment by
+OTPL of further repair costs incurred by the Xihe JMs and the vessel owners in
+respect of ten vessels. These costs were estimated to be US$3,115,000 (“the 20
+April Letter”). This claim was made on the basis that OTPL had breached
+bareboat charters by failing to maintain and redeliver the vessels in good
+condition. The letter also stated that the Xihe JMs reserved their right to
+set off their claims for repair costs against amounts claimed by OTPL.
+
+22 Nine days later on 29 April 2021, a representative from the same auditing
+firm as the Xihe JMs e-mailed the OTPL JMs on behalf of the Xihe JMs on OTPL’s
+claims for operational expenses with regard to a vessel that had not yet been
+redelivered. In this e-mail, it was asserted that OTPL’s claim could be set
+off against the amounts it owed to various vessel-owning subsidiaries,
+including the costs of repair referred to in the 20 April Letter.
+
+SUM 2085
+
+23 On 1 May 2021, the OTPL JMs filed SUM 2085 seeking directions related to
+claims that arose out of OTPL’s charter of 76 vessels owned by the vessel
+owners. The claims were under the bareboat charters for the vessels,
+consisting of:
+
+(a) charterhire for the period of use (the “period of use” being the period of
+sub-charter or carriage under a sub-charterparty or contract of carriage
+entered into by OTPL with various parties respectively); and
+
+(b) ancillary liabilities incurred during the period of use (“ancillary
+liabilities” being such sums, other than charterhire, that were payable or to
+be borne by OTPL under bareboat charters).
+
+The OTPL JMs’ position was that such claims were to be treated as ordinary
+unsecured debts ranking pari passu with OTPL’s other unsecured debts, ie, they
+enjoyed no priority. The Xihe JMs opposed the application, maintaining their
+position that such claims enjoyed priority as judicial management expenses.
+
+The judicial management expenses principle
+
+24 A claim under a pre-insolvency contract may be afforded priority in
+judicial management in one of two ways. The judicial managers could “adopt”
+the contract under which the claim arises, or the claim could attract the
+application of the “judicial management expenses principle”: Re Swiber
+Holdings Ltd [2018] 5 SLR 1358 (“Swiber”) at [83], [86]–[87]. It was common
+ground between parties that the latter was central to SUM 2085.
+
+25 The judicial management expenses principle states that “certain debts or
+liabilities may be treated as expenses of [the judicial management] to be paid
+in priority to other unsecured debts”, these expenses being “[post-judicial
+management] liabilities incurred by a [judicial manager] for the purposes of
+[the judicial management]”. Important to SUM 2085, the principle also extends
+to “expenses incurred by [the judicial manager] over the continued use of
+property” [emphasis in original] or “continuing obligations under existing
+contracts such as leases which [the judicial manager] chooses to continue for
+the benefit of the [judicial management]”: Swiber at [87].
+
+26 With regard to the retention and continued use of property, the rationale
+for extending priority to expenses arising out of such use was observed in the
+Court of Appeal case of Chee Kheong Mah Chaly and others v Liquidators of
+Baring Futures (Singapore) Pte Ltd [2003] 2 SLR(R) 571 (“Chaly Chee”) at [52].
+There, Chao Hick Tin JA (as he then was), cited Lindley LJ in In re Oak Pits
+Colliery Company (1882) 21 Ch D 322 at 330, who explained that such expenses
+would be afforded priority as it was an expense contracted for the purpose of
+the winding up of the company. Such rationale would apply equally to judicial
+management: where a judicial manager retains property and continues to use it
+for the purposes of the judicial management, the expenses arising out of such
+use would be judicial management expenses.
+
+27 It was also common ground that the inquiry was not simply whether property
+was retained by the liquidator or judicial manager, but whether it was
+retained for the benefit of the estate. In other words, the inquiry is not
+focused on the fact of retention; rather it is on the purpose of retention: In
+re ABC Coupler & Engineering Co. Ltd. (No. 3) [1970] 1 WLR 702 at 709B. The
+purpose of retention is objectively assessed by the conduct of the
+liquidator/judicial managers: In re Downer Enterprises Ltd [1974] 1 WLR 1460
+at 1466.
+
+28 The Xihe JMs also made the point that the judicial management expenses
+principle would apply even where a company is in interim judicial management.
+This was not contested by the OTPL JMs and rightly so. There is no reason for
+the judicial management expenses principle not to apply where a company is in
+interim judicial management. Questions of whether it would be beneficial to
+retain property are present regardless of whether the company is in judicial
+management or interim judicial management; interim judicial managers are also
+faced with decisions that need to be made for the benefit of the estate: MK
+Airlines Property Ltd v Katz [2014] BCC 103 at [35(a)].
+
+29 Having said that, I would venture to suggest that in assessing whether an
+interim judicial manager has retained the property for the benefit of the
+estate, some degree of latitude ought to be afforded to the interim judicial
+manager given the purpose of his appointment. In this regard, it is pertinent
+to note that unlike a judicial manager, the interim judicial manager does not
+have the capacity to disclaim onerous contracts or issue a notice of non-
+adoption of a pre-insolvency contract under s 332 (read with s 227X) and s
+227I(3) respectively of the Companies Act.
+
+The parties’ positions
+
+30 The OTPL JMs’ general position was that they did not choose to retain the
+vessels in question for the benefit of the estate and intended, indeed wanted,
+to return them. They argued that they took steps to terminate the relevant
+bareboat charters and had sought to redeliver the vessels to the vessel owners
+as soon as possible. In support, they pointed to, amongst other things, their
+indication to the Xihe Group that they wanted to redeliver 119 vessels in
+their fleet at the 18 May 2020 meeting (see [6] above); and their acceptance
+of the Termination Notices (see [7] above).
+
+31 The Xihe JMs argued that although the OTPL JMs had raised the option of
+redelivery, they had made this subject to several conditions. For example, the
+OTPL JMs had asked for full payment of all ROB upon redelivery. Most
+importantly, they had also asked for the finalisation of ship management
+agreements in order to preserve OTPL’s ship management business, secure a
+source of income, and advance OTPL’s restructuring efforts. In other words,
+these steps were beneficial to the judicial management and thus any claim
+arising out of retention and use of the vessels was a judicial management
+expense.
+
+Preliminary issue: The Carve-Out
+
+32 Before considering the application of the judicial management expenses
+principle proper, I shall first deal with the carve-out (“the Carve-Out”)
+proposed by the OTPL JMs in prayer two of SUM 2085. The substance of the
+Carve-Out was that charterhire was to be regarded as a judicial management
+expense only for the specific period of use (as opposed to the period of
+retention for use for the benefit of the estate), and provided that two pre-
+requisites were fulfilled: (a) that the OTPL JMs had received payment for sub-
+charterhire for the specific period of use; and (b) that the payment received
+was sufficient to cover the operating expenses and charterhire of the vessel
+for that period. In other words, charterhire would be subject to the judicial
+management expenses principle only for the specific period of use and if the
+sub-charter hire that was received for that period was in excess of operating
+expenses and charterhire.
+
+33 The basis of the Carve-Out was not supported by principle. Its application
+was essentially predicated on the OTPL JMs making a net profit from the sub-
+charter of the vessels. This is not the basis of the judicial management
+expenses principle which is, as noted earlier, predicated on retention and use
+of assets under pre-insolvency contracts for the benefit of the estate (as
+stated above at [27]). When that happens, the judicial management expenses
+principle applies to liabilities that are payable under the terms of the pre-
+insolvency contract for the entire period the asset is retained for the
+benefit of the estate and not just for the specific period of use. Further,
+the applicability of the principle is not qualified by whether the debtor has
+turned a profit in the specific period of use or indeed the period of
+retention. The Carve-Out was therefore not based on principle and was in any
+case inconsistent with the judicial management expenses principle.
+
+34 The corollary of this was that where the judicial management expenses
+principle did not apply, neither would the Carve-Out. I make this point only
+because the Carve-Out did not distinguish between the period prior to the
+issuance of the Notices of Non-Adoption, and the period after. This was
+relevant as the judicial management expenses principle generally did not apply
+to the period after issuance of the Notices of Non-Adoption (see [51]–[54]
+below). It followed that the Carve-Out had no application in this period
+either.
+
+Application of the judicial management expenses principle
+
+35 I found that the judicial management expenses principle would generally not
+apply to the claims arising out of OTPL’s use of the vessels. This was
+because, generally speaking, the facts demonstrated that the OTPL JMs had been
+compelled to retain the vessels at first due to extraneous circumstances, and
+later due to the actions of the Xihe JMs. However, this general position was
+subject to certain exceptions (see [58] to [75] below).
+
+General position
+
+36 The events leading up to SUM 2085 spanned over a year from the IJM Order on
+12 May 2020. In support of their position, the Xihe JMs split the events
+leading up to SUM 2085 into four phases. However, I found that this
+delineation omitted important context. A better delineation could be drawn
+between the period before the Xihe JMs were appointed on 13 August 2020 (as
+interim judicial managers), and the period on and after.
+
+37 Several events were significant in this regard and set the framework for
+the analysis. First, the proposals at the meeting on 18 May 2020 (see [6]
+above]. Second, issuance by the vessel owners of the Termination Notices
+between 20 May 2020 and 3 June 2020 and the acceptance of the same by the OTPL
+JMs, subject to conditions, in late May 2020 (see [7] above). Third, issuance
+by the OTPL JMs of the Notices of Non-Adoption between 31 August 2020 and 3
+September 2020 (see [11] above). Fourth, the volte face of the Xihe JMs
+following the Notices of Non-Adoption (see [12] above).
+
+The period before the Xihe JMs were appointed as interim judicial managers – 7
+May 2020 to 12 August 2020
+
+38 As noted earlier, the Xihe JMs were appointed interim judicial managers on
+13 August 2020. In the period before their appointment (ie, when the
+management of Xihe Holdings and its vessel-owning subsidiaries were in place),
+the main contention was whether the OTPL JMs’ conduct showed that they wanted
+to redeliver the vessels. The OTPL JMs submitted that they had wanted to
+redeliver the vessels but were hampered by a number of factors. The Xihe JMs
+argued the OTPL JMs’ motivations had “morphed and evolved” such that they had
+retained the vessels to preserve OTPL’s business, ie, for a purpose beneficial
+to the estate.
+
+39 I agreed with the OTPL JMs generally. From May 2020 to August 2020, the
+OTPL JMs and the management of the Xihe Group shared the position that there
+should be physical redelivery of the vessels. This is clear from three key
+events.
+
+40 First, the 18 May 2020 meeting between the OTPL JMs and the management of
+the Xihe Group. As noted above at [6], the OTPL JMs had presented a slideshow
+with the option of physical redelivery of the vessels, as well as an
+“alternative” where OTPL would enter into ship management agreements with the
+vessel-owning subsidiaries.
+
+41 It is important to note that in both situations, the bareboat charters
+would come to an end. In the first, by redelivery of vessels to the vessel
+owners. In the second, by entering into post-insolvency contracts (the ship
+management agreements) in place of the bareboat charters. I note that it is
+not clear whether under the ship management agreements, possession of the
+vessels would remain with OTPL or with the vessel owners with OTPL functioning
+purely as vessel manager. However, that is of no consequence as, even if it
+were the former, the fact remains that OTPL’s control and use of the vessels
+would be under post-insolvency contracts entered into by the interim judicial
+managers and not the bareboat charters. The estate’s and the OTPL JMs’
+obligation (if not disclaimed) to satisfy liabilities under post-insolvency
+contracts is not an issue that concerns the judicial management expenses
+principle. Thus, a proposal to enter into ship management agreements could not
+be the basis for concluding that the OTPL JMs were seeking to retain the
+vessels that were the subject of SUM 2085 for the benefit of the estate,
+thereby attracting the application of the judicial management expenses
+principle to the liabilities thereunder. Accordingly, it was evident that both
+proposals on the table at the meeting on 18 May 2020 did not involve the OTPL
+JMs seeking to retain and use the vessels for the benefit of estate under pre-
+insolvency contracts (ie, the bareboat charters). This is critical.
+
+42 Second, the issuance and acceptance of the Termination Notices (see [7]
+above). The first Termination Notices were issued on 20 May 2020, two days
+after the 18 May 2020 meeting. In response, on 27 May 2020, the OTPL JMs
+communicated to Lim Chee Meng (a director of both Xihe Holdings and Xihe
+Capital) that they were “prepared to agree to re-delivery” subject to a review
+of the charterparties and consent from the mortgagees. They also stated that
+redelivery would be subject to several matters being resolved, including the
+payment of ROB, the finalisation of the terms of the ship management
+agreements, and crewing arrangements to support OTPL’s transition into
+becoming ship managers. On 30 May 2020, the OTPL JMs accepted the Termination
+Notices for vessels that were not under employment or laden with cargo (I will
+touch on the position as regards those vessels at [58] to [75] below). They
+further reiterated the desire for OTPL to transition into a ship management
+role, and that redelivery would be subject to payment of ROB as per the terms
+of the charterparties.
+
+43 Third, commencement of OS 652 on 6 July 2020 by inter alios the vessel
+owners to obtain orders for redelivery of the vessels. The application was
+made because, as noted above at [8], redelivery could not be carried out as
+the mortgagees had not given their consent, and leave of court had not been
+obtained.
+
+44 What is clear from the above is that the common position was that, if
+possible, the vessels should be redelivered and the bareboat charters brought
+to an end. This was consistent with the legal position that was crystallised
+by the OTPL JMs’ acceptance of the Termination Notices. With the acceptance of
+the Termination Notices, OTPL was not in a position to retain possession of
+the vessels, and accordingly had to redeliver them subject to the consent of
+the mortgagees and leave of court being obtained. Pending satisfaction of
+these two conditions, redelivery could not take place. Whether ship management
+agreements were entered into was a separate matter and beside the point.
+
+45 The Xihe JMs argued that these two conditions were not what stalled
+redelivery; instead, the OTPL JMs were withholding redelivery in order to
+obtain ship management agreements and payment of ROB. I did not accept this
+argument. First, payment of ROB was a term stipulated in the charterparties.
+Thus, when the OTPL JMs communicated this condition, they were simply
+reminding the vessel owners of their contractual obligations. Indeed, it was
+the duty of the OTPL JMs to act in the interest of the estate in insisting
+that a liability, ROB, owed by the vessel owners under the bareboat charters
+was paid before redelivery. It could hardly be said that by insisting on
+payment, the OTPL JMs were retaining the vessels for the benefit of the
+estate.
+
+46 Second, the argument premised on the ship management agreements does not
+pass muster for the reasons stated above at [44]. In any event, the evidence
+suggested that the OTPL JMs were merely exploring options and seeking input
+from the vessel-owning subsidiaries. In this regard, it is important to bear
+in mind that from May 2020 to August 2020, the OTPL JMs were acting as interim
+judicial managers (they were only appointed as judicial managers on 7 August
+2020 as noted at [4] above). Their exploratory conduct was in line with their
+then duties as interim judicial managers. Thus, at its highest, the OTPL JMs’
+conduct was equivocal, and hardly qualifies as evincing an intention to retain
+the vessels for the benefit of the estate.
+
+47 The Xihe JMs also pointed to the OTPL JMs’ efforts to preserve OTPL’s
+chartering business by sending out marketing material and fleet lists to
+possible customers. This was evidenced by, amongst other things, the OTPL JMs’
+report to the court dated 7 July 2020. In this report, they stated that they
+had “released communications … to reassure their customers that [OTPL’s] fleet
+would be available to the market” and that they were “actively pursuing
+potential charter opportunities with viable customers” [emphasis added].
+
+48 While I acknowledge that the OTPL JMs did send out marketing material and
+reassurances that their fleet could still operate, this must be seen in
+context. In particular, the OTPL JMs’ report must be properly understood in
+the context of their acceptance of the Termination Notices and the
+commencement of OS 652 by inter alios the vessel owners, both of which
+preceded the report. As I have noted, even after accepting the Termination
+Notices, the OTPL JMs were hopeful of entering into ship management agreements
+with the vessel-owning subsidiaries. Such agreements would serve to preserve
+the fleet but with OTPL acting as managers of the vessels under post-
+insolvency contracts, and not as charterers under pre-insolvency contracts,
+ie, the bareboat charters. As such, it could not be the case that the OTPL JMs
+were representing that they were retaining the vessels under bareboat
+charters. To conclude as such would be to ignore their acceptance of the
+Termination Notices and stated position that they would not resist OS 652,
+subject to satisfaction of certain conditions (see [44] above).
+
+49 Thus, it was clear to me that, from early on, the OTPL JMs had taken the
+position that the vessels should be redelivered to the vessel-owning
+subsidiaries. This position was shared by the management of Xihe Holdings.
+However, redelivery could not be carried out as they required the consent of
+the mortgagees, as well as leave of court. There was also the issue of payment
+for the ROB that needed to be resolved. Nonetheless, the OTPL JMs’
+crystallised legal position was that the vessels were to be redelivered, and
+thus it could not be said that they had retained the vessels for the benefit
+of the estate. Accordingly, the judicial management expenses principle would
+not apply to the claims under the bareboat charters arising from the use of
+the vessels in the period prior to the appointment of the Xihe JMs.
+
+The period after the Xihe JMs were appointed as interim judicial managers –
+from 13 August 2020
+
+50 While the OTPL JMs and the management of the Xihe Group worked towards
+redelivery of the vessels, this changed after Xihe Holdings and several of its
+subsidiaries entered judicial management. This change of position, and the
+consequences that followed, were important considerations in evaluating the
+merits of SUM 2085.
+
+51 Once the Xihe JMs (as interim judicial managers) were placed in control,
+they took no further steps to take redelivery of the vessels. Following their
+appointment as judicial managers, the OTPL JMs issued the Notices of Non-
+Adoption in relation to 74 of the vessels in SUM 2085 (see [11] above). Faced
+with the Notices of Non-Adoption, the Xihe JMs acted in a certain manner.
+
+52 Generally, a clear line had to be drawn between vessels where the Notices
+of Non-Adoption were issued, and vessels where they were not. By issuing the
+Notices of Non-Adoption, the OTPL JMs were using a statutory mechanism to
+disavow pre-insolvency contracts namely, the bareboat charters. They were
+unequivocally stating that: (a) they did not wish to retain possession of the
+vessels for the benefit of the estate; and (b) they wished to redeliver them.
+The judicial management expenses principle could not therefore be said to
+apply once the Notices of Non-Adoption were issued. This was subject to two
+possible exceptions in SUM 2085.
+
+53 While the general position was that the judicial management expenses
+principle did not apply after the Notices of Non-Adoption, I found that it
+could apply in two possible situations. First, if the vessel: (a) had been
+deployed prior to the Notices of Non-Adoption for a purpose that attracted the
+application of the judicial management expenses principle; and (b) such use
+continued after the Notices of Non-Adoption were issued. Second, if the
+vessels had been utilised for the benefit of the estate (as opposed to being
+used to mitigate operational expenses because of the Xihe JMs’ refusal to take
+redelivery), after the Notices of Non-Adoption, notwithstanding their
+issuance.
+
+54 That said, the general position was that once the Notices of Non-Adoption
+were issued, the Xihe JMs were obliged to take redelivery, and as unsecured
+creditors, submit proofs for unpaid dues and other liabilities arising from
+the premature termination of the charterparties. However, the Xihe JMs instead
+took steps that essentially compelled the OTPL JMs to retain possession of the
+vessels (see [12] above): retracting the Termination Notices, affirming the
+bareboat charters, and discontinuing OS 652.
+
+55 This conduct was a volte face to that of the management of the Xihe Group.
+It became clear that there was a strategic reason behind this change of tack.
+As stated earlier, in response to the new position taken by the Xihe JMs, the
+OTPL JMs filed SUM 4257 to disclaim the bareboat charters as onerous contracts
+on the basis that there were unprofitable (see [13] above). The Xihe JMs
+opposed SUM 4257, arguing that allowing the application “would greatly
+prejudice [the vessel-owning subsidiaries]” as they did “not have sufficient
+cash at [that] point to take immediately redelivery of all their vessels”
+[sic], and if they were “forced to take immediate redelivery, [they would] not
+be able to fund the necessary operating expenses for all the vessels”. I
+should point out that a large majority of the vessels that were the subject of
+SUM 2085 were also the subject of SUM 4257.
+
+56 In other words, the Xihe JMs refused to take redelivery from the OTPL JMs
+because they wanted to stall until they themselves were ready to take
+redelivery. By keeping the vessels with OTPL, the operational costs of the
+vessels fell on OTPL and not the estate of the vessel-owning subsidiaries, and
+by extension the estate of Xihe Group. This meant that OTPL was incurring
+significant cashburn on vessels held under unprofitable charterparties which
+it did not want and was unable to return, because the vessel-owning
+subsidiaries were not in a position to take them back by reason of their own
+insolvency. This cashburn was consuming the cashflow of an insolvent estate, a
+clearly unsatisfactory state of affairs from the point of view of OTPL, its
+creditors, and the OTPL JMs. There was an impasse between on the one hand an
+insolvent charterer which did not want the vessels, and an insolvent owner
+who, despite the insolvency of its charterers, declined to take redelivery of
+the vessels.
+
+57 In such circumstances, it could not be said that the OTPL JMs had retained
+vessels for the benefit of the estate. It might very well be the case that,
+after the Xihe JMs were appointed as interim judicial managers and after the
+Notices of Non-Adoption were issued, some of these vessels were used by the
+OTPL JMs to generate operating income to mitigate the significant expenses the
+estate incurred because of the Xihe JMs’ refusal to take redelivery. However,
+this could not be said to be retention of the vessels for the benefit of the
+estate. The OTPL JMs’ hand was forced by the position taken by the Xihe JMs.
+In order to mitigate the significant cashburn that the estate faced by the
+Xihe JMs’ refusal to take redelivery of the vessels, they were left with
+little alternative but to use the vessels to earn income to mitigate the
+estate’s expenses in relation to the vessels. Accordingly, I saw no basis for
+applying the judicial management expenses principle to the charterhire and
+ancillary liabilities for the period of use after the appointment of the Xihe
+JMs and the issuance of the Notices of Non-Adoption.
+
+Exception: the vessels in Annex 1
+
+58 While I found that, in general, the OTPL JMs had not retained the vessels
+for the benefit of the estate, this was subject to several categories of
+vessels that were used for various purposes. These categories were found in
+Annex 1 of an aide-mémoire tendered by the Xihe JMs on 9 September 2021
+(“Annex 1”). It was submitted that “[a]t the very least, the charter-hire for
+[the vessels in Annex 1] should be payable as a priority expense”.
+
+59 Annex 1 was a categorisation of 39 vessels, most of which were the subject
+of SUM 2085. In total, there were six categories based on what the vessels
+were used for. The vessels in the first category of Annex 1 (“the First
+Category”) were not the subject of SUM 2085 as the OTPL JMs had issued notices
+of adoption as regards the vessels in the First Category. Accordingly, as
+noted above at [24], this meant that any claims arising out of their use would
+be accorded priority under the judicial management expenses principle. Thus, I
+only dealt with the remaining categories.
+
+The Second Category
+
+60 The second category in Annex 1 related to vessels that were used by the
+OTPL JMs to store and transport cargo (“the Second Category”). The period of
+use for this category was from as early as May 2020 until early December 2020.
+I assumed that there was no downtime between voyages for the vessels in the
+Second Category as I was told that the vessels were carrying cargo under pre-
+insolvency contracts of carriage and were retained for the limited purpose of
+completing their voyages.
+
+61 The vessels in the Second Category had been used to store and transport
+cargo prior to the Notices of Non-Adoption, and this use continued after their
+issuance. Thus, as I noted above at [53], the judicial management expenses
+principle could apply even after the Notices of Non-Adoption if the use of the
+vessels attracted its application.
+
+62 The OTPL JMs characterised their situation as being unenviable: if they did
+not retain the vessels in the Second Category and complete the voyages, they
+would be forced to dump the cargo that was on board under pre-insolvency
+contracts of carriage. The crux of this submission was that they had no choice
+but to retain the vessels in the Second Category, ie, they had not been
+retained for the benefit of the estate. On this basis, it was submitted that
+the judicial management expenses principle ought not to apply.
+
+63 At first blush, this submission was attractive and appeared to carry some
+force. However, it failed to deal with the real question: who bore the
+responsibility for the cargo carried by the vessels in the Second Category? It
+was clear to me that the responsibility fell on the estate. While the OTPL JMs
+could not dump the cargo and thus had to retain the vessels to complete the
+voyage, this was their burden to bear. Indeed, dumping the cargo would have
+increased the liabilities owed by the estate. Retention of the vessels to
+complete the contract of carriage could therefore be said to be in the
+interest of the estate. Ultimately, the OTPL JMs had to decide the best way
+forward and in deciding to complete the voyage, there was effectively a
+“forced adoption” of the charterparties for that limited purpose.
+
+64 Thus, I held that the judicial management expenses principle applied to the
+expenses for the period of use for the vessels in the Second Category. The
+relevant expenses were the charterhire and ancillary liabilities, pro-rated
+for the period of use. The Xihe JMs also sought repair costs. However, I did
+not include these costs as it was difficult to establish a link between the
+repair costs which ought to be borne by OTPL and the use of the vessels in the
+period of use.
+
+The Third Category
+
+65 The third category in Annex 1 related to vessels that the OTPL JMs used to
+store and transport cargo after applying for leave in interpleader proceedings
+(“the Third Category”). The period of use for this category was from May 2020
+to late September/early October 2020. Similar to the vessels in the Second
+Category, the vessels in the Third Category were used to store and transport
+cargo before the Notices of Non-Adoption were issued, and this use continued
+after their issuance. The question then was whether such use attracted the
+application of the judicial management expenses principle (see [53] above).
+
+66 I held that the use of the vessels in the Third Category did not attract
+the application of the judicial management expenses principle. In this case,
+the OTPL JMs needed to retain the vessels to hold on to their cargo while
+creditors resolved their competing claims in interpleader proceedings. In such
+circumstances, it could not be said that the vessels in the Third Category
+were retained for the benefit of the estate.
+
+The Fourth Category
+
+67 The fourth category related to “[v]essels which were deployed on sub-
+charters by the OTPL JMs” (“the Fourth Category”). These vessels were used at
+various times before and after the Notices of Non-Adoption, however, in some
+cases, such use was not continuous.
+
+68 One vessel, the “Marine Priority” was deployed from May 2020 until October
+2020. Thus, as noted above at [53], the judicial management expenses principle
+would apply to the period of use after the Notice of Non-Adoption if being
+deployed on sub-charter attracted the application of the judicial management
+expenses principle in the first place.
+
+69 Being deployed in sub-charter was clearly for the benefit of the estate,
+ie, it attracted the application of the judicial management expenses
+principle. Accordingly, I found that, for the period of use for the vessels in
+the Fourth Category, the same category of expenses (pro-rated accordingly) set
+out above at [64] were judicial management expenses.
+
+70 However, as noted above, there were five vessels (the “Ocean Quest”, the
+“Ocean Hero”, the “Ocean Falcon”, the “Ocean Premier” and the “Ocean Pitta”)
+which stopped operating for months at a time before resuming operations. For
+these five vessels, the period of use would not include such periods of
+inactivity.
+
+71 These vessels raised a further issue. They were originally used prior to
+the Notices of Non-Adoption. The deployment then ceased, before resuming after
+the Notices of Non-Adoption were issued. In the case of these vessels, whether
+the judicial management expenses principle applied to the period of use after
+the Notices of Non-Adoption were issued would depend on why deployment
+resumed. As noted above at [56], after the Notices of Non-Adoption were
+issued, the Xihe JMs had refused to take redelivery, causing the OTPL JMs to
+incur significant cashburn. If the OTPL JMs had resumed deployment of the five
+vessels to mitigate such cashburn, it could not be said that they had been
+used for the benefit of the estate, and thus the judicial management expenses
+principle would not apply.
+
+The Fifth Category
+
+72 The fifth category in Annex 1 pertained to “[v]essels deployed by [the OTPL
+JMs] for in-house services such as transportation of bunkers, provisions or
+crew from the shore/terminal to other vessels and additional ‘in-port’
+services on an ad-hoc basis to OTPL’s lube customers” (“the Fifth Category”).
+This category consisted of four vessels. Three of these vessels were used
+intermittently from May/June 2020 until August 2020. The remaining vessel, the
+“Ocean Solar”, was used continuously from May 2020 until November 2020;
+accordingly, the judicial management expenses principle would apply to the
+period of use after the Notice of Non-Adoption was issued if the use of the
+“Ocean Solar” would attract its application.
+
+73 I held that the usage of the vessels in the Fifth Category would attract
+the application of the judicial management expenses principle. Accordingly,
+the claims arising out of the vessels in the Fifth Category would be judicial
+management expenses, consisting of the same category of expenses (pro-rated
+accordingly) set out above at [64]. Logically speaking, this had to be
+correct. If the OTPL JMs had redelivered the vessels in the Fifth Category,
+they would have needed to secure other vessels in order to achieve the same
+purpose. In that case, they would have incurred expenses under post-insolvency
+contracts which would then enjoy priority as judicial management expenses.
+
+74 As noted above, three of the vessels in the Fifth Category were not used
+continuously and there were periods of downtime. Notwithstanding, I found that
+the expenses incurred during the periods of downtime ought to be judicial
+management expenses. As noted above at [33], it did not matter that the
+vessels were not gainfully employed for the entire period of retention by the
+OTPL JMs. The fact remained that they were retained for a purpose regarded as
+being beneficial to the estate. Having made the choice to retain the vessels
+for such a purpose, the estate had to bear expenses, even if the vessels were
+being gainfully used for only part of that period.
+
+The Sixth Category
+
+75 The final category in Annex 1 was classified as “Others” (“the Sixth
+Category”). The Sixth Category consisted of only one vessel, but it was
+unclear to what use this sole vessel was put. However, I left parties to use
+the guidance provided on the other categories to determine what the correct
+outcome should be on any vessel in this category.
+
+Further clarifications based on an agreed Scotts Schedule
+
+76 Based on the guidance I had provided, I invited parties to work towards
+agreeing on an order of court that would stipulate the following:
+
+(a) the vessels to which the judicial management expenses principle applied;
+and
+
+(b) with regard to each vessel, the period and category of expense which the
+judicial management expenses principle applied to.
+
+I ordered that if they were unable to agree, they should notify the court of
+the areas of disagreement presented in the form of an agreed Scotts Schedule.
+
+77 Parties wrote in on 8 October 2021 with the agreed Scotts Schedule which
+adopted the same categorisation as in Annex 1 and dealt with specific issues
+in each of the six categories. Parties raised an issue with regard to the
+First Category. However, as noted at [59] above, the vessels in the First
+Category were not the subject of SUM 2085, and thus I did not consider them.
+The parties also did not have any dispute over the Second and Third
+Categories, and thus I did not consider them either.
+
+78 As regards the Fourth Category, the parties raised a new issue in the
+Scotts Schedule. As noted above at [54], I had held that charterhire incurred
+after the Notices of Non-Adoption were not payable as a priority expense. It
+seemed that OTPL had already paid such charterhire prior to SUM 2085. The
+issue thus was whether and how such payments ought to be deducted or otherwise
+taken into account in calculating the amounts further payable by OTPL as a
+priority expense. This issue was not within the scope of SUM 2085; SUM 2085
+was for directions on (a) whether the judicial management expenses principle
+applies to the relevant vessels; and (b) if so, for what periods and for what
+types of expense. I thus did not consider the issue raised by the parties.
+
+79 As regards the Fifth Category, the parties raised an issue as to whether
+any charterhire was payable as a priority expense for the four vessels in this
+category.
+
+80 With regard to the first three vessels in the Fifth Category (the “Marine
+Power”, the “Marine Alliance” and the “Marine Protector”), the OTPL JMs took
+the position that these vessels were used to mitigate their operating expenses
+pending their redelivery following issuance of the Notices of Non-Adoption.
+However, they had earlier conceded that the judicial management expenses
+principle applied to these three vessels – having made the concession, I held
+that they were bound by it.
+
+81 With regard to the fourth vessel in the Fifth Category, the “Ocean Solar”,
+the OTPL JMs took the position that it was used to transport bunker to vessels
+which were pending redelivery following issuance of Notices of Non-Adoption.
+They argued that as these vessels needed bunker, the only alternative was for
+them to sail into port one by one to receive bunker. Using the “Ocean Solar”
+to transport bunker to them was therefore more efficient and economical. As
+such, use of the “Ocean Solar” should not attract the judicial management
+expenses principle.
+
+82 This submission was similar to their submission on the Second Category (see
+[62] above). In the same vein, it did not deal with the real question: whom
+did the responsibility to ensure that the vessels had sufficient bunker fall
+on? If the “Ocean Solar” had not been retained, these vessels would have had
+to sail to port to receive bunker or some other vessel would have to be
+engaged to transport bunker to them. In either case, the costs would have been
+borne by the estate, subject to the possibility of recovering the same from
+the vessel owners on the basis that they ought to have taken redelivery
+sooner. Seen this way, retaining the Ocean Solar to transport bunker would
+attract the judicial management expenses principle.
+
+83 Finally, the Scotts Schedule raised an issue with regard to the Sixth
+Category. This was whether OTPL ought to reimburse the owner of the sole
+vessel in the Sixth Category for “leave pay” as a priority expense. The “leave
+pay” was defined as the vessel’s crew members’ salary in-lieu of leave which
+had accrued prior to the Disclaimer Order. “Leave pay”, as defined, was not an
+issue within the scope of SUM 2085, and thus I declined to deal with it.
+
+Conclusion
+
+84 Thus, I held that the judicial management expenses principle generally did
+not apply to the claims arising out of the vessels that were the subject of
+SUM 2085. However, this was subject to the exceptions at [58] to [75] above,
+as well as the clarifications made with regard to the issues in the Scotts
+Schedule.
+
+85 As for costs, parties both submitted that they were the “successful” party
+on different bases.
+
+(a) The OTPL JMs pointed out that the Xihe JMs’ position was that US$149.33m
+of expenses ought to be treated as judicial management expenses, whilst the
+OTPL JMs were prepared to concede that US$17.37m of expenses were to be paid
+in priority. They then pointed out that, at most, only US$17.41m worth of
+expenses would be treated as priority expenses (applying the guidance I had
+given, and assuming that all the disagreements in the Scotts Schedule were
+resolved in favour of the Xihe JMs). On that basis, they argued that they were
+clearly the more successful party.
+
+(b) The Xihe JMs argued that the OTPL JMs had substantially lost SUM 2085.
+They pointed out that I had found that some of the claims were judicial
+management expenses, and that I had rejected the Carve-Out proposed by the
+OTPL JMs. They also argued that the OTPL JMs had “unnecessarily or
+unreasonably protracted” the proceedings, leading to additional costs being
+incurred. In particular, they pointed out that the OTPL JMs had raised
+irrelevant issues in their affidavits, and had disclosed information to the
+court in a “piece-meal” manner leading to the protraction of the proceedings.
+
+86 The arguments made by the Xihe JMs did not deal with the bigger picture.
+Whilst I did rule against the OTPL JMs on some minor points, it was clear that
+in the scheme of things, the OTPL JMs had been the more successful party. I
+thus ordered costs to be awarded to them.
+
+87 Turning to quantum, the OTPL JMs took the position that they should be
+awarded a sum of S$102,500 for costs, and S$8,500 for disbursements.
+
+88 As to costs, they had come to this figure by calculating the time costs
+incurred for SUM 2085. This was not an appropriate way to calculate costs, and
+I instead agreed with the Xihe JMs’ general approach of having reference to
+Appendix G of the Supreme Court Practice Directions. The relevant tariff for
+complex applications fixed for special hearing with a duration of three hours
+is S$9,000 to S$22,000. This application required two rounds of hearings and
+substantial documents were filed in support. I thus awarded the OTPL JMs costs
+at the highest end of this scale, fixed at S$22,000.
+
+89 As for disbursements, the OTPL JMs calculated their filing and
+commissioning fees to amount to S$7,430.30. In support, they attached a
+detailed breakdown of these disbursements. They further submitted that a
+“reasonable quantum” would be S$8,500, but did not explain how they came to
+this figure. Accordingly, I awarded the original sum of S$7,430.30 as
+disbursements.
+
+Kannan Ramesh  
+Judge of the High Court|  
+---|---  
+  
+N Sreenivasan SC, Muralli Rajaram, Jonathan Lim and Claire Tan (K&L Gates
+Straits Law LLC) for the applicant;
+
+Manoj Sandrasegara, Smitha Menon, Joel Chng, Clayton Chong and Kwong Kai Sheng
+(WongPartnership LLP) for the Judicial Managers of Xihe Holdings;
+
+Alexander Yeo and Yeoh Tze Ning (Allen & Gledhill LLP) for Oversea-Chinese
+Banking Corporation Ltd (on watching brief);
+
+Cumara Kamalacumar (Selvam LLC) for Korea Development Bank, Singapore Branch
+(on watching brief);
+
+Lauren Tang (Virtus Law LLP) for Standard Chartered Bank, Standard Chartered
+Bank (Hong Kong) Limited, Standard Chartered Bank (Singapore) Limited (on
+watching brief);
+
+Ang Kaili and Chan Yi Ching (Virtus Law LLP) for ING Bank N.V., Singapore
+Branch (on watching brief);
+
+Alisa Toh Qian Wen (Allen & Gledhill LLP) for DVB Bank SE Singapore Branch (on
+watching brief);
+
+Marc Malone (Allen & Gledhill LLP) for Credit Agricole Corporate and
+Investment Bank, Singapore Branch (on watching brief);
+
+Jason Leong and Koa Hui Min (Shook Lin & Book LLP) for the Hongkong and
+Shanghai Banking Corporation Limited (on watching brief);
+
+Poh Yee Shing (Shook Lin & Bok LLP) for CIMB Bank Berhad (on watching brief);
+
+Justin Kwek (JWS Asia Law Corporation) for Societe Generale, Singapore Branch
+(on watching brief);
+
+Angela Phoon (Oon & Bazul LLP) for creditors of Ocean Tankers Pte Ltd and Xihe
+Holdings Pte Ltd (on watching brief);
+
+Lin Shih Chien and G Kiran, managing director of Cell Turbo Services Pte Ltd
+(on watching brief).
+
+  
+  
+
+Annex 1: List of subsidiaries of Xihe Holdings
+
+The following list consists of the 40 subsidiaries of Xihe Holdings that are
+relevant to SUM 2085, ie, they are the vessel owners:
+
+(a) An Guang Shipping Pte Ltd (Judicial Managers Appointed);
+
+(b) An He Shipping Pte. Ltd. (In Receivership);
+
+(c) An Hua Shipping Pte. Ltd (In Receivership);
+
+(d) An Kang Shipping Pte. Ltd. (In Receivership);
+
+(e) An Sheng Shipping Pte. Ltd. (In Receivership);
+
+(f) An Xing Shipping Pte. Ltd. (In Receivership);
+
+(g) Da An Shipping (Pte) Ltd (in Members’ Voluntary Liquidation);
+
+(h) Da Guang Tankers (Pte) Ltd (Judicial Managers Appointed);
+
+(i) Da Xin Tankers (Pte) Ltd (Judicial Managers Appointed);
+
+(j) Da Zhong Tankers (Pte) Ltd (Judicial Managers Appointed);
+
+(k) Dafa Shipping (Pte) Ltd (Judicial Managers Appointed);
+
+(l) Dong Fang Shipping & Trading (Pte) Ltd (In Creditors’ Voluntary
+Liquidation);
+
+(m) Dong Jiang Tankers (Pte) Ltd (Judicial Managers Appointed);
+
+(n) Dong Nan Tankers (Pte) Ltd (Judicial Managers Appointed);
+
+(o) Dong Sheng Tankers (Pte) Ltd (Judicial Managers Appointed);
+
+(p) Dong Ya Tankers (Pte) Ltd (Judicial Managers Appointed);
+
+(q) Hua An Shipping Pte. Ltd (In Creditors’ Voluntary Liquidation);
+
+(r) Hua Guang Shipping Pte. Ltd (In Creditors’ Voluntary Liquidation);
+
+(s) Hua Kang Shipping Pte Ltd (In Creditors’ Voluntary Liquidation);
+
+(t) Hua Sheng Shipping Pte Ltd (Judicial Managers Appointed);
+
+(u) Hua Xin Shipping Pte. Ltd (In Creditors’ Voluntary Liquidation);
+
+(v) Hua Zhong Shipping Pte Ltd (Judicial Managers Appointed);
+
+(w) Nan Chiau Maritime (Pte) Ltd (Judicial Managers Appointed);
+
+(x) Nan Chuan Maritime (Pte) Ltd (Judicial Managers Appointed);
+
+(y) Nan Hai Maritime (Pte) Ltd (In Creditors’ Voluntary Liquidation);
+
+(z) Nan King Maritime (Pte) Ltd (Judicial Managers Appointed);
+
+(aa) Nan Sia Maritime (Pte) Ltd (In Creditors’ Voluntary Liquidation);
+
+(bb) Nan Ya Maritime (Pte) Ltd (In Members’ Voluntary Liquidation);
+
+(cc) Nan Yi Maritime (Pte.) Ltd;
+
+(dd) Nan Zhou Maritime (Pte) Ltd (Judicial Managers Appointed);
+
+(ee) Xin An Shipping (Pte) Ltd (Judicial Managers Appointed);
+
+(ff) Xin Bo Shipping (Pte) Ltd (Judicial Managers Appointed);
+
+(gg) Xin Chun Shipping (Pte) Ltd (Judicial Managers Appointed);
+
+(hh) Xin Dun Shipping (Pte) Ltd (Judicial Managers Appointed);
+
+(ii) Xin Guang Shipping (Pte) Ltd (In Receivership);
+
+(jj) Xin Hui Shipping (Pte) Ltd (Judicial Managers Appointed);
+
+(kk) Xin Kang Shipping (Pte) Ltd (Judicial Managers Appointed);
+
+(ll) Xin Sheng Shipping (Pte) Ltd (Judicial Managers Appointed);
+
+(mm) Xin Ya Shipping & Trading (Pte) Ltd (In Creditors’ Voluntary
+Liquidation); and
+
+(nn) Xin Ying Shipping (Pte) Ltd (Judicial Managers Appointed).
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 14 Mar 2022 (10:18 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

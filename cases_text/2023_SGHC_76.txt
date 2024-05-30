@@ -1,0 +1,2615 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 76
+
+Suit No 419 of 2020
+
+Between
+
+(1)| 3N Investments Group Ltd  
+---|---  
+(2)| Chia Kuan Wee  
+  
+… Plaintiffs
+
+And
+
+(1)| Lim Boon Chye Victor  
+---|---  
+(2)(3)| Murugesan SrinivasanRotating Offshore Solutions Pte Ltd  
+  
+… Defendants
+
+judgment
+
+[Contract — Breach]
+
+[Damages — Compensation and damages]
+
+[Damages — Remoteness]
+
+[Damages — Mitigation — Contract]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+3N Investments Group Ltd and another
+
+  
+v
+
+  
+
+Lim Boon Chye Victor and others
+
+[2023] SGHC 76
+
+General Division of the High Court — Suit No 419 of 2020  
+S Mohan J  
+1–4, 8–10 March, 4 November 2022
+
+31 March 2023 Judgment reserved.
+
+S Mohan J:
+
+Introduction
+
+1 In this action, the plaintiffs claim damages for breach of contract arising
+out of the defendants’ failure to effect a transfer of shares by the
+contractually stipulated deadline. The defendants deny that they have breached
+the contract and also mount several arguments as to why the plaintiffs’
+damages should in any case be limited.
+
+Facts
+
+Background to the dispute
+
+2 The present dispute arises out of a falling-out between three business
+partners-turned-adversaries – Mr Chia Kuan Wee (“Mr Chia”) on one side, and on
+the other Mr Lim Boon Chye Victor (“Mr Lim”) and Mr Murugesan Srinivasan (“Mr
+Srinivasan”). Mr Chia is the second plaintiff in this action, while Mr Lim and
+Mr Srinivasan are the first and second defendants respectively. All three men
+were directors in the third defendant, Rotating Offshore Solutions Pte Ltd
+(“ROS”), a Singapore-incorporated company carrying on the business of
+manufacturing and repairing oil rigs and ocean-going vessels. Individually,
+they also indirectly held (and continue to hold, in the cases of Mr Lim and Mr
+Srinivasan) shares in ROS through companies incorporated in the British Virgin
+Islands (“BVI”). Mr Chia’s company, 3N Investments Group Limited (“3N”) (of
+which Mr Chia is the sole shareholder and director) is the first plaintiff.
+
+3 Through their respective BVI companies, Mr Chia, Mr Lim and Mr Srinivasan
+were equal shareholders in ROS. From 2015 until November 2019, there was a
+fourth shareholder in ROS – Ezion Holdings Ltd (“Ezion”), a Singapore-
+incorporated company listed on the Singapore Stock Exchange. 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Evidence-in-Chief (“AEIC”) of Chia Kuan Wee dated 5 January 2022
+at paras 17–19 (1BA at pp 9, 10).
+
+Ezion’s Chief Risk Officer and Chief Strategy Officer, Mr Cheah Boon Pin (“Mr
+Cheah”), was a non-executive director of ROS from 1 March 2019 to 30 July
+2019. 2
+
+##### Foot Note 2
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at paras 18, 20(b) (1BA at pp
+10–11).
+
+Mr Cheah attempted to play a mediating role between the parties when the
+disputes arose, albeit unsuccessfully as events (which I shall detail below)
+unfolded.
+
+4 The last key figure for present purposes is Mr Michael Wong, the Financial
+Controller of ROS. 3
+
+##### Foot Note 3
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 20(a) (1BA at p 10).
+
+Owing to the breakdown in relations between Mr Chia on the one hand and Mr Lim
+and Mr Srinivasan on the other, Mr Wong became the primary point of contact
+representing the latter two during the relevant period.
+
+5 In or around September 2019, tensions arose between the three directors in
+relation to the management of ROS. They attempted to resolve their dispute by
+entering into a settlement agreement on 12 September 2019 (the “12 September
+Agreement”). This agreement generally delineated the terms of Mr Chia’s exit
+from ROS as a director, employee and shareholder. 4
+
+##### Foot Note 4
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at paras 31–32 (1BA at pp 15–16);
+AEIC of Wong Kong Chen dated 5 January 2022 at paras 46–47 (10BA at pp
+5232–5233).
+
+This attempt ultimately proved to be unsuccessful, and served only to breed
+further disputes which culminated in the plaintiffs commencing HC/S 1050/2019
+against the defendants for minority oppression (the “Minority Oppression
+Suit”). 5
+
+##### Foot Note 5
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 40 (1BA at p 19); AEIC of
+Wong Kong Chen dated 5 January 2022 at para 56 (10BA at p 5235).
+
+This caused a fracture in the relationship between the directors to the point
+where Mr Chia was no longer on speaking terms with Mr Lim and Mr Srinivasan. 6
+
+##### Foot Note 6
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 41 (1BA at pp 19–20).
+
+The Sale and Purchase Agreements
+
+6 After the commencement of the Minority Oppression Suit, the parties embarked
+on a second attempt to resolve their dispute through negotiations, which
+culminated in a number of agreements concluded on 15 November 2019 (the “15
+November Agreements”). These agreements were (a) a Deed of Settlement
+providing for full and final settlement of all the parties’ disputes,
+including the Minority Oppression Suit; (b) a Deed of Cessation of Employment;
+(c) two Sale and Purchase Agreements (the “SPAs”); and (d) a Share Transfer
+Agreement between ROS and Mr Chia. 7
+
+##### Foot Note 7
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 52 (1BA at pp 23–24).
+
+Pursuant to these agreements, Mr Chia would resign his directorship and
+employment in ROS and sell his shares in ROS (the “ROS Shares”) (held through
+the first plaintiff) to Mr Lim and Mr Srinivasan.
+
+7 It is apt to note at this point that the 15 November Agreements were
+expressed to supersede all other agreements including, specifically, the 12
+September Agreement. 8
+
+##### Foot Note 8
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022, Tab CKW-12 at pp 349, 406, 420
+(1BA at pp 372, 409, 423).
+
+Thus, this court should not have regard to the 12 September Agreement as
+forming any part of the relevant context within which to interpret any of the
+15 November Agreements.
+
+8 The present dispute centres around the two SPAs – the first provided for 3N
+to sell half its ROS Shares to Mr Lim (the “D1 SPA”), and the second provided
+for 3N to sell the other half of its ROS Shares to Mr Srinivasan (the “D2
+SPA”). All three directors, as well as 3N and ROS, were parties to both the D1
+SPA and D2 SPA. The terms of both SPAs were materially identical and each
+provided for 3N to transfer a specified lot of ROS Shares to the respective
+purchaser (ie, Mr Lim and Mr Srinivasan respectively). As consideration, each
+purchaser was to pay:
+
+(a) S$1,012,500 in cash payable in several tranches (pursuant to cll 3, 4.4(a)
+and 4.4(c) of each SPA); and
+
+(b) a further S$1,524,072 to be satisfied by the transfer of 5,000,000 shares
+in Uzma Berhad, a company listed on the Malaysian stock exchange (the “Uzma
+Shares”). The Uzma Shares were to be transferred from the respective
+purchaser’s securities account to Mr Chia’s securities account (pursuant to cl
+4.4(b) of each SPA). 9
+
+##### Foot Note 9
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at paras 59–60 (1BA at pp 26–27);
+AEIC of Wong Kong Chen dated 5 January 2022 at para 71 (10BA at pp 5241–5243).
+
+Thus, pursuant to the D1 SPA and D2 SPA, a total of 10,000,000 Uzma Shares
+were to be transferred to Mr Chia.
+
+9 As cl 4.4(b) represents the core of the parties’ disputes in this case, it
+is apposite that I set it out in full here: 10
+
+##### Foot Note 10
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022, Tab 12, at pp 401, 415 (1BA at pp
+404, 418).
+
+(b) an amount of S$1,524,072, to be fully satisfied by the Purchaser
+transferring the Uzma Shares to CKW [ie, Mr Chia]. The Parties shall on the
+Completion Date, or as soon as practicable thereafter, take all necessary
+steps and do all such acts and things to effect the transfer of the Uzma
+Shares from the securities account of the Purchaser to the securities account
+of CKW [ie, Mr Chia], by way of an off-market transfer or by such other
+methods as reasonably practicable, time being of the essence, by 31 December
+2019. The Purchaser will be liable for the share transfer fee of the UZMA
+shares. ROS hereby agrees and undertakes to do all that is necessary to
+transfer the Uzma Shares to the Purchaser to enable the Purchaser to comply
+with his obligations herein; …
+
+[emphasis added]
+
+10 Furthermore, under cl 7 of each SPA, Mr Lim and Mr Srinivasan undertook
+mutually to procure each other’s performance of the other’s obligations. ROS
+also undertook to procure the performance of both SPAs by Mr Lim and Mr
+Srinivasan respectively. Clause 7 of the D1 SPA is reproduced here; the
+wording of the D2 SPA is identical except that references to “Victor” (the
+first defendant) are to be substituted with “Srini” (the second defendant),
+and references to “Srini” are to be similarly substituted with “Victor”: 11
+
+##### Foot Note 11
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022, Tab 12, at p 418 (1BA at p 421).
+
+7. VICTOR AND ROS TO WARRANT FULL AND DUE PERFORMANCE OF THIS AGREEMENT
+
+Subject to the Vendor performing all of its obligations under Clause 4.3 of
+this Agreement, Victor and ROS each hereby agrees, warrants, covenants and
+undertakes, jointly and severally, to ensure and procure Srini’s due and
+complete performance of Srini’s obligations under this Agreement and to fully
+indemnify and hold the CKW Parties harmless from and against any claims,
+damages, deficiencies, losses, costs, liabilities and expenses (including
+legal fees and disbursements on a full indemnity basis) (“Losses”) directly or
+indirectly caused to the CKW Parties resulting directly or indirectly from or
+arising out of the failure by each of them to ensure and/or procure the same.
+For the avoidance of doubt, the obligation and/or liability under this clause
+herein is joint and several. [emphasis in original omitted]
+
+11 As far as the performance of contractual obligations is concerned, it is
+undisputed that Mr Chia fulfilled his obligations by resigning his employment
+and directorship in ROS on 15 November 2019, and transferring his ROS shares
+held through 3N to Mr Lim and Mr Srinivasan on 18 November 2019. 12
+
+##### Foot Note 12
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 68 (1BA at pp 30–31).
+
+It is also not in dispute that the cash component of the consideration under
+both SPAs was furnished on time by Mr Lim and Mr Srinivasan. 13
+
+##### Foot Note 13
+
+×
+
+Plaintiffs’ Closing Submissions (“PCS”) at para 18.
+
+What remained was for the Uzma Shares to be transferred to Mr Chia by 31
+December 2019 – it was this step which proved to be the stumbling block to
+closure, both for the deal and for the parties, and which eventually led to
+the commencement of this action.
+
+The delayed share transfer
+
+12 Some background context to the share transfer process is necessary for a
+better understanding of the factual topography of this case. Shares in Uzma
+are listed on the Malaysian stock exchange, known as Bursa Malaysia Securities
+Berhad (“Bursa”), and are typically transferred within Bursa’s automated and
+computerised securities trading system. 14
+
+##### Foot Note 14
+
+×
+
+AEIC of Adrian Chee dated 5 January 2022, Tab A at p 13, para 15 (12BA at p
+6677).
+
+However, the case at hand involved a transaction exclusively between the
+parties (as opposed to one with the market at large) which had to be effected
+through other methods.
+
+13 There are several such other methods, depending on whether the transfer is
+pursuant to a trade by private treaty. If it is, then the transaction is done
+on the exchange by way of a direct business transaction (“DBT”). On the other
+hand, transfers not pursuant to a trade by private treaty are effected off-
+market, through the central depository (ie, without the involvement of the
+exchange), by Bursa Malaysia Depository Sdn Bhd (“Bursa Depository”), and may
+only be done pursuant to certain approved reasons. 15
+
+##### Foot Note 15
+
+×
+
+AEIC of Adrian Chee dated 5 January 2022, Tab A at pp 12–13, paras 8, 16 (12BA
+at pp 6676–6677).
+
+14 To carry out the share transfer, the defendants engaged Maybank Investment
+Bank Berhad (“Maybank IB”) to advise and assist them. 16
+
+##### Foot Note 16
+
+×
+
+Defendants’ Closing Submissions dated 3 October 2022 (“DCS”) at para 11(e);
+AEIC of Wong Kong Chen dated 5 January 2022 at para 91 (10BA at pp 5249–5250).
+
+Maybank IB proposed several methods: (a) a B5 transfer (B5 being a reference
+to one of the approved reasons for a transaction effected through the central
+depository, which would be subject to Bursa Depository’s approval); (b) a
+direct business transaction (“DBT”) transfer without financial consideration
+(which would be subject to Bursa’s approval); and (c) a normal DBT transfer
+with financial consideration. 17
+
+##### Foot Note 17
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022, Tab 20 at p 359 (10BA at p 5581).
+
+15 The parties originally intended to use the option of a DBT transfer without
+financial consideration, to be executed by ROS’ securities broker, Maybank Kim
+Eng. 18
+
+##### Foot Note 18
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at paras 94, 96 (10BA at pp
+5250–5251).
+
+However, Maybank Kim Eng declined to assist with the transaction because ROS
+was involved in ongoing litigation unrelated to the present dispute. 19
+
+##### Foot Note 19
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at para 104 (10BA at p 5252).
+
+16 The defendants then decided to attempt a B5 transfer. 20
+
+##### Foot Note 20
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022, Tab 20 at p 357 (10BA at p 5579).
+
+To effect a B5 transfer, an application form must be submitted to the Bursa
+Depository, and the reason for the transfer must fall within a prescribed list
+of approved reasons (which I elaborate on below). 21
+
+##### Foot Note 21
+
+×
+
+AEIC of Adrian Koh dated 5 January 2022, Tab AK-1 at p 10, para 3.1(b) (7BA at
+p 3858).
+
+Due to several delays which the parties now blame each other for, the B5
+transfer application was only submitted on 30 December 2019 (ie, one day
+before the contractual deadline). This application was rejected by Bursa
+Depository on the same day, on the ground that the reason provided for in the
+application did not fall within the approved reasons for a B5 transfer. 22
+
+##### Foot Note 22
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at paras 102–103 (1BA at pp 45–46).
+
+17 In the wake of the failed B5 transfer, the parties were now beyond the
+contractually stipulated deadline of 31 Dec 2019, with the Uzma Shares still
+in ROS’ hands. The defendants next attempted a DBT transfer without financial
+consideration, this time to be executed by Maybank IB. 23
+
+##### Foot Note 23
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at paras 145–153 (10BA at pp
+5261–5264).
+
+This process was again delayed for several months due to many disagreements
+between the parties over various matters, as well as the imposition of
+Movement Control Orders (“MCOs”) by the Malaysian Government to prevent the
+spread of COVID-19 in Malaysia, starting in March 2020. The Uzma Shares were
+finally transferred to Mr Chia’s share trading account on 29 July 2020 (ie,
+close to seven months late), 24
+
+##### Foot Note 24
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 194 (1BA at p 91).
+
+by which time their market value had diminished significantly. 25
+
+##### Foot Note 25
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at paras 196–197 (1BA at p 91–92).
+
+The parties’ cases
+
+18 The plaintiffs contend that the defendants breached their absolute
+obligation under cl 4.4(b) of the SPAs to transfer the Uzma Shares to Mr Chia
+by 31 December 2019. 26
+
+##### Foot Note 26
+
+×
+
+PCS at paras 52–53.
+
+They argue that even on the defendants’ case that the obligation under cl
+4.4(b) was only one of reasonable endeavours, the defendants nonetheless
+failed to exercise reasonable endeavours on account of their acts and
+omissions leading to the delay in the share transfer. 27
+
+##### Foot Note 27
+
+×
+
+Plaintiffs’ Reply Closing Submissions (“PRCS”) at para 11.
+
+19 The plaintiffs seek damages assessed with reference to the difference
+between the market value of the Uzma Shares on the original contractual
+deadline of 31 December 2019 (when the share price was RM0.97), and the actual
+transfer date of 29 July 2020 (when the share price was RM0.58). This amounts
+to a difference of S$1,295,840. 28
+
+##### Foot Note 28
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 198 (1BA at p 92).
+
+Alternatively, they propose to substitute the value ascribed to the Uzma
+Shares in the SPAs in place of the market value on 31 December 2019 – by this
+measure, the damages would amount to S$1,167,204. 29
+
+##### Foot Note 29
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 200 (1BA at p 93).
+
+20 The defendants deny that they have breached cl 4.4(b) (and cl 7) of the
+SPAs. They contend that their obligation was only to exercise reasonable
+endeavours to effect the transfer of the Uzma Shares by 31 December 2019, and
+that they had in fact done everything reasonable and necessary, and in good
+faith, to achieve that outcome. 30
+
+##### Foot Note 30
+
+×
+
+DCS at para 11(a).
+
+Conversely, they say it is the plaintiffs who obstructed the process of
+effecting the transfer. 31
+
+##### Foot Note 31
+
+×
+
+DCS at para 11(b).
+
+The defendants further contend that even if they were in breach of the SPAs,
+any such breaches were waived by the plaintiffs when they granted the
+defendants multiple extensions of time. 32
+
+##### Foot Note 32
+
+×
+
+DCS at para 11(i).
+
+21 In the alternative, the defendants argue that the plaintiffs are not
+entitled to damages for the diminution in value of the Uzma Shares. The
+defendants contend that the plaintiffs had in effect obtained specific
+performance of the share transfer, and should not, through an award of
+damages, be placed in a better position than they would have been had the
+shares been transferred by the original deadline of 31 December 2019. 33
+
+##### Foot Note 33
+
+×
+
+DCS at paras 10(c)(i), 16(c), 16(d).
+
+They make further arguments to the effect that (a) there was no causal link
+between their breaches and the plaintiffs’ alleged loss; (b) the plaintiffs’
+alleged loss was too remote; and (c) the plaintiffs did not take reasonable
+steps to mitigate their alleged loss. 34
+
+##### Foot Note 34
+
+×
+
+DCS at paras 10(c)(ii), 10(c)(iii), 16(g), 16(h).
+
+Issues to be determined
+
+22 The following issues arise for my determination:
+
+(a) whether the defendants were in breach of the SPAs in failing to transfer
+or procure the transfer of the Uzma Shares by the contractually stipulated
+deadline; and
+
+(b) if the defendants were in breach of the SPAs:
+
+(i) whether the plaintiffs are entitled to claim damages measured by the
+diminution in the value of the Uzma Shares;
+
+(ii) whether the plaintiffs’ loss was caused by the defendants’ breach;
+
+(iii) whether the plaintiffs’ loss was too remote; and
+
+(iv) whether the plaintiffs took reasonable steps to mitigate their loss.
+
+Issue 1: Were the defendants in breach of the SPAs?
+
+Preliminary issue: the structure of the transaction
+
+23 Before discussing the issue of breach proper, I first address the
+defendant’s argument that the allegedly complicated structure of the sale
+transaction contributed to the delay. The defendants argue that they initially
+proposed a simple structure of a share buyback in consideration for a transfer
+of the Uzma Shares to 3N, 35
+
+##### Foot Note 35
+
+×
+
+DCS at para 21; Defence (Amendment No. 3) at para 15A.
+
+but that Mr Chia, for “personal tax planning reasons”, insisted that the sale
+be structured such that the shares would be transferred from ROS to himself
+for no consideration. 36
+
+##### Foot Note 36
+
+×
+
+DCS at paras 22, 24–32.
+
+They argue that this allegedly complex structure was, in effect, the original
+sin which led to the complications and delays in the transfer of the Uzma
+Shares. 37
+
+##### Foot Note 37
+
+×
+
+DCS at paras 37–39.
+
+24 On balance, I do not accept the defendants’ arguments. Firstly, I do not
+find the defendants’ version of events to be supported by the contemporaneous
+evidence. The defendants rely on an email sent by Mr Cheah Boon Pin to Mr Chia
+on 20 December 2019 to corroborate their case: 38
+
+##### Foot Note 38
+
+×
+
+DCS at para 30; AEIC of Wong Kong Chen dated 5 January 2022, Tab 8 at p 138
+(10BA at p 5360).
+
+As mentioned in my previous email, we ended up with this structure was due to
+the simple agreement that all parties signed on 9 Sept. I attached the
+agreement again for your easy reference. I had proposed to transfer the share
+directly to you from ROS as employment settlement but you rejected due to
+personal tax issue. [emphasis added]
+
+However, there are several difficulties with this email. For one, the email is
+dated 20 December 2019, well after the 15 November Agreements were signed. At
+trial, Mr Wong was also not able to point to any other emails to corroborate
+this. 39
+
+##### Foot Note 39
+
+×
+
+Certified Transcript (3 Mar 2022) at p 80, lines 1–6.
+
+Although I do not place much weight on this, I note also that Mr Cheah was
+never called by the defendants as a witness at the trial, and consequently the
+veracity (and meaning) of his assertions in this email could not be tested.
+Moreover, the email itself does not make much sense because it refers to a
+proposed transfer from ROS “directly to you” (ie, to Mr Chia directly). This
+seems to be at odds with the defendants’ alleged original proposal, which was
+for ROS to transfer the Uzma Shares to 3N. In fact, the email appears more
+consistent with the plaintiffs’ case that the structure eventually agreed upon
+was the defendants’ creation.
+
+25 The rest of the evidence also suggests that it was the defendants who had
+proposed the eventual agreed structure. This is evident from the email
+correspondence between Mr Wong, Mr Chia and Mr Cheah between 2 and 4 November
+2019. Mr Wong initially sent an email to Mr Chia (copying Mr Cheah as well) on
+2 November 2019 containing proposed terms of settlement and a series of draft
+documents. 40
+
+##### Foot Note 40
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022, Tab CKW-10 at pp 193–194 (1BA at
+pp 196–197).
+
+Two days later, on 4 November 2019, Mr Wong sent another email containing
+agreements for a revised transaction structure, 41
+
+##### Foot Note 41
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022, Tab CKW-11 at p 311 (1BA at p
+314).
+
+and this structure formed the basis for the 15 November Agreements. 42
+
+##### Foot Note 42
+
+×
+
+Certified Transcript (3 Mar 2022) at p 104, lines 13–19.
+
+There was no evidence adduced by the defendants of any other emails in this
+period that would shed light on the reason for this revision. In his
+testimony, Mr Wong sought to explain away this gap, on the ground that the
+three directors’ relationship was fractured to the extent that communications
+about the structure had to be done through phone calls with himself and
+employees of Ezion. 43
+
+##### Foot Note 43
+
+×
+
+Certified Transcript (3 Mar 2022) at p 111, line 10 – p 112, line 4.
+
+I do not find this to be a sufficient explanation. If relationships were
+indeed so broken and fractured that parties were no longer on talking terms,
+then one would expect, to the contrary, that they would want to put their
+communications down in writing for the record, especially given the fact that
+the parties were at this point in active litigation against each other in the
+Minority Oppression Suit.
+
+26 In this regard, Mr Chia has also offered a separate explanation for why the
+Uzma Shares should have been transferred to him and not 3N, which is that 3N
+was a company incorporated merely to hold Mr Chia’s ROS Shares, and it bears
+emphasis here that ROS was itself a privately held company. Further, 3N did
+not have a bank account or a securities trading account. 44
+
+##### Foot Note 44
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 62 (1BA at p 28).
+
+I find this to be a plausible explanation for the structure eventually agreed
+upon.
+
+27 Therefore, I find that the evidence does not support the defendants’ case
+that the structure eventually agreed was one insisted upon by the plaintiffs.
+The evidence in fact suggests that it was the defendants themselves who
+proposed this structure.
+
+28 Secondly, putting aside the question of who proposed the eventual
+structure, I am not persuaded by the defendants’ case that this structure was
+significantly more complicated than what they had initially proposed. I note
+first that the defendants’ pleadings on this issue appear to be internally
+contradictory and somewhat confusing. In para 15A of their Defence, the
+defendants referred to their original proposed structure as one under which
+the Uzma Shares were to be transferred from ROS to 3N. 45
+
+##### Foot Note 45
+
+×
+
+Defence (Amendment No. 3) at para 15A.
+
+However, this “straightforward” original structure was subsequently described
+(at para 31 of their Defence) as having been a direct transfer from ROS to Mr
+Chia (not 3N) as a settlement under his Employment Agreement 46
+
+##### Foot Note 46
+
+×
+
+Defence (Amendment No. 3) at para 31.
+
+– this appears to be what Mr Cheah was referring to in his email as set out
+above at [24], but, more importantly, it is an entirely different structure.
+At para 33 of their Defence, the defendants then claimed that Mr Chia
+unilaterally demanded an allegedly complicated structure involving a direct
+transfer of the Uzma Shares from ROS to himself without financial
+consideration. 47
+
+##### Foot Note 47
+
+×
+
+Defence (Amendment No. 3) at para 33.
+
+This again is contradictory, because the “straightforward” structure the
+defendants had earlier described (at para 31 of their Defence) also involved
+this same direct transfer without financial consideration. Thus, on their
+pleadings alone, it appears to me that the defendants have been playing
+somewhat fast and loose with what they consider complicated, picking and
+choosing the parts they wish to rely on to make up their case on this
+allegedly complicated structure.
+
+29 Furthermore, in my view, the available evidence does not support the
+defendants’ case that this element of a share transfer without financial
+consideration rendered the transaction significantly more complicated than
+their alleged original proposed structure. Bursa clearly had experience in
+dealing with such transactions: the presence of established application routes
+such as the B5 transfer and DBT transfer speaks to this, as do the parties’
+Malaysian law experts’ testimonies of their own individual experience in
+dealing with such transactions in their respective practices. 48
+
+##### Foot Note 48
+
+×
+
+Certified Transcript (10 March 2022) at p 9, lines 3–22.
+
+Neither expert opined that these would have been considered complicated
+transactions under Malaysian law or practice. Although the defendants’ expert,
+Mr Adrian Chee, took the view that there was uncertainty as to whether Bursa
+as the regulator would approve an application for a particular transaction, 49
+
+##### Foot Note 49
+
+×
+
+AEIC of Adrian Chee dated 5 January 2022, Tab A at p 15, para 23 (12BA at p
+6679).
+
+this uncertainty in outcome does not of itself mean that the transaction was
+complicated.
+
+30 Ultimately, however, this argument is, in my view, a red herring and a
+distraction from the real issue at hand – viz, did the defendants breach the
+SPAs? Even if I accept that the eventual agreed structure of the transaction
+was something insisted upon by the plaintiffs, and that it was unduly
+complicated, that does not change the fact that the defendants had voluntarily
+agreed to this structure, with their eyes wide open. It affords no defence at
+all for the defendants, in the wake of their failure to transfer the shares by
+31 December 2019, to point fingers at the plaintiffs and in effect complain
+that they should never have agreed to the structure in the SPAs in the first
+place. Unfortunately, that ship has sailed for the defendants.
+
+31 Having disposed of the defendants’ arguments on this ultimately
+inconsequential issue, I move on to address the core questions relating to
+breach.
+
+The defendants had an absolute obligation to transfer the Uzma Shares by 31
+Dec 2019
+
+32 The first question to be answered is the nature of the defendants’
+obligations under cl 4.4(b) and cl 7 of the SPAs. The defendants submit that
+the SPAs did not impose on them an absolute duty to effect the transfer of the
+Uzma Shares by 31 December 2019. Instead, they say that their duty was one of
+reasonable endeavours: to take all reasonable steps in good faith to procure
+the transfer. 50
+
+##### Foot Note 50
+
+×
+
+DCS at paras 40–48.
+
+They argue that, in the circumstances, they have discharged this duty.
+
+33 Before I deal with the merits of the defendants’ contention, there is
+firstly a procedural hurdle to be addressed, which is that the defendants’
+case on the requirement of cl 4.4(b) was not properly pleaded. Parties must
+set out in their pleadings the relevant facts, or allegations of fact, and the
+applicable points of law in support of their respective claims, counterclaims,
+defences and replies: V Nithia (co-administratrix of the estate of Ponnusamy
+Sivapakiam, deceased) v Buthmanaban s/o Vaithilingam and another [2015] 5 SLR
+1422 (“V Nithia”) at [34]. Having set out its case in the pleadings, a party
+is generally bound by those pleadings: V Nithia at [38]. If a party seeks to
+change its case, then the pleadings must accordingly be amended to give fair
+notice to the other parties in the litigation.
+
+34 In my judgment, the defendants here have not abided by these rules of
+engagement. In their Defence, the defendants’ pleaded case was only that they
+had taken “all necessary steps to discharge their obligations” pursuant to cl
+4.4(b). 51
+
+##### Foot Note 51
+
+×
+
+Defence (Amendment No. 3) at paras 22(e), 25, 26(c).
+
+No reference was made in the Defence to the defendants having done “everything
+reasonable and necessary, in good faith”, or that cl 4.4(b) only required that
+of them. Nor could such a case be implied from the pleadings, given that that
+was not the language of the clause. 52
+
+##### Foot Note 52
+
+×
+
+PRCS at para 8.
+
+If the defendants seek to rely on this interpretation of cl 4.4(b) and argue
+that they were only required to undertake reasonable endeavours to transfer
+the Uzma Shares by 31 December 2019, then they should have made this case
+clearly and unambiguously in their pleadings.
+
+35 In any case, I find the defendants’ interpretation of cl 4.4(b) as
+encompassing a duty of reasonable endeavours to be without merit. In support
+of their submission, the defendants rely on Lim Sze Eng v Lin Choo Mee [2019]
+1 SLR 414 (“Lim Sze Eng”), which they say stands for the proposition that an
+obligation to “do all that may be necessary” in effect imposes only a duty to
+take all reasonable endeavours or best endeavours to discharge one’s
+contractual obligations. They further rely on Travista Development Pte Ltd v
+Tan Kim Swee Augustine [2008] 2 SLR(R) 474 (“Travista”) as authority to the
+effect that this duty is discharged upon their doing everything reasonable in
+good faith with a view to obtaining the required result within the time
+allowed. 53
+
+##### Foot Note 53
+
+×
+
+DCS at paras 42–45.
+
+36 In my view, the defendants have taken both cases out of context. In Lim Sze
+Eng, both parties had pleaded that the settlement agreement in that case
+contained an implied term that the parties “shall take reasonable endeavours
+and/or do all that may be necessary to give effect to the spirit and intent of
+the [settlement agreement] and to implement the terms of the [settlement
+agreement]” (Lim Sze Eng at [23]). It was in that context that the court made
+the remarks which the defendants now rely on. Travista, on the other hand,
+concerned the interpretation of a clause which expressly provided that the
+purchaser of property was to use his best endeavours to obtain regulatory
+approval for the transaction (Travista at [3] and [12]). However, the case at
+hand is different because cl 4.4(b) stipulates that parties were to “take all
+necessary steps and do all such acts and things” to effect the transfer of the
+Uzma Shares – time being of the essence – by 31 December 2019 (see [9] above).
+The wording of the clause points clearly towards the defendants’ obligation
+being absolute.
+
+37 Furthermore, the background context to the conclusion of the SPAs in this
+case cannot be ignored. The SPAs were entered into on the back of a fractured
+relationship, between parties who were already engaged in litigation. The
+transfer of the ROS Shares from Mr Chia to Mr Lim and Mr Srinivasan and the
+corresponding payment of the price (including the transfer of the Uzma Shares)
+would achieve closure for the parties and draw a line under their fractious
+relationship. The steps were to be taken quickly, hence the emphasis on time
+being of the essence in cl 4.4(b) itself. Furthermore, the SPAs were drafted
+with the benefit of legal advice. 54
+
+##### Foot Note 54
+
+×
+
+Certified Transcript (3 Mar 2022) at p 111, lines 19–25; p 112, lines 1–4.
+
+If the parties intended the obligation to be only one of reasonable or best
+endeavours, then one would have, in these circumstances, expected express
+language to that effect in the SPAs.
+
+38 In my judgment, all of these indicia and the express language of cl 4.4(b)
+point irresistibly to the conclusion that the defendants were under an
+absolute obligation to effect the transfer of the Uzma Shares by 31 December
+2019, and I so find.
+
+39 Accordingly, the defendants were, in my judgment, in breach of their
+obligations under cl 4.4(b) of the SPAs in failing to effect the transfer of
+the Uzma Shares to Mr Chia by 31 December 2019.
+
+Even if the defendants only had an obligation of reasonable endeavours, they
+have breached that obligation
+
+40 As I have found that the defendants were in breach of their absolute
+obligation under the SPAs as of 31 December 2019, it is strictly unnecessary
+for me to go further into subsequent events for the purposes of this issue.
+However, as the defendants have based their arguments substantially on their
+conduct during this entire period, I shall nonetheless give my views on them.
+
+41 The defendants’ arguments in the main can be reduced to two key
+propositions: first, that it was reasonable for them to follow the advice of
+Maybank IB throughout the entire transaction process, and second, that the
+plaintiffs had on multiple occasions caused delay by their own obstructive
+behaviour. I will address these propositions in relation to each phase of the
+transaction process.
+
+42 The starting point is the appointment of Maybank IB itself. As mentioned
+above (at [14]), the defendants first engaged Maybank IB to advise on and
+assist with the transaction. The defendants argue that Mr Chia never objected
+to this appointment, and that the plaintiffs never pleaded that Maybank IB was
+unreliable or incapable. They contend that this was in fact a joint
+appointment of Maybank IB to act on behalf of all parties. 55
+
+##### Foot Note 55
+
+×
+
+DCS at paras 49–56.
+
+43 On this last contention, I find that the defendants have not proven on the
+balance of probabilities that Maybank IB was acting jointly for the plaintiffs
+as well. Looking at the structure of the transaction as agreed in the SPAs,
+the plaintiffs had already completed their obligations by 18 November 2019,
+when the ROS Shares were transferred to Mr Lim and Mr Srinivasan. The
+remaining obligations requiring active steps (ie, making the cash payments and
+transferring the Uzma Shares) were solely the defendants’. As such, the
+plaintiffs would have nothing to gain from or any reason to agree to a joint
+appointment of Maybank IB. Furthermore, no representative of Maybank IB was
+called to give evidence at trial, nor were any documents tendered by the
+defendants to show that Maybank IB had been appointed by and acted for both
+the defendants and plaintiffs. I therefore disagree with the defendants’
+contention that Maybank IB had been appointed jointly by and acted for all
+parties, as the evidence does not bear this out.
+
+44 I move on to examine the key question – was it reasonable for the
+defendants to follow the advice of Maybank IB throughout the entire process?
+In answering this question, I bear in mind the context behind this
+transaction. Both sides wanted to close the deal by 31 December 2019, draw a
+line under their disputes and move on with their lives. It was Mr Chia’s
+evidence that he wanted to sell the Uzma Shares as soon as possible to raise
+cash to compete with ROS after his exit. 56
+
+##### Foot Note 56
+
+×
+
+Certified Transcript (1 Mar 2022) at p 101, lines 16–23.
+
+The parties further agreed in cl 4.4(b) that time was of the essence. Given
+this context, was it reasonable for the defendants to simply appoint Maybank
+IB and leave the entire transfer process to them?
+
+The B5 transfer
+
+45 In answering this question, I begin with the first stage in the sequence of
+events – the failed B5 transfer (see [14] above). Some explanation of the B5
+transfer application is necessary. The reasons under the B5 category have been
+helpfully set out by the plaintiffs’ expert, Mr Adrian Koh, as follows: 57
+
+##### Foot Note 57
+
+×
+
+AEIC of Adrian Koh dated 5 January 2022, Tab AK-1 at pp 10–11, para 3.1.1(d)
+(7BA at pp 3858–3859).
+
+… Pursuant to Appendix 67 of the CDS Manual for ADA, the following reasons for
+transfers are classified under the B5 Category:
+
+(i) Corporate activities which arise in circumstances including, but not
+limited to, (A) transfers approved pursuant to Part IV of the Capital Markets
+and Services Act 2007, (B) acquisition of securities by way of share swap, (C)
+allocation of securities approved by the Ministry of Trade and Industry or
+Ministry of Finance or Economic Planning Unit of the Prime Minister’s
+Department, (D) mergers of companies and (E) to effect payment of dividends by
+way of distribution of securities of companies listed on a stock exchange.
+
+(ii) Death, bankruptcy, winding-up or de-registration of a depositor.
+
+(iii) Pursuant to any provisions of any written law or order of courts of
+competent jurisdictions.
+
+(iv) Rectification of error as permitted by Bursa Depository.
+
+(v) Other reasons which do not fall under the subparagraphs (i) – (iv) above
+provided that such reasons do not fall within the reasons stipulated under
+Annexure III of Appendix 67.
+
+For present purposes, only the first and fifth categories are relevant. I
+refer to these as the “Other corporate activities” category and the “Others”
+category respectively.
+
+46 After being engaged by the defendants, Maybank IB advised on various
+options for the intended transfer and, as the defendants point out, advised
+that a B5 transfer be attempted first. 58
+
+##### Foot Note 58
+
+×
+
+DCS at para 69; 15AB at p 10149 (Transcript of tele-conference call between,
+among others, Maybank IB, Michael Wong and Cheah Boon Pin).
+
+The defendants followed this advice and accordingly proceeded with a B5
+transfer application to obtain the requisite approval from Bursa Depository.
+The stipulated reason (to be precise, the box checked off in the B5 transfer
+application form, presumably on Maybank IB’s advice), was “Other corporate
+activities”. In the box titled “Description of Transfer Request”, the
+explanation given was: “To effect payment of dividends by way of distribution
+of securities of companies listed on a stock exchange (dividend in specie)”.
+59
+
+##### Foot Note 59
+
+×
+
+7AB at pp 4485–4486.
+
+The defendants say that there was no reason to doubt Maybank IB’s advice at
+the time, and that the plaintiffs again raised no objection to the advice
+given. 60
+
+##### Foot Note 60
+
+×
+
+DCS at paras 70–71.
+
+As stated above (at [16]), the B5 transfer application was rejected by Bursa
+Depository.
+
+47 The defendants seek to further justify their initial decision to proceed
+with a B5 transfer application in two ways. Firstly, they rely on Mr Adrian
+Chee’s expert evidence that (a) a B5 transfer application could have succeeded
+if it was made under the “Others” category instead of the “Other corporate
+activities” category which was in fact selected; 61
+
+##### Foot Note 61
+
+×
+
+DCS at para 71(b); Certified Transcript (10 Mar 2022) at p 53, lines 11–15.
+
+and (b) the B5 transfer application under the “Other corporate activities”
+category could possibly have succeeded had Bursa not taken a “very plain view”
+that the recipient of the Uzma Shares (ie, Mr Chia), was not at the time of
+the application a shareholder of ROS anymore. 62
+
+##### Foot Note 62
+
+×
+
+DCS at para 74.
+
+Second, the defendants argue that there is some uncertainty as to whether the
+erroneous choice of “Other corporate activities” was the principal reason for
+Bursa’s rejection of the application. 63
+
+##### Foot Note 63
+
+×
+
+DCS at para 75.
+
+48 In my view, none of these arguments assists the defendants. First, in
+relation to the defendants’ argument that the B5 transfer application could
+have succeeded if it was made under the “Others” category, I agree with the
+plaintiffs’ submission that this was irrelevant and speculative – “Others” was
+not the category specified in the actual application, nor was it the category
+that Maybank IB had advised the parties to use. Mr Chee’s opinion that the
+application under the “Other corporate activities” category could have worked
+but for the regulator’s “very plain view” was equally speculative, and
+accordingly I place no weight on it.
+
+49 Secondly, contrary to what the defendants contend, I find on balance that
+the erroneous choice of the “Other corporate activities” category was likely
+to have been the reason why the B5 transfer application was rejected by Bursa.
+This comports with the reason given by Bursa, as communicated to the parties
+by Maybank IB: 64
+
+##### Foot Note 64
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022, Tab 27 at p 529 (10BA at p 5751).
+
+We have reviewed the documents you provided us and we regret to inform that
+the application is not within the Approved Reason for Transfer – B5.
+
+50 Both the plaintiffs’ and defendants’ Malaysian law experts were in
+agreement that a B5 transfer application under the “Other corporate
+activities” category was generally not the appropriate method to adopt. 65
+
+##### Foot Note 65
+
+×
+
+Joint List of Experts’ Agreements & Disagreements at S/N 1(a); DCS at para 73.
+
+This alone suggests that either Maybank IB or the particular officers acting
+for the defendants were either inexperienced in such off-market transactions
+or had in this instance given the wrong advice on a fairly fundamental point.
+
+51 Whatever the case may be, when the B5 transfer application was rejected on
+30 December 2019 (the very same day it was submitted to Bursa for approval),
+this should have raised alarm bells for the defendants, especially given that
+time was of the essence. If that was not enough, alarm bells should
+undoubtedly have rung on 3 January 2020, when the plaintiffs, through their
+lawyers, sent a letter of demand to the defendants – it would have been clear
+to the defendants then that Mr Chia was taking the deadline seriously and
+there was every danger of the dispute escalating again. 66
+
+##### Foot Note 66
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at para 156 (10BA at pp 5264–5265,
+5817–5818).
+
+At that point, it should have dawned on the defendants that they might have
+needed further help – and by this, I mean help beyond Maybank IB’s
+capabilities – in order to complete the transaction quickly. For example, they
+should have taken steps to get a second opinion on Maybank IB’s advice or
+instruct Malaysian lawyers to advise them on the next steps and the options to
+get the Uzma Shares transferred to Mr Chia. The value of such advice is clear
+enough – on the evidence of the plaintiffs’ Malaysian law expert, Mr Adrian
+Koh, a DBT transfer was the appropriate method to effect the transfer. 67
+
+##### Foot Note 67
+
+×
+
+AEIC of Adrian Koh dated 5 January 2022, Tab AK-1 at p 13, para 4.1(d) (7BA at
+p 3861).
+
+Further, both parties’ experts did not express any view that a DBT transfer
+was a very complicated option. While Mr Chee opined that there was some
+“regulatory uncertainty” with this method, that uncertainty (which pertained
+to the outcome) does not mean that the process was complicated. 68
+
+##### Foot Note 68
+
+×
+
+AEIC of Adrian Chee dated 5 January 2022, Tab A at p 15, para 23 (12BA at pp
+6678–6679).
+
+In my judgment, the DBT was clearly the appropriate route to take from the
+beginning – it was in fact the transfer method that was eventually approved by
+Bursa on 22 July 2020. 69
+
+##### Foot Note 69
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at para 175(f) (10BA at p 5276).
+
+Had the defendants obtained proper advice on this, it would likely have saved
+the parties a considerable amount of time and trouble.
+
+52 I note that the defendants did subsequently engage Malaysian lawyers from
+Shearn Delamore & Co to assist with the transaction, but even then it was only
+for the limited purpose of preparing a letter to Bursa detailing the sequence
+of events. 70
+
+##### Foot Note 70
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at para 162 (10BA at p 5266).
+
+This aside, the defendants continued to be content with following Maybank IB’s
+lead throughout the entire process.
+
+53 Therefore, even if I agree with the defendants that their initial reliance
+on Maybank IB was justified and reasonable, I find their decision to continue
+relying almost entirely on them – against the backdrop of the parties’ fraught
+relationship, time being of the essence, and Bursa’s prompt rejection of the
+B5 transfer application the very same day it was submitted – to be
+unreasonable. Thus, even on a reasonable endeavours basis, the defendants have
+not satisfied me, on the balance of probabilities, that they fulfilled their
+obligations.
+
+54 Separately, I note the defendants’ argument that the B5 transfer
+application process was delayed by Mr Chia’s obstructive conduct. The
+defendants contend that on or around 11 December 2019, they sent Mr Chia a
+“revised Sale and Purchase Agreement” to execute for purposes of the transfer.
+This was apparently done on the advice of Maybank IB that the signed SPAs
+which formed part of the 15 November Agreements might have been inadequate. 71
+
+##### Foot Note 71
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at paras 121–128 (10BA at pp
+5255–5256).
+
+However, Mr Chia refused to do so and instead allegedly nit-picked at the
+draft and accused the defendants of being sloppy with the documentation. 72
+
+##### Foot Note 72
+
+×
+
+DCS at para 95; AEIC of Wong Kong Chen dated 5 January 2022 at paras 127–141
+(10BA at pp 5256–5260).
+
+The defendants say that this impeded the transfer process. 73
+
+##### Foot Note 73
+
+×
+
+DCS at para 96(c).
+
+55 I do not find Mr Chia’s conduct to be unreasonable at all in the
+circumstances. Mr Wong’s evidence is that he had sent the Share Transfer
+Agreement (which was a single-page document) to Maybank IB for review on 15
+November 2019, and it was this document which Maybank IB advised was
+inadequate for the purposes of the B5 transfer application. 74
+
+##### Foot Note 74
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at paras 102, 123 (10BA at pp
+5252, 5255).
+
+At this point, the defendants had not shared the executed SPAs with Maybank
+IB. 75
+
+##### Foot Note 75
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at paras 95–96 (1BA at p 43).
+
+However, instead of then sending the executed SPAs to Maybank IB, they opted
+simply to leave them aside and instead ask Mr Chia to sign a completely
+different contract, which was not a document drafted with the benefit of legal
+advice like the SPAs, but a template downloaded from the internet. 76
+
+##### Foot Note 76
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022, Tab 25 at p 459 (10BA at p 5681).
+
+The defendants say that they had only done so in accordance with Maybank IB’s
+advice, but in my view they are not entitled to raise that as a shield, given
+that they had failed to even apprise Maybank IB of the full picture. Given
+that the 15 November Agreements were already in place, I do not find it
+unreasonable at all that Mr Chia chose to act with caution to protect his
+legal interests. Further, all this ultimately amounted to nothing, since the
+template agreement was never used. 77
+
+##### Foot Note 77
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 97 (1BA at pp 43–44).
+
+56 The defendants also raised the fact that Mr Chia had caused delay by
+failing to send copies of the SPAs signed in his personal capacity (which he
+only sent on 7 February 2020). 78
+
+##### Foot Note 78
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at para 165, s/n (n) (10BA at p
+5269).
+
+This was an issue originally highlighted to Mr Chia by the defendants in an
+email dated 27 December 2019. 79
+
+##### Foot Note 79
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022, Tab CKW-118 at p 3456 (6BA at p
+3459).
+
+However, I agree with Mr Chia’s evidence that this email contained no request
+for him to send the signed SPAs. 80
+
+##### Foot Note 80
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 204 (1BA at p 95).
+
+Thus, I do not find this to be an act of obstruction on the part of Mr Chia.
+
+The DBT transfer
+
+57 I now move on to the second stage in the sequence of events – the DBT
+transfer. The defendants argue that after the rejection of the B5 transfer
+application, they immediately arranged a conference call with Maybank IB to
+discuss the next steps, heeded Maybank IB’s advice to proceed with a DBT
+transfer without financial consideration, and took active steps to prepare the
+required supporting documents. This included Maybank IB’s advice to defer
+making the application from April 2020 (at which time MCOs had been imposed in
+Malaysia) until such time a physical meeting with Bursa officials could be
+held. 81
+
+##### Foot Note 81
+
+×
+
+DCS at paras 79–93; AEIC of Wong Kong Chen dated 5 January 2022 at paras
+147–155 (10BA at pp 5262–5264).
+
+The defendants point out, on the other hand, that the plaintiffs were
+obstructive throughout the process. They allege, amongst other things, that
+the plaintiffs had through their lawyers sent multiple letters of demand which
+distracted the defendants from working on the DBT application, and that Mr
+Chia refused to sign the required documents and instead made incessant queries
+about them (either by himself or through his Malaysian lawyer at the time, Ms
+Bhuvaneswary Supramaniam (“Ms Bhuvaneswary”). 82
+
+##### Foot Note 82
+
+×
+
+DCS at paras 95(c)–(d); AEIC of Wong Kong Chen dated 5 January 2022 at para
+165 (10BA at pp 5267–5273).
+
+58 I first address the arguments in respect of the preparation of the required
+documents. Having reviewed the evidence, including the correspondence between
+the parties during this period, it is clear to me that all parties must share
+some blame in so far as communications became argumentative and terse – it was
+clear that tensions between both camps was still high. However, taking a step
+back, the parties were at this time dealing with legal documents to be
+submitted to Bursa for regulatory approval. These included documents which
+would directly affect their legal rights and obligations – for example, Mr
+Chia was required to execute a letter of undertaking and indemnity in favour
+of Bursa. 83
+
+##### Foot Note 83
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 105(d) (1BA at p 48).
+
+Naturally, one would expect some amount of discussion back and forth between
+the parties on the purpose and content of such documents for the purpose of
+protecting their legal and commercial interests. It was therefore not
+unreasonable or obstructive for Mr Chia and/or his Malaysian lawyer to make
+queries and/or to comment on the documents sent by the defendants and Maybank
+IB. The defendants, for their part, had on some, albeit not all, occasions
+either refused to address those queries directly or simply deflected them to
+Maybank IB instead. 84
+
+##### Foot Note 84
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022, Tab 33I at p 851 (11BA at p
+6073).
+
+In my view, the bickering and hostilities that ensued in this process could
+have been mitigated at least partially, if not substantially, had the
+defendants engaged lawyers in Malaysia to advise them on the transaction and
+handle it on their behalf.
+
+59 As for the defendants’ complaint about the letters of demand sent by the
+plaintiffs, any delay occasioned by the defendants having to respond to them
+would, in my view, be inconsequential in the overall scheme, especially in
+comparison to the almost seven months of delay which ultimately occurred. In
+any case, it was well within Mr Chia’s legal rights to instruct his lawyers to
+send letters of demand to state his position for the record or simply to
+preserve his rights – I will come back to this again when I address the issue
+of waiver.
+
+60 Turning back to the DBT application, the more significant delay to this
+process arose from the decision taken by the defendants – in accordance with
+Maybank IB’s advice – to delay the application to Bursa in light of the
+imposition of MCOs in Malaysia. On the defendants’ case, Maybank IB had
+advised them that in view of the complicated structure of the transaction, it
+was necessary to have a physical face-to-face meeting with Bursa's
+representatives to explain the circumstances of the transaction. The
+defendants contend that because of the MCOs imposed by the Malaysian
+Government, Maybank IB was unable to meet with Bursa on their behalf.
+Accordingly, the defendants decided to postpone making the DBT application
+until such a physical meeting could be conducted. 85
+
+##### Foot Note 85
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at paras 170–175 (10BA at pp
+5274–5276).
+
+That meeting only occurred on 22 July 2020, almost seven months after the
+contractual deadline. 86
+
+##### Foot Note 86
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at para 175(f) (10BA at p 5276).
+
+The defendants insist that this was a reasonable course of action to take
+given Maybank IB’s advice that Bursa would not likely consider re-submissions
+if the application was unsuccessful on the first attempt. 87
+
+##### Foot Note 87
+
+×
+
+DCS at paras 90, 92; AEIC of Wong Kong Chen dated 5 January 2022, Tab 35 at p
+1278 (12BA at p 6500).
+
+61 I do not accept that the MCOs posed any real obstacles to the defendants
+obtaining Bursa’s approval for the DBT transfer. The defendants’ case, as
+pleaded in their Defence, hinges on their assertion that Maybank IB officers
+were unable to meet Bursa representatives due to the MCOs. 88
+
+##### Foot Note 88
+
+×
+
+Defence (Amendment No. 3) at para 45.
+
+They rely on an email from a representative of Maybank IB to support their
+case: 89
+
+##### Foot Note 89
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022, Tab 35 at p 1278 (12BA at p
+6500).
+
+… I’ve spoken to my head of operation which both of us would recommend the
+submission to be done after the MCO is uplifted as this would allow me the
+opportunity to explain to the approving parties personally where it is natural
+bias to reject request that have a certain complexity. Resubmission on the
+same terms are also highly discouraged by the regulators.
+
+62 In my judgment, the defendants have not made out, on a balance of
+probabilities, that a meeting with Bursa representatives was entirely
+impossible. First, the Maybank IB officer who authored the email quoted above
+was not called to give evidence, nor was any other representative of Maybank
+IB. Thus, the assertions in this email could not be tested at trial to
+determine the basis on which they were made. On the face of this email, it
+appears to me that Maybank IB’s insistence on a physical meeting was borne out
+of an abundance of caution, especially since the B5 transfer application that
+they had recommended in December 2019 had already been rejected by Bursa.
+However, Maybank IB did not appear to have even considered or advised the
+defendants on the possibility of arranging virtual meetings or tele-
+conferencing with Bursa representatives.
+
+63 It is certainly not the case that such remote meetings with Bursa were not
+possible during the currency of the MCOs. It was the consistent evidence of
+both parties’ Malaysian law experts that firstly, Bursa was operating as
+normal notwithstanding the MCOs, 90
+
+##### Foot Note 90
+
+×
+
+Certified Transcript (10 Mar 2022) at p 117, lines 7–8; p 120, lines 13–17.
+
+and secondly, that Bursa did not require or mandate that meetings be conducted
+face-to-face. 91
+
+##### Foot Note 91
+
+×
+
+Certified Transcript (10 Mar 2022) at p 106, lines 24–25; p 107, lines 1–11; p
+111, lines 2–9; p 113, lines 17–22.
+
+This was also corroborated by Ms Bhuvaneswary (who was called by the
+plaintiffs as a witness of fact) in so far as she had obtained confirmation
+during a telephone call with a Bursa official that Bursa had been encouraging
+parties to meet via video conferencing rather than physically especially
+whilst the MCOs were in force. 92
+
+##### Foot Note 92
+
+×
+
+AEIC of Bhuvaneswary Supramaniam dated 28 December 2021 at para 35 (7BA at p
+3787).
+
+I note that Ms Bhuvaneswary’s evidence on this point is hearsay evidence, but
+I nonetheless admit it under s 32(1)(j)(iii) of the Evidence Act 1893 (2020
+Rev Ed) on the ground that Bursa had indicated that it would not permit its
+representatives (who were based in Malaysia) to give evidence at the trial. 93
+
+##### Foot Note 93
+
+×
+
+PCS at paras 37–38; Supplementary AEIC of Chia Kuan Wee dated 18 February 2022
+at para 5.
+
+While I have not accorded full weight to Ms Bhuvaneswary’s evidence on account
+of it being hearsay, I have no reason to disbelieve it, and it is nonetheless
+consistent with the evidence given by the Malaysian law experts.
+
+64 Therefore, I find that the defendants have not proven on a balance of
+probabilities that the MCOs prevented Maybank IB’s representatives from
+meeting with Bursa officials, whether physically or otherwise. It is more
+likely than not that the insistence on a physical meeting with Bursa was a
+matter of preference on the part of Maybank IB’s representatives. Bearing in
+mind the circumstances here, and in particular that time was of the essence, I
+find that it was unreasonable for the defendants to simply follow Maybank IB’s
+advice and delay their submission of the DBT application for a further three
+months.
+
+65 In summary, even if I accept the defendants’ case that they were only
+obliged to use reasonable endeavours to transfer the Uzma Shares, I find that,
+on the evidence as discussed above, the defendants’ conduct demonstrated that
+they did not in fact use such reasonable endeavours. Thus, even on the
+defendant’s case, I would find the defendants to be in breach of cl 4.4 of the
+SPAs.
+
+There was no waiver of breach by the plaintiffs
+
+66 Lastly, I note that the defendants have pleaded that the plaintiffs had
+waived any breaches by the defendants by granting various extensions of time
+for the transfer of the Uzma Shares. The defendants pleaded four occasions
+where extensions were granted by the plaintiffs through their solicitors: (a)
+on 3 January 2020, granting an extension until 10 January 2020; (b) on 6
+January 2020, granting an extension until 14 January 2020; (c) on 16 January
+2020, granting an extension until 24 January 2020; and (d) on 29 March 2020,
+granting an extension until 6 April 2020. 94
+
+##### Foot Note 94
+
+×
+
+Defence (Amendment No. 3) at paras 40(q2), 40(r), 40(t), 40(aa), 42.
+
+The defendants, in their closing submissions, made brief mention of this and
+did not appear to be pursuing this line of argument seriously. However, I will
+address this point for completeness.
+
+67 While this argument was not made clearly in closing submissions, the
+defendants appear to rely on a waiver by estoppel, which refers to the
+doctrine of promissory estoppel. That is, the plaintiffs, in granting multiple
+extensions of time, had in effect represented that they would not be insisting
+upon their legal right to timely delivery of the Uzma Shares against the
+defendants, and the defendants had relied upon these representations such that
+it would be inequitable for the plaintiffs to resile on them. However, the law
+is clear that an unequivocal representation is required: Audi Construction Pte
+Ltd v Kian Hiap Construction Pte Ltd [2018] 1 SLR 317 at [57]. In this case,
+each and every extension agreed to by the plaintiffs was made expressly
+without prejudice to their rights to claim diminution in the value of the
+shares. 95
+
+##### Foot Note 95
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022, Tab CKW-49 at p 1801 (4BA at p
+1804); Tab CKW-50 at pp 1804–1805 (4BA at pp 1807–1808); Tab CKW-56 at p 1905
+(4BA at p 1908); Tab CKW-85 at p 2649 (5BA at p 2652).
+
+On this basis alone, I find that there was no unequivocal representation by
+the plaintiffs that they were giving up or waiving their claims to damages (if
+any) for the defendants’ breach.
+
+Conclusion on breach
+
+68 For the foregoing reasons, I find that the defendants breached the SPAs
+when they failed to transfer the Uzma Shares on 31 December 2019. This breach
+was not waived by the plaintiffs granting the defendants extensions of time to
+complete the transfer.
+
+Issue 2: Can the plaintiffs claim for loss by reference to diminution in share
+value?
+
+69 The defendants’ breach of the SPAs having been established, I turn to the
+question of what, if any, damages ought to be awarded to the plaintiffs. As I
+have stated above at [19], the plaintiffs claim for the diminution in the
+value of the Uzma Shares between the original contractual transfer date of 31
+December 2019 and the actual transfer date of 29 July 2020.
+
+70 The defendants contend that an award of damages for diminution in share
+value will place the plaintiffs in a better position than they would be if the
+contract was performed. In other words, they argue that the plaintiffs would
+be getting a windfall. 96
+
+##### Foot Note 96
+
+×
+
+DCS at paras 99–111.
+
+Preliminary point – the value of the Uzma Shares
+
+71 As a preliminary point, I will first address two assertions made by the
+defendants in the course of their arguments, which I set out here:
+
+(a) the value ascribed to the Uzma Shares in the SPAs was only a “notional” or
+“nominal” figure inserted as a matter of formality; 97
+
+##### Foot Note 97
+
+×
+
+Defence (Amendment No. 3) at paras 19–21; Defendants’ Opening Statement at
+para 4.
+
+and
+
+(b) the plaintiffs were never interested in the value of the Uzma Shares but
+only in possessing the shares themselves for Mr Chia’s commercial benefit. 98
+
+##### Foot Note 98
+
+×
+
+DCS at para 105; Defence (Amendment No. 3) at para 21A.
+
+72 In my judgment, the first assertion holds no water. First, the defendants
+do not contend that the Uzma Shares carry no value at all. The SPAs were
+structured such that Mr Chia would transfer his ROS Shares (held through 3N)
+to Mr Lim and Mr Srinivasan, in return for consideration which was partly in
+cash and partly in kind. The value ascribed to the Uzma Shares represented the
+balance of the consideration to be “paid” by Mr Lim and Mr Srinivasan after
+taking into account the cash components – that is the plain and clear meaning
+of cl 2.2, cl 3 and cl 4.4 of each SPA, the material parts of which I set out
+below: 99
+
+##### Foot Note 99
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022, Tab CKW-12 at pp 400–401, 414–415
+(1BA at pp 403–404, 417–418).
+
+2\. SALE AND PURCHASE
+
+…
+
+2.2 The purchase consideration for the Sale Shares shall be an aggregate
+amount of S$2,536,572, to be paid in accordance with the terms and conditions
+of this Agreement.
+
+3\. PAYMENT AT THE TIME OF EXECUTION OF THIS AGREEMENT
+
+The Purchaser shall make payment of the sum of S$112,500 to CKW [ie, Mr Chia]
+within 10 Business Days by way of Cheque naming CKW [ie, Mr Chia] as the payee
+thereof from the date of the execution of this agreement. …
+
+4\. COMPLETION
+
+…
+
+4.4 Further to the payment set out in Clause 3 above, the Purchaser shall pay
+to the Vendor:
+
+(a) an amount of S$500,000 within 10 Business Days from the date of the
+execution of this agreement, by way of cheque naming CKW [ie, Mr Chia] as the
+payee thereof. …
+
+(b) an amount of S$1,524,072, to be fully satisfied by the Purchaser
+transferring the Uzma Shares to CKW [ie, Mr Chia]. The Parties shall on the
+Completion Date, or as soon as practicable thereafter, take all necessary
+steps and do all such acts and things to effect the transfer of the Uzma
+Shares from the securities account of the Purchaser to the securities account
+of CKW [ie, Mr Chia], by way of an off-market transfer or by such other
+methods as reasonably practicable, time being of the essence, by 31 December
+2019. The Purchaser will be liable for the share transfer fee of the UZMA
+shares. ROS hereby agrees and undertakes to do all that is necessary to
+transfer the Uzma Shares to the Purchaser to enable the Purchaser to comply
+with his obligations herein; and
+
+(c) an amount of S$400,000, to be satisfied by way of 8 monthly instalments of
+S$50,000 each…
+
+[emphasis added]
+
+73 It is clear from cl 4.4(b) as quoted above that the sum of S$1,524,072 was
+to be paid by way of a transfer of the Uzma Shares from Mr Lim and Mr
+Srinivasan. This value was not notional or nominal. The defendants rely on the
+fact that the value ascribed to the Uzma Shares in cl 4.4(b) was the book
+value of the shares as recorded in ROS’ audited accounts as at 31 March 2019,
+as opposed to the market value of the shares as at the date of the SPAs. 100
+
+##### Foot Note 100
+
+×
+
+Defence (Amendment No. 3) at para 18(b).
+
+However, Mr Chia’s evidence was that the combined value of the Uzma Shares at
+book value and the agreed cash components would be roughly equivalent to the
+total compensation package he had claimed under the settlement – including the
+divesting of his ROS shares. The use of the book value would obviate the need
+to account for market fluctuations in the price of the shares. Thus, Mr Chia
+was prepared to go with this payment structure. 101
+
+##### Foot Note 101
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at paras 48–49, 61 (1BA at pp
+22–23, 27–28); PRCS at para 47.
+
+While the defendants utilise this payment structure as a point to make their
+second assertion as to Mr Chia’s interest in the value of the shares (which I
+discuss below), they do not dispute Mr Chia’s evidence in so far as it relates
+to the use of the book value of the ROS Shares to arrive at the sale price.
+
+74 Mr Chia’s explanation of the payment being partly in cash and partly in
+kind also accords with the commercial sensibilities of the transaction. It was
+Mr Chia’s evidence that Mr Lim and Mr Srinivasan did not have sufficient cash
+to purchase the ROS Shares at his valuation. 102
+
+##### Foot Note 102
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 34 (1BA at pp 16–17).
+
+This was not disputed by the defendants at trial. It would likely also have
+impacted ROS’ cashflow if Mr Lim and Mr Srinivasan used ROS’ cash assets to
+make up for the shortfall. This would also explain the final agreed
+transaction structure, ie, for ROS to transfer the Uzma Shares to Mr Lim and
+Mr Srinivasan in specie, followed by a transfer from them to Mr Chia. All of
+this undermines the defendants’ assertion that the value ascribed to the Uzma
+Shares was merely notional or nominal. Instead, it represented the closest
+monetary equivalent to the payment of the balance of the sale price under the
+SPAs, after accounting for the cash components.
+
+75 Thus, I disagree with the defendants to the extent that they seek to assert
+that the valuation of the shares in the SPAs was nothing more than a notional
+or nominal figure. I am satisfied that Mr Chia has provided a logical
+explanation for the use of the book value of the ROS Shares, and this
+explanation was not undermined by the defendants at trial.
+
+76 As for the defendants’ second assertion that Mr Chia was only interested in
+the Uzma Shares themselves and not their value, I find this difficult to
+understand. First, Mr Chia may have wanted the Uzma Shares, but that did not
+mean he could not convert them to cash as and when required. Again, the
+defendants do not contend that the shares had no value. Second, the
+defendants’ assertion is also contradicted by the evidence. Mr Chia gave
+evidence at trial that he had intended to sell the Uzma Shares for cash as
+soon as possible. 103
+
+##### Foot Note 103
+
+×
+
+Certified Transcript (1 Mar 2022) at p 93, lines 6–10.
+
+This is consistent with his subsequent conduct: he had in fact sold some of
+his Uzma Shares in several tranches from August 2020 to April 2022. 104
+
+##### Foot Note 104
+
+×
+
+Affidavit of Chia Kuan Wee dated 29 April 2022, Tab CKW-1 at p 8.
+
+If Mr Chia was only interested in possessing the Uzma Shares in themselves,
+then he would not have sold them at all.
+
+77 Having dealt with the assertions at [71], I come back to consider the
+question of whether the plaintiffs are entitled to claim for a diminution in
+the value of the shares.
+
+The plaintiffs are entitled to claim for diminution in share value
+
+The defendants’ arguments
+
+78 The basic principle for recovery of damages for a breach of contract is
+compensation. The claimant is, as far as money can do it, to be placed in the
+same position as if the contract had been performed: Chitty on Contracts (Hugh
+G Beale gen ed) (Sweet & Maxwell, 34th ed, 2021) (“Chitty”) at para 29–001.
+
+79 In the present context of a delayed transfer of shares, the usual position
+is set out in James Edelman, McGregor on Damages (Sweet & Maxwell, 21st ed,
+2021) (“McGregor”) at para 4–008:
+
+Where the breach concerned is a delayed transfer of property, the normal loss
+recoverable is the market value at the date of due delivery less the market
+value at the date of actual delivery. The prime example is once again the sale
+of goods, and again will apply to hire and hire-purchase of goods, to sale of
+stocks and shares, and today to all sales and leases of land.
+
+[emphasis added]
+
+80 However, the defendants contend that an award of damages for diminution in
+share value here would give the plaintiffs a windfall, and would contradict
+the basic compensatory principle.
+
+81 On the defendants’ case, the plaintiffs have already received specific
+performance of the contract since the Uzma Shares had ultimately been
+transferred to Mr Chia on 29 July 2020. 105
+
+##### Foot Note 105
+
+×
+
+DCS at paras 110–111.
+
+Consequently, the plaintiffs are entitled only to damages for any dividends
+declared by Uzma between the agreed and actual date of delivery. In support of
+this argument, the defendants rely on the following passage from Chitty at
+para 29–202:
+
+In an action for a seller’s failure to transfer shares, the buyer may recover
+the market price of shares on the day fixed for completion, less the contract
+price, since the principles of law governing damages in the sale of goods are
+applied by analogy. A buyer who obtains a decree of specific performance for
+the delivery of shares may also recover damages equal to the dividends
+declared by the company between the agreed date of delivery and the actual
+date (and interest thereon).
+
+[emphasis added]
+
+They further rely on the following paragraph from the older 19th edition of
+McGregor, as well as the case of Sri Lanka Omnibus Co v Perera [1952] 1 AC 76
+cited therein (at para 27–007):
+
+The nearest approach to delayed delivery comes in the cases where the buyer
+forces delivery on an unwilling seller by successfully suing for specific
+performance. If the market value has fallen he would be wise not to pursue
+this remedy, and if the market value has risen or remained unaltered the
+normal measure of market price at due delivery less market price at actual
+delivery will yield only nominal damages. However the buyer who has been
+awarded a decree of specific performance can recover as damages the equivalent
+of the dividends at the rates declared by the company between the date when
+the shares should have been delivered or allotted and the date of actual
+delivery or allotment together with interest on the dividends during non-
+payment. This result was reached in Sri Lanka Omnibus v Perera.
+
+[emphasis in original in italics; emphasis added in bold]
+
+82 In Sri Lanka Omnibus Co v Perera [1952] 1 AC 76 (“Sri Lanka Omnibus”), the
+respondent brought an action against the appellant company for breach of
+contract, on the ground that the company had failed to perform its obligations
+to allot shares to the respondent. The respondent obtained an order for
+specific performance which was complied with. The only question remaining was
+the measure of damages the respondent was additionally entitled to. The Privy
+Council held (at p 81) that the respondent could only claim for a sum
+equivalent to the dividends he would have received had the contract been duly
+performed, along with interest:
+
+The party complaining of a breach of contract is not entitled to be put in a
+better position than he would have enjoyed if the contract had been performed
+according to its terms. When the contract is a contract to allot shares, the
+aggrieved party’s position is fully restored when the shares have been
+allotted to him under an order for specific performance and he has received
+the equivalent of the dividends he would have received if the contract had
+been duly performed, with interest during non-payment.
+
+[emphasis added]
+
+Analysis and Decision
+
+83 The commentaries cited by the defendants (see [77] above) usefully set out
+the general rule concerning damages for breach of a share sale contract. The
+starting point is that the principles governing damages in the law of sale of
+goods are applied by analogy where a case involves a sale of shares. It
+follows that a buyer of shares can, as a matter of law, recover market damages
+in the event of a non-delivery or late delivery of shares. By “market
+damages”, I refer to damages assessed by the reference to the market value of
+the shares.
+
+84 This general approach was applied by the Court of Appeal in City Securities
+Pte Ltd (in liquidation) v Associated Management Services Pte Ltd [1996] 1
+SLR(R) 410, albeit in the context of non-acceptance of shares by a buyer. In
+that case, the appellant stockbroker had purchased 880,000 shares in a
+company, by order and for the account of the respondent, at S$3.75 per share
+on 24 January 1986. The respondent was to pay the total sum of S$3,336,400
+(inclusive of brokerage and stamp fees) on the date of fulfilment, which was
+31 January 1986. It was found by the assistant registrar at first instance
+that the contract was essentially a contract of sale between the appellant, as
+seller, and the respondent, as buyer, at the stipulated price of S$3.75 per
+share. The respondent failed to pay the sum due on 31 January 1986. The open
+market price of the shares at that time was S$2.60 per share. The Court of
+Appeal held that the appellant could recover the difference between the
+contract price and the market price of the shares at the date of breach (at
+[18]):
+
+18 In a contract for the sale of shares the measure of damages upon a breach
+by the purchaser is the difference between the contract price and the market
+price at the date of the breach, with an obligation on the part of the seller
+to mitigate the damages by getting the best price he can upon that date: A K A
+S Jamal v Moolla Dawood, Sons & Co [1916] 1 AC 175 at 179. At the date of
+breach, ie 31 January 1986, the market price of MTP shares was $2.60 per
+share. In the premises, the damages should be awarded on the basis of the
+difference between the contract price of $3.75 per share and the market price
+of $2.60 per share, amounting in total to $1,012,000 for 880,000 MTP shares.
+
+85 However, in so far as the defendants seek to rely on these authorities to
+argue that the plaintiffs have obtained specific performance and are therefore
+no longer entitled to claim for diminution in the value of the shares, I find
+that the authorities do not assist them. The extracts cited by the defendants
+envisage a situation where the innocent party has sought and obtained an order
+for specific performance. That was not the case here. The present facts arise
+not out of any court order, but by the defendants’ own actions, ie,
+transferring the Uzma Shares to Mr Chia more than seven months after the
+contractual date of delivery, even after he had refused consent for the
+transfer. I note that the plaintiffs did initially seek an order for specific
+performance when this suit was first commenced, but subsequently amended their
+claim to one for damages only because of the defendants’ actions. 106
+
+##### Foot Note 106
+
+×
+
+Statement of Claim (Amendment No. 1) at pp 6–8.
+
+The plaintiffs were right to do so, given that the situation had changed from
+one of non-delivery to one of late delivery. Nonetheless, it does not amount
+to the plaintiffs having obtained an order for specific performance. If that
+can be characterised as specific performance, there would be nothing to stop
+any seller in a late delivery scenario from seeking to escape liability to pay
+damages on the ground that the buyer had obtained the goods (or shares)
+anyway.
+
+86 Sri Lanka Omnibus is also distinguishable from the present case. In that
+case, there was no allegation or evidence that the value of the shares in the
+company had dropped after the breach date. Hence, it does not appear that the
+respondent in that case would have been able to mount any claim for diminution
+in share value anyway, since applying the normal measure in such a claim would
+result in only nominal damages being awarded. As much as the defendants urge
+me to, I do not read Sri Lanka Omnibus as standing for any general proposition
+that a buyer of shares who receives the shares contracted for late is entitled
+only to damages representing any dividends declared by the company in the
+interim period and nothing else.
+
+87 For the reasons above, I disagree that the plaintiffs have obtained an
+order for specific performance and are thereby limited to a claim for
+dividends declared in the interim period. I see no reason why the general rule
+on the measure of damages should not apply in this case. As the plaintiffs
+submit, on 31 December 2019, when the contract was to be fulfilled, they were
+entitled to the Uzma Shares and the value those shares held on that date – or
+in this case, the value the parties had agreed upon in the SPAs. Since the
+value of the Uzma Shares had dropped by the time the plaintiffs actually
+received the Uzma Shares, they are entitled to claim damages for the
+diminution in value from the defendants. In my view, this is a fair and
+principled approach to adopt in order to determine the damages to be awarded.
+If the situation were otherwise and the share price had in fact appreciated by
+the time of actual delivery on 29 July 2020, then there would be no loss that
+the plaintiffs could claim to have suffered by reason of the breach, and they
+would then only be entitled to nominal damages at best.
+
+88 I turn now to address another point which the defendants pleaded in their
+Defence. The defendants contend that the plaintiffs are not entitled to claim
+for the diminution of share value because it was not a term of the SPAs that
+the defendants would have to compensate the plaintiffs for a reduction in
+value of the Uzma Shares prior to the transfer. 107
+
+##### Foot Note 107
+
+×
+
+Defence (Amendment No. 3) at para 61.
+
+I respectfully disagree.
+
+89 A right to claim for damages for diminution in share value arises from the
+general law of contract, and not from the terms of any particular contract.
+The absence of a provision in the SPAs stating that a party can claim damages
+for diminution in share value in the event of delayed performance does not
+mean that such a claim is excluded. Furthermore, there is nothing in the SPAs
+in the nature of an exclusion clause which excludes such a claim being made.
+In contrast, cl 7 of the SPAs, pursuant to which each defendant warranted the
+performance by the other defendants and agreed to indemnify the plaintiffs
+for, inter alia, “damages” and “losses” directly or indirectly caused to Mr
+Chia, suggests that the parties did contemplate that any loss by reason of
+late delivery could be recovered: 108
+
+##### Foot Note 108
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022, Tab CKW-12 at p 418 (1BA at p
+421).
+
+Subject to the Vendor performing all of its obligations under Clause 4.3 of
+this Agreement, [Mr Lim / Mr Srinivasan] and ROS each hereby agrees, warrants,
+covenants and undertakes, jointly and severally, to ensure and procure [Mr
+Srinivasan’s / Mr Lim’s] due and complete performance of [Mr Srinivasan’s / Mr
+Lim’s] obligations under this Agreement and to fully indemnify and hold [the
+plaintiffs] harmless from and against any claims, damages, deficiencies,
+losses, costs, liabilities and expenses (including legal fees and
+disbursements on a full indemnity basis) (“Losses”) directly or indirectly
+caused to [the plaintiffs] resulting directly or indirectly from or arising
+out of the failure by each of them to ensure and/or procure the same. For the
+avoidance of doubt, the obligation and/or liability under this clause herein
+is joint and several. [emphasis in original omitted]
+
+90 In my judgment, the plaintiffs are entitled to claim damages for a
+diminution in the value of the Uzma Shares between 31 December 2019 and 29
+July 2020. What remains to be addressed is whether the damages recoverable are
+limited by factors such as causation, remoteness and mitigation. It is to
+these issues that I now turn.
+
+Issue 3: Was the plaintiffs’ loss caused by the defendants’ breach?
+
+91 I start with the issue of causation. It is trite that there must be a
+causal connection between the defendants’ breach of contract and the
+plaintiffs’ loss. The breach of contract must amount to an effective cause of
+the loss, and this inquiry is divided into two questions – causation in fact
+and causation in law (see The Law of Contract in Singapore (Andrew Phang Boon
+Leong gen ed) (Academy Publishing, 2nd ed, 2022) at para 22.024). Causation in
+fact is concerned with establishing the physical connection between the
+defendant’s wrong and the plaintiffs’ loss, and the starting point is whether
+“but-for” causation can be proved: Sunny Metal & Engineering Pte Ltd v Ng Khim
+Ming Eric [2007] 3 SLR(R) 782 (“Sunny Metal”) at [52]. Causation in law, on
+the other hand, is concerned with the question of whether there are any
+intervening events which are so significant as to have broken the chain of
+causation: Sunny Metal at [54].
+
+92 The defendants’ contentions relate to causation in fact. They argue that
+there is no causal link between their breach, in failing to transfer the Uzma
+Shares by 31 December 2019, and the diminution in value of the shares. This is
+because the Uzma Shares, which are publicly traded, would have declined in
+value even if the shares were delivered on time. 109
+
+##### Foot Note 109
+
+×
+
+DCS at para 115.
+
+In support of their arguments on causation, as well as remoteness (which I
+discuss below), the defendants rely on Sir Bernard Eder IJ’s decision in Judah
+Value Activist Fund v Open Faith Investment Ltd [2021] SGHC(I) 7 (“Judah Value
+Activist”). The defendants submit that in Judah Value Activist, the Singapore
+International Commercial Court found no causal link between the defendants’
+“failure to transfer the [company’s] shares by the contractually stipulated
+deadline and the decline in the [company’s] share value”. 110
+
+##### Foot Note 110
+
+×
+
+DCS at para 119.
+
+However, a close look at the facts and the court’s reasoning reveals that the
+defendants’ reliance on this case is misplaced.
+
+Judah Value Activist
+
+93 Judah Value Activist involved a subscription agreement under which the
+defendant would subscribe for shares in the plaintiff hedge fund, providing
+consideration by way of a transfer of shares in Agritrade Resources Limited (a
+Hong Kong-listed company) (“Agritrade”) into the plaintiff’s fund. The
+defendant, in breach of the contract, failed to transfer the shares by the
+contractually stipulated deadline. At this point in time, the plaintiff had
+entered into a margin loan facility with its stockbroker, under which the
+plaintiff was required to maintain a Loan-to-Value Ratio below 70%, failing
+which there would be a margin call which, if unsatisfied, would entitle the
+broker to sell any securities held in the plaintiff’s account. This included
+Agritrade shares which the plaintiff already owned as part of its portfolio.
+The plaintiff claimed that, as a result of the defendant’s failure to transfer
+its Agritrade shares by the contractual deadline, the plaintiff’s Loan-to-
+Value Ratio exceeded 70%, triggering a margin call which led to the broker
+forcing the sale of the plaintiff’s entire portfolio of Agritrade shares in
+three tranches over a period of four days. This resulted in a loss of more
+than S$5 million to the plaintiffs’ fund.
+
+94 The defendant disputed causation and argued that the declining share price
+of Agritrade over the four-day period would have resulted in the plaintiff’s
+Loan-to-Value Ratio exceeding the limit anyway, thus leading to the same
+outcome (ie, a forced sale of its portfolio by the broker). In other words,
+the defendant contended that the loss would have occurred even if the shares
+were transferred on time.
+
+95 The court divided its analysis between the initial forced sale of shares by
+the broker and the subsequent two tranches of forced sales. The court agreed
+with the plaintiff that the initial forced sale of Agritrade shares had been
+caused by the defendant’s breach (Judah Value Activist at [164]). However, the
+court found that the plaintiff could not prove any loss in respect of this
+first forced sale because it had obtained the market price for the shares at
+the time of sale (Judah Value Activist at [165]). The court further found that
+the subsequent two tranches of forced sales by the broker were justified in
+view of falling Agritrade share prices. The question then was whether this
+drop in share price was caused by the initial forced sale and, by extension,
+the defendant’s breach. In answer to this question, the court found that, on
+the evidence, the plaintiff could not establish on a balance of probabilities
+that the first forced sale had caused the drop in Agritrade share prices
+(Judah Value Activist at [174]–[176]).
+
+Analysis and Decision
+
+96 While Judah Value Activist, like the present case, did involve a breach of
+a contractual obligation to transfer shares and a drop in the market value of
+the target shares, it is clear that the claim for loss there was made in a
+very different factual context. In substance, the claim there was that the
+defendant’s breach in failing to transfer Agritrade shares by the
+contractually stipulated deadline caused the plaintiff’s broker (a third
+party) to sell other Agritrade shares owned by the plaintiff, which in turn
+created downward pressure on the Agritrade share price and which triggered two
+further forced sales of the plaintiff’s own shares. It was in that context
+that the court found that the plaintiff could not establish “but-for”
+causation on the evidence.
+
+97 In fact, Eder IJ explicitly stated that the plaintiff there was not to be
+regarded as a buyer who had lost the market value of the shares (Judah Value
+Activist at [136]). Judah Value Activist is thus distinguishable from the
+present case, which does concern a buyer who lost the market value of shares.
+The causal link here is a much more direct one. Here, the defendants’ failure
+to transfer a particular lot of Uzma Shares by the contractual deadline
+resulted in the plaintiffs coming into ownership of those shares only at a
+much later time, when they were worth significantly less. On this basis, I
+find that “but-for” causation has been established by the plaintiffs.
+
+98 Returning to the overall question of whether the defendants’ breach is an
+effective cause, which requires the establishment of both causation in fact
+and causation in law, I note that the defendants do not contest causation in
+law – there was no averment that any intervening cause or event capable of
+breaking the chain of causation did so break that chain. Therefore, I am
+satisfied that the plaintiffs have established causation both in fact and in
+law ie, that the defendants’ breach was an effective cause of the plaintiffs’
+loss.
+
+Issue 4: Is the plaintiffs’ loss too remote?
+
+99 I turn next to the question of whether the plaintiffs’ loss is too remote.
+The governing principles here, which the parties do not dispute, are the two
+limbs of the rule in Hadley v Baxendale (1854) 9 Exch 341, which was accepted
+by the Court of Appeal in Out of the Box Pte Ltd v Wanin Industries Pte Ltd
+[2013] 2 SLR 363 (“Out of the Box”). Damages may be recovered under the first
+limb of the rule for “consequences that arise naturally according to the usual
+course of things or flowing from what may reasonably be supposed to be in the
+contemplation of both parties when they contracted”: Out of the Box at [17].
+Under the second limb, damages may also be recovered for consequences that are
+foreseeable as not unlikely, given the defendant’s knowledge of special facts
+and circumstances (which a reasonable person would not be taken to know): Out
+of the Box at [18].
+
+100 The defendants contend that neither limb of the rule in Hadley v Baxendale
+has been made out. I discuss each limb in turn.
+
+101 Addressing the first limb, the defendants contend that the plaintiffs’
+loss does not flow naturally from the defendants’ breach because there was a
+common understanding between the parties that Mr Chia only sought to possess
+the Uzma Shares and was not interested in their market value. I have
+summarised my findings at [71]–[77] above on why I disagree with this
+assertion and take the view that the monetary value attached to the Uzma
+Shares in the SPAs was not a notional or nominal figure.
+
+102 I therefore find that the plaintiffs’ loss in this case falls within the
+first limb of Hadley v Baxendale. The SPAs required the defendants to effect
+transfer of the Uzma Shares by 31 December 2019, with time being of the
+essence. The Uzma Shares were publicly traded, and ROS itself held shares in
+Uzma and could thus be presumed to have been aware of the share price on any
+given day. Mr Chia, Mr Lim and Mr Srinivasan, as directors of ROS, could also
+be presumed to have been aware of the same. Thus, on the date the SPAs were
+concluded, ie 15 November 2019, both parties (and the defendants in
+particular) would have reasonably been aware that any delay in the transfer of
+the Uzma Shares could result in loss to the plaintiffs if the share price
+dropped during the period of delay. The fact that this very sort of loss is
+recognised in the textbook commentaries (see [79] above) to be the normal
+measure of loss is also a factor in the plaintiffs’ favour. Plainly, the
+damages sought here are not something out of the ordinary or unusual. I also
+repeat my finding above (at [89]) that nothing in the SPAs excludes recovery
+for such a loss such that this could be regarded as falling outside of the
+parties’ reasonable contemplation.
+
+103 The reasoning in Judah Value Activist in relation to remoteness is also
+distinguishable. In that case, the court found that, absent special knowledge,
+it would not be within the reasonable contemplation of an ordinary investor,
+such as the defendant, that a breach of the subscription agreement would
+trigger a margin call on the investee fund, resulting in the fund’s broker
+forcing a sale of other shares in the fund. Thus, damages were not recoverable
+there under the first limb of Hadley v Baxendale. Those are not the facts
+here. In fact, it is difficult to imagine that the loss suffered here would be
+anything other than the usual sort of loss flowing naturally from the
+defendants’ breach.
+
+104 As for the second limb of Hadley v Baxendale, I agree with the defendants
+that this limb would not apply in this case. Such a claim would need to be
+specifically pleaded, and the plaintiffs have not done so. 111
+
+##### Foot Note 111
+
+×
+
+DCS at para 138.
+
+105 Nonetheless, given that the first limb of the rule has been established, I
+find that the plaintiffs’ claimed loss is not too remote.
+
+Issue 5: Did the plaintiffs take reasonable steps to mitigate their loss?
+
+106 The last issue to be addressed is whether the plaintiffs took reasonable
+steps to mitigate their loss. The basic principles here are well-established.
+A party must take all reasonable steps to mitigate its losses consequent on
+the defaulting party’s breach. If it fails to take such steps, then it cannot
+recover for any loss which could have been avoided but for its own
+unreasonable action or inaction. It is for the defaulting party to prove that
+the innocent party claiming damages has failed to mitigate (The “Asia Star”
+[2010] 2 SLR 1154 at [24]). Lastly, the inquiry as to whether the actions or
+omissions of the innocent party were reasonable is necessarily fact-sensitive.
+
+107 The duty to mitigate may in certain cases require an innocent party to
+accept an offer by the breaching party. Thus, it has been observed by the
+authors of The Law of Contract in Singapore (at para 22.147) that:
+
+… a refusal to entertain an offer by the promisor-in-breach to render
+substitute performance which would actually have a mitigatory effect could
+constitute an unreasonable course of conduct as amounting to a failure to
+mitigate.
+
+108 The defendants contend that the plaintiffs failed to mitigate because they
+unreasonably refused to accept the defendants’ offers to sell the Uzma Shares
+in the open market and transfer the sale proceeds to the plaintiffs. 112
+
+##### Foot Note 112
+
+×
+
+DCS at paras 143, 144.
+
+The defendants aver that they made three such offers on: 113
+
+##### Foot Note 113
+
+×
+
+DCS at para 145.
+
+(a) 26 December 2019, when the Uzma share price was RM 1.00;
+
+(b) 7 January 2020, when the Uzma share price was RM 0.98; and
+
+(c) 28 January 2020, when the Uzma share price was RM 0.915.
+
+109 The first offer can be swiftly disposed of. It is simply irrelevant in so
+far as the issue of mitigation is concerned because it was made before the
+plaintiffs were even under any obligation to mitigate. The duty to mitigate
+arises only from the date of breach (The Asia Star at [24]). At the point this
+offer was made on 26 December 2019, no breach had occurred, because the latest
+deadline for performance under the SPAs was 31 December 2019. It was also
+neither pleaded nor contended by any party that the defendants were in
+anticipatory breach of the SPAs by then. Since there is no question of the
+defendants being in breach of the SPAs at that point in time, there can
+equally be no question of the plaintiffs being under any duty to mitigate loss
+then.
+
+110 As such, only the second and third offers on 7 January and 28 January 2020
+respectively warrant consideration. I analyse these two offers together since
+the terms of both were materially the same. 114
+
+##### Foot Note 114
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at paras 191(b), 192 (10BA at p
+5284).
+
+111 In brief, I disagree with the defendants that the plaintiffs acted
+unreasonably in refusing to accept these offers. I come to this conclusion for
+several reasons. Firstly, there is an element of inconsistency in the
+defendants’ arguments here. The defendants contend vigorously that Mr Chia
+only wanted to possess the Uzma Shares for his own commercial reasons and was
+never interested in their monetary value (see [71(b)] above). Despite that,
+they now seek to blame Mr Chia for refusing an offer to take what was
+effectively the monetary value of those shares.
+
+112 Secondly, while innocent parties may in certain circumstances be required
+to mitigate by accepting offers by defaulting parties, it cannot be the case
+that they must do so for any and every offer made. The content of the offer
+matters, particularly in relation to whether it amounts to a significant
+variation of the contract.
+
+113 Two cases illustrate this point. In Payzu v Saunders [1918–19] All ER Rep
+219 (“Payzu”), the defendant seller had agreed to sell silk to the buyer on
+credit, with the silk to be delivered in multiple instalments and
+corresponding payments for each instalment to be paid within one month. The
+buyer was late in paying the first instalment, leading the seller to refuse to
+deliver the goods on the agreed credit terms. The seller was held to be in
+breach of the contract. However, the English Court of Appeal held that it was
+unreasonable for the buyer to refuse the seller’s offer to supply the silk on
+cash on delivery terms, as opposed to credit terms. The offer, which was
+adjudged to be reasonable, was one for delivery of the exact goods bargained
+for, and at the same price, the only difference being the mode of payment.
+This is to be contrasted against Strutt v Whitnell [1975] 1 WLR 870
+(“Strutt”). That case involved a contract for the sale of a house with vacant
+possession. The vendor, in breach of contract, was unable to deliver the house
+with vacant possession because it was occupied by a protected tenant. The
+vendor offered instead to repurchase the house. It was held that the buyer did
+not act unreasonably in refusing this offer. Clearly, the buyer was not
+expected to give up his claim to the property bargained for in the name of
+mitigation.
+
+114 In the case before me, what the parties had agreed to was that “on the
+Completion Date, or as soon as practicable thereafter”, the defendants were to
+take steps to “effect the transfer of the Uzma Shares…to the securities
+account of [Mr Chia] by way of an off-market transfer or by such other methods
+as reasonably practicable” [emphasis added]. 115
+
+##### Foot Note 115
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022, Tab CKW-12 at p 401 (1BA at p
+404).
+
+The mode of performance envisaged in the defendants’ offers was clearly
+significantly different from that which was originally bargained for by the
+plaintiffs. It did not involve any “such other method” of transferring the
+shares. Indeed, it did not contemplate any transfer at all. This amounted, in
+substance, not just to a different mode of performance but a significant
+variation of the SPAs, which would have changed the fundamental obligation of
+the defendants completely. Had Mr Chia accepted the offers, he would have
+received a completely different asset (ie, cash) from what he was promised
+under the contract (ie, the Uzma Shares). In my view, this was more akin to
+the offer made in Strutt rather than Payzu. In the circumstances, I find that
+it was not unreasonable for Mr Chia to reject the second and third offers.
+Innocent parties are only expected to take reasonable steps to mitigate their
+loss. In my judgment, it is quite unreasonable for the defendants, whose
+breach had caused the loss in the first place, to then require the plaintiffs
+to accept a variation of the contract that would effectively have transformed
+the transaction into a completely different bargain. I do not agree that the
+principles on mitigation of loss would place such a burden on the plaintiffs.
+
+115 Thirdly, on the facts, I do not find that these offers could realistically
+have been carried out by the defendants, even if the plaintiffs had accepted
+them. A course of action cannot be reasonable if it is not even realistic. It
+falls on the defendants to show that the offers, if accepted by the
+plaintiffs, could have been carried out by them, and carried out promptly,
+bearing in mind that time was of the essence.
+
+116 The undisputed facts are that (a) the Uzma Shares were held in ROS’
+securities account with its broker, Maybank Kim Eng; and (b) the parties were
+informed on 25 November 2019 that Maybank Kim Eng was unwilling to assist with
+the transfer of the Uzma Shares directly to Mr Chia due to ROS’ involvement in
+ongoing litigation. Thus, any transfer of the Uzma Shares would not have been
+possible until ROS opened an account with Maybank IB. It appears, on the
+evidence, that this account was only opened on 13 February 2020, well after
+the purported offers in mitigation made by the defendants. 116
+
+##### Foot Note 116
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 141 (1BA at pp 68–69); AEIC
+of Wong Kong Chen dated 5 January 2022 at p 48 (10BA at p 5270).
+
+117 Maybank Kim Eng’s unwillingness to assist was a point which surfaced in Mr
+Chia’s cross-examination: 117
+
+##### Foot Note 117
+
+×
+
+Certified Transcript (3 Mar 2022) at pp 8–9.
+
+Q. So if that open offer was available to you, why did you agree to extensions
+of time up to April 2020 in order to take possession of the shares?
+
+A. Because ROS cannot sell the Uzma shares.
+
+Q. I don’t understand. You want to clarify that?
+
+…
+
+A. … So Vincent from Maybank Kim Eng told me that I cannot buy or sell the
+Uzma shares, or rather that we cannot buy or sell Uzma shares. The intention
+of Maybank Kim Eng is to transfer the Uzma shares from Maybank Kim Eng to MIB,
+because the management is already aware of the transactions that we have, they
+are in possession of all the documents, they have gone through the compliance,
+the compliance, okay, have checked through, they are uncomfortable with the
+transaction, so their intention is just to transfer the Uzma shares to MIB,
+and let MIB handle everything. …
+
+The defendants submit that Mr Chia’s explanation is contradicted by evidence
+that a Maybank IB representative had, in a 7 January 2020 phone call with the
+parties, suggested selling the Uzma Shares in the open market and transferring
+the sale proceeds to Mr Chia. This was put to Mr Chia in the following
+exchange: 118
+
+##### Foot Note 118
+
+×
+
+Certified Transcript (3 Mar 2022) at p 12, lines 4–23.
+
+A: Yes, Alex as at 45:40 said:
+
+“Why can’t you just put the shares in an open market and have it, and transfer
+the cash?”
+
+Q: Correct. Isn’t that in complete contradiction to what you just told us just
+now, that Maybank, whether it’s Kim Eng or MIB, will not sell the shares on
+the open market?
+
+A: Just now, I say that Maybank Kim Eng will not allow us to sell Uzma shares.
+
+…
+
+Q: So do you acknowledge, then, at the very least, as of 7 January, there is
+very clear suggestion from MIB, ‘Go ahead and sell the shares in the open
+market and transfer the cash to Mr Chia.’ Isn’t that so?
+
+A: I agree, and I assume, okay, that Alex is saying, okay, sell the Uzma
+shares on MIB platform.
+
+[emphasis added]
+
+118 The point the defendants appear to be making is that the Uzma Shares could
+have been sold on the open market through Maybank IB even if Maybank Kim Eng
+was unwilling to assist. However, I find the evidence to be inconclusive on
+this point. Firstly, as mentioned above, ROS’ account with Maybank IB was only
+opened on 13 February 2020, after the offers were made by the defendants. 119
+
+##### Foot Note 119
+
+×
+
+AEIC of Wong Kong Chen dated 5 January 2022 at p 48 (10BA at p 5270).
+
+Secondly, even if I assume that the defendants could have opened this account
+sooner, I must also be satisfied that Maybank IB was in fact willing to
+facilitate this open market sale. The evidence on this point is quite
+unsatisfactory and I bear in mind that the burden lies on the defendants to
+prove their case on the plaintiffs’ failure to mitigate loss ([106] above).
+The exchanges relied upon by the defendants only show Mr Chia’s understanding
+or assumption that the Maybank IB representative suggested that the shares
+could be sold on the open market through the Maybank IB platform. However, Mr
+Chia’s assumptions as to what the Maybank IB representative might have meant
+or had in mind are hardly probative of whether Maybank IB was in fact willing
+to facilitate a sale of the Uzma Shares on the open market using its platform.
+Nor is it sufficient for the defendants to rely on what appears to be a single
+line from an extended telephone conference call, especially when the Maybank
+IB representative who made that statement did not give evidence at the trial.
+
+119 Further, Mr Chia’s evidence was that any negotiations following from his
+acceptance of the defendants’ offers would have required new agreements to be
+executed by the parties, which would result in further delays. 120
+
+##### Foot Note 120
+
+×
+
+AEIC of Chia Kuan Wee dated 5 January 2022 at para 230 (1BA at pp 104–105).
+
+I find that this explanation is not illogical and is in fact quite believable.
+
+120 Given the state of the evidence adduced at the trial, I return again to
+the premise that the burden of proof falls on the defendants, as the
+defaulting parties, to demonstrate that the plaintiffs failed to mitigate
+their loss (see [106]). In relation to the second and third offers
+specifically, it is also for the defendants to prove that their offers could
+realistically have been carried out. However, the defendants did not adduce
+any evidence of any confirmation from Maybank IB that it would have permitted,
+and would be able to promptly facilitate, an open market sale of the Uzma
+Shares on its platform once an account had been opened with it by ROS. Thus, I
+find that the defendants have not established on a balance of probabilities
+that the Uzma Shares could have been sold on the open market (whether by
+Maybank IB or Maybank Kim Eng), such that their second and third offers were
+indeed reasonable offers that the plaintiffs should have accepted.
+
+121 Before dealing with the defendants’ last argument on mitigation, I make
+one observation on the pleaded defence. The defendants had pleaded (at para 63
+of their Defence) that the plaintiffs would not have suffered any losses if
+they had accepted the defendants’ proposals, inter alia, for a direct share
+transfer to Mr Chia. 121
+
+##### Foot Note 121
+
+×
+
+Defence (Amendment No. 3) at para 63.
+
+This is yet another contradiction in the defendants’ case, given their earlier
+pleading that such a direct transfer was what necessitated the “complicated
+structure” leading to the delays in the first place (see [23]).
+
+122 Lastly, the defendants suggest that the plaintiffs should have mitigated
+their loss by waiting until February–March 2021 to sell the Uzma Shares (ie,
+when the price of shares in Uzma was on an upward trajectory). 122
+
+##### Foot Note 122
+
+×
+
+DCS at para 154.
+
+The defendants cite no authorities to support their somewhat bold proposition
+that a buyer of shares who received late delivery is under an obligation to
+mitigate by holding on to the shares until a time when the share prices
+increase in value. In my view, this is not a reasonable burden to place on the
+plaintiffs, who had in the first place been put in this position by the
+defendants’ breach. The defendants’ submission reeks of opportunism. With the
+benefit of hindsight and historical information (which was available at trial)
+on how the shares in Uzma performed on Bursa after 29 July 2020 through 2021,
+the defendants have, in my view, cherry-picked a point in time when the share
+price of Uzma had risen and now seek to persuade me that the Uzma Shares
+should have been sold at that point. Taken to its logical conclusion, if the
+share price in Uzma had instead dropped steadily for years following the
+defendants’ breach, the defendants would be able to argue that Mr Chia was
+obliged by law to hold on to the Uzma Shares in the hope that the share price
+might increase at some indeterminate point in time in the future. In fact, in
+such a scenario, the defendants might perhaps argue the converse – that Mr
+Chia failed to sell the shares soon enough. The absurdity that would result in
+the scenarios described above demonstrates the fallacy in the defendants’
+submission, which, as I mentioned above, is also not supported by any
+authority. I have little hesitation rejecting it. I reiterate that all that
+the law requires of an innocent party is to take reasonable steps in
+mitigation. It is not reasonable to require the innocent party to speculate on
+the market for an indefinite period, at the whim and fancy of the defendant,
+who then takes all the benefits of the upside and none of the consequences of
+the downside.
+
+123 For the foregoing reasons, I do not find Mr Chia’s conduct subsequent to
+the receipt of the Uzma Shares on 29 July 2020 to be unreasonable. His
+evidence was that he sold the Uzma Shares in several batches as and when he
+needed the money. 123
+
+##### Foot Note 123
+
+×
+
+Certified Transcript (2 Mar 2022) at p 9, lines 2–19.
+
+In my judgment, he was entitled to do so.
+
+Conclusion
+
+124 For the reasons detailed in this judgment, I find and hold that the
+plaintiffs succeed in their claim against the defendants. The plaintiffs are
+awarded damages on the basis of the value of the Uzma Shares on 31 December
+2019 (the original due date for transfer) and their market value on 29 July
+2020 (the actual date of transfer). Whilst the normal measure is to use the
+market value of the shares on the original due date for performance, the
+parties have in this case ascribed a specific monetary value to the Uzma
+Shares in the SPAs. Consequently, I find that it is fair to use that valuation
+as a starting point to be assessed against the market value of the Uzma Shares
+on 29 July 2020 – this method of assessment is in line with the plaintiffs’
+alternative damages pleading in their Statement of Claim (see [19]). Thus, the
+plaintiffs are entitled to damages in the sum of S$1,167,204.
+
+125 Pursuant to cl 7 of the SPAs, the defendants’ liability is joint and
+several and each is liable for the performance of the others. Accordingly,
+judgment is granted for the plaintiffs against the defendants jointly and
+severally in the sum of S$1,167,204, together with interest thereon at 5.33%
+per annum from the date of the writ of summons to the date of this judgment.
+
+126 I will hear the parties on costs separately, including on the questions of
+(a) whether the plaintiffs are entitled to costs from the defendants on a full
+indemnity basis under cl 8 of the SPAs, and (b) the quantum of costs.
+
+S Mohan  
+Judge of the High Court|  
+---|---  
+  
+Loong Tse Chuan, Ong Chin Kiat and Wee Su-Ann (Allen & Gledhill LLP) for the
+first and second plaintiffs;
+
+Ramachandran Doraisamy Raghunath, Mato Kotwani and Chua Ze Xuan (PDLegal LLC)
+for the first, second and third defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 31 Mar 2023 (11:00 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

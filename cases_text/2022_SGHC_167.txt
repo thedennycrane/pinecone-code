@@ -1,0 +1,3376 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 167
+
+Suit No 744 of 2018
+
+Between
+
+| 3D Networks Singapore Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| Voon South Shiong  
+---|---  
+(2)| Sunway Digital Pte Ltd  
+  
+… Defendants
+
+judgment
+
+[Contract — Illegality and public policy — Restraint of trade]
+
+[Contract — Misrepresentation — Fraudulent]
+
+[Equity — Fiduciary relationships — Duties]
+
+[Employment Law — Employees’ duties]
+
+[Confidence — Breach of confidence]
+
+[Tort — Inducement of breach of contract]
+
+[Tort — Conspiracy]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+3D Networks Singapore Pte Ltd
+
+  
+v
+
+  
+
+Voon South Shiong and another
+
+[2022] SGHC 167
+
+General Division of the High Court — Suit No 744 of 2018  
+Chan Seng Onn SJ  
+16–20, 24–27, 30 November, 1–4 December 2020, 7–10, 13–17, 20, 21 September, 3
+December 2021
+
+18 July 2022 Judgment reserved.
+
+Chan Seng Onn SJ:
+
+Introduction
+
+1 The tale told by the plaintiff in this matter is one familiar to most
+companies: a trusted employee resigns and collaborates with a competitor, and
+in so doing, sweeps up with him a large swathe of his former employer’s
+clients and other employees.
+
+2 The defendants, ie, the formerly trusted employee (the “first defendant”)
+and the competitor company he collaborated with (the “second defendant”), tell
+a different story.
+
+The parties
+
+3 The plaintiff is a Singapore-incorporated company in the business of supply,
+installation and implementation of information technology systems, with
+affiliated companies in various countries. 1
+
+##### Foot Note 1
+
+×
+
+Statement of Claim (Amendment No 3) dated 19 May 2021 (“SOC”) at para 2.
+
+It is a subsidiary of Planet One Pte Ltd (“Planet One”). 2
+
+##### Foot Note 2
+
+×
+
+Ambrose’s AEIC at para 34.
+
+4 The first defendant was an employee of the plaintiff. When he left the
+plaintiff on 15 April 2018, he held the positions of Country Manager,
+Singapore and Head of Global Accounts Management. 3
+
+##### Foot Note 3
+
+×
+
+Voon’s AEIC at paras 7 and 19.
+
+The first defendant is also the sole shareholder and director of Juice Master
+Pte Ltd (“JMPL”), a company incorporated in Singapore on 18 July 2014. JMPL is
+in the business of selling fresh fruit juice. 4
+
+##### Foot Note 4
+
+×
+
+Agreed Bundle Vol 16 (“16 AB”) 60–61.
+
+5 The second defendant is a company incorporated in Singapore in January 2018.
+5
+
+##### Foot Note 5
+
+×
+
+Defence of the 2nd Defendant (Amendment No 2) dated 4 June 2021 (“2D’s
+Defence”) at para 10.
+
+Its chief executive officer and sole director is Sng Sheau Huei (“Mr Sng”). 6
+
+##### Foot Note 6
+
+×
+
+Sng’s AEIC at para 1.
+
+Mr Sng describes the second defendant as being in the business of supplying,
+customising, installing and implementing digital transformation solutions, by
+which he means the integration of digital technology into all areas of a
+business. 7
+
+##### Foot Note 7
+
+×
+
+Sng’s AEIC at para 13.
+
+The second defendant has also branched out into various specific niches, such
+as AI software in the healthcare and education industries. 8
+
+##### Foot Note 8
+
+×
+
+Sng’s AEIC at paras 14 and 15.
+
+Apart from Mr Sng, Mr Samuel Tan, the second defendant’s chief operating
+officer, also features prominently in this matter. Prior to his employment
+with the second defendant, Mr Samuel Tan was employed by the plaintiff from
+2009 to 2013.
+
+Background
+
+The first defendant’s employment with the plaintiff
+
+6 The first defendant joined the plaintiff on 9 April 2007. The terms of his
+employment were initially governed by two documents: the letter offering him
+employment (the “Employment Letter”) and a non-disclosure agreement (the
+“NDA”). In 2011, the first defendant signed a third document known as the
+“Conduct Guide”, which set out certain practices and procedures which
+employees of the plaintiff were required to follow.
+
+7 In the 11 years that he was with the plaintiff, the first defendant assumed
+many positions. 9
+
+##### Foot Note 9
+
+×
+
+Voon’s AEIC at para 7.
+
+By the time he left, he was part of the senior management of the plaintiff,
+and reported directly to its chief executive officer. 10
+
+##### Foot Note 10
+
+×
+
+Ambrose’s AEIC at para 16.
+
+His role entailed substantial contact with the plaintiff’s clients and
+suppliers, with his network of connections having been built up over the
+years. 11
+
+##### Foot Note 11
+
+×
+
+SOC at para 40; Ambrose’s AEIC at paras 11–12.
+
+Further, the first defendant had considerable input in setting sales targets
+for each country manager and for each salesperson in the Global Accounts team.
+He was also heavily involved in the hiring, promotion and remuneration of
+sales employees, and had the power to approve claims for reimbursement and
+applications for leave by sales employees. 12
+
+##### Foot Note 12
+
+×
+
+Voon’s AEIC at paras 10–12; Ambrose’s AEIC at para 10.
+
+8 During his employment, the first defendant also incorporated a separate
+business venture, JMPL, on 18 July 2014, and was its sole director and
+shareholder. 13
+
+##### Foot Note 13
+
+×
+
+Voon’s AEIC at paras 124–125.
+
+JMPL’s primary business was to sell fruit juice under the brand of Beesket
+Juice Bar (“Beesket”). 14
+
+##### Foot Note 14
+
+×
+
+SOC at para 40; Defence of the 1st Defendant (Amendment No 1) dated 14 October
+2020 (“1D’s Defence”) at para 76.
+
+There is no indication that the plaintiff objected to the first defendant’s
+involvement with JMPL per se.
+
+The setting up of the second defendant
+
+9 Towards the end of 2017, Mr Sng met the first defendant, the two of them
+having been acquainted for a number of years already. 15
+
+##### Foot Note 15
+
+×
+
+Sng’s AEIC at para 20.
+
+Mr Sng shared that he was considering setting up a new entity in the digital
+transformation business. As the first defendant demonstrated some interest in
+this, Mr Sng asked the first defendant to share his thoughts. 16
+
+##### Foot Note 16
+
+×
+
+Sng’s AEIC at para 20.
+
+10 As a result of this discussion, the first defendant sent Mr Sng a detailed
+business plan in October 2017. The two of them continued to correspond over
+the next few months on this matter. 17
+
+##### Foot Note 17
+
+×
+
+Sng’s AEIC at para 21.
+
+The first defendant’s departure from the plaintiff
+
+11 On 16 March 2018, the first defendant resigned from the plaintiff; his last
+day of work was 15 April 2018. 18
+
+##### Foot Note 18
+
+×
+
+Voon’s AEIC at para 19.
+
+Shortly before the first defendant’s last day of work, on 13 April 2018, the
+plaintiff and JMPL entered into a consulting agreement, whereby JMPL was to
+provide the plaintiff with consultancy services from 16 April 2018 to 15 July
+2018. 19
+
+##### Foot Note 19
+
+×
+
+Voon’s AEIC at p 39.
+
+It is not disputed that the main purpose of this consulting agreement was for
+the first defendant to provide advice and assistance to the plaintiff as an
+external consultant. 20
+
+##### Foot Note 20
+
+×
+
+Ambrose’s AEIC at para 7; Voon’s AEIC at para 21.
+
+12 Shortly after the first defendant’s last day of work, on 17 April 2018,
+JMPL also entered into an agreement with the second defendant. 21
+
+##### Foot Note 21
+
+×
+
+Voon’s AEIC at para 29.
+
+Under this agreement, JMPL was to provide business development services to the
+second defendant for a period of 12 months. Once more, notwithstanding the
+fact that it was JMPL which was party to an agreement with the second
+defendant, it was the first defendant who was providing services to the second
+defendant. 22
+
+##### Foot Note 22
+
+×
+
+Voon’s AEIC at para 30.
+
+The reason for JMPL’s involvement was apparently because the second defendant
+could only issue invoices to an entity. 23
+
+##### Foot Note 23
+
+×
+
+Voon’s AEIC at para 30; Sng’s AEIC at para 23.
+
+13 Shortly after JMPL’s agreement with the second defendant, the plaintiff
+learned that the first defendant was providing services to the second
+defendant. Hence, on 19 April 2018, the plaintiff terminated its consulting
+agreement with JMPL. 24
+
+##### Foot Note 24
+
+×
+
+Ambrose’s AEIC at para 9.
+
+14 The first defendant’s departure from the plaintiff coincided with a steady
+stream of employees leaving the plaintiff to join the second defendant between
+March and August 2018. These eight employees were: 25
+
+##### Foot Note 25
+
+×
+
+PCS at para 114.
+
+(a) Jenny Woo Sok Leng (“Ms Woo”), who held the title of Sales Administrator
+when she left the plaintiff;
+
+(b) Tay Chek Kwang (“Mr Tay”), Solution Consultant (Pre-Sales);
+
+(c) Alicia Tan Kar Mun (“Ms Tan”), Account Manager;
+
+(d) Liau Ling Kai (“Mr Liau”), Solution Consultant (Pre-Sales);
+
+(e) Cazaria Carol Lee Song Leng (“Ms Lee”), Service Account Manager;
+
+(f) Kurniawan Chandrajaya (“Mr Kurniawan”), Solution Consultant (Pre-Sales);
+
+(g) Lim Puay Koon (“Mr Lim”), Regional Project Manager; and
+
+(h) Yeo Choon Sheng (“Mr Yeo”), Head of Solution (Pre-Sales).
+
+15 For completeness, a ninth employee, Lerraine Chua (“Ms Chua”), who was an
+Account Manager, also left the plaintiff in this same period. She applied to
+join the second defendant but did not accept the employment offer in the end.
+I shall refer to these nine employees as the “Former Employees”.
+
+The parties’ cases
+
+16 The primary thrust of the plaintiff’s case against the first defendant
+concerns the events surrounding the first defendant’s departure. The plaintiff
+claims that the first defendant (a) solicited the Former Employees along with
+suppliers and customers of the plaintiff and diverted them to the second
+defendant; and (b) misappropriated the plaintiff’s confidential and
+proprietary information. There is also a secondary edge to the plaintiff’s
+case, which has to do with alleged misconduct on the first defendant’s part
+throughout his employment with the plaintiff, through his handling of
+remuneration and reimbursements as well as the utilisation of the plaintiff’s
+resources for the benefit of JMPL.
+
+17 Arising from these events, the plaintiff submits that the first defendant
+is liable for breach of contract, breach of fiduciary duties, breach of
+implied duties of good faith and fidelity, breach of confidence and fraudulent
+misrepresentation.
+
+18 In addition, the plaintiff claims that both defendants induced the Former
+Employees to breach their employment contracts. Further, both defendants are
+said to be liable in both unlawful means conspiracy and lawful means
+conspiracy in relation to the events surrounding the first defendant’s
+departure from the plaintiff.
+
+19 Regarding the plaintiff’s claims in unlawful means conspiracy and lawful
+means conspiracy, the defendants submit that the discussion between the first
+defendant and Mr Sng around the end of 2017 did not, in fact, amount to an
+agreement. They also argue that the plaintiff has failed to produce sufficient
+evidence to prove its claims on the balance of probabilities.
+
+Procedural history
+
+20 The plaintiff commenced the present action against the defendants on 25
+July 2018. An injunction was granted on 26 September 2018, prohibiting the
+defendants from using or disclosing the plaintiff’s trade secrets and
+confidential or proprietary information and from soliciting or inducing the
+plaintiff’s employees to terminate their employment with the plaintiff.
+
+21 The trial was bifurcated, and the liability stage of the trial was heard
+before me.
+
+Issues to be determined
+
+22 The following issues arise for determination in this matter:
+
+(a) whether the first defendant breached the express contractual obligations
+he owed to the plaintiff;
+
+(b) whether the first defendant breached any implied duties of good faith and
+fidelity owed to the plaintiff;
+
+(c) whether the first defendant breached any fiduciary duties owed to the
+plaintiff;
+
+(d) whether the first defendant is liable for fraudulent misrepresentation;
+
+(e) whether the defendants are liable in breach of confidence;
+
+(f) whether the defendants are liable for inducing the Former Employees to
+breach their employment contracts;
+
+(g) whether the defendants are liable in unlawful means conspiracy; and
+
+(h) whether the defendants are liable in lawful means conspiracy.
+
+23 I shall address each of these issues in turn, starting with the plaintiff’s
+claim in breach of contract against the first defendant, which encompasses
+most of the wrongdoings alleged to have taken place in this case.
+
+Breach of contract
+
+24 It is not disputed that the documents setting out the contractual
+obligations between the plaintiff and the first defendant were the Employment
+Letter, the NDA and the Conduct Guide. 26
+
+##### Foot Note 26
+
+×
+
+1D’s Defence at para 23.
+
+25 The relevant contractual obligations said to have been breached by the
+first defendant may be summarised as follows:
+
+(a) an obligation, during the period of the first defendant’s employment and
+for a period of 12 months thereafter, to not solicit or encourage any employee
+of the plaintiff to either terminate their employment with the plaintiff or
+accept employment with any future employer of the first defendant (the “Non-
+solicitation Obligation”);
+
+(b) an obligation, during the period of the first defendant’s employment and
+for a period of 12 months thereafter, to not take away, or solicit, or accept
+employment from, or otherwise perform services for any of the plaintiff’s
+customers, clients or direct or indirect competitors with whom he may have had
+contact with over the last 12 months of his employment, without the prior
+written approval of the plaintiff (the “Non-compete Obligation”);
+
+(c) an obligation, during the period of the first defendant’s employment and
+thereafter without limit in respect of time, to not use or disclose any
+confidential information concerning the plaintiff (the “Confidentiality
+Obligation”); and
+
+(d) an obligation to avoid conflicts of interest (the “Non-conflict
+Obligation”).
+
+26 The plaintiff also refers to two specific clauses, cll 5 and 7, from the
+Conduct Guide, which are said to have been breached by the first defendant: 27
+
+##### Foot Note 27
+
+×
+
+1 AB 185–186.
+
+5\. Discrimination and Harassment
+
+The diversity of Planet One’s Employees is a tremendous asset. We are firmly
+committed to providing equal opportunity in all aspects of employment and will
+not tolerate any illegal discrimination or harassment of any kind. Examples
+include derogatory comments based on racial, ethnic or religious
+characteristics and unwelcome sexual advances.
+
+…
+
+7\. Record-Keeping
+
+Planet One requires honest and accurate recording and reporting of information
+in order to make responsible business decisions.
+
+Some employees may use business expense accounts, which must be documented and
+recorded accurately. …
+
+27 It is not disputed that references to “Planet One” in the Conduct Guide are
+to be construed as references to the plaintiff.
+
+28 I shall first consider the first defendant’s argument that the Non-
+solicitation Obligation and the Non-compete Obligation are unenforceable,
+before dealing with whether each alleged instance of misconduct on the first
+defendant’s part breaches any of the obligations as set out above.
+
+Enforceability of the Non-solicitation Obligation and the Non-compete
+Obligation
+
+29 The Non-solicitation Obligation is set out in the Employment Letter and in
+the NDA: 28
+
+##### Foot Note 28
+
+×
+
+1 AB 134 and 138.
+
+Employment Letter cl 13.1(a)
+
+13.1 During the term of your employment or engagement and for a period of
+twelve (12) months thereafter, you will not do any of the acts described in
+(a), (b) or (c) below, directly or through others, either yourself or for any
+other person or business entity:
+
+(a) You will not solicit or encourage any employee of [the plaintiff] to
+either terminate his or her employment with [the plaintiff] or accept
+employment with any future employer of yours.
+
+…
+
+NDA cl 8(a)
+
+8\. I agree that, during the term of my employment or engagement and for a
+period of twelve (12) months thereafter [“the Period of Restraint”], I will
+not do any of the acts described in (a), (b) or (c) below, directly or through
+others, either for myself or for any other person or business entity:
+
+(a) I will not solicit or encourage any employee of the Company to either
+terminate his or her employment with the Company or accept employment with any
+future employer of mine;
+
+…
+
+30 The Non-compete Obligation is similarly encapsulated in the Employment
+Letter and the NDA: 29
+
+##### Foot Note 29
+
+×
+
+1 AB 134 and 138.
+
+Employment Letter cll 13.1(b) and (c)
+
+13.1 During the term of your employment or engagement and for a period of
+twelve (12) months thereafter [“Period of Restraint”], you will not do any of
+the acts described in (a), (b) or (c) below, directly or through others,
+either yourself or for any other person or business entity:
+
+…
+
+(b) You will not without the prior written approval of the Company take away,
+or solicit, or accept employment from, or otherwise perform services for any
+of the Company’s customers or clients whom you (or any of your employees,
+agents or partners) may have had contact within the last twelve (12) months of
+your employment or engagement with the Company which would by the nature of
+the employment or engagement will be detrimental or may be perceived to be
+detrimental to the best interest of the Company by reference to the Company’s
+Intellectual Property Rights, credibility, stature profitability or business
+or put such Confidential Information and Confidential Materials at risk of
+exposure or unauthorized use.
+
+(c) You will not without prior written approval of the Company take away,
+solicit or accept employment from, or otherwise performs services for any of
+the Company’s direct or indirect competitors which are involved in the same or
+similar business of the Company which would by the nature of the employment or
+engagement will be detrimental or may be perceived as detrimental to the best
+interests of the Company by reference to the Company’s Intellectual Property
+Rights, credibility, stature, profitability or business or put such
+Confidential Information and Confidential Materials at risk of exposure or
+unauthorized use.
+
+NDA cl 8(b) and (c)
+
+8 I agree that, during the term of my employment or engagement and for a
+period of twelve (12) months thereafter [“the Period of Restraint”], I will
+not do any of the acts described in (a), (b) or (c) below, directly or through
+others, either for myself or for any other person or business entity:
+
+…
+
+(b) I will not without the prior written approval of the Company take away, or
+solicit, or accept employment from, or otherwise perform services for any of
+the Company’s customers or clients whom I (or any of my employees, agents or
+partners) may have had contact within the last twelve (12) months of my
+employment or engagement with the Company which would by the nature of the
+employment or engagement will be detrimental or may be perceived as
+detrimental to the best interests of the Company by reference to the Company’s
+Intellectual Property Rights, credibility, stature, profitability or business
+or put such Confidential Information and Confidential Materials at risk of
+exposure or unauthorized use.
+
+(c) I will not without the prior written approval of the Company take away,
+solicit or accept employment from, or otherwise perform services for any of
+the Company’s direct or indirect competitors which are involved in the same or
+similar business of the Company which would by the nature of the employment or
+engagement will be detrimental or may be perceived as detrimental to the best
+interests of the Company by reference to the Company’s Intellectual Property
+Rights, credibility, stature, profitability or business or put such
+Confidential Information and Confidential Materials at risk of exposure or
+unauthorized use.
+
+31 Both of these obligations are covenants in restraint of trade. It is well-
+established that there cannot be a bare and blatant restriction of the freedom
+to trade; there must be a legitimate proprietary interest to be protected (Man
+Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte
+Ltd) v Wong Bark Chuan David [2008] 1 SLR(R) 663 (“Man Financial”) at [79]).
+In an employment context, although the two main legitimate proprietary
+interests which have been identified are trade secrets and trade connection,
+an employer may also have a legitimate proprietary interest in maintaining a
+stable, trained workforce (Man Financial at [81] and [121]). However, even
+where a legitimate proprietary interest is shown, the court will ensure that
+the covenant in restraint of trade goes no further than what is necessary to
+protect the interest concerned (Man Financial at [79]). In this respect, the
+covenant must be reasonable in reference to the interests of the parties
+concerned and reasonable in reference to the interests of the public (Man
+Financial at [75]–[76]).
+
+Legitimate proprietary interests
+
+32 I accept that both the Non-solicitation Obligation and the Non-compete
+Obligation protect legitimate proprietary interests. As stated in Man
+Financial (at [121]), the maintenance of a stable, trained workforce is a
+legitimate proprietary interest that the employer is entitled to protect via a
+non-solicitation clause. The defendants have not disputed that this applies to
+the Non-solicitation Obligation in the present case.
+
+33 As for the Non-compete Obligation, the plaintiff submits that it has a
+legitimate interest in protecting its trade connection. In this respect, I
+accept that the first defendant had a substantial role in interacting with
+clients and suppliers. I do not find this to be displaced by the first
+defendant’s protestations that he did not have extensive contact with the
+plaintiff’s clients and suppliers on a day-to-day basis. 30
+
+##### Foot Note 30
+
+×
+
+Voon’s AEIC at paras 16 and 17.
+
+As he admitted in his affidavit of evidence-in-chief and at trial, the first
+defendant remained in contact with the upper management of the plaintiff’s
+clients and suppliers, 31
+
+##### Foot Note 31
+
+×
+
+Transcript, 26 November 2020 at p 103 line 11 to p 105 line 1 and p 116 line 9
+to p 119 line 21.
+
+and would step in to seal projects 32
+
+##### Foot Note 32
+
+×
+
+Voon’s AEIC at para 16.
+
+or to entertain the plaintiff’s clients all over the world 33
+
+##### Foot Note 33
+
+×
+
+Transcript, 26 November 2020 at p 111 line 8 to p 112 line 2.
+
+. This was supported by various emails exhibited by the plaintiff which
+demonstrated that the first defendant took an active role in liaising with and
+managing clients between 2016 and 2018. 34
+
+##### Foot Note 34
+
+×
+
+Ambrose’s AEIC at pp 94–125.
+
+34 I find the present situation to be similar to that in Tan Kok Yong Steve v
+Itochu Singapore Pte Ltd [2018] SGHC 85 (“Itochu”). In that case, the
+defendant ex-employer brought a counterclaim against the plaintiff ex-employee
+for breach of a non-competition undertaking. The court found that the ex-
+employee had strong connections with the ex-employer’s customers (at [86]),
+and that given his knowledge and influence over them, he could have easily
+diverted business from the ex-employer to himself or his new employer (at
+[87]). The ex-employer therefore had a legitimate interest in protecting its
+trade connections by way of the non-competition undertaking from interference
+by the ex-employer post-resignation (at [87]). Although the nature of the
+relationship between the ex-employee and the ex-employer’s customers in Itochu
+appears to have borne a personal element (see [86] of Itochu) that does not
+appear to be present between the first defendant and the plaintiff’s clients
+and suppliers, I do not find that to be a relevant distinguishing factor. The
+key point is that the first defendant was in a position to divert business
+from the plaintiff, and that the plaintiff had a legitimate proprietary
+interest in protecting its trade connection from interference by the first
+defendant through the Non-compete Obligation.
+
+35 I do not consider to be persuasive the second defendant’s objection 35
+
+##### Foot Note 35
+
+×
+
+2DCS at para 41–42.
+
+that the plaintiff had not pleaded or adduced evidence on the legitimate
+proprietary interest sought to be protected by the Non-compete Obligation. The
+enforceability of the Non-compete Obligation is a matter of law and does not
+have to be pleaded. What matters, for the purposes of enabling the defendants
+to know the case being brought against them and to respond, are the underlying
+facts relevant to the Non-compete Obligation, ie, the position of the first
+defendant vis-à-vis the plaintiff’s clients and suppliers. These facts were
+adequately pleaded 36
+
+##### Foot Note 36
+
+×
+
+SOC at paras 3, 5 and 6.
+
+and substantiated 37
+
+##### Foot Note 37
+
+×
+
+Ambrose’s AEIC at paras 10–20.
+
+, and the plaintiff’s case on the legitimate proprietary interest was set out
+clearly in its opening statement. 38
+
+##### Foot Note 38
+
+×
+
+Plaintiff’s opening statement at para 39.
+
+There is therefore no failure of pleadings, evidence or arguments undermining
+the defendants’ ability to put forth their case on this issue.
+
+Reasonableness
+
+36 I turn now to the reasonableness of the Non-solicitation Obligation and the
+Non-compete Obligation. There is no indication in this case that either
+obligation would threaten the interests of the public. I therefore focus on
+the reasonableness of the obligations in relation to the interests of the
+parties.
+
+37 In respect of the Non-solicitation Obligation, the sticking point is the
+prohibition on the first defendant from soliciting “any employee”. As noted by
+the court in Man Financial (at [110], “it would generally be more difficult to
+justify a non-solicitation clause which covers the solicitation of just ‘any’
+employee”. Indeed, the court elaborated that:
+
+… [I]f the non-solicitation clause concerned covers employees whose work
+entails very minimal (or even no) expertise and does not form an integral part
+of the employer’s operations, it would (absent extraordinary circumstances) be
+extremely difficult for the employer to justify the reasonableness of that
+particular clause. …
+
+38 There is, of course, the caveat that everything, in the final analysis,
+depends on the particular factual matrix of the matter (Man Financial at
+[110]). The notable questions that may be asked include the categories of
+colleagues over whom the employee in question had influence, and the ease with
+which the employer might replace departed employees (see Man Financial at
+[108]).
+
+39 The plaintiff argues that the first defendant had “a degree” of influence
+over and knowledge of all the plaintiff’s employees. 39
+
+##### Foot Note 39
+
+×
+
+PCS at para 584.
+
+In support of this, the plaintiff’s regional legal counsel, Mr Adrian Anand
+Ambrose (“Mr Ambrose”), testified that the plaintiff has a relatively flat
+organisational structure, and that the Singapore sales team and the Global
+Accounts team reported to the first defendant. 40
+
+##### Foot Note 40
+
+×
+
+Transcript, 17 November 2020, p 54 line 13 to p 56 line 17.
+
+40 I do not think that this suffices to demonstrate that the Non-solicitation
+Obligation goes no further than what is necessary to protect the plaintiff’s
+interest in having a stable, trained workforce. I note that Mr Ambrose’s
+testimony was given in the context of questioning on the sales operations of
+the plaintiff and the first defendant’s involvement therein. However, there
+are evidently other departments to the plaintiff: for instance, Mr Ambrose’s
+affidavit of evidence-in-chief draws a distinction between the plaintiff’s
+sales team and its engineers. 41
+
+##### Foot Note 41
+
+×
+
+Ambrose’s AEIC at para 61.
+
+It is also noteworthy that the first defendant’s job scope during his
+employment with the plaintiff was carefully delineated in respect of sales
+employees only. 42
+
+##### Foot Note 42
+
+×
+
+Ambrose’s AEIC at para 10.
+
+The plaintiff has not shown that the first defendant possessed influence over
+all non-sales employees to any significant degree. The plaintiff has also not
+shown that all of its employees were integral to its operations or difficult
+to replace.
+
+41 Therefore, I find that the plaintiff has not shown that the Non-
+solicitation Obligation was reasonable as between the parties. It follows that
+the Non-solicitation Obligation is not valid or enforceable.
+
+42 Turning to the Non-compete Obligation, I accept the plaintiff’s submission
+that the period of restraint of one year is reasonable as an estimate of how
+long it would take for the plaintiff to rebuild its trade connection. However,
+the prohibition on any employment or engagement which “by the nature of the
+employment or engagement will be detrimental or may be perceived to be
+detrimental to the best interest of the Company” goes well beyond what is
+necessary to protect the plaintiff’s interest in maintaining its trade
+connection. I note that the breadth of “best interest of the Company” is
+qualified with the words “by reference to the Company’s Intellectual Property
+Rights, credibility, stature, profitability or business or put such
+Confidential Information and Confidential Materials at risk of exposure or
+unauthorized use”. However, “credibility, stature, profitability or business”
+are each still extremely broad; each of them ostensibly encompasses matters
+which do not relate to the plaintiff’s trade connection. To give just one
+example: say the first defendant joins a competitor in a non-sales capacity –
+for instance, as an engineer. He does not engage his prior knowledge relating
+to the plaintiff’s trade connection. The plaintiff and the competitor then
+compete in a tender for a project from a new client. The first defendant works
+on the tender in his capacity as an engineer, and the competitor wins the
+tender. In so doing, he affects the profitability and business of the
+plaintiff – in defiance of the prohibition of the Non-compete Obligation – but
+has not interfered with the plaintiff’s trade connection, in the sense of its
+existing client base. That the Non-compete Obligation extends beyond such a
+scenario to employment which may be perceived as detrimental only emphasises
+the point. I therefore find that the Non-compete Obligation was not reasonable
+as between the parties, and that it is not valid or enforceable either.
+
+Severance
+
+43 At this juncture, the issue of severance arises: can the Non-solicitation
+Obligation and the Non-compete Obligation be severed in such a way as to
+preserve some enforceable remnant? The plaintiff appears to have been content
+to rest its case on the enforceability of these obligations as they are and
+did not make any submissions on severance. Nonetheless, where a restraint of
+trade clause is found to be unreasonable, the court should still consider
+whether the doctrine of severance could apply so that the reasonable part of
+the clause can be upheld (CLAAS Medical Centre Pte Ltd v Ng Boon Ching [2010]
+2 SLR 386 at [68]).
+
+44 The prerequisites for severance are (Lek Gwee Noi v Humming Flowers & Gifts
+Pte Ltd [2014] 3 SLR 27 (“Humming Flowers”) at [155]):
+
+(a) The unenforceable provision must be capable of being removed without
+adding to or modifying the wording of what remains with the remainder
+continuing to make grammatical sense.
+
+(b) The remaining contractual terms must continue to be supported by adequate
+consideration.
+
+(c) The severance must not change the fundamental character of the contract
+between the parties.
+
+45 For the Non-solicitation Obligation, the prohibition on soliciting “any
+employee” is not susceptible to the “blue pencil” test in any way. As for the
+Non-compete Obligation, the words “or may be perceived to be detrimental” are
+an obvious candidate for the “blue pencil” test, leaving the prohibition on
+employment “which would by the nature of the employment or engagement will be
+detrimental to the best interest of the Company”. However, as I have already
+noted at [42] above, this would still go well beyond what is necessary to
+protect the plaintiff’s interest in maintaining its trade connection. I should
+also note that the “notional severance” approach – whereby the court is
+entitled not just to delete the parties’ words but also to alter or even
+insert words – has not been accepted into Singapore law (see Smile Inc Dental
+Surgeons Pte Ltd v Lui Andrew Stewart [2012] 4 SLR 308 at [32]–[35] and
+Humming Flowers at [174]–[186]).
+
+46 I therefore find that the doctrine of severability does not apply to the
+Non-solicitation Obligation and the Non-compete Obligation. Thus, while these
+obligations protect legitimate proprietary interests, the unreasonableness of
+these obligations renders them unenforceable.
+
+The first defendant’s alleged breaches
+
+47 Given my analysis above, only the Confidentiality Obligation, the Non-
+conflict Obligation and cll 5 and 7 of the Conduct Guide remain to be
+considered. Therefore, I now turn to consider whether various instances of
+misconduct alleged against the first defendant have been made out, and whether
+these constitute breaches of the remaining contractual clauses.
+
+48 As alluded to above, there are two broad categories of alleged misconduct.
+The first category relates to the first defendant’s alleged involvement with
+the second defendant, encompassing the first defendant’s assistance in setting
+up the second defendant; the first defendant’s solicitation of the plaintiff’s
+employees; and the first defendant’s diversion of the plaintiff’s customers.
+The second category of alleged misconduct relates to other misdemeanours
+during the first defendant’s employment with the plaintiff, ie, the first
+defendant’s activities concerning his side business, JMPL/Beesket; and the
+first defendant’s manipulation of records and payments relating to himself and
+other employees of the plaintiff.
+
+Assistance in setting up the second defendant
+
+49 I begin with the first defendant’s assistance in setting up the second
+defendant. The primary instance of alleged wrongdoing in this regard concerns
+the first defendant’s preparation and communication of business plans for
+setting up the second defendant. On 6 October 2017, the first defendant sent
+Mr Sng a document titled “Business Plan Proposal” accompanied by a spreadsheet
+setting out various figures and projections relating to the proposed business.
+The first defendant followed these up with emails on 17 October 2017, 16
+November 2017 and 7 December 2017, elaborating on various aspects of the
+business plans.
+
+50 The first defendant does not deny that he prepared and sent the business
+plans to Mr Sng. 43
+
+##### Foot Note 43
+
+×
+
+1DCS at para 34.
+
+His explanation for this is that the drafting of the business plans was purely
+an exercise for Mr Sng to gauge the first defendant’s capabilities. 44
+
+##### Foot Note 44
+
+×
+
+1DCS at para 34.
+
+To this end, he suggested on cross-examination that the business plans were
+merely a “story”, or a sort of extended “resume”, where he just “came and
+[wrote] whatever [he felt] like”. 45
+
+##### Foot Note 45
+
+×
+
+Transcript, 26 November 2020 at p 136 lines 6–16.
+
+51 However, it is plain from the documents that were sent to Mr Sng that the
+business plans were not simply a thought exercise by which the first defendant
+sought to flex his capabilities in the abstract. Two aspects of the business
+plans stand out.
+
+52 First, the executive summary of the “Business Plan Proposal” specifically
+alluded to “key members” of the Sales and Support team of a company referred
+to as “Company A” that was “looking to move on as a team”. 46
+
+##### Foot Note 46
+
+×
+
+1PBAEIC at p 238.
+
+The team’s achievements were listed in exacting detail: for instance, they
+“[g]rew the business in Singapore from USD6M to USD60M and Asean business from
+USD20+M to USD90+M”. 47
+
+##### Foot Note 47
+
+×
+
+1PBAEIC at p 249.
+
+The spreadsheet also contained a section on salaries of certain employees,
+whose names were “confidential” but who were given abbreviations, which was
+“based on [a] current compensation structure”. 48
+
+##### Foot Note 48
+
+×
+
+1PBAEIC at p 230.
+
+Mr Sng subsequently requested the full names of these employees. 49
+
+##### Foot Note 49
+
+×
+
+Transcript, 8 September 2021 at p 85 line 20 to p 86 line 9.
+
+The first defendant obliged with an expanded spreadsheet sent on 17 October
+2017. The names which were provided were the names of the plaintiff’s
+employees.
+
+53 Second, the plans also contained details of the clients envisioned for the
+business. While these clients were not explicitly referred to by their names,
+and were instead given only abbreviations as well, they were sorted by their
+historical sales from the financial years between 2013 to 2017. Copious
+projections were also given as to the income which could be derived from these
+clients. A forensically recovered version of the plans, with full names
+attached to the clients rather than abbreviations, showed that these were the
+plaintiff’s clients as well.
+
+54 In other words, this was no mere pie-in-the-sky proposal. The level of
+detail and specificity involved in the proposal undermines the plaintiff’s
+suggestion that he was simply writing whatever he felt like. If he was merely
+spinning a tale from thin air, the details given in the proposal would have
+been unnecessary, and indeed counterproductive. Anyone can paint a picture of
+a financially viable business plan by conjuring a fictitious successful team
+and positive figures. Such a portrait proves only the painter’s imagination
+and not his business acumen. The only way the proposal could have been
+meaningful in the least is if the details were backed up by reality – that is,
+if the plan involved an existing team with a proven client base and
+established incomes and expenditures. As the evidence showed, what the plan
+disclosed was the plaintiff’s team, with the plaintiff’s client base and the
+plaintiff’s incomes and expenditures. Information on all of these items falls
+comfortably within the restrictions of the Confidentiality Obligation, which
+prohibits the first defendant from revealing “any information concerning the
+products, organization, business, finances, transactions or affairs of the
+Company”. I find, therefore, that the preparation and communication of the
+business plans to Mr Sng was a breach of the first defendant’s Confidentiality
+Obligation.
+
+55 Further, the first defendant’s preparation and communication of business
+plans that explicitly contemplated the poaching of his colleagues and
+subordinates plainly disclosed a conflict of interest. I therefore find that
+the first defendant also thereby breached the Non-conflict Obligation, as set
+out in cl 10 of the Employment Letter and cll 2 and 3 of the Conduct Guide:
+
+Employment Letter cl 10
+
+10\. CONFLICT OF INTEREST
+
+You shall not, at any time, directly or indirectly during your service with 3D
+Networks and/or its related companies, without consent in writing first
+obtained from 3D Networks and/or its related companies, engage or interest
+yourself – whether for reward, commission, compensation, or gratuity – whether
+paid or unpaid, in cash or in kind – in any work or business, or undertake any
+such office, which would interfere with the performance of your duties with 3D
+Networks and/or its related companies.
+
+Conduct Guide cl 2
+
+2\. Conflicts of Interest
+
+… It shall be a conflict of interest for a Planet One employee to work
+simultaneously for a competitor, client or supplier. …
+
+Conduct Guide cl 3
+
+3\. Corporate Opportunities
+
+Employees, officers and directors are prohibited from taking for themselves
+personal opportunities that are discovered through the use of corporate
+property, information or position without the consent of the Board of
+Directors. No employee may use corporate property, information, or position
+for improper personal gain, and no employee may compete with Planet One
+directly or indirectly. Employees, officers and directors owe a duty to Planet
+One to advance its legitimate interests when the opportunity to do so arises.
+
+56 There are two further breaches alleged to have been committed by the first
+defendant in relation to the setting up of the second defendant. The first is
+that in January 2018, the second defendant’s chief operating officer, Mr
+Samuel Tan, sent emails to the first defendant, as well as Mr Yeo, Mr Liau and
+Mr Lim, concerning the second defendant’s logo, name cards and website. 50
+
+##### Foot Note 50
+
+×
+
+2 AB 269–391 and 3 AB 165.
+
+The first defendant responded to these emails, providing some feedback as to
+the colour of the name cards. 51
+
+##### Foot Note 51
+
+×
+
+3 AB 164.
+
+The second breach concerns the first defendant’s transmission of various
+internal manuals from the plaintiff to Mr Samuel Tan on 26 January 2018. 52
+
+##### Foot Note 52
+
+×
+
+3 AB 312–400 and 4 AB 1–67.
+
+57 I find that these actions clearly constituted breaches of the first
+defendant’s contractual obligations. The feedback provided by the first
+defendant on the name cards was in service of a competitor and was therefore a
+breach of the Non-conflict Obligation, though prima facie, it is difficult to
+say what damage was sustained by the plaintiff. The transmission of the
+plaintiff’s internal manuals, meanwhile, was a clear breach of the
+Confidentiality Obligation.
+
+Solicitation of employees
+
+58 The next instance of alleged misconduct involves the first defendant
+soliciting, encouraging or otherwise causing the Former Employees to terminate
+their employment with the plaintiff and/or to accept employment with the
+second defendant. This is said to be a breach of the Non-solicitation
+Obligation and the Non-conflict Obligation.
+
+59 I have found above that the Non-solicitation Obligation is unenforceable. I
+shall therefore only consider whether the first defendant’s conduct in
+relation to the departure of the Former Employees from the plaintiff
+constitutes a breach of the Non-conflict Obligation.
+
+60 I find that the plaintiff’s case in this regard has been proven in respect
+of two of the Former Employees, Ms Chua and Ms Tan. On 3 April 2018, the first
+defendant sent Mr Samuel Tan the personal details of Ms Chua, along with
+information on her remuneration at the time. 53
+
+##### Foot Note 53
+
+×
+
+5 AB 359.
+
+Shortly after, on 9 April 2018, the first defendant sent Mr Samuel Tan similar
+details pertaining to Ms Tan, instructing Mr Samuel Tan to “[p]lease help to
+make an offer to her”. 54
+
+##### Foot Note 54
+
+×
+
+6 AB 3.
+
+Mr Samuel Tan also confirmed during cross-examination that the first defendant
+had recommended Ms Chua and Ms Tan to the second defendant. 55
+
+##### Foot Note 55
+
+×
+
+Transcript, 10 September 2021, p 76 lines 9–19.
+
+At this juncture, the first defendant, Ms Chua and Ms Tan were still employed
+by the plaintiff. Notwithstanding the fact that Ms Chua did not ultimately
+join the second defendant, it is plain that in actively assisting the second
+defendant’s solicitation of Ms Chua and Ms Tan, the first defendant breached
+the Non-conflict Obligation.
+
+61 In respect of the remaining seven Former Employees, the plaintiff invites
+me to find that the first defendant had assisted the second defendant in
+soliciting them, by primarily making the following arguments:
+
+(a) First, these seven Former Employees were all named within the business
+plans which the first defendant provided to Mr Sng.
+
+(b) Second, a number of them – namely, Mr Yeo, Mr Liau, Mr Lim and Ms Lee –
+had been providing assistance since January 2018 to the second defendant.
+
+(c) Third, the explanations which the defendants provided for how these Former
+Employees came to be hired by the second defendant were not believable:
+
+(i) The advertisements on the Jobstreet.com website which had supposedly led
+to the hiring of Ms Lee, Mr Kurniawan, Mr Lim and Mr Yeo had only been put up
+to obscure the fact that these individuals had been directly solicited; and
+
+(ii) Mr Samuel Tan had lied when he testified that he could not recall the
+supposed middleman who had referred Ms Woo, Mr Liau, Mr Tay and Ms Lee to the
+second defendant; in truth, the plaintiff submits, this middleman was the
+first defendant.
+
+62 Even if I were to take the plaintiff’s arguments at their highest, it is
+important to note that unlike with Ms Chua and Ms Tan, no direct documentary
+evidence was furnished by the plaintiff for the involvement of the first
+defendant in soliciting these remaining Former Employees. In the absence of
+such evidence, only circumstantial observations are left: for instance, that
+each of these remaining Former Employees had been named in the first
+defendant’s business plans. While, as I have found, the preparation and
+communication of those business plans constituted a contractual breach on the
+first defendant’s part, I find that the circumstantial observations made by
+the plaintiff do not suffice to discharge its burden of proof in demonstrating
+that the first defendant played a direct role thereafter in procuring the
+departure of these remaining Former Employees for the second defendant. In
+other words, I find only that the plaintiff breached his Non-conflict
+Obligation through assisting in the second defendant’s solicitation of Ms Chua
+and Ms Tan.
+
+63 The plaintiff’s case in breach of contract against the first defendant in
+relation to the solicitation of the Former Employees is therefore dealt with.
+However, it is convenient to consider, at this juncture, whether the seven
+Former Employees, apart from Ms Chua and Ms Tan, had been solicited to join
+the second defendant. It is the second defendant’s position that these seven
+individuals each approached the second defendant of their own accord. Mr
+Samuel Tan’s evidence was that in his previous employment with the plaintiff,
+he had made the acquaintance of each of these seven individuals, with the
+exception of Ms Lee. 56
+
+##### Foot Note 56
+
+×
+
+Samuel Tan’s AEIC at para 32, 36, 39, 42; Samuel Tan’s supplementary AEIC at
+paras 8 and 10.
+
+Mr Kurniawan, 57
+
+##### Foot Note 57
+
+×
+
+Samuel Tan’s AEIC at p 25
+
+Mr Lim, 58
+
+##### Foot Note 58
+
+×
+
+Lim Puay Koon’s AEIC at para 16.
+
+Ms Lee 59
+
+##### Foot Note 59
+
+×
+
+Samuel Tan’s AEIC at p 32.
+
+and Mr Yeo 60
+
+##### Foot Note 60
+
+×
+
+Yeo Choon Sheng’s AEIC at para 11.
+
+had emailed Mr Samuel Tan, citing the second defendant’s Jobstreet.com
+advertisements. Ms Lee had also learned of an opening in the second defendant
+through a middleman, as had Ms Woo, Mr Liau and Mr Tay. 61
+
+##### Foot Note 61
+
+×
+
+Transcript, 14 September 2021, p 119 lines 14–22.
+
+64 I find that it is more likely than not that the second defendant did
+solicit the remaining seven Former Employees. These employees were listed in
+the business plans which the first defendant prepared. Moreover, a number of
+these Former Employees were providing assistance to the second defendant even
+before their departure from the first defendant, as I have already discussed.
+The majority of these Former Employees also joined the second defendant within
+mere days of their last day of employment with the plaintiff. In the
+circumstances, it appears likely that there was some form of connection
+between the second defendant and these employees prior to their respective
+dates of departure from the plaintiff. The question is whether it was the
+second defendant who initiated this connection, or whether, as is the second
+defendant’s case, it was the Former Employees themselves who approached it.
+
+65 In this regard, I do not find the second defendant’s explanations for how
+these seven Former Employees came to learn of openings in the second defendant
+to be believable. As I have alluded to, it is the plaintiff’s case that the
+Jobstreet.com advertisements were manufactured. I am of the view that this is
+likely to be true. Although the recruitment efforts of the second defendant
+had begun as early as January 2018, it was not until May 2018 that the
+Jobstreet.com advertisements were put online. 62
+
+##### Foot Note 62
+
+×
+
+Transcript, 13 September 2021, p 19 lines 15–25.
+
+It was the testimony of Mr Samuel Tan that in the interim, the second
+defendant had been relying on recruitment agencies. If that had indeed been
+the case, why did the second defendant turn to Jobstreet.com? The plaintiff
+points out that two days before the second defendant purchased an
+advertisement package from Jobstreet.com, the plaintiff’s solicitors had sent
+a cease-and-desist letter to the second defendant, citing the defendant’s
+efforts to solicit the plaintiff’s employees (though without further details)
+and demanding an end to such efforts. 63
+
+##### Foot Note 63
+
+×
+
+11 AB 75.
+
+I agree that the proximity of the cease-and-desist letter to the Jobstreet.com
+advertisements gives rise to an inference of cause and effect: that is, the
+advertisements were put up as a cover story for solicited employees to cite.
+It should also be noted that although the summary report provided by
+Jobstreet.com showed that around 500 job applicants had responded to the
+advertisements taken out by the second defendant, 64
+
+##### Foot Note 64
+
+×
+
+2PBICP 110.
+
+according to the second defendant’s own records a mere 12 applicants
+(including Ms Lee, Mr Lim, Mr Yeo and Mr Kurniawan) who were interviewed or
+had their curriculum vitae reviewed by the second defendant had come to it
+through Jobstreet.com. 65
+
+##### Foot Note 65
+
+×
+
+Exhibit (2)D-6.
+
+66 Similarly, I am not convinced that Ms Lee, Mr Woo, Ms Liau and Mr Tay had
+approached the second defendant of their own volition after hearing of job
+openings through word of mouth. I find it curious that none of the witnesses
+called could recall the identity of this helpful middleman. In particular, one
+would have expected Mr Samuel Tan to bear some gratitude to the person who
+supposedly introduced four worthy applicants to him, making up a full 20% of
+the employees hired by the second defendant in 2018. 66
+
+##### Foot Note 66
+
+×
+
+Exhibit (2)D-6.
+
+Although I do not agree with the plaintiff that I should infer that this
+middleman was the first defendant, I am of the view that the evidence as to
+this supposed middleman is utterly unreliable.
+
+67 Taking all of the evidence into account, I find that on a balance of
+probabilities, it is likely that the second defendant did solicit these seven
+Former Employees.
+
+Diversion of customers and opportunities
+
+68 The plaintiff also alleges that the first defendant provided assistance to
+the second defendant with the aim of diverting customers, opportunities and
+resources from the plaintiff. Although a litany of such diversions was set out
+in the pleadings, by the time of closing submissions, the plaintiff’s case had
+sharpened to focus on a select few of its customers. These were: Singapore
+Power (“SP”), Professional Testing Services (“PTS”), Leap Networks Pte Ltd
+(“Leap Networks”), Acoustic & Lighting System Pte Ltd (“A&L”), CWT Limited
+(“CWT”) and AT&T Worldwide Telecommunications Singapore Pte Ltd (“AT&T”).
+
+(1) Singapore Power
+
+69 The plaintiff’s pleaded case against the first defendant in relation to SP
+was as follows. From April to May 2018, the first defendant, together with
+some of the Former Employees, compiled a list of equipment and services which
+the plaintiff had provided to SP, as well as projects undertaken by the
+plaintiff for SP. This list, referred to as the “SP Inventory List”, was
+disclosed to the second defendant. Through the use of the plaintiff’s
+confidential information therein, and through leveraging the knowledge of the
+plaintiff’s Former Employees, the first defendant assisted the second
+defendant in securing a number of projects from SP, in breach of his Non-
+conflict Obligation and Confidentiality Obligation. These projects are
+referred to as the “SCADA 227 Project”, the “OEM2 Project”, the “Remote Access
+Solution Project”, and the “Cisco ESA and SMA Servers Maintenance Project”.
+
+70 The plaintiff also submitted that by much the same means, the first
+defendant assisted the second defendant in obtaining another project from SP
+in breach of his Non-conflict Obligation, namely the “SCADA 216 Project”.
+However, this claim was not set out in the plaintiff’s pleadings. I therefore
+do not allow this claim.
+
+71 Returning to the plaintiff’s pleaded narrative, I note that it suffers from
+a number of flaws. First, as the second defendant points out, the plaintiff
+did not ultimately adduce any evidence to show that the first defendant had
+assisted with the compilation of the SP Inventory List. 67
+
+##### Foot Note 67
+
+×
+
+2DCS at para 398.
+
+Indeed, in its written submissions, the “true sequence of events” by which the
+plaintiff claimed the SP Inventory List had been compiled and sent to the
+second defendant did not feature the first defendant at all. 68
+
+##### Foot Note 68
+
+×
+
+PCS at para 189.
+
+72 Second, in relation to the SCADA 227 and OEM2 Projects, the plaintiff was
+able to show in cross-examination that the first defendant was aware of these
+projects. 69
+
+##### Foot Note 69
+
+×
+
+Transcript, 3 December 2020, p 135 line 22 to p 136 line 4.
+
+The plaintiff was also able to show that the second defendant, in the process
+of submitting and winning with its bids for these projects, had solicited from
+the first defendant and the plaintiff’s Former Employees the plaintiff’s
+pricing strategy. 70
+
+##### Foot Note 70
+
+×
+
+Transcript, 13 September 2021, p 215 line 20 to p 216 line 25 and p 219 line
+13 to p 220 line 24.
+
+73 However, it should be noted that the Non-conflict Obligation is limited
+only to an employee’s term of employment. I reproduce the relevant portions of
+the Non-conflict Obligation here: 71
+
+##### Foot Note 71
+
+×
+
+1AB 133 and 184.
+
+Employment Letter cl 10
+
+10\. CONFLICT OF INTEREST
+
+You shall not, at any time, directly or indirectly during your service with 3D
+Networks and/or its related companies, without consent in writing first
+obtained from 3D Networks and/or its related companies, engage or interest
+yourself – whether for reward, commission, compensation, or gratuity – whether
+paid or unpaid, in cash or in kind – in any work or business, or undertake any
+such office, which would interfere with the performance of your duties with 3D
+Networks and/or its related companies.
+
+Conduct Guide cl 2
+
+2\. Conflicts of Interest
+
+… It shall be a conflict of interest for a Planet One employee to work
+simultaneously for a competitor, client or supplier. …
+
+Conduct Guide cl 3
+
+3\. Corporate Opportunities
+
+Employees, officers and directors are prohibited from taking for themselves
+personal opportunities that are discovered through the use of corporate
+property, information or position without the consent of the Board of
+Directors. No employee may use corporate property, information, or position
+for improper personal gain, and no employee may compete with Planet One
+directly or indirectly. Employees, officers and directors owe a duty to Planet
+One to advance its legitimate interests when the opportunity to do so arises.
+
+[emphasis added in italics]
+
+74 It is clear that cl 10 of the Employment Letter and cl 2 of the Conduct
+Guide imposed an obligation only insofar as the first defendant was an
+employee of the plaintiff. The present tense of cl 3 of the Conduct Guide
+suggests the same, particularly when contrasted with the manner in which the
+clauses comprising the Non-solicitation Obligation, the Non-compete Obligation
+and the Confidentiality Obligation clearly specified the periods of time
+following employment for which those obligations were to extend (see [25]
+above).
+
+75 The heart of the objection which the plaintiff takes with respect to the
+SCADA 227 and the OEM2 projects is the first defendant’s disclosure of the
+plaintiff’s pricing strategy. I accept that this information constituted
+confidential information and fell within the ambit of the Confidentiality
+Obligation. As the Confidentiality Obligation was to extend following the
+termination of the first defendant’s employment without limit in respect of
+time, 72
+
+##### Foot Note 72
+
+×
+
+1AB 134.
+
+his disclosure of the plaintiff’s pricing strategy during his tenure with the
+second defendant constituted a breach of the Confidentiality Obligation. The
+same cannot be said, however, in respect of the Non-conflict Obligation, since
+that obligation had ended by the material time.
+
+76 Third, in relation to the Remote Access Solution Project, the plaintiff’s
+case was that prior to an open tender for the project, SP asked it for a
+budgetary quote in January 2018. The plaintiff reached out to another
+contractor, Pulse Secure, to collaborate in preparing the quote. Inter alia,
+the plaintiff shared with Pulse Secure certain requirements provided by SP.
+Pulse Secure then provided a quote to the plaintiff in February 2018.
+
+77 Subsequently, however, when Ms Tan, one of the Former Employees, left the
+plaintiff to join the second defendant, she informed Mr Samuel Tan of this
+opportunity and of the plaintiff’s collaboration with Pulse Secure. The second
+defendant therefore approached Pulse Secure, who provided the second defendant
+with a quote in April 2018. Simultaneously, Pulse Secure provided the
+plaintiff’s Mr Yeo with an updated quote with higher prices than had
+previously been provided in February 2018. Mr Yeo, who was later to join the
+second defendant as well, did not question Pulse Secure about this increase in
+prices, and simply instructed his colleague to prepare the quote to SP using
+this updated quote. Both the plaintiff and the second defendant submitted
+budgetary quotes to SP; the second defendant would ultimately go on to win the
+tender.
+
+78 This is the picture that the plaintiff paints to flesh out its pleaded case
+against the first defendant. However, as with its submissions as to the SP
+Inventory List, the first defendant is conspicuous only in his absence.
+Instead, it appears to be a combination of Ms Tan, Pulse Secure and Mr Yeo
+whom the plaintiff identifies as taking the actions which enabled the second
+defendant to submit a budgetary quote of its own.
+
+79 Finally, in relation to the Cisco ESA and SMA Servers Maintenance Project,
+the plaintiff’s only submission is that the second defendant would have
+utilised the SP Inventory List to pursue this project. 73
+
+##### Foot Note 73
+
+×
+
+PCS at para 331.
+
+Once again, there is no further elaboration as to how the first defendant was
+specifically involved in diverting this opportunity to the second defendant.
+
+80 In other words, apart from the SCADA 227 and OEM2 projects, the plaintiff
+has not illustrated how the first defendant had personally played a role in
+using its confidential information and diverting its opportunities. After the
+second defendant pointed this out in its closing submissions, the plaintiff’s
+response was simply to argue that these diversions were but some of the
+conspiratorial acts committed in the conspiracy between the defendants to
+solicit the plaintiff’s employees and to leverage them to solicit the
+plaintiff’s customers.
+
+81 The plaintiff’s allegations against the first defendant in relation to
+supposed breaches of contract to do with SP are therefore only that (a) he
+solicited the plaintiff’s Former Employees, and (b) he divulged confidential
+information concerning the SCADA 227 and OEM2 projects to the second
+defendant. I have already dealt with the former allegation, and in the absence
+of concrete evidence on the first defendant’s involvement thereafter, I do not
+think that the actions of the Former Employees may be imputed to him for the
+purposes of the plaintiff’s contractual claim. I therefore find only that the
+first defendant has breached the Confidentiality Obligation in relation to the
+SCADA 227 and OEM2 projects.
+
+(2) Professional Testing Services
+
+82 The second customer which the plaintiff claims the first defendant assisted
+the second defendant in procuring is PTS. In support of this allegation, the
+plaintiff points to the second defendant’s possession of two sets of key
+documents: the “PTS Inventory List”, which contained information on the
+equipment and services supplied by the plaintiff to PTS; and the “PTS
+Infrastructure Documents”, which comprised the plaintiff’s documentation on
+the infrastructure installed on PTS’ behalf. The plaintiff further notes that
+the second defendant admitted to utilising the PTS Inventory List to prepare
+its quotes to PTS.
+
+83 Once more, the issue with the plaintiff’s arguments is that it is not clear
+how any of the above constitutes a breach of the first defendant’s contractual
+obligations. It is not the plaintiff’s case that the first defendant had a
+direct hand in connecting the second defendant to PTS, or in conveying the key
+documents to the second defendant. Rather, the plaintiff’s case is pitched at
+a more general level: that the first defendant had solicited the Former
+Employees, who then went on to contact PTS and to disclose the plaintiff’s
+confidential information to the second defendant. Similar to its case in
+respect of SP, this aspect of the plaintiff’s pleaded claim against the first
+defendant for the diversion of customers is in truth a claim for the
+solicitation of employees. I have already dealt with the plaintiff’s claim in
+this regard. It suffices for me to note that the plaintiff’s claim in breach
+of contract concerning events surrounding PTS is not made out against the
+first defendant.
+
+(3) Leap Networks Pte Ltd
+
+84 The third customer which the plaintiff claims the first defendant assisted
+the second defendant in procuring is Leap Networks. In this regard, the
+plaintiff provided clear documentation of the first defendant’s involvement.
+Leap Networks sought quotations for Cisco products from the second defendant
+in January and February 2018. The second defendant then turned to the first
+defendant and Mr Yeo, as it was not, at the time, a registered reseller of
+Cisco products, and had no access to the price list of Cisco products. The
+first defendant then prepared a set of quotations for the second defendant’s
+use.
+
+85 At trial, the first defendant admitted that in doing so, he had been
+undertaking services for the second defendant. This was plainly a breach of
+the Non-conflict Obligation.
+
+(4) Acoustic and Lighting System Pte Ltd
+
+86 Similarly, it is equally plain that the first defendant had assisted the
+second defendant with procuring the business of A&L. On 7 March 2018, A&L
+sought a quotation for certain products from the second defendant. This was
+forwarded to the first defendant, who responded with the appropriate prices to
+be quoted. 74
+
+##### Foot Note 74
+
+×
+
+2PBAEIC at p 235.
+
+In so doing, he breached the Non-conflict Obligation.
+
+(5) CWT Limited
+
+87 Turning to CWT, I also accept that the plaintiff has proven on a balance of
+probabilities that the first defendant provided assistance to the second
+defendant in breach of the Non-conflict Obligation. The first defendant was
+kept updated when the second defendant sent CWT a quotation on 21 March 2018.
+75
+
+##### Foot Note 75
+
+×
+
+2PBAEIC at p 268.
+
+Furthermore, the first defendant was listed in the second defendant’s records
+as the account manager for CWT on 9 April 2018, even before he had left the
+plaintiff. Each of these circumstances individually suggests the involvement
+of the first defendant in the business of the second defendant in breach of
+the Non-conflict Obligation; together, they paint a compelling picture.
+
+(6) AT&T Worldwide Telecommunications Services Singapore Pte Ltd
+
+88 I turn to the final key customer that the plaintiff has identified, namely
+AT&T. Once again, that the first defendant has breached the Non-Conflict
+Obligation is difficult to dispute. The plaintiff exhibited an email chain
+between 29 and 30 March 2018 between the first defendant and Mr Samuel Tan,
+where the first defendant responded substantively to the latter’s inquiries.
+This was plainly in breach of the Non-conflict Obligation.
+
+89 A far more substantive aspect of the plaintiff’s claim in this regard,
+however, has to do with what is referred to as the “IBM Sony Project”. This
+was a project undertaken by AT&T as the main contractor, with the plaintiff as
+the sub-contractor.
+
+90 In January 2018, the IBM Sony Project was due for renewal. A proposal and
+quote for the renewal were prepared by an employee of one of the plaintiff’s
+affiliated companies and sent to the Global Accounts team, including the first
+defendant, who was at the time the team’s head. However, this quote – a yearly
+figure of US$930,000 76
+
+##### Foot Note 76
+
+×
+
+5PBAEIC at p 45.
+
+– was never submitted.
+
+91 Initially, in his affidavit of evidence-in-chief, the first defendant said
+that he was not involved in the preparation and submission of this quotation
+at all. 77
+
+##### Foot Note 77
+
+×
+
+Voon’s AEIC at para 42.
+
+However, on the witness stand, he admitted that it was the responsibility of
+the Global Accounts team to submit the quote. 78
+
+##### Foot Note 78
+
+×
+
+Transcript, 27 November 2020, p 96 lines 22–25.
+
+He further admitted that without reading the explanation of the quote by the
+employee who prepared it, and without understanding what the quote was about,
+he did not submit the quote. 79
+
+##### Foot Note 79
+
+×
+
+Transcript, 27 November 2020, p 97 lines 6–12.
+
+92 The only explanation which the first defendant provided for his failure to
+submit the quote was that the price proposed was too high. He alleged that at
+a meeting with one Patrick Soh (“Mr Soh”), a representative of AT&T, Mr Soh
+had informed him that AT&T was looking for a yearly figure of US$700,000
+instead. 80
+
+##### Foot Note 80
+
+×
+
+Transcript, 27 November 2020, p 75 line 23 to p 76 line 2.
+
+The first defendant also alleged that when he informed Mr Soh of the quote of
+US$930,000, Mr Soh replied, “Don’t need to submit any more, lah.” 81
+
+##### Foot Note 81
+
+×
+
+Transcript, 2 December 2020, p 165 lines 2–4.
+
+93 However, this latter embellishment was contradicted by the testimony of Mr
+Soh, whom the first defendant had himself called as a witness. Mr Soh gave
+evidence that in his meeting with the first defendant, his reaction to the
+plaintiff’s quote was to seek a detailed proposal to justify the price of
+$930,000. 82
+
+##### Foot Note 82
+
+×
+
+Transcript, 16 September 2021, p 18 line 25 to p 19 line 2.
+
+In other words, the first defendant was acting of his own accord when he
+apparently deemed the quote to be too high, and when he proceeded to simply
+not take any further action.
+
+94 By the end of cross-examination on this issue, the first defendant conceded
+that he had been negligent and that his failure to submit the quote was an
+oversight. 83
+
+##### Foot Note 83
+
+×
+
+Transcript, 2 December 2020, p 164 lines 5–15.
+
+It should be noted, however, that this admission came in the face of a much
+more serious charge levelled by the plaintiff: that the first defendant had
+intentionally sabotaged the plaintiff’s renewal of the IBM-Sony Project, so
+that the second defendant would have the opportunity to step in and make a bid
+itself.
+
+95 The key piece of evidence which the plaintiff brings to bear in this regard
+is a spreadsheet containing confidential information relating to the
+plaintiff’s work on the IBM-Sony Project, including the plaintiff’s cost for
+its work (the “Costing Spreadsheet”). According to its metadata, the Costing
+Spreadsheet was created on 5 February 2018. The plaintiff’s Yeo Choon Sheng
+admitted to having created it. Notably, it was discovered on Mr Samuel Tan’s
+laptop. Mr Samuel Tan could not provide an explanation for this and denied
+having seen the Costing Spreadsheet, but ultimately admitted that he must have
+received it. 84
+
+##### Foot Note 84
+
+×
+
+Transcript, 14 September 2021, p 123 line 6 – p 125 line 8.
+
+96 However, I am unable to conclude merely from the presence of the Costing
+Spreadsheet on Mr Samuel Tan’s laptop that the first defendant’s failure to
+submit the plaintiff’s quote for the IBM-Sony Project was intentional
+sabotage. It is true that the quick succession of these two egregious events
+seems to be an unlikely coincidence and calls for an explanation. Intentional
+sabotage, however, is a serious allegation demanding proof more substantial
+than the circumstantial evidence the plaintiff has offered. The plaintiff has
+not (a) shown that the first defendant was responsible for the conveyance of
+the Costing Spreadsheet to Mr Samuel Tan; or (b) pointed to any documentation
+attesting to a more nefarious intent behind the first defendant’s failure to
+submit the plaintiff’s quote. It follows that the plaintiff has not discharged
+its burden of proof in its ultimate case that the first defendant’s failure to
+submit the plaintiff’s quote was in service of the second defendant.
+
+(7) Other customers and opportunities
+
+97 As I have mentioned, the customers I have considered were the ones which
+the plaintiff focused on in its closing submissions. I now deal briefly with
+the remainder of the plaintiff’s pleaded case on the diversion of customers
+and opportunities.
+
+98 I find that there are two instances where the first defendant provided
+information to the second defendant in breach of his Non-conflict Obligation.
+The first involved an invitation from the Infocomm Leaders Golf competition to
+provide sponsorship, which had been sent to the first defendant’s Planet One
+email address. On 19 January 2018, the first defendant forwarded this
+invitation to Mr Samuel Tan from his personal email address, with the
+ambiguous message “See want to do marketing launch to get to know us”. 85
+
+##### Foot Note 85
+
+×
+
+2 AB 256.
+
+The second involved email correspondence between the first defendant (in his
+capacity as a representative of the plaintiff) and a supplier of the
+plaintiff, Fortinet, concerning the provision of certain products. This
+correspondence was again forwarded from the first defendant’s personal email
+address on 13 April 2018, this time to Mr Tay, who at that point had recently
+left the plaintiff to join the second defendant. 86
+
+##### Foot Note 86
+
+×
+
+7 AB 2.
+
+In forwarding this correspondence, the first defendant did not append any
+additional message to Mr Tay.
+
+99 The first defendant’s evidence is that he had forwarded the Infocomm
+Leaders Golf invitation to Mr Samuel Tan merely as a “chat among friends”, 87
+
+##### Foot Note 87
+
+×
+
+Voon’s AEIC at para 49.
+
+and that he had forwarded the Fortinet correspondence to Mr Tay to obtain
+urgent clarification. 88
+
+##### Foot Note 88
+
+×
+
+Voon’s AEIC at para 58.
+
+In my view, however, had these innocuous explanations been true, there would
+have been no need for the first defendant to utilise his personal email
+address. In particular, if the first defendant was legitimately seeking
+clarification from Mr Tay in relation to some loose end the latter had left
+behind, he would, logically, have included some message to Mr Tay spelling out
+exactly what clarification he was seeking. I find that the first defendant’s
+explanations are unbelievable, and that he had in truth forwarded the Infocomm
+Leaders Golf invitation and the Fortinet correspondence to employees of the
+second defendant with a view to diverting these opportunities to the second
+defendant, in breach of his Non-conflict Obligation.
+
+100 There is another category of customers in relation to which the plaintiff
+alleges that the first defendant was responsible for disclosing information to
+the second defendant, namely: Yotel Orchard; 89
+
+##### Foot Note 89
+
+×
+
+SOC para 32(n).
+
+JAFCO Investment (Hong Kong) Ltd and JAFCO Asia (Shanghai) Equity Investment
+Management Co Ltd; 90
+
+##### Foot Note 90
+
+×
+
+SOC para 32(t).
+
+the Warehouse Boutique Hotel; 91
+
+##### Foot Note 91
+
+×
+
+SOC para 32(u).
+
+and Nanyang Polytechnic. 92
+
+##### Foot Note 92
+
+×
+
+SOC para 32(v).
+
+The basis for the claims in respect of these customers is apparently that
+confidential documents originating from the plaintiff relating to these
+customers had been recovered from a forensic inspection of the laptops and
+mobile phones of the first defendant and various employees of the second
+defendant. 93
+
+##### Foot Note 93
+
+×
+
+PRS at para 278.
+
+However – as has been a running theme throughout the plaintiff’s case in this
+regard – it is not at all clear what role the first defendant might have
+played which resulted in the second defendant coming into possession of these
+documents. In the circumstances, I do not see how the plaintiff expects the
+court to find that the first defendant had breached his contractual
+obligations in relation to these customers.
+
+101 This leaves three customers which, on the plaintiff’s pleaded case, the
+first defendant had sought to divert to the second defendant: Aberdeen, 94
+
+##### Foot Note 94
+
+×
+
+SOC para 32(i).
+
+Diebold Nixdorf Singapore Pte Ltd 95
+
+##### Foot Note 95
+
+×
+
+SOC para 32(x).
+
+and the Singapore Institute of Technology. 96
+
+##### Foot Note 96
+
+×
+
+SOC para 32(x).
+
+However, no reference was made to these entities in the plaintiff’s
+submissions. I take this to mean that the plaintiff has abandoned its claims
+in respect of these customers.
+
+(8) Conclusion
+
+102 In summary, it is plain that in the weeks and months leading up to his
+departure from the plaintiff, the first defendant had been in constant contact
+with the second defendant, providing information and answering queries in
+relation to a number of the first defendant’s customers. The first defendant
+thereby breached the Non-conflict Obligation in respect of Leap Networks, A&L,
+CWT, AT&T, Fortinet and the Infocomm Leaders Golf competition. It is equally
+plain that in disclosing the plaintiff’s pricing strategy in relation to the
+SCADA 227 and OEM2 Projects, the first defendant breached the Confidentiality
+Obligation.
+
+103 What should also be noted is the density of the first defendant’s work for
+the second defendant. This is not a case where – for instance – a sales
+executive performs a one-off favour for a friend at a rival company. This is a
+case where such work was apparently routinely and constantly performed.
+Coupled with the first defendant’s preparation and communication of business
+plans for the second defendant, this suggests that the first defendant was
+much more deeply involved with the second defendant than he sought to portray
+on the stand.
+
+Beesket
+
+104 I turn now to the second category of contractual breaches, namely those
+involving instances of misconduct from earlier in the first defendant’s tenure
+with the plaintiff, which do not relate to the second defendant.
+
+105 Chief amongst these is the first defendant’s running of his personal
+Beesket business while he was employed with the plaintiff. The plaintiff
+claims that the first defendant conducted business on behalf of Beesket during
+his working hours with the plaintiff, as evinced by various dated and
+timestamped emails. In addition, in one specific instance between 29 June 2015
+to 3 July 2015, the first defendant arranged a “team-building activity” for
+the plaintiff’s employees, wherein the plaintiff’s employees were tasked with
+selling fruit juice for Beesket and preparing marketing materials for Beesket.
+
+106 The first defendant responds that the plaintiff had known of his personal
+Beesket business since in or about June 2015, but had not raised any issue
+with him until the commencement of this suit. 97
+
+##### Foot Note 97
+
+×
+
+Voon’s AEIC at para 125, 1DCS at para 156.
+
+This, however, is neither here nor there. An employer’s knowledge of – and
+even implicit consent to – an employee’s activities outside of their work is
+very different from consent to such activities being performed during working
+hours, or to the resources of the employer being diverted for such activities.
+This, the first defendant has not shown.
+
+107 The first defendant also suggested on cross-examination that the team-
+building exercise was in fact beneficial to the employees who participated,
+teaching them to think “out-of-the-box”. 98
+
+##### Foot Note 98
+
+×
+
+Transcript, 2 December 2020 at p 110 line 24 to p 111 line 13.
+
+The implicit argument was that his mobilisation of the plaintiff’s employees
+did not interfere with his duties, but was instead in conformity with them.
+
+108 I reject this argument. There is no evidence that this supposed benefit to
+the plaintiff’s staff materialised. I also find that the first defendant never
+intended this supposed benefit in good faith. The first defendant admitted
+that the participating employees were not aware that he owned the Beesket
+business. 99
+
+##### Foot Note 99
+
+×
+
+Transcript, 2 December 2020 at p 109 line 14 to p 110 line 20 and p 112 lines
+22–24.
+
+Indeed, in his emails to the participating employees, the first defendant took
+care to refer to Beesket only as “they”, “them” and “[t]he shop”. 100
+
+##### Foot Note 100
+
+×
+
+6PBAEIC at p 219.
+
+This could not have been anything but a deliberate distancing and a purposeful
+concealment of his personal interest. Further, the first defendant’s
+suggestion that he had not considered how this “team-building exercise” might
+benefit Beesket 101
+
+##### Foot Note 101
+
+×
+
+Transcript, 2 December 2020 at p 112 lines 18–21.
+
+is entirely risible. The only conclusion that can be drawn is that this “team-
+building exercise” was a farce, drawn up by the first defendant to divert the
+creativity and labour of the plaintiff’s employees to benefit his business on
+the side.
+
+109 I therefore find that the first defendant’s work for Beesket during his
+working hours with the plaintiff, as demonstrated by the exhibited emails, and
+his misuse of the plaintiff’s employees for the “team-building exercise” from
+29 June 2015 to 3 July 2015 constituted a breach of the first defendant’s Non-
+conflict Obligation.
+
+Manipulation of records and payments
+
+110 Finally, the plaintiff alleges that the first defendant breached the Non-
+conflict Obligation and cll 5 and 7 of the Conduct Guide through his
+manipulation of records and payments in order to benefit himself and certain
+other employees.
+
+(1) Lisa Gwee
+
+111 First, it is the plaintiff’s case that the first defendant wrongfully
+procured payments to one Lisa Gwee (“Ms Gwee”), a salesperson employed by the
+plaintiff. The plaintiff claims that this misconduct was motivated by a
+romantic relationship between the first defendant and Ms Gwee, 102
+
+##### Foot Note 102
+
+×
+
+PCS at para 771.
+
+although the first defendant states that they were merely close friends. 103
+
+##### Foot Note 103
+
+×
+
+1DCS at para 118 and 124.
+
+However, I do not find it necessary to make any pronouncement on the nature of
+the relationship between the first defendant and Ms Gwee in order for me to
+determine the plaintiff’s claims, save that – as I shall canvass below – it is
+apparent that the first defendant acted at various junctures with Ms Gwee’s
+interest firmly in mind.
+
+112 The first aspect of these wrongfully procured payments has to do with Ms
+Gwee’s sales commissions. The term used by the plaintiff in respect of these
+sales commissions was “On-Target Earnings”, or “OTE”. The OTE payable to a
+sales employee was based primarily on two components: the extent to which the
+employee met their target for purchase orders received from customers, and the
+extent to which the employee met their target for the value of invoices issued
+to customers. In respect of each primary component, if a sales employee did
+not reach 75% of their assigned target, they would not be entitled to the OTE
+attached to that component. Conversely, if they reached the 75% mark or
+beyond, they would be entitled to a correspondingly pro-rated 75% or more of
+the OTE attached to that component. 104
+
+##### Foot Note 104
+
+×
+
+Ambrose’s AEIC at para 203; Transcript, 19 November 2020, p 15 line 25 to p 18
+line 13.
+
+113 Notably, in respect of the component to do with purchase orders, a
+particular procedure was in place for blanket purchase orders. As the
+plaintiff’s then-Group Financial Controller, Michael Wong (“Mr Wong”),
+testified, the actual order fulfilled on a blanket purchase order might be
+lower than the face value of the order. Because of this, the approval of the
+CEO was needed to determine whether a blanket purchase order should be counted
+towards an employee’s purchase order component, and the weight that should be
+attributed thereto.
+
+114 On 11 May 2015, Mr Wong sent the first defendant an email setting out
+calculations for the OTE of four sales employees, including Ms Gwee. Ms Gwee’s
+purchase order target for that year was US$20,000,000. Mr Wong’s email
+contained two sets of figures for the purchase orders which Ms Gwee received:
+one which was inclusive of two blanket purchase orders (US$21,774,543), and
+another which excluded these orders (US$16,576,623). As for the sales invoice
+component, Ms Gwee was recorded as having issued US$13,048,378 of invoices,
+against her target of US$16,000,000. 105
+
+##### Foot Note 105
+
+×
+
+Ambrose’s AEIC at p 1790.
+
+115 On 18 May 2015, the first defendant forwarded Mr Wong’s 11 May 2015 email
+to the CEO of the plaintiff, to seek approval for the OTE of the four sales
+employees. However, what is notable is that the email from Mr Wong which was
+forwarded was heavily truncated. All references to her two blanket purchase
+orders had been removed, and the higher figure inclusive of those orders was
+presented simply as a single number denoting the value of the purchase orders
+she received. 106
+
+##### Foot Note 106
+
+×
+
+15AB 204–205.
+
+The first defendant admitted that he had deliberately truncated Mr Wong’s 11
+May 2015 email. 107
+
+##### Foot Note 107
+
+×
+
+Transcript, 1 December 2020 pp 111–118.
+
+The 18 May 2015 email also stated that Ms Gwee was “very close to meeting 100%
+of her Revenue”, which he attributed to her missing a billing due to an
+omission on the plaintiff’s part. The first defendant therefore recommended
+that Ms Gwee be paid her full OTE. 108
+
+##### Foot Note 108
+
+×
+
+15AB 204–205.
+
+116 Ms Gwee was ultimately paid OTE on the basis that she had fully met her
+purchase order and sales invoice targets. 109
+
+##### Foot Note 109
+
+×
+
+15AB 110 and PCS at para 787.
+
+The amount she received in respect of her purchase order component was
+S$7,737.90 higher than if she had been remunerated without taking into account
+the two blanket purchase orders. Likewise, the amount she received in respect
+of her sales invoice component was S$8,339.03 higher.
+
+117 The first defendant’s sole argument in relation to this instance of
+manipulation is that his recommendation did not amount to the final approval
+of the payment, as the OTE payment also had to be approved by the CEO. 110
+
+##### Foot Note 110
+
+×
+
+1DCS at para 131; DRS at para 134.
+
+However, in the context of his contractual obligations, this argument is
+irrelevant. Clause 7 of the Conduct Guide sets out an obligation to honestly
+and accurately record and report information. I find that the first
+defendant’s truncation of Mr Wong’s 11 May 2015 email to paint a more
+favourable picture of Ms Gwee’s purchase order component amounted to a breach
+of this obligation. It is also plain that in so favouring Ms Gwee’s interests
+over his own duties to the plaintiff, the first defendant breached the Non-
+conflict Obligation.
+
+118 The second aspect of the alleged wrongful payments to Ms Gwee has to do
+with reimbursements said to have been wrongfully made to her, for which the
+first defendant gave approval. These reimbursements are:
+
+S/n | Dates | Description (as submitted by Ms Gwee) | Amount   
+---|---|---|---  
+Claims for overseas trips  
+(1) | 27 March 2015 | Trip to Taipei, Taiwan (Dinner and limousine service for 5 days and dinner) | S$2,520.85   
+(2) | 2–3 June 2015 | Trip to Ho Chi Minh City, Vietnam (airfare) | S$999.00   
+(3) | 17 June 2015 | Trip to Ho Chi Minh City, Vietnam (airfare) | S$670.30   
+(4) | 8–10 September 2015 | Trip to Taipei, Taiwan (airfare) | S$1,639.30   
+(5) | 18 September 2015 | Trip to Ho Chi Minh City, Vietnam (airfare) | S$768.40   
+Subtotal for claims for overseas trips: | S$6,597.85   
+Other claims  
+(6) | 4 February 2015 | Payment to Guardian Health & Beauty | S$677.78   
+(7) | 4 February 2015 | Payment to Guardian Health & Beauty | S$23.69   
+(8) | 4 February 2015 | Payment to LC Lee Urogynae Centre Pte Ltd | S$78.75   
+(9) | 4 February 2015 | Payment to LC Lee Urogynae Centre Pte Ltd for contraceptives | S$47.25   
+(10) | 29 March 2015 | Payment to Sardine Jalan Petitenget 21 (Bali) (signed for by one Dr Ganesh) | IDR1,758,240* (S$165.23)   
+(11) | 4 April 2015 | Payment to The Rehab Physio Practice Pte Ltd (for Sombra Pain Relief Gel) | S$172.27   
+(12) | 4 April 2015 | Payment to Rubato | S$1,105.60   
+(13) | 30 May 2015 | Payment to Beesket | S$306.80   
+(14) | 31 May 2015 | Payment to Beesket | S$413.00   
+(15) | Date unclear | Payment to Taste Paradise (signed for by one Dr Ganesh) | S$1,240.56   
+Subtotal for other claims: | S$4,230.93   
+Total: | S$10,828.78   
+  
+119 At the outset, I note that items 6 to 15 – which I shall refer to as Ms
+Gwee’s miscellaneous claims – have no ostensible link to the business of the
+plaintiff. The first defendant was not able to give any coherent account as to
+why he nonetheless approved these claims; his sole response, again, was that
+the CEO was the one who would finally approve the claims. In the absence of
+explanation, and in light of the first defendant’s admitted closeness with Ms
+Gwee, I find that it is more likely than not that in approving these claims,
+the first defendant intentionally favoured Ms Gwee’s interests over his own
+duties to the plaintiff, and so breached the Non-conflict Obligation.
+
+120 As for the claims for overseas trips, the plaintiff’s case is that item 4
+was in fact a trip taken by the first defendant and Ms Gwee together for the
+predominant purpose of meeting Ms Gwee’s father. In support of this, the
+plaintiff referred to messages between the first defendant and Ms Gwee,
+referring to Ms Gwee’s father’s birthday on 8 September. As acknowledged by
+the plaintiff, however, those same messages also referred to a meeting with
+one of the plaintiff’s customers.
+
+121 I find that the plaintiff has not discharged its burden of proof in
+showing that the claim for item 4 was wrongfully made and that the first
+defendant was therefore remiss in approving the claim. The mere fact that the
+messages between the first defendant and Ms Gwee referred more to the personal
+aspects of the trip and less to the business aspects is perhaps
+understandable, given their admitted closeness; it does not necessarily
+reflect a corresponding prioritisation of personal affairs over business on
+the trip itself. In the absence of more concrete proof that the first
+defendant and Ms Gwee did not tend to the business of the plaintiff to the
+customary level required for the plaintiff to authorise reimbursement, I am
+unable to find that the claim for item 4 was wrongfully made.
+
+122 Similarly, the claims for items 1, 2, 3 and 5 are asserted to have been
+incurred not for the purpose of Ms Gwee’s work duties for the plaintiff. 111
+
+##### Foot Note 111
+
+×
+
+Ambrose’s AEIC at para 192.
+
+However, the plaintiff has not adduced any further evidence to support its
+case in this regard, and has not discharged its burden of proof.
+
+123 For completeness, I should note that the plaintiff’s pleaded case in
+respect of overpayments to Ms Gwee was much more extensive: it included
+allegations that the first defendant had recommended a remuneration package
+for Ms Gwee with an extraordinarily high OTE and that the first defendant had
+placed deals procured by other employees under Ms Gwee’s account. These claims
+were not pursued by the plaintiff at trial or in its closing submissions. I
+take this to mean that the plaintiff has abandoned its claims in this regard,
+and I say no more about them.
+
+(2) The first defendant
+
+124 In relation to the first defendant himself, the plaintiff claims that the
+first defendant made claims for expenses he had incurred that were not made
+for the benefit of the plaintiff. The expenses claims are as follows: 112
+
+##### Foot Note 112
+
+×
+
+SOC para 45.
+
+S/n | Dates | Description (as submitted by the first defendant) | Amount   
+---|---|---|---  
+Claims for overseas trips  
+(1) | 3 September 2015 | Trip to Ho Chi Minh City, Vietnam (airfare and other claims) | S$1,319.77   
+(2) | 8–10 September 2015 | Trip to Taipei, Taiwan (airfare and accommodation) | S$5,498.64   
+(3) | 1 December 2015 | Trip to Ho Chi Minh City, Vietnam (airfare and other claims) | S$1,328.22   
+(4) | 30 January–2 February 2018 | Trip to Chengdu, China (accommodation) | CNY1327.62** (S$266.46)   
+Total:| S$8,413.09  
+  
+125 The trip to Taipei (item 2) is the same one which the plaintiff claims was
+undertaken with Ms Gwee for the purposes of visiting Ms Gwee’s father. As I
+have already stated, the plaintiff has not discharged its burden of proof in
+showing that this claim was wrongfully made.
+
+126 Equally, while the plaintiff has asserted that the other trips to Vietnam
+and to China were made by the first defendant in order to promote his Beesket
+business, no further evidence has been adduced; I find therefore that the
+plaintiff has not discharged its burden of proof in relation to these items.
+
+(3) Andrew Tan
+
+127 The final instance of alleged manipulation has to do with the payment of
+OTE to one Andrew Tan for his performance in Financial Year 2015 (April
+2014–March 2015). The core issue here, unlike with Ms Gwee, relates not to the
+manipulation of Andrew Tan’s performance, but rather the manipulation of his
+targets.
+
+128 Andrew Tan joined the plaintiff on 1 September 2014 in the role of Country
+Manager. It is undisputed that in this capacity, his targets were in effect
+the targets for the Singapore office, though pro-rated to account for his
+joining the company in the middle of the financial year. 113
+
+##### Foot Note 113
+
+×
+
+Transcript, 27 November 2020, p 175 line 2 to p 185 line 21.
+
+129 In May 2015, when calculating the amount of OTE – if any – due to Andrew
+Tan, Mr Wong noted that Mr Tan did not have a commission plan on record, and
+therefore took the targets for the Singapore office from September 2014 to
+March 2015 as the appropriate targets for Andrew Tan. However, in September
+2015, the first defendant sent an unsigned commission plan to Mr Wong.
+Notably, whereas Andrew Tan’s performance from September 2014 to March 2015
+would not have qualified him for OTE when measured against Mr Wong’s initial
+targets, the lower targets in the first defendant’s unsigned commission plan
+offered a much more favourable backdrop to Andrew Tan’s performance, and would
+allow Andrew Tan to meet the thresholds needed for the claiming of OTE.
+
+130 Mr Wong informed the first defendant that the discrepancy would have to be
+flagged to the CEO. However, when the first defendant sent the CEO the email
+seeking his approval for the payment of OTE, he did not raise this issue. He
+simply stated that Andrew Tan had attained “97.45% and 81.35% respectively on
+PO and Revenue”. 114
+
+##### Foot Note 114
+
+×
+
+7PBAEIC at p 44.
+
+What he neglected to mention was that these percentage figures had been
+derived based on his lower targets.
+
+131 The following contemporaneous text exchange between the first defendant
+and Andrew Tan is telling: 115
+
+##### Foot Note 115
+
+×
+
+7PBAEIC at p 26.
+
+Voon, Charles [11:45PM]:
+
+will also settle your comm this week
+
+payout approval
+
+sorry for the delay
+
+Tan Boon Biau, Andrew [11:46 PM]
+
+no worries
+
+thanks
+
+Voon, Charles [11:46 PM]
+
+cos based on [Mr Wong’s] submission you only did 76%
+
+and PO is 72%
+
+so I am changing it..
+
+so that you can be quite close to the 90%
+
+Tan Boon Biau, Andrew [11:47 PM]
+
+THANKS!
+
+132 It is plain that the first defendant deliberately obfuscated the issue of
+Andrew Tan’s sales targets, in order to obtain for Andrew Tan payments which
+he would otherwise not have been entitled to. Much as with Ms Gwee, I find
+that in relation to Andrew Tan, the first defendant breached the Non-conflict
+Obligation, and his obligation under cl 7 of the Conduct Guide to keep honest
+and accurate records.
+
+(4) Conclusion
+
+133 I therefore find that the first defendant breached the Non-conflict
+Obligation and cl 7 of the Conduct Guide through his manipulation of records
+in respect of the payment of OTE to Ms Gwee and to Andrew Tan, as well as
+through his approval of reimbursement for Ms Gwee’s miscellaneous claims.
+
+134 As a final note, I observe that the plaintiff’s pleaded case in relation
+to this manipulation of records and payments was premised on a breach of cl 5
+of the Conduct Guide as well. However, I do not see how that clause – which
+prohibits harassment and discrimination – is relevant in the least. Indeed,
+the plaintiff made no effort in its written submissions to further its pleaded
+case on cl 5 of the Conduct Guide. I find that cl 5 of the Conduct Guide was
+not breached by the first defendant.
+
+Breach of implied duties of good faith and fidelity
+
+135 I turn now to the plaintiff’s claim that the first defendant breached his
+implied duties of good faith and fidelity. It is well-established that there
+is an implied term that the employee will serve his employer with good faith
+and fidelity (see, eg, Man Financial at [193]).
+
+136 I am satisfied that each breach of the first defendant’s express
+contractual obligations as I have found above constitutes a breach of the
+first defendant’s implied duties of good faith and fidelity as well.
+
+137 Conversely, where I have found that the plaintiff’s case as to breach of
+the first defendant’s express contractual obligations to be insufficient, it
+has been primarily for the reason that the plaintiff has been unable to prove
+the first defendant’s involvement. For that same reason, the plaintiff’s case
+as to breach of the first defendant’s implied duties of good faith and
+fidelity therefore fails. I make special mention of the plaintiff’s case in
+relation to the first defendant’s failure to submit the quote for the IBM-Sony
+Project (see [89]–[94] above). Although I accept that there was plainly a
+failure on the first defendant’s part, I do not find that it amounts to a
+breach of the first defendant’s implied duties of good faith and fidelity.
+
+Breach of fiduciary duties
+
+138 The plaintiff also submits that there was in fact a fiduciary relationship
+between the first defendant and the plaintiff, owing to the first defendant’s
+seniority and the scope of his duties, and that the first defendant’s conduct
+amounted to a breach of the fiduciary duties he owed under this relationship.
+
+139 The test for whether such a fiduciary relationship arises in the context
+of an employment relationship is whether the employee has been placed in a
+position where he must act solely in the interests of his employer (Clearlab
+SG Pte Ltd v Ting Chong Chai and others [2015] 1 SLR 163 at [273]). I find
+that, in the broadest of strokes, the first defendant was in precisely such a
+position. Although he was not a director, he was in a position of substantial
+seniority, reporting only to the CEO. His oversight of the day-to-day and
+sales operations of 3DN meant that he was in a position to act in his own
+interests at the expense of the interests of the plaintiff. There was
+therefore a fiduciary relationship between the first defendant and the
+plaintiff.
+
+140 However, the mere existence of a fiduciary relationship is not enough. As
+was noted in Clearlab at [273]:
+
+… Once a fiduciary relationship is found on the facts, there is further
+inquiry on whether it is engaged on the matters relied on by the plaintiff.
+There is no wholesale importation of every kind of fiduciary duty into each
+case, as that disregards what exactly it is about the particular employee’s
+situation that makes him a fiduciary. Even if the facts do bear a fiduciary
+relationship, it must be examined, in the particular circumstances, what are
+the fiduciary duties that arise. …
+
+141 In other words, in order to succeed in a claim for breach of fiduciary
+duty, a plaintiff must show that a defendant owed specific fiduciary duties
+arising out of particular circumstances, and that the defendant acted contrary
+to those duties: see Clearlab at [279]–[282].
+
+142 I note that the plaintiff did not plead the contents of the fiduciary
+duties supposedly owed by the first defendant under this relationship. Its
+statement of claim merely pleads “fiduciary duty” as one of the various duties
+said to be owed by the first defendant. 116
+
+##### Foot Note 116
+
+×
+
+SOC para 31.
+
+Even as late as in its closing submissions, the plaintiff still only took the
+position that the first defendant “owes [the plaintiff] a fiduciary duty”. 117
+
+##### Foot Note 117
+
+×
+
+PCS para 601.
+
+143 In my view, the failure of the plaintiff to plead the specific fiduciary
+duties owed by the plaintiff was fatal to its claim in this regard. In the
+absence of particulars on the specific duties and the circumstances giving
+rise to them, the first defendant is put at a disadvantage in marshalling his
+evidence and arguments. In such a scenario, the court should not venture to
+impute upon the first defendant, fiduciary duties against which the first
+defendant’s conduct is to be measured.
+
+144 I therefore dismiss the plaintiff’s claim in breach of fiduciary duty
+against the first defendant.
+
+Fraudulent misrepresentation
+
+145 The plaintiff further claims that through his manipulation of records and
+payments (see [110]–[132] above), the first defendant is liable for fraudulent
+misrepresentation.
+
+146 The elements of fraudulent misrepresentation are as follows (Ochroid
+Trading Ltd and another v Chua Siok Lui (trading as VIE Import & Export) and
+another [2018] 1 SLR 363 at [238]):
+
+(a) First, there must have been a representation of fact made by words or
+conduct.
+
+(b) Second, the representation must have been made with the intention that it
+be acted upon by the plaintiff, or by a class of persons which included the
+plaintiff.
+
+(c) Third, the plaintiff has acted upon the false statement.
+
+(d) Fourth, the plaintiff has suffered damage by doing so.
+
+(e) Fifth, the representation must have been made with knowledge that it was
+false, either made wilfully or in the absence of any genuine belief that it
+was true.
+
+147 I find this claim to be made out in relation to the payment of OTE to Ms
+Gwee (see [112]–[117] above) and Andrew Tan (see [127]–[132] above). In those
+instances, it is plain that the first defendant had made representations of
+fact relating to Ms Gwee’s sales performance and Andrew Tan’s sales targets.
+OTE was paid to each of them based on these representations, which would
+otherwise not have been paid. It is also clear that the first defendant knew
+that his representations were untrue: his report of Ms Gwee’s sales figures
+had knowingly elided any mention that part of those figures comprised blanket
+purchase orders, while his report in relation to Andrew Tan deliberately
+presented as settled sales targets which had not in fact been approved.
+
+148 I also find that the plaintiff has made out its case in fraudulent
+misrepresentation in relation to the first defendant’s approval of Ms Gwee’s
+miscellaneous claims (see [118]–[119] above). Given that the miscellaneous
+claims plainly had nothing to do with the business of the plaintiff, I find it
+more likely than not that the first defendant was aware that the claims were
+illegitimate. His implicit representation that those claims were in fact
+legitimate resulted in reimbursements to Ms Gwee.
+
+149 However, the plaintiff has not made out its case in fraudulent
+misrepresentation in respect of the remainder of the reimbursement claims. As
+I have noted above, the plaintiff has not shown that those claims were
+illegitimate.
+
+Breach of confidence
+
+150 I turn to consider the plaintiff’s claim in breach of confidence. The
+approach to breach of confidence claims was most recently set out in I-Admin
+(Singapore) Pte Ltd v Hong Ying Ting and others [2020] 1 SLR 1130 at [61]. The
+court is to consider whether the relevant information had the necessary
+quality of confidence about it, and if it was imparted in circumstances
+importing an obligation of confidence. Upon satisfaction of these
+prerequisites, an action for breach of confidence is presumed. This
+presumption can be displaced where the defendant proves that its conscience
+was unaffected (at [61]).
+
+151 The information which the first defendant communicated to the second
+defendant included the voluminous details as to the plaintiff’s clients and
+financial information contained within the business plan he prepared (see [54]
+above), the plaintiff’s internal manuals (see [56]–[57] above) and the
+plaintiff’s pricing strategy on the SCADA 227 and OEM2 Projects (see [75]
+above). It is plain that this information bore the necessary quality of
+confidence. I am also satisfied that this information was imparted in
+circumstances importing an obligation of confidence.
+
+152 The first defendant made no attempt whatsoever to suggest that his
+conscience was unaffected. I therefore find that the first defendant has not
+displaced the presumption of an action for breach of confidence, and is so
+liable.
+
+153 The plaintiff’s closing submissions also appear to extend its claim in
+breach of confidence to the second defendant. However, I am of the view that
+this claim as against the second defendant is not disclosed in the plaintiff’s
+statement of claim.
+
+154 The statement of claim is broken down into claims against the first
+defendant 118
+
+##### Foot Note 118
+
+×
+
+SOC at paras 32–54.
+
+and claims against both the first and second defendants. 119
+
+##### Foot Note 119
+
+×
+
+SOC at paras 55–60.
+
+The plaintiff’s cause of action in breach of confidence 120
+
+##### Foot Note 120
+
+×
+
+SOC at paras 37–38.
+
+is pleaded only in the section against the first defendant. This was
+reinforced in Mr Ambrose’s affidavit of evidence-in-chief, which summarised
+the plaintiff’s claims as follows:
+
+37\. In summary, the Plaintiff’s claim against the 1st Defendant is for breach
+of his contractual obligations under the Employment Contract and breach of his
+Employee Duties owed to the Plaintiff by reason of the following:-
+
+…
+
+c. Breach of confidence in disclosing and misusing the confidential and/or
+proprietary information belonging to the Plaintiff (which include the
+Confidential Materials) to the 2nd Defendant and/or other parties both during
+and after his employment with the Plaintiff;
+
+…
+
+38\. The Plaintiff also claims against the 1st Defendant for fraudulent
+misrepresentation in respect of the wrongful payment of commission and
+reimbursement of claims.
+
+39\. The Plaintiff claims against the 1st and 2nd Defendants are for:-
+
+a. Inducing the Plaintiff’s employees to breach their employment contracts
+with the Plaintiffs and accept employment with the 2nd Defendant;
+
+b. Unlawful and/or lawful conspiracy in conspiring to injure the Plaintiff’s
+interests by diverting the Plaintiff’s customers, business and resources away
+from the Plaintiff and/or leveraging on the Plaintiff’s former employees and
+Confidential Material.
+
+155 An amendment was made to the statement of claim on 21 May 2021 (by
+consent). Among other amendments, the following paragraph was added to the
+section of the statement of claim dealing with breach of confidence:
+
+38A. The 2nd Defendant received and came into possession of the Plaintiff’s
+Confidential/Proprietary Information, including those particularised above,
+that were wrongfully disclosed and misused the same for its own benefit and to
+the detriment of the Plaintiff.
+
+156 I do not think that this late amendment was sufficient to put the second
+defendant on notice that a claim in breach of confidence was being brought
+against it. Having been appended to the existing section on breach of
+confidence – which, it bears repeating, was squarely under the header of
+“Claims against the 1st Defendant” – the natural interpretation of this
+paragraph was that this was not meant to ground a distinct claim against the
+second defendant in breach of confidence, but was rather a coda to the
+plaintiff’s existing case against the first defendant. In the circumstances,
+the plaintiff should not be allowed to extend its claim in breach of
+confidence to the second defendant now through its written submissions.
+
+Inducement of breach of contract
+
+157 I turn now to consider the plaintiff’s claims against both defendants,
+starting with the claim that the defendants induced the Former Employees to
+breach their contracts with the plaintiff.
+
+158 The legal principles in this regard are well established. The plaintiff
+must show that (see M+W Singapore Pte Ltd v Leow Tet Sin and another [2015] 2
+SLR 271 (“M+W Singapore”) at [88]):
+
+(a) the defendants knew of the contract and intended for it to be breached;
+
+(b) the defendants induced the breach; and
+
+(c) the contract was breached and damage was suffered.
+
+The plaintiff’s pleaded case
+
+159 Throughout its written submissions, the second defendant takes issue with
+what it considers to be a nebulousness that permeates the plaintiff’s pleaded
+case on this issue of inducement of breach of contract. I reproduce the
+relevant portions of the plaintiff’s statement of claim: 121
+
+##### Foot Note 121
+
+×
+
+SOC para 55.
+
+55\. The Defendants induced the Plaintiff’s Former Employees to breach their
+respective employment contracts with the Plaintiffs, in order to interfere
+with the contractual rights of the Plaintiff and to procure the Plaintiff’s
+Former Employees to accept employment with the 2nd Defendant, thus causing
+loss and damage to the Plaintiff.
+
+…
+
+Particulars
+
+a. The Plaintiff repeats paragraphs [32(g) to (i), (l), (m), (o), (p) and
+(w)(iv)].
+
+160 The paragraphs referred to under the “Particulars” section concern:
+
+(a) the first defendant’s provision of the details of two of the Former
+Employees to the second defendant (paras 32(g) and (h));
+
+(b) the first defendant’s preparation and communication of business plans to
+Mr Sng (para 32(l));
+
+(c) assistance rendered by the first defendant, Mr Yeo, Mr Lim and Mr Liau in
+setting up the second defendant’s business and website (para 32(m));
+
+(d) assistance rendered by the first defendant and Mr Yeo in soliciting the
+business of Leap Networks (para 32(o));
+
+(e) assistance rendered by the first defendant and Mr Yeo in soliciting the
+business of A&L (para 32(p)); and
+
+(f) the disclosure of the SP Inventory List to the second defendant (para
+32(w)(iv)).
+
+161 For completeness, I note that para 32(i) of the statement of claim, to
+which the “Particulars” section of this head of claim referred to, concerned
+the procurement of Aberdeen, an existing customer of the plaintiff. As I have
+already noted (see [101] above), no reference was made to Aberdeen in the
+plaintiff’s submissions. It should also be noted that the plaintiff similarly
+did not pursue in its written submissions a further pleaded allegation that
+the defendants had sought to induce its employees based in Indonesia and
+employees of its affiliate in Indonesia to breach their employment contracts.
+122
+
+##### Foot Note 122
+
+×
+
+SOC para 58.
+
+I take this to mean that these aspects of the plaintiff’s claim have been
+abandoned.
+
+162 It should be noted from the extract of the statement of claim reproduced
+above that the plaintiff did not specify the contractual obligations owed by
+the Former Employees which were allegedly breached. In the particulars served
+pursuant to the second defendant’s request, the plaintiff specified that the
+obligations which had been breached were the Former Employees’ Non-compete
+Obligations and Confidentiality Obligations. 123
+
+##### Foot Note 123
+
+×
+
+SDB 171–172.
+
+163 In other words, as the second defendant pointed out, it was not the
+plaintiff’s pleaded case that the defendants had induced the Former Employees
+to breach their Non-conflict Obligations and Non-solicitation Obligations. I
+therefore make no finding in relation to the plaintiff’s belated attempts in
+its written submissions to make precisely this argument. 124
+
+##### Foot Note 124
+
+×
+
+PCS para 607.
+
+164 Further, as I have already found (at [36]–[46] above), the Non-compete
+Obligation is unenforceable and cannot be severed. It follows that this aspect
+of the claim must fail.
+
+165 The plaintiff has also made copious submissions on supposed inducements of
+breach of contract in relation to matters other than those listed at [160]
+above – for instance, in relation to the Remote Access Solution Project (see
+[76]–[78] above) and to PTS (see [82] above). However, I do not think that
+these submissions have an adequate foundation in the pleadings. As may be seen
+in the extract of the statement of claim reproduced above, for the purposes of
+its claim in inducement of breach of contract, the plaintiff chose to repeat
+only a subset of its overall allegations. The natural understanding of this is
+that the plaintiff is only pursuing its claim in inducement of breach of
+contract in respect of that subset. The plaintiff should not be allowed to
+belatedly broaden the scope of its case through its written submissions.
+
+166 What remains, then, is the plaintiff’s claim that the defendants had, in
+relation to the acts set out at [160] above, induced the Former Employees to
+breach their Confidentiality Obligations. The provision of the details of two
+Former Employees and the preparation and communication of business plans are
+evidently merely the background to this claim. I shall therefore focus on the
+setting up of the second defendant’s business and website, the solicitation of
+Leap Networks and A&L, and the disclosure of the SP Inventory List.
+
+Setting up of the second defendant’s business and website
+
+167 Unfortunately, the plaintiff’s submissions did not make clear what exactly
+it was taking grievance with in relation to the assistance rendered by the
+first defendant, Mr Yeo, Mr Lim and Mr Liau in the setting up of the second
+defendant’s business and website, for the purposes of its claim in inducement
+of breach of contract. In the absence of such elaboration, I shall consider
+whether the feedback provided by these individuals as to the second
+defendant’s logo, name cards and website (see [56] above) indicates that the
+defendants had induced these Former Employees to breach their Confidentiality
+Obligations.
+
+168 In examining the feedback highlighted by the plaintiff, it is plain that
+no confidential information was disclosed. The feedback centred on purely the
+colour of the second defendant’s name cards. No reference was made to any
+information belonging to the first defendant. I therefore do not consider
+there to have been a breach of the relevant Former Employees’ Confidentiality
+Obligations in this regard. It follows that the plaintiff’s claim for
+inducement of breach of contract is not made out in relation to the setting up
+of the second defendant’s business and website.
+
+Solicitation of Leap Networks
+
+169 I turn now to the solicitation of Leap Networks, in relation to which I
+have already found the first defendant liable for breach of his Non-conflict
+Obligation, based on clear documentary evidence (see [84]–[85] above). I now
+address Mr Yeo’s involvement.
+
+170 On 30 January 2018, Leap Networks requested by email a quotation from Mr
+Samuel Tan. Mr Samuel Tan then forwarded this email to Mr Yeo and the first
+defendant, with the comment “Fya”. 125
+
+##### Foot Note 125
+
+×
+
+2PBAEIC at p 127.
+
+Mr Yeo responded with a document containing price estimates for certain
+products from the plaintiff’s supplier, Cisco. 126
+
+##### Foot Note 126
+
+×
+
+2PBAEIC at pp 131–135.
+
+Mr Yeo conceded in cross-examination that these price estimates had been
+obtained by him in his capacity as an employee of the plaintiff, 127
+
+##### Foot Note 127
+
+×
+
+Transcript, 9 September 2021, p 79 line 19 to p 80 line 7.
+
+and admitted that he was not authorised to send these out. 128
+
+##### Foot Note 128
+
+×
+
+Transcript, 9 September 2021, p 84 line 20 to p 85 line 6.
+
+Subsequently, when Mr Samuel Tan forwarded another request for a quotation
+from Leap Networks to Mr Yeo and the first defendant on 1 February 2018, 129
+
+##### Foot Note 129
+
+×
+
+2PBAEIC at p 139.
+
+Mr Yeo responded with another similar document containing price estimates. 130
+
+##### Foot Note 130
+
+×
+
+2PBAEIC at pp 139–146.
+
+171 These price estimates, which had been obtained from Cisco through the
+plaintiff’s account on its portal, plainly fell within the protection of Mr
+Yeo’s Confidentiality Obligation (which was phrased identically to the first
+defendant’s). The estimates were clearly “information concerning the products
+… of the Company”. 131
+
+##### Foot Note 131
+
+×
+
+1 AB 142.
+
+Mr Yeo’s disclosure therefore constituted a breach of his Confidentiality
+Obligation. I also accept the plaintiff’s evidence that this disclosure, in
+conjunction with the first defendant’s assistance in preparing the quote for
+Leap Networks, likely caused damage to the plaintiff, 132
+
+##### Foot Note 132
+
+×
+
+Ambrose’s AEIC at para 182.
+
+though the precise quantification of this damage is not an issue presently
+before me. His disclosure had also been prompted by Mr Samuel Tan, and it
+therefore has to be said the second defendant had procured Mr Yeo’s breach of
+contract.
+
+172 The sole remaining question is whether, in procuring Mr Yeo’s breach of
+contract, the second defendant was aware of the contract and intended for it
+to be breached. In dealing with Mr Yeo when he was in the employ of the
+plaintiff, the second defendant must surely have known that Mr Yeo was subject
+to an employment contract. That they might not have been aware of the precise
+terms of the employment contract – ie, that the employment contract contained
+the Confidentiality Obligation – is immaterial: Tribune Investment Trust Inc v
+Soosan Trading Co Ltd [2000] 2 SLR(R) 407 (“Tribune Investment”) at [17].
+While there is no indication that the second defendant had intended the breach
+of the Confidentiality Obligation either as an end in itself or a means to an
+end (see M+W Singapore at [90], citing OBG Ltd v Allan [2008] 1 AC 1), it
+suffices for the element of intention that a defendant “is reckless as to the
+consequence of his actions in the sense of being indifferent whether or not a
+breach happens” (Tribune Investment at [18]). I find that the second defendant
+was reckless in this manner. The entire point of consulting Mr Yeo and the
+first defendant when faced with a request for a quote by Leap Networks was
+that the second defendant did not have access to Cisco’s prices. Mr Samuel Tan
+knew that this information was in the possession of the plaintiff – indeed, he
+acknowledged in cross-examination that it “belong[ed]” to the plaintiff 133
+
+##### Foot Note 133
+
+×
+
+Transcript, 13 September 2021, p 83 lines 7–10.
+
+– and yet forged ahead with no regard for the plaintiff’s confidentiality or
+potential contractual restrictions on Mr Yeo relating thereto.
+
+173 It follows that the elements of the tort of inducement of breach of
+contract have been satisfied by the second defendant’s procurement of
+information from Mr Yeo in breach of his Confidentiality Obligation. As the
+first defendant was actively involved in this exchange (see [84]–[85] above),
+I find that he, too, played a role in procuring Mr Yeo’s breach, and that he
+should be held jointly liable with the second defendant.
+
+Solicitation of A&L
+
+174 Turning to the solicitation of A&L, the plaintiff alleges that Mr Yeo:
+
+(a) prepared a quote for the second defendant based on a quote from one of the
+plaintiff’s suppliers, ECS Pericomp Sdn Bhd (“ECS Pericomp”), and sent both
+quotes to Mr Samuel Tan; and
+
+(b) collaborated with an employee of Sunway on the preparation of further
+quotes for A&L while still employed by the plaintiff.
+
+175 I find that Mr Yeo breached his Confidentiality Obligation by sending the
+ECS Pericomp quote to Mr Samuel Tan. I also accept Mr Yeo’s evidence that he
+had prepared his quote and sent both quotes to Mr Samuel Tan as a result of Mr
+Samuel Tan’s prompting. I further find that, as with the solicitation of Leap
+Networks, the elements of awareness of Mr Yeo’s contract and intention are
+satisfied as well.
+
+176 However, the plaintiff has not suggested in its evidence or submissions
+that it has suffered damage as a result of the defendants’ procurement of Mr
+Yeo’s disclosure of the ECS Pericomp quote. The only indication in this regard
+is in the plaintiff’s statement of claim, where the catch-all assertion that
+the plaintiff has suffered “loss and damage” 134
+
+##### Foot Note 134
+
+×
+
+SOC at para 61.
+
+may be read to extend to this aspect of its claim. In this regard, I refer to
+an exhibit tendered by the first defendant at trial, comparing the customers
+of the plaintiff to the customers of the second defendant. 135
+
+##### Foot Note 135
+
+×
+
+Exhibit (1)D2.
+
+This exhibit indicates that at no point before or after Mr Yeo’s disclosure of
+the ECS Pericomp quote was A&L a customer of the second defendant. I note that
+the plaintiff has not challenged the accuracy of this exhibit, and was indeed
+happy to adopt it to suggest that the second defendant was broadly targeting
+the plaintiff’s customers. 136
+
+##### Foot Note 136
+
+×
+
+PCS at para 486.
+
+The plaintiff has not suggested what form of damage it might have suffered, if
+the second defendant indeed did not gain the business of A&L at its expense.
+
+177 Given that the plaintiff has essentially put nothing forward to suggest
+that damage has been suffered, I am unable to find that the tort of inducement
+of breach of contract has been made out in relation to the defendants’
+procurement of Mr Yeo’s disclosure of the ECS Pericomp quote.
+
+178 As for Mr Yeo’s collaboration with an employee of Sunway while in the
+employ of the plaintiff, no suggestion has been made by the plaintiff that the
+Confidentiality Obligation was breached. I therefore do not allow this aspect
+of the plaintiff’s claim.
+
+Disclosure of the SP Inventory List
+
+179 The final aspect of the plaintiff’s pleaded claim concerns the disclosure
+of the SP Inventory List. I have averted to this earlier in this judgment,
+when pointing out that the “true sequence” of events leading up to its
+disclosure, as put forth by the plaintiff, did not involve the first defendant
+at all (see [71] above). I now consider this “true sequence” in greater
+detail.
+
+180 The plaintiff’s case is that Ms Lee, one of the plaintiff’s Former
+Employees, compiled and sent the SP Inventory List to the second defendant’s
+Esther Foo (“Ms Foo”). Subsequently, on 10 May 2018, Ms Foo circulated the SP
+Inventory List to her colleagues at Sunway. 137
+
+##### Foot Note 137
+
+×
+
+PCS at para 189.
+
+181 It is not disputed that Ms Lee compiled the SP Inventory List, and that Ms
+Foo circulated the SP Inventory List to her colleagues at Sunway on 10 May
+2018. The wrinkle in this account is that Ms Lee denied on the stand that she
+had not forwarded it to anyone in the second defendant. 138
+
+##### Foot Note 138
+
+×
+
+Transcript, 1 December 2020, p 202 line 22 to p 203 line 2.
+
+However, I reject this assertion. The list compiled by Ms Lee 139
+
+##### Foot Note 139
+
+×
+
+8PBAEIC at pp 202–204.
+
+is identical to the one circulated by Ms Foo to her colleagues on 10 May 2018.
+140
+
+##### Foot Note 140
+
+×
+
+7PBAEIC at pp 59–69.
+
+Ms Lee could not explain this apparent coincidence, 141
+
+##### Foot Note 141
+
+×
+
+Transcript, 1 December 2020, p 203 lines 3–4.
+
+though she attempted to conjecture – without basis – that perhaps the other
+employees of the plaintiff whom she shared the list with might have shared it
+with SP, who might then have passed it on, until it eventually arrived in the
+hands of the second defendant. 142
+
+##### Foot Note 142
+
+×
+
+Transcript, 1 December 2020, p 203 line 23 to p 204 line 2.
+
+I find that it is more likely than not that Ms Lee had in fact sent the SP
+Inventory List to Ms Foo. I therefore accept the factual narrative set out by
+the plaintiff in relation to the disclosure of the SP Inventory List.
+
+182 I further find that Ms Lee’s disclosure of the SP Inventory List to Ms Foo
+constituted a breach of the confidentiality clause in her employment contract
+(which was slightly different from the corresponding clauses for the first
+defendant and Mr Yeo). The SP Inventory List was composited from information
+concerning equipment and services which the plaintiff had provided to SP, as
+well as projects that were undertaken by the plaintiff for SP. It was
+therefore “Confidential Information”, as defined in Ms Lee’s employment
+contract, being “information … possessed by, used by, or under the control of
+[the plaintiff] that [was] not generally available to the public”. 143
+
+##### Foot Note 143
+
+×
+
+1 AB 222.
+
+In disclosing the SP Inventory List to Ms Foo, Ms Lee breached cl 13.2 of her
+employment contract, which obligated her to “keep confidential and not
+disclosed [sic] to any third party … the Confidential Information”. 144
+
+##### Foot Note 144
+
+×
+
+1 AB 227.
+
+I also accept the plaintiff’s evidence that this disclosure likely caused loss
+and damage to it. 145
+
+##### Foot Note 145
+
+×
+
+Ambrose’s AEIC at para 182.
+
+183 The next question, then, is whether the defendants had induced Ms Lee’s
+breach. The second defendant submits that on the evidence, the plaintiff has
+not proven this. 146
+
+##### Foot Note 146
+
+×
+
+2DCS at para 153.
+
+I disagree. Ms Foo testified that she had circulated the SP Inventory List to
+her colleagues in response to a query from Mr Samuel Tan. 147
+
+##### Foot Note 147
+
+×
+
+Transcript, 7 September 2021, p 110 line 2 to p 111 line 13.
+
+If there was no inducement, that means that Ms Foo had been charged with this
+matter, and at or around the same time, Ms Lee happened to breach her
+Confidentiality Obligation by disclosing to the second defendant the exact
+information that Ms Foo required. This is, to say the least, an unlikely
+series of events. I therefore find that it is more likely than not that the
+second defendant had induced Ms Lee to breach her Confidentiality Obligation.
+
+184 However, I do not find that the first defendant played a part in inducing
+this breach. The extent of the first defendant’s participation in this
+disclosure, on the plaintiff’s own case, is that he intended for the second
+defendant to poach SP from the plaintiff, as indicated in his business plans.
+Without further evidence of the first defendant’s direct involvement in
+procuring Ms Lee’s breach of her Confidentiality Obligation, it is difficult
+for me to find that he had a hand in this, as opposed to the alternative of
+the second defendant initiating this inducement on its own.
+
+185 I further reiterate my analysis above and find that the elements of
+awareness of Ms Lee’s contract and intention are satisfied as well.
+
+186 I therefore find the second defendant to be liable in inducement of breach
+of contract in respect of Ms Lee’s breach of her Confidentiality Obligation in
+disclosing the SP Inventory List.
+
+Conspiracy
+
+187 Finally, the plaintiff claims against both defendants in both unlawful
+means conspiracy and lawful means conspiracy.
+
+Unlawful means conspiracy
+
+188 Unlawful means conspiracy is constituted when two or more persons combine
+to commit an unlawful act with the intention of harming the plaintiff’s
+economic interests. The claimant must show (Bluestone Corp Pte Ltd v Phang
+Cher Choon and others and another suit [2020] SGHC 268 at [254]):
+
+(a) there was a combination of two or more persons to do certain acts;
+
+(b) the alleged conspirators had the intention to cause damage or injury to
+the plaintiff by those acts;
+
+(c) the acts were unlawful;
+
+(d) the acts were performed in furtherance of the agreement; and
+
+(e) the plaintiff suffered loss as a result of the conspiracy.
+
+189 In the present case, I find that on a balance of probabilities, it is
+likely that the defendants worked together to set up the second defendant at
+the expense of the plaintiff, namely through obtaining the plaintiff’s
+confidential information, diverting the plaintiff’s customers and hiring the
+plaintiff’s employees. The second defendant sought to portray the first
+defendant’s actions in this regard as a sort of overzealous assistance, the
+details to which the second defendant was not privy. I am inclined to
+disagree. As Mr Sng admitted on the stand, he sought elaboration from the
+first defendant at various junctures as to the proposed business plan. His
+position that this was merely to check that the first defendant had some basis
+in reality for the plan, as the level of detail in the plan had apparently
+been not at all expected. He therefore sought to throw the first defendant a
+“curve ball” by asking for more details. However, I do not find this to be a
+credible tale. Multiple rounds of “curve balls” were apparently thrown, which
+does not strike me as necessary if all Mr Sng wanted to do was to verify the
+plaintiff’s mettle and credibility. Further, as I have already alluded to (at
+[103] above), the density of the first defendant’s work for the second
+defendant suggests a much more tight-knit relationship, as well as the
+existence of a shared plan. I therefore find it more likely than not that
+there was in fact an underlying combination between the defendants for the
+first defendant to assist in the setting up for the second defendant through
+the transmission of confidential data belonging to the plaintiff, the
+solicitation of the plaintiff’s employees and the diversion of the plaintiff’s
+customers.
+
+190 I have found that the first defendant breached his contractual obligations
+through providing assistance to the second defendant in (a) setting up the
+latter, (b) soliciting Ms Tan and Ms Chua and (c) the second defendant’s
+efforts to divert from the first defendant various customers and opportunities
+(see [102] above). Further, I have found that the second defendant induced Ms
+Lee’s breach of her Confidentiality Obligation in her disclosure of the SP
+Inventory List, and that both defendants should be held liable for inducing Mr
+Yeo’s breach of his Confidentiality Obligation in respect of Leap Networks.
+These constitute the unlawful means by which the conspiracy was undertaken. It
+is also likely that the plaintiff has suffered loss by these acts, though the
+extent of the loss is not an issue that is presently before me. I find,
+therefore, that the defendants are liable in unlawful means conspiracy.
+
+Lawful means conspiracy
+
+191 The plaintiff further makes a claim under lawful means conspiracy, which
+is constituted by (Tuitiongenius Pte Ltd v Toh Yew Keat and another [2020] 5
+SLR 354 at [114]):
+
+(a) a combination of two or more persons and an agreement between them and
+amongst them to do certain acts;
+
+(b) the predominant purpose of the combination being to cause damage or injury
+to the claimant;
+
+(c) the acts were performed in furtherance of the agreement; and
+
+(d) the claimant suffered loss as a result of the conspiracy.
+
+192 Once more, I find that there was a combination between the defendants for
+the first defendant to assist in the setting up for the second defendant
+through the transmission of confidential data belonging to the plaintiff, the
+solicitation of the plaintiff’s employees and the diversion of the plaintiff’s
+customers.
+
+193 The alleged conspirators in a lawful means conspiracy will be taken to
+possess the necessary predominant purpose if they undertake actions knowing
+that any gain to themselves cannot be brought about without a corresponding
+loss to the plaintiffs (see Tuitiongenius at [115] and Raffles Town Club Pte
+Ltd v Lim Eng Hock Peter and others and other appeals [2013] 1 SLR 374 at
+[63]). In the present case, given that the core of the combination appears to
+have been to take advantage of the resources and work invested by the
+plaintiff in its business to jumpstart the second defendant, it can be safely
+said the defendants’ gain could only have come about with a corresponding loss
+to the plaintiff. The defendants therefore possessed the necessary predominant
+purpose to injure the plaintiff.
+
+194 As an aside, I note that in a situation involving the poaching of an
+employee – a fairly common business practice – the gain to the hiring company
+necessarily entails a corresponding loss to the company from which the
+employee was hired from. It would then appear to follow that whenever such
+poaching is agreed upon between multiple parties and executed, a cause of
+action in lawful means conspiracy results. Whether the tort of lawful means
+conspiracy should capture such situations is not a question that is before me,
+nor one on which the parties in the present case have made submissions, but it
+is perhaps a question worthy of future consideration.
+
+195 I turn to the acts performed in furtherance of the agreement. In addition
+to those acts which I have found to constitute unlawful means for the purposes
+of unlawful means conspiracy (see [190] above), I find that the second
+defendant’s solicitation of the Former Employees apart from Ms Chua and Ms Tan
+(see [63]–[67] above) was also performed in furtherance of the agreement. It
+is also likely that the plaintiff suffered loss as a result of these acts.
+
+196 I therefore find that the plaintiff’s claim in lawful means conspiracy has
+been made out as well.
+
+Reliefs
+
+197 In summary, I make the following findings as to liability:
+
+(a) The first defendant is liable for breach of contract and his implied
+duties of good faith and fidelity for:
+
+(i) Preparing and communicating business plans for setting up the second
+defendant (at [54]–[55] above), providing feedback on the second defendant’s
+name cards (at [57] above) and disclosing the first defendant’s internal
+manuals (at [57] above);
+
+(ii) Assisting in the second defendant’s solicitation of Ms Chua and Ms Tan
+(at [60] above);
+
+(iii) Disclosing the plaintiff’s pricing strategy in relation to the SCADA 227
+and OEM2 projects (at [81] above);
+
+(iv) Assisting the second defendant in procuring the business of Leap Networks
+(at [85] above), A&L (at [86] above) and CWT Limited (at [87] above;.
+
+(v) Responding substantively to the second defendant’s inquiries in relation
+to AT&T (at [88] above);
+
+(vi) Working for Beesket during his working hours with the plaintiff, and
+misusing the plaintiff’s employees for the “team-building exercise” (at [109]
+above);
+
+(vii) Manipulating records in order to obtain higher payments of OTE to Ms
+Gwee (at [117] above) and Andrew Tan (at [132] above); and
+
+(viii) Approving reimbursement claims from Ms Gwee with no ostensible link to
+the business of the plaintiff (at [119] above).
+
+(b) The first defendant is liable in fraudulent misrepresentation for
+manipulating records in order to obtain higher payments of OTE to Ms Gwee (at
+[117] above) and Andrew Tan (at [132] above) and approving reimbursement
+claims from Ms Gwee with no ostensible link to the business of the plaintiff
+(at [119] above).
+
+(c) The first defendant is liable in breach of confidence in relation to the
+business plans he prepared for the second defendant and his disclosure of the
+plaintiff’s internal manuals and the plaintiff’s pricing strategy on the SCADA
+227 and OEM2 Projects (at [151] above).
+
+(d) The second defendant is liable for inducing Ms Lee’s breach of her
+Confidentiality Obligation in her disclosure of the SP Inventory List (at
+[186] above), while both defendants are liable for inducing Mr Yeo’s breach of
+his Confidentiality Obligation in respect of Leap Networks (at [173] above).
+
+(e) Both defendants are liable in unlawful means conspiracy for the
+plaintiff’s contractual breaches and the inducements of breach of contract.
+
+(f) Both defendants are liable in lawful means conspiracy for the plaintiff’s
+contractual breaches, the inducements of breach of contract and the
+solicitation of the Former Employees apart from Ms Chua and Ms Tan.
+
+198 The plaintiff seeks the following reliefs:
+
+(a) damages to be assessed, or in the alternative, at the election of the
+plaintiff, an account of profits;
+
+(b) an order that the defendants deliver up to the plaintiff all hard and soft
+copies of the plaintiff’s trade secrets, confidential and/or proprietary
+information and any of the plaintiff’s trade secrets, confidential and/or
+proprietary information that has been obtained, modified or adapted by the
+defendants and destroy all copies of the same in their custody, power and
+control; and
+
+(c) an injunction to restrain the defendants from using or dealing in any way
+with the plaintiff’s trade secrets, confidential and/or proprietary
+information.
+
+199 I have found that there have been numerous instances where confidential
+information was conveyed to the second defendant, whether by the first
+defendant or by others. Further, even though the plaintiff did not succeed in
+its claim against the first defendant for breach of contract in respect of the
+confidential information discovered via forensic inspection (see [100] above),
+it is still troubling that such information was found in the possession of the
+defendants. I therefore grant the order and the injunctions sought.
+
+200 I also order that damages are to be assessed in respect of each head of
+liability which has been found.
+
+201 The plaintiff seeks the alternative remedy of an account of profits on the
+basis that the conduct of the first defendant also amounted to a breach of his
+fiduciary duties. I have not allowed this claim, and it follows that the
+alternative remedy of an account of profits is not appropriate in respect of
+the entirety of the first defendant’s conduct. However, insofar as the
+plaintiff has made out its case in breach of confidence against the first
+defendant – ie in respect of the business plans he prepared for the second
+defendant and his disclosure of the plaintiff’s internal manuals and the
+plaintiff’s pricing strategy on the SCADA 227 and OEM2 Projects – the
+plaintiff is entitled to elect for an account of profits.
+
+202 The costs of this stage of the trial shall be reserved to the following
+stage of the trial.
+
+Chan Seng Onn  
+Senior Judge|  
+---|---  
+  
+Toh Wei Yi, Poon Pui Yee, Leong Shan Wei Jaclyn and Ng Hua Meng Marcus (Huang
+Huaming Marcus) (Harry Elias Partnership LLP) for the plaintiff;
+
+Hua Yew Fai Terence, Mohamed Fazal bin Abdul Hamid, Nur Izyan binte Mohammad
+Rahim (IRB Law LLP) for the first defendant;
+
+Loo Choon Chiaw, Chia Foon Yeow and Saw Sheng Cai Leonard (Loo & Partners LLP)
+for the second defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 18 Jul 2022 (16:00 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

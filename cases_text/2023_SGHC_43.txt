@@ -1,0 +1,784 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 43
+
+Originating Application No 873 of 2022
+
+Between
+
+| Yap Sze Kam  
+---|---  
+  
+… Applicant
+
+And
+
+| Yang Kee Logistics Pte Ltd  
+---|---  
+  
+… Respondent
+
+Originating Application No 883 of 2022
+
+Between
+
+| Koh Kien Chon  
+---|---  
+  
+… Applicant
+
+And
+
+| Yang Kee Logistics (Singapore) Pte Ltd  
+---|---  
+  
+… Respondent
+
+judgment
+
+[Companies — Receiver and manager — Judicial management order]
+
+[Insolvency Law — Judicial management]
+
+[Credit and Security — Remedies — Receivership]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Yap Sze Kam
+
+  
+v
+
+  
+
+Yang Kee Logistics Pte Ltd and another matter
+
+[2023] SGHC 43
+
+General Division of the High Court — Originating Application No 873 of 2022
+and Originating Application No 883 of 2022  
+Philip Jeyaretnam J  
+6, 17 February 2023
+
+24 February 2023 Judgment reserved.
+
+Philip Jeyaretnam J:
+
+Introduction
+
+1 These proceedings seeking the appointment of different judicial managers
+over a holding company and its wholly owned subsidiary raise the question of
+the interplay between the judicial management regime and the rights of
+bondholders, who are the largest creditors of the holding company. The
+bondholders have, via the security trustee, appointed receivers and managers
+not over the holding company itself but over the majority of the shares in it,
+thus achieving, as contractually intended between them and the founders,
+effective control of the boards of both the holding company and the
+subsidiary. Those receivers and managers have been in place for some time, and
+have already taken a number of steps.
+
+Facts
+
+The parties
+
+2 Yang Kee Logistics Pte Ltd (“YK HoldCo”) is the parent holding company of a
+group of companies that provide integrated international logistics services
+(the “Yang Kee Group”). Mr Koh Kien Chon (“Mr Koh”) and his family (the “Koh
+Family”) own 89.45% of YK HoldCo. 1
+
+##### Foot Note 1
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 20 January 2023 (HC/OA 873/2022) at
+[10].
+
+The other key family member is his father, Mr Koh Yang Kee, and I shall refer
+to them collectively as the Founders.
+
+3 Yang Kee Logistics (Singapore) Pte Ltd (“YK LogCo”) is the logistics
+business arm of the Yang Kee Group. 2
+
+##### Foot Note 2
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 20 January 2023 (HC/OA 873/2022) at
+[10].
+
+YK LogCo is a wholly owned subsidiary of YK HoldCo. 3
+
+##### Foot Note 3
+
+×
+
+1st Affidavit of Koh Kien Chon dated 27 December 2022 (HC/OA 883/2022) at
+[47].
+
+4 Yang Kee Holdings Pte Ltd (the “YK PropCo”) is the property holding arm of
+the Yang Kee Group. 4
+
+##### Foot Note 4
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 20 January 2023 (HC/OA 873/2022) at
+[10].
+
+YK HoldCo holds 50.99% of the shares in YK PropCo. The remaining 49.01% is
+held by LSAV Project 1 Pte Ltd, an investment vehicle owned by LOGOS Property
+Pty Ltd (“LOGOS”). 5
+
+##### Foot Note 5
+
+×
+
+1st Affidavit of Yap Sze Kam dated 22 December 2022 (HC/OA 873/2022) at [8].
+
+5 YK HoldCo, YK LogCo, and YK PropCo are the principal entities within the
+Yang Kee Group. The Group’s aim is to be “a Singapore head-quartered, fully
+integrated, end-to-end, logistics solutions provider”, with four main service
+lines, namely freight forwarding, contract logistics, transportation and
+container depot. 6
+
+##### Foot Note 6
+
+×
+
+Respondents’ written submissions dated 3 February 2023 (HC/OA 883/2022) at
+[14].
+
+The Yang Kee Group is insolvent.
+
+6 On 22 December 2022, by HC/OA 873/2022 (“OA 873”), Mr Yap Sze Kam (“Mr Yap”)
+applied for the appointment of judicial managers over YK HoldCo. He does so as
+a creditor, having lent $6m, which was due to be repaid on 31 December 2020
+but was not in fact repaid. 7
+
+##### Foot Note 7
+
+×
+
+1st Affidavit of Yap Sze Kam dated 22 December 2022 (HC/OA 873/2022) at
+[11]-[17].
+
+7 On 27 December 2022, by HC/OA 883/2022 (“OA 883”), Mr Koh applied for the
+appointment of different judicial managers over YK LogCo. Mr Koh is the Group
+Chief Executive Officer of the Yang Kee Group. 8
+
+##### Foot Note 8
+
+×
+
+1st Affidavit of Koh Kien Chon dated 27 December 2022 (HC/OA 883/2022) at
+[10].
+
+However, he makes this application ostensibly as a creditor of YK LogCo. YK
+LogCo owes a total debt of close to $16m to a third-party investor, which the
+parties have referred to as Phillip Capital for convenience, a label I adopt
+for this judgment. 9
+
+##### Foot Note 9
+
+×
+
+1st Affidavit of Koh Kien Chon dated 27 December 2022 (HC/OA 883/2022) at
+[77]-[81].
+
+Mr Koh purports to be a creditor of YK LogCo on the basis that, as guarantor
+of this debt, he made a payment of the relatively small sum of $30,000 on 20
+December 2022, seven days prior to commencing OA 883.
+
+8 OA 873 and OA 883 (collectively, the “JM Applications”) are opposed by both
+YK HoldCo and YK LogCo (collectively, “the Companies”).
+
+9 Mr Koh also sought the appointment of interim judicial managers over YK
+LogCo by HC/SUM 4548/2022. When this came up for hearing before me on 4
+January 2023, I took the view that the better approach was to expedite the
+hearing of the main judicial management application and hear both JM
+Applications together. I heard arguments for both JM Applications on 6 and 17
+February 2023.
+
+Background to proceedings
+
+10 On 17 November 2017, YK HoldCo issued various fixed rate convertible bonds
+secured by a charge over the Koh Family’s 89.45% shareholding in YK HoldCo
+(the “YK HoldCo Charged Shares”) pursuant to a Share Charge Agreement dated 21
+November 2017, and over YK HoldCo’s 50.99% shareholding in YK PropCo (the “YK
+PropCo Charged Shares”) pursuant to a Share Charge Agreement dated 21 May
+2020. Watiga Trust Pte Ltd is the security trustee for the bondholders, who
+presently comprise:
+
+(a) United Orient Capital Pte Ltd (“UOC”);
+
+(b) Singapore Warehouse Co (Pte) Ltd (“SG Warehouse”); and
+
+(c) Rising Horizon SPC (acting for and on behalf of and for the account of
+Rising Horizon I SP), an investment vehicle of China Construction Bank
+Investments (“CCBI”). 10
+
+##### Foot Note 10
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 20 January 2023 (HC/OA 873/2022) at
+[12]-[13].
+
+The amount YK HoldCo owes to these bondholders is in the order of $110m. 11
+
+##### Foot Note 11
+
+×
+
+Affidavit of Ngu Chia Yi Florence dated 20 January 2023 at [31]; 1st Affidavit
+of Cosimo Borrelli dated 20 January 2023 (HC/OA 873/2022) at [20].
+
+In addition to the debts identified above, YK PropCo owes about $265m to three
+secured lenders, namely three well-known banks DBS, UOB and CIMB (the “YK
+PropCo Secured Loans” and “YK PropCo Secured Lenders”). However, it appears
+that the security (three Singaporean warehouses) holds value exceeding the
+respective debts owed to the YK PropCo Secured Lenders. Nonetheless, the YK
+PropCo Secured Loans are currently in default and guarantee obligations on the
+part of other members of the Yang Kee Group have been triggered.
+
+11 In 2018, YK HoldCo defaulted on its interest payment obligations and in
+2020, YK HoldCo further defaulted upon maturity of the bonds. 12
+
+##### Foot Note 12
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 20 January 2023 (HC/OA 873/2022) at
+[16]-[18]; Affidavit of Ngu Chia Yi Florence dated 20 January 2023 at [11].
+
+From about August 2021, the Founders have been engaged in a fundraising
+exercise to restructure the Yang Kee Group. 13
+
+##### Foot Note 13
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 20 January 2023 (HC/OA 873/2022) at
+[18], [35].
+
+To date, this has apparently failed to draw even serious expressions of
+interest, let alone offers.
+
+12 On 12 May 2022, just over seven months before the JM Applications were
+filed, Watiga Trust Pte Ltd exercised its power to appoint receivers and
+managers over the YK HoldCo Charged Shares and the YK PropCo Charged Shares
+(collectively, the “Charged Shares”). 14
+
+##### Foot Note 14
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 20 January 2023 (HC/OA 873/2022) at
+[1], [19]; Affidavit of Ngu Chia Yi Florence dated 20 January 2023 at [11].
+
+I will refer to the receivers and managers collectively as the Receivers. It
+is important to note at the outset that they are not receivers and managers of
+the entire undertaking of the Companies, but only of the Charged Shares.
+However, by virtue of controlling a majority stake in both YK HoldCo and YK
+PropCo, 15
+
+##### Foot Note 15
+
+×
+
+Affidavit of Ngu Chia Yi Florence dated 20 January 2023 at [12].
+
+the Receivers have effective management control over YK HoldCo and YK PropCo,
+as well as over YK LogCo because it is a wholly owned subsidiary of YK HoldCo.
+The Receivers are represented by a controlling majority of directors on the
+boards of the Companies. 16
+
+##### Foot Note 16
+
+×
+
+Affidavit of Ngu Chia Yi Florence dated 20 January 2023 at [12]; 1st Affidavit
+of Cosimo Borrelli dated 20 January 2023 (HC/OA 873/2022) at [23].
+
+These directors are drawn from Kroll Pte Ltd, a company which provides
+professional insolvency services, among other services.
+
+13 The Receivers commenced their own sales process, commencing 1 July 2022. By
+the terms of a Withdrawal Agreement dated 13 June 2022 between the Receivers
+and, among others, the Founders, it was agreed that both processes (that of
+the Founders and that of the Receivers) were to run concurrently. 17
+
+##### Foot Note 17
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 20 January 2023 (HC/OA 873/2022) at
+[36]-[40].
+
+14 In November 2022, the Receivers elicited two binding offers, one from
+LOGOS, which owns 49.01% of YK PropCo, and another from Guangdong Provincial
+Port & Shipping Group Company Limited (“GDPS”). 18
+
+##### Foot Note 18
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 20 January 2023 in HC/OA 873/2022 at
+[50].
+
+15 After evaluating these offers, the Receivers considered that there were
+unfulfillable conditions precedent proposed by GDPS standing in the way of
+successfully completing any deal with them. 19
+
+##### Foot Note 19
+
+×
+
+Respondents’ written submissions dated 3 February 2023 (HC/OA 883/2022) at
+[48].
+
+By contrast, the Receivers considered that the LOGOS offer was clear and
+capable of completion, while providing clear benefits, 20
+
+##### Foot Note 20
+
+×
+
+Respondents’ written submissions dated 3 February 2023 (HC/OA 883/2022) at
+[38]-[39].
+
+namely:
+
+(a) Cash of $35m for the YK PropCo Charged Shares (for the benefit of the
+bondholders).
+
+(b) Refinancing of the outstanding YK PropCo Secured Loans, and corresponding
+release of the guarantees provided by other members of the Yang Kee Group.
+
+(c) Waiver by YK PropCo of all outstanding rental arrears and late fees
+accrued and owed by YK HoldCo to YK PropCo under a master lease agreement for
+the Singaporean warehouses.
+
+16 Accordingly, the Receivers decided to move forward with LOGOS, seeking to
+achieve a definitive agreement by 28 February 2023, until which date LOGOS was
+granted exclusivity. 21
+
+##### Foot Note 21
+
+×
+
+1st Affidavit of Cosimo Borrelli dated 20 January 2023 in HC/OA 873/2022 at
+[51].
+
+17 It was this decision by the Receivers that prompted the JM Applications,
+seven months after the appointment of the Receivers.
+
+Parties’ cases
+
+18 Mr Yap’s concern with the LOGOS offer is that it meant that YK HoldCo’s
+shares in YK PropCo will be sold, resulting in YK HoldCo no longer being an
+integrated offering. 22
+
+##### Foot Note 22
+
+×
+
+1st Affidavit of Yap Sze Kam dated 22 December 2022 (HC/OA 873/2022) at
+[34]-[35].
+
+His counsel contends that the Receivers were acting in the interests of the
+bondholders rather than in the interests of the creditors of YK HoldCo
+generally. If judicial managers are appointed, they can independently assess
+whether to proceed with LOGOS or seek to overcome the alleged difficulties
+with the GDPS offer.
+
+19 Mr Koh shares these concerns. His counsel contends that if judicial
+managers are appointed and are then able to negotiate directly with GDPS,
+there is a real prospect that GDPS might potentially offer a better deal than
+LOGOS, and, in particular, might offer to buy the business as a whole. 23
+
+##### Foot Note 23
+
+×
+
+Koh’s written submissions dated 28 December 2022 at [23] and [29]; Koh’s
+written submissions dated 3 February 2023 at [2] and [29].
+
+As the judicial managers will only be appointed for a limited time, if they
+fail to obtain a better offer from GDPS or anyone else, their appointment will
+come to an end at the end of that period. Moreover, the bondholders are not
+creditors of YK LogCo, but only of YK HoldCo. Their interest in YK LogCo is
+via the YK HoldCo Charged Shares, which represents the majority stake in YK
+HoldCo. Leaving aside DBS, the largest creditor of YK LogCo is Phillip
+Capital, and Phillip Capital supports the making of a judicial management
+order in OA 883. 24
+
+##### Foot Note 24
+
+×
+
+Koh’s written submissions dated 3 February 2023 at [2] and [34].
+
+DBS for its part took no position at the hearing. In addition, Mr Koh urged
+the court to make a judicial management order in the public interest, given
+the Yang Kee Group’s position in the container trade. 25
+
+##### Foot Note 25
+
+×
+
+Koh’s written submissions dated 3 February 2023 at [49]-[54].
+
+20 Counsel for the Companies contends that there is no basis to find any real
+prospect of a better deal, whether with GDPS or others. The Founders have had
+the opportunity to seek other and better solutions and have failed to find
+any. The LOGOS deal will stabilise the operations of the Companies, and the
+Receivers continue to work on separate deals in respect of the logistics
+business. In that regard, they have two potential buyers. They also suggest
+that appointing judicial managers might imperil the LOGOS deal. 26
+
+##### Foot Note 26
+
+×
+
+Respondents’ written submissions dated 3 February 2023 (HC/OA 883/2022) at
+[101]-[107].
+
+To this end, they exhibited an email from Jurong Town Corporation (“JTC”)
+dated 8 February 2023, 27
+
+##### Foot Note 27
+
+×
+
+2nd Affidavit of Cosimo Borrelli dated 16 February 2023 at 26.
+
+indicating that JTC was awaiting the outcome of the JM Applications before
+assessing whether to approve the LOGOS deal. Counsel for the Companies also
+contended that the LOGOS deal alone would benefit the creditors of YK LogCo,
+because YK LogCo’s guarantee given to DBS would be released. 28
+
+##### Foot Note 28
+
+×
+
+Respondents’ written submissions dated 3 February 2023 (HC/OA 883/2022) at
+[40].
+
+Further, they contended that Mr Koh has no standing to make the application in
+OA 883, because a guarantor who has paid off only part of what is owed to the
+creditor is not entitled to prove in the insolvency of the debtor. 29
+
+##### Foot Note 29
+
+×
+
+Respondents’ written submissions dated 3 February 2023 (HC/OA 883/2022) at
+[70]-[71].
+
+21 Counsel representing Watiga Trust Pte Ltd, the security trustee, and
+several other creditors also addressed me. I mention three of them:
+
+(a) UOC, a bondholder and the largest unsecured creditor of YK HoldCo, opposes
+the JM Applications. They made the point that they are secured creditors and
+Mr Koh had agreed to their contractual right to appoint the Receivers, which
+had been the result of negotiations. Even after the default on the bonds in
+2018 (see above at [11]), the bondholders had given Mr Koh and his management
+team time to find an alternative solution. It was only in 2022 that they
+exercised their rights and appointed the Receivers. Since appointment, the
+Receivers have achieved substantial progress. Therefore, any allegation of a
+conflict of interest was simply beside the point and clouded the issue because
+the right to appoint the Receivers was something that had been freely agreed
+to. Moreover, Mr Yap and Mr Koh failed to identify any detriment if the
+judicial managers are not appointed.
+
+(b) Maybank, creditors of both YK HoldCo and YK LogCo, also opposes the JM
+Applications. Maybank believes that the LOGOS deal is in the interests of
+creditors of both YK HoldCo and YK LogCo.
+
+(c) Phillip Capital, creditors of YK LogCo, support the JM Applications. At
+the hearing, counsel for Phillip Capital said that they want to avoid the
+possibility of a sale that is not the best possible deal. They also complained
+that they had not been consulted.
+
+Applicable Law
+
+22 The relevant statutory provisions are ss 89 and 91 of the Insolvency,
+Restructuring and Dissolution Act 2018 (the “IRDA”). Counsel agree that both
+YK HoldCo and YK LogCo are insolvent, thus the focus is on whether the making
+of judicial management orders is likely to achieve one or more of the purposes
+of judicial management, in particular either:
+
+(a) their survival, in whole or in part, as going concerns; or
+
+(b) a more advantageous realisation of their assets or property than on a
+winding up.
+
+23 While there was mention of the possibility of a scheme of compromise or
+arrangement in the future, no present scheme was outlined. Rather, this was
+raised as a possibility in the event of “viable offers”. 30
+
+##### Foot Note 30
+
+×
+
+Koh’s written submissions dated 3 February 2023 at [37].
+
+24 For completeness, s 91(6) IRDA does not apply as the Receivers were not
+appointed over substantially the whole of the undertakings or property of the
+Companies, but only over the Charged Shares (see above at [12]).
+
+25 If one or more of the statutory purposes in s 89(1) IRDA are achievable,
+the court retains a discretion whether to make the judicial management order.
+Mr Yap’s counsel put this in terms of whether there was a reason not to make
+such an order, notwithstanding the fulfilment of the conditions in s 91(1)
+IRDA. Further, s 91(10)(a) IRDA makes clear that the court may make a judicial
+management order if the public interest so requires.
+
+Decision
+
+26 The thrust of Mr Yap’s and Mr Koh’s submission is that there is a real
+prospect that judicial managers will be able to reach a “holistic” deal with
+GDPS (or possibly others). This would be better for the creditors as a whole
+compared to proceeding with the LOGOS deal. The LOGOS deal is characterised by
+Mr Yap and Mr Koh as piecemeal rather than holistic. In short, proceeding with
+the LOGOS deal entails the end of the Founders’ vision of an integrated end-
+to-end logistics solutions provider. 31
+
+##### Foot Note 31
+
+×
+
+Koh’s written submissions dated 3 February 2023 at [18]-[21]; Yap’s written
+submissions dated 3 February 2023 at [33]-[35].
+
+It is perhaps the approach a liquidator might take. Hence, appointing judicial
+managers will likely achieve the survival of the Companies or part of them as
+going concerns (perhaps together with a future scheme of compromise or
+arrangement) or a more advantageous realisation of their assets than a winding
+up.
+
+27 The fundamental premise of their submission is that there is a real
+prospect of a “holistic” and achievable offer from GDPS (or others).
+
+28 In my judgment, the evidence put before the court does not demonstrate any
+such real prospect. It does not rise above a possible, speculative, hoped for
+outcome, the likelihood of which, given the Companies’ experience of the past
+few years, is relatively low.
+
+29 The most important reason for my conclusion is that there is insufficient
+evidence that GDPS is seriously interested in reaching a workable deal. Mr
+Koh’s counsel said that to the “best of Koh’s knowledge and belief, GDPS
+remains willing to negotiate their investment, and will do so with the JM if
+appointed”. 32
+
+##### Foot Note 32
+
+×
+
+Koh’s written submissions dated 3 February 2023 at [30].
+
+Mr Koh also confirmed that GDPS is aware of the JM Applications. 33
+
+##### Foot Note 33
+
+×
+
+3rd Affidavit of Koh Kien Chon dated 2 February 2023 at [60].
+
+But when asked whether there is any direct evidence from GDPS setting out
+their current intentions, all that Mr Koh’s counsel could point to was an
+email exchange between Mr Koh and a GDPS representative, one Ms Amanda Zhang,
+dated 23 and 25 January 2023. 34
+
+##### Foot Note 34
+
+×
+
+3rd Affidavit of Koh Kien Chon dated 2 February 2023 at 76.
+
+This exchange concerned a possible deal between LOGOS and GDPS. Ms Zhang’s
+response to Mr Koh was that GDPS was interested to talk to LOGOS, but only
+concerning LOGOS’s 49.01% share in YK PropCo. She added the assurance that
+“GDPS highly valued founders and the current management team and our position
+to maintain stability and keeping the group as a whole has not changed”. This
+exchange does not even relate to a possible deal with the judicial managers if
+any are appointed and falls far short of substantiating a real prospect that
+GDPS will make a workable and “holistic” offer if the JM Applications are
+granted.
+
+30 No doubt recognising the lacuna in his counsel’s submissions, Mr Koh
+thereafter obtained an email update from Ms Zhang dated 20 February 2023,
+after the conclusion of submissions. Mr Koh’s solicitors provided this email
+to the court on 21 February 2023 by way of a letter. 35
+
+##### Foot Note 35
+
+×
+
+Letter from Sim Chong LLC dated 21 February 2023.
+
+In the email, Ms Zhang advocated for the feasibility of their previous
+proposal that had not been accepted by the Receivers. In response, the
+Companies’ solicitors pointed out Ms Zhang’s update did not address the
+Receivers’ fundamental concerns with the GDPS proposal. 36
+
+##### Foot Note 36
+
+×
+
+Letter from Providence Law Asia dated 22 February 2023.
+
+I do not think that this belated update provides any assistance to Mr Koh’s
+case. If anything, its continued lack of clarity after all this time makes it
+less likely that further exploration with GDPS will lead to a deal, let alone
+a better one. Moreover, GDPS had the opportunity to participate in the sales
+process run by the Receivers, but did not make a clear, workable and
+acceptable proposal. Following the running of that process, LOGOS now holds
+accrued rights. The context for any assessment of what is in the best
+interests of creditors is necessarily dynamic, both in relation to market
+conditions and the steps taken by other potential buyers. Thus, the
+untimeliness of GDPS’s conduct weighed against the clock being turned back in
+its favour.
+
+31 It is also material that the Founders have had the opportunity to achieve a
+“holistic” solution but have not to date been able to. There is nothing to
+suggest that judicial managers will be able to achieve what the Founders could
+not.
+
+32 Importantly, the making of the judicial management orders will only serve
+to displace the boards of YK HoldCo and YK PropCo. The Receivers will remain
+in place as receivers over the YK HoldCo Charged Shares. Mr Yap and Mr Koh
+accept that any “holistic” deal will likely involve the sale of the YK PropCo
+Charged Shares (already included in the LOGOS deal) as well as sale of the YK
+HoldCo Charged Shares. This means that any sale process following the making
+of judicial management orders will require prospective buyers to deal with
+three sets of insolvency professionals rather than just one. It is hard to see
+how this will be to the advantage of any potential sale process.
+
+33 This brings me to the principal advocated advantage of making the judicial
+management orders, namely that the judicial managers will be independent of
+the bondholders and will more objectively evaluate the LOGOS deal. First, the
+evidence suggests that the Receivers have in fact been objective and
+professional, as well as diligent in their efforts. This is evident from
+Maybank’s support for the LOGOS deal. Indeed, neither Mr Yap nor Mr Koh (nor
+anyone else) has come out against the LOGOS deal. The support for the JM
+Applications is rooted in the hope that some better deal may eventuate.
+
+34 Second, that the Receivers are accountable to the bondholders is something
+that was built into the security arrangements for the bonds, arrangements
+which the Founders had obviously agreed to. The fact that the Receivers were
+appointed pursuant to such agreed arrangements undercuts the Founders’
+complaint that the Receivers are accountable to the bondholders rather than to
+creditors generally. That was precisely the intent of the security
+arrangement. Here I find that Mr Koh, while ostensibly a creditor of YK LogCo
+(as of the week before the filing of OA 883), brought these proceedings
+because of his concerns stemming from his position as one of the Founders. I
+infer that Mr Koh sought to portray himself as a “creditor” for the purpose of
+filing OA 883. It is not surprising that he is concerned that his vision of an
+integrated end-to-end logistics solutions provider may not endure, but that
+eventuality is not the fault of the Receivers. Mr Koh became a creditor
+knowing full well that the Receivers were in place and proceeding with the
+LOGOS deal.
+
+35 In relation to OA 873, it bears emphasis that the bondholders are the
+largest creditors of YK HoldCo. In relation to OA 883, the bondholders are not
+creditors of YK LogCo, but it is nevertheless apparent that the LOGOS deal
+will bring benefit to the creditors generally, as confirmed by Maybank’s
+counsel.
+
+36 For avoidance of doubt, I have not come to a concluded view that Mr Koh has
+standing as a creditor of YK LogCo. It is not necessary for me to do so given
+my conclusion on the merits of OA 883.
+
+37 Thus, I conclude that there is no real prospect that the statutory purposes
+of judicial management will be achieved by the JM Applications in the case of
+either YK HoldCo or YK LogCo. Additionally, I hold that in all the
+circumstances of this matter, judicial management orders would not be in the
+best interests of the creditors considered as a whole. Consequently, I would
+not have exercised my discretion to make such orders in any event. Lastly, and
+for completeness, I hold that public interest does not require the making of
+judicial management orders in this case. There really was no basis for the
+submission that it did.
+
+38 I dismiss both OA 873 and OA 883. I will hear counsel on costs.
+
+Philip Jeyaretnam  
+Judge of the High Court|  
+---|---  
+  
+Nair Suresh Sukumaran and Tan Tse Hsien, Bryan (Chen Shixian) (PK Wong & Nair
+LLC) for the applicant in Originating Application No 873 of 2022;
+
+Sim Chong and Chen Sixue (Sim Chong LLC) for the applicant in Originating
+Application No 883 of 2022;
+
+Mohamed Nawaz Kamil, Alston Yeong and Huang Xinli, Daniel (Providence Law Asia
+LLC) for the respondents in Originating Applications No 873 of 2022 and No 883
+of 2022;
+
+Jensen Chow (Rajah & Tann Singapore LLP) for United Orient Capital Pte Ltd
+(non-party) in Originating Applications No 873 of 2022 and No 883 of 2022;
+
+Felicia Soong Wanyi (WongPartnership LLP) for Rising Horizon SPC (non-party)
+in Originating Applications No 873 of 2022 and No 883 of 2022;
+
+Lam Zhen Yu (Withers KhattarWong LLP) for Malayan Banking Berhad, Singapore
+Branch and Maybank Singapore Limited (non-parties) in Originating Applications
+No 873 of 2022 and No 883 of 2022;
+
+Mohan Gopalan (Drew & Napier LLC) for United Overseas Bank Ltd (non-party) in
+Originating Applications No 873 of 2022 and No 883 of 2022;
+
+Poon Guokun Nicholas (Breakpoint LLC) for Phillip Enterprise Fund Limited and
+Phillip Ventures Enterprise Fund 5 Ltd (non-parties) in Originating
+Application No 873 of 2022;
+
+Siew Guo Wei (Shao Guowei) (Tan Kok Quan Partnership) for Watiga Trust Ltd
+(non-party) in Originating Application No 873 of 2022;
+
+Mohamed Nawaz Kamil, Alston Yeong and Huang Xinli, Daniel (Providence Law Asia
+LLC) for Patrick Bance and Cosimo Borrelli (non-parties) in Originating
+Application No 873 of 2022;
+
+Mahmood Gaznavi s/o Bashir Muhammad (Mahmood Gaznavi Chambers LLC) for Bhavna
+Pte Ltd (non-party) in Originating Application No 883 of 2022;
+
+Stephanie Yeo Xiu Wen and Chng QiYun, Clarice (WongPartnership LLP) for DBS
+Bank (non-party) in Originating Application No 883 of 2022;
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 4: 01 Mar 2023 (10:05 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

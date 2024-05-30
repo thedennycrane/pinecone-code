@@ -1,0 +1,997 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 44
+
+Suit No 465 of 2021
+
+(Registrar’s Appeal No 8 of 2023)
+
+Between
+
+| Yeo Su Lan (Yang Shulan)  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| Thomas Hong  
+---|---  
+(2)| Tan Li Khim (Chen Liqin)  
+(3)| Soup Empire Holdings Pte Ltd  
+  
+… Defendants
+
+Counterclaim of 1st Defendant, 2nd Defendant and 3rd Defendant
+
+Between
+
+(1)| Thomas Hong  
+---|---  
+(2)| Tan Li Khim (Chen Liqin)  
+(3)| Soup Empire Holdings Pte Ltd  
+  
+… Plaintiffs in Counterclaim
+
+And
+
+(1)| Yeo Su Lan (Yang Shulan)  
+---|---  
+(2)| Lim Cheng San  
+(3)| Teo Li Lian (Zhang Lilian)  
+(4)| W Food Empire Pte Ltd  
+(5)| The Dim Sum Place (CCP) II Pte Ltd  
+  
+… Defendants in Counterclaim
+
+grounds of decision
+
+[Civil Procedure — Parties — Joinder — Whether co-plaintiffs may be joined to
+a counterclaim]
+
+[Civil Procedure — Parties — Consolidation]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Yeo Su Lan (alias Yang Shulan) v Hong Thomas and others
+
+[2023] SGHC 44
+
+General Division of the High Court — Suit No 465 of 2021 (Registrar’s Appeal
+No 8 of 2023)  
+Goh Yihan JC  
+1 February 2023
+
+24 February 2023
+
+Goh Yihan JC:
+
+1 This is the third defendant’s appeal against the decision of the learned
+Assistant Registrar Kenneth Wang (“the AR”) in HC/SUM 4175/2022 (“SUM 4175”)
+to dismiss its application for the consolidation of HC/S 877/2021 (“Suit 877”)
+with the present suit, HC/S 465/2021 (“Suit 465”). At the end of the hearing
+before me on 1 February 2023, I dismissed the third defendant’s appeal and
+upheld the AR’s decision. I also affirmed the AR’s order for the two suits to
+be heard one immediately after the other, with the administrative details as
+to the sequence and other matters to be dealt with at the next pre-trial
+conference. But because this appeal raised the novel issue of whether a court
+can join a co-plaintiff in a counterclaim who is otherwise a third party to
+the main claim, I now provide my views on, among others, this issue in these
+grounds.
+
+Background facts to the present appeal
+
+2 I begin with the relevant background facts to the present appeal. As is
+clear, Suit 465 and Suit 877 were in issue. Suit 465 is a claim by the nominal
+shareholder, Ms Yeo Su Lan (Yang Shulan) (“YSL”), for minority oppression
+against the first defendant, Mr Thomas Hong (“Thomas”), the second defendant,
+Ms Tan Li Khim (Chen Liqin) (“TLK”), and the third defendant, Soup Empire
+Holdings Pte Ltd (“SEH”). It is helpful to set out a brief summary of SEH
+which explains why YSL is a nominal shareholder. SEH is in the food and
+beverage industry. SEH was co-founded by Thomas and Mr Lim Cheng San
+(“Edger”). Thomas and Edger hold shares beneficially in SEH through a trust
+arrangement with TLK and YSL, who are the only two shareholders of SEH. TLK
+and YSL hold 60.4% and 39.6% of the shares in SEH on trust for Thomas and
+Edger, respectively. This therefore explains why YSL is the plaintiff in Suit
+465 and not Edger. Indeed, Edger is not named as a plaintiff in Suit 465 even
+though he, for all intents and purposes, is the main protagonist in these
+matters together with Thomas.
+
+3 In response to YSL’s claim in Suit 465, Thomas caused SEH to bring a
+counterclaim (“the Counterclaim”) against YSL and four other defendants. The
+Counterclaim alleged that the defendants conspired to use unlawful means to
+injure SEH’s business. In so far as the defendants in the Counterclaim are
+concerned, the second defendant is Edger, the third defendant is Ms Teo Li
+Lian (Zhang Lilian) (“Zhang Lilian”), who is the de facto owner of the fourth
+defendant, W Food Empire Pte Ltd (“WFE”), which in turn is a company that runs
+a food business in competition with SEH, and the fifth defendant is The Dim
+Sum Place (CCP) II Pte Ltd (“DSP”), which is a wholly owned subsidiary of the
+fourth defendant.
+
+4 At this point, it is significant to note that one of the alleged
+conspirators is Mr Cheong Chee Wai (“James”). James was a former employee at
+SEH and its group of companies. He served as Director of Operations. Despite
+being portrayed as a major participant in the alleged conspiracy in the
+Counterclaim, James was not named as a defendant in the Counterclaim. It is
+not necessary to speculate why SEH did not do this, although YSL did suggest
+that this was because SEH was under the mistaken belief that it needed to seek
+leave to bring James as a defendant given that he is an undischarged bankrupt.
+But what SEH did do next was significant. SEH, together with two other
+plaintiffs, commenced Suit 877 as a separate suit against James and his wife,
+Ms Yen Mei Ling (“YML”). The other two plaintiffs in Suit 877 are the
+companies Lao Huo Tang Restaurant Pte Ltd (“LHTR”) and Lao Huo Tang Group Pte
+Ltd (“LHTG”). These companies are wholly owned subsidiaries of SEH.
+
+5 The main cause of action against James in Suit 877 is for the alleged breach
+of his implied duties of good faith and fidelity, or his duties as an
+employee. These duties were allegedly owed to SEH, LHTR, and LHTG. Apart from
+this, a second cause of action against James in Suit 877 is for the tort of
+malicious falsehood. As against YML, the causes of action against her in Suit
+877 are two-fold: (a) breach of the fiduciary duties and obligations under s
+157 of the Companies Act 1967 (2020 Rev Ed) (“Companies Act”) in her capacity
+as a director of LHTR, and (b) breach of a resulting trust by her keeping of
+the sale proceeds from the sale of a vehicle owned by LHTR. There was no
+allegation in either Suit 465 or Suit 877 that YML was a participant in the
+alleged conspiracy to injure SEH’s business.
+
+6 While Suit 465 is moving along to trial, there has already been a default
+judgment entered against James in Suit 877. This is because James did not
+enter a defence in Suit 877. He had not entered a defence because, as an
+undischarged bankrupt, he needed to seek the Official Assignee’s sanction to
+defend Suit 877 but did not succeed in doing so. The plaintiffs in Suit 877
+therefore sought to and succeeded in entering judgment in default of defence
+against James, but only with respect to the cause of action in relation to his
+breach of his various duties, with the assessment of damages to be done after
+the conclusion of Suit 465. Default judgment was not entered against James
+with respect to his alleged commission of the tort of malicious falsehood
+because the court was not satisfied that all the elements of the tort were
+made out in the pleadings. As such, it is clear that only three causes of
+action remain in Suit 877, namely, those of (a) malicious falsehood against
+James, (b) breach of director’s duties against YML, and (c) breach of a
+resulting trust against YML.
+
+7 It was in these general circumstances that SEH brought SUM 4175 to
+consolidate Suit 877 with Suit 465. SUM 4175 was opposed by all the defendants
+in the Counterclaim.
+
+SEH’s arguments in favour of consolidation
+
+8 While not wholly clear from its submissions, it appeared to me that SEH made
+five substantive arguments in favour of consolidation in SUM 4175. It
+maintained these arguments for this appeal.
+
+9 First, SEH argued that, as a matter of law, a party may be joined as a
+defendant to a claim so that it can proceed as a plaintiff in the counterclaim
+against the plaintiff in the main suit. SEH had made this argument as it
+recognised that if it succeeded in its application for consolidation, that
+would necessarily entail joining LHTR and LHTG as defendants in Suit 465, so
+that they in turn can join SEH as plaintiffs in the Counterclaim. In this
+regard, SEH submitted that the English Court of Appeal decision of Montgomery
+v Foy, Morgan & Co [1895] 2 QB 321 (“Montgomery”) supported its proposition,
+as opposed to other conflicting authorities.
+
+10 Second, SEH argued that consolidation should be ordered because the facts
+underpinning the allegations in Suit 465 and Suit 877 were the same. In
+particular, SEH said that James was referred to as a co-conspirator in SEH’s
+counterclaim to Suit 465, alongside the defendants in the Counterclaim. Thus,
+SEH said that any facts found against the co-conspirators in Suit 465 would
+have a bearing against James, and potentially against YML, in Suit 877.
+Further, SEH submitted that the legal questions of whether these facts
+satisfied the legal requirement of conspiracy would have to be determined
+together across both Suit 465 and Suit 877.
+
+11 Third, SEH argued that the parties who opposed consolidation in SUM 4175
+were previously in favour of, and had actively pushed for, consolidation. In
+this regard, SEH had explained that SUM 4175 had come about because Edger’s
+and YML’s lawyers had allegedly pushed for consolidation in a letter dated 17
+May 2022. SEH further explained that its lawyers “took the cue” from the
+Senior Assistant Registrar’s comment at a pre-trial conference that “the
+[d]efendants in Suit 877 would become parties to Suit 465” to mean that she
+preferred the consolidation of Suit 877 with Suit 465. In essence, SEH was not
+happy that while the other parties were seemingly in favour of consolidation
+previously, they had in SUM 4175 inexplicably resiled from their previous
+position.
+
+12 Fourth, SEH argued that the default judgment against James did not render
+consolidation unnecessary. This is because SEH’s case against the defendants
+in the Counterclaim is that they had acted in concert against SEH’s best
+interests by, among others, disclosing confidential information or business
+secrets to the fourth and fifth defendants therein. Thus, SEH submitted that
+the key issue was whether James acted in concert with Edger, WFE, and DSP, and
+not whether James acted in concert with YML. By this argument, Suit 465 needs
+to be consolidated with Suit 877. This is to enable the court to make a
+relevant finding as to the conspiracy between the parties. In this regard, SEH
+argued that the default judgment in Suit 877 against James did not make any
+finding of fact as to whether the parties were acting in concert or
+conspiracy.
+
+13 Fifth, and finally, SEH argued that consolidation is practical and
+expedient since the existing defendants in the Counterclaim would not have to
+address the issues raised in Suit 877 in their respective affidavits of
+evidence-in-chief (“AEICs”). Further, SEH explained that this was really a
+simple question of case management and parties would be able to plan the trial
+timetable so that the relevant issues are dealt with separately.
+
+The relevant issues
+
+14 I turn then to the relevant issues in this appeal. For the purposes of
+these grounds, it is not necessary for me to summarise the counterarguments
+made by the defendants to the Counterclaim. I shall refer to these in the
+course of discussing SEH’s arguments in support of consolidation.
+
+15 In considering the relevant issues, it was important to keep in mind that,
+as SEH itself recognised, the effect consolidating Suit 877 with Suit 465
+would entail joining LHTR and LHTG as defendants in Suit 465, so that they can
+in turn join SEH as plaintiffs in the Counterclaim. This meant that the
+provisions in the Rules of Court (2014 Rev Ed) (“ROC 2014”) in relation to
+joinder of parties potentially applied in addition to those in relation to the
+consolidation of causes or matters.
+
+16 Accordingly, I dealt with consolidation as a threshold issue: if SEH did
+not convince me that Suit 877 should be consolidated with Suit 465 based on
+the principles in relation to consolidation, then that would be the end of the
+matter. There would be no need for me to consider whether it was legally
+permissible to join LHTR and LHTG as defendants in Suit 465 so that they can
+pursue the Counterclaim as co-plaintiffs with SEH. However, if SEH did
+convince me that Suit 877 should be consolidated with Suit 465, then I would
+need to deal with the legal permissibility of joining LHTR and LHTG. With this
+in mind, SEH’s arguments, as well as the counterarguments against them, raised
+two main issues:
+
+(a) first, whether, pursuant to O 4 r 1 of the ROC 2014, Suit 877 should be
+consolidated with Suit 465; and
+
+(b) second, if Suit 877 should be consolidated with Suit 465, then, since the
+effect of such consolidation is to join LHTR and LHTG as defendants in Suit
+465, whether it was legally permissible under O 15 r 3 of the ROC 2014 to join
+third parties to Suit 465 as plaintiffs in the Counterclaim?
+
+Whether, pursuant to O 4 r 1 of the ROC 2014, Suit 877 should be consolidated
+with Suit 465?
+
+The relevant principles
+
+17 I began with the relevant principles on the consolidation of causes or
+matters. The starting point I took was O 4 r 1(1) of the ROC 2014, which
+provides as follows:
+
+Consolidation, etc., of causes or matters (O.4, r.1)
+
+1.—(1) Where 2 or more causes or matters are pending, then, if it appears to
+the Court—
+
+(a) that some common question of law or fact arises in both or all of them;
+
+(b) that the rights to relief claimed therein are in respect of or arise out
+of the same transaction or series of transactions; or
+
+(c) that for some other reason it is desirable to make an order under this
+Rule,
+
+the Court may order those causes or matters to be consolidated on such terms
+as it thinks just or may order them to be tried at the same time or one
+immediately after another or may order any of them to be stayed until after
+the determination of any other of them.
+
+While not relevant in the present appeal, I observed that O 4 r 1(1) of the
+ROC 2014 is framed in substantively the same terms as O 9 r 11 of the Rules of
+Court 2021 (“ROC 2021”). In my view, there is no reason why the well-
+established principles in relation to O 4 r 1(1) of the ROC 2014 should not,
+subject to the Ideals in O 3 r 1 of the ROC 2021, apply equally to O 9 r 11 of
+the ROC 2021.
+
+18 In this regard, the relevant principles relating to O 4 r 1(1) of the ROC
+2014 were not disputed by the parties. In the Court of Appeal decision of Lai
+Swee Lin Linda v Attorney-General [2006] 2 SLR(R) 565, Andrew Phang Boon Leong
+JC (as he then was) stated that (at [21]), as a preliminary point, the power
+of consolidation under O 4 r 1(1) is discretionary such that there is no
+automatic right on the part of an applicant to consolidate proceedings the
+moment a common question of fact arises. Further to this, the learned judge
+explained (at [22]) that the main rationale underlying the consolidation of
+proceedings under this rule “is to ensure an efficient hearing of related
+actions under a common ‘umbrella’”. Thus, in the earlier High Court decision
+of Lee Kuan Yew v Tang Liang Hong and another and other actions [1997] 2
+SLR(R) 141 (“Lee Kuan Yew”), Lai Kew Chai J held (at [4]) that the purpose of
+O 4 r 1(1) was “to save costs, time and effort and for reasons of convenience
+in the handling of the hearing of several actions which are linked by one of
+the common threads provided in the rules”.
+
+19 As such, the application of O 4 r 1(1) proceeds in two stages. First, an
+applicant has to show that he or she satisfies one of the three alternative
+grounds for consolidation provided in O 4 r 1(1). While the grounds in O 4 r
+1(1)(a) and O 4 r 1(1)(b) are largely self-explanatory, it should be noted
+that the clause in O 4 r 1(1)(c) is a catch-all meant to cater for any other
+relevant ground. However, in the spirit of a harmonious interpretation of O 4
+r 1(1), the ground advanced under O 4 r 1(1)(c) must obviously be of a similar
+grain to the grounds expressly provided for in O 4 r 1(1)(a) and O 4 r
+1(1)(b). Second, even if an applicant can come within one of the three grounds
+in O 4 r 1(1), he or she would still need to convince the court that the
+consolidation of the causes or matters would satisfy the purpose of O 4 r
+1(1), which is principally “to save costs, time and effort and for reasons of
+convenience” (see Lee Kuan Yew at [4]). In particular, even if there is a
+common issue in the two matters, it may still be inappropriate to consolidate
+them where there are distinctive differences between the matters in issue,
+having regard to the different defences put forward (see the English Court of
+Appeal decision of Daws v Daily Sketch and Daily Graphic Ltd and another
+[1960] 1 WLR 126 at 130).
+
+My decision: Suit 877 should not be consolidated with Suit 465
+
+20 With these principles in mind, I decided that Suit 877 should not be
+consolidated with Suit 465 for the following reasons.
+
+SEH did not come within a ground for consolidation under O 4 r 1(1)
+
+21 Turning to the first stage in the application of O 4 r 1(1), I did not
+think that SEH showed that it came within one of the grounds to justify
+consolidation.
+
+22 First, I was not convinced that there was, pursuant to the ground in O 4 r
+1(1)(a), a common question of law or fact that arose in Suit 465 and Suit 877.
+In this regard, I disagreed with SEH that the default judgment against James
+was not relevant to my consideration of whether to order consolidation. In my
+view, the default judgment was important because it made clear that what
+remained to be determined in Suit 877 in respect of James was his liability
+for the tort of malicious falsehood. Also, I did not think that SEH’s cause of
+action for conspiracy in Suit 465 was wholly dependent on it establishing
+James’s involvement. Were this otherwise, SEH would surely have been advised
+to bring James in as a defendant in Suit 465 much earlier in those
+proceedings. Returning to SEH’s cause of action for malicious falsehood, the
+allegation in Suit 877 is that James had published false statements to the
+companies’ employees and their mall leasing contacts. However, the facts which
+were pleaded to support this particular cause of action in Suit 877 were not
+replicated in other parts of Suit 877 or in Suit 465. Accordingly, I accepted
+that the cause of action against James for malicious falsehood was meant to
+stand alone within Suit 877 and, importantly, apart from Suit 465.
+
+23 As for the causes of action against YML in Suit 877, it was again clear
+that these (relating to breach of directors’ duties and breach of a resulting
+trust) did not overlap with any of the allegations of conspiracy made against
+the defendants in the Counterclaim. In this regard, the cause of action for
+breach of directors’ duties related primarily to whether YML neglected to
+prevent James from carrying out any of the alleged errant acts against LHTR.
+This would not be relevant to the issues in Suit 465. Similarly, the cause of
+action for breach of a resulting trust concerned the proceeds of a vehicle
+that YML allegedly sold wrongfully. Again, this would not be relevant to the
+issues in Suit 465. In essence, YML’s defence in responding to these causes of
+action against her in Suit 877 would be quite different from those of the
+defendants to the Counterclaim. Accordingly, I concluded that there was no
+common question of law or fact that arose in both Suit 465 and Suit 877.
+
+24 Second, I also did not think that SEH came within the ground in O 4 r
+1(1)(b). It was clear to me that the alleged rights to reliefs claimed were
+not in respect of, nor did they arise out of, the same transaction or series
+of transactions. The alleged facts relating to the rights to reliefs claimed
+against YML in Suit 877 are, namely, (a) breach of her fiduciary duties and
+obligations owed to LHTR under s 157 of the Companies Act, and (b) breach of a
+resulting trust by her keeping of the sale proceeds from the sale of a vehicle
+owned by LHTR. These causes of action arose out of a separate and distinct
+transaction from that of the conspiracy alleged in the Counterclaim which, in
+contrast, involved YEL, Edger, Zhang Lilian, WFE, and DSP, and their alleged
+usurpation of SEH’s leasing opportunity at Changi City Point mall.
+Accordingly, I concluded that SEH did not come within the ground in O 4 r
+1(1)(b).
+
+25 Third, and for completeness, I likewise did not think that SEH raised any
+other reason to render it desirable to make an order for consolidation. In
+this regard, I considered SEH’s argument that the parties who opposed
+consolidation in SUM 4175 were previously in favour of, and had actively
+pushed for, consolidation. In my view, this argument did not amount to a good
+reason for consolidation for two reasons. First, until and unless they are
+bound by a court order for consolidation, these other parties are free to
+change their minds, even if they had supported consolidation in the first
+place. Second, apart from its complaints about how it was inexplicable that
+these other parties had resiled from their previous (alleged) support for
+consolidation, SEH did not provide a legal basis for why this should matter.
+Indeed, unless SEH was raising a point of estoppel, which it did not, I could
+not see how it could make out a legal basis for how the other parties’ prior
+conduct somehow bound them in relation to consolidation.
+
+26 As such, since SEH did not succeed in coming within one of the grounds in O
+4 r 1(1) for a court to consider if consolidation was appropriate, its appeal
+must be dismissed on this basis alone.
+
+SEH did not show why a consolidation would save costs, time, and effort
+
+27 In any event, I was also of the view that SEH failed to show why a
+consolidation would save costs, time, and effort. Indeed, like the learned AR,
+I could not see any saving of costs or gain in efficiency by consolidating
+Suit 877 with Suit 465 now.
+
+28 First, it was clear to me that an order for consolidation would delay, and
+not make efficient, the resolution of the dispute between the parties. In this
+regard, I disagreed with SEH that the existing defendants in the Counterclaim
+would not have to address the issues raised in Suit 877 in their respective
+AEICs. If, as SEH argued, there were common issues raised in Suit 465 and Suit
+877, then surely these defendants would need to address those issues in their
+evidence. And if, as SEH stated, there was no need for them to address the
+issues in Suit 877 in their evidence, then this would surely show (as I had
+found) that there was no basis for consolidation in the first place.
+
+29 Moreover, Suit 465 was begun in May 2021. At the hearing of this appeal,
+the parties were close to trial after extensive amendments to the pleadings.
+If Suit 877 were consolidated with Suit 465 at this point, that would
+certainly delay Suit 465 from proceeding to trial. Indeed, such consolidation
+may well reopen applications among the various parties for, among others,
+further and better particulars, discovery, and so forth. All of these would
+not be warranted given that there were, in my view, no overlapping issues
+between Suit 465 and Suit 877. There was no doubt in my mind that
+consolidating Suit 877 with Suit 465 would in fact lead to increased time and
+effort for all the parties concerned.
+
+30 Second, given that the causes of action in Suit 877 do not overlap with
+those in Suit 465, a consolidation would lead to significant costs wasted.
+This is because the defendants in the Counterclaim would require their counsel
+to sit through additional days of trial dealing with matters raised in Suit
+877 that do not involve them at all. Similarly, YML’s counsel would also have
+to sit through a major part of Suit 465 which do not concern her at all.
+
+31 As such, I concluded that SEH failed to show why a consolidation would save
+costs, time, and effort. Its appeal thus also failed on this basis.
+
+Whether it would have been legally permissible to join third parties to Suit
+465 as plaintiffs in the Counterclaim?
+
+32 Given my conclusion in the preceding section, it was not necessary for me
+to consider whether it would have been legally permissible to join third
+parties to Suit 465 as plaintiffs in the Counterclaim. As I have explained
+above, this issue arose because SEH’s application for consolidation was, in
+effect, one for joinder of LHTR and LHTG as defendants to Suit 465 so that
+they can join SEH as plaintiffs in the Counterclaim.
+
+33 However, since the parties had made extensive submissions on this issue,
+and the learned AR had also set out his views at some length in SUM 4175, I
+take the opportunity in these grounds to set out my views on this issue. I
+should note that while my views concern the application of O 15 r 2, O 15 r 3,
+O 15 r 4, and O 15 r 6(2)(b) of the ROC 2014, they may have some relevance to
+the ROC 2021, although it is arguable that the ROC 2021 has simplified
+matters, for reasons which I will elaborate below.
+
+The counterarguments against SEH’s arguments
+
+34 The third, fourth, and fifth defendants in the Counterclaim made extensive
+arguments against SEH’s argument that it was legally permissible to join third
+parties to Suit 465 as plaintiffs in the Counterclaim. For convenience, and
+since the other defendants in the Counterclaim did not disagree with these
+arguments, I will simply refer to these arguments as being put forward by the
+defendants in the Counterclaim. As a starting point, the defendants in the
+Counterclaim drew reference to O 15 r 2(1) of the ROC 2014, which provides as
+follows:
+
+Counterclaim against plaintiff (O.15, r.2)
+
+2.—(1) Subject to Rule 5(2), a defendant in any action who alleges that he has
+any claim or is entitled to any relief or remedy against a plaintiff in the
+action in respect of any matter (whenever and however arising) may, instead of
+bringing a separate action, make a counterclaim in respect of that matter; and
+where he does so he must add the counterclaim to his defence.
+
+35 The defendants in the Counterclaim submitted that the effect of the rule is
+two-fold. First, O 15 r 2(1) does not allow a third party to the suit to join
+the defendant as a co-plaintiff in the counterclaim. Rather, the rule is quite
+specific in only permitting a defendant in the action brought by the plaintiff
+to make a counterclaim on any matter. Second, given that O 15 r 2(1) provides
+that a counterclaim must be appended to the defendant’s defence filed in
+response to the claim made by the plaintiff, a third party would be unable to
+join the suit as he or she would not have delivered a defence to which a
+counterclaim can append.
+
+36 The defendants in the Counterclaim then brought me to O 15 r 3(1) of the
+ROC 2014, which provides as follows:
+
+Counterclaim against additional parties (O.15, r.3)
+
+3.—(1) Where a defendant to an action who makes a counterclaim against the
+plaintiff alleges that any other person (whether or not a party to the action)
+is liable to him along with the plaintiff in respect of the subject-matter of
+the counterclaim, or claims against such other person any relief relating to
+or connected with the original subject-matter of the action, then, subject to
+Rule 5(2), he may join that other person as a party against whom the
+counterclaim is made.
+
+37 Relying on the Singapore Civil Procedure 2021 vol 1 (Cavinder Bull gen ed)
+(Sweet & Maxwell, 2021) (“White Book”) (at para 15/3/2), the defendants in the
+Counterclaim submitted that O 15 r 3(1) is applied subject to certain
+conditions, the most relevant of which is that a “third person not a party
+cannot be joined as a co-plaintiff with defendant … nor as co-defendant with
+plaintiff in respect of a cause of action vested in him jointly with the
+defendant”, but “the court may compel the plaintiff to add as co-defendant a
+person who has a counterclaim jointly with the original defendant”. In support
+of this proposition, the defendants in the Counterclaim also pointed to the
+English Court of Appeal decision of Pender and others v Taddei [1898] 1 QB 798
+(“Pender”), which was also cited in the White Book.
+
+My decision: it would be legally permissible join third parties to Suit 465 as
+plaintiffs in the Counterclaim
+
+38 Admittedly, I was attracted to the defendants in the Counterclaim’s
+argument during the hearing. However, upon further reflection, I am now of the
+view that it would have been legally permissible to join third parties to Suit
+465 as plaintiffs in the Counterclaim under the ROC 2014. I find that O 15 r 4
+and O 15 r 6(2)(b) of the ROC 2014 provide the basis of the court’s power.
+However, I should clarify, as I had indicated to the parties after the
+hearing, that my decision to dismiss the appeal was based solely on the ground
+that there was simply no basis for consolidation in the first place. Indeed, I
+had recorded that I would render these grounds to set out my thinking on this
+joinder issue but did not otherwise express a conclusive view in the course of
+delivering my decision.
+
+O 15 r 4 and O 15 r 6(2)(b) of the ROC 2014 provide for the court’s power to
+do so
+
+39 With the above clarifications in mind, in my view, the legal permissibility
+of joining third parties as plaintiffs in a counterclaim falls to be decided
+on the express provisions in the ROC 2014. Before discussing O 15 r 4 and O 15
+r 6(2)(b), it is appropriate to first examine O 15 r 2 and O 15 r 3 and the
+question of how they should be interpreted, an issue which the defendants in
+the Counterclaim raised. As the defendants in the Counterclaim rightly pointed
+out, O 15 r 2 and O 15 r 3 provide for the procedure by which a defendant can
+make a counterclaim against a plaintiff, and how that defendant can make that
+counterclaim against additional parties. Yet, it does not provide for the
+procedure by which a defendant can jointly make a counterclaim with third
+parties against a plaintiff.
+
+40 The absence of such procedure in the rules that specifically govern
+counterclaims was why the English Court of Appeal in Pender held that a third
+party could not be added as co-plaintiff in a counterclaim. In that case, the
+plaintiffs, as executors, had claimed against the defendant as acceptor for
+two bills of exchange. Each of these bills of exchange had been drawn by the
+plaintiffs’ testator on behalf of himself and one Balfour. In response, the
+defendant entered a defence. The defendant also counterclaimed, claiming
+damages for breach of a contract by the plaintiffs’ testator and Balfour for
+the purchase of property in Italy from the defendant and one Bellani. This
+counterclaim was titled as being between the defendant as plaintiff, and the
+plaintiffs in the main suit as defendants together with Bellani. In
+particular, the defendant claimed from the plaintiffs a sum of money as
+executors of their testator and sought a declaration from all the plaintiffs
+and Bellani that so much of that sum as was necessary to meet any claim that
+the plaintiffs might have against the defendant be set off against it.
+
+41 Bellani was not joined as a co-plaintiff to the defendant’s counterclaim.
+The defendant’s counsel took the position in arguments that there was no
+provision in the then prevailing Supreme Court of Judicature Act or Rules of
+the Supreme Court (“RSC”) for joining a co-plaintiff in a counterclaim.
+However, the defendant’s counsel argued that it would be unjust that the
+defendant should not be allowed to counterclaim in respect of a claim due from
+the plaintiff to him jointly with another person. He therefore submitted that
+the court should apply the old Chancery practice by which a person entitled to
+sue jointly with the plaintiff may, if he declines to sue, be joined as a
+defendant. In support of this argument, counsel cited O XXI r 11 of the then
+prevailing RSC, a provision similar to O 15 r 3(2) of the ROC 2014, which was
+reproduced in the judgment of A L Smith LJ as follows (at 801):
+
+… ‘where a defendant by his defence sets up any counter-claim which raises
+questions between himself and the plaintiff along with any other persons, he
+shall add to the title of his defence a further title similar to the title in
+a statement of claim, setting forth the names of all the persons who, if such
+counter-claim were to be enforced by cross-action, would be defendants to such
+cross-action, and shall deliver his statement of defence to such of them as
+are parties to the action within the period within which he is required to
+deliver it to the plaintiff.’ …
+
+Counsel in that case also submitted that to do so would be in line with the
+general intention of the then prevailing Judicature Act and RSC that, where it
+can be done without inconvenience, all matters in controversy between the
+parties to an action should be determined in the same litigation, and the
+unnecessary expense of cross-actions be avoided, especially where the matters
+arise out of the same transaction.
+
+42 However, the English Court of Appeal rejected this argument. A L Smith LJ
+held that, contrary to O XXI r 11 of the then prevailing RSC, the defendant
+was not raising a question between himself and the plaintiffs along with
+Bellani; rather, the defendant was raising a question between himself and
+along with Bellani and the plaintiffs. Since the defendant could not do the
+latter by the RSC, the learned judge held that the defendant should not be
+allowed to do this via O XXI r 11, which provided for a different situation.
+Similarly, Chitty LJ came to the same conclusion. The relevant part of his
+judgment is worth setting out in full as it is self-explanatory (at 801–802):
+
+… I do not hesitate to say that I think that Order XXI., r. 11, must be read
+in the way the Lord Justice has read it. The words of the rule can only be
+construed as referring to cases where the defendant raises by counter-claim
+questions between himself and the plaintiff along with other persons, and not
+as including a case where the defendant raises questions between himself along
+with other persons and the plaintiff. The rule only applies where the
+defendant could have brought a cross-action against the plaintiff and the
+other persons. If the rules do not give the defendant power to counter-claim
+jointly with another person against the plaintiff directly, then, counter-
+claim being entirely the creature of the Judicature Act, I do not think he can
+be allowed to do the same thing indirectly in the manner proposed. …
+
+[emphasis added]
+
+As can be seen from Chitty LJ’s judgment, the reason for the decision in
+Pender was that the court did not locate any basis under either the Judicature
+Act or the then prevailing RSC to join a third party, in that case, Bellani,
+as a co-plaintiff in the counterclaim.
+
+43 However, Pender was not followed by the English High Court in Balkanbank v
+Taher and Others (Unreported, 14 April 1995) (“Balkanbank”). In that case, the
+defendants applied to add their subsidiaries as defendants under O 15 r
+6(2)(b)(i) and O 15 r 6(2)(b)(ii) of the then prevailing RSC, which was
+substantially similar to O 15 r 6(2)(b)(i) and O 15 r 6(2)(b)(ii) of the ROC
+2014, respectively. O 15 r 6(2)(b) of the then prevailing RSC provided as
+follows:
+
+Misjoinder and nonjoinder of parties
+
+…
+
+(2) Subject to the provisions of this rule, at any stage of the proceedings in
+any cause or matter the Court may on such terms as it thinks just and either
+of its own motion or on application—
+
+…
+
+(b) order any of the following persons to be added as a party, namely—
+
+(i) any person who ought to have been joined as a party or whose presence
+before the Court is necessary to ensure that all matters in dispute in the
+cause or matter may be effectually and completely determined and adjudicated
+upon, or
+
+(ii) any person between whom and any party to the cause or matter there may
+exist a question or issue arising out of or relating to or connected with any
+relief or remedy claimed in the cause or matter which in the opinion of the
+Court it would be just and convenient to determine as between him and that
+party as well as between the parties to the cause or matter.
+
+44 In finding that O 15 r 6(2)(b)(i) of the RSC allowed the court to add a
+third party as defendant to an action so that he might be able to counterclaim
+against a plaintiff together with the defendant, Clarke J distinguished Pender
+on the basis that because the English Court of Appeal in Pender centred on the
+then O XXI r 11 of the RSC, its decision was not therefore on the true
+construction of O 15 r 6(2)(b)(i) of the RSC. Thus, on the basis of O 15 r
+6(2)(b)(i) of the RSC, Clarke J allowed the application to add a third party
+as defendant to an action so that he might be able to counterclaim against the
+plaintiff together with the defendant. Tangentially, it is important to note
+that while the learned judge based his decision on O 15 r 6(2)(b)(i) of the
+RSC, it is appropriate to infer that O 15 r 6(2)(b)(ii), being of a broader
+scope, would have also covered situations where the applicant seeks to join a
+third party as co-plaintiff in a counterclaim. Indeed, the learned judge
+observed that O 15 r 6(2)(b)(ii), which was added to supplement O 15 r
+6(2)(b)(i) of the RSC in 1971, was meant to widen the discretion of the court
+to a great extent. But more significantly, the upshot of the decisions of
+Pender and Balkanbank is that while the basis for joining third parties as co-
+plaintiffs in a counterclaim could not be located in O XXI r 11 of the RSC at
+the time of Pender, which is similar to O 15 r 3(2) of the ROC 2014, it could
+be found in O 15 r 6(2)(b) of the RSC at the time of Balkanbank, which is
+similar to O 15 r 6(2)(b) of the ROC 2014.
+
+45 Therefore, although O 15 r 2 and O 15 r 3 of the ROC 2014 are inapplicable
+in the present context, I find that, more generally, there is a legal basis
+under O 15 r 6(2)(b) of the ROC 2014 for the court to join two or more persons
+together in one action as plaintiffs in a counterclaim in an appropriate case.
+That provision reads:
+
+Misjoinder and nonjoinder of parties (O. 15, r. 6)
+
+…
+
+(2) Subject to the provisions of this Rule, at any stage of the proceedings in
+any cause or matter, the Court may, on such terms as it thinks just and either
+of its own motion or on application —
+
+…
+
+(b) order any of the following persons to be added as a party, namely:
+
+(i) any person who ought to have been joined as a party or whose presence
+before the Court is necessary to ensure that all matters in the cause or
+matter may be effectually and completely determined and adjudicated upon;
+
+(ii) any person between whom and any party to the cause or matter there may
+exist a question or issue arising out of or relating to or connected with any
+relief or remedy claimed in the cause or matter which in the opinion of the
+Court it would be just and convenient to determine as between him and that
+party as well as between the parties to the cause or matter.
+
+Indeed, there is no indication from its plain wording that this provision
+excludes persons from being added as co-plaintiffs in a counterclaim.
+
+46 I derive further support for my conclusion from other foreign decisions
+which have applied provisions which are similar to O 15 r 6(2)(b) of the ROC
+2014. I first turn to Montgomery, a decision of the English Court of Appeal.
+There, the action was between a plaintiff shipowner and the defendants, who
+were the consignees of some cargo. However, the shipper, a third-party to the
+action, made an application seeking to participate in the action as a
+defendant so that it could counterclaim against the plaintiff. The court
+allowed the third-party shipper’s application and held that O XVI r 11 of the
+then prevailing RSC, which was similar to O 15 r 6(2)(b)(i) of the ROC 2014,
+allowed the joinder of the third-party shipper as defendants. That rule, as
+reproduced in Lord Esher MR’s decision, provided (at 324):
+
+… the Court or a judge may make an order to add ‘the names of any parties,
+whether plaintiffs or defendants, who ought to have been joined, or whose
+presence before the Court may be necessary in order to enable the Court
+effectually and completely adjudicate upon and settle all the questions
+involved in the cause or matter.’ …
+
+47 Lord Esher MR set out his reasons for construing the rule as such (at 324):
+
+… Here the matter before the Court is the contract of affreightment, and there
+are disputes arising out of that matter as between the plaintiff and the
+defendants and the company whom it is sought to add as defendants, and who
+were the defendants’ principals in the matter. I can find no case which
+decides that we cannot construe the rule as enabling the Court under such
+circumstances to effectuate what was one of the great objects of the
+Judicature Acts, namely, that, where there is one subject-matter out of which
+several disputes arise, all parties may be brought before the Court, and all
+those disputes may be determined at the same time without the delay and
+expense of several actions and trials. It appears to me that the words of the
+rule are large enough to allow of the joinder of the British Saw Mills Company
+as defendants in this case. I think the question arising between them and the
+plaintiff is a ‘question involved in the cause or matter’ within the meaning
+of the rule. …
+
+[emphasis added]
+
+Similarly, I find no reason why, where the dispute may be determined at the
+same time without the delay and expense of several actions and trials, the
+court may not join a person as a co-plaintiff in respect of a counterclaim
+pursuant to either O 15 r 4 or O 15 r 6(2)(b) of the ROC 2014, as the case may
+be.
+
+48 An illustration of how joining third parties as co-plaintiffs in a
+counterclaim achieves the aforementioned end can be found in the English High
+Court decision of Bentley Motors (1931) Ltd v Lagonda Ltd [1945] 2 All ER 211.
+There, the action was one claiming an injunction and other relief for alleged
+infringement by the defendants of the plaintiff’s registered trade mark. The
+defendants alleged, among others, that a third party, Mr Bentley, who was an
+employee of the defendants, was the holder of rights to use his name, Bentley,
+in connection with the marketing of automobiles. The defendants were not able
+to assert Mr Bentley’s rights against the plaintiff as his rights arose out of
+a separate contract between the plaintiffs and Mr Bentley pertaining to the
+holding of the name rights. The defendants alleged that the use of the name
+rights, if restrained, would constitute an infringement of Mr Bentley’s rights
+under his contract with the plaintiffs. Evershed J granted an application
+under O 16 r 11 of the then prevailing RSC, which is similar to O 15 r
+6(2)(b)(i) of the ROC 2014, to add Mr Bentley as a defendant to the action.
+The material words of O 16 r 11 of the then prevailing RSC, as reproduced in
+the learned judge’s decision, were as follows (at 212E):
+
+The court or judge may, at any stage … order that the names of any parties …
+whether plaintiffs or defendants, who ought to have been joined, or whose
+presence before the court may be necessary in order to enable the court
+effectually and completely to adjudicate upon and settle all the questions
+involved in the cause or matter, be added …
+
+49 In allowing the application, Evershed J found that the rights of the
+plaintiffs to restrain the use of the name by the defendants involved and
+depended upon Mr Bentley’s right to prevent the plaintiffs from committing a
+breach of his contract with them (at 212F). Therefore, the joinder of Mr
+Bentley was necessary in order that the court may effectually and completely
+adjudicate upon and settle all the questions involved in the claim by the
+plaintiffs to prevent the use by the defendants of the word “Bentley” and the
+alleged infringement by the defendants of the plaintiff’s mark (at 212G). The
+learned judge further observed that one of the main objects of O 16 r 11 of
+the then prevailing RSC was to render unnecessary such multiplicity of
+proceedings that would be occasioned if the party sought to be joined must
+proceed by separate action to enforce his claim (at 213F–G).
+
+50 I agree with the reasoning of Evershed J and add that such considerations
+are also reflected in sub paragraphs (a) and (b) to O 15 r 4(1) of the ROC
+2014, which requires the court to consider if there is “some common issue of
+law or fact” and whether the rights to reliefs claimed “arise out of the same
+transaction or series of transactions”. With this in mind, I turn to O 15 r
+4(1) and O 15 r 4(2), which provide as follows:
+
+Joinder of parties (O. 15, r. 4)
+
+4.—(1) Subject to Rule 5(1), 2 or more persons may be joined together in one
+action as plaintiffs or as defendants with the leave of the Court or where —
+
+(a) if separate actions were brought by or against each of them, as the case
+may be, some common question of law or fact would arise in all the actions;
+and
+
+(b) all rights to relief claimed in the action (whether they are joint,
+several or alternative) are in respect of or arise out of the same transaction
+or series of transactions.
+
+(2) Where the plaintiff in any action claims any relief to which any other
+person is entitled jointly with him, all persons so entitled must, subject to
+the provisions of any written law and unless the Court gives leave to the
+contrary, be parties to the action and any of them who does not consent to
+being joined as a plaintiff must, subject to any order made by the Court on an
+application for leave under this paragraph, be made a defendant.
+
+…
+
+51 Two observations may be made about O 15 r 4. First, O 15 r 4(1) is phrased
+in broad terms, and does not exclude the possibility of joining co-plaintiffs
+to a counterclaim. It has also been observed that the rule should be construed
+in a liberal sense (see White Book at para 15/4/2). Indeed, provided that the
+conditions mentioned in sub-paragraphs (a) and (b) of O 15 r 4(1) are met,
+joinder of parties is allowed as of right, subject to the discretionary power
+of the court under O 15 r 5 (see White Book at para 15/4/2). However, leave
+will be required so long as one of the conditions is not satisfied. Second, O
+15 r 4(2) requires, as a general rule, that where the plaintiff in any action
+claims any relief to which any other person is entitled jointly with him, all
+persons so entitled must be parties to the action. Given that this rule is
+couched in mandatory terms, it follows that a defendant who makes a
+counterclaim must join other persons as co-plaintiffs in respect of the
+counterclaim if any relief is one to which any other person is entitled
+jointly with him. It is therefore clear from the wording of O 15 r 4(1) and O
+15 r 4(2) that these provisions provide the basis for the court’s power to
+join persons as co-plaintiffs in respect of a counterclaim.
+
+52 For completeness, the lack of an express rule in O 15 r 2 and O 15 r 3 of
+the ROC 2014 providing for third parties to be joined as co-plaintiffs in a
+counterclaim does not, in my view, mean that the court has no power to make
+such an order. The effect of O 15 r 2 and O 15 r 3, read together with the
+provisions on joinder reflected in O 15 r 4 and O 15 r 6(2)(b), is that if a
+defendant wishes to join other persons as co-plaintiffs in his counterclaim, a
+separate application for joinder should be made in addition to the filing of
+the counterclaim. While it is curious that O 15 r 3 only speaks of
+counterclaims against additional parties, and not counterclaims with
+additional parties, one explanation for this might be that O 15 r 3 is
+primarily concerned with the requirement of service on parties who are sought
+to be made co-defendants in the counterclaim, which in turn gives notice of
+the proceedings to such parties. This is clear from the detailed procedure
+relating to service as set out from O 15 r 3(2) to O 15 r 3(5). In contrast,
+in the context of joining third parties as co-plaintiffs to a counterclaim,
+the requirement of service (and thereby giving notice) does not feature as
+strongly since any relief or remedy claimed is not sought against such
+parties. In my view, this explains the absence of any mention of co-plaintiffs
+in a counterclaim in O 15 r 3, an absence which should not be understood as
+suggesting that the ROC 2014 does not allow for third parties to be joined as
+co-plaintiffs in a counterclaim.
+
+53 Returning to the facts of this application, even on my view that O 15 r 4
+and O 15 r 6(2)(b) provide for the court’s power to join persons as co-
+plaintiffs in a counterclaim, I found that it would not have made a difference
+to my conclusion that LHTR and LHTG should not be added as co-plaintiffs to
+SEH's Counterclaim. From my conclusions earlier (see [22]−[24] above), there
+was no common issue of law and fact that would arise in all the actions.
+Neither did the rights to reliefs claimed arise out of the same transaction or
+series of transactions. Therefore, joinder could not be ordered as of right
+under O 15 r 4(1) of the ROC 2014. As regards O 15 r 6(2)(b), consistent with
+my conclusions earlier, it follows that joinder would not be necessary to
+ensure that all matters arising in the Counterclaim and Suit 877 would be
+effectually and completely determined and adjudicated upon. Neither was there
+a question or issue arising out of, relating to, or connected with any relief
+or remedy claimed in the Counterclaim and Suit 877 such that it would be just
+and convenient to determine the question or issue as between LHTR and LHTG,
+and SEH and the defendants in the Counterclaim, in a single action (for the
+same reasons expressed in [27]−[31] above).
+
+Observations on the applicable principles in the ROC 2021
+
+54 I conclude with some brief observations on the ROC 2021 in the context of
+joining third parties as co-plaintiffs in a counterclaim. In contrast to the
+extensive provisions in O 15 r 2 and O 15 r 3 of the ROC 2014, the ROC 2021
+now simply provides that if the defendant intends to counterclaim against the
+claimant, the defendant must file and serve the counterclaim with the defence
+(O 6 r 8(1)) and that the counterclaim must be in Form 13 (O 6 r 8(2)).
+Moreover, O 6 r 9 of the ROC 2021 only expressly refers to the “claimant” (in
+contrast to other co-defendants in a counterclaim) in detailing the procedure
+for the form and service of defence to the counterclaim. The ROC 2021 is
+silent on whether there are any specific rules governing the adding or
+removing of parties in a counterclaim. At first glance, the scope of what is
+expressly covered in the ROC 2021 appears to be even narrower than what is
+provided for in the ROC 2014.
+
+55 However, I am not inclined to think that the scope of the ROC 2021 should
+be interpreted more narrowly than the ROC 2014 in relation to the joining of
+third parties as co-claimants or co-defendants in a counterclaim. To begin
+with, there are general provisions in the ROC 2021 governing the adding and
+removal of parties, as well as the consolidation of causes or matters, which
+are now found in O 9 r 10 and O 9 r 11, respectively. In relation to the
+adding or removal of parties, O 9 r 10(1) provides that “[t]he Court may add
+or remove one or more claimants or defendants…” [emphasis added]. Importantly,
+“claimant” includes a party in the position of a claimant in a counterclaim;
+likewise, “defendant” includes a party in the position of a defendant in a
+counterclaim (O 1 r 3(1)). Reading O 9 r 10(1) together with the definitions
+in O 1 r 3(1), it follows that both claimants and defendants may be added to a
+counterclaim. Indeed, it is consistent with this conclusion that Pender, a
+decision that says that third parties may not be added as co-plaintiffs in a
+counterclaim, is no longer referred to in the discussion of the equivalent of
+O 15 r 3 in the ROC 2021 (see Singapore Civil Procedure 2022 vol 1 (Cavinder
+Bull gen ed) (Sweet & Maxwell, 2022)).
+
+56 In this connection, I also agreed with the learned AR that there are good
+reasons why third parties can be joined as plaintiffs in a counterclaim in the
+context of the ROC 2014. With respect, I can do no better than the learned AR
+in articulating the reasons why, and I set out his reasoning below: 1
+
+##### Foot Note 1
+
+×
+
+Certified Transcript of 22 December 2022 at p 15.
+
+First, I consider that whether a claim is a main claim or a counterclaim is
+often a function of luck and timing. What the defendant can do if he were the
+plaintiff in the main claim, he should be able to do as the plaintiff in
+counterclaim. Second, the ROC permits (a) the CC to have no link to the main
+claim, and (b) the co-defendants in the CC to be strangers to the main claim,
+as is the case in [Suit] 465. If so, then why does the position differ when
+the strangers are co-Plaintiff in the CC rather than co-Defendant? Third, to
+the extent that one might be concerned that only [a] defendant may file a
+Defence, and a CC must be included in a Defence, and therefore it seems that a
+plaintiff to a CC must also be a defendant, I find this chain of logic
+unpersuasive. The Defence may be filed by the defendant, with the co-plaintiff
+joining the Defendant only for the part of the Defence that forms the
+Statement of Claim for the CC. It is not unusual or unfamiliar in any way for
+these Defences to be segmented and delineated into Defence and Counterclaim.
+In fact, it must be possible to do so because there is no rule that the CC
+must be linked to the claim at all. This means that the co-plaintiff to be
+added can join in only for one portion of that Defence and Counterclaim rather
+than its whole. …
+
+57 To these observations, I would add that allowing both claimants and
+defendants to be added to a counterclaim would be in line with the Ideals in O
+3 r 1 of the ROC 2021, two of which are expeditious proceedings and the
+efficient use of court resources. Conceivably, situations might arise where it
+would avoid multiplicity of proceedings and waste of court resources to simply
+join third parties as a co-plaintiffs or co-defendants in a counterclaim. In
+such cases, it would be preferable for those parties to be joined in a
+counterclaim for the claims to be dealt with as a single action rather than as
+separate actions. However, as the interpretation of the ROC 2021 was not
+before me, I say no more.
+
+Conclusion
+
+58 For all these reasons, I dismissed the third defendant’s appeal and upheld
+the learned AR’s decision in SUM 4175. For the avoidance of doubt, I also
+affirmed the AR’s order for Suit 465 and Suit 877 to be heard one immediately
+after the other, with the administrative details as to the sequence and other
+matters to be dealt with at the next pre-trial conference.
+
+Goh Yihan  
+Judicial Commissioner|  
+---|---  
+  
+Lim Cheng Hock Lawrence and Eugene Quah Siew Ping (Matthew Chiong Partnership)
+for the plaintiff and the first and second defendants in counterclaim;
+
+Jodi Siah Be Koen (Rajah & Tann Singapore LLP) for the first and second
+defendants and the first and second plaintiffs in counterclaim (watching
+brief);
+
+Amy Seow, Ervin Tan (Adroit Law LLC) (instructed) and Yeo Choon Hsien Leslie
+(Sterling Law Corporation) for the third defendant and the third plaintiff in
+counterclaim;
+
+Christopher Anand s/o Daniel, Harjean Kaur, Yeo Yi Ling Eileen and Saadhvika
+Jayanth (Advocatus Law LLP) for the third, fourth and fifth defendants in
+counterclaim;
+
+Yong Zhee Hoe (Rajwin & Yong LLP) for Yen Mei Ling.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 3: 06 Apr 2023 (09:56 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

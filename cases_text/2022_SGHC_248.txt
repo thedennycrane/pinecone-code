@@ -1,0 +1,1981 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 248
+
+Suit No 90 of 2021
+
+Between
+
+| HSBC Institutional Trust Services (Singapore) Ltd (as trustee of AIMS AMP
+Capital Industrial REIT)  
+---|---  
+  
+… Plaintiff
+
+And
+
+| DNKH Logistics Pte Ltd  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Contract — Contractual terms — Interpretation — Indemnity clause]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+HSBC Institutional Trust Services (Singapore) Ltd (as trustee of AIMS AMP
+Capital Industrial REIT)
+
+  
+v
+
+  
+
+DNKH Logistics Pte Ltd
+
+[2022] SGHC 248
+
+General Division of the High Court — Suit No 90 of 2021  
+Tan Siong Thye J  
+16–19, 26 August 2022
+
+3 October 2022 Judgment reserved.
+
+Tan Siong Thye J:
+
+Introduction
+
+1 The plaintiff in the present action is HSBC Institutional Trust Services
+(Singapore) Limited, suing as trustee of AIMS AMP Capital Industrial REIT
+(“the Plaintiff”). The Plaintiff was and remains the landlord of the premises
+located at 8 Tuas Avenue 20, Singapore 638821 and 10 Tuas Avenue 20, Singapore
+638822 (“the Premises”). The defendant is DNKH Logistics Pte Ltd (“the
+Defendant”). It is a Singapore-incorporated company that provides logistics
+and warehousing services. The Defendant was the tenant of the Premises from 16
+July 2012 to 15 July 2016. 1
+
+##### Foot Note 1
+
+×
+
+Agreed Statement of Facts dated 19 August 2022 (“ASOF”) at para 1.
+
+2 The Plaintiff’s insurer, Great Eastern General Insurance Limited (“GEGI”),
+brings this action in the name of the Plaintiff pursuant to GEGI’s right of
+subrogation as contained in the insurance policy between the Plaintiff and
+GEGI for insured losses which GEGI had already paid out to the Plaintiff as a
+result of a fire at the Premises. 2
+
+##### Foot Note 2
+
+×
+
+ASOF at para 4.
+
+The losses and damages which the Plaintiff suffered amounted to about S$3.3m.
+
+3 In HC/ORC 2387/2022, the present action was bifurcated. Therefore, this
+trial deals only with the issue of liability.
+
+4 GEGI originally commenced this Suit against the Defendant for breach of
+contract and the tort of negligence. However, on the third day of the trial,
+counsel for the Plaintiff, applied to withdraw the Plaintiff’s claim for the
+tort of negligence. This was granted and the Plaintiff’s sole cause of action
+is now premised on a contractual indemnity provided under an indemnity clause
+in the lease between the parties.
+
+Background to the dispute
+
+5 The factual background giving rise to the present action is relatively
+straightforward and largely undisputed between the parties.
+
+The Defendant’s tenancy of the premises
+
+6 The Plaintiff and the Defendant entered into a written agreement dated 31
+July 2012 (“the Lease”). The Lease was for the Defendant’s rental of the
+Premises for a term of four years from 16 July 2012 to 15 July 2016. 3
+
+##### Foot Note 3
+
+×
+
+ASOF at para 1.
+
+The Premises comprised warehouse space and ancillary office space. The
+Defendant used the Premises for its logistics and warehousing business. 4
+
+##### Foot Note 4
+
+×
+
+ASOF at para 3.
+
+7 At the time of the fire, the Defendant used the Premises to store, amongst
+others, large quantities of dried black peppercorns. 5
+
+##### Foot Note 5
+
+×
+
+ASOF at para 3.
+
+These dried peppercorns, however, did not belong to the Defendant. Instead,
+they belonged to the Defendant’s customer, McCormick Ingredients Southeast
+Asia Pte Ltd (“McCormick”), who had engaged the Defendant’s warehouse storage
+services to store the peppercorns.
+
+The occurrence of the fire
+
+8 On 9 August 2015, a fire occurred at the Premises. 6
+
+##### Foot Note 6
+
+×
+
+ASOF at para 2.
+
+The parties do not dispute that the fire originated from an area where the
+peppercorns were stored. However, the exact cause of the fire could not be
+ascertained. Be that as it may, the Defendant did not allege that the fire was
+caused by the Plaintiff’s negligence; neither did the Plaintiff allege that
+the Defendant had caused the fire. The Singapore Civil Defence Force (“SCDF”)
+investigated the cause of the fire and concluded that “the most probable cause
+of the fire was accidental and of electrical origin.” 7
+
+##### Foot Note 7
+
+×
+
+2AB at p 409 para 9(a).
+
+The parties also do not dispute that no third-party claims were brought
+against the Plaintiff. 8
+
+##### Foot Note 8
+
+×
+
+ASOF at para 6.
+
+9 As a result of the fire, the Premises sustained physical damage. The
+Plaintiff also suffered loss of rent for the period from 9 August 2015 to 31
+May 2016 as the Plaintiff allowed reduction of the rental due from the
+Defendant arising from the fire. 9
+
+##### Foot Note 9
+
+×
+
+ASOF at para 2.
+
+The parties’ cases
+
+The Plaintiff’s case
+
+10 The Plaintiff’s present claim is now premised solely on clause 3.18.1 of
+the Lease (“the Indemnity Clause 3.18.1”), which states: 10
+
+##### Foot Note 10
+
+×
+
+Affidavit of evidence-in-chief of Foo Fook Khang dated 15 June 2022 at pp
+74–75.
+
+3.18 Indemnity by Tenant
+
+To indemnify the Landlord against (i) all claims, demands, actions,
+proceedings, judgments, damages, losses, costs and expenses of any nature
+which the Landlord may suffer or incur as a result of or in connection with or
+caused by, and (ii) all penalties or fines imposed by any relevant authority
+resulting from:
+
+3.18.1 any occurrences in, upon or at the Premises or the use or occupation of
+the Premises and/or any part of the Property by the Tenant or by any of the
+Tenant's employees, independent contractors, agents or any permitted occupier;
+
+11 The Plaintiff argues that the Indemnity Clause 3.18.1 “admits of one clear
+meaning”, that “it is a general indemnity that simply covers any loss suffered
+or incurred by the Plaintiff so long as the loss is a result of any occurrence
+in or at the Premises”. 11
+
+##### Foot Note 11
+
+×
+
+Plaintiff’s Closing Submissions dated 25 August 2022 (“PWS”) at para 26.
+
+Accordingly, the Defendant is liable to the Plaintiff for the loss and damage
+suffered by the Plaintiff as a result of the fire at the Premises, regardless
+of the cause of the fire and whether the fire is attributable to any
+negligence on the part of the Defendant.
+
+12 The Plaintiff further submits that the Indemnity Clause 3.18.1 “is wide and
+there are no words in the text which confine the scope or application of the
+indemnity in [the Indemnity Clause 3.18.1] to only situations involving third-
+party claims or situations where there is default on the part of the
+Defendant”. 12
+
+##### Foot Note 12
+
+×
+
+PWS at para 12.
+
+The Plaintiff submits that this is because:
+
+(a) the inclusion of the word “losses” in the Indemnity Clause 3.18.1 suggests
+that the parties had contemplated that “in the course of the Defendant’s use
+and occupation of the Premises, any losses resulting from damage to the
+Premises will be directly suffered by the Plaintiff regardless of whether the
+said losses arise from third-party claims or otherwise” [emphasis in original
+omitted]; 13
+
+##### Foot Note 13
+
+×
+
+PWS at para 21.
+
+and
+
+(b) the inclusion of the words “any nature” suggests that the parties
+contemplated that the Defendant is liable to indemnify “claims by both the
+Plaintiff and third parties”. 14
+
+##### Foot Note 14
+
+×
+
+PWS at para 22.
+
+13 In summary, the Plaintiff’s case is that the wording of the Indemnity
+Clause 3.18.1 is wide enough to deal with third-party claims made against the
+Plaintiff as well as any claims made by the Plaintiff against the Defendant.
+
+The Defendant’s case
+
+14 The Defendant submits that under the Indemnity Clause 3.18.1, the Defendant
+is only contractually obliged to indemnify the Plaintiff in respect of losses
+suffered as a result of third-party claims brought against the Plaintiff. 15
+
+##### Foot Note 15
+
+×
+
+Defendant’s Written Submissions dated 25 August 2022 (“DWS”) at para 3.
+
+15 In support of its argument, the Defendant relies on various decisions
+rendered by the Singapore High Court and the Court of Appeal which considered
+the interpretation of indemnity clauses that are substantively similar to the
+Indemnity Clause 3.18.1. 16
+
+##### Foot Note 16
+
+×
+
+DWS at paras 7–8.
+
+These decisions, in the Defendant’s submission, support the view that the
+Indemnity Clause 3.18.1 should be interpreted as requiring the Defendant to
+indemnify the Plaintiff in respect of only third-party claims brought against
+the Plaintiff. Following these decisions, the Defendant submits that the
+Plaintiff’s reliance on the Indemnity Clause 3.18.1 to sue the Defendant
+directly is legally unsustainable. 17
+
+##### Foot Note 17
+
+×
+
+DWS at paras 32–49.
+
+This is because the parties accept that this action is not brought as a result
+of third-party claims against the Plaintiff. Therefore, the Defendant submits
+that the Plaintiff cannot seek an indemnity from the Defendant in respect of
+the losses incurred by the Plaintiff as a result of the fire.
+
+16 Case law aside, the Defendant also submits that the context in which the
+parties entered into the Lease supports a narrow interpretation of the
+Indemnity Clause 3.18.1.
+
+17 Finally, the Defendant submits that the contra proferentem rule ought to
+apply in construing the Indemnity Clause 3.18.1 against the Plaintiff as this
+provision benefits the Plaintiff. 18
+
+##### Foot Note 18
+
+×
+
+DWS at paras 53–59.
+
+Issues to be determined
+
+18 Clause 3.18.1 is indisputably an indemnity clause. As Audrey Lim JC (as she
+then was) described in CIFG Special Assets Capital I Ltd v Polimet Pte Ltd and
+others (Chris Chia Woon Liat and another, third parties) [2017] SGHC 22 (“CIFG
+(SGHC)”) at [69]–[70]:
+
+69 It is not disputed that Clause 12.1 is an indemnity clause, namely an
+undertaking by the defendants to keep the plaintiff ‘harmless against loss’
+arising from particular transactions or events (see China Taiping Insurance
+(Singapore) Pte Ltd (formerly known as China Insurance Co (Singapore) Pte Ltd)
+v Teoh Cheng Leong [2012] 2 SLR 1 at [28]).
+
+70 Such an indemnity often takes the form of a promise by one contracting
+party (Y) to the other contracting party (X) that if X suffers a loss, whether
+due to the acts of Y or a third party who is not privy to the contract, then Y
+is to indemnify X against such loss as long as the loss falls within the scope
+of the indemnity. But there is no reason, as a matter of principle, why an
+indemnity clause cannot provide for X to be indemnified by Y for a loss caused
+by another party (Z), who is also a party to the same contract. It all depends
+on what the parties intend. …
+
+[emphasis in original in italics]
+
+19 The key issue in the present case turns on the scope, application and
+coverage of the Indemnity Clause 3.18.1. Does the Indemnity Clause 3.18.1
+cover only third-party claims against the Plaintiff? Or does it also extend to
+cover claims made by the Plaintiff against the Defendant for any losses
+suffered by the Plaintiff arising from any occurrences at the Premises? If it
+is the latter, is the Defendant liable to indemnify the Plaintiff for the
+losses caused by the accidental fire at the Premises, or is the Defendant only
+liable to indemnify the Plaintiff for losses caused by any fault attributable
+to the Defendant?
+
+My decision
+
+20 The trial started with the Plaintiff calling its witnesses. The Plaintiff
+called four witnesses including its expert, Mr Tan Jin Thong (“Mr Tan”), who
+disagreed with the findings of the SCDF. Mr Tan opined that the fire could
+have been the result of spontaneous combustion of the dried black peppercorns
+stored in the Premises. However, before counsel for the Defendant could
+complete his cross-examination of Mr Tan, counsel for the Plaintiff decided to
+abandon the Plaintiff’s claims in the tort of negligence and for breach of
+contract. Thereafter, the parties agreed that the Court should focus only on
+the interpretation of the Indemnity Clause 3.18.1 in the context of the Lease.
+
+21 I shall first deal with the fundamental issue of whether the Indemnity
+Clause 3.18.1 applies only to third-party claims made against the Plaintiff.
+If my conclusion on this issue is in the affirmative, then the Plaintiff’s
+case must fail. This is because this Suit concerns a direct claim by the
+Plaintiff against the Defendant for the losses arising from the accidental
+fire at the Premises. The Plaintiff is also not suggesting that it is facing
+claims made by third parties.
+
+22 I shall then proceed to analyse the situation involving the Plaintiff’s
+submission that the scope of the Indemnity Clause 3.18.1 encompasses both
+third-party claims against the Plaintiff and direct claims made by the
+Plaintiff against the Defendant.
+
+23 In dealing with the key issue, the Court must scrutinise the wording of the
+Indemnity Clause 3.18.1, both in its plain and literal sense, and take into
+account the surrounding context of that clause. In addition, the Court will
+also have to consider the decisions and findings of precedent cases that
+discussed the scope and application of similar indemnity clauses.
+
+24 I shall now consider the law on the interpretation of contractual terms.
+
+The law on the interpretation of contractual terms
+
+25 I begin the analysis by setting out the applicable rules on the
+interpretation of the terms of a contract, particularly on the interpretation
+of an indemnity clause.
+
+26 The principles to be applied in the interpretation of contracts are well
+established by several salient decisions of the Court of Appeal, notably,
+Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction
+Pte Ltd [2008] 3 SLR(R) 1029 (“Zurich Insurance”), Sembcorp Marine Ltd v PPL
+Holdings Pte Ltd and another and another appeal [2013] 4 SLR 193 (“Sembcorp
+Marine”), Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd
+(formerly known as Soup Restaurant (Causeway Point) Pte Ltd) [2015] 5 SLR 1187
+(“YES F&B”), Lucky Realty Co Pte Ltd v HSBC Trustee (Singapore) Ltd [2016] 1
+SLR 1069 (“Lucky Realty”) and Yap Son On v Ding Pei Zhen [2017] 1 SLR 219
+(“Yap Son On”). I shall summarise the applicable principles from the above
+cases on the interpretation of clauses in a contract:
+
+(a) The purpose of contractual interpretation is to give effect to the
+objectively ascertained expressed intentions of the contracting parties as it
+emerges from the contextual meaning of the relevant contractual language: Yap
+Son On at [30].
+
+(b) The Court has to ascertain the meaning which the expressions in a document
+would convey to a reasonable person having regard to the background knowledge
+which would reasonably have been available to the parties at the time of
+contract: Sembcorp Marine at [33].
+
+(c) The starting point of contractual interpretation is to look at the text
+that the parties have used in the wording of the contractual provision: Lucky
+Realty at [2].
+
+(d) Where the text is clearly plain and unambiguous, the Court will usually
+give effect to the plain meaning of the clause, provided it does not engender
+an absurd result: YES F&B at [31].
+
+(e) Should an interpretation of the clause based on its plain wording lead to
+an absurd result, this is a strong indication that the text may be
+inconsistent with the context in which it is interpreted. In this regard, the
+Court should ordinarily start from the position that the parties did not
+intend that the term(s) concerned would produce an absurd result. It must be
+stressed that the context cannot be utilised as an excuse for the Court to
+rewrite the terms of the contract according to its subjective view of what it
+thinks the result ought to be. The need to avoid an absurd result cannot be
+pursued at all costs. Rather, the Court must always base its decision on
+objective evidence. Therefore, if the objective evidence demonstrates that the
+parties had contemplated the absurd result or consequence, the Court is not
+free to disregard this in favour of what may seem to the Court to be a more
+commercially sensible interpretation of the contract. In such a situation,
+although one that would no doubt be extremely rare, the Court must give effect
+to the meaning contained therein, notwithstanding that an absurd result would
+ensue: YES F&B at [32] and [33].
+
+27 In CIFG Special Assets Capital I Ltd (formerly known as Diamond Kendall
+Ltd) v Ong Puay Koon and others and another appeal [2018] 1 SLR 170 (“CIFG
+(SGCA)”), Sundaresh Menon CJ affirmed at [19] that the principles of
+contractual interpretation apply in construing an indemnity clause:
+
+19 We begin with a brief statement of the relevant principles to be applied in
+the construction of contracts. These are well established in several decisions
+of this court and before us in the course of the oral arguments there was no
+real disagreement as to these. Stated briefly, these principles are as follow:
+
+(a) The starting point is that one looks to the text that the parties have
+used (see Lucky Realty Co Pte Ltd v HSBC Trustee (Singapore) Ltd [2016] 1 SLR
+1069 at [2]).
+
+(b) At the same time, it is permissible to have regard to the relevant context
+as long as the relevant contextual points are clear, obvious and known to both
+parties (see Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design &
+Construction Pte Ltd [2008] 3 SLR(R) 1029 at [125], [128] and [129]).
+
+(c) The reason the court has regard to the relevant context is that it places
+the court in “the best possible position to ascertain the parties’ objective
+intentions by interpreting the expressions used by [them] in their proper
+context” (see Sembcorp Marine Ltd v PPL Holdings Pte Ltd [2013] 4 SLR 193 at
+[72]).
+
+(d) In general, the meaning ascribed to the terms of the contract must be one
+which the expressions used by the parties can reasonably bear (see, eg, Yap
+Son On v Ding Pei Zhen [2017] 1 SLR 219 at [31]).
+
+28 Further, in Kay Lim Construction & Trading Pte Ltd v Soon Douglas (Pte) Ltd
+and another [2013] 1 SLR 1 (“Kay Lim Construction”), Quentin Loh J (as he then
+was) held that the principles of construction relevant to exemption clauses
+are equally relevant to the construction of indemnity clauses (at [41]) . This
+includes the principle that exemption clauses (and by extension, indemnity
+clauses) are to be construed strictly, and if a party seeks to exclude or
+limit his liability (or seeks to have his liability indemnified), he must do
+so in clear words (Kay Lim Construction at [40]–[41], citing Singapore
+Telecommunications Ltd v Starhub Cable Vision Ltd [2006] 2 SLR(R) 195 at
+[52]).
+
+29 Loh J also affirmed the application of the contra proferentem rule of
+construction to both exemption and indemnity clauses. The contra proferentem
+rule is a well-established canon of interpretation that states “where a
+particular species of transaction, contract, or provision is one-sided or
+onerous it will be construed strictly against the party seeking to rely on it”
+(see Zurich Insurance at [131], citing Gerard McMeel, The Construction of
+Contracts: Interpretation, Implication, and Rectification (Oxford University
+Press, 2007)). In Gerard McMeel, The Construction of Contracts:
+Interpretation, Implication, and Rectification (Oxford University Press, 3rd
+Ed, 2017), Professor McMeel states the contra proferentem rule as applying to
+the following:
+
+It is submitted that the rule of construction should apply against either a
+party responsible for drafting or incorporating a clause for its own benefit,
+or where a clause is relied on (regardless of which party was responsible for
+its incorporation) which benefits or is likely to benefit only the party
+relying on it. [emphasis added]
+
+30 The contra proferentem rule is especially important when considering
+indemnity clauses. The strict construction of an indemnity clause is premised
+on the view that an indemnifier’s liability is primary and independent, such
+that ordinary businessmen would not be prepared to subject themselves to
+incurring such liability (see CIFG (SGHC) at [74]). Indemnity clauses carry
+extremely onerous effects, as they pass liability from the indemnified party
+to the indemnifying party. Clear words must therefore be used to indicate when
+such liability would accrue to the indemnifying party. That is why Belinda Ang
+Saw Ean J (as she then was) in Saatchi & Saatchi Pte Ltd and others v Tan Hun
+Ling (Clarke Quay Pte Ltd, third party) [2006] 1 SLR(R) 670 (“Saatchi &
+Saatchi”) observed that “[t]here is a presumption in law that an indemnity
+would not be readily granted to a party against a loss caused by its own
+negligence” (at [39(e)]). Similarly, Lord Fraser of Tullybelton in Ailsa Craig
+Fishing Co Ltd v Malvern Fishing Co Ltd and Securicor (Scotland) Ltd [1983] 1
+All ER 101 (“Ailsa Craig”) observed in relation to the strict standard of
+construing an indemnity clause: “[t]he reason for imposing such standards … is
+the inherent improbability that the other party to a contract including such a
+condition intended to release the proferens from a liability that would
+otherwise fall on him” (at 105). The observations of Ang J in Saatchi &
+Saatchi and Lord Fraser in Ailsa Craig thus support the improbability that any
+reasonable person would agree to indemnify his or her contractual counterparty
+for losses suffered by the latter in the absence of any fault on the former’s
+part.
+
+31 The rule that an indemnity clause must clearly state the extent to which
+one contracting party is to indemnify the other was discussed in the locus
+classicus of Canada Steamship Lines Ltd v The King [1952] AC 192 (“Canadian
+Steamship”). In that case, the Crown leased a freight shed on a wharf in the
+harbour of Montreal to a lessee. The relevant provisions of the lease, namely
+clauses 7, 8 and 17, provided as follows:
+
+7\. That the lessee shall not have any claim or demand against the lessor for
+detriment, damage or injury of any nature to the said land, the said shed, the
+said platform and the said canopy, or to any motor or other vehicles,
+materials, supplies, goods, articles, effects or things at any time brought,
+placed, made or being upon the said land, the said platform or in the said
+shed.
+
+8\. That the lessor will, at all times during the currency of this lease, at
+his own cost and expense, maintain the said shed, exclusive of the said
+platform and the said canopy.
+
+…
+
+17\. That the lessee shall at all times indemnify and save harmless the lessor
+from and against all claims and demands, loss, costs, damages, actions, suits
+or other proceedings by whomsoever made, brought or prosecuted, in any manner
+based upon, occasioned by or attributable to the execution of these presents,
+or any action taken or things done or maintained by virtue hereof, or the
+exercise in any manner of rights arising hereunder.
+
+32 Owing to the negligence of the Crown’s servants, a fire broke out at the
+shed. Both the shed and the goods stored in it were destroyed as a result. The
+lessee brought an action against the Crown for damages under the tort of
+negligence. The Crown pleaded clauses 7 and 17 in its defence. The Supreme
+Court of Canada, by a majority, concurred with the trial judge’s finding on
+negligence but held that clauses 7 and 17 of the lease barred the claims
+brought against the Crown and entitled the Crown to an indemnity from the
+lessee.
+
+33 On appeal, the Privy Council reversed the Supreme Court’s decision. Lord
+Morton of Henryton, giving judgment on behalf of the unanimous court, held
+that clause 17 was unlikely intended to protect the Crown from claims for
+damage resulting from negligence of its servants in carrying out the very
+obligations which were imposed by clause 8. Rather, the intention underlying
+clause 17 was to protect the Crown against the claims of third parties. This
+was subject to the qualification contained in the concluding part of clause 17
+– that the claims and so forth must have been “in any manner based upon,
+occasioned by or attributable to” one of three matters stated therein. This
+qualification was not drafted wide enough to cover the negligent acts of the
+Crown’s servants which caused the damage on those facts. Lord Morton held that
+this interpretation of clause 17, ie, that it applies only in respect of
+claims made against the Crown by third parties, is the preferred
+interpretation. Amongst other reasons, such an interpretation accords with the
+natural construction of the words in the clause. Further, if the Crown had
+intended to impose such a burdensome obligation on the lessee, ie, that the
+lessee was to be under an obligation to contractually indemnify the Crown in
+respect of its own wrongdoing, then the Crown ought to express such an
+obligation in clear terms, such as by inserting an express reference to
+negligence of the Crown’s servants. And finally, to construe the indemnity
+clause in such broad terms would conflict with the scope of the exclusion
+clause as set out in clause 7 of the lease (Canadian Steamship at pp 213–214).
+
+34 Against the backdrop of the applicable legal principles set out above, I
+shall now consider the interpretation of the Indemnity Clause 3.18.1.
+
+The scope of the Indemnity Clause 3.18.1
+
+35 It is not disputed that in interpreting the Indemnity Clause 3.18.1, the
+Court has to consider the Indemnity Clause 3.18.1 in the context of all the
+terms and conditions of the Lease. The parties also agree that they will not
+be relying on any evidence other than what is contained in the Lease and the
+matters set out therein. Finally, the parties agree not to call any further
+witnesses in these proceedings in dealing with the construction of the
+Indemnity Clause 3.18.1. 19
+
+##### Foot Note 19
+
+×
+
+ASOF at para 7.
+
+36 I shall first deal with the issue of whether the Indemnity Clause 3.18.1 is
+limited to third-party claims only or includes interparty claims, ie, claims
+made by the Plaintiff against the Defendant as in this case. I shall begin my
+analysis by considering several cases which the parties have referred to this
+Court, where the courts in those cases had considered similarly worded
+indemnity clauses on this issue.
+
+The case law on interpreting indemnity clauses
+
+37 The Defendant refers the Court to several cases to support its arguments
+that the Indemnity Clause 3.18.1 is meant to indemnify the Plaintiff against
+third-party claims. The Defendant then argues that, following these cases, the
+Indemnity Clause 3.18.1 cannot be interpreted as requiring the Defendant to
+indemnify the Plaintiff for losses suffered or incurred by the Plaintiff as a
+result of the fire at the Premises. The Defendant submits that the Indemnity
+Clause 3.18.1 is indistinguishable from the indemnity clauses considered by
+the Court of Appeal in Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric
+[2007] 3 SLR(R) 782 (“Sunny Metal”) and in Marina Centre Holdings Pte Ltd v
+Pars Carpet Gallery Pte Ltd [1997] 2 SLR(R) 897 (“Marina Centre Holdings”).
+The Court is thus bound by these decisions in interpreting the Indemnity
+Clause 3.18.1. Accordingly, following the decisions in Sunny Metal and Marina
+Centre Holdings, the Indemnity Clause 3.18.1 should be interpreted as being
+limited to only losses suffered by the Plaintiff arising from third-party
+claims.
+
+38 On the other hand, the Plaintiff tries to distinguish Sunny Metal and urges
+the Court to follow the interpretation of the indemnity clause considered in
+CIFG (SGHC), which was upheld by the Court of Appeal in CIFG (SGCA). 20
+
+##### Foot Note 20
+
+×
+
+PWS at paras 19–20, 23–25.
+
+Accordingly, the Plaintiff submits that the scope of the Indemnity Clause
+3.18.1 is not limited solely to losses suffered by the Plaintiff as a result
+of third-party claims, but also is wide enough to indemnify the Plaintiff for
+all losses of any nature suffered or incurred resulting from any occurrences
+in or at the Premises. Hence, the Plaintiff argues that the Defendant must
+indemnify the Plaintiff under the Indemnity Clause 3.18.1 for losses arising
+from the fire which occurred at the Premises on 9 August 2015.
+
+39 As for the Court of Appeal’s decision in Marina Centre Holdings, the
+Plaintiff submits that the central issue in that case was on the construction
+of the exemption clause in the lease. Accordingly, any pronouncement made by
+the Court of Appeal on the indemnity clause should be disregarded. The
+Plaintiff further submits that the Court of Appeal’s endorsement as to a wide
+construction of the exemption clause should be applied to the Indemnity Clause
+3.18.1.
+
+40 I shall first consider the cases relied on by the Defendant, starting with
+the Court of Appeal’s decision in Sunny Metal.
+
+(1) The decision in Sunny Metal
+
+41 The dispute in Sunny Metal arose out of a construction project. The main
+contractor of the project, PMC, failed to fulfil its contractual obligations
+under a design-and-build contract with the plaintiff, SME. PMC caused numerous
+delays to the construction works. SME terminated PMC’s services as a result of
+the breach. As PMC was subsequently liquidated, SME commenced an action
+against the defendant, one Eric Ng, who was the architect employed by PMC, for
+breach of contractual obligations and tortious duties owed to SME. SME’s case
+was that, amongst others, clause 4 of the deed of indemnity signed between SME
+and Eric Ng imposed contractual obligations on Eric Ng to undertake additional
+duties of supervision. Eric Ng had breached these obligations. Clause 4 of the
+deed was an indemnity clause which stated as follows:
+
+The Consultants shall indemnify and keep indemnified the Employer from and
+against all claims, demands, proceedings, damages, costs, charges and expenses
+arising out of or in connection with any breach of duty, whether in contract,
+in tort or otherwise.
+
+42 At first instance, Andrew Phang Boon Leong J (as he then was) found that
+the language of clause 4, an indemnity clause, was clear and that it was to
+require Eric Ng to indemnify SME against any claim for damages brought by
+third parties against SME. Thus, SME could not use clause 4 to seek an
+indemnity from Eric Ng (see Sunny Metal & Engineering Pte Ltd v Ng Khim Ming
+Eric (practising under the name and style of W P Architects) [2007] 1 SLR(R)
+853 at [34]).
+
+43 On appeal, SME argued that clause 4 encompassed two sets of factual
+situations for which Eric Ng covenanted to indemnify SME. The first was to
+indemnify SME against third-party claims. The second was to indemnify SME
+against “damages, costs, charges and expenses arising out of or in connection
+with any breach of duty, whether in contract or in tort” (at [36]). In
+response, Eric Ng submitted that a plain reading would show that the words
+“claims, demands, proceedings” in clause 4 referred to a claim made by third
+parties against SME in circumstances where there was a genuine dispute between
+SME and third parties arising from Eric Ng’s breach of duty.
+
+44 V K Rajah JA (who delivered the grounds of decision of the court) agreed
+with Phang J’s finding that clause 4 of the deed was an indemnity clause that
+was “in respect of third party claims only” [emphasis in original] (at [37]).
+Rajah JA held that such an interpretation was clear from the language of
+clause 4 and further, that nothing in the factual matrix in which the deed was
+entered into suggested that the parties intended for a different
+interpretation of clause 4 (at [37]). Finally, this construction was also
+supported by case law, and Rajah JA referred to the English Court of Appeal’s
+decision in The Lindenhall [1945] P 8 (“The Lindenhall”). The indemnity clause
+in The Lindenhall reads as follows:
+
+The owners … of the ship … being towed … agree … to indemnify and hold
+harmless the Port Authority against all claims for or in respect of … damage
+of any kind whatsoever and howsoever or wheresoever arising in the course of
+and in connexion with the towage.
+
+45 The English Court of Appeal in The Lindenhall held that the indemnity
+clause must be construed as being limited to claims made against the port
+authority by third parties, and that it did not include claims made by the
+owner of the towed vessel as against the port authority. Since the indemnity
+clause in The Lindenhall was worded similarly to the indemnity clause in Sunny
+Metal, Rajah JA thus held that the interpretation of the indemnity clause in
+Sunny Metal as covering only claims brought by third parties was further
+supported by the interpretation of the indemnity clause in The Lindenhall.
+
+46 It is true that the scope of the indemnity clause in Sunny Metal is not
+entirely the same as the Indemnity Clause 3.18.1. I set out below a table
+comparing the wording of the Indemnity Clause 3.18.1 with the wording of the
+indemnity clause in Sunny Metal:
+
+The Indemnity Clause 3.18.1| The indemnity clause in Sunny Metal  
+---|---  
+To indemnify the Landlord against (i) all claims, demands, actions,
+proceedings, judgments, damages, losses, costs and expenses of any nature
+which the Landlord may suffer or incur as a result of or in connection with or
+caused by …3.18.1 any occurrences in, upon or at the Premises or the use or
+occupation of the Premises and/or any part of the Property by the Tenant or by
+any of the Tenant’s employees, independent contractors, agents or any
+permitted occupier.| The Consultants shall indemnify and keep indemnified the
+Employer from and against all claims, demands, proceedings, damages, costs,
+charges and expenses arising out of or in connection with any breach of duty,
+whether in contract, in tort or otherwise.  
+  
+47 These are the textual differences that I have observed when comparing the
+indemnity clause in Sunny Metal and the Indemnity Clause 3.18.1:
+
+(a) Whereas the indemnity clause in Sunny Metal covered “all claims, demands,
+proceedings, damages, costs, charges and expenses” suffered by SME, the
+Indemnity Clause 3.18.1 covered “all claims, demands, actions, proceedings,
+judgments, damages, losses, costs and expenses of any nature”. The Indemnity
+Clause 3.18.1 thus includes the additional words “actions”, “judgments”,
+“losses” and “any nature”.
+
+(b) Whereas the indemnity clause in Sunny Metal required that SME be
+indemnified in respect of “any breach of duty, whether in contract, in tort or
+otherwise”, the Indemnity Clause 3.18.1 required the Defendant to indemnify
+the Plaintiff in respect of “any occurrences in, upon or at the Premises”.
+
+The plain wording of the Indemnity Clause 3.18.1 thus appears broader than the
+indemnity clause in Sunny Metal. The Indemnity Clause 3.18.1 goes further to
+cover “losses … of any nature” and “any occurrences” at the Premises. Counsel
+for the Plaintiff submits that, given the differences in the wording of the
+indemnity clause in Sunny Metal as compared to the Indemnity Clause 3.18.1,
+Sunny Metal is not applicable to the present case.
+
+48 With respect, I am unable to agree with counsel for the Plaintiff. Although
+the Indemnity Clause 3.18.1 is broader than the indemnity clause in Sunny
+Metal, the structure and general wording of the two indemnity clauses remain
+similar. The fact that the Indemnity Clause 3.18.1 is found in a lease while
+the indemnity clause in Sunny Metal was in a deed, which was entered into
+between SME and Eric Ng for the provision of architectural and engineering
+services in respect of a construction project, is in my view immaterial.
+
+49 I am thus satisfied that the interpretative outcome reached in Sunny Metal
+regarding the indemnity clause in that case is equally applicable to the
+present case. It is clear that the parties objectively intended for the
+Indemnity Clause 3.18.1 to apply to third-party claims only.
+
+(2) Marina Centre Holdings
+
+50 I shall now consider the Court of Appeal’s decision in Marina Centre
+Holdings. In that case, the respondent had leased certain premises from the
+appellant’s shopping centre. During the term of the lease, water seeped
+through the ceiling above the premises and damaged the respondent’s goods. The
+respondent had insured its goods and obtained a pay-out from the insurers. The
+insurers, exercising their right of subrogation, brought a claim against the
+appellant. The insurer argued, amongst other things, that the appellant was
+negligent at common law. The appellant raised the defence that it was absolved
+from liability by clause 36.1(b), an exemption clause in the lease, which
+states as follows:
+
+It is hereby agreed between the Landlord and the Tenant that the Landlord and
+its officers, servants, employees or agents shall not be liable or in any way
+responsible:
+
+…
+
+(b) for any injury or damage to persons or property or any consequential loss
+resulting from short circuit of electrical wiring, explosion, falling plaster,
+steam, gas, electricity, water sprinkler, rain plumbing or other pipe and
+sewerage system, leaks from any part of the SHOPPING CENTRE or MARINA SQUARE,
+the roof, street, sub-surface or any other place, dampness, or any
+appurtenances being out of repair unless caused by the wilful misconduct of
+the Landlord or its officers, servants, employees or agents;
+
+…
+
+51 The issue was thus whether, on a true construction of clause 36.1(b), the
+appellant was exempted from liability to the respondent. At first instance,
+the District Judge found, amongst others, that the appellant was negligent.
+However, the trial judge dismissed the respondent’s claim on the ground that
+clause 36.1(b) exempted the appellant from liability. The respondent brought
+an appeal to the High Court on the interpretation of clause 36.1(b) of the
+lease. Warren L H Khoo J allowed the appeal and held that the clause did not
+absolve the appellant from liability for negligence (see Pars Carpet Gallery
+Pte Ltd v Marina Centre Holdings Pte Ltd [1996] 3 SLR(R) 915). Khoo J held
+that, applying the contra proferentem rule to clause 36.1(b), its scope was to
+be confined to third-party claims and liabilities to third parties (at [27]).
+Khoo J also found this interpretation of clause 36.1(b) to be consistent with
+the indemnity provision in clause 17.2 of the lease, which states as follows:
+
+The Tenant shall indemnify and keep indemnified the Landlord from and against:
+
+(a) all claims, demands, writs, summonses, actions, suits, proceedings,
+judgments, orders, decrees, damages, costs, losses and expenses of any nature
+whatsoever which the Landlord may suffer or incur in connection with loss of
+life, personal injury, and/or damage to property arising from or out of any
+occurrence in, upon or at the PREMISES or the use of the PREMISES or any part
+thereof by the Tenant or by any of the Tenant’s agents, employees or visitors;
+
+(b) all loss and damage to the PREMISES, its adjoining or neighbouring
+premises, to MARINA SQUARE and to all property therein caused whether directly
+or indirectly by the Tenant or the Tenant’s agents, employees or visitors and
+in particular but without limiting the generality of the foregoing caused
+whether directly or indirectly by the use or misuse, waste or abuse of water,
+fire or electricity or faulty fittings or fixtures of the Tenant.
+
+52 In Khoo J’s view, reading clause 17.2 as applying to claims brought by
+third parties against the landlord would thus be consistent with the parties’
+intention. In his view, if clause 36.1(b) was to be confined to third-party
+claims brought against the landlord, then similarly clause 17.2 ought to be
+confined to third-party claims.
+
+53 On appeal, L P Thean JA (delivering the judgment of the court) held that,
+on a true construction, clause 36.1(b) exempted the appellant from liability
+even when the appellant was negligent. Thean JA (at [32]) rejected the
+argument that clause 36.1(b) was to be construed as being confined only to
+that of third-party claims. On the contrary, the plain wording of clause
+36.1(b) made clear that it was intended to relieve or absolve the appellant
+from liability to the respondent for injury, damage and consequential loss
+resulting from any of the specified events, unless caused by wilful misconduct
+of the appellant or that of its servants or agents.
+
+54 Further, the Court of Appeal in Marina Centre Holdings held that
+interpreting clause 36.1(b) of the lease as being applied to absolve the
+appellant from liability as against the respondent would be consistent with
+the indemnity provision in clause 17.2 of the lease. Thean JA held (at [35])
+that clause 17.2 of the lease was intended to provide further protection to
+the appellant by securing for it an indemnity from the respondent against
+third-party claims. Reading clauses 17.2 and 36.1(b) in this manner would, in
+Thean JA’s view, render both clauses complementary to each other in so far as
+clause 36.1(b) dealt with liability as between the parties inter se, whereas
+clause 17.2 dealt with liability incurred by the appellant in respect of
+claims brought by third parties.
+
+55 The Plaintiff submits that little reliance should be placed on the Court of
+Appeal’s decision in Marina Centre Holdings, as the interpretation of the
+indemnity clause was not a central issue before the Court of Appeal. Thus, it
+was an obiter dictum expressed by the Court of Appeal on the interpretation of
+the indemnity clause in the context of interpreting the exemption clause in
+clause 36.1(b) of the lease. Marina Centre Holdings, the Plaintiff submits, is
+therefore not authority on the interpretation of the scope of an indemnity
+clause. Hence, Thean JA’s interpretation of the indemnity provision in clause
+17.2 should be disregarded. 21
+
+##### Foot Note 21
+
+×
+
+PWS at paras 34 and 39.
+
+56 I am unable to agree with the Plaintiff’s submission. The fact remains that
+one of the key reasons that Thean JA had relied upon in his analysis on the
+interpretation of clause 36.1(b), the exemption clause, was the scope of the
+indemnity clause in clause 17.2 of the lease. The Court of Appeal had
+scrutinised the wording of clause 17.2 and concluded that it must have been
+intended to apply to claims brought by third parties. Given this conclusion,
+the Court of Appeal reasoned that the exemption provision in clause 36.1(b) of
+the lease must be interpreted as applying to liabilities as between the
+parties inter se. Accordingly, the interpretation of clause 17.2 was one of
+the key planks underlying Thean JA’s reasoning and his conclusions regarding
+the interpretation of clause 36.1(b).
+
+57 I find that the indemnity clause in Marina Centre Holdings is similar to
+the Indemnity Clause 3.18.1. I set out below a table comparing the wording of
+the indemnity clause in Marina Centre Holdings and the Indemnity Clause
+3.18.1:
+
+The Indemnity Clause 3.18.1| The indemnity clause in Marina Centre Holdings  
+---|---  
+To indemnify the Landlord against (i) all claims, demands, actions,
+proceedings, judgments, damages, losses, costs and expenses of any nature
+which the Landlord may suffer or incur as a result of or in connection with or
+caused by …3.18.1 any occurrences in, upon or at the Premises or the use or
+occupation of the Premises and/or any part of the Property by the Tenant or by
+any of the Tenant’s employees, independent contractors, agents or any
+permitted occupier.| The Tenant shall indemnify and keep indemnified the
+Landlord from and against:(a) all claims, demands, writs, summonses, actions,
+suits, proceedings, judgments, orders, decrees, damages, costs, losses and
+expenses of any nature whatsoever which the Landlord may suffer or incur in
+connection with loss of life, personal injury, and/or damage to property
+arising from or out of any occurrence in, upon or at the PREMISES or the use
+of the PREMISES or any part thereof by the Tenant or by any of the Tenant’s
+agents, employees or visitors;(b) all loss and damage to the PREMISES, its
+adjoining or neighbouring premises, to MARINA SQUARE and to all property
+therein caused whether directly or indirectly by the Tenant or the Tenant’s
+agents, employees or visitors and in particular but without limiting the
+generality of the foregoing caused whether directly or indirectly by the use
+or misuse, waste or abuse of water, fire or electricity or faulty fittings or
+fixtures of the Tenant.  
+  
+58 I observe the following textual similarities in both the clauses:
+
+(a) The indemnity clause in Marina Centre Holdings is worded to cover “all
+claims, demands, writs, summonses, actions, suits, proceedings, judgments,
+orders, decrees, damages, costs, losses and expenses of any nature
+whatsoever”. Likewise, the Indemnity Clause 3.18.1 covers “all claims,
+demands, actions, proceedings, judgments, damages, losses, costs and expenses
+of any nature”.
+
+(b) The indemnity clause in Marina Centre Holdings is also worded to include,
+amongst others, losses suffered by the appellant “arising from or out of any
+occurrence in, upon or at the PREMISES or the use of the PREMISES”.
+
+I am, therefore, satisfied that the Indemnity Clause 3.18.1 is textually and
+substantively similar to the indemnity clause in Marina Centre Holdings, both
+in terms of its scope and its operation.
+
+59 Further, the commercial context in Marina Centre Holdings is the same as in
+the present case, ie, both cases deal with the interpretation of an indemnity
+clause in a lease agreement between a landlord and a tenant in respect of a
+commercial property. Thean JA’s interpretation of the indemnity clause in
+Marina Centre Holdings is, therefore, highly persuasive in supporting the
+Defendant’s proposed interpretation of the Indemnity Clause 3.18.1. I agree
+with the Court of Appeal’s decision in Marina Centre Holdings. Thus, I am of
+the view that the Indemnity Clause 3.18.1 was intended to apply only in
+respect of third-party claims brought against the Plaintiff.
+
+(3) CIFG (SGHC)
+
+60 I shall now deal with the decision in CIFG (SGHC), which the Plaintiff
+relies on heavily in support of its interpretation that the Indemnity Clause
+3.18.1 applies to third-party claims as well as the Plaintiff’s claim against
+the Defendant. The facts of CIFG (SGHC) are quite complicated. In the interest
+of brevity, I shall only set out the relevant salient facts.
+
+61 The dispute in CIFG (SGHC) arose from a series of loans which were
+structured as Convertible Bond Subscription Agreements (“CBSAs”). The first
+defendant, Polimet, had entered into the CBSAs with the plaintiff, CIFG. The
+second to fifth defendants were the initial shareholders of Polimet (“the
+Initial Shareholders”). CIFG obtained as security, amongst others, personal
+guarantees from two of the Initial Shareholders, although these personal
+guarantees were limited to their initial 50% shareholding in Polimet. Each
+CBSA entered into between the parties contained a general indemnity clause,
+ie, clause 12.1, in favour of CIFG, and it states as follows:
+
+12\. INDEMNITY
+
+12.1 General Indemnity. The Initial Shareholders and the Issuer hereby jointly
+and severally agree and undertake to fully indemnify and hold the Bondholder
+and its shareholders and their respective fund managers, directors, officers
+and employees (the ‘Indemnified Parties’) harmless from and against any
+claims, damages, deficiencies, losses, costs, liabilities and expenses
+(including legal fees and disbursements on a full indemnity basis) directly or
+indirectly caused to the Indemnified Parties and in particular, but without
+prejudice to the generality of the foregoing, for any short-fall, depletion or
+diminution in value of the assets of the Issuer, the Group or any Group
+Company resulting directly or indirectly from or arising out of any breach or
+alleged breach of any of the representations, warranties, undertakings and
+covenants given by the Initial Shareholders and/or the Issuer under this
+Agreement or for any breach or alleged breach of any term or condition of this
+Agreement.
+
+[emphasis in original]
+
+62 Polimet eventually defaulted on the terms of repayment under the CBSAs, and
+CIFG issued letters of demand against the defendants informing them that they
+were in breach of the CBSAs. CIFG subsequently commenced an action against,
+amongst others, the Initial Shareholders under clause 12.1 of the CBSAs for
+all the sums owing by Polimet.
+
+63 CIFG’s case was that clause 12.1 imposed a joint and several obligation on
+the Initial Shareholders to indemnify Polimet against “any … losses” caused to
+it by “any breach” of the CBSAs. CIFG further argued that there was nothing in
+the language of clause 12.1 limiting its scope or excluding the losses caused
+by Polimet’s failure to make repayments.
+
+64 In response, Polimet and the Initial Shareholders argued that clause 12.1
+should be interpreted as requiring Polimet and the Initial Shareholders to
+indemnify CIFG for losses or liabilities caused to CIFG as a result of third-
+party claims. The Initial Shareholders further argued that clause 12.1 was
+never intended to operate as a general and unlimited indemnity, such that they
+could be held personally liable for all of Polimet’s liabilities under the
+CBSAs.
+
+65 The issue in CIFG (SGHC) was thus whether the parties had intended clause
+12.1 to cover the Initial Shareholders’ liability for losses suffered by CIFG
+as a result of Polimet’s debt.
+
+66 At first instance, Lim JC accepted that clause 12.1, based on its plain
+wording, appeared to be an unlimited and general indemnity which would cover
+Polimet’s failure to make repayments of its debts (at [79]). Lim JC took into
+account the surrounding language of clause 12.1 and she noted at [81] that
+clause 12.1 was labelled a “General Indemnity”. To her mind, therefore, this
+indicated that third-party claims were merely a sub-set of the types of losses
+which would fall within clause 12.1. Further, Lim JC found (at [82]) that the
+scope of clause 12.1 was very wide, as it sought to indemnify CIFG against not
+just “claims”, “damages”, “costs” and so on, but also “losses” and
+“deficiencies”. The latter two categories do not necessarily presuppose a
+third-party claim.
+
+67 Lim JC also placed emphasis on the fact that clause 12.1 went further to
+specify the kinds of “losses” and “deficiencies” which CIFG may be expected to
+suffer. In particular, clause 12.1 specified that such “losses” and
+“deficiencies” may include “any short-fall, depletion or diminution in value
+of the assets of” Polimet or the Group Companies (through which the Initial
+Shareholders had been involved in diode manufacturing) resulting from “any
+breach or alleged breach of any of the representations, warranties,
+undertakings and covenants” by the Initial Shareholders or Polimet. In Lim
+JC’s view, this specification strengthened the finding that the “losses”
+contemplated by clause 12.1 would ordinarily be suffered by CIFG directly,
+rather than flowing from a third-party claim. Accordingly, Lim JC held that
+clause 12.1 can be distinguished from the indemnity clause in Sunny Metal,
+which the Initial Shareholders had relied on in advancing the argument that
+clause 12.1 ought to be construed as an indemnity solely against third-party
+claims (see CIFG (SGHC) at [80] and [82]).
+
+68 The Plaintiff relies on the above observations made by Lim JC in CIFG
+(SGHC) at [82], that the inclusion of the words “losses” and “deficiencies” in
+the indemnity clause in CIFG (SGHC) pointed towards the indemnity clause
+extending to cover losses suffered directly by the party seeking to be
+indemnified. The Plaintiff then refers to the Indemnity Clause 3.18.1, which
+provides for the Defendant’s obligation to indemnify the Plaintiff against
+“losses” of any nature. This word, in the Plaintiff’s submission, was not
+present in the indemnity clause in Sunny Metal. 22
+
+##### Foot Note 22
+
+×
+
+PWS at paras 19–21.
+
+Instead, the Plaintiff argues that there is similarity in the scope of the
+indemnity clause in CIFG (SGHC) and the Indemnity Clause 3.18.1, ie, the
+presence of the word “losses”. The Plaintiff, thus, submits that the Court
+should adopt the distinction which Lim JC drew between the indemnity clause in
+Sunny Metal and the indemnity clause in CIFG (SGHC):
+
+82 Second, the ambit of Clause 12.1 is very wide. It is an indemnity against
+not just “claims”, “damages”, “costs” and so on, but also “losses” and
+“deficiencies” – the last two of which do not necessarily presuppose a third
+party claim. The clause also expressly incorporates losses, deficiencies, and
+so on caused to the plaintiff “for any short-fall, depletion or diminution in
+value of the assets of” Polimet or the Group Companies resulting from “any
+breach of the representations, warranties, undertaking and covenants given by
+the Initial Shareholders”. This is a type of loss which would ordinarily be
+directly suffered by the plaintiff rather than flowing from or even resulting
+in a third party claim. For instance, a third party may not necessarily be
+concerned with, let alone bring a claim against the plaintiff for, a
+deficiency in the value of Polimet’s assets. These features of Clause 12.1
+distinguish this case from Sunny Metal & Engineering Pte Ltd v Ng Khim Ming
+Eric [2007] 3 SLR(R) 782, which the Initial Shareholders rely on. In that
+case, the relevant clause necessarily presupposed liability incurred by the
+indemnified party to a third party (at [37]).
+
+69 I am unable to accept the Plaintiff’s submissions on this point. It is
+clear from the above passage that Lim JC’s conclusion on the interpretation on
+the scope of the indemnity clause in CIFG (SGHC) was premised on specific
+words used in the clause. It is important to highlight that the indemnity
+clause in CIFG (SGHC) referred to losses, deficiencies, etc, caused to the
+Plaintiff “for any short-fall, depletion or diminution in value of the assets
+of” Polimet resulting from “any breach or alleged breach of the
+representations, warranties, undertakings and covenants given by the Initial
+Shareholders”. The inclusion of these specific words widens the coverage of
+the indemnity clause in CIFG (SGHC) significantly, in that the clause
+contemplated liability on the Initial Shareholders to indemnify CIFG in
+respect of wrongdoings committed by the Initial Shareholders against CIFG.
+Hence, the breadth of the indemnity clause in CIFG (SGHC) played a crucial
+role in shaping Lim JC’s interpretation of clause 12.1 in the CBSAs. Lim JC
+relied heavily on the wording of the indemnity clause in CIFG (SGHC) in
+concluding that, at least on its plain wording, the type of loss for which the
+Initial Shareholders was liable to indemnify CIFG included losses suffered by
+CIFG as a result of the Initial Shareholders’ fault. This explains why Lim JC
+readily drew the distinction between the indemnity clause in CIFG (SGHC) and
+the indemnity clause in Sunny Metal.
+
+70 In contrast, the Indemnity Clause 3.18.1 does not contain such specific
+words to the effect of contemplating the Defendant indemnifying the Plaintiff
+in respect of liability as between the parties. Therefore, the Plaintiff erred
+in relying heavily on CIFG (SGHC), and in taking the position that Lim JC’s
+interpretation of the indemnity clause ought to apply here, ie, that the scope
+of the Indemnity Clause 3.18.1 covers not only claims made by third parties,
+but also claims made by the Plaintiff against the Defendant. Rather, I am
+satisfied that the Indemnity Clause 3.18.1 is similar to the indemnity clause
+in Sunny Metal and in Marina Centre Holdings.
+
+71 I should also emphasise that the commercial context surrounding the
+transaction in CIFG (SGHC) is very different from the present case. Whereas it
+is difficult to envisage a situation where the Initial Shareholders in CIFG
+(SGHC) may be liable to indemnify CIFG for third-party claims, this is very
+different from the present case. In a commercial lease arrangement, the
+commercial setting arising from the landlord-tenant relationship may more
+easily give rise to third-party claims against the Plaintiff. An example of
+this may include injuries suffered by third parties in the Premises arising
+from the unsafe premises or fixtures.
+
+72 Accordingly, the interpretation of the indemnity clause in CIFG (SGHC) is
+not applicable in the present case.
+
+The findings of the Court from its analysis of the cases on indemnity clauses
+
+73 Given the similarity between the Indemnity Clause 3.18.1 and the indemnity
+clauses in Sunny Metal and Marina Centre Holdings, I am satisfied that the
+Indemnity Clause 3.18.1 and clause 3.18 as a whole refer to situations
+involving third-party claims made against the Plaintiff. Indeed, the parties
+acknowledged in their oral closing submissions that there are no other
+provisions in the lease agreement that deal with an indemnity to the Plaintiff
+that arises from third-party claims. 23
+
+##### Foot Note 23
+
+×
+
+26 August 2022 Transcript at p 65 (lines 7–22).
+
+I note, for instance, that there are provisions in the Lease that allow the
+Plaintiff to claim directly from the Defendant for losses arising from the
+fault of the Defendant. During the oral closing submissions, counsel for the
+Defendant referred the Court to the following clauses: 24
+
+##### Foot Note 24
+
+×
+
+26 August 2022 Transcript at p 65 (lines 9–16).
+
+(a) clause 3.7, which concerns the Defendant’s obligations in respect of the
+maintenance and management of the various aspects of the Premises;
+
+(b) clause 3.8, which concerns the Defendant’s obligations in respect of works
+carried out on the Premises;
+
+(c) clause 3.9, which concerns the Defendant’s obligations in respect of
+structural alterations to the Premises; and
+
+(d) clause 3.14, which prescribes a list of obligations of the Defendant in
+relation to the use of the Premises.
+
+74 These clauses, in my view, only govern the parties’ obligations inter se,
+and a breach of the Defendant’s contractual obligations under these clauses
+would attract contractual liability on the Defendant’s part. To interpret the
+Indemnity Clause 3.18.1 as further covering liability between the contracting
+parties inter se would therefore be duplicative and hence inconsistent with
+the obligations imposed by these other clauses. The remedy open to the
+Plaintiff, should there be a breach of the above clauses, would have been a
+claim premised on breach of contract. Accordingly, I find that the Indemnity
+Clause 3.18.1 deals only with third-party claims.
+
+75 Finally, I should also mention that there is a similarly worded indemnity
+provision under clause 3.8.8 of the Lease which relates to Tenant’s Works,
+which states as follows:
+
+3.8.8 The Tenant shall indemnify and keep the Landlord indemnified against all
+claims, demands, actions, proceedings, judgments, damages, losses, costs and
+expenses which the Landlord may suffer or incur as a result of or in
+connection with:
+
+(i) any breach, non-observance or non-performance of this Clause 3.8; or
+
+(ii) the Tenant’s Works.
+
+76 In the parties’ oral closing submissions, counsel for the Plaintiff
+submitted that clause 3.8.8 of the Lease, like the Indemnity Clause 3.18.1,
+was also intended to apply to claims brought by third parties against the
+Plaintiff as well as claims brought by the Plaintiff against the Defendant. 25
+
+##### Foot Note 25
+
+×
+
+26 August 2022 Transcript at p 64 (lines 11–19).
+
+Clause 3.8.8 is much narrower in scope when compared to the Indemnity Clause
+3.18.1. The indemnity to the Plaintiff in Clause 3.8.8 is limited to the
+Tenant’s Works. Clause 3.8.8 of the Lease states the Defendant’s obligation to
+indemnify the Plaintiff in respect of, amongst others, losses suffered by the
+Plaintiff as a result of: (i) any breach, non-observance or non-performance of
+clause 3.8 by the Defendant (clause 3.8.8(i)); or (ii) the Tenant’s Works,
+which is defined in clause 3.8.1 as meaning “any fitting-out, renovations,
+alterations, additions, erection of new buildings or any other kinds of works”
+(clause 3.8.8(ii)).
+
+77 If the Indemnity Clause 3.18.1 were to be interpreted widely as suggested
+by the Plaintiff, ie, that the Plaintiff can seek an indemnity directly from
+the Defendant for any losses suffered by the Plaintiff at the Premises, there
+would have been no need for clause 3.8.8 to be in the Lease as it would have
+been otiose. This is because the Plaintiff’s interpretation of the Indemnity
+Clause 3.18.1 would be sufficiently broad to capture the situation
+contemplated in clause 3.8.8.
+
+78 The wide interpretation of the Indemnity Clause 3.18.1 would also be
+inconsistent with the scope and intention behind the exemption clauses, ie,
+clauses 5.1 and 5.2 of the Lease. These are essentially exemption clauses
+which seek to exempt the Plaintiff from liability for any damage or loss
+occasioned to the Defendant by reason of any of the events specified in those
+clauses, unless the Plaintiff is wilfully negligent:
+
+5 LANDLORD NOT LIABLE
+
+5.1 Notwithstanding anything contained in this Lease and to the fullest extent
+permitted by Law, the Landlord is not liable to the Tenant and the Tenant must
+not claim against the Landlord for any death, injury, loss or damage
+(including indirect, consequential and special losses) which the Tenant may
+suffer in respect of any of the following (whether caused by negligence or
+other causes):
+
+…
+
+unless such death, injury, loss, or damage suffered by the Tenant is caused
+directly and solely by the wilful negligence of the Landlord.
+
+5.2 Without prejudice to the provisions of Clause 5.1 and to the fullest
+extent permitted by Law, the Landlord is not responsible to the Tenant or to
+its employees, independent contractors, agents or permitted occupiers nor to
+any other persons for any death, injury, loss or damage sustained at or
+originating from the Premises and/or any part of the Property directly or
+indirectly caused by, resulting from or in connection with:
+
+…
+
+unless such death, injury, loss, or damage suffered by the Tenant is caused
+directly and solely by the wilful negligence of the Landlord.
+
+79 In my view, the presence of clauses 5.1 and 5.2 is consistent with the
+interpretation of the Indemnity Clause 3.18.1 that I have reached, ie, that
+the Indemnity Clause 3.18.1 only covers third-party liability incurred by the
+Plaintiff. Indeed, having exempted itself from liability, the Plaintiff would
+have sought to further protect itself by seeking an indemnity from the
+Defendant for claims made against the Plaintiff by third parties. It is
+important to note that the parties agree that there is no provision in the
+Lease that deals with third-party claims against the Plaintiff. Perhaps the
+only exception is clause 3.8.8 which is similarly worded as the Indemnity
+Clause 3.18.1. Clause 3.8.8, however, only deals with Tenant’s Works and is
+therefore limited in scope.
+
+80 Therefore, I am unable to accept the Plaintiff’s contention that the
+Indemnity Clause 3.18.1 should be interpreted as covering both third-party
+claims and the Plaintiff’s direct claim against the Defendant. Instead, I find
+that the Indemnity Clause 3.18.1 was intended to cover only third-party claims
+made against the Plaintiff. Hence, the Plaintiff’s claim against the Defendant
+for the losses arising from the accidental fire on the basis of the Indemnity
+Clause 3.18.1 cannot succeed. Accordingly, I dismiss the Plaintiff’s claim on
+this ground alone.
+
+81 However, for completeness, I shall address the Plaintiff’s argument that
+the Indemnity Clause 3.18.1 also requires the Defendant to indemnify claims
+made by the Plaintiff against the Defendant. In the present case, the issue is
+whether the Plaintiff can succeed in its claim for losses arising from the
+accidental fire against the Defendant, on the basis of the Plaintiff’s own
+interpretation of the Indemnity Clause 3.18.1.
+
+The Plaintiff’s claim that the Indemnity Clause 3.18.1 covers claims made by
+the Plaintiff against the Defendant
+
+Plain wording of the Indemnity Clause 3.18.1
+
+82 The Plaintiff relies on the following portion of the Indemnity Clause
+3.18.1: “all … losses … of any nature which [the Plaintiff] may suffer or
+incur as a result of … any occurrences in, upon or at the Premises” [emphasis
+added] to argue that the Defendant is liable to indemnify the Plaintiff for
+the fire at the Premises, notwithstanding the SCDF’s opinion that the
+Defendant was not at fault as it was an accidental fire. 26
+
+##### Foot Note 26
+
+×
+
+PWS at paras 11–12.
+
+83 A plain and literal reading of the Indemnity Clause 3.18.1 entitles the
+Plaintiff to a very wide coverage or protection for almost all kinds of
+losses. The only requirement is that the losses must have occurred at the
+Premises. The literal reading of the Indemnity Clause 3.18.1, therefore, means
+that regardless of whether the Defendant is at fault, the Defendant must
+indemnify the Plaintiff. Even if the losses are the result of the Plaintiff’s
+negligence, misconduct, wilful act or fault, the Defendant has to indemnify
+the Plaintiff. In other words, a literal reading of the Indemnity Clause
+3.18.1 simply provides that the Defendant is contractually obliged to
+indemnify the Plaintiff for any losses that the Plaintiff may suffer,
+regardless of whether there is any fault on the Defendant’s part. Therefore,
+the Indemnity Clause 3.18.1 is broad enough to encompass a great deal of
+situations, including the present situation involving the fire at the
+Premises, the cause of which was through no fault of any party. This is the
+contention of the Plaintiff, notwithstanding that the losses to the Plaintiff,
+for which it had been compensated by its insurer, GEGI, arose from a fire, the
+cause of which was nobody’s fault. The Plaintiff, on the advice of the
+insurer’s investigators, accepted that the Defendant was not liable for the
+fire at the Premises and granted the Defendant a rent reduction arising from
+the fire.
+
+84 The issue thus arises whether this was what the parties objectively
+intended, ie, that the Defendant must indemnify the Plaintiff for all losses
+regardless of any fault on the Defendant’s part and even if the Plaintiff is
+negligent or at fault. In my view, this surely cannot be the case. No
+reasonable tenant would have signed such an onerous, completely one-sided and
+unfair Lease, much less the Defendant.
+
+85 The Plaintiff submits that “there is an in-built limitation” in the
+Indemnity Clause 3.18.1, 27
+
+##### Foot Note 27
+
+×
+
+26 August 2022 Transcript at p 13 (lines 16–17).
+
+whereby the Defendant does not have to indemnify the Plaintiff when the losses
+are the result of the Plaintiff’s own negligence. 28
+
+##### Foot Note 28
+
+×
+
+PWS at para 40.
+
+However, nothing in the text of the Indemnity Clause 3.18.1 states that the
+Defendant is not liable to indemnify the Plaintiff in respect of – and only in
+respect of – losses suffered as a result of the Plaintiff’s own negligence.
+The Indemnity Clause 3.18.1, in its plain and ordinary meaning, is therefore
+prima facie wide enough to cover a situation where the Plaintiff’s loss arises
+from the Plaintiff’s own negligence. There is thus no in-built limitation
+contrary to what the Plaintiff suggests.
+
+86 Counsel for the Plaintiff submits that the in-built limitation is what he
+reads into the Indemnity Clause 3.18.1. In his submission, there is a
+presumption, from case law, that the Plaintiff cannot be indemnified if the
+losses are a result of the Plaintiff’s negligence. 29
+
+##### Foot Note 29
+
+×
+
+26 August 2022 Transcript at pp 57 (line 3) to 58 (line 13).
+
+As I have canvassed at [30] above, the reason for this presumption is a matter
+of fairness, equity and logic, ie, that the Plaintiff cannot claim for losses
+arising from its own negligence. Be that as it may, this is a presumption that
+ultimately arises by operation of case law. The fact remains that the plain
+wording of the Indemnity Clause 3.18.1 is broadly worded.
+
+87 If the parties had truly intended for any such carve-outs or exclusions in
+the Indemnity Clause 3.18.1, they would have expressly provided for such
+exclusions. Indeed, an example of such express exclusions can be seen in
+clauses 5.1 and 5.2 of the Lease (see [78] above). Both clauses 5.1 and 5.2
+exempt the Plaintiff from liability even if the Plaintiff is merely negligent.
+However, the exemption clauses will not protect the Plaintiff if the loss or
+damage is “caused directly and solely by the wilful negligence” of the
+Plaintiff. In other words, clauses 5.1 and 5.2 do not protect the Plaintiff if
+the losses are due to wilful negligence. Accordingly, if, indeed, as the
+Plaintiff suggests, the Indemnity Clause 3.18.1 was intended to exclude
+situations involving the Plaintiff’s negligence, then surely an exception
+similar to those found in clauses 5.1 and 5.2 would have been drafted into
+Clause 3.18.1. Instead, no such exception is found on the face of the
+Indemnity Clause 3.18.1.
+
+88 The literal and plain reading of the Indemnity Clause 3.18.1 thus renders
+it extremely broad and would give rise to absurdity in its application. This
+could not have been the objective intention and the contemplation of the
+parties at the time they signed the Lease. To demonstrate its potential width
+and hence the potential absurdity of a broad construction of the Indemnity
+Clause 3.18.1 as suggested by the Plaintiff, I gave counsel for the Plaintiff
+three scenarios for his consideration during the oral closing submissions: 30
+
+##### Foot Note 30
+
+×
+
+26 August 2022 Transcript at pp 51 (line 1) to 54 (line 4).
+
+(a) The Plaintiff takes a loan from an illegal moneylender and the Plaintiff
+defaults in its repayment of the debt. The illegal moneylender harasses the
+Plaintiff by damaging or setting fire to the Premises. In this scenario,
+counsel for the Plaintiff acknowledged that the Defendant does not have to
+indemnify for the damages to the Premises, even though the literal reading of
+the Indemnity Clause 3.18.1 could require the Defendant to indemnify the
+Plaintiff. 31
+
+##### Foot Note 31
+
+×
+
+26 August 2022 Transcript at pp 51 (line 1) to 52 (line 5).
+
+(b) The Plaintiff exercises its contractual right of inspection and repair (as
+the Plaintiff is contractually entitled to under clause 3.10 of the Lease) and
+sends its employees to the Premises to inspect and examine the state and
+condition of the Premises. While undertaking the relevant inspection, the
+Plaintiff’s employee smokes a cigarette, but disposes of the lighted cigarette
+butt negligently. Subsequently, a fire is started which results in extensive
+damage to the Premises. Counsel for the Plaintiff claims that under the
+Indemnity Clause 3.18.1, the Defendant must indemnify the Plaintiff as the
+former has possession and control over the Premises. 32
+
+##### Foot Note 32
+
+×
+
+26 August 2022 Transcript at pp 52 (line 6) to 53 (line 3).
+
+Counsel for the Plaintiff cannot be right as this scenario is no different
+from scenario (a) as mentioned above. In both these scenarios, the losses are
+as a result of the Plaintiff’s or its agent’s fault or negligence. In scenario
+(a), the Plaintiff’s fault is a direct result of the Plaintiff’s failure to
+repay the illegal moneylender. In scenario (b), it was the Plaintiff’s agent
+who was negligent in the disposal of the lighted cigarette butt. In both
+scenarios, the Defendant is faultless as the losses are not caused by the
+Defendant. But a literal reading of the Indemnity Clause 3.18.1 will require
+the Defendant to indemnify the Plaintiff. This reading of the Indemnity Clause
+3.18.1 leads to an unfair outcome and gives rise to inequity. This cannot be
+the objective intention of the parties. The Defendant would not have signed
+the Lease if it had known the effects and wide extent of the Indemnity Clause
+3.18.1.
+
+(c) In the third scenario, the employees of McCormick deliver sacks of dried
+peppercorns to the Premises for storage. While McCormick’s employees are in
+the Premises, one of them negligently disposes of a lighted cigarette butt and
+starts a fire. It is clear that the fire is not started by the Defendant.
+However, counsel for the Plaintiff argued that the Defendant is likewise
+liable to indemnify the Plaintiff under the Indemnity Clause 3.18.1. 33
+
+##### Foot Note 33
+
+×
+
+26 August 2022 Transcript at pp 53 (line 19) to 54 (line 24).
+
+As in the above scenario (b), the losses are not attributable to the
+Defendant. The literal reading of the Indemnity Clause 3.18.1 will lead to
+inequity and an unfair outcome. This again could not be the objective
+intention of the parties, especially when clauses 3.18.2 and 3.18.3 of the
+Lease are grounded on the fault or misuse of the Premises by the Defendant. I
+shall consider this point in greater detail at [96]–[103] below. The Defendant
+would not have agreed to the wide and unreasonable literal reading of the
+Indemnity Clause 3.18.1 if the Defendant knew that it would have to indemnify
+the Plaintiff even for losses not due to its fault.
+
+89 It is imperative to underscore the importance of sanctity of contract. I
+emphasise that the Court cannot simply rewrite the contract that the parties
+have concluded. And as I have set out at [26(e)] above, the mere fact that an
+absurd outcome arises from a plain reading of the contractual provision in
+question does not necessarily mean that the Court ought to reject such a
+reading, if in fact this was what the parties intended. The Court must
+carefully scrutinise the Indemnity Clause 3.18.1 against the relevant context
+of the Lease and ascertain whether the parties, objectively speaking, could
+have intended this outcome. If, having examined the context, the Court is
+satisfied that this was what the parties had truly intended, then the Court is
+bound to give effect to the parties’ commercial and contractual intentions. In
+the present case the objective intention of the parties, particularly the
+Defendant’s, was not in favour of the literal reading of the Indemnity Clause
+3.18.1.
+
+90 Indeed, this approach towards interpreting the scope of an indemnity clause
+is one which the Court of Appeal in CIFG (SGCA) had endorsed. The Court of
+Appeal unanimously upheld Lim JC’s findings on the interpretation of clause
+12.1. Beginning with the plain wording of clause 12.1, Menon CJ, delivering
+the ex tempore judgment, observed at [21] and [22] that the wording of clause
+12.1 was extremely broad. Clause 12.1 extended to persons who were not parties
+to the CBSAs and appeared to be unlimited as to the matters covered by the
+indemnity. This rendered the construction of the clause on its plain wording
+absurd and it was necessary to turn to the contextual evidence to shed light
+on the scope of clause 12.1. The relevant contextual evidence, in Menon CJ’s
+view, included, amongst others, the entirety of the CBSAs and the way the
+CBSAs as a whole was drafted (at [23]). Looking at the entirety of the CBSAs,
+the parties had included provisions for specific allocation of risks to
+various parties. Menon CJ thus held that this made it even more unlikely that
+clause 12.1 should be intended to override the parties’ allocation of risks
+under the CBSAs (at [25]). Accordingly, Menon CJ rejected CIFG’s
+interpretation that clause 12.1 was intended to make Polimet and each of the
+Initial Shareholders liable for any loss suffered or claimed by CIFG arising
+from the breach of any provision of the CBSAs (at [29]).
+
+91 I am thus fortified in my approach towards analysing the scope of the
+Indemnity Clause 3.18.1, and I shall now consider the relevant context in
+interpreting the Indemnity Clause 3.18.1.
+
+Context surrounding the Indemnity Clause 3.18.1
+
+92 The Plaintiff submits that there are three contextual factors which have to
+be considered: 34
+
+##### Foot Note 34
+
+×
+
+PWS at paras 41–59.
+
+(a) the nature of the transaction in question; (b) the sub-clauses surrounding
+the Indemnity Clause 3.18.1; and (c) the other clauses in the Lease. I shall
+now examine each contextual factor in turn.
+
+(1) The nature of the transaction
+
+93 The first contextual factor relates to the nature of the transaction
+between the parties. The Plaintiff emphasises that the present transaction
+involves a Lease entered into between itself and the Defendant for the
+exclusive possession of the entire Premises by the Defendant. Since the
+commercial purpose of the Lease involves the Plaintiff conferring onto the
+Defendant exclusive possession, it follows that the Plaintiff has
+“relinquished control over the Premises to the Defendant”. 35
+
+##### Foot Note 35
+
+×
+
+PWS at para 46.
+
+Accordingly, the “risk of damage to the Premises arising from a cause not
+attributable to the default of either party would lie with the party who had
+exclusive possession of the Premises” 36
+
+##### Foot Note 36
+
+×
+
+PWS at para 47.
+
+and in the present case, the Defendant. The Plaintiff, thus, contends that, by
+virtue of the Defendant’s exclusive control over the Premises, the Defendant
+must be responsible for and must be liable to the Plaintiff for any losses
+arising from the Premises, regardless of whether the Defendant is at fault.
+
+94 In my view, the mere fact that the present case involves a lease
+arrangement which confers upon the Defendant exclusive possession over the
+demised premises does not serve to advance the Plaintiff’s case meaningfully.
+The Plaintiff’s submissions rest on the assumption that the exclusive control
+can be equated to the passing of risk. That, however, does not represent the
+commercial reality associated with the allocation of risks between parties in
+a commercial lease. The Plaintiff’s submissions, taken to the logical
+conclusion, would mean that every tenant of a commercial property becomes a de
+facto insurer of the landlord’s property and liable to the landlord for all
+losses regardless of fault. That would impose on every tenant an extremely
+onerous obligation if that were indeed true. If this were truly the objective
+intention and contemplation of the Plaintiff and the Defendant at the time
+when they entered into the Lease, it has to be clearly stipulated, without any
+ambiguity, in the Lease.
+
+95 Accordingly, it would be a leap of logic to conclude that the Defendant has
+to indemnify the Plaintiff for any losses at the Premises simply because the
+Defendant had exclusive possession over the Premises. This could not have been
+the objective intention or contemplation of the parties, particularly not the
+Defendant’s. The Plaintiff’s assertion that the Defendant is liable for all
+losses at the Premises on the basis of the Defendant’s exclusive possession of
+the Premises would have marginalised the requirement of both parties to take
+up appropriate insurance as required by the Lease, eg, in clauses 3.6 and
+4.3.2 of the Lease.
+
+(2) The sub-clauses in Clause 3.18
+
+96 The second contextual factor relates to the other sub-clauses located in
+clause 3.18, ie, clauses 3.18.2 and 3.18.3, which state as follows:
+
+3.18 To indemnify the Landlord against (i) all claims, demands, actions,
+proceedings, judgments, damages, losses, costs and expenses of any nature
+which the Landlord may suffer or incur as a result of or in connection with or
+caused by, and (ii) all penalties or fines imposed by any relevant authority
+resulting from:
+
+…
+
+3.18.2 the Tenant or its employees, independent contractors, agents or any
+permitted occupier to the Premises, the Property or any property in them
+(including those caused directly or indirectly by the use or misuse, waste or
+abuse of Utilities or faulty fittings or fixtures); or
+
+3.18.3 any default by the Tenant, its employees, independent contractors,
+agents or any permitted occupier in connection with the provisions of this
+Lease.
+
+97 The Plaintiff submits that a narrow interpretation of the Indemnity Clause
+3.18.1, ie, that the Indemnity Clause 3.18.1 would only apply where there is
+any fault on the Defendant’s part, would render clauses 3.18.2 and 3.18.3
+otiose. These sub-clauses provide for the Defendant to indemnify the Plaintiff
+in the following circumstances:
+
+(a) Where the Plaintiff’s loss was caused by the misuse or abuse of the
+utilities arising from the conduct of the Defendant or those of its employees,
+independent contractors, agents or any permitted occupier ie, clause 3.18.2.
+
+(b) Where the losses are the result from the Defendant’s default under the
+Lease, ie, clause 3.18.3. 37
+
+##### Foot Note 37
+
+×
+
+PWS at para 50.
+
+98 Therefore, the Plaintiff submits that the Indemnity Clause 3.18.1 covers a
+situation where the Plaintiff’s loss is not attributable to any party. The
+Plaintiff argues that this interpretation is consistent with the existence of
+clauses 3.18.2 and 3.18.3 and also congruous with the commercial context
+underlying the Lease. 38
+
+##### Foot Note 38
+
+×
+
+PWS at para 51.
+
+99 With respect, I am unable to agree with the Plaintiff’s submissions. As I
+have found at [88] above, the literal and plain reading of the Indemnity
+Clause 3.18.1, and in particular the words “any occurrences”, will lead to an
+absurdity. It is, therefore, necessary to construe the Indemnity Clause 3.18.1
+in the context of the whole of clause 3.18.
+
+100 In this regard, I shall consider the noscitur a sociis canon of
+interpretation. In Compania Naviera Aeolus, SA v Union of India [1964] AC 868,
+Lord Guest at 898, citing Lord Halsbury LC in Thames and Mersey Marine
+Insurance Co v Hamilton, Fraser do Co (1887) 12 App Cas 484, described the
+noscitur a sociis canon of interpretation as prescribing that “words, however
+general, may be limited with respect to the subject-matter in relation to
+which they are used”. This canon of interpretation emphasises the importance
+of construing a word in light of the context, and the other words with which
+it is associated.
+
+101 In the present case, the words “any occurrences” taken on their own may be
+very wide and cover situations involving the absence of fault on either the
+Plaintiff’s or the Defendant’s part, as well as situations where the cause for
+the occurrence is not attributable to any party. It becomes clear, however,
+that this broad interpretation could not have been what the parties
+objectively intended when the Indemnity Clause 3.18.1 is read with clauses
+3.18.2 and 3.18.3 of the Lease.
+
+102 Clause 3.18.2 provides that the Defendant shall indemnify the Plaintiff
+for, amongst others, losses suffered by the Plaintiff as a result of the fault
+of the Defendant and the Defendant’s employees, independent contractors or
+agents “including those caused directly or indirectly by the use or misuse,
+waste or abuse of Utilities or faulty fittings or fixtures” [emphasis added].
+Clause 3.18.3, on the other hand, deals with the tenant’s default “in
+connection with the provisions of the Lease.” Clauses 3.18.2 and 3.18.3
+therefore provide for the Defendant to indemnify the Plaintiff in
+circumstances where the Defendant has misused or abused utilities or has
+defaulted on a provision of the Lease and caused the Plaintiff to suffer
+losses, respectively.
+
+103 Both these clauses, therefore, contemplate some element of fault on the
+part of the Defendant, such that the Defendant is liable to indemnify the
+Plaintiff for the losses suffered. It would, therefore, be consistent with
+this reading of clauses 3.18.2 and 3.18.3 for the Indemnity Clause 3.18.1 to
+cover a situation where the loss to the Plaintiff at the Premises arises from
+any fault of the Defendant that is not covered by clauses 3.18.2 and 3.18.3.
+Logically, this must be the objective intention of the parties regarding the
+scope of the Indemnity Clause 3.18.1 when they signed the Lease. It could not
+be the objective intention or contemplation of the parties, particularly not
+the Defendant’s, to have the Indemnity Clause 3.18.1 applied broadly as to
+cover situations where the Plaintiff suffers loss in the absence of fault on
+the part of any of the contracting parties. The Plaintiff has not adduced any
+evidence to dispute this.
+
+(3) Other clauses in the Lease
+
+104 The final contextual factor which the Plaintiff relies on are three
+clauses contained in the Lease reflecting the contractual obligations which
+the Defendant undertook in relation to its use and occupation of the Premises:
+39
+
+##### Foot Note 39
+
+×
+
+PWS at para 54.
+
+(a) The first is clause 3.14.25 of the Lease, which deals with the Defendant’s
+obligation in relation to the safety and the security of the Premises:
+
+3.14.25 Security
+
+To be responsible for the safety and security of the Premises at all times
+during the Term (including, but not limited to, taking all steps to ensure
+that access to the Premises is secured when the Premises is not occupied) at
+the Tenant’s cost and expense.
+
+(b) The second is clause 3.14.22, which relates to the Defendant’s obligation
+to keep the Premises safe from an outbreak of fire:
+
+3.14.22 Fire Safety
+
+(i) To keep the Premises, including its fixtures, fittings, installations and
+appliances, in a safe condition by adopting all necessary measures to prevent
+an outbreak of fire in the Premises, and to this end, the Tenant must comply
+with all requirements of the Landlord, the Fire Safety Bureau, JTC and/or
+other relevant body or authority. In addition, the Tenant shall designate one
+or more employees as fire-safety officers as required under applicable
+regulations.
+
+(ii) To install and maintain, at the Tenant's own cost and expense, all exit
+lightings and exit signs at staircases, exit passageways and the exits of the
+Premises in accordance with the requirements of the relevant authorities.
+
+(iii) At all times to provide sufficient access to all fire-fighting
+installations and equipment
+
+(iv) If applicable and without prejudice to the generality of Clauses 3.14.11
+and 3.14.13, to carry out such modification work on the existing fire alarm
+wirings, heat detectors and fixtures in the Premises as shall be necessary to
+suit its operation, including the installation of additional wiring and
+connections of the heat detectors and fixtures to the Landlord’s common fire
+alarm system, to the satisfaction of the Landlord and all at the Tenant’s own
+cost and expense.
+
+(c) The final clause is clause 3.7.1(ii) of the Lease, which imposes on the
+Defendant an obligation to keep the Premises and all fixtures, fittings and
+installations in good and tenantable repair and condition:
+
+3.7 Maintenance and Repair
+
+3.7.1 The Tenant shall at all times, at the Tenant’s sole cost and expense, be
+responsible for the maintenance and management of the following:
+
+…
+
+(ii) keep the Premises and all fixtures, fittings and installations in it and
+the Conducting Media which exclusively serves the Premises (whether within the
+Premises or not), in good and tenantable repair and condition (fair wear and
+tear excepted);
+
+105 The Plaintiff submits that these clauses support the view that the parties
+intended to allocate the risk of damage resulting from an occurrence at the
+Premises, the cause of which is not attributable to the default of either
+party, to the Defendant. 40
+
+##### Foot Note 40
+
+×
+
+PWS at para 55.
+
+Accordingly, a wide interpretation of the Indemnity Clause 3.18.1 would be
+consistent with such an allocation of risk.
+
+106 I am unable to agree with the Plaintiff’s submissions. These clauses which
+the Plaintiff relies upon are clauses found under clause 3 of the Lease, which
+prescribes the various obligations that the Defendant, as the tenant of the
+Premises, agrees to covenant with the Plaintiff, as the landlord of the
+Premises. They are, therefore, simply contractual obligations which the
+Defendant agreed to undertake in leasing the property, a breach of which would
+entitle the Plaintiff to the remedies available under contract law, including
+terminating the Lease and suing the Defendant for any breach. Nothing in the
+plain wording of these clauses suggests that the parties intended for the
+Defendant to still bear responsibility for and to indemnify the Plaintiff for
+any losses suffered by the Plaintiff for any damage arising from an occurrence
+at the Premises, especially when the cause is not attributable to the fault of
+either party. To the contrary, the presence of these clauses in the Lease
+supports the finding that, in so far as the Defendant had performed its
+tenant’s obligations under the Lease, no further liability should be visited
+upon the Defendant, the cause of which was through no fault on the Defendant’s
+part. It is, therefore, illogical to conclude that the mere presence of these
+clauses in the Lease suggests that the parties objectively intended to
+allocate the risk of damage to the Defendant who had assumed such
+responsibilities for and over the Premises, such that the Defendant is
+contractually obliged to indemnify the Plaintiff regardless of any fault on
+its part.
+
+107 The Plaintiff further refers to clause 3.6.1(ii) of the Lease, ie, the
+insurance which the Defendant took out to protect itself from the risk of an
+occurrence at the Premises where the cause was not attributable to its
+default, and for which the Plaintiff had suffered loss. The Plaintiff contends
+that this is another clause which indicates the parties’ intention to allocate
+the risks arising from the Lease to the Defendant, despite the absence of
+fault on the Defendant’s part. 41
+
+##### Foot Note 41
+
+×
+
+PWS at para 58.
+
+Clause 3.6.1(ii) of the Lease deals with the Defendant’s obligations to
+purchase insurance policies in the joint names of the Plaintiff and the
+Defendant and it states as follows:
+
+3.6 Insurance
+
+3.6.1 At all times during the Term … the Tenant shall, without demand and at
+its costs and expense, take out and keep in force the following insurance
+policies …:
+
+…
+
+(ii) an insurance policy in the joint names of the Landlord and the Tenant …
+against all risks and damage to the Premises … and all parts thereof which the
+Tenant is obliged to keep in repair under the provisions of this Lease in such
+amounts and covering such risks as may from time to time be specified by the
+Landlord.
+
+108 Clause 3.6.1(ii) of the Lease simply prescribes the Defendant’s obligation
+to take up insurance in the joint names of the parties against all risks and
+damage to the Premises. In the absence of evidence as to the surrounding
+contractual context, it is difficult to discern the parties’ intention as
+regards their purported allocation of risks, based simply on the plain reading
+of clause 3.6.1(ii) of the Lease.
+
+(4) Summary of the contextual factors
+
+109 Even on the Plaintiff’s interpretation that the Indemnity Clause 3.18.1
+can be applied to situations involving liability between the parties inter se,
+the Plaintiff will not succeed. The objective intention of the parties under
+the Indemnity Clause 3.18.1 was to require the Defendant to indemnify the
+Plaintiff in respect of losses suffered by the Plaintiff which can be
+attributed to the Defendant’s fault.
+
+The contra proferentem rule
+
+110 The Defendant also relies on the contra proferentem rule in support of its
+case that the Indemnity Clause 3.18.1 should be construed strictly against the
+Plaintiff. 42
+
+##### Foot Note 42
+
+×
+
+DWS at para 53.
+
+The Plaintiff submits, on the other hand, that the absence of any ambiguity in
+the text of the Indemnity Clause 3.18.1 means that there is “no room for the
+operation of any canon of interpretation which favours a strict construction
+that restricts the operation of [the Indemnity Clause 3.18.1]”. 43
+
+##### Foot Note 43
+
+×
+
+PWS at para 27.
+
+111 As the authorities cited at [29] above show, the contra proferentem rule
+is engaged where, amongst others, one contracting party seeks to rely on a
+clause which is onerous and would benefit the party seeking to rely on it. It
+is, however, necessary for there to be an ambiguity in the clause, and such
+ambiguity may arise from the absurdity which a plain reading of the clause
+yields. Indeed, both parties accept the legal principle. 44
+
+##### Foot Note 44
+
+×
+
+26 August 2022 Transcript at p 50 (lines 6–25).
+
+112 The text of the Indemnity Clause 3.18.1 is, in my view, ambiguous. It is
+unclear whether the Indemnity Clause 3.18.1 indemnifies the Plaintiff against
+third-party claims only, or whether it extends to allowing the Plaintiff to
+seek indemnity directly from the Defendant, or both, ie, to seek an indemnity
+from the Defendant directly as well as to indemnify the Plaintiff against
+third-party claims. It is also unclear whether the Indemnity Clause 3.18.1
+permits the Plaintiff to claim from the Defendant all losses regardless of
+whether the parties bore fault or were negligent. Further, adopting the
+Plaintiff’s interpretation would lead to a particularly onerous obligation on
+the Defendant to indemnify the Plaintiff for any loss that occurred at the
+Premises. This would surely lead to an uncommercial and absurd outcome. Hence,
+the contra proferentem rule of construction should apply against the
+Plaintiff, such that the Plaintiff is not entitled to rely on the broad
+wording of the Indemnity Clause 3.18.1 in its favour.
+
+113 Applying the contra proferentem rule of construction and interpreting the
+Indemnity Clause 3.18.1 in the context of the entirety of clause 3.18 and the
+Lease, the parties must have objectively intended for the Defendant to be at
+fault, directly or indirectly, before the Defendant is liable to indemnify the
+Plaintiff for the losses which the latter suffered arising from any
+occurrences at the Premises.
+
+The Court’s finding on the Plaintiff’s submissions that the Indemnity Clause
+3.18.1 permits the Plaintiff to seek indemnity directly from the Defendant
+
+114 In the present case, the losses suffered by the Plaintiff at the Premises
+are as a result of the fire which occurred through no fault of any parties. As
+I have found at [8] above, the parties do not dispute that the cause of the
+fire remains unknown. Therefore, the Plaintiff cannot seek an indemnity from
+the Defendant for the losses caused by the fire through the Indemnity Clause
+3.18.1. Hence, the Plaintiff’s direct claim against the Defendant for losses
+arising from the accidental fire under the Indemnity Clause 3.18.1 must also
+fail. The losses will have to be borne by the insurer, ie, GEGI.
+
+Conclusion
+
+115 The scope of the Indemnity Clause 3.18.1 cannot be interpreted in the
+manner which the Plaintiff has suggested. It is clear from the wording of the
+Indemnity Clause 3.18.1 that the Defendant is required to indemnify the
+Plaintiff only in situations where the Plaintiff has suffered loss as a result
+of claims brought by third parties.
+
+116 I also find the indemnity clauses considered by the Court of Appeal in
+Sunny Metal and Marina Centre Holdings to be similar in nature and substance
+to the Indemnity Clause 3.18.1, although they are not worded the same. The
+Court of Appeal in those two cases concluded that the indemnity clauses
+applied to third-party claims only. I agree with the Court of Appeal’s
+reasoning and findings in those two cases.
+
+117 As for the indemnity clause in CIFG (SGHC), the wording and structure of
+the indemnity clause there are completely different from Sunny Metal and
+Marina Centre Holdings as well as the Indemnity Clause 3.18.1. In my view, the
+wording of the indemnity clause in CIFG (SGHC) expressly allows CIFG to seek
+an indemnity from the Initial Shareholders for losses suffered by the former
+as a result of the latter’s conduct. Further, the scope and usage of the
+indemnity clause in CIFG (SGHC) must be seen in its specific context, which is
+that the indemnity clause was curated for the purpose of the CBSAs. On this
+ground alone, the Plaintiff’s case is dismissed as it is undisputed that the
+Plaintiff’s claim is not a third-party claim.
+
+118 For completeness, I turn to consider whether the Plaintiff can succeed on
+a direct claim against the Defendant for the losses arising from the
+accidental fire which occurred through no fault of the parties, based on the
+Plaintiff’s contended interpretation of the Indemnity Clause 3.18.1. The plain
+reading of the Indemnity Clause 3.18.1 reveals that its scope is extremely
+broad. As I have found at [88] above, to consider the Indemnity Clause 3.18.1
+solely on its plain wording, without also considering the relevant context,
+would engender a commercially absurd outcome. It is, therefore, necessary to
+consider the context surrounding the Indemnity Clause 3.18.1 to understand the
+parties’ objective intention. In doing so, I do not agree with the Plaintiff’s
+submissions that the mere fact of the Defendant having exclusive possession of
+the Premises suggests that the Defendant must bear all the risks associated
+with the Premises. The interpretation of the Indemnity Clause 3.18.1 must also
+be considered together with its sub-clauses. Reading the Indemnity Clause
+3.18.1 alongside clauses 3.18.2 and 3.18.3 of the Lease, the objective
+intention of the parties is to require the Defendant to indemnify the
+Plaintiff in respect of losses suffered by the Plaintiff that are attributable
+to the fault of the Defendant.
+
+119 Finally, given the ambiguities contained in the plain wording of the
+Indemnity Clause 3.18.1 and that the Plaintiff is seeking to advance an
+interpretation of the Indemnity Clause 3.18.1 that would only serve to benefit
+itself, it is necessary to apply the contra proferentem rule. Accordingly, the
+Indemnity Clause 3.18.1 should be construed against the Plaintiff.
+
+120 Even if the Indemnity Clause 3.18.1 can be applied to require the
+Defendant to indemnify the Plaintiff in respect of claims made by the
+Plaintiff against the Defendant, I nevertheless find that the Plaintiff fails
+in its direct claim against the Defendant under the Indemnity Clause 3.18.1.
+This is because the losses arising from the fire that was accidentally caused
+were not attributable to the fault of any parties. Accordingly, the Plaintiff
+is not entitled to rely on the Indemnity Clause 3.18.1 to make a direct claim
+against the Defendant.
+
+121 For the above reasons, I dismiss the Plaintiff’s claim against the
+Defendant. The Plaintiff is to pay the Defendant costs to be agreed or taxed.
+
+Tan Siong Thye  
+Judge of the High Court  
+---  
+  
+S Selvam Satanam and Julia Emma DCruz (Ramdas & Wong) for the plaintiff;
+
+Aqbal Singh s/o Kuldip Singh and Tan Yee Pin Jeff (Pinnacle Law LLC) for the
+defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 03 Oct 2022 (17:30 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

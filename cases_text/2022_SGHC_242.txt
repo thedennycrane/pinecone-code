@@ -1,0 +1,1361 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+THE
+
+high court of the republic of singapore
+
+[2022] SGHC 242
+
+Admiralty in Personam No 115 of 2021 (Registrar’s Appeal No 108 of 2022)
+
+Between
+
+Standard Chartered Bank (Singapore) Limited  
+---  
+  
+… Plaintiff
+
+And
+
+Maersk Tankers Singapore Pte Ltd  
+---  
+  
+… Defendant
+
+And
+
+Winson Oil Trading Pte Ltd  
+---  
+  
+… Intervener
+
+judgment
+
+[Civil Procedure — Summary judgment]
+
+[Admiralty and Shipping — Bills of lading — Delivery of cargo against
+presentation of bills of lading]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Standard Chartered Bank (Singapore) Ltd
+
+  
+v
+
+  
+
+Maersk Tankers Singapore Pte Ltd
+
+  
+(
+
+Winson Oil Trading Pte Ltd, intervener)
+
+[2022] SGHC 242
+
+Admiralty in Personam No 115 of 2021 (Registrar’s Appeal No 108 of 2022)  
+Ang Cheng Hock J  
+22 July 2022
+
+27 September 2022 Judgment reserved.
+
+Ang Cheng Hock J:
+
+1 This is an appeal against the decision of the Assistant Registrar (“AR”) who
+granted summary judgment for the plaintiff against the defendant on the issue
+of liability, but with damages to be assessed.
+
+Background to the appeal
+
+2 The plaintiff, Standard Chartered Bank (Singapore) Ltd, is a Singapore bank
+which provided trade financing for one of its customers, Hin Leong Trading
+(Pte) Ltd (“HLT”), which was then an oil trading company based in Singapore.
+As is well known, HLT was one of the largest oil traders in this part of the
+world, until its financial collapse in April 2020.
+
+3 On 12 February 2020, and subsequently amended by an addendum dated 17
+February 2020 (the “Addendum”), HLT entered into a contract for the purchase
+of 750,000 barrels (“bbls”) of Gasoil 10ppm Sulphur, as per “Formosa Export
+Specifications”, from the intervener, Winson Oil Trading Pte Ltd (“WOT”),
+which is another oil trader based in Singapore (the “Sale Contract”). 1
+
+##### Foot Note 1
+
+×
+
+Agreed Bundle of Documents Volume 1 (“1AB”) at pages 493–499.
+
+4 The terms of the Sale Contract required WOT to deliver the 750,000 bbls of
+gasoil on a DES (or delivery ex-ship) basis at one safe port / berth,
+Singapore, or by ship to ship transfer at Tanjung Pelepas / Johor Port Limit,
+Malaysia (clause 6 of the Sale Contract read with clause 1 of the Addendum).
+The delivery window was stipulated to be 21 to 25 February 2020, both dates
+inclusive (clause 6 of the Sale Contract read with clause 2 of the Addendum).
+2
+
+##### Foot Note 2
+
+×
+
+1AB at pages 493 and 499.
+
+HLT was required to make payment by an irrevocable letter of credit 30 days
+after the vessel carrying the 750,000 bbls of gasoil had tendered its notice
+of readiness to discharge the gasoil (“NOR”) (clause 8 of the Sale Contract).
+3
+
+##### Foot Note 3
+
+×
+
+1AB at page 494.
+
+5 The defendant, Maersk Tankers Singapore Pte Ltd, was the owner of the
+“MAERSK PRINCESS” (the “Vessel”) at the material time. WOT chartered the
+Vessel from the defendant to carry the 750,000 bbls of gasoil from Mailiao,
+Taiwan, in order to fulfil its obligations under the Sale Contract. 4
+
+##### Foot Note 4
+
+×
+
+Affidavit of Tung Ching Ching affirmed on 10 February 2022 (“Ms Tung’s 3rd
+Affidavit”) at paras 10 and 15 (1AB at pages 433 and 436).
+
+On 21 February 2020, the 750,000 bbls of gasoil were shipped on board the
+Vessel, and four sets of bills of lading were issued, two of them being
+20-MAO-MP20600B and 20-MAO-MP20600D (the “Bills of Lading”) in respect of
+92,870 bbls of Gasoil 10ppm Sulphur (the “Gasoil Cargo”). 5
+
+##### Foot Note 5
+
+×
+
+Ms Tung’s 3rd Affidavit at para [14] and pages 73–84 (1AB at pages 435 and
+500–511).
+
+6 On the morning of 27 February 2020, the Vessel arrived at Universal
+Terminal, Singapore (“UT”), a storage facility which was partly owned by HLT.
+6
+
+##### Foot Note 6
+
+×
+
+Ms Tung’s 3rd Affidavit at para 17 and page 97 (1AB at pages 436 and 524).
+
+NOR was tendered by the Vessel, and the discharge of the 750,000 bbls of
+gasoil took place on the morning of 28 February 2020 and was completed a day
+later on the morning of 29 February 2020. 7
+
+##### Foot Note 7
+
+×
+
+Ms Tung’s 3rd Affidavit at para 16 (1AB at page 436).
+
+It is common ground that the discharge of the 750,000 bbls of gasoil at UT
+would amount to delivery to HLT under the DES terms in the Sale Contract. 8
+
+##### Foot Note 8
+
+×
+
+Ms Tung’s 3rd Affidavit at para 16 (1AB at page 436).
+
+It is also undisputed that delivery to HLT was done without the production of
+the original Bills of Lading by HLT. 9
+
+##### Foot Note 9
+
+×
+
+Statement of Claim (“SOC”) at para 21; Defence at para 22.
+
+7 On 3 March 2020, HLT applied to the plaintiff for an issuance of a letter of
+credit in favour of WOT in the sum of US$6,129,977.22. 10
+
+##### Foot Note 10
+
+×
+
+Affidavit of Richard Martin Allan affirmed on 24 January 2022 (“Mr Allan’s 2nd
+Affidavit”) at para 15 (1AB at page 83).
+
+The application provided that the letter of credit was to pay for 92,870 bbls
+of Gasoil 10ppm Sulphur (ie, the Gasoil Cargo) to be delivered on a DES basis
+at UT. It also provided as follows: “LATEST DELIVERY DATE IS THE NOR TENDERED
+AT DISCHARGE PORT: 29 FEBRUARY 2020.” 11
+
+##### Foot Note 11
+
+×
+
+Mr Allan’s 2nd Affidavit at para 15 and pages 82–83 (1AB at pages 83 and
+159–160).
+
+8 On 4 March 2020, the letter of credit (the “LC”) was duly issued by the
+plaintiff in favour of WOT for the sum of US$6,129,977.22. 12
+
+##### Foot Note 12
+
+×
+
+Mr Allan’s 2nd Affidavit at para 17 and pages 87–91 (1AB at pages 83 and
+164–168).
+
+In line with HLT’s application, the terms of the LC provided at field 45A
+(“DESCRIPTION OF GOODS AND/OR SERVICES”) that the Gasoil Cargo was to be
+delivered on a DES basis at “UNIVERSAL TERMINAL SINGAPORE”, and that the
+“LATEST DELIVERY DATE IS THE NOR TENDERED AT DISCHARGE PORT: 29 FEBRUARY
+2020”. 13
+
+##### Foot Note 13
+
+×
+
+1AB at page 164.
+
+9 The terms of the LC also provided that payment would be made by the
+plaintiff upon presentation by WOT of, inter alia, “3/3 SET CLEAN ON BOARD
+ORIGINAL BILL OF LADING ISSUED OR ENDORSED TO THE ORDER OF ‘STANDARD CHARTERED
+BANK (SINGAPORE) LIMITED’”. 14
+
+##### Foot Note 14
+
+×
+
+1AB at page 164.
+
+It further provided that, in the event that the original Bills of Lading are
+not available, then payment by the plaintiff would be effected against WOT’s
+commercial invoice, and a letter of indemnity issued by WOT. 15
+
+##### Foot Note 15
+
+×
+
+1AB at page 165.
+
+In this regard, the form of the letter of indemnity to be issued by WOT was
+attached to the LC. 16
+
+##### Foot Note 16
+
+×
+
+1AB at pages 165–166.
+
+10 The letter of indemnity was to be addressed to HLT. There are three things
+of particular note in the form of the letter of indemnity. First, it states
+that the indemnity was being given by WOT in consideration of HLT having
+agreed to accept delivery of the Gasoil Cargo without having been provided
+with the Bills of Lading. Second, it includes an undertaking by WOT that it
+would provide the Bills of Lading to HLT as soon as they come into WOT’s
+possession, and with such provision of the Bills of Lading to HLT, WOT’s
+liability under the letter of indemnity would cease. Third, it contains a
+clause excluding the rights of third parties which provides:
+
+NO TERM OF THIS INDEMNITY IS INTENDED TO, OR DOES CONFER A BENEFIT OR REMEDY
+ON ANY PARTY OTHER THAN THE NAMED BUYER [HLT] UNDER THE UNDERLYING AGREEEMENT
+WHETHER BY VIRTUE OF THE CONTRACTS (RIGHT OF THIRD PARTIES) ACT OF SINGAPORE
+OR HOWSOEVER.
+
+11 On 12 March 2020, WOT, through UniCredit Bank AG, Singapore Branch
+(“UniCredit”), presented the following documents to the plaintiff: 17
+
+##### Foot Note 17
+
+×
+
+Mr Allan’s 2nd Affidavit at para 20 (1AB at page 84).
+
+(i) WOT’s signed commercial invoice dated 5 March 2020 for the sale of the
+Gasoil Cargo to HLT; and (ii) WOT’s letter of indemnity (the “LOI”) to HLT
+also dated 5 March 2020, which was in the form as required under the LC. 18
+
+##### Foot Note 18
+
+×
+
+1AB at page 174.
+
+The plaintiff paid WOT the sum of US$6,129,977.22 accordingly on or around 27
+March 2020. 19
+
+##### Foot Note 19
+
+×
+
+Mr Allan’s 2nd Affidavit at para 22 (1AB at page 85).
+
+12 On or around 7 August 2020, WOT, through UniCredit, delivered to the
+plaintiff the full set of the original Bills of Lading, amongst other shipping
+documents. 20
+
+##### Foot Note 20
+
+×
+
+Mr Allan’s 2nd Affidavit at para 24 and pages 102–124 (1AB at pages 85 and
+179–201).
+
+On the face of the Bills of Lading, there were chains of indorsement from the
+named consignee of the cargo all the way to the plaintiff. The last
+indorsement was that of WOT, which had indorsed the Bills of Lading to the
+plaintiff’s order. 21
+
+##### Foot Note 21
+
+×
+
+Mr Allan’s 2nd Affidavit at pages 104–109 and 115–120 (1AB at pages 181–186
+and 192–197).
+
+13 On 19 November 2020, on the basis that it was the lawful holder of the
+Bills of Lading, and thus entitled to delivery of the Gasoil Cargo, the
+plaintiff wrote to the defendant to demand delivery of the Gasoil Cargo. 22
+
+##### Foot Note 22
+
+×
+
+Mr Allan’s 2nd Affidavit at para 39 (1AB at pages 89–90).
+
+14 On 26 February 2021, the plaintiff and WOT entered into an escrow
+agreement, pursuant to which WOT put up security in respect of the plaintiff’s
+claim against the defendant for misdelivery of the Gasoil Cargo. 23
+
+##### Foot Note 23
+
+×
+
+Mr Allan’s 2nd Affidavit at para 41 and pages 174–190 (1AB at pages 90 and
+238–254).
+
+This was because WOT had also issued a separate indemnity to the defendant in
+respect of the delivery of the Gasoil Cargo to HLT. 24
+
+##### Foot Note 24
+
+×
+
+Affidavit of Tung Ching Ching affirmed on 2 November 2021 at para 7(d) and
+pages 27–30.
+
+15 On 26 October 2021, the plaintiff commenced these proceedings against the
+defendant. The claim is for damages for breach of the contract of carriage,
+arising from the defendant’s failure to deliver the Gasoil Cargo to the
+plaintiff despite the latter being the lawful holder of the Bills of Lading in
+respect of the Gasoil Cargo. 25
+
+##### Foot Note 25
+
+×
+
+SOC at paras 20–21.
+
+The plaintiff also pleaded an alternative claim in conversion. 26
+
+##### Foot Note 26
+
+×
+
+SOC at para 22.
+
+WOT applied to intervene in these proceedings, and was granted leave to do so.
+27
+
+##### Foot Note 27
+
+×
+
+Summons for Leave to Intervene in HC/ADM 115/2021 (HC/SUM 5004/2021); Minute
+Sheet for HC/ADM 115/2021 (HC/SUM 5004/2021) on 3 November 2021.
+
+16 I should add that the defendant pleaded that the Bills of Lading
+incorporated the terms of the voyage charterparty between WOT and the
+defendant, and as a result of an English governing law clause in that
+charterparty, English law applies to the determination of the plaintiff’s
+claims against the defendant in the present proceedings. 28
+
+##### Foot Note 28
+
+×
+
+Defence at para 11.
+
+The plaintiff does not admit to this, and has instead pleaded that Singapore
+law applies to the determination of the dispute. 29
+
+##### Foot Note 29
+
+×
+
+Reply at para 7(c).
+
+In any event, nothing material turns on this because there appears to be no
+disagreement that the applicable English and Singapore law in relation to
+claims by a lawful holder of the bill of lading for misdelivery are similar.
+30
+
+##### Foot Note 30
+
+×
+
+Respondent’s (Plaintiff) Written Submissions (“PWS”) at para 36;
+Defendant/Intervener’s Joint Written Submissions (“DWS”) at paras 51–130.
+
+The Assistant Registrar’s decision
+
+17 The AR granted interlocutory judgment in favour of the plaintiff, with
+damages to be assessed. The defendant made a number of arguments as to why it
+should be granted unconditional leave to defend the action. However, the AR
+found that none of those arguments raised any triable issues, save for the
+issue as to the quantum of damages suffered by the plaintiff as a result of
+the misdelivery of the Gasoil Cargo. 31
+
+##### Foot Note 31
+
+×
+
+Minute Sheet for HC/ADM 115/2021 (HC/SUM 339/2022) on 26 April 2022 (“SUM 339
+Minute Sheet”) at para 21.
+
+18 The AR rejected the various arguments raised by the defendant that the
+plaintiff was not the “lawful holder” of the Bills of Lading, as defined under
+s 5(2) of the Carriage of Goods by Sea Act 1992 (c 50) (UK) and s 5(2) of the
+Bills of Lading Act 1992 (2020 Rev Ed). This was because he found that, by
+WOT’s indorsement of the Bills of Lading to the plaintiff, there had been a
+voluntary and unconditional transfer of possession by the holder of the Bills
+of Lading to the indorsee and an unconditional acceptance by the indorsee:
+Standard Chartered Bank v Dorchester LNG (2) Ltd (The “Erin Schulte”) [2015] 1
+Lloyd’s Rep 97 at [28]. 32
+
+##### Foot Note 32
+
+×
+
+SUM 339 Minute Sheet at para 4.
+
+He also rejected the submission that the plaintiff was not acting in “good
+faith” given that there was no evidence that the plaintiff was acting
+dishonestly: UCO Bank v Golden Shore Transportation Pte Ltd [2006] 1 SLR(R) 1
+at [39]. 33
+
+##### Foot Note 33
+
+×
+
+SUM 339 Minute Sheet at para 5.
+
+19 The AR also rejected the submission that the Bills of Lading were spent.
+This was because the Bills of Lading were never indorsed to HLT, and at the
+time of delivery of the Gasoil Cargo, ie, 28 to 29 February 2020 (see [6]
+above), the defendant’s own case was that BP Singapore Pte Ltd, and Petrochina
+International (Hong Kong) Co Ltd or Formosa Petrochemical Corporation, were
+the lawful holders of the Bills of Lading. As such, in line with the
+established law that bills of lading would only become spent upon delivery of
+the cargo to the lawful holder of the bills of lading (see eg, The “Yue You
+902” and another matter [2020] 3 SLR 573 at [58]), the Bills of Lading were
+not spent by delivery of the cargo to HLT. 34
+
+##### Foot Note 34
+
+×
+
+SUM 339 Minute Sheet at paras 7–8.
+
+20 As for the submission that the plaintiff had consented to the defendant’s
+discharge of the Gasoil Cargo without presentation of the Bills of Lading, the
+AR found that this did not raise any triable issues. 35
+
+##### Foot Note 35
+
+×
+
+SUM 339 Minute Sheet at paras 12–18.
+
+This was for various reasons, but chiefly, the AR found that the fact that the
+plaintiff had permitted the discharge of the cargo against the LOI did not
+indicate, without more, that the plaintiff had given up its rights to demand
+delivery of the cargo upon presentation of the Bills of Lading. According to
+the AR, this was because payment under the LC, upon the presentation of WOT’s
+commercial invoice and the LOI, was permitted only if the Bills of Lading were
+not available. Further, the LC required that the Bills of Lading be indorsed
+“to the order of [the plaintiff]”. In short, the AR accepted the submission by
+counsel for the plaintiff that the latter never intended to abandon its rights
+under the Bills of Lading to demand delivery of the Gasoil Cargo from the
+defendant. 36
+
+##### Foot Note 36
+
+×
+
+SUM 339 Minute Sheet at paras 14–15.
+
+21 However, as for the quantum of damage suffered by the plaintiff as a result
+of the misdelivery of the Gasoil Cargo, the AR found that there were triable
+issues that were not suitable for summary determination. One reason for the
+AR’s decision in this regard was that, while it was common ground that the
+value of the Gasoil Cargo should be determined as at 19 November 2020 (the
+date of the plaintiff’s demand for delivery of the Gasoil Cargo from the
+defendant (see [13] above)), neither of the parties produced evidence of the
+value of the Gasoil Cargo as at that date. 37
+
+##### Foot Note 37
+
+×
+
+SUM 339 Minute Sheet at paras 19-–21.
+
+The plaintiff has not appealed against this part of the AR’s decision.
+
+The Registrar’s Appeal
+
+22 It is a well-established principle that summary judgment will only be
+granted if the court is satisfied that all the defences raised by the
+defendant to resist the claim are “wholly unsustainable”, as a matter of fact
+and law: Lim Oon Kuin and others v Ocean Tankers (Pte) Ltd (interim judicial
+managers appointed) [2022] 1 SLR 434 at [1]. To obtain summary judgment, the
+plaintiff first has to show that he has a prima facie case for summary
+judgment. If the plaintiff succeeds in doing so, the burden shifts to the
+defendant who, in order to obtain leave to defend, must establish that there
+is a fair or reasonable probability that he has a real or bona fide defence:
+M2B World Asia Pacific Pte Ltd v Matsumura Akihiko [2015] 1 SLR 325 (“M2B”) at
+[17]. Leave to defend ought to be granted as long as there are triable issues
+or questions, or there is some other reason for a trial: Singapore Civil
+Procedure 2021 vol 1 (Cavinder Bull gen ed) (Sweet & Maxwell, 2021) at para
+14/4/5. Disputes of fact, the resolution of which will have an impact on the
+defendant’s liability, will ordinarily suffice to show that there are triable
+issues.
+
+23 That does not mean, of course, that bare denials or bare assertions made by
+the defendant are all that is needed: M2B at [19]. The court must examine the
+defences raised to determine if any one of them raises a fair or reasonable
+probability of a bona fide defence. If so, unconditional leave to defend will
+be granted. In some limited circumstances, the court may decide to grant
+conditional leave to defend, with the condition usually being in the form of
+the defendant having to furnish security for the plaintiff’s claim (see
+generally Abdul Salam Asanaru Pillai (trading as South Kerala Cashew
+Exporters) v Nomanbhoy & Sons Pte Ltd [2007] 2 SLR(R) 856 at [44]–[46]; Ling
+Yew Kong v Teo Vin Li Richard [2014] 2 SLR 123 at [36]). But, that issue does
+not arise in this case because WOT has secured the plaintiff’s claim to its
+satisfaction (see [14] above).
+
+24 In respect of the summary judgment application in this case, there is no
+dispute that the plaintiff has established a prima facie case for judgment in
+respect of its claim, as a lawful holder of the Bills of Lading, against the
+defendant for damages for breach of the contract of carriage because of the
+delivery of the Gasoil Cargo to HLT without presentation of the Bills of
+Lading. The tactical burden has thus shifted to the defendant to show that
+there are some triable issues which would merit a grant of leave to defend. In
+this regard, I should point out that the plaintiff’s application for summary
+judgment has been confined to its cause of action for misdelivery, ie, breach
+of the contract of carriage, and the plaintiff has not relied on its
+alternative claim for conversion.
+
+Defendant’s case
+
+25 In his arguments before me at the hearing of the appeal, counsel for the
+defendant focused mainly on one aspect of the plaintiff’s claim for
+misdelivery as raising specific triable issues. 38
+
+##### Foot Note 38
+
+×
+
+Minute Sheet for HC/ADM 115/2021 (HC/RA 108/2022) on 22 July 2022 (“RA 108
+Minute Sheet”) at pages 1–4.
+
+That was the question of causation, ie, whether the defendant’s delivery of
+the Gasoil Cargo to HLT on 28 to 29 February 2020, without presentation of the
+Bills of Lading by HLT, caused the plaintiff any loss, such that the plaintiff
+would be entitled to recover damages.
+
+26 The defendant submits that, when the plaintiff issued the LC in favour of
+WOT, it knew that the Gasoil Cargo on board the Vessel had already been
+delivered to HLT. The defendant argues that this would have been clear from
+HLT’s application for the LC on 3 March 2020, where it was stated that the
+latest delivery date was 29 February 2020 (see [7] above). In fact, the LC
+issued by the plaintiff stated that delivery would take place by ship at UT,
+with the latest delivery date being 29 February 2020 (see [8] above).
+According to the defendant, this must mean that, when HLT made its application
+for the LC on 3 March 2020 and the plaintiff issued the LC on 4 March 2020,
+the plaintiff knew that the Gasoil Cargo for which HLT was seeking financing
+had already been delivered into HLT’s tanks at UT, without the presentation of
+the Bills of Lading. 39
+
+##### Foot Note 39
+
+×
+
+RA 108 Minute Sheet at page 2.
+
+Yet, the plaintiff raised no issue about this and proceeded to finance this
+purchase of the Gasoil Cargo by HLT from WOT.
+
+27 The defendant submits that the plaintiff’s conduct vis-à-vis the delivery
+of the cargo indicates that it never regarded the Bills of Lading as security
+when it provided the financing. In other words, the plaintiff never intended
+to look to the defendant to deliver up the Gasoil Cargo, if HLT defaulted on
+its payment obligations. 40
+
+##### Foot Note 40
+
+×
+
+RA 108 Minute Sheet at page 3.
+
+The defendant also refers to the fact that HLT had been the plaintiff’s
+customer since at least 2009; 41
+
+##### Foot Note 41
+
+×
+
+DWS at para 127.
+
+that the plaintiff must have been aware that HLT had a practice of taking
+delivery of cargo without presentation of bills of lading; 42
+
+##### Foot Note 42
+
+×
+
+DWS at para 128.
+
+and that HLT’s oil trading business included re-selling the cargo after
+storage at its tanks at UT, or blending the gasoil with other grades of oil to
+create a new product for sale. 43
+
+##### Foot Note 43
+
+×
+
+DWS at para 130(b).
+
+The defendant also argues that the banking facility documents between the
+plaintiff and HLT, which have been disclosed so far in these proceedings, show
+that the financing granted by the plaintiff to HLT was granted on an unsecured
+basis. 44
+
+##### Foot Note 44
+
+×
+
+DWS at paras 25–27 and 130(f).
+
+According to the defendant, this is consistent with the fact that the LC
+permitted payment against the LOI (which did not indicate that the Bills of
+Lading would have to be delivered to the plaintiff and also excluded the
+rights of the plaintiff to obtain the Bills of Lading), and that would not
+have been the case if the financing provided by the plaintiff had been secured
+financing. 45
+
+##### Foot Note 45
+
+×
+
+DWS at paras 19–21 and 130(d); RA 108 Minute Sheet at page 3.
+
+28 In short, the defendant argues that there are various indicia which point
+towards the plaintiff never having regarded the Bills of Lading as security
+for the financing granted to HLT. This meant that the effective or proximate
+cause of the plaintiff’s loss was not the misdelivery by the defendant of the
+Gasoil Cargo to HLT without presentation of the Bills of Lading. Instead, it
+was the insolvency of HLT and the way in which the plaintiff’s financing
+arrangements were structured. 46
+
+##### Foot Note 46
+
+×
+
+RA 108 Minute Sheet at page 1.
+
+Plaintiff’s case
+
+29 The plaintiff submits that the financing arrangements between itself and
+HLT were that the Bills of Lading would be the plaintiff’s security for the
+financing it extended to HLT to purchase the Gasoil Cargo. The plaintiff
+points out that the Bills of Lading were always intended to be passed to it as
+security. That can be seen from the terms of the facility and security
+documentation with HLT which required HLT to pledge the Bills of Lading to the
+plaintiff, as well as the terms of the LC which required WOT to indorse the
+Bills of Lading to the order of the plaintiff. 47
+
+##### Foot Note 47
+
+×
+
+RA 108 Minute Sheet at page 5.
+
+30 The plaintiff also disputes that it was aware, from HLT’s application for
+the LC on 3 March 2020, that the Gasoil Cargo on board the Vessel had already
+been delivered to HLT. It argues that this was not clearly apparent from the
+wording of HLT’s application, which referred to both the “latest delivery
+date” and the “NOR” date being 29 February 2020. 48
+
+##### Foot Note 48
+
+×
+
+PWS at para 115; Affidavit of Richard Martin Allan affirmed on 25 March 2022
+(“Mr Allan’s 3rd Affidavit”) at paras 29–34, 44–45 and 47–48 (Agreed Bundle of
+Documents Volume 3 (“3AB”) at pages 1454–1456 and 1459–1460).
+
+Before it issued the LC, the plaintiff also denies having had sight of the
+Sale Contract, which had words to the same effect concerning the “latest
+delivery date”. 49
+
+##### Foot Note 49
+
+×
+
+PWS at para 70.
+
+The plaintiff also argues that it did not know of HLT’s alleged practice of
+taking delivery of cargo without presentation of bills of lading, and that
+knowledge of past incidents of misdelivery without complaint is irrelevant. 50
+
+##### Foot Note 50
+
+×
+
+PWS at para 121.
+
+31 In any event, counsel for the plaintiff submits that the plaintiff’s
+knowledge of the misdelivery is irrelevant to the issue of breach of contract;
+even if the plaintiff knew that the Gasoil Cargo had already been discharged
+into HLT’s tanks at UT when it issued the LC, this does not change the fact
+that the defendant misdelivered the Gasoil Cargo, ie, that the defendant
+delivered the Gasoil Cargo to HLT in breach of the contract of carriage since
+HLT never presented the Bills of Lading. 51
+
+##### Foot Note 51
+
+×
+
+RA 108 Minute Sheet at page 5.
+
+The plaintiff submits that it did not consent to or ratify the acts of
+misdelivery. There can be no consent because the misdelivery took place before
+the plaintiff entered the picture as the financer of HLT’s purchase. 52
+
+##### Foot Note 52
+
+×
+
+RA 108 Minute Sheet at page 5.
+
+Also, the defendant could not point to any communication from the plaintiff
+that would show that it ratified the acts of misdelivery. 53
+
+##### Foot Note 53
+
+×
+
+PWS at para 118.
+
+32 As to the defendant’s argument about causation, the plaintiff takes the
+position that the cause of its loss is the misdelivery by the defendant in
+breach of the contract of carriage. As the lawful holder of the Bills of
+Lading from 7 August 2020, the plaintiff submits that it now holds the right
+of action in relation to this claim for misdelivery of the cargo, even if it
+knew that there had been misdelivery prior to the time it became the lawful
+holder of the Bills of Lading. 54
+
+##### Foot Note 54
+
+×
+
+RA 108 Minute Sheet at page 5.
+
+Analysis
+
+33 The parties cited a host of authorities in relation to claims by bill of
+lading holders for misdelivery by defendant carriers. I find three of them to
+be particularly relevant.
+
+34 In Fimbank Plc v Discover Investment Corporation (The “Nika”) [2021] 1
+Lloyd’s Rep 109 (“The Nika”), the claimant was a bank that had financed the
+purchase by its customer (“AD”) of a cargo of wheat carried on board the
+vessel, “Nika”. The cargo of wheat was discharged and delivered to AD’s agent
+at Alexandria, Egypt without production of the bills of lading. The wheat was
+then stored at a bonded warehouse, but later removed from there against
+production of forged bills of lading. The claimant bank was never paid, and it
+brought proceedings against the owner of the vessel for damages for
+misdelivery. The issue before the court was whether the claimant could
+establish a “good arguable case” that it would be entitled to substantial
+damages from the defendant so as to justify the grant of a freezing order.
+
+35 Andrew Baker J (“Baker J”) in The Nika examined the financing arrangements
+between the claimant and the defendant shipowner. He found that it was always
+intended between the claimant and AD that the wheat would be discharged by the
+carrier without production of the bills of lading, and stored at the bonded
+warehouse until payment was made by AD’s end-buyers, who could then collect
+the wheat from the warehouse by presenting the bills of lading (see The Nika
+at [20]–[22]). There was no evidence that these arrangements were communicated
+to the defendant shipowner, who had simply discharged and delivered the cargo
+pursuant to a letter of indemnity (see The Nika at [23]).
+
+36 Baker J held that the claimant bank did not have a good arguable case that
+the defendant was liable to it for substantial damages (The Nika at [32]). He
+found that the claimant bank had no claim for misdelivery because AD and its
+agent were authorised by the claimant bank to take delivery from the vessel
+without production of the bills of lading, and that it was immaterial that the
+defendant was not told that AD and its agent were so authorised (The Nika at
+[26]–[28]). He also found that, even if AD’s agent had not been authorised by
+the claimant to collect the cargo from the vessel, the claimant would face
+“formidable difficulties of causation” (The Nika at [29]–[30]). This was
+because the wheat was discharged and stored in the warehouse pursuant to the
+arrangements agreed between the claimant and AD. As such, the “only effective
+cause of loss [was] not the shipowner’s discharge of the cargo otherwise than
+against bills of lading that the claimant had no intention of presenting to
+the ship or allowing the shipowner to take, but rather the breakdown in the
+arrangements ashore by way of the claimant becoming the victim of a fraud that
+had nothing to do with the shipowner” (The Nika at [34]). In short, the
+claimant’s loss was not caused by the misdelivery by the shipowner, and the
+claimant would not be entitled to any substantial damages even if there was a
+valid claim for breach of the contract of carriage.
+
+37 In UniCredit Bank AG v Euronav NV [2022] EWHC 957 (Comm) (“The Sienna”),
+the claimant bank brought a claim for damages for breach by the defendant
+shipowner of the bill of lading contract by delivering a cargo of low sulphur
+fuel oil to a third party without production of the bill of lading. On 1 April
+2020, the claimant had financed the purchase by its customer, Gulf Petrochem
+FZC (“Gulf”), of part of the cargo of fuel oil from BP Oil International Ltd
+(the “financed cargo”), shipped on the vessel, “Sienna”. The bill of lading
+provided that the financed cargo would be delivered at Fujairah, United Arab
+Emirates. However, between around 26 April 2020 and 2 May 2020, the defendant
+discharged the financed cargo by ship to ship transfer to two other vessels at
+Sohar, Oman, without requiring production of the bill of lading: see The
+Sienna at [1]–[10].
+
+38 The claimant’s representative gave evidence at the trial that she did not
+approve, or even know of, the discharge of the financed cargo by ship to ship
+transfer at Sohar, and that, if she had been asked by Gulf to authorise
+discharge in that manner so that delivery could be made to Gulf’s end-buyers,
+she would not have agreed to do so (see The Sienna at [58]).
+
+39 The financing arrangements between the claimant bank and Gulf were that the
+financed cargo would be re-sold to end-buyers on terms that required those
+end-buyers to pay the claimant directly (see The Sienna at [8]). After
+examining in some detail the correspondence that had passed during the
+material time between the claimant’s representative and Gulf, Moulder J made
+certain critical findings:
+
+(a) First, it was inherent in the financing arrangements between the claimant
+bank and Gulf that the financed cargo would be discharged by the defendant
+shipowner without production of the bill of lading. In fact, the claimant bank
+had accepted that the bill of lading would not be available until discharge
+had taken place: The Sienna at [89]–[90].
+
+(b) Second, the claimant bank had implicitly, if not expressly, approved of
+discharge without production of the bill of lading, and the claimant had no
+concerns at that time about Gulf defaulting on its repayment obligations: The
+Sienna at [92] and [120].
+
+(c) Third, if the claimant had been aware of, or told that, discharge would be
+made to the end-buyers by ship to ship transfer at Sohar, the claimant bank
+would not have objected to this course of action: The Sienna at [121].
+
+40 In the result, Moulder J dismissed the claimant bank’s claims on the basis
+that any breach by the defendant shipowner of the bill of lading contract by
+discharging the financed cargo, without production of the bill of lading, did
+not cause the loss suffered by the claimant (The Sienna at [122]).
+
+41 HC/ADM 16/2021 (“The STI Orchard”) is a recent case concerning a claim for
+misdelivery of cargo that also arises from the collapse of HLT. The plaintiff
+in that case, Oversea-Chinese Banking Corporation Limited (“OCBC”), financed
+HLT’s purchase of a cargo of gasoil shipped on board the defendant’s vessel,
+“STI Orchard”. HLT’s financial position subsequently deteriorated, and it
+defaulted on its obligation to repay OCBC. HLT was eventually ordered to
+indorse the bills of lading in favour of OCBC, and OCBC then commenced
+proceedings against the defendant shipowner for delivering the cargo of gasoil
+to HLT without presentation of the bills of lading.
+
+42 OCBC applied for summary judgment on its claim. AR Navin Anand (“AR Navin”)
+granted the defendant shipowner unconditional leave to defend the action in
+The “STI Orchard” (Winson Oil Trading Pte Ltd, intervener) [2022] SGHCR 6
+(“The STI Orchard (HCR)”), and OCBC’s appeal against that decision was
+dismissed by Kwek Mean Luck J (“Kwek J”) in HC/RA 174/2022.
+
+43 Both AR Navin and Kwek J were of the view that there were several triable
+issues. One of those issues was whether the financing and security
+arrangements between OCBC and HLT were such that OCBC actually regarded the
+bills of lading as its security for financing the purchase of the gasoil.
+Several facts led to the courts’ decision. First, the letter of credit issued
+by OCBC provided that the bills of lading were to be issued or indorsed to
+HLT’s order, not OCBC’s (see The STI Orchard (HCR) at [55]). 55
+
+##### Foot Note 55
+
+×
+
+Decision of Kwek Mean Luck J in HC/RA 174/2022 (“Kwek J’s Decision”) at para
+32(b) (Notes of Evidence (“NE”), HC/ADM 16/2021 (HC/RA 174/2022) at page 34).
+
+Second, OCBC had entered into a trust receipt loan with HLT for the sums due
+under the letter of credit, after the delivery of the cargo had taken place.
+OCBC did not impose a requirement that HLT had to indorse the bills of lading,
+or hand them over, to OCBC (see The STI Orchard (HCR) at [56(a)]–[56(b)]). 56
+
+##### Foot Note 56
+
+×
+
+Kwek J’s decision at paras 32(f)–32(g) (NE, HC/ADM 16/2021 (HC/RA 174/2022) at
+page 35).
+
+There was also some evidence which showed that OCBC knew, or was put on
+notice, that the gasoil would be blended and on-sold by HLT to PT Pertamina
+(Persero) (“Pertamina”), and that OCBC was looking to those sale proceeds to
+be held on trust by HLT for OCBC under the trust receipt arrangements as
+security (see The STI Orchard (HCR) at [56(c)]). 57
+
+##### Foot Note 57
+
+×
+
+Kwek J’s decision at paras 32(h)–32(l) (NE, HC/ADM 16/2021 (HC/RA 174/2022) at
+pages 35–37).
+
+44 Another triable issue found by the court was whether the trust receipt loan
+granted by OCBC amounted to OCBC’s ex post facto consent to, or ratification
+of, the seller’s instructions to the defendant shipowner to deliver the cargo
+without production of the bills of lading. Again, this was because of the
+evidence that OCBC knew, or was put on notice, of the arrangements by HLT to
+blend the gasoil into a different product and on-sell that to Pertamina, and
+that OCBC was looking to those sale proceeds as collateral to secure HLT’s
+indebtedness (see The STI Orchard (HCR) at [68]–[76]). 58
+
+##### Foot Note 58
+
+×
+
+Kwek J’s decision at paras 46–50 (NE, HC/ADM 16/2021 (HC/RA 174/2022) at pages
+42–44).
+
+45 Having considered the parties’ submissions, I find myself in agreement with
+the defendant that it has raised some triable issues in relation to the issue
+of causation, and that it should be granted leave to defend the action.
+Specifically, there is a triable issue as to whether the defendant’s
+misdelivery caused the plaintiff’s loss, ie, whether the plaintiff has
+suffered a recoverable loss from the defendant’s breach of the contract of
+carriage. In that regard, it is then relevant to consider whether the
+plaintiff looked to the Bills of Lading as security for its financing of HLT’s
+purchase of the Gasoil Cargo. In my view, this is an issue which ought to be
+fully explored at trial.
+
+46 I pause to note that the position at law is unclear as to how the test of
+causation should be applied. The approach taken in The Nika and The Sienna
+appears to suggest that the court should consider whether the misdelivery is
+the effective or proximate cause of the claimant’s loss. On this view, even if
+the carrier had misdelivered the cargo, that misdelivery would not be the
+effective or proximate cause of the claimant’s loss if the claimant would not
+have insisted on the discharge of the cargo against presentation of the bills
+of lading in any event.
+
+47 I certainly accept the point made by counsel for the plaintiff that the
+facts of The Nika, The Sienna and The STI Orchard are all different. 59
+
+##### Foot Note 59
+
+×
+
+RA 108 Minute Sheet at pages 5–6.
+
+For example, it was clearly a material fact in The Nika that the claimant bank
+and its customer, AD, had entered into an agreement for the warehousing of the
+cargo upon its discharge without the need for presentation of the bills of
+lading (see The Nika at [21]). In The Sienna, Moulder J regarded as relevant
+the facts that (i) Gulf was insured for 90% of the receivables under the
+contracts with the end-buyers of the financed cargo, and the claimant bank had
+the benefit of an assignment of that insurance policy (which excluded related
+parties as end-buyers from coverage); and (ii) the claimant bank’s
+representative had been informed of the identities of the end-buyers of the
+financed cargo and had confirmed that those end-buyers were acceptable (see
+The Sienna at [108] and [120]). That suggested that the claimant bank might
+have been prepared to take the credit risk of those end-buyers, and would have
+permitted discharge of the financed cargo without production of the bill of
+lading (see The Sienna at [121]). In The STI Orchard, it was significant that
+there was evidence that OCBC knew that the cargo of gasoil would be blended
+into a different product for on-sale to Pertamina (see The STI Orchard (HCR)
+at [74]). 60
+
+##### Foot Note 60
+
+×
+
+Kwek J’s decision at paras 46–50 (NE, HC/ADM 16/2021 (HC/RA 174/2022) at pages
+42–44).
+
+That act would have rendered the bills of lading in respect of the gasoil
+worthless. It suffices for me to say that, in a summary judgment application
+such as this, the particular facts of each case must be carefully scrutinised
+to determine whether any triable issues arise.
+
+Whether the plaintiff looked to the Bills of Lading as security is a triable
+issue
+
+48 What is clear from the approach in The Nika, The Sienna and The STI Orchard
+is that the precise financing and security arrangements between the financing
+bank claimant and its customer must be examined so that the court can answer
+the question – did the claimant regard the relevant bills of lading as
+security? I am not convinced that this question can be answered in a summary
+way from the affidavits filed by the parties and the documents so far
+disclosed.
+
+49 In my judgment, whether the plaintiff looked to the Bills of Lading as
+security for its financing of HLT’s purchase of the Gasoil Cargo is a triable
+issue. In turn, at least two triable issues of fact arise, which are material
+to the question of whether the plaintiff looked to the Bills of Lading as
+security:
+
+(a) whether the plaintiff had knowledge that the Gasoil Cargo had already been
+discharged into HLT’s tanks at UT, at the time it accepted HLT’s LC
+application; and
+
+(b) what the specific financial arrangements between the plaintiff and HLT
+were.
+
+Whether the plaintiff had knowledge that the Gasoil Cargo had already been
+discharged into HLT’s tanks at UT
+
+50 The facts of this case are rather peculiar in that this is not a typical
+situation where it is immediately obvious that a bank has financed the
+purchase of goods, and finds itself having to look to the goods as security
+when its customer has failed to make payment of the loan. Rather, it is
+certainly arguable that, by the time the plaintiff agreed to finance the
+purchase of the Gasoil Cargo from WOT, it knew, or at least ought to have
+known, that the Gasoil Cargo was already in the custody of HLT. The plaintiff
+disputes that it had such knowledge, and points out that the reference to 29
+February 2020 being the “latest delivery date” in HLT’s application form is
+far from clear (see [30] above). I accept that the wording used by HLT is not
+entirely clear, but this gives rise to a dispute of fact pertaining to the
+state of the plaintiff’s knowledge as to the whereabouts of the Gasoil Cargo
+as of 3 to 4 March 2020 (when HLT applied for the LC and when the plaintiff
+issued the LC). It may be that discovery or interrogatories in these
+proceedings will shed light on this issue.
+
+51 I am unable to agree with the plaintiff’s contention that its knowledge, or
+otherwise, about the Gasoil Cargo being already discharged into HLT’s tanks at
+UT is not a triable issue. 61
+
+##### Foot Note 61
+
+×
+
+RA 108 Minute Sheet at page 5.
+
+The plaintiff submits that its level of knowledge is irrelevant to whether it
+can still maintain a claim against the defendant for misdelivery. However, if
+it is the case that the plaintiff knew that the cargo was already in HLT’s
+custody at UT before the plaintiff proceeded to finance the purchase and issue
+the LC, then that could arguably indicate that the plaintiff did not regard
+the Bills of Lading as security. Put another way, if the plaintiff was aware
+that the Gasoil Cargo had already been delivered to HLT at UT, the plaintiff
+could not expect that the Bills of Lading would remain as the ‘keys to the
+warehouse’, and that the defendant would deliver up the Gasoil Cargo upon
+presentation of the Bills of Lading. Viewed from the prism of a causation of
+loss analysis, that would mean that, while there was a breach of the contract
+of carriage because the defendant misdelivered the Gasoil Cargo to HLT, that
+breach was arguably not the proximate or effective cause of the plaintiff’s
+loss. Instead, the plaintiff’s loss would have been caused by HLT’s financial
+collapse in April 2020, which rendered HLT unable to repay its loan owed to
+the plaintiff.
+
+The financial arrangements between the plaintiff and HLT
+
+52 The plaintiff’s position is that the LC which it issued in the present case
+was provided pursuant to facilities it had granted to HLT in 2017. 62
+
+##### Foot Note 62
+
+×
+
+Mr Allan’s 3rd Affidavit at paras 25 and 27 (3AB at page 1453); PWS at para 7.
+
+More specifically, the facility in question was described as “Import LCs –
+Unsecured”. The purpose of this facility was described as “[i]ssuance of Doc
+LCs against Presold Contracts from buyers listed in approved buyers list …
+[i]ssuance of Doc LCs against Unsold Cargos not to exceed USD80million”. 63
+
+##### Foot Note 63
+
+×
+
+3AB at page 1489.
+
+It would therefore appear that the plaintiff might have been aware that it was
+financing a cargo of gasoil that remained unsold by HLT, ie, the Gasoil Cargo
+would have to be stored with HLT at UT. That there was a limit set of US$80m
+would also suggest that the plaintiff was prepared to grant unsecured
+financing to HLT up to a certain amount.
+
+53 The plaintiff explains that the reference to the financing of this
+transaction being “unsecured” was because the Bills of Lading had not yet been
+indorsed to the plaintiff, presumably as at the time of the issuance of the
+LC. 64
+
+##### Foot Note 64
+
+×
+
+PWS at para 10.
+
+The defendant submits that this explanation is “curious” given that the
+plaintiff’s position is that the Bills of Lading must be indorsed and
+delivered to it for payment to be made, in accordance with the terms of the
+LC, and hence the financing should be regarded as “secured” if the plaintiff’s
+position is right. 65
+
+##### Foot Note 65
+
+×
+
+DWS at para 25.
+
+54 The plaintiff points to the fact that the terms of the “Import LCs –
+Unsecured” facility require a “[f]ull set of BLs to pass through the Bank”.
+According to the plaintiff, this makes it clear that the plaintiff always
+looked to the Bills of Lading as security. 66
+
+##### Foot Note 66
+
+×
+
+PWS at para 11; RA 108 Minute Sheet at page 5.
+
+On the other hand, the defendant has drawn the court’s attention to an express
+exception, in the terms of the facility, where bills of lading are not
+required by the plaintiff. 67
+
+##### Foot Note 67
+
+×
+
+DWS at para 26.
+
+This exception reads: 68
+
+##### Foot Note 68
+
+×
+
+3AB at page 1489.
+
+In cases where the BL is not received by the Bank, payment under the Doc LC
+may be permitted subject to submission of invoice and acceptable LOI. LOI
+counterparties in this case are restricted to oil major, national oil company,
+large independent traders and OIF buyers.
+
+According to the defendant, this suggests that, in certain limited
+circumstances, the plaintiff may have been prepared to forgo looking to the
+Bills of Lading as security for its financing, and was instead prepared to
+assume the credit risk of the issuer of the letter of indemnity. 69
+
+##### Foot Note 69
+
+×
+
+DWS at paras 26–27; RA 108 Minute Sheet at page 3.
+
+55 It also appears from the documents disclosed that HLT had requested a trust
+receipt arrangement to cover the period of 27 March 2020 (which is the date
+when the loan from the plaintiff fell due to be paid by HLT) to 27 April 2020.
+In response, the plaintiff granted HLT an “Import Loan” for 31 days on 27
+March 2020. 70
+
+##### Foot Note 70
+
+×
+
+3AB at page 1507–1509; Mr Allan’s 3rd Affidavit at para 61 (3AB at page 1464).
+
+This effectively extended the time for HLT to make payment to the plaintiff by
+31 days. The plaintiff did not ask for any security for this “Import Loan”,
+eg, by way of a trust receipt arrangement. This suggests that the plaintiff
+might have been aware that the Gasoil Cargo was unsold, and that HLT was
+requesting for time to sell the Gasoil Cargo before it could repay the loan to
+the plaintiff. It also suggests that the plaintiff might have been perfectly
+willing to assume the risk of HLT defaulting on its payment obligations,
+without having recourse to any security.
+
+56 In my judgment, there are clearly triable issues in relation to the
+financing and security arrangements between the plaintiff and HLT that must be
+investigated at trial. That would allow the court to determine, with the
+necessary certainty, whether the plaintiff did in fact regard the Bills of
+Lading in this case as security for its financing, or whether it was always
+prepared to assume the credit risk of HLT on an unsecured basis.
+
+57 That the plaintiff was willing to permit payment under the LC without
+presentation of the Bills of Lading by WOT, but against, inter alia, the LOI,
+also raises a triable issue as to the plaintiff’s intentions in relation to
+the Gasoil Cargo and the Bills of Lading. It bears reiteration that the LOI
+issued by WOT was in the standard form set out in the LC issued by the
+plaintiff itself. The LOI which was required to be addressed by WOT to HLT
+stated, in part: 71
+
+##### Foot Note 71
+
+×
+
+1AB at page 174.
+
+IN CONSIDERATION OF YOUR MAKING PAYMENT OF U.S. DOLLARS USD 6,129,977.22 … FOR
+… 92,870.000 BARRELS … OF THE CARGO IN ACCORDANCE WITH THE UNDERLYING
+AGREEMENT AND HAVING AGREED TO ACCEPT DELIVERY OF THE CARGO WITHOUT HAVING
+BEEN PROVIDED WITH 3/3 ORIGINAL BILLS OF LADING AND OTHER SHIPPING DOCUMENTS
+REQUIRED TO BE PRESENTED BY US IN ACCORDANCE WITH THE UNDERLYING AGREEMENT …
+WE HEREBY REPRESENT AND WARRANT AS FOLLOWS … [emphasis added]
+
+Based on this wording, counsel for the defendant argues that the plaintiff was
+clearly prepared to accept the scenario where the Gasoil Cargo would be
+delivered to HLT without presentation of the Bills of Lading, and as such, the
+plaintiff never looked to the Bills of Lading as security. 72
+
+##### Foot Note 72
+
+×
+
+RA 108 Minute Sheet at page 3.
+
+I agree that this raises questions that can only be properly answered after a
+trial.
+
+58 I should add that the LOI also requires WOT to undertake to send the Bills
+of Lading, once those have come into its possession, to HLT, whereupon WOT’s
+obligation to indemnify HLT would cease. That again might suggest that, for
+this particular transaction, it was not intended that the Bills of Lading
+would “pass through the Bank”, and that the bank would not look to the Bills
+of Lading as security. The defendant argues that the fact that the Bills of
+Lading were subsequently indorsed by WOT to the plaintiff in August 2020 was
+simply because, by then, HLT had suffered its financial collapse and the
+plaintiff was seeking all means to try to recover its losses, and hence wanted
+the Bills of Lading indorsed to it. It contends that the plaintiff’s demand
+for the Bills of Lading was “contrived, coming only after HLT was in financial
+difficulties and where the prospects of recovery had been preliminarily
+assessed at 18%”, and that the plaintiff “never had any intention to call on
+or demand for the [Gasoil Cargo] and was now effectively looking to lay its
+losses at [the defendant’s] feet when it did not look to the Bills of Lading
+as security at the time it financed HLT’s purchase of the [Gasoil Cargo] or
+when it further extended the loan to HLT”. 73
+
+##### Foot Note 73
+
+×
+
+DWS at paras 42–44.
+
+In my view, a trial is needed in order for the court to determine whether this
+is the case.
+
+59 The defendant also points out that, in any event, the plaintiff was
+arguably not entitled to enforce the LOI issued by WOT to obtain the Bills of
+Lading. As mentioned above at [9]–[10], the form of the letter of indemnity
+provided that it was to be issued by WOT to HLT (and not the plaintiff).
+Moreover, the form contained a clause expressly excluding any benefit or
+remedy from being conferred under the letter of indemnity on any party other
+than the named buyer (HLT). The defendant contends that, under the LOI, the
+plaintiff thus does not have any benefit or remedy. According to the
+defendant, this suggests that the plaintiff did not intend for the Bills of
+Lading to be security. This is because the plaintiff agreed that payment under
+the LC would be made against the presentation of an LOI which did not give it
+any rights to obtain the Bills of Lading, effectively “disclaim[ing] any
+interest in the Bills of Lading and [leaving] any disposal of the Bills of
+Lading to be a matter between HLT and WOT”. 74
+
+##### Foot Note 74
+
+×
+
+DWS at paras 19–21.
+
+In my judgment, whether the plaintiff had relinquished its rights to the Bills
+of Lading, and whether this suggests that the plaintiff did not regard the
+Bills of Lading as security, are triable issues.
+
+60 I should also add that the issue is further complicated by the fact that
+HLT was a long-standing customer of the plaintiff, and the issue of what the
+plaintiff knew about HLT’s intentions regarding the Gasoil Cargo must also be
+investigated. As HLT’s business model meant that it would probably store this
+unsold Gasoil Cargo in its tanks at UT, the plaintiff might well have been
+aware that the cargo had already been delivered to HLT for its storage at UT
+by the time it issued the LC to finance the cargo’s purchase. That might
+possibly explain why the plaintiff did not appear to be concerned by the
+wording of HLT’s application for financing on 3 March 2020, which suggested
+that the cargo might have already been delivered to HLT. As already explained
+(see [51] above), if the plaintiff had knowledge that the Gasoil Cargo was
+already in HLT’s possession, the question that presents itself is whether one
+can describe the plaintiff’s loss, which arises from the financing which it
+granted to HLT after the defendant misdelivered the Gasoil Cargo, as being
+effectively caused by the prior act of misdelivery by the defendant.
+
+Conclusion and orders made
+
+61 For the above reasons, I find that the defendant has raised triable issues,
+and I therefore grant the defendant unconditional leave to defend the action.
+I am unconvinced that the defences raised in relation to the issue of
+causation are “wholly unsustainable”, as a matter of fact and law (see above
+at [22]). Let me be clear though, that I have not determined in any way the
+various contentions of the parties on the merits of the claim, including those
+that were dealt with by the AR below concerning whether the plaintiff is a
+lawful holder of the Bills of Lading, whether the Bills of Lading were spent,
+and whether there was consent and/or ratification of the delivery of the
+cargo. In this judgment, I have only considered the defendant’s arguments in
+relation to causation, and in this regard, I have only focused my mind on
+whether the defendant has managed to raise triable issues as to whether the
+plaintiff has suffered any recoverable loss from the misdelivery of the Gasoil
+Cargo.
+
+62 I therefore allow the appeal and set aside the orders made by the AR below.
+The costs of the application below (HC/SUM 339/2022) and for this Registrar’s
+Appeal are to be in the cause.
+
+Ang Cheng Hock  
+Judge of the High Court|  
+---|---  
+  
+Daryll Richard Ng, Lauren Tang Hui Jing and Ooi Chit Yee (Virtus Law LLP) for
+the plaintiff;  
+Tan Wee Kheng Kenneth Michael SC (Kenneth Tan Partnership) (instructed), Khoo
+Ching Shin Shem, Teo Jia Hui Veronica and Siew Jowen (Focus Law Asia LLC) for
+the defendant;  
+Bazul Ashhab bin Abdul Kader, Prakaash s/o Paniar Silvam, Tan Yu Hang and
+Levin Lin Lok Yan (Oon & Bazul LLP) for the intervener.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 28 Sep 2022 (10:22 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

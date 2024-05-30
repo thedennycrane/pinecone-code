@@ -1,0 +1,1682 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 90
+
+Suit No 62 of 2021
+
+Between
+
+| Kelington Engineering (S) Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Gan Cheng Chuan  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Contract — Contractual terms — Parol evidence rule]
+
+[Contract — Contractual terms — Ascertaining terms based on extrinsic
+evidence]
+
+[Damages — Liquidated damages or penalty]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Kelington Engineering (S) Pte Ltd
+
+  
+v
+
+  
+
+Gan Cheng Chuan
+
+[2022] SGHC 90
+
+General Division of the High Court — Suit No 62 of 2021 Andre Maniam J  
+25-–27 January, 7 March 2022
+
+26 April 2022 Judgment reserved.
+
+Andre Maniam J:
+
+Introduction
+
+1 What a difference a date makes.
+
+2 This case involves an employment agreement between the plaintiff company,
+Kelington Engineering (S) Pte Ltd (“Kelington”), and the defendant, Mr Gan
+Cheng Chuan (“Mr Gan”). It was common ground between the parties that:
+
+(a) sometime between October and early December 2020, Mr Gan contractually
+agreed to be employed by Kelington, and the parties signed a letter of
+appointment (the “LOA”); 1
+
+##### Foot Note 1
+
+×
+
+Plaintiff’s Closing Submissions (“PCS”), paras 26-27; Defendant’s Closing
+Submissions (“DCS”), paras 5, 10 and 14; Notes of Evidence (“NE”), 26 January
+2022, page 88, lines 11–16.
+
+(b) on 19 December 2020 Mr Gan repudiated that contract; 2
+
+##### Foot Note 2
+
+×
+
+PCS, para 35; DCS, Mr Gan Cheng Chuan’s Affidavit of Evidence-in-Chief dated
+24 November 2021 (“Mr Gan’s AEIC”), para 17 (Bundle of Affidavits of Evidence-
+in-Chief (“BAEIC”), pages 333–334).
+
+and
+
+(c) Kelington accepted that repudiation on 22 December 2020. 3
+
+##### Foot Note 3
+
+×
+
+PCS, para 35; Mr Gan’s AEIC, para 18 (BAEIC, page 334).
+
+3 Mr Gan accepted that he was liable to compensate Kelington for his breach of
+contract, but how much was he liable for?
+
+4 Kelington’s position is:
+
+(a) the agreed commencement date of Mr Gan’s three-year term of employment was
+1 December 2020; 4
+
+##### Foot Note 4
+
+×
+
+PCS, paras 40–50.
+
+(b) Mr Gan’s term of employment had already commenced when he purportedly quit
+on 19 December 2020;
+
+(c) on the terms of clause 1.5 of the LOA, 5
+
+##### Foot Note 5
+
+×
+
+Agreed Bundle of Documents Volume I ("AB1”), page 77, clauses 1.3 and 1.5.
+
+Mr Gan was liable to compensate Kelington the amount equivalent to his salary
+for the balance of the three-year term (after 22 December 2020 when Kelington
+accepted Mr Gan’s repudiation); and
+
+(d) Kelington was therefore entitled to RM1,453,565.22 after offsetting salary
+for the period of 1–22 December 2020 during which it considered Mr Gan to be
+an employee. 6
+
+##### Foot Note 6
+
+×
+
+Statement of Claim (“SOC”), paras 8–10 (Set Down Bundle (“SDB”), pages 5–6).
+
+5 Mr Gan’s position is:
+
+(a) on 19 December 2020, when he had changed his mind about joining Kelington
+and informed Kelington’s representative, Mr Lim Seng Chuan (“Mr Lim”) of the
+same, he had not commenced his term of employment yet; 7
+
+##### Foot Note 7
+
+×
+
+Defence (Amendment No. 1), para 3 (SDB, page 21); Mr Gan’s AEIC, paras 17–19
+(BAEIC, pages 333–334).
+
+(b) the agreement/understanding between him and Kelington, was that the
+commencement date of Mr Gan’s employment term was 1 January 2021 (as he had to
+serve notice with his existing employer until the end of December 2020); 8
+
+##### Foot Note 8
+
+×
+
+DCS, paras 5–7.
+
+(c) clause 9.4 of the LOA (which pertained to termination before commencement
+of employment) provides that the party initiating termination “shall be bound
+to pay 1 (one) month’s basic salary in lieu as compensation”; 9
+
+##### Foot Note 9
+
+×
+
+AB1 81, clause 9.4.
+
+and
+
+(d) as it was clause 9.4 that applied, Mr Gan was only liable to compensate
+Kelington one month’s basic salary, amounting to RM24,000 – much less than
+what Kelington was claiming from him. 10
+
+##### Foot Note 10
+
+×
+
+Defence (Amendment No. 1), para 7 (SDB, pages 24–25); DCS, para 17.
+
+6 At the hearing of Kelington’s summary judgment application, a consent
+judgment was entered for the sum of RM24,000, 11
+
+##### Foot Note 11
+
+×
+
+HC/ORC 3042/2021 made on 25 May 2021, filed on 2 June 2021.
+
+which Mr Gan paid shortly thereafter. 12
+
+##### Foot Note 12
+
+×
+
+DCS, para 23.
+
+Mr Gan was granted unconditional leave to defend the rest of Kelington’s
+claims, which proceeded to trial.
+
+Issues
+
+7 The main issue is thus: what was the agreement/understanding between the
+parties as to the commencement date of Mr Gan’s employment with Kelington? Was
+the commencement date 1 December 2020 (according to Kelington), or 1 January
+2021 (according to Mr Gan)? More specifically, had Mr Gan unconditionally
+agreed to commence employment with Kelington on 1 December 2020, regardless of
+whether he might still be serving notice with his existing employer?
+
+8 In the event that I find that the commencement date was 1 December 2020,
+there are two subsidiary issues:
+
+(a) Is clause 1.5 of the LOA (which requires Mr Gan to compensate Kelington
+the amount equivalent to his salary for the balance of his three-year term of
+employment) an unenforceable penalty clause?
+
+(b) Does the consent judgment in the sum of RM24,000 limit Kelington to
+recovering only that sum (which Mr Gan has already paid)?
+
+Main Issue: what was the agreement/understanding as to the commencement date
+of Mr Gan’s employment with Kelington?
+
+Background facts
+
+9 Kelington and Kelington Engineering (Shanghai) Co Ltd (“KESH”) are both
+wholly owned subsidiaries of Kelington Group Berhad, a company listed on the
+stock exchange of Malaysia. In or around August 2020, Kelington had begun
+searching for a replacement Country Manager for KESH and, for this purpose,
+communicated with Mr Gan. 13
+
+##### Foot Note 13
+
+×
+
+Mr Lim Seng Chuan’s Affidavit of Evidence-in-Chief dated 12 November 2021 (“Mr
+Lim’s AEIC”), paras 7, 8, 13 and 14.
+
+In or around October 2020, Mr Gan agreed to be employed by Kelington as the
+Country Manager (China) for KESH.
+
+10 At the end of September 2020, Mr Gan communicated to Mr Lim that he would
+be resigning from his existing employment. 14
+
+##### Foot Note 14
+
+×
+
+AB1, pages 95–96;
+
+He was, however, contractually obliged to serve three months’ notice. 15
+
+##### Foot Note 15
+
+×
+
+Mr Gan’s AEIC, para 5; NE, 26 January 2022, page 70, lines 24–32.
+
+This meant that unless his employer agreed to an early release, he could only
+commence employment with Kelington Singapore in January 2021, or he would
+breach his existing employment contract. Indeed, for him to have two employers
+at the same time would also be a breach of his contract with Kelington. 16
+
+##### Foot Note 16
+
+×
+
+AB1, page 77, clauses 11.1 and 11.2.
+
+11 Mr Gan’s LOA from Kelington, 17
+
+##### Foot Note 17
+
+×
+
+AB1, page 77.
+
+however, stated that his appointment as Country Manager (China) for KESH
+“shall commence on 1st December 2020”. Mr Gan signed and returned a copy of
+the LOA in October 2020.
+
+Parties’ contentions
+
+12 Kelington’s case is that by signing the LOA, Mr Gan had unconditionally
+agreed to all its terms, including the commencement date of 1 December 2020.
+18
+
+##### Foot Note 18
+
+×
+
+PCS, paras 40–45; Mr Lim’s AEIC, paras 41–43.
+
+If he was still serving notice with his existing employer as at that date,
+that was Mr Gan’s problem: he would be in breach of his contractual
+obligations owed to Kelington if he did not commence employment with Kelington
+on 1 December 2020 as he had contracted to.
+
+13 Mr Gan, on the other hand, says that he had made it clear to Kelington,
+both before and after he signed the LOA, that Kelington’s suggested
+commencement date of 1 December 2020 was only “tentative” – he could only
+commence employment with Kelington after serving out his notice with his
+existing employer, unless he were given an early release. 19
+
+##### Foot Note 19
+
+×
+
+Mr Gan’s AEIC, paras 5, 8, 11, 13 and 14 (BAEIC at pages 330–333); NE, 26
+January 2022, page 70, lines 23–32 and page 62, lines 12–31.
+
+In that regard, he had mentioned the date of 1 January 2021 (or more generally
+January 2021) to Kelington on several occasions, and he believed Kelington was
+agreeable to that.
+
+The parol evidence rule
+
+14 Kelington relies on the parol evidence rule as enacted in ss 93 and 94 of
+the Evidence Act 1893 (2020 Rev Ed) (formerly Cap 97, 1997 Rev Ed) (the
+“Evidence Act”). It contends that the terms of Mr Gan’s contract of employment
+were reduced to the form of a document (the LOA), and accordingly no extrinsic
+evidence can be admitted to contradict, vary, add to, or subtract from the
+terms in the LOA. Specifically, Kelington contends that since the commencement
+date stated in the LOA (at clause 1.3) is 1 December 2020, that cannot be
+contradicted (or even qualified) by any evidence outside of the LOA. 20
+
+##### Foot Note 20
+
+×
+
+PCS, paras 39–45.
+
+15 However, the parol evidence rule only applies when it is proved that the
+document was intended by the parties to contain all the terms of the contract.
+The court must therefore first determine whether in fact the LOA was intended
+to contain all the terms of the parties’ agreement. In doing so, the court may
+look at extrinsic evidence and apply the normal objective test, subject to a
+rebuttable presumption that a contract which is complete on its face was
+intended to contain all the terms of the parties’ agreement: Zurich Insurance
+(Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd [2008] 3
+SLR(R) 1029 at [40] and [110]; The Law of Contract in Singapore (Andrew Phang
+Boon Leong gen ed) (Academy Publishing, 2012) (“The Law of Contract in
+Singapore”) at paras 06.027–06.028. Having done so, the court may well
+conclude that the LOA was not intended by the parties to contain all the terms
+of their contract – the contract might instead be partly written and partly
+oral. If so, the court can consider extrinsic evidence to establish what the
+terms of the contract are, even, as a logical extension, where the oral
+evidence contradicts the written document: The Law of Contract in Singapore at
+para 06.040.
+
+16 There are thus two questions to be dealt with: the anterior question of
+whether the LOA was intended by Kelington and Mr Gan to contain all the terms
+of their agreement; and, if it was not so intended, the subsequent question of
+what the terms of the agreement between the parties were (having regard to
+extrinsic evidence). However, as the facts pertaining to both questions
+overlap substantially, I will deal with them in the round.
+
+The nature of the LOA
+
+17 The LOA appeared to be complete on its face. In particular, clause 1.3
+stated the commencement date of Mr Gan’s employment with Kelington as 1
+December 2020. 21
+
+##### Foot Note 21
+
+×
+
+AB1, page 77, clause 1.3.
+
+This gave rise to a rebuttable presumption that the LOA was intended to
+contain all the terms of the parties’ agreement, including the commencement
+date of 1 December 2020.
+
+18 However, it remains open to Mr Gan to rebut that presumption by showing
+that the parties’ agreement/understanding was that the commencement date would
+be 1 January 2021, not 1 December 2020. It is also open to Mr Gan to show that
+even if the commencement date were 1 December 2020, it was nevertheless
+tentative, in that it was subject to him being released early from his
+existing employment by that date.
+
+The negotiations between the parties
+
+19 Mr Gan’s discussions were principally with Kelington’s representative, Mr
+Lim. Mr Gan provided his resume to Mr Lim on 11 August 2020, 22
+
+##### Foot Note 22
+
+×
+
+AB1, page 21.
+
+and Mr Lim conducted an interview with him on 13 August 2020. 23
+
+##### Foot Note 23
+
+×
+
+Mr Lim’s AEIC, para 14 (BAEIC, page 10); Mr Gan’s AEIC, para 5 (BAIEC, page
+330).
+
+Mr Gan’s evidence is that during the interview, he told Mr Lim that he would
+need to serve three months’ notice with his existing employer.
+
+20 Following the interview, Mr Lim told Mr Gan that Kelington was keen for him
+to come on board as KESH’s Country Manager (China), 24
+
+##### Foot Note 24
+
+×
+
+Mr Lim’s AEIC, para 16 (BAEIC, page 11).
+
+and on 10 September 2020 Mr Gan indicated that he was willing to be appointed
+to that position by informing Mr Lee via a WhatsApp message that he was “on
+board”. 25
+
+##### Foot Note 25
+
+×
+
+AB1, page 92.
+
+21 On 14 September 2020, Mr Lim sent Mr Gan a WhatsApp message asking, “…
+Commencement date 1 Dec 2020 ok for you?” Mr Gan replied on the same day,
+“Tentative”. 26
+
+##### Foot Note 26
+
+×
+
+AB1, page 92.
+
+Mr Gan’s evidence is that he had indicated that the commencement date was
+“tentative” because he had yet to tender his resignation from his existing
+employment; 27
+
+##### Foot Note 27
+
+×
+
+Mr Gan’s AEIC, para 5 (BAEIC, page 330); NE, 26 January 2022, page 70, lines
+23–32 and page 76, lines 1–9.
+
+even if he had done so right away, it was already mid-September 2020, and his
+three-month notice period would go past 1 December 2020.
+
+22 The parties then negotiated other terms of Mr Gan’s prospective employment
+with Kelington. On 15 September 2020, Mr Lim forwarded a draft LOA to Mr Gan.
+28
+
+##### Foot Note 28
+
+×
+
+AB1, page 31.
+
+Clause 1.3 of the draft stated the commencement date of Mr Gan’s employment
+with Kelington as 1 December 2020, 29
+
+##### Foot Note 29
+
+×
+
+AB1, page 32A, clause 1.3.
+
+although there had been no further discussion on the commencement date after
+Mr Gan had said it was “tentative”.
+
+23 Clause 1.5 of the draft LOA provided that either party could terminate Mr
+Gan’s employment by giving six months’ written notice, or by paying six
+months’ basic salary in lieu of notice. 30
+
+##### Foot Note 30
+
+×
+
+AB1, page 32A, clause 1.5.
+
+24 Mr Gan responded on 21 September 2020, highlighting certain clauses in the
+draft LOA that he was not comfortable with. 31
+
+##### Foot Note 31
+
+×
+
+AB1, pages 33–43.
+
+25 On 23 September 2020, Mr Lim sent Mr Gan a revised draft of the LOA. 32
+
+##### Foot Note 32
+
+×
+
+AB1, pages 44 and 55–63.
+
+Mr Gan asked to negotiate clause 1.5 further: he wanted a guaranteed three-
+year term, to be compensated with the amount equivalent to his salary for the
+balance of the three-year term if Kelington should terminate his employment
+before the three years were up. Mr Lim proposed that this apply mutually: if
+Mr Gan should choose to leave Kelington before three years were up, he would
+have to pay Kelington the amount equivalent to his salary for the balance of
+the three years. Mr Gan agreed to this, and so clause 1.5 was drafted as it
+now appears. 33
+
+##### Foot Note 33
+
+×
+
+Mr Lim’s AEIC, paras 29–31 (BAEIC, pages 16–17); NE, 26 January 2022, page 83
+line 14–page 85 line 3.
+
+26 On 29 September 2020, Mr Gan sent Mr Lim a WhatsApp message to say,
+“Speaking to my boss today. Will sign off [the LOA]”. 34
+
+##### Foot Note 34
+
+×
+
+AB1, pages 95–96.
+
+Mr Gan then proceeded to tender his resignation. With his three-month notice
+period, he thus could not commence employment with Kelington on 1 December
+2020 as stated in the draft LOA, unless his existing employer agreed to waive
+his notice and release him early.
+
+27 On 1 October 2020 Mr Gan sent Mr Lim a WhatsApp message to say that he
+would send the LOA back that day. Shortly after, though, he sent further
+messages to say, “The boss have not accepted my resignation” and, “I will
+continue to speak with him.” 35
+
+##### Foot Note 35
+
+×
+
+AB1, page 96.
+
+Thus, at or around the end of September 2020, Mr Gan had told his boss he was
+resigning, but his boss had not agreed to an early release.
+
+28 Although Mr Gan had not highlighted clause 1.3 of the draft LOA as one of
+the clauses that he was not comfortable with whilst he was negotiating the
+terms of the LOA with Mr Lim (see [22]–[25] above), he had earlier told Mr Lim
+that Mr Lim’s suggested commencement date of 1 December 2020 was “tentative”.
+Nevertheless, Mr Lim inserted that date in the draft LOA. I accept that Mr Lim
+knew that Mr Gan had to serve notice with his existing employer, and as such,
+could only commence employment with Kelington on 1 December 2020 if his
+existing employer agreed to an early release. Otherwise, he could only
+commence employment with Kelington after he had finished serving notice. As
+his notice period ran till the end of December 2020, that meant that he could
+only start employment with Kelington on 1 January 2021.
+
+The execution of the LOA
+
+29 At 8.30am on 2 October 2020, Mr Gan sent Mr Lim a signed copy of the
+execution page of the LOA (a photo sent by WhatsApp). 36
+
+##### Foot Note 36
+
+×
+
+AB1, pages 86 and 96.
+
+Mr Gan thereby stated: “I … hereby acknowledge and confirm that I understand
+and accept the appointment offered to me subject to the above mentioned terms
+and conditions of contract. In addition, I consent to the payment of my
+monthly salary and other payments due to me by direct credit through Company’s
+appointed Bank.”
+
+30 Mr Gan signed in the space provided for his signature, but he did not date
+the execution page in the space provided for that.
+
+31 In response, Mr Lim asked, “The date?” (Mr Lim’s message of 2 October 2020,
+9.32am). 37
+
+##### Foot Note 37
+
+×
+
+AB1, pages 86 and 96.
+
+I accept Mr Lim’s evidence that his query was a reference to the missing date
+in the space for it on the execution page. 38
+
+##### Foot Note 38
+
+×
+
+Mr Lim’s AEIC, para 41 (BAEIC, page 21); NE, 25 January 2021, page 37, line
+10–page 38, line 21.
+
+32 But that is not how Mr Gan understood Mr Lim’s query – Mr Gan responded
+right away: “Have to be 1st Jan” (at 9.32am) and “But you may send me works to
+analyse” (at 9.33am). Mr Lim did not respond to that, and their next WhatsApp
+correspondence was on 9 October 2020. 39
+
+##### Foot Note 39
+
+×
+
+AB1, page 86.
+
+33 Mr Lim says he thought Mr Gan was saying that his signature had to be dated
+“1st Jan”, 40
+
+##### Foot Note 40
+
+×
+
+Mr Lim’s AEIC, para 41 (BAEIC, page 21).
+
+which Mr Lim thought did not make sense. However, Mr Lim claims that if there
+had been “any errors to the signature date”, he preferred to only correct Mr
+Gan when he received the executed copy (which he received on 9 October 2020).
+On the stand, he maintained that he had wondered why Mr Gan would want his
+signature to be dated “1st Jan”, but he did not clarify this with Mr Gan. 41
+
+##### Foot Note 41
+
+×
+
+NE, 25 January 2022, page 77, line 32–page 78, line 14; page 79, lines 17–23.
+
+34 Mr Lim’s explanation is artificial, and I do not accept it – if Mr Lim
+thought it would be an “error” for Mr Gan to date the execution page 1 January
+2021 (which is what he says he thought Mr Gan meant to do), 42
+
+##### Foot Note 42
+
+×
+
+Mr Lim’s AEIC, para 41.
+
+he would have said so rather than to wait a week to correct the error, if Mr
+Gan did proceed to date the execution page “1st Jan”.
+
+35 Likewise, if the date of “1st Jan” did not make sense to Mr Lim, he would
+have asked Mr Gan to clarify the matter. This is especially since the LOA,
+which Kelington had dated 15 September 2020, also provided that Mr Gan was to
+“knowledge [sic] [his] understanding and acceptance” of the LOA by signing and
+returning a copy “immediately from the date hereof, failing which [Kelington]
+shall treat the offer as lapsed” [emphasis added]. 43
+
+##### Foot Note 43
+
+×
+
+AB1, pages 77 and 85.
+
+It would not be consistent with that for Mr Gan to purport to only accept the
+LOA on 1 January 2021.
+
+36 I find that an objective, reasonable person in Mr Lim’s position would have
+known that “1st Jan”, as mentioned by Mr Gan in his WhatsApp message on 2
+October 2020, was a reference to the commencement date of his employment with
+Kelington:
+
+(a) First, Mr Gan did not simply say “1st Jan”; he said: “Have to be 1st Jan”
+[emphasis added]. There is no reason why Mr Gan had to date the execution page
+“1st Jan”, and indeed, that did not make sense to Mr Lim. Rather, the date in
+question had to be 1 January 2021 because of Mr Gan’s notice period, ie, it
+was a reference to his commencement date.
+
+(b) Second, Mr Gan did not merely say “Have to be 1st Jan”; he went on to say,
+“But you may send me works to analyse”. That only makes sense if “1st Jan”
+were a reference to his commencement date – Mr Gan was saying that although he
+could only commence employment with Kelington on 1 January 2021, Kelington
+could nevertheless “send [him] works to analyse” prior to that date, ie, he
+could take preparatory steps in advance of his prospective employment with
+Kelington. If “1st Jan” were a reference to the date to be filled in on the
+execution page, Mr Gan’s subsequent statement, “But you may send me works to
+analyse”, would not make sense.
+
+(c) Third, Mr Gan had to serve notice with his existing employer, and he had
+just told Mr Lim that his existing employer had not accepted his resignation.
+It follows that Mr Gan had not obtained an early release, and would have to
+serve out his notice. That takes one back to Mr Gan’s remark to Mr Lim on 14
+September 2020 that the commencement date of 1 December 2020 initially
+proposed by Mr Lim was merely “tentative” (see [21] above). In that context,
+when Mr Gan said, “Have to be 1st Jan”, that was a reference to the
+commencement date.
+
+37 The above conclusion is reinforced by Mr Lim’s response (or lack thereof)
+when Mr Gan sent over a complete copy of the LOA on 9 October 2020, with the
+date 1 October 2020 inserted on the execution page. 44
+
+##### Foot Note 44
+
+×
+
+AB1, pages 87, 96 and 77–85.
+
+Mr Lim did not ask Mr Gan why he had done so, even though Mr Lim claims to
+have understood Mr Gan’s message a week earlier (“Have to be 1st Jan”) to mean
+that Mr Gan wanted to date the execution page 1 January 2021. The evidence
+suggests that Mr Lim never thought Mr Gan was referring to the date to be
+inserted on the execution page; rather, Mr Lim knew that “1st Jan” was Mr
+Gan’s intended commencement date of his employment with Kelington.
+
+38 One other notable piece of evidence is a message which KESH’s then Country
+Manager (China), Mr Wan Siew Chuan (“Mr Wan”), received from Mr Steven Ong
+(“Mr Ong”) (Mr Wan’s supervisor and the Chief Operating Officer of Kelington
+Group Berhad) 45
+
+##### Foot Note 45
+
+×
+
+NE, 27 January 2022, page 34, lines 16–18; AB1, pages 513–516.
+
+on 6 October 2020: 46
+
+##### Foot Note 46
+
+×
+
+APB2, NE 27 January 2022, page 38 line 25–page 39 line 10.
+
+Gan CC [Cheng Chuan] has finally confirmed joining yesterday but he can only
+come to SH [Shanghai] on 1 Jan 2021. Now they are talking to him to ask him to
+quit earlier if possible. However, let’s assume that he cannot make it, so
+your handover target is still KH [Kevin Hu] … [emphasis added in bold italics]
+
+39 Mr Ong’s message evinces his understanding that Mr Gan could only commence
+his employment with Kelington on 1 January 2021 because of his existing
+employment, and that attempts were being made to ask him to “quit earlier”
+(ie, to obtain an early release from his existing employment). However, absent
+any confirmation that Mr Gan could obtain an early release, Kelington Group
+Berhad was operating under the assumption that he “cannot make it” (ie, that
+he would not be able to commence his employment with Kelington earlier than 1
+January 2021). On the evidence, as of 6 October 2020, Mr Lim was the only
+person with whom Mr Gan had discussed his commencement date. The inference to
+be drawn is therefore that Mr Lim understood Mr Gan’s message, “Have to be 1st
+Jan”, as a reference to his commencement date (and not the date to be inserted
+on the execution page), and had communicated the same to Mr Ong.
+
+40 Kelington seeks to draw a distinction between when Mr Gan could physically
+travel to Shanghai (1 January 2021), and when he could commence employment (1
+December 2020). There is, however, nothing in the evidence that indicates that
+if Mr Gan could commence employment on 1 December 2020, he would nevertheless
+be unable to travel to Shanghai until 1 January 2020. In particular, Mr Lim
+did not say that Mr Gan’s reference to “1st Jan” in his message of 2 October
+2021, meant that that was the earliest date Mr Gan could travel to Shanghai –
+Mr Lim said he thought that was just about dating the execution page of the
+LOA. 47
+
+##### Foot Note 47
+
+×
+
+Mr Lim’s AEIC, para 41 (BAEIC, page 21).
+
+41 Mr Wan says he understood that Mr Gan would only be joining Kelington in
+January 2021, 48
+
+##### Foot Note 48
+
+×
+
+Mr Wan Siew Chuan’s Affidavit of Evidence-in-Chief dated 26 November 2021 (“Mr
+Wan’s AEIC”), para 6 (BAEIC, page 524).
+
+and not that Mr Gan would be joining Kelington earlier (on 1 December 2020)
+but could only travel to Shanghai on 1 January 2021. 49
+
+##### Foot Note 49
+
+×
+
+NE, 27 January 2022, page 40 lines 8–13, page 55 lines 18–20.
+
+Kelington’s suggestion that 1 January 2021 was only Mr Gan’s travel date would
+mean that Mr Wan was never informed when his successor, Mr Gan, would be
+joining Kelington as an employee, which is an unlikely scenario.
+
+Mr Gan’s communications with Kelington’s human resource department
+
+42 From 13 October 2020 through 8 December 2020, Mr Gan liaised with Ms Joan
+Au (“Joan”) from Kelington’s human resource (“HR”) department. 50
+
+##### Foot Note 50
+
+×
+
+AB1, pages 107–110.
+
+She asked him for details of a bank account into which his salary could be
+credited, and their subsequent messages on 13 October 2020 read as follows
+[with times stamps added]:
+
+Mr Gan: I don’t have a Chinese bank acct [11:27am]
+
+Joan: I see… your official join date to KESH will be from 1 Dec 2020. For
+salary payment, we will tt to your China bank account [11.28am]
+
+Joan: Or you preferred bank to your m’sia account directly? [11.29am]
+
+Mr Gan: Pls confirm with [Mr Lim] Seng Chuan that my official start date is
+1st Jan [11.29am]
+
+Joan: The LOA that I received was stated 1 Dec 2020. No prob. Will reconfirm
+with him. [11.31am]
+
+Mr Gan: I don’t mind if you pay Dec salary in Dec for the work I don’t perform
+☺ [11.32am]
+
+Joan: Let me know which bank account shd we bank in the salary after you have
+joined Thanks. [11.32am]
+
+Joan: 😅 [11.33am]
+
+43 Mr Gan consistently maintained that his commencement date was 1 January
+2021 – he even joked with Joan about the possibility of Kelington paying him
+salary for the month of December 2020 for the work he would not have
+performed. Joan pointed out that the LOA stated the commencement date as 1
+December 2020, but she said she would reconfirm that with Mr Lim. She never
+got back to Mr Gan on this, however, even though they continued to correspond
+on various other HR matters from 19 October 2020 until 12 November 2020. There
+was then a break before the next (and last) message from Joan, which was on 8
+December 2020.
+
+44 I note the following:
+
+(a) There was no communication from Kelington’s HR department (or, apparently,
+anyone else in Kelington) to Mr Gan on 1 December 2020 – when, according to
+Kelington, Mr Gan had become an employee. Nor was there any announcement
+within Kelington (or the Kelington group of companies) that Mr Gan had joined
+Kelington that day.
+
+(b) Although Joan had asked Mr Gan to provide his bank account details for
+salary crediting purposes “after [he had] joined” (at 11.32am), Mr Gan never
+provided his bank account details, and Joan did not follow up on this even
+after 1 December 2020 came and went. Kelington did not pay Mr Gan salary in
+December – instead, Kelington purported to offset an amount representing
+salary for 1–22 December 2020, against its damages claim. 51
+
+##### Foot Note 51
+
+×
+
+SOC, para 10b (SDB, page 5).
+
+45 Mr Gan’s communications with Joan are consistent with his commencement date
+being 1 January 2021, rather than 1 December 2020.
+
+Preparatory steps
+
+46 From 22 October 2020, Kelington provided Mr Gan with information, and
+involved him in discussions. I regard these in the nature of preparatory steps
+in advance of Mr Gan commencing employment with Kelington. I accept that by 22
+October 2020, Mr Gan had committed to joining Kelington, which explains his
+involvement in such matters from then. But that does not point towards 1
+December 2020 being his commencement date rather than 1 January 2021.
+
+47 Mr Wan was the Country Manager (China) of KESH until the end of December
+2020, and his evidence was that “all managerial and/or executive decisions
+[were] well within [his] power and authority” during that period as he was
+“still the person in charge and/or the Country Manager [(China)] until
+December 2020”. 52
+
+##### Foot Note 52
+
+×
+
+Mr Wan’s AEIC, para 8 (BAEIC, pages 524–545).
+
+Mr Gan made no such decisions as the Country Manager (China) of KESH, because
+Mr Gan never became the Country Manager (China) of KESH, whether from 1
+December 2020, or ever. On a related note, Mr Wan said that he understood Mr
+Gan’s participation in discussions (from October into December 2020) to be as
+an observer only. 53
+
+##### Foot Note 53
+
+×
+
+Mr Wan’s AEIC, para 8 (BAEIC, page 524), NE 27 January 2022, page 55 lines
+2–10.
+
+48 A transition plan was circulated by Mr Wan on 4 November 2020. 54
+
+##### Foot Note 54
+
+×
+
+AB1 at pages 124 and 316.
+
+Item 3 on the action list is “Announcement”, both external to customers,
+suppliers, and contractors, and internal to the Kelington group of companies.
+The stated date for Item 3 was 1 December 2020, but in the event, no
+announcement was made on that date. Instead, an announcement was made on 8
+December 2020 which I discuss later (at [59]–[60]).
+
+49 Item 4 on the action list is “Change of constitution and legal rep”, for
+which the stated date was 17 December 2020, and for which the following
+elaboration was provided: “Legal Rep - George Gan”. However, no evidence was
+led to show that Mr Gan was appointed as a legal representative for KESH, or
+any other company in the Kelington group, by that date.
+
+50 Nothing in the transition plan states that Mr Gan would become a Kelington
+employee on 1 December 2020. What was stated under the “Note” section was:
+“George Gan go Shanghai at 1 Jan 2021 and be able to work from mid of Jan
+2021.”
+
+51 The transition plan – and what was done (or not done) pursuant to it – does
+not support Kelington’s contention that the commencement date of Mr Gan’s
+employment was 1 December 2020.
+
+Further discussions between Mr Lim and Mr Gan about shortening the notice
+period with his existing employer
+
+52 Between 19 and 21 October 2020, Mr Lim and Mr Gan discussed the possibility
+of Mr Gan shortening his notice period with his existing employer. The
+messages they exchanged are as follows [with date and time stamps added]: 55
+
+##### Foot Note 55
+
+×
+
+AB1, page 97.
+
+Mr Lim: Good Morning George, is it possible for you to come earlier? [19
+October 2020, 10.55am]
+
+Mr Gan: Hi Seng Chuan. My release date is end Dec as of now. Seems difficult
+to come earlier [19 October 2020, 11.11am]
+
+Mr Lim: Due to work requirement? If by contract, can we pay to release
+earlier? [19 October 2020, 11.13am]
+
+Mr Gan: Due to work requirements. [19 October 2020, 11.14am]
+
+Mr Gan: I can negotiate again [19 October 2020, 11.14am]
+
+Mr Lim: Pls do so and better to go earlier by early Dec. Kevin is buying his
+ticket to China now. [19 October 2020, 11.15am]
+
+Mr Gan: Will let you know [19 October 2020, 11.16am]
+
+Mr Lim: Good morning, how? Can come earlier? [21 October 2020, 9.32am]
+
+Mr Gan: Cannot le [21 October 2020, 9.34am]
+
+Mr Gan: Still Jan [21 October 2020, 9.34am]
+
+Mr Lim: It will be hard for you then. Wan could not extend for 1-2 months. [21
+October 2020, 10.26am]
+
+Mr Lim: Try to clear your leave [21 October 2020, 10.26am]
+
+Mr Gan: Not many leave days left [21 October 2020, 10.34am]
+
+Mr Lim: We can pay off [21 October 2020, 10.34am]
+
+Mr Gan: Cannot [21 October 2020, 11.07am]
+
+53 Mr Lim says that in asking Mr Gan to “come earlier” (ie, commence his
+employment with Kelington earlier), Mr Lim meant earlier than 1 December 2020,
+so that Mr Gan could travel to China before 1 January 2021. 56
+
+##### Foot Note 56
+
+×
+
+Mr Lim’s AEIC, para 47 (BAEIC, page 24), NE, 25 January 2022, page 39, lines
+27–31 and page 81, lines 1–18.
+
+I do not accept that – it is not borne out by the messages, and it is also not
+what Mr Gan understood. Mr Gan’s response to whether he could “come earlier”
+was that his release date was “end Dec”, and it seemed difficult to come
+earlier than that. In response, Mr Lim did not clarify that he was asking
+about Mr Gan commencing his employment with Kelington even earlier than 1
+December 2020, rather than earlier than January 2021 as Mr Gan was referring
+to (see Mr Gan’s messages of 19 October 2020, 11.11am and 21 October 2020,
+9.34am). Instead, Mr Lim simply said it would be better for Mr Gan “to go [to
+China] earlier by early Dec” (his message of 19 October 2020, 11.15am).
+
+54 The evidence does not bear out that Mr Gan could only go to China by early
+December 2020 if he commenced his employment with Kelington earlier than 1
+December 2020. I find that the discussions about whether he could “come
+earlier” were about him joining Kelington earlier than 1 January 2021, which
+was what his commencement date would otherwise be.
+
+55 Conspicuously, Mr Lim never told Mr Gan in the course of those messages
+that he considered Mr Gan to have contracted unconditionally to commence
+employment with Kelington on 1 December 2020. If Mr Lim truly believed that Mr
+Gan had contractually agreed to commence employment with Kelington on 1
+December 2020, it would only have been natural for him to mention this, upon
+seeing Mr Gan’s messages that he could not “come earlier” than January 2021.
+Mr Lim says he did not wish to raise that as an issue as that might create
+tension with Mr Gan right from the start. 57
+
+##### Foot Note 57
+
+×
+
+Mr Lim’s AEIC, para 48 (BAEIC, page 24).
+
+I consider that a lame excuse.
+
+56 Mr Lim went so far as to tell Mr Gan that Kelington could pay off Mr Gan’s
+notice period to secure an early release, 58
+
+##### Foot Note 58
+
+×
+
+AB1, page 97.
+
+which is inconsistent with Kelington’s position that it was Mr Gan’s
+obligation to join Kelington on 1 December 2020 come what may.
+
+Events in December 2020
+
+57 Kelington’s case is that Mr Gan became an employee on 1 December 2020. But
+on that date, Mr Gan did not report anywhere, or to anyone, for his first day
+of work. It does not appear that anyone even contacted him that day. There was
+no announcement to his colleagues, to the Kelington group of companies, or to
+customers, suppliers and contractors, that Mr Gan had joined Kelington as of 1
+December 2020.
+
+58 Clause 1.1 of the LOA states that Kelington appoints Mr Gan and Mr Gan
+agrees to serve as Country Manager (China) for KESH; clause 1.3 states that
+the appointment shall commence on 1 December 2020. 59
+
+##### Foot Note 59
+
+×
+
+AB1, page 77.
+
+In fact, however, Mr Gan was not appointed Country Manager (China) for KESH on
+1 December 2020, or ever – Mr Wan continued to be Country Manager (China) till
+the end of December 2020 (see above at [47]). If, as Kelington contends,
+clause 1.3 reflected the agreement/understanding between the parties on the
+commencement date, then Kelington acted contrary to it by not appointing Mr
+Gan as Country Manager (China) for KESH with effect from 1 December 2020. The
+true position is: Mr Gan’s commencement date was 1 January 2021, and that is
+why Kelington did not appoint him Country Manager (China) for KESH with effect
+from 1 December 2020.
+
+59 On 6 December 2021, Mr Lim sent Mr Gan a draft announcement which contained
+the following sentence: “We are very pleased to announce the hiring of Mr. Gan
+Cheng Chuan (George) as Country Manager for KE Shanghai, China, effective 1st
+Jan 2021.” 60
+
+##### Foot Note 60
+
+×
+
+AB1, page 98.
+
+That sentence was retained in the finalised announcement (save that the date
+was reflected as “01st Jan 2021” and “Mr.” was omitted), which was made as a
+staff announcement on 8 December 2020 by the Chief Executive Officer of
+Kelington Group Berhad. 61
+
+##### Foot Note 61
+
+×
+
+AB1, page 478.
+
+The announcement did not say that Mr Gan had already joined Kelington as of
+that date; instead, it announced “the hiring” of Mr Gan as Country Manager
+(China) for KESH “effective 01st Jan 2021”. This too is consistent with Mr
+Gan’s commencement date being 1 January 2021, not 1 December 2020.
+
+60 Mr Gan was forwarded the staff announcement on 8 December 2020 by Mr Soh
+Tong Hwa, a non-executive director of Kelington Group Berhad, with a “thumbs
+up” emoji: 👍. 62
+
+##### Foot Note 62
+
+×
+
+AB1, page 157.
+
+That bolstered the impression on Mr Gan’s part, that there was consensus on 1
+January 2021 being his commencement date.
+
+61 Mr Gan had, however, begun to waver in his resolve to join Kelington. He
+told Mr Lim on 7 December 2020 at 9.10am that his existing employer had called
+and made a “counter offer for [him] to stay”. 63
+
+##### Foot Note 63
+
+×
+
+AB1, page 99.
+
+Again, Mr Gan’s language is consistent with his position: he had yet to leave
+his existing employer or join Kelington – so it was about him staying with his
+existing employer. In response, Mr Lim did not protest that Mr Gan was already
+a Kelington employee as of 1 December 2020. Instead, Mr Lim simply said “Stay
+firm with us” (7 December 2020, 9.24am), and “Announcement is already made by
+Raymond Gan. Let’s move together and make life better.” (7 December 2020,
+9.33am).
+
+62 Mr Lim’s subsequent message of 10 December 2020, 5.31pm is even more
+telling: “If not because of this opportunity to join [Kelington], and [you
+have] committed to join us, would he make counter offer?” 64
+
+##### Foot Note 64
+
+×
+
+AB1, page 99.
+
+Again, Mr Lim did not say that Mr Gan was already a Kelington employee as of 1
+December 2020. Instead, he spoke of “this opportunity to join [Kelington]”,
+which Mr Gan had committed to. That too is consistent with Mr Gan’s position
+that he had yet to commence his employment with Kelington, but had merely
+committed to doing so.
+
+63 On 19 December 2020, Mr Gan messaged Mr Lim to say, “… I have decided to
+stay with the existing company. Sorry for all the troubles caused”. 65
+
+##### Foot Note 65
+
+×
+
+AB1, page 99.
+
+Mr Lim’s reply was simply, “Sad to hear that.” He did not contradict Mr Gan’s
+assertion that he would be staying with his existing company; he did not say
+that Mr Gan was already a Kelington employee.
+
+64 On 22 December 2020, Kelington sent Mr Gan a letter of demand, 66
+
+##### Foot Note 66
+
+×
+
+AB1, pages 480–481.
+
+in which it purported to characterise Mr Gan’s communication to Mr Lim on 19
+December 2020 as “notice that [Mr Gan] will not be continuing with [his]
+employment with [Kelington]”, which Kelington accepted. The letter further
+purported to end Mr Gan’s employment on 22 December 2020. This was an attempt
+to rewrite history.
+
+65 Mr Gan’s pithy response on 26 December 2020 was that it was clause 9.4 of
+the LOA that applied, for he had terminated the contract before the
+commencement of his employment. 67
+
+##### Foot Note 67
+
+×
+
+AB 482.
+
+Conclusion on the Main Issue
+
+66 For the above reasons, I find that Mr Gan has rebutted the presumption that
+the LOA was intended to contain all the terms of the parties’ agreement.
+Specifically, the commencement date of Mr Gan’s employment term was the
+subject of an agreement/understanding between Mr Lim and Mr Gan, outside the
+LOA. The terms of the contract were not reduced to the form of a document (the
+LOA). As such, the parol evidence rule does not apply to prevent Mr Gan from
+relying on extrinsic evidence to prove the parties' agreement/understanding as
+to the commencement date.
+
+67 I find that the agreement/understanding between the parties was that the
+commencement date of Mr Gan’s employment with Kelington was 1 January 2021,
+not 1 December 2020. When Mr Gan repudiated the contract on 19 December 2020,
+and Kelington treated the contract as terminated on 22 December 2020, Mr Gan
+was not an employee of Kelington. Accordingly, it is clause 9.4 of the LOA
+that applies, not clause 1.5. It follows that Mr Gan’s liability to Kelington
+was only in the sum of RM24,000, for which consent judgment was entered, and
+which he has already paid to Kelington.
+
+68 Further, even if the parol evidence rule applied, s 94(c) of the Evidence
+Act provides that “the existence of any separate oral agreement constituting a
+condition precedent to the attaching of any obligation under any such
+contract, grant or disposition of property, may be proved”. Thus, it was
+always open to Mr Gan to prove (as he has) that it was a condition precedent
+to the commencement of his employment with Kelington, that he be freed of his
+existing employment.
+
+69 If at all Mr Gan agreed to 1 December 2020 being the commencement date,
+that was just “tentative” (as he put it) – it was always subject to him being
+freed of his existing employment by then. However, his employer had not agreed
+to an early release; and while he was still serving notice, Mr Gan decided to
+stay on with his employer and not join Kelington after all. A conditional
+agreement to 1 December 2020 as the commencement date does not work for
+Kelington’s claim under clause 1.5. If Mr Gan did not obtain an early release
+by 1 December 2020, he was not obliged to commence his employment with
+Kelington on that date. Thereafter, he terminated the contract prior to the
+commencement of his employment with Kelington, and as such, clause 1.5 does
+not apply.
+
+Subsidiary Issue (1): was clause 1.5 of the LOA an unenforceable penalty
+clause?
+
+70 As stated at [67] above, I find that it is clause 9.4 of the LOA, not
+clause 1.5, that applies. I go on to consider whether, if clause 1.5 had
+applied, Kelington’s claims would nevertheless have failed on account of
+clause 1.5 being an unenforceable penalty clause.
+
+71 In determining whether clause 1.5 of the LOA is an unenforceable penalty
+clause, the focus is whether it provides a genuine pre-estimate of the likely
+loss at the time of contracting: Denka Advantech Pte Ltd and another v Seraya
+Energy Pte Ltd and another and other appeals [2021] 1 SLR 631 (“Denka”) at
+[152] and [185]. The court will consider whether the sum stipulated is so
+extravagant, having regard to the range of damages which the innocent party
+was likely to suffer, that it was not a genuine estimate of the damages that
+the innocent party could have suffered: CLAAS Medical Centre Pte Ltd v Ng Boon
+Ching [2010] 2 SLR 386 at [67]. Clause 1.5 of the LOA would be a penalty
+clause if the sum stipulated is extravagant and unconscionable in amount in
+comparison with the greatest loss that could conceivably be proved to have
+followed from Mr Gan’s breach of the LOA: Denka at [254].
+
+Parties’ positions, and evidence
+
+72 Mr Gan contended that a clause requiring him to pay Kelington an amount
+equivalent to his salary for the balance of the three-year term was an
+unenforceable penalty clause, 68
+
+##### Foot Note 68
+
+×
+
+DCS, paras 34–41.
+
+whereas Kelington contended that this was a genuine pre-estimate of its loss
+from Mr Gan leaving during the three-year term. 69
+
+##### Foot Note 69
+
+×
+
+PCS, paras 72–79; Mr Lim’s, AEIC paras 32–35.
+
+73 The stipulation in question was inserted by Kelington in response to Mr
+Gan’s request for three years’ worth of salary to be guaranteed, should
+Kelington terminate the employment within the three-year term (other than for
+cause under clauses 9.2 or 9.6 of the LOA). Kelington’s position was that Mr
+Gan should similarly be required to compensate Kelington if he were to
+terminate the employment during the three-year term. 70
+
+##### Foot Note 70
+
+×
+
+Mr Lim’s AEIC, paras 29–31 (BAEIC, pages 16–17); NE, 26 January 2022, page 83
+line 20–page 85, line 3.
+
+74 If not for Mr Gan asking to be assured of three years’ worth of salary,
+Kelington was content to contract on the basis that either party could
+terminate the employment with six months’ notice or six months’ basic salary
+in lieu of notice (clause 1.5 of the first draft LOA). 71
+
+##### Foot Note 71
+
+×
+
+AB1, page 46.
+
+Moreover, both in the first draft LOA and in the executed LOA, clause 9.4
+provided that for termination before commencement of employment, the party
+that initiated the termination would only have to pay one month’s basic salary
+in lieu as compensation.
+
+75 Kelington’s contention that up to three years’ worth of Mr Gan’s salary was
+a genuine pre-estimate of its loss should Mr Gan decide to leave, must be
+viewed against that backdrop.
+
+76 Kelington’s case on this point is constructed on two planks: 72
+
+##### Foot Note 72
+
+×
+
+PCS, paras 72–73.
+
+(a) it would not be able to replace Mr Gan for the whole of the three-year
+term, and so it would lose the benefit of his service (or that of someone
+comparable) till the end of the three-year term; and
+
+(b) Kelington’s target of 30% increase in profits each year (from 2021 to
+2024) would be achieved with Mr Gan, but would not be achieved without him.
+
+77 Mr Lim asserted that the role of Country Manager (China) was critical to
+the growth of KESH, and the loss of Mr Gan in the midst of the three-year term
+would bring major disruption to the management team and seriously affect the
+performance of KESH. He said it would likely result in KESH not being able to
+meet its financial target of 30% increase in profits each year, and could
+potentially cause KESH to fail to maintain its previous year’s revenue. He put
+forward a total estimated loss to KESH over the three-year term of Mr Gan’s
+employment should Mr Gan leave, in the sum of RMB17.5 million. However, this
+was expressly stated to be on the assumption that “KESH’s performance in 2021
+[remained] stagnant and the same as 2020”, and that it did not improve at all
+in 2022, or 2023 either. 73
+
+##### Foot Note 73
+
+×
+
+Mr Lim’s AEIC, paras 32–33 (BAEIC, pages 18–19).
+
+78 Mr Gan disputes Kelington’s assertions. He says:
+
+(a) If he left after being with KESH for only a short while, there would not
+be a huge impact. 74
+
+##### Foot Note 74
+
+×
+
+NE, 27 January 2022, page 7 lines 11–17, page 11 lines 19–23.
+
+(b) It was not the sole responsibility of the Country Manager (China) to
+achieve the target of 30% increase in profits each year; it depended on the
+collective action of the whole company. 75
+
+##### Foot Note 75
+
+×
+
+NE, 27 January 2022, page 7 lines 3–8.
+
+(c) The target was a very ambitious one, which he could not guarantee would be
+achieved – there was a risk of the target not being achieved, which explains
+why there was a performance bonus in place to incentivise employees to achieve
+the target. 76
+
+##### Foot Note 76
+
+×
+
+NE, 27 January 2022, page 12 lines 1–6.
+
+79 Mr Wan’s evidence is to similar effect. He did not agree that without its
+Country Manager (China), KESH would not be able to achieve its target of 30%
+growth – he said that was just “an assumption”. 77
+
+##### Foot Note 77
+
+×
+
+NE, 27 January 2022, page 53 lines 10–12.
+
+80 I find Mr Lim’s assertions (summarised at [77] above) to be exaggerated –
+an attempt to justify Kelington’s claim for just under three years’ worth of
+Mr Gan’s salary, for him having left after 22 days.
+
+Time required to replace Mr Gan
+
+81 I am not convinced that at the time Kelington agreed terms with Mr Gan, it
+thought Mr Gan was irreplaceable (by a comparable candidate) for the whole of
+the three-year term. If Kelington could replace Mr Gan at any time before the
+three years were up, that would brighten up the dismal picture it paints. The
+fact that Kelington itself had, in clause 1.5 of the first draft LOA, 78
+
+##### Foot Note 78
+
+×
+
+AB1, page 46.
+
+proposed a mere six-month notice period (or pay in lieu thereof) is an
+indicator that it did not think it would need up to three years to replace Mr
+Gan. Moreover, on the terms of clause 9.4 of the LOA (also proposed by
+Kelington), 79
+
+##### Foot Note 79
+
+×
+
+AB1, page 81.
+
+Kelington was prepared to accept just one month’s worth of Mr Gan’s salary as
+compensation if he should terminate the contract before commencing employment.
+
+82 The difference is stark: if the day before his commencement date, Mr Gan
+decided he would not join Kelington after all, he would only have to pay
+Kelington one month’s worth of his salary (pursuant to clause 9.4 of the LOA).
+However, if he commenced employment and then decided to quit on his first day
+of work, he would have to pay Kelington some three years’ worth of his salary
+– an amount exceeding RM1.4m (pursuant to clause 1.5 of the LOA). In terms of
+impact to Kelington, there is little difference between the two scenarios, but
+in terms of the financial consequences to Mr Gan under clause 9.4 as compared
+to clause 1.5, there is a huge difference.
+
+83 Mr Lim says that from 28 December 2020 to June 2021, Kelington tried but
+could not find a replacement for the position of Country Manager (China) of
+KESH. 80
+
+##### Foot Note 80
+
+×
+
+Mr Lim’s AEIC, para 72 (BAEIC, pages 34–35).
+
+I nevertheless remain unconvinced that at the time Kelington contracted with
+Mr Gan, Kelington expected that it would need up to three years to replace
+him.
+
+84 A sliding scale of compensation proportionate to the balance of Mr Gan’s
+term of employment does not bear any relation to the time Kelington would need
+to replace him, unless Kelington could only find a suitable replacement three
+years from Mr Gan’s commencement date. I do not accept that Kelington would
+require that much time (or that Kelington thought it would, at the time of
+contracting with Mr Gan).
+
+85 Accordingly, clause 1.5 cannot be justified as a genuine pre-estimate of
+the likely loss flowing from Mr Gan’s breach, in terms of Kelington having to
+replace him.
+
+Disruption to KESH
+
+86 In terms of the disruption to KESH caused by Mr Gan’s departure, requiring
+Mr Gan to pay a large sum if he only assumed the role of Country Manager
+(China) for a short period of time does not make sense. I accept Mr Gan’s
+evidence that if he only joined KESH for a short while, the disruption caused
+to KESH by his departure would be less than if he had joined for quite a
+while; yet he would have to pay more despite having caused less disruption.
+For instance, it would generally be more disruptive if Mr Gan left after one
+and a half years (midway through the three-year term), than if he left after
+his first day of work; yet he would have to pay double in the latter scenario,
+as compared to the former.
+
+87 A sliding scale of compensation proportionate to the balance of Mr Gan’s
+term of employment does not bear any relation to the disruption which Mr Gan’s
+departure would cause, and as a necessary consequence, does not provide a
+genuine pre-estimate of the likely loss (in terms of disruption to KESH) which
+may flow from Mr Gan’s breach.
+
+Impact of KESH not having a Country Manager (China)
+
+88 I prefer the evidence of Mr Gan and Mr Wan, to that of Mr Lim, as to the
+impact of KESH not having a Country Manager (China) on its target profits.
+
+89 There was no real evidence that the target of 30% increase in profits each
+year for 2021, 2022 and 2023 was likely to be achieved with Mr Gan as Country
+Manager (China) of KESH. Nor was there any evidence that it was likely not to
+be achieved if Mr Gan terminated his employment. Indeed, there was no real
+evidence of what Kelington thought about this.
+
+90 Mr Lim took a target, applied an assumption to it, added assertions, and
+arrived at a huge “total estimated loss”. However, Mr Lim’s own language
+lacked conviction: he used uncertain and qualified phrases like “would likely
+result in”, “could potentially cause”; “KESH might not be able to achieve its
+30% growth target”; and “Assuming KESH’s performance in 2021 remains stagnant”
+[emphasis added]. 81
+
+##### Foot Note 81
+
+×
+
+Mr Lim’s AEIC, paras 32–33 (BAEIC, page 18).
+
+91 The fact that 30% growth each year was expressed as a target suggests that
+it was something to aspire to, rather than something which Kelington
+considered likely to be achieved.
+
+92 I accept Mr Gan’s description of the target as a very ambitious one, which
+he could not be sure of achieving even if he took on the job. I also accept
+that both Mr Gan and Mr Wan viewed the target as being in the nature of an
+assumption rather than a certainty.
+
+93 The maximum amount payable by Mr Gan under clause 1.5 is some three years’
+worth of his salary (over RM1.4m), if Mr Gan were to leave on his first day of
+work. Kelington has not shown that Mr Gan’s departure in those circumstances,
+or indeed at any point during the three-year term, would likely cause it loss
+of such magnitude. I find that the sum of over RM1.4m is extravagant or
+unconscionable in amount compared with the greatest possible loss that could
+conceivably be proved to have followed from the breach, and that attracts the
+application of the penalty rule (Denka at [254]).
+
+Significance of clause 1.5 being a negotiated clause
+
+94 Kelington says that its entitlement to compensation under clause 1.5 was
+part of the bargain between the parties, 82
+
+##### Foot Note 82
+
+×
+
+PCS, para 71.
+
+but the same may be said of any contractual stipulation which is attacked as a
+penalty clause. I do accept it is relevant that clause 1.5 was a negotiated
+clause, and that it was meant to apply mutually to Kelington and Mr Gan (who
+wanted three years’ worth of salary to be guaranteed). However, this does not
+mean that clause 1.5 is immune from challenge as a penalty clause. Rather, if
+clause 1.5 were found to be a penalty clause insofar as it operates in favour
+of Kelington, the consequence may well be that Mr Gan too cannot enforce
+clause 1.5 to obtain three years’ worth of salary in any event.
+
+95 On a related note, Kelington contends that clause 1.5 should be upheld
+because the parties were of equal bargaining power. 83
+
+##### Foot Note 83
+
+×
+
+PCS, paras 60–70.
+
+While the comparable bargaining positions of the parties is a relevant
+consideration, there need not be any disparity of power between the
+contracting parties for the penalty rule to operate (Denka at [174]). In
+considering factors such as the relative bargaining power of the parties, the
+focus remains on whether the clause concerned is a genuine pre-estimate of the
+likely loss (Denka at [153]). A negotiated clause between parties of
+comparable bargaining power may nevertheless be found to be a penalty clause
+(Denka at [254]).
+
+Conclusion on Subsidiary Issue (1)
+
+96 For the above reasons, I conclude that clause 1.5 is an unreasonable
+penalty clause: requiring Mr Gan to compensate Kelington the amount equivalent
+to his salary for the balance of the three-year term did not provide a genuine
+pre-estimate of the likely damage that would be caused by Mr Gan’s breach,
+whether in terms of the time it would take to replace Mr Gan, the disruption
+to KESH, or the impact of Mr Gan’s absence on KESH’s target profits. As such,
+even if the commencement date were 1 December 2020, and that was not subject
+to the condition precedent of Mr Gan being freed of his existing employment,
+Kelington’s claims based on clause 1.5 would fail for clause 1.5 being an
+unenforceable penalty clause.
+
+Subsidiary Issue (2): does the consent judgment for RM 24,000 preclude
+Kelington from claiming a higher sum?
+
+97 Counsel for Mr Gan argued that because Kelington agreed to a consent
+judgment for RM24,000 (which has since been paid), it cannot claim anything
+more from Mr Gan. 84
+
+##### Foot Note 84
+
+×
+
+DCS, para 23.
+
+98 Pursuant to the doctrine of merger, when a judgment has been given on a
+cause of action, the cause of action merges with the judgment of the court and
+ceases to have an independent existence: Michael Vaz Lorrain v Singapore Rifle
+Association [2020] 2 SLR 808 at [14]–[15].
+
+99 Here, the only cause of action Kelington pursues against Mr Gan is breach
+of contract. Kelington’s case is that Mr Gan is liable to compensate it
+RM1,453,565.22 for breaching the LOA; Mr Gan’s case is that he is only liable
+for RM24,000. A consent judgment was previously entered for RM24,000 in HC/ORC
+3042/2021 (“the Court Order”) as Mr Gan had accepted liability under clause
+9.4 of the LOA. 85
+
+##### Foot Note 85
+
+×
+
+HC/SUM 1350/2021, Minute Sheet, 25 May 2021, pages 6 and 8.
+
+100 At first blush, it would appear that Kelington’s cause of action had
+merged with that judgment, and it could no longer pursue that cause of action
+at trial.
+
+101 That was, however, not the tenor of the Court Order in which the consent
+judgment was embodied. 86
+
+##### Foot Note 86
+
+×
+
+HC/ORC 3042/2021 made on 25 May 2021, filed on 2 June 2021.
+
+Paragraph 1 of the Court Order recorded the consent judgment in favour of
+Kelington for RM24,000. However, paragraph 2 of the Court Order stated that Mr
+Gan was granted unconditional leave to defend the rest of Kelington’s claims,
+and paragraph 3 of the Court Order stated that costs shall be in the cause,
+fixed at $4,000 (all in). It is implicit in paragraphs 2 and 3 that Kelington
+still had claims to pursue at trial.
+
+102 Kelington, though, only had one cause of action, rather than several
+causes of action out of which judgment had only been entered for one. If
+Kelington’s sole cause of action had merged with the consent judgment for
+RM24,000, it could no longer continue with that cause of action to recover the
+balance of the RM1,453,565.22 that it had claimed.
+
+103 At the summary judgment hearing, it was not contended that the consent
+judgment would have that effect. Instead, it appears to have been common
+ground that Kelington could treat the RM24,000 as merely satisfying its claims
+in part, and continue to trial for the rest of what it was claiming.
+
+104 Compounding the matter, one possible outcome of the trial was a finding
+that the commencement date of Mr Gan’s employment term was 1 December 2020 but
+that clause 1.5 of the LOA was an unenforceable penalty clause. In that
+scenario, Kelington’s claim for RM1,453,565.22 pursuant to clause 1.5 would
+fail. In principle, Kelington would still be entitled to damages for breach of
+contract (nominal or otherwise), but those damages would not necessarily be as
+much as the sum of RM24,000 in the consent judgment. If the court found that
+Kelington was only entitled to a sum less than RM24,000, that would then
+contradict the consent judgment.
+
+105 In its statement of claim, Kelington had sought the sum of RM1,453,565.22
+“or such other sum as this Honourable Court deems fit”. 87
+
+##### Foot Note 87
+
+×
+
+SOC (SDB, page 6)
+
+However, Kelington adduced no evidence to prove what loss Mr Gan’s breach of
+contract had actually caused it; instead, Kelington simply claimed on the
+basis that Mr Gan was liable to pay the balance of three years’ worth of his
+salary (after offsetting the salary due to Mr Gan for his employment from 1 to
+22 December 2020), pursuant to clause 1.5. If that claim failed because clause
+1.5 was an unenforceable penalty clause, then Kelington would only have
+received nominal damages, for which I would not have awarded as much as
+RM24,000.
+
+106 As such, when the consent judgment was entered, the parties could not be
+sure that Mr Gan would be liable to Kelington for RM24,000 in any event. It
+would have been better to order the sum of RM24,000 as an interim payment,
+rather than to enter a consent judgment – in the case of an interim payment,
+there can be an adjustment, if necessary, at the time of final judgment.
+
+107 In the awkward situation which has arisen, I would interpret the consent
+judgment in the context of the whole Court Order, ie, the consent judgment for
+RM24,000 was awarded on the premise that Kelington could continue with its
+claims at trial for the balance of the RM1,453,565.22 which it had originally
+claimed, as well as for interest and costs. Kelington’s cause of action merges
+with that consent judgment, but its right to continue pursuing the balance of
+its claim is preserved by the same order of court. I regard the consent
+judgment as being in the nature of an interlocutory judgment on liability,
+with the trial being to determine what, if anything, Kelington was still
+entitled to recover, besides the sum of RM24,000.
+
+108 The consent judgment would still have conflicted with a potential finding
+that Kelington was only entitled to a sum less than RM24,000, but that is not
+the finding I have made. In any event, it appears that Mr Gan was content to
+pay Kelington RM24,000 regardless of the outcome of the trial – he did not
+indicate that he would seek any adjustment to that sum.
+
+109 On Subsidiary Issue (2), I thus find that the consent judgment does not
+preclude Kelington from seeking a higher sum at trial.
+
+Conclusion
+
+110 For the above reasons, save for the consent judgment for RM24,000 which
+has already been satisfied by Mr Gan (and which I do not disturb), I dismiss
+all of Kelington’s claims against Mr Gan.
+
+111 Unless the parties are able to agree on costs, they are to file costs
+submissions, limited to 8 pages (excluding any schedule of disbursements),
+within 14 days.
+
+Andre Maniam  
+Judge of the High Court|  
+---|---  
+  
+Lee Ee Yang, Wong En Hui Charis (Covenant Chambers LLC) for the plaintiff;
+
+Gopalakrishnan Dinagaran, Lawrence Tan (Prestige Legal LLP) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 26 Apr 2022 (11:46 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

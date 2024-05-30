@@ -1,0 +1,1089 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2024] SGHC 2
+
+Magistrate’s Appeal No 9020 of 2023
+
+Criminal Revision No 3 of 2023
+
+Between
+
+| Nicholas Ng  
+---|---  
+  
+… Appellant
+
+And
+
+| Public Prosecutor  
+---|---  
+  
+… Respondent
+
+grounds of decision
+
+[Criminal Law — Statutory offences — Customs Act]
+
+[Criminal Procedure and Sentencing — Appeal]
+
+[Criminal Procedure and Sentencing — Sentencing — Sentencing framework]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Ng Nicholas
+
+  
+v
+
+  
+
+Public Prosecutor
+
+[2024] SGHC 2
+
+General Division of the High Court — Magistrate’s Appeal No 9020 of 2023 and
+Criminal Revision No 3 of 2023  
+Vincent Hoong J  
+2, 11, 23 October 2023
+
+10 January 2024
+
+Vincent Hoong J:
+
+Introduction
+
+1 This case involved an offender (“the Appellant”) who claimed trial to 23
+charges. The charges related to the excise duty, Goods and Services Tax
+(“GST”) and Additional Registration Fee (“ARF”) payable on nine vehicles which
+were imported into Singapore. In essence, the Appellant had underdeclared the
+value of nine vehicles to the Singapore Customs (“Customs”), which allowed him
+to pay less excise duty, GST and ARF for these vehicles. A key issue in this
+appeal was whether the sentencing framework laid down by the High Court in
+Public Prosecutor v Tan Teck Leong Melvin [2023] SGHC 188 (“Melvin Tan") for
+the offence of fraudulent evasion of GST on imported goods under s 128D and
+punishable under s 128L(2) of the Customs Act (Cap 70, 2004 Rev Ed) (“Customs
+Act”) was applicable to charges for fraudulent evasion of excise duty under s
+128D and punishable under s 128L(2) of the Customs Act of which the Appellant
+was convicted.
+
+2 The charges which the Appellant faced comprised:
+
+(a) six charges under s 128D and punishable under s 128L(2) of the Customs Act
+which concerned the fraudulent evasion of excise duty leviable on eight of the
+vehicles;
+
+(b) six charges under s 128D of the Customs Act read with ss 26 and 77 of the
+Goods and Services Tax Act (Cap 117A, 2005 Rev Ed) (“GST Act”) and punishable
+under s 128L(2) of the Customs Act which concerned the fraudulent evasion of
+GST leviable on eight of the vehicles;
+
+(c) one charge under s 128(1)(a) and punishable under s 128L(1) of the Customs
+Act which concerned the Appellant’s conduct of causing Penanshin Air Express
+Pte Ltd (“Penanshin Air”) to incorrectly declare the value of a vehicle in a
+cargo clearance permit that resulted in a shortfall in the excise duty
+payable;
+
+(d) one charge under s 128(1)(a) of the Customs Act read with ss 26 and 77 of
+the GST Act and punishable under s 128L(1) of the Customs Act which concerned
+the Appellant’s conduct of causing Penanshin Air to incorrectly declare the
+value of a vehicle in a cargo clearance permit that resulted in a shortfall in
+the GST payable; and
+
+(e) nine charges under s 11(9) of the Road Traffic Act (Cap 276, 2004 Rev Ed)
+(“RTA”) which concerned the giving of incorrect information in relation to the
+value of the nine vehicles that resulted in a shortfall in the ARF chargeable
+on the nine vehicles.
+
+3 Following the trial, the District Judge (“DJ”) convicted the Appellant of
+the 23 charges and imposed a sentence of four weeks’ imprisonment and a fine
+of $465,033.96, with a default sentence of 30 weeks’ imprisonment. The DJ also
+made an order under s 11(9) of the RTA for the undercharged ARF amounts of
+$219,162 to be paid to the Registrar.
+
+4 The Appellant was dissatisfied with the DJ’s decision and appealed against
+his conviction and sentence in Magistrate’s Appeal No 9020 of 2023 (“MA
+9020”). Having considered the parties’ submissions, I ultimately dismissed the
+Appellant’s appeal against conviction and sentence. Criminal Revision No 3 of
+2023 (“CR 3”) involved an application by the Prosecution for this Court to
+exercise its revisionary powers under s 401 of the Criminal Procedure Code
+2010 (2020 Rev Ed) in relation to the sentence imposed by the DJ for one of
+the charges. This was because the sentence imposed by the DJ was in excess of
+the maximum fine prescribed under s 128L(1) of the Customs Act. Having
+considered CR 3, I allowed the Prosecution’s application and revised the
+sentence for the charge accordingly.
+
+5 I now set out the detailed reasons for my decision below.
+
+Background facts
+
+6 The Appellant was Mr Nicholas Ng. The detailed facts surrounding the
+offences can be found in the DJ’s grounds of decision (see Public Prosecutor v
+Nicholas Ng [2023] SGDC 78). I set out the key facts below.
+
+7 The Appellant was the sole director and shareholder of a company named 1
+Genesis Pte Ltd (“1 Genesis”). He was responsible for the management and
+operation of 1 Genesis. He had, under the name of 1 Genesis, imported motor
+vehicles from the United Kingdom into Singapore. The charges he was convicted
+of relate to the excise duty, GST and ARF payable on nine imported vehicles.
+Eight of these vehicles were imported under the name of 1 Genesis. The
+remaining vehicle was imported under the name of one Justin Chua Yong Chao who
+testified that the Appellant was the actual importer of the vehicle and that
+he was unaware why he was named as the importer of the vehicle.
+
+8 Typically, the process for importing a vehicle into Singapore was as
+follows:
+
+(a) To import a vehicle into Singapore, an importer was required to submit
+declarations to Customs in respect of the cost, insurance and freight (“CIF”)
+value of the vehicles, which was typically the price at which the importer
+bought the vehicles.
+
+(b) Thereafter, Customs relied on the declarations to calculate the approved
+value at which the importer could import the vehicles. This approved value was
+conveyed to the importer, who then relied on the approved value to obtain
+cargo clearance permits for the vehicles. Crucially, the amount of excise
+duty, GST and ARF payable by the importer was also determined from this
+approved value. 1
+
+##### Foot Note 1
+
+×
+
+Public Prosecutor v Nicholas Ng [2023] SGDC 78 (“GD”) at [11].
+
+(c) Where an importer submitted an inaccurate declaration to Customs, the
+approved value that Customs derived would resultingly be inaccurate. In turn,
+the amount of excise duty, GST and ARF payable, computed based on the
+inaccurate approved value, would also be inaccurate. In other words, an
+importer who under-declared the CIF value of a vehicle was liable to pay a
+lower amount of excise duty, GST and ARF.
+
+The decision below
+
+9 The DJ held that the Prosecution had proven the elements of all charges
+beyond a reasonable doubt. 2
+
+##### Foot Note 2
+
+×
+
+GD at [68].
+
+She found, in essence, that:
+
+(a) the Appellant had made fraudulent declarations of the CIF values of the
+vehicles imported;
+
+(b) the Appellant knew that the actual CIF value of each vehicle was a
+different figure; and
+
+(c) these fraudulent declarations resulted in the evasion of excise duty, GST
+and ARF chargeable for each vehicle.
+
+10 In finding that the Appellant had made fraudulent declarations of the CIF
+values of the vehicles, the crucial issue for determination related to the
+actual CIF values of the vehicles. On this issue, the DJ found that the actual
+CIF values could be obtained from the documents and information which were
+retrieved from the Appellant’s electronic devices during investigations. These
+referred to the multiple invoices and a sales contract retrieved from his
+laptop, WhatsApp messages retrieved from his mobile phone, and evidence of
+fund transfers reflected in his personal and corporate bank account statements
+(referred to collectively by the DJ as the “retrieved values”).
+
+11 In making this finding, the DJ rejected the Appellant’s defence in the
+court below. His defence could broadly be summarised as follows:
+
+(a) The Appellant had a friend by the name of “Yang Fan” (“Yang”). Yang’s
+father lent Yang $200,000 when Yang went to the United Kingdom for his
+university studies.
+
+(b) Based on the Appellant’s statements, Yang then purportedly lent the sum of
+$200,000 to the Appellant to set up his business. The Appellant claimed that
+the retrieved values as set out in the invoices found on his electronic
+devices were inaccurate as the invoices were created by the Appellant to show
+Yang that the vehicles were expensive and he was, therefore, unable to repay
+Yang. 3
+
+##### Foot Note 3
+
+×
+
+Record of Proceedings (“ROP”) at p 1025: Exhibit P33 at A28.
+
+(c) At trial, however, the Appellant presented a different account. According
+to the Appellant at trial, Yang had spent the sum of $200,000 which his father
+had lent him. Yang then lied to his father that he had “put the money” in
+Singapore. The Appellant then assisted Yang by creating an “IOU” for Yang to
+show his father. The Appellant was never able to produce this “IOU” as he
+claimed that it had been seized by Customs. 4
+
+##### Foot Note 4
+
+×
+
+ROP at p 481: Notes of Evidence (“NE”) for 16 August 2022, p 24, lines 4 to
+21.
+
+(d) Despite the inconsistency in the Appellant’s account relating to Yang, the
+Appellant had sought to claim that the actual CIF values were not as reflected
+in the retrieved values. Rather, the actual CIF values could be determined
+from an additional set of invoices which he had provided to Customs
+investigators during investigations (referred to collectively by the DJ as the
+“additional values”).
+
+12 The DJ rejected the Appellant’s defence, finding that the documents which
+contained the additional values were not genuine as they contained glaring
+errors such as wrong chassis numbers and erroneous or missing descriptions of
+the vehicle. 5
+
+##### Foot Note 5
+
+×
+
+GD at [36].
+
+In contrast, the invoices that were retrieved from the Appellant’s laptop did
+not contain the same obvious errors and discrepancies in details of the
+vehicles. 6
+
+##### Foot Note 6
+
+×
+
+GD at [43].
+
+Further, the DJ found that the Appellant was not able to produce any
+information about Yang that enabled the investigators to contact him. 7
+
+##### Foot Note 7
+
+×
+
+GD at [45].
+
+Neither was Yang produced as a witness at trial. 8
+
+##### Foot Note 8
+
+×
+
+GD at [45].
+
+Even on the assumption that Yang was an actual person, the Appellant was
+unable to keep an internally consistent account of why he was fabricating
+invoices. 9
+
+##### Foot Note 9
+
+×
+
+GD at [46].
+
+13 In relation to the sentences, the DJ imposed a fine of $465,033.96 (with a
+default sentence of 30 weeks’ imprisonment) for the 14 Customs Act charges and
+a total sentence of four weeks’ imprisonment for the nine RTA charges.
+
+14 In relation to the 14 Customs Act charges, these were the individual
+sentences:
+
+Charge No| Nature of Offence| Amount involved| Fine (default imprisonment
+term)  
+---|---|---|---  
+DAC-922454-2019| Fraudulent evasion (excise duty)| $842.03| $10,104.36 (one
+week)  
+DAC-922455-2019| Fraudulent evasion (GST)| $353.66| $4,243.92 (one week)  
+DAC-922456-2019| Fraudulent evasion (excise duty)| $2,066.74| $24,800.88
+(three weeks)  
+DAC-922457-2019| Fraudulent evasion (GST)| $868.03| $10,416.36 (one week)  
+DAC-922458-2019| Fraudulent evasion (excise duty)| $6,451.82| $77,421.84
+(three weeks)  
+DAC-922459-2019| Fraudulent evasion (GST)| $2,709.77| $32,517.24 (two weeks)  
+DAC-922460-2019| Fraudulent evasion (excise duty)| $10,889.58| $130,674.96
+(six weeks)  
+DAC-922461-2019| Fraudulent evasion (GST)| $4,573.63| $54,883.56 (three weeks)  
+DAC-922462-2019| Fraudulent evasion (excise duty)| $3,374.03| $40,488.36
+(three weeks)  
+DAC-922463-2019| Fraudulent evasion (GST)| $1,417.09| $17,005.08 (one week)  
+DAC-922464-2019| Fraudulent evasion (excise duty)| $2,091.26| $25,095.12 (two
+weeks)  
+DAC-922465-2019| Fraudulent evasion (GST)| $878.33| $10,539.96 (one week)  
+DAC-922466-2019| Incorrect declaration (excise duty)| $1,575.25| $$18,903.00
+(one week)  
+DAC-922467-2019| Incorrect declaration (GST)| $661.61| $7,939.32 (one week)  
+| Total| $38,752.83| $465,033.96 (30 weeks)  
+  
+15 In relation to the nine RTA charges, the DJ imposed a sentence of two
+weeks’ imprisonment per charge, with two of the sentences ordered to run
+consecutively, resulting in a total sentence of four weeks’ imprisonment. An
+order for the undercharged ARF amounts of $219,162 was also made under s 11(9)
+of the RTA. I set out the sentences imposed for the nine RTA charges below:
+
+MSC No.| Nature of Offence| Amount involved| Sentence imposed  
+---|---|---|---  
+MSC-902446-2020| Incorrect information (ARF)| $40,696| Two weeks’ imprisonment
+(consecutive)  
+MSC-902447-2020| Incorrect information (ARF)| $18,600| Two weeks’ imprisonment
+(consecutive)  
+MSC-902448-2020| Incorrect information (ARF)| $43,195| Two weeks’ imprisonment
+(concurrent)  
+MSC-902449-2020| Incorrect information (ARF)| $42,294| Two weeks’ imprisonment
+(concurrent)  
+MSC-902450-2020| Incorrect information (ARF)| $14,638| Two weeks’ imprisonment
+(concurrent)  
+MSC-902451-2020| Incorrect information (ARF)| $30,063| Two weeks’ imprisonment
+(concurrent)  
+MSC-902452-2020| Incorrect information (ARF)| $7,578| Two weeks’ imprisonment
+(concurrent)  
+MSC-902453-2020| Incorrect information (ARF)| $10,354| Two weeks’ imprisonment
+(concurrent)  
+MSC-902454-2020| Incorrect information (ARF)| $11,744| Two weeks’ imprisonment
+(concurrent)  
+| Total| $219,162| Four weeks’ imprisonment  
+  
+Parties’ submissions on appeal
+
+16 On appeal, the Appellant’s main argument against his conviction was that
+the retrieved values were not indicative of the actual CIF values of the
+imported vehicles. In particular, he maintained his claim at trial that the
+invoices retrieved from his laptop were created by him to assist his friend,
+Yang, in placating Yang’s father. 10
+
+##### Foot Note 10
+
+×
+
+Appellant’s Skeletal Submissions dated 20 October 2023 (“AS”) at para 1.
+
+17 In response, the Prosecution submitted that the DJ was correct to convict
+the Appellant. It contended that the Appellant’s account in relation to Yang
+had been inconsistent in the court below, and that there was no evidence to
+even prove the existence of Yang. 11
+
+##### Foot Note 11
+
+×
+
+Prosecution’s Submissions dated 22 September 2023 (“PS”) at para 19.
+
+18 In relation to the sentences imposed for the charges under the Customs Act,
+the Appellant relied on the case of Melvin Tan, where the High Court had laid
+down a sentencing framework for the offence of fraudulent evasion of GST on
+imported goods under s 128D and punishable under s 128L(2) of the Customs Act.
+Applying the sentencing framework in Melvin Tan to all the charges involving s
+128D punishable under s 128L(2) of the Customs Act in the present case
+(referred to collectively as the “s 128D Charges”), the Appellant argued that
+the sentences imposed by the DJ were manifestly excessive. Based on the
+sentencing framework in Melvin Tan, the Appellant contended that the
+indicative starting fines totalling $324,605.28 would be “too harsh” on the
+Appellant, since he was facing “three waves of punishment”: the fines, the
+sentences for the RTA charges as well as the order for the undercharged ARF
+amounts of $219,162 made under s 11(9) of the RTA. Given the above, the
+Appellant urged this Court to order a default sentence of 18 weeks’
+imprisonment for the charges under the Customs Act. 12
+
+##### Foot Note 12
+
+×
+
+AS at para 33.
+
+19 In relation to the sentence for the RTA charges, the Appellant took no
+issue with the individual sentences imposed by the DJ as well as the order for
+two of the sentences to run consecutively. 13
+
+##### Foot Note 13
+
+×
+
+AS at para 33.
+
+However, the Appellant contended that his global sentence should be backdated
+to account for the period that he had spent in remand from 28 August 2021 to
+February 2022, which amounted to 22 weeks and four days. 14
+
+##### Foot Note 14
+
+×
+
+AS at paras 34 and 38.
+
+20 On the other hand, the Prosecution argued that the sentencing framework in
+Melvin Tan should be extended to all specified offences punishable under s
+128L(2) of the Customs Act. 15
+
+##### Foot Note 15
+
+×
+
+PS at para 34.
+
+In applying the sentencing framework in Melvin Tan to the s 128D Charges in
+the present case, the Prosecution contended that the sentences imposed by the
+DJ were in line with the framework and were not manifestly excessive. 16
+
+##### Foot Note 16
+
+×
+
+PS at para 45.
+
+21 Separately, but relatedly, the Prosecution filed an application in Criminal
+Revision No 3 of 2023 (“CR 3”) for this Court to exercise its revisionary
+powers under s 401 of the Criminal Procedure Code 2010 to set aside the
+sentence for one of the charges, DAC-922466-2019. 17
+
+##### Foot Note 17
+
+×
+
+PS at para 46.
+
+As the DJ had noted in the GD, 18
+
+##### Foot Note 18
+
+×
+
+GD at [92].
+
+the Appellant was sentenced to a fine of $18,903 for the offence of incorrect
+declaration under s 128(1)(a) and punishable under s 128L(1) of the Customs
+Act despite the offence only providing for a maximum fine of $10,000, or up to
+12 months’ imprisonment, or both. The Prosecution submitted that the
+appropriate sentence was a maximum fine of $10,000. 19
+
+##### Foot Note 19
+
+×
+
+PS at para 45.
+
+Issues which had to be determined
+
+22 In relation to the Appellant’s conviction, the sole issue to be determined
+was whether the retrieved values from the Appellant’s electronic devices were
+indeed indicative of the actual CIF values of the imported vehicles.
+
+23 In relation to the Appellant’s sentences, the following issues arose for my
+determination:
+
+(a) first, whether the sentencing framework in Melvin Tan was applicable to
+the s 128D Charges;
+
+(b) second, in relation to the s 128D Charges, what the appropriate sentences
+for the Appellant’s charges were;
+
+(c) third, whether any backdating of the imprisonment term was appropriate to
+account for the Appellant’s remand period; and
+
+(d) fourth, in relation to CR 3, what the appropriate sentence for
+DAC-922466-2019 was.
+
+Decision on conviction
+
+Whether the retrieved values were indicative of the actual CIF values of the
+imported vehicles
+
+24 The Appellant argued that the retrieved values were not in fact indicative
+of the actual CIF values of the imported vehicles as they were fake invoices
+created for his friend Yang. 20
+
+##### Foot Note 20
+
+×
+
+AS at paras 1 and 5.
+
+Instead, the Appellant’s submission on appeal was that he had given the
+correct values to Customs and, therefore, had not underdeclared the values of
+the vehicles. 21
+
+##### Foot Note 21
+
+×
+
+AS at para 9.
+
+25 I was unable to accept this proposition. The Appellant’s account of Yang’s
+involvement was both internally and externally inconsistent. In my view, the
+DJ was correct to hold that the retrieved values from the Appellant’s
+electronic devices were indicative of the actual CIF values.
+
+26 Based on the record, the Appellant had not been internally consistent in
+his account of Yang’s involvement with his business, and why these invoices
+were created for Yang. In his recorded statements, the Appellant had claimed
+that Yang had lent him money to set up his business of importing motor
+vehicles. Based on this version of events, the Appellant had created these
+fake invoices to mislead Yang that the vehicles costed more than they did, and
+that he had no money to repay Yang. 22
+
+##### Foot Note 22
+
+×
+
+GD at [46].
+
+27 This, however, was not the Appellant’s case at trial. Instead, the
+Appellant claimed at trial that Yang had not, in fact, lent him a sum of
+money. While Yang’s father had lent Yang a sum of money, Yang had spent it all
+before he had even started the business with the Appellant. Thus, the
+Appellant had supposedly fabricated these invoices to mislead Yang’s father
+into believing that Yang had invested a sum of money into the Appellant’s
+business. 23
+
+##### Foot Note 23
+
+×
+
+GD at [46].
+
+28 The Appellant made no effort to reconcile these inconsistencies. Instead,
+on appeal, the Appellant claimed that he was consistent from the beginning. 24
+
+##### Foot Note 24
+
+×
+
+AS at para 1(a).
+
+In my view, this was clearly an untenable position. Further, even if these two
+accounts could be understood consistently, I found that it was insufficient to
+overturn the DJ’s finding. As the Prosecution argued, Yang, who was central to
+the Appellant’s case, had been uncontactable and had not been called to
+testify at trial. 25
+
+##### Foot Note 25
+
+×
+
+PS at para 19.
+
+The Appellant was also unable to produce further supporting evidence regarding
+Yang. 26
+
+##### Foot Note 26
+
+×
+
+AS at para 7.
+
+In other words, his version of events remained entirely uncorroborated. The
+only evidence that was before the DJ at trial in relation to Yang was the
+Appellant’s bare assertion.
+
+29 Further, I found the Appellant’s version of events to be externally
+inconsistent with the objective evidence before me. As the DJ correctly found,
+the invoices that the Appellant provided during investigations, which he
+claimed to be the actual invoices, were clearly not genuine; rather, they were
+poorly made facsimiles of the legitimate invoices. 27
+
+##### Foot Note 27
+
+×
+
+GD at [36] and [43].
+
+They contained obvious errors and discrepancies which one would not have
+expected from a legitimate commercial invoice. 28
+
+##### Foot Note 28
+
+×
+
+GD at [43].
+
+This stood in stark contrast to the retrieved invoices from the Appellant’s
+laptop, which appeared more professional and contained features that one would
+have expected in a legitimate commercial transaction. 29
+
+##### Foot Note 29
+
+×
+
+GD at [43].
+
+30 For these reasons, I found that the retrieved values were indeed indicative
+of the actual CIF value of the imported vehicles. Seeing that this was the
+Appellant’s key argument on appeal, there was no reason to disturb the DJ’s
+decision to convict the Appellant of all 23 charges against him. For
+completeness, I also found no error made by the DJ in her findings in relation
+to conviction.
+
+Decision on sentence
+
+Whether the sentencing framework in Melvin Tan was applicable to the s 128D
+Charges
+
+31 I noted at the outset that parties agreed that the sentencing framework in
+Melvin Tan was applicable to the s 128D Charges in the present case. Accepting
+this position, however, necessarily meant an extension of the sentencing
+framework in Melvin Tan. In Melvin Tan (at [33]), the High Court was careful
+to confine its analysis to offences under s 128D of the Customs Act involving
+the fraudulent evasion of GST on imported goods, where no harmful goods (such
+as tobacco) were involved. As to whether the sentencing framework adopted
+could also apply to other offences under s 128D involving the fraudulent
+evasion of customs or excise duty, the High Court expressly left the question
+open for future determination in a suitable case given that there were no such
+offences before the court in Melvin Tan.
+
+32 In other words, as it stood before my decision, the sentencing framework in
+Melvin Tan would have applied only to the charges relating to the fraudulent
+evasion of GST, and not the fraudulent evasion of excise duty, notwithstanding
+that the offences arose in relation to importing of the same motor vehicle.
+The Prosecution submitted that the sentencing framework in Melvin Tan can and
+should be extended to all specified offences punishable under s 128L(2) of the
+Customs Act. 30
+
+##### Foot Note 30
+
+×
+
+PS at para 37.
+
+33 Given the High Court’s comments in Melvin Tan, it was appropriate to
+consider in some detail the reasons for extending the framework to the present
+case involving offences for the fraudulent evasion of customs or excise duty.
+
+34 I was unable to accept the Prosecution’s submission in full. I was of the
+view that the sentencing framework in Melvin Tan can and should be extended
+only to apply to offences concerning the fraudulent evasion of GST as well as
+offences concerning the fraudulent evasion of excise duty on imported goods,
+but where no harmful goods were involved. I set out my reasons as follows.
+
+35 First, I agreed with the Prosecution’s submission that many s 128L(2) cases
+would involve the evasion of excise duty and GST imposed on the same good. 31
+
+##### Foot Note 31
+
+×
+
+PS at para 37.
+
+I also accepted that, on a plain reading, s 128L(2) of the Customs Act made no
+distinction between the type of duty or tax evaded. 32
+
+##### Foot Note 32
+
+×
+
+PS at para 37.
+
+Indeed, one of the sentencing aims of s 128L(2), that of preventing loss of
+revenue to the State, would also apply equally across offences concerning the
+fraudulent evasion of GST and offences concerning the fraudulent evasion of
+excise duty. 33
+
+##### Foot Note 33
+
+×
+
+PS at para 36.
+
+36 Second, I agreed with the Prosecution’s submission that the sentencing
+framework in Melvin Tan was introduced to promote consistency and provide
+coherence to the sentencing practice. 34
+
+##### Foot Note 34
+
+×
+
+PS at para 39.
+
+Extending it to offences concerning the fraudulent evasion of excise duty was
+certainly in line with the High Court’s intentions in Melvin Tan.
+
+37 However, I was of the view that this framework should not be extended to
+all specified offences that were punishable under s 128L(2) of the Customs
+Act. It should be noted that there are separate punishment provisions and
+carve-outs for offences involving goods consisting wholly or partly of
+relevant tobacco products, as provided under ss 128L(2), 128L(4), 128L(5) and
+128L(5A) of the Customs Act.
+
+38 Given that the present case did not involve the other types of specified
+offences under s 128L(2), and I did not have the benefit of hearing full
+arguments from parties on this, I found it appropriate only to extend the
+sentencing framework in Melvin Tan to also apply to offences concerning the
+fraudulent evasion of excise duty payable on imported goods, where no harmful
+goods are involved.
+
+Whether the sentences imposed by the DJ for the Appellant’s s 128D Charges
+were manifestly excessive
+
+39 With that in mind, I turned to the second issue for my consideration. In
+applying the sentencing framework in Melvin Tan to the present case, I
+considered what the appropriate sentences were in relation to the s 128D
+Charges.
+
+40 Applying the sentencing framework in Melvin Tan, I found that the DJ’s
+imposed fines were about 37.7% higher than the indicative starting fines under
+the framework.
+
+41 Under Step 1 of the sentencing framework in Melvin Tan, I had to ascertain
+the indicative starting fines for the individual s 128D Charges. The framework
+which was devised by the court in Melvin Tan applies different multiplier
+values based on the amount of GST evaded. In my view, this sentencing
+framework could be extended such that different multiplier values would apply
+based on the amount of GST or excise duty evaded. Accordingly, the framework
+set out below would allow a court to determine the range of indicative fine
+based on the amount of GST or excise duty evaded:
+
+Amount of tax or duty evaded| Multiplier applied to each bracket| Range of
+indicative fine  
+---|---|---  
+$1 to $250| × 12| $12 to $3,000  
+$251 to $1,000| × 10| $3,010 to $10,500  
+$1,001 to $10,000| × 8| $10,508 to $82,500  
+$10,001 to $100,000| × 6| $82,506 to $622,500  
+$100,001 to $500,000| × 4| $622,504 to $2,222,500  
+$500,001 to $1m| × 3| $2,222,503 to $3,722,500  
+>$1m| × 2| ˃ $3,722,500  
+  
+42 As the court had set out in Melvin Tan (at [41]), the multiplier values set
+out at each level are to be applied cumulatively, in the same way that income
+tax is computed in Singapore. Applying the respective multipliers to the
+amount of GST and excise duty evaded, I ascertained the indicative starting
+fines for the s 128D Charges in the present case as follows:
+
+(a) For DAC-922454-2019, the amount of excise duty evaded was $842.03. The
+indicative starting fine would be $8,920.30, derived from ($842.03 - $250) ×
+10 + $3,000.
+
+(b) For DAC-922455-2019, the amount of GST evaded was $353.66. The indicative
+starting fine would be $4,036.60, derived from ($353.66 - $250) × 10 + $3,000.
+
+(c) For DAC-922456-2019, the amount of excise duty evaded was $2,066.74. The
+indicative starting fine would be $19,033.92, derived from ($2,066.74 -
+$1,000) × 8 + $10,500.
+
+(d) For DAC-922457-2019, the amount of GST evaded was $868.03. The indicative
+starting fine would be $9,180.30, derived from ($868.03 - $250) × 10 + $3000.
+
+(e) For DAC-922458-2019, the amount of excise duty evaded was $6,451.82. The
+indicative starting fine would be $54,114.56, derived from ($6,451.82 -
+$1,000) × 8 + $10,500.
+
+(f) For DAC-922459-2019, the amount of GST evaded was $2,709.77. The
+indicative starting fine would be $24,178.16, derived from ($2,709.77 -
+$1,000) × 8 + $10,500.
+
+(g) For DAC-922460-2019, the amount of excise duty evaded was $10,889.58. The
+indicative starting fine would be $87,837.48, derived from ($10,889.58 -
+$10,000) × 6 + $82,500.
+
+(h) For DAC-922461-2019, the amount of GST evaded was $4,573.63. The
+indicative starting fine would be $39,089.04, derived from ($4,573.63 -
+$1,000) × 8 + $10,500.
+
+(i) For DAC-922462-2019, the amount of excise duty evaded was $3,374.03. The
+indicative starting fine would be $29,492.24, derived from ($3,374.03 -
+$1,000) × 8 + $10,500.
+
+(j) For DAC-922463-2019, the amount of GST evaded was $1,417.09. The
+indicative starting fine would be $13,836.72, derived from ($1,417.09 -
+$1,000) × 8 + $10,500.
+
+(k) For DAC-922464-2019, the amount of excise duty evaded was $2,091.26. The
+indicative starting fine would be $19,230.08, derived from ($2,091.26 -
+$1,000) × 8 + $10,500.
+
+(l) For DAC-922465-2019, the amount of GST evaded was $878.33. The indicative
+starting fine would be $9,283.30, derived from ($878.33 - $250) × 10 + $3,000.
+
+43 As can be seen in the table below, the fines which were imposed by the DJ
+were generally higher than the indicative starting fines based on an
+application of the sentencing framework in Melvin Tan:
+
+Charge| Amount involved| Indicative Starting fine under Melvin Tan| Fine
+imposed by the DJ| Difference  
+---|---|---|---|---  
+DAC-922454-2019| $842.03| $8,920.30| $10,104.36| 13.3% increase  
+DAC-922455-2019| $353.66| $4,036.60| $4,243.92| 5.1% increase  
+DAC-922456-2019| $2,066.74| $19,033.92| $24,800.88| 30.3% increase  
+DAC-922457-2019| $868.03| $9,180.30| $10,416.36| 13.5% increase  
+DAC-922458-2019| $6,451.82| $54,114.56| $77,421.84| 43.1% increase  
+DAC-922459-2019| $2,709.77| $24,178.16| $32,517.24| 34.5% increase  
+DAC-922460-2019| $10,889.58| $87,837.48| $130,674.96| 48.8% increase  
+DAC-922461-2019| $4,573.63| $39,089.04| $54,883.56| 40.4% increase  
+DAC-922462-2019| $3,374.03| $29,492.24| $40,488.36| 37.3% increase  
+DAC-922463-2019| $1,417.09| $13,836.72| $17,005.08| 22.9% increase  
+DAC-922464-2019| $2,091.26| $19,230.08| $25,095.12| 30.5% increase  
+DAC-922465-2019| $878.33| $9,283.30| $10,539.96| 13.5% increase  
+Total:| $36,515.97| $318,232.70| $438,191.64| 37.7% increase  
+  
+44 The Appellant submitted that even the indicative starting fines under the
+sentencing framework in Melvin Tan were harsh, and focused instead on seeking
+a default sentence of 18 weeks’ imprisonment. 35
+
+##### Foot Note 35
+
+×
+
+AS at para 33.
+
+On the other hand, the Prosecution contended that the DJ’s imposed fines were
+justifiable even based on a consideration of the sentencing framework in
+Melvin Tan. 36
+
+##### Foot Note 36
+
+×
+
+PS at para 42.
+
+45 I agreed with the Prosecution for the following reasons:
+
+(a) First, as the court made clear in Melvin Tan (at [45]), the indicative
+starting fines were meant for first-time offenders who pleaded guilty at the
+earliest available opportunity. In the present case, the Appellant had not
+pleaded guilty.
+
+(b) Second, under Step 2 of the sentencing framework in Melvin Tan, the court
+was required to identify the aggravating and mitigating factors present in the
+case and make adjustments to the indicative starting fines where necessary. In
+my view, the presence of several aggravating factors coupled with the absence
+of any mitigating factors justified an uplift from the indicative starting
+fines.
+
+(i) The aggravating factors which featured in the present case included
+planning and premeditation by the Appellant, and evidence of him making a
+personal monetary gain from the offences.
+
+(ii) In relation to mitigating factors, the Appellant argued that he had fully
+cooperated with the authorities. 37
+
+##### Foot Note 37
+
+×
+
+AS at para 29(k).
+
+He contended that his past incident of abscondment was unintentional, and that
+he was not of any flight risk during his abscondment. 38
+
+##### Foot Note 38
+
+×
+
+AS at para 35.
+
+I was not persuaded by this argument. Whether the abscondment was intentional
+did not change the fact that the Appellant had failed to cooperate with the
+authorities. Thus, I was of the view that there were no mitigating factors in
+the present case.
+
+46 Third, under Step 3 of the sentencing framework in Melvin Tan, the court
+was required to consider the totality principle. In my view, the fines imposed
+by the DJ were in line with the totality principle. As the court had stated in
+Melvin Tan (at [53]), it was relevant to consider whether the overall fine
+quantum was just and appropriate, especially if the offender was of limited
+financial means. This was precisely what the DJ had done in the court below
+when she considered the Appellant’s impecuniosity due to his bankruptcy. 39
+
+##### Foot Note 39
+
+×
+
+GD at [84]–[85].
+
+I found no reason to disturb her finding in this regard.
+
+47 For these reasons, I upheld the fines imposed by the DJ in relation to the
+s 128D Charges.
+
+48 In relation to the corresponding default sentences for the s 128D Charges,
+the High Court in Melvin Tan (at [67]) had provided guidance on the indicative
+default sentences for the fine quantum imposed per charge:
+
+Fine quantum imposed per charge| Indicative default sentence  
+---|---  
+Up to $500,000| Up to six months  
+$500,000 to $1m| Six to 12 months  
+$1m to $2m| 12 to 24 months  
+$2m to $3m| 24 to 36 months  
+$3m to $5m| 36 to 48 months  
+$5m to $10m| 48 to 72 months  
+$10m and above| 72 months (statutory maximum)  
+  
+49 The Prosecution submitted that the default sentences of one to six weeks’
+imprisonment imposed by the DJ for fines ranging from about $10,000 to about
+$130,000 was broadly in line with the above framework. 40
+
+##### Foot Note 40
+
+×
+
+PS at para 44.
+
+50 I agreed with the Prosecution’s submission. In my view, the DJ had
+reasonably calibrated the default sentences based on the fine imposed for each
+charge. As the court had considered when devising the framework for default
+imprisonment terms in Melvin Tan (at [66]), this was the proper approach to
+deriving the indicative default imprisonment term for each charge. I saw no
+reason to disturb the default imprisonment terms imposed by the DJ in relation
+to the s 128D Charges as set out in the table below:
+
+Charge| Amount involved| Fine imposed by the DJ| Default imprisonment term  
+---|---|---|---  
+DAC-922454-2019| $842.03| $10,104.36| One week  
+DAC-922455-2019| $353.66| $4,243.92| One week  
+DAC-922456-2019| $2,066.74| $24,800.88| Three weeks  
+DAC-922457-2019| $868.03| $10,416.36| One week  
+DAC-922458-2019| $6,451.82| $77,421.84| Three weeks  
+DAC-922459-2019| $2,709.77| $32,517.24| Two weeks  
+DAC-922460-2019| $10,889.58| $130,674.96| Six weeks  
+DAC-922461-2019| $4,573.63| $54,883.56| Three weeks  
+DAC-922462-2019| $3,374.03| $40,488.36| Three weeks  
+DAC-922463-2019| $1,417.09| $17,005.08| One week  
+DAC-922464-2019| $2,091.26| $25,095.12| Two weeks  
+DAC-922465-2019| $878.33| $10,539.96| One week  
+Total:| $36,515.97| $438,191.64| 27 weeks’ imprisonment  
+  
+Whether the total imprisonment term should be backdated to account for the
+Appellant’s remand period
+
+51 I then considered the Appellant’s contention that the total imprisonment
+term should have been backdated to account for his remand period from 28
+August 2021 to 10 February 2022, which amounted to 22 weeks and four days. 41
+
+##### Foot Note 41
+
+×
+
+AS at para 34.
+
+52 I was unable to accept this argument. First, default imprisonment terms
+cannot be backdated to commence from the date of remand. Second, I found that
+the DJ had already taken his remand period into account in calibrating the
+default imprisonment term. 42
+
+##### Foot Note 42
+
+×
+
+GD at [89].
+
+53 Third, in considering the justice of the case as part of the totality
+principle, I noted that the Appellant’s remand period arose only because he
+had absconded and failed to comply with the conditions stated in the Court
+order. 43
+
+##### Foot Note 43
+
+×
+
+GD at [90].
+
+In my view, this diminished the significance of the Appellant’s remand period
+as it had to be weighed against his disregard for the conditions which were
+imposed upon him. Thus, I was unable to place great weight on the Appellant’s
+remand period.
+
+54 For these reasons, I upheld the default imprisonment terms imposed by the
+DJ in relation to the s 128D Charges.
+
+The appropriate outcome for CR 3 and the appropriate sentence for
+DAC-922466-2019
+
+55 It was clear that the fine of $18,903 (with a default sentence of two
+weeks’ imprisonment) imposed by the DJ for this charge was in excess of the
+maximum fine prescribed under s 128L(1) of the Customs Act. Thus, I exercised
+my revisionary powers to set aside the sentence imposed and remedy the serious
+injustice. The Prosecution argued that the maximum fine of $10,000 should be
+imposed instead. 44
+
+##### Foot Note 44
+
+×
+
+PS at para 48.
+
+56 I agreed with the Prosecution’s submission. While there were aggravating
+factors which featured in relation to the charge, these were insufficient to
+result in the custodial threshold being crossed. 45
+
+##### Foot Note 45
+
+×
+
+PS at para 49.
+
+On the other hand, the Appellant’s offence was serious enough to warrant the
+maximum fine being imposed. Thus, I found it appropriate for a fine of $10,000
+(with a default sentence of one week’s imprisonment) to be imposed on the
+Appellant for DAC-922466-2019.
+
+Conclusion
+
+57 To conclude, I dismissed the Appellant’s appeals against his conviction and
+his sentence:
+
+(a) In relation to the Appellant’s conviction, I found no reason to disturb
+the DJ’s findings in relation to the actual CIF values of the imported values.
+Ng’s account of Yang was both internally inconsistent and externally
+inconsistent.
+
+(b) In relation to the Appellant’s sentences, I found it appropriate to extend
+the sentencing framework in Melvin Tan to apply beyond offences involving the
+fraudulent evasion of GST. In particular, I found that the sentencing
+framework ought to also apply to offences involving the fraudulent evasion of
+excise duty under s 128D punishable under s 128L(2) of the Customs Act. In
+determining so, I found that the sentences imposed by the DJ were justifiable
+and in line with the framework. Therefore, I upheld the DJ’s decision in
+relation to the Appellant’s sentences.
+
+58 In relation to the application in CR 3, I allowed the application and
+exercised my revisionary powers to set aside the sentence imposed by the DJ
+DAC-922466-2019, given that the fine imposed clearly exceeded the maximum fine
+statutorily prescribed. I accepted the Prosecution’s submission and found it
+appropriate to impose a fine of $10,000 (with a default sentence of one week’s
+imprisonment).
+
+59 As a result of my decision to allow CR 3, this meant a total sentence of
+four weeks’ imprisonment and a fine of $456,130.96 (with a default sentence of
+29 weeks’ imprisonment). For completeness, I did not disturb the DJ’s order
+under s 11(9) of the RTA for the undercharged ARF amounts of $219,162 to be
+paid to the Registrar.
+
+Vincent Hoong  
+Judge of the High Court  
+---  
+  
+Kanagavijayan Nadarajan (Kana & Co) for the appellant;
+
+Timotheus Koh (Attorney-General’s Chambers) for the respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 10 Jan 2024 (09:21 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

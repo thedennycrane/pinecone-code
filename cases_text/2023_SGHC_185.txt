@@ -1,0 +1,661 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 185
+
+Originating Application No 189 of 2023 (Registrar’s Appeal No 77 of 2023)
+
+Between
+
+| DAY  
+---|---  
+  
+… Claimant
+
+And
+
+| DAZ  
+---|---  
+  
+… Defendant
+
+grounds of decision
+
+[Arbitration — Stay of court proceedings — Mandatory stay under International
+Arbitration Act]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+DAY
+
+  
+v
+
+  
+
+DAZ
+
+[2023] SGHC 185
+
+General Division of the High Court — Originating Application No 189 of 2023
+(Registrar’s Appeal No 77 of 2023)  
+Chua Lee Ming J  
+15 May 2023
+
+5 July 2023
+
+Chua Lee Ming J:
+
+Introduction
+
+1 This was an appeal by the defendant against the Assistant Registrar’s
+decision dismissing its application to stay the proceedings under HC/OA
+189/2023 (“OA 189”) in favour of arbitration, pursuant to s 6 of the
+International Arbitration Act (2020 Rev Ed) (the “IAA”) or, alternatively, the
+court’s inherent powers of case management.
+
+2 The critical issue in the defendant’s application for a stay was whether the
+dispute arising in OA 189 fell within the scope of the arbitration agreement
+or whether it was carved out from the arbitration agreement.
+
+3 For the reasons below, I allowed the appeal and ordered that OA 189 be
+stayed pursuant to s 6 of the IAA.
+
+Background facts
+
+4 On 28 October 2019, the claimant, the defendant, the defendant’s related
+company (“RelCo”) and the defendant’s parent company (“HoldCo”) entered into a
+funding agreement (the “LFA”). 1
+
+##### Foot Note 1
+
+×
+
+1st affidavit filed on behalf of the claimant on 1 March 2023 (“Claimant’s 1st
+affidavit”) at pp 21–61.
+
+5 Pursuant to the LFA, the claimant agreed to provide funding and project
+support services to the defendant and RelCo to pursue their claims against two
+companies, Co1 and Co2, respectively. Project support services included, among
+others, assisting the defendant and RelCo with commercial and strategic
+issues, assisting with the identification and retention of service providers,
+and facilitating any alternative dispute resolution process (eg, negotiations,
+discussions, mediation, conciliation). In exchange, the defendant and RelCo
+agreed that the claimant was entitled, strictly as a first priority, to
+receive certain amounts out of any settlement or judgment sum obtained.
+
+6 The present proceedings concerned only the defendant’s claim against Co1.
+
+7 On 4 March 2020, the defendant commenced arbitration proceedings against Co1
+(the “Arbitration”). The tribunal issued a final award on 16 September 2021 in
+favour of the defendant (the “Final Award”). The claimant paid for the costs
+of the Arbitration pursuant to the LFA.
+
+8 On 14 October 2021, Co1 applied to the English High Court to set aside parts
+of the Final Award. The application was dismissed by the English High Court on
+11 January 2022. The claimant funded the costs incurred by the defendant in
+defending Co1’s application.
+
+9 Co1 and the defendant subsequently entered into settlement negotiations. The
+parties exchanged drafts of the settlement agreements between July 2022 and
+September 2022.
+
+10 On or around 21 September 2022, the defendant’s solicitors sent a draft
+settlement agreement (the “Draft Settlement Agreement”) to Co1’s solicitors.
+The terms of the Draft Settlement Agreement provided that Co1 would pay an
+agreed sum to the defendant in instalments. By an email dated 22 September
+2022, Co1 agreed to the terms of the Draft Settlement Agreement. The claimant
+also agreed that the terms of the Draft Settlement Agreement were acceptable
+and appropriate.
+
+11 However, on 26 September 2022, the defendant informed the claimant that it
+would not enter the Draft Settlement Agreement unless the claimant was
+prepared to share the first instalment payment with the defendant. The
+claimant did not agree to the defendant’s proposal.
+
+12 On 11 October 2022, the claimant wrote to the defendant putting it on
+notice that its failure to promptly execute the Draft Settlement Agreement was
+a breach of the terms of the LFA, including General Term (“GT”) 4.1, which
+provided that the defendant must act in good faith in respect of its
+obligations to the claimant. 2
+
+##### Foot Note 2
+
+×
+
+Claimant’s 1st affidavit, at pp 66–69.
+
+The claimant requested that the defendant remedy the breach by executing the
+Draft Settlement Agreement as soon as practicable and no later than 14 October
+2022.
+
+13 On 13 October 2022, the defendant replied (through its lawyers) stating
+that it did not wish to enter the Draft Settlement Agreement. 3
+
+##### Foot Note 3
+
+×
+
+Claimant’s 1st affidavit, at pp 71–73.
+
+The defendant explained that the commercial rationale for accepting the
+proposed instalment payment plan had evaporated, in light of its difficult
+financial predicament in the preceding few months. The defendant expressed its
+concern that under the instalment payment plan, it would not recover anything
+until the final tranche payment and that the risk of Co1 defaulting on that
+final payment was high. The defendant denied that it had committed an event of
+default under the LFA.
+
+The dispute between the parties
+
+14 Specific Term (“ST”) 3.3 of the LFA provided a mechanism for resolving
+disagreements between the claimant and the defendant over whether to agree to
+a settlement of the defendant’s claim against Co1. The first step involved the
+defendant’s lawyers providing a written opinion as to whether the proposed
+settlement was fair and reasonable. If the claimant and the defendant still
+could not resolve their disagreement, an independent counsel (either agreed
+between the parties or appointed by the “President of the Singapore Bar
+Association”) would provide a written opinion as to whether the proposed
+settlement was fair and reasonable. Under ST 3.4 of the LFA, the opinion of
+counsel instructed under ST 3 would be “final and binding” on the claimant and
+the defendant. The full text of ST 3.3 and ST 3.4 are set out in [26] below.
+
+15 According to the claimant, it was agreed on 20 October 2022 that pursuant
+to ST 3.3 of the LFA, the defendant’s lawyers would prepare a written opinion
+on whether the Draft Settlement Agreement was fair and reasonable. The
+defendant denied any such agreement.
+
+16 It was not disputed that the defendant’s lawyers did commence preparing an
+opinion as to whether the Draft Settlement Agreement was fair and reasonable.
+However, the defendant claimed that although its lawyers had commenced work on
+the written opinion, they were simultaneously advising the defendant as to
+whether the dispute resolution mechanism in ST 3.3 even applied. An email
+dated 21 November 2022 from the defendant’s lawyers to the claimant stated
+that the defendant had taken legal advice and that it was not required under
+ST 3.3 to instruct its lawyers to opine on whether the Draft Settlement
+Agreement was fair and reasonable. 4
+
+##### Foot Note 4
+
+×
+
+Claimant’s 1st affidavit, at p 81.
+
+17 In summary, the defendant’s reasons for its position that ST 3.3 and ST 3.4
+did not apply to the Draft Settlement Agreement were as follows:
+
+(a) ST 3.3 and ST 3.4 concerned the settlement of “Claims” or “Proceedings”,
+which (as defined) would include recognition and enforcement proceedings only
+if the claimant had agreed to fund such proceedings in accordance with the
+terms of the LFA.
+
+(b) The Draft Settlement Agreement did not relate to the defendant’s claim
+against Co1 but related to the enforcement of the Final Award against Co1. It
+fell within the meaning of “Proceedings” only if the claimant had agreed to
+fund the enforcement proceedings in accordance with the terms of the LFA.
+Pursuant to GT 8.1 and GT 8.2 of the LFA, the claimant had to notify the
+defendant and its lawyers in writing that it was prepared to fund the
+enforcement proceedings. The claimant did not give any such notice to the
+defendant and its lawyers. Consequently, the Draft Settlement Agreement was
+not a settlement of “the Proceedings” within the meaning of ST 3.3.
+
+18 The claimant disagreed with the defendant and on 2 March 2023, the claimant
+filed OA 189 seeking, in substance, specific performance of ST 3.3. The
+claimant sought, among others, the following orders:
+
+(a) The defendant to jointly (with the claimant) instruct an independent
+counsel to be agreed or otherwise to be appointed by the President of the Law
+Society of Singapore to provide his or her written opinion within seven (7)
+days from appointment as to whether the terms of the Draft Settlement
+Agreement were fair and reasonable in the circumstances.
+
+(b) The defendant to take all necessary steps to execute the Draft Settlement
+Agreement if the independent counsel’s opinion is that the Draft Settlement
+Agreement was fair and reasonable.
+
+(c) The defendant to disclose to the claimant’s solicitors, within seven (7)
+days of the Order to be made herein, the identity, address, and the contact
+details of the defendant’s secured creditors in order for a copy of the Order
+to be made herein to be served on the Creditors.
+
+19 On 27 March 2023, the defendant filed HC/SUM 860/2023 (“SUM 860”) for a
+stay of the whole action in OA 189 in favour of arbitration, pursuant to s 6
+of the IAA or the court’s inherent powers of case management. The defendant
+relied on the arbitration agreement under GT 14 of the LFA. GT 14.1 provided
+that any dispute arising out of the LFA “which is not subject to Specific Term
+3.3 and 3.4” must be resolved in accordance with GT 14. GT 14 provided for
+disputes to be resolved by way of good faith endeavours, mediation (if the
+parties so agree), and arbitration (if the dispute remained unresolved). The
+relevant provisions of GT 14 are set out in full in [25] below.
+
+20 On 12 April 2023, the AR dismissed the defendant’s application for a stay
+of proceedings. The issue before the AR was whether the anterior question as
+to whether ST 3.3 and ST 3.4 applied to the Draft Settlement Agreement fell
+within the scope of GT 14 or whether it had been carved out from GT 14. The AR
+held that the dispute as to whether the defendant should be compelled to
+obtain a written opinion from its lawyers in accordance with ST 3 had been
+carved out from the arbitration agreement in GT 14.
+
+21 On 18 April 2023, the defendant lodged the present appeal against the AR’s
+decision.
+
+The law applicable to a stay application under s 6 of the IAA
+
+22 A court hearing a stay application under s 6 of the IAA should grant a stay
+in favour of arbitration if the applicant is able to establish a prima facie
+case that:
+
+(a) there is a valid arbitration agreement between the parties to the court
+proceedings;
+
+(b) the dispute in the court proceedings (or any part thereof) falls within
+the scope of the arbitration agreement; and
+
+(c) the arbitration agreement is not null and void, inoperative or incapable
+of being performed.
+
+(Tomolugen Holdings Ltd and another v Silica Investors Ltd and other appeals
+[2016] 1 SLR 373 at [63])
+
+23 It was not contested that there was a valid arbitration agreement between
+the parties under GT 14 of the LFA, and that such arbitration agreement was
+not defective. The sole question before me was whether the defendant had
+established a prima facie case that the dispute in OA 189 fell within the
+scope of the arbitration agreement in GT 14.
+
+Whether the dispute in OA 189 fell within the scope of the arbitration
+agreement in GT 14
+
+24 The dispute in OA 189 was whether the claimant was entitled to enforce ST
+3.3 and ST 3.4 with respect to the Draft Settlement Agreement. More
+specifically, the parties disagreed on the anterior question as to whether ST
+3.3 and ST 3.4 were applicable to the Draft Settlement Agreement on the facts
+of this case. Thus, the specific question before me was whether the dispute as
+to whether ST 3.3 and ST 3.4 applied to the Draft Settlement Agreement fell
+within the scope of the arbitration agreement in GT 14.
+
+25 GT 14 of the LFA provided as follows:
+
+GENERAL TERM 14. DISPUTE RESOLUTION
+
+14.1. Any dispute, controversy or claim in relation to or arising out of this
+Agreement, including any question about its existence, validity, meaning,
+performance or termination or the rights, duties and liabilities of any party
+to it and which is not subject to Specific Term 3.3 and 3.4 (Dispute) must be
+resolved in accordance with this General Term 14.
+
+14.2. If any party wishes to raise a Dispute then that party must promptly
+give a written notice of the Dispute to the other Party (Notice). …
+
+…
+
+14.4. The parties agree to meet to discuss, and endeavour in good faith to
+resolve, the Dispute within 28 days of the Notice being received.
+
+14.5. The parties may agree, within the time period referred to in General
+Term 14.4, to submit the Dispute to mediation …
+
+14.6. If the Dispute is not resolved within 28 days of the Notice being
+received (or if the parties have agreed in writing to mediate, within 70 days
+of the Notice being received), then either party may issue a notice referring
+the Dispute to arbitration. …
+
+…
+
+[emphasis added in italics]
+
+26 ST 3.3 and ST 3.4 provided as follows:
+
+SPECIFIC TERM 3. [CLAIMANT’S] INVOLVEMENT
+
+…
+
+3.3. In recognition of the fact that [the claimant] has an interest in the
+Resolution Sum, if the [defendant]:
+
+3.3.1. wants to Settle the Claims or the Proceedings for less than [the
+claimant] considers appropriate; or
+
+3.3.2. does not want to Settle the Claims or the Proceedings when [the
+claimant] considers it appropriate for the [defendant] to do so;
+
+then the parties must resolve the difference of opinion as follows:
+
+(a) the [defendant] may, or shall upon request by [the claimant], instruct the
+Lawyers to provide a written opinion as to whether, in the Lawyers’ opinion,
+Settlement of the Claims or the Proceedings on the terms and in the
+circumstances identified by either [the claimant] or the [defendant] is fair
+and reasonable;
+
+(b) if the difference of opinion is not resolved within 2 Business Days
+following receipt of the Lawyers’ opinion provided under paragraph (a) above,
+[the claimant] and the [defendant] agree to jointly instruct independent
+counsel, to be agreed between the parties or otherwise to be appointed by the
+President of the Singapore Bar Association, to provide an opinion as to
+whether, in counsel’s opinion, Settlement of the Claims or the Proceedings on
+the terms and in the circumstances identified by either [the claimant] or the
+[defendant] is fair and reasonable in all of the circumstances.
+
+3.4. Counsel may proceed as he or she sees fit to inform himself or herself
+before forming and delivering his or her opinion pursuant to Specific Term 3.3
+and shall have regard to the factors set out in Schedule 3. … The opinion of
+counsel instructed under this Specific Term 3 will be final and binding on
+both the [defendant] and [the claimant].
+
+The parties’ submissions
+
+27 The defendant emphasised that GT 14.1 provided that only disputes that were
+“subject to ST 3.3 and 3.4” were carved out from GT 14. The defendant
+submitted that a dispute over whether ST 3.3 and ST 3.4 were applicable was
+not a dispute that was “subject to ST 3.3 and 3.4” and therefore was not
+carved out from GT 14.
+
+28 The claimant submitted that the question as to whether ST 3.3 and ST 3.4
+were engaged did not fall within the scope of the arbitration agreement in GT
+14 for the following reasons:
+
+(a) Any dispute that related to ST 3.3 and ST 3.4, including a dispute as to
+whether ST 3.3 and ST 3.4 were engaged, was a dispute that was “subject to ST
+3.3 and 3.4”. 5
+
+##### Foot Note 5
+
+×
+
+During oral submissions.
+
+(b) The parties’ intention was that disputes over the applicability of ST 3.3
+and ST 3.4 should be resolved by the court pursuant to GT 18.1 of the LFA,
+which provided that “… subject to General Term 14, the parties submit to the
+exclusive jurisdiction of the courts of Singapore”. GT 18.1 contemplated that
+disagreements relating to ST 3.3 and ST 3.4 of the LFA should be submitted to
+the exclusive jurisdiction of the Singapore courts. This interpretation was
+consistent with the parties’ intention that disputes subject to ST 3.3 and ST
+3.4 should be determined quickly without the need to go through the lengthy
+dispute resolution mechanism set out under GT 14. 6
+
+##### Foot Note 6
+
+×
+
+Claimant’s Written Submissions dated 11 May 2023 (“Claimant’s Written
+Submissions”), at paras 42–44.
+
+(c) Up until November 2022, the defendant had agreed that ST 3.3 and ST 3.4
+were applicable. 7
+
+##### Foot Note 7
+
+×
+
+Claimant’s Written Submissions, at paras 76–77.
+
+The defendant’s lawyers had stated that they would work on the opinion as to
+whether the Draft Settlement Agreement was fair and reasonable and also that
+they would circulate the opinion as soon as possible.
+
+29 The claimant also relied on Seeley International Pty Ltd v Electra Air
+Conditioning BV [2008] FCA 29 (“Seeley”) and Maxx Engineering Works Pte Ltd v
+PQ Builders Pte Ltd [2023] SGHC 71 (“Maxx”) to support its case.
+
+30 In Seeley, cl 20 in an exclusive distribution agreement provided for
+disputes to be resolved through “friendly discussions”, failing which the
+disputes were to be referred to arbitration. Clause 20.3 provided that nothing
+in the provision “prevents a party seeking injunctive or declaratory relief in
+the case of a material breach or threatened breach” of the exclusive
+distribution agreement. The applicant commenced proceedings to seek (among
+other things) a declaration that the respondent was in breach of the
+agreement. The South Australian Federal Court dismissed the respondent’s
+application to stay the proceedings in favour of arbitration.
+
+31 The claimant submitted that in Seeley, the court considered that the
+question as to whether there was a “material breach or threatened breach” was
+also a question that the court could decide. 8
+
+##### Foot Note 8
+
+×
+
+Claimant’s Written Submissions, at para 59.
+
+The claimant further submitted that where a contract contained a clear carve-
+out from the arbitration mechanism in certain circumstances, the carve-out
+would naturally encompass any disputes over whether the said circumstances
+apply. 9
+
+##### Foot Note 9
+
+×
+
+Claimant’s Written Submissions, at para 63.
+
+32 In Maxx, cl 54 in a contract provided that if a dispute arose, parties
+“shall endeavour to resolve the dispute through negotiations”, and “[i]f
+negotiations fail, the parties shall refer the dispute for mediation”. Clause
+54 also provided that prior reference of the dispute to mediation “shall not
+be a condition precedent for its reference to arbitration” under cl 55. Clause
+55 provided that if the dispute was not resolved in accordance with cl 54,
+“the parties shall refer the dispute for arbitration”. A dispute arose and the
+respondent referred the dispute to arbitration without referring it to
+mediation. The applicant sought an order to compel the respondent to refer the
+dispute to mediation. The High Court held that there was a legal obligation to
+refer the dispute to mediation and granted an order for specific performance
+to compel the respondent to do so.
+
+33 The claimant relied on the fact that the court in Maxx had no difficulty in
+addressing the dispute over whether there was even a legal obligation to
+mediate and did not consider that the disagreement over the interpretation of
+the dispute resolution clause had to be determined by arbitration. 10
+
+##### Foot Note 10
+
+×
+
+Claimant’s Written Submissions, at para 69.
+
+My decision
+
+34 I agreed with the defendant that, as a matter of interpretation, a dispute
+as to whether ST 3.3 and ST 3.4 were even engaged was not a dispute that was
+“subject to ST 3.3 and 3.4”. In my view, the defendant had shown a prima facie
+case that such a dispute was not carved out from GT 14 and therefore fell
+within the scope of GT 14.
+
+35 ST 3.3 and ST 3.4 dealt with differences of opinion between the claimant
+and the defendant over whether to “Settle” a “Claim” or “Proceeding”. The
+resolution of these differences of opinion were carved out from GT 14 because
+parties intended that these differences should be resolved in the specific
+manner set out in ST 3.3 and ST 3.4, namely by way of a written opinion from
+the defendant’s lawyers, and if the claimant and the defendant still
+disagreed, by way of a written opinion from the independent counsel.
+
+36 However, the question as to whether ST 3.3 and ST 3.4 were even engaged in
+the first place was a separate and distinct one. Only disputes that were
+“subject to ST 3.3 and 3.4” were carved out from GT 14. In its ordinary
+meaning, a dispute that was “subject to ST 3.3 and 3.4” referred to a dispute
+over whether to “Settle the Claims or the Proceedings”. A dispute that was
+“subject to ST 3.3 and 3.4” presupposed that ST 3.3 and ST 3.4 were applicable
+in the first place. It did not and could not refer to a dispute over whether
+ST 3.3 and ST 3.4 were applicable.
+
+37 The claimant submitted that any dispute “subject to Specific Term 3.3 and
+3.4” meant any dispute relating to ST 3.3 and ST 3.4. In my view, such an
+interpretation would require rewriting ST 3.3 and ST 3.4. This was clearly
+impermissible.
+
+38 In my view, the claimant’s reliance on GT 18.1 was misplaced. Parties to an
+agreement could decide to have certain types of disputes resolved by
+arbitration and others by litigation; so long as the agreement evinces such an
+intention, that intention should be given effect to: Silverlink Resorts Ltd v
+MS First Capital Insurance Ltd [2021] 3 SLR 1422 at [31]–[32]. Where parties
+evince a real intention to have matters resolved by arbitration, the court
+ought to give effect to that intention: BXH v BXI [2020] 1 SLR 1043 (“BXH”) at
+[60]. Ultimately, the question is one of interpretation of the relevant
+clauses in the agreement.
+
+39 In the present case, GT 18.1 was expressed to be “subject to General Term
+14” (see [28(b)] above). Clearly, GT 18.1 was not intended to apply to
+disputes that fell within the scope of GT 14. The question remained whether a
+dispute as to whether ST 3.3 and ST 3.4 applied to the Draft Settlement
+Agreement fell within GT 14. GT 14 applied to “[a]ny dispute, controversy or
+claim in relation to or arising out of [the LFA]” and excluded only disputes
+that were “subject to ST 3.3 and 3.4”. The dispute as to whether ST 3.3 and ST
+3.4 applied to the Draft Settlement Agreement was a dispute arising out of the
+LFA. That dispute therefore fell squarely within GT 14 unless it could be said
+to fall within the carve-out (ie, that it was a dispute that was “subject to
+ST 3.3 and 3.4”). For reasons given in [36] above, such a dispute was not a
+dispute that was “subject to ST 3.3 and 3.4” and therefore was not carved out
+from GT 14. In the circumstances, GT 18.1 had no application. GT 18.1 should
+be interpreted to mean that disputes arising out of any arbitration commenced
+pursuant to GT 14 are to be resolved in the Singapore courts in the exercise
+of their supervisory jurisdiction: BXH at [59]–[60].
+
+40 The fact that ST 3.3 and ST 3.4 contemplated the speedy resolution of
+differences of opinion as to the settlement of claims or proceedings was
+neither here nor there and did not assist the claimant’s case. It begged the
+question as to whether ST 3.3 and ST 3.4 were even applicable in the first
+place.
+
+41 As for the fact that the defendant’s lawyers had commenced preparing the
+opinion pursuant to ST 3.3, in my view, the most that could be said was that
+the defendant was prepared at some point in time to commence the process under
+ST 3.3 but changed its mind after taking legal advice on the applicability of
+ST 3.3 and ST 3.4. This court still had to interpret the term “subject to ST
+3.3 and 3.4” and decide whether a dispute as to whether ST 3.3 and ST 3.4 were
+applicable was a dispute that was “subject to ST 3.3 and 3.4”.
+
+42 Finally, I did not think that Seeley and Maxx assisted the claimant’s case.
+Those cases concerned the interpretation of the specific provisions that were
+before the court. In Seeley, the court declined the application to stay the
+proceedings because it was of the view that the parties had not agreed to
+submit the claim in question to arbitration (at [38]). The court was of the
+view that the parties’ agreement was to treat disputes to which cl 20.3
+referred differently from the regime for arbitration (at [32]). In Maxx, the
+court found that on its plain wording, cl 54 imposed a legal obligation on the
+parties to refer their dispute to mediation, if negotiations failed (at [15]).
+Ultimately, I had to interpret the arbitration agreement in GT 14,
+specifically, the meaning of a dispute that was “subject to ST 3.3 and 3.4”.
+
+43 Further, in Seeley (at [19]), the respondent submitted that cl 20.3 of the
+exclusive distribution agreement did not expressly refer to injunctive or
+declaratory relief being granted by a court but merely made it clear that an
+arbitrator may grant such relief. The respondent further submitted that cl 20
+of the exclusive distribution agreement amounted to an arbitration agreement
+in respect of the matters in issue between the parties. The court rejected the
+respondent’s submissions. The court found (at [32]) that the parties’
+agreement was to treat disputes to which cl 20.3 referred differently from the
+regime for arbitration. The court interpreted cl 20.3 to mean that it was part
+of the bargain between the parties as to how their disputes should be resolved
+where there was a threatened breach (encompassing conduct which one party
+asserted amounted to a breach and the other did not), a material breach or an
+asserted material breach (at [31]).
+
+44 Seeley is quite different from the present case. In Seeley, the court found
+that disputes to which cl 20.3 referred were carved out from the arbitration
+agreement. The court’s view was that cl 20.3 was applicable where there was a
+threatened breach (encompassing conduct which one party asserted amounted to a
+breach) and also where there was a material breach or an asserted material
+breach. In other words, the court’s interpretation of cl 20.3 meant that cl
+20.3 applied even though the threatened breach or material breach were
+disputed. Seeley is not authority for the claimant’s submission that where a
+contract contains a clear carve out from the arbitration mechanism in certain
+circumstances, the carve out would naturally encompass any dispute over
+whether the said circumstances apply. 11
+
+##### Foot Note 11
+
+×
+
+Claimant’s Written Submissions, at para 63.
+
+It is a matter of interpretation of the relevant provision in each case.
+
+45 In the present case, it was not disputed that only disputes that were
+“subject to ST 3.3 and 3.4” were carved out from the arbitration agreement in
+GT 14. The only disputes that were “subject to ST 3.3 and 3.4” were disputes
+over whether a proposed settlement should be accepted and did not include
+disputes over whether ST 3.3 and ST 3.4 were applicable to the proposed
+settlement (see [36] and [39] above). Thus, the dispute as to whether ST 3.3
+and ST 3.4 applied to the Draft Settlement Agreement was not carved out from,
+and instead fell squarely within, the arbitration agreement. Indeed, if the
+claimant’s submission (that a carve out in certain circumstances would
+encompass disputes over whether the circumstances apply) was correct, that
+would have meant that the question as to whether ST 3.3 and ST 3.4 applied to
+the Draft Settlement Agreement would have been subject to the dispute
+resolution mechanism in ST 3.3 and ST 3.4. Clearly, that could not have been
+the parties’ intention and neither was it the claimant’s case.
+
+46 In any event, the court in Seeley noted (at [31]) that clearly, the dispute
+concerned what may be a material breach and the respondent did not contend to
+the contrary. The question as to whether cl 20.3 was engaged was therefore not
+an issue before the court.
+
+47 As for Maxx, the applicant’s case was not that parties had to mediate
+before commencing arbitration but that parties had to refer the dispute to
+both mediation and arbitration, so long as arbitration had not been concluded
+(see Maxx at [7]). The issue before the court was thus simply whether there
+was a legal obligation to mediate. The issue before the court was not whether
+the question as to whether there was a legal obligation to mediate had to be
+decided by arbitration.
+
+Conclusion
+
+48 For the reasons above, I concluded that the underlying dispute in OA 189
+was whether ST 3.3 and ST 3.4 were engaged in the circumstances. This was not
+a dispute that was “subject to ST 3.3 and 3.4” and thus was not carved out
+from GT 14. Instead, the dispute fell within the scope of the arbitration
+agreement in GT 14. Therefore, I allowed the appeal and ordered that OA 189 be
+stayed pursuant to s 6 of the IAA.
+
+49 I made the following orders on costs:
+
+(a) The claimant was to pay the defendant’s costs of SUM 860 fixed at $10,391
+(inclusive of disbursements); and
+
+(b) The claimant was to pay the defendant’s costs of RA 77 fixed at $10,750.80
+(inclusive of disbursements).
+
+Chua Lee Ming  
+Judge of the High Court|  
+---|---  
+  
+Vergis S Abraham SC, Zhuo Jiaxiang and Veluri Hari (Providence Law Asia LLC)
+for the claimant;
+
+Aw Hon Wei, Adrian and Anand Shankar Tiwari s/o Sivakant Tiwari (Resource Law
+LLC) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 05 Jul 2023 (14:20 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,1812 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 153
+
+Originating Summons No 952 of 2021
+
+Between
+
+| York International Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Voltas Ltd  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Arbitration — Arbitral tribunal — Jurisdiction]
+
+[Arbitration — Award — Finality of award — Whether arbitrator is functus
+officio]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+York International Pte Ltd
+
+  
+v
+
+  
+
+Voltas Ltd
+
+[2022] SGHC 153
+
+General Division of the High Court — Originating Summons No 952 of 2021  
+S Mohan J  
+28 February, 29 March 2022
+
+30 June 2022 Judgment reserved.
+
+S Mohan J:
+
+Introduction
+
+1 Functus officio – the Latin phrase to denote that having completed or
+accomplished the intended task or function, a person or body possesses no
+further authority or legal competence. In the realm of arbitration
+proceedings, disputes occasionally arise as to whether an arbitrator is
+functus officio or still possesses a reserve of jurisdiction to determine
+issues which one party contends have not yet been disposed of. More
+specifically and the question that arises for my determination in this case is
+this – is an arbitrator functus officio once a conditional final award has
+been rendered by the arbitrator in the arbitral proceedings?
+
+2 The present matter concerns the plaintiff’s application under s 21(9) of the
+Arbitration Act (Cap 10, 2002 Rev Ed) (the “AA”), for the court to decide that
+the sole arbitrator (the “Arbitrator”) in Singapore International Arbitration
+Centre (“SIAC”) Arbitration No 61 of 2012 (the “Arbitration”) does not have
+jurisdiction to issue a further award in the Arbitration, following the
+Arbitrator’s ruling as a preliminary question that he has jurisdiction to do
+so. At the core of the parties’ dispute is whether an award issued by the
+Arbitrator in 2014, titled “Final Award” (the “2014 Award”), resolved all the
+issues in the Arbitration such that the Arbitrator became functus officio, and
+therefore no longer retained jurisdiction to issue any further award.
+
+3 Having heard and considered the competing arguments, I find that the
+Arbitrator was functus officio upon the 2014 Award being rendered and thus,
+possesses no jurisdiction to issue any further award. Accordingly, I allow the
+plaintiff’s application.
+
+4 Before elaborating upon the reasons for my decision, I first summarise the
+relevant background facts of this case.
+
+Background facts
+
+5 The plaintiff and defendant are both companies incorporated in Singapore. 1
+
+##### Foot Note 1
+
+×
+
+Plaintiff’s Bundle of Cause Papers (“PBCP”) vol 1 p 187, paras 1–2.
+
+On 3 March 2008, the defendant was engaged by Resorts World at Sentosa Pte Ltd
+(“RWS”) to carry out the design, supply, construction, completion and
+maintenance of a District Cooling Plant (“DCP”) on Sentosa Island, Singapore
+(the “Main Contract”). The purpose of the DCP was to supply chilled water to
+Resorts World at Sentosa and other developments on Sentosa Island. The Main
+Contract was subsequently novated on 27 May 2008 by RWS to DCP (Sentosa) Pte
+Ltd (“DCP Sentosa”), a joint venture between RWS and Sentosa Development
+Corporation. 2
+
+##### Foot Note 2
+
+×
+
+1st Affidavit of Buay Kee Seng Christopher dated 21 September 2021 (“BKS-1”),
+paras 6–7 (PBCP vol 1 p 9)
+
+For the purposes of this judgment, I will refer to RWS and DCP Sentosa
+interchangeably.
+
+6 By a purchase agreement dated 3 April 2008, the defendant purchased five
+water-cooled dual centrifugal chillers (the “Chillers”) from the plaintiff for
+a lump sum price of S$5,230,000 (the “Purchase Agreement”). The Chillers
+formed one of the components of the DCP and are each powered by two motors.
+The plaintiff duly delivered the Chillers to the defendant sometime between
+December 2008 and November 2009. However, between March 2011 and May 2011,
+seven of the Chiller motors failed during operation. 3
+
+##### Foot Note 3
+
+×
+
+BKS-1, paras 8–9 (PBCP vol 1 p 10).
+
+7 Consequently, disputes arose between the parties and the plaintiff commenced
+a suit against the defendant in HC/S 821/2011 on 17 November 2011. On 13
+January 2012, the parties agreed to settle their disputes through arbitration
+and entered into an agreement for ad hoc arbitration (“the Arbitration
+Agreement”). 4
+
+##### Foot Note 4
+
+×
+
+BKS-1, paras 12 and 14(a) (PBCP vol 1 pp 11–14).
+
+Clause 1 of the Arbitration Agreement provides as follows: 5
+
+##### Foot Note 5
+
+×
+
+BKS-1, Tab 3 (PBCP vol 1 pp 160–161).
+
+All the claims or matters in [HC/S 821/2011] and/or any dispute arising under
+or in connection with the Purchase Agreement, including any question regarding
+its existence, validity or termination, shall be referred to and finally
+resolved by arbitration and the final decision of a single arbitrator in
+accordance with and subject to the provisions of the prevailing laws on
+arbitration or any statutory modification thereof for the time being in force
+in Singapore and that any such reference shall be deemed to be submission to
+arbitration within the meaning of such laws. The single arbitrator shall be
+mutually agreed within twenty-one (21) days of any notice of arbitration,
+failing which he or she shall be appointed by the Chairman of the Singapore
+International Arbitration Centre.
+
+8 On 21 February 2012, the plaintiff commenced the Arbitration against the
+defendant in Singapore. 6
+
+##### Foot Note 6
+
+×
+
+BKS-1, para 14(d) (PBCP vol 1 p 13).
+
+The disputes referred to arbitration were, inter alia, the plaintiff’s claim
+for outstanding payments owed by the defendant under the Purchase Agreement,
+as well as the defendant’s counterclaims for damages, losses, and/or expenses
+arising out of the plaintiff’s supply of allegedly defective Chillers. In
+particular, the defendant alleged that the Chiller motor failures had resulted
+in RWS making claims against the defendant for losses and expenses. The
+defendant therefore sought to recover those amounts from the plaintiff in the
+Arbitration by way of its counterclaims. Among its other claims, the defendant
+counterclaimed for the following: 7
+
+##### Foot Note 7
+
+×
+
+BKS-1, paras 10 and 15 (PBCP vol 1 pp 10 and 15).
+
+(a) A sum of S$1,099,162.46, which was the cost that RWS had incurred in
+introducing nitrogen into the thermal storage tanks and installing air-cooled
+chillers downstream of the chiller water system networks, which cost RWS
+sought from the defendant (the “Nitrogen Claim”); and
+
+(b) A sum of S$33,277, which was the cost that RWS had incurred in removing
+the failed motors and installing temporary motors, which cost RWS also sought
+from the defendant (the “Removal Claim”).
+
+9 The arbitration hearing took place from June 2013 to April 2014. 8
+
+##### Foot Note 8
+
+×
+
+BKS-1, paras 14(h)–(i) (PBCP vol 1 pp 13–14).
+
+On 25 August 2014, the Arbitrator issued the 2014 Award. In the 2014 Award,
+the Arbitrator allowed the plaintiff’s claim for outstanding payments due
+under the Purchase Agreement, and also allowed the defendant’s counterclaims
+in part. The Arbitrator found that the plaintiff was liable to the defendant
+for the Nitrogen and Removal Claims. However, the Arbitrator observed that
+there was a need for “some degree of caution” as it appeared that the
+defendant had not paid RWS for the sums due under the Nitrogen and Removal
+Claims. 9
+
+##### Foot Note 9
+
+×
+
+PBCP vol 1 p 288, para 238(f).
+
+There was therefore a risk of the defendant enjoying a windfall, if it
+ultimately did not have to pay RWS. In the circumstances, the Arbitrator
+decided to make his orders conditional upon the defendant making payment to
+RWS. In respect of the Nitrogen Claim, the Arbitrator made the following
+order: 10
+
+##### Foot Note 10
+
+×
+
+PBCP vol 1 p 289, para 238(h).
+
+… I will make an order for the [plaintiff] to make payment to the [defendant]
+for this head of damage as itemised at page 988 of Mr Sidhwani’s affidavit, up
+to a maximum of $1,099,162.46, upon the [defendant] making payment to RWS in
+respect of such items set out under this head of damage.
+
+10 Likewise, in respect of the Removal Claim, the Arbitrator made the
+following order: 11
+
+##### Foot Note 11
+
+×
+
+PBCP vol 1 p 289, para 239.
+
+I … similarly make an order for the [plaintiff] to pay the [defendant] for
+this head of damage, up to a maximum of S$33,277.00, when the [defendant] pays
+RWS in respect of this head of damage.
+
+11 Following the 2014 Award, the defendant entered into a settlement agreement
+with DCP Sentosa on 12 August 2015 (the “Settlement Agreement”). Under the
+Settlement Agreement, DCP Sentosa agreed to pay the defendant S$1,000,000
+(excluding GST) in full and final settlement of all claims each party may have
+against each other in relation to the Main Contract. In arriving at the
+settlement sum of S$1,000,000, the defendant and DCP Sentosa agreed to set off
+the sums owed by the defendant to DCP Sentosa in respect of the Nitrogen and
+Removal Claims. As such, the defendant considers that the total amount of
+S$1,132,439.46 which it owed DCP Sentosa for the Nitrogen and Removal Claims
+(S$1,099,162.46 + S$33,277 = S$1,132,439.46), was paid by it to DCP Sentosa by
+way of set off when the Settlement Agreement was concluded. 12
+
+##### Foot Note 12
+
+×
+
+1st Affidavit of Jaison Mathew dated 1 November 2021 (“JM-1”), para 23 (PBCP
+vol 4 p 2042).
+
+12 From 2015 to 2018, the defendant demanded payment of the sum of
+S$1,132,439.46 from the plaintiff on several occasions, by way of letters sent
+by its solicitors to the plaintiff. However, the plaintiff refused to make
+payment on the basis that the defendant had allegedly not provided sufficient
+evidence that it had indeed paid DCP Sentosa for the Nitrogen and Removal
+Claims. 13
+
+##### Foot Note 13
+
+×
+
+JM-1, paras 24–25 (PBCP vol 4 pp 2043–2047).
+
+13 On 24 August 2020, the defendant applied to the Arbitrator for a further
+award, to determine (a) whether the defendant had, in substance, paid DCP
+Sentosa in respect of the Nitrogen and Removal Claims; (b) if so, what sums
+the defendant had paid in respect of these claims; and (c) accordingly, what
+sums are to be paid by the plaintiff to the defendant (the “Further Award”).
+On the same date, and without prejudice to its application for the Further
+Award, the defendant also issued a notice of arbitration, purporting to
+commence fresh arbitration proceedings against the plaintiff under the
+Arbitration Agreement claiming payment for the Nitrogen and Removal Claims
+(the “Notice of Arbitration”). 14
+
+##### Foot Note 14
+
+×
+
+JM-1, paras 26 and 28 (PBCP vol 4 pp 2048–2049).
+
+14 The plaintiff objected to both steps taken by the defendant. In respect of
+the Notice of Arbitration, the plaintiff wrote to the defendant on 16
+September 2020, stating that the disputes referred to in the Notice of
+Arbitration did not fall within the scope of the Arbitration Agreement. 15
+
+##### Foot Note 15
+
+×
+
+PBCP vol 5 pp 3363–3364.
+
+As for the defendant’s application for the Further Award, the plaintiff sent a
+letter to the Arbitrator and the defendant on 19 October 2020 raising a
+jurisdiction objection. The plaintiff contended that the Arbitrator was
+functus officio in relation to the Arbitration and did not retain any
+jurisdiction after the issuance of the 2014 Award. 16
+
+##### Foot Note 16
+
+×
+
+BKS-1, para 21 (PBCP vol 1 pp 22–23).
+
+15 At the Arbitrator’s invitation, the parties exchanged submissions on
+whether the Arbitrator retained jurisdiction to issue the Further Award. 17
+
+##### Foot Note 17
+
+×
+
+JM-1, paras 31–34 (PBCP vol 4 pp 2050–2051).
+
+On 23 August 2021, the Arbitrator issued a written decision on whether he was
+functus officio in relation to the Arbitration (the “2021 Decision”). In the
+2021 Decision, the Arbitrator concluded, inter alia, that he did retain
+jurisdiction to issue the Further Award, and accordingly invited the parties
+to tender further submissions on the substantive merits of the defendant’s
+application for the Further Award. 18
+
+##### Foot Note 18
+
+×
+
+PBCP vol 1 p 49, para 65.
+
+16 Dissatisfied with the 2021 Decision, the plaintiff filed the present
+application under s 21(9) of the AA on 21 September 2021 seeking, among
+others, a decision from the court that the Arbitrator does not have
+jurisdiction to make any further award in respect of the Arbitration.
+
+The parties’ cases
+
+17 The main thrust of the plaintiff’s case is that the 2014 Award is final, in
+that it disposed of all matters that the parties had referred to the
+Arbitration. Accordingly, the Arbitrator is functus officio and does not
+retain any jurisdiction to issue any further award.
+
+18 In support of the plaintiff’s case, counsel for the plaintiff, Mr Ng Kim
+Beng, makes four arguments why the 2014 Award is dispositive of all issues in
+the Arbitration:
+
+(a) First, it is clear from the Arbitrator’s reasoning in the 2014 Award that
+he did not intend to reserve his jurisdiction. In the 2014 Award, the
+Arbitrator expressly noted that there were two ways to prevent the defendant
+from obtaining a windfall in respect of the Nitrogen and Removal Claims,
+drawing support from the decision of the English High Court in Biffa Waste
+Services Ltd and another v Maschinenfabrik Ernst Hese GMBH and another [2008]
+EWHC 2210 (TCC) (“Biffa Waste”). These were to (a) adjourn the decision on
+quantum to a later date; or (b) to make an award on the condition that money
+is paid to a third party. The Arbitrator ultimately chose the second option,
+given that he ordered the plaintiff to make payment to the defendant for the
+Nitrogen and Removal Claims on the condition that the defendant made a
+corresponding payment to RWS (per the orders made by the Arbitrator at
+[9]–[10] above). The Arbitrator therefore did not choose to adjourn the
+decision on quantum, or reserve jurisdiction in that respect. There was also
+no express reservation of jurisdiction in the 2014 Award. 19
+
+##### Foot Note 19
+
+×
+
+Plaintiff’s Written Submissions (“PWS”) paras 51(c) and 51(d).
+
+(b) Second, the 2014 Award is a “self-executing award”. 20
+
+##### Foot Note 20
+
+×
+
+PWS para 56(b).
+
+The 2014 Award should be read together with the affidavit of Mr Shyam M
+Sidhwani (“Mr Sidhwani”), which was filed and relied upon by the defendant in
+the Arbitration. Mr Sidhwani’s affidavit contains a breakdown of the items
+that comprise the Nitrogen Claim and their corresponding cost, amounting to a
+total of S$1,099,162.46 (ie, the maximum quantum that the Arbitrator awarded
+to the defendant for the Nitrogen Claim in the 2014 Award). Thus, in relation
+to the Nitrogen Claim, the defendant only needs to provide the plaintiff with
+evidence of which items (as listed in Mr Sidhwani’s affidavit) the defendant
+has paid DCP Sentosa for, in order for the plaintiff’s liability to pay the
+defendant to crystallise. As for the Removal Claim, the defendant similarly
+only needs to provide the plaintiff with proof that it has paid DCP Sentosa a
+certain sum, following which the defendant would be entitled to demand that
+same sum from the plaintiff. In other words, there is no need for a further
+award to determine the amount payable by the plaintiff to the defendant for
+the Nitrogen and Removal Claims. 21
+
+##### Foot Note 21
+
+×
+
+PWS paras 62 and 66.
+
+(c) Third, the 2014 Award included a final order on costs, which the plaintiff
+contends is “an unmistakable feature of a full, final and conclusive award”.
+22
+
+##### Foot Note 22
+
+×
+
+PWS paras 68–69.
+
+(d) Finally, following the issuance of the 2014 Award, it is clear from
+correspondence exchanged between the parties that both parties treated the
+2014 Award as dispositive of all issues in the Arbitration. 23
+
+##### Foot Note 23
+
+×
+
+PWS para 73.
+
+19 Counsel for the defendant, Ms Charlene Sim Yan, seeks to resist the
+plaintiff’s application on three grounds. First, Ms Sim argues that the
+plaintiff is not entitled to make an application under s 21(9) of the AA. She
+contends that the 2021 Decision is not a ruling “on a plea as a preliminary
+question that [the Arbitrator] has jurisdiction” [emphasis added], within the
+meaning of s 21(9)(a) of the AA. This is because the 2021 Decision pertains to
+a challenge to the Arbitrator’s jurisdiction that was made at an advanced
+stage of the Arbitration (ie, well after the conclusion of the arbitration
+hearing in 2014), and not to a challenge made at the initial or preliminary
+stages of the Arbitration. 24
+
+##### Foot Note 24
+
+×
+
+Defendant’s Written Submissions (“DWS”) paras 34–35.
+
+Accordingly, the defendant alleges that there is no basis for the plaintiff’s
+application under s 21(9) of the AA.
+
+20 Second, even if the plaintiff is entitled to make the present application
+under s 21(9) of the AA, the 2014 Award was not fully dispositive of all
+issues in the Arbitration. While the defendant does not dispute that the 2014
+Award does not contain an express reservation of jurisdiction, the defendant
+argues that the 2014 Award did not determine the precise extent of the
+plaintiff’s liability to the defendant for the Nitrogen and Removal Claims. As
+such, the Arbitrator is not functus officio in respect of this issue. 25
+
+##### Foot Note 25
+
+×
+
+DWS paras 41–42.
+
+21 Third and finally, the defendant argues that if the plaintiff is correct
+that the Arbitrator does not have jurisdiction to issue any further award, the
+defendant would effectively be left with no remedy in respect of the Nitrogen
+and Removal Claims. In this regard, the defendant highlights that it is the
+plaintiff’s position that the defendant is not entitled to commence a fresh
+arbitration to claim payment for the Nitrogen and Removal Claims (as noted
+above at [14]). The defendant is also unable to request for an additional
+award under s 43(4) of the AA, given that the 30-day timeline to do so has
+passed. Further, the defendant claims that it would be unable to obtain leave
+to enforce the Arbitrator’s orders (as stated in the 2014 Award) in respect of
+the Nitrogen and Removal claims, as the quantum owed by the plaintiff to the
+defendant is not specified. 26
+
+##### Foot Note 26
+
+×
+
+DWS paras 55–61.
+
+Issues to be determined
+
+22 Based on the arguments advanced by the parties, the following issues arise
+for my determination:
+
+(a) Is the plaintiff barred from making the application under s 21(9) of the
+AA (“Issue 1”)?
+
+(b) If it is not, does the Arbitrator have jurisdiction to issue the Further
+Award (“Issue 2”)?
+
+Issue 1: Is the plaintiff barred from making the application under s 21(9) of
+the AA?
+
+23 Section 21(9) of the AA provides as follows:
+
+(9) If the arbitral tribunal rules —
+
+(a) on a plea as a preliminary question that it has jurisdiction; or
+
+(b) on a plea at any stage of the arbitral proceedings that it has no
+jurisdiction,
+
+any party may, within 30 days after having received notice of that ruling,
+apply to the Court to decide the matter.
+
+24 Given that the 2021 Decision is a positive jurisdictional ruling (ie, a
+decision that the Arbitrator has jurisdiction to issue the Further Award), it
+is clear and not seriously in dispute that the plaintiff’s application is
+grounded upon s 21(9)(a) rather than s 21(9)(b) of the AA. As summarised
+above, the defendant argues that the plaintiff is not entitled to make the
+present application under s 21(9)(a), as the 2021 Decision does not constitute
+a ruling on a “preliminary question”. In this regard, the defendant contends
+that a “preliminary question” refers to a jurisdictional ruling made at the
+early stages of the arbitral proceedings. Accordingly, a party is only
+entitled to make an application under s 21(9)(a) of the AA where the tribunal
+makes a positive jurisdictional ruling at the “initial stage” of the
+arbitration proceedings. 27
+
+##### Foot Note 27
+
+×
+
+DWS para 32(a).
+
+25 In support of its proposed interpretation of s 21(9)(a) of the AA, the
+defendant relies on the case of Tan Poh Leng Stanley v Tang Boon Jek Jeffrey
+[2000] 3 SLR(R) 847 (“Jeffrey Tang (HC)”). 28
+
+##### Foot Note 28
+
+×
+
+DWS para 35(a).
+
+In Jeffrey Tang (HC), the arbitrator had issued an award dismissing the claim
+and counterclaim, and which stated that the award was “final save as to costs”
+(the “January Award”). At the request of Mr Jeffrey Tang, one of the
+respondents in the arbitration, the arbitrator held a hearing to hear further
+arguments on whether the January Award should be reversed. This was objected
+to by one of the claimants, Mr Stanley Tan, on the basis that the arbitrator
+was functus officio after the issuance of the January Award. Notwithstanding
+these objections, the arbitrator issued an additional award, reversing the
+January Award in part and allowing the counterclaim (the “March Award”) (at
+[5]).
+
+26 Jeffrey Tang (HC) concerned Mr Stanley Tan’s application to set aside the
+March Award under the provisions of the International Arbitration Act (Cap
+143A, 1995 Rev Ed) (at [6]). A preliminary objection to the application was
+raised by Mr Jeffrey Tang, namely that the application was filed out of time.
+In this regard, counsel for Mr Tang contended that the application was
+governed by the 30-day time limit contained in Art 16(3) of the UNCITRAL Model
+Law on International Commercial Arbitration (the “Model Law”), and not the
+three-month time limit contained in Art 34 of the Model Law (at [7]).
+
+27 This contention was rejected by G P Selvam J. The learned Judge found that
+the setting aside application was governed by Art 34 and not Art 16(3) of the
+Model Law, as the March Award was not a preliminary ruling on jurisdiction (at
+[14]–[15]):
+
+14 In this case, there was no preliminary decision by the arbitrator on the
+issue of jurisdiction. Additionally, Art 16 applies to a challenge to the
+jurisdiction of the tribunal at the commencement of the arbitral proceedings
+and not at or after the conclusion stage of the arbitral proceedings. This is
+indicated by the stipulation that the plea ‘shall be raised not later than the
+submission of the statement of defence’.
+
+15 The time limit that applies to this case is stipulated in Art 34 of the
+Model Law. It is three months from the receipt of the award. This applies when
+the arbitrator’s ruling on jurisdiction is included in the award.
+
+[emphasis added in bold italics]
+
+28 Turning back to the present case, the defendant argues that the comment in
+Jeffrey Tang (HC) at [14] supports its argument that the phrase “preliminary
+question”, as used in s 21(9)(a) of the AA, refers only to positive
+jurisdictional rulings made at the early or initial stages of the arbitral
+proceedings. I disagree with the defendant that s 21(9)(a) of the AA can or
+should be interpreted in such a manner. First, the true ratio decidendi of
+Jeffrey Tang (HC) on Mr Tang’s preliminary objection is, in my view, to be
+found at [15] where the learned Judge correctly held that the application was
+governed by Art 34 and not Art 16(3) of the Model Law, since the ruling on
+jurisdiction was included in the March Award which also dealt with the
+substantive merits of the arguments made at the further hearing. There was
+thus no ruling or decision as a preliminary question but rather an award that
+would only have been subject to a setting aside application under Art 34 of
+the Model Law. As I explain below at [38], this is in line with the decision
+of Judith Prakash J (as she then was) in the subsequent case of AQZ v ARA
+[2015] 2 SLR 972 (“AQZ”). The obiter dictum in Jeffrey Tang (HC) at [14] was
+accordingly immaterial to the learned Judge’s decision on Mr Tang’s
+preliminary objection. In any case and to the extent that my own conclusion on
+the ambit of s 21(9)(a) of the AA may be inconsistent with this obiter dictum
+in Jeffrey Tang (HC), I respectfully decline to adopt the same as also being
+applicable to s 21(9)(a) of the AA. I also note that Jeffrey Tang (HC) was
+subsequently reversed by the Court of Appeal in Tang Boon Jek Jeffrey v Tan
+Poh Leng Stanley [2001] 2 SLR(R) 273 (“Jeffrey Tang (CA)”) on the substantive
+merits of the setting aside application, although the Court of Appeal did not
+comment on the correctness of the obiter dictum in Jeffrey Tang (HC) at [14].
+
+29 I have come to the conclusion that s 21(9)(a) of the AA is not limited only
+to positive jurisdictional rulings or decisions made at the early or initial
+stages of an arbitration for three reasons.
+
+30 First, based on the plain wording of s 21(9)(a) alone, it is not at all
+apparent that a jurisdictional challenge must be raised at the early or
+initial stages of the arbitral proceedings. It is well established that the
+first step of statutory interpretation is to ascertain the possible
+interpretations of the statutory provision, having regard to the text of the
+provision: Tan Cheng Bock v Attorney-General [2017] 2 SLR 850 (“Tan Cheng
+Bock”) at [37]. In the present case, nowhere in s 21(9)(a) is there any
+suggestion that a jurisdictional challenge must be raised by a certain point
+in time, or by a certain stage in the arbitral proceedings. The defendant’s
+proposed interpretation of s 21(9)(a) appears to read a time limit into the
+provision that is not provided for. For this reason, I find that the
+defendant’s interpretation of s 21(9)(a) is not a possible interpretation of
+the provision, and it therefore falls at the first step.
+
+31 Second, even if there is any ambiguity as to what a “preliminary question”
+means, s 21(9)(a) must be read in the context of the other provisions of the
+AA. At the first step of statutory interpretation, regard must also be given
+to the context of the provision in question within the written law as a whole:
+Tan Cheng Bock at [37]. In this regard, I note that s 21(8) of the AA provides
+as follows:
+
+(8) The arbitral tribunal may rule on a plea referred to in this section
+either as a preliminary question or in an award on the merits.
+
+[emphasis added in italics and bold italics]
+
+32 In my view, s 21(8) makes clear that the phrase “preliminary question” does
+not refer to a decision made at the early stages of the arbitration, as the
+defendant contends. Section 21(8) itself must be read in the context of the
+other provisions in s 21 of the AA. The relevant provisions are as follows:
+
+Separability of arbitration clause and competence of arbitral tribunal to rule
+on its own jurisdiction
+
+21.—(1) The arbitral tribunal may rule on its own jurisdiction, including a
+plea that it has no jurisdiction and any objections to the existence or
+validity of the arbitration agreement, at any stage of the arbitral
+proceedings.
+
+…
+
+(4) A plea that the arbitral tribunal does not have jurisdiction shall be
+raised not later than the submission of the statement of defence.
+
+…
+
+(6) A plea that the arbitral tribunal is exceeding the scope of its authority
+shall be raised as soon as the matter alleged to be beyond the scope of its
+authority is raised during the arbitral proceedings.
+
+(7) Notwithstanding any delay in raising a plea referred to in subsection (4)
+or (6), the arbitral tribunal may admit such plea if it considers the delay to
+be justified in the circumstances.
+
+[emphasis added]
+
+33 It is clear from the above provisions that the overarching principle behind
+s 21 of the AA is that a tribunal may decide on a jurisdictional challenge at
+any stage of the arbitration proceedings. This much is made explicit by the
+plain wording of s 21(1). The defendant contends that s 21(4) of the AA
+suggests that relief under s 21(9)(a) is only available for positive
+jurisdictional rulings made at the early stages of the arbitral proceedings,
+since s 21(4) provides that a plea that a tribunal has no jurisdiction “shall
+be raised not later than the submission of the statement of defence”. 29
+
+##### Foot Note 29
+
+×
+
+DWS para 35(a).
+
+A similar observation was made in Jeffrey Tang (HC) at [14], in respect of Art
+16(2) of the Model Law (in pari materia with s 21(4) of the AA) (see [27]
+above).
+
+34 However, in my view, it is clear from the design of s 21 of the AA that s
+21(4) (and s 21(6), for that matter) are to be read subject to s 21(7) of the
+AA. While ss 21(4) and 21(6) impose general timelines for when objections to a
+tribunal’s jurisdiction should be raised, s 21(7) expressly provides that the
+tribunal nonetheless has discretion to admit a belated objection, if it
+considers the delay to be “justified in the circumstances”. Accordingly, it is
+clear to me that while parties are generally obliged to raise jurisdictional
+challenges in a timely manner under ss 21(4) and 21(6), the overall
+architecture of s 21 recognises the tribunal’s power and discretion to decide
+on a jurisdictional objection at any stage of the proceedings.
+
+35 In my judgment, the wording of s 21(8) of the AA must therefore be
+considered against this backdrop. Section 21(8) provides that a tribunal may
+rule on a plea “referred to in this section either as a preliminary question
+or in an award on the merits” [emphasis added]. Given my observation at [33]
+above that a jurisdictional objection referred to in s 21 may ultimately be
+decided on by the tribunal at any stage of the proceedings, it would
+contradict the entire design of s 21 if s 21(8) were read to mean that a
+tribunal can only decide a jurisdictional challenge made at the initial stages
+of an arbitration, or in an award that also deals with the merits.
+Accordingly, reading s 21(8) in context, it is evident that the phrase
+“preliminary question” cannot possibly refer only to a ruling made at the
+early or initial stages of the arbitration. It therefore follows that the
+phrase “preliminary question”, as used in s 21(9)(a) of the AA, likewise does
+not only refer to a ruling made at the initial stages of an arbitration. There
+is no reason why the phrase “preliminary question” should be interpreted
+differently across ss 21(8) and 21(9) of the AA, and Ms Sim has not suggested
+any.
+
+36 Turning to the third reason for my conclusion, I find that the drafting
+history of ss 21(8) and 21(9) of the AA also makes clear that the phrase
+“preliminary question” does not refer to a ruling made at the initial stages
+of the arbitration proceedings. As I elaborate below, the phrase “preliminary
+question” instead refers to an interim decision on the tribunal’s jurisdiction
+that is issued separately from a decision on the merits of the parties’
+claims.
+
+37 The AA was enacted to align our domestic arbitration laws with our
+international arbitration laws and specifically, the Model Law: Singapore
+Parliamentary Debates, Official Report (5 October 2001) vol 73 at col 2213 (Ho
+Peng Kee, Minister of State for Law). In this regard, ss 21(8) and 21(9) of
+the AA are modelled after Art 16(3) of the Model Law, which provides as
+follows:
+
+Article 16. Competence of arbitral tribunal to rule on its jurisdiction
+
+…
+
+(3) The arbitral tribunal may rule on a plea referred to in paragraph (2) of
+this article either as a preliminary question or in an award on the merits. If
+the arbitral tribunal rules as a preliminary question that it has
+jurisdiction, any party may request, within thirty days after having received
+notice of that ruling, the court specified in article 6 to decide the matter,
+which decision shall be subject to no appeal; while such a request is pending,
+the arbitral tribunal may continue the arbitral proceedings and make an award.
+
+38 The genesis of Art 16(3) of the Model Law was considered in detail by
+Prakash J (as she then was) in AQZ. The issue in AQZ was whether a party was
+entitled to apply to the court under Art 16(3) of the Model Law for a decision
+on the tribunal’s jurisdiction, where the tribunal had issued an award that
+ruled on its jurisdiction as well as the merits of the arbitration. After
+considering the drafting history of Art 16(3) of the Model Law, Prakash J
+concluded that the proper recourse in such a situation was for the party to
+apply to set aside the award, rather than to seek relief under Art 16(3). In
+particular, the learned Judge observed as follows:
+
+65 A review of the drafting history of the Model Law makes clear that the
+drafters did not intend an award that deals with the merits of the dispute
+(however marginally) to be subject to challenge under Art 16(3) of the Model
+Law. Article 16(3) embodies the compromise the drafters eventually reached
+between two competing policy considerations concerning the issue of when
+courts should exercise control over the arbitral tribunal’s decision on its
+jurisdiction. On the one hand, allowing courts to rule on pleas as to the
+arbitral tribunal’s jurisdiction early would prevent undue waste of time and
+money in conducting an unnecessary arbitration. However, the availability of
+such a challenge could also be abused by a party for purposes of delay or
+obstruction and therefore it may be more desirable to defer court control
+until after the arbitral tribunal has issued its award (ie, in a proceeding to
+set aside an eventual award): see Report of the United Nations Commission on
+International Trade Law on the Work of its Eighteenth Session (A/40/17, 3–21
+June 1985) at paras 158–157.
+
+…
+
+68 The Commission, having considered the proposal of the Working Group, struck
+a compromise between the two competing policy considerations in the following
+manner. It allowed the tribunal to choose between deciding the issue of its
+jurisdiction in a preliminary ruling which would be subject to instant court
+control or in a procedural decision which may be contested only in an action
+for setting aside the award. Therefore, the tribunal was empowered to assess
+whether there was a greater risk of dilatory tactics or a possibility of time
+and costs being wasted by carrying out an unnecessary arbitration and decide
+whether it should make its decision on jurisdiction open to immediate court
+control. The learned authors of A Guide to the UNCITRAL Model Law on
+International Commercial Arbitration: Legislative History and Commentary
+(Kluwer Law and Taxation, 1989), Howard M Holtzmann and Joseph E Neuhaus,
+describe the mode of court control that was finally adopted in the following
+terms (at p 486):
+
+First, under Article 8 a court may decide a jurisdictional objection in the
+course of deciding whether to refer a substantive claim before it to
+arbitration. During the pendency of this question before the court, the
+arbitral tribunal has discretion to continue the proceedings. Second, under
+Article 16, the arbitral tribunal has a choice whether to decide a
+jurisdictional question preliminarily or only in the final award. If it issues
+a preliminary ruling, that is subject to immediate review by a court.
+Otherwise, review must wait for a setting aside proceeding. The advantage of
+this procedure is that the arbitral tribunal can assess in each case and with
+regard to each jurisdictional question whether the risk of dilatory tactics is
+greater than the danger of wasting money and time in a useless arbitration.
+The dangers of delay in the arbitration while the court is reviewing a
+preliminary ruling are further reduced by provision of short time period for
+seeking court review, finality in the court’s decision, and discretion in the
+arbitral tribunal to continue the proceedings while the court review is going
+on. These procedures … allow the tribunal to postpone decision of frivolous or
+dilatory objections, or ones that are difficult to separate from the merits of
+the case. …
+
+69 From the above, it should be apparent that relief under Art 16(3) is not
+available when a party seeks to set aside a ruling which is predominantly on
+jurisdiction but also marginally deals with the merits because that is simply
+not the purpose that the drafters intended Art 16(3) to serve. In such
+situations, the dissatisfied party can seek to set aside the award pursuant to
+s 3(1) of the [International Arbitration Act (Cap 143A, 2002 Rev Ed) (“IAA”)]
+read with the relevant limbs of Art 34(2) of the Model Law. That would be the
+obvious and more appropriate remedy. …
+
+[emphasis in original omitted; emphasis added in bold italics]
+
+39 The defendant also cites the above passages in support of its contention
+that the phrase “preliminary question” refers to a decision made at the early
+stages of the arbitration. In particular, the defendant relies on Prakash J’s
+observation at [65] in AQZ that there is a policy interest in “allowing courts
+to rule on pleas as to the arbitral tribunal’s jurisdiction early [to] prevent
+undue waste of time and money in conducting an unnecessary arbitration”
+[emphasis added]. The defendant contends that Art 16(3) of the Model Law and s
+21(9)(a) of the AA were therefore drafted to only permit recourse to courts in
+respect of positive jurisdictional rulings that are made as a preliminary
+question at the early stages of the arbitration proceedings. 30
+
+##### Foot Note 30
+
+×
+
+DWS para 32(a).
+
+40 In my judgment, the defendant’s argument misses the point of the
+observations in AQZ reproduced above at [38]. From the quoted passages, it is
+clear that while the drafters of Art 16(3) of the Model Law were keen to
+balance the interest in preventing unnecessary arbitrations on the one hand
+against the possibility of dilatory tactics on the other, the solution adopted
+was to allow the tribunal “a choice whether to decide a jurisdictional
+question preliminarily or only in the final award” (AQZ at [68]). In other
+words, if the tribunal’s concern is that time and costs may be wasted on an
+unnecessary arbitration, it can decide on its jurisdiction “preliminarily”, in
+an interim decision separate from the merits, which would expose the
+tribunal’s decision to “instant court control” under Art 16(3) of the Model
+Law (AQZ at [68]). On the other hand, if the tribunal’s concern is that a
+party may use jurisdictional objections as a dilatory tactic, it can deal with
+questions of jurisdiction together with an award on the merits, which would
+only be subject to challenge at the setting aside stage.
+
+41 Accordingly, it is clear that the phrase “preliminary question” was used by
+the drafters of Art 16(3) to refer to an interim decision or ruling that deals
+solely with the tribunal’s jurisdiction, in contradistinction to an award that
+deals with both the tribunal’s jurisdiction and the merits of the parties’
+claims. Crucially for present purposes, there is no suggestion in the drafting
+history of Art 16(3) that the phrase “preliminary question” was meant to refer
+only to a decision or ruling made at the early stages of an arbitration. There
+is therefore no merit in the defendant’s submission. In my judgment, the term
+“preliminary question” in Art 16(3) of the Model Law, properly understood,
+refers simply to a decision or ruling made separate from and preliminary to
+any award on the merits, and not to a decision or ruling made at the
+preliminary (ie, early) stages of the arbitration.
+
+42 In my view, the phrase “preliminary question”, as used in ss 21(8) and
+21(9) of the AA, should similarly refer to an interim decision or ruling on
+the tribunal’s jurisdiction, which is separate to any award rendered on the
+substantive merits of the dispute. As I have noted at [37] above, ss 21(8) and
+21(9) of the AA are modelled after Art 16(3) of the Model Law, and the
+defendant has not demonstrated why the phrase “preliminary question” should
+carry a different meaning in the AA than that in the Model Law or the IAA.
+
+43 In addition, if the defendant’s suggested interpretation is correct, it
+would lead to the anomalous consequence that the 2021 Decision is completely
+immune to any challenge. If the 2021 Decision is not, as the defendant
+contends, a ruling as a preliminary question because it was not made at an
+early stage in the Arbitration, then it would not fall within s 21(9)(a) of
+the AA. On the other hand, since the 2021 Decision does not in any way deal
+with the substantive merits of the Nitrogen and Removal Claims, it is also not
+an award that would be subject to a setting aside application under s 48 of
+the AA. Such an outcome is intuitively wrong. It cannot be that Parliament
+intended for s 21(9)(a) of the AA to operate in a manner as to result in such
+an anomaly, and it is a trite principle of statutory interpretation that a
+court will strive to interpret a statutory provision in a way that avoids
+anomaly or absurdity (Tan Cheng Bock at [38]). The anomaly that results from
+accepting the defendant’s submission is a further compelling reason why its
+interpretation of s 21(9)(a) of the AA cannot be the correct one.
+
+44 For completeness, I address two additional arguments raised by the
+defendant. First, the defendant relies on the difference in phrasing between
+ss 21(9)(a) and 21(9)(b) of the AA, to argue that the phrase “preliminary
+question” must refer to rulings made at an early stage of the arbitral
+proceedings. Section 21(9)(a) permits recourse to the court for positive
+jurisdictional rulings made as a “preliminary question”, while s 21(9)(b)
+permits recourse for negative jurisdictional rulings made “at any stage of the
+arbitral proceedings”. The defendant contends that if a party were indeed
+permitted to seek recourse for positive jurisdictional rulings made “at any
+stage of the arbitral proceedings”, then s 21(9)(a) would be worded in a
+similar manner to s 21(9)(b) (ie, that a party could apply to court where
+there was a positive jurisdictional ruling made at “any stage of the arbitral
+proceedings”). According to the defendant, the fact that s 21(9)(a) is not
+worded in such a fashion goes to show that recourse is only available in
+respect of positive jurisdictional rulings made at an early stage of the
+proceedings. 31
+
+##### Foot Note 31
+
+×
+
+DWS para 32(b).
+
+45 In my view, this argument also misses the mark. As I have explained at
+[36]–[42] above, there is no suggestion in the legislative history of s
+21(9)(a) that recourse under this provision should only be available in
+respect of positive jurisdictional rulings made at a certain stage of the
+proceedings. I therefore decline to read such a condition into s 21(9)(a).
+Moreover, while s 21(9)(b) of the AA constitutes a departure from the Model
+Law (as the Model Law does not provide for recourse against negative
+jurisdictional rulings, per Art 16(3) at [37] above), there is no
+interpretative evidence to indicate that the introduction of s 21(9)(b) was
+meant to alter the meaning of the phrase “preliminary question”, to refer only
+to a ruling made at the early or initial stages of arbitration. Section
+21(9)(b) was enacted in 2012, as it was thought that the absence of recourse
+against negative jurisdictional rulings may “defeat the parties’ intention to
+arbitrate”: Singapore Parliamentary Debates, Official Report (9 April 2012)
+vol 89 at p 65 (K Shanmugam, Minister for Law). There is nothing in the
+relevant parliamentary debates, or in any of the materials placed before me,
+that supports the defendant’s contention that the difference in wording
+between ss 21(9)(a) and 21(9)(b) was designed or intended by Parliament to
+limit recourse under s 21(9)(a) only to rulings made at an early stage of the
+proceedings. I therefore do not think that the difference in wording between
+these two provisions is material for present purposes, and accordingly reject
+the defendant’s argument.
+
+46 The second additional argument pertains to a string of cases cited by the
+defendant, where a challenge to a tribunal’s jurisdictional ruling was brought
+under s 10(3) of the IAA (in pari materia with s 21(9) of the AA). The cases
+cited by the defendant are: CLQ v CLR [2022] 3 SLR 145, International Research
+Corp PLC v Lufthansa Systems Asia Pacific Pte Ltd and another [2014] 1 SLR
+130, Rakna Arakshaka Lanka Ltd v Avante Garde Maritime Services (Pte) Ltd
+[2019] 2 SLR 131, and BXY and others v BXX and others [2019] 4 SLR 413. Ms Sim
+highlights that in these cases, the challenges under s 10(3) of the IAA were
+brought at an early stage in the arbitral proceedings. 32
+
+##### Foot Note 32
+
+×
+
+DWS para 36.
+
+47 In my view, these cases are of limited assistance to the defendant. At
+best, they illustrate that as a matter of practice, jurisdictional challenges
+do commonly tend to arise at an early stage in the arbitral proceedings. This
+may well be the case, since jurisdiction is ordinarily a natural precursor to
+the tribunal’s determination of the merits of the parties’ claims. However,
+the cases cited go no further than that. Crucially, none of the cases referred
+to by the defendant stands for the proposition that a jurisdictional challenge
+under s 10(3) of the IAA or s 21(9) of the AA must necessarily be brought only
+at an early or initial stage of the arbitral proceedings or otherwise be
+barred. I therefore find these cases to be of limited assistance to the issue
+at hand.
+
+48 In sum, I disagree with the defendant that s 21(9)(a) of the AA only
+permits a party to challenge a positive jurisdictional ruling made at an early
+stage of the arbitral proceedings. Properly understood, the phrase
+“preliminary question” simply means that a party is only entitled to seek
+relief under s 21(9)(a) if the jurisdictional ruling takes the form of an
+interim ruling or decision, which does not in any way touch on the substantive
+merits of the parties’ claims. In the present case, it is not disputed that
+the 2021 Decision deals solely with the question of the Arbitrator’s
+jurisdiction to issue the Further Award. Accordingly, I find that the 2021
+Decision constitutes a ruling as a preliminary question within the meaning of
+s 21(9)(a) of the AA, and that the plaintiff is therefore not barred from
+making the present application.
+
+49 As a final point on this issue, I would add that even if the defendant is
+correct in its interpretation of s 21(9)(a) of the AA, I would be prepared to
+find that the 2021 Decision is a ruling made at the initial stages of an
+arbitral proceeding, and therefore, the plaintiff is in any event entitled to
+make the present application. The facts of this case can be distinguished from
+Jeffrey Tang (HC), where the setting aside application was brought after the
+parties had attended a further hearing on whether the January Award should be
+reversed, and the arbitrator had proceeded to issue the March Award, reversing
+the January Award in part (as noted above at [25]). In the present case,
+assuming for present purposes that the Arbitrator does have jurisdiction to
+issue the Further Award, the parties would conceivably have to go on to
+address the merits of the defendant’s claim in respect of the Nitrogen and
+Removal Claims by way of further submissions, and quite possibly attend
+another oral hearing before the Arbitrator. Accordingly, the 2021 Decision may
+be characterised as a ruling made at the initial stages of a new phase of the
+Arbitration subsequent to the 2014 Award, such that it is subject to challenge
+under s 21(9)(a) of the AA. It is also plain that the plaintiff could not have
+raised its jurisdiction objection any earlier in the Arbitration. The question
+whether the Arbitrator has jurisdiction to issue the Further Award only arose
+when the defendant requested that the Arbitrator do so – that request was made
+by the defendant in August 2020 (see [13] above). In response, the plaintiff
+raised its jurisdiction challenge on 19 October 2020, before any other step
+was taken.
+
+50 Therefore, even if I am wrong in my interpretation of s 21(9)(a) of the AA,
+the plaintiff is nonetheless not barred from bringing the present application.
+Having answered Issue 1 in the negative, I turn now to consider the
+substantive merits of the plaintiff’s application.
+
+Issue 2: Does the Arbitrator have jurisdiction to issue the Further Award?
+
+51 As can be seen from the parties’ cases summarised at [18] and [20] above,
+the crux of the present dispute pertains to whether the 2014 Award was a
+partial award on the parties’ claims, or a final award. At the outset, I note
+that it is common ground between the parties that an award can be “final” in a
+number of ways. As explained by the Court of Appeal in PT Perusahaan Gas
+Negara (Persero) TBK v CRW Joint Operation [2015] 4 SLR 364 (“Persero”) at
+[51]–[53], an award can be “final” in the following ways:
+
+(a) First, an award is “final” if it resolves a claim or a matter in an
+arbitration with preclusive effect (ie, the same claim or matter cannot be re-
+litigated).
+
+(b) Second, a “final” award can refer to an award that has achieved a
+sufficient degree of finality in the arbitral seat. In other words, the award
+is no longer susceptible to being appealed against or being subject to
+annulment proceedings in the arbitral seat.
+
+(c) Third, a “final” award can refer to the last award made in an arbitration
+which disposes of all remaining claims.
+
+52 In the present case, it is not in dispute that the 2014 Award is “final” in
+the first and second ways described above at [51]. 33
+
+##### Foot Note 33
+
+×
+
+DWS para 43.
+
+Nor is it seriously in dispute that as a general proposition, a conditional
+award can be “final” in all of the three ways detailed in Persero. In this
+regard, both sides rely on the case of Konkola Copper Mines plc v U&M Mining
+Zambia Ltd [2014] EWHC 2374 (Comm) (“U&M Mining”), as an illustration of how a
+conditional award can be dispositive of all of the issues in an arbitration.
+34
+
+##### Foot Note 34
+
+×
+
+PWS para 25; DWS para 45.
+
+I will return to the case of U&M Mining at [68] below.
+
+53 The central question before me is whether the 2014 Award dealt with all the
+issues that were the subject of the Arbitration, such that the 2014 Award is
+final in the third sense described above at [51(c)]. In my view, the answer to
+this question is ultimately to be found by carefully interpreting the 2014
+Award.
+
+54 The principles applicable to interpreting an arbitral tribunal’s decision,
+albeit for the purposes of determining whether a tribunal’s decision
+constitutes an award or a procedural decision, were helpfully summarised in
+the English High Court decision of ZCCM Investment Holdings Plc v Kansanshi
+Holdings Plc and another [2019] EWHC 1285 (Comm) (“ZCCM Investment”). While
+the facts of ZCCM Investment are distinguishable, I find the following
+observations (with the necessary modifications) helpful in assisting a court
+to determine whether an arbitral award is dispositive of all the issues in an
+arbitration (at [40]):
+
+40\. A consideration of these authorities (and also of the cases of: Michael
+Wilson v Emmott [2009] 1 Lloyd’s Rep 162 (Teare J), Enterprise Insurance
+Company Plc v U-Drive Solutions (Gibraltar) Limited [2016] EWHC 1301 (QB) at
+[39] (HHJ Moulder as she then was) and The Trade Fortitude [1992] 1 Lloyd’s
+Rep 169 (Anthony Diamond QC)) however suggests the following points:
+
+a) The Court will certainly give real weight to the question of substance and
+not merely to form: Emmott at paragraph 18 (by concession); Russell on
+Arbitration (24th edition, 2015) at [6-003].
+
+…
+
+d) There is a role however for form. The arbitral tribunal’s own description
+of the decision is relevant, although it will not be conclusive in determining
+its status: The Trade Fortitude at 175 Emmott at [19-20].
+
+e) It may also be relevant to consider how a reasonable recipient of the
+tribunal’s decision would have viewed it: Emmott at [18]; Ranko p 4.
+
+f) A reasonable recipient is likely to consider the objective attributes of
+the decision relevant. These include the description of the decision by the
+tribunal, the formality of the language used, the level of detail in which the
+tribunal has expressed its reasoning: Emmott at [19 -20]; Uttam Galva Steels
+at [29]; The Trade Fortitude at 175; The Smaro at 247.
+
+g) While the authorities do not expressly say so I also form the view that:
+
+i. A reasonable recipient would also consider such matters as whether the
+decision complies with the formal requirements for an award under any
+applicable rules.
+
+ii. The focus must be on a reasonable recipient with all the information that
+would have been available to the parties and to the tribunal when the decision
+was made. It follows that the background or context in the proceedings in
+which the decision was made is also likely to be relevant. …
+
+[emphasis added in bold italics]
+
+55 Bearing these principles in mind, and having carefully considered the
+evidence before me, I find that the 2014 Award did deal with all the issues
+that formed the subject of the Arbitration, such that the Arbitrator is
+functus officio. I detail my reasons below.
+
+The Arbitrator chose to make a quantum award rather than adjourn the decision
+on quantum
+
+56 First, I agree with the plaintiff’s argument at [18(a)] above, that it is
+clear from the 2014 Award that the Arbitrator made a decision on the quantum
+that the plaintiff was liable to pay the defendant for the Nitrogen and
+Removal Claims, instead of reserving his jurisdiction to make a quantum award
+at a later point in time. The Arbitrator therefore decided to fully resolve
+the parties’ disputes over the Nitrogen and Removal Claim in the 2014 Award.
+
+57 In the 2014 Award, the Arbitrator began his discussion of the Nitrogen
+Claim by considering whether as a matter of law, the defendant had to first
+make payment to RWS, before the defendant could bring a claim against the
+plaintiff. After considering the English cases of Randall v Raper (1858) EB &
+E 84 and Total Liban SA v Vitol Energy SA [2001] QB 643, the Arbitrator
+concluded that there was no need for the defendant to do so. 35
+
+##### Foot Note 35
+
+×
+
+PBCP vol 1 pp 285–286, paras 238(b) and (c).
+
+The Arbitrator therefore moved on to consider the quantum that the plaintiff
+should be ordered to pay the defendant. However, the Arbitrator noted that
+there was a risk of the defendant obtaining a windfall, as the defendant had
+yet to pay RWS for the Nitrogen and Removal Claims. The relevant paragraphs of
+the 2014 Award are laid out in full as follows: 36
+
+##### Foot Note 36
+
+×
+
+PBCP vol 1 pp 288–289, paras 238(f)–(h).
+
+238\. …
+
+f. However, I bear in mind the need for some degree of caution as [the sum for
+the Nitrogen Claim] has apparently not been paid to RWS. Case law has
+recognised that the Court can make an award on quantum conditional upon the
+money being paid to a third party or that it is held on trust for that
+purpose: in Biffa Waste Services Ltd v Maschinenfabrik Ernst Hese GMBH [2008]
+EWHC 2210, the Court held at [80] that:
+
+‘In certain circumstances where a windfall might occur it is appropriate, as
+identified in Total Liban at 663 to 664, for the court to adjourn the decision
+on quantum or, for instance, to make a quantum award on condition that the
+money is paid to a third party or that it is held on trust for that purpose.
+The purpose of that type of order in this case would be to prevent Biffa from
+obtaining a windfall and to ensure that the liability of Biffa to MEH on which
+the award of quantum would be premised was properly discharged.’
+
+The principle in Biffa recognising the need for an appropriate arrangement to
+be in place to prevent a windfall is uncontroversial. The [defendant] in its
+submissions on this item as set out in the letter dated 28 April 2014 from M/s
+Allen & Gledhill LLP, does not assert that considerations in relation to a
+windfall are irrelevant, but instead asserts that the risk of a windfall does
+not arise in this case.
+
+g. In my view, there is a risk of the [defendant] enjoying a windfall in the
+event that RWS does not proceed to make this claim from the [defendant]. …
+
+h. In the premises, I will make an order for the [plaintiff] to make payment
+to the [defendant] for this head of damage as itemised at page 988 of Mr
+Sidhwani’s affidavit, up to a maximum of $1,099,162.46, upon the [defendant]
+making payment to RWS in respect of such items set out under this head of
+damage.
+
+[emphasis in original omitted; emphasis added in bold italics and underlined
+bold italics]
+
+58 In my judgment, it is clear from the passage above that having noted the
+risk of a windfall to the defendant, the Arbitrator considered that there were
+two ways or “appropriate arrangement[s]” by which that risk could be
+mitigated. Based on the extract from Biffa Waste quoted by the Arbitrator, the
+two options were to (a) adjourn the decision on quantum; or (b) make a
+conditional award. Crucially, the Arbitrator then chose the second option, ie,
+to make a conditional award – that much is clear from paragraph 238(h) of the
+Final Award (as reproduced at [57] above). In my view, this is also plainly
+evident from the fact that the Arbitrator prefaced the extract from Biffa
+Waste with a comment relating to the second option, ie, that “[c]ase law has
+recognised that the Court can make an award on quantum conditional upon the
+money being paid to a third party or that it is held on trust for that
+purpose”. Further, in respect of the Nitrogen Claim, the Arbitrator then went
+on to make the specific order that the plaintiff make payment to the defendant
+up to the maximum sum of $1,099,162.46 conditional upon the defendant paying
+RWS. 37
+
+##### Foot Note 37
+
+×
+
+PBCP vol 1 p 289, para 238(h).
+
+Such an order clearly accords with the second option in Biffa Waste of making
+a conditional award, and not the first option of adjourning the decision on
+quantum.
+
+59 Likewise, the Arbitrator went on to make a similar conditional award in
+respect of the Removal Claim: 38
+
+##### Foot Note 38
+
+×
+
+PBCP vol 1 p 289, para 239.
+
+239\. In respect of the sub-claim of S$33,277.00 for the removal of the failed
+motors and installation of temporary motors, I am satisfied that this sum is
+related to the motor failures which I find to have been caused by the
+fundamental flaw. I also note that this sum had not been challenged by the
+[plaintiff] in cross-examination, and similarly make an order for the
+[plaintiff] to pay the [defendant] for this head of damage, up to a maximum of
+S$33,277.00, when the [defendant] pays RWS in respect of this head of damage.
+
+[emphasis added in bold italics]
+
+60 As such, it is clear to me that the Arbitrator did not choose to reserve
+his jurisdiction, and instead decided to make a conditional award in respect
+of both the Nitrogen and Removal Claims, ie, the second option in Biffa Waste.
+I note however that in the 2021 Decision, the Arbitrator appears to rely on
+the first option in Biffa Waste, as the basis for concluding that he still
+retained jurisdiction to issue the Further Award. The relevant paragraphs in
+the 2021 Decision are as follows: 39
+
+##### Foot Note 39
+
+×
+
+PBCP vol 1 p 49, paras 62 and 64.
+
+62\. The [2014] Award is expressly conscious of the need to avoid the
+[defendant] enjoying a windfall in the event that RWS / DCP Sentosa did not
+proceed against the [defendant] for the RWS Claims. As the authorities of
+Randall v Raper, and Total Liban establish, in circumstances where a windfall
+might accrue to a party, it could be appropriate to decide on the liability of
+that party, but reserve the question of damages for future assessment where it
+is difficult to assess future loss.
+
+…
+
+64\. Therefore I find that the issue of the quantum of damages that the
+[plaintiff] is liable to the [defendant] for, is within my jurisdiction to
+decide, but was not decided in the [2014] Award because at that point, RWS /
+DCP Sentosa had not pursued the RWS Claims against the [defendant]. To the
+limited extent of this specific issue, I am not functus officio and retain the
+jurisdiction to make a Further Award on this matter.
+
+[emphasis added in bold italics and underlined bold italics]
+
+61 This, with respect to the Arbitrator, appears to me to be a change in tack
+in the Arbitrator’s reasoning. As detailed at [58] above, in the 2014 Award,
+the Arbitrator clearly decided to adopt the second option set out in Biffa
+Waste, of issuing a conditional award for the Nitrogen and Removal Claims. In
+the circumstances, I respectfully disagree with the Arbitrator that the 2014
+Award reserved the question of damages for the Nitrogen and Removal Claims for
+future assessment. In my judgment, the Arbitrator chose to fully resolve the
+Nitrogen and Removal Claims in the 2014 Award and therefore cannot have
+retained jurisdiction in respect of these claims after the 2014 Award.
+Accordingly, the Arbitrator does not, in my judgment, have jurisdiction now to
+issue the Further Award.
+
+The 2014 Award does not contain an express reservation of jurisdiction
+
+62 Second, I also find that the Arbitrator intended for the 2014 Award to be
+fully dispositive of all issues in the Arbitration, such that he does not
+possess jurisdiction to issue any further award. In this regard, I find it
+significant that the Arbitrator did not expressly reserve any jurisdiction in
+the 2014 Award, despite acknowledging in the 2021 Decision that any
+reservation of jurisdiction would have been made “in clear and categorical
+language”. 40
+
+##### Foot Note 40
+
+×
+
+PBCP vol 1 p 42, para 25.
+
+Let me elaborate further.
+
+63 In the 2021 Decision, the Arbitrator considered an argument raised by the
+defendant that the Arbitrator’s statement in the 2014 Award that he “will make
+an order for the [plaintiff] to make payment to the [defendant] for [the
+Nitrogen Claim]” [emphasis added] could be interpreted as a reservation of
+jurisdiction to make further orders. The Arbitrator roundly rejected this
+argument in the following terms: 41
+
+##### Foot Note 41
+
+×
+
+Ibid.
+
+25\. The reservation of jurisdiction is a significant matter that would have
+been expressly indicated in clear and categorical language. Such a reservation
+would not have been contained in a phrase that is capable of interpretation in
+two ways: either that I will presently make an order; or that I intend to make
+an order in the future.
+
+[emphasis in original omitted; emphasis added in bold italics]
+
+64 Given the Arbitrator’s own observations above, it is clear to me that the
+Arbitrator did not intend to reserve any jurisdiction in the 2014 Award. It is
+not in dispute that there was no express reservation of jurisdiction in the
+2014 Award, or any similar statement expressed in “clear and categorical
+language”. There is also no satisfactory explanation for why this is the case,
+if the Arbitrator had indeed intended to reserve jurisdiction in the 2014
+Award. For instance, while the Arbitrator ultimately concludes in the 2021
+Decision that there was a reservation of jurisdiction in the 2014 Award, there
+is no discussion or explanation by the Arbitrator how this is the case,
+particularly when the Arbitrator also acknowledged in the very same decision
+that any reservation of jurisdiction would have been made by the Arbitrator
+clearly and categorically. In the circumstances, I am driven to find that the
+Arbitrator’s conclusion in the 2021 Decision (ie, that there was a reservation
+of jurisdiction in the 2014 Award) does not cohere with the objective
+evidence. On the contrary, the objective evidence demonstrates compellingly
+that the Arbitrator did not intend to reserve any further jurisdiction to
+himself in making the 2014 Award.
+
+65 The defendant argues that the absence of an express reservation of
+jurisdiction in the 2014 Award is immaterial, as there is no requirement in
+law that a reservation of jurisdiction must always be made expressly. 42
+
+##### Foot Note 42
+
+×
+
+DWS para 48.
+
+While the defendant’s statement of the law may well be correct, I do not need
+to decide the point for the purposes of this application and therefore do not
+arrive at any definitive conclusion on it. For present purposes, neither party
+has pointed me to any authority that stands for or supports the proposition
+that an arbitrator can only reserve his jurisdiction through express words. Mr
+Ng for the plaintiff highlighted academic commentary that encourages
+arbitrators to make any reservation of jurisdiction in express terms. For
+instance, my attention was drawn to the following observations in Ray Turner,
+Arbitration Awards – A Practical Approach (Blackwell Publishing, 2005) at para
+4.3.5:
+
+4.3.5 Reserved matters
+
+This relates to matters to be left over to be resolved by a subsequent award.
+Unless such reservation has been agreed between the parties, the arbitrator
+needs at some stage to decide what, if any, matters should be so reserved.
+There could be, for instance, remaining issues, interest, or costs; or less
+apparent matters such as the consequences of subsequent failure to comply with
+a performance award. He should specifically reserve those elements, commonly
+by an item following the operative part of the award and prior to his
+signature. He should also maintain a further checklist so as to ensure that no
+reserved matters are subsequently overlooked.
+
+[emphasis in original omitted, emphasis added in bold italics]
+
+66 In the absence of any binding legal authority cited to me, I am prepared to
+assume (without deciding) the correctness of the defendant’s argument that as
+a matter of law, there is no legal requirement that a reservation of
+jurisdiction by an arbitrator must be in express terms. Nonetheless, that
+argument does not assist the defendant much and in fact, misses the broader
+point in the present case. I have already noted above at [63] that it was
+acknowledged by the Arbitrator in the 2021 Decision that he would have made
+any reservation of jurisdiction in “clear and categorical language”. In light
+of this, even if the Arbitrator was not required to expressly reserve
+jurisdiction as a matter of law, the absence of any express reservation of
+jurisdiction goes to show that to the Arbitrator’s mind, there was no
+intention on the Arbitrator’s part to reserve any jurisdiction in the 2014
+Award. This, in my judgment, is strong objective evidence that the Arbitrator
+intended for the 2014 Award to be final and dispositive of all remaining
+issues in the Arbitration. It therefore buttresses my conclusion that the
+Arbitrator was functus officio once the 2014 Award was rendered.
+
+The 2014 Award fully resolved the disputes between the parties
+
+67 Third, in addition to my conclusions at [61] and [66] above, I also find
+that the 2014 Award did, as a matter of fact, fully resolve all the disputes
+that formed the subject of the Arbitration. Accordingly, there is in my view
+no doubt that the 2014 Award is “final” in the third sense described in
+Persero (noted at [51] above).
+
+68 As noted above at [52], both parties rely on the case of U&M Mining for the
+general proposition that a conditional award can be dispositive of all of the
+issues in an arbitration. In U&M Mining, the arbitral award ordered that the
+respondent in the arbitration (“KCM”) pay certain sums, “unless KCM shows
+cause, supported by evidence, within 14 days of the [award], why such an order
+should not be made” (the “Show Cause orders”) (at [83(ii)]). KCM sought, inter
+alia, a declaration by the English High Court that the Show Cause orders did
+not constitute a valid award (at [89]). KCM contended that a conditional award
+was not “a creature known to the law”, as a tribunal either had to make a
+provisional order, or “an outright award which left nothing in abeyance at all
+and was final and conclusive in every sense of the word on the date it was
+issued so it could immediately be enforced” (at [85]).
+
+69 Cooke J rejected the argument advanced by KCM, as follows (at [97]):
+
+I do not see why, as matter of principle … an award cannot be final and
+conclusive in its terms where it clearly provides for specific relief,
+including payments of money, which only bites at a point in the future, in the
+absence of submission and evidence from an absent party to the contrary. The
+tribunal has made decisions which are final and complete and are not subject
+to further decisions on its part or of any other person or body unless a
+specified contingency occurs. Such an award is complete and final on its own
+terms, albeit conditional. Whilst this might present difficulties for
+enforcement purposes, that is nothing to the point and does not prevent it
+from being an award which binds the parties. So, here, those parts of the
+Second Award which contained the ‘show cause’ provisions were final, complete
+and conclusive, as between the parties, albeit conditional.
+
+[emphasis added in bold italics]
+
+70 The above proposition of law is not disputed by either party. The
+defendant, however, seeks to distinguish the facts of U&M Mining from the
+present case. In this regard, Ms Sim for the defendant argues that in U&M
+Mining, once the 14-day period for KCM to show cause had expired, there was no
+further issue for the tribunal to decide. 43
+
+##### Foot Note 43
+
+×
+
+DWS para 45(b).
+
+The award in U&M Mining was therefore final, in the sense that it was
+dispositive of all of the issues in the arbitration. On the other hand, in the
+present case, there are “clearly remaining issues” for the Arbitrator to
+determine, 44
+
+##### Foot Note 44
+
+×
+
+DWS para 45(c).
+
+as the 2014 Award did not determine the “precise extent” of the plaintiff’s
+liability to the defendant for the Nitrogen and Removal Claims. 45
+
+##### Foot Note 45
+
+×
+
+DWS para 41.
+
+Accordingly, the defendant’s position is that the Arbitrator retains
+jurisdiction to issue the Further Award.
+
+71 I note that in the 2021 Decision, the Arbitrator also adopts a similar line
+of reasoning with regard to U&M Mining. The Arbitrator distinguishes U&M
+Mining on the basis that the quantum that KCM was liable to pay was certain,
+whereas in the present case, the quantum that the plaintiff is liable to pay
+for the Nitrogen and Removal Claims remains to be determined. The relevant
+paragraphs of the 2021 Decision are reproduced below: 46
+
+##### Foot Note 46
+
+×
+
+PBCP vol 1 p 48, paras 60–61.
+
+60\. In my opinion however, the case of U&M Mining is distinguishable from the
+present case on the key ground that the amount due from the defendant was
+known and certain at the point the award was made. The condition related to
+the question of the defendant’s liability to pay.
+
+61\. By contrast, the instant case is the opposite – the [plaintiff’s]
+liability to pay the [defendant] is certain and determined by the [2014]
+Award, but the question of the quantum due from the [plaintiff] to the
+[defendant] was unknown at the point of the [2014] Award and depended on the
+[defendant] making payment to RWS / DCP Sentosa in respect of the items under
+those heads of damage. This question has now presently arisen for
+determination.
+
+72 With respect to the Arbitrator, I do not agree that the 2014 Award left the
+“precise extent” of the plaintiff’s liability to the defendant unresolved,
+such that the Arbitrator necessarily retains jurisdiction to issue the Further
+Award. 47
+
+##### Foot Note 47
+
+×
+
+DWS para 41.
+
+The purport of the Arbitrator’s orders in the 2014 Award was for the plaintiff
+to pay the defendant whatever sum the defendant ultimately in fact paid to RWS
+for the Nitrogen and Removal Claims, up to a fixed maximum amount. This much
+is clear from the Arbitrator’s caution in the 2014 Award that “there is a risk
+of the [defendant] enjoying a windfall” if RWS did not end up making claims
+against the defendant for the Nitrogen and Removal Claims, and that “[i]n the
+premises”, the Arbitrator would make a conditional order for the plaintiff to
+pay the defendant for the Nitrogen and Removal Claims. 48
+
+##### Foot Note 48
+
+×
+
+PBCP vol 1 pp 288–289, paras 238(g)–(h) and 239.
+
+It is evident from the Arbitrator’s reasoning that his intent was to prevent
+the defendant from recovering more than what it actually paid to RWS for the
+Nitrogen and Removal Claims. The purpose of the conditional orders was
+therefore to ensure that the plaintiff paid the defendant the same amount that
+the defendant paid to RWS for the Nitrogen and Removal Claims, up to a fixed
+maximum amount.
+
+73 I therefore find that the Arbitrator did decide on the extent of the
+plaintiff’s liability. As noted in David St John Sutton, Judith Gill and
+Matthew Gearing, Russell on Arbitration (Sweet & Maxwell, 24th Ed, 2015) at
+para 6-092, an award is sufficiently certain if it “sets out the method of
+calculation of the amount due to be paid”. In my judgment, while the 2014
+Award admittedly does not contain a specific sum to be paid by the plaintiff
+for the Nitrogen and Removal Claims, the 2014 Award nevertheless sets out the
+method by which this precise sum is to be derived (ie, whatever amount the
+defendant pays to RWS, up to a maximum amount). The 2014 Award therefore
+“clearly provides for specific relief”, such that it is “complete and final on
+its own terms” (per U&M Mining at [97]). In the circumstances, I reject the
+defendant’s argument that the 2014 Award left the extent of the plaintiff’s
+liability unresolved, with a resultant implicit reservation of the
+Arbitrator’s jurisdiction in the 2014 Award.
+
+74 On a related point and for the avoidance of doubt, I do not agree with the
+plaintiff’s characterisation of the 2014 Award as being “self-executing” (see
+[18(b)] above). In my view, the term “self-executing” distracts from the core
+issue in contention, which is whether the Arbitrator reserved his jurisdiction
+in the 2014 Award, and thus retains jurisdiction to issue the Further Award.
+
+75 Moreover, the 2014 Award is not immune to difficulties in enforcement. As
+the facts of the present case illustrate, the 2014 Award does not state what
+evidence (if any) the defendant must provide before the plaintiff’s liability
+to pay the defendant for the Nitrogen and Removal Claims crystallises, nor
+does it provide for how any disputes arising out of the Arbitrator’s
+conditional orders should be resolved. As the defendant points out, it is well
+established that the court’s approach toward the enforcement of arbitral
+awards is “a mechanistic one which does not require judicial investigation by
+the court of the jurisdiction in which enforcement is sought”: Aloe Vera of
+America, Inc v Asianic Food (S) Pte Ltd and another [2006] 3 SLR(R) 174 at
+[42]. 49
+
+##### Foot Note 49
+
+×
+
+DWS para 61(a).
+
+Accordingly, questions arise as to whether (a) the Arbitrator’s conditional
+orders in the 2014 Award can be enforced, when there are pending disputes as
+to whether the plaintiff has been furnished with sufficient evidence of the
+defendant’s payment to RWS for the Nitrogen and Removal Claims; and (b) if
+not, whether it is appropriate for such disputes to be resolved by a court
+hearing an application to enforce the 2014 Award. In my view, these are
+matters that remain to be determined by a court hearing an application to
+enforce the 2014 Award, should the defendant choose to make such an
+application in future and I say nothing further about them. For present
+purposes, I do not agree that the 2014 Award can fairly be characterised as
+“self-executing”.
+
+76 In any case, whether or not the 2014 Award is “self-executing” is
+ultimately ancillary to my decision – nothing turns on this. While there may
+be potential difficulties in enforcing the 2014 Award as highlighted above at
+[75], it does not inexorably follow that the Arbitrator made a reservation of
+jurisdiction in the 2014 Award. As was observed in U&M Mining at [97], a
+conditional award may “present difficulties for enforcement purposes” but that
+does not prevent the award from being complete, final and binding on the
+parties. To conclude otherwise would place the cart before the horse. It is
+the omission of the Arbitrator to make an express reservation of jurisdiction
+in the 2014 Award, or more specifically his choice to make a conditional
+award, that has, at least partly, caused the potential enforcement
+difficulties discussed above at [75], and not the other way around. The fact
+that there may be enforcement difficulties with the 2014 Award cannot be an
+independent reason to reverse engineer and read a reservation of jurisdiction
+into the 2014 Award, and more so when weighed against the other objective
+evidence as detailed above at [56]–[73].
+
+The 2014 Award has the attributes of a final award
+
+77 I turn to the fourth and final reason for my conclusion that the 2014 Award
+did not reserve any jurisdiction to the Arbitrator to issue a further award.
+
+78 As noted in ZCCM Investments (at [54] above), in determining the nature of
+a tribunal’s decision, it is relevant to consider how a “reasonable recipient”
+would view the decision, after considering the objective attributes of the
+decision. In this regard, I find that there are two attributes of the 2014
+Award that bolster the conclusion that it is the last award and dispositive of
+all the issues in the Arbitration.
+
+79 First, the 2014 Award is titled “Final Award”. While this alone is not
+determinative of the nature of the award, I find that a reasonable recipient
+of the 2014 Award would take the title to mean that it was the last award in
+the Arbitration.
+
+80 Second, I note that the 2014 Award contains a final order on costs. The
+relevant paragraphs are as follows: 50
+
+##### Foot Note 50
+
+×
+
+PBCP vol 1 p 293, paras 246–247.
+
+XV. COSTS
+
+246\. The [defendant] has substantially, but not completely, succeeded in this
+arbitration. I however agree with the [defendant] that much of the arbitration
+centred around the issue of the cause of the Chiller motor failures, which I
+found in the [defendant’s] favour.
+
+247\. In the premises, I will award the [defendant] 70% of its costs plus 70%
+reasonable disbursements (including the arbitrator’s fees and disbursements of
+S$154,940.28 (inclusive of GST) already paid by the parties …
+
+81 The cost order purports to deal with all the costs of the arbitration,
+including the arbitrator’s fees. As noted above at [18(c)], the plaintiff
+submits that a final costs order is “an unmistakable feature of a full, final
+and conclusive award”. 51
+
+##### Foot Note 51
+
+×
+
+PWS paras 68–69.
+
+The plaintiff highlights the following passage from Jeffrey Tang (CA) at [35]:
+52
+
+##### Foot Note 52
+
+×
+
+PWS para 70.
+
+35 We do not think there could be any doubt that the ‘final award’ must be the
+one that completes everything that the arbitral tribunal is expected to
+decide, including the question of costs. Costs are invariably an item of claim
+both in civil litigation in the courts as well as in arbitral proceedings. It
+was such an item in the present arbitration.
+
+[emphasis added in bold italics]
+
+82 In the 2021 Decision, the Arbitrator observed that Jeffrey Tang (CA) is “no
+longer authoritative”, 53
+
+##### Foot Note 53
+
+×
+
+PBCP vol 1 p 42, para 29.
+
+as s 19B of the IAA was subsequently enacted to statutorily reverse the Court
+of Appeal’s finding that an arbitral tribunal is permitted to reconsider and
+revise its decision(s), up until a final award is given (at [38] of Jeffrey
+Tang (CA)). The plaintiff submits that the observations of the Court of Appeal
+in Jeffrey Tang (CA) at [35] are undisturbed by the enactment of s 19B of the
+IAA and therefore remain good law. 54
+
+##### Foot Note 54
+
+×
+
+PWS para 31.
+
+83 I do not find it necessary to reach any definitive conclusion on this point
+for the purposes of deciding the issue at hand. Nor do I venture so far as to
+conclude that the last award in an arbitration must invariably include an
+award on costs. However, for the purposes of the application before me, I
+agree with the plaintiff that a final costs order would at least be reasonably
+common in the last award in an arbitration. As noted in Nigel Blackaby et al,
+Redfern and Hunter on International Arbitration (Oxford University Press, 6th
+Ed, 2015) at para 9-18:
+
+All awards are final and binding, subject to any available challenges.
+However, the term ‘final award’ is customarily reserved for an award that
+completes the mission of the arbitral tribunal. Subject to certain exceptions,
+the delivery of a final award renders the arbitral tribunal functus officio:
+it ceases to have any further jurisdiction in respect of the dispute, and the
+special relationship that exists between the arbitral tribunal and the parties
+during the currency of the arbitration ends. This has significant
+consequences. An arbitral tribunal should not issue a final award until it is
+satisfied that its mission has actually been completed. If there are
+outstanding matters to be determined, such as questions relating to costs
+(including the arbitral tribunal’s own costs), the arbitral tribunal should
+issue an award expressly designated as a partial award.
+
+[emphasis added in bold italics]
+
+84 In other words, it is customarily the case that costs, including the
+arbitrator’s own costs, are the last issue to be dealt with by the tribunal in
+the arbitral proceedings. Thus, coming back to the question of how a
+reasonable recipient would view the 2014 Award (see [78] above), I find that
+from a reasonable recipient’s perspective, the inclusion of a final costs
+order in the 2014 Award is yet another indicium that the 2014 Award was the
+last award in the Arbitration and dispositive of all issues therein. In my
+judgment, the 2014 Award is therefore final in all three senses described in
+Persero (noted above at [51]). As a consequence, the Arbitrator is functus
+officio and lacks jurisdiction to issue any further award.
+
+85 In light of my conclusion that the Arbitrator did not reserve any
+jurisdiction in the 2014 Award, whether expressly or implicitly, it is not
+strictly necessary for me to deal with the plaintiff’s remaining argument that
+the parties, in their post-award correspondence, treated the 2014 Award as the
+last award.
+
+Does the defendant have no further recourse in respect of the Nitrogen and
+Removal Claims?
+
+86 I now turn to the defendant’s final argument. The defendant contends that
+if it is found that the Arbitrator does not have jurisdiction to issue the
+Further Award, the defendant would be left without recourse in respect of the
+Nitrogen and Removal Claims. 55
+
+##### Foot Note 55
+
+×
+
+DWS para 56.
+
+As noted at [21] above, the defendant argues that it may not be able to
+commence a fresh arbitration against the plaintiff in relation to the Nitrogen
+and Removal Claims. Further, the defendant cannot request for an additional
+award under s 43(4) of the AA, as the 30-day timeline to do so has long
+passed. I have also noted at [75] above that there are unresolved questions as
+to whether the Arbitrator’s conditional orders in the 2014 Award can be
+enforced without difficulty, which are ultimately questions best answered by a
+court hearing an application to enforce the 2014 Award.
+
+87 In my judgment, and for reasons similar to those stated at [76] above, the
+fact that the defendant may have no further recourse in respect of the
+Nitrogen and Removal Claims cannot itself be a basis for finding that the
+Arbitrator retains jurisdiction to issue the Further Award. The central
+question in this case is whether the Arbitrator reserved jurisdiction to issue
+a further award – that inquiry begins and ends with an examination of the 2014
+Award. As I have found above at [84], the Arbitrator made no such reservation
+of jurisdiction. That really is the end of the matter.
+
+88 Further, even if the defendant is ultimately left with no further recourse
+in respect of the Nitrogen and Removal Claims, I find some force in Mr Ng’s
+submission that this is in part a result of the defendant’s own doing. For
+one, the defendant did not seek an additional award from the Arbitrator within
+the timeline provided for in s 43(4) of the AA (for example, on the evidence
+needed to prove that the defendant had made payment to RWS for the Nitrogen
+and Removal Claims, in order for the plaintiff’s liability to crystallise).
+Likewise, while there is case law and commentary to suggest that an arbitral
+award may be set aside if the exact sum to be paid is unclear (see Official
+Assignee v Chartered Industries of Singapore Ltd [1977–1978] SLR(R) 435, noted
+in Arbitration in Singapore: A Practical Guide (Sundaresh Menon CJ gen ed)
+(Sweet & Maxwell, 2nd Ed, 2018) at para 13.092), no such setting aside
+application was brought by the defendant. The defendant’s application in HC/OS
+1107/2014 was one seeking to set aside a different part of the 2014 Award,
+unrelated to the Arbitrator’s orders on the Nitrogen and Removal Claims. 56
+
+##### Foot Note 56
+
+×
+
+JM-1 para 19(b) (PBCP vol 4 p 2041).
+
+Finally, the defendant has not, in any event, sought to enforce the 2014 Award
+against the plaintiff, despite nearly eight years elapsing since the issuance
+of the 2014 Award. No explanation has been offered by the defendant for this
+lapse in time.
+
+89 For the foregoing reasons, I do not place weight on the defendant’s
+argument that it will be left without recourse for the Nitrogen and Removal
+Claims, in the event it is found (as I have) that the Arbitrator does not
+possess jurisdiction to issue the Further Award.
+
+Conclusion
+
+90 I find that the 2014 Award was final and dispositive of all the issues in
+the Arbitration, such that the Arbitrator became functus officio once the 2014
+Award was issued. I therefore allow the plaintiff’s application in HC/OS
+952/2021 and reverse the 2021 Decision. Further, I decide and declare that the
+Arbitrator has no jurisdiction to make any further award in SIAC Arbitration
+No 61 of 2012.
+
+91 I shall hear the parties separately on the question of costs.
+
+S Mohan  
+Judge of the High Court|  
+---|---  
+  
+Ng Kim Beng and Benny Santoso (Rajah & Tann Singapore LLP) for the plaintiff;
+
+Karnan s/o Thirupathy, Charlene Sim Yan and Tan Yu Qing (Legal Solutions LLC)
+for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 30 Jun 2022 (12:25 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,1557 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 120
+
+Tribunal Appeal No 15 of 2021
+
+Between
+
+(1)| Sompo Insurance Singapore Pte. Ltd.  
+---|---  
+(2)| SM Laundry & Linen Pte Ltd  
+  
+… Applicants
+
+And
+
+(1)| Tay Jia Yi  
+---|---  
+(2)| Chew Pek Har  
+(3)| Tay Jia Chen  
+  
+… Respondents
+
+Tribunal Appeal No 17 of 2021
+
+Between
+
+(1)| Tay Jia Yi  
+---|---  
+(2)| Tay Jia Chen  
+  
+… Applicants
+
+And
+
+(1)| Sompo Insurance Singapore Pte. Ltd.  
+---|---  
+(2)| SM Laundry & Linen Pte Ltd  
+  
+… Respondents
+
+judgment
+
+[Employment Law — Work Injury Compensation Act]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Sompo Insurance Singapore Pte Ltd and another
+
+  
+v
+
+  
+
+Tay Jia Yi and others and another appeal
+
+[2022] SGHC 120
+
+General Division of the High Court — Tribunal Appeal Nos 15 and 17 of 2021  
+Ang Cheng Hock J  
+23 February 2022
+
+23 May 2022 Judgment reserved.
+
+1 The present applications are appeals against the decision of the Assistant
+Commissioner (Work Injury Compensation) (“AC”), who decided that SM Laundry &
+Linen Pte Ltd (“SM Laundry”) and its work injury compensation insurer, Sompo
+Insurance Singapore Pte Ltd (“Sompo Insurance”) (collectively, the
+“Applicants”), were liable to compensate the Respondents, who are the next of
+kin of the late Tay Tuan Yong, the deceased (“Mr Tay”), for his death from
+cardiac arrest on 20 October 2018 (the “Date of Incident”). The AC ordered the
+Applicants to pay the Respondents $204,000 in compensation and $5,000 in
+costs. 1
+
+##### Foot Note 1
+
+×
+
+AC’s Grounds of Decision (“GD”) at paras 64–65.
+
+The Applicants have appealed against the order for compensation on the
+question of liability, while the Respondents have cross-appealed on the amount
+of the costs awarded in their favour.
+
+The undisputed facts
+
+2 Mr Tay was employed on 5 June 2017 by SM Laundry as a driver. 2
+
+##### Foot Note 2
+
+×
+
+Joint Record of Proceedings (“ROP”) at pages 66, 76.
+
+On 1 April 2018, he was promoted to the position of operations supervisor, and
+was directly answerable to the CEO of SM Laundry, Lim Chuan Aik (“Mr Lim”). 3
+
+##### Foot Note 3
+
+×
+
+ROP at page 76.
+
+In his own words, Mr Lim described Mr Tay as a “very good friend”. 4
+
+##### Foot Note 4
+
+×
+
+ROP at page 69.
+
+Mr Lim’s evidence was that he had agreed to hire Mr Tay in the first place
+because the latter had been dismissed by his previous employer and was looking
+for a job. 5
+
+##### Foot Note 5
+
+×
+
+ROP at page 66.
+
+3 Mr Tay had underlying risk factors that predisposed him to heart attacks. He
+had a medical history of hyperlipidaemia and hypothyroidism, 6
+
+##### Foot Note 6
+
+×
+
+ROP at page 255.
+
+and smoked about 20 cigarettes a day. 7
+
+##### Foot Note 7
+
+×
+
+ROP at pages 57–58.
+
+Over the course of the three to four days prior to the Date of Incident, Mr
+Tay suffered intermittent episodes of chest pains, breathlessness and decrease
+in effort tolerance. 8
+
+##### Foot Note 8
+
+×
+
+ROP at page 255.
+
+On the Date of Incident, at around 7.00am, he experienced an onset of chest
+pains. 9
+
+##### Foot Note 9
+
+×
+
+ROP at page 326.
+
+Nonetheless, Mr Tay still decided to go to work. He arrived at his workplace
+at around 9.00am, whereupon he told Mr Lim that he was experiencing chest
+pains. 10
+
+##### Foot Note 10
+
+×
+
+ROP at page 70.
+
+Mr Lim told him to seek medical attention immediately. However, Mr Tay
+declined to do so. 11
+
+##### Foot Note 11
+
+×
+
+ROP at page 70.
+
+The chest pains intensified and Mr Tay eventually left his workplace at around
+10.00am 12
+
+##### Foot Note 12
+
+×
+
+ROP at page 70.
+
+to see a doctor at the Central 24-Hr Clinic at Pasir Ris (the “Pasir Ris
+Clinic”), arriving at 10.54am. 13
+
+##### Foot Note 13
+
+×
+
+ROP at pages 53 and 55.
+
+An ECG was taken at 11.11am, and Mr Tay was referred to Changi General
+Hospital (“CGH”) for medical attention. 14
+
+##### Foot Note 14
+
+×
+
+ROP at pages 55–56.
+
+There, he suffered a cardiac arrest at 12.47pm. He was resuscitated at
+12.52pm, but unfortunately passed away at 1.56pm after suffering a second
+cardiac arrest. 15
+
+##### Foot Note 15
+
+×
+
+ROP at pages 139; 181–182.
+
+The cause of death was acute myocardial infarction (“AMI”), 16
+
+##### Foot Note 16
+
+×
+
+ROP at page 248.
+
+ie, a heart attack resulting from acute obstruction of blood flow to the heart
+muscle.
+
+The statutory framework
+
+4 The claim by the Respondents is made in respect of an injury that occurred
+on 20 October 2018 and falls under the purview of the Work Injury Compensation
+Act (Cap 354, 2009 Rev Ed) (“the Act”). It may be of interest to note that the
+Act has since been repealed and re-enacted in the form of the Work Injury
+Compensation Act 2019 (2020 Rev Ed) (the “WICA 2019”) that took effect on 1
+September 2020. The WICA 2019 sought to improve the pre-existing regime in
+four main ways: to enhance insurance coverage and benefits for injured
+employees, to better incentivise employers to prevent injuries from happening
+in the first place, to speed up and improve claims processing, and to give
+greater assurance to employers that the regime provides balanced safeguards
+that protect both employers and employees (Singapore Parliamentary Debates,
+Official Report (3 September 2019) vol 94 (Mr Zaqy Mohamad, Minister of State
+for Manpower)).
+
+5 In this case, it is the predecessor legislation that governs the claim made
+and it is the provisions of the Act that will be considered. Section 3(1) of
+the Act provides that “[i]f in any employment personal injury by accident
+arising out of and in the course of the employment is caused to an employee,
+his employer shall be liable to pay compensation in accordance with the
+provisions of [the Act]”. I make the observation that s 7(1) of the WICA 2019
+adopts similar wording as follows: “[w]here personal injury is caused to an
+employee by an accident arising out of and in the course of the employee’s
+employment with an employer, that employer is liable to pay compensation under
+this Act”. The case law on and principles applicable to the old provision are
+therefore likely to continue providing helpful guidance for cases where the
+new provision applies.
+
+6 In terms of the process for making work injury compensation claims under the
+Act, a claimant must first notify the Ministry of Manpower (“MOM”) of its
+claim. MOM may then issue a Notice of Assessment (“NOA”) for a sum to be paid
+by the employer as compensation, if any. If the employer or the employer’s
+insurer wishes to dispute the claim, it may lodge a Notice of Objection
+(“NOO”). The dispute will be heard before the Commissioner for Labour or an
+Assistant Commissioner (Work Injury Compensation). In the present case, MOM
+had issued an NOA for compensation of $204,000 to be paid to the Respondents.
+17
+
+##### Foot Note 17
+
+×
+
+ROP at page 249.
+
+The Applicants then lodged an NOO disputing the claim. 18
+
+##### Foot Note 18
+
+×
+
+ROP at pages 253–254.
+
+The dispute was referred to and decided by the AC.
+
+The proceedings before the AC
+
+7 The proceedings before the AC took place in two tranches – on 27 and 29
+January 2021, and on 6 April 2021. 19
+
+##### Foot Note 19
+
+×
+
+GD at page 1.
+
+There were three factual witnesses: Mr Tay’s son (“TJY”), Mr Lim, and Dr Lye
+Tong Fong (“Dr Lye”), a family physician running the Pasir Ris Clinic, which
+Mr Tay visited on the Date of Incident (see [3] above). Two cardiologists were
+called as expert witnesses: Dr Baldev Singh (“Dr Singh”) and Dr Wong Cheok
+Keng (“Dr Wong”).
+
+TJY’s evidence
+
+8 TJY, as earlier mentioned, is Mr Tay’s son. He was called by the Respondents
+as a factual witness. He testified that his father worked from Mondays to
+Saturdays, leaving the house at about 6.00am and returning at about 10.00pm.
+20
+
+##### Foot Note 20
+
+×
+
+ROP at page 36.
+
+Mr Tay clocked more than 100 hours of overtime (“OT”) each month from October
+2017 to October 2018. 21
+
+##### Foot Note 21
+
+×
+
+ROP at page 36; ROP at pages 257–258.
+
+TJY also said that his father had been taking driving lessons to obtain a
+Class 4 licence for purposes of his work from 17 September 2018 to 21
+September 2018, and those lessons commenced at 8.15am. According to TJY, his
+father had mentioned that he was tired because of his long working hours. 22
+
+##### Foot Note 22
+
+×
+
+ROP at page 40.
+
+Mr Lim’s evidence
+
+9 As mentioned, Mr Lim is the CEO of SM Laundry and was Mr Tay’s direct
+supervisor. 23
+
+##### Foot Note 23
+
+×
+
+ROP at page 66.
+
+He said that Mr Tay was, at the material time, employed as an operations
+supervisor who was tasked to assign work to the factory workers and to
+supervise them, as well as to handle customer complaints. 24
+
+##### Foot Note 24
+
+×
+
+ROP at pages 73–74.
+
+According to Mr Lim, Mr Tay did not have to do any physical work. 25
+
+##### Foot Note 25
+
+×
+
+ROP at page 67.
+
+In fact, Mr Lim went so far as to say that, in his view, there was also no
+mental work involved in the role of a supervisor. 26
+
+##### Foot Note 26
+
+×
+
+ROP at 73–74.
+
+Nonetheless, he subsequently conceded that there was quite a lot of
+supervisory work to be done given that SM Laundry had two rather sizeable
+factories. 27
+
+##### Foot Note 27
+
+×
+
+ROP at page 78.
+
+He also acknowledged that Mr Tay was a “good supervisor” whom he trusted. 28
+
+##### Foot Note 28
+
+×
+
+ROP at page 76.
+
+However, Mr Lim testified that the OT hours for the period of October 2017 to
+October 2018 did not reflect Mr Tay’s actual working hours. 29
+
+##### Foot Note 29
+
+×
+
+ROP at page 68.
+
+This was because Mr Tay could go home at 5.00pm each day, but chose to stay
+late to wait for one Gui Min, who was a female employee who also worked at SM
+Laundry. 30
+
+##### Foot Note 30
+
+×
+
+ROP at page 68.
+
+Mr Lim explained that he did not question the OT claims because he trusted Mr
+Tay and did not mind paying him more money since the company was making a
+profit. 31
+
+##### Foot Note 31
+
+×
+
+ROP at page 69.
+
+10 As to the events on the Date of Incident, Mr Lim testified that Mr Tay had
+arrived at the workplace at about 9.00am. 32
+
+##### Foot Note 32
+
+×
+
+ROP at page 70.
+
+Upon arrival, Mr Tay informed Mr Lim that he was experiencing chest pains. 33
+
+##### Foot Note 33
+
+×
+
+ROP at page 70.
+
+Mr Lim urged him to see a doctor immediately, but Mr Tay refused. 34
+
+##### Foot Note 34
+
+×
+
+ROP at page 70.
+
+It was only at around 10.00am that Mr Tay informed Mr Lim that he would be
+leaving to see a doctor. 35
+
+##### Foot Note 35
+
+×
+
+ROP at page 70.
+
+Mr Lim’s evidence was that, in the hour or so during which Mr Tay was at the
+workplace, he was not doing any work; rather, he was talking to other
+employees about his chest pains. 36
+
+##### Foot Note 36
+
+×
+
+ROP at page 82.
+
+When cross-examined by counsel for the Respondents, Mr Lim did concede that he
+did not pay close attention to what Mr Tay was doing at the material time.
+However, he did form the view that Mr Tay was not doing work based on what he
+had heard from inside his office. 37
+
+##### Foot Note 37
+
+×
+
+ROP at pages 85–87.
+
+Sometime later, Mr Lim received a call from Mr Tay, who was then at the Pasir
+Ris Clinic (the “Phone Call”). Mr Tay informed him of a mistake in a work-
+related delivery matter that Mr Lim would have to take care of. Mr Tay also
+asked Mr Lim to retrieve the company van that the former had driven to the
+Pasir Ris Clinic. 38
+
+##### Foot Note 38
+
+×
+
+ROP at pages 77–78; 87.
+
+11 I should add that Mr Lim was called by the Applicants to give evidence.
+Under cross-examination by counsel for the Respondents, it is of some
+significance that it was never put to Mr Lim that Mr Tay’s duties at work were
+demanding, or that the workplace was a stressful environment for Mr Tay.
+Neither was it put to Mr Lim that Mr Tay was carrying out any specific work in
+the hour that he was at the workplace on the Date of the Incident, or that the
+two of them had a tense or taxing conversation during the Phone Call.
+
+Dr Lye’s evidence
+
+12 Dr Lye, as earlier mentioned, is a family physician running the Pasir Ris
+Clinic that Mr Tay visited on the Date of Incident. He was not the doctor who
+had attended to Mr Tay on the Date of Incident, but he wrote all the medical
+reports for the clinic, including that for Mr Tay. 39
+
+##### Foot Note 39
+
+×
+
+ROP at pages 61–62.
+
+Dr Lye testified that Mr Tay had only been to the clinic once, and that was on
+the Date of Incident. 40
+
+##### Foot Note 40
+
+×
+
+ROP at page 55.
+
+He expressed the view that he would have diagnosed Mr Tay with a heart attack
+at the time that Mr Tay was attended to at the Pasir Ris Clinic, which was
+around 10.54am. 41
+
+##### Foot Note 41
+
+×
+
+ROP at page 55–56.
+
+He formed this view based on the clinical notes of the doctor who had attended
+to Mr Tay and the ECG conducted at around 11.11am. 42
+
+##### Foot Note 42
+
+×
+
+ROP pages 55–56.
+
+Dr Lye added that the clinical notes showed that Mr Tay had risk factors that
+would predispose him to a heart attack. These factors included thyroid
+conditions, high lipid conditions and smoking. 43
+
+##### Foot Note 43
+
+×
+
+ROP at page 57.
+
+Dr Singh’s evidence
+
+13 Dr Singh is a cardiologist who was called by the Respondents as an expert
+witness. He prepared two reports, one dated 11 December 2020 (“Dr Singh’s
+First Report”) 44
+
+##### Foot Note 44
+
+×
+
+ROP at page 184.
+
+and another subsequent reply report dated 9 March 2021 (“Dr Singh’s Reply
+Report”). 45
+
+##### Foot Note 45
+
+×
+
+ROP at page 341.
+
+Dr Singh opined in his Reply Report that it was not possible to definitively
+exclude Mr Tay’s work as a trigger factor which caused his heart attack, 46
+
+##### Foot Note 46
+
+×
+
+ROP at page 349, para k.
+
+and that arriving at work in the morning, or the anticipation of having to
+carry out work, could have caused Mr Tay to experience a surge in adrenalin
+and other stress hormones, which in turn could have increased his heart rate
+and blood pressure, thereby triggering vascular events. 47
+
+##### Foot Note 47
+
+×
+
+ROP at page 348, para h.
+
+Dr Singh’s Reply Report also explained that angina attacks usually resolve
+spontaneously if a patient sits down and relaxes. 48
+
+##### Foot Note 48
+
+×
+
+ROP at page 347, para c(i).
+
+Dr Singh took the view that the hour spent at the workplace, ie, from around
+9.00am to 10.00am on the Date of Incident, had aggravated Mr Tay’s underlying
+medical conditions, leading to his heart attack. 49
+
+##### Foot Note 49
+
+×
+
+ROP at page 118.
+
+Dr Singh also opined that the worry that Mr Tay must have experienced when
+making the Phone Call (see [10] above) “sealed his fate”; if he had not been
+worried about work at that juncture, it was possible, in Dr Singh’s view, that
+Mr Tay could have recovered after visiting the Pasir Ris Clinic. 50
+
+##### Foot Note 50
+
+×
+
+ROP at page 348, para f.
+
+Dr Wong’s evidence
+
+14 Dr Wong is a cardiologist who was called by the Applicants as an expert
+witness. Dr Wong prepared a report dated 24 February 2021. 51
+
+##### Foot Note 51
+
+×
+
+ROP at page 331.
+
+He opined that Mr Tay’s heart attack had likely occurred spontaneously and
+that his “injury” was not the result of an “accident arising out of and in the
+course of his employment”. This is because there “did not appear to [be] any
+specific trigger related to [Mr Tay’s] work”. 52
+
+##### Foot Note 52
+
+×
+
+ROP at page 339, paras 2–3.
+
+According to Dr Wong, Mr Tay’s heart attack started at 7.00am on the Date of
+Incident, was diagnosed at 11.11am based on the ECG conducted at the Pasir Ris
+Clinic, and was later confirmed at CGH with another ECG and blood test. 53
+
+##### Foot Note 53
+
+×
+
+ROP at page 139.
+
+In his view, at the point of the ECG taken at the Pasir Ris Clinic, Mr Tay was
+“already suffering from a [heart attack]”. 54
+
+##### Foot Note 54
+
+×
+
+ROP at page 143.
+
+While he did not disagree that the Phone Call or other forms of emotional
+stress could “worsen [an] ongoing heart attack”, 55
+
+##### Foot Note 55
+
+×
+
+ROP at page 143.
+
+Dr Wong was of the view that, bearing in mind Mr Tay’s existing condition with
+“significant blockage” and various risk factors, Mr Tay was “already a ticking
+time bomb” headed towards a heart attack as of 7.00am on the Date of Incident.
+56
+
+##### Foot Note 56
+
+×
+
+ROP at page 144.
+
+The decision of the AC
+
+15 The AC set out the conjunctive requirements for a claim under s 3(1) of the
+Act as follows: 57
+
+##### Foot Note 57
+
+×
+
+GD at para 8.
+
+(a) The employee suffered a personal injury;
+
+(b) The injury was caused by an accident; and
+
+(c) The accident arose out of and in the course of employment.
+
+16 The AC found that requirement (a) was undoubtedly satisfied: Mr Tay had
+suffered a personal injury since he died of a heart attack. 58
+
+##### Foot Note 58
+
+×
+
+GD at para 19.
+
+17 Of particular note is the AC’s decision on requirement (b). He found
+requirement (b), that the injury was caused by an accident, was satisfied
+because Mr Tay “had an internal medical condition (i.e. the high cholesterol)
+that caused him to suffer an unexpected injury (AMI or heart attack) while
+[he] was in the course of his work”. 59
+
+##### Foot Note 59
+
+×
+
+GD at para 53.
+
+The AC, relying mainly on the case of NTUC Income Insurance Co-operative Ltd
+and another v Next of kin of Narayasamy s/o Ramasamy, deceased [2006] 4 SLR(R)
+507 (“Narayasamy”), focused on the point that an “accident” would include an
+internal medical condition that caused an unexpected injury while the employee
+was carrying out his work; and that it would include an injury sustained even
+if it was brought about by a pre-existing medical condition. It appears that,
+on the AC’s analysis, the unexpected onset of the heart attack constituted the
+“accident” within the meaning of s 3(1) of the Act.
+
+18 For requirement (c), the AC relied on Allianz Insurance Co (Singapore) Pte
+Ltd v Ma Shoudong [2011] 3 SLR 1167 (“Ma Shoudong”) for the meaning of “in the
+course of employment”. In Ma Shoudong, it was held that the phrase includes
+any accident that “bears a temporal relationship with the employment”. 60
+
+##### Foot Note 60
+
+×
+
+GD at para 56.
+
+On this approach, the AC found that the heart attack had indeed occurred when
+Mr Tay was in the course of employment. He took the view that it was
+unnecessary to pin down exactly when Mr Tay suffered the heart attack because,
+in his assessment, the evidence showed that from 9.00am till the time of
+death, Mr Tay was either at the workplace or worrying about work (as evidenced
+by the Phone Call). 61
+
+##### Foot Note 61
+
+×
+
+GD at para 55.
+
+Consequently, work must necessarily have been an aggravating factor that
+pushed Mr Tay into a heart attack. 62
+
+##### Foot Note 62
+
+×
+
+GD at para 55.
+
+In this regard, the AC accepted Dr Singh’s evidence that “just [being] at the
+workplace was sufficient to trigger a heart attack”. 63
+
+##### Foot Note 63
+
+×
+
+GD at para 63.
+
+He also cited Dr Wong’s concession that any forms of stress, whether physical
+or emotional, could have aggravated Mr Tay’s condition. 64
+
+##### Foot Note 64
+
+×
+
+GD at para 61.
+
+Dealing with the evidence showing that Mr Tay had started experiencing chest
+pains from 7.00am on the Date of Incident, the AC found that there was “no
+clear medical evidence to show that the heart attack had started at 7.00am”.
+65
+
+##### Foot Note 65
+
+×
+
+GD at para 55.
+
+The AC accepted Dr Singh’s evidence that those pains could be classified as
+angina, which could have been aborted by rest or medication. 66
+
+##### Foot Note 66
+
+×
+
+GD at para 63.
+
+19 Having found that the accident occurred in the course of employment, the AC
+relied on the presumption in s 3(6) of the Act, which reads:
+
+For the purposes of this Act, an accident arising in the course of an
+employee’s employment shall be deemed, in the absence of evidence to the
+contrary, to have arisen out of that employment.
+
+The AC thus found that the accident also arose out of Mr Tay’s employment.
+With this finding, the AC required the Applicants, as the party now bearing
+the burden of proof, to furnish evidence that Mr Tay’s underlying condition
+was the sole cause of his death, as is required in order to rebut the
+presumption under s 3(6) of the Act. 67
+
+##### Foot Note 67
+
+×
+
+GD at para 58.
+
+20 The AC ultimately found that the Applicants had failed to rebut the
+presumption under s 3(6) of the Act. As all three requirements under s 3(1) of
+the Act were satisfied, the AC concluded that the claim was made out and
+ordered the Applicants to pay to the Respondents $204,000 in compensation and
+$5,000 as costs.
+
+The applications before the court
+
+21 Both the Applicants and Respondents have appealed against the AC’s
+decision. The Applicants have applied to this court in Tribunal Appeal No 15
+of 2021 (“TA 15/2021”) seeking an order that the AC’s decision be set aside.
+The Applicants take the position that the AC had erred in allowing the
+Respondents’ claim. The Respondents have also made an application to this
+court in Tribunal Appeal No 17 of 2021 (“TA 17/2021”) for the AC’s decision on
+costs to be varied. The Respondents are dissatisfied with the order that only
+$5,000 is to be paid to them as costs. Instead, they seek the full sum of
+$7,746.30 in legal costs that they had incurred in proceedings before the AC.
+68
+
+##### Foot Note 68
+
+×
+
+Respondents’ Written Submissions (“RWS”) at paras 79–84.
+
+22 Under s 29 of the Act, orders made by the Commissioner for Labour or an
+Assistant Commissioner (Work Injury Compensation) are subject to appeals where
+a “substantial question of law” is involved in the appeal and the amount in
+dispute is not less than $1,000. In my view, statutory provisions which
+restrict appeals from tribunals and other statutory bodies to “questions of
+law” or “points of law” are a reference to where the adjudicative body has
+made an error or errors of law.
+
+23 In Ng Eng Ghee and others v Mamata Kapilev Dave and others (Horizon
+Partners Pte Ltd, intervener) and another appeal [2009] 3 SLR(R) 109 (“Ng Eng
+Ghee”), the Court of Appeal considered that an appeal against a decision of a
+Strata Titles Board formed under the Building Maintenance and Strata
+Management Act 2004, which only permits appeals on a “point of law”, as being
+synonymous with permitting appeals only where the Board has made an error of
+law. At [90] of Ng Eng Ghee, the Court of Appeal then cited with approval the
+definition of errors of law set out in Halsbury’s Law of England vol 1(1)
+(Butterworths, 4th Ed Reissue, 1989) at para 70:
+
+Errors of law include misinterpretation of a statute or any other legal
+document or a rule of common law; asking oneself and answering the wrong
+question, taking irrelevant considerations into account or failing to take
+relevant considerations into account when purporting to apply the law to the
+facts; admitting inadmissible evidence or rejecting admissible and relevant
+evidence; exercising a discretion on the basis of incorrect legal principles;
+giving reasons which disclose faulty legal reasoning or which are inadequate
+to fulfil an express duty to give reasons, and misdirecting oneself as to the
+burden of proof.
+
+[emphasis in the original]
+
+These were described as ex facie errors of law that would raise points of law,
+which may be appealed: Ng Eng Ghee at [91].
+
+24 In addition to such ex facie errors, otherwise known as errors which appear
+on the face of the record, the Court of Appeal went on to endorse the view
+that an appeal on a “point of law” would also be allowed if the facts found
+were such that no person acting judicially and properly instructed as to the
+relevant law could have come to the determination under appeal: Ng Eng Ghee at
+[95], agreeing with the view expressed by the House of Lords in Edwards v
+Bairstow [1956] AC 14 (“Edwards”).
+
+25 For completeness, I should also add that the Court of Appeal explained in
+Ng Eng Ghee (at [99]) that the definition of a “question of law” may be wider
+or narrower depending on the context and the relevant underlying policy
+considerations. In the context of decisions by inferior tribunals, the Court
+of Appeal expressed approval of a broader approach, which affords the court
+greater oversight over such tribunals; ex facie errors, and errors of the type
+as described in Edwards, would entitle a party to appeal (see Ng Eng Ghee at
+[100]–[101]).
+
+26 Under the Act, there is a further limitation in that the “question of law”
+being raised on appeal must be a “substantial” one. This must refer to a
+question of law that has some practical consequence to the rights and
+liabilities of the parties, or to the public, and not some misapplication of
+the law that has no real impact. In other words, the Applicants and
+Respondents must show that the AC has erred in law in his decision, and this
+had affected the finding of liability, or the amount of compensation or costs
+awarded, in order to succeed in their respective appeals.
+
+27 It would be fairly clear that I need only consider the Respondents’ appeal
+if I am of the view that the Applicants’ appeal should be dismissed. As such,
+I will first consider TA 15/2021, followed by TA 17/2021, if it becomes
+necessary to do so.
+
+TA 15/2021
+
+The parties’ cases
+
+28 The Applicants emphasise that the burden falls on the Respondents, as the
+claimants seeking compensation, to show that s 3(1) of the Act is satisfied.
+The Applicants argue that s 3(1) of the Act is not established because the
+Respondents are unable to show that Mr Tay had indeed suffered an injury by an
+accident that had arisen out of and in the course of his employment. On the
+facts, the Applicants contend that there is nothing constituting such
+“accident” within the meaning of the Act that caused or contributed to the
+heart attack or death. In this regard, the Applicants rely on the
+“incontrovertible evidence” that Mr Tay’s heart attack started at 7.00am on
+the Date of Incident. 69
+
+##### Foot Note 69
+
+×
+
+Applicants’ Written Submissions (“AWS”) at para 132.
+
+Further, according to the Applicants, there is no proof of any “specific acts
+of exertion or stress” related to Mr Tay’s employment. 70
+
+##### Foot Note 70
+
+×
+
+AWS at para 132.
+
+Rather, the evidence shows that the onset of the heart attack was not
+employment related. It is also undisputed that Mr Tay had various risk factors
+that predisposed him to a heart attack (see [3] above); this suggests that the
+heart attack was the “normal climax of a progressive malady” and was not
+connected with Mr Tay’s employment. 71
+
+##### Foot Note 71
+
+×
+
+AWS at para 120(f).
+
+In the absence of “a specific event that was proven as the accident that
+caused the injury”, 72
+
+##### Foot Note 72
+
+×
+
+AWS at para 127.
+
+the Applicants say the claim for compensation must fail.
+
+29 The Respondents take the position that s 3(1) of the Act is satisfied. In
+their analysis, it is important to distinguish between the progressively fatal
+stages suffered by a heart attack patient as follows: angina, heart attack and
+cardiac arrest. The Respondents dispute the Applicants’ contention that the
+onset of the heart attack was at 7.00am of the Date of Incident. Relying on Dr
+Singh’s evidence, the Respondents argue that Mr Tay had experienced angina,
+rather than a heart attack, at 7.00am. This could have resolved without
+progressing to a heart attack, but for the stressors experienced by Mr Tay in
+the course of employment later that morning. The Respondents contend that, on
+a balance of probabilities, Mr Tay’s heart attack likely started while he was
+at work between 9.00am to 10.00am on the Date of Incident. 73
+
+##### Foot Note 73
+
+×
+
+RWS at para 29.
+
+On this basis, the Respondents conclude that Mr Tay suffered injury by an
+accident arising in the course of employment. The Respondents then rely on the
+presumption in s 3(6) of the Act and argue that the Applicants have failed to
+rebut the presumption because Dr Wong accepted that any physical or mental
+stressors encountered at work could have aggravated the heart attack. As such,
+Mr Tay’s underlying conditions cannot be shown to be the sole cause of his
+death.
+
+The issues
+
+30 It is clear that Mr Tay had suffered an injury. The heart attack clearly
+constitutes such an injury. While a workplace injury by accident is typically
+associated with something external, such as falling from a height for
+instance, “an internal medical condition that caused an unexpected injury”
+while an employee is carrying out his or her work can also fall within s 3(1)
+of the Act (see Narayasamy at [24]).
+
+31 The central question in contention in TA 15/2021 is whether, given the
+circumstances of this case, the heart attack suffered by Mr Tay falls within
+the scope of s 3(1) of the Act, such that the Applicants are liable to
+compensate the Respondents. The key issue to be determined, from the wording
+of the statutory provision, is whether there was an “injury by accident
+arising out of and in the course of the employment”. To be more precise, it
+must be determined whether, on the facts, there was an “injury by accident”.
+This is to be decided based on a proper interpretation of the statutory
+provision, and its application to the facts of this case. I am satisfied that
+this is a substantial question of law since the answer to it will determine
+whether the Applicants are liable to compensate the Respondents.
+
+32 Another interconnected issue that arises is whether the AC had erred in
+determining that there had been an accident that arose in the course of Mr
+Tay’s employment, such that the presumption in s 3(6) of the Act was triggered
+and the onus was then on the Applicants to show that Mr Tay’s heart attack was
+caused only by his underlying medical conditions and not by his employment.
+The resolution of this issue depends on whether the AC had disregarded
+relevant medical evidence and taken into account irrelevant considerations in
+the evidence before him. This is another substantial question of law since it
+will have an impact on the liability of the Applicants.
+
+Analysis
+
+33 To recapitulate, s 3(1) of the Act provides as follows:
+
+If in any employment personal injury by accident arising out of and in the
+course of the employment is caused to a workman, his employer shall be liable
+to pay compensation in accordance with the provisions of this Act.
+
+34 The conjunctive requirements, as recognised by the AC, have been set out
+above (see [15]). That these are the requirements is borne out by the clear
+language in s 3(1) and also by the authorities: see eg, Narayasamy at [20].
+The crux of the Applicants’ challenge to the Respondents’ claim is that there
+was no “accident” that caused the injury within the meaning of s 3(1) of the
+Act. If the Applicants are correct, the claim would necessarily fail.
+
+35 As earlier mentioned (at [30] above), an “injury by accident” under s 3(1)
+of the Act can include an “internal medical condition that caused an
+unexpected injury” while an employee was carrying out his or her work
+(Narayasamy at [24]). It is therefore possible that an employee who has
+suffered a heart attack while carrying out his or her work could be considered
+to have suffered an injury by accident within the meaning of s 3(1) of the
+Act. However, case law has established the importance of distinguishing
+between an injury by accident and an injury caused by ordinary wear and tear
+brought about by the employee’s work-related efforts; the latter does not fall
+within the meaning of s 3(1) of the Act. In this regard, the following passage
+from Narayasamy (at [38]) is a helpful summary of the position in relation to
+the need to show an “accident”:
+
+In my judgment, the passages in Ormond and Hawkins which I have just cited go
+to establish the important principle that to come within the Act, it must be
+shown that there was some occurrence which caused the injury in question.
+Thus, mere wear and tear would not constitute an accident. Further, an
+occurrence which could constitute an accident but which has not been shown on
+a balance of probabilities to have caused the injury would also not bring the
+workman within the protection of the Act. However, the occurrence need not be
+the sole or even the dominant cause. It will be sufficient to show that the
+accident was an operating or contributory cause of the injury. It must further
+be shown that the injury was in some way connected with the employment.
+
+[emphasis in original omitted; emphasis added in italics]
+
+36 As can be noted, two key principles have been set out in the above passage.
+First, the claimant seeking compensation must show that there was an
+occurrence in the course of employment that caused the injury in question.
+Secondly, it is insufficient to show that such occurrence might have or could
+possibly have caused the injury; while there is no requirement for the
+claimant to show with absolute certainty that the occurrence did in fact cause
+the injury, the existence of a causal link must be shown on a balance of
+probabilities.
+
+37 As an illustration, I will briefly outline the facts of Narayasamy. In that
+case, the deceased was employed as a coach driver whose responsibilities
+included loading of luggage onto and out of his coach. He passed away after
+suffering a heart attack, the effects of which were superimposed on one he had
+suffered previously. It was acknowledged that the deceased was not in good
+health to begin with. The claim by his next of kin nonetheless succeeded
+because there was evidence that the deceased was engaged in strenuous work
+just prior to and at the time that he suffered the fatal heart attack. A
+finding was made that the deceased’s heart attack was triggered by his work-
+related exertions shortly before the heart attack. This finding was supported
+by witness evidence that the deceased had been carrying ten to 15 bags, each
+weighing between 15 and 25 kilograms, shortly before the heart attack. There
+was also medical evidence that, at the time of the accident, the deceased’s
+heart condition had deteriorated to such a stage that his work had become too
+strenuous for him. The occurrence, therefore, was the strenuous work that the
+accused had been doing shortly prior to the heart attack.
+
+38 I turn to examine two authorities that were cited with approval in
+Narayasamy. In Ormond v CD Holmes & Co, Ltd [1937] 2 All ER 795 (“Ormond”),
+the English Court of Appeal dismissed a claim for compensation under s 1(1) of
+the Workmen’s Compensation Act 1925, which provision used a similar expression
+as that used in s 3(1) of the Act. In Ormond, a blacksmith’s striker suffered
+a stroke at work. He had previously suffered a stroke at home. On the medical
+evidence, the work that had been done after the first stroke accelerated the
+second stroke. However, the court concluded that the injury suffered, ie, the
+second stroke, was outside the scope of the English statute. This was because
+although the second stroke had been accelerated by the general “wear and tear”
+of the work done, it was “impossible to point to any specific event that was
+responsible” for the second stroke (Ormond at 804).
+
+39 In Hawkins v Powells Tillery Steam Coal Company, Limited [1911] 1 KB 988,
+an elderly man working in a colliery had been helping to push some empty
+trucks up an incline. He was then asked to cut some timber when he complained
+of pain. He died of angina pectoris that evening. The medical evidence showed
+that the man’s heart was in poor condition; any slight exertion could have
+brought on a fatal heart attack. The English Court of Appeal overturned the
+lower court’s decision to allow the claim for compensation under s 1 of the
+Workmen’s Compensation Act 1906, which also requires that an “accident”
+arising out of the employment be shown. The judge sitting in the lower court
+concluded that, on the whole of the evidence, the deceased had over-exerted
+himself at work, and that had brought on the heart attack. On appeal, the
+appellate court found that the lower court’s decision was not supported by
+direct evidence nor legitimate inference; it was not clear from the medical
+evidence whether the injury had been caused by something the deceased had been
+doing at work, and that defeated the claim.
+
+40 A more recent decision is Secretary of State for Work and Pensions v James
+Scullion [2010] EWCA Civ 310 (“Scullion”). There, the claimant accountant had
+to take on additional work as a planning manager and stores manager due to the
+illness of a colleague and promotion of another. His increased workload placed
+great strains on him. He was found collapsed at work, having suffered a
+cardiac arrest. The English Court of Appeal refused to make a declaration that
+the claimant had suffered an industrial accident under s 29(2) of the Social
+Security Act 1998. The provision which had to be satisfied was s 94(1) of the
+Social Security Contributions and Benefits Act 1992, which used the expression
+“personal injury caused … by accident”. This was because “there was no
+evidence that any external event … such as lifting a very heavy pile of
+papers, opening a file drawer which had stuck, or even lifting an arm to get
+heavy papers from a shelf, caused the cardiac arrest” (Scullion at [54]).
+Aikens LJ emphasised the “necessary distinction between ‘accident’ and
+‘injury’” (Scullion at [44]) and explained that it is erroneous to consider a
+cardiac arrest to be an injury caused by accident simply because the cardiac
+arrest was an improbable, sudden and an unlooked-for mishap or untoward event
+(Scullion at [53]).
+
+41 Finally, I also considered the decision in Chua Jian Construction and
+another v Zhao Xiaojuan (deputy for Qian Guo Liang) [2018] SGHC 98 (“Chua
+Jian”). In Chua Jian, a construction site worker was found lying motionless on
+the ground at his work site. He was taken to the hospital where he was
+diagnosed with intracerebral haemorrhage (“ICH”), which had caused him to fall
+into a coma (from which he unfortunately did not awake, even at the time of
+the decision in Chua Jian). The High Court dismissed the claim for
+compensation, which was made pursuant to s 3(1) of the Act. In Chua Jian,
+there was no available evidence as to what happened shortly prior to the
+worker’s collapse. On the other hand, the medical evidence was that the ICH
+was caused by hypertension, which the worker had been suffering for many years
+and left untreated. In arriving at his decision, Choo Han Teck J considered
+Narayasamy and found that it was distinguishable. In explaining why, Choo J
+stated (at [16]):
+
+In the present case there was no evidence that “something in fact transpired
+in the course of his work which made the injury occur when it did”. That a
+heart attack could have occurred to the employee while at his workplace is the
+same as an employee suffering a stroke at home, unless the employee who
+suffered the heart attack or stroke suffered it at his workplace after
+something had transpired that made the injury occur when it did. In Narayasamy
+the answer was yes, he was exerting himself when he collapsed, and that
+exertion had brought about the heart attack. In the present case, there is
+only the evidence of the stroke. There was no evidence that it was brought
+about by an exertion, and no evidence, in fact, of what [the worker] was doing
+before he collapsed.
+
+[emphasis added]
+
+42 In my judgment, when the four abovementioned cases are read together with
+Narayasamy, it is clear that an internal medical condition may amount to an
+“injury by accident” within the meaning of s 3(1) of the Act only where it is
+shown that there was an occurrence in the course of employment that
+precipitated the injury being suffered by the worker. It must be shown that
+the worker was doing something, relating to his work, which was a cause of his
+injury. It is insufficient to say that there was an “accident” simply because
+it was unexpected that the injury had occurred. In other words, the fact that
+the injury was sustained cannot also be the occurrence. Otherwise, one would
+be conflating the “injury” with the “accident”.
+
+43 I turn to examine whether there was such an “injury by accident” within the
+meaning of s 3(1) of the Act on the facts of the present case. Counsel for the
+Respondents proffered, in oral submissions, two possible ways to analyse the
+transpired events in accordance with the statutory framework. On the first
+analysis, the “injury” suffered is the heart attack, and the “accident” is the
+unexpected occurrence of the heart attack. I am unable to accept this
+analysis. As I have already explained, it would not be in line with the
+approach as set out in Narayasamy to say that the heart attack constitutes
+both the injury and accident because, on such an analysis, there is no
+occurrence that caused the injury.
+
+44 I therefore find that the AC erred in his reasoning because he adopted this
+analysis put forward by the Respondents. To recapitulate, the AC decided that
+there was an injury by accident because Mr Tay “had an internal medical
+condition (ie, the high cholesterol) that caused him to suffer an unexpected
+injury (AMI or heart attack) while [Mr Tay] was in the course of his work”. 74
+
+##### Foot Note 74
+
+×
+
+GD at para 53.
+
+He relied on Narayasamy in arriving at this conclusion. He cited Narayasamy at
+[38] (which has been reproduced in full at [35] above) for the proposition
+that an “accident” would, in the AC’s words, “exclude mere wear and tear but
+would include an unexpected injury sustained while the employee was carrying
+out his work even if it was brought about by a pre-existing medical condition”
+[emphasis added]. 75
+
+##### Foot Note 75
+
+×
+
+GD at para 9(c).
+
+It appears to me that the AC may have focused on the reference in Narayasamy
+to a pre-existing medical condition without recognising the requirement for
+there to also have been an occurrence that caused the injury. Indeed, the
+facts of Narayasamy illustrated that an employee is not precluded from
+compensation for his injury simply because his pre-existing medical condition
+had caused the unexpected injury. However, the important qualification is this
+– he or she must show that there was an occurrence in the course of employment
+that, on a balance of probabilities, in fact caused the injury suffered. To
+put things simply, something external must have happened in the course of
+employment that triggered the heart attack suffered by Mr Tay, even if one
+accepts that he had pre-existing medical conditions that predisposed him to
+having a heart attack. The AC erred in his reasoning by treating the accident
+and injury as if they are one and the same, when the correct approach would
+have been to recognise the “necessary distinction” between them as earlier
+explained (see [40] above).
+
+45 In Narayasamy, it was found that “there was no doubt that the [claimant]
+had showed that there had been an occurrence”, which, as already explained
+(see [37] above), was the many pieces of luggage he was moving shortly prior
+to his heart attack. On the other hand, the Respondents have not shown that
+there was any such occurrence in the present case. The evidence before the AC
+was that Mr Tay was at the workplace for about an hour from 9.00am to 10.00am
+on the Date of Incident, and that he did not do any work in that time (see
+[10] above). I recognise that this account of the events is based solely on Mr
+Lim’s testimony, and he did concede that he did not pay close attention to Mr
+Tay at the material time (see [10] above). However, Mr Lim’s testimony was the
+only evidence as to what happened during that hour or so that Mr Tay spent at
+the workplace. No co-workers or other witnesses were called by the Respondents
+to give evidence as to what Mr Tay was doing during the hour that he was at
+the workplace. There is thus no credible challenge to Mr Lim’s evidence as to
+what transpired that morning. Since the Respondents are unable to show that Mr
+Tay was doing anything in relation to his work while he was at the workplace
+on the Date of Incident, let alone anything significant that might have
+triggered his heart attack, they are accordingly unable to show that there was
+an occurrence in the course of employment that resulted in the “injury by
+accident” within the meaning of s 3(1) of the Act.
+
+46 The Respondents’ alternative analysis of the transpired events is that the
+“injury” suffered was the cardiac arrest at 12.47pm (see [3] above), and the
+“accident” is the heart attack. In this analysis, the Respondents rely on the
+Phone Call (see [10] above) as the occurrence which triggered the heart
+attack. They argue that Mr Tay must have been so concerned about work that he
+called Mr Lim to tell him about things that had to be done. That allegedly
+triggered Mr Tay’s cardiac arrest. With respect, I find this analysis to be
+rather confused because it attempts to separate the injury suffered by Mr Tay,
+which is his heart attack, into different constituents in order to show that
+the injury he suffered happened during the course of work, ie, after 9.00 am.
+The question as to whether Mr Tay suffered his injury before he even arrived
+at work is a point I will come to later (see [53]–[56] below).
+
+47 As to this different analysis of what is the “injury by accident”, I find
+the Respondents’ submissions before me rather inconsistent with the expert
+medical evidence that they led in proceedings before the AC. Dr Singh’s
+evidence was that the hour or so spent at the workplace led to the heart
+attack (see [13] above). He testified that the chest pains experienced by Mr
+Tay before arriving at work “could have been an angina attack which could have
+been aborted by resting” but he “chose to go to work and stayed there for
+another hour and that was the last straw that aggravated the angina that [led]
+to a heart attack”. 76
+
+##### Foot Note 76
+
+×
+
+ROP at page 119.
+
+Thus, according to Dr Singh, it was the work that Mr Tay was doing at the
+workplace that morning or the Phone Call which led to his injury, which is the
+heart attack suffered by Mr Tay. I thus did not accept the Respondents’
+alternative analysis that attempts to draw a distinction between the heart
+attack and the cardiac arrest. It is entirely artificial, in my view, to treat
+the cardiac arrest, which is the final stage of the heart attack, as separate
+from the heart attack. In my view, the injury is the heart attack that Mr Tay
+suffered, which eventually led to his death by cardiac arrest. What the
+Respondents have not been able to establish is the occurrence that took place
+on the morning of the Date of the Incident which was causally linked to Mr Tay
+having a heart attack.
+
+48 At this juncture, I pause to note the many deficiencies in Dr Singh’s
+evidence, which were pointed out by counsel for the Applicants. In my
+judgment, many of the criticisms by the Applicants are justifiable. Dr Singh’s
+evidence was in many ways speculative and unsupported by the available factual
+evidence. For instance, Dr Singh’s Reply Report noted that “[Mr Tay] was a
+hard worker and was not averse to physically helping his workers in carrying
+bales of clothing for laundry”. 77
+
+##### Foot Note 77
+
+×
+
+ROP at page 344, para d.
+
+In Dr Singh’s First Report, he explained that “any minor physical exertion
+(such as pulling trolleys, loading laundry baskets or climbing ladders) …
+could easily have served as the ‘last straw that broke the camel’s back’. It
+is likely that something happened as part of [Mr Tay’s] work … to trigger the
+fatal heart attack.” 78
+
+##### Foot Note 78
+
+×
+
+ROP at page 191.
+
+The factual assumptions relied upon by Dr Singh for his opinion are
+inconsistent with the evidence by Mr Lim that Mr Tay’s job scope did not
+include any physical work and that, in fact, he did not do any work at all in
+the hour that he was at the workplace on the Date of Incident. There was
+simply no basis for Dr Singh’s assumptions, at least on the available
+evidence, given that Mr Lim was the only person from the workplace that gave
+evidence.
+
+49 Dr Singh’s analysis was also conjecture insofar as he commented that “[i]t
+is likely that something happened” to trigger the heart attack. It also bears
+noting that he relied on “[t]wenty colour photographs of [SM Laundry’s]
+interior” as the basis for concluding that “the facility appears to be a very
+busy place requiring a considerable amount of physical labour” 79
+
+##### Foot Note 79
+
+×
+
+ROP at page 187.
+
+even though these photographs were simply taken off SM Laundry’s social media
+page. The photographs show the interior of SM Laundry’s factory and in some of
+them, employees can be seen operating various machines. TJY, Mr Tay’s son,
+confirmed that his father was not shown in any of the photographs. 80
+
+##### Foot Note 80
+
+×
+
+ROP at page 38.
+
+Dr Singh’s reliance on Mr Tay’s “significant amount of overtime work” 81
+
+##### Foot Note 81
+
+×
+
+ROP at page 188.
+
+ignores Mr Lim’s evidence that Mr Tay was not in fact required to work
+overtime. The nature of the overtime work is unclear, and it is Mr Lim’s
+evidence that Mr Tay clocked overtime hours because he was waiting for Gui Min
+to finish work. 82
+
+##### Foot Note 82
+
+×
+
+ROP at pages 88–92.
+
+Let me reiterate that Mr Lim’s evidence cannot be seriously challenged because
+he was the only person from the workplace that gave evidence. TJY also
+admitted that his father never told him about what he did at the workplace. 83
+
+##### Foot Note 83
+
+×
+
+ROP at page 40.
+
+As I had already flagged earlier (see [11] above), counsel for the Respondents
+did not even put it to Mr Lim that Mr Tay’s work scope or the environment at
+SM Laundry was stressful.
+
+50 Given the state of the evidence, I find that the AC erred in relying on Dr
+Singh’s assessment that the trigger for the heart attack was likely to be the
+work that Mr Tay was doing at the workplace on the Date of Incident, or
+because of the Phone Call that he had made to Mr Lim from the Pasir Ris
+Clinic. Simply put, the Respondents have not been able to prove that there was
+anything that happened in the course of Mr Tay’s employment on that morning of
+the Date of the Incident that was causally linked to him suffering a heart
+attack.
+
+51 In sum, the evidence suggests that the cardiac events that ultimately
+proved fatal were set into motion at 7.00am on the Date of Incident, or
+possibly even earlier than that given the evidence of the chest pains
+experienced by Mr Tay three to four days prior to the Date of Incident (see
+[3] above). The Respondents’ arguments are to the effect that, if Mr Tay had
+not gone to work or had not made the Phone Call, the cardiac events that had
+been set in motion could have panned out differently and he might have
+survived. However, it is insufficient to show that the mere fact of being at
+the workplace or worry over the Phone Call could have aggravated Mr Tay’s
+cardiac events. An “injury by accident” within the meaning of s 3(1) of the
+Act requires the Respondents to point to an occurrence in the course of
+employment that, on a balance of probabilities, caused the injury. The
+Respondents have failed to discharge their burden of showing this.
+
+52 On this ground alone, the Applicants’ appeal should be allowed and the
+order for compensation made by the AC set aside. However, as the parties also
+made submissions on the related point of whether the AC erred in finding that
+Mr Tay’s heart attack had happened “in the course” of his employment, let me
+just deal very briefly with that issue as well.
+
+53 This second issue arises because the evidence in the proceedings before the
+AC actually suggests that Mr Tay had already been suffering from a heart
+attack before he arrived at the workplace on the Date of Incident. In fact, I
+have already pointed out that the evidence was that Mr Tay had been suffering
+from chest pains since 7.00am on the Date of the Incident, which was two hours
+before he arrived at the workplace. The clinical notes from the Pasir Ris
+Clinic, as explained in Dr Lye’s testimony, record that Mr Tay experienced
+chest pains that started at 7.00am till he visited the Pasir Ris Clinic around
+10.54am on the Date of Incident. 84
+
+##### Foot Note 84
+
+×
+
+ROP at page 55.
+
+The exact words recorded in the clinical notes are “chest pain x started 7am
+till present”. 85
+
+##### Foot Note 85
+
+×
+
+ROP at page 326.
+
+The Applicants’ expert, the cardiologist Dr Wong, took the view that the heart
+attack started at 7.00am on the Date of Incident. 86
+
+##### Foot Note 86
+
+×
+
+ROP at page 139.
+
+He explained that “chest pains continuing for more than 15 minutes must be [a]
+heart attack”. 87
+
+##### Foot Note 87
+
+×
+
+ROP at page 155.
+
+54 The Respondents contend that Mr Tay had actually experienced only angina at
+7.00am, and not a heart attack (see [29] above). However, Dr Wong’s evidence
+suggests that this explanation is improbable. He explained that “if you have a
+chest pain when you … are not doing anything strenuous, it is a heart attack
+as far as I am concerned until proven otherwise” [emphasis added]. 88
+
+##### Foot Note 88
+
+×
+
+ROP at page 154.
+
+This is actually consistent with Dr Singh’s explanation of what angina is. Dr
+Singh’s First Report states that “[if the patient’s arterial lumen has
+significant blockage], he or she may have symptoms such as chest pain on
+exertion, such as going up a flight of stairs. This chest pain is called
+Angina” [emphasis added]. 89
+
+##### Foot Note 89
+
+×
+
+ROP at page 189, para 5.
+
+Since there is no evidence that Mr Tay was doing anything strenuous, or
+exerting himself in any way, while at the same time suffering from chest
+pains, from 7.00am to 9.00am, the inference must be that Mr Tay was already
+suffering from a heart attack at that time. In other words, the heart attack
+started before Mr Tay arrived at the workplace. I should add that there is
+also no evidence that Mr Tay was carrying out any work-related activities in
+the two hours from 7.00am to 9.00am while he was not at his workplace.
+
+55 In my judgment, the AC seems to have disregarded all this evidence, both
+medical and factual, which clearly showed that Mr Tay’s heart attack commenced
+before he even came to work on 9.00am. At the same time, the AC also appears
+to have placed undue weight on the entirely speculative views expressed by Dr
+Singh in his evidence that Mr Tay carried out physical work at SM Laundry,
+that the Phone Call must have been the “last straw”, and that the stress from
+work caused the heart attack. I have already dealt with the problems with Dr
+Singh’s evidence earlier (see [48]–[49] above) and do not need to repeat them
+here. He was called as an expert witness, but he ventured far beyond his realm
+of expertise. Suffice to say, I find that the AC had allowed Dr Singh’s
+evidence to obscure the critical factual issues that had to be decided.
+
+56 In view of the foregoing, I find that the Respondents have not shown on a
+balance of probabilities that the heart attack only started after Mr Tay had
+arrived at the workplace. Put another way, the Respondents are not able to
+establish on the evidence that there was any accident “in the course” of Mr
+Tay’s employment, even if one is to adopt the Respondents’ case that the heart
+attack itself was the “accident”. That being so, it follows that the
+presumption in s 3(6) of the Act was not triggered. It also leads to the
+conclusion that the Respondents have not been able to prove that Mr Tay’s
+injury was caused by an accident that arose out of his employment, since there
+is no other relevant evidence to show that Mr Tay’s work was a cause of him
+suffering a heart attack.
+
+TA 17/2021
+
+57 Given my views in relation to TA 15/2021, and that the AC’s order for
+compensation should be set aside, it follows as a matter of course that the
+order of costs made by the AC in favour of the Respondents should also be set
+aside. Since the Respondents are not entitled to the compensation claimed, and
+not entitled to any costs for the proceedings before the AC, there is no basis
+for TA 17/2021, and it must be dismissed.
+
+Conclusion
+
+58 For the reasons set out above, the Applicants’ appeal in TA 15/2021 is
+allowed, and the AC’s determination is set aside in its entirety. The
+Respondents are not entitled to compensation under s 3(1) of the Act.
+Consequently, the Respondents’ appeal in TA 17/2021 is dismissed.
+
+59 I will deal separately with the question of costs.
+
+Ang Cheng Hock  
+Judge of the High Court  
+---  
+  
+Mahendra Prasad Rai (Cooma & Rai) for the applicants in TA 15/2021;
+
+Pang Khin Wee (Hoh Law Corporation) for the respondents in TA 15/2021 and the
+applicants in TA 17/2021.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 23 May 2022 (12:31 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

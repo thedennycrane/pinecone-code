@@ -1,0 +1,3332 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 275
+
+Originating Application No 642 of 2022
+
+Between
+
+| CYE  
+---|---  
+  
+… Claimant
+
+And
+
+| CYF  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Arbitration — Award — Recourse against award — Setting aside]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+CYE
+
+  
+v
+
+  
+
+CYF
+
+[2023] SGHC 275
+
+General Division of the High Court — Originating Application No 642 of 2022  
+S Mohan J  
+2 March, 12–13 April 2023, 29 September 2023
+
+29 September 2023 Judgment reserved.
+
+S Mohan J:
+
+1 HC/OA 642/2022 (“OA 642”) is the claimant’s application, made pursuant to s
+48 of the Arbitration Act 2001 (2020 Rev Ed) (the “AA”), to set aside a Final
+Award (the “Award”) rendered by a sole arbitrator (the “Arbitrator”) under the
+auspices of the Singapore International Arbitration Centre (the “SIAC”).
+
+2 For the reasons I shall elaborate upon, I dismiss the claimant’s
+application.
+
+3 On 18 April 2023, I ordered that the details pertaining to, inter alia, the
+parties be anonymised in any judgment published in this matter. Accordingly,
+the parties’ identities, individuals’ names, dates and certain details
+relating to the transaction concerned have been anonymised or redacted in this
+judgment.
+
+Facts
+
+The parties
+
+4 The claimant is a company incorporated under the laws of Singapore, engaged
+in the business of energy trading and the wholesale distribution of petroleum
+and petroleum products. 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of the claimant dated 11 October 2022 (“Claimant’s 1st Affidavit”)
+at para 8.
+
+5 The defendant is also a company incorporated under the laws of Singapore,
+engaged in the business of commercial storage of petroleum and petroleum
+products. 2
+
+##### Foot Note 2
+
+×
+
+Claimant’s 1st Affidavit at para 9.
+
+6 Sometime in or around [M0 Y0 – month and year redacted], Co A, a company
+related to the defendant, collapsed as a result of significant trading and
+financial liabilities. Co A was owned and controlled by X, Y and Z (the
+“Controllers”). 3
+
+##### Foot Note 3
+
+×
+
+Claimant’s 1st Affidavit at para 11.
+
+The defendant is wholly owned by another company, which was indirectly owned
+by the Controllers. 4
+
+##### Foot Note 4
+
+×
+
+Claimant’s 1st Affidavit at para 12.
+
+7 Y was the Chief Executive Officer (“CEO”) of the defendant. After his
+resignation as CEO, he remained a director of the defendant. Y was also a
+director of Co A. 5
+
+##### Foot Note 5
+
+×
+
+Claimant’s 1st Affidavit at para 13.
+
+X was a director of the defendant until his resignation in [M0 Y0]. X was also
+the managing director of Co A. 6
+
+##### Foot Note 6
+
+×
+
+Claimant’s 1st Affidavit at para 14.
+
+Background to the dispute
+
+8 In the month preceding [M0 Y0], the claimant and the defendant entered into
+an agreement dated [D0 – date redacted] (but executed the following day),
+pursuant to which the defendant agreed to provide the claimant with storage
+and terminal facilities and services at its terminal (the “Terminal”) for
+Gasoil 10 PPM S (the “Product”) with a total working capacity of [redacted]
+cubic meters (“cbm”) (the “Storage Agreement”). 7
+
+##### Foot Note 7
+
+×
+
+Claimant’s 1st Affidavit at paras 4 and 15.
+
+The parties subsequently entered into an addendum to increase the working
+capacity to [redacted] cbm (the “Addendum”). 8
+
+##### Foot Note 8
+
+×
+
+Claimant’s 1st Affidavit at para 16.
+
+9 On the same date [D0], the claimant entered into a contract with Co A, under
+which Co A agreed to sell the claimant [redacted] barrels of the Product
+plus/minus 5% at operational tolerance in one lot via a transfer at the
+Terminal during the period [D0+2] to [D0+4] (the “1st Sale Contract”). Payment
+was to be made by letter of credit. Pursuant to the contract, title and risk
+would pass from Co A to the claimant at [time redacted] on the transfer date.
+9
+
+##### Foot Note 9
+
+×
+
+Claimant’s 1st Affidavit at paras 17–18; Claimant’s Exhibit at Tab 3 of Tab C
+at pp 245–250 (cll 3, 4, 7, 8 and 12).
+
+10 As of that date (ie, [D0]), a total quantity of [redacted] metric tons
+(“mt”) (or approximately [redacted] barrels) of Product was present in tanks
+Alpha, Bravo and Charlie. The tanks allocated to the claimant under the
+Storage Agreement were tanks Delta, Bravo, Charlie and Echo with a total
+capacity of [redacted] cbm. Following the conclusion of the Addendum, tank
+Foxtrot was added to accommodate the additional [redacted] cbm (tanks Bravo,
+Charlie, Delta, Echo and Foxtrot are collectively the “Allocated Tanks”). 10
+
+##### Foot Note 10
+
+×
+
+Claimant’s 1st Affidavit at para 20.
+
+11 A certificate dated [D0+2] on the defendant’s letterhead (bearing its
+watermark) and with the defendant’s company stamp affixed with ink (the “1st
+Certificate”) identified Co A as the transferor and the claimant as the
+transferee of a quantity of [redacted] mt or [redacted] barrels of the Product
+(the “1st Parcel”) at the Terminal and identified the supplying and receiving
+tanks as tanks Delta, Bravo, Charlie and Echo. 11
+
+##### Foot Note 11
+
+×
+
+Claimant’s 1st Affidavit at para 21; Claimant’s Exhibit at Tab 5 of Tab C at p
+254.
+
+It is disputed whether the defendant’s company stamp was affixed with “wet
+ink”, a point I come back to later in this judgment.
+
+12 The claimant claimed that the defendant had issued the 1st Certificate on
+[D0+2] and that, in accordance with cl [redacted] of the 1st Sale Contract,
+title to the 1st Parcel had passed from Co A to the claimant at [time
+redacted] on the same date (ie, [D0+2]). The defendant denied that it had
+issued the 1st Certificate. 12
+
+##### Foot Note 12
+
+×
+
+Claimant’s 1st Affidavit at para 21.
+
+The claimant also received a second certificate sometime later on [D0+13] (the
+“2nd Certificate”) in respect of the 1st Parcel to include tank Foxtrot. The
+defendant also denied that it had issued the 2nd Certificate. 13
+
+##### Foot Note 13
+
+×
+
+Claimant’s 1st Affidavit at para 31.
+
+13 As of [D0+2], there was only a total of [redacted] barrels of the Product
+stored in the Allocated Tanks. 14
+
+##### Foot Note 14
+
+×
+
+Claimant’s 1st Affidavit at para 22.
+
+14 On [D0+5], a staff member of Co A sent a staff member of the defendant a
+text message with instructions for a ship (“Ship 1”) to load close to a
+minimum of [redacted] barrels of Product from tank Delta (to “deplete”) and
+the balance from tank Gryphon during the period [D0+6] to [D0+8]. 15
+
+##### Foot Note 15
+
+×
+
+Claimant’s 1st Affidavit at para 23.
+
+On [D0+7] and [D0+8], all of the Product in tank Delta was accordingly loaded
+on board Ship 1 on Co A’s instructions, leaving that tank empty. 16
+
+##### Foot Note 16
+
+×
+
+Claimant’s 1st Affidavit at para 26.
+
+15 Pursuant to a contract dated [D0+8] (the “Co A Sale Contract”), the
+claimant sold to Co A a quantity of [redacted] barrels of the Product
+plus/minus 5% at operational tolerance on a free on board basis Terminal
+during the period [D0+9] to [D0+11]. 17
+
+##### Foot Note 17
+
+×
+
+Claimant’s 1st Affidavit at para 25; Claimant’s Exhibit at Tab 7 of Tab C at
+pp 258–272.
+
+16 On [D0+8], Co A nominated another ship (“Ship 2”) as the loading vessel for
+the Product sold under the Co A Sale Contract, with loading to commence on
+[D0+9]. 18
+
+##### Foot Note 18
+
+×
+
+Claimant’s 1st Affidavit at para 27; Claimant’s Exhibit at Tab 8 of Tab C at p
+276.
+
+All the Product in tanks Bravo, Charlie and Echo, amounting to a total
+quantity of [redacted] barrels (the “Co A Parcel”), was loaded on board Ship
+2, leaving those tanks empty. 19
+
+##### Foot Note 19
+
+×
+
+Claimant’s 1st Affidavit at para 29.
+
+17 On [D0+12], the claimant entered into a second contract with Co A, under
+which Co A agreed to sell the claimant [redacted] barrels of the Product
+plus/minus 5% at operational tolerance in one lot via a transfer at the
+Terminal during the period [D0+13] to [D0+15] (the “2nd Sale Contract”).
+Payment was to be made by letter of credit. As with the 1st Sale Contract,
+title and risk would pass from Co A to the claimant at [time redacted] on the
+transfer date. 20
+
+##### Foot Note 20
+
+×
+
+Claimant’s 1st Affidavit at para 32; Claimant’s Exhibit at Tab 15 of Tab C at
+pp 310–315.
+
+18 On [D0+19], the claimant received by hand from a Co A representative a
+certificate (the “3rd Certificate”) printed on the defendant’s letterhead on
+watermarked paper, signed in ink and with the defendant’s company stamp
+affixed in ink. 21
+
+##### Foot Note 21
+
+×
+
+Claimant’s 1st Affidavit at para 33.
+
+It is also in dispute whether the defendant’s company stamp on the 3rd
+Certificate was affixed with “wet ink”, a point to which I shall also return
+later in this judgment.
+
+19 The 3rd Certificate was dated [D0+14] and identified Co A as the transferor
+and the claimant as the transferee of a quantity of [redacted] mt or
+[redacted] barrels of the Product (the “2nd Parcel”) at the Terminal and
+identified the supplying and receiving tanks as tanks Alpha, Delta, Bravo and
+Charlie. 22
+
+##### Foot Note 22
+
+×
+
+Claimant’s 1st Affidavit at para 34; Claimant’s Exhibit at Tab 17 of Tab C at
+p 319.
+
+It was the claimant’s case that, under cl [redacted] of the 2nd Sale Contract,
+title in the 2nd Parcel had passed from Co A to the claimant at [time
+redacted] on [D0+14]. The defendant denied that the 3rd Certificate had been
+issued with its authority. 23
+
+##### Foot Note 23
+
+×
+
+Claimant’s 1st Affidavit at para 34.
+
+20 Together with the 2nd Certificate, the claimant’s Product was thus
+identified as having been stored in a total of six storage tanks, ie, tanks
+Alpha, Delta, Bravo, Charlie, Foxtrot and Echo (the “Storage Tanks”). 24
+
+##### Foot Note 24
+
+×
+
+Claimant’s 1st Affidavit at para 34.
+
+According to the claimant’s records, a total of [redacted] barrels of the
+Product were stored in the Storage Tanks by [D0+14]. However, as of [D0+14],
+the Storage Tanks were, in fact, empty save for tank Alpha which contained
+only [redacted] barrels of “Gasoil HS”. 25
+
+##### Foot Note 25
+
+×
+
+Claimant’s 1st Affidavit at para 35; Claimant’s Exhibit at Tab 18 of Tab C at
+pp 321–332.
+
+21 On [D0+16], Co A instructed the defendant to transfer all the Product in
+tanks Alpha ([redacted] barrels) and Foxtrot ([redacted] barrels) into tank
+Hotel. 26
+
+##### Foot Note 26
+
+×
+
+Claimant’s 1st Affidavit at para 36; Claimant’s Exhibit at Tab 19 of Tab C at
+p 334.
+
+By [D0+17], all of the Storage Tanks were empty, on Co A’s instructions. 27
+
+##### Foot Note 27
+
+×
+
+Claimant’s 1st Affidavit at para 35; Claimant’s Exhibit at Tab 18 of Tab C at
+pp 321–332.
+
+22 Several other entities subsequently asserted competing claims over the
+products stored in the Storage Tanks. 28
+
+##### Foot Note 28
+
+×
+
+Claimant’s 1st Affidavit at paras 37–38.
+
+23 Following Co A’s collapse, the claimant gave formal notice of the immediate
+termination of the Storage Agreement on [D0+28] through its solicitor’s letter
+addressed to the defendant. 29
+
+##### Foot Note 29
+
+×
+
+Claimant’s 1st Affidavit at para 38; Claimant’s Exhibit at Tab 20 of Tab C at
+p 336.
+
+24 On [D0+29], the claimant requested confirmation from the defendant that the
+claimant’s Product was still stored in the Storage Tanks and had not been
+commingled with other cargoes and that the Storage Tanks were sealed and would
+not be operated without the claimant’s written consent. 30
+
+##### Foot Note 30
+
+×
+
+Claimant’s 1st Affidavit at para 38; Claimant’s Exhibit at Tab 20 of Tab C at
+pp 336–337.
+
+Between [D0+30] and [D0+35], the claimant wrote to the defendant on numerous
+occasions to arrange for the removal of Product from the Storage Tanks but
+those requests were not acceded to. 31
+
+##### Foot Note 31
+
+×
+
+Claimant’s 1st Affidavit at para 40; Claimant’s Exhibit at Tab 22 of Tab C at
+pp 342–490.
+
+The arbitration proceedings
+
+25 On [D0+33], the claimant commenced arbitration proceedings against the
+defendant (the “Arbitration”), in accordance with the arbitration agreement
+set out in the General Terms and Conditions to the Storage Agreement and the
+Addendum to the Storage Agreement. 32
+
+##### Foot Note 32
+
+×
+
+Claimant’s Exhibit at Tab 1 of Tab F at pp 567–575.
+
+26 The Arbitration was seated in Singapore and conducted in accordance with
+the SIAC Rules 2016.
+
+27 Shortly after the commencement of the Arbitration, an Emergency Arbitrator
+appointed by the SIAC granted the claimant an interim injunction restraining
+the defendant from disposing of the Product claimed to be stored in tanks
+Alpha, Delta, Charlie and Bravo. 33
+
+##### Foot Note 33
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award dated 12 July 2022 (“Final Award”))
+at p 111 (para 74).
+
+28 Slightly more than three months after the Arbitration was commenced, the
+arbitral tribunal was constituted with the SIAC appointing Mr Stuart Isaacs QC
+(now KC) as the sole arbitrator. 34
+
+##### Foot Note 34
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 111 (para 76).
+
+29 In the Arbitration, the claimant sought an order for the defendant to
+account for the claimant’s [redacted] barrels of Product that should have been
+stored in the defendant’s Storage Tanks pursuant to the 2nd and 3rd
+Certificates, and claimed the full value of the claimant’s Product, amounting
+to [US$X – quantum redacted]. Further and/or in the alternative, the claimant
+sought damages to be assessed. 35
+
+##### Foot Note 35
+
+×
+
+Claimant’s Exhibit at Tab 8 of Tab F (Claimant’s Statement of Claim (Amendment
+No. 1) in the Arbitration (“SOC A1”)) at pp 862–863.
+
+30 In the claimant’s amended statement of claim (Statement of Claim (Amendment
+No. 1)) in the Arbitration (“SOC A1”), the claimant’s case against the
+defendant consisted of the following claims: 36
+
+##### Foot Note 36
+
+×
+
+Claimant’s Exhibit at Tab 8 of Tab F (SOC A1) at pp 838–862.
+
+(a) The defendant breached the Storage Agreement fraudulently and/or otherwise
+in three respects:
+
+(i) The defendant failed to allocate tanks for the claimant’s exclusive use
+pursuant to Art [redacted] of the Commercial Conditions of the Storage
+Agreement and Arts [redacted] of the General Terms and Conditions of the
+Storage Agreement.
+
+(ii) The defendant failed to deliver up the claimant’s Product following
+termination of the Storage Agreement contrary to Art [redacted] of the General
+Terms and Conditions of the Storage Agreement.
+
+(iii) The defendant took instructions relating to the claimant’s Product from
+a third party (ie, Co A), in breach of Art [redacted] of the Commercial
+Conditions of the Storage Agreement and Art [redacted] of the General Terms
+and Conditions of the Storage Agreement.
+
+(b) The defendant was liable for fraudulent and/or negligent misrepresentation
+in issuing the Certificates containing false representations.
+
+(c) The defendant was liable for conversion and detinue.
+
+(d) The defendant was negligent in failing to exercise reasonable care and
+skill over the use of its letterhead, watermarked paper and company stamp.
+
+(e) The defendant conspired by unlawful means with Co A to defraud the
+claimant.
+
+31 The defendant denied all the claims. Additionally, the defendant raised a
+counterclaim against the claimant for unpaid storage fees amounting to
+[quantum redacted]. The defendant also sought a declaration that it is
+entitled to assert a general or particular lien over the products stored in
+tanks Alpha, Delta, Bravo and/or Charlie insofar as the sum of [redacted] or
+any other sum remains outstanding from the claimant 37
+
+##### Foot Note 37
+
+×
+
+Claimant’s Exhibit at Tab 9 of Tab F (Defendant’s Statement of Defence and
+Counterclaim (Amendment No. 1) in the Arbitration) at pp 895–897.
+
+– this claim for a declaration was withdrawn in the defendant’s written
+opening submissions. 38
+
+##### Foot Note 38
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 124 (fn 25).
+
+32 The evidentiary hearing took place over five days, approximately one year
+and six months after arbitration proceedings were commenced. 39
+
+##### Foot Note 39
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 116–117 (para 138).
+
+33 On [date redacted], the Arbitrator declared the proceedings closed. 40
+
+##### Foot Note 40
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 118 (para 154).
+
+Key findings in the Award
+
+34 On [date redacted], the Arbitrator published the Award. The Arbitrator
+dismissed all of the claimant’s claims and allowed the defendant’s
+counterclaim. 41
+
+##### Foot Note 41
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 95–177.
+
+Alleged breach of the Storage Agreement
+
+35 With respect to the claimant’s case that the defendant had breached the
+Storage Agreement in failing to allocate tanks for the claimant’s exclusive
+use (see [30(a)(i)] above), the Arbitrator held that neither Art [redacted] of
+the Commercial Conditions of the Storage Agreement nor Art [redacted] of the
+General Terms and Conditions of the Storage Agreement required the defendant
+to allocate tanks for the claimant’s exclusive use. Article [redacted] of the
+General Terms and Conditions made reference to “exclusive use”, but in a
+“different context”. Article [redacted] of the General Terms and Conditions
+imposed an obligation on the claimant, and not the defendant, to return
+possession of the Storage Tanks upon termination of the Storage Agreement; it
+also made no reference to exclusivity. 42
+
+##### Foot Note 42
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 125 (para 168).
+
+36 The Arbitrator also addressed the claimant’s argument that the defendant
+had breached Art [redacted] of the Commercial Conditions of the Storage
+Agreement by allocating some of the tanks used to store the claimant’s Product
+to other parties. The Arbitrator stated that it preferred the defendant’s
+submission that: 43
+
+##### Foot Note 43
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 126 (paras 170–171).
+
+[t]he fact that there are three parties claiming for the products in the
+[tanks] does not mean that [the defendant] had triple allocated the tanks; it
+means that [Co A] has allegedly sold the same products thrice (or more). As a
+terminal storage operator, [the defendant] was neither privy to nor concerned
+with [Co A’s] arrangements with third parties regarding the ownership of the
+products in the tanks. [The defendant’s] only responsibility was for the
+tanks, and in this regard, [the defendant] had dutifully ensured that the
+[tanks] had only been allocated to one customer at a time …
+
+37 In respect of the claimant’s case that the defendant had breached the
+Storage Agreement in failing to deliver up the claimant’s Product following
+the termination of the Storage Agreement (see [30(a)(ii)] above), the
+Arbitrator held that Art [redacted] of the General Terms and Conditions of the
+Storage Agreement placed obligations on the claimant, and not the defendant,
+to take possession and remove all the Product stored in the Storage Tanks upon
+termination. Further, at the point of termination of the Storage Agreement,
+there was no Product belonging to the claimant stored in the Storage Tanks at
+the Terminal. 44
+
+##### Foot Note 44
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 127 (paras 174, 176).
+
+38 As for the claimant’s case that the defendant had breached the Storage
+Agreement by taking instructions relating to the claimant’s Product from a
+third party (ie, Co A) (see [30(a)(iii)] above), the Arbitrator held that the
+defendant had been entitled to take instructions from Co A alone. Pursuant to
+Art [redacted] of the Commercial Conditions of the Storage Agreement,
+operational communications to the claimant were to be given care of Co A. The
+Arbitrator found that this applied not just to the making of communications by
+the defendant to the claimant via Co A, but also to the making of
+communications to the defendant by Co A on the claimant’s behalf. The effect
+of Art [redacted] of the Commercial Conditions was to authorise Co A to act as
+the claimant’s agent in respect of operational communications. 45
+
+##### Foot Note 45
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 128–129 (paras 180–184).
+
+Alleged fraudulent and/or negligent misrepresentation
+
+39 With respect to the claimant’s allegation that the defendant was liable for
+fraudulent and/or negligent misrepresentation in issuing the Certificates (see
+[30(b)] above), the Arbitrator held that the defendant had not issued or
+authorised the issuance of the Certificates. 46
+
+##### Foot Note 46
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 132–133 (paras 193–200).
+
+Even assuming that X and Y had issued the Certificates, the Arbitrator found
+that they would have been acting in the pursuit of their or Co A’s own
+interests, and thus the defendant would not be vicariously liable for X’s
+and/or Y’s issuance of the Certificates. The Arbitrator further found that if
+the Certificates were issued by Co A, otherwise than through X and Y, it would
+be even harder for the close connection test to be satisfied. 47
+
+##### Foot Note 47
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 133–136 (paras 201–211).
+
+Alleged conspiracy to defraud the claimant
+
+40 In respect of the claimant’s allegation that the defendant had conspired
+with Co A to defraud the claimant (see [30(e)] above), the Arbitrator noted
+that the allegation of conspiracy was “at the forefront” of the claimant’s
+case 48
+
+##### Foot Note 48
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 123–124 (para 160).
+
+and that a key part of the claimant’s case involved the knowledge of X and Y
+being attributed to both Co A and the defendant. 49
+
+##### Foot Note 49
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 140 (para 223).
+
+41 The Arbitrator did not agree with the claimant’s submission that X’s and
+Y’s knowledge of the non-existent Product in the Storage Tanks was to be
+attributed to the defendant under the agency doctrine because the defendant
+had not been under a duty to make inquiry into the non-existence of the
+Product. In the absence of a duty to make inquiry, X’s and Y’s knowledge was
+not attributable to the defendant under the agency doctrine. 50
+
+##### Foot Note 50
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 147 (para 243).
+
+42 As for the identification doctrine, the Arbitrator found that the knowledge
+of X and Y could not be attributed to the defendant as if they were one and
+the same person, such that the defendant could be deemed as having combined
+with Co A to harm the claimant. In this regard, the Arbitrator was not
+satisfied that X and Y alone were free to commit the defendant to the alleged
+combination; they were not the directing mind and will of the defendant with
+full discretion to act independently of the board. The Arbitrator also found
+it important to bear in mind that the conspiracy as pleaded by the claimant
+was alleged to have occurred at a time before the Storage Agreement had been
+entered into. Matters relied on by the claimant in terms of X’s and Y’s roles
+subsequent to the entering into of the Storage Agreement could not form the
+basis on which to infer the alleged combination at a much earlier point in
+time. 51
+
+##### Foot Note 51
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 148–149 (para 247).
+
+43 As for the claimant’s submission that other employees of the defendant had
+been privy to the alleged conspiracy and that their knowledge of the
+combination should be attributed to the defendant via the agency doctrine, the
+Arbitrator reiterated that the defendant was not under a duty to make inquiry
+into the non-existence of the Product. 52
+
+##### Foot Note 52
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 151, 154 (paras 250, 254).
+
+44 Further, the Arbitrator held that there was insufficient basis for any
+inference that the conduct complained of was intended to injure the claimant.
+The terms of the Storage Agreement were not negotiated in such a way as to
+have been intended to cause the claimant loss. Causing loss to the claimant
+was also not a necessary part of achieving the alleged common goal of the
+defendant and Co A of getting paid under the Storage Agreement and under the
+1st and 2nd Sale Contracts respectively. 53
+
+##### Foot Note 53
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 156 (para 262).
+
+Alleged negligence
+
+45 As for the claimant’s alternative claim in negligence (see [30(d)] above),
+the Arbitrator concluded that no duty of care was owed by the defendant to
+safeguard access to its watermarked paper and company stamp. 54
+
+##### Foot Note 54
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 161 (para 282).
+
+Alleged conversion and detinue
+
+46 Finally, as regards the claimant’s claim in the tort of conversion and
+detinue (see [30(c)] above), the claimant relied on the Certificates to
+establish both title and a right of possession to the cargoes stored in the
+Storage Tanks. 55
+
+##### Foot Note 55
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 164 (para 297).
+
+The claimant submitted that, to the extent that the defendant was estopped
+from denying that the cargoes were stored in the Storage Tanks, it was liable
+in conversion and detinue. 56
+
+##### Foot Note 56
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 164 (para 296).
+
+47 As the Arbitrator concluded that the defendant was not responsible or
+deemed to be responsible for the issuance of the Certificates, the Arbitrator
+found that there was no representation made by the defendant on which to found
+the alleged estoppel, upon which the claimant’s claims in conversion and
+detinue were based. 57
+
+##### Foot Note 57
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 166 (para 305).
+
+Therefore, the claimant’s claim to recover in conversion and detinue, for the
+barrels of Product which should have remained in the Storage Tanks, failed.
+
+Defendant’s counterclaim for unpaid storage fees
+
+48 In respect of the defendant’s counterclaim for the unpaid storage fees (see
+[31] above), the Arbitrator found that there was no total failure to perform
+or breach of the Storage Agreement on the defendant’s part. 58
+
+##### Foot Note 58
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 168 (para 320).
+
+Accordingly, the defendant was entitled to recover the storage fees due to it
+under the 1st and 2nd Tax Invoices in the full amount claimed. 59
+
+##### Foot Note 59
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 168–169.
+
+49 The net result was that the claimant’s claim was dismissed entirely while
+the defendant’s counterclaim succeeded.
+
+The parties’ cases
+
+50 Dissatisfied with the Award, the claimant filed the present application to
+set aside the Award.
+
+51 The claimant contends that the Arbitrator breached the rules of natural
+justice (viz, the fair hearing rule) in three respects: 60
+
+##### Foot Note 60
+
+×
+
+Claimant’s Written Submissions dated 23 February 2023 (“CWS”) at paras 2–3.
+
+(a) The Arbitrator failed to consider:
+
+(i) the claimant’s claim based on the breach of an implied term of the Storage
+Agreement (the “Implied Term Contention”);
+
+(ii) the claimant’s argument that the defendant was vicariously liable for Co
+A’s issuance of the Certificates, which constituted fraudulent or negligent
+misrepresentations (the “Vicarious Liability Contention”); and
+
+(iii) the claimant’s arguments on establishing a combination between the
+defendant and Co A (the “Combination Contention”).
+
+In this regard, the gist of the claimant’s argument is that the Award was
+infra petita as the Arbitrator failed to decide a number of issues that were
+within the scope of submission.
+
+(b) The Arbitrator failed to provide any or adequate reasons and explanations
+for the contentions set out in (a) above.
+
+(c) The Arbitrator failed to give the claimant a reasonable opportunity to
+present its case on whether forensic evidence was required to prove that the
+company stamps on the Certificates were in wet ink.
+
+52 Second, the claimant argues that the defendant suppressed material evidence
+and adduced false oral testimony in the Arbitration, such that the Award was
+induced or affected by fraud and, simultaneously, was also contrary to public
+policy. 61
+
+##### Foot Note 61
+
+×
+
+CWS at paras 2–3.
+
+53 The defendant contends that the claimant’s setting aside application is
+completely lacking in merit. The defendant argues that the Arbitrator:
+
+(a) determined the claimant’s claim based on the implied term of the Storage
+Agreement; 62
+
+##### Foot Note 62
+
+×
+
+Defendant’s Written Submissions dated 23 February 2023 (“DWS”) at paras 27–45.
+
+(b) determined and provided adequate reasons for his findings on the
+claimant’s vicarious liability claims; 63
+
+##### Foot Note 63
+
+×
+
+DWS at paras 46–57.
+
+(c) determined and considered the claimant’s argument that the defendant had a
+duty to inquire in relation to the conspiracy claim; 64
+
+##### Foot Note 64
+
+×
+
+DWS at paras 58–69.
+
+and
+
+(d) provided the claimant with a reasonable opportunity to present its case on
+the Certificates, including specifically on whether forensic evidence was
+required to prove that the company stamps on the Certificates were in wet ink
+and whether the defendant should be held liable if X and Y had apparent
+authority to issue the Certificates even if they had done so fraudulently. 65
+
+##### Foot Note 65
+
+×
+
+DWS at paras 70–88.
+
+54 As regards the claimant’s allegation that the Award was induced or affected
+by fraud and simultaneously contrary to public policy, the defendant submits
+that it did not suppress evidence or give false testimony in the Arbitration.
+66
+
+##### Foot Note 66
+
+×
+
+DWS at paras 89–122.
+
+Whether the Arbitrator acted in breach of the rules of natural justice
+
+Whether the Arbitrator failed to apply his mind to essential issues submitted
+to him
+
+55 It is undisputed that under the AA, an arbitral award may be set aside by
+the court if a breach of the rules of natural justice occurred in connection
+with the making of the award by which the rights of any party have been
+prejudiced: s 48(1)(a)(vii) of the AA. This provision is in pari materia with
+s 24(b) of the International Arbitration Act 1994 (2020 Rev Ed) (“IAA”).
+
+56 One of the pillars of natural justice is that parties must be given
+adequate notice and opportunity to be heard. This means that each party must
+be given a fair hearing and a fair or reasonable opportunity to present its
+case: Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd [2007] 3
+SLR(R) 86 (“Soh Beng Tee”) at [43].
+
+57 The law is clear that the failure to consider an important issue that has
+been pleaded in an arbitration constitutes a breach of natural justice because
+in such a case, the arbitrator would not have brought his mind to bear on an
+important aspect of the dispute before him. Consideration of the pleaded
+issues is an essential feature of the rule of natural justice that is
+encapsulated in the Latin adage, audi alteram partem: AKN and another v ALC
+and others and other appeals [2015] 3 SLR 488 (“AKN”) at [46].
+
+58 For the reasons elaborated upon below, the claimant has not persuaded me
+that the Arbitrator failed to apply his mind to the relevant issues, ie, the
+Implied Term Contention, Vicarious Liability Contention, and Combination
+Contention. I will address them in turn.
+
+Implied Term Contention
+
+59 The claimant submits that the Arbitrator failed to consider the claimant’s
+claim that there was a breach of a term in the Storage Agreement, implied in
+fact, that “[the defendant] would inform [the claimant] if as at the
+Commencement Date (as defined in the Storage Agreement) of the Storage
+Agreement, any Storage Tank (as defined in the Storage Agreement) contains
+product either belonging to other customers, or where [the defendant] does not
+know to whom the product belongs, or where [the defendant] has not been
+informed that the product belongs to [the claimant]” (the “Implied Term”). 67
+
+##### Foot Note 67
+
+×
+
+CWS at para 13.
+
+60 The claimant argues that the existence and breach of the Implied Term were
+issues raised in the Arbitration, particularly in its amendments to the
+statement of claim; in the defendant’s amended statement of defence and
+counterclaim; in the parties’ respective lists of issues; at the oral hearing;
+and in the parties’ closing submissions. 68
+
+##### Foot Note 68
+
+×
+
+CWS at para 14.
+
+Core to its case, the claimant contends that its claim for breach of the
+Implied Term was advanced as a “standalone” 69
+
+##### Foot Note 69
+
+×
+
+CWS at para 21.
+
+, “independent” 70
+
+##### Foot Note 70
+
+×
+
+CWS at para 39.
+
+and alternative basis to claim damages for loss of chance from the defendant,
+and was not withdrawn or abandoned by the claimant at any time.
+
+61 The defendant does not contest that the “[p]arties had pleaded and made
+substantial submissions on the Implied Term Allegation”. 71
+
+##### Foot Note 71
+
+×
+
+Affidavit of the defendant dated 21 November 2022 (“Defendant’s 1st
+Affidavit”) at para 24(a).
+
+Rather, the defendant’s case is that the Arbitrator had, in the Award,
+determined and addressed the claimant’s arguments on the Implied Term.
+
+62 To set the context behind this ground of objection, it would be useful to
+set out the arguments and issues raised by the parties before the Arbitrator
+in relation to the Implied Term:
+
+(a) At para 11A of SOC A1, the claimant pleaded the implication of the term
+into the Storage Agreement, ie, the existence of the Implied Term: 72
+
+##### Foot Note 72
+
+×
+
+Claimant’s Exhibit at Tab 8 of Tab F (SOC A1) at pp 814–815; Claimant’s 1st
+Affidavit at para 47.
+
+11A. It was a term implied by fact into the Storage Agreement that the
+[defendant] would inform the [c]laimant if as at the Commencement Date (as
+defined in the Storage Agreement) of the Storage Agreement, any Storage Tank
+(as defined in the Storage Agreement) contains product either belonging to
+other customers, or where the [defendant] does not know to whom the product
+belongs, or where the [defendant] has not been informed that the product
+belongs to the [c]laimant (“Implied Term”), the Implied Term is implied into
+the Storage Agreement for the following reasons:
+
+…
+
+(b) At paras 82A–82B of SOC A1, the claimant pleaded (in a section of SOC A1
+dealing with the contention that the defendant had breached its obligation to
+allocate tanks for the exclusive use of the claimant) that the defendant had
+also breached the Implied Term and that as a result, the claimant had lost the
+chance to avoid the loss occasioned by the 1st and 2nd Sale Contracts: 73
+
+##### Foot Note 73
+
+×
+
+Claimant’s Exhibit at Tab 8 of Tab F (SOC A1) at pp 843–844; Claimant’s 1st
+Affidavit at para 48.
+
+82A. The [defendant] also breached the Implied Term. Paragraph 11A above is
+repeated.
+
+82B. Had the [defendant] complied with the Implied Term, it would have
+informed the [c]laimant of the quantity and quality of the product in the
+Storage Tanks and/or set the [c]laimant on a chain of inquiry as to the
+ownership, quantity and quality of such product in the individual Storage
+Tanks and/or the aggregate quantity of the product in all relevant Storage
+Tanks. The [c]laimant would then have discovered that the Gasoil 10 ppm S
+contained therein did not correspond to the quantity later stated in [Co A’s]
+commercial invoice and letter of warranty of title for the 1st [redacted] Sale
+and the 1st [redacted] Certificate or the 2nd [redacted] Certificate, or [Co
+A], having been made aware of such disclosure and/or investigation, would have
+revised down the quantity of the Gasoil 10 ppm S to be comprised in the 1st
+Parcel to the quantity actually contained in the relevant Storage Tanks or
+would have transferred and/or sold more Gasoil 10 ppm S to the [c]laimant to
+make up the shortfall. The [c]laimant has therefore lost the chance to avoid
+the loss occasioned by the 1st and 2nd Sale Contracts.
+
+(c) At para 114D(d)(ii) of SOC A1, the claimant relied on the breach of the
+Implied Term as one of the unlawful acts committed pursuant to the alleged
+conspiracy: 74
+
+##### Foot Note 74
+
+×
+
+Claimant’s Exhibit at Tab 8 of Tab F (SOC A1) at pp 859–860; Claimant’s 1st
+Affidavit at para 49.
+
+114D. The [defendant] conspired with [Co A] to defraud the [c]laimant.
+
+…
+
+(d) The [defendant] and [Co A] committed the following unlawful acts with the
+intention of injuring the [c]laimant:
+
+…
+
+(ii) As of [D0], the tanks allocated to the [c]laimant were filled with gasoil
+belonging to [Co A], but in breach of the Implied Term, the [defendant] did
+not inform the [c]laimant of this fact.
+
+(d) The defendant, on the other hand, pleaded that the implication of the term
+was unnecessary, and parties would not have intended for its inclusion (para
+9A of the defendant’s Statement of Defence and Counterclaim (Amendment No. 1)
+(“DCC A1”)): 75
+
+##### Foot Note 75
+
+×
+
+Claimant’s Exhibit at Tab 9 of Tab F (DCC A1) at p 873; Claimant’s 1st
+Affidavit at para 50.
+
+9A. Paragraph 11A of the SOC is denied. The [defendant] avers that the
+purported implied term is not necessary and parties would not have intended
+for its inclusion. Further and/or in any case, Clause [redacted] of the
+General Terms & Conditions of the Storage Agreement specifically states that
+“no other terms and conditions shall be included or implied”.
+
+(e) In response, the claimant averred at para 15A of its Reply to Defence and
+Defence to Counterclaim (Amendment No. 2) (“RDCC A2”) that the implication of
+the term was necessary and not excluded by virtue of cl [redacted] of the
+General Terms & Conditions of the Storage Agreement: 76
+
+##### Foot Note 76
+
+×
+
+Claimant’s Exhibit at Tab 10 of Tab F (RDCC A2) at p 912; Claimant’s 1st
+Affidavit at para 51.
+
+15A. Paragraph 9A of the [defendant’s] SDCC is denied. The Implied Term is
+necessary to give business efficacy to the express terms of the Storage
+Agreement and consequently may not, as a matter of law, be excluded by a
+purported entire agreement clause such as Clause [redacted]. Further, the true
+construction of Clause [redacted] does not provide for the exclusion of the
+Implied Term. Clause [redacted] only applies to exclude implied terms, the
+subject matter of which were:
+
+(a) Contained in previous agreements, warranties and undertakings given or
+made by or between the [c]laimant and the [defendant]; and/or
+
+(b) Related to matters that are set out in the Storage Agreement.
+
+The Implied Term does not fall within either (a) or (b) above.
+
+(f) In the list of issues (“List of Issues”) submitted by the claimant to the
+Arbitrator, the claimant framed the following questions (among others) for the
+Arbitrator’s determination: 77
+
+##### Foot Note 77
+
+×
+
+Claimant’s Exhibit at Tab G (Claimant’s List of Issues) at pp 981–982;
+Claimant’s 1st Affidavit at para 52.
+
+Breach of Storage Agreement – Failure to inform [the claimant] that there were
+products in the allocated tanks as of the Commencement Date of the Storage
+Agreement and/or the effective date of the Addendum
+
+3\. Was there a term implied by fact in the Storage Agreement as amended by
+the Addendum that [the defendant] would promptly inform [the claimant] if, at
+the Commencement Date (as defined in the Storage Agreement) of the Storage
+Agreement … any Storage Tank (as defined in the Storage Agreement) contains
+product either belonging to other customers, or where [the defendant] does not
+know to whom the product belongs, or where [the defendant] has not been
+informed that the product belongs to [the claimant] (the “Implied Term”)?
+
+4\. If the Implied Term exists, did [the defendant] breach the Implied Term by
+failing to inform [the claimant] of the quantity and quality of the product in
+the Storage Tanks?
+
+5\. Did [the defendant], by failing to inform [the claimant] of the quantity
+and quality of the product in the Storage Tanks, cause [the claimant] to lose
+the chance to avoid the loss suffered under the two [redacted] Sale Contracts?
+
+(g) In the defendant’s List of Issues, the defendant framed the following
+questions (among others) for the Arbitrator’s determination: 78
+
+##### Foot Note 78
+
+×
+
+Claimant’s Exhibit at Tab H (Respondent’s List of Issues) at p 991; Claimant’s
+1st Affidavit at para 53.
+
+Alleged Breach of Storage Agreement
+
+4\. Did [the defendant] breach the implied term of having to inform [the
+claimant] of any products that were in the Allocated Tanks which did not
+belong to [the claimant] at the Commencement Date?
+
+4.1. Is there a term implied in fact that [the defendant] must inform [the
+claimant] if, at [D0] … any Allocated Tanks contain product that [the
+defendant] is not aware belongs to [the claimant] (the “Implied Term”)?
+
+4.2. Did [the defendant] breach the Implied Term?
+
+4.3. Does Clause [redacted] of the [General Terms and Conditions of the
+Storage Agreement] prevent and/or exclude such an Implied Term in any case?
+
+(h) During the parties’ oral opening submissions, lead counsel for the
+claimant, Mr Lok Vi Ming SC (“Mr Lok”), submitted on why there should be an
+implication of the term in fact into the Storage Agreement: 79
+
+##### Foot Note 79
+
+×
+
+Claimant’s Exhibit at Tab I (Notes of Evidence, 18 October 2021) at pp
+1003–1004 (p 32 ln 17 – p 33 ln 5); Claimant’s 1st Affidavit at para 54.
+
+MR LOK: … one of the requirements, or one of the provisions in the storage
+agreement is that the principal takes responsibility for the cargo that is in
+the tank and would be liable for any taxes or any charges in relation to the
+cargo within those tanks. We relied upon that, your Honour, to say that that’s
+really one of the reasons why there should be an implied term for the operator
+to inform the principal. In the event that we assign you a tank and the tank
+contains the oil products of somebody else, I have to tell you, so that you
+would be able to make your own checks, do your own inspection, do your
+surveys, because otherwise you would be held to accept certain
+responsibilities in relation to those cargoes.
+
+[emphasis added]
+
+(i) This was picked up and addressed by lead counsel for the defendant, Mr
+Nandakumar Ponniya (“Mr Nandakumar”): 80
+
+##### Foot Note 80
+
+×
+
+Claimant’s Exhibit at Tab I (Notes of Evidence, 18 October 2021) at p 1013 (p
+72 ln 5–13); Claimant’s 1st Affidavit at para 55.
+
+MR [NANDAKUMAR]: The implied terms, sir, which they took a year to come up
+with, there was no need, sir, for an implied term. Typically if you’re going
+to pay [redacted] for products, you would inspect that is in the tank. You
+chose not to do it. We would say, sir, the breach on our part, even if we
+failed to notify, did not cause the loss; the loss came about because you
+signed up to a sale and purchase agreement for non-existent products. That is
+where the loss came from.
+
+[emphasis added]
+
+(j) At paras 112–124 of the claimant’s closing submissions (under a section
+dealing with the claimant’s claim for unlawful means conspiracy and
+specifically, the acts alleged to have been performed by the defendant in
+furtherance of the alleged conspiracy), the claimant submitted that it was
+necessary to imply the term into the Storage Agreement and that there was a
+breach by the defendant of the Implied Term: 81
+
+##### Foot Note 81
+
+×
+
+Claimant’s Exhibit at Tab J (Claimant’s Closing Submissions) at pp 1070, 1072,
+1073 (paras 113, 117, 118); Claimant’s 1st Affidavit at para 56.
+
+113\. [The claimant] submits that it is, therefore, necessary to imply a term
+into the Storage Agreement that [the defendant] would inform [the claimant] if
+as at the Commencement Date of the Storage Agreement any Storage Tank
+contained product that did not belong to [the claimant] or where [the
+defendant] did not know who the product belonged to or had not been informed
+that the product belonged to the [c]laimant (the “Implied Term”).
+
+…
+
+117\. Here, the Implied Term was breached by [the defendant] when it failed to
+inform [the claimant] of the existence of gasoil in the Storage Tanks as at
+the Commencement Date of the Storage Agreement. …
+
+118\. [The claimant] submits that [the defendant’s] breach of the Implied Term
+constitutes one of the unlawful acts done pursuant to the conspiracy. [The
+defendant] intentionally omitted to inform [the claimant] of the existence of
+Gasoil in the Storage Tanks because if [the claimant] found out that there
+were [redacted] barrels of Gasoil in the Storage Tanks as at [D0] … this would
+have led [the claimant] to a train of inquiry that would likely have foiled or
+made it more difficult for [Co A] and [the defendant] to perpetrate the
+conspiracy scheme.
+
+(k) The claimant also referred to the breach of the Implied Term in its
+prayers for relief in its closing submissions: 82
+
+##### Foot Note 82
+
+×
+
+Claimant’s Exhibit at Tab J (Claimant’s Closing Submissions) at p 1174 (para
+470(a)); Claimant’s 1st Affidavit at para 57.
+
+470\. The orders that [the claimant] seeks from the [Arbitrator] are:
+
+On [the claimant’s] claims:
+
+(a) In respect of [the claimant’s] claims for conspiracy, fraudulent or
+negligent misrepresentation, breach of contract and negligence, [the
+defendant] is to pay [the claimant]:
+
+(i) damages in the sum of [US$X]; and
+
+(ii) exemplary damages in the sum of [redacted];
+
+(iii) alternatively, for [the claimant’s] claim for breach of Implied Term,
+damages for loss of chance in the sum of [US$X] or such sum the [Arbitrator]
+deems fit.
+
+[emphasis added]
+
+(l) At paras 94–113 of the defendant’s closing submissions, the defendant
+responded to the claimant’s arguments on the Implied Term, arguing that it was
+unnecessary to imply the term into the Storage Agreement and that the claimant
+had not proved a causal nexus between any breach of the alleged Implied Term
+and the claimant’s claimed losses: 83
+
+##### Foot Note 83
+
+×
+
+Claimant’s Exhibit at Tab K (Defendant’s Closing Submissions) at pp 1238–1248;
+Claimant’s 1st Affidavit at para 58.
+
+97\. First, there is no gap in the [Storage Agreement] to be filled by the
+Alleged Implied Term.
+
+…
+
+103\. Second, and in any event, the Alleged Implied Term is not necessary for
+the business or commercial efficacy of the [Storage Agreement].
+
+…
+
+109\. For completeness, even if there is basis for the implication of the term
+suggested by [the claimant] (which is strenuously denied), the nexus between
+any breach of this implied term and [the claimant’s] claimed losses is
+completely speculative at best. In essence, [the claimant] claims that, if
+[the defendant] had informed it of the existence of remaining products in the
+tanks, it would have set off a “chain of inquiry” leading [the claimant] to
+discover that the 1st and 2nd [Co A] Parcels had not actually been present in
+the tanks and could have averted its loss.
+
+110\. However, that is not only conjecture – but in fact a demonstrably false
+conjecture. …
+
+(m) Finally, in the defendant’s oral reply submissions, the defendant’s
+counsel elaborated on the defence to the claimant’s case on the breach of the
+Implied Term: 84
+
+##### Foot Note 84
+
+×
+
+Claimant’s Exhibit at Tab L (Notes of Evidence, 25 January 22) at pp 1345,
+1354–1355 (p 104 ln 16–22; p 138 ln 22–p 142 ln 10); Claimant’s 1st Affidavit
+at para 60.
+
+MR [NANDAKUMAR]: … just a week before the hearing, [the claimant] introduced
+an 11th hour case. So one was the implied term that [the defendant] is to
+notify [the claimant] if there are any products left over. So they make the
+argument now that this was a necessary and obvious term. I can’t help but
+remark, sir, if it was so obvious, it wouldn’t have taken them a year to make
+this amendment.
+
+…
+
+So I move on to the implied term, if I may …They are alleging, sir, that there
+is an implied term, and they don’t stop there, sir. They are alleging that
+there’s a breach of the implied term, and on top of that, sir, they are saying
+that there is a conspiracy founded on the breach of the implied term.
+
+…
+
+We say, sir, that there is no gap in the [Storage Agreement].
+
+…
+
+Then, sir, … they are relying on two clauses to suggest that it is necessary
+to imply this term.
+
+…
+
+In any case, sir, we say that there is no breach of this implied term.
+
+[emphasis added]
+
+63 From the arbitral record, it is undisputed that the parties pleaded and
+made submissions in relation to the Implied Term and that this issue was in
+play in the Arbitration. The question is whether the Arbitrator applied his
+mind to the issue and dealt with it, based on (i) the pleadings and
+submissions of the parties and (ii) the manner in which they were eventually
+presented to the Arbitrator for his determination.
+
+64 The defendant maintains that the Arbitrator did apply his mind to this
+issue, when he “dealt with and wholly dismissed [the claimant’s] claim that
+[the defendant] had breached the express terms of the Storage Agreement by
+failing to allocate tanks for [the claimant’s] exclusive use (“Failure to
+Allocate Allegation”)”. 85
+
+##### Foot Note 85
+
+×
+
+DWS at para 29.
+
+The defendant’s position is that the claimant’s arguments on the Implied Term
+were pleaded as a “subset of the Failure to Allocate Allegation and not as a
+standalone breach of contract” [emphasis in original]. 86
+
+##### Foot Note 86
+
+×
+
+DWS at para 30.
+
+The Failure to Allocate Allegation was one of the pleaded breaches of the
+Storage Agreement and the claims for breach of the Storage Agreement were in
+turn presented only as part of the claimant’s claims in conspiracy in the
+claimant’s closing submissions, and not as a standalone claim. 87
+
+##### Foot Note 87
+
+×
+
+DWS at para 33.
+
+65 As I mentioned above at [60], the claimant contends that the alleged breach
+of the Implied Term was, contrary to the defendant’s characterisation, a
+“standalone and alternative basis for [the claimant’s] damages claim”. 88
+
+##### Foot Note 88
+
+×
+
+CWS at para 21.
+
+The claimant disagrees that the Implied Term claim was a “subset of the
+Exclusive Use Argument (as opposed to a distinct claim per [the claimant’s]
+prayers for relief)”. 89
+
+##### Foot Note 89
+
+×
+
+CWS at para 24.
+
+Analysis and decision
+
+66 In my judgment, the Arbitrator did determine and address the parties’
+arguments on the Implied Term. Let me elaborate.
+
+67 I agree with the defendant that it is plainly apparent from the arbitral
+record that the alleged breach of the Implied Term was not argued as a
+standalone breach of contract claim as contended by the claimant. To be clear,
+the question I am considering is not whether the Implied Term was pleaded, or
+argued, but whether it was pleaded and eventually argued as a standalone claim
+for breach of contract. I answer this question in the negative for a number of
+reasons.
+
+68 First, the claimant pleaded that “[t]he [defendant] also breached the
+Implied Term” at para 82A of its amended statement of claim (SOC A1) under
+sub-sub-section (1) of SOC A1 sub-headed “the [defendant] failed to allocate
+tanks for the claimant’s exclusive use”. This was one of three overarching
+pleaded breaches of the Storage Agreement (see [30(a)] above). 90
+
+##### Foot Note 90
+
+×
+
+Claimant’s Exhibit at Tab 8 of Tab F (SOC A1) at pp 838–844 (paras 76,
+82A–82B).
+
+69 The claimant’s decision to structure its pleading as such is not
+inexplicable. The underlying grievance behind the claimant’s argument on the
+Failure to Allocate Allegation was that “[c]onsequently, the [c]laimant’s
+Product was dissipated and/or dealt with by the [defendant] in a manner
+inconsistent with the [c]laimant’s superior possessory title”. 91
+
+##### Foot Note 91
+
+×
+
+Claimant’s Exhibit at Tab 8 of Tab F (SOC A1) at p 842 (para 81).
+
+Ostensibly, the claimant’s arguments on the Implied Term were grounded on a
+similar complaint and concern, namely the claimant’s ownership of the Product
+in the tanks, and in what quantities. The contended term to be implied into
+the Storage Agreement was, after all, that the defendant would inform the
+claimant if the Storage Tanks contained product either belonging to other
+customers, or where the defendant did not know to whom the product belonged,
+or where the defendant had not been informed that the product belonged to the
+claimant (see [59] above). 92
+
+##### Foot Note 92
+
+×
+
+Claimant’s Exhibit at Tab 8 of Tab F (SOC A1) at p 814 (para 11A).
+
+According to the claimant, this would have “set the [c]laimant on a chain of
+inquiry as to the ownership, quantity and quality of such product in the
+individual Storage Tanks and/or the aggregate quantity of the product in all
+relevant Storage Tanks” [emphasis added]. 93
+
+##### Foot Note 93
+
+×
+
+Claimant’s Exhibit at Tab 8 of Tab F (SOC A1) at pp 843–844 (para 82B).
+
+70 As such, it is not surprising to find that the arguments raised regarding
+the Implied Term were, in reality, a subset of the claimant’s case that the
+defendant had breached the Storage Agreement in failing to allocate tanks for
+the claimant’s exclusive use. This would explain the structure of SOC A1 in
+which para 11A (where the Implied Term Contention was pleaded) was referred to
+at paras 82A and 82B as part of the pleading relating to the Failure to
+Allocate Allegation. In short, the Implied Term was intimately linked to the
+Failure to Allocate Allegation.
+
+71 The second instance in SOC A1 where the claimant raised the alleged breach
+of the Implied Term was at para 114D(d)(ii). The alleged breach of the Implied
+Term was pleaded as one of the unlawful acts committed by the defendant and Co
+A with the intention of injuring the claimant – “[a]s of [D0], the tanks
+allocated to the [c]laimant were filled with gasoil belonging to [Co A], but
+in breach of the Implied Term, the [defendant] did not inform the [c]laimant
+of this fact” (see [62(c)] above). 94
+
+##### Foot Note 94
+
+×
+
+Claimant’s Exhibit at Tab 8 of Tab F (SOC A1) at p 859 (para 114D(d)(ii)).
+
+This was part of the particulars pleaded in support of the claimant’s
+conspiracy claim, namely that the defendant had conspired with Co A to defraud
+the claimant.
+
+72 Therefore, in my judgment, the alleged breach of the Implied Term was not
+pleaded as a standalone breach of contract, but in support of (a) one of the
+pleaded heads of breaches of the Storage Agreement, namely that the defendant
+had failed to allocate tanks for the claimant’s exclusive use; and (b) the
+claimant’s conspiracy claim.
+
+73 I turn now to the treatment by the claimant of the Implied Term subsequent
+to the pleadings which, in my judgment, supports my conclusion at [72] above.
+
+74 I have already summarised above (at [62(f)]–[62(g)]) how the parties
+identified the issues pertaining to the Implied Term.
+
+75 However, a List of Issues is, as the phrase suggests, simply that and
+nothing more. The inclusion of the alleged breach of the Implied Term as an
+issue to be decided is entirely unsurprising, considering that this was
+contested by both parties and thus was indeed in issue in the Arbitration. In
+my view, the mere inclusion of a sub-issue in the parties’ respective List of
+Issues is not inconsistent with my finding that the alleged breach of the
+Implied Term was not pleaded (and more importantly, not ultimately argued) as
+a standalone breach of contract.
+
+76 Second, I note that arguments on the Implied Term were raised in the
+parties’ oral opening submissions (see [62(h)] and [62(i)] above). However, an
+appreciation of the context in which these arguments were made is critical. A
+closer analysis of the oral opening submissions advanced by Mr Lok in the
+Arbitration shows that arguments for the implication of the term were made in
+response to the Arbitrator’s question as to why there could not, in theory, be
+commingling of the Product under the terms of the Storage Agreement. In fact,
+the Arbitrator’s questions arose directly out of the claimant’s submissions on
+the defendant’s obligation to allocate tanks for the claimant’s exclusive use.
+This is consistent with the defendant’s case, and my own view, that the
+alleged breach of the Implied Term was not pleaded (and was certainly not
+being argued) by the claimant as a standalone breach of contract but as a
+“subset of the Failure to Allocate Allegation” (see [64] above). I set out the
+relevant exchange below between the Arbitrator and Mr Lok: 95
+
+##### Foot Note 95
+
+×
+
+Claimant’s Exhibit at Tab I (Notes of Evidence, 18 October 2021) at p 1003 (p
+32 ln 1–24).
+
+CHAIRMAN: Yes, but all the other provisions don’t use the word “exclusive”.
+
+…
+
+MR LOK: But when one looks at the structure of the entire agreement, your
+Honour, it leaves no doubt that the use would have to be exclusive, it can’t
+be co-mingling, your Honour, of the products which are stored.
+
+CHAIRMAN: Why not? Why not? I mean, in theory, why not, if they were the same
+product?
+
+MR LOK: Your Honour, one of the requirements, or one of the provisions in the
+storage agreement is that the principal takes responsibility for the cargo
+that is in the tank and would be liable for any taxes or any charges in
+relation to the cargo within those tanks. We relied upon that, your Honour, to
+say that that’s really one of the reasons why there should be an implied term
+for the operator to inform the principal. …
+
+[emphasis added]
+
+77 Third and finally, arguments on the alleged existence and breach of the
+Implied Term were canvassed in the parties’ closing submissions, made by way
+of Powerpoint slides and post-hearing written submissions (see [62(j)]–[62(l)]
+above). Here, the claimant’s closing submissions that there was a breach of
+the Implied Term were packaged only as part of its conspiracy claim, which
+incorporated the claimant’s allegations of breach of contract and
+misrepresentation as the unlawful acts that were undertaken pursuant to the
+conspiracy. 96
+
+##### Foot Note 96
+
+×
+
+Claimant’s Exhibit at Tab J (Claimant’s Closing Submissions) at pp 1053, 1068.
+
+The claimant’s submission was that the defendant’s alleged breach of the
+Implied Term, in failing to inform the claimant of gasoil in the Storage Tanks
+that did not belong to the claimant, was one of the acts performed in
+furtherance of the conspiracy. 97
+
+##### Foot Note 97
+
+×
+
+Claimant’s Exhibit at Tab J (Claimant’s Closing Submissions) at pp 1068, 1072
+(para 118).
+
+There was no separate section in the claimant’s closing submissions on its
+contractual cause of action or on the Implied Term. Whatever allegations of
+breach of contract that were levelled at the defendant were only raised in the
+closing submissions as acts in furtherance of the unlawful means conspiracy.
+In my judgment, this only serves to confirm that the alleged breach of the
+Implied Term was never raised by the claimant as a standalone argument; that
+was certainly not the case by the time the claimant was pulling all the
+threads together and presenting its closing arguments to the Arbitrator. As I
+mentioned above, in the claimant’s closing submissions, the Implied Term was
+presented to the Arbitrator as one of the unlawful acts pleaded in support of
+the claimant’s conspiracy claim. I would go so far as to say that the decision
+to argue it in this manner must have been a deliberate or strategic choice on
+the part of the claimant. At the hearing before me, I asked Mr Lok if he could
+point me to any part of the claimant’s closing submissions in the Arbitration
+where breach of contract by the defendant had been argued and submitted on as
+a standalone cause of action, distinct from the conspiracy claim. Mr Lok
+candidly replied that he could not. 98
+
+##### Foot Note 98
+
+×
+
+Transcript 2 March 2023 at p 9 ln 5–9.
+
+While Mr Lok’s response to the court was that there was no separate section in
+the claimant’s closing submissions dealing with breach of the express terms of
+the contract, that response must apply equally to the Implied Term, as would
+be plainly apparent from the closing submissions themselves.
+
+78 A cursory reading of the claimant’s prayers for relief in para 470(a) of
+its closing submissions might, however, suggest otherwise. The claimant sought
+“alternatively, for [the claimant’s] claim for breach of Implied Term, damages
+for loss of chance in the sum of [US$X] or such sum the Arbitrator deems fit”
+[emphasis added] (see [62(k)] above). Mr Lok argues that this shows that the
+claim for breach of the Implied Term was distinct from the conspiracy claim,
+as damages for loss of chance are not available for a conspiracy claim. 99
+
+##### Foot Note 99
+
+×
+
+Transcript 2 March 2023 at p 8 ln 15–17; p 9 ln 12–16; p 10 ln 29–32.
+
+However, it is important not to lose sight of the fact that the primary
+purpose of para 470 of the claimant’s closing submissions was to set out the
+remedies sought by the claimant, and not to detail the claimant’s causes of
+action. Further, the prayers for relief were structured in a manner where the
+breach of the Implied Term under sub-section (iii) fell under the claimant’s
+allegations of “conspiracy, fraudulent or negligent misrepresentation, breach
+of contract and negligence” [emphasis added] under section (a). In my view,
+reading para 470 in accordance with its internal structure and the broader
+context of the pleadings and submissions made by the parties, para 470 is best
+understood to mean: if the Arbitrator were to find that the claimant’s breach
+of contract and/or conspiracy claims succeeded, and that there was a breach of
+the Implied Term as analysed under those two claims, there would be available
+to the claimant an alternative head of damages for loss of chance in the same
+sum (ie, US$X).
+
+79 From the discussion above, one could surmise (and perhaps be forgiven for
+doing so) that the claimant’s case and arguments on the Implied Term before
+the Arbitrator were not particularly easy to understand but, more importantly,
+evolved as the case progressed from pleadings to closing arguments. There are
+several possible ways of interpreting the claimant’s arguments – the alleged
+breach of the Implied Term could have been (a) a subset of one of the pleaded
+heads of breaches of the Storage Agreement, namely that the defendant had
+failed to allocate tanks for the claimant’s exclusive use; and/or (b) an
+unlawful act under the conspiracy claim; and/or (c) a combination of both (a)
+and (b), where the breach of the Implied Term as a breach of contract (ie,
+(a)) was an unlawful act under the conspiracy claim (ie, (b)). It appears to
+me that the answer lies somewhere closer to (c). Regardless, any of these
+permutations leads me to the same conclusion – that the breach of the Implied
+Term was not a standalone argument and was not pitched or argued as such.
+
+80 Therefore, and material to the claimant’s objection that there was a breach
+of natural justice in the Arbitrator’s alleged failure to consider or apply
+his mind to the Implied Term Contention, if the Arbitrator had resolved and
+found against the claimant on the larger questions under which the Implied
+Term was raised, the Arbitrator would have in effect also determined the
+arguments raised by the parties concerning the Implied Term, even if the
+Arbitrator did not deal with the Implied Term in the Award expressly,
+specifically or in great detail. With these observations setting the stage, I
+turn now to consider the Award in some detail.
+
+81 The Arbitrator started off this section of the Award “VII. The Claim for
+Breach of the Agreement” (at para 164) by identifying the question as being
+whether the defendant had breached the Storage Agreement in any of the three
+overarching respects pleaded by the claimant (see [30(a)] above).
+
+82 In paras 165–171 of the Award, the Arbitrator then proceeded to address and
+dismiss the claimant’s argument that the defendant had breached the Storage
+Agreement in failing to allocate tanks for the claimant’s exclusive use,
+finding that there was no such obligation under the terms of the Storage
+Agreement in the first place (see [35] above). 100
+
+##### Foot Note 100
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 124–126 (paras 165–171).
+
+83 In the section of the Award dealing with the conspiracy claim (starting at
+para 214 of the Award), the Arbitrator set out the undisputed elements of the
+tort of unlawful means conspiracy, all of which had to be satisfied for the
+claimant to succeed. At para 265 of the Award, the Arbitrator acknowledged the
+claimant’s case that one of the alleged unlawful acts it relied on for its
+unlawful means conspiracy claim was “the [defendant’s] alleged breaches of the
+Agreement in that the [defendant] … did not inform the [c]laimant of the
+presence of gasoil in the Storage Tanks that did not belong to the
+[c]laimant”. 101
+
+##### Foot Note 101
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 156 (para 265).
+
+That was, in effect, a summation of the Implied Term Contention which the
+claimant had submitted on in its written closing submissions in the
+Arbitration under Section (III)(E)(1) dealing with “acts performed in
+furtherance of the conspiracy.” 102
+
+##### Foot Note 102
+
+×
+
+Claimant’s Exhibit at Tab J (Claimant’s Closing Submissions) at pp 1068–1073
+(paras 107–118).
+
+84 However, as the Arbitrator concluded that the first and second elements of
+the tort of conspiracy (viz, (1) the existence of a combination between Co A
+and the defendant and (2) the intention of the alleged conspirators to cause
+damage or injury to the claimant by the unlawful acts) were not made out, the
+issue of the unlawfulness of the acts did not arise and thus it was
+unnecessary for the Arbitrator to determine the issue. 103
+
+##### Foot Note 103
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 157 (para 266).
+
+In particular, on the existence of the alleged combination, what appeared to
+trouble the Arbitrator was the nature and timing of the alleged conspiracy as
+pleaded by the claimant. It is apposite at this juncture to set out para 222
+of the Award: 104
+
+##### Foot Note 104
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 140 (para 222).
+
+222\. It is important at the outset to focus on what precisely is the
+combination alleged by the [c]laimant, which it is essential for the
+[c]laimant to establish in order to found its conspiracy claim; and, in
+particular, on the time when the alleged combination came into existence. The
+[c]laimant’s pleaded case is that the alleged combination came into existence
+in or about [M0-1]: it is alleged that the [defendant] and [Co A] “conceived a
+plan” on or about [D0-5] to sell non-existent Product to the [c]laimant; and
+that, on or before [D0], X and Y, together with certain employees of the
+[defendant] and [Co A], “hatched a plan” to sell non-existent Product to the
+[c]laimant: paragraphs 114D(a) and (b) of the Amended Statement of Claim. The
+alleged combination, therefore, must have preceded the 1st and 2nd Sale
+Contracts and the [Co A] Sale Contract, to none of which was the [defendant] a
+party. The [defendant’s] case is that there is also no evidence that it was
+aware of those contracts at the material time. Given the timing of the alleged
+combination, it is difficult to see how, as the [c]laimant alleges, the
+[defendant] was operating in “clear tandem against the background of the
+Agreement, the 1st and 2nd Sale Contracts and the [Co A] Sale Contract” …
+
+[emphasis in original]
+
+85 Therefore, in my judgment, the Arbitrator had addressed and determined the
+two larger questions under which arguments on the Implied Term were raised,
+namely whether the defendant had breached the Storage Agreement in failing to
+allocate tanks for the claimant’s exclusive use and whether the defendant had
+committed the tort of unlawful means conspiracy. In doing so, the Arbitrator
+had, at the very least, implicitly also addressed what needed to be addressed
+in relation to the parties’ arguments on the Implied Term. Alternatively,
+having found against the claimant on the two larger questions, it could
+equally be the case that the Arbitrator found it unnecessary to deal with the
+Implied Term Contention. Accordingly, I disagree with the claimant that one is
+compelled to draw the inference or reach the conclusion that the Arbitrator
+failed completely to apply his mind to the Implied Term Contention and thereby
+breached the rules of natural justice.
+
+86 The conclusion I have reached above is sufficient to dismiss the claimant’s
+case on the Implied Term Contention. However, I venture further to add that
+the Arbitrator, having found that there was no obligation on the defendant’s
+part under the Storage Agreement to allocate tanks for the claimant’s
+exclusive use (see [35] above), could be taken to have impliedly rejected the
+Implied Term Contention as well. In this regard, I agree with Mr Nandakumar’s
+submission that the Implied Term Contention “would fall away” if the
+Arbitrator found that there was no requirement to allocate tanks for the
+claimant’s exclusive use in the first place 105
+
+##### Foot Note 105
+
+×
+
+Transcript 12 April 2023 at p 15 ln 20–23.
+
+– after all, as a matter of commercial sense, it would not be logical for the
+defendant to be contractually obliged to inform the claimant if any of the
+Allocated Tanks contained product belonging to other customers (ie, the
+Implied Term), if there was no obligation to allocate tanks for the claimant’s
+exclusive use to begin with. This also explains the structure of SOC A1, as
+canvassed in [69] above. As such, I do not accept that simply failing to
+expressly refer to or decide the Implied Term Contention, after having already
+found that there was no obligation to allocate tanks for the claimant’s
+exclusive use, leads to the inescapable inference that the Arbitrator was
+guilty of failing to apply his mind to the Implied Term Contention at all. It
+could equally be a case of the Arbitrator’s implicit rejection of the Implied
+Term Contention – the law is unequivocal in this regard that “an issue need
+not be addressed expressly in an award but may be implicitly resolved”: BLB
+and another v BLC and others [2013] 4 SLR 1169 (“BLB”) at [75].
+
+87 In my view, this also means that even if, arguendo, there was a breach of
+natural justice, no prejudice could be said to have been occasioned to the
+claimant. To succeed in setting aside an award on the basis that there was a
+breach of the rules of natural justice, the applicant must also show that
+there has been some actual or real prejudice caused by the alleged breach: Soh
+Beng Tee at [91]. The requirement to demonstrate that the rights of a party
+have thereby been prejudiced is expressly set out in s 48(1)(a)(vii) of the
+AA. The test is whether as a result of the breach, the tribunal was denied the
+benefit of arguments or evidence that had a real as opposed to a fanciful
+chance of making a difference to its deliberations: L W Infrastructure Pte Ltd
+v Lim Chin San Contractors Pte Ltd and another appeal [2013] 1 SLR 125 at
+[54].
+
+88 The Arbitrator’s finding that there was no obligation to allocate tanks for
+the claimant’s exclusive use was a finding of fact, based on the evidence
+before the Arbitrator and the Arbitrator’s interpretation of the terms of the
+Storage Agreement – this was a finding on the merits that cannot be appealed
+or otherwise challenged before the court. Having found no such obligation to
+allocate exclusive use and therefore no breach by the defendant in that
+regard, it would, in my judgment, be fanciful to suggest that had the
+Arbitrator expressly addressed the Implied Term Contention, he could have come
+to the conclusion that the Implied Term existed and that it was breached by
+the defendant. As mentioned in [86] above, it would not make commercial sense
+for the defendant to be required to inform the claimant if any of the
+Allocated Tanks contained product belonging to other customers (ie, the
+Implied Term), if there was (as the Arbitrator found) no obligation to
+allocate tanks for the claimant’s exclusive use to begin with.
+
+89 Finally, even if the alleged breach of the Implied Term had in actual fact
+been raised as a standalone argument, the inference that the Arbitrator failed
+to consider this independent breach should still not be drawn. In this regard,
+I refer to the oft-quoted passage from the Court of Appeal’s decision in AKN
+at [46]:
+
+… It will usually be a matter of inference rather than of explicit indication
+that the arbitrator wholly missed one or more important pleaded issues.
+However, the inference – that the arbitrator indeed failed to consider an
+important pleaded issue – if it is to be drawn at all, must be shown to be
+clear and virtually inescapable. If the facts are also consistent with the
+arbitrator simply having misunderstood the aggrieved party’s case, or having
+been mistaken as to the law, or having chosen not to deal with a point pleaded
+by the aggrieved party because he thought it unnecessary (notwithstanding that
+this view may have been formed based on a misunderstanding of the aggrieved
+party’s case), then the inference that the arbitrator did not apply his mind
+at all to the dispute before him (or to an important aspect of that dispute)
+and so acted in breach of natural justice should not be drawn.
+
+[emphasis in original in italics; emphasis added in bold italics]
+
+90 In my judgment, a “clear and virtually inescapable” inference that the
+Arbitrator failed to consider the independent breach of the Implied Term
+simply cannot be drawn. As my analysis above demonstrates, the claimant’s
+pleadings and submissions on the alleged breach of the Implied Term lacked the
+clarity required for such an inference to be drawn. Even if the breach of the
+Implied Term had in actual fact been raised as a standalone argument, this was
+not articulated to the Arbitrator with sufficient clarity in the claimant’s
+pleadings and submissions. One would be hard-pressed to find a single
+instance, in the entire arbitral record that was put into evidence by the
+parties in this application, where the claimant intimated to the Arbitrator
+that the Implied Term Contention was being advanced by the claimant as a
+standalone claim or argument which had to be decided by the Arbitrator
+independently of the claim(s) for (a) breach of contract in failing to
+allocate tanks for the claimant’s exclusive use; and/or (b) conspiracy. Viewed
+in this light, the Arbitrator’s decision not to address the breach of the
+Implied Term as an independent allegation would, at best (if at all), simply
+be a case of the Arbitrator “having misunderstood the aggrieved party’s case”
+(AKN at [46]). To be clear, I am not in any way suggesting that this is indeed
+what happened in this case, but simply pointing out the formidable hurdles
+that stand in the claimant’s way.
+
+91 Further, the Arbitrator expressly indicated in para 265 of the Award (see
+[84] above) that he chose not to deal with the issue of the unlawfulness of
+the acts relied on by the claimant as regards the conspiracy claim because the
+other elements of the alleged conspiracy had not been made out. Thus, the
+Arbitrator could not have been clearer in expressing his thought process that
+he “[chose] not to deal with a point pleaded by the aggrieved party because he
+thought it unnecessary” (AKN at [46]).
+
+92 For the foregoing reasons, the claimant’s case that the Arbitrator failed
+to apply its mind to the Implied Term Contention cannot succeed.
+
+93 I make a final observation: in the claimant’s written submissions for this
+application, the claimant submits that the Arbitrator “came up with [his] own
+argument that there was no obligation of exclusivity notwithstanding that [the
+defendant] had not even made this contention” and the claimant “had no
+opportunity to address this reasoning”. 106
+
+##### Foot Note 106
+
+×
+
+CWS at paras 172(d)–(e).
+
+These submissions were made, not when dealing with the substantive arguments
+on the Implied Term Contention, but in a section dealing with remission of the
+Award. There are two inherent problems with these arguments.
+
+94 First, the claimant appears to be hinting that the Arbitrator had exceeded
+his jurisdiction and/or breached natural justice in utilising a chain of
+reasoning that was not foreseeable or coming up with an idea of his own
+without giving the parties an opportunity to address him on it. Yet, no
+arguments were advanced in the claimant’s written submissions or at the oral
+hearing before me on this issue when the claimant submitted on the Implied
+Term Contention. As I indicated at [93] above, these submissions were
+contained under a section dealing with remission, and not when dealing with
+the grounds for setting aside the Award. The claimant’s sole objection in
+relation to the Implied Term is that the Arbitrator had, in breach of natural
+justice, failed to apply his mind to the Implied Term.
+
+95 Second, and more fundamentally, the claimant’s complaint that the
+Arbitrator came up with his own argument that there had been no obligation of
+exclusivity is, with respect, puzzling. One of the claimant’s arguments before
+the Arbitrator was precisely that the defendant breached the Storage Agreement
+by failing to allocate tanks for the claimant’s exclusive use (see [30(a)(i)]
+above). That necessarily required a determination as to whether such an
+obligation of exclusivity even existed, in circumstances where the burden of
+proof lay on the claimant alleging the breach since the existence of the
+obligation was never conceded or admitted by the defendant. Viewed in this
+light, the claimant’s grievance that it “had no opportunity to address this
+reasoning” rings hollow. The claimant not only had every opportunity to
+present its case on this issue, but also bore the burden of proof to make good
+its case.
+
+Vicarious Liability Contention
+
+96 The claimant’s next objection is that the Arbitrator failed to address the
+claimant’s argument that the defendant was vicariously liable for Co A’s
+issuance of the Certificates – specifically, that “[Co A] was the agent for
+communications between [the defendant] and [the claimant] as evidenced by its
+role in relation to the negotiation and execution of the Storage Agreement and
+subsequent communications pursuant to that agreement; and that in this
+capacity, [Co A] had authority to communicate that legally binding documents
+such as [redacted] Certificates had been issued by [the defendant]”. 107
+
+##### Foot Note 107
+
+×
+
+CWS at para 54.
+
+97 In my view, the claimant’s submission does not cohere with paras 207–208 of
+the Award, which dismissed the claimant’s argument on vicarious liability in
+unequivocal terms: 108
+
+##### Foot Note 108
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 135–136 (paras 207–208).
+
+207\. … If the [Certificates] were issued by [Co A], other than through [X]
+and [Y], it would be even harder for the close connection test to be
+satisfied.
+
+208\. [Co A’s] initial involvement in the negotiation of the Agreement for the
+[defendant] is insufficient to found vicarious liability in relation to the
+delivery of the [Certificates]. …
+
+98 In fact, the claimant acknowledges that “the [Arbitrator] disposed of [the
+claimant’s] claim that [the defendant] should be held vicariously liable for
+[Co A’s] misrepresentation to [the claimant]”. 109
+
+##### Foot Note 109
+
+×
+
+CWS at para 54.
+
+Rather, the claimant’s chief complaint appears to be that the Arbitrator
+failed to give sufficient reasons for its disposal of the claimant’s vicarious
+liability claim in “three terse sentences” and that its decision on the matter
+was “undecipherable”. 110
+
+##### Foot Note 110
+
+×
+
+CWS at paras 54, 60.
+
+In this regard, I note that an allegation of inadequate reasons and
+explanations is generally not capable of sustaining a challenge against an
+award: CEF and another v CEH [2022] 2 SLR 918 (“CEF”) at [127] (see
+[120]–[121] below). Nevertheless, I proceed to consider the claimant’s
+arguments.
+
+99 In my judgment, contrary to the claimant’s assertion, the “proverbial dots”
+connect well enough on the face of the Award (BZW and another v BZV [2022] 1
+SLR 1080 (“BZW”) at [58]), and when it is read as a whole and in a reasonable,
+commercial way. The Award was sufficiently reasoned and, in particular, where
+it mattered. I agree with the defendant’s submission that, on the face of para
+207 of the Award (see [97] above), the Arbitrator employed “a fortiori
+reasoning” 111
+
+##### Foot Note 111
+
+×
+
+DWS at para 54.
+
+in dismissing the claimant’s argument on vicarious liability vis-à-vis Co A.
+The Arbitrator concluded that it would be “even harder” for the close
+connection test to be satisfied vis-à-vis Co A, which was a distinct and
+separate entity from the defendant, as opposed to vis-à-vis X and Y, who were
+employees of the defendant and yet did not satisfy the close connection test.
+The reasoning for the latter was canvassed by the Arbitrator in some detail in
+paras 201–207 of the Award. Thus, reading the Award in context and in a
+reasonable and commercial way, does not, in my view, lead one to the
+conclusion that the Arbitrator failed to provide any or sufficient reasons for
+dismissing the Vicarious Liability Contention.
+
+100 This is sufficient for me to dismiss the claimant’s objection that the
+Arbitrator failed to apply his mind to the argument that the defendant was
+vicariously liable for Co A’s issuance of the Certificates. However, and
+without speculating on the Arbitrator’s thought processes, I also agree with
+the defendant’s submission that as X and Y were the principals of Co A and
+also held key positions in the defendant, the Arbitrator could have logically
+considered them to be the strongest nexus for vicarious liability to arise
+between Co A and the defendant, 112
+
+##### Foot Note 112
+
+×
+
+DWS at para 54.
+
+thereby leading to his a fortiori reasoning.
+
+101 The claimant also contends, with reference to the Arbitrator’s finding
+that the case of Ong Han Ling and another v American International Assurance
+Co Ltd and others [2018] 5 SLR 549 (“Ong Han Ling”) was “distinguishable on
+the facts” (para 208 of the Award), that the question remains unanswered by
+the Arbitrator as to why Ong Han Ling was distinguishable. 113
+
+##### Foot Note 113
+
+×
+
+CWS at para 56.
+
+In my view, this is an instance of the claimant nitpicking at the Award. It
+was not necessary for the Arbitrator to launch into an elaborate explanation
+for why he concluded that Ong Han Ling was distinguishable on its facts –
+natural justice requires that the parties should be heard; it does not require
+that they be given responses on all submissions made: SEF Construction Pte Ltd
+v Skoy Connected Pte Ltd [2010] 1 SLR 733 (at [60]). Belinda Ang J (as she
+then was) explained the position clearly in BLB:
+
+75 … an arbitral tribunal is not obliged as a matter of practicality to deal
+with every argument canvassed by the parties, but it must ensure that all
+essential issues are dealt with. In determining what is considered
+“essential”, tribunals should be given a fair amount of latitude and should be
+entitled to take the view that the dispute may be disposed of without further
+consideration of certain issues.
+
+[emphasis in original in italics; emphasis added in bold italics]
+
+102 Whilst the claimant may disagree with the Arbitrator’s reasoning, that is
+not a permitted ground for setting aside the Award. I reject the Vicarious
+Liability Contention objection accordingly.
+
+Combination Contention
+
+103 Next, the claimant submits that the Arbitrator also failed to address the
+claimant’s argument on the combination between the defendant and Co A to
+defraud the claimant, particularly on the question as to whether the defendant
+had a duty to enquire into whether the claimant had title to the cargoes
+stored in the Storage Tanks. 114
+
+##### Foot Note 114
+
+×
+
+CWS at para 66.
+
+If this question were answered in the affirmative, the claimant’s case before
+the Arbitrator was that X’s and Y’s knowledge on title to the cargoes could
+then be attributed to the defendant, forming a necessary link in the
+combination allegation. The crux of the claimant’s case in this application is
+that the Arbitrator’s determination centred on a different duty altogether
+(viz, to make inquiry into the non-existence of the Product), as opposed to
+that which the parties had engaged on (viz, the duty to make inquiry into the
+claimant’s ownership of the Product). 115
+
+##### Foot Note 115
+
+×
+
+CWS at para 75.
+
+104 I accept that the claimant’s closing submissions did refer to the
+defendant’s “duty to enquire into the matters that [X and Y] had knowledge of,
+in this case, whether [the claimant] had title to the cargo stored in the
+Storage Tanks” [emphasis added]. 116
+
+##### Foot Note 116
+
+×
+
+Claimant’s Exhibit at Tab J (Claimant’s Closing Submissions) at p 1060 (para
+89).
+
+Paragraph 25 of DCC A1 and para 29 of RDCC A2 also made reference to the
+defendant’s knowledge (or lack thereof) as to who had ownership and title to
+the products stored at the Terminal. 117
+
+##### Foot Note 117
+
+×
+
+Claimant’s Exhibit at Tab 9 of Tab F (DCC A1) at p 876 (para 25); Claimant’s
+Exhibit at Tab 10 of Tab F (RDCC A2) at p 921 (para 29).
+
+105 In my judgment, the Arbitrator was alive to this issue. In summarising the
+parties’ arguments in relation to the agency doctrine, the Arbitrator noted
+that “the [c]laimant submitted that the [defendant] had a duty to enquire into
+the matters of which [X] and [Y] had knowledge, namely whether the [c]laimant
+had title to the cargo stored in the Storage Tanks” and that “the [defendant]
+disputed that it had any duty to inquire into whether the [c]laimant had title
+to the cargo stored in the Storage Tanks”. 118
+
+##### Foot Note 118
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 142 (paras 227–228).
+
+106 The Arbitrator went on to determine that he was “unable to accept the
+[c]laimant’s submission that [X’s] and [Y’s] knowledge of the non-existent
+Product in the Storage Tanks [was] to be attributed to the [defendant] under
+the agency doctrine” as “the [defendant] was not under a duty to make inquiry
+into the non-existence of the Product” [emphasis added]. 119
+
+##### Foot Note 119
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 147 (para 243).
+
+In this application, the claimant takes issue with the characterisation of the
+duty as relating to the non-existence of the Product instead of title and/or
+ownership over the Product.
+
+107 In my view, the claimant is splitting hairs and, in essence, nitpicking at
+the Award again. Reading section (IX)(1) of the Award in context and as a
+whole, it appears that the Arbitrator considered the two framings of the duty
+to be interchangeable – after all, the Arbitrator’s determination on the
+agency doctrine in para 243 (see [106] above) followed shortly after his
+summary of the parties’ cases on the agency doctrine in paras 227–228 (see
+[105] above).
+
+108 In any case, the respective enquiries as to the existence or non-existence
+of the Product and the claimant’s title to the Product are, in my view,
+intertwined; they are not clear and discrete lines of questioning separated by
+a bright line. The non-existence of the Product (sold and allegedly allocated
+to the claimant) was the direct result of there being competing claims of
+title over the Product; fundamentally, and as a matter of logic and common
+sense, existence of the property is a necessary precursor to ownership and
+title. The rhetorical question thus follows: if there was no duty to enquire
+into existence, how could there be a duty to enquire into ownership? Viewed in
+this light, the Arbitrator’s negative conclusion on the former would summarily
+determine the latter in the negative as well. But more to the point – the
+claimant has again failed to demonstrate that the inescapable inference to be
+drawn here is that the Arbitrator completely failed to decide the Combination
+Contention. On the contrary, the available evidence within the Award itself,
+when read in its proper context, is that the Arbitrator did determine the
+issue, just not in the way the claimant had hoped.
+
+109 Finally, one must bear in mind that the claimant’s overarching case on
+conspiracy was that the defendant and Co A conspired to “sell non or partially
+existent oil to [the claimant]”. 120
+
+##### Foot Note 120
+
+×
+
+Claimant’s Exhibit at Tab J (Claimant’s Closing Submissions) at p 1042 (para
+40).
+
+The Arbitrator recognised this, stating at the outset that “the [c]laimant’s
+pleaded case [was] that the alleged combination came into existence in or
+about [M0-1]: it is alleged that the [defendant] and [Co A] “conceived a plan”
+on or about [D0-5] to sell non-existent Product to the [c]laimant” [emphasis
+in original]. 121
+
+##### Foot Note 121
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 140 (para 222).
+
+The difficulty in the claimant’s case before the Arbitrator was thus with
+attributing knowledge of the non-existence of the Product to the defendant, by
+way of X’s and Y’s knowledge of the same. In that context, under the agency
+doctrine, the question as to whether the defendant was under a duty to enquire
+into the non-existence of the Product became relevant.
+
+110 That question was accordingly addressed by the Arbitrator. It is not up to
+the claimant now, after the event and when the Award has gone against it, to
+split hairs over the phraseology of the duty that was in contention. In doing
+so, the claimant runs the risk of being seen as attempting a backdoor appeal
+on the merits in the guise of a purported process breach – our courts have
+repeatedly deprecated attempts by unsuccessful arbitrants to do so and I would
+repeat that deprecation in this case. Accordingly, I reject the claimant’s
+case that the Arbitrator failed to apply his mind to the Combination
+Contention.
+
+111 On the same issue of the Combination Contention, the claimant contends
+that: 122
+
+##### Foot Note 122
+
+×
+
+CWS at para 78.
+
+78\. … the Tribunal failed to consider [the claimant’s] extensive reference to
+Singapore case law in both its presentation slides and oral Reply Submissions
+(viz, United Overseas Bank Ltd v Lippo Marina Collection Pte Ltd and others
+[2016] 2 SLR 597 [(“UOB v Lippo”)]) that had interpreted the Hampshire Land
+principle to apply in a situation where a company was seeking redress from its
+defaulting officer, and not in the case where an innocent third party was
+seeking redress.
+
+112 The principle that the defendant sought to rely on in Re Hampshire Land
+Company [1986] 2 Ch 743 (“Re Hampshire Land Company”), as recognised by the
+Arbitrator in para 229 of his Award, is that knowledge will not be attributed
+to the principal where it is acquired by an agent who is defrauding the
+principal in the same transaction. 123
+
+##### Foot Note 123
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 143 (para 229).
+
+It is, in my view, clear as day that arguments on this principle would only be
+relevant if X and Y could be said to be the defendant’s agents and the
+defendant had a duty to enquire into whether the claimant had title to the
+cargo in the relevant tanks. As canvassed in [105]–[109] above, the Arbitrator
+concluded that there had been no such duty to enquire (in para 243(1) of the
+Award). This effectively put an end to the claimant’s Combination Contention.
+The subsequent comments and findings by the Arbitrator on the Re Hampshire
+Land Company principle at paras 243(2)–(3) of the Award were purely obiter –
+this much is clear from the wording of the Award itself – “Even if, contrary
+to the [Arbitrator’s] findings …” [emphasis added]. 124
+
+##### Foot Note 124
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 147 (para 243(2)).
+
+113 Second, from the tenor of paras 233 and 243(2)–(3) of the Award, it
+appears to me that the claimant’s arguments on UOB v Lippo were implicitly
+rejected by the Arbitrator. The claimant relied on UOB v Lippo to demonstrate
+its point that the Re Hampshire Land Company principle did not apply in the
+defendant’s favour: 125
+
+##### Foot Note 125
+
+×
+
+Claimant’s Exhibit at Tab L (Notes of Evidence, 25 January 2022) at p 1325 (p
+24 ln 6–14).
+
+MR LOK: … The Re Hampshire principle steps in to preserve the right to sue. It
+doesn’t constitute the defence: it preserves the right to sue of the victim of
+the fraud …
+
+[The defendant] also at best is a secondary and not a primary victim. The Re
+Hampshire principle does not apply to secondary victims.
+
+In my view, the Arbitrator addressed this point in substance, even if no
+express reference was made to UOB v Lippo: 126
+
+##### Foot Note 126
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at pp 144, 147, 148 (paras 233,
+243).
+
+233\. In the course of the [c]laimant’s oral closing submissions, it was
+submitted, in reliance on Bilta (UK) Ltd v Nazir (No. 2) [2015] UKSC 23
+(“Bilta”) that the [defendant’s] reliance on the Re Hampshire Land Company
+principle was misplaced since the principle applies only to preserve the right
+of the victim of a fraud to sue (here, the [c]laimant) and does not apply to a
+secondary victim of the fraud (here, the [defendant]) so as to afford a
+defence to a claim by the primary victim. …
+
+243\. The Tribunal is unable to accept the [c]laimant’s submission that [X’s]
+and [Y’s] knowledge of the non-existent Product in the Storage Tanks is to be
+attributed to the [defendant] under the agency doctrine, for the following
+reasons:
+
+…
+
+(2) Even if, contrary to the Tribunal’s findings, the [defendant] was under a
+duty to make inquiry, the Tribunal considers that the [defendant] is entitled
+to rely on the Re Hampshire Land Company principle, which remains good law …
+
+(3) In that regard, the Tribunal rejects the [c]laimant’s submission that the
+effect of Bilta is to confine the Re Hampshire Land Company principle to
+primary victims in the way contended for by the [c]laimant … In the Tribunal’s
+view, those observations … support the application of the principle to so-
+called secondary victims such as the [defendant]. …
+
+114 Third, the primary difficulty of the Arbitrator was his view that the
+claimant had not made out its case based on X’s and Y’s knowledge that the
+defendant had been a party to a combination with Co A to defraud the claimant
+by selling non-existent Product to the claimant. 127
+
+##### Foot Note 127
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 148 (para 246).
+
+Critically, this is a finding by the Arbitrator that is unappealable. The
+struggle that the Arbitrator faced, at a more fundamental level, was in
+ascertaining the contents and extent of X’s and Y’s knowledge to determine
+whether they had carried out or coordinated the alleged unlawful acts – in
+this regard, the Arbitrator observed that “the [c]laimant adduced no evidence
+from [X] or [Y] or from any other [Co A] employee with which it dealt
+directly”. 128
+
+##### Foot Note 128
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 148 (para 247(1)).
+
+In my judgment, as the evidence had fallen short at that stage, the
+Arbitrator’s determination on the issues of agency or identification were
+secondary and strictly speaking unnecessary for his ultimate decision, much
+less his determination on the Re Hampshire Land Company principle. Therefore,
+even if there was any defect in the process by which the Arbitrator arrived at
+his determination on those issues, no causative prejudice could have been
+occasioned to the claimant (see [87] above for the applicable principles on
+prejudice).
+
+115 Finally, the claimant also contends that: 129
+
+##### Foot Note 129
+
+×
+
+CWS at para 81.
+
+81\. … the Tribunal did not appear to consider [the claimant’s] separate and
+distinct argument that [the defendant] was complicit by replenishing the
+Competing Interest Tanks with Product … which constituted clear evidence of an
+extant combination between [the defendant] and [Co A].
+
+116 In my judgment, it would be unfair to contend that the Arbitrator did not
+consider this argument at all. The Arbitrator made clear his position in para
+247(6) of the Award that matters subsequent to the alleged combination could
+not be relied upon to infer the existence of the alleged combination at an
+earlier point in time: 130
+
+##### Foot Note 130
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 149 (para 247(6)).
+
+(6) In this respect, the time at which the alleged combination came into
+existence is important. That is alleged to have been in [M0-1], prior to the
+[Storage Agreement]. The subsequent matters relied on in terms of the roles
+played or alleged to have been played by [Y] and [X] following the conclusion
+of the Agreement do not provide a sufficient basis from which to infer the
+existence of the alleged combination at a much earlier point in time.
+
+117 As the claimant acknowledges, the defendant’s act of replenishing the
+Competing Interest Tanks only took place in the middle of [M0], ie, subsequent
+to the point at which the alleged combination pleaded by the claimant came
+into existence ([M0-1]). The Arbitrator made clear that he could not and would
+not rely on such subsequent matters to infer the existence of the alleged
+combination at an earlier point in time, thereby implicitly rejecting the
+claimant’s argument.
+
+118 Even if the Arbitrator expressly addressed such subsequent matters
+specifically, it could not have made any real difference to the Arbitrator’s
+determination, given that the Arbitrator already concluded in the Award that
+such matters “[did] not provide a sufficient basis from which to infer the
+existence of the alleged combination at a much earlier point in time”.
+Therefore, it cannot be said that any prejudice was occasioned to the
+claimant.
+
+Whether the Arbitrator failed to issue a sufficiently reasoned award
+
+119 The claimant contends that the Arbitrator also failed to provide adequate
+reasons and explanations for his decision on the three contentions set out
+above at [30(a)], thereby also breaching the rules of natural justice.
+
+120 The failure to give a sufficiently reasoned decision may be a breach of
+natural justice, if the award as a whole does not address the bases upon which
+the arbitral tribunal reached its decision on the material or essential
+issues: AUF v AUG and other matters [2016] 1 SLR 859 at [77] and [78].
+However, an allegation of inadequate reasons and explanations is generally not
+capable of sustaining a challenge against an award: CEF at [127].
+
+121 Given the conclusions I have reached above, it is strictly not necessary
+for me to decide whether the claimant’s objections regarding an insufficiently
+reasoned award in this case are capable of sustaining its challenge against
+the Award and I need say no more on it.
+
+Whether the Arbitrator failed to give the claimant a reasonable opportunity to
+present its case
+
+122 It is hornbook law that if a party is not given a reasonable opportunity
+to present its case, that could also constitute a breach of natural justice:
+JVL Agro Industries Ltd v Agritrade International Pte Ltd [2016] 4 SLR 768 at
+[144]–[145] (“JVL”). Such a breach would engage both ss 48(1)(a)(iii) and
+48(1)(a)(vii) of the AA, although I note that the claimant does not rely on s
+48(1)(a)(iii) of the AA in OA 642.
+
+123 The principles relating to a party being afforded a reasonable opportunity
+to present its case were succinctly summarised by Vinodh Coomaraswamy J in JVL
+at [146]–[147]:
+
+146 There are two aspects to a party’s reasonable opportunity to present its
+case: a positive aspect and a responsive aspect. The positive aspect
+encompasses the opportunity to present the evidence and advance the
+propositions of law on which it positively relies to establish its claim or
+defence, as the case may be. The responsive aspect encompasses the opportunity
+to present the evidence and advance the propositions of law necessary to
+respond to the case made against it. …
+
+147 The responsive aspect of presenting a party’s case has itself two
+subsidiary aspects to it. The first is having notice of the case to which one
+is expected to respond. The other is being permitted actually to present the
+evidence and advance the propositions of law necessary to respond to it. A
+tribunal will therefore deny a party a reasonable opportunity to respond to
+the case against it if it either: (a) requires the party to respond to an
+element of the opposing party’s case which has been advanced without
+reasonable prior notice; or (b) curtails unreasonably a party’s attempt to
+present the evidence and advance the propositions of law which are reasonably
+necessary to respond to an element of the opposing party’s case. But there is
+a third situation in which a tribunal will deny a party a reasonable
+opportunity to present its responsive case: when the tribunal adopts a chain
+of reasoning in its award which it has not given the complaining party a
+reasonable opportunity to address.
+
+124 The claimant submits that the Arbitrator failed to give the claimant a
+reasonable opportunity to present its case on (a) whether forensic evidence
+was required to prove that the company stamps on the Certificates were in wet
+ink (the “Forensic Evidence Allegation”); and (b) whether the defendant should
+be held liable if X and Y had apparent authority to issue the Certificates
+even if they had issued them fraudulently (the “Apparent Authority
+Allegation”). 131
+
+##### Foot Note 131
+
+×
+
+CWS at paras 97–121; Claimant’s 1st Affidavit at para 46(d).
+
+The claimant contends that these allegations were relevant to the claimant’s
+case that the defendant was liable for fraudulent and/or negligent
+misrepresentation in issuing the Certificates. I address them in turn.
+
+Forensic Evidence Allegation
+
+125 The claimant submits that it did not have a reasonable opportunity to
+address the Arbitrator’s chain of reasoning in para 197 of the Award,
+specifically on the issue of whether the company stamps on the Certificates
+were in wet ink: 132
+
+##### Foot Note 132
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 133 (para 197).
+
+197\. The Tribunal does not agree that the fact … that the originals of the
+2nd and 3rd [redacted] Certificates clearly show the watermark and the company
+stamp in wet ink gives rise, as submitted by the [c]laimant, to “a strong
+prima facie case” that the [redacted] Certificates were issued by the
+[defendant]. There is no evidence that the watermark was embossed. There is
+also, in any event, an issue as to whether the company stamp was in fact in
+wet ink. The [c]laimant adduced no forensic evidence to that effect. Since it
+is not in issue that the watermark was not embossed and the [c]laimant has not
+proved that the stamp was in wet ink, no strong prima facie case has been made
+out that the [redacted] Certificates were issued by the [defendant]. Even if
+the watermark was embossed and the company stamp was in wet ink, it would not
+follow, in the Tribunal’s view, that the [defendant] would be liable for the
+issuance of the [redacted] Certificates.
+
+[emphasis in original in italics; emphasis added in bold italics]
+
+126 The crux of the claimant’s case is that the defendant never challenged the
+claimant’s position that the company stamps were in wet ink throughout the
+arbitration proceedings, until the oral reply submissions at closing. 133
+
+##### Foot Note 133
+
+×
+
+CWS at paras 103, 106–107.
+
+Then, the defendant belatedly asserted that there was “no forensic evidence
+that the ink on [the Certificates] is a wet stamp ink” 134
+
+##### Foot Note 134
+
+×
+
+Claimant’s Exhibit at Tab M (Defendant’s Closing Slides) at p 1433 (Slide 47).
+
+and that the authenticity of the Certificates could only have been proven
+“through a forensic expert”. 135
+
+##### Foot Note 135
+
+×
+
+Claimant’s Exhibit at Tab L (Notes of Evidence, 25 January 2022) at p 1358 (p
+155 ln 4–p 156 ln 1).
+
+In the premises, the claimant argues that it was prejudiced – had it been
+given a reasonable opportunity to address this issue earlier, it would have
+sought to adduce forensic evidence or at the very least argue why forensic
+evidence was not required to prove that the stamps were in wet ink. 136
+
+##### Foot Note 136
+
+×
+
+CWS at para 116.
+
+127 I disagree with the claimant’s submissions. The claimant’s positive case
+before the Arbitrator was that the defendant was liable for the issuance of
+the Certificates, which constituted the fraudulent and/or negligent
+misrepresentation. Therefore, on first principles, the claimant bore the
+burden of proving the authenticity of the Certificates, especially considering
+that the defendant denied issuing any of them thereby placing their
+authenticity directly into issue. Proof of authenticity by the claimant would
+have entailed making good its case that the company stamps on the Certificates
+were in wet ink. Thus, the mere fact that the defendant had not made extensive
+arguments on this specific issue does not mean that the claimant had thereby
+discharged its burden of proof.
+
+128 Further, the defendant always maintained its challenge to the authenticity
+of the Certificates – from the outset, the defendant’s pleaded position was
+that it did not issue any of the Certificates, did not authorise their
+issuance, and was not aware of the Certificates having been issued prior to
+the commencement of the Arbitration. 137
+
+##### Foot Note 137
+
+×
+
+DWS at para 76; Claimant’s Exhibit at Tab 9 of Tab F (DCC A1) at pp 877, 881
+(paras 27(b), 41).
+
+There could be no clearer indication that the authenticity and provenance of
+these documents was front and centre in the Arbitration. In that context, the
+claimant’s assertion that it could not have anticipated that there remained a
+live issue as to whether the company stamps were in wet ink 138
+
+##### Foot Note 138
+
+×
+
+CWS at para 107.
+
+is, in my judgment, weak and an afterthought.
+
+129 The claimant relies on the case of CAJ and another v CAI and another
+appeal [2022] 1 SLR 505 (“CAJ”) to support its argument that the Award should
+be set aside because the claimant did not have a reasonable opportunity to
+present its case before the Arbitrator on the Forensic Evidence Allegation.
+139
+
+##### Foot Note 139
+
+×
+
+CWS at para 108.
+
+In my view, CAJ is easily distinguished on its facts and affords no support to
+the claimant. As the claimant itself acknowledges, CAJ dealt with a situation
+where the defendant raised an extension of time defence for the first time in
+their written closing submissions seeking to reduce the amount of liquidated
+damages that was payable. The Court of Appeal agreed with the Judge below that
+“[a] chance to respond to the counterparty’s legal submissions on a newly
+raised defence cannot constitute a reasonable opportunity to present one’s
+case” [emphasis in original] (CAJ at [58]). Here, the defendant’s assertion
+that there was “no forensic evidence that the ink on [the Certificates] is a
+wet stamp ink” was not a newly raised defence; rather, and as I have indicated
+above, it was a component of an existing and hotly contested issue between the
+parties on the authenticity of the Certificates. The burden of proof lay
+squarely on the claimant’s shoulders to make good its case. Having failed in
+that endeavour, it cannot now come before the court and cry foul.
+
+130 In my judgment, the claimant had not only reasonable but every opportunity
+to present its case on the authenticity of the Certificates. Whether the
+claimant took it for granted that the authenticity of the Certificates would
+not be challenged on the basis of whether the company stamps were in wet ink
+is not for me to speculate. However, the fact that the claimant made the call
+not to run certain arguments or adduce forensic evidence on this point, in
+circumstances when the issue was squarely in the arena, cannot mean that the
+claimant was denied a reasonable opportunity to present its case. Accordingly,
+I also reject this ground of the application.
+
+Apparent Authority Allegation
+
+131 The claimant contends that the Arbitrator’s finding that X and Y had “no
+apparent authority” was tainted by the Arbitrator’s failure to apply his mind
+and consequentially to decide the real issues at play. 140
+
+##### Foot Note 140
+
+×
+
+CWS at para 118.
+
+The claimant submits that the Arbitrator decided a different, unargued, point,
+namely whether X and Y had apparent authority to issue Certificates with
+fraudulent misrepresentations, when the real issue, according to the claimant,
+was whether X and Y had apparent authority to issue the Certificates on the
+defendant’s behalf (the fact that such authority was alleged to have been
+exercised fraudulently was beside the point).
+
+132 On this point, the Arbitrator held as follows at para 199 of the Award:
+141
+
+##### Foot Note 141
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 133 (para 199).
+
+199\. The Tribunal does not accept that Article [redacted] of the
+[defendant’s] memorandum and articles of association conferred on [Y] actual
+authority to issue [redacted] Certificates which contained fraudulent
+misrepresentations. The Tribunal also does not accept that, as directors (and,
+in [Y’s] case as CEO), [X] and [Y] were vested with apparent authority by the
+[defendant] to issue such [redacted] Certificates. The issue of fraudulent
+[redacted] Certificates does not fall within the usual scope of the office of
+the CEO. The so-called indoor management rule is not engaged.
+
+133 In my view, this was at best an instance where the Arbitrator’s phrasing
+was perhaps infelicitous. However, I do not accept that the Arbitrator
+determined the (wrong) question of whether X and Y had apparent authority to
+issue fraudulent Certificates. I cannot imagine that this would have even been
+an issue raised or worth exploring – it is inconceivable for any director of a
+company to be clothed with apparent authority to engage in fraud. It is also
+unbelievable for any company’s memorandum and articles of association to
+confer actual authority on its directors to make fraudulent
+misrepresentations. Reading the Award closely and in context, it is
+sufficiently clear, in my view, that the Arbitrator was in fact deciding on
+the question posed to him by the claimant – viz, whether X and Y had apparent
+authority to issue the Certificates on the defendant’s behalf. As such, the
+claimant was heard and did in fact present its case, only that the Arbitrator
+disagreed with the claimant and found that the indoor management rule was not
+engaged.
+
+134 In any event, even if I accept the claimant’s argument that the Arbitrator
+decided a different unargued point, I am of the view that no prejudice would
+have been occasioned to the claimant. I elaborate below.
+
+135 Even if X and Y had been vested with apparent authority, the Arbitrator
+found that there was no evidence that it was X and Y who had issued the
+Certificates. The Arbitrator also noted that the circumstances in which the
+Certificates had come to be issued “remain[ed] opaque” and that the claimant
+had adduced no evidence of “the roles played by [X] and [Y]” or any other
+person sufficient to fix the defendant with liability. 142
+
+##### Foot Note 142
+
+×
+
+Claimant’s Exhibit at Tab B (Final Award) at p 133 (para 198).
+
+These were all conclusions arrived at by the Arbitrator based on the evidence
+adduced during the Arbitration, or the lack thereof; significantly, these are
+all conclusions that the claimant does not (and indeed, cannot) challenge.
+Viewed through this lens, the claimant’s attempt, through this application, to
+obviate this inherent weakness in its case runs the risk, again, of being
+construed as a backdoor attempt to relitigate the merits of the matter and
+obtain a second bite of the cherry. For the foregoing reasons, I also reject
+this ground of the application.
+
+Whether the making of the Award was induced or affected by fraud
+
+136 Finally, the claimant contends that the making of the Award was induced,
+or was affected, by procedural fraud as (a) the defendant had concealed
+material documents in the Arbitration which it was obligated to disclose
+pursuant to the Arbitrator’s orders for disclosure, and there are likely to be
+more material documents that remain undisclosed; and (b) one of the
+defendant’s witnesses (an employee of the defendant) (the “Employee”) had
+committed perjury and given false evidence in the Arbitration. 143
+
+##### Foot Note 143
+
+×
+
+CWS at para 122.
+
+The applicable law
+
+137 “Fraud” under s 24(a) of the IAA includes procedural fraud, that is, when
+a party commits perjury, conceals material information and/or suppresses
+evidence that would have substantial effect on the making of the award:
+Bloomberry Resorts and Hotels Inc and another v Global Gaming Philippines LLC
+and another [2021] 1 SLR 1045 at [41]. In my view, the same applies to the in
+pari materia provision under s 48(1)(a)(vi) of the AA.
+
+138 In CLX v CLY and another and another matter [2022] SGHC 17 (“CLX”) at
+[59], I summarised the key principles concerning perjury and concealment of
+evidence in an arbitration, including concealing documents or information – my
+summary was based on the succinct exposition of those principles by Ang J (as
+she then was) in Bloomberry Resorts and Hotels Inc and another v Global Gaming
+Philippines LLC and another [2021] 3 SLR 725 at [103]–[106]:
+
+(a) Perjury and the deliberate suppression or withholding of documents in an
+arbitration can in a proper case amount to obtaining an award by fraud.
+
+(b) Where the fraud alleged is perjury, the applicant must prove that:
+
+(i) false evidence is given which is intended to cause any person in that
+proceeding to form an erroneous opinion that touches any point material to the
+result of such proceeding;
+
+(ii) the new evidence demonstrating fraud could not have been discovered or
+produced, despite reasonable diligence, during the arbitration proceedings;
+and
+
+(iii) the newly discovered evidence must be decisive in that it would have
+prompted the arbitrator to have ruled in favour of the applicant instead of
+the other party.
+
+(c) Where the fraud alleged is concealment or non-disclosure of material
+information or documents, the applicant must prove that:
+
+(i) there is deliberate (as opposed to innocent or negligent) concealment
+aimed at deceiving the arbitral tribunal or the other party/parties to the
+arbitration;
+
+(ii) there is a causative link between the deliberate concealment and the
+decision in favour of the concealing party (ie, the concealment must have
+substantially impacted the making of the award). The document(s) (or
+information) concealed must be so material that earlier discovery would have
+prompted the arbitrator to rule in favour of the applicant; and
+
+(iii) there must not have been a good reason for the non-disclosure.
+
+Non-disclosure of the Whatsapp Message
+
+139 The claimant argues that the defendant’s non-disclosure of one Whatsapp
+message between the Employee and Y dated [D0+21] (the “Whatsapp Message”)
+constituted fraud that induced or affected the making of the Award. The
+Whatsapp Message conveyed that the Employee wished to seek Y’s advice on a
+written undertaking that the defendant had given to another entity (the
+“Entity”). 144
+
+##### Foot Note 144
+
+×
+
+CWS at paras 133–134; Defendant’s 1st Affidavit at p 241.
+
+140 The claimant’s case is that the Whatsapp Message fell within the
+categories of documents ordered to be disclosed by the Arbitrator, as set out
+below: 145
+
+##### Foot Note 145
+
+×
+
+CWS at paras 131–132.
+
+3 In respect of the period [M0-3] to [D0+28]:
+
+\- All documents produced by, and correspondence (including emails, WhatsApp,
+WeChat and SMS messages) exchanged between the [defendant] and [Co A], their
+employees and agents (including but not limited to [Y], [X], … and [the
+Employee]) that refer to and/or relate to Tanks [Delta, Bravo, Charlie,
+Foxtrot and/or Echo].
+
+8\. In relation to the period [M0-2] to [D0+34]: All documents and/or records
+… and/or correspondence (including letters, acknowledgements, confirmations,
+emails, WhatsApp, WeChat and SMS messages) exchanged between the [defendant],
+[the Entity] and/or [Co A] and their employees and agents (including but not
+limited to [Y], [X], … and [the Employee]) in relation to:
+
+1\. [The Entity’s] alleged interest in and/or the allocation of storage tanks
+[Alpha, Bravo and Charlie] to [the Entity]; and
+
+2\. [The Entity’s] inventory allegedly being stored at the [defendant’s]
+Terminal.
+
+…
+
+10\. In relation to the inspection of the Competing Interest Tanks by [the
+Entity] … on or about [D0+19] and [D0+20], any documents… and/or
+correspondence (including letters, acknowledgements, confirmations, emails,
+WhatsApp, WeChat and SMS messages or any other form of writing) that were
+provided by the [defendant’s] representatives to any director, officer,
+employee or secondee of the [defendant] and/or [Co A], or any instructions
+received by the [defendant’s] representatives from any such person, whether
+provided or received before, during or after the inspections.
+
+11\. All documents and/or records… and/or correspondence (including letters,
+acknowledgements, confirmations, emails, WhatsApp, WeChat and SMS messages or
+any other form of writing) exchanged between the [defendant], other third
+parties, and/or [Co A] and their employees and agents (including but not
+limited to [Y], [X] … and [the Employee]) in relation to the discharge of a
+shipment of approximately [redacted] barrels of Gasoil 10 ppm sulphur into
+Tanks [Bravo] and [Charlie] on [D0-1].
+
+141 I agree with Mr Nandakumar’s submission that the Whatsapp Message was not
+responsive to any of the above categories. 146
+
+##### Foot Note 146
+
+×
+
+DWS at pp 49–50 (Annex A).
+
+(a) Category 3: The Whatsapp Message did not refer to and/or relate to tanks
+Delta, Bravo, Charlie, Foxtrot and/or Echo.
+
+(b) Category 8: The Whatsapp Message did not relate to (a) the Entity’s
+alleged interest in and/or the allocation of storage tanks Alpha, Bravo and
+Charlie to the Entity; or (b) the Entity’s inventory allegedly being stored at
+the defendant’s terminal.
+
+(c) Category 10: The Whatsapp Message did not relate to inspection of the
+Competing Interest Tanks.
+
+(d) Category 11: The Whatsapp Message did not relate to the discharge of a
+shipment of approximately [redacted] barrels of Gasoil 10 ppm sulphur into
+tanks Bravo and Charlie on [D0-1].
+
+142 Accordingly, there was no obligation on the defendant’s part to disclose
+the Whatsapp Message in the Arbitration. In the absence of such an obligation,
+I am not persuaded that there was deliberate concealment on the defendant’s
+part aimed at deceiving the Arbitrator or the claimant (see [138(c)(i)]
+above). I also bear in mind that the Whatsapp Message was disclosed by the
+defendant in another suit pending before the court; this does not appear to be
+conduct consistent with a party intent on deliberately concealing or
+suppressing evidence. 147
+
+##### Foot Note 147
+
+×
+
+Transcript 13 April 2023 at p 12 ln 8–12.
+
+In my judgment, the claimant has failed to prove that there was fraud by the
+defendant in the suppression or withholding of documents.
+
+143 Even if I am wrong on this, the claimant’s case also fails for a second
+reason, namely that the alleged concealment of the Whatsapp Message did not
+substantially impact the making of the Award (see [138(c)(ii)] above). First,
+the substance of the information in the Whatsapp Message was already made
+known in the Arbitration by way of the disclosure of the Employee’s email to
+the Entity dated [D0+20], wherein the Employee informed the Entity that she
+was “awaiting instructions from [Co A] on the [undertaking]”. 148
+
+##### Foot Note 148
+
+×
+
+DWS at para 98; Claimant’s 1st Affidavit at para 169; Claimant’s Exhibit at
+Tab 24 of Tab C at p 495.
+
+Second, I fail to see how the single Whatsapp Message conveying that the
+Employee needed Y’s advice on the undertaking given to the Entity could have
+made any substantial impact on the Arbitrator’s decision on any of the
+claimant’s claims.
+
+Employee’s evidence during the hearing
+
+144 The claimant submits that the Employee committed perjury when cross-
+examined on whether the Employee had failed to disclose all relevant
+communications in the Arbitration. The nub of the claimant’s allegations is
+that the Employee lied (a) about the frequency of the Employee’s WhatsApp
+communications with Y; and (b) that the Employee had not exchanged any
+messages with Y that were relevant to the Arbitration. 149
+
+##### Foot Note 149
+
+×
+
+CWS at para 137.
+
+145 In my view, the claimant’s case on perjury fails for the fundamental
+reason that the claimant has not proved that the Employee gave false evidence.
+
+146 The Employee’s evidence was that (a) the Employee and Y exchanged minimal
+Whatsapp messages for business over the years; and (b) they did not exchange
+messages that were relevant to the Arbitration: 150
+
+##### Foot Note 150
+
+×
+
+CWS at para 137; Claimant’s Exhibit at Tab Q (Notes of Evidence, 21 October
+2021) at p 1825 (p 15 ln 9 – p 16 ln 6).
+
+Q: … are you saying that you do not exchange WhatsApp messages for business
+with [Y]?
+
+A: To the best of my recollection, over the years it’s very minimal. He would
+rather call me and give me instructions over the phone.
+
+…
+
+Q: Has anybody [seen] [the five-six WhatsApp messages] to see whether these
+are relevant to these proceedings?
+
+A: It is not relevant, because if you’re asking me for these proceedings
+regarding [the claimant’s] matter, there was no message from him at all,
+nothing at all.
+
+147 On the evidence before me, I disagree that the Employee’s evidence was
+demonstrably untrue. The Whatsapp messages exhibited in the defendant’s
+affidavit suggest that Y rarely corresponded with the Employee via WhatsApp.
+In fact, Y did not even reply to the Employee’s Whatsapp Message that the
+claimant argues should have been disclosed. 151
+
+##### Foot Note 151
+
+×
+
+Defendant’s 1st Affidavit at pp 240–242.
+
+The other messages exhibited pertained to the then-prevailing COVID-19
+restrictions and the defendant’s intended legal representation. Further, for
+the reasons canvassed above at [143], the Whatsapp Message was not of
+relevance to the Arbitration. I also disagree with the argument made by Mr Lok
+that the messages exchanged between Y and the Employee on the defendant’s
+intended legal representation demonstrated the senior position and influence
+that Y had in the defendant, and therefore this evidence would (if not
+suppressed) have had a material impact on the issues of attribution of
+knowledge of Y to the defendant and the identification doctrine, in the
+context of the claims advanced by the claimant in the Arbitration for unlawful
+means conspiracy. Those arguments make a leap too far and are somewhat
+speculative. In my judgment, the claimant has not demonstrated that there
+could have been any meaningful difference to the outcome of the Arbitration,
+bearing in mind again the Arbitrator’s fundamental difficulty with the lack of
+evidence adduced by the claimant on the alleged combination involving the
+defendant, X and/or Y (see [84] above).
+
+Other allegedly suppressed documents
+
+148 The claimant contends that there are likely to be further WhatsApp
+exchanges or correspondence between the Employee and Y on matters that fall
+within the ordered disclosures, but which were not disclosed. 152
+
+##### Foot Note 152
+
+×
+
+CWS at para 158.
+
+The claimant relies on the case of Dongwoo Mann+Hummel Co Ltd v Mann+Hummel
+GmbH [2008] 3 SLR(R) 871 (“Dongwoo”) at [146] to argue that the present case
+was one where “a party hides even the existence of the damning document and
+then dishonestly denies its very existence so that the opposing party does not
+even have the chance to submit that an adverse inference ought to be drawn for
+non-production”. 153
+
+##### Foot Note 153
+
+×
+
+CWS at para 162.
+
+149 Assuming, for argument’s sake, that the defendant indeed suppressed other
+documents, the claimant’s reliance on Dongwoo is misplaced. Dongwoo dealt with
+the question of whether the tribunal could and should draw an adverse
+inference for non-production – if a party hid even the existence of the
+damning document and dishonestly denied its very existence, the question of
+whether an adverse inference for non-production should be drawn would not even
+arise as the opposing party and the tribunal would be kept in the dark (at
+[146]). Suppression of the relevant documents was thus viewed from the
+perspective of the tribunal during the arbitration proceedings.
+
+150 In my judgment, when a setting aside application on the ground of fraud by
+way of concealment of evidence is placed before the seat court, there must be
+actual evidence of the existence of those documents that the party allegedly
+concealed in the arbitration proceedings before the court can even conclude
+that the making of the award was indeed induced or affected by fraud, bearing
+in mind the high standard of proof required for an allegation of fraudulent
+conduct (Dongwoo at [147]; CLX at [57]–[58])). Otherwise, the allegation of
+fraud would be purely speculative. A conclusion that a party had concealed
+documents during the arbitration proceedings, such that the making of the
+award was induced or affected by fraud, is a finding of fact which can only be
+reached after those documents are first proved to exist.
+
+151 Here, as the claimant concedes, it has no way of knowing what
+communications took place between the Employee and Y and whether such
+conversations touched on issues relevant to the Arbitration. Consequently, the
+claimant is also unable to say with certainty whether such evidence could have
+any material impact on the Arbitrator’s findings. 154
+
+##### Foot Note 154
+
+×
+
+CWS at para 161.
+
+For these reasons provided by the claimant itself, I am of the view that the
+claimant’s allegation, that unidentified further documentary evidence (the
+existence of which remains unrevealed and a mystery) was concealed in the
+Arbitration, is bound to fail.
+
+152 Separately from its written submissions in this application, the claimant
+seeks to match in its supporting affidavit the description of the documents in
+the defendant’s list of documents (“DLOD”) filed in HC/S [redacted] to
+discovery categories ordered by the Arbitrator. 155
+
+##### Foot Note 155
+
+×
+
+Claimant’s 1st Affidavit at para 165.
+
+This also does not assist the claimant. The description of the documents in
+the DLOD is vague at best and does not shed much light on the contents of
+these allegedly concealed documents. The description of the correspondence in
+the DLOD (by email and WhatsApp) only contains: (a) the names of the sender
+and recipient(s); (b) the date and time of the communication; (c) in the case
+of emails, the subject title of the email. 156
+
+##### Foot Note 156
+
+×
+
+Claimant’s 1st Affidavit at pp 60–62.
+
+It is therefore difficult to reach the conclusion that these documents were
+responsive to any of the categories of documents ordered to be disclosed by
+the Arbitrator.
+
+153 For the reasons set out above, the claimant’s case that the Award was
+induced or affected by fraud because the defendant had concealed further
+material documents which the claimant alleges are likely to exist (but which
+have not been identified or proven to exist), does not pass muster and I
+reject it accordingly.
+
+Whether the Award is contrary to public policy
+
+154 An award may be set aside by the court if it finds that the award is
+contrary to public policy: s 48(1)(b)(ii) of the AA.
+
+155 It is trite that that an award obtained by fraud would violate the basic
+notions of morality and justice, thus amounting to a breach of the public
+policy of Singapore: Beijing Sinozonto Mining Investment Co Ltd v Goldenray
+Consortium (Singapore) Pte Ltd [2014] 1 SLR 814 at [41]; CLX at [119].
+
+156 For the reasons articulated above at [136]–[153], I am of the view that
+the making of the Award was not induced or affected by fraud. Accordingly, the
+Award cannot be contrary to public policy. Consequently, this ground of the
+application also fails.
+
+Remission
+
+157 As I have rejected all of the claimant’s grounds for setting aside the
+Award, the question whether these proceedings should be suspended and for the
+matter to be remitted to the Arbitrator is rendered moot. Nevertheless, I feel
+compelled to make some remarks on the manner in which the claimant has chosen
+to mount its case on remission.
+
+158 The claimant submits that the Award should be set aside and that remission
+is inappropriate in this case given the “[Arbitrator’s] apparent
+predisposition against [the claimant]”. 157
+
+##### Foot Note 157
+
+×
+
+CWS at para 165.
+
+One of the arguments raised by the claimant is that “there is reasonable cause
+for concern that the [Arbitrator] may hold it against [the claimant] for
+having asked the [Arbitrator] to clarify certain entries in the [Arbitrator’s]
+curriculum vitae (“CV”)”. 158
+
+##### Foot Note 158
+
+×
+
+CWS at para 176.
+
+159 By way of background and to explain the context behind this “reasonable
+cause for concern”, after the issuance of the Award, the claimant (through its
+solicitors) wrote to the Arbitrator on [date redacted] seeking clarification
+on certain entries in the Arbitrator’s CV regarding his prior experience in
+certain commercial arbitration and insolvency proceedings that were listed in
+his CV. The claimant queried whether those proceedings were related to the
+Arbitration and the parties to the Arbitration. 159
+
+##### Foot Note 159
+
+×
+
+Claimant’s 1st Affidavit at para 212.
+
+The Arbitrator’s initial response was that he had “heavy court commitments and
+will give it consideration in due course when time permits”. 160
+
+##### Foot Note 160
+
+×
+
+Claimant’s 1st Affidavit at para 213.
+
+On [date redacted], claimant’s counsel requested that the Arbitrator attend to
+their query by [date redacted], to which the Arbitrator replied on the same
+day that he would respond “as soon as [he] [was] able during the course of
+next week when clear of [his] current court and other commitments”. 161
+
+##### Foot Note 161
+
+×
+
+Claimant’s 1st Affidavit at paras 214–215.
+
+Claimant’s counsel proceeded to chase the Arbitrator on the same day,
+expressing its disappointment and highlighting that “[t]he relevance of our
+client’s request for clarification and the sensitivity of the timing of
+receipt of [the Arbitrator’s] response is self-evident”. The email also
+requested for a response by [date redacted] and stated that “[i]f no response
+is received by then, our client will take it that your preference is not to
+respond”. 162
+
+##### Foot Note 162
+
+×
+
+Claimant’s 1st Affidavit at para 216.
+
+The Arbitrator responded three days later: 163
+
+##### Foot Note 163
+
+×
+
+Claimant’s 1st Affidavit at para 217.
+
+Further to my email of [date redacted], I have now considered the inquiry
+raised by your client in your email of [date redacted]. I have done so now
+rather than next week at considerable professional and personal inconvenience,
+in view of your client’s request in your email of [date redacted] for a
+response by next Monday.
+
+The suggestion by you in your email of [date redacted] that there is any
+connection between the timing of my response and, I presume, the time limit
+for any application by your client to set aside the Final Award is both
+unwarranted and unfounded.
+
+Having considered the inquiry, your client has no entitlement to the
+information requested. Notwithstanding that, (i) neither of the bullet points
+on my website to which your clients refers pertains to [the Arbitration]; and
+(ii) the arbitrations in question and the claim referred to by your client in
+my experience statement did not involve any of the persons to which your email
+refers.
+
+As you will be aware, I am functus in the arbitral proceedings in [the
+Arbitration] and shall not be engaging in further correspondence on this
+matter with the parties or their counsel.
+
+160 To begin with, if the claimant had any concerns over the Arbitrator’s
+impartiality or that there might exist a conflict of interest, it should have
+perused the Arbitrator’s CV, which the claimant acknowledges is “publicly
+available”, 164
+
+##### Foot Note 164
+
+×
+
+CWS at para 177.
+
+at the time the tribunal had been constituted and not only after the Award was
+released. Given the amounts at stake, it would be surprising if the claimant
+or its representatives had not undertaken any checks at all on the Arbitrator
+when the parties had been notified of his appointment by the SIAC and only
+purported to do so after the Award was published. The claimant’s decision to
+raise questions relating to the Arbitrator’s CV after the release of the Award
+could therefore be construed as more than just mere coincidence but rather, an
+attempt by the claimant to self-induce an impression that the Arbitrator would
+“hold it against” the claimant because the claimant had raised doubts over the
+Arbitrator’s impartiality and professionalism, and that therefore, it would be
+inappropriate to remit the matter to the Arbitrator. According to the
+claimant, from the Arbitrator’s “terse response” to the claimant’s solicitors’
+questions, the Arbitrator “displayed obvious displeasure” in having to respond
+to the questions raised, and thus the claimant was concerned that objectively
+there was a risk that the Arbitrator may be “sub-consciously tempted to
+achieve the same result as before” (BZW at [67(a)]). 165
+
+##### Foot Note 165
+
+×
+
+CWS at paras 181–183.
+
+161 I do not find any merit in these arguments. I note in this regard that the
+claimant did not seek to set aside the Award on the basis that the Arbitrator
+was biased in any way, despite the serious suggestions in the claimant’s
+written submissions ([158] above) of (i) the Arbitrator’s “apparent
+predisposition against [the claimant]” 166
+
+##### Foot Note 166
+
+×
+
+CWS at para 165.
+
+and (ii) that reading the Award objectively would give a reasonable person the
+sense that the Arbitrator had a “strong leaning” in favour of the defendant
+and that he “went out of [his] way to find in favour of [the defendant]”. 167
+
+##### Foot Note 167
+
+×
+
+CWS at para 172.
+
+This then raises questions as to the bona fides and real motive of the
+claimant in seeking the Arbitrator’s clarification, post-Award, on whether the
+Arbitrator was in a position of conflict of interest.
+
+162 As a matter of principle, I should say that the court would not look
+fondly on applicants who attempt, post-award, to create evidence or
+circumstances to portray an arbitral tribunal as being incapable of viewing
+the matter objectively should the dispute be remitted to it by the court. If
+parties can prevent remission simply by being antagonistic towards a tribunal
+after it is functus officio and questioning (by innuendo) the tribunal’s
+impartiality without any real bite to any implied suggestion of bias, such
+conduct would, in my view, make a mockery of the process of arbitration and
+the process of seeking recourse from the court against an arbitral award.
+
+163 There were, regrettably, traces of such conduct by the claimant in this
+case. Nonetheless, since the question of remission does not arise for my
+consideration, I will say no more on this.
+
+Conclusion
+
+164 For the reasons detailed in this judgment, none of the grounds upon which
+the claimant relies to set aside the Award has succeeded. Accordingly, I
+dismiss the claimant’s application.
+
+165 I shall hear the parties separately on costs. For the avoidance of doubt,
+the time for filing any appeal against this judgment shall start to run from
+the date of this judgment and not after the court has determined the question
+of costs.
+
+S Mohan J  
+Judge of the High Court|  
+---|---  
+  
+Lok Vi Ming SC, Lee Sien Liang Joseph, Mohammad Haireez bin Mohameed Jufferie,
+Muk Chen Yeen Jonathan, Thong Ying Xuan, Jean Chan Lay Koon (LVM Law Chambers
+LLC) for the claimant;
+
+Nandakumar Ponniya Servai, Wong Tjen Wee, Emmanuel Duncan Chua, Lee Yu Lun,
+Darrell, Irvin Ho Jia Xian, Lim Jia Ren (Wong & Leow LLC) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 29 Sep 2023 (10:45 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

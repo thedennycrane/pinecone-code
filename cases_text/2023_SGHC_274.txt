@@ -1,0 +1,968 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 274
+
+Originating Application No 473 of 2023
+
+Between
+
+| RB Investments Pte Ltd  
+---|---  
+  
+… Claimant
+
+And
+
+(1)| Jason Aleksander Kardachi  
+---|---  
+(2)| Patrick Bance  
+(3)| Wong Shaw Mooi  
+  
+… Respondents
+
+judgment
+
+[Evidence — Legal advice privilege]
+
+[Insolvency Law — Bankruptcy — Trustee in bankruptcy]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+RB Investments Pte Ltd
+
+  
+v
+
+  
+
+Kardachi, Jason Aleksander and others
+
+[2023] SGHC 274
+
+General Division of the High Court — Originating Application No 473 of 2023  
+Philip Jeyaretnam J  
+4 July 2023
+
+29 September 2023 Judgment reserved.
+
+Philip Jeyaretnam J:
+
+Introduction
+
+1 The private trustees of a bankrupt came into possession of documents from
+the bankrupt’s erstwhile friend and business associate that, in their view,
+bore on the question of the bankrupt’s dealings prior to his bankruptcy, which
+they were duty-bound to investigate. That gentleman had received the documents
+by email from the bankrupt via an email address associated with the claimant.
+Some of the documents that the private trustees were interested in had also
+been sent, by emails preceding those to the gentleman in question, to lawyers
+engaged by the claimant, perhaps for mixed purposes of client due diligence
+and eventual legal advice on the restructuring or reorganisation of assets.
+
+2 The application before me is to expunge the documents from an affidavit
+filed in examination proceedings brought by the private trustees within the
+main bankruptcy proceeding and to prohibit their further use or disclosure.
+
+3 The principal questions on which this application turns are first whether
+the communications are subject to legal advice privilege held by the claimant
+and secondly if there was such privilege in initial communications that was
+lost upon forwarding then whether nonetheless the circumstances under which
+the documents were forwarded to the third party were such that equity should
+restrain their further use or disclosure. If not, they are admissible in
+evidence.
+
+Facts
+
+The parties
+
+4 The claimant, RB Investments Pte Ltd (“RBI”), is a company incorporated in
+Singapore. RBI’s sole director is Mrs Rashmi Bothra (“Mrs Bothra”), 1
+
+##### Foot Note 1
+
+×
+
+Rashmi Bothra’s Affidavit dated 5 May 2023 (“Rashmi’s Affidavit”) at para 1.
+
+a Singapore citizen who is married to one Mr Rajesh Bothra (“Mr Bothra”). 2
+
+##### Foot Note 2
+
+×
+
+Rashmi’s Affidavit at para 6.
+
+Mr Bothra, a Singapore citizen, was a director of RBI from 2015 to 2016. 3
+
+##### Foot Note 3
+
+×
+
+Rashmi’s Affidavit at p 15.
+
+5 RBI’s corporate secretary is the third respondent, Ms Wong Shaw Mooi (“Ms
+Wong”). 4
+
+##### Foot Note 4
+
+×
+
+Rashmi’s Affidavit at p 12.
+
+Ms Wong also served as Mr Bothra’s personal assistant for several years, and
+was a registered shareholder, director, and/or secretary of over ten local and
+foreign companies which were owned, founded, and/or managed by Mr Bothra. 5
+
+##### Foot Note 5
+
+×
+
+Affidavit of Jason Aleksander Kardachi dated 21 March 2023 filed in HC/B
+2640/2020 for HC/SUM 794/2023 (“JAK’s Affidavit”) at paras 9 and 10(1).
+
+These companies include, among others, RB Family Trust Pte Ltd (“RB Family
+Trust”), for which Ms Wong has been appointed as company secretary since 13
+December 2017. 6
+
+##### Foot Note 6
+
+×
+
+JAK’s Affidavit at para 12(3).
+
+6 The first respondent, Mr Jason Aleksander Kardachi (“Mr Kardachi”), and the
+second respondent, Mr Patrick Bance (“Mr Bance”), are joint and several
+private trustees of Mr Bothra’s bankrupt estate. I shall refer to the
+respondents collectively as the “Private Trustees”.
+
+Background to the dispute
+
+7 From 13 December 2017 to 27 February 2020, Mr Bothra was the registered
+shareholder of RB Family Trust. On or around 27 February 2020, Mr Bothra
+transferred ownership of the RB Family Trust to Mrs Bothra. 7
+
+##### Foot Note 7
+
+×
+
+JAK’s Affidavit at para 12(3)(i).
+
+On or around 28 February 2020, Mrs Bothra transferred her ownership of the RB
+Family Trust to RB Investment Trust, a trust entity registered in the Cook
+Islands set up by Mrs Bothra. In March 2020, Mrs Bothra also transferred her
+shares in RBI to RB Investment Trust. 8
+
+##### Foot Note 8
+
+×
+
+JAK’s Affidavit at paras 12(2)(ii) and 25.
+
+8 In July 2020, Mrs Bothra, in her capacity as director of RBI, executed a
+letter of engagement and engaged one Mr Ray Shankar (“Mr Shankar”), a
+solicitor from Oon & Bazul LLP (“O&B”). 9
+
+##### Foot Note 9
+
+×
+
+Rashmi’s Affidavit at para 8.
+
+The purpose of this engagement was for possible legacy planning and
+structuring of RBI. 10
+
+##### Foot Note 10
+
+×
+
+JAK’s Affidavit at p 76; Rashmi’s Affidavit at para 12.
+
+9 In 2021, Maersk Trade Finance A/S, a company incorporated in Denmark,
+commenced bankruptcy proceedings in HC/B 2640/2020 against Mr Bothra (“the
+Bankruptcy Proceedings”). On 25 February 2021, a bankruptcy order was made
+against Mr Bothra. 11
+
+##### Foot Note 11
+
+×
+
+Order of Court (HC/ORC 1130/2021) dated 25 February 2021 (“Bankruptcy Order”).
+
+Pursuant to this order, the Private Trustees were appointed. 12
+
+##### Foot Note 12
+
+×
+
+Bankruptcy Order at paras 1 and 2.
+
+10 Prior to the making of the bankruptcy order, several fund transfers to RBI
+from Mr Bothra and entities associated with him were executed during the
+period from 2017 to March 2020. 13
+
+##### Foot Note 13
+
+×
+
+JAK’s Affidavit at para 23.
+
+These entities included, among others, Kobian Pte Ltd (“Kobian”). 14
+
+##### Foot Note 14
+
+×
+
+JAK’s Affidavit at para 23(3).
+
+Mr Bothra was a director and shareholder of Kobian 15
+
+##### Foot Note 15
+
+×
+
+JAK’s Affidavit at para 12(12).
+
+and Mrs Bothra has referred to Kobian as “[Mr Bothra’s] business”. 16
+
+##### Foot Note 16
+
+×
+
+Rashmi’s Affidavit at para 6.
+
+Ms Wong was not a shareholder, director, or company secretary of Kobian,
+however, she stated in an email that she “worked with Mr Rajesh Bothra in
+Kobian … as his junior secretary”. 17
+
+##### Foot Note 17
+
+×
+
+JAK’s Affidavit at p 311.
+
+11 As part of the carrying out of their statutory duties to administer and
+realise the assets of Mr Bothra’s bankrupt estate, the Private Trustees have
+investigated the circumstances leading up to the bankruptcy. 18
+
+##### Foot Note 18
+
+×
+
+JAK’s Affidavit at para 6.
+
+However, these investigations have, in their view, been hampered: 19
+
+##### Foot Note 19
+
+×
+
+JAK’s Affidavit at para 7.
+
+… by the fact that the Bankrupt has not been present in Singapore, having left
+Singapore even before the Trustees were appointed on 25 February 2021. The
+Bankrupt has also not been forthcoming in disclosing his residential
+(overseas) address to the Trustees, despite requests. Even though the Bankrupt
+is overseas, the Trustees nonetheless have made several efforts to request for
+the Bankrupt’s input and assistance in reconstructing the affairs and
+transactions of the Bankrupt. However, the Bankrupt has been slow to and/or
+has failed to satisfactorily assist the Trustees with their investigations.
+
+12 In light of the “substantial lack of information” (in Mr Kardachi’s words),
+the Private Trustees decided to “reach out to third parties who appear to be
+in a position to give information concerning [Mr Bothra] or [Mr Bothra’s]
+affairs”. 20
+
+##### Foot Note 20
+
+×
+
+JAK’s Affidavit at para 8.
+
+One such third party identified by the Private Trustees is Ms Wong, who, to Mr
+Kardachi’s knowledge, “is one of [Mr Bothra’s] long time personal assistants
+and has been assisting [him] with inter alia the administrative matters for
+his companies” (see [5] above). 21
+
+##### Foot Note 21
+
+×
+
+JAK’s Affidavit at para 9.
+
+In particular, Ms Wong has been the company secretary for RBI, a company that
+was owned, founded, or managed by Mr Bothra leading up to his bankruptcy, and
+the recipient of the various fund transfers, since 2012. Moreover, the legal
+ownership in RBI was transferred by Mrs Bothra to RB Investment Trust just
+months before Mr Bothra’s bankruptcy (see [7] above).
+
+13 The Private Trustees hence applied in HC/SUM 794/2023 (“SUM 794”) for an
+order for the examination of Ms Wong under s 335(1) of the Insolvency,
+Restructuring and Dissolution Act 2018 (2020 Rev Ed) (“IRDA”). 22
+
+##### Foot Note 22
+
+×
+
+Application for an Order for an Examination under Section 335(1) of the
+Insolvency, Restructuring and Dissolution Act 2018 filed on 21 March 2023.
+
+I will refer to this application as the “examination proceedings”.
+
+14 Mr Kardachi filed an affidavit in support of this application (“JAK’s
+Affidavit”). JAK’s Affidavit exhibits, among other things, two email chains
+with attachments. I shall refer to the email chains and their attachments as
+the “First Email Chain” and “Second Email Chain”, and collectively as the
+“Email Chains”. An email chain is in fact a succession of emails each of which
+pulls along with it the emails that had previously been sent. It is helpful to
+keep in mind that when an email is sent incorporating an earlier email it is
+in fact a fresh and separate communication, and must be considered in its own
+terms for the purpose of privilege and confidentiality.
+
+15 The First Email Chain begins with emails exchanged between employees of O&B
+and Mrs Bothra or Mr Bothra from what might have been a shared email address.
+For privacy reasons I do not reproduce the email addresses in this judgment
+but instead describe them. The email address used in connection with the First
+Email Chain is stated to be the email address for communication to RBI in
+O&B’s engagement letter, although the domain is “rbworld” and not specifically
+that of RBI. As far as communicating with O&B is concerned, I assume it to be
+associated with RBI given its mention in the engagement letter. I will refer
+to it as the RB World Email Address. Some of the emails from the RB World
+Email Address to representatives of O&B attached various documents. These
+emails, and their attachments, related to the RB Family Trust (the “Email
+Exchange”). Along with six additional attachments, the Email Exchange was
+forwarded from the RB World Email Address to Mr and Mrs Bothra’s son, Mr Harsh
+Bothra (“Mr Harsh”), 23
+
+##### Foot Note 23
+
+×
+
+Rashmi’s Affidavit at para 14.
+
+and one Mr Deepak Mishra (“Mr Mishra”). 24
+
+##### Foot Note 24
+
+×
+
+JAK’s Affidavit at pp 72–91; 1st and 2nd Respondent’s Written Submissions
+dated 28 June 2023 (“1st and 2nd Respondent’s Written Submissions”) at para 4.
+
+Mr Mishra was described by counsel as a friend of Mr Bothra. There was no text
+included in this final forwarding email. Together, the Email Exchange and the
+final forwarding email to Mr Harsh and Mr Mishra constitute the First Email
+Chain.
+
+16 The Second Email Chain comprises two emails. First, an email from Mr Bothra
+to two members of O&B containing an attachment, the words “[f]or your
+information”, and the letters “P&C”, the commonly used abbreviation for
+“Private and Confidential”. Second, the email in which Mr Bothra forwarded the
+preceding email, with a copy of its attachment, to Mr Mishra. 25
+
+##### Foot Note 25
+
+×
+
+JAK’s Affidavit at pp 211–213.
+
+In this forwarding email, Mr Bothra’s name was included by way of sign off,
+without any additional text. Mr Bothra used an email associated with Kobian
+(the “Kobian Email Address”) to send both emails constituting the Second Email
+Chain.
+
+17 Given the sequence in which the emails forming the content of the Email
+Chains appear in JAK’s Affidavit, with the final forwarding email being at the
+top of each Email Chain, I refer to these final forwarding emails as the “top
+emails”.
+
+18 RBI objects to the admissibility of the Email Chains (including the
+attachments) exhibited to JAK’s Affidavit. Consequently, RBI filed the present
+application (HC/OA 473/2023) (“OA 473”) seeking, amongst other things: 26
+
+##### Foot Note 26
+
+×
+
+Originating Application for HC/OA 473/2023 at para 2.
+
+(a) a declaration that certain documents exhibited therein are legally
+privileged communications and are inadmissible as evidence;
+
+(b) the aforementioned documents and several paragraphs be expunged and/or
+struck out;
+
+(c) the restraining of the Private Trustees and Ms Wong from disclosing the
+aforementioned documents in SUM 794 and/or any other proceedings and/or at
+all; and
+
+(d) a stay of the hearing of SUM 794 pending the resolution of OA 473.
+
+Ms Wong does not object to RBI’s prayers. 27
+
+##### Foot Note 27
+
+×
+
+Applicant’s Written Submissions dated 28 June 2023 (“Applicant’s Written
+Submissions”) at para 6.
+
+The parties’ cases
+
+19 RBI submits that the Email Chains, including attachments, are subject to
+legal privilege and are inadmissible as evidence as they were communications
+between representatives of RBI and O&B that were exchanged for the purpose of
+obtaining legal advice for RBI. Further, there was no waiver of the
+confidentiality or legal privilege in the Email Chains. Accordingly, the
+Private Trustees are prohibited from relying on and referring to the Email
+Chains in the examination proceedings. 28
+
+##### Foot Note 28
+
+×
+
+Applicant’s Written Submissions at para 5.
+
+20 On the other hand, the Private Trustees submit that no legal privilege
+belonging to RBI protects the Email Chains. First, it is argued that the Email
+Chains were not prepared for the dominant purpose of obtaining legal advice.
+29
+
+##### Foot Note 29
+
+×
+
+1st and 2nd Respondent’s Written Submissions at paras 4–10 and 46–48.
+
+In relation to the First Email Chain, the Private Trustees also submit that Mr
+Bothra is a third party vis-à-vis RBI and O&B, and hence the emails from him
+to O&B do not attract legal advice privilege. 30
+
+##### Foot Note 30
+
+×
+
+1st and 2nd Respondent’s Written Submissions at paras 25–29.
+
+Moreover, as regards the Second Email Chain, the Private Trustees contend that
+RBI has not established how or why these emails and their attachments concern
+RBI. 31
+
+##### Foot Note 31
+
+×
+
+1st and 2nd Respondent’s Written Submissions at paras 43–45.
+
+Further, even if legal advice privilege may be asserted over the Email Chains,
+such privilege was waived or lost as the Email Chains were forwarded to third
+parties (ie, Mr Harsh and Mr Mishra). 32
+
+##### Foot Note 32
+
+×
+
+1st and 2nd Respondent’s Written Submissions at paras 30–39 and 49–50.
+
+Issues to be determined
+
+21 I will deal with the issues in the following order:
+
+(a) whether legal advice privilege can be asserted over the Email Chains; and
+
+(b) if not, whether the Email Chains are nonetheless impressed with an
+obligation of confidence such that the court’s equitable jurisdiction should
+be exercised notwithstanding the lack of privilege.
+
+Whether legal advice privilege can be asserted over the Email Chains
+
+Applicable law
+
+22 I start with a brief review of legal advice privilege and only later deal
+with the law applicable when an erstwhile privileged document reaches the
+possession of the opponent at [41]–[46] below. Legal advice privilege rests on
+a statutory footing. The principal statutory provisions are ss 128 and 131 of
+the Evidence Act 1893 (2020 Rev Ed) (“the EA”).
+
+23 Section 128(1) of the EA provides:
+
+No advocate or solicitor is at any time permitted, unless with his or her
+client’s express consent, to disclose any communication made to him or her in
+the course and for the purpose of his or her employment as such advocate or
+solicitor by or on behalf of his or her client, or to state the contents or
+condition of any document with which he or she has become acquainted in the
+course and for the purpose of his or her professional employment, or to
+disclose any advice given by him or her to his or her client in the course and
+for the purpose of such employment.
+
+Evident from the wording of this provision is that it applies only where the
+disclosure of relevant communications or information is by the advocate or
+solicitor.
+
+24 Section 131(1) of the EA provides:
+
+No one may be compelled to disclose to the court any confidential
+communication which has taken place between him or her and his or her legal
+professional adviser unless he or she offers himself or herself as a witness,
+in which case he or she may be compelled to disclose any such communications
+as may appear to the court necessary to be known in order to explain any
+evidence which he or she has given, but no others.
+
+25 These sections drew upon and reflected the common law at the time of their
+enactment. Moreover, common law principles that are not inconsistent with the
+EA may either apply directly or inform the interpretation of the EA, in so far
+as they do not contradict any provision in it and are consistent with the
+purposes of the EA and of relevant or analogous provisions contained within
+it: see s2(2) of the EA and my discussion of the case law in Mah Kiat Seng v
+Attorney-General and others [2022] 3 SLR 890 at [49]–[53]. For this reason,
+our courts continue to consider developments in modern case law in other
+common law jurisdictions concerning the common law principle of legal advice
+privilege.
+
+26 The party asserting privilege bears the burden to prove the facts from
+which privilege is said to arise: Boey Chun Hian (by his guardian and next
+friend, Boey Ghim Huat) v Singapore Sports Council (Neo Meng Yong, third
+party) [2013] SGHCR 15 at [15].
+
+27 Legal advice privilege supports the core value of access to justice by
+protecting the confidentiality of communications with lawyers whether in the
+course of seeking or receiving legal advice. Without it, persons might be
+least able to seek legal advice when they most need it, that is to say when
+they are in a legal “hole” and need a lawyer’s help to clamber out of it. At
+the same time, there is a public interest in evidence being available to the
+court in adjudicating disputes. The law relating to legal advice privilege
+strikes a balance between these two public interests.
+
+28 Legal advice privilege protects communications for the purpose of seeking
+or receiving legal advice. It protects such a communication as a whole. Thus,
+if it protects an email then it protects the documents attached to that email
+sent by the client to the lawyer, even if those documents are copies of
+documents that were created earlier for purposes other than seeking legal
+advice. However, the fact that a document or a copy of it is subsequently sent
+to a lawyer for the purpose of seeking legal advice does not clothe with
+privilege the original documents as they existed in the client’s possession.
+Depending on the purpose for which the originals were created they may not be
+privileged and may be discoverable separately.
+
+29 The next situation is one where an otherwise privileged communication was
+in turn forwarded to a third party. This raises two further questions. The
+first is whether that further communication is privileged. The second is
+whether if it is not privileged, the further communication has deprived the
+original privileged communication of its privileged status. Whether the
+further communication is itself privileged depends on the purpose for which it
+is made. For example, a company that receives advice may circulate it or parts
+of it internally to those who have an interest to receive it. Further
+circulation within the group of persons having an interest to receive it does
+not amount to a waiver of privilege: see, eg, the English Court of Appeal
+decision of Gotha City v Sotheby’s and another (“Gotha”) [1998] 1 WLR 114 at
+118A–118E, per Staughton LJ.
+
+30 External communications are another matter. A communication to Y by X of
+legal advice received by X may well not be a privileged communication vis-à-
+vis Y, yet that would not entitle others to seek discovery of it, because X’s
+legal advice privilege may remain intact against the rest of the world. The
+textbook example approved in Gotha at 118H–119A contrasts a man reading out
+legal advice received by him on the evening news with his limited sharing of
+it with six friends. In the latter case, if any of the friends sue him, he
+cannot assert privilege, but he may continue to do so against others seeking
+discovery of the advice he received.
+
+My decision
+
+31 The top email of the First Email Chain was sent from Mr Bothra to Mr Mishra
+using the RB World Email Address. This top email did not seek legal advice. It
+does not contain legal advice. It did not forward legal advice previously
+received by RBI from O&B. This was similarly so for the top email of the
+Second Email Chain. What the top emails essentially forwarded were emails
+previously sent to O&B containing attachments. Such attachments were
+consequently attached to the top emails as well (and in the case of the First
+Email Chain, additional documents were attached to the top email). It appears
+to be the documents attached which the Private Trustees consider to be
+relevant to their intended examination of Ms Wong, rather than the body of
+emails passing to or from O&B and incidentally forwarded.
+
+32 These top emails do not fall within either ss 128 or 131 of the EA. There
+is no question of O&B seeking to disclose anything, and so the prohibition in
+s 128 is not applicable. There is also no person being compelled to disclose
+their confidential communications with their legal professional adviser and so
+s 131 is not itself relevant.
+
+33 The next question is whether common law privilege would protect the top
+emails and the documents attached to them given that (some of) those documents
+were previously sent to O&B, apparently on RBI’s behalf.
+
+34 Assuming for the moment that the attachments to earlier emails to O&B were
+protected by legal advice privilege prior to being sent to Mr Mishra, the
+question whether privilege protected the top emails would depend principally
+on why the top emails were sent to Mr Mishra with those attachments. This
+requires a factual inquiry into whether Mr Mishra was sent them as a member of
+a group of individuals involved in RBI’s affairs on which O&B was being
+consulted. This is where it becomes relevant whether Mr Bothra was an
+authorised representative of RBI vis-à-vis sending the top emails to Mr
+Mishra, and in turn whether Mr Mishra was an authorised representative of RBI
+to receive them.
+
+35 The burden is on RBI to prove that Mr Bothra and Mr Mishra were its
+authorised representatives. In my judgment, RBI has failed to discharge this
+burden. RBI asserts that Mr Bothra was acting as such repeatedly in its
+written submissions but fails to substantiate its assertions. 33
+
+##### Foot Note 33
+
+×
+
+Applicant’s Written Submissions at paras 3, 5, 19–26.
+
+For instance, RBI submits that it can “supplement its initial indication of
+its authorised representative with further instructions to O&B to take
+instructions from Mr Bothra”. 34
+
+##### Foot Note 34
+
+×
+
+Applicant’s Written Submissions at para 21.
+
+However, whether RBI did this in relation to O&B is not the same as
+authorising Mr Bothra to act as its representative in sending the top emails
+to Mr Mishra vis-à-vis RBI’s affairs.
+
+36 In relation to the First Email Chain, most of the attachments which Mr
+Bothra sent to O&B and Mr Mishra were in relation to the RB Investment Trust,
+the sole shareholder of RBI, as opposed to documents relating to RBI. Indeed,
+Mr Bothra’s evidence was that “the information [he] shared with Mr Mishra
+regarding [his] family’s financial matters [was] to consult [Mr Mishra] on his
+views”. 35
+
+##### Foot Note 35
+
+×
+
+Rajesh Bothra’s Affidavit dated 23 June 2023 at para 8.
+
+As such, they seem to be more related to Mr Bothra’s affairs rather than
+specifically RBI’s affairs.
+
+37 In relation to the Second Email Chain, one indication that Mr Bothra was
+not acting as a representative of RBI is the fact that the top email was sent
+from the Kobian Email Address. However, email addresses are not always used
+solely for the business or affairs of the company whose name forms part of the
+email address and so I do not put much weight on this fact. More relevant is
+Mr Mishra’s evidence that he considered that both of the top emails came from
+Mr Bothra personally. He asserts that Mr Bothra never informed him that the
+emails should be kept privileged and/or confidential. 36
+
+##### Foot Note 36
+
+×
+
+Deepak Mishra’s Affidavit dated 19 June 2023 (“Mishra’s Affidavit”) paras 18
+and 22.
+
+He further asserts that he “was never involved in [RBI]’s affairs and
+dealings, and was not an authorised representative of [RBI] at any point of
+time [sic]”. 37
+
+##### Foot Note 37
+
+×
+
+Mishra’s Affidavit at para 19.
+
+38 Mr Mishra’s evidence, which I accept, supports the inference that Mr Bothra
+was not acting as RBI’s representative when sending the top email to Mr
+Mishra, but instead was enlisting Mr Mishra’s assistance on his own behalf and
+not RBI’s and in connection with his own affairs and not RBI’s. This is
+consistent with Mr Bothra’s evidence: see [36] above.
+
+39 Thus, I hold that the top emails were not protected by legal advice
+privilege. For completeness, I note that the Private Trustees also argued that
+the emails sent to and from O&B were themselves not protected by legal advice
+privilege even at the time they were sent, for the reason that they were for
+the purpose of client onboarding and client due diligence, and not for the
+dominant purpose of allowing RBI to obtain legal advice. 38
+
+##### Foot Note 38
+
+×
+
+1st and 2nd Respondent’s Written Submissions at paras 11–17.
+
+There is force in this point, but I do not need to arrive at a concluded view
+on this point given my other findings.
+
+40 However, and for the avoidance of doubt, I do not accept that the
+attachments were of themselves protected by legal professional privilege. They
+do not appear to have been prepared for the purpose of seeking legal advice.
+Thus, other than within the context of emails sent to O&B, they were not
+privileged, and as such versions of them before they were sent to O&B and
+versions of them after they were sent to O&B are not privileged. Further, it
+is a reasonable inference from the nature of the contents of the attachments
+that what Mr Bothra wanted to send to Mr Mishra were those attachments, as
+opposed to wanting to share with him the communications per se with O&B. It
+would likely be the attachments on which Ms Wong might be examined, and not
+the fact that they were sent to O&B, or the content of exchanges between O&B
+and Mr Bothra or RBI. Indeed, not all the attachments had even been sent to
+O&B – the top email in the First Email Chain attached six additional
+documents. 39
+
+##### Foot Note 39
+
+×
+
+1st and 2nd Respondents’ Written Submissions at p 5.
+
+There is no basis for suggesting that those additional documents should be
+privileged or inadmissible – sending them to a third party above a trailing
+email to a lawyer could hardly cloak them with legal advice privilege or
+impress them with confidentiality.
+
+Whether the Email Chains are impressed with a duty of confidence
+
+41 As I have found above, no legal advice privilege attaches to the top emails
+and hence to the Email Chains in the hands of Mr Mishra. Notwithstanding, the
+absence of privilege does not preclude a finding that Mr Mishra received the
+top email in circumstances where equity should intervene to restrain the use
+of the preceding emails under the law of confidence. In other words, the
+question remains as to whether Mr Mishra received the top emails with the
+understanding that they had forwarded to him documents that had been subject
+to privilege belonging to RBI and hence that he ought not to use or disclose
+them further without RBI’s consent.
+
+Applicable law
+
+42 Where the privileged document has come into the hands of third parties, the
+leading case is the Court of Appeal decision of Wee Shuo Woon v HT SRL [2017]
+2 SLR 94 (“Wee Shuo Woon”). In that case, the defendant to an action accessed
+emails that had been published on the Internet as part of a large trove of
+material hacked from the computer systems of, among others, a law firm. These
+emails were undoubtedly communications between the plaintiff and its lawyers
+and were originally subject to legal advice and/or litigation privilege. The
+defendant sought to use them in an attempt to strike out parts of the action.
+The Court of Appeal noted that as the emails had already come into the
+possession of the opponent, the issue was not one of privilege but of
+admissibility of evidence. The court considered the circumstances in which the
+emails were obtained in order to answer the question of whether equity should
+restrain their use and admission into evidence owing to a breach of
+confidence.
+
+43 Indeed, while privilege presupposes confidentiality, obligations of
+confidentiality are not dependent on the existence of privilege: see the
+decision at first instance in HT SRL v Wee Shuo Woon [2016] 2 SLR 442 (“HT
+SRL”) at [21]. Privilege is founded on the law of evidence while the law of
+confidence exists outside the law of evidence: see HT SRL at [18].
+
+44 The position in Singapore is that where a third party has come into
+possession of confidential information in circumstances where the confidential
+nature of such information is clear to him, he owes an obligation of
+confidentiality: see Vestwin Trading Pte Ltd and another v Obegi Melissa and
+others [2006] SGHC 107 at [46] and X Pte Ltd v CDE [1992] 2 SLR 996 at [35].
+In Adinop Co Ltd v Rovithai Ltd and another [2019] 2 SLR 808 (“Adinop”), the
+Court of Appeal explained at [41] that “[e]quity may impose a duty of
+confidence whenever a person receives information in circumstances importing
+an obligation of confidentiality”, subject to the satisfaction of three
+elements (set out in Coco v AN Clark (Engineers) Ltd [1969] RPC 41 at 47 and
+followed in PH Hydraulics & Engineering Pte Ltd v Intrepid Offshore
+Constructions Pte Ltd [2012] 4 SLR 36 at [55]):
+
+(a) the information must possess the necessary quality of confidence;
+
+(b) the information must have been imparted or received in circumstances such
+as to give rise to an obligation of confidentiality; and
+
+(c) there must have been unauthorised use and detriment on the party who
+disclosed the information to the recipient who misused it.
+
+45 The burden is on the party asserting a duty of confidence in equity to
+establish it: see generally, Adinop at [88].
+
+46 Thus, I must on the affidavit evidence reach a conclusion on the facts and
+make a finding concerning the circumstances of receipt by Mr Mishra and
+whether they import an obligation of confidentiality. This affects the
+question of whether equity should restrain the use and admission of the Email
+Chains as a breach of confidence. There is an overlap with the inquiry
+concerning whether the top emails were privileged but it must still be
+considered separately and this I now do.
+
+My decision
+
+47 In relation to the First Email Chain, it is accepted that Mr Bothra had
+used the RB World Email Address on occasion, including on this one. Mr
+Mishra’s evidence is that he considered that both of the top emails came from
+Mr Bothra personally. He asserts that Mr Bothra never informed him that the
+emails should be kept privileged and/or confidential. 40
+
+##### Foot Note 40
+
+×
+
+Deepak Mishra’s Affidavit dated 19 June 2023 (“Mishra’s Affidavit”) paras 18
+and 22.
+
+He further asserts that he “was never involved in [RBI]’s affairs and
+dealings, and was not an authorised representative of the [RBI] at any point
+of time [sic]”. 41
+
+##### Foot Note 41
+
+×
+
+Mishra’s Affidavit at para 19.
+
+I accept his evidence: see [38] above.
+
+48 Further, I do not accept Mrs Bothra’s assertion that she involved, among
+others, Mr Mishra for the purpose of taking legal advice for RBI. 42
+
+##### Foot Note 42
+
+×
+
+Rashmi’s Affidavit at para 14.
+
+This was a bare assertion, and she provided no details of how she in fact
+involved him if that was what she truly did.
+
+49 My view that Mrs Bothra’s assertion should be rejected is fortified by the
+picture that emerged during the oral hearing. Quoting RBI’s counsel, Mrs
+Bothra was “a housewife”. This explained her reliance on her husband. There
+was also evidence sufficient to conclude, at least provisionally at this stage
+of the matter, that RBI had been Mr Bothra’s investment vehicle and that any
+exercise of restructuring or reorganisation of assets was in fact being driven
+by Mr Bothra and not Mrs Bothra. Therefore, it was unlikely that she took the
+initiative to involve Mr Mishra for the purpose of taking legal advice for
+RBI, and accordingly I reject any argument that Mr Mishra received the top
+emails in confidence vis-à-vis RBI.
+
+50 Further, in relation to the First Email Chain, I accept that nothing was
+said expressly about keeping the emails privileged or confidential. While
+continued confidentiality may be implied from the circumstances without any
+express intimation of it, the circumstances in this case do not support it.
+Unlike the situation where the forwarded document is, for example, obviously
+legal advice on a specific and confidential matter, nothing in what was sent
+to Mr Mishra would have clearly suggested to him that privilege of RBI was in
+play. Most importantly, I accept that Mr Mishra was not involved in RBI’s
+affairs or dealings. Nor was Mr Mishra RBI’s authorised representative.
+Rather, the Email Chains were sent to and received by Mr Mishra in his
+personal capacity, in connection with Mr Bothra’s affairs generally, as
+opposed to RBI’s affairs. Even if Mr Bothra’s affairs included what he should
+do (in view of the claims made against him) with RBI or RBI’s assets, this
+should not be conflated with RBI’s affairs. In other words, the top email, and
+the other contents of the Email Chain, were not imparted to or received by Mr
+Mishra in circumstances that give rise to an obligation of confidentiality
+owed by him to RBI.
+
+51 In relation to the Second Email Chain, this finding is further supported by
+the fact that the top email, including the attachment thereto, was sent from
+Mr Bothra’s Kobian Email Address, an email address unrelated to RBI.
+Accordingly, the obligation of confidence owed to Mr Bothra cannot be relied
+on by RBI, nor indeed would it be a shield available to Mr Bothra vis-à-vis
+the Private Trustees’ investigation of his affairs.
+
+52 I stress that my views do not depend on any identification of RBI with Mr
+Bothra nor on any lifting of the corporate veil. Those would be questions for
+another day, if at all.
+
+53 Accordingly, I do not accept that Mr Mishra received the top emails in
+confidence vis-à-vis RBI. Any duty of confidence owed by Mr Mishra in relation
+to the top emails, if it arose at all, would be owed to Mr Bothra, as opposed
+to RBI.
+
+54 This application does not concern any duty of confidence owed to Mr Bothra,
+and as far as I am aware Mr Bothra has thus far not sought to object to the
+use of the documents by the Private Trustees in their investigations of his
+estate. At least prima facie, he would be unlikely to be able to do so
+successfully, given that they now stand in his shoes, where the matters said
+to be confidential to him precisely concern the Private Trustees’
+investigations of his affairs, as opposed to some other collateral matter.
+This proposition is in fact consistent with the decision of the English Court
+of Appeal in Shlosberg v Avonwick Holdings Ltd [2017] 2 WLR 1075 to the effect
+that a trustee in bankruptcy may take possession of records to which privilege
+attaches for the discharge of his duties in getting in, realising and
+distributing the bankrupt’s estate, except that he may not waive the
+bankrupt’s privilege in taking steps against third parties for the benefit of
+the bankrupt’s estate. Here, there is no issue of the Private Trustees taking
+steps against third parties, and indeed the general rule that the Private
+Trustees may take possession of privileged records for the discharge of their
+duties applies.
+
+55 There are two further points that were not fully argued before me. The
+first point is that the present use of the Email Chains is in a proceeding
+that does not involve RBI, and so RBI is not in a position to restrain the
+admission of the Email Chains into evidence. In my view, examining persons
+with knowledge of a bankrupt’s affairs is a proceeding that belongs in both
+form and substance within the bankruptcy proceeding. It is not a proceeding
+against RBI. Thus, at this point no question of admissibility in relation to
+RBI arises, and it could be said that this application was in any event
+premature. The second is whether RBI’s bringing this application might
+indicate that RBI is being used to stymie investigations into Mr Bothra’s
+affairs, investigations that the Private Trustees are duty-bound to make. This
+raises the question of “clean hands” in seeking equitable injunctive relief.
+However, as neither point was fully argued, I have not relied on them in
+dismissing the application.
+
+Conclusion
+
+56 To recap, I have assumed for this application that the emails as sent to
+O&B and the attachments to those emails could be subject to legal advice
+privilege in favour of RBI. However, when Mr Bothra forwarded them to Mr
+Mishra that communication was not privileged, nor did Mr Mishra receive such
+communication under any duty of confidentiality to RBI. These twin conclusions
+were broadly based on my view of the circumstances under which Mr Bothra
+communicated with Mr Mishra. In my view neither Mr Bothra nor Mr Mishra were
+authorised representatives of RBI in connection with the sending and receipt
+respectively of the top emails. Further, those top emails and their
+attachments concerned Mr Bothra’s affairs for which he desired Mr Mishra’s
+assistance.
+
+57 For these reasons, I dismiss RBI’s application in its entirety. Parties are
+to seek to agree costs within 14 days of the date of this judgment, failing
+which they are to file costs submissions limited to three pages each within
+seven days after that. I will then proceed to determine and fix costs.
+
+Philip Jeyaretnam  
+Judge of the High Court  
+---  
+  
+Vikram Nair, Foo Xian Fong, Liew Min Yi, Glenna and Ashwin Kumar Menon (Rajah
+& Tann Singapore LLP) for the claimant;
+
+Yeo Alexander Lawrence, Han Tiong, Ee Jia Min, and Tan Yen Jee (Allen &
+Gledhill LLP) for the first and second respondents;
+
+Chua Sui Tong and Abigail Tang En-Ping (Rev Law LLC) for the third respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 29 Sep 2023 (14:53 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

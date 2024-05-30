@@ -1,0 +1,4391 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 127
+
+Suit No 233 of 2020
+
+Between
+
+(1)| Hector Finance Group Limited  
+---|---  
+(2)| Huizhou Xinsheng Paper Industry Co. Limited  
+  
+… Plaintiffs
+
+And
+
+| Chan Chew Keak  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Companies — Directors — Duties]
+
+[Tort — Conspiracy]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Hector Finance Group Ltd and another
+
+  
+v
+
+  
+
+Chan Chew Keak
+
+[2023] SGHC 127
+
+General Division of the High Court — Suit No 233 of 2020  
+Vinodh Coomaraswamy J  
+12–15, 19–22, 26–29 July, 2–5 August, 28 November 2022
+
+26 May 2023 Judgment reserved.
+
+Vinodh Coomaraswamy J:
+
+Introduction
+
+1 In 2019, at a time when the defendant was a director of both plaintiffs, he
+caused the second plaintiff to enter into two loan agreements under which the
+second plaintiff advanced RMB 14m to a third party. The third party has
+refused to repay the advance 1
+
+##### Foot Note 1
+
+×
+
+Transcript, 27 July 2022 at p 120 lines 7–21.
+
+and is now uncontactable. 2
+
+##### Foot Note 2
+
+×
+
+Transcript, 26 July 2022 at p 32 lines 6–8; Transcript, 27 July 2022 at p 52
+line 20 to p 53 line 14.
+
+2 The plaintiffs’ primary case in this action is that the defendant caused the
+second plaintiff to enter into the loan agreements in breach of the duty of
+fidelity and the duty of diligence that he owed to each plaintiff. The
+plaintiffs’ alternative case is that the defendant did so as part of a
+conspiracy between him and the third party who received the advance.
+
+3 Having considered the evidence and the parties’ submissions, I accept that
+the defendant breached the duty of diligence that he owed to the second
+plaintiff by causing it to enter into the loan agreements. But I do not accept
+that the defendant breached the duty of fidelity that he owed to either
+plaintiff by doing so. I also do not accept that he did so as part of a
+conspiracy with the third party as the plaintiffs allege or at all.
+
+4 I now set out my reasons for reaching these conclusions.
+
+The parties
+
+The first plaintiff
+
+5 The first plaintiff is a company incorporated in the British Virgin Islands
+(“the BVI”) in May 2005. 3
+
+##### Foot Note 3
+
+×
+
+Statement of Claim (Amendment No. 2) dated 10 December 2021 (“SOC”) at para 1;
+Defence (Amendment No. 1) dated 17 February 2022 (“Defence”) at para 3; Chan
+Chew Keak’s affidavit of evidence in chief dated 7 February 2022 (“CCK AEIC”)
+at para 9.
+
+It was established to invest in corrugated paper box plants producing
+container packaging in the People’s Republic of China (“the PRC”) and
+Southeast Asia. 4
+
+##### Foot Note 4
+
+×
+
+CCK AEIC at para 9.
+
+The first plaintiff is now the ultimate holding company of a group of
+companies that produce and sell paper products and container packaging in the
+PRC and Southeast Asia (“the Group”). 5
+
+##### Foot Note 5
+
+×
+
+SOC at para 2; Defence at para 3.
+
+6 Over 70% of the shares in the first plaintiff are owned and controlled by
+four men: (a) the defendant; (b) Siong Beng Seng (“Mr Siong”); (c) Edward
+Ching Hui Huat (“Mr Ching”); and (d) Keith Tay Ah Kee (“Mr Tay”). 6
+
+##### Foot Note 6
+
+×
+
+SOC at para 12; CCK AEIC at para 10; Siong Beng Seng’s affidavit of evidence
+in chief dated 7 February 2022 (“SBS AEIC”) at para 7.
+
+7 The defendant has an interest in at least 20% of the shares in the first
+plaintiff. He holds this interest through a company incorporated in the BVI
+known as Caldicott Worldwide Ltd (“Caldicott”). Caldicott owns 40% of the
+shares in the first plaintiff. The defendant in turn owns 50% of the shares in
+Caldicott. 7
+
+##### Foot Note 7
+
+×
+
+SOC at para 7; Defence at para 5; CCK AEIC at para 10.
+
+I say that the defendant has an interest in at least 20% of the first
+plaintiff because there is some suggestion that he in fact owns all of the
+shares in Caldicott, not just 50% of those shares. 8
+
+##### Foot Note 8
+
+×
+
+SBS AEIC at paras 7(a) and 9; Ching Hui Huat (Edward)’s affidavit of evidence
+in chief dated 10 February 2022 (“CHH AEIC”) at paras 11–12 (1 BAEIC at p
+203–204); SBS AEIC at para 12 (1 BAEIC at p 12).
+
+If that is correct, the defendant has an interest in 40% of the shares in the
+first plaintiff. That would make the defendant the single largest shareholder
+of the first plaintiff and thereby of the Group.
+
+8 Mr Siong owns 23% of the shares in the first plaintiff. He is an engineer by
+training. He has worked in the packaging industry since 1981. In that time, he
+has worked in a variety of roles in three corporate groups, including the
+Group. For the majority of his career – from 1981 to 1992 and then again from
+2006 to 2019 – Mr Siong reported to the defendant either directly or
+indirectly. 9
+
+##### Foot Note 9
+
+×
+
+SBS AEIC at para 2.
+
+9 Mr Ching owns 16% of the shares in the first plaintiff. He holds a masters
+degree in business administration. He has worked in the packaging industry
+since 1995 in two corporate groups, including the Group. For the entirety of
+his career, at least until 2019, Mr Ching reported to the defendant. 10
+
+##### Foot Note 10
+
+×
+
+CHH AEIC at para 2.
+
+10 Mr Tay has an interest in 14% of the shares in the first plaintiff. He
+holds this interest through a company incorporated in Singapore known as
+Springfield Investments & Nominees Pte Ltd (“Springfield”). Springfield owns
+14% of the shares in the first plaintiff. Mr Tay is the beneficial owner of
+all of the shares in Springfield. 11
+
+##### Foot Note 11
+
+×
+
+CCK AEIC at para 10; Tay Ah Kee (Keith)’s affidavit of evidence in chief dated
+7 February 2022 (“TAKK AEIC”) at para 5.
+
+He is an accountant by training and was managing partner of the Singapore
+office of an international accounting practice from 1984 to 1993. He has also
+served as a director of several prominent public and private companies. His
+relationship to the first plaintiff and the Group, at least until 2020, was
+purely as an investor. He has no background in the packaging industry and has
+never reported to the defendant at any time or any capacity.
+
+11 Six minority shareholders own the remaining 7% or so of the shares in the
+first plaintiff. The identity and shareholding of these shareholders is not
+relevant to this action. 12
+
+##### Foot Note 12
+
+×
+
+SBS AEIC at para 7(c).
+
+But the existence of these minority shareholders does mean that the interests
+of the first plaintiff as a whole are not co-extensive with the interests of
+its four major shareholders.
+
+The second plaintiff
+
+12 The second plaintiff is a company incorporated in the PRC in August 2018.
+13
+
+##### Foot Note 13
+
+×
+
+CCK AEIC at para 61.
+
+It is a member of the Group. Its ultimate holding company is therefore the
+first plaintiff. 14
+
+##### Foot Note 14
+
+×
+
+Statement of Claim (Amendment No. 2) dated 10 December 2021 (“SOC”) at paras 3
+and 4; Defence (Amendment No. 1) dated 17 February 2022 (“Defence”) at para 3.
+
+13 There are two intermediate holding companies between the first plaintiff
+and the second plaintiff. 15
+
+##### Foot Note 15
+
+×
+
+SOC at para 4; Defence at para 3.
+
+A Hong Kong company, AMB Interpac Containers Guangdong Ltd (“AMBHK”), is a
+wholly owned subsidiary of the first plaintiff. A PRC company with almost the
+same name, AMB Interpac Containers (Guangdong) Ltd (“AMBDG”), is a wholly
+owned subsidiary of AMBHK. The second plaintiff is a wholly owned subsidiary
+of AMBDG.
+
+The defendant
+
+14 The defendant is a Singapore citizen and resident. 16
+
+##### Foot Note 16
+
+×
+
+SOC at para 5; Defence at para 3.
+
+He is an engineer by training. He also holds a masters degree in business
+administration. He has decades of experience in the packaging industry.
+
+Background to the dispute
+
+Management of the plaintiffs
+
+15 Mr Ching has been a director of the first plaintiff since it was
+incorporated in 2005. 17
+
+##### Foot Note 17
+
+×
+
+CHH AEIC at para 2.
+
+Mr Siong has been a director of the first plaintiff since 2010. 18
+
+##### Foot Note 18
+
+×
+
+SBS AEIC para 2; CCK AEIC at para 11(c).
+
+Mr Tay has been a director of the first plaintiff since 2018. 19
+
+##### Foot Note 19
+
+×
+
+Kenneth Chan Kwok Wei’s affidavit of evidence in chief dated 7 February 2022
+(“KC AEIC”) at para 7.
+
+The defendant was a director of the first plaintiff from 2018 until he was
+removed from that position in 2020. 20
+
+##### Foot Note 20
+
+×
+
+Defence at para 4; Reply (Amendment No. 1) dated 3 March 2022 at para 3; CCK
+AEIC para 222.
+
+16 The defendant was the sole legal representative and director of the second
+plaintiff from its incorporation in 2018 until he was removed from those
+positions in 2019. 21
+
+##### Foot Note 21
+
+×
+
+SOC at paras 6 and 10; Defence at para 4(a)(ii); CCK AEIC at paras 14 and 67.
+
+17 The defendant’s removal from his positions in both plaintiffs was the
+result of the broader dispute between the parties that led Caldicott to
+commence minority oppression proceedings against Mr Siong, Mr Ching,
+Springfield and the first plaintiff in the BVI in December 2019 22
+
+##### Foot Note 22
+
+×
+
+CCK AEIC at paras 217–224.
+
+and which also led to the plaintiffs commencing this action in March 2020.
+
+18 At all material times, Mr Siong and Mr Ching have been jointly responsible
+for the day-to-day management of the first plaintiff and of the Group. Mr Tay
+has never been involved in the day-to-day management of the first plaintiff or
+of the Group.
+
+19 The defendant played an anomalous role in the management of the first
+plaintiff and the Group. The role he played did not arise from any formal
+appointment. Instead, his role arose from the unique interpersonal working
+dynamic between the defendant on the one hand and Mr Siong and Mr Ching on the
+other.
+
+The interpersonal working dynamic
+
+20 It is clear from the evidence that, at all material times and at a very
+high level, the defendant exercised ultimate management control over the first
+plaintiff and the Group. This was the position from the outset, ie, from the
+time the first plaintiff was incorporated in 2005, and well before the
+defendant was appointed a director of the first plaintiff for the first time
+in June 2018. It stopped only when disputes arose between the first
+plaintiff’s four major shareholders in July 2019. The defendant was able to
+arrogate this role to himself, not through any appointment to any office or
+any right under any contract, but through the sheer force of his own
+personality combined with Mr Siong’s and Mr Ching’s deference and
+acquiescence.
+
+21 From the first plaintiff’s incorporation in 2005 until disputes arose
+between the four major shareholders in 2019, the defendant styled himself
+internally and held himself out externally as the Chairman of the first
+plaintiff and of the Group. 23
+
+##### Foot Note 23
+
+×
+
+SBS AEIC at para 12.
+
+He adopted this title even though the first plaintiff had never conferred it
+upon him and even when he was not a director of the first plaintiff.
+
+22 From 2005 until 2019, the defendant instructed and ordered Mr Siong and Mr
+Ching as to how to manage the business of first plaintiff and of the Group in
+terms of overall direction and strategy. 24
+
+##### Foot Note 24
+
+×
+
+SBS AEIC at para 10 (1 BAEIC p11).
+
+He felt entitled to take this approach because of his seniority (both in age
+and in experience in the packaging business), his working relationship with Mr
+Siong and Mr Ching as his subordinates in their previous employment, and
+because he considered himself, through Caldicott, to be the single largest
+shareholder in the first plaintiff. He even threatened to remove Mr Siong and
+Mr Ching as directors of the first plaintiff if they disobeyed his
+instructions and orders. 25
+
+##### Foot Note 25
+
+×
+
+SBS AEIC at paras 13–14, 17 and 146; CHH AEIC at paras 13–16, 30 and 116.
+
+23 Mr Siong and Mr Ching perceived the defendant’s conduct as domineering and
+oppressive. Despite this, they did not oppose him. They simply did his
+bidding. 26
+
+##### Foot Note 26
+
+×
+
+SBS AEIC at para 17 (1 BAEIC at p 14).
+
+They accepted and acquiesced in his exercise of ultimate management control
+without question. 27
+
+##### Foot Note 27
+
+×
+
+SBS AEIC at para 11 (1 BAEIC at p 12); CHH AEIC at paras 11–13 (1 BAEIC at p
+203–204).
+
+They did so out of deference to the defendant, out of a desire to avoid
+conflict with the defendant and out of a real fear that the defendant would
+persuade Mr Tay to vote together with him to remove them as directors of the
+first plaintiff. 28
+
+##### Foot Note 28
+
+×
+
+CHH AEIC at para 16 (1 BAEIC at p 205).
+
+A sheet board plant is proposed
+
+24 It was against the background of this interpersonal working dynamic that,
+in late 2017, the defendant told Mr Siong, Mr Ching and Mr Tay that the Group
+should invest in a new sheet board plant in the PRC. 29
+
+##### Foot Note 29
+
+×
+
+SOC at para 12; Defence at paras 9(b) and 10.
+
+An investment in a sheet board plant was a departure from the Group’s existing
+business, which was in box plants only. 30
+
+##### Foot Note 30
+
+×
+
+SBS AEIC at para 73; Transcript, 28 July 2022 at p 75 lines 17–19.
+
+It is common ground that there is a material difference between a box plant
+and a sheet board plant, between the business models of the two types of plant
+and between the management considerations involved in setting up and running
+both types of plant. 31
+
+##### Foot Note 31
+
+×
+
+Transcript, 12 July 2022 at p 20 line 7 to p 21 line 1; Transcript, 28 July
+2022 at p 63 lines 10–12; DCS at para 125.
+
+25 The investment in a sheet board plant was discussed at meetings held in
+February 2018 in Dongguan (“the February 2018 Meeting”) and April 2018 in
+Singapore (“the April 2018 Meeting”). 32
+
+##### Foot Note 32
+
+×
+
+Defence at paras 10(i) and 11(g).
+
+A key issue in contention between the parties is the nature and outcome of
+these meetings. In particular, it is hotly contested whether these meetings
+sufficed, both in fact and in law, to approve the steps that the defendant
+took to set up a sheet board plant.
+
+The defendant takes three steps to set up a sheet board plant
+
+26 The defendant took three such steps between August 2018 and January 2019.
+
+27 First, in August 2018, the defendant caused AMBDG to incorporate two wholly
+owned subsidiaries in the PRC: 33
+
+##### Foot Note 33
+
+×
+
+SOC at para 13; Defence at para 9.
+
+(a) the second plaintiff; and (b) a company known as Huizhou Shengjia Industry
+Co. Ltd (“Huizhou SJ”). The second plaintiff was to be the operating company
+for a sheet board plant. Huizhou SJ was to be the automation company for a
+sheet board plant.
+
+28 Second, in September 2018, the defendant caused AMBDG to purchase equipment
+for a sheet board plant. AMBDG thus entered into a contract with BHS
+Corrugated Machinery (Shanghai) Co. Ltd (“BHS”) to purchase a corrugator at a
+price of RMB 31m (“the BHS Contract”). 34
+
+##### Foot Note 34
+
+×
+
+SOC at para 15; Defence at para 14(a).
+
+Two weeks later, on 18 September 2018, AMBDG paid RMB 9.3m to BHS as a deposit
+for the corrugator. 35
+
+##### Foot Note 35
+
+×
+
+SOC at para 16; Defence at para 14(a).
+
+29 Third, in January 2019, the defendant caused AMBDG to transfer RMB 30m to
+the second plaintiff to be used to set up a sheet board plant. The defendant
+emailed Mr Siong and Mr Ching on 10 January 2019 (“the January 2019 Email”) 36
+
+##### Foot Note 36
+
+×
+
+SOC at para 17; Defence at para 18; 4CB 2563.
+
+to tell them that he had “more or less” identified land in Huizhou for a sheet
+board plant. To this end, he asked that AMBDG transfer RMB 30m to the second
+plaintiff for four purposes:
+
+(a) to repay AMBDG the sum of RMB 10m for the deposit it had paid to BHS for
+the corrugator;
+
+(b) to pay Huizhou SJ the sum of RMB 5m as a deposit for the purchase of
+automation equipment for the second plaintiff;
+
+(c) to pay the sum of RMB 10m as a deposit for the purchase of land in the
+district of Huizhou in the PRC; and
+
+(d) to leave the second plaintiff with the sum of RMB 5m for what the
+defendant characterised as “some minor expenses”.
+
+As a result of the January 2019 Email, AMBDG transferred RMB 30m to the second
+plaintiff in January 2019. 37
+
+##### Foot Note 37
+
+×
+
+SOC at para 18; Defence at para 19(a)(i).
+
+The defendant causes the second plaintiff to enter into the loan agreements
+
+30 In the first quarter of 2019, the defendant caused the second plaintiff to
+enter into the two loan agreements which are the subject matter of this
+action. 38
+
+##### Foot Note 38
+
+×
+
+SOC at para 24; Defence at para 23(a).
+
+Under the loan agreements, the second plaintiff transferred RMB 14m out of the
+RMB 30m which it had received from AMBDG in January 2019 to a third party, Li
+Yuanchang (“Mr Li”).
+
+31 The second plaintiff entered into the first loan agreement with Mr Li in
+January 2019. Under this agreement, the second plaintiff agreed to lend Mr Li
+the sum of RMB 10m for “land purchase at industrial park”. The loan was at an
+interest rate of 3% per annum over a two-year term, from January 2019 to
+January 2021. 39
+
+##### Foot Note 39
+
+×
+
+SOC at para 24(d); Defence at para 34.
+
+On the same day, the second plaintiff transferred the RMB 10m to Mr Li. 40
+
+##### Foot Note 40
+
+×
+
+SOC at para 24(e); Defence at para 36.
+
+32 The second plaintiff entered into the second loan agreement with Mr Li in
+March 2019. Under this agreement, the second plaintiff agreed to lend Mr Li
+the sum of RMB 4m, again for “land purchase at industrial park”. The loan was
+again at an interest rate of 3% per annum and again for a two-year term, this
+time from March 2019 to March 2021. 41
+
+##### Foot Note 41
+
+×
+
+SOC at para 24(f); Defence at para 37.
+
+On the same day, the second plaintiff transferred the RMB 4m to Mr Li. 42
+
+##### Foot Note 42
+
+×
+
+SOC at para 24(g); Defence at para 39.
+
+The first plaintiff votes not to proceed with any sheet board plant
+
+33 In July 2019, the first plaintiff’s directors resolved that the Group
+should not proceed with any investment in a sheet board plant. 43
+
+##### Foot Note 43
+
+×
+
+SBS AEIC at para 183; CCK AEIC at paras 159 and 167(k).
+
+The defendant voted against the resolution. In light of this resolution, the
+defendant asked Mr Li to repay the loans. Mr Li refused to do so. 44
+
+##### Foot Note 44
+
+×
+
+Transcript, 27 July 2022 at p 119 line 24 to p 120 line 21.
+
+34 In October 2019, Mr Li made two payments totalling RMB 150,000 against the
+interest payable under the two loan agreements. Apart from this sum of RMB
+150,000, Mr Li has not paid any part of the interest due on the loans, let
+alone any part of the principal. 45
+
+##### Foot Note 45
+
+×
+
+Lock Man Pan’s affidavit of evidence in chief dated 10 February 2022 (“PL
+AEIC”) at para 109 (1 BAEIC 323).
+
+The plaintiffs commence this action
+
+35 Between August 2019 and January 2020, the first plaintiff invited the
+defendant to make satisfactory proposals to resolve all outstanding matters
+between them. These matters included recovering the RMB 14m advanced to Mr Li.
+The defendant did not accept that he was liable in any way for this sum.
+
+36 In March 2020, the plaintiffs commenced this action.
+
+The parties’ cases
+
+The plaintiffs’ case
+
+37 In this action, the plaintiffs’ case is as follows.
+
+38 The defendant breached the fiduciary duty and the duty of diligence that he
+owed to the first plaintiff under BVI law 46
+
+##### Foot Note 46
+
+×
+
+SOC at para 8.
+
+when he:
+
+(a) failed to apply the RMB 30m that AMBDG transferred to the second plaintiff
+for the purposes set out in the January 2019 Email; 47
+
+##### Foot Note 47
+
+×
+
+PCS at para 249.
+
+and
+
+(b) caused the first plaintiff to take steps to set up a sheet board plant
+even though he did not have the necessary approval to do so. 48
+
+##### Foot Note 48
+
+×
+
+PCS at para 258.
+
+39 The defendant breached the duty of fidelity and the duty of diligence that
+he owed to the second plaintiff under PRC law 49
+
+##### Foot Note 49
+
+×
+
+SOC at para 11.
+
+when he caused the second plaintiff to enter into the loan agreements with Mr
+Li. 50
+
+##### Foot Note 50
+
+×
+
+SOC at para 30(a) and (b); Plaintiffs’ Closing Submissions dated 5 October
+2022 (“PCS”) at para 231.
+
+40 In the alternative, the defendant conspired with Mr Li to injure the
+plaintiffs by both unlawful and lawful means. First, the defendant and Mr Li
+conspired by unlawful means when they agreed that the defendant would cause
+the second plaintiff to enter into the loan agreement with Mr Li and transfer
+RMB 14m to Mr Li in breach of the defendant’s duties of fidelity and diligence
+owed to both plaintiffs. 51
+
+##### Foot Note 51
+
+×
+
+SOC at paras 32–35; PCS at paras 293–309.
+
+Second, they conspired by lawful means when they agreed that the defendant
+would cause the second plaintiff to enter into the loan agreements with Mr Li
+with the predominant purpose of causing injury to the second plaintiff. 52
+
+##### Foot Note 52
+
+×
+
+PCS at paras 310–313.
+
+41 The plaintiffs therefore seek the following relief against the defendant:
+53
+
+##### Foot Note 53
+
+×
+
+PCS at paras 275–277.
+
+(a) RMB 14m in damages;
+
+(b) an order that the defendant account for the RMB 14m and all profits he has
+made with that money;
+
+(c) RMB 1.26m being the interest due but unpaid under both loan agreements
+from the date of the loans up to 30 September 2022; and
+
+(d) RMB 5.77m being expenses incurred by AMBDG in investigating and mitigating
+the effects of the defendant’s breaches of duty.
+
+The defendant’s case
+
+42 The defendant’s case is as follows.
+
+43 The first plaintiff has no cause of action against the defendant for the
+relief it seeks in this action (see [41] above). The first plaintiff did not
+advance the RMB 14m to Mr Li. The second plaintiff did. The plaintiff
+accordingly has suffered no loss by reason of the loans proving irrecoverable.
+Only the second plaintiff has suffered this loss. 54
+
+##### Foot Note 54
+
+×
+
+Defendant’s Closing Submissions dated 5 October 2022 (“DCS”) at paras 24–42.
+
+So too, only the second plaintiff has a cause of action which can yield an
+account of alleged profits which the defendant derived from the RMB 14m. The
+first plaintiff has no cause of action against the defendant which can yield
+that relief.
+
+44 Further, both the first plaintiff and the second plaintiff have no cause of
+action to recover the RMB 5.77m in investigation expenses. Those expenses were
+incurred by AMBDG, not by either plaintiff. 55
+
+##### Foot Note 55
+
+×
+
+DCS at para 43.
+
+45 On the substance of the first plaintiff’s claims, the defendant did not
+breach his fiduciary duty to the first plaintiff. The defendant caused the
+second plaintiff to enter into the loan agreements only after Mr Siong, Mr
+Ching and Mr Tay had conducted themselves in such a way that the defendant was
+entitled to and did honestly believe that they had agreed to set up a sheet
+board plant and that that was in the first plaintiff’s best interest. 56
+
+##### Foot Note 56
+
+×
+
+DCS at paras 66–67 and 107.
+
+Further, Mr Siong and Mr Ching orally agreed with the defendant: (a) to engage
+Mr Li as the Group’s consultant to identify and acquire land in the PRC for a
+sheet board plant; 57
+
+##### Foot Note 57
+
+×
+
+DCS at para 200.
+
+and (b) to transfer money to Mr Li in advance, to ensure that he would be able
+to move quickly to acquire land for a sheet board plant once it had been
+identified. 58
+
+##### Foot Note 58
+
+×
+
+DCS at para 232.
+
+46 The defendant also did not breach the duty of diligence that he owed the
+first plaintiff under BVI law. Causing the second plaintiff to enter into the
+loan agreements with Mr Li was a course that was open to a reasonably
+competent director in the defendant’s circumstances. 59
+
+##### Foot Note 59
+
+×
+
+DCS at paras 262–268.
+
+47 On the substance of the second plaintiff’s claims, the defendant did not
+breach the duty of fidelity that he owed to the second plaintiff under PRC law
+because: (a) he did not misappropriate the RMB 14m; 60
+
+##### Foot Note 60
+
+×
+
+DCS at paras 275–288.
+
+and (b) he did not require consent to cause the second plaintiff to lend money
+to Mr Li. 61
+
+##### Foot Note 61
+
+×
+
+DCS at paras 289–302.
+
+48 The defendant also did not breach the duty of diligence that he owed the
+second plaintiff under PRC law. The plaintiffs have failed to show that a good
+administrator exercising reasonable care would not have caused the second
+plaintiff to enter into the loan agreements. 62
+
+##### Foot Note 62
+
+×
+
+DCS at para 311.
+
+49 Finally, the plaintiffs’ claim in conspiracy fails because: (a) there is no
+evidence that the defendant and Mr Li “combined” to use the loan agreements to
+misappropriate funds from the Group; 63
+
+##### Foot Note 63
+
+×
+
+DCS at paras 342–402.
+
+(b) there was nothing unlawful about the defendant causing the second
+plaintiff to enter into the loan agreements; 64
+
+##### Foot Note 64
+
+×
+
+DCS at para 403 and 312–331.
+
+(c) it was not the defendant’s purpose at all, let alone his predominant
+purpose, to injure either of the plaintiffs by causing the second plaintiff to
+enter into the loan agreements; 65
+
+##### Foot Note 65
+
+×
+
+DCS at paras 404–425.
+
+and (d) the first plaintiff, at least, has not in fact suffered any loss
+recognisable in law arising from the second plaintiff entering into the loan
+agreements. 66
+
+##### Foot Note 66
+
+×
+
+DCS at paras 426 and 24–34.
+
+Issues to be determined
+
+50 This summary of the parties’ cases gives rise to two principal issues.
+
+51 The first principal issue is whether the defendant breached the duties he
+owed as a director to either plaintiff. This principal issue raises three
+subsidiary issues:
+
+(a) Did the defendant breach his duty of fidelity to either plaintiff when he
+caused the second plaintiff to enter into the loan agreements?
+
+(b) Did the defendant breach his duty of diligence to either plaintiff when he
+caused the second plaintiff to enter into the loan agreements?
+
+(c) Did either plaintiff suffer loss in respect of any breach of duty found
+against the defendant?
+
+52 The second principal issue is whether the defendant conspired with Mr Li to
+injure one or both of the plaintiffs, whether by unlawful or lawful means.
+
+53 I take these two principal issues in turn.
+
+The first plaintiff’s claim for breach of duty
+
+54 I start by considering the first plaintiff’s claim against the defendant
+for breach of the fiduciary duty and the duty of diligence that he owed the
+first plaintiff under BVI law.
+
+55 I accept the defendant’s submission that the first plaintiff has no
+sustainable cause of action for breach of duty. This is because loss is an
+essential element of this cause of action. And the first plaintiff has not
+even alleged, let alone proven, that it suffered any loss as a result of the
+defendant’s alleged breach of either duty.
+
+Fiduciary duty
+
+56 I begin with an analysis of the fiduciary duty that the defendant owed the
+first plaintiff.
+
+The first plaintiff must prove loss
+
+57 For the first plaintiff to succeed in its claim for breach of fiduciary
+duty against the defendant, it must prove that it suffered loss by reason of
+the defendant’s alleged breach. That is because the first plaintiff’s claim
+arises from a non-custodial breach of fiduciary duty. A company who sues a
+director for a non-custodial breach of fiduciary duty must show that the
+breach caused the company loss: Sim Poh Ping v Winsta Holding Pte Ltd and
+another and other appeals [2020] 1 SLR 1199 (“Sim Poh Ping”) at [254(a)].
+
+58 A non-custodial breach of fiduciary duty is a breach of fiduciary duty that
+does not arise from the fiduciary’s stewardship of the assets subject to the
+fiduciary obligation. A custodial breach of fiduciary duty, on the other hand,
+does arise from the fiduciary’s stewardship of such assets and is the result
+of “the misapplication of the principal’s funds or trust funds” (Sim Poh Ping
+at [105]–[106]).
+
+59 The first plaintiff’s case against the defendant is for a non-custodial
+breach of fiduciary duty. The first plaintiff’s case is that the defendant
+breached the fiduciary duty that he owed to it when he (a) failed to apply the
+RMB 30m that AMBDG transferred to the second plaintiff for the purposes
+specified in the January 2019 Email; and (b) caused the first plaintiff to
+take steps to set up a sheet board plant without approval. 67
+
+##### Foot Note 67
+
+×
+
+PCS at paras 249 and 258.
+
+60 It is undisputed that the RMB 30m in question belonged to AMBDG and not to
+the first plaintiff. The first plaintiff’s claim against the defendant for
+breach of fiduciary duty does not therefore arise from the defendant’s
+stewardship of the first plaintiff’s assets. It arises from the defendant’s
+stewardship of AMBDG’s assets. The breach of fiduciary duty that the first
+plaintiff alleges against the defendant is therefore a non-custodial breach of
+the duty.
+
+61 In order to have a sustainable cause of action, therefore, the first
+plaintiff must plead and prove that it suffered loss.
+
+No allegation that the first plaintiff suffered loss
+
+62 Despite this, the first plaintiff has not even alleged that it suffered any
+loss as a result of the defendant’s alleged breach of the fiduciary duty that
+he owed to it, let alone proven any such loss.
+
+63 The first plaintiff does not make any such allegation in its pleadings. Its
+only plea is a general plea: “As a result of the Defendant’s breaches of
+duties…the Plaintiffs have suffered loss and damage.” 68
+
+##### Foot Note 68
+
+×
+
+SOC at para 37.
+
+This plea does not distinguish between the first plaintiff and the second
+plaintiff. And it does not provide particulars as to the nature or quantum of
+any loss or damage that the first plaintiff may have suffered.
+
+64 The first plaintiff does not make any such allegation in its prayer for
+relief. The prayer does not seek any relief for the alleged breaches of the
+fiduciary duty that the defendant owed to the first plaintiff. The first
+paragraph of the prayer simply asks for damages to be assessed for the
+defendant’s breaches of fiduciary duty, again without distinguishing between
+the first plaintiff and the second plaintiff and without particularising the
+damage. 69
+
+##### Foot Note 69
+
+×
+
+SOC at p 21.
+
+The remaining paragraphs of the prayer, in so far as they seek relief for
+breach of duty, are all directed specifically and only to relief sought by the
+second plaintiff.
+
+65 The first plaintiff does not make any such allegation even in its closing
+submissions. There is no mention in the plaintiffs’ closing submissions of any
+loss that the first plaintiff suffered by reason of this alleged breach of
+fiduciary duty. The only position that the plaintiffs take in the closing
+submissions is that the second plaintiff suffered loss and that the defendant
+should be ordered to pay damages to the second plaintiff. 70
+
+##### Foot Note 70
+
+×
+
+PCS at paras 272–276.
+
+The first plaintiff cannot claim AMBDG’s loss as reflective loss
+
+66 The first plaintiff does not even allege that it suffered loss in the form
+of a diminution in the value of its shareholding in AMBHK to complete its
+cause of action. Even if it did so, treating that as the necessary loss would
+be contrary to the reflective loss principle.
+
+67 The reflective loss principle characterises a loss arising from a wrong
+done to a company as a loss suffered only by the company and not by the
+holders of shares in the company (Miao Weiguo v Tendcare Medical Group
+Holdings Pte Ltd (formerly known as Tian Jian Hua Xia Medical Group Holdings
+Pte Ltd) (in judicial management) and another [2022] 1 SLR 884 (“Miao Weiguo”)
+at [200]). The law does not treat the company’s shareholders as having
+suffered a loss even though a wrong causing loss to a company inevitably
+diminishes the value of the shares in the company. As the Court of Appeal said
+in Miao Weiguo (at [201]):
+
+… when a wrong is done to the company which causes the company loss, even when
+the result is a diminution in the value of the shares or a reduction in
+distributions, this is not ultimately a loss that the law recognises as being
+suffered by the shareholder personally. It is the company’s loss, and the
+company is the proper plaintiff to pursue the claim …
+
+[emphasis in original]
+
+AMBDG’s loss is not the first plaintiff’s loss
+
+68 There is also no basis for the first plaintiff to characterise AMBDG’s loss
+as its own loss in order to complete its cause of action. In Goh Chan Peng and
+others v Beyonics Technology Ltd and another and another appeal [2017] 2 SLR
+592, the Court of Appeal held that the holding company of a group of companies
+cannot recover loss suffered by a subsidiary simply on the basis that, as the
+group’s holding company, it was in a position to direct and control how its
+subsidiaries apply cash and profits (at [70]). A subsidiary’s loss in fact
+cannot be transformed into its parent’s loss in law, even if consolidated
+accounts are prepared for the group as a whole. A group of companies may
+function as a single economic unit. But each company in the group nevertheless
+remains a legal person separate from the other companies in the group just as
+much as it remains a legal person separate from a company that is not a member
+of the group (at [71]). To adopt the concept of a group as a single economic
+entity in order to transform a subsidiary’s loss into the parent’s loss would
+be contrary to both principle and authority (at [75]).
+
+69 In the absence of a plea and proof of loss, the first plaintiff’s cause of
+action against the defendant for breach of fiduciary duty is incomplete. It
+must therefore be dismissed.
+
+Duty of diligence
+
+70 The same analysis dictates the same result for the first plaintiff’s claim
+against the defendant for breach of his duty of diligence. Loss is equally
+necessary for a cause of action for breach of this duty. Equally, there is no
+allegation, let alone proof, that the first plaintiff suffered any loss by
+reason of any alleged breach of this duty.
+
+71 In the absence of a plea and proof of loss, the first plaintiff’s cause of
+action against the defendant for breach of the duty of diligence is equally
+incomplete. It must therefore also be dismissed.
+
+The second plaintiff’s claim for breach of duty
+
+72 I next consider the second plaintiff’s claim against the defendant for
+breach of the fiduciary duty and the duty of diligence that he owed the second
+plaintiff under PRC law.
+
+73 It is common ground that the defendant owed both a duty of fidelity and a
+duty of diligence to the second plaintiff under PRC law. He owed these duties
+under Article 147 of the Company Law of the People’s Republic of China (Order
+No.15 of the President of the People's Republic of China promulgated and
+effective on 26 October 2018) (“the PRC Company Law”): 71
+
+##### Foot Note 71
+
+×
+
+Mr Liu Yiwu’s (“Mr Liu”) 1st Expert Report at para 27 (6 BAEIC 3677).
+
+Article 147 The directors, supervisors and senior management personnel of a
+company shall abide by laws, administrative regulations and the company's
+articles of association. They shall be faithful and diligent to the company.
+
+74 I begin my analysis with the duty of fidelity.
+
+Duty of fidelity
+
+75 Article 148 of the PRC Company Law elaborates on the general duty of
+fidelity imposed by Article 147 by setting out a specific list of acts which
+the duty of fidelity prohibits:
+
+Article 148 A director or senior management person of a company is prohibited
+from any of the following acts:
+
+(a) Misappropriating the funds of the company;
+
+(b) Opening an account in his/her own name or the name of any other individual
+to deposit the funds of the company;
+
+(c) Without the consent of the shareholders' meeting, the general meeting or
+the board of directors, loaning the funds of the company to others or using
+the company's property to provide guarantee for others in violation of the
+company's articles of association;
+
+(d) Concluding contracts or making deals with the company in violation of the
+company's articles of association or without the consent of the shareholders'
+meeting or the general meeting;
+
+(e) Without the consent of the shareholders' meeting or the general meeting,
+seeking, for the benefit of his/her own or others, any business opportunity
+that belongs to the company by taking advantage of his/her powers, and
+operating for his/her own or for others any business that is of the same type
+with that of the company that he/she serves;
+
+(f) Accepting, and keeping in his/her possession, commissions for the
+transactions between others and the company;
+
+(g) Disclosing the company's secrets without authorization; or
+
+(h) Committing other acts in violation of his/her obligation of loyalty to the
+company.
+
+The income gained by the director or senior management person from any of the
+acts listed in the preceding Paragraph shall belong to the company.
+
+76 A breach of Article 148 yields for the company both a gain-based remedy and
+a loss-based remedy. The gain-based remedy is found in the concluding sentence
+of Article 148. That sentence renders a director who breaches Article 148
+liable to account to the company for any income he has derived as a result of
+the breach. The loss-based remedy is found in Article 149 of the PRC Company
+Law:
+
+Article 149 Where any director, supervisor or senior management person of a
+company violates laws, administrative regulations or the company's articles of
+association during the performance of duties, he/she shall be liable for
+compensation if any loss is caused to the company.
+
+77 The second plaintiff’s case is that the defendant breached three specific
+prohibitions in Article 148 of the PRC Company Law:
+
+(a) Article 148(a), which prohibits a director from misappropriating the
+company’s funds;
+
+(b) Article 148(c), which prohibits a director from lending the company’s
+funds to others without the consent of the company’s shareholders or
+directors; and
+
+(c) Article 148(h), which is a catch-all provision prohibiting a director from
+performing any other act which is contrary to his obligation of loyalty to the
+company.
+
+78 The second plaintiff also relies on the duty prescribed by Articles 36 and
+38 of the second plaintiff’s articles of association. But these two articles
+simply track the language of Article 148 of the PRC Company Law. Both parties’
+PRC law experts therefore agree that these two articles are coextensive with
+Article 148 of the PRC Company Law itself. 72
+
+##### Foot Note 72
+
+×
+
+Mr Liu’s 1st Expert Report at paras 69 and 70 (6 BAEIC 3687); Dr Zhang
+Guanglei’s (“Dr Zhang”) 1st Expert Report at para 19 (2 BAEIC 927).
+
+Articles 36 and 38 of the second plaintiff’s articles of association therefore
+add nothing of substance to the second plaintiff’s case against the defendant
+for breach of his duty of fidelity. I need not and do not analyse separately
+the second plaintiff’s claims under these two articles.
+
+79 I now analyse in turn the three prohibitions in Article 148 of the PRC
+Company Law on which the plaintiff relies.
+
+Article 148(a) of the PRC Company Law
+
+80 I begin with the plaintiffs’ case against the defendant under Article
+148(a) of the PRC Company Law.
+
+(1) The defendant’s expert evidence
+
+81 The defendant’s expert is Mr Liu Yiwu (“Mr Liu”). Mr Liu is a partner in
+the Beijing office of the law firm King & Wood Mallesons. 73
+
+##### Foot Note 73
+
+×
+
+Mr Liu’s 1st Expert Report at para 1 (6 BAEIC 3672).
+
+82 Mr Liu’s opinion sets out an exegesis in two limbs on the scope of a
+director’s duty under Article 148(a). According to him, a director
+misappropriates the company’s funds if:
+
+(a) the director takes advantage of his powers to operate the company by
+“misappropriating the company’s funds”; and
+
+(b) he does so for his own personal interests or for the interests of an
+“interested party” and not for the benefit of the company. 74
+
+##### Foot Note 74
+
+×
+
+Mr Liu’s 1st Expert Report at paras 58–59 (6 BAEIC 3685).
+
+According to Mr Liu, therefore, the second limb requires that the director
+exercise his powers both for his own personal interest or those of an
+“interested party” and for a purpose that is not for the benefit of the
+company.
+
+83 The use of the word “misappropriation” in the first limb appears to make Mr
+Liu’s exegesis circular. He is attempting to explain a statutory provision
+which turns on the concept of misappropriation by using the concept of
+misappropriation itself. The meaning of Mr Liu’s exegesis is nevertheless
+clear. I read the first limb of the exegesis as setting out what amounts to an
+appropriation of the company’s funds by a director, whereas the second limb
+sets out the factors which Mr Liu says turn the director’s appropriation of
+those funds into a misappropriation of those funds contrary to the prohibition
+in Article 148(a).
+
+84 Mr Liu also expresses the opinion that, in considering whether an
+appropriation by a director amounts to a misappropriation, a PRC court will
+consider as relevant factors both whether the appropriation of the funds has
+“a corresponding contractual, business basis or other purposes in line with
+common commercial sense”, as well as the nature and closeness of the
+relationship between the director and the transferee of the funds. 75
+
+##### Foot Note 75
+
+×
+
+Mr Liu’s 1st Expert Report at paras 60–61 (6 BAEIC 3685).
+
+As support for this, Mr Liu cites Interpretation of PRC Company Law and Report
+on Trial Experience and Methods of Adjudication in Similar Cases
+(“Interpretation of PRC Company Law”).
+
+85 The second of these two relevant factors brings into play the concept of an
+“interested party” which appears in the second limb of Mr Liu’s exegesis (see
+[82(b)] above). The term “interested party” is not defined either in the PRC
+Company Law or in Interpretation of PRC Company Law. 76
+
+##### Foot Note 76
+
+×
+
+Mr Liu’s 1st Expert Report at para 62 (6 BAEIC 3685).
+
+But Mr Liu cites another document, Research on Issues Concerning Disputes over
+Liability for Damage to Corporate Interests issued by the Shanghai No. 1
+Intermediate People’s Court (“Damage to Corporate Interests”). 77
+
+##### Foot Note 77
+
+×
+
+Mr Liu’s 1st Expert Report at para 62 (6 BAEIC 3685).
+
+This document asserts that in “trial practice”, the following categories of
+persons may be considered to be “interested parties”: (a) the spouse,
+relatives and friends of the director and other persons who have a close
+relationship to the director; (b) the partners and agents of persons in the
+first category; and (c) other companies or organisations in which the director
+or the company’s senior management also hold positions.
+
+(2) The plaintiffs’ expert evidence
+
+86 The plaintiffs’ expert is Dr Zhang Guanglei (“Dr Zhang”). Dr Zhang is a
+partner in the Beijing office of the law firm Jingtian & Gongchen. There are
+only two material points of difference between Dr Zhang’s opinion and Mr Liu’s
+opinion on the scope of Article 148(a).
+
+87 First, Dr Zhang says that Mr Liu is wrong to try to constrain the
+unconstrained words of Article 148(a) by reference either to Interpretation of
+PRC Company Law or to Damage to Corporate Interests. 78
+
+##### Foot Note 78
+
+×
+
+Dr Zhang’s 2nd Expert Report at paras 9 to 10 (2 BAEIC 1054).
+
+These two documents, Dr Zhang says, are not sources of PRC law and are
+therefore not enforceable as law in the PRC. 79
+
+##### Foot Note 79
+
+×
+
+Dr Zhang’s 2nd Expert Report at paras 8 and 14 (2 BAEIC 1054–1055).
+
+At most they are merely non-exhaustive illustrations, and are therefore not
+capable under PRC law of constraining the statutory text. 80
+
+##### Foot Note 80
+
+×
+
+Dr Zhang’s 2nd Expert Report at para 10 (2 BAEIC 1054).
+
+88 Second, Dr Zhang says that Mr Liu has mistranslated the provision of
+Interpretation of PRC Company Law on which he relies for the second limb of
+his exegesis (see [82(b)] above). 81
+
+##### Foot Note 81
+
+×
+
+Dr Zhang’s 2nd Expert Report at para 11 (2 BAEIC 1054).
+
+According to Dr Zhang, a director misappropriates the company’s funds if:
+
+(a) he appropriates (cf [83] above) the company’s funds; and
+
+(b) he does so either: (i) for his own personal interests or for those of an
+“interested party; or (ii) not for the benefit of the company. 82
+
+##### Foot Note 82
+
+×
+
+Dr Zhang’s 2nd Expert Report at paras 11–12 (2 BAEIC 1054); Plaintiff’s Reply
+Closing Submissions dated 16 November 2022 (“PRS”) at para 100.
+
+(3) Reconciling the expert opinions
+
+89 It appears to me that the first material point of difference between Mr Liu
+and Dr Zhang’s opinions on the scope of Article 148(a) is more apparent than
+real. I accept that Dr Zhang is correct when he says that the deliberately
+unconstrained language of Article 148(a) cannot as a matter of law be
+constrained either by non-statutory texts such as Interpretation of PRC
+Company Law or by Damage to Corporate Interests. But I do not read Mr Liu’s
+opinion as suggesting that it should be. Mr Liu is simply using these non-
+statutory texts to predict how a PRC court is likely to interpret and apply
+Article 148(a) rather than to suggest that these texts prescribe how a PRC
+court must interpret and apply Article 148(a).
+
+90 As for the second material point of difference, I do not consider it
+necessary to reconcile the experts’ differing opinions. Even if I were to take
+the second plaintiff’s case at its highest and adopt Dr Zhang’s disjunctive
+test (see [88(b)] above) instead of Mr Liu’s conjunctive test (see [82(b)]
+above), it is my view that the second plaintiff has failed to establish both
+elements of Dr Zhang’s disjunctive test.
+
+91 I have arrived at that conclusion for the following reasons.
+
+(4) The loan agreements were for the second plaintiff’s benefit
+
+92 The second plaintiff characterises the loan agreements as a “sham”. But the
+second plaintiff does not use the word “sham” in the legal sense. A document
+is a sham contract in the legal sense if it appears on its face to be a
+contract creating legal rights and obligations but was executed only to give
+the appearance of doing so and with no actual intention whatsoever of creating
+any legal rights or obligations. A sham contract in this sense is not a
+contract at all and is unenforceable as a contract given the absence of any
+intention to create legal relations. (see Toh Eng Tiah v Jiang Angelina and
+another appeal [2021] 1 SLR 1176 at [73]–[76]).
+
+93 What the second plaintiff means by characterising the loan agreements as a
+“sham” is merely that the agreements are not what they purport to be on their
+face. They purport to be agreements by the second plaintiff to lend money to
+Mr Li to enable him to identify and acquire land on the second plaintiff’s
+behalf for a sheet board plant. But, the second plaintiff says, the agreements
+are in truth merely a pretence for the defendant and Mr Li to conceal their
+illegitimate arrangement to siphon money out of the Group and into Mr Li’s
+hands, contrary to the interests of the second plaintiff. 83
+
+##### Foot Note 83
+
+×
+
+PCS at paras 143 and 286; PRS at para 75; Transcript, 28 November 2022 at p 16
+lines 14–28; p 18 lines 20–28; p 21 lines 1–2.
+
+94 On the second plaintiff’s case, therefore, the two loan agreements are a
+sham because they in truth have nothing to do with identifying or acquiring
+land for a sheet board plant. The loan agreements would, of course, be a sham
+in the legal sense if both parties intended that Mr Li should never repay the
+RMB 14m to the second plaintiff. But, in the sense which the second plaintiff
+uses the word, the loan agreements would equally be a sham if both parties
+entered into them fully intending that Mr Li should be contractually obliged
+to repay the RMB 14m to the second plaintiff but for a purpose unconnected to
+identifying or acquiring land for a sheet board plant. The critical factor
+making it a sham, according to the second plaintiff, is that the stated
+purpose for the loans is not the true purpose for the loans.
+
+95 The defendant’s case is that the loan agreements are not a sham and were
+indeed entered into for the second plaintiff’s benefit. The purpose stated for
+the loans in the loan agreements was its actual purpose: for Mr Li to assist
+the second plaintiff in identifying and acquiring land on the second
+plaintiff’s behalf for a sheet board plant. The purpose of the first loan
+agreement in January 2019 (see [31] above) was, once land had been identified,
+to enable Mr Li to pay a vendor a deposit, thereby securing the right to
+negotiate to acquire the land. 84
+
+##### Foot Note 84
+
+×
+
+CCK AEIC at para 131 (1 BAEIC 394).
+
+The purpose of the second loan agreement in March 2019 (see [32] above) was to
+allow Mr Li to pay a vendor the costs of applying to secure the necessary
+zoning rights to allow the second plaintiff to use the land for a sheet board
+plant. 85
+
+##### Foot Note 85
+
+×
+
+CCK AEIC at para 136 (1 BAEIC 397).
+
+Further, the loan agreements protected the second plaintiff in that two
+consequences would ensue if Mr Li did not use the money for the purpose for
+which it was advanced. First, the second plaintiff would have documentary
+evidence of the purpose of the advance. Second, Mr Li would be under a legal
+obligation to repay the advance, together with interest. 86
+
+##### Foot Note 86
+
+×
+
+CCK AEIC at paras 131 and 136 (1 BAEIC 394–395 and 397).
+
+96 I accept the defendant’s submission that the true purpose of the loan
+agreements was its stated purpose: for Mr Li to assist the second plaintiff to
+identify and acquire land in the PRC for a sheet board plant. It follows that
+I do not accept the second plaintiff’s submission that the loan agreements
+were a sham, in the sense that the second plaintiff uses that word. I
+therefore accept that the defendant caused the second plaintiff to enter into
+the loan agreements for the second plaintiff’s benefit for the purposes of the
+second limb of Mr Liu’s exegesis. I say that for three reasons.
+
+97 First, the purpose of entering into the loan agreements is clear on their
+face. The loan agreements state expressly that the purpose of entering into
+both agreements is “[l]and purchase at industrial park”. 87
+
+##### Foot Note 87
+
+×
+
+4CB 2653 and 2829.
+
+Those words are not, of course, conclusive as to the true purpose of entering
+into the loan agreements. But, taken together with the defendant’s oral
+evidence, they do set the starting point in the inquiry. It is the second
+plaintiff’s burden to prove that the loan agreements are not what they purport
+to be on their face.
+
+98 Second, the circumstances in which the defendant caused the second
+plaintiff to enter into the loan agreements lead me to accept that the stated
+purpose in both loan agreements was indeed the true purpose for entering into
+them. By that time, ie, the first quarter of 2019, the defendant had raised an
+investment in a sheet board plant for discussion multiple times. The first
+mention of a sheet board plant is on 5 December 2017, when the defendant
+suggested setting one up to Mr Siong and Mr Ching. He made the suggestion in
+order to address Mr Tay’s concern that the Group’s business was stagnating. 88
+
+##### Foot Note 88
+
+×
+
+CCK AEIC at para 18; 1CB 113–115.
+
+The defendant expressed the view that a sheet board plant was more efficient
+than a box plant in terms of producing sheet board and that most investors in
+the PRC prefer to build sheet board plants instead of box plants. 89
+
+##### Foot Note 89
+
+×
+
+CCK AEIC at para 18.
+
+The defendant asked Mr Ching to arrange for him to visit the top five sheet
+board plants in Dongguan. 90
+
+##### Foot Note 90
+
+×
+
+CCK AEIC at para 19.
+
+Mr Ching agreed. 91
+
+##### Foot Note 91
+
+×
+
+1CB 116.
+
+99 Following that, the defendant raised setting up a sheet board plant again
+at meetings on 13 December 2017, 92
+
+##### Foot Note 92
+
+×
+
+Transcript, 12 July 2022 at p 30 lines 11–15; CCK AEIC at para 21; DCS at para
+81.
+
+February 2018 93
+
+##### Foot Note 93
+
+×
+
+CCK AEIC at para 29; Transcript, 12 July 2022 at p 58 lines 21–24, p 62 lines
+10–19, p 63 lines 13–15.
+
+and April 2018. 94
+
+##### Foot Note 94
+
+×
+
+SBS AEIC at paras 35 and 84.
+
+100 At the meeting on 13 December 2017, the defendant presented to Mr Siong
+and Mr Ching his preliminary analysis showing that a sheet board plant has
+better returns than a box plant. 95
+
+##### Foot Note 95
+
+×
+
+CCK AEIC at para 21; 1CB 119–122; Transcript, 12 July 2022 at p 27 lines 2–10.
+
+Two weeks later, on 27 December 2017, the defendant sent an email to Mr Siong
+saying that he “honestly” felt that the Group should “start a sheet plant” to
+improve corrugator efficiency and that “[r]unning a sheet plant is the most
+efficient way of producing sheet board”. 96
+
+##### Foot Note 96
+
+×
+
+1AB 356–357.
+
+101 In February 2018, the defendant, Mr Siong and Mr Ching met in Dongguan.
+The defendant proposed setting up a sheet board plant at this meeting, saying
+that the first plaintiff needed to do so in order to grow. 97
+
+##### Foot Note 97
+
+×
+
+1CB 295; Transcript, 12 July 2022 at p 58 lines 21–24, p 63 lines 16–25.
+
+Following the meeting, the defendant circulated the minutes (“the February
+2018 Minutes”) to Mr Siong, Mr Ching and Mr Tay. The minutes record the
+defendant’s proposal. All three recipients replied to acknowledge receipt of
+the minutes without objection to the Proposal. Mr Tay, in particular, replied
+that the plan was “well written” and looked “clear enough for execution”. 98
+
+##### Foot Note 98
+
+×
+
+1CB 297.
+
+102 I deal with the April 2018 meeting below.
+
+103 Third, I accept the defendant’s submission that, by the time he caused the
+second plaintiff to enter into the loan agreements, the first plaintiff had
+taken two other steps on the defendant’s instructions to advance the
+investment in a sheet board plant: (a) by seeking quotations for a new
+corrugator between December 2017 and May 2018; 99
+
+##### Foot Note 99
+
+×
+
+DCS at paras 119 and 126; PCS at para 91.
+
+and (b) by exploring internal and external options for raising finance for the
+new sheet board plant in the first half of 2018. 100
+
+##### Foot Note 100
+
+×
+
+DCS at paras 134–135; PCS at para 49.
+
+For the reasons which follow, I do not accept the first plaintiffs’ submission
+that it took these steps in connection with a new box plant.
+
+104 The evidence shows that Mr Siong followed the defendant’s instructions and
+sought quotations for a new corrugator between December 2017 and May 2018 from
+three sources: (a) BHS; (b) a Japanese vendor; and (c) a US vendor. Mr Siong’s
+evidence is that he sought these quotations for the Group’s existing box plant
+business and not for a sheet board plant. But Mr Siong gave different
+explanations as to where the new corrugator was to be installed. In his
+affidavit of evidence in chief, he claimed that he sought the quotations to
+upgrade the corrugators at the Group’s existing box plant in Singapore. 101
+
+##### Foot Note 101
+
+×
+
+SBS AEIC at paras 121–126.
+
+But in an email that he sent to a Japanese vendor of corrugators in December
+2017, he said that the Group intended to install the new corrugator “in our
+China plant next year”. When asked to explain this discrepancy in cross-
+examination, Mr Siong claimed that the Group was looking for a new corrugator
+for both the existing box plant in Singapore and “concurrently” for a new box
+plant in Dongguan. 102
+
+##### Foot Note 102
+
+×
+
+Transcript, 12 July 2022 at p 24 lines 15–19; Transcript, 12 July 2022 at p 44
+lines 19–22.
+
+105 This claim is not pleaded and is not supported by the contemporaneous
+evidence. The email correspondence in December 2017 and the minutes of two
+meetings, one in December 2017 and another in February 2018, show that the
+parties were considering and discussing only a new sheet board plant in the
+PRC.
+
+106 As regards the financing that Mr Siong explored in the first half of 2018,
+there is in evidence an email that he sent to the Group’s finance executives
+in February 2018. In this email, he told them that the Group was “going to
+make big investments in China on new plants” in order to position the Group
+for an initial public offering of its shares. As a result, the Group would
+need to raise bank financing. He therefore instructed them in this email to
+explore the terms of such financing with four or five banks. The question is
+what type of plant Mr Siong was referring to in this email.
+
+107 Mr Siong’s evidence is that his reference in this email to “big
+investments in China on new plants” was merely a reference to the Group’s
+general strategy for expansion which was then focused only on “acquiring or
+building more of the same box plants that the Hector group was already
+operating and managing in the PRC” 103
+
+##### Foot Note 103
+
+×
+
+SBS AEIC at para 73.
+
+and not for a sheet board plant. 104
+
+##### Foot Note 104
+
+×
+
+Transcript, 12 July 2022 at p 91 lines 2–5.
+
+He goes on to say that he was seeking this financing to supplement the Group’s
+working capital generally. 105
+
+##### Foot Note 105
+
+×
+
+SBS AEIC at paras 74 and 78; CHH AEIC at para 60.
+
+108 I do not accept Mr Siong’s evidence. I accept instead the defendant’s
+evidence that he instructed Mr Siong to explore bank financing in the first
+half of 2018 for a new sheet board plant in the PRC. There is no
+contemporaneous evidence that the first plaintiff was, at that time,
+considering upgrading an existing box plant in Singapore or setting up a new
+box plant anywhere, whether in Singapore or in the PRC. Further, no such case
+pleaded. Quite the opposite: all of the contemporaneous evidence shows that
+the only new plant that was being discussed in 2018 and even in 2019 was a new
+sheet board plant that the defendant had proposed setting up in the PRC. The
+evidence also shows that Mr Siong and Mr Ching accepted, or at the very least
+acquiesced in, the defendant’s proposal.
+
+109 Having regard to the totality of the evidence, I accept on the balance of
+probabilities that entering into the loan agreements was one more of the
+several steps which the second plaintiff took in 2018 and 2019 to set up a new
+sheet board plant in the PRC. I accept also that a sheet board plant was for
+the second plaintiff’s benefit.
+
+110 I therefore find that the defendant caused the second plaintiff to enter
+into the loan agreements for the benefit of the second plaintiff for the
+purposes of Article 148(a). That finding suffices in itself to defeat the
+plaintiff’s claim under Article 148(a).
+
+(5) Failure to prove benefit to an interested party
+
+111 I find also that the second plaintiff has failed to discharge its burden
+of proving that the defendant caused the second plaintiff to enter into the
+loan agreements for a purpose connected to the personal interests of the
+defendant or of an “interested party”. 106
+
+##### Foot Note 106
+
+×
+
+DCS at para 287.
+
+The plaintiffs accept that they have no evidence that the defendant himself
+derived a personal benefit from the RMB 14m or any part of it. But they point
+to the undisputed fact that Mr Li received the RMB 14m and rely on
+circumstantial evidence to submit that Mr Li is an “interested party” as
+against the defendant. I must therefore analyse the circumstantial evidence on
+which the plaintiffs rely for this submission.
+
+112 The second plaintiff’s case is that Mr Li is a close associate of the
+defendant and also of one Luo Shanmei (“Ms Luo”). Both Mr Li and Ms Luo are
+shareholders in China Huaxia International Holdings Ltd (“China HX”), a
+company incorporated in Hong Kong. The plaintiffs assert that Mr Li and Ms Luo
+often act in the defendant’s business affairs as his nominees or at his
+direction. 107
+
+##### Foot Note 107
+
+×
+
+SOC at para 24(c).
+
+It is also the plaintiff’s case that Ms Luo is in an intimate personal
+relationship with the defendant. 108
+
+##### Foot Note 108
+
+×
+
+SOC at para 24(b); SBS AEIC at paras 19 to 20.
+
+113 In response, the defendant’s case is that he engaged Mr Li as a consultant
+to identify and acquire land for the second plaintiff to set up a sheet board
+plant and to negotiate for the land on the second plaintiff’s behalf with
+local authorities. The defendant further asserts that Mr Siong and Mr Ching
+agreed orally that the defendant could cause the second plaintiff to engage Mr
+Li for this purpose. 109
+
+##### Foot Note 109
+
+×
+
+CCK AEIC at paras 79 and 81; DCS at para 65.
+
+(A) The defendant’s relationship with Mr Li
+
+114 I am unable to find, on the evidence before me, that Mr Li is an
+“interested party” as against the defendant for the purposes of Article
+148(a). The objective and contemporaneous evidence is more consistent with the
+defendant’s evidence that he engaged Mr Li to assist the second plaintiff to
+identify and acquire land for a sheet board plant. I rely on the following
+evidence for this finding.
+
+115 A legal opinion on the acquisition of land in the PRC issued to AMBDG by
+its lawyers, Guangdong Songfang Law Firm (“GSLF”), in June 2018 records that
+GSLF had assigned a lawyer to accompany, among other members of AMBDG’s staff,
+“Land Consultant, Li Changyuan”. 110
+
+##### Foot Note 110
+
+×
+
+2 CB 1335.
+
+I accept the defendant’s submission that “Li Changyuan” is a typographical
+error and is a reference to Mr Li. Mr Siong, as a director of AMBDG,
+instructed GSLF to produce this opinion. Mr Siong and Mr Ching, as directors
+of AMBDG, must have received this opinion. Yet neither of them objected to the
+description of Mr Li or to his description as “Land Consultant”. 111
+
+##### Foot Note 111
+
+×
+
+DCS at para 204(a).
+
+116 Huizhou SJ’s former General Manager, one Wu Chin Mou (“Mr Wu”), 112
+
+##### Foot Note 112
+
+×
+
+Wu Chin Mou’s affidavit of evidence in chief dated 25 February 2022 (“WCM
+AEIC”) at para 26.
+
+gave evidence that he met Mr Li for the first time in September 2018 at a
+restaurant in Dongguan together with the defendant. The defendant told Mr Wu
+that Mr Li was helping the Group to identify and acquire land in the PRC. 113
+
+##### Foot Note 113
+
+×
+
+WCM AEIC at para 17; DCS at para 204(b).
+
+Further, Mr Wu gave evidence that he met Mr Li together with the defendant in
+October 2018 at a potential site for acquisition. This again supports the
+defendant’s case that Mr Li was engaged to identify land in the PRC for
+acquisition.
+
+117 In January 2018, Mr Ching met Mr Li at AMBDG’s factory in Liaobu, along
+with Huizhou government officials in charge of land allocation. Before this
+meeting, the defendant gave Mr Li’s full name to Mr Ching. 114
+
+##### Foot Note 114
+
+×
+
+1 CB 228.
+
+Mr Ching confirms that he gave Mr Li “tax materials” and “photocopied
+certificates”. 115
+
+##### Foot Note 115
+
+×
+
+1 CB 228.
+
+There would be no reason for Mr Ching to do so if Mr Li had not been engaged
+to identify land in the PRC for acquisition.
+
+118 In October 2018, Mr Ching asked the defendant if it would be faster to ask
+“Adviser Li Changyuan” to arrange a meeting with the secretary of the town
+committee of Xiegang. 116
+
+##### Foot Note 116
+
+×
+
+3 CB 2020, 2053.
+
+Again, I accept that “Li Changyuan” is a reference to Mr Li. Mr Ching would
+not have described Mr Li as “Adviser” if Mr Li had not been engaged to
+identify land in the PRC for acquisition and if Mr Ching did not know that to
+be the case.
+
+119 In November 2018, Mr Ching messaged the defendant that he “met Li Chanyuan
+in the office as he was thought to be able to settle Xiegang’s land”. 117
+
+##### Foot Note 117
+
+×
+
+3 CB 2057.
+
+Mr Ching also suggested to the defendant that they check with Mr Li if he knew
+of “other lands to consider”. 118
+
+##### Foot Note 118
+
+×
+
+3 CB 2057.
+
+Mr Ching would not have done this if Mr Li had not been engaged to identify
+land in the PRC for acquisition and if Mr Ching did not know that to be the
+case.
+
+120 All of this leads me to accept the defendant’s case that he engaged Mr Li
+to assist the second plaintiff to identify and acquire land for a sheet board
+plant.
+
+121 The circumstantial evidence does not warrant an inference that Mr Li was
+an “interested party” as against the defendant. The second plaintiff asserts
+that the engagement of Mr Li is unusual and that the unusual nature of the
+engagement shows the loans did not have any “purposes in line with common
+commercial sense” for the purposes of Article 148(a). 119
+
+##### Foot Note 119
+
+×
+
+PCS at para 238.
+
+To support this argument, the second plaintiff makes two points.
+
+122 First, it points to the fact that the arrangement with Mr Li was
+structured as a loan, which is quite a different transaction from a principal
+putting a consultant in funds in anticipation of an acquisition. To address
+this point, the defendant called an expert witness on business practices in
+the PRC: Mr Huili Du Harry (“Mr Du”). Mr Du’s evidence was that it is common
+practice for foreign companies who intend to acquire land in the PRC to engage
+consultants to assist them in identifying and acquiring the land. 120
+
+##### Foot Note 120
+
+×
+
+Defence at para 25.
+
+Further, according to Mr Du, it is not uncommon for a foreign investor to
+transfer money to the consultant in advance so that the consultant can act
+quickly to conclude an acquisition at a favourable price by paying a deposit
+for the land without delay. 121
+
+##### Foot Note 121
+
+×
+
+Mr Du’s 1st Expert Report at paras 25–30 (6 BAEIC Tab 23, pp 4153–4154).
+
+123 But Mr Du’s evidence was unhelpful to the defendant in two respects.
+First, he testified that, where a foreign investor transfers money to a
+consultant in advance, the consultant will usually hold the money on trust for
+the investor under an escrow, custody or other similar agreement. 122
+
+##### Foot Note 122
+
+×
+
+Mr Du’s 1st Expert Report at para 25 (6 BAEIC Tab 23, p 4153).
+
+It is undisputed that the loan agreements are not a similar type of agreement.
+Second, the second plaintiff is not a foreign investor. It is a company
+incorporated in the PRC.
+
+124 The plaintiffs called Ms Yi Qian (“Ms Yi”) as their expert witness on
+business practices in the PRC. Ms Yi picked up on this last point. She
+testified that, given that the second plaintiff is not a foreign investor but
+is instead a PRC company, it would have faced no difficulty in paying a
+deposit to a vendor quickly and directly once the land had been identified.
+123
+
+##### Foot Note 123
+
+×
+
+Ms Yi Qian’s Supplementary Expert Report dated 16 June 2022 at para 15 (3
+BAEIC Tab 16, p 1288).
+
+There was therefore no need to engage a local intermediary like Mr Li in order
+for the second plaintiff to move quickly.
+
+125 The defendant accepts this point. He admitted during cross-examination
+that the second plaintiff could have paid the deposit on its own. 124
+
+##### Foot Note 124
+
+×
+
+Transcript, 27 July 2022 at p 57 lines 17–19
+
+However, he maintained that transferring the money to Mr Li in advance was
+still necessary in the interests of time, given that the price of land was
+rising on a daily basis. 125
+
+##### Foot Note 125
+
+×
+
+Transcript, 27 July 2022 at p 57 line 17 to p 58 line 1.
+
+126 The second point that the second plaintiff relies on is that the loan
+agreements do not protect its interests. The loan agreements do not provide a
+mechanism for the second plaintiff to accelerate recovery of the RMB 14m in
+the event that Mr Li fails to identify land for the second plaintiff to
+acquire or if he does so but the transaction to acquire the land falls before
+it can complete. In either of those events, the loan agreements do not allow
+the second plaintiff to do anything to recover the RMB 14m from Mr Li. It
+would simply have to wait for the two-year tenor of each loan to expire. 126
+
+##### Foot Note 126
+
+×
+
+PCS at para 140; Transcript, 5 August 2022 at p 29 lines 2–9.
+
+Moreover, the 3% interest rate under the loan agreements is disadvantageous to
+the second plaintiff in that it was lower than the prevailing rate at which
+commercial banks in the PRC were then lending money. 127
+
+##### Foot Note 127
+
+×
+
+PCS at para 142; SBS AEIC at para 162(c)(ii) (1 BAEIC Tab 1, p 96).
+
+127 I accept that the arrangement to transfer the RMB 14m in advance under a
+loan agreement (as opposed to an escrow, custody or other similar agreement)
+is unusual. I accept also that the loan agreements could have gone further to
+protect the second plaintiff’s interests given that I have found their purpose
+to be to assist the second plaintiff to act quickly in identifying and
+acquiring land for a sheet board plant.
+
+128 To my mind, however, these features are insufficient circumstantial
+evidence from which to draw an inference that Mr Li was an “interested party”
+as against the defendant for the purposes of Article 148(a). As Ms Yi said in
+cross-examination, issues of risk management – such as a buyer’s contractual
+recourse to recover money either from a third-party intermediary such as Mr Li
+or from the vendor itself if a transaction to acquire land falls through
+before it completes – are ultimately a matter for negotiation and agreement
+between the buyer (ie, the second plaintiff), the vendor and the third party
+(ie, Mr Li). 128
+
+##### Foot Note 128
+
+×
+
+Transcript, 26 July 2022 at p 12 line 13 to p 13 line 5.
+
+129 Indeed, the fact that the defendant chose to structure the second
+plaintiff’s transfer of the RMB 14m to Mr Li as a loan could very well be said
+to be circumstantial evidence in support of the defendant’s case, bearing in
+mind that I am here considering a duty of fidelity and not a duty of
+diligence. For example, the fact that it was a loan as opposed to an outright
+transfer at least ensured that the second plaintiff had some legally
+enforceable right to recover the RMB 14m from Mr Li. Even if this right was
+exercisable only after the two-year tenor of each loan had expired, it was
+better than nothing. And it may not be correct to view Mr Li’s obligation to
+pay interest at only 3% per annum as a discount to the market rate. As the
+defendant testified, he saw the obligation to pay interest as an incentive to
+Mr Li to identify and acquire the land faster. 129
+
+##### Foot Note 129
+
+×
+
+Transcript, 27 July 2022 at p 82 lines 15–18.
+
+The defendant would be unlikely to vest these legal rights in the second
+plaintiff if he were so connected to Mr Li as to render Mr Li an “interested
+party” as against the defendant.
+
+130 To my mind, neither the use of loan agreements (as opposed to an escrow,
+custody or other similar agreement) nor the terms of the loan agreements is
+sufficient circumstantial evidence to warrant drawing the inference that the
+defendant caused the second plaintiff to transfer RMB 14m to Mr Li for a
+purpose connected to the interests of Mr Li as an “interested party”. These
+features may at best suggest a lack of diligence, but that is not the case
+against the defendant which I am now analysing.
+
+(B) The defendant’s relationship with Ms Luo
+
+131 As part of the circumstantial evidence connecting the defendant to Mr Li,
+the plaintiffs also rely on their allegation that the defendant is in an
+intimate personal relationship with Ms Luo. The defendant denies any such
+relationship. 130
+
+##### Foot Note 130
+
+×
+
+CCK AEIC at para 72.
+
+He maintains that Ms Luo is merely his personal secretary. 131
+
+##### Foot Note 131
+
+×
+
+Transcript, 26 July 2022 at p 66 lines 6–7.
+
+I reject the plaintiffs’ submission on this point for three reasons.
+
+132 First, and most importantly, there is no admissible evidence that Ms Luo
+received any part of the RMB 14m, either from the second plaintiff or from Mr
+Li. There is only hearsay evidence suggesting that Mr Li transferred RMB 1m to
+Ms Luo. In the absence of any admissible evidence of such a transfer, Ms Luo’s
+relationship to the defendant is irrelevant to whether Mr Li is an “interested
+party” as against the defendant.
+
+133 Second, even if I assume in the second plaintiff’s favour that Ms Luo did
+receive some part of the RMB 14m loan from Mr Li, the plaintiffs have failed
+to discharge their burden of proving a sufficiently close relationship between
+the defendant and Ms Luo to render either Mr Li or Ms Luo an “interested
+party” as against the defendant.
+
+134 The second plaintiff’s basis for asserting an intimate personal
+relationship between the defendant and Ms Luo is extremely thin. Mr Siong
+relies on certain photographs as evidence of a romantic relationship between
+the defendant and Ms Luo. 132
+
+##### Foot Note 132
+
+×
+
+SBS AEIC at paras 19–20 (1 BAEIC at pp 15–16).
+
+But on any reasonable and objective view, these photographs show at most only
+that the defendant and Ms Luo sometimes stood or walked next to each other.
+133
+
+##### Foot Note 133
+
+×
+
+SBS AEIC at exhibit SBS-29; 8CB 5324–5334.
+
+135 When AMBHK’s and AMBDG’s financial controller, Lock Man Pan (“Mr Lock”)
+was asked about the allegation that the defendant and Ms Luo were in an
+intimate personal relationship, he said that if he were to speak “directly”
+and be “candid”, these allegations were based on “rumours spreading in the
+company”. 134
+
+##### Foot Note 134
+
+×
+
+Transcript, 21 July 2022 at p 69 lines 15–16.
+
+Even Mr Siong, the second plaintiff’s principal witness, says only that it was
+his “understanding” that the defendant was in an intimate personal
+relationship with Ms Luo. Rumours and understandings are not evidence. They
+are no basis on which to invite a court to make a finding of fact. The second
+plaintiff has failed to discharge its burden of proving that the defendant was
+in an intimate personal relationship with Ms Luo.
+
+136 Finally, if I am to have regard to inadmissible evidence to accept that Ms
+Luo received part of the RMB 14m advanced to Mr Li, there is equally
+inadmissible evidence that suggests that Ms Luo was acting in assisting the
+second plaintiff to set up a sheet board plant in a formal capacity, ie, in
+her capacity as the second plaintiff’s duly appointed supervisor. 135
+
+##### Foot Note 135
+
+×
+
+3 CB 1580.
+
+For example, in August and September 2018, Ms Luo and Mr Li exchanged a number
+of WeChat messages discussing the most legally advantageous and tax efficient
+way to purchase land in Lilin Town for the second plaintiff. 136
+
+##### Foot Note 136
+
+×
+
+DCS at para 219; 3 CB 1786–1807.
+
+(C) No adverse inference
+
+137 The plaintiffs submit that I should draw an adverse inference against the
+defendant under illustration (g) to s 116 of the Evidence Act (Cap 97, 1997
+Rev Ed) for his failure to call Mr Li and Ms Luo as witnesses at trial. 137
+
+##### Foot Note 137
+
+×
+
+PCS at para 214.
+
+For convenience, I shall refer to this provision as s 116(g).
+
+138 Section 116(g) of the Evidence Act provides that the court may presume
+“that evidence which could be and is not produced would if produced be
+unfavourable to the person who withholds it”. In Sudha Natrajan v The Bank of
+East Asia Ltd [2017] 1 SLR 141, the Court of Appeal held (at [20]) that
+whether to draw an adverse inference depends in the final analysis on the
+circumstances of each case. It is not the position that an adverse inference
+must be drawn against every party who fails to call a witness who can give
+material evidence. No adverse inference may be drawn if there is a wholly
+satisfactory explanation for the absence of the witness (at [20(d)]). Even if
+the explanation is not wholly satisfactory but is at least reasonable and
+credible, the adverse inference to be drawn may be reduced or annulled (at
+[20(e)]).
+
+139 Even when the court draws an adverse inference under s 116(g) of the
+Evidence Act, the adverse inference drawn must be evidence that would have
+been admissible if the absent witness had in fact been present and had given
+that evidence; and the adverse inference drawn must also have some basis in
+the admissible evidence that is before the court. When drawing an adverse
+inference, the court must apply its mind to the manner in which the evidence
+that is not produced is said to be unfavourable (at [23]). Further, if the
+evidence that is not produced is the oral evidence of a witness who is outside
+the jurisdiction of the court for reasons that are not attributable to the
+relevant party, the presumption is either not raised or if raised, is rebutted
+(Halsbury’s Laws of Singapore vol 10 and 10(2) (LexisNexis) at para 120.349).
+
+140 I decline to draw an adverse inference against the defendant that the
+evidence of Ms Luo and Mr Li would have been unfavourable to his case if they
+had been called as witnesses. I come to that conclusion for three reasons.
+
+141 First, it is undisputed that Mr Li and Ms Luo are resident in the PRC.
+They are therefore outside the jurisdiction of this court. 138
+
+##### Foot Note 138
+
+×
+
+SOC at para 24; SBS AEIC at paras 19 and 21 (1 BAEIC 15–16).
+
+The defendant had no means by which to compel either of them to testify in
+person in this action. A subpoena cannot be served on any person outside
+Singapore (see O 38 r 18(2) of the Rules of Court (2014 Rev Ed)). I consider
+this in itself to be a wholly satisfactory reason for the defendant not
+producing evidence from Mr Li and Ms Luo at trial.
+
+142 Second, the defendant did make attempts to secure evidence from Ms Luo and
+Mr Li at trial. But Ms Luo was unwilling to testify and Mr Li was
+uncontactable. 139
+
+##### Foot Note 139
+
+×
+
+Transcript, 26 July 2022 at p 32 lines 6–8; Transcript, 27 July 2022 at p 52
+line 20 to p 53 line 14.
+
+I accept these explanations.
+
+143 Finally, and in any case, the defendant has produced some evidence of Ms
+Luo’s and Mr Li’s correspondence. I have referred to some of this
+correspondence at [136] above. This correspondence is contemporaneous with the
+material events. It is therefore unlikely to have been shaped after the fact
+to support any party’s case. To the extent that this correspondence is
+admissible, it supports the defendant’s case. In the absence of any allegation
+that this correspondence is not authentic, I consider it legitimate to have
+regard to this correspondence in deciding whether to draw an adverse
+inference, even if the correspondence is undoubtedly inadmissible in evidence
+on the merits of the substantive dispute between the parties.
+
+144 For all of these reasons, I am satisfied either that no adverse inference
+should be drawn against the defendant under s 116(g) of the Evidence Act to
+support the second plaintiff’s case that either Mr Li or Ms Luo is an
+interested party as against the defendant.
+
+(6) Conclusion on Article 148(a)
+
+145 On the balance of probabilities, weighing the available evidence and
+bearing in mind the inherent probabilities, I find that the second plaintiff
+has failed to discharge its burden of proving that the defendant breached his
+duty under Article 148(a) by causing the second plaintiff to enter into the
+loan agreements. The plaintiffs have failed to satisfy me that the loan
+agreements were a “sham” in the sense that they were merely a pretence for the
+defendant and Mr Li to conceal their illegitimate arrangement to siphon money
+out of the Group and into Mr Li’s hands, contrary to the interests of the
+second plaintiff. The plaintiffs have also failed to satisfy me that the
+defendant caused the second plaintiff to enter into the loan agreements for a
+purpose which was not for the second plaintiff’s benefit or for a purpose
+which was for the benefit of an interested party.
+
+146 Accordingly, I find that the defendant did not breach the duty he owed to
+the second plaintiff under Article 148(a).
+
+Article 148(c) of the PRC Company Law
+
+147 I now turn to consider the plaintiffs’ case against the defendant under
+Article 148(c) of the PRC Company Law.
+
+148 Article 148(c) provides as follows: 140
+
+##### Foot Note 140
+
+×
+
+Mr Liu’s 1st Expert Report at para 63 (6 BAEIC 3686).
+
+[A] director…is prohibited from any of the following acts: without the consent
+of the shareholders’ meeting, the general meeting or the board of directors,
+loaning the funds of the company to others … in violation of the company’s
+articles of association.
+
+The parties’ experts disagree on the proper interpretation of Article 148(c).
+
+(1) Interpretation
+
+149 Dr Zhang, the plaintiffs’ expert, takes the position that Article 148(c)
+prohibits a director from lending the company’s funds to a third person unless
+the company’s articles of association expressly permit him to do so. Where the
+company’s articles are silent on such loans, the director must obtain
+shareholders’ or directors’ consent before making a loan. 141
+
+##### Foot Note 141
+
+×
+
+PCS at para 225; Dr Zhang’s 2nd Expert Report at para 25 (2 BAEIC 1057).
+
+In support of his view, Dr Zhang cites the decision of the PRC courts in SUN
+Xiaochuan v WANG Lei (Case No.: 2020 Ji 01 Min Zhong No. 9470) (“SUN
+Xiaochuan”). In that case, the court held that, because a company’s articles
+did not provide that a director had the power to lend company funds to others,
+a director of the company should have obtained shareholders’ consent before
+doing so. As the director failed to do so, the director was held to have
+breached Article 148(c). 142
+
+##### Foot Note 142
+
+×
+
+Dr Zhang’s 2nd Expert Report at para 24 (2 BAEIC 1057).
+
+150 Mr Liu, the defendant’s expert, takes the position that Article 148(c)
+does not prohibit a director from lending company funds to a third person. A
+director breaches Article 148(c) only if the loan is not extended in
+accordance with the provisions of the company’s articles. 143
+
+##### Foot Note 143
+
+×
+
+PCS at para 226; Mr Liu’s 1st Expert Report at para 65 (6 BAEIC 3686).
+
+Mr Liu relies on Interpretation of PRC Company Law, which provides as follows:
+144
+
+##### Foot Note 144
+
+×
+
+Mr Liu’s 1st Expert Report at para 64 (6 BAEIC 3686); 6 BAEIC 3757.
+
+… Loan the company’s funds or provide any guaranty to any other person by
+using the company’s property in violation of the articles of association
+without the consent of the shareholders’ meeting, shareholders’ assembly, or
+the board of director. Such acts have not been approved in accordance with the
+procedures specified in the articles of association, and may result in the
+damages to the interests of the company such as related-party transactions,
+therefore, such acts constitute the breach of the duty of fidelity to the
+company, and shall be prohibited.
+
+[emphasis added in underline]
+
+151 I prefer Dr Zhang’s interpretation of Article 148(c) for two reasons.
+
+152 First, the interpretation is supported by the PRC case law that Dr Zhang
+cites. The PRC is, of course, a civil law jurisdiction. Cases are not
+precedent in a civil law jurisdiction as they are in a common law jurisdiction
+such as Singapore. Nevertheless, I accept that cases remain persuasive when
+the PRC courts interpret PRC law. In any event, and at the very least, cases
+are of value to a third party in predicting how the PRC courts will interpret
+PRC law.
+
+153 Second, I consider that the extract in Interpretation of PRC Company Law
+that Mr Liu relies on in fact supports the approach in SUN Xiaochuan. The
+proposition set out in the extract is that a director breaches Article 148(c)
+if the company’s articles expressly specify a procedure for obtaining approval
+for a loan to a third party and the director fails to comply with that
+procedure. It does not follow from that proposition that, if the articles do
+not expressly specify any such procedure, a director has a completely free
+hand in lending the company’s funds to a third person without shareholders’ or
+directors’ consent.
+
+(2) Approval of a sheet board plant
+
+154 I turn now to consider the substance of the second plaintiff’s claim that
+the defendant breached Article 148(c). It is common ground 145
+
+##### Foot Note 145
+
+×
+
+Transcript, 26 July 2022 at p 82 lines 2–9.
+
+that there is a “standard operating procedure” (“SOP”) in place within the
+Group that requires any significant capital expenditure or disposal of monies
+by a company in the Group to be approved by the first plaintiff’s directors.
+146
+
+##### Foot Note 146
+
+×
+
+PCS at para 94.
+
+It is the plaintiff’s case that the defendant did not follow this SOP when he
+caused the second plaintiff to enter into the loan agreements.
+
+155 I am prepared to assume, in the second plaintiff’s favour, that Article
+148(c) imposes upon the defendant an obligation which he owed to the second
+plaintiff not to cause the second plaintiff to incur capital expenditure or
+dispose of monies in connection with a sheet board plant without the approval
+of the first plaintiff’s directors. The approval of the first plaintiff’s
+directors means, in substance, the approval of Mr Siong and Mr Ching. Despite
+the changes in the composition of the first plaintiff’s board of directors
+during this time, no group of directors could ever have formed a majority of
+the first plaintiff’s directors unless Mr Siong and Mr Ching were part of that
+group.
+
+156 The issue at hand, therefore, is whether Mr Siong and Mr Ching approved
+taking steps to set up a sheet board plant in general and the second
+plaintiff’s entering into the loan agreements more specifically.
+
+157 The plaintiffs’ case on this issue is as follows. Mr Siong and Mr Ching
+never approved setting up a sheet board plant. All discussions about a sheet
+board plant (such as the discussions from February 2018 to July 2019) were
+informal and preliminary. Moreover, the defendant did not present any
+feasibility study, financial projections or capital requirements for setting
+up a sheet board plant. Therefore, Mr Siong and Mr Ching could not and would
+not have approved it. 147
+
+##### Foot Note 147
+
+×
+
+PCS at paras 30–33.
+
+158 The defendant’s case on this issue is that “knowledge is the same as
+approval”. 148
+
+##### Foot Note 148
+
+×
+
+Transcript, 28 July 2022 at p 37 lines 15–18, p 73 lines 18–19.
+
+Mr Siong and Mr Ching knew the steps that were being taken to set up a sheet
+board plant. They did not object to any of those steps at or even soon after
+the time they were taken. A sheet board plant was discussed and approved at
+the February 2018 Meeting. Mr Siong and Mr Ching were therefore fully aware of
+and approved a sheet board plant by the time of the February 2018 Meeting at
+the latest. 149
+
+##### Foot Note 149
+
+×
+
+DCS at paras 100–118.
+
+The decision to set up a sheet board plant was not itself a capital
+expenditure or a disposal of monies within the meaning of the SOP. Setting up
+a sheet board plant and approving the steps necessary to do so was a
+“process”, not an event. And it is typical in the course of a complex
+investment like this that there will be many rounds or degrees of approval.
+150
+
+##### Foot Note 150
+
+×
+
+DCS at paras 74 and 151.
+
+Following the February 2018 Meeting, therefore, various steps necessary to set
+up a sheet board plant were taken in anticipation of a final directors’
+meeting where the first plaintiff’s directors would give their final approval
+for all of the necessary capital expenditure. 151
+
+##### Foot Note 151
+
+×
+
+DCS at para 74.
+
+159 To my mind, the resolution of this issue turns on what amounts to
+“approval” under the SOP and whether Mr Siong’s and Mr Ching’s knowledge and
+silence can amount to “approval” as the defendant claims. I find, in light of
+the unique circumstances of the Group and the interpersonal working dynamic
+underlying its management practices and conventions, Mr Siong’s and Mr Ching’s
+knowledge and silence did amount to their approval under the SOP.
+
+160 I have already summarised the interpersonal working dynamic between the
+defendant on the one hand and Mr Siong and Mr Ching on the other (see
+[20]–[23] above). To recapitulate, Mr Siong and Mr Ching gave evidence that
+the defendant was a “domineering and oppressive” person 152
+
+##### Foot Note 152
+
+×
+
+SBS AEIC at para 11 (1 BAEIC at p 11); CHH AEIC at para 11 (1 BAEIC at p 203).
+
+whose management style was to divide the other directors and thereby to rule
+over the Group. 153
+
+##### Foot Note 153
+
+×
+
+SBS AEIC at para 16 (1 BAEIC at p 14); CHH AEIC at para 11 (1 BAEIC at p 205);
+TAKK AEIC at para 33 (1 BAEIC at p 146).
+
+Mr Tay gave evidence to the same effect. Thus, it is the plaintiffs’ own case
+that the defendant “[took] advantage of his seniority in age and experience”
+to ensure the other directors’ obedience 154
+
+##### Foot Note 154
+
+×
+
+PCS at para 19; SBS AEIC at para 11 (1 BAEIC at pp 11–12); CHH AEIC at para 11
+(1 BAEIC at p 203).
+
+and that Mr Siong and Mr Ching were “conditioned to resign themselves to doing
+[the defendant’s] bidding and avoiding confrontation”. 155
+
+##### Foot Note 155
+
+×
+
+PCS at para 19.
+
+The plaintiffs themselves also assert that the defendant “drove a wedge”
+between Mr Siong and Mr Ching on the one hand, and Mr Tay on the other hand,
+and thereby convinced the former two men that Mr Tay would vote with the
+defendant to allow the defendant to do as he pleased with the first plaintiff
+and the Group and, if necessary, to remove Mr Siong and Mr Ching as directors
+of the first plaintiff.
+
+161 I accept this evidence of the defendant’s relationship with Mr Siong and
+Mr Ching and of his autocratic and domineering management style. But seen from
+the defendant’s perspective, this means that Mr Siong and Mr Ching consented
+or, at the very least acquiesced, to the defendant’s exercise of ultimate
+management control over the first plaintiff and the Group. Thus, Mr Siong and
+Mr Ching had resigned themselves to doing the defendant’s bidding from the
+time the defendant first tabled a sheet board plant for discussion until the
+defendant caused the second plaintiff to enter into the loan agreements and to
+advance the RMB 14m to Mr Li.
+
+162 As I have foreshadowed, the critical event in the analysis of the
+plaintiffs’ case on Article 148(c) is the February 2018 Meeting. In attendance
+were the defendant, Mr Siong and Mr Ching. The February 2018 Minutes record
+the key points about the discussion of a sheet board plant as follows: 156
+
+##### Foot Note 156
+
+×
+
+1CB 294–295.
+
+(a) The defendant said that the Group needed to set up a sheet board plant if
+the Group was to grow and aim for an initial public offering of its shares,
+even though running a sheet board plant was materially different from its
+current business running box plants.
+
+(b) The defendant suggested that the Group should set up a subsidiary under
+its current box plant business in China, ie, under AMBDG, to run a sheet board
+business. This would make it easier for the vehicle for the new business to be
+incorporated in China. The total estimated funds required to finance the new
+business was around RMB 200m including working capital. Of this RMB 200m, the
+defendant expected Mr Ching to free up RMB 100m from the Group’s existing
+business.
+
+(c) The defendant asked Mr Siong and Mr Ching to discuss how to finance the
+new business by freeing up cash and by securing low-cost bank financing.
+
+(d) It was agreed that all capital expenditure and disposal of monies must be
+approved by the first plaintiff’s directors on its own merits, before any
+assets were purchased or monies paid out.
+
+163 The defendant drew up the February 2018 Minutes and circulated them to Mr
+Siong, Mr Ching and Mr Tay. They each replied to acknowledge receipt. Mr Tay
+in particular indicated that the plan was “well written” and looked “clear
+enough for execution”. 157
+
+##### Foot Note 157
+
+×
+
+1 CB 297.
+
+I therefore find that as at February 2018, the first plaintiff’s directors
+were aware of the defendant’s intention to set up a sheet board plant and
+consented or, at a bare minimum, acquiesced to the defendant taking the
+initial steps to do so.
+
+164 The decision to set up a sheet board plant was further crystallised at the
+April 2018 Meeting. Mr Siong, Mr Ching, Mr Tay, the defendant and Mr Kenneth
+Chan Kwok Wei (“Mr Kenneth Chan”) attended this meeting. Mr Kenneth Chan is
+the defendant’s son. At that time, only Mr Siong and Mr Ching were de jure
+directors of the first plaintiff. 158
+
+##### Foot Note 158
+
+×
+
+Transcript, 28 July 2022 at p 129, line 21.
+
+The defendant, Mr Kenneth Chan and Mr Tay were appointed directors of the
+first plaintiff only later, in June 2018. 159
+
+##### Foot Note 159
+
+×
+
+KC AEIC at para 7.
+
+165 The parties gave differing accounts of the nature of the April 2018
+Meeting and the events at that meeting.
+
+166 The plaintiffs’ account is as follows. The April 2018 Meeting was not a
+meeting of the first plaintiff’s directors. It was not convened by a director
+of the first plaintiff. No agenda was circulated ahead of the meeting. No
+minutes were taken of the meeting. The meeting was nothing more than an
+informal discussion amongst the five men in attendance upon Mr Ching’s return
+to Singapore from the PRC. 160
+
+##### Foot Note 160
+
+×
+
+SBS AEIC at paras 83–84; CHH AEIC at paras 66–67.
+
+An investment in a sheet board plant was discussed at the meeting, but only
+informally. Although the defendant presented a few slides at the meeting on
+the PRC market, those slides are not the same as the detailed set of slides
+entitled “Hector Finance Group 5-Year Strategic Plan” which the defendant has
+produced in discovery in this action. 161
+
+##### Foot Note 161
+
+×
+
+CHH AEIC at para 68(a).
+
+167 The defendant’s account is as follows. The April 2018 Meeting was a
+meeting of the first plaintiff’s directors. At the meeting, the defendant
+presented a detailed set of slides entitled “Hector Finance Group 5-Year
+Strategic Plan”. 162
+
+##### Foot Note 162
+
+×
+
+CCK AEIC at para 39.
+
+The slides addressed, among other things, the Group’s plan to set up two sheet
+board plants in China. The defendant also presented the advantages and
+disadvantages of an investment in sheet board plants and of the projected
+financial returns. 163
+
+##### Foot Note 163
+
+×
+
+CCK AEIC at para 40.
+
+Following the defendant’s presentation, the first plaintiff’s directors
+unanimously resolved to approve a sheet board plant. 164
+
+##### Foot Note 164
+
+×
+
+CCK AEIC at para 41.
+
+Their resolution is recorded in the minutes of the April 2018 meeting taken by
+Mr Kenneth Chan (“the April 2018 Minutes”). 165
+
+##### Foot Note 165
+
+×
+
+DCS at para 144; 2 CB 1090–1094.
+
+168 I accept the defendant’s submission that the April 2018 Meeting was a
+meeting of the directors of the first plaintiff. I further accept that the
+first plaintiff’s directors approved a sheet board plant at this directors’
+meeting. I arrive at these findings for three reasons.
+
+169 First, the contemporaneous evidence supports a finding that the April 2018
+Meeting was convened as a meeting of the first plaintiff’s directors. On 10
+April 2018, the defendant sent an email (“the 10 April Email”) addressed to Mr
+Siong, Mr Ching, Mr Tay and Mr Kenneth Chan. The 10 April Email notified the
+addressees that “Hector Finance Group”, ie, the first plaintiff, would hold
+“the first official meeting” of the directors. The meeting was to be held at
+10.00 am on 14 April 2018 in the boardroom of AMB Packaging Pte Ltd, a Group
+company incorporated in Singapore. The defendant also informed the addressees
+that they, together with the defendant, were the first plaintiff’s directors
+and were to attend the meeting. Mr Siong, Mr Ching and Mr Tay all responded by
+email, noting or agreeing to the contents of this email without taking any
+objection. 166
+
+##### Foot Note 166
+
+×
+
+CCK AEIC at paras 35–36; 1 CB 782–787.
+
+170 Second, even though the defendant, Mr Tay and Mr Kenneth Chan had not been
+formally appointed as directors of the first plaintiff when they attended the
+April 2018 Meeting, I accept that they attended the meeting as de facto
+directors within the extended definition of the term “director” in the
+Companies Act 1967 (2020 Rev Ed). Section 4 of the Act defines the word
+“director” as including “any person occupying the position of director of a
+corporation by whatever name called and includes a person in accordance with
+whose directions or instructions the directors or the majority of the
+directors of a corporation are accustomed to act ….” [emphasis added]. It is
+the plaintiffs’ own case that Mr Siong and Mr Ching were accustomed to act as
+directors of the first plaintiff in accordance with the defendant’s
+instructions. 167
+
+##### Foot Note 167
+
+×
+
+SBS AEIC at paras 11 and 12; CHH AEIC at para 11.
+
+Indeed, it is the plaintiffs’ own case that the defendant held himself out as
+the de facto Chairman of the Group even before he was appointed a de jure
+director of the first plaintiff and gave instructions and orders to Mr Siong
+and Mr Ching concerning their management of the Group’s business. 168
+
+##### Foot Note 168
+
+×
+
+SBS AEIC at para 10 (1 BAEIC p11).
+
+Mr Siong and Mr Ching accepted all of this without question. I am therefore
+satisfied that the defendant was a de facto director of the first plaintiff at
+all times.
+
+171 I am equally satisfied that both Mr Tay and Mr Kenneth Chan were de facto
+directors of the first plaintiff at and after the April 2018 Meeting. As the
+defendant submits, a person who is not a de jure director is nevertheless a de
+facto director of a company if he undertakes functions in relation to the
+company which can properly be discharged only by a director. This includes
+participating in directing the affairs of the company on an equal footing with
+the other directors and exercising a real influence in the corporate
+governance of the company (Raffles Town Club Pte Ltd v Lim Eng Hock Peter and
+others (Tung Yu-Lien Margaret and others, third parties) [2010] SGHC 163 at
+[58]; Evotech (Asia) Pte Ltd v Koh Tat Lee and another [2018] SGHC 252 at
+[75]). In the 10 April Email, the defendant asserted that Mr Tay and Mr
+Kenneth Chan were directors of the first plaintiff. Mr Siong and Mr Ching
+acquiesced in this characterisation. Mr Tay and Mr Kenneth Chan attended April
+2018 Meeting in the capacity stipulated in the 10 April Email, ie, as
+directors of the first plaintiff. Mr Siong and Mr Ching acquiesced in this
+also. Mr Tay and Mr Kenneth Chan were therefore de facto directors of the
+first plaintiff at and after the April 2018 Meeting.
+
+172 Third, the first plaintiff’s directors, both de jure and de facto,
+approved a sheet board plant at the April 2018 Meeting. This approval is
+recorded in the April 2018 Minutes. The defendant produced in this action two
+different versions of the April 2018 Minutes. The first version was produced
+contemporaneously. This version was attached to two emails, one dated 25 April
+2018 and one dated 2 July 2018, from Mr Kenneth Chan to the defendant. 169
+
+##### Foot Note 169
+
+×
+
+PCS at paras 73–74; 2 CB 1405–1419.
+
+The second version of the April 2018 Minutes was regrettably the result of Mr
+Kenneth Chan amending the soft copy of the first version. 170
+
+##### Foot Note 170
+
+×
+
+Transcript, 2 August 2022 at p 78 lines 4–23, p 80 lines 2–11.
+
+He made these amendments only in August 2019. He did so specifically for the
+purpose of producing the second version as evidence in litigation. 171
+
+##### Foot Note 171
+
+×
+
+Transcript, 28 July 2022 at p 112 lines 7–13; Transcript, 2 August 2022 at p
+80 lines 2–11.
+
+According to him, the only changes he made in the second version of the April
+2018 Minutes were to correct inaccuracies in the first version of the minutes.
+172
+
+##### Foot Note 172
+
+×
+
+Transcript, 2 August 2022 at p 78 lines 4–23.
+
+It is the second version of the April 2018 Minutes which the defendant and Mr
+Kenneth Chan chose to exhibit to their affidavits of evidence in chief. They
+did so without offering any explanation in the affidavit of how this version
+was produced. 173
+
+##### Foot Note 173
+
+×
+
+CCK AEIC at para 41; KC AEIC at para 14; 2 CB 1090–1094.
+
+173 There are three key differences between the first and second versions of
+the April 2018 Minutes: (a) first, the description of those in attendance; (b)
+second, the deletion of a section on “Notice and Quorum”; and (c) third, the
+amendment of the word “containerboard” to “sheet board”. These key differences
+are apparent from a side-by-side comparison of the relevant parts of the two
+versions:
+
+First version of theApril 2018 Minutes 174
+
+##### Foot Note 174
+
+× 2 CB 1415–1419. | Second version of theApril 2018 Minutes 175
+
+##### Foot Note 175
+
+× 2 CB 1090–1094.  
+---|---  
+Present:Mr. Chan Chew Keak, Billy (Executive Chairman and CEO)Mr. Siong Beng
+Seng (Executive Director)Mr. Ching Hui Huat, Edward (Executive Director)Mr.
+Tay Ah Kee, Keith (Non-Executive Director)Mr. Kenneth Chan Kwok Wei (Non-
+Executive Director) …| Present:Billy Chan – Non-Executive Chairman and Non-
+Executive Director, and Representative for Caldicott WorldwideKenneth Chan –
+Non-Executive Director and Representative for Caldicott WorldwideKeith Tay –
+Non-Executive Director and Representative for Springfield InvestmentsSiong
+Beng Seng – Executive Director and Shareholder, and Director of AMB Packaging
+SingaporeEdward Ching Hui Huat – Executive Director and Shareholder, and
+Director of AMB Interpac Containers (Guangdong)…  
+2\. NOTICE AND QUORUM(A) It was noted that due notice of the meeting had been
+given to all the directors of the Company in accordance with the articles of
+association of the Company.(B) It was further noted that a quorum necessary
+for the convening of the meeting was present. The Chairman declared the
+meeting had been duly convened and constituted in accordance with the articles
+of association of the Company. A quorum was present throughout the meeting.…|
+[This section is omitted]  
+[The defendant] reflected back on the past six years of operations, and noted
+that it was not satisfactory for shareholders in terms of financial
+performance and growth ……On the proposed expansion into containerboard
+production in the Pearl River Delta, Mr. Keith Tay inquired about the downside
+to this investment. [The defendant] replied that if the selling prices for
+containerboard declined, the payback could be stretched to six years instead
+of the currently projected three and a half years.It was unanimously RESOLVED
+that the Board approved the expansion and investment into containerboard
+production in the Pearl River Delta.[emphasis in original omitted; emphasis
+added in bold italics]| [The defendant] reflected back on the past ten years
+of operations, and noted that it was not satisfactory for shareholders in
+terms of financial performance and growth ……On the proposed expansion into
+sheet board production in the Pearl River Delta, Mr. Keith Tay inquired about
+the downside to this investment. [The defendant] replied that if the selling
+prices for the sheet board declined, the payback could be stretched to six
+years instead of the currently projected three and a half years.It was
+unanimously RESOLVED that the Board approved the expansion and investment into
+sheet board production in the Pearl River Delta.[emphasis in original omitted;
+emphasis added in bold italics]  
+  
+174 The plaintiffs castigate Mr Kenneth Chan for tampering with evidence by
+amending the first version of the April 2018 Minutes. 176
+
+##### Foot Note 176
+
+×
+
+PCS at paras 73–75.
+
+The presentation of evidence in litigation is undoubtedly a most serious
+matter. Deliberately altering evidence for the purpose of presenting it in
+anticipated litigation is an even more serious matter. Actually tendering the
+altered evidence in litigation without explaining how it was produced is an
+infinitely more serious matter. But I do not accept the plaintiffs’
+characterisation of what the defendant or Mr Kenneth Chan did as tampering
+with evidence. Neither the defendant nor Mr Kenneth Chan made any attempt to
+suppress the first version of the April 2018 Minutes in this litigation. Nor
+did they misrepresent the second version of the April 2018 Minutes as a
+document created contemporaneously with the April 2018 Meeting, eg by
+surreptitiously attaching it – whether in discovery, in an affidavit of
+evidence in chief or for inclusion in the agreed bundle – to a contemporaneous
+email.
+
+175 It is, of course, a matter of serious regret that Mr Kenneth Chan did not
+voluntarily disclose that he produced the second version of the April 2018
+Minutes only in August 2019 by amending the first version and for the specific
+purpose of presenting the second version as evidence in anticipated
+litigation. He did so only under cross-examination. But I accept the
+defendant’s submission that the amendments are immaterial to the essential
+meaning of the April 2018 Minutes in so far as they are relevant to my
+disposal of this action. The amendments do not detract from the evidential
+value of the first version of the April 2018 Minutes for that purpose. In
+particular, although the second version records that the directors approved
+expanding into “containerboard” production, it is common ground that the only
+business discussed at the April 2018 Meeting was sheet board production. I
+therefore accept that the first version of these minutes stands as a
+contemporaneous record in writing that the first plaintiff’s directors
+unanimously approved a sheet board plant at the April 2018 Meeting. The nature
+and consequences of Mr Kenneth Chan’s conduct outside this context is an
+entirely separate matter on which I express no view.
+
+176 Having regard to the totality of the evidence, therefore, I am satisfied
+that, at the April 2018 Meeting, the first plaintiff’s directors approved a
+sheet board plant and agreed to take steps to advance it. The steps which I
+have found at [98] were taken to set up a sheet board plant from December 2017
+to May 2018 are consistent with the discussions recorded both in the February
+2018 Minutes (see [162] above) and in the April 2018 Minutes. They include:
+
+(a) the defendant and Mr Ching arranging visits to sheet board plants in
+China;
+
+(b) Mr Siong obtaining quotations for corrugator machines for a sheet board
+plant between December 2017 and May 2018;
+
+(c) Mr Siong’s correspondence with DBS Bank in March 2018 seeking financing;
+177
+
+##### Foot Note 177
+
+×
+
+1 CB 765.
+
+and
+
+(d) the incorporation of Huizhou SJ and the second plaintiff as subsidiaries
+of AMBDG in August 2018.
+
+177 All of the above accords with the defendant’s case that setting up a sheet
+board plant and the approval to do so was a process and not an event. Once the
+first plaintiff’s directors had agreed and approved the general direction, the
+details would be worked out and approved along the way. Viewing the evidence
+in totality, I therefore accept that the first plaintiff’s directors did
+approve setting up a sheet board plant, and did so at the April 2018 Meeting.
+
+(3) Approval of the loan agreements
+
+178 I now turn to consider whether the first plaintiff’s directors approved
+the second plaintiff’s entering into the loan agreements. It is not the
+defendant’s case that the second plaintiff’s directors approved entering into
+the loan agreements expressly, whether orally or in writing, eg by way of a
+director’s resolution. But having regard to the totality of the evidence and
+the management practices within the Group and the first plaintiff, I accept
+the defendant’s submission that the directors nevertheless approved the second
+plaintiff’s entering into the loan agreements because they were aware of them
+and acquiesced in the second plaintiff entering into them.
+
+179 In his defence, the defendant makes two pleas which are relevant to this
+branch of the analysis. First, that in or around February 2018, he, Mr Siong
+and Mr Ching orally agreed to engage Mr Li as the Group’s consultant. 178
+
+##### Foot Note 178
+
+×
+
+Defence at para 26.
+
+Second, that in or around December 2018, the defendant, Mr Siong and Mr Ching
+orally agreed that the second plaintiff should transfer money to Mr Li to
+ensure that Mr Li could move quickly in assisting the second plaintiff to
+identify and acquire land for a sheet board plant. 179
+
+##### Foot Note 179
+
+×
+
+Defence at para 33.
+
+However, in cross-examination, the defendant admitted that there was no
+agreement to appoint Mr Li as the Group’s consultant. 180
+
+##### Foot Note 180
+
+×
+
+Transcript, 26 July 2022 at p 73 line 24 to p 74 line 3.
+
+Considering this inconsistency between his pleadings and his evidence together
+with the lack of contemporaneous evidence supporting any such oral agreement,
+I find that the directors of the first defendant did not agree expressly and
+orally to engage Mr Li as the Group’s consultant or to transfer money to Mr
+Li.
+
+180 Even though there was no express oral agreement to engage Mr Li as a
+consultant or to transfer money to Mr Li, I accept that there was nevertheless
+approval in the form of Mr Siong’s and Mr Ching’s knowledge and silence. I
+reiterate that the management practices within the Group and the first
+plaintiff must be borne in mind when considering what “approval” means. I have
+found at [159] above that in the unique circumstances of the Group, Mr Siong’s
+and Mr Ching’s knowledge and silence of the defendant’s conduct did amount to
+approval. It is the plaintiffs’ own case that Mr Ching and Mr Siong resigned
+themselves to doing the defendant’s bidding to avoid confrontation. 181
+
+##### Foot Note 181
+
+×
+
+SBS AEIC at para 13 (1 BAEIC p 13); CHH’s AEIC at para 11 (1 BAEIC p 203).
+
+Shareholders of a company are entitled to expect that directors will perform
+their duties with reasonable mental fortitude. The minority shareholders who
+hold 7% of the first plaintiff’s shares are entitled to no less. A director
+who has resigned himself to doing another person’s bidding and who acquiesces
+in that other person’s conduct in order to avoid confrontation or removal as a
+director must intend his knowledge and silence or acquiescence to be taken as
+approval. So too, that other person is entitled to take the director’s
+knowledge and silence or acquiescence as approval. That is precisely what I
+find happened here as between the defendant on the one hand and Mr Siong and
+Mr Ching on the other.
+
+181 I therefore find that the directors of the first plaintiff did approve the
+second plaintiff moving forward to identify and acquire land for a sheet board
+plant. By doing so, they also approved the actions that had to be taken to
+advance that purpose. This includes causing the second plaintiff to enter into
+the loan agreements.
+
+182 Apart from the evidence I have set out at [162]–[176] above, I find that
+Mr Siong and Mr Ching knew of and approved the specific step of identifying
+and acquiring land for a sheet board plant.
+
+183 Mr Siong’s approval can be seen from the following. On 30 May 2018, the
+defendant sent an email to Mr Siong and Mr Ching informing them that (a) he
+had been looking for land in Huizhou without success, (b) an opportunity had
+come up to buy land in Huizhou, (c) he had suggested to the Group’s lawyers
+that the Group set up an escrow account to be managed by the lawyers for the
+land purchase, and (d) Mr Ching needed to get RMB 130m in cash ready within
+the next month for the land purchase. 182
+
+##### Foot Note 182
+
+×
+
+2 CB 1187–1195.
+
+On 1 June 2018, Mr Siong replied, agreeing to an escrow account being set up
+and said that he was “for moving forward”. 183
+
+##### Foot Note 183
+
+×
+
+2 CB 1206.
+
+I accept that this email is evidence that Mr Siong approved moving forward
+with identifying and acquiring land, given that the escrow account was
+intended to hold money for purchasing land for a sheet board plant. 184
+
+##### Foot Note 184
+
+×
+
+DCS at para 215.
+
+184 As for Mr Ching, apart from the evidence at [117]–[119] above regarding
+his knowledge of Mr Li’s involvement, he also exchanged various instant
+messages with the defendant between 7 June 2018 and 15 June 2018 discussing
+the purchase of land in Huizhou. 185
+
+##### Foot Note 185
+
+×
+
+2 CB 1228–1240, 1261–1269.
+
+While these messages do not mention a sheet board plant specifically, Mr Ching
+accepted in cross-examination that at the time he exchanged these messages
+with the defendant, he knew that the defendant was searching for land in
+connection with a sheet board plant. 186
+
+##### Foot Note 186
+
+×
+
+Transcript, 19 July 2022 at p 33 lines 3–8.
+
+185 I also accept that from October 2018 to December 2018, the defendant,
+together with other representatives of the plaintiffs, attempted to identify
+alternative tracts of land. For example, Mr Wu gave evidence that he, the
+defendant and Mr Ching met the mayor of Xiegang town to ask if there was land
+there available for purchase. 187
+
+##### Foot Note 187
+
+×
+
+WCM AEIC at para 21.
+
+186 In January 2019, the pace at which the defendant was taking steps to set
+up a sheet board plant picked up. The defendant continued to keep Mr Siong and
+Mr Ching informed. Thus, on 10 January 2019, the defendant messaged Mr Ching
+telling him that they needed to get started on the operations of the second
+plaintiff and asking Mr Ching to transfer RMB 30m to him to repay AMBDG for
+the corrugator and “to start moving the land”. The defendant also said that he
+would follow up with an email to avoid miscommunication. 188
+
+##### Foot Note 188
+
+×
+
+4 CB 2564.
+
+187 Later that day, the defendant emailed Mr Ching and Mr Siong telling them
+that: (a) he had “fix[ed]” the land in Huizhou; (b) they would need to start
+operating the second plaintiff; and (c) AMBDG should transfer RMB 30m to the
+second plaintiff, out of which RMB 10m would be used as deposit for the land.
+189
+
+##### Foot Note 189
+
+×
+
+4 CB 2561.
+
+The defendant also asked Mr Siong and Mr Ching to let him know if they had any
+doubts or questions. Both Mr Ching and Mr Siong replied to acknowledge the
+email. 190
+
+##### Foot Note 190
+
+×
+
+4 CB 2563.
+
+Mr Ching in particular stated that he “[would] act as per instruction
+accordingly”. 191
+
+##### Foot Note 191
+
+×
+
+4 CB 2562.
+
+Mr Siong and Mr Ching in their capacity as directors of AMBDG signed a
+resolution dated 12 January 2019 approving the transfer of RMB 30m to the
+second plaintiff. 192
+
+##### Foot Note 192
+
+×
+
+4 CB 2587.
+
+188 On 15 January 2019, Mr Siong, Mr Ching, the defendant and Mr Kenneth Chan
+signed a resolution approving and ratifying, among other things: (a) the
+incorporation of the second plaintiff and Huizhou SJ in August 2018, each with
+a long-term share capital injection of RMB 30m; (b) the registration of the
+second plaintiff and Huizhou SJ as subsidiaries of AMBDG; and (c) the purchase
+by the second plaintiff of a piece of land of about 100 Mu located around
+Huiyang city near Shenzhen (“the 15 January Resolution”). 193
+
+##### Foot Note 193
+
+×
+
+4 CB 2656.
+
+In relation to the steps taken in August 2018, this resolution was passed
+after the fact. But Mr Siong and Mr Ching signed this resolution in January
+2019 with knowledge that steps had been taken in August 2018 without formal
+prior approval. And there is no record of any criticism of the defendant in
+January 2019 for not seeking approval for these steps, whether formal or
+informal, in August 2018. This shows that it was not the invariable management
+practice within the Group or the first plaintiff that all approvals must be
+sought and obtained in advance and by way of a formal directors’ resolution.
+
+189 Mr Siong and Mr Ching say that they signed this resolution only because
+the defendant presented them with a fait accompli. 194
+
+##### Foot Note 194
+
+×
+
+SBS AEIC at paras 115 and 148 (1 BAEIC pp 67 and 87); CHH AEIC at paras 97 and
+118 (1 BAEIC pp 238 and 248).
+
+I do not accept this explanation. As I have previously found, both Mr Siong
+and Mr Ching approved steps to set up a sheet board plant by their knowledge
+and silence. They also took steps themselves to set up a sheet board plant. In
+any event, there was nothing to prevent them in January 2019 from refusing to
+approve the fait accompli of August 2018, or from approving it while recording
+their objection to the defendant’s conduct in not seeking prior approval
+before taking those steps in August 2018.
+
+190 The plaintiffs submit that a background paper circulated by Mr Kenneth
+Chan on 26 July 2019 advocating that the Group invest in a sheet board plant,
+195
+
+##### Foot Note 195
+
+×
+
+SBS AEIC at para 181 (1 BAEIC p 108); 5 CB 3747.
+
+ie, prospectively, shows that the defendant and Mr Kenneth Chan were aware
+that no such investment had been approved even as late as July 2019. 196
+
+##### Foot Note 196
+
+×
+
+PCS at paras 172–173.
+
+But this background paper must be seen in the context of the consistent
+management practice within the Group. That practice was for directors to give
+in-principle approval before a formal directors’ resolution was passed and, if
+necessary, later to ratify the steps that had already been taken in connection
+with that in-principle approval.
+
+191 It is true that there is no contemporaneous evidential support that Mr
+Siong or Mr Ching orally agreed that the second plaintiff should engage Mr Li
+as a consultant and advance RMB 14m to Mr Li in those terms. But Mr Siong and
+Mr Ching well knew that the defendant had engaged Mr Li to assist the second
+plaintiff in identifying and acquiring land for a sheet board plant and that
+there would have to be a sizable outflow of money to pay a deposit for the
+land. I find that Mr Siong and Mr Ching acquiesced to this as part of their
+pattern of “avoiding confrontation” with the defendant. I find therefore that
+both Mr Siong and Mr Ching knew that the defendant intended to cause the
+second plaintiff to purchase land purchase for a sheet board plant, remained
+silent despite that knowledge, and thereby, given the context of how the first
+plaintiff was managed, approved it.
+
+192 Mr Siong and Mr Ching knew that the second plaintiff would make loans to
+Mr Li to facilitate the purchase of land for a sheet board plant. The
+plaintiffs’ pleaded case is that they first discovered that the defendant had
+caused the second plaintiff to transfer RMB 14m to Mr Li as loans when Mr Lock
+received copies of the loan agreements from Ms Luo by email on 3 July 2019 at
+3.15 pm. 197
+
+##### Foot Note 197
+
+×
+
+Particulars of the Statement of Claim (Amendment No. 1) Served Pursuant to
+Order of Court dated 6 April 2021 at paras 2(a)–2(b) (Bundle of Pleadings
+(“BOP”) Tab 7); PRS at para 132(c).
+
+Within the hour, Mr Lock forwarded the loan agreements to Mr Siong and Mr
+Ching at 4.09 pm. 198
+
+##### Foot Note 198
+
+×
+
+5 CB 3371; PRS at para 132(e).
+
+Mr Siong, Mr Ching and Mr Lock all claim that they had no knowledge of the
+loan agreements before Ms Luo’s email on 3 July 2019.
+
+193 Their claim is contradicted by substantial contemporaneous evidence. This
+shows that Mr Ching already knew before 3 July 2019 that the second plaintiff
+had entered into loan agreements with Mr Li, even if he may not have seen the
+actual loan agreements. On 3 July 2019 at 11.10 am, Mr Lock sent Mr Ching an
+email attaching documents relating to AMBDG’s RMB 30m capital injection into
+the second plaintiff and Huizhou SJ. 199
+
+##### Foot Note 199
+
+×
+
+12 AB 8940–8974.
+
+The attachments did not include the loan agreements. Yet, in Mr Ching’s email
+reply at 11.52 am, Mr Ching asked Mr Lock if he had “[t]he loan contracts of
+[the second plaintiff] with the individual … two in total, one of 10 million
+and one of 5 million”. 200
+
+##### Foot Note 200
+
+×
+
+12 AB 8975–8976.
+
+194 Mr Ching attempted to explain his request as follows. First, regarding the
+“10 million”, Mr Ching testified that Mr Lock had told him that the defendant
+had transferred the sum to an individual in January 2019. 201
+
+##### Foot Note 201
+
+×
+
+Transcript, 20 July 2022 at p 6 line 13 to p 7 line 8.
+
+Second, regarding the “5 million”, he derived that figure through backward
+reasoning based on the January 2019 Email (see [29] above). Out of the RMB 30m
+capital injection, he deducted the RMB 10m payment to BHS under the BHS
+Contract, the RMB 5m transferred to Huizhou SJ and the RMB 10m transferred to
+the individual that Mr Lock had told him about. 202
+
+##### Foot Note 202
+
+×
+
+Transcript, 20 July 2022 at p 7 lines 9–15.
+
+The plaintiffs submit that “[o]n that basis, [Mr Ching] figured that RMB 5
+million remained unaccounted for and could possibly be transferred to an
+individual. In that regard, it is common practice in China to consider funds
+transferred to an individual as a loan to that individual”. 203
+
+##### Foot Note 203
+
+×
+
+PRS at para 132(b).
+
+195 I have considerable difficulty with Mr Ching’s evidence. I do not see how
+Mr Ching could have concluded that the RMB 5m unaccounted for was also
+transferred to the same individual and as second loan if he did not know
+beforehand that the second plaintiff had entered into loan agreements with
+that individual. To my mind, if Mr Ching truly knew nothing about any loan
+agreements, he would have asked “what happened to the RMB 5m?” instead of
+immediately assuming the money had been transferred to the same individual and
+as a second loan.
+
+196 On 3 July 2019 at 3.36pm, Mr Siong sent Mr Ching and Mr Tay a draft letter
+setting out his and Mr Ching’s grievances regarding the defendant. 204
+
+##### Foot Note 204
+
+×
+
+5 CB 3542–3544.
+
+The letter alleged that the defendant had instructed Mr Lock to remit RMB 30m
+to the second plaintiff and that RMB 15m of that sum had been “given out as
+under table money or loan to unknown person, purporting to help to buy land
+for the new factory”. 205
+
+##### Foot Note 205
+
+×
+
+5 CB 3543–3544 at paras 19 and 21.
+
+The plaintiffs submit that this draft letter does not assist the defendant
+because it does not refer to any loan agreements. The plaintiffs further
+submit that the letter is consistent with Mr Ching’s evidence and that if Mr
+Siong had known about the loan agreements before he drafted this letter, he
+would not have guessed that RMB 15m “was given out as under table money”. 206
+
+##### Foot Note 206
+
+×
+
+PRS at para 132(d).
+
+197 Again, I find it strange that Mr Siong would immediately guess that RMB
+15m “was given out as under table money”. To my mind, the plaintiffs’ argument
+that Mr Siong and Mr Ching did not know that the defendant had caused the
+second plaintiff to enter into the loan agreements is contrary to the inherent
+probabilities. Mr Siong and Mr Ching may not have known the terms of the loan
+agreements, such as the total amount lent being RMB 14m. But on the evidence
+before me, I am satisfied that they knew of the fact of the loan agreements,
+ie, that the defendant had caused the second plaintiff to pay money as a loan
+to a third party to facilitate the third party in identifying and acquiring
+land for the second plaintiff for a sheet board plant. Seen in the context of
+the management practices within the Group and the first plaintiff, this
+knowledge and silence constitutes approval of the loan agreements.
+
+198 As I stated previously, and as the plaintiffs submit, Mr Siong and Mr
+Ching resigned themselves to doing the defendant’s bidding in order to avoid
+confrontation. 207
+
+##### Foot Note 207
+
+×
+
+SBS AEIC at para 17; CHH AEIC at para 16.
+
+It may be that the first plaintiff’s directors were required formally and
+expressly to approve the Group’s expansion strategy. But Mr Siong and Mr Ching
+did the defendant’s bidding as to how this broad strategy was to be
+implemented. And these two directors: (a) knew what these plans were; (b) were
+conditioned and had resigned themselves not to raise doubts or contradict the
+defendant; and (c) did not in fact raise any doubts or contradict the
+defendant. In these circumstances, it was entirely reasonable for the
+defendant to consider that Mr Siong and Mr Ching approved of the steps he was
+taking. I find that there was the necessary and sufficient approval by the
+first plaintiff’s directors of the defendant causing the second plaintiff to
+enter into the loan agreements.
+
+199 The plaintiffs have therefore failed to prove their case that the first
+plaintiff’s directors did not approve the defendant taking steps to set up a
+sheet board plant, including by causing the second plaintiff to enter into the
+loan agreements. Accordingly, I find that the defendant did not act in breach
+of Article 148(c).
+
+(4) The BHS Contract
+
+200 Finally, I turn to deal with the plaintiffs’ allegation that the defendant
+did not follow the SOP when he caused AMBDG to enter into the BHS Contract.
+208
+
+##### Foot Note 208
+
+×
+
+PCS at para 96.
+
+To my mind, neither of the plaintiffs in this case have a cause of action
+against the defendant which can yield any relief for this alleged breach of
+duty. As I have said at [66]–[68] above, AMBDG’s losses are not the first
+plaintiff’s losses and cannot be transformed in law into the first plaintiff’s
+losses. Neither did the second plaintiff suffer any loss, given that the money
+the second plaintiff paid to AMBDG in connection with the BHS Contract
+originated from AMBDG itself (see [29(a)] above).
+
+201 The proper plaintiff to bring a claim for breach of director’s duties
+arising from the BHS Contract is AMBDG, not the first plaintiff. There is
+therefore no need for me to consider the BHS Contract further.
+
+Article 148(h) of the PRC Company Law
+
+202 I now turn to consider the plaintiffs’ case against the defendant under
+Article 148(h) of the PRC Company Law.
+
+203 This article provides that a director shall not commit “any other acts
+that violate the duty of fidelity to the company”. 209
+
+##### Foot Note 209
+
+×
+
+6 BAEIC 3686.
+
+Mr Liu explains that Article 148(h) is “a catchall clause made to prevent a
+leak”. The phrase “other acts in violation of the duty of fidelity” includes
+the following actions: 210
+
+##### Foot Note 210
+
+×
+
+Mr Liu’s 1st Expert Report at para 67 (6 BAEIC 3686–3687).
+
+(a) improper consumption resulting in company assets being wasted;
+
+(b) purchase or replacement of high-end transportation vehicles;
+
+(c) luxurious decoration of offices;
+
+(d) use of company funds for high-end consumption; and
+
+(e) payment of travel and business hospitality expenses overly in excess of
+standards.
+
+204 Dr Zhang does not address Article 148(h) in his expert reports.
+
+205 The plaintiffs do not suggest that the defendant committed any of the acts
+I have listed at [202] above. I therefore find that there is no breach of
+Article 148(h).
+
+206 In any event, Mr Liu also expresses the view that the same analysis in
+relation to Articles 148(a) and 148(c) applies to Article 148(h). 211
+
+##### Foot Note 211
+
+×
+
+Mr Liu’s 1st Expert Report at para 71 (6 BAEIC 3687); Transcript, 3 August
+2022 at p 84 line 19 to p 85 line 3.
+
+In that sense, reliance on Article 148(h) adds nothing to the plaintiffs’
+case. Since I have found that there is no breach of either Article 148(a) or
+Article 148(c), there is no need for me to consider separately whether there
+is a breach of Article 148(h).
+
+Duty of diligence under PRC law
+
+207 I now turn to consider whether the defendant breached his duty of
+diligence to the second plaintiff under Article 147 of the PRC Company Law
+(see [72] above) by causing it to enter into the loan agreements. I accept the
+second plaintiff’s case that the inadequacies in the terms of the loan
+agreements are sufficient to warrant a finding that the defendant breached his
+duty of diligence to the second plaintiff under PRC law by causing the second
+plaintiff to advance RMB 14m to Mr Li on those terms.
+
+208 Both experts agree that to discharge his duty of diligence to the second
+plaintiff under Article 147, the defendant must exercise reasonable care in
+handling the affairs of the company measured against the standard of a good
+administrator. In other words, the defendant must carry out his tasks while
+exercising the same prudence and care that a reasonable administrator in the
+same or a similar position would have exercised in the same or similar
+circumstances. 212
+
+##### Foot Note 212
+
+×
+
+Mr Liu’s 1st Expert Report at para 74 (6 BAEIC 3688); Dr Zhang’s 1st Expert
+Report at paras 23–24 (2 BAEIC 930).
+
+209 The expert witnesses disagree on the extent to which the PRC courts will
+consider the business judgment rule when considering whether a director has
+breached his duty of diligence. Mr Liu takes the position that the PRC courts
+may consider the business judgment rule. He relies on the following extract
+from Jiang Bixin and He Dongning, The Understanding and Application of Judging
+Rules in Guidance Cases of the Supreme Peoples’ Court (Volume of Corporation
+Law) (China Legal Publishing House, 2nd Ed) (“Corporation Law”): 213
+
+##### Foot Note 213
+
+×
+
+Mr Liu’s 1st Expert Report at para 78 (6 BAEIC 3689).
+
+In terms of duties of diligence, it is necessary to determine the standard for
+diligence. On the one hand, where the standard is too loose, that will weaken
+the duty of diligence and it would not help to enhance business competence. If
+indulgence is given to the director at fault, it will ultimately harm the
+interest of the company and shareholders. On the other hand, the standard
+cannot be too strict. It is impossible for directors to ensure that they make
+no mistakes during the company’s operations and that all operations bring
+profits to the company. Therefore, the reasonable risks in the directors’
+management should be acknowledged and the business judgment rule should be
+applied.
+
+[emphasis added in italics and bold italics]
+
+210 Dr Zhang disagrees. He explains that Corporation Law is not an official
+source of PRC law and is not enforceable as law. 214
+
+##### Foot Note 214
+
+×
+
+Dr Zhang’s 2nd Expert Report at para 27 (2 BAEIC 1058).
+
+Moreover, reading the extract of Corporation Law in context shows that the
+authors admit that the business judgment rule has yet to be accepted into PRC
+law. This extract is therefore nothing more than an allusion to the business
+judgment rule as it exists in the United States, with the authors going on to
+express their view that “how to absorb and use the rule for reference to
+improve legislation and guide juridical practice in China has become an
+important topic”. 215
+
+##### Foot Note 215
+
+×
+
+Dr Zhang’s 2nd Expert Report at paras 28–29 (2 BAEIC 1058–1059).
+
+211 I put it to Mr Liu during his cross-examination that Corporation Law goes
+beyond merely describing PRC Company Law and makes normative or predictive
+statements about how PRC Company Law should or will develop in light of
+company law in other jurisdictions. 216
+
+##### Foot Note 216
+
+×
+
+Transcript, 4 August 2022 at p 9 lines 17–23.
+
+Mr Liu accepted this point.
+
+212 I accept that Mr Liu has overstated the extent to which PRC law recognises
+the business judgment rule. This is also evident in the extract at [209]
+above. Rather than using the descriptive “is”, the authors’ use the normative
+“should” and the conditionality that that word implies when discussing whether
+business judgment rule applies under PRC law.
+
+213 Therefore, when determining whether the defendant has acted in breach of
+his duty of diligence to the second plaintiff, I do not consider the business
+judgment rule. The inquiry on this duty is confined to whether the defendant
+carried out his tasks while exercising the same prudence and care that a
+reasonable administrator in the same or a similar position would have
+exercised in the same or similar circumstances.
+
+214 I find that the defendant breached his duty of diligence to the second
+plaintiff by causing it to enter into the loan agreements without taking
+reasonable steps to ensure that the terms of the loan agreements afforded
+reasonable protection for the second plaintiff’s legal and economic interests.
+I say that for three reasons.
+
+215 First, the defendant himself admitted that the loan agreements 217
+
+##### Foot Note 217
+
+×
+
+4CB 2653 and 2829.
+
+gave the second plaintiff no control over Mr Li’s use of the money, allowing
+him to “do whatever he [wanted] with the money for two years”. 218
+
+##### Foot Note 218
+
+×
+
+Transcript, 27 July 2022 at p 70 line 17 to p 71 line 18.
+
+The loan agreements do not oblige Mr Li to apply the RMB 14m solely for the
+purpose of “[l]and purchase at industrial park”. They do not give the second
+plaintiff any contractual or practical mechanism to police the purpose to
+which Mr Li applies the RMB 14m once he has received it. They make no
+provision for security or for a third-party guarantee for the second plaintiff
+to recourse to if Mr Li uses the RMB 14m for a different purpose or fails to
+repay it after two years. As I observed at [126] above, they do not allow the
+second plaintiff to accelerate Mr Li’s repayment obligation. They also do not
+oblige Mr Li to attempt to secure a refund of the deposit if negotiations with
+a potential seller fail. As the second plaintiff points out, its only right to
+recover the RMB 14m is by waiting for the two-year tenor of the loan
+agreements to expire. 219
+
+##### Foot Note 219
+
+×
+
+PCS at para 140; Transcript, 5 August 2022 at p 29 lines 2–9.
+
+All of this makes the loan agreements unreasonably inadequate to protect the
+second plaintiff’s interests.
+
+216 Second, as I observed at [127] above, and as was common ground between the
+parties’ experts, it is unusual in the PRC to secure land for purchase there
+by lending the money intended for the deposit to an intermediary such as Mr
+Li. Both experts testified that these transactions are typically done through
+an escrow, custody or other similar agreement. 220
+
+##### Foot Note 220
+
+×
+
+Mr Du’s 1st Expert Report at para 25 (6 BAEIC p 4153); Ms Yi Qian’s 1st Expert
+Report at para 13 (3 BAEIC p 1225).
+
+Causing the second plaintiff to enter into agreements of this type would have
+been reasonably adequate to protect the second plaintiff’s interests.
+
+217 Third, it is undisputed that the defendant did not seek legal advice when
+he caused the second plaintiff to enter into the loan agreements. 221
+
+##### Foot Note 221
+
+×
+
+PRS at para 114; DCS at para 266.
+
+Legal advice would have made the defendant aware of the alternatives of an
+escrow, custody or other similar agreement. At the very least, legal advice
+would have made the defendant aware of the shortcomings in the terms of the
+loan agreement. Instead, the defendant’s evidence is that he approached the
+loan agreements as an entirely commercial matter, not as a legal matter
+requiring legal advice to ensure that the second plaintiff’s legal interests
+were reasonably adequately protected. 222
+
+##### Foot Note 222
+
+×
+
+Transcript, 27 July 2022 at p 120, line 22 to p 121 line 14.
+
+218 In cross-examination, the defendant accepted, when it was put to him, that
+his decision to advance RMB 14m to Mr Li on the terms set out in the loan
+agreements “was totally ill advised”. 223
+
+##### Foot Note 223
+
+×
+
+Transcript, 27 July 2022 at p 120 lines 22–24.
+
+As a result of this “ill advised” decision, the second plaintiff is now unable
+to recover the RMB 14m from Mr Li. 224
+
+##### Foot Note 224
+
+×
+
+Transcript, 27 July 2022 at p 120 lines 14–21.
+
+219 For the foregoing reasons, I am satisfied that a reasonable administrator
+in the defendant’s position would not have advanced the RMB 14m to Mr Li as a
+loan. The defendant thereby breached the standard of diligence expected of him
+as a director of the second plaintiff.
+
+Mitigation
+
+220 Causation is not disputed, ie, it is not disputed that the second
+plaintiff lost RMB 14m because the defendant caused the second plaintiff to
+advance the RMB 14m to Mr Li as a loan rather than through an escrow, custody
+or other similar agreement.
+
+221 The next question which arises on the defendant’s pleaded case is whether
+the second plaintiff took reasonable steps to mitigate its loss. 225
+
+##### Foot Note 225
+
+×
+
+Defence at para 55(h).
+
+Despite taking this point in its pleadings, the defendant does not pursue this
+point in his closing submissions. I therefore need not analyse mitigation as
+an issue.
+
+222 In any event, I find that the second plaintiff did take reasonable steps
+to mitigate its loss. In December 2019, the second plaintiff lodged a police
+report in the PRC reporting the defendant’s alleged wrongdoings and requesting
+assistance to obtain compensation for its losses. 226
+
+##### Foot Note 226
+
+×
+
+PL AEIC at para 111 (1 BAEIC 323–324).
+
+I also accept that the plaintiffs face considerable difficulty in enforcing
+the loan agreements against Mr Li, considering that the loan agreements do not
+contain any background information or proof of identification of Mr Li. 227
+
+##### Foot Note 227
+
+×
+
+PCS at para 289; SBS at para 162(c)(iv) (1 BAEIC 96).
+
+The damages recoverable by the second plaintiff are therefore not to be
+diminished in any way by reason of any failure to mitigate its loss.
+
+223 I also note that the plaintiffs adduced evidence of steps taken by AMBDG
+in mitigation, namely, that AMBDG’s lawyers invited the defendant to resolve
+the issues and sent letters of demand to Mr Li seeking repayment of the loans.
+228
+
+##### Foot Note 228
+
+×
+
+PCS at para 281.
+
+However, AMBDG is not a plaintiff. AMBDG’s acts are therefore not relevant in
+my consideration of whether the second plaintiff acted reasonably to mitigate
+its loss.
+
+Both plaintiffs’ claim in conspiracy
+
+224 I now turn to consider the plaintiffs’ claim against the defendant in the
+tort of conspiracy.
+
+225 To establish liability for an unlawful means conspiracy, a plaintiff must
+prove the following (EFT Holdings, Inc and another v Marinteknik Shipbuilders
+(S) Pte Ltd and another [2014] 1 SLR 860 (“EFT Holdings”) at [112]):
+
+(a) that two or more persons engaged in a combination to do certain acts;
+
+(b) that those persons intended to cause damage or injury to the plaintiffs by
+those acts;
+
+(c) that the acts were unlawful;
+
+(d) that the acts were performed in furtherance of the agreement; and
+
+(e) that the plaintiff has suffered loss as a result of the conspiracy.
+
+226 The elements of a lawful means conspiracy are the same as the elements of
+an unlawful means conspiracy save that element (c) requires the plaintiffs to
+establish that the conspirators carried out lawful acts with the predominant
+purpose of causing injury or damage to the plaintiffs, and that this purpose
+was in fact achieved (Quah Kay Tee v Ong and Co Pte Ltd [1996] 3 SLR(R) 637 at
+[45]).
+
+227 The plaintiffs’ pleaded case on conspiracy is as follows. Mr Li is a known
+close associate of the defendant. The defendant signed the loan agreements on
+the second plaintiff’s behalf without the knowledge and consent of the first
+plaintiff or of AMBDG as part of a conspiracy with Mr Li to cause loss to the
+second plaintiff. 229
+
+##### Foot Note 229
+
+×
+
+SOC at paras 33–34.
+
+The defendant and Mr Li have shared business interests in the PRC: the
+defendant is a shareholder of Hong Kong Xinlong International Holdings (“HK
+Xinlong”), Mr Li is a shareholder of Zhenyushan International Holdings Co.,
+Ltd (“Zhenyushan”). HK Xinlong and Zhenyushan own shares in China HX, where
+the defendant is also a director. 230
+
+##### Foot Note 230
+
+×
+
+PCS at paras 149, 296 and 298; SBS AEIC at paras 23 and 26.
+
+The plaintiffs rely on this as circumstantial evidence that Mr Li and the
+defendant are close associates.
+
+228 Both plaintiffs’ claims in conspiracy must fail. I take each plaintiff’s
+claim in turn.
+
+Unlawful means conspiracy
+
+The first plaintiff
+
+229 The first plaintiff’s claim in unlawful means conspiracy fails for two
+reasons.
+
+230 First, I do not accept that there was any combination between the
+defendant and Mr Li. I reach that conclusion for the same reasons that I have
+given for rejecting the plaintiffs’ case that Mr Li is an “interested party”
+as against the defendant for the purposes of Article 148(a) of the PRC Company
+Law.
+
+231 Second, the defendant did not breach any of his duties to the first
+plaintiff under BVI law. There is virtually no disagreement between the
+parties’ BVI law experts that the defendant owed two duties to the first
+plaintiff under BVI law.
+
+232 The defendant owed a duty of care, skill and diligence to the first
+plaintiff under s 122 of the BVI Business Companies Act 2004:
+
+A director of a company, when exercising powers or performing duties as a
+director, shall exercise the care, diligence, and skill that a reasonable
+director would exercise in the same circumstances taking into account, but
+without limitation, (a) the nature of the company; (b) the nature of the
+decision; and (c) the position of the director and the nature of the
+responsibilities undertaken by him.
+
+233 The defendant also owed the following fiduciary duties to the first
+plaintiff under sections 120 to 125 of the BVI Business Companies Act 2004
+(omitting section 122, which governs the duty of diligence) and the common law
+on those sections: 231
+
+##### Foot Note 231
+
+×
+
+PCS at para 247; DCS at para 57; SOC at para 8.
+
+(a) a duty to act honestly and in good faith and in what he believes to be in
+the first plaintiff’s best interests;
+
+(b) a duty to exercise each of his powers for the purposes for which they were
+conferred;
+
+(c) a duty to act in a way that he considered in good faith would promote the
+first plaintiff’s success for the benefit of its shareholders as a whole;
+
+(d) a duty to avoid a situation in which he had or could have a direct or
+indirect interest that conflicted or could possibly be in conflict of the
+first plaintiff’s interest;
+
+(e) a duty not to profit from his position of trust as a fiduciary;
+
+(f) a duty to act for the proper purpose of the first plaintiff in relation to
+all of its affairs, which includes acting with proper authorisation from the
+first plaintiff’s directors;
+
+(g) a duty to ensure that the first plaintiff’s affairs are properly
+administered and that its assets and property are not dissipated or exploited
+to its prejudice;
+
+(h) a duty to serve the first plaintiff faithfully and dutifully and not to
+advance and promote his own or other external interests to the prejudice of or
+contrary to or in conflict with the corporate and/or commercial interests of
+the first plaintiff;
+
+(i) a duty to ensure that each contract or transaction entered into is done so
+at arm’s length in fulfilment of the first plaintiff’s corporate objectives to
+maximise profits and to advance and promote the first plaintiff’s business;
+
+(j) a duty to promptly account for and to pay to the first plaintiff all
+moneys or property received by him on behalf of or for the credit or the
+account of the first plaintiff;
+
+(k) a duty to manage and deal with the first plaintiff’s property in a
+trustee-like manner; and
+
+(l) a duty to disclose to the first plaintiff any of his breaches of any of
+the aforesaid or other duties.
+
+234 The plaintiffs’ pleaded case is that the defendant breached these duties
+when he: 232
+
+##### Foot Note 232
+
+×
+
+SOC at para 31; PCS at paras 249 and 258.
+
+(a) failed to apply the RMB 30m transferred by AMBDG to the second plaintiff
+towards the purposes set out in the January 2019 Email (see [29] above); and
+
+(b) caused the first plaintiff to take steps to set up a sheet board plant
+despite the fact that doing so had not been approved by the first plaintiff’s
+directors.
+
+235 I do not accept that the defendant breached either his duty of diligence
+or his fiduciary duties to the first plaintiff.
+
+236 First, I accept that the defendant did apply the RMB 30m for the purposes
+set out in the January 2019 Email. It is undisputed that the second plaintiff
+(a) repaid AMBDG the sum of RMB 10m for the deposit that AMBDG had paid to
+BHS; and (b) paid Huizhou SJ the sum of RMB 5m as a deposit for an automation
+system required for a sheet board plant. 233
+
+##### Foot Note 233
+
+×
+
+SBS AEIC at paras 134(b) and 134(c) (1 BAEIC 78).
+
+I have also found that the RMB 14m advanced to Mr Li was applied towards
+setting up a sheet board plant. This is broadly consistent with the January
+2019 Email. In that email, the defendant said that RMB 10m was required as a
+deposit for the purchase of land in Huizhou and RMB 5m was required for “some
+minor expenses” for the second plaintiff.
+
+237 Second, I have found at [159] and [177] above that the first plaintiff’s
+directors approved the steps which the defendant took to set up a sheet board
+plant.
+
+238 Third, the defendant did no act as against the first plaintiff which was a
+breach of his duty of diligence to the first plaintiff. To the extent that a
+loan agreement – as opposed to an escrow, custody or other similar arrangement
+– was unreasonably inadequate to protect the second plaintiff’s interests, the
+proper plaintiff for any such claim is the second plaintiff and only the
+second plaintiff.
+
+239 Therefore, I find that the defendant did not breach either the duty of
+diligence or the fiduciary duties that he owed to the first plaintiff under
+BVI law. There is therefore no unlawful act on which the first plaintiff can
+base a claim in unlawful means conspiracy.
+
+The second plaintiff
+
+240 The second plaintiff’s claim in unlawful means conspiracy also fails.
+
+241 For the reasons I set out at [242]–[247] below, I find that the second
+plaintiff has failed to prove that the defendant acted with any intention to
+cause it loss.
+
+Both plaintiffs’ claim in lawful means conspiracy
+
+242 Both plaintiffs’ claims against the defendant in lawful means conspiracy
+must fail.
+
+243 I have already found that the defendant caused the second plaintiff to
+enter into the loan agreements and to advance RMB 14m to Mr Li as a step in
+setting up a sheet board plant and not for any collateral purpose. Implicit in
+that finding is a finding that the first defendant acted with the predominant
+intention of benefitting the Group and not of causing loss to either
+plaintiff. That finding excludes any possibility of finding that the defendant
+caused the second plaintiff to enter into the loan agreements with the
+predominant intention of causing loss to either of the plaintiffs.
+
+244 Two further features of this case support my finding that the defendant
+did not have the predominant intention of causing loss to either plaintiff.
+First, the defendant made no attempt to conceal the loans. The loans were not
+a secret within the Group. 234
+
+##### Foot Note 234
+
+×
+
+Transcript, 21 July 2022 at p 49 lines 21–25.
+
+It is undisputed that Mr Lock witnessed the first transfer of RMB 10m from the
+second plaintiff to Mr Li on 15 January 2019. 235
+
+##### Foot Note 235
+
+×
+
+PL at para 65 (1 BAEIC 305).
+
+Moreover, the advance is contemporaneously recorded in the second plaintiff’s
+bank statements 236
+
+##### Foot Note 236
+
+×
+
+5 CB 3641–3642; Transcript, 21 July 2022 at p 48 line 22 to p 49 line 25.
+
+and the loan is contemporaneously recorded in the second plaintiff’s
+management reports. 237
+
+##### Foot Note 237
+
+×
+
+13 AB 9433–9434.
+
+Second, the defendant has an interest in at least 20% of the shares in the
+first plaintiff through Caldicott. It is not part of the plaintiffs’ case that
+the defendant derived any personal gain from causing the second plaintiff to
+advance RMB 14m to Mr Li. Therefore, any loss that he intended to cause to the
+first plaintiff would rebound as to at least 20% upon himself. For these two
+additional reasons, I find that the plaintiffs’ case that the defendant acted
+with any intention, predominant or otherwise, of causing loss to either of the
+plaintiffs to be contrary to the inherent probabilities.
+
+245 The plaintiff submits that the defendant incorporated China HX and HK
+Xinlong in May 2019 in furtherance of his conspiracy with Mr Li. 238
+
+##### Foot Note 238
+
+×
+
+CWS at para 146.
+
+The defendant’s evidence is that he incorporated China HX and HK Xinlong at Mr
+Li’s suggestion as an alternative method to acquire land in the PRC for a
+sheet board plant. The defendant claims that Mr Li suggested that using a
+foreign owned company, like HK Xinlong, to apply for land from the local
+government to build an industrial park would lend weight to the application.
+239
+
+##### Foot Note 239
+
+×
+
+CCK AEIC at para 144 (1 BAEIC 399–400).
+
+The plaintiffs submit, however, that this explanation does not make sense
+because the first plaintiff and AMBHK are also foreign-owned companies. If the
+defendant’s evidence is true, they could equally have been used to lend weight
+to an application for land from the local government. 240
+
+##### Foot Note 240
+
+×
+
+PRS at para 126.
+
+246 Having regard to all the facts, I am unable to conclude that the defendant
+incorporated China HX and HK Xinlong in furtherance of a conspiracy with Mr
+Li. While the defendant could have used the first plaintiff or AMBHK to apply
+for land from the local government instead, this possibility does not warrant
+the inference that China HX and HK Xinlong were not incorporated for this
+purpose.
+
+247 The plaintiffs also rely on the defendant’s insistence on deregistering
+the second plaintiff with unseemly haste after executing the loan agreements.
+This, they say, was the defendant’s attempt to cover up his wrongdoing by
+ensuring that the second plaintiff could not take any steps to recover the RMB
+14m from Mr Li. 241
+
+##### Foot Note 241
+
+×
+
+PCS at para 307.
+
+I do not accept this submission. Mr Ching knew about the defendant’s intention
+to deregister the second plaintiff and worked with the defendant to implement
+it. On 30 May 2019, the defendant and Mr Ching discussed the deregistration of
+the second plaintiff and Huizhou SJ on WeChat. During the exchange, Mr Ching
+advised the defendant that the second plaintiff had to agree with its debtors
+to assign “all the loan and investment matters between the original Huizhou
+Company and any person or company” to a new company before deregistration. 242
+
+##### Foot Note 242
+
+×
+
+5 CB 3230.
+
+Mr Ching testified that he was referring to other loan agreements, including a
+RMB 5m loan that the second plaintiff had given to Huizhou SJ. 243
+
+##### Foot Note 243
+
+×
+
+PRS at para 132(a); Transcript, 20 July 2022 at p 12 lines 19–23.
+
+However, considering the surrounding context and Mr Ching’s choice of words as
+“between the original Huizhou Company and any person or company”, I accept
+that Mr Ching also had in mind the loan agreements with Mr Li. There is no
+evidence of other loans the second plaintiff had with other natural persons.
+This further reinforces my view that the loan agreements were not a step in a
+conspiracy, but part of setting up a sheet plant business.
+
+Conclusion on conspiracy
+
+248 Having regard to all the evidence, I dismiss both plaintiffs’ claims
+against the defendant in both varieties of the tort of conspiracy. It appears
+to me that the plaintiffs’ case theory of a conspiracy is nothing but a
+conspiracy theory of a case.
+
+Relief
+
+249 I now turn to consider the relief that the second plaintiff is entitled to
+as a result of the defendant’s breach of his duty of diligence to the second
+plaintiff. That is the only claim in which I have found the defendant liable
+to either plaintiff.
+
+250 The plaintiffs submit that the defendant should be ordered to pay damages
+to the second plaintiff in the sum of: (a) RMB 14m being the amount
+irrecoverable from Mr Li by reason of the defendant’s breach of duty; (b) RMB
+1.26m being the interest due but unpaid under the loan agreements as at 30
+September 2022; and (c) RMB 5.77m being expenses incurred to investigate and
+mitigate the effects of the defendant’s wrongful acts. 244
+
+##### Foot Note 244
+
+×
+
+PCS at para 275.
+
+The plaintiffs also ask for an order that the defendant account to the second
+plaintiff for the sum of RMB 14m and all profits he has earned with that
+money, and pay to the second plaintiff all sums found to be due to the second
+plaintiff upon taking the account. 245
+
+##### Foot Note 245
+
+×
+
+PCS at para 276.
+
+251 There is no dispute that the defendant’s breach of his duty of diligence
+caused the second plaintiff to suffer loss of RMB 14m, being the sum advanced
+to Mr Li under the loan agreements. I have also found that there is no basis
+on which to reduce the second plaintiff’s damages by reason of a failure to
+take reasonable steps to mitigate its loss. The second plaintiff is therefore
+entitled to judgment against the defendant for the sum of RMB 14m.
+
+252 I now consider the second plaintiff’s claim for the interest and the
+investigation expenses.
+
+Interest on the loans amounting to RMB 1.26m
+
+253 The defendant submits that the second plaintiff is not entitled to recover
+the RMB 1.26m in interest due but unpaid under the loan agreements because
+that is a form of special damage and the second plaintiff failed to plead it
+in its statement of claim as the rules of pleading require. 246
+
+##### Foot Note 246
+
+×
+
+Defendant’s Reply Closing Submissions dated 16 November 2022 (“DRS”) at para
+168.
+
+The first time that the plaintiff has ever advanced a claim for the unpaid
+interest was in the plaintiff’s written closing submissions. 247
+
+##### Foot Note 247
+
+×
+
+DRS at para 169; PCS at para 275.
+
+254 The first point I make is that I have found the defendant liable to the
+second plaintiff for a wrong and not for a breach of contract or for a breach
+of the duty of fidelity. The defendant’s breach of his duty of diligence
+renders him liable to put the second plaintiff in the position it would have
+been in if that breach of duty had never occurred. The defendant is not liable
+to put the second plaintiff in the position it would have been in if the
+defendant had, in breach of his duty of diligence, nevertheless caused the
+second plaintiff to enter into the loan agreements with Mr Li and if Mr Li had
+performed his obligation under the loan agreements to pay interest to the
+second plaintiff at 3% per annum. In my view, therefore, the defendant’s only
+liability to the second plaintiff is to compensate it for the actual loss it
+has suffered, and not to compensate it for any benefit under the loan
+agreements that it expected to receive from Mr Li but has failed to receive.
+The defendant’s breach of his duty of diligence to the second plaintiff does
+not render him a guarantor to the second plaintiff of Mr Li’s obligations
+under the loan agreements.
+
+255 This result is clear from considering the second plaintiff’s case against
+the defendant more closely. The second plaintiff’s case is that the defendant
+breached his duty of diligence to the second plaintiff by causing the second
+plaintiff to enter into the loan agreements instead of a escrow, custody or
+other similar agreement. That raises two alternative counterfactuals to
+consider in assessing damages: (a) the defendant not causing the second
+plaintiff to enter into any agreement with Mr Li at all; or (b) the defendant
+causing the second plaintiff to enter into an escrow, custody or other similar
+agreement with Mr Li. On the first alternative, the second plaintiff would
+still have the RMB 14m but would have no right to receive interest from Mr Li.
+The second plaintiff’s loss would be simply the RMB 14m. On the second
+alternative, the result would be the same. If the defendant had caused the
+second plaintiff to enter into a escrow, custody or other agreement with Mr
+Li, the second plaintiff would not have put the RMB 14m at Mr Li’s unqualified
+disposal but would have retained control over it. If the RMB 14m was not at Mr
+Li’s unqualified disposal, there would have been no commercial basis
+whatsoever for the second plaintiff to receive any interest on the RMB 14m
+from Mr Li. On the alternative counterfactual too, the second plaintiff would
+have the RMB 14m but would have no right to receive interest from Mr Li.
+
+256 That suffices in itself to render the RMB 1.26m irrecoverable from the
+defendant.
+
+257 Further, in the context of an action for breach of a duty of diligence (as
+opposed to an action for breach of contract or in debt) and given the
+counterfactuals in this case, I accept that the loss of interest at 3% per
+annum which the defendant claims it suffered is special damage. Special damage
+is a type of loss which the law will not presume is the natural or probable
+consequence of a defendant’s wrongful act (Crest Capital Asia Pte Ltd and
+others v OUE Lippo Healthcare Ltd (formerly known as International Healthway
+Corp Ltd) and another and other appeals [2021] 1 SLR 1337 at [211], citing The
+“Shravan” [1999] 2 SLR(R) 713 at [77]). The defendant’s wrongful act in this
+case is causing the second plaintiff to enter into the loan agreement with Mr
+Li. Mr Li’s breach of his contractual obligation to pay interest under the
+loan agreements is not a natural or a probable consequence of the defendant’s
+breach of his duty of diligence. The second plaintiff’s claim for interest is
+therefore special damage and ought to have been pleaded in order to avoid
+taking the defendant by surprise.
+
+258 For both these reasons, I dismiss the plaintiffs’ claim to recover the
+interest of RMB 1.26m.
+
+The investigation expenses
+
+259 I reject the second plaintiff’s claim for the RMB 5.77m in investigation
+expenses. The second plaintiff did not incur the investigation expenses. It
+cannot therefore recover this alleged loss from the defendant.
+
+260 At trial, Mr Lock testified that these investigation expenses were
+incurred by AMBDG, the sole shareholder of the second plaintiff. 248
+
+##### Foot Note 248
+
+×
+
+Transcript, 21 July 2022 at p 66 lines 16–18; PL AEIC at para 113 (1 BAEIC
+324).
+
+The plaintiffs are bound by this evidence, coming from the plaintiffs’ own
+witness.
+
+261 To support its claim for the investigation expenses, the second plaintiff
+relies on two directors’ resolutions, one passed by the directors of AMBDG and
+the other by the directors of the second plaintiff. The effect of both
+resolutions is to record: (a) that AMBDG paid the investigation expenses for
+and on behalf of the second plaintiff; and (b) that the second plaintiff is to
+pay the investigation expenses to AMBDG upon recovery. 249
+
+##### Foot Note 249
+
+×
+
+PL AEIC at para 113 (1 BAEIC 324); Exhibit PL-55.
+
+262 It could be argued that these two directors’ resolutions render the second
+plaintiff subject to an obligation to reimburse AMBDG in the sum of RMB 5.77m.
+It could be further argued that this legal obligation suffices in law to
+transform the expenses which AMBDG incurred into a loss which the second
+plaintiff has suffered, ie, a liability to reimburse AMBDG in the amount of
+RMB 5.77m.
+
+263 I do not accept that these resolutions give the second plaintiff the right
+to recover the investigation expenses as damages for the defendant’s breach of
+his duty of diligence. I say that for five reasons.
+
+264 First, in so far as the plaintiffs argue that the effect of these two
+resolutions is to transform expenses incurred by AMBDG into a loss suffered by
+the second plaintiff in the form of a legal obligation to reimburse AMBDG, 250
+
+##### Foot Note 250
+
+×
+
+PRS at para 85.
+
+no such obligation is anywhere pleaded. Neither can the plaintiffs rely on Mr
+Lock’s affidavit of evidence in chief as a backdoor pleading (Tuitiongenius
+Pte Ltd v Toh Yew Keat and another [2021] 1 SLR 231 at [67]). This is not a
+mere technicality. The second plaintiff’s failure to plead that it suffered
+loss in the form of an obligation to reimburse AMBDG for these expenses
+deprived the defendant of the opportunity to cross-examine the plaintiffs’
+witnesses on the existence and scope of this alleged obligation.
+
+265 Second, even on the plaintiffs’ own case, the effect of the resolutions is
+not to create an immediate obligation, binding on the second plaintiff, to
+reimburse AMBDG in the sum of RMB 5.77m. The only effect of the resolutions is
+to create a conditional obligation: one which will bind the second plaintiff
+if and only if the second plaintiff succeeds in recovering RMB 5.77m from the
+defendant. Given the conditionality of this obligation, it is apparent that
+even today, the judgment date, the second plaintiff is not obliged to
+reimburse AMBDG in the sum of RMB 5.77m. On the clear wording of the
+resolution, the second plaintiff will become obliged to do so only if it
+recovers that sum from the defendant in this action. But it can recover that
+sum from the defendant in this action only if it is legally obliged to
+reimburse AMBDG in that sum. There is no way to break the circularity. The
+resolutions therefore do not have the effect of transforming expenses incurred
+by AMBDG into a loss suffered by the second plaintiff in the form of an
+obligation to reimburse AMDG for those expenses.
+
+266 Third, the two resolutions were passed in June 2021. The second plaintiff
+commenced this action in March 2020. 251
+
+##### Foot Note 251
+
+×
+
+Exhibit PL-56; Writ of Summons filed in HC/S 233/2020 on 13 March 2020.
+
+Even taking the second plaintiff’s case at its highest and assuming that the
+resolutions created an immediate and binding legal obligation on the second
+plaintiff to reimburse AMBDG in the sum of RMB 5.77m in June 2021, it could
+not have been subject to any such obligation when the second plaintiff
+commenced this action in March 2020. AMBDG was the only proper plaintiff to
+seek to recover the RMB 5.77m in March 2020.
+
+267 Fourth, it is unclear what proportion of the investigation expenses were
+expenses that AMBDG incurred on behalf of the second plaintiff. The breakdown
+of the investigation expenses shows that the RMB 5.77m includes, among other
+expenses, professional and operational expenses “of AMBDG’s subsidiaries”. 252
+
+##### Foot Note 252
+
+×
+
+PL AEIC at para 112.
+
+It is undisputed that the second plaintiff is not AMBDG’s sole subsidiary. 253
+
+##### Foot Note 253
+
+×
+
+SBS at para 4.
+
+These expenses may well have been incurred on behalf of other subsidiaries of
+AMBDG, not on behalf of the second plaintiff. It is the second plaintiff’s
+burden to prove this.
+
+268 Fifth, the plaintiffs seek to rely on the second plaintiff’s income
+statement for 2019 (“the Income Statement”) to support this claim. 254
+
+##### Foot Note 254
+
+×
+
+18 AB 12915; 17 AB 12408.
+
+I received the Income Statement by way of a supplemental affidavit of evidence
+in chief as part of Mr Lock’s evidence in chief. 255
+
+##### Foot Note 255
+
+×
+
+Transcript, 21 July 2022 at p 12 line 25 to p 13 line 15.
+
+269 The Income Statement does not assist the plaintiffs. It does not show that
+the second plaintiff can be said to have incurred the investigation expenses
+by having reimbursed AMBDG or by having come under an immediate and
+unqualified obligation to do so at any time, and in any event before the
+second plaintiff commenced this action.
+
+270 For all of the foregoing reasons, I find that any right to recover the
+investigation expenses from the defendant lies with AMBDG and not with the
+second plaintiff. The second plaintiff’s claim to recover the investigation
+expenses must be dismissed.
+
+Account of profits
+
+271 The second plaintiff’s claim for an account of profits requires a finding
+that the RMB 14m was in fact paid to the defendant and his associates. 256
+
+##### Foot Note 256
+
+×
+
+PCS at para 276.
+
+272 I have declined to make any such finding. The second plaintiff’s claim for
+an account of profits must also dismissed.
+
+Conclusion
+
+273 For all of the foregoing reasons, I find that the plaintiffs have proven
+that the defendant breached his duty of diligence to the second plaintiff and
+that the second plaintiff is entitled to enter judgment against the defendant
+in the sum of RMB 14m in damages. That sum will carry interest at the usual
+rate of 5.33% per annum from the date of the writ in this action to the
+present date.
+
+274 All of the plaintiffs’ other claims against the defendant have been
+dismissed.
+
+275 I will now hear from the parties on two issues: (a) the form of the
+judgment to be entered against the defendant; and (b) the issue of costs.
+
+Vinodh Coomaraswamy
+
+Judge of the High Court
+
+Cavinder Bull SC, Daniel Cai, Lea Woon Yee, Chua Xyn Yee and Nicholas Chng
+(Drew & Napier LLC) for the plaintiffs;
+
+Jaikanth Shankar, John Lo, Tan Ruo Yu, Stella Ng and Waverly Seong (Davinder
+Singh Chambers LLC) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 2: 09 Jun 2023 (18:05 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

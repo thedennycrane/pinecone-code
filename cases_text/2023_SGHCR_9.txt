@@ -1,0 +1,888 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHCR 9
+
+Suit No 1006 of 2021 (Summons No 1673 of 2023)
+
+Between
+
+| H8 Holdings Pte Ltd  
+---|---  
+|  
+  
+… Plaintiff
+
+And
+
+(1)| RIC Dormitory (SG) Pte Ltd (formerly known as QFC Investment Pte Ltd)  
+---|---  
+(2)| POP Holdings Pte Ltd  
+(3)| Lee Boon Leng  
+(4)| Leong Poh Choo  
+  
+… Defendants
+
+grounds of decision
+
+[Civil Procedure – Discovery of documents – Commercial sensitivity]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+H8 Holdings Pte Ltd
+
+  
+v
+
+  
+
+RIC Dormitory (SG) Pte Ltd (formerly known as QFC Investment Pte Ltd) and
+others
+
+  
+
+[2023] SGHCR 9
+
+General Division of the High Court — Suit No 1006 of 2021
+
+(Summons No 1673 of 2023)  
+AR Victor Choy  
+7, 12 July 2023
+
+24 July 2023
+
+AR Victor Choy:
+
+Introduction
+
+1 This was the Plaintiff’s, H8 Holdings Pte Ltd (“H8 Holdings”), application
+against the 1st Defendant, RIC Dormitory (SG) Pte Ltd (“RIC”), for specific
+discovery (“Application”) under O 24 r 5 of the Rules of Court (Cap 322, 2014
+Rev Ed) (“ROC 2014”). H8 Holdings sought discovery of RIC’s general ledger
+entries for the Financial Years (“FY”) ended on 31 December 2017, 31 December
+2018 and 31 December 2019 (collectively, “General Ledgers”).
+
+2 After hearing parties’ submissions, I allowed the Application. I now set out
+the full grounds of my decision.
+
+Background
+
+3 H8 Holdings and the 2nd Defendant, POP Holdings Pte Ltd (“POP Holdings”),
+are shareholders of RIC. The 3rd and 4th Defendants (“Lee and Leong”) are the
+only directors and shareholders of POP Holdings and are also the only
+directors of RIC.
+
+4 The present suit was brought by H8 Holdings for inter alia a claim for
+oppression. H8 Holdings claimed that, despite its objections, Lee and Leong,
+as controllers of RIC, approved the issuance of 1,000,000 of its shares to POP
+Holdings on or about 26 June 2018. 1
+
+##### Foot Note 1
+
+×
+
+Statement of Claim (Amendment No. 5) at para 32.
+
+H8 Holdings claimed that this effectively diluted its shareholding in RIC from
+30% to 15%. H8 Holdings also claimed that these shares were obtained by POP
+Holdings at an undervalue.
+
+5 Accordingly, one of the issues that arose and is to be determined at trial
+is whether the 1,000,000 shares of RIC obtained by POP Holdings on or around
+26 June 2018 were obtained at an undervalue. 2
+
+##### Foot Note 2
+
+×
+
+Statement of Claim (Amendment No. 5) at para 32.
+
+To determine this issue, parties appointed experts to perform a valuation of
+the shares of RIC held by H8 Holdings on or around 26 June 2018 (“Shares”). 3
+
+##### Foot Note 3
+
+×
+
+4th Affidavit of Han Jieling at pp 13-14.
+
+In this regard, H8 Holdings’ expert requested the General Ledgers so that he
+can perform the valuation. RIC refused, and hence the Application.
+
+The parties’ cases
+
+6 H8 Holdings sought the General Ledgers on behalf of its expert, Mr Farooq
+Ahmad Mann of Mann & Associates PAC (“Mr Mann”). Mr Mann took the view that
+the General Ledgers would be relevant and necessary to his determination of
+the value of the Shares as they would:
+
+(a) explain the closing balances as at 31 December 2017 and consequently the
+opening balances for 31 December 2018;
+
+(b) allow for the reconstruction of accounts as at 26 June 2018;
+
+(c) provide insight into how transactions are recorded such as sales; and
+
+(d) act as a safeguard or check against any inaccuracies in the financial
+statements which are unaudited.
+
+7 RIC disagreed. RIC took the view that discovery of the General Ledgers
+should be refused as:
+
+(a) the General Ledgers were not relevant to the issue of whether the Shares
+were obtained at an undervalue;
+
+(b) the General Ledgers were not necessary as Mr Mann could rely on the 2017
+and 2018 Financial Statements (“Financial Statements”) and management accounts
+(“Management Accounts”) of RIC that have already been provided;
+
+(c) there was delay in taking out the Application; and
+
+(d) the General Ledgers contained commercially sensitive information.
+
+8 For the reasons set out below, I did not accept RIC’s arguments.
+
+The law on specific discovery
+
+9 It is trite law that an order for specific discovery will be made only if
+the requested documents are relevant and necessary: see O 24 rr 5 and 7 of the
+ROC 2014.
+
+10 The relevance of a document is determined by reference to the parties’
+pleaded cases and can either be:
+
+(a) directly relevant – a document on which the party relies or will rely;
+where it could adversely affect his own or another party’s case; or where it
+supports another party’s case; or
+
+(b) indirectly relevant – a document that may lead the applicant to a “train
+of inquiry resulting in his obtaining information which may” adversely affect
+his or another party’s case or which may support another party’s case.
+
+(see O 24 r 5(3) of the ROC 2014; see also EQ Capital Investments Ltd v
+Sunbreeze Group Investments Ltd [2017] SGHCR 15 at [46(c)])
+
+11 If the requested documents are relevant, it must be shown that the
+documents are necessary either for disposing fairly of the cause or matter or
+for saving costs: O 24 r 7 of the ROC 2014. The burden rests on the party
+resisting discovery to show that disclosure is not necessary: UMCI Ltd v Tokio
+Marine & Fire Insurance Co (Singapore) Pte Ltd [2006] 4 SLR(R) 95 at [79].
+
+12 With the above principles in mind, I turn to the Application.
+
+Relevance of the General Ledgers
+
+13 I first considered the issue of relevance.
+
+14 This turns on the issue in dispute that forms the basis for seeking the
+requested documents. In the present case, the relevant issue is whether the
+1,000,000 shares of RIC obtained by POP Holdings on or around 26 June 2018
+were obtained at an undervalue. 4
+
+##### Foot Note 4
+
+×
+
+Statement of Claim (Amendment No. 5) at para 32.
+
+15 I was of the view that the General Ledgers were relevant to the issue as
+stated at [14] above, for the reasons explained below.
+
+The General Ledgers are relevant to the valuation of the Shares
+
+16 Relying on the principle that relevance must be determined by reference to
+the parties’ pleaded cases, RIC argued that the General Ledgers were
+irrelevant as they went towards challenging the accuracy and veracity of RIC’s
+Financial Statements, the issue of which has neither been pleaded nor
+challenged by H8 Holdings.
+
+17 In support of its argument, RIC referred to Mr Mann’s letter to H8
+Holdings’ solicitors dated 28 May 2023 (“Mr Mann’s Letter”) setting out his
+reasons for requesting the General Ledgers. In particular, RIC refers to
+paragraph 8 of Mr Mann’s Letter which stated: 5
+
+##### Foot Note 5
+
+×
+
+4th Affidavit of Han Jieling at pp 17-18.
+
+There are also strong reasons for the completed and detailed General Ledgers
+as mentioned above to be made available since one of the prayers in the
+Statement of Claim is requesting an independent audit of [RIC’s] financial
+accounts to be conducted to determine if the same is a going concern or not.
+This in turn is notedly connected to other prayers in the Statement of Claim.
+There is therefore a strong suggestion and reason to believe that the
+financial statements as drawn up by the Company and management may not be
+providing a true and fair view of the Company’s financial position as at the
+valuation date and this in turn will certainly impact on the engagement
+objective of determining the proper valuation of your clients’ minority stake
+as the valuation date.
+
+18 RIC argued that, based on the paragraph above, the purpose of seeking the
+General Ledgers was to challenge the veracity of RIC’s Financial Statements
+and not to determine whether the shares of RIC were obtained by POP Holdings
+at an undervalue. Accordingly, RIC submitted that discovery of the General
+Ledgers should not be allowed.
+
+19 I disagreed with RIC.
+
+20 The fact that a document is relevant to one issue does not preclude it from
+being relevant to another. Indeed, it would be odd if a document, that is
+relevant to one of the issues in the suit, is excluded simply because it is
+also relevant to another issue not raised in the suit. The key question must
+be whether, in determining the issue raised in the suit, a party will rely on
+the document or for the purposes set out in O 24 r 5 of the ROC 2014.
+
+21 On the present facts, I was persuaded that the General Ledgers would be
+relied on by Mr Mann for the purpose of valuing the Shares and consequently to
+determine whether the shares obtained by POP Holdings were obtained at an
+undervalue.
+
+22 Mr Mann had explained in his letter why he requested the General Ledgers
+and how they would assist him to determine the proper value of the Shares. In
+particular, paragraph 6 of Mr Mann’s Letter stated: 6
+
+##### Foot Note 6
+
+×
+
+4th Affidavit of Han Jieling at p 17.
+
+Having noted that the valuation of [H8 Holdings’] minority shareholding is at
+the valuation date, we note that as against this, the financial statements are
+all dated as at 31 December. For a meaningful valuation to be conducted, it is
+important that the financial statement and financial information (including
+the management accounts) as at 30 June 2018 are in hand. This includes the
+entire detailed General Ledgers of [RIC] for the financial years ended 31
+December 2017, 31 December 2018 and 31 December 2019 which would cover the
+transactions up to and including 30 June 2018. The General Ledgers for the
+financial year ended 31 December 2017 would explain the closing balances as at
+31 December 2017 and consequently the opening balances for 31 December 2018.
+The General Ledgers would also allow the 26 June 2018 and/or 30 June 2018
+management accounts to be reconstituted and provide insight into how
+transactions are recorded especially for sales. The General Ledgers from July
+2018 to 31 December 2019 would provide insight into what transactions took
+place after [H8 Holdings’] shares were diluted and in particular, whether any
+specific actions, resolutions or other transactions of [RIC] were carried out,
+put in place or timed after the dilution took place. Also, the importance of
+having the General Ledgers for the financial years ended 31 December 2017 to
+31 December 2019 in hand is connected to the issue of the veracity of the
+financial statements for these financial periods. This is elaborated on below
+and in particular at paragraph 8.
+
+23 In contrast, RIC did not put forth any evidence showing why it would be
+incorrect for Mr Mann to choose to rely on the General Ledgers in his
+valuation. Instead, RIC’s argument is simply that Mr Mann had not explained
+how the General Ledgers would be relevant to the valuation, which I did not
+agree with. In my view, the reasons provided by Mr Mann as set out at
+paragraph 6 of his letter showed that the General Ledgers would assist Mr Mann
+in understanding the financial accounts and assessing the financial position
+of RIC, which would be relevant to the valuation of the Shares. As to whether
+the Financial Statements and Management Accounts would be sufficient for the
+purpose of the valuation, this is a question of necessity, which will be dealt
+with below.
+
+24 Having considered the relevance of the General Ledgers, I returned to RIC’s
+argument that the General Ledgers are intended to be relied upon to challenge
+the accuracy and veracity of RIC’s Financial Statements, which RIC says is an
+issue that has neither been pleaded nor challenged by H8 Holdings. This
+appeared to have arisen from paragraph 8 of Mr Mann’s Letter which has been
+reproduced at [17] above, as well as the second last sentence of paragraph 6
+of Mr Mann’s Letter which stated: 7
+
+##### Foot Note 7
+
+×
+
+4th Affidavit of Han Jieling at p 17.
+
+Also, the importance of having the General Ledgers for the financial years
+ended 31 December 2017 to 31 December 2019 in hand is connected to the issue
+of the veracity of the financial statements for these financial periods.
+
+25 As I mentioned above, the fact that a document is relevant to one issue
+does not preclude it from being relevant to another. Reading paragraph 6 of Mr
+Mann’s Letter as a whole (which has been reproduced in full at [22] above), it
+was clear to me that Mr Mann requested the General Ledgers to value the
+Shares. While mention was made of the veracity of the Financial Statements,
+the request was made with the view of getting a full picture of RIC’s
+financial position and the intention to value the Shares accurately. The fact
+that it could also be used to challenge the veracity of the Financial
+Statements did not mean that it was irrelevant to the issue at hand.
+
+26 As I was of the view that the General Ledgers would be relied on by Mr Mann
+to obtain a proper valuation of the Shares, the General Ledgers would be
+relevant to determining whether the shares obtained by POP Holdings were
+obtained at an undervalue.
+
+The 31 December 2019 entries are relevant to properly value the Shares
+
+27 RIC then sought to narrow the scope of discovery by excluding the ledger
+entries for FY ended on 31 December 2019 (“2019 Ledgers”). RIC argued that the
+2019 Ledgers were irrelevant as the issue in question related to the value of
+RIC’s shares as of 26 June 2018. In RIC’s view, transactions which took place
+after 26 June 2018 had no impact on or relevance to the value of the Shares as
+at 26 June 2018 and that the request for the 2019 Ledgers was a fishing
+expedition.
+
+28 In response, H8 Holdings submitted that the 2019 Ledgers were relevant as
+the valuation process was not a point valuation but an ongoing one. Being an
+ongoing valuation, Mr Mann would need to take into account subsequent
+transactions so as to get an accurate picture of the financial status of RIC
+and consequently provide a more accurate valuation of the Shares as at 26 June
+2018. In support of its argument, H8 Holdings referred to paragraph 6 of Mr
+Mann’s Letter which stated: 8
+
+##### Foot Note 8
+
+×
+
+4th Affidavit of Han Jieling at p 17.
+
+The General Ledgers from July 2018 to 31 December 2019 would provide insight
+into what transactions took place after [H8 Holdings’] shares were diluted and
+in particular, whether any specific actions, resolutions or other transactions
+of [RIC] were carried out, put in place or timed after the dilution took
+place.
+
+29 I accepted H8 Holdings’ argument and Mr Mann’s explanation. There could be
+transactions that took place after 26 June 2018 which might have a bearing on
+the value of the Shares as at 26 June 2018.
+
+30 In the absence of evidence showing that to obtain an accurate value of the
+Shares:
+
+(a) the valuation exercise must strictly be conducted on the basis of
+information up to and only 26 June 2018; and
+
+(b) seeking the ledger entries up to FY ended on 31 December 2019 is
+manifestly excessive,
+
+I was of the view that the 2019 Ledgers would be relevant to obtaining an
+accurate valuation of the Shares.
+
+Necessity of the General Ledgers
+
+31 I next considered the necessity of the General Ledgers.
+
+32 In this regard, RIC argued that the General Ledgers, even if relevant, were
+not necessary because:
+
+(a) Mr Mann could rely on the Financial Statements and Management Accounts,
+which have already been put into discovery; and
+
+(b) the 2nd, 3rd and 4th Defendants’ expert, Mr Tim Reid of M/s Baker Tilly
+Advisory Pte Ltd (“Mr Reid”), would not be relying on the General Ledgers in
+his valuation of the Shares.
+
+33 I considered each of these below.
+
+The General Ledgers are necessary for an accurate valuation of the Shares
+
+34 There was no dispute that the following documents have been disclosed to H8
+Holdings:
+
+(a) RIC’s financial statements for FY 2017 to 2019; and
+
+(b) RIC’s Management Accounts (as at 31 May 2018 and 30 June 2018).
+
+(“Disclosed Documents”)
+
+35 RIC submitted that since H8 Holdings had not previously objected to the
+adoption and approval of the Financial Statements (for FY 2017 and 2018), the
+Disclosed Documents were sufficient for the purposes of the valuation of the
+Shares. Effectively, RIC was suggesting that Mr Mann should proceed with his
+valuation on the basis that the Financial Statements were true and accurate
+and it was therefore unnecessary for him to review the General Ledgers.
+
+36 I did not agree.
+
+37 While Mr Mann is appointed by H8 Holdings, as an expert, Mr Mann owes an
+overriding duty to the Court to assist the Court on the matters within his
+expertise: O 40A r 2 of the ROC 2014. To do so, it was fair for Mr Mann to
+seek documents which he believed would assist him in providing an accurate and
+meaningful valuation that would assist the Court.
+
+38 In Mr Mann’s view, the Disclosed Documents were insufficient for him to
+provide a meaningful or accurate valuation of the Shares. This is because the
+Financial Statements were unaudited and the Statement of Claim sought an
+independent audit of RIC’s financial accounts to be conducted to determine if
+RIC was a going concern. Given these, Mr Mann believed that he may not have a
+full view of the financial position of RIC with only the Disclosed Documents,
+therefore making it difficult for him to provide an accurate and proper
+valuation of the Shares.
+
+39 In view of the concerns that Mr Mann had arising out of the circumstances
+and pleadings of the parties, I was of the view that it was fair and necessary
+for Mr Mann to have sight of the General Ledgers to satisfy himself that he
+had the full picture of RIC’s financial position, which would in turn assist
+him in providing a valuation to the Court that he believes is accurate.
+
+H8 Holdings’ expert is not bound to rely solely on material that the
+Defendant’s expert chooses to rely on
+
+40 RIC also argued that the General Ledgers were unnecessary as the
+Defendants’ expert, Mr Reid, would not be relying on them in his valuation of
+the Shares.
+
+41 This argument is without merit. However, in fairness to RIC, this argument
+arose because Mr Mann took issue with Mr Reid (being the 2nd, 3rd and 4th
+Defendants’ expert) having been given unfettered access to RIC’s financial
+information including the General Ledgers whereas he was not similarly given
+the same. Mr Mann took the view that the unequal access to information could
+leave his valuation report open to attack by Mr Reid and affect the
+credibility and weight of his report. 9
+
+##### Foot Note 9
+
+×
+
+4th Affidavit of Han Jieling at p 17, para 7.
+
+42 All that being said, RIC’s argument may be easily addressed.
+
+43 Experts are generally free to choose the material that they intend to rely
+on. The fact that one expert chooses not to rely on certain material should
+not and cannot bind the hands of the other expert such that he or she is
+similarly not allowed to rely on the same. Of course, if parties agree or if
+the Court directs that certain material be excluded from consideration by the
+experts, that is a different matter.
+
+44 In the present case, where no such agreement or directions from the Court
+exist, the mere fact that Mr Reid chooses not to rely on the General Ledgers
+should not preclude Mr Mann from relying on them in his valuation.
+
+45 In any event, RIC’s submission that Mr Reid is not relying on the General
+Ledgers stemmed solely from their understanding that he would not do so. 10
+
+##### Foot Note 10
+
+×
+
+1st Affidavit of Leong Poh Choo at para 29.
+
+There was no evidence before me that Mr Reid has stated that he has chosen not
+to rely on the General Ledgers. Even if he did state so, Mr Reid could still
+change his mind subsequently and choose to rely on the General Ledgers, which
+RIC’s counsel accepted. Accordingly, I do not agree that the General Ledgers
+are unnecessary simply because (and assuming that to be the case) Mr Reid had,
+for the moment, chosen not to rely on them.
+
+No inordinate delay
+
+46 RIC also objected to the Application on the basis that there was
+substantial delay. In this regard, RIC argued that the issue of undervalue
+crystallised as early as 3 January 2023. Yet, H8 Holdings only issued
+substantive instructions to Mr Mann on 24 May 2023 and only took out the
+Application on 7 June 2023. As a result, RIC claimed that it had to incur
+additional costs.
+
+47 I did not agree.
+
+48 First, as counsel for RIC rightly conceded, delay per se is not a bar to an
+application for specific discovery. The key is whether the General Ledgers are
+relevant and necessary to determine the value of the Shares which, for the
+reasons set out at [13] to [39] above, I had found to be so.
+
+49 Second, and in any event, I was not convinced that there was inordinate
+delay. To explain my view, it would be helpful for me to set out the relevant
+chronology of events as follows:
+
+Date| Event  
+---|---  
+16 May 2023| Parties attended a Pre-Trial Conference where directions were
+given for the filing of Affidavits of Evidence-in-Chief (“AEIC”), including
+those of expert witnesses.  
+19 May 2023 to 23 May 2023| Correspondences were exchanged between H8
+Holdings’ solicitors and solicitors for the 2nd, 3rd and 4th Defendants to
+discuss the scope of the expert’s AEIC and the possibility of engaging a joint
+expert to save time and costs. Parties eventually agreed to appoint their own
+experts. 11
+
+##### Foot Note 11
+
+× 4th Affidavit of Han Jieling at pp 8-12.  
+24 May 2023| H8 Holdings’ solicitors provided Mr Mann with a brief and
+reference material so that Mr Mann could provide his valuation of the Shares.
+12
+
+##### Foot Note 12
+
+× 4th Affidavit of Han Jieling at p 16, para 1.  
+28 May 2023| Mr Mann wrote to H8 Holdings’ solicitors requesting the General
+Ledgers. 13
+
+##### Foot Note 13
+
+× 4th Affidavit of Han Jieling at pp 16-18.  
+29 May 2023| H8 Holdings’ solicitors wrote to RIC’s solicitors requesting the
+General Ledgers. 14
+
+##### Foot Note 14
+
+× 4th Affidavit of Han Jieling at pp 20-21.  
+5 June 2023| RIC’s solicitors wrote to reject H8 Holdings’ request for the
+General Ledgers. 15
+
+##### Foot Note 15
+
+× 4th Affidavit of Han Jieling at p 22.  
+7 June 2023| H8 Holdings filed the Application.  
+  
+50 From the above chronology, it was apparent that as of 19 May 2023, parties
+were exploring the possibility of appointing a joint expert to save time and
+costs and to reduce the scope of contested issues at trial. Once that was
+sorted out on 23 May 2023, and RIC had refused H8 Holdings’ request for the
+General Ledgers, H8 Holdings took out the Application 2 days from RIC’s
+refusal. The entire exchange from the time discussions began on the
+possibility of appointing a joint expert to the time the Application was filed
+took less than a month. This, in my view, did not amount to inordinate delay.
+
+51 Even if I considered the time taken from the point when the issue of
+whether the shares were obtained by POP Holdings at an undervalue
+crystallised, which was in January 2023, I did not think that a delay of about
+6 months should bar the Application. Counsel for RIC rightly conceded that it
+would be difficult for him to press this point further on the present facts.
+
+Commercial sensitivity
+
+52 As a final string to its bow, RIC argued that the General Ledgers should
+nevertheless not be disclosed as they contained commercially sensitive
+information. RIC submitted that this information could be used by certain
+representatives of H8 Holdings in another company that they were allegedly
+involved in, Joylicious Management Pte Ltd (“Joylicious Management”), to the
+detriment of RIC.
+
+53 In the interest of saving time and costs, I directed counsel for both
+parties to consider whether agreement could be reached on the scope of
+disclosure of the General Ledgers with the appropriate redactions. However, as
+parties were unable to reach an agreement on the scope of disclosure, I
+proceeded to consider the extent to which the General Ledgers should be
+disclosed.
+
+The law on disclosure and the interest in protecting commercially sensitive
+information
+
+54 It is generally accepted that parties should have unfettered access to all
+relevant and necessary documents to ensure a fair trial. At the same time, it
+is well-established that there is a need to ensure that documents that a party
+is compelled to disclose for the purposes of the proceedings are not misused
+by the party receiving the document (see B2C2 Ltd v Quoine Pte Ltd [2018] 4
+SLR 67 at [16]; see also Genk Capital Pte Ltd v Zhang Changjie [2020] SGHCR 4
+(“Genk Capital”) at [9]). To strike the appropriate balance, the Courts rely
+on the Riddick principle or undertaking – that documents disclosed in
+discovery under compulsion must not be used for any purpose other than the
+action in which they are produced: Ong Jane Rebecca v Lim Lie Hoa [2021] 2 SLR
+584 at [100].
+
+55 However, the Riddick principle may not always be sufficient. Concerns
+remain in the minds of trade rivals or competitors locked in proceedings that
+documents that they disclose may contain commercially valuable or sensitive
+information such as customer names, price lists and data which may not be
+sufficiently protected by the Riddick undertaking. The reason for such
+concerns is a practical one. Once the documents containing commercially
+sensitive information have been seen, they cannot be unseen. Realistically, it
+would be difficult or impossible for a trade rival to segregate, in his mind,
+the information obtained through discovery from the information that he
+already has from being in the industry. There may be overlaps in both sets of
+information and it would be unfair for the receiving party to be prevented
+from pursuing businesses that he could have engaged in based on his prior
+knowledge, just because the same information was also disclosed in the course
+of proceedings. Practically, it would also be difficult for the disclosing
+party to enforce the Riddick undertaking as it may not be clear whether the
+information obtained through discovery was in fact used.
+
+56 The interest in protecting commercially sensitive information and the
+reality that the Riddick principle may be inadequate in such situations find
+support in the case of Mobil Oil Australia Ltd v Guina Developments Pty Ltd
+(1995) 33 IPR 82. In that case, Hayne JA delivered the judgment of the Supreme
+Court of Victoria and said at pp 87-89:
+
+Where it is said that the documents are confidential, it may be accepted that
+the fact that the documents are confidential will not ordinarily be a
+sufficient reason to deny inspection by the opposite party. In most cases, the
+fact that the documents may not be used except for the purposes of the
+litigation concerned will be sufficient protection to the party producing
+them. But where, as here, the party obtaining discovery is a trade rival of
+the person whose secrets it is proposed should be revealed by discovery and
+inspection, other considerations arise.
+
+Once the documents are inspected by the principals of the trade rival the
+information which is revealed is known to the trade rival and cannot be
+forgotten. Confidentiality is destroyed once and for all (at least so far as
+the particular trade rival is concerned). To say that the trade rival is bound
+not to use the documents except for the purposes of the action concerned is,
+in a case such as this, to impose upon that trade rival an obligation that is
+impossible of performance by him and impossible of enforcement by the party
+whose secrets have been revealed. How is the trade rival to forget what
+internal rate of return the competitor seeks to achieve on a new investment of
+the kind in question? How is the party whose hurdle rate has been revealed to
+know whether the rival has used the information in framing a tender? Thus, if
+the trade rival may inspect the documents concerned, the confidentiality of
+the information in them is at once destroyed.
+
+57 The question is then this: when should a party be allowed to refuse
+disclosure of relevant material on the basis that they contain commercially
+sensitive information?
+
+The law and methods of protecting commercially sensitive information
+
+58 Generally, the mere fact that a document is confidential or commercially
+sensitive does not preclude the document from being subject to discovery and
+disclosure (see Jeffrey Pinsler S.C., Singapore Court Practice (LexisNexis,
+2020) at [24/9/1]) (“Singapore Court Practice”)). If the document is relevant
+and necessary, subject to claims of privilege or immunity, the document should
+be disclosed (see Singapore Court Practice at [24/9/1]).
+
+59 It follows that mere allegations of commercial sensitivity are insufficient
+for a party to refuse disclosure: Cigar Affair v Pacific Cigar Co [2005] 3
+SLR(R) 633 (“Cigar Affair”) at [34]. If that was not the case, litigants could
+simply make unsupported allegations that documents sought should not be
+disclosed because they contain commercially sensitive information,
+notwithstanding their relevance to the proceedings.
+
+60 I pause here to acknowledge that Cigar Affair was not a case involving a
+civil case on discovery of documents but one that related to the seizure of
+documents pursuant to search warrants under the Trade Marks Act 1998 (Cap 332,
+1999 Rev Ed). Nevertheless, the general proposition that mere allegations of
+sensitivity should not prima facie disallow access to documents which are
+otherwise relevant, should be equally applicable in the context of civil
+discovery.
+
+61 In my view, the onus is on the party claiming that the information in the
+document sought to be disclosed is commercially sensitive to show that the
+degree of commercial sensitivity or the impact of its disclosure would justify
+its exclusion from discovery notwithstanding its relevance and necessity to
+the proceedings. At the minimum, the party should set out (a) what in the
+document is commercially sensitive, (b) how the information is commercially
+sensitive, and (c) how the document, if disclosed to the other party, would
+cause prejudice to the disclosing party. If the Court is satisfied that the
+document contains commercially sensitive information and should be protected,
+the Court may limit the scope of disclosure.
+
+62 In this regard, there are various ways that the scope of disclosure may be
+limited. Without setting out an exhaustive list of methods, the scope of
+disclosure of commercially sensitive documents may be limited by:
+
+(a) redacting (or replacing with anonymised terms) the portions that are
+commercially sensitive (see IDB Interactive Sdn Bhd v Online E-Club Management
+Sdn Bhd [2020] 7 MLJ 349 at [48]); or
+
+(b) allowing access to the document to only specific individuals (also known
+as “confidentiality clubs” or “confidentiality rings”) (see Genk Capital ([54]
+above) at [11]).
+
+63 Redaction is one of the most straightforward methods of limiting
+disclosure. Portions that a party claims to be commercially sensitive can be
+redacted so that the receiving party is still given access to the relevant
+document while ensuring that the disclosing party is not prejudiced by the
+disclosure of commercially sensitive information. In adopting this course, it
+is not unusual for the Court to first review the unredacted version of the
+document in the absence of the receiving party to consider the disclosing
+party’s proposed redactions. This is particularly the case when there are
+disputes as to whether the disclosing party is indeed redacting commercially
+sensitive information.
+
+64 There may also be situations where the redaction of commercially sensitive
+information could leave gaps in the document making it difficult for the
+receiving party to make sense of the unredacted information. For example,
+where the document to be disclosed is the accounts of a company and the names
+of customers have been redacted, the receiving party may not be able to know
+whether certain transactions are attributed to the same customer. In those
+situations, where the names of customers are not critical to the proceedings,
+the redacted portions may be replaced with anonymised terms (for example,
+Customer A, Customer B) so that the receiving party is still able to
+meaningfully rely on the document.
+
+65 Where, however, the information sought to be redacted or replaced is
+critical to the proceedings, redaction or anonymising the commercially
+sensitive information may not be feasible. In such situations, the Courts have
+considered ordering that the document be disclosed only to certain individuals
+(for example, to a party’s legal advisors or experts) (also known as
+“confidentiality clubs” or “confidentiality rings”) often with a
+confidentiality undertaking from these individuals not to disclose the
+document or information contained therein to individuals outside of the clubs
+or rings (see Genk Capital ([54] above) at [11]). Once proceedings have
+concluded, members of the confidentiality clubs or rings may be required to
+return or destroy the document. The problem with such an approach is that the
+receiving party’s ability to conduct and prepare for trial may be hampered. If
+the receiving party, being the party to the proceedings, is excluded from the
+confidentiality club, it may not be able to properly instruct its legal
+advisors or experts who are likewise unable to take instructions on the
+conduct of the matter. This would result in the receiving party having to
+conduct its trial with blinkers on (see Koger Inc v O’Donnell [2009] IEHC 385
+(“Koger Inc”). For that reason, while confidentiality clubs excluding all
+representatives of the receiving party could be ordered, it is unusual and
+there must be exceptional circumstances to justify the same before a Court
+would do so (see Koger Inc.)
+
+66 With that, I turn back to the present case.
+
+No evidence that alleged commercially sensitive information would be used by
+H8 Holdings’ representatives
+
+67 RIC is in the business of operating dormitories. 16
+
+##### Foot Note 16
+
+×
+
+2nd Affidavit of Leong Poh Choo at para 34.
+
+RIC’s case is that the General Ledgers should not be disclosed as they
+contained commercially sensitive information such as the identities of RIC’s
+customers and its historical prices (“Information”). 17
+
+##### Foot Note 17
+
+×
+
+2nd Affidavit of Leong Poh Choo at para 36.
+
+RIC said that the Information, if disclosed, would be against the interest of
+RIC as (a) one of the shareholders of H8 Holdings, Mr Thia Tiong Siong (also
+known as “Mr William”); and (b) Joylicious Management, a company whose sole
+director and shareholder is Mr Han Shuikun (“Mr Han”), are in the same
+business as RIC. 18
+
+##### Foot Note 18
+
+×
+
+2nd Affidavit of Leong Poh Choo at para 36.
+
+RIC argued that the Information, if disclosed, would be used by Mr William and
+Joylicious Management to its detriment. In the alternative, RIC submitted that
+if the General Ledgers are to be disclosed, commercially sensitive information
+contained therein should be redacted.
+
+68 Assuming that I accepted that the Information could be commercially
+sensitive, I did not accept RIC’s arguments on how the Information, if
+disclosed to H8 Holdings, would be against RIC’s interest.
+
+69 First, it was RIC’s bare assertion that Mr William is in the business of
+operating dormitories. Apart from a statement in its affidavit stating that Mr
+Wiliam is in the business of operating dormitories, there was nothing to
+suggest that Mr William was indeed in the business. 19
+
+##### Foot Note 19
+
+×
+
+2nd Affidavit of Leong Poh Choo at para 34.
+
+RIC’s representative, Ms Leong Poh Choo (“Ms Leong”) also stated in her
+affidavit that she believed that the shares that Mr Han holds in Joylicious
+Management were held on trust or as a nominee for Mr William. 20
+
+##### Foot Note 20
+
+×
+
+2nd Affidavit of Leong Poh Choo at para 35.
+
+However, apart from Ms Leong’s bare assertion, there was similarly no evidence
+of any such arrangement.
+
+70 Second, RIC referred to Joylicious Management which is not a party to the
+present suit and would not be entitled to discovery of the General Ledgers in
+this Application. In a desperate attempt to draw the link between H8 Holdings
+and Joylicious Management, RIC said (in addition to Mr Han holding the shares
+in Joylicious Management on trust or as a nominee for Mr William) that Mr Han
+is related to Ms Han Jieling, a director and shareholder of H8 Holdings. 21
+
+##### Foot Note 21
+
+×
+
+2nd Affidavit of Leong Poh Choo at para 35.
+
+H8 Holdings did not deny that Mr Han is Ms Han’s brother. However, just
+because Mr Han and Ms Han are siblings did not necessarily mean that Mr Han
+would be in possession of information that Ms Han received as H8 Holdings’
+representative. There was no evidence before me that once Ms Han receives the
+General Ledgers, she would pass them on to Mr Han who would then use the same
+in furtherance of Joylicious Management’s business, causing RIC to suffer
+prejudice.
+
+71 Simply put, even if I accepted that the Information was commercially
+sensitive, there was no evidence before me to show how the General Ledgers, if
+disclosed, would cause prejudice to RIC. For that reason, I was of the view
+that the General Ledgers should be disclosed to H8 Holdings without redaction.
+
+72 For completeness, parties showed me a copy of the General Ledgers with
+RIC’s proposed redactions at the hearing. H8 Holdings (in consultation with Mr
+Mann) submitted that the redacted version was insufficient for the purposes of
+the valuation as the information that remained unredacted was meaningless
+without context from the redacted portions.
+
+73 In this regard, I considered reviewing the unredacted version of the
+General Ledgers to determine whether the information sought to be redacted was
+commercially sensitive and/or if the scope of redaction could be limited such
+that the redacted version of the General Ledgers would still be meaningful for
+the valuation. I also considered whether a confidentiality ring could be set
+up such that only certain individuals from H8 Holdings (such as H8 Holdings’
+legal advisors and Mr Mann) could have access to the unredacted General
+Ledgers. However, as I was not satisfied (for the reasons set out at [69] to
+[71] above) that Joylicious Management, a company that is not even a party to
+this suit, would have access to the information contained in the General
+Ledgers and use the same to RIC’s detriment, I did not think it was necessary
+for me to go further to either consider the scope and extent of redaction or
+give directions for the formation of a confidentiality club
+
+Conclusion
+
+74 Having found that (a) the General Ledgers were relevant and necessary to
+determining the issue of whether the 1,000,000 shares of RIC obtained by POP
+Holdings on or around 26 June 2018 were obtained at an undervalue and (b)
+there was no evidence that the Information in the General Ledgers, if
+disclosed to H8 Holdings, would cause prejudice to RIC, I allowed the
+Application and ordered that the General Ledgers be put into discovery and be
+disclosed to H8 Holdings without redaction.
+
+75 I also ordered costs of the Application fixed at S$6,500 (all inclusive) to
+be paid by RIC to H8 Holdings.
+
+Victor Choy  
+Assistant Registrar  
+---  
+  
+Walter Ferix Silvester (Silvester Legal LLC) for the plaintiff;
+
+Chen Sixue (Sim Chong LLC) for the first defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 2: 24 Jul 2023 (16:05 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

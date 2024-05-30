@@ -1,0 +1,759 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the Court of Appeal of the republic of singapore
+
+[2023] SGCA 24
+
+Court of Appeal / Originating Application No 10 of 2023
+
+Between
+
+(1)| Koh Kien Chon (Gu Jiancong)  
+---|---  
+(2)| Koh Yang Kee Pte Ltd  
+  
+… Applicants
+
+And
+
+| Ding Asset Ltd  
+---|---  
+  
+… Respondent
+
+In the matter of Originating Claim No 265 of 2022
+
+Between
+
+| Ding Asset Ltd  
+---|---  
+  
+… Claimant
+
+And
+
+(1)| Koh Kien Chon (Gu Jiancong)  
+---|---  
+(2)| Koh Yang Kee  
+(3)| Yang Kee Logistics Pte Ltd (in receivership)  
+(4)| Koh Yang Kee Pte Ltd  
+(5)| Yang Kee Logistics (Singapore) Pte Ltd  
+  
+… Defendants
+
+judgment
+
+[Civil Procedure — Appeals — Permission]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Koh Kien Chon and another
+
+  
+v
+
+  
+
+Ding Asset Ltd
+
+[2023] SGCA 24
+
+Court of Appeal — Originating Application No 10 of 2023  
+Judith Prakash JCA and Steven Chong JCA  
+23 June 2023
+
+11 August 2023 Judgment reserved.
+
+Steven Chong JCA (delivering the judgment of the court):
+
+Introduction
+
+1 This is an application for permission to appeal against the decision of a
+Judge sitting in the General Division of the High Court (the “Judge”) in HC/RA
+45/2023 (“RA 45”). The applicants, Mr Koh Kien Chon (“Mr Ken Koh”) and Koh
+Yang Kee Pte Ltd (“KYK”), are respectively the first and fourth defendants to
+HC/OC 265/2022 (“OC 265”), while the respondent, Ding Asset Ltd (“Ding
+Asset”), is the claimant in OC 265. In HC/SUM 4292/2022 (“SUM 4292”), an
+assistant registrar (the “AR”) granted Mr Ken Koh and KYK a stay of the
+actions against them in OC 265 in favour of arbitration in Singapore. However,
+on appeal, the Judge allowed Ding Asset’s appeal against the AR’s decision in
+RA 45, with the effect that OC 265 was to proceed against Mr Ken Koh and KYK.
+Mr Ken Koh and KYK now seek permission to appeal against the Judge’s decision.
+
+2 Having considered the parties’ submissions, we are of the view that Mr Ken
+Koh and KYK have not raised any grounds on which permission to appeal should
+be granted. Accordingly, we dismiss the application.
+
+The material facts
+
+The parties to the dispute
+
+3 The first applicant is Mr Koh Kien Chon, also known as Mr Ken Koh. Mr Ken
+Koh is the Managing Director and sole shareholder of the second applicant,
+KYK. The other director of KYK is Mr Koh Yang Kee (“Mr Koh YK”), who is Mr Ken
+Koh’s father.
+
+4 Mr Ken Koh and Mr Koh YK are also shareholders of Yang Kee Logistics Pte Ltd
+(“YKL”). They were directors of YKL until it was placed into receivership on
+12 May 2022. YKL is the sole shareholder of Yang Kee Logistics (Singapore) Pte
+Ltd (“YKLS”). Mr Ken Koh and Mr Koh YK were also previously directors of YKLS.
+
+5 The respondent is Ding Asset, a company incorporated in the British Virgin
+Islands. The ultimate beneficial shareholder and director of Ding Asset is Mr
+Ding Yanzhong (“Mr Ding”).
+
+6 According to Ding Asset, in or around late 2018, Mr Ken Koh and/or Mr Koh YK
+met with Mr Ding on several occasions and verbally represented to Mr Ding that
+he or his company could invest in “a Yang Kee company”. Mr Ding agreed to do
+so and nominated Ding Asset as his investment vehicle. Consequently, two
+agreements were entered into, as follows:
+
+(a) A share subscription agreement executed between Ding Asset and YKLS in or
+around October or November 2018 (the “Subscription Agreement”), wherein it was
+agreed that Ding Asset would be issued 454,445 ordinary shares in YKLS (the
+“Subscription Shares”) for a consideration of S$5m (the “Subscription
+Consideration”).
+
+(b) A put option agreement executed among Ding Asset, Mr Ken Koh and KYK in or
+around October or November 2018 (the “Put Option Agreement”), wherein it was
+agreed that Ding Asset had a put option to sell to KYK during a specified “Put
+Option Period” all of the Subscription Shares at a specified “Put Option
+Price”.
+
+7 Ding Asset claims that around the time that the Subscription Agreement and
+the Put Option Agreement were executed, Mr Ding was informed by “[Mr Ken Koh],
+[Mr Koh YK], and/or an associate of [Mr Ken Koh] and/or [Mr Koh YK] acting on
+their behalf” that the Subscription Consideration should be paid into a bank
+account belonging to YKL (the “Representation”). In reliance on the
+Representation, Mr Ding issued a cheque for S$5m on behalf of Ding Asset to
+YKL, instead of YKLS. Mr Ding did not realise at that time that the
+Subscription Consideration was being paid to a different company from the
+company that was the party to the Subscription Agreement.
+
+8 On or around 13 November 2018, the Subscription Consideration was credited
+to YKL’s bank account. However, Ding Asset alleges that in breach of the
+Subscription Agreement, YKLS did not allot the Subscription Shares to it.
+
+OC 265
+
+9 On 15 September 2022, Ding Asset commenced OC 265. The first to fifth
+defendants in OC 265 are respectively Mr Ken Koh, Mr Koh YK, YKL, KYK and YKLS
+(collectively, the “Defendants”). Ding Asset’s pleaded causes of action
+include the following claims:
+
+(a) YKLS breached the Subscription Agreement by failing to allot the
+Subscription Shares to Ding Asset.
+
+(b) Mr Ken Koh and Mr Koh YK are liable in misrepresentation as they made the
+Representation to Mr Ding, despite knowing that the bank account in question
+belonged to YKL (not YKLS), and/or that it was not the bank account which Ding
+Asset was supposed to pay the Subscription Consideration into. Alternatively,
+Mr Ken Koh and/or Mr Koh YK made the Representation without belief in its
+truth or recklessly. In reliance on the Representation, Ding Asset paid the
+Subscription Consideration to YKL and therefore suffered loss.
+
+(c) The Defendants are liable for unlawful means conspiracy, as they had a
+common intention to injure and cause loss to Ding Asset by unlawful means.
+Despite the Defendants being aware of Ding Asset’s intention to invest in YKLS
+and not YKL, Mr Ken Koh and Mr Koh YK made the Representation intending for
+Ding Asset to pay the Subscription Consideration to YKL instead of YKLS.
+
+(d) Alternatively, the Defendants are liable for lawful means conspiracy, as
+they conspired and combined together wrongfully with the sole or predominant
+intention of injuring and/or causing loss to Ding Asset, by accepting the S$5m
+without issuing the Subscription Shares to it.
+
+10 Based on the above causes of action, Ding Asset seeks, inter alia, damages
+to be assessed in relation to Ding Asset’s inability to sell the Subscription
+Shares at the Put Option Price under the Put Option Agreement.
+
+11 The Defendants deny that they conspired to injure and cause loss to Ding
+Asset by unlawful or lawful means. According to Mr Ken Koh, YKL, KYK and YKLS,
+there was an oral variation made by Mr Ken Koh and Mr Ding to the Subscription
+Agreement and the Put Option Agreement, such that Ding Asset agreed to receive
+shares in YKL, rather than YKLS. Mr Ken Koh and Mr Koh YK also deny making the
+Representation to Mr Ding. In addition, Mr Ken Koh and KYK highlight that the
+Put Option Agreement (which they are parties to) contains an arbitration
+clause, while YKLS highlights that the Subscription Agreement (which it is
+party to) contains an arbitration clause. The arbitration clauses in the two
+agreements are identically worded, as follows:
+
+Any and all disputes arising out of or in connection with this Agreement,
+including any question regarding its existence, validity or termination, shall
+be referred to and finally resolved by arbitration in Singapore in accordance
+with the Arbitration Rules of the Singapore International Arbitration Centre
+for the time being in force, which rules are deemed to be incorporated by
+reference in this Clause. The Tribunal shall consist of one arbitrator to be
+appointed by the Chairman of the Singapore International Arbitration Centre.
+The language of the arbitration shall be English and the decision of the
+arbitrator shall be final and binding on the Parties and shall be enforced in
+accordance with its terms.
+
+The proceedings below
+
+12 On 29 November 2022, Mr Ken Koh and KYK filed SUM 4292 seeking a stay of OC
+265 in favour of arbitration. On 2 December 2022, YKLS filed a similar
+application in HC/SUM 4332/2022 (“SUM 4332”). However, Mr Koh YK and YKL did
+not file any similar application.
+
+13 On 13 February 2023, the AR allowed SUM 4292 and SUM 4332, thus staying the
+actions against Mr Ken Koh, KYK and YKLS in favour of arbitration.
+
+14 On 27 February 2023, Ding Asset appealed against the AR’s decision by
+filing RA 45 and HC/RA 46/2023 (“RA 46”) respectively. On 28 April 2023, the
+Judge allowed the appeals in RA 45 and RA 46. As there has been no application
+for permission to appeal against the Judge’s decision in RA 46 (in respect of
+YKLS), we set out the Judge’s reasoning only in relation to RA 45.
+
+15 The Judge found that Ding Asset’s claims against Mr Ken Koh and KYK were
+governed by the arbitration clause in the Put Option Agreement, and that the
+applicable legislative provision was s 6 of the Arbitration Act 2001 (2020 Rev
+Ed) (the “AA”). Sections 6(1) and 6(2) of the AA provide as follows:
+
+Stay of legal proceedings
+
+6.—(1) Where any party to an arbitration agreement institutes any proceedings
+in any court against any other party to the agreement in respect of any matter
+which is the subject of the agreement, any party to the agreement may, at any
+time after filing and serving a notice of intention to contest or not contest
+and before delivering any pleading (other than a pleading asserting that the
+court does not have jurisdiction in the proceedings) or taking any other step
+in the proceedings, apply to that court to stay the proceedings so far as the
+proceedings relate to that matter.
+
+(2) The court to which an application has been made in accordance with
+subsection (1) may, if the court is satisfied that —
+
+(a) there is no sufficient reason why the matter should not be referred in
+accordance with the arbitration agreement; and
+
+(b) the applicant was, at the time when the proceedings were commenced, and
+still remains, ready and willing to do all things necessary to the proper
+conduct of the arbitration,
+
+make an order, upon any terms that the court thinks fit, staying the
+proceedings so far as the proceedings relate to that matter.
+
+16 The Judge proceeded on the basis that the requirement in s 6(2)(b) of the
+AA was satisfied, and therefore turned to consider if there was sufficient
+reason to refuse a stay. Having regard to the factors articulated in CSY v CSZ
+[2022] 2 SLR 622 (“CSY”) as to whether sufficient reason existed to refuse a
+stay, the Judge found that the “key factors of concern” in the present case
+were: (a) the likelihood of injustice in having the same witnesses deal with
+the same factual issues before two different fora; (b) the overlap between the
+issues in dispute such that there was a real prospect of inconsistent
+findings; and (c) the consequent likelihood of disrepute to the administration
+of justice.
+
+17 The Judge observed that the essence of Ding Asset’s claim in conspiracy was
+that Mr Ken Koh and Mr Koh YK had, by the Representation, caused loss to Ding
+Asset pursuant to a common intention shared by all the Defendants. The
+allegations against Mr Ken Koh and Mr Koh YK thus “permeate[d]” across Ding
+Asset’s conspiracy claim against all the Defendants. However, since Mr Koh YK
+and YKL were not bound by any arbitration agreement, a stay of proceedings
+against Mr Ken Koh and KYK would create parallel proceedings. This meant that
+“[t]he veracity of the allegations against [Mr Ken Koh and Mr Koh YK would]
+have to be determined in both fora, through examination of the same evidence
+and the same key witnesses”, thus creating a “real risk of inconsistent
+findings which [would] bring disrepute to the administration of justice”.
+
+18 In the Judge’s view, the degree of overlap in the present case was
+substantially similar to that in CSY. In that case, this court found that
+there was sufficient reason to refuse a stay in favour of arbitration, due to
+a significant overlap of issues between the disputes governed by the
+arbitration clause and the disputes that were not.
+
+19 In addition, the fact that Mr Koh YK and YKL had not applied for case
+management stays served to “bolster” the case for refusing a stay in favour of
+arbitration. In the absence of such applications from Mr Koh YK and YKL, the
+Judge observed that “the policy of eliminating the risks associated with
+overlapping issues … would in fact be achieved by refusing the stays in favour
+of arbitration”. Further, the Judge rejected the suggestion that the court
+could exercise its inherent powers to grant case management stays against Mr
+Koh YK and YKL. Even if the court possessed the inherent power to stay a claim
+on case management grounds, the Judge found that it was not appropriate to
+exercise that power in the absence of any application by Mr Koh YK and YKL for
+the court to do so.
+
+20 The Judge therefore found that there was sufficient reason to refuse a stay
+of the actions against Mr Ken Koh and KYK and allowed the appeal in RA 45,
+with the result that OC 265 was to proceed against all the Defendants.
+
+21 On 9 June 2023, Mr Ken Koh and KYK filed the present application seeking
+permission to appeal against the Judge’s decision in RA 45. We note, for
+completeness, that Mr Ken Koh and KYK obtained an extension of time to file
+the present application by way of CA/OA 7/2023.
+
+The parties’ submissions
+
+22 Mr Ken Koh and KYK submit that permission to appeal should be granted as
+the Judge made a prima facie error of law in finding that there was sufficient
+reason to refuse a stay. In particular, the Judge erred in the following ways:
+
+(a) The Judge erred in his application of the law. The Judge’s decision that
+the risk of inconsistent findings constituted sufficient reason to refuse a
+stay was contrary to the decision in Maybank Kim Eng Securities Pte Ltd v Lim
+Keng Yong and another [2016] 3 SLR 431 (“Maybank”).
+
+(b) The perceived multiplicity of proceedings was induced by the way Ding
+Asset pleaded its claim. In any event, the multiplicity of proceedings was
+“illusory” as the arbitral tribunal could decide on Ding Asset’s allegations
+against Mr Ken Koh, while a court could independently decide on the
+allegations against Mr Koh YK.
+
+(c) The Judge was wrong to find that the degree of overlap in the present case
+was similar to that in CSY.
+
+(d) The Judge “conflated” the issue of granting a case management stay with
+the issue of granting a stay in favour of arbitration.
+
+23 Further, Mr Ken Koh and KYK submit that RA 45 raises questions of
+importance upon which further argument and a decision of a higher tribunal
+would be to the public advantage. The purported questions of importance are:
+
+(a) whether the presence of a claim under a single cause of action against
+multiple defendants, some of whom are parties to arbitration agreements and
+some are not, is in itself a sufficient reason to refuse a stay in favour of
+arbitration where the dispute falls within the scope of the arbitration
+agreement(s); and
+
+(b) whether the issue of a case management stay against the other defendants
+who are not parties to the arbitration agreement(s) should be decided
+simultaneously or subsequently.
+
+24 Ding Asset submits that there are no grounds for granting permission to
+appeal, and that this application should therefore be dismissed.
+
+The threshold for granting permission to appeal
+
+25 It is well-established that permission to appeal may be granted if: (a)
+there is a prima facie error of law; (b) the matter concerns a question of
+general principle decided for the first time; or (c) the matter concerns a
+question of importance upon which further argument and a decision of a higher
+tribunal would be to the public advantage: VXF v VXE [2022] 2 SLR 716 at [10].
+
+26 As noted at [22]–[23] above, Mr Ken Koh and KYK rely on grounds (a) and (c)
+in the present application. In relation to ground (a), Mr Ken Koh and KYK rely
+on Ng Tze Chew Diana v Aikco Construction Pte Ltd [2020] 3 SLR 1196 (“Diana
+Ng”) at [61] for the proposition that an “error of law” includes an erroneous
+application of the law. In our view, Diana Ng does not stand for this
+proposition. The court in Diana Ng was concerned with what a “question of law”
+entails for the purposes of obtaining leave to appeal against an arbitral
+award under s 49 of the AA, and not with the threshold for granting permission
+to appeal. The relevant part of the judgment states as follows:
+
+61 A question of law is distinct from an error of law, and relates
+specifically to a ‘point of law in controversy’. It does not extend to errors
+in the application of the law. As the Court of Appeal explained in Northern
+Elevator Manufacturing Sdn Bhd v United Engineers (Singapore) Pte Ltd [2004] 2
+SLR(R) 494 (‘Northern Elevator’) at [18]–[19]:
+
+18 … in Ahong Construction (S) Pte Ltd v United Boulevard Pte Ltd [1993] 2
+SLR(R) 208 … G P Selvam JC (as he then was) stated at [7]:
+
+… A question of law means a point of law in controversy which has to be
+resolved after opposing views and arguments have been considered. It is a
+matter of substance the determination of which will decide the rights between
+the parties. … If the point of law is settled and not something novel and it
+is contended that the arbitrator made an error in the application of the law
+there lies no appeal against that error for there is no question of law which
+calls for an opinion of the court. …
+
+19 To our mind, a ‘question of law’ must necessarily be a finding of law which
+the parties dispute, that requires the guidance of the court to resolve. When
+an arbitrator does not apply a principle of law correctly, that failure is a
+mere ‘error of law’ (but more explicitly, an erroneous application of law)
+which does not entitle an aggrieved party to appeal.
+
+[emphasis in original]
+
+27 It is clear from the above passage that the court in Diana Ng was not
+commenting on what constituted an “error of law” for the purposes of an
+application for permission to appeal. On the contrary, it has been observed
+that an assertion that the judge reached the wrong conclusion on the evidence,
+or the mere erroneous application of the law to a given factual scenario, will
+not satisfy the threshold for granting permission to appeal: see IW v IX
+[2006] 1 SLR(R) 135 at [20]; Hwa Aik Engineering Pte Ltd v Munshi Mohammad
+Faiz and another [2021] 1 SLR 1288 at [15] and [24]. An erroneous application
+of the law – ie, where a judge, having set out the law correctly, reaches the
+wrong conclusion on the facts – is at best an error of fact, and will
+therefore generally not warrant the granting of permission.
+
+Our analysis
+
+28 Having set out the threshold for permission to be granted, we turn to
+consider Mr Ken Koh and KYK’s submissions. In our judgment, Mr Ken Koh and KYK
+have not disclosed any grounds on which permission should be granted.
+
+The Judge did not make a prima facie error of law
+
+The Judge’s decision is not contrary to legal principles
+
+29 First, Mr Ken Koh and KYK contend that the Judge’s finding is contrary to
+the general principle that where the dispute is within the scope of an
+arbitration agreement, a stay will only be denied in “exceptional
+circumstances”, and to the following observations in Maybank that the mere
+existence of “related actions” will not be sufficient reason to refuse a stay
+(at [23]):
+
+23 However, it must be kept in mind that even though the court’s power to
+grant a stay in favour of domestic arbitration under s 6 of the AA is
+discretionary, the burden is on the party who wishes to proceed in court to
+‘show sufficient reason why the matter should not be referred to arbitration’.
+Assuming the applicant is ready and willing to arbitrate, the court will only
+refuse a stay in exceptional cases … Certainly, the fact that there are
+related actions, some governed by arbitration agreements and some not, is not
+in itself a sufficient reason to sanction a breach of an arbitration clause
+and depart from the policy in favour of arbitration. …
+
+[emphasis added in bold italics]
+
+30 In our view, Mr Ken Koh and KYK’s contention fails to recognise that the
+Judge did not refuse a stay merely because there were “related actions”, or
+because there would otherwise be parallel proceedings in the arbitration and
+in the courts. Rather, as noted at [17] above, the Judge found that the manner
+in which Ding Asset had pleaded its claim meant that the same issues and
+evidence would have to be explored in both fora, leading to a “real risk of
+inconsistent findings which [would] bring disrepute to the administration of
+justice”. It was therefore the risk of inconsistent findings – and not the
+fact of related proceedings per se – that led the Judge to refuse a stay. Once
+this is properly appreciated, it is clear that the Judge’s decision is not at
+odds with the observations in Maybank.
+
+31 In this regard, the Judge’s decision is consistent with the principles
+articulated in CSY. In that case, this court set out the relevant factors in
+determining whether there is “sufficient reason” to refuse a stay (at [25]):
+
+25 In each case, however, the court must scrutinise the myriad factual
+circumstances to determine how best to manage its processes and ensure the
+efficient and fair resolution of the entire dispute. The term ‘sufficient
+reason’ captures a broad range of factors (Fasi Paul Frank v Specialty
+Laboratories Asia Pte Ltd [1999] 1 SLR(R) 1138 at [18]). Ultimately, the
+factors invoked will be weighed against and will have to be found to outweigh
+the significant consideration that the parties had voluntarily bound
+themselves to arbitrate and ought therefore to be held to their agreement (Sim
+Chay Koon v NTUC Income Insurance Co-operative Ltd [2016] 2 SLR 871 at
+[8]–[10]). Amongst others, we consider the following factors instructive in
+the inquiry:
+
+(a) the existence of related actions and disputes, some of which are governed
+by an arbitration agreement and others which are not;
+
+(b) the overlap between the issues in dispute such that there is a real
+prospect of inconsistent findings;
+
+(c) the likely shape of the process for the resolution of the entire dispute;
+
+(d) the likelihood of injustice in having the same witnesses deal with the
+same factual issues before two different fora;
+
+(e) the likelihood of disrepute to the administration of justice ensuing from
+the fact that overlapping issues may be differently determined in different
+actions;
+
+(f) the relative prejudice to the parties; and
+
+(g) the possibility of an abuse of process.
+
+32 Having regard to the factors listed above, the court in CSY found that
+while the mere existence of related actions would not justify refusing a stay,
+the facts of CSY went “beyond that” and that refusing a stay was therefore
+warranted (at [26] and [29]). As we have explained, the Judge in the present
+case expressly had regard to the factors set out in CSY, and likewise
+concluded that the facts went beyond a mere case of related actions as there
+was a real risk of inconsistent findings (see above at [16] and [30]). In the
+circumstances, the Judge’s decision is consistent with the decisions in
+Maybank and CSY and we reject Mr Ken Koh and KYK’s submission to the contrary.
+
+There is a real risk of multiplicity of proceedings
+
+33 Second, we turn to Mr Ken Koh and KYK’s contention that the Judge made a
+prima facie error as any multiplicity of proceedings was only “perceived” or
+“illusory”. We do not find any merit in this argument. To begin with, the
+essence of this contention appears to be that the Judge was wrong to find that
+there was a multiplicity of proceedings – in other words, that the Judge
+reached the wrong conclusion on the facts. As we have explained at [27] above,
+this would, at best, constitute an error of fact, and not law, which generally
+will not satisfy the threshold for granting permission to appeal.
+
+34 In any event, we disagree that the Judge made an error of fact in finding
+that there was a multiplicity of proceedings that justified refusing a stay.
+Mr Ken Koh and KYK cite Car & Cars Pte Ltd v Volkswagen AG and another [2010]
+1 SLR 625 (“Car & Cars”) for the proposition that “a stay may be granted if
+the perceived multiplicity was induced by the way the plaintiff initiated its
+case or arranged its affairs”. Mr Ken Koh and KYK submit that a stay should be
+granted as the perceived multiplicity in the present case was a product of the
+way Ding Asset pleaded its claim (ie, by “needlessly conjoin[ing]” Mr Ken Koh
+and Mr Koh YK as the makers of the Representation, in an attempt to circumvent
+the arbitration agreement).
+
+35 Mr Ken Koh and KYK’s reliance on Car & Cars is misplaced. In Car & Cars,
+the parties had entered into four separate agreements with significantly
+different dispute resolution clauses, each worded differently. It was in that
+context that Andrew Ang J (as he then was) observed that “the parties could
+have foreseen that there would be a risk of multiplicity and inconsistent
+decisions should disputes arise out of these agreements”, and that the parties
+therefore “ought to be held to their respective contractual bargains and
+should proceed to arbitration” (at [50]). Clearly, Car & Cars involved a
+different factual matrix from the present case and does not stand for the
+proposition that a party should be made to participate in parallel proceedings
+simply because of the way it pleaded its claim. In any event, there is no
+evidence that Ding Asset “needlessly conjoin[ed]” Mr Ken Koh and Mr Koh YK in
+its pleadings in an attempt to circumvent the arbitration agreement. This is a
+bare allegation on Mr Ken Koh and KYK’s part, which we do not accept.
+
+36 We also disagree with Mr Ken Koh and KYK’s submission that any multiplicity
+of proceedings in the present case is only “illusory”. Ding Asset’s
+misrepresentation claim rests on the allegation that “[Mr Ken Koh], [Mr Koh
+YK], and/or an associate of [Mr Ken Koh] and/or [Mr Koh YK] acting on their
+behalf” made the Representation to Mr Ding. If the parties were made to
+participate in parallel proceedings, a court hearing the action against Mr Koh
+YK may well conclude that the Representation was made jointly by Mr Ken Koh
+and Mr Koh YK, which would clearly overlap with any findings of an arbitral
+tribunal hearing the action against Mr Ken Koh. Likewise, given that Ding
+Asset’s conspiracy claim is premised on the allegation that all the Defendants
+had a common intention to injure Ding Asset, a court or arbitral tribunal
+hearing the claim would have to make a finding in respect of all the
+Defendants. In our view, there is thus a real risk of multiplicity and
+inconsistent decisions if the parties were made to participate in parallel
+proceedings. As such, the Judge did not make an error of fact in any event.
+
+37 For completeness, Mr Ken Koh and KYK also rely on Epoch Minerals Pte Ltd v
+Raffles Asset Management (S) Pte Ltd and others [2018] SGHC 223 (“Epoch
+Minerals”) and Parastate Labs Inc v Wang Li and others [2023] SGHC 48
+(“Parastate”) as examples of cases where a stay in favour of arbitration was
+granted to some (but not all) defendants. In our judgment, these cases are not
+helpful. They both concern situations where a stay in favour of arbitration
+had already been granted to the defendants who were bound by the arbitration
+clause. The only question before the court was whether a case management stay
+should be granted to the remaining defendants who were not bound by the
+arbitration clause (see Epoch Minerals at [8] and Parastate at [1]–[2]). In
+other words, these cases do not address the question that the court was
+concerned with in RA 45, which was whether a stay in favour of arbitration
+should be granted to defendants bound by the arbitration clause in the first
+place. They are therefore not germane to the inquiry of whether the Judge made
+a prima facie error of law.
+
+The degree of overlap is similar to that in CSY
+
+38 Third, Mr Ken Koh and KYK submit that the Judge was wrong to find that the
+degree of overlap in the present case was similar to that in CSY, as CSY
+concerned a “singular continuous dispute split into 2 time periods” between
+two parties, while the present case involves “multiple causes of action”
+between different parties. In our view, this is ultimately a contention that
+the Judge erred in his application of the law to the facts. As we have
+explained at [27] above, an alleged error in the application of the law is an
+error of fact rather than law, which generally will not suffice for the
+purposes of seeking permission to appeal.
+
+39 In any case, we are of the view that the Judge did not make an error of
+fact in his finding. The point made by the Judge was that in both CSY and the
+present case, there was a significant overlap in the issues that would have to
+be considered by the putative arbitral tribunal and the court. In CSY, the
+dispute centred on a company’s allegations that its external auditor had
+failed to detect material misstatements in its audited financial statements
+for financial years (“FY”) 2014 to 2019. The dispute in relation to FY2018 and
+FY2019 (the “FY2018 and FY2019 Dispute”) was subject to an arbitration
+agreement, while the dispute in relation to FY2014 to FY2017 (“FY2014 to
+FY2017 Dispute”) was not. The court declined to stay the FY2018 and FY2019
+Dispute in favour of arbitration, on the basis that there was a significant
+overlap between the disputed issues in the FY2014 to FY2017 Dispute and the
+FY2018 and FY2019 Dispute (at [26]–[27]). The FY2014 to FY2017 Dispute and the
+FY2018 and FY2019 Dispute could be described as “nearly identical”, such that
+there was a real prospect of inconsistent findings between the two fora (at
+[30]–[31]).
+
+40 In our judgment, it follows from our analysis at [36] above that the
+present case would likewise raise identical issues for determination by an
+arbitral tribunal and a court hearing the action (eg, whether all the
+Defendants had the common intention to injure Ding Asset). We therefore do not
+see any error in the Judge’s comparison of the present case to the facts of
+CSY.
+
+The Judge did not conflate issues of case management with whether a stay in
+favour of arbitration should be granted
+
+41 Finally, we address Mr Ken Koh and KYK’s contention that the Judge
+“conflated” the issue of granting a case management stay with that of granting
+a stay in favour of arbitration. This contention appears to suggest that the
+Judge was wrong to have considered the fact that Mr Koh YK and YKL have not
+applied for a case management stay, at the point when he was deciding whether
+a stay in favour of arbitration should be granted to Mr Ken Koh and KYK.
+However, Mr Ken Koh and KYK have not cited any authority to support this
+proposition. In their submissions, Mr Ken Koh and KYK refer to extracts from
+the following authorities:
+
+Tomolugen Holdings Ltd and another v Silica Investors Ltd and other appeals
+[2016] 1 SLR 373 (‘Tomolugen’) at [188]
+
+188 … In this regard, we consider that the court’s discretion to stay court
+proceedings pending the resolution of a related arbitration, at the request of
+parties who are not subject to the arbitration agreement in question, can in
+turn be made subject to the agreement of those parties to be bound by any
+applicable findings that may be made by the arbitral tribunal. …
+
+Maybank at [24]
+
+24 Furthermore, once the court does decide to stay a dispute in favour of
+domestic arbitration under the AA, this crucial difference between the AA and
+the [International Arbitration Act (Cap 143A, 2002 Rev Ed) (‘IAA’)] falls
+away. The court is then confronted with the same question it faces in the
+context of the IAA: whether, having stayed one claim in favour of arbitration,
+it should order that the other claim be likewise stayed as a matter of proper
+case management. …
+
+Parastate at [63]
+
+63 Having granted a mandatory arbitration stay of Parastate’s claims against
+Babel Asia, I exercised my discretion to stay the rest of the action, to
+ensure the efficient and fair resolution of the dispute as a whole, and
+ultimately serve the ends of justice.
+
+42 Tomolugen, Maybank and Parastate were all cases where the parties, having
+either obtained or applied for a stay over parts of the action in favour of
+arbitration, had also applied for a stay of the remaining claims (which were
+not subject to the arbitration agreement) as a matter of case management. The
+extracts set out above were therefore made in the context of the court
+deciding on the applications for a case management stay, and only illustrate
+that the court may grant such a stay in the circumstances if appropriate (and
+on such terms as it thinks appropriate). They do not suggest that a court
+cannot consider the absence of applications for a case management stay from
+other defendants, in deciding whether a stay in favour of arbitration should
+be granted to a particular defendant, especially in circumstances where the
+absence of a case management stay would result in concurrent overlapping
+proceedings in two fora. There is therefore no basis for Mr Ken Koh and KYK’s
+contention that the Judge was wrong to consider the fact that Mr Koh YK and
+KYK had not made any application for a case management stay.
+
+43 In so far as Mr Ken Koh and KYK are suggesting that the Judge should have
+first granted them a stay in favour of arbitration, before granting Mr Koh YK
+and YKL a case management stay, the point remains that Mr Koh YK and YKL have
+not made any such stay application. It was for this reason that the Judge
+found that it would be inappropriate to stay the actions against Mr Koh YK and
+YKL, even if the court could do so in an exercise of its inherent powers. In
+our view, Mr Koh YK and YKL’s omission to apply for a case management stay is
+particularly significant because it suggests that both Mr Koh YK and YKL are
+content for the dispute to be decided in OC 265. While counsel for YKL
+confirmed at the hearings before the AR and the Judge below that YKL is
+willing to arbitrate the dispute, such a unilateral confirmation by YKL does
+not confer the court with the power to stay the proceedings in favour of
+arbitration in the absence of Ding Asset’s agreement to arbitrate the dispute.
+In any event, we do not think this explains why YKL has yet to apply for a
+case management stay, even at this late stage of the proceedings. We also
+agree with the Judge that YKL did not need to wait for the outcome of RA 45
+and RA 46 (or this application, for that matter) in order to take out an
+application for a case management stay. Besides, no similar confirmation was
+made by Mr Koh YK and as such, OC 265 will still proceed and thereby the real
+risk of inconsistent findings cannot be ruled out. Finally, as we have noted,
+the authorities cited by Mr Ken Koh and KYK (at [41] above) concern cases
+where an application for a case management stay had been made by the relevant
+parties. The authorities do not suggest that a court should order a case
+management stay against defendants (who are not parties to the arbitration
+agreement) even in the absence of any such application, in tandem with an
+order staying the proceedings against the other defendants (who are parties to
+the arbitration agreement) in favour of arbitration.
+
+44 Ultimately, it is for the defendants to decide how best to deal with a
+claim where some parties are bound by an arbitration agreement while others
+are not. If a stay is applied for only by those defendants who are parties to
+the arbitration agreement, they must accept that their decision would
+effectively create parallel proceedings in the court and in the arbitration,
+and may therefore result in a risk of inconsistent findings, which is a factor
+that the court may have regard to when deciding whether to grant a stay in
+favour of arbitration under the AA. In the circumstances, we disagree that the
+Judge erroneously “conflated” the issues of case management with granting a
+stay in favour of arbitration. We therefore reject Mr Ken Koh and KYK’s
+contention that the Judge made a prima facie error of law.
+
+RA 45 does not raise any questions of importance
+
+45 Next, we turn to consider Mr Ken Koh and KYK’s second ground for the
+present application, which is that permission to appeal should be granted as
+RA 45 raises the following questions of importance:
+
+(a) whether the presence of a claim under a single cause of action against
+multiple defendants, some of whom are parties to arbitration agreements and
+some are not, is in itself a sufficient reason to refuse a stay in favour of
+arbitration where the dispute falls within the scope of the arbitration
+agreement(s) (“Question 1”); and
+
+(b) whether the issue of a case management stay against the other defendants
+who are not parties to the arbitration agreement(s) should be decided
+simultaneously or subsequently (“Question 2”).
+
+46 In our judgment, neither of the above questions arises on the facts of RA
+45. In relation to Question 1, we have explained at [30] above that the Judge
+did not refuse to stay the actions against Mr Ken Koh and KYK merely because
+Ding Asset had pleaded the same cause of action in respect of all the
+Defendants (namely, conspiracy by unlawful or lawful means), or because there
+would otherwise be parallel proceedings in the courts and in the arbitration.
+It was instead the real risk of inconsistent findings that warranted the
+refusal of a stay. RA 45 therefore did not raise the question of whether a
+single cause of action against multiple defendants was, by itself, sufficient
+reason to refuse a stay in favour of arbitration. In any event, based on the
+principles set out in Maybank and CSY, we are of the view that the answer to
+Question 1 must necessarily depend on the facts at hand. While the mere fact
+of related actions would not in itself be sufficient reason to refuse a stay
+in favour of arbitration, the court must consider if there are other
+circumstances that indicate that refusing a stay would best ensure the
+efficient and fair resolution of the entire dispute, having regard to the
+factors stated in CSY at [25].
+
+47 As for Question 2, Mr Ken Koh and KYK submit that this question arises for
+determination as the cases at [41] above suggest that “the issue of case
+management only arises after the Court decides whether to grant a stay in
+favour of arbitration”. In our view, this is a misreading of the case law. As
+we have noted, none of the authorities cited by Mr Ken Koh and KYK suggests
+that case management concerns may only be considered after a stay in favour of
+arbitration is granted. Question 2 therefore likewise does not arise on the
+facts of RA 45.
+
+Conclusion
+
+48 For the reasons set out above, we find that Mr Ken Koh and KYK have not
+raised any grounds on which permission to appeal against the Judge’s decision
+in RA 45 should be granted. Accordingly, we dismiss the present application.
+
+49 Mr Ken Koh and KYK are to pay Ding Asset costs of the present application
+fixed at S$8,000 (all-in). The usual consequential orders are to apply.
+
+Judith Prakash  
+Justice of the Court of Appeal| Steven Chong  
+Justice of the Court of Appeal  
+---|---  
+  
+Mansurhusain Akbar Hussein, Remesha Chandran Pillai and Shauna Low (Jacob
+Mansur & Pillai) for the applicants;
+
+N Sreenivasan SC, Jerrie Tan and Felicia Tee (K&L Gates Straits Law LLC)
+(instructed), Ravindran s/o Ramasamy (CNPLaw LLP) for the respondent.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 11 Aug 2023 (11:54 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

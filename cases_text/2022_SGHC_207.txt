@@ -1,0 +1,2855 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 207
+
+Suit No 535 of 2019
+
+Between
+
+(1)| Low Eng Chai  
+---|---  
+(2)| Low Eng Chuan  
+  
+… Plaintiffs
+
+And
+
+(1)| Ishak bin Mohamed Basheere  
+---|---  
+(2)| Neil Hutton  
+  
+… Defendants
+
+judgment
+
+[Contract — Misrepresentation — Damages]
+
+[Contract — Misrepresentation — Fraudulent]
+
+[Contract — Misrepresentation Act]
+
+[Evidence — Adverse inferences]
+
+[Tort — Conspiracy — Unlawful means conspiracy]
+
+[Damages — Measure of damages — Loss of chance]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Low Eng Chai and another
+
+  
+v
+
+  
+
+Ishak bin Mohamed Basheere and another
+
+[2022] SGHC 207
+
+General Division of the High Court — Suit No 535 of 2019  
+S Mohan J  
+21–24, 29 September 2021, 25 February, 11 March 2022
+
+29 August 2022 Judgment reserved.
+
+S Mohan J:
+
+1 This is a case of investments turning sour. The plaintiffs are investors in
+Asia Strategic Mining Corporation Pte Ltd (“ASMC”). They were guaranteed
+monthly payments representing returns on their investment over a period of
+five to eight years. In late 2018, less than two years after their initial
+investment, these monthly payments ceased. The plaintiffs have lost a not
+insignificant sum of money and cry foul. They accuse the defendants of, inter
+alia, perpetrating a fraudulent investment scheme which induced them to invest
+and when things took a turn for the worse, fraudulently inducing them to
+refrain from taking or prosecuting legal proceedings while the alleged
+perpetrators diverted or dissipated funds away from the plaintiffs’ reach.
+
+2 The plaintiffs commenced proceedings against, inter alia, ASMC in a separate
+suit (HC/S 189/2019) and have since obtained summary judgment against ASMC for
+the full sum that is owed to them amounting to S$616,700. In the present
+action, the plaintiffs seek to recover a similar sum from the second
+defendant, who was ASMC’s Manager of Public Relations and Customer Services at
+the material time. In essence, the plaintiffs’ case theory is that the second
+defendant was responsible for making various misrepresentations to the
+plaintiffs (as part of an unlawful means conspiracy with the first defendant),
+which in turn caused the plaintiffs to forbear from commencing legal action
+against ASMC and/or taking other legal or investigative steps, and which
+ultimately facilitated the dissipation of money from ASMC to other parties.
+
+3 While there are currently two defendants named in the action, the first
+defendant, Mr Ishak Bin Mohamed Basheere, failed to file his and his
+witnesses’ Affidavits of Evidence-in-Chief (“AEICs”) within the timelines
+stipulated by the Assistant Registrar at the pre-trial stage. Accordingly,
+pursuant to the Assistant Registrar’s peremptory order made at a pre-trial
+conference hearing on 26 August 2021, the first defendant’s Statement of
+Defence has been struck out in its entirety with the plaintiffs entitled to
+enter final judgment against the first defendant. 1
+
+##### Foot Note 1
+
+×
+
+Notes of Evidence (“NEs”), 26 August 2021, p 2 lines 14–17.
+
+Accordingly, the first defendant did not appear at the trial and took no part
+in it. In this judgment, I therefore deal only with the plaintiffs’ claims
+against the second defendant.
+
+Facts
+
+4 The first and second plaintiff are brothers. 2
+
+##### Foot Note 2
+
+×
+
+Affidavit of Evidence-in-Chief (“AEIC”) of Low Eng Chuan dated 6 August 2021
+(“P2AEIC”), paras 3–4 (Plaintiffs’ Bundle of AEICs (“PBAEIC”) Vol 1, p 14).
+
+The first defendant was at all material times, the sole director and
+shareholder of ASMC, and also its Managing Director. 3
+
+##### Foot Note 3
+
+×
+
+Statement of Claim (Amendment No. 3) dated 19 November 2021 (“SOC”) para 3;
+Defence of the 2nd Defendant (Amendment No. 2) dated 3 December 2021
+(“Defence”) para 3; AEIC of Neil Hutton, para 15.
+
+The second defendant was employed by ASMC from around August 2018, until his
+resignation from ASMC in December 2019. 4
+
+##### Foot Note 4
+
+×
+
+AEIC of Neil Hutton, para 6; Plaintiffs’ Closing Submissions (“PCS”) para 5.
+
+As noted above at [2], the second defendant worked in ASMC at the material
+time as a Manager of Public Relations and Customer Services. To be precise,
+when the second defendant first joined ASMC, his job title was not Manager of
+Public Relations and Customer Services; instead, e-mails sent by him would
+simply be signed off as “Customer Services ASMC Singapore”. 5
+
+##### Foot Note 5
+
+×
+
+PBAEIC Vol 1 p 208.
+
+According to the second defendant, the change in job title took place sometime
+after 23 November 2018 and was merely for ASMC’s convenience in dealing with
+customers. It did not entail any increase in the second defendant’s job scope
+or responsibilities. 6
+
+##### Foot Note 6
+
+×
+
+Defence para 4.
+
+The first defendant was the second defendant’s immediate superior in ASMC. 7
+
+##### Foot Note 7
+
+×
+
+AEIC of Neil Hutton, para 15.
+
+5 According to the second defendant, ASMC is a company involved in mining
+activities and the trading of steam coal and nickel. 8
+
+##### Foot Note 8
+
+×
+
+AEIC of Neil Hutton, para 7.
+
+As ASMC had limited funds for its trading activities, ASMC invited investors
+(known as “funders”) to co-invest in ASMC’s steam coal and nickel trading
+activities. In return, the funders were promised a fixed return on their
+investment over a fixed period of time. 9
+
+##### Foot Note 9
+
+×
+
+AEIC of Neil Hutton, para 6.
+
+6 The first and second plaintiffs are two such funders. Between November 2016
+and June 2017, the first plaintiff entered into five funding agreements with
+ASMC for the purchase of steam coal and nickel, as follows: 10
+
+##### Foot Note 10
+
+×
+
+SOC para 5.
+
+(a) On or around 15 November 2016, the first plaintiff entered into funding
+agreement number ASFE975SG with ASMC, for the purchase of steam coal from
+Indonesia (the “First Steam Coal Contract”).
+
+(b) On or around 13 December 2016, the first plaintiff entered into funding
+agreement number ASFE1023SG with ASMC, for the purchase of steam coal from
+Indonesia (the “Second Steam Coal Contract”).
+
+(c) On or around 13 December 2016, the first plaintiff entered into funding
+agreement number ASFE1024SG with ASMC, for the purchase of steam coal from
+Indonesia (the “Third Steam Coal Contract”).
+
+(d) On or around 15 January 2017, the first plaintiff entered into funding
+agreement number ASFE1077SG with ASMC, for the purchase of steam coal from
+Indonesia (the “Fourth Steam Coal Contract”).
+
+(e) On or around 9 June 2017, the first plaintiff entered into funding
+agreement number ASFF0074SG for the purchase of nickel from Indonesia (the
+“Nickel Contract”).
+
+I will refer to the funding agreements described above collectively as the
+“Contracts”, and to each individually as a “Contract”.
+
+7 Under each Contract, the first plaintiff agreed to pay a principal sum to
+ASMC, which would be utilised by ASMC to purchase steam coal or nickel. In
+return, ASMC was obliged to pay the first plaintiff a stipulated sum on a
+monthly basis, and in accordance with a payment schedule annexed to each of
+the Contracts. The funding periods for the Contracts ranged from five to eight
+years. Each of the Contracts contained a clause that permitted the first
+plaintiff, in the event that ASMC breached the terms and conditions of the
+respective Contracts (each, a “Refund Clause”), to obtain a full refund of the
+principal sum paid to ASMC and a sum equivalent to all of the monthly payments
+that the first plaintiff would have received during the funding period. 11
+
+##### Foot Note 11
+
+×
+
+P2AEIC paras 24–28, 32–36, 40–44, 48–52, 56–60. (PBAEIC Vol 1 pp 22–32).
+
+Further, under the provisions of the respective Contracts, the first plaintiff
+was entitled to request an early redemption of the principal sum upon payment
+of a fee, following which the first plaintiff would receive a portion of the
+principal sum paid to ASMC, plus the monthly payments accrued at the time of
+redemption. 12
+
+##### Foot Note 12
+
+×
+
+See eg, PBAEIC pp 171–172.
+
+8 The plaintiffs claim that they had agreed among themselves that the
+Contracts would be concluded by the first plaintiff on behalf of both
+plaintiffs, and that the second plaintiff would be a co-investor. 13
+
+##### Foot Note 13
+
+×
+
+P2AEIC para 17 (PBAEIC Vol 1 p 20).
+
+To that end, each of the Contracts stated that the monthly payments would be
+credited to the second plaintiff’s designated bank account. 14
+
+##### Foot Note 14
+
+×
+
+P2AEIC para 18 (PBAEIC Vol 1 p 20); PBAEIC Vol 1 pp 134, 150, 166, 182 and
+199.
+
+It is not disputed that the first plaintiff was not involved in managing the
+plaintiffs’ investment with ASMC, and that it was the second plaintiff who
+served as the primary liaison between the plaintiffs and ASMC. 15
+
+##### Foot Note 15
+
+×
+
+Defendant’s Closing Submissions (“DCS”) para 18.
+
+9 ASMC initially made monthly payments to the second plaintiff pursuant to the
+Contracts, but these payments ceased from September 2018. 16
+
+##### Foot Note 16
+
+×
+
+PCS para 10; DCS para 22.
+
+From October 2018 to around September 2019, the second plaintiff received
+various e-mails sent by the second defendant, which provided, inter alia,
+updates on when ASMC was expected to make the outstanding payments. The
+majority of these e-mails were mass e-mails sent out to all of ASMC’s funders,
+on which the second plaintiff was copied. These e-mails form the mainstay of
+the plaintiffs’ claim against the second defendant. During this period, the
+second plaintiff also attended meetings with the first and/or second
+defendant, to discuss, among other things, an early redemption of the
+Contracts and alleged difficulties faced by ASMC in making payments to
+funders. 17
+
+##### Foot Note 17
+
+×
+
+P2AEIC paras 67 and 105–106 (PBAEIC Vol 1 pp 34 and 45–46).
+
+10 Concurrently, on 10 January 2019, the first plaintiff’s former solicitors
+sent a letter of demand to ASMC demanding payment of S$616,700, being the full
+sum that ASMC was allegedly obliged to pay pursuant to the Refund Clauses in
+the respective Contracts. 18
+
+##### Foot Note 18
+
+×
+
+PBAEIC Vol 1 pp 221–226.
+
+As the demand was not met, on 15 February 2019, the first plaintiff in the
+present suit (ie, Mr Low Eng Chai) commenced HC/S 189/2019 against ASMC
+claiming this sum of S$616,700. 19
+
+##### Foot Note 19
+
+×
+
+P2AEIC para 123 (PBAEIC Vol 1 p 51); 2nd Defendant’s Bundle of Documents
+Relating to HC/S 189/2019 p 2.
+
+On 31 July 2019, the first plaintiff applied for summary judgment of his claim
+in HC/S 189/2019, pursuant to O 14 r 1 of the Rules of Court (2014 Rev Ed). 20
+
+##### Foot Note 20
+
+×
+
+PBAEIC Vol 1 p 294.
+
+Summary judgment was granted in favour of Mr Low Eng Chai on 6 December 2019.
+21
+
+##### Foot Note 21
+
+×
+
+PBAEIC Vol 1 p 294.
+
+To date, this judgment has not been enforced by the first plaintiff. 22
+
+##### Foot Note 22
+
+×
+
+DCS para 107.
+
+It is not disputed that since the cessation of monthly payments in September
+2018, the plaintiffs have not received or recovered any further sums from
+ASMC.
+
+The parties’ cases
+
+The plaintiffs’ case
+
+11 The plaintiffs’ case against the second defendant centres on their claims
+for (a) misrepresentation; and (b) unlawful means conspiracy. In respect of
+the plaintiffs’ claim for misrepresentation, Mr Clarence Lun, counsel for the
+plaintiffs, argues that the second defendant made various false
+representations in his e-mails to the second plaintiff from October 2018 to
+July 2019, as well as at a meeting between the second plaintiff and second
+defendant at Concorde Hotel, Singapore on 28 October 2018 (the “Concorde Hotel
+meeting”). 23
+
+##### Foot Note 23
+
+×
+
+PCS para 27.
+
+The plaintiffs allege that the misrepresentations made by the second defendant
+are as follows: 24
+
+##### Foot Note 24
+
+×
+
+SOC para 76.
+
+(a) Banking issues had resulted in payment delays.
+
+(b) All outstanding payments would be made from 9 November 2018.
+
+(c) ASMC is in good overall financial health.
+
+(d) ASMC is in possession of the requisite funds and is ready and willing to
+make all payments.
+
+I refer to the above representations collectively as the “Representations”.
+
+12 The Representations were made over 16 occasions (comprising the Concorde
+Hotel meeting and e-mails, as mentioned at [11] above), which are set out in
+full at Annex A of this judgment. The plaintiffs contend that as a result of
+the Representations, they forbore from commencing legal proceedings against
+ASMC, entering summary judgment against ASMC expeditiously, commencing
+investigations and/or taking necessary legal action to prevent the dissipation
+of funds by ASMC. According to the plaintiffs, their forbearance began in
+October 2018 and continued at least until 31 July 2019 (which was the date on
+which the first plaintiff applied for summary judgment in HC/S 189/2019, as
+noted at [10] above). 25
+
+##### Foot Note 25
+
+×
+
+SOC paras 79 and 79(n); PCS paras 27 and 37.
+
+The plaintiffs submit that a claim for fraudulent and/or negligent
+misrepresentation is made out on the present facts, as the Representations
+were made by the second defendant with the knowledge that they were wilfully
+false and/or in breach of a duty of care he owed to the plaintiffs. 26
+
+##### Foot Note 26
+
+×
+
+PCS para 7.
+
+13 Consequently, the plaintiffs’ pleaded case is that they are entitled to
+damages in the sum of S$616,700, being the full sum owed by ASMC to the first
+plaintiff under the respective Contracts. 27
+
+##### Foot Note 27
+
+×
+
+SOC para 101.
+
+That being said and as I elaborate further at [66] below, this was
+subsequently recast by Mr Lun as a claim for damages for the loss of a chance
+to commence legal proceedings expeditiously against ASMC. In the alternative,
+the plaintiffs claim that they are entitled to damages to be assessed, or
+damages under s 2 of the Misrepresentation Act (Cap 390, 1994 Rev Ed)
+(“Misrepresentation Act”), although I note that the claim under the
+Misrepresentation Act was not pursued in the plaintiffs’ closing submissions.
+
+14 For the avoidance of doubt, I note that the Statement of Claim also alleges
+that the second defendant made false statements in e-mails sent to the second
+plaintiff on 1 August 2019, regarding an alleged transfer of ASMC’s funds from
+a bank in Malta to Singapore (the “1 August 2019 e-mails”), and which the
+plaintiffs appear to contend they also relied on. 28
+
+##### Foot Note 28
+
+×
+
+SOC para 79(q) and (r).
+
+However, the plaintiffs did not specifically plead that the 1 August 2019
+e-mails induced them to continue to forbear from commencing and/or prosecuting
+legal proceedings against ASMC beyond 31 July 2019; no particulars were
+pleaded of any act(s) of forbearance on the part of the plaintiffs from 1
+August 2019 onwards. 29
+
+##### Foot Note 29
+
+×
+
+SOC para 79(r).
+
+Nor did the plaintiffs refer to the 1 August 2019 e-mails in their closing
+submissions in seeking to establish their claims in misrepresentation. 30
+
+##### Foot Note 30
+
+×
+
+PCS paras 27 and 37.
+
+I therefore proceed on the basis that, notwithstanding the haziness of the
+plaintiffs’ pleading in this regard, it is not the plaintiffs’ case that any
+of the Representations were made or continued to be made in the 1 August 2019
+e-mails, or that the plaintiffs also forbore beyond 31 July 2019 as a
+consequence of the 1 August 2019 e-mails. Having said that, the 1 August 2019
+e-mails are not without any relevance at all. They appear to still be relevant
+to the plaintiffs’ claim for unlawful means conspiracy.
+
+15 The thrust of the plaintiffs’ case in unlawful means conspiracy is that the
+second defendant, together with the first defendant, knowingly perpetrated a
+fraudulent investment scheme on the plaintiffs. The plaintiffs allege that the
+first defendant dissipated ASMC’s funds, while the second defendant made
+various misrepresentations to the plaintiffs (a) on the occasions set out in
+Annex A; (b) in the 1 August 2019 e-mails; and (c) in an e-mail sent on 2
+September 2019 that stated that ASMC was in the midst of transferring funds
+from Indonesia to Singapore (the “2 September 2019 e-mail”). 31
+
+##### Foot Note 31
+
+×
+
+SOC paras 89(a) to 89(e).
+
+For ease of reference, the 1 August 2019 e-mails and the 2 September 2019
+e-mail are set out in Annex B to this judgment. The purpose of these
+misrepresentations was, according to the plaintiffs, to allay any suspicions
+on the part of funders like the plaintiffs. 32
+
+##### Foot Note 32
+
+×
+
+SOC paras 87–88; PCS para 76.
+
+The plaintiffs claim that ASMC was a fraudulent business, and that there were
+no purchases of commodities or investments underlying the Contracts to begin
+with. 33
+
+##### Foot Note 33
+
+×
+
+Plaintiffs’ Reply Submissions (“PRS”) para 29.
+
+The essence of the plaintiffs’ pleaded claims is encapsulated in paras 7A and
+7B of the Statement of Claim (Amendment No. 3) (“Statement of Claim”), which
+bear reproducing below:
+
+7A. It was never intended that ASMC would perform its payment obligations
+towards the Plaintiffs in full. The Five Contracts formed part of the
+fraudulent investment scheme procured by the First Defendant by way of various
+false representations made to the Plaintiffs, the details of which are set out
+in Section IV of this Statement of Claim. ASMC is and was at all material
+times a mere corporate vehicle through which the fraudulent investment scheme
+was perpetrated by the First Defendant, and subsequently, the Second Defendant
+as a co-conspirator after he joined ASMC in August 2018.
+
+7B. Pursuant to the fraudulent investment scheme, the Defendants’ modus
+operandi was as follows. Pursuant to the First Defendant’s misrepresentations,
+the funder would first provide his investment capital known as the ‘funding
+sum’ to ASMC at the commencement date. Monthly repayments by ASMC would then
+be made to the funder from the time of commencement up to sometime in late
+2018. Thereafter, payments would cease entirely, and the Plaintiffs would
+never receive full repayment of their principal investment sum and promised
+returns. When pressed for clarification, the Second Defendant would respond in
+a highly evasive and/or dishonest manner, citing multiple vague and dilatory
+excuses pertaining to banking issues and unforeseen circumstances, whilst at
+the same time supplying additional false and/or misleading information to the
+funders to dissuade them from commencing legal proceedings and/or taking out
+such other proceedings to prevent the dissipation of funds and investigations
+into the relevant parties to take out such proceedings as necessary. This is
+to buy time so that the monies could be dissipated out of ASMC, paid to other
+investors and/or transferred to ISK Capital Pte Ltd’s bank account in Malta.
+
+16 For completeness, among the reliefs sought by the plaintiffs in the
+Statement of Claim is what can only be described as a curious claim for a
+“Performance bond by BNP Paribas to be issued by ASMC in favour of the
+Plaintiff” (the “BNP Paribas Performance Bond”). 34
+
+##### Foot Note 34
+
+×
+
+SOC para 100.
+
+This claim was also not pursued in the plaintiffs’ closing submissions, nor
+was any attempt made to explain the plaintiffs’ entitlement to this relief.
+
+The second defendant’s case
+
+17 In respect of the plaintiffs’ claim for misrepresentation, counsel for the
+second defendant, Mr Devadas Naidu, does not dispute that the second defendant
+made the statements set out in Annex A and on the dates listed therein. 35
+
+##### Foot Note 35
+
+×
+
+Defence, paras 17A–17C.
+
+Neither is it seriously disputed that the statements set out in Annex A
+contain the Representations alleged by the plaintiffs. However, Mr Naidu
+argues that (a) the plaintiffs have not proven the falsity of the
+Representations; and/or (b) the Representations are statements of future
+intent and are therefore not actionable. 36
+
+##### Foot Note 36
+
+×
+
+DCS paras 69–70.
+
+18 Further, Mr Naidu argues that at all material times, the second defendant
+was a junior employee in ASMC and had only been a “conduit” through which his
+superiors in ASMC conveyed information to funders. The second defendant had no
+reason to doubt the truth of the statements he communicated to the second
+plaintiff. 37
+
+##### Foot Note 37
+
+×
+
+DCS para 17.
+
+Mr Naidu also contends that the plaintiffs did not rely on the Representations
+and that they have not adduced evidence of any loss suffered as a result of
+the Representations. 38
+
+##### Foot Note 38
+
+×
+
+DCS paras 76 and 83.
+
+Accordingly, the plaintiffs have not established their claim for
+misrepresentation.
+
+19 As for the plaintiffs’ claim for unlawful means conspiracy, Mr Naidu argues
+that the plaintiffs have not adduced evidence to prove the existence of a
+conspiracy between the first and second defendants, or that any loss was
+suffered as a result of the alleged conspiracy. 39
+
+##### Foot Note 39
+
+×
+
+DCS paras 99 and 103.
+
+Similar to his arguments in respect of the plaintiffs’ claim for
+misrepresentation, Mr Naidu also maintains that all statements communicated by
+the second defendant to the second plaintiff were made in good faith and on
+instructions from the second defendant’s superiors. The second defendant did
+not have any intent to injure or cause damage to the plaintiffs. 40
+
+##### Foot Note 40
+
+×
+
+DCS para 102.
+
+The plaintiffs’ claim for unlawful means conspiracy is therefore also not made
+out.
+
+Issues to be determined
+
+20 Based on the background facts set out above and the pleadings, the
+following issues arise for my determination:
+
+(a) Have the plaintiffs established their claim for misrepresentation (“Issue
+1”)?
+
+(b) Have the plaintiffs established their claim for unlawful means conspiracy
+(“Issue 2”)?
+
+(c) Are the plaintiffs entitled to the BNP Paribas Performance Bond (“Issue
+3”)?
+
+Issue 1: Have the plaintiffs established their claim for misrepresentation?
+
+21 The legal principles governing a claim for misrepresentation are not in
+dispute. As set out in Panatron Pte Ltd and another v Lee Cheow Lee and
+another [2001] 2 SLR(R) 435 at [14], the five cumulative elements required for
+a claim in fraudulent misrepresentation to succeed are as follows:
+
+(a) a false representation of fact by words or conduct;
+
+(b) the representation must be made with the intention that it should be acted
+upon by the plaintiff, or a class of persons which includes the plaintiff;
+
+(c) the plaintiff acted upon the false statement;
+
+(d) the plaintiff suffered damage by so doing; and
+
+(e) the representation must be made with the knowledge that it is false; it
+must be wilfully false, or at least made in the absence of any genuine belief
+that it is true.
+
+22 Following Yong Khong Yoong Mark and others v Ting Choon Meng and another
+[2021] SGHC 246 at [91] (see also IM Skaugen SE and another v MAN Diesel &
+Turbo SE and another [2018] SGHC 123 at [121]), the elements required for a
+successful claim in negligent misrepresentation are as follows:
+
+(a) the representor made a false representation of fact to the representee;
+
+(b) the representation induced the representee’s actual reliance;
+
+(c) the representor owed the representee a duty to take reasonable care in
+making the representation;
+
+(d) the representor breached that duty of care; and
+
+(e) the breach caused damage to the representee.
+
+23 For completeness, the pleaded reliefs in the Statement of Claim also
+include a claim for damages under the Misrepresentation Act (as noted at [13]
+above). Section 2 of the Misrepresentation Act provides:
+
+Damages for misrepresentation
+
+2.—(1) Where a person has entered into a contract after a misrepresentation
+has been made to him by another party thereto and as a result thereof he has
+suffered loss, then, if the person making the misrepresentation would be
+liable to damages in respect thereof had the misrepresentation been made
+fraudulently, that person shall be so liable notwithstanding that the
+misrepresentation was not made fraudulently, unless he proves that he had
+reasonable ground to believe and did believe up to the time the contract was
+made that the facts represented were true.
+
+(2) Where a person has entered into a contract after a misrepresentation has
+been made to him otherwise than fraudulently, and he would be entitled, by
+reason of the misrepresentation, to rescind the contract, then, if it is
+claimed, in any proceedings arising out of the contract, that the contract
+ought to be or has been rescinded, the court or arbitrator may declare the
+contract subsisting and award damages in lieu of rescission, if of opinion
+that it would be equitable to do so, having regard to the nature of the
+misrepresentation and the loss that would be caused by it if the contract were
+upheld, as well as to the loss that rescission would cause to the other party.
+
+…
+
+[emphasis added in bold italics]
+
+24 As is clear from the wording of s 2 of the Misrepresentation Act, the
+provisions therein only apply to cases where a person enters into a contract
+after a misrepresentation has been made to him. In the present case, it is not
+in dispute that the Representations were made from October 2018 to July 2019,
+well after the Contracts were entered into by the first plaintiff. Moreover,
+the plaintiffs’ pleaded case is that the Representations induced the
+plaintiffs to forbear from commencing or prosecuting legal action
+expeditiously, and not that the plaintiffs were thereby induced to enter into
+any Contract. Accordingly, it is clear that s 2 of the Misrepresentation Act
+has no application in the present case.
+
+25 I therefore focus my analysis on the plaintiffs’ claims for fraudulent and
+negligent representation at common law. As can be seen from [21]–[22] above,
+there are several elements common to a claim in fraudulent misrepresentation
+and a claim in negligent misrepresentation, namely: (a) there must be a false
+representation of fact; (b) the plaintiff relied on the representation; and
+(c) the plaintiff suffered damage as a result of such reliance. I will address
+these common elements first before turning to the elements that differentiate
+both claims.
+
+26 However, before doing so, I first address the preliminary issue of whether
+the Representations are actionable to begin with.
+
+Are the Representations actionable?
+
+27 As noted above at [17], the second defendant contends that some of the
+Representations are statements of future intent and therefore not actionable.
+For ease of reference, the Representations are as follows:
+
+(a) Banking issues had resulted in payment delays (the “First
+Representation”).
+
+(b) All outstanding payments would be made from 9 November 2018 (the “Second
+Representation”).
+
+(c) ASMC is in good overall financial health (the “Third Representation”).
+
+(d) ASMC is in possession of the requisite funds and is ready and willing to
+make all payments (the “Fourth Representation”).
+
+28 As the plaintiffs themselves acknowledge, 41
+
+##### Foot Note 41
+
+×
+
+PCS para 24.
+
+it is clear that some of the Representations are statements of future intent.
+The plaintiffs’ case in relation to the Second Representation is that it was
+made in an e-mail sent by the second defendant on 31 October 2018. 42
+
+##### Foot Note 42
+
+×
+
+PCS para 27.
+
+The Second Representation is therefore a statement of future intent, since it
+represents that payment will be made in future (ie, from 9 November 2018).
+Likewise, to the extent that the Fourth Representation is contained in e-mails
+that state that ASMC expected to make payment in accordance with some future
+timeline (see S/Nos 4–7 and 9–16 of Annex A), the Fourth Representation is
+also a statement of future intent.
+
+29 Nonetheless, as the plaintiffs observe, a statement of future intention is
+still actionable if it can be re-characterised as a statement implying (a)
+that the maker of the statement in fact honestly believed that the event would
+happen in the future; or (b) that the maker of the statement in fact had
+reasonable grounds for making such an assertion: Deutsche Bank AG v Chang Tse
+Wen [2013] 1 SLR 1310 at [96], followed in KLW Holdings Ltd v Straitsworld
+Advisory Ltd and another [2017] 5 SLR 184 at [31].
+
+30 In the present case, I note that the second defendant admits that at least
+some of the e-mails he sent to the second plaintiff (ie, the e-mails sent by
+the second defendant from October 2018 until 12 February 2019) carried the
+implied representation that (a) he honestly believed that the future events
+discussed in the e-mails would happen as represented; and (b) he had
+reasonable grounds for making such assertions in his e-mails. 43
+
+##### Foot Note 43
+
+×
+
+Defence para 20 read with SOC para 54 and 78A.
+
+In any case, I am prepared to find that both the Second and Fourth
+Representations can be re-characterised as statements containing such implied
+representations, given that it is the second defendant’s own case that the
+Representations were made in his capacity as Manager of Public Relations and
+Customer Services of ASMC. 44
+
+##### Foot Note 44
+
+×
+
+DCS para 17.
+
+The Representations can therefore be taken to imply the second defendant’s
+genuine belief in a certain state of ASMC’s affairs at the material time. I
+therefore find that the Second and Fourth Representations are actionable.
+
+31 I now turn to consider the first element of the plaintiffs’ claim for
+fraudulent or negligent misrepresentation, which is whether the
+Representations are false.
+
+Are the Representations false?
+
+32 In my judgment, the plaintiffs have not adduced sufficient evidence to
+discharge their burden of proof that the Representations were false at the
+time they were made. I address each of the Representations in turn.
+
+The First Representation
+
+33 The plaintiffs argue that there were no banking delays as represented by
+the second defendant. This is because based on the bank statements for ASMC’s
+DBS bank account number 033-9053-899 (the “DBS Account”) for the months of
+March 2019 to September 2019, there was “a clear movement of monies in and
+out” of the DBS Account. 45
+
+##### Foot Note 45
+
+×
+
+PCS para 40.
+
+Moreover, the plaintiffs highlight that a “substantial” amount of money was
+transferred by ASMC’s associated companies to the DBS Account during the
+months of March 2019 to May 2019. 46
+
+##### Foot Note 46
+
+×
+
+PCS para 41.
+
+The plaintiffs argue that the fact that none of these funds were used to
+settle outstanding payments owed to the plaintiffs shows that the purported
+banking issues were fictitious. 47
+
+##### Foot Note 47
+
+×
+
+PCS para 44.
+
+34 I disagree with the plaintiffs that such a conclusion can be reached, based
+solely on the movement of funds in and out of the DBS Account. To begin with,
+it was not raised with the second defendant in cross-examination, that the
+movement of funds in the DBS Account necessarily showed that the banking
+issues were non-existent. Neither is it the plaintiffs’ case that the banking
+issues, which the second defendant represented had caused payment delays,
+pertained solely to the DBS Account. Based on the e-mails from the second
+defendant which the plaintiffs rely on for their misrepresentation claim (as
+set out at Annex A), none of these e-mails expressly states that the purported
+banking issues related specifically and only to the DBS Account.
+
+35 On the contrary, I note that the second defendant’s e-mail of 15 May 2019
+stated that “I can state with confidence that the funds will clear within our
+Singapore UOB account soon” [emphasis added]. 48
+
+##### Foot Note 48
+
+×
+
+S/N 14 of Annex A.
+
+Likewise, the second defendant’s e-mail of 10 June 2019 stated that “ASMC
+funds are to be transferred from London to Malta”, following which “funds will
+be cleared in batches in Ishak’s Singapore bank account” [emphasis added]. 49
+
+##### Foot Note 49
+
+×
+
+S/N 15 of Annex A.
+
+In the circumstances, I cannot see how it is relevant that there was a “a
+clear movement of monies in and out” of the DBS Account for the months of
+March 2019 to September 2019, or how the DBS Account statements for this
+period necessarily show that the First Representation was false at the time it
+was made.
+
+36 While the plaintiffs complain that the second defendant has not adduced
+documentary evidence to prove the alleged banking issues, 50
+
+##### Foot Note 50
+
+×
+
+P2AEIC para 150 (PBAEIC Vol 1 p 67).
+
+the legal burden of proving the falsity of the Representations ultimately
+falls on the plaintiffs. Given that the only evidence the plaintiffs rely upon
+is the DBS Account statements, I find that the plaintiffs have not discharged
+their burden of proving that the First Representation was false at the time it
+was made.
+
+The Second Representation
+
+37 As I concluded at [30] above, in order for the Second Representation to be
+actionable, it must be re-characterised as an implied representation that the
+second defendant honestly believed a future event would occur or had
+reasonable grounds for making such an assertion. Accordingly, the relevant
+question is: when the second defendant made the Second Representation in his
+e-mail of 31 October 2018, did he honestly believe that all outstanding
+payments would be made from 9 November 2018, and/or have reasonable grounds
+for saying so?
+
+38 In this regard, the only argument put forth by the plaintiffs is that the
+Second Representation must be “unequivocally false”, because no payments were
+ultimately made by ASMC to the plaintiffs. 51
+
+##### Foot Note 51
+
+×
+
+PCS para 38.
+
+In my view, this argument does not advance the plaintiffs’ case. The fact that
+no payments were ultimately made to the plaintiffs says nothing about what the
+second defendant’s honest beliefs were at the time the Second Representation
+was made – as would be evident from the question posed at [37] above, that is
+the relevant query. Quite clearly, the second defendant could still have had
+an honest belief in the truth of the Second Representation at the time it was
+made, even if the future events promised by the Second Representation failed
+to materialise. These two states of affairs are not mutually exclusive.
+
+39 Moreover, I accept the second defendant’s evidence that he genuinely
+believed the truth of the Second Representation, at the time it was made to
+the plaintiffs. In cross-examination, the second defendant’s evidence was that
+in respect of all the communications he had made to the plaintiffs, he had
+made these communications on behalf of his superiors and/or as part of his
+duties as ASMC’s Manager of Public Relations and Customer Services, or in the
+second defendant’s words, as “the customer services guy”. 52
+
+##### Foot Note 52
+
+×
+
+NEs, 23 September 2021, p 110 line 19.
+
+For instance, in relation to the mass e-mails sent out to funders, the second
+defendant testified that these e-mails would be drafted by the first
+defendant, before being amended by ASMC’s CEO, Dr Willem Smuts (“Dr Smuts”)
+and/or another senior manager in the company, Ms Surina Binte Awang. 53
+
+##### Foot Note 53
+
+×
+
+NEs, 29 September 2021, p 2 lines 15–20.
+
+The second defendant’s role was to then proofread the e-mails for grammatical
+or spelling errors before sending out the e-mails. In addition, the second
+defendant explained that he had believed the truth of the communications he
+sent out on behalf of his superiors. This was because he had, for example,
+been reassured by Dr Smuts at the material time that ASMC was “doing perfectly
+well” and that the company just had “some temporary payment issues”. The
+second defendant had no reason to doubt this reassurance, as he trusted Dr
+Smuts and his qualifications as a geologist. 54
+
+##### Foot Note 54
+
+×
+
+NEs, 23 September 2021, p 90 lines 10–14.
+
+He also did not doubt the assurances given by his immediate superior, the
+first defendant, of ASMC’s financial health. 55
+
+##### Foot Note 55
+
+×
+
+AEIC of Neil Hutton para 15; NEs, 24 September 2021, p 95 lines 10–15.
+
+Additionally, after the second defendant joined ASMC, he had been told by the
+finance team that funders had successfully obtained early redemptions of their
+investments up until April 2018, and he also personally knew of at least one
+funder who had successfully redeemed his investment. 56
+
+##### Foot Note 56
+
+×
+
+NEs, 23 September 2021, p 93 lines 23–28.
+
+The second defendant therefore believed that ASMC would make payment to its
+funders as promised.
+
+40 In my judgment, I find the second defendant’s explanation to be credible. I
+accept that he did have a reasonable basis for making the Representations,
+including the Second Representation. I therefore find that the plaintiffs have
+not proven the falsity of the Second Representation.
+
+The Third and Fourth Representations
+
+41 While the plaintiffs’ pleaded case is that the Third and Fourth
+Representations were false at the material time, 57
+
+##### Foot Note 57
+
+×
+
+SOC paras 77, 80 and 85.
+
+it appears to me that the plaintiffs have conceded in their closing
+submissions that the Third Representation and at least part of the Fourth
+Representation were true. For one, the plaintiffs made no submission in their
+closing submissions on why the Third Representation was false at the time it
+was made. Moreover, in relation to the alleged falsity of the Fourth
+Representation, the plaintiffs submitted that “[w]hile ASMC was in good
+financial health and in possession of the requisite funds, ASMC was never, at
+all material times, ready nor willing to make all payments due to the
+[plaintiffs]” [emphasis added]. 58
+
+##### Foot Note 58
+
+×
+
+PCS para 45.
+
+Likewise, the plaintiffs state as follows in their further submissions: 59
+
+##### Foot Note 59
+
+×
+
+Plaintiffs’ Further Submissions dated 11 March 2022 (“PFS”) para 10.
+
+… As evinced by ASMC’s DBS bank account statements between the months of
+October 2018 to September 2019, it is clear that ASMC’s financials were in
+good health and that substantial amounts of funds were available and
+transacted at all material times. ...
+
+[emphasis added in bold italics]
+
+42 Based on the submission above, it is clear that the plaintiffs now in fact
+accept that the Third Representation and part of the Fourth Representation
+(ie, that ASMC possessed the requisite funds) were true at the material time.
+The plaintiffs therefore have no basis to allege that these Representations
+constituted misrepresentations.
+
+43 As for the remainder of the Fourth Representation (ie, that ASMC was ready
+and willing to make all payments), I have also concluded at [30] above that in
+so far as the Fourth Representation pertains to statements that ASMC expected
+to make payments in future, these statements have to be re-characterised as
+implied representations that the second defendant honestly believed a future
+event would occur or had reasonable grounds for making such assertions, in
+order for that Representation to be actionable. The relevant query is
+therefore whether at the time the second defendant sent out e-mails to the
+second plaintiff stating that ASMC planned on making payment, he honestly
+believed that these projected payments would occur or had reasonable grounds
+for saying so.
+
+44 In my judgment, the available evidence shows that the second defendant
+honestly believed in the truth of the Fourth Representation at the material
+time. As I have stated at [40] above, I accept the second defendant’s evidence
+that he did not doubt the truth of the statements he made to the plaintiffs,
+as he had received reassurances regarding ASMC’s financial health from Dr
+Smuts as CEO and the first defendant as Managing Director. Further, as I
+explain below, I am unconvinced by the arguments made by the plaintiffs as to
+why the Fourth Representation must necessarily have been made by the second
+defendant without any honest belief on his part or any reasonable grounds.
+
+45 The first argument made by the plaintiffs is that if it is found that the
+First Representation was false (ie, that the purported banking issues were
+non-existent), then the only reasonable conclusion to be drawn is that there
+was similarly never any intention on the part of ASMC and the second defendant
+to make payment to the plaintiffs. 60
+
+##### Foot Note 60
+
+×
+
+PCS para 49.
+
+Consequently, the second defendant could not have had an honest belief that
+payments would be made by ASMC. For the reasons detailed above at [33]–[36], I
+have found that the plaintiffs have not adduced sufficient evidence that the
+First Representation was false at the material time. I therefore reject this
+argument.
+
+46 Next, the plaintiffs take issue with two specific e-mails sent out by the
+second defendant. I address each of these in turn:
+
+(a) First, in relation to the e-mail sent out by the second defendant on 12
+December 2018 (S/N 7 of Annex A), the plaintiffs argue that the second
+defendant did not have an honest belief that ASMC would obtain a performance
+bond from BNP Paribas, as the second defendant never had any dealings with BNP
+Paribas. 61
+
+##### Foot Note 61
+
+×
+
+PCS para 52.
+
+This is, in my view, a non sequitur. I do not see how the absence of direct
+communication between the second defendant and BNP Paribas necessarily means
+that he acted without an honest belief that ASMC would procure a performance
+bond. I accept that the second defendant honestly believed the contents of the
+e-mail sent on 12 December 2018, given that it was drafted by the first
+defendant (ie, the second defendant’s superior at the material time). 62
+
+##### Foot Note 62
+
+×
+
+NEs, 23 September 2021, p 118 line 32 to p 119 line 1.
+
+(b) Second, in relation to the e-mail sent out by the second defendant on 12
+February 2019 (S/N 10 of Annex A), the plaintiffs contend that the second
+defendant did not honestly believe the representation therein that ASMC
+planned on making payments to the funders from 20 February 2019 onward. The
+plaintiffs argue that in cross-examination, the second defendant admitted that
+when a draft settlement deed was circulated to the plaintiffs in January 2019,
+he knew that “it wasn’t possible for those [settlement] payments to be made”.
+63
+
+##### Foot Note 63
+
+×
+
+PCS para 53.
+
+Consequently, the second defendant could not have believed that the payments
+promised in the e-mail sent on 12 February 2019 would be made. In my view,
+this is a misunderstanding of the second defendant’s testimony. The relevant
+parts of the cross-examination of the second defendant are reproduced below:
+64
+
+##### Foot Note 64
+
+×
+
+NEs, 23 September 2021, p 149 lines 17–23, p 150 lines 21–23, p 150 line 29 to
+p 151 line 6.
+
+Q Well, to any layman, Mr Hutton, ‘settlement’ means to say you settle the
+contract and payments are made and people walk off.
+
+A Okay, yeah, we didn’t---we were---ASMC were not able to make payments to
+terminate the contracts. We tried to---we come up with the---we came up with
+the settlement agreement called the ‘settlement deeds’, but my understanding
+is that those payments were not---it wasn’t possible for those payments to be
+made.
+
+…
+
+Q Now, Mr Hutton, let me just get this clear. Earlier on, we established that
+ASMC had the funds and it’s in a healthy robust company position. You do not
+seem to suggest that ASMC never was able to make payments to any of the
+funders.
+
+A No, I’m saying that now. But now we are on the, what, 23rd of September
+2021, now I know that clients didn’t---we were not able to return the funds
+that we wanted to to [sic] clients or that ASMC intended to pay back to
+clients. …
+
+...
+
+A When we went through the settlement deeds here, I don’t know that any of
+these were paid to clients. But we did our---and at the time, I believed we
+would. But now I know because I’m sat in Court on 23rd of September 2021 that
+we were not able honour that. But that doesn’t mean at the time that I thought
+that we were not able to at the time. I was being told very firmly that this
+process was necessary because we now wanted to return the money that we owed
+to clients and---and---and I believed my boss and the finance team when they
+told me that we were in a position to do that; and that’s why I went through
+this process. I wouldn’t have done it if I thought it was a frivolous and not
+waste of everybody’s time.
+
+[emphasis added in bold italics]
+
+It is clear from the second defendant’s answers in cross-examination that he
+meant that on hindsight, it was not possible for the payments promised under
+the settlement deeds to be made, and not that he was aware at the material
+time that ASMC would not make the promised payments. I therefore reject the
+plaintiffs’ argument in this regard.
+
+47 Finally, the plaintiffs complain that the second defendant has not adduced
+documentary evidence to corroborate his testimony that he was acting on the
+instructions of his superiors at the material time. This was in fact a
+constant theme of Mr Lun’s cross-examination of the second defendant. The
+absence of such evidence, the plaintiffs contend, goes to show that the second
+defendant lied about receiving instructions from his superiors and was
+effectively making up stories to shore up his defence, when in fact he had no
+reasonable grounds for representing that ASMC would make payment. 65
+
+##### Foot Note 65
+
+×
+
+PCS paras 54 and 58.
+
+48 I do not accept this argument. The second defendant testified that he was
+unable to retrieve certain documents or e-mails for the purposes of this suit,
+as he had unexpectedly lost access to his e-mail account with ASMC and the
+documents stored at ASMC’s premises when the landlord evicted ASMC from its
+offices. 66
+
+##### Foot Note 66
+
+×
+
+NEs, 24 September 2021, p 6 lines 26–30.
+
+The second defendant had, in any event, left ASMC around December 2019. 67
+
+##### Foot Note 67
+
+×
+
+NEs, 24 September 2021, p 4 lines 1–5.
+
+While the second defendant conceded during cross-examination that he had at
+least three opportunities prior to that to collate the documents he would need
+for his defence of the present suit (which was commenced in May 2019), 68
+
+##### Foot Note 68
+
+×
+
+NEs, 24 September 2021, p 14 lines 4–8.
+
+the second defendant explained that he did not do so as he did not expect to
+lose all access to ASMC’s office premises and its records. 69
+
+##### Foot Note 69
+
+×
+
+NEs, 24 September 2021, p 6 lines 8–10.
+
+Having seen and observed the second defendant during cross-examination, I find
+this to be a reasonable explanation and therefore accept it.
+
+49 In any case, as I have observed above at [36], the burden of proving the
+falsity of the Representations falls on the plaintiffs. In the absence of any
+other evidence supporting the plaintiffs’ case, I find that the plaintiffs
+have not proven on a balance of probabilities that the Fourth Representation
+is false. Following from this finding, the plaintiffs have not, in my
+judgment, established the first element of their claims for fraudulent or
+negligent misrepresentation. Accordingly, I would dismiss the plaintiffs’
+claims on this basis alone.
+
+The plaintiffs did not rely on the Representations
+
+50 Nonetheless, I turn to consider the next element of the claims for
+fraudulent or negligent misrepresentation, which is that the plaintiffs relied
+on the Representations. In my judgment, the plaintiffs have also not succeeded
+in proving that they did so.
+
+51 As noted above at [12], the plaintiffs’ pleaded case is that as a result of
+the Representations, they forbore from commencing or prosecuting legal
+proceedings against ASMC, entering summary judgment against ASMC
+expeditiously, commencing investigations and/or taking necessary legal action
+to prevent the dissipation of funds by ASMC. In this light, I find it striking
+that nowhere in the plaintiffs’ pleadings, AEICs or closing submissions, is it
+stated what precise legal action or investigations the plaintiffs forbore from
+commencing. In his oral submissions before me, Mr Lun submitted that but for
+the Representations, the plaintiffs would have “considered filing an
+injunction to freeze [ASMC’s] monies [to prevent them] from being dissipated”.
+70
+
+##### Foot Note 70
+
+×
+
+NEs, 25 February 2022, p 29 lines 1–3.
+
+Yet crucially, this was not the evidence of the first or second plaintiff,
+either on affidavit or in cross-examination. In fact, Mr Lun’s oral
+submissions were the first (and only) instance in which it was suggested that
+the plaintiffs had specifically refrained from applying for a Mareva
+injunction against ASMC, as a result of the Representations made by the second
+defendant.
+
+52 In addition, the plaintiffs’ pleaded case is that the Representations
+caused the plaintiffs to forbear from commencing legal proceedings from
+October 2018 to 31 July 2019. Yet, there is no evidence before me to suggest
+that the plaintiffs were indeed prepared to commence legal action against ASMC
+from as early as October 2018. Again, the first and second plaintiff did not
+give evidence to this effect in their AEICs or in cross-examination. Indeed,
+in his oral submissions, Mr Lun candidly conceded that it was not evidence put
+forth by either party that the plaintiffs were ready to sue ASMC in October
+2018. 71
+
+##### Foot Note 71
+
+×
+
+NEs, 25 February 2022, p 32 lines 1–3.
+
+53 In my judgment, the available evidence demonstrates that the plaintiffs did
+not rely on the Representations. First, I note that the plaintiffs’ own
+evidence suggests that the Representations did not operate on their minds in
+late 2018. For one, the second plaintiff deposed in his AEIC that it “became
+clear” to him in late 2018 that ASMC and/or the defendants were unlikely to
+make full repayment of the principal sum the plaintiffs had invested, as well
+as payment of the promised returns under the five Contracts. 72
+
+##### Foot Note 72
+
+×
+
+P2AEIC para 84 (PBAEIC Vol 1 p 40).
+
+In the circumstances, it does not stand to reason that the second plaintiff
+would believe or rely on the Second and Fourth Representations that payment
+would be made as promised, and that ASMC was ready and willing to make
+payment. In a similar vein, I note that while the second plaintiff claims that
+the Third and Fourth Representations were made to him by the second defendant
+at the Concorde Hotel meeting (S/N 1 of Annex A), the second plaintiff’s
+evidence is also that he rejected all proposals made to him at the Concorde
+Hotel meeting as he “just wanted [his] monies back”. 73
+
+##### Foot Note 73
+
+×
+
+P2AEIC para 67 (PBAEIC Vol 1 p 35).
+
+In my view, this suggests that the second plaintiff had in fact placed no
+reliance on the representations made to him at the Concorde Hotel meeting.
+
+54 Next, I agree with the second defendant that the fact that the plaintiffs
+commenced various legal proceedings against ASMC in 2019 goes to show that
+they were not induced by the Representations during this period. 74
+
+##### Foot Note 74
+
+×
+
+DCS para 76.
+
+As noted above at [10], the first plaintiff sent a letter of demand through
+his former solicitors to ASMC on 10 January 2019, and subsequently commenced
+HC/S 189/2019 against ASMC on 15 February 2019. In cross-examination, the
+second plaintiff was not able to credibly explain how he (or the plaintiffs
+collectively) could have been induced by the Representations into forbearing
+from commencing legal action, despite the commencement of HC/S 189/2019 by the
+first plaintiff. In this regard, the second plaintiff’s evidence was that he
+was still “affect[ed]” by the Representations, as the commencement of HC/S
+189/2019 did not mean that the defendants would “settle with [him] on what
+[he] claim[ed] against them”. 75
+
+##### Foot Note 75
+
+×
+
+NEs, 21 September 2021, p 59 lines 18–23.
+
+That is clearly not the same as forbearing from commencing or prosecuting
+legal proceedings or taking investigative action. In the circumstances, I find
+the commencement of HC/S 189/2019 to be cogent evidence that the plaintiffs
+were not induced by the Representations to refrain from commencing or
+prosecuting legal proceedings or taking investigative action in February 2019.
+
+55 In so far as there was then a lapse in time between the commencement of
+HC/S 189/2019 in February 2019 and the application for summary judgment on 31
+July 2019, I do not find that this necessarily shows that the plaintiffs had
+been induced by the Representations into sitting on their hands in any way. I
+find some force in the second defendant’s argument that the intervening period
+was caused by various interlocutory applications filed by the parties, such
+that the defendants in HC/S 189/2019 only filed their Statement of Defence on
+11 July 2019. 76
+
+##### Foot Note 76
+
+×
+
+DCS para 84.
+
+In any event, I also note that the present suit was commenced on 30 May 2019.
+As a matter of logic and common sense, given that the plaintiffs allege in the
+present suit that the defendants had, inter alia, unlawfully conspired to
+perpetrate a fraudulent investment scheme upon the plaintiffs (see above at
+[15]), I find it unbelievable and somewhat incredible that the plaintiffs
+would continue to place any reliance on the Representations that emanated from
+the second defendant after commencing the present suit (namely, S/Nos 15 and
+16 of Annex A), and consequently continue to forbear from taking any form of
+legal or investigative action.
+
+56 Ultimately, the bulk of the plaintiffs’ arguments pertain to allegations
+that the second defendant had held himself out as a “key personnel and
+important member of ASMC[’s] management team”, such that the plaintiffs were
+induced into placing reliance on the Representations. 77
+
+##### Foot Note 77
+
+×
+
+PCS para 13.
+
+In support of this argument, the plaintiffs highlight that the second
+defendant (a) utilised first-person pronouns in his e-mails and signed off
+using his name; (b) sent out e-mails using the  e-mail address (the “ASMC
+management e-mail address”); (c) communicated with ASMC’s legal and finance
+team; and (d) had a personal assistant during his time at ASMC. 78
+
+##### Foot Note 78
+
+×
+
+PCS para 13.
+
+The plaintiffs also point out that the second defendant stated in cross-
+examination that his role in ASMC was to “assure clients”. 79
+
+##### Foot Note 79
+
+×
+
+PCS para 35.
+
+57 These allegations are ultimately ancillary and of little assistance to the
+plaintiffs’ case, given that the plaintiffs have failed to prove that they did
+rely on the Representations and forbore from, inter alia, commencing or
+prosecuting legal action as a result (as I have explained at [50]–[55] above).
+In any case, I do not think that the various indicia raised by the plaintiffs,
+whether taken singly or together, necessarily show that the second defendant
+was an important member of ASMC’s management team or that he held himself out
+as such. In my view, the plaintiffs’ case on the second defendant’s role is
+somewhat exaggerated and countered by the evidence of the second defendant,
+which I set out below.
+
+58 In cross-examination, the second defendant explained that he utilised
+first-person pronouns in his e-mails as he felt that it would be “negligence
+of [his] duties” not to take ownership of the communications sent out to
+funders, given his role as Manager of Public Relations and Customer Services
+at ASMC. 80
+
+##### Foot Note 80
+
+×
+
+NEs, 24 September 2021, p 16 lines 28–30.
+
+Accordingly, the second defendant avoided wording his e-mails in a way that
+suggested he “[did not] work at ASMC”. 81
+
+##### Foot Note 81
+
+×
+
+NEs, 24 September 2021, p 22 line 24.
+
+For instance:
+
+(a) The second defendant explained that he had phrased his e-mail of 8 January
+2019 as “I have some information from the BNP Bank” 82
+
+##### Foot Note 82
+
+×
+
+PBAEIC Vol 1 p 229.
+
+[emphasis added] as he felt he had to take ownership of the communications
+sent to funders, in his capacity as the “customer services guy”. 83
+
+##### Foot Note 83
+
+×
+
+NEs 24 September 2021, p 16 line 28 to p 17 line 2.
+
+(b) The second defendant chose to use the phrase “I invite you to meet me to
+go through the outstanding payments …” in his e-mail of 14 January 2019, 84
+
+##### Foot Note 84
+
+×
+
+PBAEIC Vol 1 p 236.
+
+rather than state that Dr Smuts or the first defendant wanted to organise a
+meeting, as he felt that he ought to present ASMC as a “united front” to its
+funders. 85
+
+##### Foot Note 85
+
+×
+
+NEs 24 September 2021, p 22 lines 12–17.
+
+(c) The second defendant stated in his e-mail of 12 February 2019 that “I have
+met many clients and settled many contracts”, 86
+
+##### Foot Note 86
+
+×
+
+PBAEIC Vol 1 p 238.
+
+as he felt that he had to “involve [himself] in the communications with
+customers”, in his capacity as the “customer services guy”. 87
+
+##### Foot Note 87
+
+×
+
+NEs, 23 September 2021, p 139 lines 11–15.
+
+59 In so far as the second defendant signed off an e-mail he sent out on 11
+April 2019 in the first person (namely, that “I look forward to returning
+after Easter to a less challenging time … [a]nd to a happy group of clients
+who have received the due payments” 88
+
+##### Foot Note 88
+
+×
+
+PBAEIC Vol 1 p 244.
+
+), the second defendant explained that he was due to return to England to
+spend time with his children during the Easter holidays and merely thought
+that “it was a nice way to sign off a letter”. 89
+
+##### Foot Note 89
+
+×
+
+NEs, 23 September 2021, p 161 lines 9–12, p 162 lines 1–7; NEs, 24 September
+2021, p 30 lines 20–24.
+
+At the time, the second defendant genuinely expected and hoped that the
+funders would be paid after the Easter holidays as he was dealing with several
+“unhappy customers” who wanted to “shout and scream” at him. 90
+
+##### Foot Note 90
+
+×
+
+NEs, 23 September 2021, p 163 lines 21–23.
+
+All in all, the second defendant candidly testified that when he communicated
+to ASMC’s customers using first-person pronouns, he did so in his capacity as
+the customer services representative of ASMC. 91
+
+##### Foot Note 91
+
+×
+
+NEs, 24 September 2021, p 22 lines 15–17.
+
+60 As for the fact that certain e-mails were sent to the second plaintiff by
+the second defendant using the ASMC management e-mail address, the second
+defendant highlights that these e-mails were mass e-mails to funders. The
+second defendant explained that the first defendant had instructed him to use
+the ASMC management e-mail address to send out mass e-mails, 92
+
+##### Foot Note 92
+
+×
+
+NEs, 24 September 2021, p 72 lines 12–17.
+
+as he was initially unable to send out mass e-mails using his personal e-mail
+account. 93
+
+##### Foot Note 93
+
+×
+
+NEs, 29 September 2021, p 3 lines 10–11.
+
+While he subsequently found a way to send out mass e-mails from his personal
+account, this was a “painstaking long process” as he had to manually copy and
+paste the funders’ e-mail addresses. This was therefore only done when ASMC’s
+IT staff was out of Singapore. 94
+
+##### Foot Note 94
+
+×
+
+NEs, 29 September 2021, p 3 lines 10–18.
+
+In so far as the second defendant’s designation in ASMC was a “manager”, the
+second defendant also clarified that this was not an indicator that he was
+part of ASMC’s management team. Instead, the word “manager” had simply been
+inserted into the second defendant’s job designation to overcome the problem
+of funders demanding to speak with a “manager”, rather than with the second
+defendant. 95
+
+##### Foot Note 95
+
+×
+
+NEs, 29 September 2021, p 3 line 25 to p 4 line 5.
+
+The second defendant’s evidence was that his monthly salary for most of the
+time he was with ASMC was S$2,400. 96
+
+##### Foot Note 96
+
+×
+
+NEs, 23 September 2021, p 146 line 6.
+
+61 In relation to the fact that the second defendant had a personal assistant
+during his time at ASMC, the second defendant explained that his personal
+assistant was the only other person on ASMC’s customer services team, who
+helped to manage the flow of calls from funders. 97
+
+##### Foot Note 97
+
+×
+
+NEs, 23 September 2021, p 146 lines 3–4 and 18.
+
+Accordingly, the fact that he had a personal assistant did not necessarily go
+to show that he was an important figure within ASMC.
+
+62 In my judgment, and again, having observed the second defendant during the
+course of his rigorous cross-examination by Mr Lun, I accept the explanations
+given by the second defendant at [58]–[61] above on a balance of
+probabilities. I do not find it out of the ordinary that in communicating with
+ASMC’s customers in writing, a customer services manager would seek to “assure
+clients” in the first person as part of his role. Even if the second defendant
+conceded in cross-examination that on hindsight, some of his e-mails to ASMC’s
+funders could have been worded more clearly 98
+
+##### Foot Note 98
+
+×
+
+NEs, 23 September 2021, p 160 lines 1–3.
+
+or that he could have used a different choice of words, 99
+
+##### Foot Note 99
+
+×
+
+NEs, 24 September 2021, p 31 lines 9–11.
+
+I do not agree that this shows that the second defendant had therefore
+necessarily sought to hold himself out as a senior member of ASMC’s management
+at the material time. In my view, it is clear from the second defendant’s
+explanations that he had addressed ASMC’s funders in the first person simply
+out of a desire to provide what, to his mind, would constitute “good” customer
+service, and not because he was (or held himself out to be) a part of ASMC’s
+management.
+
+63 Nor do I find it out of the ordinary that a customer services manager would
+need to have regular contact or be in communication with the legal or finance
+team within the company. In my judgment, I also find that the second
+defendant’s explanations as to why he had used the ASMC management e-mail
+address, or why he had a personal assistant, are not fanciful or outside the
+realm of reality. In the circumstances, I disagree with the plaintiffs that
+the second defendant was a key member of ASMC’s management or held himself out
+as such, because of the indicia raised at [56] above.
+
+64 Finally, the plaintiffs claim that it was not put to them in cross-
+examination that they had not placed any reliance on the Representations. 100
+
+##### Foot Note 100
+
+×
+
+PRS para 46.
+
+This is not true. As I noted at [54] above, the second plaintiff was cross-
+examined on how he could have relied on the Representations, when legal
+proceedings were commenced against ASMC in February 2019. Further, I reject
+the argument made by Mr Lun in the course of oral closing submissions that the
+second defendant is precluded from arguing that the plaintiffs placed no
+reliance on the Representations, because this was not expressly pleaded in the
+Statement of Defence (“Defence”). 101
+
+##### Foot Note 101
+
+×
+
+NEs, 25 February 2022, p 71 lines 4–9.
+
+The Defence does plead that the plaintiffs are “put to strict proof” that they
+relied on the Representations, and thus, the parties did join issue on the
+question of the plaintiffs’ reliance. 102
+
+##### Foot Note 102
+
+×
+
+Defence para 21.
+
+In any event, it is the plaintiffs’ burden to prove reliance on the
+Representations, which for the reasons set out at [50]–[55] above, I have
+found that the plaintiffs have failed to do. The second defendant was fully
+entitled to test the plaintiffs’ case and evidence on reliance without having
+to assert a positive case of his own.
+
+65 Accordingly, in addition to my conclusion that the plaintiffs have not
+proven that the Representations are false (see [32] above), I also dismiss the
+plaintiffs’ claims for fraudulent and negligent misrepresentation on the basis
+that they have not established, on a balance of probabilities, that they
+relied on the Representations.
+
+The plaintiffs have not proven any loss suffered as a result of the
+Representations
+
+66 In the event that I am wrong in my findings on the falsity and reliance
+elements of the misrepresentation claim, I go on to consider the third
+element, which is that the plaintiffs must have suffered damage as a result of
+the Representations. As noted above at [13], in their pleaded case and written
+closing submissions, the plaintiffs had initially characterised their loss as
+the sum of S$616,700 owed to the first plaintiff under the Contracts. 103
+
+##### Foot Note 103
+
+×
+
+SOC para 101; PCS para 85.
+
+However, during oral closing arguments, Mr Lun reframed the plaintiffs’ claim
+as one for the loss of an opportunity to commence legal action expeditiously.
+104
+
+##### Foot Note 104
+
+×
+
+NEs, 25 February 2022, p 82 lines 19–22.
+
+At the conclusion of oral arguments, Mr Lun sought leave to file further
+submissions on the appropriate measure of damages for the loss of an
+opportunity caused by forbearance on the part of the plaintiffs, as a result
+of reliance on the Representations. I permitted the parties to address me on
+this point by way of further written submissions. 105
+
+##### Foot Note 105
+
+×
+
+NEs, 25 February 2022, p 93 lines 7–13.
+
+67 As a preliminary point, I note that the second defendant contends in his
+further submissions that the plaintiffs’ pleaded claim was not for damages for
+the loss of a chance, and that the plaintiffs are therefore barred from
+raising this as the measure of their loss. I address this argument first.
+
+68 The general rule is that parties are bound by their pleadings and that the
+court is precluded from deciding on a matter that the parties themselves have
+decided not to put into issue: iVenture Card Ltd and others v Big Bus
+Singapore City Sightseeing Pte Ltd and others [2022] 1 SLR 302 (“iVenture
+Card”) at [36]. This is illustrated by the case of Columbia Asia Healthcare
+Sdn Bhd and another v Hong Hin Kit Edward and another and other suits [2014] 3
+SLR 87 (“Columbia Asia”), which concerned the purchase of shares in a company
+(“UMPL”) by the first plaintiff (“Columbia”). Under the sales contract, the
+defendant vendors had warranted that the tax liabilities of UMPL’s wholly
+owned subsidiary had been fully discharged. It was later discovered that this
+was in fact not the case and that Columbia had been exposed to potential
+future tax liabilities as a result. Columbia therefore claimed against the
+defendants for, inter alia, damages for a loss of chance to negotiate a lower
+purchase price for the shares, in view of the potential future tax liabilities
+it was exposed to (at [147]–[148] and [193]).
+
+69 Woo Bih Li J (as he then was) rejected the claim for damages for the loss
+of a chance, noting as follows:
+
+201 In the first place, the statement of claim did not plead damages by way of
+a loss of chance. In my view, a general plea for damages is different from
+damages for loss of a chance. The latter has to be clearly pleaded.
+
+[emphasis added in bold italics]
+
+70 Accordingly, Columbia Asia demonstrates that a party will likely be
+precluded from claiming damages for the loss of a chance, if its pleaded case
+is one for a general claim for damages. However, I also note that the court
+may depart from the general rule that a party is bound by its pleadings, in
+very limited circumstances and where no prejudice is caused to the other party
+in the trial or where it would be clearly unjust for the court not to do so:
+iVenture Card at [36].
+
+71 This, in my view, is illustrated by the case of Tembusu Growth Fund Ltd v
+ACTAtek, Inc and others [2018] 4 SLR 1213 (“Tembusu Growth Fund”). In that
+case, the plaintiff (“Tembusu”) had invested in the first defendant (“AI”)
+through a convertible loan agreement. In separate litigation, it had been
+found that Tembusu had committed an anticipatory breach of the loan agreement
+by prematurely declaring that AI had breached the loan agreement (at [3]). AI
+claimed for damages arising out of Tembusu’s anticipatory breach. In this
+regard, AI’s pleaded case was, inter alia, that Tembusu’s breach had derailed
+AI’s planned initial public offering (“IPO”), which caused AI to lose the
+“benefit” of the IPO (at [5] and [95]). If the IPO had succeeded, AI claimed
+that it would have obtained shares valued at NZ$30.5 million in a listed
+company. However, AI subsequently modified its claim to one for the loss of a
+chance to obtain shares in a listed company worth NZ$30.5m (at [95]). Vinodh
+Coomaraswamy J noted the general rule that parties are bound by their pleaded
+cases (at [93]–[94]), but nonetheless went on to observe that AI’s loss of
+chance claim “[drew] on the same body of evidence adduced at trial” in support
+of its pleaded claim (at [95]). As such, the Judge found that Tembusu’s
+ability to respond to AI’s loss of chance claim was not significantly
+prejudiced and proceeded to consider the merits of AI’s loss of chance claim.
+
+72 In the present case, the plaintiffs’ pleaded case is that in reliance on
+the Representations, the plaintiffs had forborne from commencing or
+prosecuting legal action expeditiously, and are therefore entitled to either
+the full sum of S$616,700 owed under the Contracts or damages to be assessed
+for misrepresentation. 106
+
+##### Foot Note 106
+
+×
+
+SOC paras 79, 101 and 102.
+
+In my view, the present case is unlike Columbia Asia, where Columbia had
+pleaded a general claim for damages without more. In this case, I find that it
+is at least implicit in the plaintiffs’ pleaded case that their claim is one
+for a loss of chance. To begin with, the very meaning of forbearance is that
+the plaintiffs had (allegedly) opted not to seize a chance to commence and/or
+prosecute legal action (and thereby secure recovery of their claim), when they
+otherwise would have but for the Representations.
+
+73 Further, based on the plaintiffs’ pleaded case alone, it is clear that the
+key issues arising from it would include: (a) whether the plaintiffs in fact
+would have commenced and/or prosecuted legal proceedings expeditiously, had
+the second defendant not made the Representations; and (b) had the plaintiffs
+commenced and/or prosecuted legal proceedings against ASMC expeditiously, how
+much (if any) they would have recovered from ASMC. As will be clear from my
+analysis at [76] below, these are essentially the same issues that would have
+arisen if the plaintiffs had pleaded their claim as one for a loss of chance.
+Moreover, the fact that these issues arose from the plaintiffs’ pleaded case
+did not escape the second defendant. For instance, in his closing submissions
+(which were filed before the plaintiffs reframed their claim as one for a loss
+of chance), the second defendant argued that the plaintiffs have
+“mischaracterised their loss” as the full sum due under the Contracts. The
+proper characterisation of the plaintiffs’ loss, the second defendant
+submitted, should be the difference between the sum that the plaintiffs would
+have recovered had they taken legal action expeditiously, and the sum the
+plaintiffs would have recovered from taking legal action later on, which the
+plaintiffs have not proven. 107
+
+##### Foot Note 107
+
+×
+
+DCS para 106.
+
+In my view, this argument goes toward issue (b) above (on whether the
+plaintiffs have proven how much they would have recovered from commencing
+legal proceedings expeditiously), and is also an argument relevant to
+determining whether the plaintiffs’ claim for loss of chance has any merit, as
+I elaborate on at [78] below.
+
+74 In the circumstances, the second defendant has not been significantly
+prejudiced in his ability to respond to a claim for loss of chance. The
+present case more closely resembles Tembusu Growth Fund where the plaintiffs’
+loss of chance claim “draws on the same body of evidence adduced at trial”.
+Accordingly, I hold that the plaintiffs are not barred from recharacterising
+their loss as a loss of chance. I thus return to the main issue at hand – have
+the plaintiffs proven their loss?
+
+75 In their further submissions, the plaintiffs argue that the relevant test
+for whether a loss of chance has been proven can be found in Allied Maples
+Group Ltd v Simmons & Simmons (a firm) [1995] 1 WLR 1602 (“Allied Maples”)
+(followed in Asia Hotel Investments Ltd v Starwood Asia Pacific Management Pte
+Ltd and another [2005] 1 SLR(R) 661). In Allied Maples, Stuart-Smith LJ noted
+that where a plaintiff’s case is that the loss of chance arises out of
+something that the plaintiff himself would otherwise have done, had the
+defendant not breached his obligations, then the plaintiff must prove this on
+a balance of probabilities. However, where the plaintiff’s claim depends on
+the hypothetical actions of a third party, then the plaintiff does not need to
+prove on a balance of probabilities that the third party would have acted a
+certain way, but only needs to show that there was a substantial (rather than
+speculative) chance that the third party would have acted as such (at
+1610–1611).
+
+76 In the present case, the plaintiffs claim that they lost the chance to
+commence and/or prosecute legal action against ASMC expeditiously, which
+prevented them from obtaining repayment of the sums due under the Contracts in
+October 2018. 108
+
+##### Foot Note 108
+
+×
+
+PFS paras 9 and 10.
+
+The plaintiffs’ claim thus depends on both the actions of the plaintiffs
+themselves (ie, that they would have taken/prosecuted legal action if not for
+the Representations) and the actions of a court hearing any application or
+proceedings brought by the plaintiffs in October 2018. I therefore agree with
+the plaintiffs that they have to prove that: (a) on a balance of
+probabilities, but for the Representations, the plaintiffs would have
+commenced/prosecuted legal action against ASMC in October 2018; and (b) upon
+doing so, there was a real or substantial chance that the court hearing the
+proceedings would have allowed the plaintiffs to recover the full amount due
+under the Contracts, or part thereof. 109
+
+##### Foot Note 109
+
+×
+
+PFS para 7.
+
+Moreover, given the plaintiffs’ claim that they lost the chance to obtain
+repayment from ASMC, they would also have to show (c) that on a balance of
+probabilities, they would have enforced any judgment granted against ASMC; and
+(d) that there was a substantial chance that the plaintiffs would be
+successful in their enforcement efforts.
+
+77 In my judgment, the plaintiffs have failed to discharge this burden of
+proof. Let me explain why I have come to this conclusion. As I have noted
+above at [52], there is no evidence before me to suggest that the plaintiffs
+were ready to commence legal proceedings in October 2018, and Mr Lun conceded
+as much in oral closing submissions. Neither have the plaintiffs adduced any
+evidence on whether there is a real or substantial chance that they would have
+been granted judgment for any proceedings commenced in October 2018, and if
+so, that they would have successfully enforced such a judgment against ASMC.
+The plaintiffs assert in their further submissions that they “would have
+recovered the full amount [they were] entitled to under the [Contracts]” as
+ASMC’s financials were in “good health” from October 2018 to September 2019.
+110
+
+##### Foot Note 110
+
+×
+
+PFS para 10.
+
+This submission is problematic for a number of reasons. First, as I have noted
+above at [41], it suggests that the Third Representation is true and therefore
+contradicts the plaintiffs’ case that this representation by the second
+defendant constitutes a misrepresentation. Second, the plaintiffs did not in
+any case adduce any evidence on the state of ASMC’s financial health during
+the material time and in fact, throughout the course of the trial, appeared to
+dispute that ASMC was in good financial health at the material time. This
+vacillation on the part of the plaintiffs only serves to accentuate the
+difficulties with their case against the second defendant. Moreover, the fact
+that the first plaintiff obtained summary judgment against ASMC in HC/S
+189/2019 on 6 December 2019, but has not enforced this judgment to date, casts
+doubt on the suggestion that the plaintiffs would have expeditiously enforced
+any judgment obtained against ASMC by way of proceedings commenced in October
+2018.
+
+78 As noted at [73] above, the second defendant also raises a potentially
+interesting point on whether the plaintiffs’ loss should properly be
+characterised as the difference between the sum that the plaintiffs would have
+recovered via proceedings commenced in October 2018, and the sum that the
+plaintiffs would recover by taking action later. Had the plaintiffs proven
+that they would in fact have commenced legal proceedings in October 2018 but
+for the Representations, I would have considered this point to be potentially
+relevant in assessing the sum of damages that the plaintiffs are entitled to.
+However, given that the plaintiffs have failed to prove their loss, this point
+has been rendered academic and I say nothing more about it.
+
+79 In sum, I find that the plaintiffs have not proven that they suffered any
+loss as a result of reliance on the Representations. Accordingly, in addition
+to my conclusions at [32] and [65] above, this forms a further basis for my
+decision to dismiss the plaintiffs’ claims in fraudulent and negligent
+misrepresentation.
+
+The plaintiffs have not proven that the second defendant knew the
+Representations were wilfully false
+
+80 It is not strictly necessary for me to deal with the remaining elements of
+the claim for fraudulent or negligent misrepresentation. Nonetheless, for
+completeness, I make some observations about the final element of the
+plaintiffs’ claim for fraudulent misrepresentation, which is that the second
+defendant made the Representations in the knowledge that they were wilfully
+false, or in the absence of a genuine belief that they were true.
+
+81 In my judgment, the plaintiffs have also not established this element of
+their claim on a balance of probabilities. I have accepted the second
+defendant’s evidence (see [40] above) that he genuinely believed the truth of
+the Representations at the material time; it therefore follows that the second
+defendant did not make the Representations in the knowledge they were wilfully
+false.
+
+82 In addition, I am unpersuaded by the plaintiffs’ arguments that the
+Representations must have been made by the second defendant fraudulently. One
+of the key arguments advanced by the plaintiffs is that an adverse inference
+should be drawn from the second defendant’s failure to disclose the following
+bank statements, despite an order for discovery (granted by consent in HC/ORC
+6308/2020) ordering their production:
+
+(a) bank statements for the DBS Account (referenced above at [33]) for the
+months of May 2017 to February 2019 and October 2019 to December 2019; 111
+
+##### Foot Note 111
+
+×
+
+PCS para 64(a).
+
+and
+
+(b) bank statements for DBS bank account number 003-938983-3 (the “Second DBS
+Account”), for the months of May 2018 to December 2019. 112
+
+##### Foot Note 112
+
+×
+
+PCS para 64(b).
+
+The plaintiffs claim that the Second DBS Account belongs to ASMC Pte Ltd, an
+associated company of ASMC. 113
+
+##### Foot Note 113
+
+×
+
+PCS para 64B.
+
+83 The plaintiffs contend that in relation to the bank statements for the
+Second DBS Account, the second defendant was identified as a signatory to the
+Second DBS Account in a letter from his solicitors to the court dated 10
+February 2021 (the “10 February 2021 letter”). 114
+
+##### Foot Note 114
+
+×
+
+PCS para 14.
+
+The second defendant’s failure to disclose the bank statements for the Second
+DBS Account means that “the only inference to be drawn” is that if the bank
+statements were before the court, “the evidence would unequivocally show the
+dissipation of funds” by ASMC and its associated companies. This, in turn,
+would prove that the second defendant had wilfully made misrepresentations to
+the plaintiffs, to facilitate the dissipation of funds by ASMC. 115
+
+##### Foot Note 115
+
+×
+
+PCS para 65.
+
+84 I do not accept the plaintiffs’ argument that an adverse inference should
+be drawn. In the first place, the second defendant has explained that the 10
+February 2021 letter is erroneous in referring to him as a signatory, as he
+was never a signatory to the Second DBS Account. 116
+
+##### Foot Note 116
+
+×
+
+NEs, 24 September 2021, p 45 lines 23–24.
+
+The second defendant also testified that he was not involved in the drafting
+of the 10 February 2021 letter, and that it was the first defendant (rather
+than himself) who was involved in consenting to discovery of the bank
+statements. 117
+
+##### Foot Note 117
+
+×
+
+NEs, 24 September 2021, p 34 lines 18–19; p 50 lines 21–31.
+
+While it was not subsequently clarified in re-examination how the alleged
+error in the 10 February 2021 letter came to be, I note that reading the 10
+February 2021 letter in context, it is at least ambiguous whether the
+identification of the second defendant as a signatory to the Second DBS
+Account was a typographical error. The relevant portion of the 10 February
+2021 letter is as follows: 118
+
+##### Foot Note 118
+
+×
+
+PBAEIC Vol 2 p 314 para 5.
+
+5\. After our aforesaid enquiries the 1st Defendant again took time off work
+to attend at DBS Upper Thomson Branch on 9 February 2021 as he was in the area
+for deliveries. … At this time, the 1st Defendant was informed for the very
+first time that DBS could not in any event release the bank statements for DBS
+Bank Account No. 003-938983-3 as he (2nd Defendant) was a signatory to that
+account. This was the first time that the 1st Defendant had been informed of
+such a restriction as no such warning had been given to him by the Bank
+officer at the DBS Marine Parade Branch.
+
+[emphasis added in bold italics]
+
+85 There is no other mention of the second defendant in the 10 February 2021
+letter, which suggests to me that the inclusion of the second defendant may
+well have been an error. I also note the second defendant’s suggestion that
+this may have been an erroneous reference to Dr Smuts, who was initially the
+second defendant in this suit but was subsequently removed as a defendant by
+the plaintiffs. 119
+
+##### Foot Note 119
+
+×
+
+NEs, 24 September 2021, p 55 lines 23–29.
+
+86 In any event, even if I were to accept that the second defendant was a
+signatory to the Second DBS Account in February 2021, I do not think that this
+fact alone indicates that the second defendant was necessarily concealing the
+dissipation of funds from ASMC, or that he had wilfully made false
+representations to the plaintiffs to facilitate the same. I stress that the
+plaintiffs’ case against the second defendant for fraudulent misrepresentation
+(and indeed, for unlawful means conspiracy, as I have noted at [15] above)
+hinges on their allegations that the second defendant had knowingly helped to
+dissipate funds from ASMC by giving false hopes or reassurances to investors
+like the plaintiffs to induce them to forbear from taking legal action. If, as
+the plaintiffs claim, the account statements for the DBS Account and Second
+DBS Account are the so-called “smoking gun” that would prove the alleged
+dissipation of funds from ASMC, I would have expected the plaintiffs to
+utilise all the procedural weaponry available to them in their legal arsenal,
+including applying for discovery against DBS to obtain disclosure of the
+relevant bank statements. Yet, notwithstanding that it was apparent from at
+least February 2021 that the defendants faced difficulties disclosing the bank
+statements (or, based on the plaintiffs’ own case, that the second defendant
+refused to disclose them), and despite several hints by this court during the
+trial, 120
+
+##### Foot Note 120
+
+×
+
+NEs, 24 September 2021 p 57 lines 21–26.
+
+the plaintiffs inexplicably chose not to make such an application. Whether an
+adverse inference should be drawn in any given case ultimately depends on the
+circumstances of the case: Esben Finance Ltd and others v Wong Hou-Lianq Neil
+[2021] 3 SLR 82 at [60(a)]. Based on the circumstances set out above, I do not
+find it appropriate to permit the plaintiffs to prove their case by the
+drawing of an adverse inference, when the plaintiffs themselves have not
+attempted to obtain the crucial piece of evidence they (allegedly) need to
+discharge their evidential and legal burden of proof. I therefore decline to
+draw any adverse inference against the second defendant, despite the
+plaintiffs’ exhortations otherwise.
+
+87 Next, the plaintiffs argue that the second defendant’s “careless choice of
+words” in his e-mails proves that he made the Representations in the knowledge
+that they were wilfully false. 121
+
+##### Foot Note 121
+
+×
+
+PCS para 63.
+
+In this regard, the plaintiffs highlight that in relation to two e-mails sent
+on 12 and 28 February 2019, the second defendant conceded in cross-examination
+that the e-mails could have been worded in a clearer manner. In my view, the
+fact that the second defendant agreed ex post facto that he could have worded
+his e-mails differently or better simply does not evidence that he, in his
+role as the customer services representative of ASMC, disbelieved the truth of
+the Representations at the material time.
+
+88 Finally, in so far as the plaintiffs claim that the falsity of the
+Representations show that the second defendant knowingly misled the
+plaintiffs, 122
+
+##### Foot Note 122
+
+×
+
+PCS para 61; PRS para 24(c).
+
+I have found at [32] above that the plaintiffs have not discharged their
+burden of proving that the Representations are false. I therefore reject this
+argument.
+
+89 For the reasons given in this section, I find that the plaintiffs have not
+proven that the second defendant made the Representations in the knowledge
+that they were wilfully false. As such, even if the plaintiffs had established
+the other elements of their claim for fraudulent misrepresentation, the
+plaintiffs’ claim would in any event fail on this ground.
+
+Issue 2: Have the plaintiffs established their claim for unlawful means
+conspiracy?
+
+90 I turn to the plaintiffs’ alternative claim for the tort of unlawful means
+conspiracy. It is common ground between the parties that the elements for a
+tort of unlawful means conspiracy are set out in EFT Holdings, Inc and another
+v Marinteknik Shipbuilders (S) Pte Ltd and another [2014] 1 SLR 860 at [112],
+and are as follows:
+
+(a) there was a combination of two or more persons to do certain acts;
+
+(b) the alleged conspirators had the intention to cause damage or injury to
+the plaintiff by those acts;
+
+(c) the acts were unlawful;
+
+(d) the acts were performed in furtherance of the agreement; and
+
+(e) the plaintiff suffered loss as a result of the conspiracy.
+
+91 For the reasons set out below, I find that the plaintiffs have not
+established their claim for unlawful means conspiracy, on a balance of
+probabilities.
+
+No evidence of a combination to do unlawful acts
+
+92 As observed in Visionhealthone Corp Pte Ltd v HD Holdings Pte Ltd and
+others and another appeal [2013] SGCA 47 at [46], the requirements of a
+“combination” and “unlawful act” in practice often have to be considered
+together, because proof of an agreement among the alleged conspirators is
+often gathered from the unlawful act committed. I will therefore address the
+elements of a “combination” and “unlawful act” jointly.
+
+93 In my view, the plaintiffs have not established either of these elements.
+While the plaintiffs vehemently argue that the defendants conspired to
+dissipate moneys from ASMC, I do not think that the evidence marshalled by the
+plaintiffs supports this claim.
+
+94 First, the plaintiffs contend that the defendants acted unlawfully by
+dissipating certain funds that were supposed to be transferred from Malta and
+paid to ASMC’s funders. 123
+
+##### Foot Note 123
+
+×
+
+PCS para 82.
+
+On 8 June 2019, the first defendant had represented to the plaintiffs (among
+other funders) that ASMC would transfer funds from London to Malta between 10
+and 14 June 2019, and that the funds would be “cleared” in the first
+defendant’s Singapore bank account from 17 June 2019. The plaintiffs allege
+that subsequently, the defendants (collectively) caused the second plaintiff
+to receive a screenshot depicting a transfer of €5m from an account with the
+Bank of Valletta, Malta, to a UOB bank account belonging to ISK Capital Pte
+Ltd, a company purportedly controlled by the first defendant in Singapore (the
+“BOV Screenshot”). 124
+
+##### Foot Note 124
+
+×
+
+SOC para 79(p); PCS para 82; P2AEIC para 116 (PBAEIC Vol 1 p 49).
+
+This screenshot was shared in a chat group comprising a number of ASMC
+investors. 125
+
+##### Foot Note 125
+
+×
+
+NEs, 22 September 2021, p 30 line 25 to p 31 line 2.
+
+Further, in the 1 August 2019 e-mails, the second defendant represented to the
+plaintiffs that “the money is in Malta”. 126
+
+##### Foot Note 126
+
+×
+
+PBAEIC Vol 1 p 258.
+
+However, the plaintiffs argue that this sum must eventually have been
+dissipated, as ASMC subsequently suspended repayments to its funders. 127
+
+##### Foot Note 127
+
+×
+
+PCS para 82.
+
+95 To begin with, I do not think that the plaintiffs have even established
+that moneys were in fact successfully transferred from Malta to Singapore (eg,
+by adducing the relevant statements for ASMC’s bank accounts). In so far as
+the plaintiffs rely on the BOV Screenshot as proof that funds were transferred
+from Malta to Singapore (before being allegedly dissipated), I note that there
+is a striking dearth of evidence as to the provenance of this screenshot. In
+cross-examination, the second plaintiff testified that the BOV Screenshot was
+allegedly sent by one Koh Seng Hwang (also known as “Phyllis”) to a chat
+group, 128
+
+##### Foot Note 128
+
+×
+
+NEs, 22 September 2021, p 30 line 12 to p 31 line 2; p 38 line 11.
+
+but that he did not actually know who the maker of the screenshot was. 129
+
+##### Foot Note 129
+
+×
+
+NEs, 22 September 2021, p 32 lines 25–26.
+
+Neither did the plaintiffs seek to call Phyllis as a witness or adduce any
+evidence of the exchanges within the chat group that may have cast some light
+as to who the BOV Screenshot was allegedly obtained from. Significantly, Mr
+Lun conceded in oral submissions that there is no evidence showing how or from
+whom Phyllis received the BOV screenshot and more importantly, that the BOV
+screenshot even emanated from the second defendant or had anything to do with
+him. 130
+
+##### Foot Note 130
+
+×
+
+NEs, 25 February 2022, p 81 lines 10–17.
+
+In the circumstances, I find that the BOV Screenshot does not carry much
+probative value, let alone prove the plaintiffs’ pleaded allegation that the
+first and second defendants caused the BOV Screenshot to be disseminated to
+the second plaintiff.
+
+96 In any case, even if ASMC had successfully transferred funds from Malta to
+Singapore, the plaintiffs have also not established that these funds were
+“dissipated” in the sense that they were applied to an improper purpose (and
+not to legitimate business expenses). For example, the plaintiffs’ pleaded
+case (see [15] above] is that part of the objective of the fraudulent scheme
+was to allow ASMC’s funds to be paid to other investors – implicit in that
+objection was that these other investors were paid instead of the plaintiffs.
+Yet there is nothing in the evidence before me to suggest that the plaintiffs
+were entitled to expect to be paid before or instead of any other investors.
+It is not the plaintiffs’ case that the second defendant (or the first
+defendant, for that matter) represented to the plaintiffs that they would be
+accorded any priority or preference in terms of being paid from any incoming
+funds that may have been forthcoming. I therefore disagree that the funds must
+necessarily have been dissipated, simply because ASMC stopped repaying its
+funders or because other funders may have been paid instead of the plaintiffs.
+Similarly, in so far as the plaintiffs have pleaded that the funds were
+dissipated from ASMC and paid to the second defendant personally, no evidence
+was adduced by the plaintiffs to make good this assertion that the second
+defendant had received any moneys improperly. 131
+
+##### Foot Note 131
+
+×
+
+SOC para 89(a).
+
+97 Moreover, even if the plaintiffs had established that moneys were in fact
+improperly dissipated from ASMC, the question that remains is whether the
+second defendant had combined or reached an agreement with the first defendant
+to dissipate money from ASMC. Based on the events described above at [94], I
+cannot see how this sequence of events alone necessarily shows that the first
+and second defendants had agreed to dissipate funds from ASMC. The overall
+picture that emerges from the evidence adduced at trial simply does not match
+the pleaded conspiracy scenario painted by the plaintiffs, as summarised in
+their Statement of Claim (see [15] above). Further, in so far as the
+plaintiffs rely on (a) the Representations; (b) the 1 August 2019 e-mails; and
+(c) the 2 September 2019 e-mail as instances where the second defendant made
+false statements to allay the plaintiffs’ suspicions, I accept the second
+defendant’s defence that he was simply acting on the instructions of his
+superiors in conveying these representations for the reasons stated at
+[39]–[40] above. 132
+
+##### Foot Note 132
+
+×
+
+Defence paras 32(b) and 32(c).
+
+In any event, the second plaintiff also conceded in cross-examination that he
+has no evidence that the representations contained in the 1 August 2019
+e-mails were false at the time they were made by the second defendant. 133
+
+##### Foot Note 133
+
+×
+
+NEs, 22 September 2021, p 27 lines 11–15 and 26.
+
+Thus, even if I were to assume that funds had been improperly dissipated from
+ASMC, the fact that the second defendant made representations to the
+plaintiffs on various occasions does not, in my view, go to show that he was
+party to an unlawful agreement or that he acted unlawfully in combination with
+the first defendant to dissipate funds from ASMC.
+
+98 For similar reasons, I find it to be of limited relevance whether ASMC in
+fact had underlying investments. The plaintiffs allege that ASMC’s underlying
+investments must have been “bogus”, as limited documentation evidencing ASMC’s
+sale and purchase of steam coal and nickel was disclosed in the present suit.
+134
+
+##### Foot Note 134
+
+×
+
+PRS para 26 and 29.
+
+Even if it is indeed established that ASMC’s underlying investments are non-
+existent (although, to be clear, I make no finding on this), this alone does
+not prove that the second defendant had combined with the first defendant to
+injure the plaintiffs. On the contrary, the second defendant testified that he
+had always believed that ASMC was a legitimate business. He had gone on a “due
+diligence” trip to Indonesia at the start of his employment with ASMC, where
+he visited a nickel mine with other sales representatives and funders. 135
+
+##### Foot Note 135
+
+×
+
+NEs, 24 September 2021, p 122 lines 22–28; NEs, 29 September 2021, p 7 lines
+5–16.
+
+He had also undertaken further trips to the mines with funders after ASMC had
+defaulted on its payments and a number of funders wanted to see for themselves
+that ASMC had operations in Indonesia. 136
+
+##### Foot Note 136
+
+×
+
+AEIC of Neil Hutton para 25.
+
+The second defendant’s testimony in this respect is uncontradicted and I see
+no reason to doubt his explanation. I also note that it was not part of the
+plaintiffs’ pleaded case that ASMC had no underlying investments – in any
+case, it would be difficult to sustain such a case since the plaintiffs
+concede that they did receive their monthly payments timeously until about
+September 2018 when the payments stopped. I therefore decline to place any
+significant weight on the contention that the second defendant has not adduced
+evidence of ASMC’s underlying investments.
+
+99 For completeness, I note that the second plaintiff alleges in his AEIC that
+the conspiracy between the first and second defendants is also evidenced by a
+message emanating from Dr Smuts. 137
+
+##### Foot Note 137
+
+×
+
+P2AEIC para 131 (PBAEIC Vol 1 p 61).
+
+The second plaintiff refers to a screenshot of exchanges in a Whatsapp chat
+group that the first plaintiff was part of, and which depicts a message
+purportedly from Dr Smuts, stating as follows: 138
+
+##### Foot Note 138
+
+×
+
+PBAEIC Vol 2 pp 276–277.
+
+I hope I can count on some people with integrity to support me in this effort
+to stop [the first defendant] …
+
+Stu, again I appreciate you doing the honourable thing - and you are right I
+was trying to build a real company giving investors real benefits but this guy
+was never on that same agenda. The only way to get some capital back is to
+track down where the missing money has been squirrelled to.
+
+…
+
+[emphasis added in bold italics]
+
+100 No evidence was adduced as to the provenance of this Whatsapp message.
+This message was not posted by Dr Smuts directly to the Whatsapp chat group,
+but was rather posted by one Mr Stuart Smith, who was sharing with the chat
+group members an exchange he purportedly had with Dr Smuts over the LinkedIn
+portal. The plaintiffs did not call Dr Smuts or Mr Stuart Smith as witnesses
+at the trial. The fact that Dr Smuts may have said that moneys were
+“squirrelled” away is clearly hearsay evidence, and prima facie inadmissible
+for present purposes. Even if it were admissible, I do not see how the message
+sent by Dr Smuts necessarily demonstrates a conspiracy between the first and
+second defendants, especially since Dr Smuts does not even mention the second
+defendant in his message. I therefore would not accord Dr Smuts’ message any
+significant weight.
+
+101 To summarise the foregoing, the evidence adduced by the plaintiffs does
+not, in my judgment, prove on a balance of probabilities that moneys had been
+dissipated from ASMC, much less that the second defendant combined or reached
+an agreement with the first defendant to do the same. To the extent that the
+plaintiffs allege that the second defendant is wilfully withholding disclosure
+of bank statements to conceal the defendants’ dissipation of ASMC’s funds, I
+have already explained at [86] above why I decline to draw any adverse
+inference in the present case. Accordingly, I find that the plaintiffs have
+failed to establish that there was a combination between the first and second
+defendants to unlawfully dissipate funds from ASMC.
+
+No intent to cause injury or loss suffered
+
+102 Following from my conclusion at [101] above, the plaintiffs have failed to
+establish their claim for unlawful means conspiracy. As an alternative basis
+for my conclusion, I make a few brief observations about the remaining
+elements of the plaintiffs’ claim.
+
+103 In my judgment, the plaintiffs have also not established that there was
+any intent to cause injury on the part of the second defendant. The plaintiffs
+claim that the second defendant’s intent to cause injury is apparent from the
+fact that his e-mails were “calculated to convey a particular meaning and
+impression” to the plaintiffs. 139
+
+##### Foot Note 139
+
+×
+
+PCS para 78.
+
+In my view, I do not see how the phrasing of the second defendant’s e-mails
+alone can prove malice on his part. This is especially so when, as I have
+accepted at [39] above, these e-mails were sent on instructions from the
+second defendant’s superiors and at times, drafted by persons other than the
+second defendant. I have also found that the plaintiffs have not proven that
+the e-mails sent by the second defendant contained false representations (at
+[32] above). Accordingly, I disagree that any intent to cause injury can be
+discerned from the e-mails sent by the second defendant.
+
+104 As for the loss allegedly suffered by the plaintiffs, I note that the
+plaintiffs have not specified anywhere in their pleadings or closing
+submissions what relief is sought in respect of their claim for unlawful means
+conspiracy. In any case, proceeding on the assumption that the relief sought
+by the plaintiffs is the sum of S$616,700 owed by ASMC under the Contracts,
+the plaintiffs would then have to prove that they had been deprived of the
+full sum due to them under the Contracts, as a result of the conspiracy to
+dissipate ASMC’s funds. This would require the plaintiffs to show, for
+instance, that ASMC would have had sufficient funds to make payment to the
+plaintiffs pursuant to the Contracts, but for the dissipation of funds. The
+plaintiffs have not adduced any evidence in this respect. Accordingly, I find
+that the plaintiffs have also failed to prove that they suffered a loss as a
+result of the alleged conspiracy.
+
+105 In sum, in addition to my conclusion at [101] above, the plaintiffs have
+not established that the second defendant intended to injure them, or that
+they suffered a loss as a result of the alleged conspiracy. The plaintiffs
+have therefore not established their claim for unlawful means conspiracy, and
+I also dismiss this claim accordingly.
+
+Issue 3: Are the plaintiffs entitled to the BNP Paribas Performance Bond?
+
+106 For completeness, I address the plaintiffs’ pleaded request for relief in
+the form of the BNP Paribas Performance Bond. This claim can be dealt with in
+fairly short order. Apart from the fact that the pleaded relief is somewhat
+incomprehensible (see [16] above), the plaintiffs have not led any evidence,
+made any submissions or otherwise demonstrated why they are entitled to claim
+the BNP Paribas Performance Bond from the second defendant. As I mentioned
+above, this part of the claim was not pursued with any vigour nor articulated
+in any way. To the extent that the plaintiffs allege that the second defendant
+fraudulently and/or negligently misrepresented in his e-mail of 12 December
+2018 (S/N 7 of Annex A) that ASMC would be procuring a performance bond from
+BNP Paribas, I have already dismissed the plaintiffs’ claims for
+misrepresentation at [79] above.
+
+107 I find that there is no basis in law or fact to allow this claim and
+therefore also dismiss it accordingly.
+
+Conclusion
+
+108 ASMC has effectively ceased operations and is clearly in a financially
+parlous state. The first defendant is, according to court records, presently
+an undischarged bankrupt 140
+
+##### Foot Note 140
+
+×
+
+HC/B 159/2020 (HC/ORC 415/2021) dated 22 January 2021.
+
+and therefore unlikely to be able to satisfy any judgment obtained by the
+plaintiffs against him. The plaintiffs, for reasons unknown and which they did
+not wish to reveal, discontinued this action against Dr Smuts. That left the
+second defendant in the plaintiffs’ crosshairs. While I sympathise with the
+plaintiffs’ predicament and the significant sums they have lost as a result of
+their investments having turned sour, I am simply not satisfied that the very
+serious claims made by the plaintiffs against the second defendant have been
+made out.
+
+109 For the reasons set out in this judgment, I dismiss all of the plaintiffs’
+claims and this action against the second defendant.
+
+110 I shall hear the parties separately on the question of costs.
+
+S Mohan  
+Judge of the High Court|  
+---|---  
+  
+Clarence Lun Yaodong, Wong Changyan Ernest, Chua Qin En and Leng Ting Kun
+(Fervent Chambers LLC) for the plaintiffs;
+
+The first defendant absent and unrepresented;
+
+Naidu Devadas and Jonathan Sam Weiyi (Metropolitan Law Corporation) for the
+second defendant.
+
+Annex A: Occasions on which the Representations were allegedly made to the
+plaintiffs 141
+
+##### Foot Note 141
+
+×
+
+PCS para 27.
+
+  
+
+S/N| Date / Reference in Statement of Claim (“SOC”)| Representation made
+(First, Second, Third or Fourth)| Details[emphasis added in bold italics]  
+---|---|---|---  
+1 | 28 October 2018SOC para 79(b)| Third and Fourth| At the Concorde Hotel meeting, the second defendant represented that that ASMC was in the midst of going public. He proposed to the second plaintiff that instead of making an early redemption request, the plaintiffs could make a pre-IPO placement of ASMC shares. In the alternative, the second defendant proposed that the plaintiffs could reinvest their principal sum into another investment by ASMC or opt to be paid in gold bars equivalent to the redemption sum.  
+2 | 31 October 2018 142
+
+##### Foot Note 142
+
+× PBAEIC Vol 1 p 207. SOC paras 54(b) and 79(c)| Second| In a mass e-mail to
+ASMC’s funders, the second defendant stated:“... For those people who are
+awaiting payment, I can assure you that all outstanding payments will be made
+from the 9th November 2018. It may take up to 10 working days to clear the
+payments, but all payments due up to that point will be made. ... ASMC
+continues to grow and diversify and we can assure our clients that all returns
+will be paid, and the profit share scheme in Nickel and PGM is as secure as it
+always has been ...”  
+3 | 2 November 2018 143
+
+##### Foot Note 143
+
+× PBAEIC Vol 1 p 207. SOC para 79(d)| Third and Fourth| In response to the
+second plaintiff requesting an early redemption of the Contracts, the second
+defendant stated in an e-mail: “I suggest you wait for the call back. It’s
+free and I don’t think it will take any longer.” A “call back” referred to the
+process of ASMC terminating a contract with a funder. 144
+
+##### Foot Note 144
+
+× NEs, 29 September 2021, p 4 lines 25–30.  
+4 | 5 November 2018 145
+
+##### Foot Note 145
+
+× PBAEIC Vol 1 p 206. SOC para 79(d)| Third and Fourth| In response to a query
+from the second plaintiff on when the call back would take place, the second
+defendant replied by e-mail: “I expect it to be at the end of Nov, with a
+cheque dated in December.”  
+5 | 19 November 2018 146
+
+##### Foot Note 146
+
+× PBAEIC Vol 1 p 210. SOC paras 54(c) and 79(e)| Third and Fourth| In a mass
+e-mail to ASMC’s funders, the second defendant stated:“... We appreciate your
+patience with the payment of the returns. The delayed payments are to be
+brought up to date as soon as possible. We had hoped that the payment would be
+made already. However, it is still pending. The memo that we issued stated
+that the payment would be made within 10 working days of 9th November. This
+takes us up to 23rd November. Despite that, we are working to ensure that the
+payments are to be made as soon as possible…”  
+6 | 23 November 2018 147
+
+##### Foot Note 147
+
+× PBAEIC Vol 1 p 213. SOC paras 54(d) and 79(f)| First, Third and Fourth| In a
+mass e-mail to ASMC’s funders, the second defendant stated:“... We understand
+the delayed payments continue to cause concern. We are trying to resolve the
+matter and in the interim, to keep all parties informed. The most recent
+update we have is that the funds are in our ASMC bank account pending final
+approval from the bank. The payments will be released once we have satisfied
+the banking requirements ...”  
+7 | 12 December 2018 148
+
+##### Foot Note 148
+
+× PBAEIC Vol 1 p 216. SOC paras 54(e) and 79(g)| First, Third and Fourth| In a
+mass e-mail to ASMC’s funders, the second defendant stated: “... In the
+interim, we are attempting to provide supporting data or literature to explain
+that the overall health of ASMC remains robust, and that we have the funds
+ready to make the required payments once we overcome these temporary
+logistical banking issues. It may take a little while to process all of the
+payments due to the unforeseen and purely administrative hurdles, but we are
+in a position to reassure all of our valued clients that payment will be made.
+To this end, ASMC is arranging for a Bank Performance Bond through BNP PARIBAS
+before end of this year. This performance Bond will guarantee payment to
+clients of the capital and outstanding returns. We believe that this
+alternative will obviate the administrative issues. Please note that BNP
+PARIBAS by issuing the aforesaid Bank Performance Bond is in effect
+acknowledging that ASMC is in possession of the requisite funds and is indeed
+ready and willing to make all payments. ...”  
+8 | 8 January 2019 149
+
+##### Foot Note 149
+
+× PBAEIC Vol 1 p 228. SOC paras 54(f) and 79(h)| First and Third| In a mass
+e-mail to ASMC’s funders, the second defendant stated: “... The memos that we
+last issued stated that the payment would be made in November then end of
+December. We sent those memos out in good faith and based on what we believed
+to be reliable information. We shared those timescales because we were
+informed that we could make the payments within those timescales. We sincerely
+apologise that the payments are still outstanding. Over the Christmas period,
+some banking processes can slow down owing to the Bank Holiday etc. since the
+Christmas break, we are concentrating our efforts on discovering why the
+banking issue was not resolved in the way that we were told it would be and on
+making the payment as soon as possible. Prior to the festive break I liaised
+with clients and explained that we would be producing some supporting data, to
+reassure clients. Information related to the BNP bond and the overall health
+of ASMC and our mining and refining operations. I have some information from
+the BNP Bank, but as I am sure you can imagine, correspondence relating to our
+internal banking issues are usually confidential and it would not be standard
+practice to just issue copies of our internal correspondence freely by
+e-mail...”  
+9 | 14 January 2019 150
+
+##### Foot Note 150
+
+× PBAEIC Vol 1 p 235.  SOC paras 54(h) and 79(j)| First, Third and Fourth| In
+a mass e-mail to ASMC’s funders, the second defendant stated: “... all the
+logistical banking issues that had caused delays have now been surmounted. We
+are looking to make all payments for Nickel investments by bank TT transfer
+very soon. We shall be contacting you in due course regarding the protocol and
+specific timing of the payments. ... ASMC is now looking to focus on our
+biggest and most successful ongoing projects, namely our nickel mining and
+smelting and our refinery. ASMC can state with confidence that these projects
+are healthy, and robust and exclusive to ASMC. ...”  
+10 | 12 February 2019 151
+
+##### Foot Note 151
+
+× PBAEIC Vol 1 p 238. SOC paras 54(i) and 79(j)| Fourth| In a mass e-mail to
+ASMC’s funders, the second defendant stated: “We have the clearance to
+initiate payments from Wednesday, 20th February 2019.”  
+11 | 28 February 2019 152
+
+##### Foot Note 152
+
+× PBAEIC Vol 1 p 240. SOC paras 59(a) and 79(l)| Third and Fourth| In a mass
+e-mail to ASMC’s funders, the second defendant stated: “We will continue to
+work through the call back meetings to produce settlement deeds, and we expect
+this matter to be finally concluded within the next 4 weeks. In the mean time
+we appreciate your ongoing patience.”  
+12 | 11 April 2019 153
+
+##### Foot Note 153
+
+× PBAEIC Vol 1 p 243. SOC paras 59(b) and 79(l)| First, Third and Fourth| In a
+mass e-mail to ASMC’s funders, the second defendant stated: “... [The SWIFT
+code] will validate that ASMC has the funds to pay clients, and will reinforce
+that we also have the intention to settle, as soon as clearance is given by
+the bank. The Swift code and clearance that we are awaiting relates to the
+Performance Bond from BNP Paribas Bank. You may already be aware that a
+Performance Bond is used to offer assurances that a company (in this case
+ASMC) can deliver on the service that we have undertaken. It confirms that
+ASMC will use these funds to fulfil our commitment to pay clients. ...”  
+13 | 30 April 2019 154
+
+##### Foot Note 154
+
+× PBAEIC Vol 1 p 246. SOC paras 59(c) and 79(l)| First, Third and Fourth| In a
+mass e-mail to ASMC’s funders, the second defendant stated: “After several
+negotiations, we were informed by the bank that the funds that we intend to
+use to pay our clients can be cleared to pay clients in 2 weeks. It is
+important to clarify ASMC has continued with its mining operations and to
+generate revenue despite the difficulties that we experience with the process
+of clearing the funds.We expect that the matter will be resolved very soon,
+and are awaiting for clearance to begin making the payments.”  
+14 | 15 May 2019 155
+
+##### Foot Note 155
+
+× PBAEIC Vol 1 p 249. SOC paras 59(d) and 79(l)| First, Third and Fourth| In a
+mass e-mail to ASMC’s funders, the second defendant stated: “Since my last
+memo, the timescale that I offered of 2 weeks now feel [sic] ambitious in
+hindsight, and the information that I have now suggests that the payments can
+begin at the end of May. The information is a mixed blessing. I can state with
+confidence that the funds will clear within our Singapore UOB account soon.
+The transfer of funds to our account would be made in batches and so would the
+payments to clients. Batch one could be as soon as the end of May and batch 2
+would be mid June.”  
+15 | 10 June 2019 156
+
+##### Foot Note 156
+
+× PBAEIC Vol 1 p 203. SOC paras 59(e) and 79(p)| First, Third and Fourth| In a
+mass e-mail to ASMC’s funders, the second defendant reiterated representations
+made during a meeting held on 8 June 2019, as follows:“Mr Ishak Basheere the
+owner of ASMC met with clients at 12pm on Saturday 8th June 2019. At that
+meeting Ishak addressed a crowd of funders from Singapore and Malaysia. ...The
+meeting developed into a Q & A session and various actions / outcomes were
+agreed upon: 1. Ishak made it explicitly clear that he can and will pay all
+clients 100% of what is owed to them within 3 months. 2\. Ishak explained that
+Dr Smuts is no longer working at ASMC. 3\. ASMC funds are to be transferred
+from London to Malta between June 10th – 14th June 2019.4\. June 17 onwards
+funds will be cleared in batches in Ishak’s Singapore bank account. This is
+expected to take 3 days. 5\. Ishak estimates the amount to be around 5 million
+Euros per batch. 6\. June 21 we can begin to process the payments. ... 9\. All
+dividends will be calculated up until end of June 2019.10\. Schedule of
+payment will be worked out by June 14 based on the percentage payout scheme.”  
+16 | 5 July 2019 157
+
+##### Foot Note 157
+
+× PBAEIC Vol 1 p 254. Not pleaded| First, Third and Fourth| In a mass e-mail
+to ASMC’s funders, the second defendant stated: “Mining operations and all
+other business continues as normal. ... 2\. Please note that such breaches
+will not only jeopardise the company’s business operations but it will also
+negatively effect [sic] the company’s ability to honour its financial
+obligations for all funders. ... The last memo set out a timeline for the
+payments, and whilst we still feel confident that payments can be completed
+within 3 months as previously stated, the first payment is delayed. We are
+still working to bring the funds from Malta in to Singapore, so that we can
+pay clients from our Singapore account.”  
+  
+Annex B: Further occasions on which the second defendant allegedly made false
+statements to the plaintiffs in furtherance of an unlawful means conspiracy
+
+  
+
+S/N| Date| Relevant extracts of the e-mails sent by the second defendant  
+---|---|---  
+1 | 1 August 201912.03pm 158
+
+##### Foot Note 158
+
+× PBAEIC Vol 1 p 258. | “1. The money is in Malta2 and 3. The money was held at Malta due to a breach of P and C by a client and we are working to get the funds released very soon. We expect the funds to be inSingapore and cleared by MAS within a few working days.”  
+2 | 1 August 20193.30pm 159
+
+##### Foot Note 159
+
+× PBAEIC Vol 1 p 257. | “1. A bank will freeze the account pending an investigation.2\. I am not prepared to give out any more information about the bank, we do not want a repeat of the current problem.3\. We need wait for the bank to complete their investigation/compliance process.4\. We are transferring funds from Indonesia too. I do not know what stage that transfer is at but it is imminent, MAS will hold the funds for up to 24 hours before they release or return the funds.”  
+3 | 2 September 2019 160
+
+##### Foot Note 160
+
+× PBAEIC Vol 1 pp 268–269. | “My last memo in June explained that funds were to be transferred to Singapore from Malta and that we could pay a percentage of what we owe clients in June and the full amount by mid to late September (3 months from when we met).…However, ASMC had to change the route through which we transfer funds into Singapore, due to a serious breach of privacy and confidentiality by a client. Therefore, as a result of the said breach of confidentiality we were unable to meet those timeframes. Since that time, the company has had to rearrange the transfer of funds through Indonesia, which unfortunately incurred more administrative costs. These unexpected delays/costs have also compounded ASMC's problems and subsequently further delayed payments whilst we rectify the breach of confidentiality issue in Malta.…However, we now have funds awaiting clearance into our Singapore account. The transfer is from our nominated business account in Indonesia. The transfer instructions have been sent and we do not anticipate any further problems as clearance has been approved on both countries. The transfer of foreign currency takes a little longer than initially anticipated but we are confident that the funds will clear in due course subject to banking regulatory and administrative requirements. The delays have caused problems for all parties, including clients, agents and ASMC. Once the first transfer clears we can then settle some immediate payments and we can also begin to settle what we owe to clients. Therefore, due to the said delays ASMC will now have to share in additional legal and administration fees to process repayments.”  
+  
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 29 Aug 2022 (11:27 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

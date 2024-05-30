@@ -1,0 +1,711 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2023] SGHC 86
+
+Originating Application No 725 of 2022 (Registrar’s Appeal No 23 of 2023 and
+Summons No 4435 of 2022)
+
+Between
+
+| CZD  
+---|---  
+  
+… Claimant
+
+And
+
+| CZE  
+---|---  
+  
+… Defendant
+
+grounds of decision
+
+[Arbitration — Enforcement — Foreign award]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+CZD
+
+  
+v
+
+  
+
+CZE
+
+[2023] SGHC 86
+
+General Division of the High Court — Originating Application No 725 of 2022
+(Registrar’s Appeal No 23 of 2023 and Summons No 4435 of 2022)  
+Chua Lee Ming J  
+10, 20 February 2023
+
+5 April 2023
+
+Chua Lee Ming J:
+
+Introduction
+
+1 HC/SUM 4435 of 2022 (“SUM 4435”) was the defendant’s application to set
+aside an order made by the High Court (the “Enforcement Order”) granting the
+claimant permission to enforce an arbitration award made in Beijing, the
+People’s Republic of China (“PRC”) (the “Award”). HC/RA 23 of 2023 (“RA 23”)
+was the defendant’s appeal against the Assistant Registrar’s order dismissing
+his application to file a further affidavit to respond to the reply affidavits
+filed by the claimant and its PRC lawyer in SUM 4435.
+
+2 I dismissed the defendant’s appeal as well as his application to set aside
+the Enforcement Order for the reasons set out below.
+
+Background facts
+
+3 In September 2017, the claimant, the defendant and a PRC company
+(“TargetCo”) entered into a loan agreement (the “Loan Agreement”), under which
+the claimant was to lend certain sums to the defendant for the defendant to
+terminate the variable interest entity structure of, and to restructure,
+TargetCo and another related PRC company.
+
+4 Subsequently, the claimant, the defendant and TargetCo entered into another
+agreement (the “Cooperation Agreement”), under which the claimant was to
+provide a loan to the defendant for the same purpose; the claimant was to also
+assist in introducing other investors to become shareholders of TargetCo.
+Under the Cooperation Agreement, the loan could be converted into shares of
+TargetCo at the claimant’s option, if certain conditions were met.
+
+5 In December 2017, the defendant, TargetCo, company [X], and six other
+companies entered into an investment agreement (the “Investment Agreement”),
+under which [X] was to provide loans to TargetCo. Under the Investment
+Agreement, [X] was entitled to convert the loans to TargetCo shares. The
+claimant was not a party to the Investment Agreement.
+
+6 As a supplement to the Cooperation Agreement and the Investment Agreement,
+the claimant, the defendant, TargetCo, [X] and four other parties signed a
+memorandum (the “Memorandum”) to “clarify the investment rights and capital
+relationship between [the claimant] and [the defendant]”.
+
+7 In 2020, the claimant commenced arbitration proceedings in the Beijing
+Arbitration Commission against the defendant pursuant to an arbitration clause
+in the Loan Agreement. The claimant claimed that the defendant had failed to
+repay the loans made by the claimant under the Loan Agreement. In 2021, the
+arbitration tribunal (the “Tribunal”) issued the Award in favour of the
+claimant.
+
+8 In 2021, a PRC court issued a Notice of Enforcement Assistance to the China
+Securities Depository and Clearing Co., Ltd Shenzhen Branch to freeze the
+defendant’s bank accounts and his shares in a public listed company on the
+Shenzhen Stock Exchange (the “Listed Company”) from June 2021 to June 2024.
+
+9 The defendant brought several legal challenges against the Award in the PRC.
+
+(a) In 2021, the defendant applied to the Fourth Intermediate People’s Court
+of Beijing Municipality (the “Fourth Intermediate Court”) to set aside the
+Award; this application was rejected in 2021;
+
+(b) In 2021, the defendant applied to the Second Intermediate People’s Court
+of Beijing Municipality for an order that the Award not be enforced; this
+application was rejected in 2021; and
+
+(c) In 2022, the defendant applied to the Fourth Branch of the Beijing
+Municipal People’s Procuratorate (the “Fourth Branch, People’s Procuratorate”)
+for a procuratorial order for civil supervision of the decision of the Fourth
+Intermediate Court; this application was rejected in 2022 (after SUM 4435 was
+filed).
+
+10 The defendant stated that he intended to apply to the People’s
+Procuratorate of Beijing Municipality (the “People’s Procuratorate”) to review
+the decision of the Fourth Branch, People’s Procuratorate. No such application
+had been made as of 20 February 2023, when I gave my decision.
+
+11 On 1 November 2022, the claimant filed the present originating application
+without notice in HC/OA 725 of 2022 (“OA 725”) to enforce the Award in
+Singapore pursuant to s 29(1) of the International Arbitration Act 1994 (2020
+Rev Ed) (the “IAA”). On 2 November 2022, the Assistant Registrar granted the
+Enforcement Order.
+
+12 On 14 December 2022, the defendant filed SUM 4435 to set aside the
+Enforcement Order. In his affidavit filed in support of his application, the
+defendant argued that the Enforcement Order should be set aside on the
+following grounds:
+
+(a) The Award had been fully and/or effectively satisfied in enforcement
+proceedings by the claimant in the PRC, including by way of freezing the
+defendant’s shares in the Listed Company.
+
+(b) The Award dealt with a difference not contemplated by, or not falling
+within the terms of, the submission to arbitration or contained a decision on
+the matter beyond the scope of the submission to arbitration (s 31(2)(d) IAA).
+
+(c) The claimant breached its duty of full and frank disclosure.
+
+(d) The enforcement of the Award would be contrary to the public policy of
+Singapore (s 31(4)(b) IAA).
+
+13 The defendant applied in the alternative to adjourn the claimant’s
+application in OA 725 pursuant to s 31(5)(a) of the IAA until after his
+application to set aside or challenge the Award had been fully dealt with by
+the courts of the PRC (including by way of an application to the People’s
+Procuratorate, and a potential protest to the Beijing High People’s Court).
+
+14 After both parties had filed their respective affidavits in SUM 4435, the
+defendant sought permission to file a further affidavit. The Assistant
+Registrar dismissed the application on 31 January 2023. On 1 February 2023,
+the defendant lodged an appeal (RA 23) against the Assistant Registrar’s
+decision.
+
+RA 23
+
+15 The claimant filed two affidavits to contest the defendant’s application in
+SUM 4435. One of the affidavits was by a PRC lawyer whose legal opinion on PRC
+law included the following:
+
+(a) The enforcement proceedings in the PRC had not resulted in payment of the
+amount due under the Award. In particular, the freezing order on the
+defendant’s shares did not mean that the defendant had satisfied the Award
+because the shares had not yet been sold or transferred to the claimant.
+
+(b) The PRC courts had concluded that the matters decided by the Tribunal were
+well within the scope of the arbitration clause. The ruling by the Fourth
+Intermediate Court was valid and binding and the defendant had no right to
+apply to the Beijing High People’s Court for a retrial.
+
+(c) The chances of an application to the People’s Procuratorate (to review the
+decision of the Fourth Branch, People’s Procuratorate) being supported was
+“far less” than the chances of the application being rejected. Further, even
+if such an application were to succeed, it was the decision of the Fourth
+Branch, People’s Procuratorate that would be revoked and a retrial would be
+initiated. The Award itself would not be revoked and the retrial would not
+suspend the enforcement of the Award.
+
+(d) The defendant’s statements, about the formulation of the agreements that
+had been entered into, were in conflict with a report by an independent third
+party.
+
+The other affidavit was by the claimant’s Executive Partner who also
+challenged the defendant’s statements regarding the context and purposes of
+the agreements that had been entered into and referred to the same report
+mentioned in (d) above.
+
+16 The defendant argued that the claimant’s expert’s opinion raised the
+following new issues on PRC law:
+
+(a) whether the Award was considered fully and/or effectively satisfied due to
+the freezing order against the defendant’s shares in the PRC;
+
+(b) whether the Tribunal acted within its jurisdiction in rendering the Award;
+
+(c) whether an application to the Fourth Branch, People’s Procuratorate could
+have led to suspension or termination of enforcement of the Award or the Award
+being set aside/revoked, and the basis and the chances of success of such an
+application;
+
+(d) whether an application to the People’s Procuratorate would lead to
+suspension or termination of enforcement of the Award or to the Award being
+set aside/revoked, and the basis and the chances of success of such an
+application; and
+
+(e) whether any statements of the defendant were in conflict with those of the
+independent third party.
+
+The defendant submitted that he should be permitted to file reply affidavit(s)
+on these issues “so as to present the Court [with] a full picture of the
+contents of PRC law”.
+
+17 In my view, an expert opinion on issues (b) and (e) were plainly
+irrelevant. Whether the Tribunal acted within its jurisdiction in rendering
+the Award and whether any statements of the defendant conflicted with those of
+an independent party were matters for this Court to consider and decide
+without the aid of an expert. Issue (c) was moot, since the Fourth Branch,
+People’s Procuratorate had since rejected the defendant’s application for
+civil supervision. Any expert affidavit would have been relevant only in
+respect of issues (a) and (d).
+
+18 Order 3 r 5(6) of the Rules of Court (2021 Rev Ed) (“ROC 2021”) provides
+that “[e]xcept in a special case”, the court will not allow an applicant to
+file further affidavits after the other party has filed its reply affidavit.
+
+19 Order 3 r 5(6) ROC 2021 is a new rule which has no equivalent in the
+previous Rules of Court (2014 Rev Ed). I agreed with the Assistant Registrar
+that the intent is clear: there is to be only one round of affidavits from
+each party, except in a “special case”. The term “special case” should be
+interpreted with the Ideals set out in O 3 r 1 in mind. The present case
+involved the enforcement of an arbitral award; an important Ideal was that of
+achieving expeditious proceedings.
+
+20 The term “special case” in O 3 r 5(6) should also be interpreted bearing in
+mind O 3 r 5(7), which provides that an affidavit “must contain all necessary
+evidence in support of or in opposition (as the case may be) to the
+application”.
+
+21 The fact that new issues are raised in affidavits filed to contest an
+application may constitute a special case for the purposes of O3 r 5(6) if
+these issues could not reasonably have been within the applicant’s
+contemplation when he filed his affidavit in support of his application. It is
+incumbent on the applicant to ensure that his affidavits filed in support of
+his application deal with all matters that are relevant to his application. An
+applicant cannot adopt a wait-and-see approach.
+
+22 In the present case, issue (a) (ie, whether the freezing order meant that
+the Award had been satisfied) and issue (d) (ie, the effect and chances of
+success of the defendant’s intended application to the People’s Procuratorate)
+were clearly not new issues. In fact, they dealt with two of the very grounds
+that the defendant relied on in his application in SUM 4435 (see [12(a)] and
+[13] above). I rejected the defendant’s submission that he was not obliged to
+raise these issues of PRC law in his affidavit filed in support of his
+application. The purpose of the defendant’s affidavit was to support his
+application. Obviously, he had to adduce the relevant expert opinion on PRC
+law to make good the grounds that he relied on. The defendant had included an
+expert opinion from a PRC lawyer in his affidavit. For reasons best known to
+the defendant, he did not obtain an opinion dealing with issues (a) and (d).
+The defendant must accept the consequences of his decision not to do so.
+
+23 The defendant further argued that no expert evidence may be adduced without
+the court’s approval pursuant to O 12 r 2(1) of the ROC 2021 and that the
+claimant’s expert report had “impermissibly jump[ed] the gun”. However, I
+noted that the defendant had himself adduced expert evidence in his earlier
+affidavit without the court’s approval. It did not lie in his mouth to raise
+this objection to the claimant’s expert report. In any event, in my view, this
+did not constitute a special case for the purposes of O 3 r 5(6).
+Practitioners should however take note of O 12 r 2(1). Where applications
+relating to arbitration awards involve questions of foreign law, approval to
+file expert evidence is likely to be given. In such cases, approval may be
+obtained retrospectively if it is not practicable to obtain approval before
+filing the expert evidence.
+
+24 In conclusion, I dismissed RA 23 and ordered the defendant to pay costs
+fixed at $1,500, including disbursements.
+
+SUM 4435
+
+Whether the Tribunal exceeded its jurisdiction
+
+25 Section 31(2)(d) of the IAA provides:
+
+(2) A court so requested may refuse enforcement of a foreign award if the
+person against whom enforcement is sought proves to the satisfaction of the
+court that –
+
+…
+
+(d) subject to subsection (3), the award deals with a difference not
+contemplated by, or not falling within the terms of, the submission to
+arbitration or contains a decision on the matter beyond the scope of the
+submission to arbitration;
+
+…
+
+26 In assessing whether an arbitral tribunal has acted in excess of its
+jurisdiction, first, the court must identify what matters were within the
+scope of submission to the arbitral tribunal; and second, whether the arbitral
+award involved such matters, or whether it involved a “new difference …
+outside the scope of the submission to arbitration and accordingly …
+irrelevant to the issues requiring determination”: CDM and another v CDP
+[2021] 2 SLR 235 at [17].
+
+27 The claimant had referred the dispute to arbitration based on Art 4.2 of
+the Loan Agreement, which provided that “[a]ny dispute arising from the
+interpretation or performance of this Agreement shall … be settled through
+arbitration in Beijing in accordance with the rules of Beijing Arbitration
+Commission”. The thrust of the defendant’s argument was that the Tribunal
+acted in excess of jurisdiction because the Tribunal found the defendant
+liable for a total of RMB 140m not for a breach of the Loan Agreement, but
+under the Cooperation Agreement, Investment Agreement and Memorandum.
+
+28 The claimant submitted that:
+
+(a) the Tribunal did not exceed its jurisdiction because it found the
+defendant liable under the Loan Agreement; and
+
+(b) the defendant was estopped from arguing excess of jurisdiction because the
+same argument had been rejected by the seat court in the setting aside
+proceedings in the PRC.
+
+Whether the Tribunal found the defendant liable under the Loan Agreement
+
+29 The defendant argued that the Tribunal did not find the defendant liable
+under the Loan Agreement and had instead impermissibly found the defendant
+liable on an analysis of the Cooperation Agreement, the Investment Agreement
+and the Memorandum. It is true that in the Award, the Tribunal dealt quite
+extensively with the Cooperation Agreement, the Investment Agreement and the
+Memorandum. However, that did not mean that the Tribunal did not find the
+defendant liable under the Loan Agreement. As the defendant conceded during
+oral submissions, there was nothing in the Award that expressly stated that
+the defendant’s liability to pay the claimant was founded on the Cooperation
+Agreement and/or Investment Agreement. The Award must be read in context. It
+was necessary for the Tribunal to deal with the Cooperation Agreement, the
+Investment Agreement and the Memorandum because the claimant’s case was that
+the payments that were made under the Cooperation Agreement and Investment
+Agreement were disbursements of the loan given by the claimant under the Loan
+Agreement.
+
+30 In addition, as the claimant pointed out, the Tribunal awarded liquidated
+damages based on a term in the Loan Agreement. I agreed with the claimant that
+this showed that the finding of liability in the Award was based on the Loan
+Agreement.
+
+31 In my view, the Tribunal did not exceed its jurisdiction. Reading the Award
+in its totality, I was of the view that the Award meant that the defendant was
+liable on the Loan Agreement.
+
+Whether issue estoppel applied in this case
+
+32 Having decided that the Tribunal did not exceed its jurisdiction, it was
+unnecessary for me to decide whether issue estoppel applied in this case. The
+question whether the principles of transnational issue estoppel apply to the
+“re-litigation of identical issues in different fora in the context of
+arbitration” is “less than clear”: BAZ v BBA and others and other matters
+[2020] 5 SLR 266 (“BAZ”) at [33]. In BAZ, the High Court held that
+jurisdictional challenges to the powers of the tribunal attracted a de novo
+review from the seat court and issue estoppel arising from the determination
+of a foreign enforcement court “should not feature” although the decision of
+the foreign enforcement court may have persuasive effect (at [51]–[52]).
+
+33 The present case concerned the reverse scenario, the question being whether
+issue estoppel arising from decisions of a foreign seat court applies in
+proceedings before an enforcement court. The claimant relied on the following:
+
+(a) PT First Media TBK (formerly known as PT Broadband Multimedia TBK) v Astro
+Nusantara International BV and others and another appeal [2014] 1 SLR 372 (“PT
+First Media”) in which the Court of Appeal noted that there was authority that
+the New York Convention permits a party to resist enforcement even after an
+unsuccessful active challenge, “save and except for the operation of any issue
+estoppel recognised by the enforcing court” and that “it is generally for each
+enforcing court to determine for itself what weight and significance should be
+ascribed to the omission, progress or success of an active challenge in the
+court of the seat” (at [75]).
+
+(b) Aloe Vera of America, Inc v Asianic Food (S) Pte Ltd and another [2006] 3
+SLR(R) 174 (“Aloe Vera"), in which the High Court held that except to the
+extent permitted by s 31(2) of the IAA, the court could not look into the
+merits of the award and allow the award debtor to “relitigate issues that he
+could have brought up either before the Arbitrator or the supervisory court”
+(at [56]).
+
+(c) Newspeed International Ltd v Citus Trading Pte Ltd [2003] 3 SLR(R) 1
+(“Newspeed”), in which an application to set aside an enforcement order was
+made on the same ground that had been rejected by the Intermediate People’s
+Court in the PRC hearing the award debtor’s appeal. The High Court dismissed
+the application on the ground that the losing party in an arbitration could
+either apply to the seat court to set aside the award or wait until
+enforcement was sought and then oppose the enforcement; the two options were
+alternatives, not cumulative (at [26]–[28]).
+
+(d) Darius Chan, Paul Tan and Nicholas Poon, The Law and Theory of
+International Commercial Arbitration in Singapore (Academy Publishing, 2022)
+(“International Commercial Arbitration”), in which the authors expressed the
+view that when resisting enforcement proceedings, the award debtor will be
+estopped from contending anything that is contrary to the decision of the seat
+court (at para 9.68).
+
+34 In BAZ (at [41]), the High Court expressed doubt over the decision in
+Newspeed given the ruling of the Court of Appeal in PT First Media (at [75])
+that the Model Law provides for a system of “double-control”. At any rate,
+Newspeed did not deal with issue estoppel. As the court observed in BAZ (at
+[41]), the decision in Newspeed was driven by the notion that a party should
+not have two bites at the cherry. That said, it has been suggested that
+Newspeed could still probably be justified on the ground of issue estoppel
+(see Sundaresh Menon et al, Arbitration in Singapore: A Practical Guide (Sweet
+& Maxwell, 2nd Ed, 2018) at para 14.080).
+
+35 I also noted that in Gujarat NRE Coke Ltd v Coeclerici Asia (Pte) Ltd
+[2013] FCAFC 109, the Federal Court of Australia recognised that the question
+whether issue estoppel operates during enforcement proceedings is one of
+importance and potential difficulty and expressly refrained from deciding the
+question, stating instead that it will “generally be inappropriate for this
+court, being the enforcement court of a Convention country, to reach a
+different conclusion on the same question of asserted procedural defects as
+that reached by the court of the seat of arbitration” (at [65]).
+
+36 The question whether transnational issue estoppel applies during
+enforcement proceedings is indeed a difficult one. It deserves fuller
+submissions. As it was unnecessary for me to decide this question, I left it
+to be decided in some other appropriate case in future.
+
+Whether enforcement of the Award would be contrary to public policy
+
+37 Section 31(4)(b) of the IAA provides:
+
+(4) In any proceedings in which the enforcement of a foreign award is sought
+by virtue of this Part, the court may refuse to enforce the award if it finds
+that –
+
+…
+
+(b) enforcement of the award would be contrary to the public policy of
+Singapore.
+
+38 An award obtained by fraud would violate the basic notions of morality and
+justice, thus amounting to a breach of the public policy of Singapore: Beijing
+Sinozonto Mining Investment Co Ltd v Goldenray Consortium (Singapore) Pte Ltd
+[2014] 1 SLR 814 at [41]. Indeed, the fact that “the making of the award was
+induced or affected by fraud or corruption” is a ground for setting aside the
+award under s 24(b) of the IAA. “Fraud” referred to under s 24(b) of the IAA
+“must include procedural fraud, that is, when a party commits perjury,
+conceals material information and/or suppresses evidence that would have
+substantial effect on the making of the award”: Bloomberry Resorts and Hotels
+Inc and another v Global Gaming Philippines LLC and another [2021] 1 SLR 1045
+at [41]. This should be no different in the context of resisting the
+enforcement of an award.
+
+39 The defendant contended that the Award was procured through procedural
+fraud because the claimant had maintained inconsistent evidential positions
+before the Tribunal and in subsequent PRC court proceedings. The allegation of
+procedural fraud concerned a Letter of Undertaking issued by [X] that
+warranted that the loan to be given by it to the defendant would be from its
+own funds. The defendant argued that the Letter of Undertaking meant that the
+loan from [X] could not be a roundabout loan from the claimant to the
+defendant under the Loan Agreement.
+
+40 During the arbitration, the claimant and [X] rejected the authenticity of
+the Letter of Undertaking. [X] issued two Explanatory Statements to clarify
+that it had provided funds to the defendant to fulfil the claimant’s loan
+obligation under the Loan Agreement. However, subsequently, in separate
+proceedings before the Third Intermediate People’s Court of Beijing
+Municipality, [X]’s lawyers expressly admitted that [X]’s seal on the Letter
+of Undertaking was authentic. This, the defendant argued, meant that the
+claimant took inconsistent evidential positions amounting to procedural fraud.
+
+41 I rejected the defendant’s submission that the Enforcement Order should be
+set aside on the basis that there was procedural fraud. The defendant’s
+submission was not supported by the evidence. At all times, the claimant did
+not accept the contents of the Letter of Undertaking. In any event, the Letter
+of Undertaking was just one piece of evidence which was before the Tribunal.
+The tribunal found that the funds that [X] transferred to TargetCo had come
+from the claimant. In my view, the defendant had not shown how the Award had
+been procured through procedural fraud. The substance of the defendant’s
+submission appeared to be a challenge against the merits of the Tribunal’s
+finding, which was not a ground for refusing enforcement.
+
+42 The claimant also argued that the defendant was estopped from relying on
+the ground of procedural fraud because it was argued in the defendant’s
+setting aside application in the PRC and rejected by the PRC court. Again, as
+I had rejected the defendant’s submission on procedural fraud, it was not
+necessary for me to decide whether issue estoppel applied. I noted however
+that procedural fraud fell within the public policy ground and as the High
+Court stated in BAZ at [50]:
+
+50 It is plain that issue estoppel would not arise with regard to the grounds
+of arbitrability and public policy under Arts 34(2)(b)(i) and 34(2)(b)(ii)
+respectively, because the public policy and the test for arbitrability are
+unique to each state. Therefore, there would be no identity of subject matter
+even if the ground of arbitrability or public policy has been raised before a
+different court.
+
+In BAZ, the court was concerned with the public policy ground in setting aside
+applications under Art 34(2)(b)(ii) of the Model Law. However, there is no
+reason in principle why the position should be any different with respect to
+the public policy ground in enforcement proceedings under s 31(4)(b) of the
+IAA.
+
+Whether the Award should not be enforced because it had been satisfied
+
+43 The defendant argued that the Award had been fully and/or effectively
+satisfied, in part because its shares in the Listed Company had been frozen
+pursuant to enforcement proceedings by the claimant in the PRC. In the course
+of oral submissions, the defendant withdrew his reliance on this ground.
+
+44 In any event, in my view, this ground was a non-starter. It was unarguable
+that the fact that the defendant’s shares were frozen in enforcement
+proceedings in the PRC did not mean that the Award had been satisfied.
+
+45 Further, the fact that an Award has been satisfied is not a recognised
+ground of challenge under s 31 of the IAA, which provides an exhaustive list
+of grounds for refusal of enforcement: Aloe Vera at [46]; International
+Commercial Arbitration at para 9.52.
+
+Whether the Enforcement Order should be set aside because the claimant failed
+to provide full and frank disclosure of material facts
+
+46 It is trite that in an application without notice, the applicant must
+disclose to the court all matters within his knowledge which might be material
+even if they are prejudicial to the applicant’s claim: The “Vasiliy Golovnin”
+[2008] 4 SLR(R) 994 (“The “Vasiliy Golovnin””) at [83]. So long as the facts
+are matters that the court should take into consideration in deciding whether
+to grant the application, they are material: The “Vasiliy Golovnin” at [86].
+
+47 In its application without notice for permission to enforce the Award, the
+claimant did not disclose the defendant’s then pending application to the
+Fourth Branch, People’s Procuratorate for civil supervision of the decision by
+the Fourth Intermediate Court (see [9(c)] above) (the “Pending Application”).
+The question in this case was whether the Pending Application was a matter
+that the Court should take into consideration in deciding on the application
+without notice for permission to enforce the Award.
+
+48 The claimant submitted that the Pending Application was not material to its
+application because:
+
+(a) the process of applying without notice for permission to enforce the Award
+was a formalistic and mechanistic one: Aloe Vera at [39]–[42];
+
+(b) the Pending Application was not a ground for refusing enforcement of the
+Award under s 31 of the IAA;
+
+(c) the question whether the proceedings for enforcement should be adjourned
+under s 31(5) of the IAA because of the Pending Application did not arise at
+the stage of the hearing of the application without notice; this question
+would arise only if the defendant subsequently applied for the adjournment;
+and
+
+(d) in any event, the Pending Application was not “an application for the
+setting aside or for the suspension” of the Award within the scope of s 31(5)
+of the IAA; even if it was successful, it would not have resulted in the Award
+being set aside or suspended; instead, it would have led only to the Fourth
+Intermediate Court re-hearing the application to set aside the Award.
+
+49 The propositions in [48(a)] and [48(b)] above are not controversial.
+However, they did not assist the claimant. The holding in Aloe Vera does not
+detract from the claimant’s duty to give full and frank disclosure of the
+relevant facts: AUF v AUG and other matters [2016] 1 SLR 859 (“AUF”) at [163].
+In AUF, the High Court also held (at [165]) that a pending application to set
+aside an award and appeal on questions of law were facts that were material in
+deciding on an application without notice to enforce the award. I respectfully
+agreed. The applicable statute in AUF was the Arbitration Act (Cap 10, 1985
+Rev Ed), not the IAA. Nevertheless, the principle in AUF is equally applicable
+under the IAA.
+
+50 The Pending Application was also relevant to s 31(5) of the IAA, which
+states as follows:
+
+(5) Where, in any proceedings in which the enforcement of a foreign award is
+sought by virtue of this Part, the court is satisfied that an application for
+the setting aside or for the suspension of the award has been made to a
+competent authority of the country in which, or under which, the award was
+made, the court may ––
+
+(a) if the court considers it proper to do so, adjourn the proceedings or (as
+the case may be) so much of the proceedings as relates to the award; and
+
+(b) on the application of the party seeking to enforce the award, order the
+other party to give suitable security.
+
+51 I disagreed with the claimant’s proposition (in [48(c)] above) that s 31(5)
+did not apply at the stage of the hearing of the application without notice.
+The language in s 31(5) of the IAA is broad enough for it to apply at the
+stage when the court is considering an application without notice for
+permission to enforce an award. It is also logical that the decision to
+adjourn the proceedings (if warranted) should be made before permission to
+enforce the award is granted. After all, if the award should be set aside,
+there would be no award to enforce (see PT First Media at [77]).
+
+52 A consideration of s 31(5) of the IAA would require a hearing with notice.
+There would be no reason to adjourn the enforcement proceedings if the pending
+application is clearly without merit. In addition, s 31(5) contemplates the
+possibility that the adjournment of the enforcement proceedings may be
+conditioned upon “suitable security” being given by the defendant. In either
+case, the defendant ought to be heard. The court has the power to direct that
+the application without notice be converted into a hearing with notice.
+
+53 The claimant relied on CKR and another v CKT and another [2021] SGHCR 4. In
+that case, the Assistant Registrar expressed the view (at [30]) that a pending
+application to set aside an arbitral award was “not an issue to be determined
+at the first ex parte stage in deciding whether leave to enforce an award
+should be granted”. I noted that the Assistant Registrar was not dealing with
+s 31(5) of the IAA and AUF did not appear to have been brought to her
+attention. In any event, in my view, s 31(5) of the IAA is also relevant at
+the stage of the hearing without notice. Therefore, facts that are material to
+a consideration of s 31(5) of the IAA are also material to an application
+without notice for permission to enforce an award.
+
+54 As for the claimant’s submission in [48(d)] above, it was correct that,
+technically, the Pending Application was not an application to set aside or
+suspend the Award but an application to review the decision of the Fourth
+Intermediate Court. However, if the Pending Application succeeded, it would
+have required the Fourth Intermediate Court to re-hear the defendant’s
+application to set aside the Award. In my view, the Pending Application was in
+substance an application that fell within the scope of s 31(5) of the IAA.
+
+55 In the circumstances, in my view, the claimant breached its duty to make
+full and frank disclosure of material facts because it failed to disclose the
+Pending Application in its application without notice.
+
+56 However, despite a finding that the applicant has failed to make full and
+frank disclosure, the court still retains an overriding discretion not to set
+aside the court order granted without notice: The “Vasiliy Golovnin” at [108].
+Whether the court would exercise such discretion “depends on factors such as
+the particular relief sought, how serious the material non-disclosure is or
+how important the undisclosed facts are, and the overall merits of the
+plaintiff’s case”: Bahtera Offshore (M) Sdn Bhd v Sim Kok Beng [2009] 4 SLR
+365 at [26].
+
+57 In AUF, the applications to set aside the award and for leave to appeal
+failed. Consequently, the High Court concluded that the failure to disclose
+these applications was “technical and inconsequential” and declined to set
+aside the enforcement order (at [166]).
+
+58 Even if the court sets aside the order granted without notice, it retains a
+discretion to re-grant the court order if it is just to do so: Unión Fenosa
+Gas SA v Arab Republic of Egypt [2020] EWHC 1723 (Comm) at [110]. In Lin Chien
+Hsiung v Lin Hsiu-Fen [2022] HKCFI 1270, the High Court of Hong Kong
+discharged an ex parte order for the enforcement of an arbitral award on the
+ground of failure to make full and frank disclosure of a pending setting aside
+application, which was similarly dismissed before the High Court delivered its
+decision. The High Court went on to re-grant the enforcement order because
+there were no grounds to refuse enforcement in Hong Kong (at [53]). The High
+Court of Hong Kong was of the view that the discretion to re-grant the order
+was “indisputable” (at [24]).
+
+59 In the present case, by the time I heard SUM 4435, the Fourth Branch,
+People’s Procuratorate had rejected the defendant’s application for civil
+supervision. In the circumstances, the claimant’s failure to disclose the
+Pending Application was rendered inconsequential. There was no reason why the
+Award should not be enforced. I was also of the view that there was no
+necessity to set aside the Enforcement Order and re-grant the order. It was
+sufficient to penalise the claimant for its breach of its duty of full and
+frank disclosure by denying it costs in SUM 4435 despite SUM 4435 being
+dismissed. Accordingly, I dismissed SUM 4435 and ordered each party to bear
+its own costs.
+
+Conclusion
+
+60 For the reasons above,
+
+(a) I dismissed RA 23 and ordered the defendant to pay costs fixed at $1,500,
+including disbursements; and
+
+(b) I dismissed SUM 4435 and ordered each party to pay its own costs.
+
+Chua Lee Ming  
+Judge of the High Court|  
+---|---  
+  
+Melvin See Hsien Huei, Alexander Kamsany Lee and Zheng Yangyou (Dentons Rodyk
+& Davidson LLP) for the claimant;
+
+Chang Qi-Yang, Tan Ee Hsien and Tsin Jenny (WongPartnership LLP) for the
+defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 2: 05 Apr 2023 (12:26 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

@@ -1,0 +1,2677 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 304
+
+Originating Summons No 828 of 2021
+
+In the matter of Sections 254, 327 and 411 of the Companies Act (Cap 50)  
+---  
+  
+And
+
+In the matter of Kyen Resources Pte Ltd  
+(in liquidation)  
+---  
+  
+Between
+
+| Feima International (Hongkong) Limited (in liquidation)  
+---|---  
+  
+… Plaintiff
+
+And
+
+(1)| Kyen Resources Pte Ltd (in liquidation)  
+---|---  
+(2)| Chan Kheng Tek(in his capacity as a joint and several liquidators of Kyen
+Resources Pte Ltd (in liquidation)  
+(3)| Goh Thien Phong(in his capacity as a joint and several liquidator of Kyen
+Resources Pte Ltd (in liquidation)  
+  
+… Defendants
+
+Judgment
+
+[Insolvency Law — Winding up — Liquidator]
+
+[Evidence — Proof of evidence — Proof of debt owed by related company]
+
+[Debt and Recovery — Right of set-off — Insolvency set-off]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Feima International (Hongkong) Ltd (in liquidation)
+
+  
+v
+
+  
+
+Kyen Resources Pte Ltd (in liquidation) and others
+
+[2022] SGHC 304
+
+General Division of the High Court — Originating Summons No 828 of 2021  
+Goh Yihan JC  
+6 October 2022
+
+5 December 2022 Judgment reserved.
+
+Goh Yihan JC:
+
+1 The plaintiff is Feima International (Hongkong) Limited (in liquidation)
+(“Feima”). This is Feima’s application, pursuant to r 93 of the Companies
+(Winding Up) Rules (Cap 50, R 1, 2006 Ed) (“the Rules”), for the following
+orders: 1
+
+##### Foot Note 1
+
+×
+
+HC/OS 828/2021 dated 13 August 2021.
+
+(a) The decision of the second and/or third defendants, in each of their
+capacities as the joint and several liquidators of Kyen Resources Pte Ltd (in
+liquidation) (“Kyen”) (which is the first defendant), to reject Feima’s proof
+of debt dated 2 September 2020 to the extent of USD 49,355,996.30 (“the Proof
+of Debt”) be reversed and/or varied;
+
+(b) The Proof of Debt be admitted in full, or such part thereof as the court
+determines, in the liquidation of Kyen;
+
+(c) The costs of the proceedings be provided for; and
+
+(d) Such further and/or other orders as the court deems fit.
+
+2 As is evident from the prayers, the present application arises out of the
+second and third defendants’ (collectively, “the Kyen Liquidators”) rejection
+of the Proof of Debt for the sum of USD 49,355,996.30. This aggregate sum is
+comprised of (a) inter-company payments allegedly made by Feima on Kyen’s
+behalf amounting to RMB 124,145,239.85 and USD 5,182,755.32 less the sum of
+HKD 12,957.94 (collectively, “the Intercompany Claims”), and (b) the sum of
+USD 25,824,511.08, which appeared to be for the sale and purchase of goods
+between Kyen and Feima (the “Purchase Debts”). 2
+
+##### Foot Note 2
+
+×
+
+Defendants’ Written Submissions dated 29 September 2022 (“DWS”) at [3.4.1];
+Plaintiff’s Written Submissions dated 29 September 2022 (“PWS”) at [4]; Second
+Affidavit of Chan Kheng Tan dated 25 October 2021 (“2 CKT”) at [3.2.1].
+
+Despite praying for the full amount to be restored, Feima has clarified that
+it does not seek to reverse the Kyen Liquidators’ decision in relation to USD
+16,818,150.82 of the Intercompany Claims that have been assigned under a deed
+of assignment (“Deed of Assignment”). Feima is content for this sum to remain
+rejected for the purposes of the Proof of Debt. 3
+
+##### Foot Note 3
+
+×
+
+PWS at [3].
+
+As such, the remaining amount in contention that was claimed by Feima in its
+Proof of Debt was USD 32,079,540.97. This remaining figure of USD
+32,079,540.97 is made up of the following sums: 4
+
+##### Foot Note 4
+
+×
+
+Letter from plaintiff’s counsel dated 6 October 2022 at [6].
+
+(a) USD 9,006,360.26 due from Kyen to Feima as a result of goods sold by Feima
+to Kyen (being the USD 25,824,511.08 sum less the USD 16,818,150.82 debt
+assigned).
+
+(b) RMB 124,145,239.85 (or USD 17,890,425.39 based on the exchange rate of
+6.9392 RMB/USD as at 6 August 2019) due from Kyen to Feima as a result of
+payments made by Feima to or on behalf of Kyen.
+
+(c) USD 5,182,755.32 due from Kyen to Feima as a result of payments made by
+Feima to Kyen or on Kyen’s behalf.
+
+3 For completeness, there was also a sum of HKD 12,957.94 (or USD 1,652.04
+based on the exchange rate of 7.8436 HKD/USD as at 6 August 2019) that was due
+from Feima to Kyen as a result of amounts paid by Kyen on behalf of Feima
+(instead of an amount being owed by Kyen to Feima). As I will mention below
+(at [118]), I do not deal with this sum due from Feima to Kyen as this would
+not affect the amount claimed by Feima in its Proof of Debt. I should note
+that the sum of USD 32,079,540.97 is a different figure from what was quoted
+in the plaintiff’s letter dated 6 October 2022 (which was USD 32,537,845.48).
+This is despite the fact that the same figures were being added up from
+[2(a)]–[2(c)], excluding the sum of HDK 12,957.94, which would not be
+significant relative to the remaining sum. It appears to me that the plaintiff
+has added the figures wrongly in its above-mentioned letter. I will proceed
+with the remaining sum of USD 32,079,540.97 in this judgment but parties are
+at liberty to write in for clarification if needed.
+
+Background facts
+
+The parties
+
+4 By way of background, Kyen is a Singapore company in liquidation. The second
+and third defendants are the joint and several liquidators of Kyen. 5
+
+##### Foot Note 5
+
+×
+
+First Affidavit of Chan Kheng Tek dated 19 August 2021 (“1 CKT”) at [1.1.1].
+
+Before liquidation, Kyen was primarily involved in the trading of commodities
+and foreign currency derivative instruments. 6
+
+##### Foot Note 6
+
+×
+
+PWS at [2].
+
+5 Feima is the immediate holding company of Kyen. Feima owns 86% of Kyen’s
+shares. 7
+
+##### Foot Note 7
+
+×
+
+2 CKT at [3.1.2].
+
+In turn, Feima is a wholly-owned subsidiary of Shenzhen Feima International
+Supply Chain Co Ltd (“SZFM”). Collectively, Kyen, SZFM and Feima are part of a
+network of companies. 8
+
+##### Foot Note 8
+
+×
+
+2 CKT at [3.1.3].
+
+As such, Kyen shared common directors with other companies in the same
+network. These common directors included Mr Huang Zhuangmian, Mr Zheng
+Jianjiang, Ms Wang Limei, and Mr Chen Xi (“Mr Chen”). 9
+
+##### Foot Note 9
+
+×
+
+2 CKT at [3.1.5].
+
+As a network of related companies, Kyen’s trading and finance operations are
+closely coordinated with the other entities including SZFM and Feima. 10
+
+##### Foot Note 10
+
+×
+
+2 CKT at [3.1.3].
+
+6 The defendants made detailed submissions about Feima’s control over Kyen’s
+operations. In particular, the defendants say that, first, Feima entered into
+a management and administrative services agreement with Kyen (“Management and
+Administrative Services Agreement”) 11
+
+##### Foot Note 11
+
+×
+
+2 CKT at pp 104–116.
+
+, under which Feima provided Kyen with several corporate services such as: (a)
+making financial and trading arrangements on Kyen’s behalf, (b) operating the
+Kyen bank accounts, and (c) supervising the sale and purchase of assets on
+Kyen’s behalf. 12
+
+##### Foot Note 12
+
+×
+
+DWS at [3.2.2]
+
+Second, the defendants also say that, in line with the close coordination of
+the group’s trading and finance operations, Feima’s directors and management
+were closely involved in Kyen’s finance operations. 13
+
+##### Foot Note 13
+
+×
+
+DWS at [3.2.3].
+
+I shall refer to some of these submissions below.
+
+7 In addition, the defendants submit that the Kyen Liquidators’ identified
+several large transactions under which payments in the aggregate amount of USD
+159.3m were made by Kyen to several third parties (“the Third Party
+Transactions”) during their investigation into Kyen’s affairs. 14
+
+##### Foot Note 14
+
+×
+
+DWS at [3.3.1].
+
+The Kyen Liquidators have been unable to account for and reconcile the Third
+Party Transactions. In particular, they were unable to identify any
+consideration received by Kyen for each of the Third Party Transactions. 15
+
+##### Foot Note 15
+
+×
+
+DWS at [3.3.2].
+
+They also say that they were unable to find evidence that these transactions
+were in discharge of any genuine pre-existing debt owned by Kyen to the
+respective third parties. They further allege that Feima knew of and/or had a
+pre-existing relationship with Infinite Future Limited (“IFL”), to which Kyen
+had paid USD 18,785,000. IFL later paid out these amounts to Feima’s director,
+Mr Yan Xiaoyang (“Mr Yan”) and also to Mr Chen (a common director of Kyen and
+Feima, see above at [5]). 16
+
+##### Foot Note 16
+
+×
+
+DWS at [3.3.1].
+
+I shall also refer to some of these submissions in greater detail later on.
+
+Events leading to rejection of the Proof of Debt
+
+8 I come now to the Kyen Liquidators’ rejection of the Proof of Debt. On 2
+September 2020, the Feima Liquidators submitted the Proof of Debt for the sum
+of USD 49,355,996.30 with the Kyen Liquidators. The supporting documents for
+the Proof of Debt included the following:
+
+(a) Kyen’s own audited financial statements showing that USD 64,696,911 (which
+was equivalent to HKD 505,727,215) was payable by Kyen to Feima as at 31
+December 2017. 17
+
+##### Foot Note 17
+
+×
+
+First Affidavit of Choi Tze Kit Sammy dated 13 August 2021 (“1 CTKS”) at
+[12(1)]; PWS at [4(1)].
+
+(b) Feima’s audited financial statements showing that HKD 505,727,215 and HKD
+385,549,890 were payable by Kyen to Feima as at 31 December 2017 and 31
+December 2018, respectively. 18
+
+##### Foot Note 18
+
+×
+
+1 CTKS at [12(2)]; PWS at [4(2)].
+
+(c) An extract of the statement of affairs filed by one of the Kyen directors
+which states that Feima has an unsecured claim of USD 49,355,996.30 against
+Kyen. 19
+
+##### Foot Note 19
+
+×
+
+1 CTKS at [12(3)]; PWS at [4(3)].
+
+(d) Feima’s detailed ledger, including details showing how the balance of HKD
+505,727,215 that was payable by Kyen as at 31 December 2017 was gradually
+reduced by a series of about 133 separate transactions to HKD 384,549,890 by
+31 December 2018. 20
+
+##### Foot Note 20
+
+×
+
+1 CTKS at [12(4)]; PWS at [4(4)].
+
+9 On 8 October 2020, in response to the supporting documents provided, the
+Kyen Liquidators replied to state that: 21
+
+##### Foot Note 21
+
+×
+
+1 CTKS at [13].
+
+…It is insufficient for Feima International (Hongkong) Limited (In
+Liquidation) (“Feima HK”) to rely merely on the Statement of Affairs of Kyen
+as proof of the debt that has been incurred. This is not least because the
+Feima HK’s accounts do not reflect the assignment of debt to Shanghai Pudong
+Development Bank pursuant to Deed of Assignment dated 25 Oct 2018 for
+USD16.8m. We are not otherwise able to reconcile the amount claimed with Kyens
+internal records.
+
+We therefore require the contemporaneous documents underlying debt in order to
+properly ascertain its genesis and legitimacy.
+
+In light of the above, please provide us the following documents:
+
+a) All of Feima HK’s audited accounts from the year in which Kyen’s debts to
+Feima HK were first accrued;
+
+b) Any and all underlying contemporaneous documents (i.e. all contracts, bills
+of lading, invoices etc.) to support Feima HK’s claim by 15 October 2020. …
+
+[italics in original; emphasis added in bold italics]
+
+10 In relation to the Deed of Assignment referred to in the extract above, and
+as I have mentioned above at [2], Feima has confirmed that it would no longer
+be claiming for USD 16,818,150.82 in respect of the debt assigned to Shanghai
+Pudong Development Bank (“SPDB”). Feima is not claiming for this amount
+because the Deed of Assignment remains in force, and Feima accepts that this
+would remain the case until it has been set aside by a court. In this regard,
+Feima has not been able to secure the necessary funding to apply to set aside
+the Deed of Assignment. What remains in contention for present purposes, as I
+alluded to above at [2], is therefore the sum of USD 32,079,540.97‬.
+Nonetheless, I will still refer to the sum of USD 49,355,996.30 in my
+narration of the facts since this was the sum in contention before the present
+application.
+
+11 On 22 October 2020, the Kyen Liquidators’ solicitors replied to say that
+there remains insufficient evidence for them to admit Feima’s claim of USD
+49,355,996.30 against Kyen. The solicitors requested that the Feima
+Liquidators provide the following information by 28 October 2020: 22
+
+##### Foot Note 22
+
+×
+
+1 CTKS at [15(3)].
+
+(a) Feima’s full audited accounts for the financial year ending 31 December
+2017 and 31 December 2018; and
+
+(b) any and all underlying contemporaneous documents that support Feima’s
+claims in its letter dated 16 September 2020.
+
+12 On 24 November 2020, Feima provided: 23
+
+##### Foot Note 23
+
+×
+
+1 CTKS at [18].
+
+(a) The relevant pages from Feima’s audited financial statements showing the
+amounts owing by Kyen as at 31 December 2017 and 31 December 2018.
+
+(b) Two detailed ledgers showing details of the balances that were owing from
+Kyen to Feima. Feima also provided contemporaneous documents of about 462
+pages, as further supporting documents for the transactions shown on the two
+ledgers.
+
+13 On 18 March 2021, the Kyen Liquidators’ solicitors wrote to Feima, SZFM,
+and Shanghai Yinjun Industry Co Ltd to raise the issue of the allegedly
+unexplained Third Party Transactions. 24
+
+##### Foot Note 24
+
+×
+
+1 CTKS at [26].
+
+The solicitors also requested Feima’s response to a list of questions. Feima’s
+solicitors in Hong Kong, Tung, Ng, Tse & Lam (“TNTL”), wrote back to request
+for, among other things, details of one of the transactions disputed, namely,
+payments by Kyen to Dynamic Commodity Limited of USD 119.4m from November 2017
+to December 2017. TNTL also stated that the Feima Liquidators were
+investigating the suspicious disposition of Feima’s properties and asked that
+details be provided of the corresponding sales by Kyen for the goods Kyen
+allegedly purchased from Feima from 1 January 2016 to the date of Kyen’s
+winding up order. 25
+
+##### Foot Note 25
+
+×
+
+1 CTKS at [28]–[29].
+
+14 The Kyen Liquidators’ solicitors have described TNTL’s response as being a
+reply with the very same queries that the Kyen Liquidators had asked of the
+Feima Liquidators. As such, on 12 May 2021, the Kyen Liquidators’ solicitors
+wrote to TNTL without providing any of the information requested and stated
+that the Feima Liquidators’ response only “serves to frustrate the
+Liquidators’ own efforts in investigating the suspicious disposition of Kyen’s
+property”. 26
+
+##### Foot Note 26
+
+×
+
+1 CTKS at p 631.
+
+Thereafter, the Kyen Liquidators’ solicitors concluded that “the [Kyen
+Liquidators’ will proceed as it deems fit, without any further reference to
+your clients, including but not limited to the adjudication of your client’s
+proof of debt”. 27
+
+##### Foot Note 27
+
+×
+
+1 CTKS at p 632.
+
+Reasons provided the Kyen Liquidators for the rejection of the Proof of Debt
+
+15 On 23 July 2021, by way of a Notice of Rejection of Proof of Debt, the Kyen
+Liquidators stated that the entirety of the Proof of Debt for the sum of USD
+49,355,996.30 had been rejected 28
+
+##### Foot Note 28
+
+×
+
+1 CTKS at [34].
+
+, on the basis of two alternative grounds:
+
+(a) First, the Kyen Liquidators asserted the following about the quantum of
+Kyen’s counterclaims against Feima’s claims: 29
+
+##### Foot Note 29
+
+×
+
+1 CTKS at [35].
+
+“The quantum of the Company’s counterclaims against you exceeds your Claim
+(the “Counterclaims”). Your Claim is therefore rejected in its entirety and
+you are a debtor of the Company. The Counterclaims are for losses suffered by
+the Company in certain transactions (“Transactions”) between the Company, on
+the one hand, and Infinite Future Limited (“IFL”), Richland International
+Company Limited (“RICL”) or Dynamic Commodity Limited (“DCL”), on the other,
+which have been caused and/or occasioned by you. The particulars of the
+Transactions and the relevant correspondence are enclosed hereto as Annex A to
+this Notice.”
+
+[italics and bold italics in original]
+
+(b) Second, the Kyen Liquidators rejected the claim up to the amount of USD
+44,900,112.83 for three reasons as set out in the enclosed spreadsheet,
+namely: 30
+
+##### Foot Note 30
+
+×
+
+1 CTKS at [38].
+
+(i) The Kyen Liquidators have not received sufficient supporting documents to
+support the claim for the amounts claimed by Feima.
+
+(ii) In respect of the 2017 management fees for the amount of USD 2,000,000
+(“the Management Fees Claim”) (this is part of the Intercompany Claims), that
+sum is rejected on the basis that Feima had breached the terms of the
+Management and Administrative Services Agreement.
+
+(iii) In respect of the claims totalling USD 16,818,150.82, these were the
+subject of the Deed of Assignment. As mentioned above at [2], Feima has
+confirmed that it is no longer pursuing any claim in relation to this sum.
+
+16 The Kyen Liquidators have provided further details of their reasons for
+rejection in the relevant affidavits filed for this application. As gleaned
+from the parties’ respective submissions for this application, these reasons
+may be summarised as such:
+
+(a) First, Kyen has a claim against Feima for dishonest assistance in the
+amount of USD 159.3m, arising from the following unexplained and suspicious
+payments which Kyen made to third parties (ie, the Third Party Transactions):
+31
+
+##### Foot Note 31
+
+×
+
+2 CKT at [4.1.2].
+
+(i) Payments in the aggregate of USD 18,785,000.00 that were made to IFL.
+
+(ii) Payment of the sum of USD 7,616,800.00 that was made to Richland
+International Company Limited.
+
+(iii) Payments in the aggregate of USD 13,506,390.27 that were made to Dynamic
+Commodity Ltd (“DCL”) (“DCL Payments”); and
+
+(iv) Payments in the aggregate of USD 119.4m that were made to DCL on the
+purported basis of a Sales Contract for the purchase and delivery of copper
+cathodes (“DCL Copper Payments”).
+
+(b) Second, Kyen has a claim against Feima for knowing receipt of funds in the
+sum of USD 42,382,430.66, representing monies received by Feima from DCL,
+which the Kyen Liquidators believe are traceable to the DCL Copper Payments.
+32
+
+##### Foot Note 32
+
+×
+
+2 CKT at [4.1.4].
+
+(c) Third, the Kyen Liquidators rejected the Proof of Debt on the basis that
+there has been insufficient evidence to support the debt claimed (save the
+Management Fees Claim which the Kyen Liquidators rejected on the basis that
+there has allegedly been a breach of the Management and Administrative
+Services Agreement). 33
+
+##### Foot Note 33
+
+×
+
+1 CTKS at [46].
+
+The relevant issues
+
+17 In my view, the following relevant issues arise in the present case.
+
+18 First, what is the applicable law to be applied in scrutinising the
+validity of the Kyen Liquidators’ rejection of the Proof of Debt?
+
+19 Second, with the applicable law in mind, we come to the assessment of the
+Kyen Liquidators’ reasons for rejection of the Proof of Debt:
+
+(a) In relation to the Kyen Liquidators’ “primary ground” founded on the
+counterclaims, namely, the allegations of dishonest assistance and knowing
+receipt:
+
+(i) Are the Kyen Liquidators justified in accounting for the counterclaims in
+the adjudication of the Proof of Debt, rather than by way of formal legal
+proceedings?
+
+(ii) If the Kyen Liquidators are so justified, whether they have successfully
+proved a counterclaim founded on dishonest assistance?
+
+(iii) Again, if the Kyen Liquidators are so justified, whether they have
+successfully proved a counterclaim founded on knowing receipt?
+
+(b) In relation to the Kyen Liquidators’ “alternative grounds”, are any of
+these made out on the facts?
+
+20 I should say that if the Kyen Liquidators are not justified in accounting
+for the counterclaims in the adjudication of Feima’s proof, then I should not
+go further to consider the validity of its counterclaims in dishonest
+assistance and knowing receipt. More specifically, if I am of the view that
+the Kyen Liquidators should have pursued legal proceedings against Feima in
+respect of these counterclaims, then it will not be appropriate for me to
+express any view on the merits of these claims. As we shall see below, I did
+in fact conclude that the Kyen Liquidators are not justified in accounting for
+the counterclaims in the adjudication of the Proof of Debt as there were
+complex issues involved which cannot be easily resolved by simple arithmetic.
+
+The general approach in relation to an application under rule 93
+
+21 The general approach in relation to the present application is not really
+in dispute. To begin with, the present application is brought pursuant to rule
+93 of the Rules which states:
+
+Appeal by creditor
+
+93\. If a creditor or contributory is dissatisfied with the decision of the
+liquidator in respect of a proof, the Court may, on the application of the
+creditor or contributory, reverse or vary the decision; but subject to the
+power of the Court to extend the time, no application to reverse or vary the
+decision of the liquidator in a winding up by the Court rejecting a proof sent
+to him by a creditor, or person claiming to be a creditor, shall be
+entertained, unless notice of the application is given before the expiration
+of 21 days from the date of the service of the notice of rejection.
+
+[emphasis added]
+
+22 In this regard, the creditor bears the burden of proving the debt on a
+balance of probabilities. When assessing a proof of debt, the liquidator’s
+duty is to ensure that the assets of the company are only distributed to the
+creditors who have debts that were genuinely created and remain legally due
+(see the decision of the Court of Appeal in Fustar Chemicals Ltd (Hong Kong) v
+Liquidator of Fustar Chemicals Pte Ltd [2009] 4 SLR(R) 458 (“Fustar CA”) at
+[20]).
+
+23 In doing so, the liquidator must examine and investigate every proof of
+debt and the grounds of the debt (see rule 92 of the Rules). In this regard,
+the liquidator is not bound by the audited accounts but is entitled to go
+behind them to determine the veracity of the debt claimed (see the High Court
+decision of Blasco, Martinez Gemma v Ee Meng Yen Angela and another and
+another matter [2021] 3 SLR 1360 at [59]–[61]). Indeed, in Fustar CA, the
+Court of Appeal held as follows (at [13]):
+
+The established principles of law are not disputed in the present case. In the
+winding up of a solvent company, the unsecured assets of the company will
+ordinarily be applied pari passu in satisfaction of its liabilities (subject
+to any preferential payments) and the surplus distributed among its members.
+The duty to pay the company’s debts resides with the liquidator, who may
+exercise powers given to a liquidator in a winding up by the court as provided
+under s 305 Companies Act (Cap 50, 2006 Rev Ed). In a winding up, a creditor
+bears the burden of proving the debt on a balance of probabilities (see
+Westpac Banking Corporation v Totterdell [1997] 142 FLR 137 and The Trustee in
+Bankruptcy of Lo Siu Fai Louis v Toohey [2005] 4 HKC 51). The liquidator must
+assess every proof of debt lodged and may call for further evidence in support
+of the claim. In considering a proof, the liquidator is not bound by the
+audited accounts or audit confirmations entered into by the company, and is
+entitled to go behind them to determine the veracity of the debt claimed …
+
+24 With this general approach in mind, I turn to consider the validity of the
+Kyen Liquidators’ grounds for rejecting the Proof of Debt.
+
+Whether the Kyen Liquidators’ “primary ground” for rejection should be
+affirmed
+
+Overview
+
+25 In relation to the Kyen Liquidators’ “primary ground” for rejection of the
+Proof of Debt founded on the counterclaims of dishonest assistance and knowing
+receipt, the threshold issue is whether the Kyen Liquidators are justified in
+accounting for the counterclaims in dishonest assistance and knowing receipt
+in the adjudication of Feima’s proof, rather than by way of formal legal
+proceedings. For convenience, I shall term this as the “Threshold Issue”.
+
+26 In my view, the Kyen Liquidators’ “primary ground” for rejecting the Proof
+of Debt turns on this very point. For reasons that I will develop, I do not
+think that the Kyen Liquidators are entitled in accounting for the
+counterclaims in the adjudication of Feima’s proof. In my view, in the light
+of the substantive disputes of facts, the Kyen Liquidators should have
+properly commenced legal proceedings against Feima. As such, because of the
+conclusion I have reached, I will not address the parties’ arguments on the
+merits of the counterclaims, especially if the Kyen Liquidators do decide to
+pursue both counterclaims by way of legal proceedings.
+
+Whether the Kyen Liquidators are justified in accounting for the counterclaims
+in adjudication of the Proof of Debt
+
+The parties’ original submissions on the Threshold Issue
+
+27 I begin by canvassing the parties’ original submissions on the Threshold
+Issue. In their original submissions, the defendants attempted to justify the
+Kyen Liquidators’ decision to account for the counterclaims by rejecting the
+Proof of Debt. The defendants say that, in the exercise of their quasi-
+judicial function, the Kyen Liquidators are obliged to admit only “true
+liabilities” of Kyen. More specifically, the defendants submit that a
+liquidator is entitled to reject a liability which, though enforceable against
+the company, is not a “true liability of the company”. In support of this
+proposition, they cite the High Court of Australia decision in Tanning
+Research Laboratories v O’Brien [1990] 91 ALR 180 (“Tanning”), where Brennan
+and Dawson JJ held (at 184):
+
+The principles which determine enforceability of the liability to which a
+proof of debt relates are, in the main, the same as the principles which would
+be applied in an action brought directly against the company to enforce that
+liability. Those principles include the law relating to the barring of actions
+by time: see, for example, Motor Terms Co. Pty. Ltd. v. Liberty Insurance Ltd.
+(1967) 116 CLR 177. But this general rule is qualified. As the parties whose
+interests are affected by admission of a proof of debt are the general body of
+creditors and the contributories rather than the company in liquidation, there
+are some liabilities which would be enforceable against the company but which
+a liquidator is not bound to admit to proof of debt lest the interests of
+creditors and contributories may be unjustly affected. A liquidator may
+properly reject a proof of debt if the liability, though enforceable against
+the company, is not a true liability of the company but is founded merely on
+some act or omission on the part of the company which unjustly prejudices the
+interests of the creditors or contributories in the assets available for
+distribution. In this respect, there is no reason to distinguish between the
+position of a liquidator and that of a trustee in bankruptcy: see Ayerst v. C
+& K. (Construction) Ltd. (1976) AC 167.
+
+[emphasis added]
+
+28 According to the defendants, Brennan and Dawson JJ explained that a claim
+is not a “true liability of the company” if there are (at 185):
+
+Circumstances tending to show fraud or collusion or miscarriage of justice or
+that a compromise was not a fair and reasonable one, in the sense that even if
+not fraudulent it was foolish, absurd and improper, or resulted from an
+unequal position of the parties (see In re Hawkins; Ex parte Troup ((1895) 1
+QB 404, at p 409)) offer occasions for the exercise by the Court of Bankruptcy
+of its power to inquire into the consideration for the judgment.” It is not
+necessary in this case to determine the scope of this qualification. It
+suffices to note that it qualifies the principles governing the admission or
+rejection of a proof of debt by arming the liquidator with grounds for
+rejecting a proof of debt additional to any grounds available under the
+general law. For present purposes, the relevant consideration is that no
+liability which is unenforceable against the company by the general law can
+found a debt admissible to proof in a winding up.
+
+[emphasis added]
+
+I should note that the defendants have not accurately quoted this passage.
+This is because the first sentence in quotation is actually not from Tanning
+but from the earlier case of the High Court of Australia decision in Wren v
+Mahony (1972) 126 CLR 212 (“Wren”) at 223. In Wren, Barwick CJ had explained
+the grounds on which a court of bankruptcy will inquire into the validity of a
+judgment debt in the adjudication of a bankruptcy application, ie, to “go
+behind” any judgment on which the creditor relies on to ascertain whether the
+judgment was founded on a real debt. Had the defendants referred to this
+underlying case, it might have been clear that these passages in Tanning are
+not relevant in the present application, which is not concerned with whether I
+should question the validity of an existing judgment debt.
+
+29 Be that as it may, the defendants advance two justifications why the Kyen
+Liquidators are entitled to account for the counterclaims by rejecting the
+Proof of Debt.
+
+30 First, the defendants emphasise that the Kyen Liquidators are entitled to
+account for the counterclaims as they are exercising their quasi-judicial
+function to determine the “true liabilities” of Kyen. 34
+
+##### Foot Note 34
+
+×
+
+DWS at [5.3.4].
+
+In my view, this does not take the defendants very far. This amounts to
+nothing more than an assertion that the defendants are entitled to so account
+without providing any reason why, apart from the fact that they are the
+liquidators of Kyen.
+
+31 Further, if the Kyen Liquidators are suggesting that I should give
+deference to their decision because it was made in a quasi-judicial capacity,
+then that is a proposition I cannot accept. Indeed, it would not be legally
+accurate to assert that the role of the liquidator remains that of a quasi-
+judicial function, even on an appeal of the liquidator’s own decision. In this
+regard, I refer to the relevant portion of a seminal Australian textbook which
+elaborates on this point (see Michael Murray and Jason Harris, Keay’s
+Insolvency: Personal and Corporate Law and Practice (Thomson Reuters, 10th Ed,
+2018) at pp 602–603):
+
+Appeal against liquidator’s decision
+
+…
+
+If a creditor’s proof of debt is rejected by the liquidator the creditor may
+appeal by seeking court orders under IPSCA s 90-15 and, other than in
+exceptional circumstances, should not institute legal proceedings against the
+company. …
+
+On any appeal hearing, the courts apply the same rules to liquidators who are
+examining proofs of debt as those applied to trustees of bankrupt estates. In
+such a proceeding, a liquidator who defends their decision to reject a proof
+of debt is no longer acting in a quasi-judicial capacity, rather the
+liquidator takes the role of an adversary in the litigation. …
+
+[emphasis added]
+
+The key takeaway is that there should no longer be any emphasis placed on the
+quasi-judicial function of the liquidator once an appeal has been brought.
+This is because the liquidator no longer acts in that capacity when defending
+his own decision, and instead, he will take on “the role of an adversary in
+the litigation”. On an appeal, the views formed by the liquidator when he was
+acting quasi-judicially is not legally enforceable and no deference has to be
+given (see Andrew R Keay, McPherson & Keay’s Law of Company Liquidation (Sweet
+& Maxwell, 5th Ed, 2021) at para 12-067, citing the Australian decision of
+Tanning). Given this shift in perspective on an appeal, even if the liquidator
+was of the view that it was entitled to adjudge and conclude the company’s own
+claim or counterclaim against the creditor’s proof of debt, that can always be
+overridden by the supervising court as those views are non-binding. Thus, the
+repeated emphasis of the liquidator’s quasi-judicial role does not assist the
+defendants’ arguments. There is no special threshold to overcome when the
+court overrides the decision of the liquidator, even if the liquidator can be
+described as exercising a quasi-judicial function (see the High Court decision
+of MWA Capital Pte Ltd v Ivy Lee Realty Pte Ltd (in liquidation) [2017] SGHC
+216 at [44]–[45]).
+
+32 Second, the defendants say that Kyen’s counterclaims clearly arise from
+“[c]ircumstances tending to show fraud or collusion or miscarriage of
+justice”. 35
+
+##### Foot Note 35
+
+×
+
+DWS at [5.3.5].
+
+This is because, according to the defendants, the evidence shows that Feima
+had dishonestly assisted Kyen’s directors in procuring the Third Party
+Transactions, and that Feima was in knowing receipt of monies traceable to the
+DCL Copper Payments. Further, the defendants say that Feima’s involvement in
+the Third Party Transactions was suspicious because it also entered into a
+transactions with Kyen and IFL where the same amount of nickel cathodes were
+sold by Kyen to various entities and then sold back to Kyen. In other words,
+no commercial transaction took place. Finally, the defendants say that their
+concerns about these Third Party Transactions were not adequately addressed by
+Feima’s Liquidators. Accordingly, it is in Kyen’s and its creditors’ interests
+that the Kyen Liquidators account for these counterclaims in the adjudication
+of the Proof of Debt, rather than by any formal legal proceedings.
+
+33 In my view, the defendants’ second justification likewise does not take
+them very far. In the first place, Tanning does not assist them as the cited
+passage from Brennan JJ and Dawson JJ does not relate at all to whether and
+how the Kyen Liquidators are entitled to rely on the counterclaims founded on
+dishonest assistance and knowing receipt. The defendants’ argument that the
+liquidator’s duty to admit only “true liabilities” of the company therefore
+does not assist them in the situation when the Kyen Liquidators are
+adjudicating on Kyen’s own counterclaim.
+
+34 Furthermore, even if I were to accept that Tanning is relevant, then, as
+Feima points out, where the liquidator seeks to set-off a creditor’s debt by
+way of a counterclaim, the burden is on the liquidator to prove on a balance
+of probabilities its counterclaim (including the quantum of the counterclaim)
+(see, eg, Castleplex Pty Ltd (in liq), Re; Labaj v Hambleton [2010] QCA 59
+(“Labaj”) at [29] and Re JPF Clarke (Construction) Ltd (in a company voluntary
+arrangement) Maze Inns Ltd and others v Hunt and others [2019] Lexis Citation
+379 at [70]–[73], [110], [128]). Thus, the defendants cannot attempt to
+circumvent their burden of proving dishonest assistance and knowing receipt by
+saying that their claims of dishonest assistance and knowing receipt are
+“[c]ircumstances tending to show fraud or collusion or miscarriage of justice”
+and that the Kyen Liquidators are therefore justified in simply accounting for
+these counterclaims against the Proof of Debt, without commencing legal
+proceedings. This, in my view, cannot be the case. The defendants retain the
+burden of proof in proving their counterclaims.
+
+The parties’ additional submissions on the Threshold Issue
+
+35 Because I was concerned that the parties had not adequately appreciated the
+importance of the Threshold Issue in their original written submissions, I
+wrote to the parties a week before the oral hearing to invite them to address
+me on the following questions:
+
+(a) Are the Kyen Liquidators justified in accounting for the counterclaims (in
+dishonest assistance and knowing receipt) in the adjudication of the Proof of
+Debt, rather than by way of formal legal proceedings?
+
+(b) In particular, would the Kyen Liquidators be going beyond the adjudication
+of proof of debts by sitting as a judge of a matter (ie, the validity of its
+own claims) that it has raised on its own accord?
+
+(c) Relatedly, is it incumbent on the Kyen Liquidators to show that they had
+made an attempt to pursue the counterclaims (see Labaj at [29])?
+
+36 Both parties responded with additional submissions promptly, for which I am
+grateful.
+
+(1) Feima’s submissions
+
+37 Feima’s primary submission is that the procedures for adjudication of proof
+of debts only operate to resolve claims against Kyen. These procedures
+therefore have no application to cross-claims by Kyen. In support of what it
+calls the “Cross-claims Rule”, Feima cites the recent High Court decision of
+Lim Siew Soo v Sembawang Engineers and Constructors Pte Ltd (in compulsory
+liquidation) (Metax Eco Solutions Pte Ltd, intervener) [2021] 4 SLR 556 (“Lim
+Siew Soo”). 36
+
+##### Foot Note 36
+
+×
+
+Plaintiff’s Further Written Submissions dated 4 October 2022 (“PFWS”) at [5].
+
+In that case, Sembawang Engineers and Constructors Pte Ltd (“Sembawang”)
+commenced suit against Metax Eco Solutions Pte Ltd (“Metax”). Before judgment
+was given in the suit, Sembawang went into insolvent liquidation. Sembawang’s
+liquidator applied to court for directions on two questions of law concerning
+the application of the estate costs rule. In this context, Vinodh Coomaraswamy
+J said this (at [11]):
+
+The Company commenced suit against the defendant at the end of 2012 claiming
+about $3.6m in damages. The defendant rejected the claim and counterclaimed
+about $2.1m from the Company. The fact that the Company is the plaintiff in
+the suit is significant. It means that the parties’ dispute cannot be resolved
+simply by the liquidator adjudicating a proof of debt. The adjudication
+procedure operates only to resolve claims against the Company. It has no
+application to claims by the Company. The fact that the defendant has a
+counterclaim in the suit is also significant. It means that each party is
+simultaneously in the position of a plaintiff and a defendant in the suit.
+
+[emphasis in original]
+
+38 Feima therefore seizes on the learned judge’s statement that “[t]he
+adjudication procedure operations only to resolve claims against the Company”
+[emphasis in original] to argue that the Kyen Liquidators have no right to
+account for their counterclaims in dishonest assistance and knowing receipt by
+adjudication of the Proof of Debt.
+
+39 However, for completeness, Feima highlights one exception to the Cross-
+claim Rule, which is that the defendants are entitled in certain circumstances
+to raise the defence of insolvency set-off (“Insolvency Set-off”), which is
+provided for by s 88(1) of the Bankruptcy Act (Cap 20, 2009 Rev Ed) (“BA”),
+and made applicable to liquidation via s 327(2) of the Companies Act (Cap 50,
+2006 Rev Ed) (“CA”). 37
+
+##### Foot Note 37
+
+×
+
+PFWS at [7].
+
+These provisions continue to be relevant for the present application due to
+the savings provisions in the Insolvency, Restructuring and Dissolution Act
+2018 (2020 Rev Ed) (“IRDA”) (see ss 525 and 526). For completeness, I
+reproduce the relevant provisions from the BA and the CA below:
+
+BA
+
+Mutual credit and set-off
+
+88.—(1) Where there have been any mutual credits, mutual debts or other mutual
+dealings between a bankrupt and any creditor, the debts and liabilities to
+which each party is or may become subject as a result of such mutual credits,
+debts or dealings shall be set-off against each other and only the balance
+shall be a debt provable in bankruptcy.
+
+CA
+
+Proof of debts
+
+327.—(2) Subject to section 328, in the winding up of an insolvent company the
+same rules shall prevail and be observed with regard to the respective rights
+of secured and unsecured creditors and debts provable and the valuation of
+annuities and future and contingent liabilities as are in force for the time
+being under the law relating to bankruptcy in relation to the estates of
+bankrupt persons, and all persons, who in any such case would be entitled to
+prove for and receive dividends out of the assets of the company, may come in
+under the winding up and make such claims against the company as they
+respectively are entitled to by virtue of this section.
+
+40 Feima submits that Insolvency Set-off does not apply in the present case
+for three reasons. 38
+
+##### Foot Note 38
+
+×
+
+PFWS at [8]–[17].
+
+First, the defendants have never raised a set-off but have only tried to argue
+for cross-claims for dishonest assistance and knowing receipt. Second,
+Insolvency Set-off does not apply to claims arising from the Third Party
+Transactions. This is because, on the defendants’ characterisation, those
+transactions are payments of cash out of Kyen for no consideration and would
+constitute a misappropriation of company assets that do not constitute a
+“mutual dealing” within the meaning of s 88(1) of the BA. Third, Insolvency
+Set-off does not apply to claims which give rise to insolvency clawback.
+Again, if the Third Party Transactions are payments of cash out of Kyen with
+no consideration, they would constitute undervalue transactions and/or unfair
+preferences, for which no insolvency set-off should be available.
+
+41 Feima further submitted that it is incumbent on the Kyen Liquidators to
+show that they had tried to pursue the counterclaims. 39
+
+##### Foot Note 39
+
+×
+
+PFWS at [18]–[20].
+
+In this regard, Feima says that even if the alleged counterclaims can be
+considered, the defendants would need to prove the counterclaims to this
+court’s satisfaction. As such, the fact that the defendants have taken no
+steps to pursue their supposed counterclaim is a relevant factor against them
+having satisfied this onus.
+
+(2) The defendants’ submissions
+
+42 The defendants’ primary submission is that the Kyen Liquidators are
+justified in accounting for the counterclaims in adjudication because it is
+both their duty and within their power to do so. 40
+
+##### Foot Note 40
+
+×
+
+Defendants’ Supplemental Written Submissions dated 4 October 2022 (“DSWS”) at
+[2.1.2].
+
+The defendants draw on the High Court’s explanation of the quasi-judicial role
+of a liquidator in Fustar Chemicals Ltd v Ong Soo Hwa (liquidator of Fustar
+Chemicals Pte Ltd) [2009] 1 SLR(R) 844 (at [26]) as follows:
+
+… the quasi-judicial role of a liquidator whose approach to the entire process
+of proof (admission or rejection), just like that of a judicial manager’s
+must, as explained by Lai Kew Chai J in ERIPIMA SA v Chee Yoh Chuang [1997] 1
+SLR(R) 923 at [4], “be entirely as if he is sitting in judgment like a
+judicial officer. As his role is quasi-judicial, he cannot act unjudicially,
+capriciously or arbitrarily” …
+
+43 Accordingly, the defendants effectively repeat their original submissions
+in the following manner: 41
+
+##### Foot Note 41
+
+×
+
+DSWS at [2.1.4],
+
+(a) First, in adjudication, the liquidator’s duty is to admit only “true
+liabilities of the company” and to “ensure that assets of the insolvent
+company are distributed amongst those who are justly, legally and properly
+creditors”. Pursuant to this duty, the Kyen Liquidators are entitled to go
+behind a judgment or estoppel “in circumstances tending to show fraud or
+collusion” (citing Fustar CA at [13]–[14]).
+
+(b) Second, the Kyen Liquidator’s power to go behind a judgment or estoppel in
+these circumstances is analogous to asserting Kyen’s cross-claim(s) in respect
+of the putative creditor’s fraud or collusion.
+
+(c) Third, Kyen’s cross-claims arise from circumstances tending to show fraud
+or collusion or miscarriage of justice.
+
+Furthermore, the defendants submit that the Kyen Liquidators are not going
+beyond their role in adjudicating the Proof of Debt by accounting for its
+cross-claims. The defendants submit that the Kyen Liquidators’ quasi-judicial
+role includes the discretion to account for Kyen’s claims in adjudication,
+including by way of set-off. In this regard, the defendants cite the English
+decision of Re National Wholemeal Bread and Biscuit Co [1892] 2 Ch 457 (“Re
+National Wholemeal Bread”), in which the creditor submitted that the
+liquidator did not have the power to assert the company’s own claim by way of
+set-off, but Vaughan Williams J rejected this argument and held that the
+liquidator can consider any set-off asserted (at 460). Accordingly, the
+defendants submit that the Kyen Liquidators must be in a position to assert,
+during their adjudication of the proofs, Kyen’s counterclaims. 42
+
+##### Foot Note 42
+
+×
+
+DSWS at [3.1.4].
+
+44 Indeed, Mr David Chan (“Mr Chan”), who appeared on behalf of the
+defendants, further submitted before me that since Tanning allowed the
+liquidators to go behind a judgment debt on the basis of fraud and collusion,
+that must surely mean that the Kyen Liquidations are equally justified in
+determining that there was either dishonest assistance, knowing receipt, or
+both, and assert this by way of a counterclaim against Feima.
+
+45 More broadly, the defendants suggest that a strict requirement that a
+liquidator must prosecute a counterclaim by way of formal legal proceedings is
+artificial and not supported by the authorities. Indeed, they say that this
+cannot be in the best interests of the general body of creditors of an
+insolvent company, as in the present case. Further, they argue that Labaj does
+not impose a requirement that the Kyen Liquidators must have tried to pursue
+the counterclaims in order to account for the same in adjudication. For
+convenience, I set out the relevant paragraph of Labaj (at [29]):
+
+Some reference was made to the pleadings in the District Court action referred
+to above. In its defence in that action, the company had claimed a set off.
+That set off was based on the same facts as were relied upon to support a
+counterclaim. The liquidators have made no attempt to pursue the counterclaim
+and there was no evidence at first instance in the present proceedings to
+support it. The onus of proving a set off is on the party alleging it. Those
+allegations therefore cannot assist the liquidators in the present
+proceedings.
+
+46 Finally, the defendants argue that the circumstances of the present case
+point towards the Kyen Liquidators rightly deciding not to pursue legal
+proceedings against Feima. First of all, Feima was already in compulsory
+liquidation when the Proof of Debt was filed. The Kyen Liquidators therefore
+decided that it was not commercially viable to commence proceedings against
+Feima given the prohibitive costs involved and the dim prospects of recovery.
+Second, given the wholesale denial by Feima Liquidators of Kyen’s counterclaim
+in this case, it is apparent that any legal proceedings between the parties
+would have been complex and costly. As such, the defendants say that it is in
+the best interests of Kyen’s general body of creditors not to formally
+prosecute the counterclaims (and presumably, assert the counterclaims by way
+of accounting for the counterclaims in the adjudication of the Proof of Debt).
+Moreover, in light of Feima Liquidators’ wholesale denial of Kyen’s
+counterclaims, filing a proof of debt in Feima’s liquidation for the same
+counterclaims would be an exercise in futility.
+
+My decision: the Kyen Liquidators are not entitled to account for the
+counterclaims in their adjudication of the Proof of Debt
+
+(1) The relevant issues
+
+47 I am of the view that the parties’ additional submissions raise the
+following relevant issues:
+
+(a) First, whether the Kyen Liquidators’ quasi-judicial role entitle them to
+account for the counterclaims in adjudication.
+
+(b) Second, and relatedly, whether the Cross-claim Rule applies in the present
+case.
+
+(c) Third, whether Insolvency Set-off applies in the present case.
+
+(2) Whether the Kyen Liquidators’ quasi-judicial role entitle them to account
+for the counterclaims in adjudication
+
+48 I turn then to the first issue. It is trite law that when the liquidator
+ascertains and discharges the liabilities of the insolvent company, he or she
+acts in a quasi-judicial capacity. The Court of Appeal in Fustar CA examined
+the duties of a liquidator in assessing a proof of debt extensively. Most
+pertinently, the court held (at [13]) that “[t]he liquidator must assess every
+proof of debt lodged and may call for further evidence in support of the
+claim”. And in doing so, as Etherton J explained in Re Menastar Finance Ltd
+(in liq), Menastar Ltd v Simon [2003] BCLC 338 at [44] that:
+
+[t]he power of a liquidator is, in this respect no different from that of the
+court itself, since the liquidator, in deciding whether to accept or reject a
+creditor’s proof in whole or in part, is acting in a quasi judicial capacity…
+His statutory duty is to ensure that the company’s property is collected in
+and applied in satisfaction of its liabilities pari passu among its proper
+creditors.
+
+49 Likewise, as Lai Kew Chai J put it in the High Court decision of ERPIMA SA
+v Chee Yoh Chuang and another [1997] 1 SLR(R) 923 (“ERPIMA SA”) at [4], the
+liquidator’s quasi-judicial role is “as if he is sitting in judgment like a
+judicial officer. As his role is quasi-judicial, he cannot act unjudicially,
+capriciously or arbitrarily”.
+
+50 The rationale for the liquidator’s quasi-judicial role is founded on the
+efficiency of the liquidation process. Necessarily, if the liquidator was made
+to resolve every point of dispute in court, this may not be economical and
+proportionate considering the costs and time involved – especially for an
+already insolvent company. The liquidator’s quasi-judicial role can thus be
+said to entitle them to oversee simple disputes of facts in order to ensure a
+practical and efficient conclusion of the liquidation process. However, this
+is always subject to the court’s overarching supervision to oversee the
+process and reject what the liquidator has done if it was inappropriate. For
+example, albeit in a different context, under s 218(4) of the IRDA, the
+liquidator has the wide discretion to decide on the estimated value of a debt
+which “does not bear a certain value” (by reason of it being subject to any
+contingency or for other reasons), but s 218(5) then goes on to provide that
+any person aggrieved by the estimate made by the liquidator may then appeal
+this value to the court.
+
+51 Having regard to the above elucidation of the quasi-judicial role, I
+disagree with the defendants’ argument that the Kyen Liquidators’ quasi-
+judicial role entitles them to account for the counterclaims in the
+adjudication of the Proof of Debt where there are complex disputes of facts
+involved (such as those involving dishonest assistance and knowing receipt).
+In my judgment, the defendants’ argument is wrong for the following reasons
+founded on precedent, principle, and policy.
+
+(A) Precedent
+
+52 First, in terms of precedent, there is nothing in the case law that
+entitles a liquidator to account for the company’s counterclaim against a
+creditor in the adjudication of a proof of debt where there are complex
+disputes of facts involved (as opposed to simple ones involving mutual debts
+which automatically cancel each other out as a matter of arithmetic). Whilst
+it is true that the English decision of Re National Wholemeal Bread suggests
+that a liquidator can consider counterclaims or cross-claims to be set-off and
+accounted for, these are only in relation to relatively simple cases where
+there was little dispute as to the existence and amount of the counterclaims
+and cross-claims involved. I refer to the relevant portion of the holding in
+Re National Wholemeal Bread which elaborates on this principle (at 460):
+
+I am against you on the question of fraudulent preference being a matter of
+set-off. The position of the liquidator is very like that of a trustee in
+bankruptcy. He may allow anything as a set-off which is a matter of account;
+but he must not avoid or rescind an agreement.
+
+…
+
+I hold that for the purposes of today the set-off is admissible upon the
+examination of the proof by the liquidator for the purposes of the account
+which he has to take in order to arrive at the amount, if any, for which the
+proof is to be admitted.
+
+[emphasis added]
+
+Importantly, Vaughan Williams J opined that a liquidator “may allow anything
+as a set-off which is a matter of account” and that the set-off was permitted
+“for the purposes of the account which he has to take in order to arrive at
+the amount”. These phrases suggest that the court was identifying the net
+balance of the claims due by taking an account of what was owing from each
+party in respect of the mutual debts or dealings, ie, it was a matter of
+simple arithmetic. Indeed, the facts of Re National Wholemeal Bread involved
+the relatively straightforward issue of whether an employee of the company in
+liquidation was overpaid his salary.
+
+53 There is also the English case of Re Bank of Credit and Commerce
+International SA (No 6); Mahfouz v Morris and others [1994] 1 BCLC 450 (“BCCI
+(No 6)”), where the issue arose as to whether cross-examination and discovery
+should be ordered in the hearing of appeal against the liquidator’s rejection
+of the proof of debt. The liquidators had rejected the proof on the ground
+that the company had claims for fraudulent and wrongful trading and
+misfeasance against the individual creditor, which the liquidators regarded
+they were entitled to set-off and account against the amounts due. In
+determining the issue of whether cross-examination was required, the court
+held that cross-examination would be ordered where it was “necessary for
+fairly disposing of the particular issue”. Whether it was necessary depended
+on the circumstances of the particular case (at 453). For example, where there
+was “no documentary evidence of any description [that] has been put forward to
+support” a bare assertion (at 454), then cross-examination would be required.
+This suggests that liquidators cannot simply account for a counterclaim
+without a more detailed examination of the underlying facts, especially in a
+case which involved complex facts.
+
+54 Looking to the local jurisprudence, we have the High Court decision of
+ERPIMA SA where the plaintiff company had sought orders from the court to
+reverse the defendant judicial managers’ decision to reject their proof of
+debt. In the end, due to conflicting affidavit evidence, the court concluded
+that the resolution of the issues in dispute (eg, whether the company could
+set-off and counterclaim) required trial in the usual way (at [25]):
+
+In the light of the conflicting affidavit evidence, which in some issues
+certainly were not backed up by documentary evidence, the conclusion was
+irresistible that the resolution of the issues required the trials in the
+usual way of both suits instituted by the plaintiffs. Evidence by affidavits
+were inappropriate to resolve the issues. … This would require an
+investigation of the “factual matrix” leading to the agreement. The third
+question was whether the company could set off and counterclaim, even if there
+was liability under the agreement, for the sums mentioned earlier in this
+judgment.
+
+[emphasis added]
+
+55 Thus, the court dismissed the application but ordered that the outcome of
+the proof of debt should abide by the final determination of the two suits in
+which all issues in controversy amongst the parties can be dealt with
+comprehensively (at [2] and [26]). What can be gleaned is that the court
+recognised that if there are contentious counterclaims which involve
+untangling a complex web of issues arising from various dealings between the
+parties, then those disputes will first need to be resolved by trial before
+the arithmetic resumes.
+
+(B) Principle
+
+56 Pulling together the threads from the various authorities, it appears to me
+that these are the applicable principles:
+
+(a) First, while a liquidator is entitled to account from the proof of debt
+any counterclaim/cross-claim, this can only be allowed where the factual
+matrix is not complex such that it remains a matter of simple arithmetic, ie,
+it is a straightforward matter of identifying the net balance of claims.
+
+(b) However, if there are substantial disputes as to the existence and amounts
+of the counterclaim/cross-claim which do require a complex web of facts and
+issues to be untangled, then these must usually be resolved by way of a full
+trial (or other mode of trial necessary for fairly disposing of the issues)
+before the arithmetic can resume.
+
+57 Nevertheless, a liquidator can take the risk and make his own assessment
+that the accounting exercise did not require a trial. This would then put the
+burden on the creditor to make an appeal to court to correct any errors, and
+the court may then subsequently find that a trial or limited cross-examination
+was necessary to resolve the issues. This would be consonant with the policy
+rationale underlying the efficient proof of debt process (see ERPIMA SA at
+[5], albeit in the context of judicial managers):
+
+The entire process of proof, admission or rejection is ordinarily completed
+before the judicial manager puts up his proposals on the best way to deal with
+the company under judicial management. It is therefore quite fast and
+certainly not as formal as a court trial. He does not have to deliver a
+reasoned judgment. One exception is where a proof of debt involves
+controversial disputes of facts, where the company under the judicial
+management on the facts known has to oppose the admission of a claim and where
+interpretation of agreements is involved. A judicial manager in those cases is
+not expected to adjudicate upon the matter. He is perfectly entitled to reject
+the proof of debt and the creditor is not without remedy. Such a creditor may
+appeal under reg 80.
+
+However, I would caveat that in so doing, the fact that the liquidator had
+made no attempt to pursue the counterclaim would likely mean that a court is
+less likely to conclude that the liquidator’s decision to account from the
+proof of debt any counterclaim was correct. This is especially if what the
+liquidator had were mere allegations and the evidence was lacking (see Labaj
+at [29]) unless some proper explanation can be given as to why the
+counterclaims were not pursued further by way of initiating proceedings or
+otherwise.
+
+58 Further, it would often be the case that where the allegations made against
+a creditor are rather grave in nature (such as those of misfeasance and
+fraud), then the allegation must ordinarily be tested by cross-examination
+(see BCCI (No 6) at 454). In the present case, one of the bases of the Kyen
+Liquidators’ counterclaims in the adjudication of the Proof of Debt
+encompasses that of dishonest assistance. In order to prove dishonest
+assistance, one must necessarily satisfy the court (amongst other elements of
+the test) that the assistance given was indeed dishonest, ie, whether the
+party has “such knowledge of the irregular shortcomings of the transaction
+that ordinary honest people would consider it to be a breach of standards of
+honest conduct if he failed to adequately query them” (see the decision of the
+Court of Appeal in George Raymond Zage III and another v Ho Chi Kwong and
+another [2010] 2 SLR 589 (“George Raymond Zage”) at [22]). Such claims
+necessarily require the process of trial to uncover the truth of the matter
+and whether the standards of honest conduct were breached.
+
+59 More broadly, the defendants’ argument fundamentally misunderstands the
+judicial function. In the first place, as Lai J had so eloquently put it in
+ERIPIMA SA (at [4]), “[a]s [the liquidator’s] role is quasi-judicial, he
+cannot act unjudicially, capriciously or arbitrarily”. A moment’s reflection
+will reveal that a judge cannot act in his or her own cause. In my view, it
+would certainly be “unjudicial” for a liquidator of an insolvent company to
+assert a counterclaim based on her own assessment of the facts in her
+adjudication of a creditor’s proof of debt. In saying this, I accept that the
+liquidator is not representing the insolvent company and stands as an
+objective (and independent) officer of the court to see to the proper end of
+the company. I also accept that the adjudication of the proof of debt process
+necessarily entails the liquidator acting in the insolvent company’s interest
+to some extent – because, in adjudicating a creditor’s proof of debt, she is
+necessarily making an adjudication not from a position of pure neutrality but
+from the perspective of the insolvent company’s creditors’ best interests. But
+I think it crosses the line for a liquidator to essentially advance, adjudge,
+and summarily conclude the company’s own claim or counterclaim where it
+involved complex and highly-fact dependent issues (which likely required a
+trial to be resolved), against the creditor’s proof of debt, save for a formal
+appeal to the court under the Rules. This, in my view, cannot be the case.
+
+60 Indeed, the defendants’ argument misunderstands the distinction between
+adjudicating on a claim by the creditor and a claim against the creditor. This
+distinction is so trite that Coomaraswamy J cited no authority in Lim Siew Soo
+when he concluded that (at [11]) “[t]he adjudication procedure operates only
+to resolve claims against the Company. It has no application to claims by the
+Company” [emphasis in original]. Thus, when the cases refer to the liquidator
+being duty-bound to admit only the “true liabilities” of the company, that is
+in relation to claims against the insolvent company, not claims by the
+company. This is clear from a plain reading of a passage that the defendants
+rely on repeatedly (see Tanning at 184):
+
+… A liquidator may properly reject a proof of debt if the liability, though
+enforceable against the company, is not a true liability of the company but is
+found merely on some act or omission on the part of the company which unjustly
+prejudices the interests of the creditors or contributories in the assets
+available for distribution…
+
+[emphasis added]
+
+This passage clearly refers to claims against the insolvent company and has
+nothing to do with claims asserted by the insolvent company itself. Perhaps an
+appropriate analogy may be found in the use of promissory estoppel (see the
+English Court of Appeal decision of Combe v Combe [1951] 2 KB 215), whereas
+the adjudication procedure can be used as a shield in relation to claims
+against the insolvent company, it cannot be used as a sword against creditors
+in asserting the insolvent company’s own counterclaims.
+
+(C) Policy
+
+61 Finally, my conclusion that the Kyen Liquidators are not entitled to
+account for the counterclaims (where a complex factual matrix is involved)
+does not detract from the policy reason behind the adjudication procedure,
+which is to ensure efficiency in the liquidation process. The quest for
+efficiency in the liquidation process cannot be pursued at all costs. While
+the overall interests of the insolvent company’s creditors are important, that
+cannot be allowed to trump the individual interest of a creditor who may be
+aggrieved by the adjudication of an unadjudicated (by way of legal
+proceedings) counterclaim against it.
+
+(D) Application to the present case
+
+62 In the present case, Kyen’s counterclaims in knowing receipt and dishonest
+assistance are necessarily issues which are highly-fact dependant and may
+require a full trial to decide. There are thorny issues which have to be
+resolved before one can proceed further: (a) in respect of dishonest
+assistance, whether the assistance was indeed dishonest (as I have canvassed
+above at [58]), and (b) with respect to knowing receipt, whether there was
+knowledge on the part of the recipient that the assets received are traceable
+to a breach of fiduciary duty, and in this regard, the recipient’s state of
+knowledge had to be such as to make it unconscionable for the recipient to
+retain the benefit of the receipt (see George Raymond Zage at [23]). These
+issues (as opposed to a simple restitution claim) may be so complex that it
+might mandate that those disputes to be resolved first by formal legal
+proceedings before the arithmetic resumes by setting off. Accordingly, for
+reasons founded on precedent, principle, and policy, I do not find that this
+was a case that was so simple that the Kyen Liquidators’ quasi-judicial role
+entitled them to account for the counterclaims in adjudication without
+resolving the disputed facts and issues by way of trial.
+
+63 More specifically, I agree with Mr Alexander Yeo (“Mr Yeo”), who appeared
+for Feima, that the Kyen Liquidators’ rejection of the Proof of Debt based on
+these alleged counterclaims was really founded on a list of questions that the
+Kyen Liquidators had tendered to Feima. 43
+
+##### Foot Note 43
+
+×
+
+Minute Sheet dated 6 October 2022 at p 9.
+
+For illustration purposes, I set out some of these questions that were found
+in a letter dated 18 March 2021 from the solicitors of the Kyen Liquidators
+and use this as an example: 44
+
+##### Foot Note 44
+
+×
+
+1 CTKS at p 897.
+
+5.3.5 In respect of the DCL Payments:
+
+(a) Were the DCL Payments made on the basis of any underlying
+agreements/contracts between DCL and the Company?
+
+i. If so, please provide us with copies of all relevant documents to the said
+agreements/contracts.
+
+ii. If not, please explain the basis of the DCL Payments.
+
+(b) What consideration (if any) did the Company receive for the DCL Payments?
+
+It appears that what the Kyen Liquidators were alluding to was that the DCL
+Payments were unusual and contrary to accepted commercial practice, and was
+thus effected by the directors in breach of their fiduciary duties as the
+liquidators were unable to identify any consideration received or evidence
+that this was made in discharge of any genuine pre-existing debt owed (see
+above at [7]). As mentioned above at [13], the then-solicitors of Feima, TNTL,
+replied by requesting for further information on certain issues and stated
+that they found it inappropriate to respond to the list of questions unless
+such information was provided. 45
+
+##### Foot Note 45
+
+×
+
+1 CTKS at p 910.
+
+Kyen’s solicitors subsequently replied by stating that the “response is
+unhelpful and only serves to frustrate the [Kyen Liquidators’] own efforts in
+investigating the suspicious disposition of Kyen’s property”. 46
+
+##### Foot Note 46
+
+×
+
+1 CTKS at p 912.
+
+Essentially, the matter was left hanging in the air and no proper conclusion
+was reached. Given this ambiguous state of affairs, the Kyen Liquidators
+cannot then go on to draw the inference that there was absolutely no basis for
+the DCL Payments to be made, such that Kyen could found a claim against Feima
+in dishonest assistance or knowing receipt arising from this allegedly
+suspicious third party transaction. All that the Kyen Liquidators have from
+the list of questions is their own suspicions, but they must go further to
+crystalise this counterclaim.
+
+64 In my view, given the lack of evidence and complexity of the issues
+involved, the appropriate course of action would have been to bring these
+issues to trial to fairly investigate them before the Kyen Liquidators are
+entitled to account for the counterclaims. It cannot be that two potentially
+complex counterclaims (dishonest assistance and knowing receipt) can be made
+out on the basis of a series of questions. I simply do not have sufficient
+material before me to confidently decide either way on these issues as these
+matters would require a fuller investigation. In any event, as I have alluded
+to above at [20], I say no more about the merits of the dishonest assistance
+and knowing receipt counterclaims.
+
+(3) Whether the Insolvency Set-off applies in the present case
+
+65 I turn now to the point highlighted by Feima (see above at [39]) concerning
+whether the defendants were entitled in certain circumstances to raise the
+defence of Insolvency Set-off. In my judgment, Insolvency Set-off cannot be
+invoked in the present case.
+
+66 First, the defendants have never run their case on the basis that there was
+a set-off. Indeed, as Feima points out, the defendants have repeatedly stated
+that they can raise counterclaims for dishonest and/or knowing receipt.
+Indeed, this is the basis for the Kyen Liquidators’ rejection of the Proof of
+Debt. They cannot be allowed to recharacterise that reason as a set-off at
+this point.
+
+67 Second, Insolvency Set-off under s 88(1) of the BA (read with s 327(2) of
+the CA) does not apply to claims arising from the Third Party Transactions
+(ie, the large and suspicious transactions made to third parties). The main
+thrust of the defendants’ complaint is that these transactions were wrongfully
+made as Kyen had paid out cash to these third parties but for no consideration
+at all. But if that was the case being run, then this would constitute a
+misappropriation of company assets which would not satisfy the requirement
+that there be a “mutual dealing” within meaning of s 88(1) of the BA (see
+above at [39] for the provision). I develop this point further below.
+
+68 The law on Insolvency Set-off is well-established: (a) it is mandatory and
+parties are not permitted contractually to exclude its effect, and (b) it is
+an automatic self-executing procedural directive which takes effect without
+the need for further intervention and arises by operation of law (irrespective
+of the parties’ wishes) (see the High Court decision of CIMB Bank Bhd v
+Italmatic Tyre & Retreading Equipment (Asia) Pte Ltd [2021] 4 SLR 883 at
+[134]). Mutuality is important to the operation of Insolvency Set-off, and
+this is evident from the text of s 88(1) of the BA: “[w]here there have been
+any mutual credits, mutual debts or other mutual dealings …” [emphasis added].
+
+69 In relation to the requirement of mutual dealings, it is also well-settled
+that liability arising from misfeasance proceedings, such as those involving a
+misappropriation of funds belonging to an insolvent company or conversion of
+the company’s property, is not a claim arising from mutual dealings and
+Insolvency Set-off would not be applicable. The simple explanation is that the
+misfeasance cannot constitute a “dealing” for the purposes of set-off (see the
+English Court of Appeal decision of Manson v Smith (liquidator of Thomas
+Christy Ltd) [1997] 2 BCLC 161 at 164):
+
+First, r 4.90 and its predecessors require there to be mutual debts or mutual
+dealings. When Mr Manson improperly withdrew money from the company this did
+not constitute a dealing between him and the company. A misappropriation of
+assets is not a dealing. Mr Manson will object to the following analogy, but I
+hope he will forgive me for it is only an analogy: the thief who steals my
+watch does not deal with me. Similarly, the man who steals money from a
+company does not obtain the money by a dealing within r 4.90. Accordingly, his
+liability to repay money he has misappropriated cannot be set off against any
+debt owing to him by the company.
+
+[emphasis added]
+
+70 A misappropriation of the insolvent company’s funds is not a “dealing” as
+the funds were improperly taken from the company without consent. Similarly, a
+conversion of property also cannot constitute a “dealing” (see the House of
+Lords decision in Smith (Administrator of Cosslett (Contractors) Ltd) v
+Bridgend County Borough Council [2002] 1 AC 336 at [35]–[36]). Thus, as the
+Court of Appeal in Parakou Investment Holdings Pte Ltd and another v Parakou
+Shipping Pte Ltd (in liquidation) and other appeals [2018] 1 SLR 271 observed
+at [67]: “as a general rule, statutory set-off is not available when the debt
+owed by the counterparty to the debtor is based on the misfeasance or other
+wrongdoing by the counterparty”. To permit a set-off in these circumstances
+would be unfair as it would favour the person who misappropriated the company
+assets and the wrongdoer could evade the consequences of his by recovery
+through set-off instead of having to prove in the winding up in competition
+with other creditors. This principle of law has also been applied to deny
+Insolvency Set-off in the context of dishonest assistance claims as well, as
+the court would be loath to “allow a dishonest assistor in effect to obtain
+pound for pound reimbursement” (see Goldtrail Travel Ltd (in liquidation) v
+Aydin and others [2015] 1 BCLC 89 at [167]; though the judgment decision
+overturned on appeal on a separate factual point in Goldtrail Travel Ltd (in
+liquidation) v Aydin and others [2016] 1 BCLC 635).
+
+71 Therefore, I find that Insolvency Set-off under s 88(1) of the BA (read
+with s 327(2) of the CA) does not apply to claims arising from the Third Party
+Transactions as the misappropriation of assets do not constitute mutual
+dealings.
+
+72 However, there is an added complication to be dealt with here. The orthodox
+factual matrix where this issue arises is where the creditor who had
+misapplied company funds was ordered to restore the amount lost, and the
+creditor then asserts Insolvency Set-off as a defence against those claims.
+However, on the present facts, the rather unusual feature of the case is that
+the Kyen Liquidators are the ones seeking to assert the Insolvency Set-off,
+rather than the creditor (Feima).
+
+73 Ultimately, it does not matter materially which party seeks to assert
+Insolvency Set-off (and the Kyen Liquidators cannot waive such a set-off even
+if they wished to) because Insolvency Set-off is mandatory and self-executing
+by operation of law irrespective of the parties’ wishes (as I have set out
+above at [68]). Thus, regardless of which party is attempting to invoke the
+Insolvency Set-off, this cannot be permitted in both scenarios (whether it is
+the liquidator invoking it or the creditor) as the misappropriation of assets
+simply do not constitute mutual dealings.
+
+Whether the Kyen Liquidators have successfully proved their counterclaims
+founded on dishonest assistance and knowing receipt
+
+74 As I have said above, given that I have found that the Kyen Liquidators are
+not justified in accounting for the counterclaims in the adjudication of the
+Proof of Debt given the complex factual matrix and issues underlying these
+(without resolving these intricate issues at trial), I should not go further
+to consider the validity of its counterclaims in dishonest assistance and
+knowing receipt. In the circumstances, it would not be appropriate for me to
+express any view on the merits of these claims.
+
+Conclusion on the Kyen Liquidators’ “primary ground” for rejection
+
+75 For the reasons given above, I reject the Kyen Liquidators’ “primary
+ground” for rejection of the Proof of Debt. I turn now to consider their
+“alternative grounds” for rejection.
+
+Whether the Kyen Liquidators’ “alternative grounds” for rejection should be
+affirmed
+
+Overview
+
+76 Having concluded that the Kyen Liquidators’ “primary ground” for rejecting
+the Proof of Debt founded on the counterclaims must fail, I turn to their
+“alternative grounds”. In summary, the defendants argue generally that the
+Proof of Debt must be subject to “strict proof” because Feima is not only
+Kyen’s parent company with common directors between them, but there were also
+extensive contractual and personnel arrangements that allowed Feima to
+influence Kyen’s affairs and to effect intercompany transfers with great ease.
+47
+
+##### Foot Note 47
+
+×
+
+DWS at [6.2].
+
+In essence, the defendants say that a heightened scrutiny of the Proof of Debt
+is warranted because Feima is the parent company of Kyen.
+
+77 From this general position, the defendants then maintain their rejection of
+three categories of Feima’s claims, namely (a) the Intercompany Claims, (b)
+the Management Fees Claim, and (c) the Purchase Debts. 48
+
+##### Foot Note 48
+
+×
+
+DWS at [6.3]–[6.5].
+
+For each category, the defendants explain their reasons for rejection, which
+all draw from either their argument that Feima is to be put to “strict proof”
+or that Feima had been guilty of dishonest assistance or knowing receipt.
+
+78 In view of the defendants’ arguments, I will discuss the relevant issues in
+the following order:
+
+(a) First, whether, generally speaking, a heightened scrutiny of the Proof of
+Debt is necessary because Feima is the parent company of Kyen.
+
+(b) Second, whether, in respect of the three categories of Feima’s claims, the
+defendants have made out a valid ground for rejection.
+
+Whether a heightened scrutiny of the Proof of Debt is necessary in the present
+case
+
+The parties’ arguments
+
+79 The defendants say that a creditor must be put to strict proof of the
+claims in its proof of debt if it has a close relationship and/or common
+controllers with the company in liquidation. In essence, they assert that a
+heightened scrutiny of the Proof of Debt is necessary in the present case. In
+support of this point, the defendants cite the High Court decision of Re Ice-
+Mack Pte Ltd (in liquidation) [1989] 2 SLR(R) 283 (“Re Ice-Mack”) (at [17]):
+
+Given the close relationship between these two associate companies, the
+dominant position in them of Mr Valibhoy and his family, the paradoxical
+situation in this case in which the person now filing all the affidavits on
+behalf of the applicant was the same person who controlled and managed the
+company before it was wound up, and the great ease with which inter-company
+transactions between the companies were clearly devised and implemented, it
+was necessary at the very least to put the applicant to strict proof of its
+assertions.
+
+[emphasis added]
+
+80 Thus, the defendants say that in assessing the evidence put forth by the
+creditor, the liquidator is bound to take extraordinary steps to scrutinise a
+proof of debt on the basis that it could be a false claim, in cases where he
+has reason to be suspicious of its genuineness or legal validity. Such steps
+would include going behind the company’s audited accounts to determine the
+veracity of the creditor’s claims.
+
+81 In this regard, Mr Chan brought me through some correspondence and minutes
+of meetings between the parties, such as the ones I reproduce now: 49
+
+##### Foot Note 49
+
+×
+
+Affidavit of Quek Kwang Woei dated 16 December 2021 at pp 67–70.
+
+Attendees
+
+Chen Xi, CEO of Feima International
+
+Zhang Jianjiang, Chief Financial Officer of Feima International
+
+Wang Limei, General Manager of Feima International’s Financial Department
+
+Yan Xiaoyang, Managing Director of Feima Hong Kong
+
+Jacky Lai Yeu Leong, Singapore Kyen ******
+
+Huang Yongxin, Accountant of Feima Hong Kong
+
+Hellen Wu, Accountant of Shanghai Yinjun
+
+Meeting topic Improving the Financial Reporting Structure of Feima
+International’s overseas entities
+
+…
+
+After 1 January, 2017:
+
+An existing team is available to take over:-
+
+Financial/accounting statements: Huang Yongxin to take over and,
+guided/integrated by Jacky Lai, and Mr. Yan will supervise the final
+integration results.
+
+Financial/fund management: taken over by Lu Yanyan (Feima Hong Kong)/Liao Jue
+(Feima Hong Kong), guided by Long Taijin. Mr. Yan will supervise the final
+integration results, in accordance with the needs of the Headquarters.,
+System: in line with Hong Kong’s financial system.
+
+[emphasis in original]
+
+The defendants highlight that Mr Yan (a director from Feima) was responsible
+for supervising one of Kyen’s employees in the final integration of the
+results for the financial statements and preparation of the accounts. Also,
+the defendants also point out that, in relation to financial/fund management,
+Mr Yan was to supervise the final integration results. This, the defendants
+argue, showed that the accounts were controlled by Mr Yan. The defendants
+argue that there were concerns raised due to the control exerted by Mr Yan and
+this would cast doubts on the robustness of any financial statements recorded
+by Feima and Kyen. 50
+
+##### Foot Note 50
+
+×
+
+Minute Sheet dated 6 October 2022 at p 17.
+
+82 In turn, Feima submits that while a liquidator has the power to look behind
+the audited financial statements and audit confirmations, a creditor’s proof
+of debt should not be lightly rejected if the debt has been consistently
+acknowledged in audited accounts and/or through audit confirmation statements
+(citing Fustar CA at [21]). 51
+
+##### Foot Note 51
+
+×
+
+PWS at [33].
+
+Thus, where the debts are included as part of the audited accounts of the
+company and approved by the directors and shareholders at the annual
+shareholders’ meetings, the liquidator should not expend funds to scrutinise
+such debts unless he has reason to suspect that they were entered in the books
+to defraud creditors (citing Fustar CA at [31]).
+
+83 In this regard, Mr Yeo brought me through several key facts in the present
+case which he says shows that a heightened scrutiny is not required. First,
+the plaintiff in this case is now under the control of the independent Feima
+Liquidators, who are officers of the Hong Kong Court exercising their duties
+in bringing the application (and are evidently not common directors in the
+network of related companies). Second, the main individual who was operating
+Feima, Mr Yan, is not actually one of the common directors of the related
+companies (see the list of common directors above at [5]). 52
+
+##### Foot Note 52
+
+×
+
+Minute Sheet dated 6 October 2022 at p 8.
+
+Further, the records in possession by the Feima Liquidators show that there
+was in fact little involvement by the common directors in the management of
+Feima. 53
+
+##### Foot Note 53
+
+×
+
+PWS at [74].
+
+My decision: a heightened scrutiny of the Proof of Debt is not necessary in
+the present case
+
+(1) The applicable law
+
+(A) No general need for heightened scrutiny for cases involving related
+companies
+
+84 In my view, a so-called “heightened scrutiny” is not generally necessary
+for cases involving related companies because it adds nothing to the usual
+principle that the burden is on Feima to prove its debt on a balance of
+probabilities. Indeed, it does not add anything to this principle to say that
+the creditor is to be put to “strict proof”. All that might be meaningfully
+said is that the evidence required to discharge the burden placed on the
+creditor might differ in every case depending on the circumstances.
+
+85 Indeed, Re Ice-Mack was quite a different case from the present facts. In
+Re Ice-Mack, an issue arose as to whether the pages from the applicant
+company’s ledger books were sufficient proof of debt against a company that
+was being wound up. The creditor and debtor companies were “related” in that
+the same person, Mr Valibhoy, managed both companies. Yong Pung How J (as he
+then was) stated (at [11]) that in an arms-length situation, an audit
+confirmation would be strong evidence of the correctness of the credit or
+debit balance. However, as that confirmation was signed on behalf of the
+company by the same person managing the associated companies (Mr Valibhoy), it
+could not be accepted as evidence of the debt unless it was corroborated by
+more independent evidence.
+
+86 I therefore do not read Re Ice-Mack as standing for a general proposition
+that a heightened scrutiny is necessary once there is a close relationship
+and/or common controllers with the company in liquidation. Indeed, what the
+cases reveal is that more evidence is needed only if there are circumstances
+warranting suspicion. Thus, in the Court of Appeal decision of Capital Realty
+Pte Ltd v Chip Thye Enterprises (Pte) Ltd [2000] 3 SLR(R) 419 (“Capital
+Realty”) at [24], Chao Hick Tin JA held that an audit confirmation was strong
+prima facie evidence of debt. Chao JA distinguished the case of Re Ice-Mack as
+being inapplicable (at [31]) since there were no circumstances warranting
+suspicion on the signing of the audit confirmation despite the close
+friendship of the debtor and creditor. Indeed, the mere close friendship
+between the debtor and creditor does not, without more, raise any suspicion.
+
+(B) “Triggers” that will raise a court’s suspicion to require more evidence in
+cases involving related companies
+
+87 However, there will be certain “triggers” that will raise a court’s
+suspicion to require more evidence in a given case. Coming back to the case of
+Re Ice-Mack, while the creditor’s own audited financial statements were
+provided, the statements did not attest to any debt owed by the company at
+all. The only thing shown was that Mr Valibhoy owed a debt to the creditor,
+but the applicant had failed to produce proper evidence of the various loans
+and payments it had allegedly made for and on behalf of the insolvent company.
+The court rejected Mr Valibhoy’s explanation that he had agreed to bear the
+debt that was originally incurred by the company personally so that the
+creditor would not be put to loss as a result of the company’s winding up. The
+explanation was rejected because the debt was incurred before the company was
+wound up and the company’s own audited accounts did not lend any support to
+the existence of the alleged debt. Those circumstances led the court to reject
+the only documentary evidence in support of the proof of debt – which was a
+solitary audit confirmation by the debtor company signed by Mr Valibhoy
+himself. It should be noted that the court’s suspicion was only triggered in
+that case because Mr Valibhoy’s explanation did not square with the facts,
+rather than based purely on the mere presence of the connection between Mr
+Valibhoy and the insolvent company per se.
+
+88 Similarly, the Hong Kong High Court decision of Re Adam Holdings Ltd [1985]
+2 HKC 608 (“Re Adam Holdings”) stands as an example of when a court’s
+suspicion was triggered. In that case, a creditor who was the subsidiary of a
+company that was also compulsorily wound up submitted a proof of debt to the
+Official Receiver. This proof was supported by ledger entries of the group of
+companies, and a draft account sent to the creditor by the debtor company,
+prepared by accountants, to confirm the balance due. However, no audited
+statements were produced. The primary documents were also lost. The ledger
+entries were also filled with discrepancies. Given these discrepancies and the
+overall state of the evidence tendered in support of the proof of debt, Jones
+J rejected the proof of debt. Once again, the court’s suspicion was triggered,
+not by the mere fact that the credit was related to the insolvent company, but
+by the discrepancies in the accounts.
+
+89 In all these cases, there was something specific, whether it be a material
+discrepancy in the factual account provided by the creditor or inconsistencies
+within the documentary record, that triggered the court’s suspicion. This then
+led to the court needing more evidence such as the production of the primary
+documents. Once again, it is not just the mere presence of a close
+relationship between the insolvent company and the creditor that, by itself,
+led to the court requiring more than the production of audited financial
+statements. Indeed, given the prevalence of related companies, a rule to this
+effect would be impractical and run counter to the need for efficiency in the
+liquidation process.
+
+(C) Facts that will negate need for more evidence in cases involving related
+companies
+
+90 On the contrary, there are facts that will negate the need for more
+evidence in cases involving related companies. In this regard, the Hong Kong
+High Court held in Grand Gain Investment Ltd v Cosimo Borrelli and another
+[2006] HKCU 872 (at [18]) that weight should be given to the fact that the
+accounts concerned have been audited. This is since the audit process requires
+the auditor to be satisfied that the accounts provide a true and fair of the
+company’s financial position. However, if there is a “trigger” fact, such as
+evidence that shows that the accounts are or may be inaccurate, or doubt is
+cast on the manner in which the auditor carried out his duties, that will
+certainly be a factor the court will consider.
+
+91 This was also alluded to in Capital Realty, where the Court of Appeal held
+that audit confirmation constituted strong prima facie evidence of a debt (at
+[24]). Unlike the case of Re Adam Holdings, it appeared that there were no
+discrepancies in the record of debts in any of the audited statements in
+Capital Realty such that any suspicions were raised.
+
+(D) Summary of the overall position involving the need for more evidence for
+cases involving related companies
+
+92 A summary of the overall position as to the approach to be taken on the
+evidence required to support a proof (even those given by a connected/related
+party), as well as the application of these principles, can be gleaned from
+the Court of Appeal decision of Fustar CA(at [18]):
+
+… It seems to us that the overriding concern of the courts in all the above
+cases was to ensure that that legitimate creditors and contributories of a
+company should not be prejudiced by spurious claims made by related parties
+under the guise of being creditors. What is spurious would depend on the facts
+of each case. The principle that can also be gleaned from this brief overview
+is that the duty of the liquidator in assessing a proof of debt is to ensure
+that while genuine debts are admitted and false claims are rejected, he must
+act fairly in discharging his duties. He must, at all times, be independent
+and hold an even hand in dealing with the often competing interests of
+creditors, contributories and his appointers. A liquidator must never favour
+the interests of his appointers over that of the other legitimate claimants to
+the company’s assets.
+
+[emphasis in original]
+
+93 As such, the Court of Appeal laid down key principles and frameworks to be
+applied when assessing the judgment made by the liquidator. First, although a
+liquidator had extensive powers to go behind documents, a liquidator must have
+a reasonable basis on which to query a debt that appeared to be genuine (see
+Fustar CA at [20]). A proof of debt should not be lightly rejected if the debt
+had been consistently acknowledged in audited accounts or through audit
+confirmation statements (see Fustar CA at [21]).
+
+94 A liquidator is thus only bound to take extraordinary steps to scrutinise a
+proof of debt on the basis that it could be a false claim in cases where he
+has reason to be suspicious about its genuineness or legal validity. The
+factors to be considered include, inter alia (see Fustar CA at [20]):
+
+(a) the origins of the debt,
+
+(b) the length of time the debt has been due,
+
+(c) how the company has treated the debt in its financial statements,
+
+(d) the business of the debtor company; and
+
+(e) the relationships between the claimants and the controlling shareholders
+of the company.
+
+In assessing these factors, the liquidator must rely on: (a) knowledge of the
+general principles of company accounting, (b) the auditing practice of
+companies by independent auditors, (c) the effect and implication of
+directors’ and shareholders’ approvals annually of company accounts made in
+compliance with the law, (d) the customary insolvency practice in verifying
+debts, and (e) some degree of common sense in understanding human
+relationships (see Fustar CA at [20]).
+
+95 By way of application, in Fustar CA, the liquidator rejected the creditor’s
+proof of debt because, among others, the creditor company was a related party
+and there was no independent confirmation of the underlying transactions
+through primary supporting documents or witnesses. The court disagreed and
+found the debt to be genuine for the following reasons (at [27]–[30]): (a) the
+insolvent company had consistently acknowledged the debt in question, the
+accounts were complete and did not contain discrepancies, (b) the figures in
+the audited financial statements, the audit confirmations, the ledger entries
+and the creditor’s audited financial statements all corroborated each other,
+and (c) the fact that the auditors relied on a common director (behind the
+creditor and insolvent company) for information did not in itself suggest that
+the accounts stated were wrong.
+
+96 I come now to apply these principles to the present case.
+
+(2) Application to the present case
+
+(A) No need for a wholesale insistence of more evidence
+
+97 To begin with, I do not agree with the Kyen Liquidators’ insistence that it
+is necessary for each and every debt claimed by Feima to be independently
+verified with reference to the relevant supporting documents before they can
+be admitted. Indeed, this wholesale insistence on the primary documents for
+every debt reveals a pre-existing reluctance to consider each debt on its own
+merits and to only require for the supporting documents where necessary.
+Indeed, this was something which the Court of Appeal in Fustar CA was careful
+to guard against (at [21]):
+
+… while we accept that the burden of proof ordinarily rests on the creditor to
+substantiate a proof of debt this does not mean that the only means by which a
+creditor can prove a proof of debt must be through the production of primary
+documents.
+
+[emphasis added]
+
+(B) No “triggers” that require more evidence in respect of specific claims
+
+98 More specifically, unlike the cases of Re Ice-Mack and Re Adam Holdings, I
+do not think that there are “triggers” in the present case that warrant the
+court requiring more evidence than is usual in respect of Feima’s claims. This
+is because, on a general level, Feima’s claim is supported by different
+financial documents which corroborate each other. These documents include (a)
+the detailed ledger of Feima, together with the underlying supporting
+documents for many of the entries listed within, (b) the audited financial
+statements of both Kyen and Feima, and (c) a Kyen statement of affairs filed
+by one of its directors with the Kyen Liquidators. Thus, taken broadly,
+Feima’s claims are not based merely on its own assertions, but are also
+justified by reference to either financial statements that have been
+independently audited, or based on external documents. As was the case in
+Fustar CA (at [21]), the debt has been consistently acknowledged in audited
+accounts or through audit confirmation statements. The fact that there were
+some common directors between the creditor and the insolvent company, in and
+of itself, does not raise suspicions.
+
+99 With this general approach in mind, ie, that I do not require any more than
+the usual evidence (there is no need for “heightened scrutiny” or that Feima
+should be put to “strict proof”), I will turn to the specific financial
+documents concerned.
+
+Whether the Kyen Liquidators’ decision to reject the Intercompany Claims
+should be affirmed
+
+The parties’ general arguments
+
+100 The defendants’ objection against the Intercompany Claims flows from its
+general position that Feima should be put to “strict proof” of its claims due
+to its relationship with Kyen. They in turn raise five specific objections,
+namely:
+
+(a) Feima’s audited financial statements cannot be relied upon because these
+were qualified to the extent that Feima’s auditors issue an adverse opinion on
+the same. 54
+
+##### Foot Note 54
+
+×
+
+DWS at [6.3.2]–[6.3.5].
+
+(b) Feima’s reliance on Kyen’s audited accounts is misplaced as those accounts
+are unreliable as they were prepared under the control and supervision of
+Feima, which was involved in the Third Party Transactions. 55
+
+##### Foot Note 55
+
+×
+
+DWS at [6.3.6].
+
+(c) Feima’s reliance on Kyen’s statement of affairs is similarly unreliable
+because Kyen’s directors have not provided the Kyen Liquidators with any
+satisfactory explanation as to why several key transactions were omitted from
+the statement of affairs during its preparation. 56
+
+##### Foot Note 56
+
+×
+
+DWS at [6.3.7].
+
+(d) Feima’s bank payment advices do not identify any underlying basis or
+justification for the transactions that had taken place. 57
+
+##### Foot Note 57
+
+×
+
+DWS at [6.3.7].
+
+(e) Feima has only provided the underlying agreements for one of the
+Intercompany Claims, namely, the solicitors fees allegedly paid by Feima. But
+even this claim does not stand up to scrutiny. 58
+
+##### Foot Note 58
+
+×
+
+DWS at [6.3.8].
+
+Accordingly, the defendants submit that Feima has not discharged its burden of
+proof that the Intercompany Claims are true liabilities that are due from
+Kyen.
+
+101 Feima’s general response is that its claims are supported by different
+types of financial documents, all corroborating one another, including (a) the
+detailed ledger of Feima together with supporting documents for much of the
+entries listed therein, (b) the audited financial statements of both Kyen and
+Feima, and (c) a Kyen statement of affairs filed with the Kyen Liquidators.
+
+My decision: the Kyen Liquidators’ decision to reject the Intercompany Claims
+should be rejected
+
+(1) Whether Feima’s supporting documents should be viewed with suspicion
+
+(A) No need for “heightened scrutiny” in the present case
+
+102 As I had alluded to above, viewed broadly, the Kyen Liquidators’ general
+objection against the Proof of Debt flows from what they see as the
+unreliability of the supporting documents provided by Feima. These documents
+include (a) Feima’s audited financial statements, (b) Kyen’s audited financial
+statements, (c) Kyen’s director’s statement of affairs, (d) Feima’s bank
+payment advices, and (e) missing underlying agreements. I will deal with (a),
+(b) and (c) as these permeate Feima’s claims more generally. I will address
+(d) and (e) when I discuss the relevant claims.
+
+103 I have already explained why there is no need to adopt a “heightened
+scrutiny” in the present case. There are no facts that triggers suspicion to
+do this. As such, I dismiss the defendants’ attempt to cast doubt generally on
+(a) Feima’s audited financial statements, (b) Kyen’s audited financial
+statements, and (c) Kyen’s director’s statement of affairs.
+
+(B) Feima’s audited financial statements can be relied on
+
+104 More specifically, the Kyen Liquidators contend I should disregard or
+accord little weight to Feima’s own audited financial statements because their
+own independent auditors issued a disclaimer of opinion on those statements.
+In doing so, the defendants say that the auditors raised concerns on the very
+existence, accuracy, and valuation of Feima’s assets and liabilities. 59
+
+##### Foot Note 59
+
+×
+
+DWS at [6.3.4].
+
+105 In my view, the disclaimer made by the auditors in the 2018 audited
+financial statements was indeed quite significant and could be some cause for
+concern. I reproduce the relevant portions of the disclaimer for context: 60
+
+##### Foot Note 60
+
+×
+
+1 CTKS at p 1003.
+
+Disclaimer of Opinion and Adverse Opinion
+
+We were engaged to audit the financial statements of Feima International
+(Hongkong) Limited …
+
+We do not express an opinion on the financial statements of the company.
+Because of the significance of the matters described in the Basis for
+Disclaimer of Opinion section of our report, we have not been able to obtain
+sufficient appropriate audit evidence to provide a basis for an audit opinion
+on these financial statements. In all other respects, in our opinion the
+financial statements have been properly prepared in compliance with the Hong
+Kong Companies Ordinance.
+
+Basis for Disclaimer of Opinion
+
+1\. No direct confirmations for trade debtors, other debtors, prepayment and
+deposits included in the statement of financial position as at 31 December
+2018 have been obtained. We were unable to satisfy ourselves by alternative
+means the existence, accuracy and valuation of trade debtors and other
+debtors, prepayment and deposits included in the statement of financial
+position … These balances have been fully provided for impairment loss in the
+statement of financial position as at 31 December 2018.
+
+2\. No direct confirmations for trade creditors, other creditors and accruals
+and advance payment from customers included in the statement of financial
+position as at 31 December 2018 have bene obtained. We were unable to satisfy
+ourselves by alternative means the completeness and accuracy of trade
+creditors, other creditors and accruals and advance payment from customers
+included in the statement of financial position …
+
+[bold in original; emphasis added in italics]
+
+In essence, the auditors were of the view that they “do not express an opinion
+on the financial statements of the company” as they “have not been able to
+obtain sufficient appropriate audit evidence to provide a basis for an audit
+opinion on these financial statements”. Significantly, it was also stated that
+there was “[n]o direct confirmations for trade debtors, other debtors,
+prepayment and deposits” and the auditors were unable to “satisfy [themselves]
+by alternative means the existence, accuracy and valuation of trade debtors
+and other debtors, prepayment and deposits included in the statement of
+financial position”. That is quite a wide qualification to make in respect of
+the company’s financial statements, and this does give me some pause as to the
+reliability and veracity of Feima’s 2018 audited financial statements.
+
+106 Feima argues that the auditor’s adverse opinion and qualification does not
+apply to the debts owed by Kyen to Feima due to the auditors agreeing to a
+full impairment of the Kyen debt and thus the qualification “does not apply to
+the debt owing by Kyen to Feima” and only applied to the other debts. 61
+
+##### Foot Note 61
+
+×
+
+Third Affidavit of Choi Tze Kit Sammy dated 31 August 2022 (“3 CTKS”) at
+[6(2)].
+
+Feima adduced a letter from the auditors dated 27 August 2022 in support of
+this argument. 62
+
+##### Foot Note 62
+
+×
+
+3 CTKS at p 7.
+
+However, a close examination of the letter reveals that the auditors do not
+actually state that the audited financial statements should be qualified in
+the manner alleged by Feima:
+
+We refer to your letter dated 19 August 2022 regarding the audited financial
+statements of the Company for the year ended 31 December 2018 (“AFS 2018”) and
+are writing with our reply as follows:-
+
+Impairment of debts owing by Kyen Resources Pte Limited
+
+According to the Company’s records, as at 31 December 2018, there were debts
+due from Kyen Resources Pte. Limited totalling HK$384,549,890, which remained
+unsettled and long outstanding. We also found that Kyen Resourses Pte Limited
+was under liquidation during the course of our audit of the Company’s
+financial statements. We therefore agreed the Company’s full impairment for
+the amount due from Kyen Resources Pte. Limited amounting to HK$384,549,890
+based on our impairment assessment as we found that its recoverability is low.
+
+[underlined in original; emphasis added in italics]
+
+The auditor’s letter does not address the concern over the veracity and
+valuation of Feima’s debtors. Instead, it only stated that the auditors agreed
+to a full impairment of Kyen’s debt to Feima because the auditors assessed
+that the debt’s recoverability was low given Kyen’s liquidation, and that the
+debt remained unsettled and long outstanding. The auditor’s letter is prefaced
+by the words “[a]ccording to the Company’s records” (which could mean that the
+auditors took the information given to them at face value) before stating that
+the value of the debts due from Kyen, and the auditors do not actually confirm
+that they had specifically audited and assessed the legitimacy of the debt in
+question by reviewing all the relevant supporting documents.
+
+107 Nevertheless, as against this, there are the audited statements from 2017
+which showed that there was a debt of HKD 505,727,215 that was payable by Kyen
+to Feima as at 31 December 2017 (see [8(b)] above), and the 2017 statements
+corroborated the Proof of Debt. What is pertinent to note is that within the
+2017 statements, the auditors gave the opinion that except for other matters
+(which do not concern the debt owing by Kyen to Feima), the “financial
+statements give a true and fair view of the financial position of [Feima] as
+at 31 December 2017”. 63
+
+##### Foot Note 63
+
+×
+
+1 CTKS at p 979.
+
+Thus, the qualification that was made in the 2018 audited financial statements
+were not made in the 2017 audited financial statements. It is also relevant to
+note that the figure in 2017 was much greater (HKD 505,727,215) than that in
+2018 (HKD 385,549,890), but this greater figure in 2017 was deemed to be
+accurate by the auditors.
+
+108 In this connection, I also note that Feima’s detailed ledger corroborated
+both of these numbers (together with the supporting documents), and included
+details showing how the balance of HKD 505,727,215 that was payable by Kyen as
+at 31 December 2017 was gradually reduced by a series of about 133 separate
+transactions to HKD 384,549,890 by 31 December 2018. 64
+
+##### Foot Note 64
+
+×
+
+1 CTKS at [12(4)]; 1 CTKS at pp 182–189.
+
+109 Additionally, the figure of HKD 505,727,215 is itself corroborated by
+Kyen’s own financial statements for 2017 (being the latest set of audited
+financial statements produced for Kyen). The 2017 audited financial statements
+showed that the total figure of USD 64,696,911 (roughly equivalent to the
+figure of HKD 505,727,215) was payable by Kyen to Feima under the “immediate
+holding company” category for the trade payables (USD 16,513,410) and non-
+trade payables (USD 48,183,501). 65
+
+##### Foot Note 65
+
+×
+
+1 CTKS at p 1058.
+
+Thus, Kyen’s own auditors (which were completely different from the auditors
+performing the audit for Feima) agreed with the accounting of the transactions
+between Feima and Kyen, as reflected in its financial statements. The Kyen
+auditors had stated their professional opinion on the Kyen financial
+statements for 2017 as follows: 66
+
+##### Foot Note 66
+
+×
+
+1 CTKS at p 1028.
+
+[the 2017 Kyen financial statements were] properly drawn up in accordance with
+the provisions of the Companies Act, Cap 50 (the “Act”) and Financial
+Reporting Standards in Singapore (“FRSs”) so as to give a true and fair view
+of the financial position of the Company as at 31 December 2017 and of the
+financial performance, changes in equity and cash flows of the Company for the
+year ended on that date. …
+
+110 Lastly, weight must be given to the statement of affairs filed by one of
+the Kyen directors which states that Feima has an unsecured claim of USD
+49,355,996.30 against Kyen. 67
+
+##### Foot Note 67
+
+×
+
+2 CKT at p 766.
+
+111 Taking all of the circumstances holistically, even though there was the
+qualification made in the 2018 statements, I find that all the other documents
+(consisting of Feima’s audited financial statements in 2017, Kyen’s own
+audited financial statements in 2017, Feima’s detailed ledger, and Kyen’s
+statement of affairs) provided sufficient corroboration for the Proof of Debt
+to be admitted. Notably, there was a similar circumstance which occurred in
+Fustar (CA) where the earlier audited financial statements were unqualified by
+auditors, but then the later financial statements became qualified (at [28]).
+Despite this, the Court of Appeal did not necessarily find this fatal to
+admitting the proof of debt as there were other corroborating information.
+Coming back to the present facts, the fact that the 2018 statements had
+qualifications does not necessarily mean that the earlier set of accounts must
+be discarded entirely (especially given that the 2017 statements covered the
+larger sum of HKD 505,727,215). Further, the fact that the Proof of Debt was a
+debt that Kyen had itself consistently acknowledged as being owed and unpaid
+within its own audited financial statements in 2017 (without qualification)
+and in its statement of affairs, meant that Feima’s Proof of Debt should not
+be lightly rejected, because “[s]uch acknowledgements amount to an admission
+of the debt” (see Fustar CA at [21]).
+
+(C) Kyen’s audited financial statements can be relied on
+
+112 For completeness, the defendants also argue that Kyen’s audited financial
+statements in 2017 and Kyen’s statement of affairs cannot be relied upon. I
+turn to these arguments now.
+
+113 As for Kyen’s audited financial statements in 2017, the defendants’
+objection is that these statements are unreliable because they were prepared
+under the control and supervision of Feima. Further, while having such control
+and supervision, Feima was involved in the Third Party Transactions. As such,
+the defendants say that there is a legitimate concern over the probative value
+of these accounts and the Kyen Liquidators are hence justified in going beyond
+Kyen’s accounts. 68
+
+##### Foot Note 68
+
+×
+
+DWS at [6.3.6].
+
+I do not agree with this submission. In the first place, I do not think that
+the Kyen Liquidators have successfully raised any suspicion that is needed to
+trigger a heightened scrutiny of the documents. Their assertions of the
+alleged Third Party Transactions, which are connected to their counterclaims
+in dishonest assistance and knowing receipt, cannot be resolved simply on the
+Kyen Liquidators’ own adjudication. Second, Kyen’s financial statements are
+audited without qualification of the debt in question (as I have mentioned at
+[109] above). Kyen’s auditors have in their independent audit report stated
+that the financial statements for FY2017 have been properly drawn up in
+accordance with the statutory requirements. These statements are assessed to
+give a true and fair view of Kyen’s financial position as at 31 December 2017.
+
+114 In Fustar CA, a similar complaint was raised as the controlling common
+director of both the creditor and insolvent companies was the source from
+which the auditors had gleaned their financial information. Notwithstanding
+this, the Court of Appeal was slow to conclude that this necessarily casted
+doubt on the information in the accounts (at [28]):
+
+… Who else but [the controlling common director] would have extensive
+information about the Company at his finger tips? The fact that the auditors
+relied on [the controlling common director] for information does not in itself
+suggest that the accounts stated were wrong.
+
+Thus, just because Mr Yan (a director from Feima) was responsible for
+supervising Kyen’s employee in the preparation of the Kyen accounts, this does
+not by itself necessarily raise any suspicions or make the audited financial
+statements unreliable.
+
+(D) Kyen’s statement of affairs
+
+115 Turning then to Kyen’s statement of affairs, the defendants say that this
+is not reliable evidence because several key transactions were omitted from it
+during its preparation and Kyen’s directors have not provided the Kyen
+Liquidators with any satisfactory explanation for the said omissions. 69
+
+##### Foot Note 69
+
+×
+
+DWS at [6.3.7].
+
+I disagree with this submission. First, the statement of affairs does, in
+fact, state that Feima has an unsecured claim of USD 49,355,996.30 against
+Kyen. Second, the statement of affairs serves a merely corroborative function
+and Feima does not need to depend on it for the Proof of Debt.
+
+116 Having concluded that there is nothing on the facts to cause me to
+generally doubt the reliability of (a) Feima’s audited financial statements,
+(b) Kyen’s audited financial statements, and (c) Kyen’s director’s statement
+of affairs, I now consider if Feima has successfully made out its claims based
+on these financial statements, as well as its general ledger and other
+supporting documents.
+
+(2) Whether Feima has made out its claims
+
+(A) Overview of Feima’s claims
+
+117 I turn first to Feima’s detailed ledger to meet the defendants’ argument
+that Feima had not produced the underlying agreements or bank payment advices
+for its claims. In my judgment, the detailed ledger has set out more than 200
+transactions that Feima had with Kyen from 2016 onwards. It shows clearly that
+the USD 49,355,996.30 claimed in the Proof of Debt as comprising, amongst
+other things, the following balances: 70
+
+##### Foot Note 70
+
+×
+
+2 CKT at [3.2.1].
+
+(a) The Purchase Debts of USD 25,824,511.08 due from Kyen to Feima as a result
+of goods sold by Feima to Kyen. 71
+
+##### Foot Note 71
+
+×
+
+2 CKT at [6.1.2].
+
+(b) The Intercompany Claims of RMB 124,145,239.85 due from Kyen to Feima as a
+result of payments made by Feima to or on behalf of Kyen, and USD 5,182,755.32
+due from Kyen to Feima as a result of payments made by Feima to Kyen or on
+Kyen’s behalf.
+
+118 For completeness, I do not deal with HKD 12,957.94 due from Feima to Kyen
+as a result of amounts paid by Kyen on behalf of Feima, as this would not
+affect the Proof of Debt, being a liability from Feima to Kyen.
+
+(B) USD 25,824,511.08 due from Kyen to Feima as a result of goods sold by
+Feima to Kyen
+
+119 In respect of the Purchase Debts of USD 25,824,511.08 due from Kyen to
+Feima as a result of the sale of goods, I am satisfied that in every instance
+where payment has been made by Kyen as a result of goods supplied by Feima to
+Lyen from 2016 onwards, the Feima Liquidators have provided supporting
+documents such as bank transaction statements and bank advice to show the
+date, the transaction amount and the bank account details for the monies which
+were transferred from Kyen to Feima. The defendants’ general objection is that
+Feima’s bank payment advices do not identify any underlying basis or
+justification for the transactions that had taken place. I do not accept this
+objection as being capable of rejecting the Proof of Debt in relation to the
+USD 25,824,511.08 outright. As I said above, there is no particular “trigger”
+that would justify me taking a heightened scrutiny of the claims in the Proof
+of Debt. I therefore do not accept that I should go behind each and every of
+the claims, including the bank payment advices, to ascertain the underlying
+basis or justification for the transaction. This would go beyond the pale and
+I do not think this is necessary for the present case.
+
+120 Going then into the specifics, in the first place, out of the USD
+25,824,511.08 due from Kyen to Feima as a result of the sale of goods, the
+Kyen Liquidators have not raised any challenge to USD 3,348,040.47. Thus,
+leaving aside the Kyen Liquidators’ objections to the other claims, this sum
+of USD 3,348,040.47 claimed in the Proof of Debt should be admitted. Indeed,
+Mr Chan confirmed before me that if I were not with him on the “primary”
+ground of rejection, then this sum of USD 3,348,040.47, being unchallenged by
+the Kyen Liquidators, should be admitted. For the avoidance of doubt, this sum
+of USD 3,348,040.47 is derived from the balance of USD 25,824,511.08 stated in
+the general ledger, less USD 5,067,813.82 and USD 590,505.97 arising from the
+allegedly non-genuine transactions (which I will consider below), and less USD
+16,818,150.82 being the amounts assigned to SPDB and for which Feima no longer
+claims.
+
+121 I turn then to the remaining claim of USD 5,067,813.82 and USD 590,505.97
+under this head. This claim arises out of Purchase Contract P-CU-F192 entered
+into between Kyen and Feima for the sale of copper cathodes by Feima to Kyen
+(“the Purchase Contract”). The Kyen Liquidators’ objection is premised on the
+fact (a) that they are unable to locate any documentary evidence of the goods
+being delivered to Kyen pursuant to the Purchase Contract, and (b) that, in
+the ordinary course of Kyen’s business, Kyen would purchase the copper
+cathodes first and then sell them to a third party. In this respect, the Kyen
+Liquidators were unable to find any evidence to suggest that the copper
+cathodes were ever sold to a third party.
+
+122 I reject the Kyen Liquidators’ reasons for objection for the following
+reasons. First, I reject the Kyen Liquidators’ reason that they are unable to
+locate any documentary evidence of the goods being delivered to Kyen. In this
+regard, the Purchase Contract states that the copper cathodes are to be
+delivered to Shanghai, China. The relevant bills of lading do show the
+delivery of the copper cathodes to Shanghai. 72
+
+##### Foot Note 72
+
+×
+
+3 CTKS at pp 12–19.
+
+In addition, there are contemporaneous documents showing that the transaction
+had taken place. For instance, Feima had issued a final invoice reflecting the
+figures concerned, a debit note for the sum of USD 590,505.97 was issued on 18
+July 2018, and the Purchase Contract was formally entered into between Feima
+and Kyen on 4 July 2018. Finally, the general ledger and audited financial
+statements of both Feima and Kyen support and confirm the contemporaneous
+documents that this balance is being owed. I do not think that the Kyen
+Liquidators, when faced with these documents, can simply reject the claim on
+the basis that they were unable to locate any documentary evidence of the
+goods being delivered to Kyen.
+
+123 More broadly, I do not think that there is any fact which might trigger
+suspicion that the transaction is fictitious. Indeed, as Feima points out, the
+general ledger shows numerous transactions between Feima and Kyen for the sale
+of goods by Kyen to Feima since 2016. The fact is that there has been a
+consistent pattern of such business dealings since 2016, which have all been
+documented in a consistent manner. The Kyen Liquidators cannot pick a single
+transaction and dispute it on the basis that they cannot find the relevant
+documents, when they have not challenged the other transactions which have
+been documented in a similar manner.
+
+124 Accordingly, in relation to the USD 25,824,511.08 due from Kyen to Feima
+as a result of goods sold by Feima to Kyen, I reject the Kyen Liquidators’
+decision to reject:
+
+(a) USD 3,348,040.47, which has not been challenged;
+
+(b) USD 5,067,813.82 and USD 590,505.97, for which I reject the reasons for
+rejection.
+
+I, however, affirm the Kyen Liquidators’ decision to reject the USD
+16,818,150.82, being the amount assigned to SPDB and for which Feima no longer
+claims.
+
+(C) RMB 124,145,239.85 due from Kyen to Feima as a result of payments made by
+Feima to or on behalf of Kyen
+
+125 In respect of the RMB 124,145,239.85 due from Kyen to Feima as a result of
+payments made by Feima to or on behalf of Kyen, the Kyen Liquidators’
+objection is that “there is insufficient evidence that these were genuine
+transactions made by [Feima] on [Kyen’s] behalf”. 73
+
+##### Foot Note 73
+
+×
+
+2 CKT at [5.1.5].
+
+126 I reject the Kyen Liquidators’ rejection of this claim. In my judgment,
+the claim of RMB 124,145,239.85 is supported by evidence found in the ledger,
+the bank transaction confirmations that support the entries in the ledger, and
+which are corroborated by Kyen and Feima’s audited financial statements and by
+the Kyen’s director’s statement of affairs. I agree with Feima that the bank
+transfer confirmations show real transfers. The ledger, audited financial
+statements and statement of affairs then confirm that these transfers give
+rise to a debt.
+
+(D) USD 5,182,755.32 due from Kyen to Feima as a result of payments made by
+Feima to Kyen or on Kyen’s behalf
+
+127 In relation to the USD 5,182,755.32 due from Kyen to Feima as a result of
+payments made by Feima to Kyen or on Kyen’s behalf, the Feima Liquidators have
+provided a ledger showing that this sum was arrived at after a series of 90
+USD transactions which took place from 17 February 2016 to 31 July 2019. These
+90 transactions reflected in the general ledger comprise of transactions
+showing:
+
+(a) USD payments made from Kyen (either by Kyen itself or on Kyen’s behalf) to
+Feima.
+
+(b) USD payments made by Feima either directly to Kyen or on Kyen’s behalf.
+This included legal fees paid on behalf of Kyen of USD 100,000 on 10 December
+2018 and of USD 50,000 on 2 April 2019 (“the Legal Fees”).
+
+(c) Management fees of USD 2,000,000 due from Kyen to Feima for 2017 (this
+being the basis of the Management Fees Claim, see [15(b)(ii)] above).
+
+128 The Kyen Liquidators have made specific objections to the Legal Fees and
+the Management Fees Claim, which I will deal with. But apart from these
+specific objections, the Kyen Liquidators’ objection to the remainder of the
+USD 5,182,755.32 is premised on similar objections as above that centre on the
+lack of evidence. I reject these objections for the same reasons as above.
+Indeed, in respect of this sum of USD 5,182,755.32, I note that for each
+payment that has been made, at least a copy of the bank confirmation statement
+or advice has been provided. These documents show the date of the transfer,
+the parties to the transfer, and the bank account involved in the transfer,
+and in some instances, documents showing exactly what the payment was for. I
+therefore do not accept the Kyen Liquidators’ objection founded on lack of
+documentation.
+
+129 I turn to the Legal Fees. The Kyen Liquidators’ rejection is based on
+there being no evidence of the relevant legal services being provided. More
+importantly, Feima was not even the party which made the relevant payments. In
+this regard, the Kyen Liquidators reject Feima’s explanation that a third
+party, Uni-Tops International (Hong Kong) Ltd (“Uni-Tops”) had made payment of
+the amount on Feima’s behalf, as there is no evidence that Kyen agreed to be
+liable to Feima for the payments made by Uni-Tops.
+
+130 I disagree with the Kyen Liquidators’ rejection. Instead, I accept the
+Feima Liquidator’s explanation, which is based on the provision of (a) the
+Special Legal Service Contract governing the provision of legal services from
+the law firm to Kyen, (b) email correspondence showing that the USD 150,000
+was expressly noted by Kyen’s staff as expenses of Kyen, and (c) Feima’s
+journal vouchers showing that the payment to Kyen’s law firm by Uni-Tops
+resulted in an amount due by Feima to Uni-Tops. I agree that it is likely that
+the journal vouchers were recorded in this manner is that Uni-Tops was paying
+on behalf of Feima and this was the conclusion of the investigations.
+
+131 I turn then to the Management Fees Claim. This claim is based on a signed
+Management and Administrative Services Agreement between Feima and Kyen that
+expressly provides at Clause 5.2 that Kyen shall pay Feima a management fee of
+USD 2,000,000 for such calendar year or other mutually agreed amount. The Kyen
+Liquidators’ rejection is based on Feima’s alleged knowing receipt of and
+dishonest assistance in relation to the Third Party Transactions. As a result,
+the Kyen Liquidators say that Feima has breached Clause 4.1 of the Management
+and Administrative Services Agreement, which require the Manager to serve Kyen
+in good faith. By breach of this clause, the Kyen Liquidators say that Feima
+is not entitled to the fees under the Management and Administrative Services
+Agreement.
+
+132 I reject this rejection on the ground that the Kyen Liquidators have not
+made out their counterclaims in dishonest assistance and knowing receipt. As I
+have said above, the proper avenue for adjudicating on these heavily fact-
+dependent claims is not the adjudication procedure. Accordingly, the very
+premise of the Kyen Liquidators’ rejection, namely, the breach of Clause 4.1
+has not been established.
+
+Conclusion on the Kyen Liquidators’ “secondary ground” for rejection
+
+133 In summary, I disagree with the Kyen Liquidators’ rejection of the
+following claims in the Proof of Debt. I consequently find that they should be
+admitted in these amounts:
+
+(a) In relation to the Purchase Debts of USD 25,824,511.08 due from Kyen to
+Feima as a result of goods sold by Feima to Kyen:
+
+(i) USD 3,348,040.47, which has not been challenged,
+
+(ii) USD 5,067,813.82 and USD 590,505.97,
+
+(iii) but not USD 16,818,150.82 (in respect of the Deed of Assignment that
+Feima is no longer claiming).
+
+(b) In relation to the Intercompany Claims:
+
+(i) RMB 124,145,239.85 due from Kyen to Feima as a result of payments made by
+Feima to or on behalf of Kyen in full; and
+
+(ii) USD 5,182,755.32 due from Kyen to Feima as a result of payments made by
+Feima to Kyen or on Kyen’s behalf in full.
+
+Conclusion
+
+134 For all the reasons given above, I allow Feima’s application except in
+relation to USD 16,818,150.82 that is the subject of the Deed of Assignment.
+
+135 I am thankful to both Mr Yeo and Mr Chan, as well as their respective
+teams, for their able and helpful submissions.
+
+136 Unless the parties are able to agree on the appropriate costs order for
+this application, they are to write in with their brief submissions on the
+matter within 14 days of this decision.
+
+Goh Yihan  
+Judicial Commissioner|  
+---|---  
+  
+Yeo Alexander Lawrence Han Tiong and Chew Jing Wei (Allen & Gledhill LLP) for
+the plaintiff;
+
+Chan Ming Onn David, Fong Zhiwei Daryl, Tan Kah Wai and Lai Wei Kang Louis
+(Shook Lin & Bok LLP) for the defendants.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 05 Dec 2022 (11:44 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

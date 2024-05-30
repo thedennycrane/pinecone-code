@@ -1,0 +1,1054 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2024] SGHC 7
+
+Suit No 222 of 2022
+
+Between
+
+| Keppel DC Singapore 1 Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+| DXC Technology Services Singapore Pte Ltd  
+---|---  
+  
+… Defendant
+
+JUDGMENT
+
+[Contract — Contractual terms]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Keppel DC Singapore 1 Ltd
+
+  
+v
+
+  
+
+DXC Technology Services Singapore Pte Ltd
+
+[2024] SGHC 7
+
+General Division of the High Court — Suit No 222 of 2022  
+Hri Kumar Nair J  
+22 December 2023
+
+12 January 2024 Judgment reserved.
+
+Hri Kumar Nair J:
+
+Introduction
+
+1 The issue before me is simple – does the written agreement between the
+parties allow the defendant to unilaterally amend the scope of the services
+the plaintiff had agreed to provide?
+
+Facts
+
+2 The plaintiff (“Keppel”) operates a six-storey data centre facility (the
+“Facility”) in Serangoon North Industrial Estate. 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Matthew William Benic (12 May 2023) (“Benic-1”) at para 10.
+
+On 30 November 2010, Keppel entered into a Standard Services Agreement (the
+“SSA”) with the defendant (“DXC”), 2
+
+##### Foot Note 2
+
+×
+
+Affidavit of Anson Tung (12 May 2023) (“Tung-1”) at pp 36–55.
+
+which contained the terms and conditions under which Keppel was to provide
+data centre space (the “Data Centre”) in the Facility (and associated
+services) to DXC for a period of five years with an option for renewal. 3
+
+##### Foot Note 3
+
+×
+
+Affidavit of Alexandra Theydon (12 May 2023) (“Theydon-1”) at paras 12–13.
+
+The Statement of Work (“SOW”) at Exhibit A of the SSA stated that the total
+space to be provided to DXC was 20,300 sq ft, comprising four modules (the
+“Modules”) – Modules A to D – with each occupying approximately 5,000 sq ft of
+space. 4
+
+##### Foot Note 4
+
+×
+
+Tung-1 at para 11, p 59.
+
+DXC was to pay Keppel a Monthly Recurring Charge (the “MRC”) and electricity
+charges. These charges were set out in the “Contract Pricing” document (the
+“Contract Pricing”) at Exhibit B of the SSA. 5
+
+##### Foot Note 5
+
+×
+
+Theydon-1 at para 16, Tung-1 at pp 72–75.
+
+3 The SSA provided that Keppel was not to commence the provision of services
+to DXC until it received a Purchase Order (“PO”) from DXC. 6
+
+##### Foot Note 6
+
+×
+
+Tung-1 at p 37.
+
+Following the execution of the SSA, DXC issued the first PO on 8 March 2011. 7
+
+##### Foot Note 7
+
+×
+
+Theydon-1 at para 37.
+
+The SSA was subsequently renewed twice – first for five years commencing 1
+March 2017 and then for five years from March 2020 to 31 March 2025. 8
+
+##### Foot Note 8
+
+×
+
+Tung-1 at pp 98, 106.
+
+DXC continued to issue yearly POs in relation to its use of all four Modules
+until May 2021, 9
+
+##### Foot Note 9
+
+×
+
+Theydon-1 at para 39.
+
+, although not all of them were issued immediately after the end of the
+preceding year of service. These POs would include the MRC for the Modules and
+an approximation of electricity charges for that year. 10
+
+##### Foot Note 10
+
+×
+
+Tung-1 at para 24(a).
+
+4 In 2020 and 2021, DXC carried out a review of its requirements pertaining to
+the Data Centre. It concluded that the Data Centre had significant space
+capacity and it was unlikely that DXC would secure new customers to take up
+this spare capacity. 11
+
+##### Foot Note 11
+
+×
+
+Theydon-1 at para 41.
+
+DXC therefore made the decision to give up the use of Modules C and D. 12
+
+##### Foot Note 12
+
+×
+
+Theydon-1 at para 42.
+
+5 On 13 May 2021, DXC issued a PO (the “2021 PO”) for the use of only Modules
+A and B for the period between 1 April 2021 and 31 March 2022. 13
+
+##### Foot Note 13
+
+×
+
+Tung-1 at para 34; Theydon-1 at para 43, pp 125–130.
+
+On 17 May 2021, DXC issued a Change Order (“CO”) (the “2021 CO”) reflecting
+its intention to return Modules C and D to Keppel. 14
+
+##### Foot Note 14
+
+×
+
+Tung-1 at para 38; Theydon-1 at para 44, pp 131–132.
+
+Following the issuance of the 2021 PO, parties engaged in a series of
+correspondence in which they disputed the legality of the 2021 PO. Keppel’s
+position was that the 2021 PO was in breach of the SSA, which (in Keppel’s
+view) obliged DXC to pay for the use of all four Modules. DXC responded that
+there was no such requirement under the SSA. 15
+
+##### Foot Note 15
+
+×
+
+Tung-1 at paras 37–48; Theydon-1 at paras 46–56.
+
+Keppel continued to issue invoices to DXC which included the MRC and
+electricity charges for Modules C and D. 16
+
+##### Foot Note 16
+
+×
+
+Tung-1 at para 45.
+
+DXC maintained that the invoices were defective and only paid the amounts
+relating to Modules A and B. 17
+
+##### Foot Note 17
+
+×
+
+Tung-1 at paras 46–47; Theydon-1 at paras 49–50.
+
+6 DXC issued similar POs on 8 March 2022 and 7 April 2023 for the use of only
+Modules A and B for the respective annual periods. 18
+
+##### Foot Note 18
+
+×
+
+Tung-1 at paras 50, 53.
+
+To date, DXC has only paid the invoiced amounts relating to Modules A and B
+from 1 April 2021, and has not paid any amounts relating to Modules C and D.
+19
+
+##### Foot Note 19
+
+×
+
+Tung-1 at para 57.
+
+7 Keppel claims the sum of $3,021,316.20 as the sum outstanding from April
+2021 to December 2021. Further and/or in the alternative, Keppel claims
+damages to be assessed for all losses it suffered from 1 April 2021 to 31
+March 2025 as a result of DXC’s breach, subject to the issue of mitigation. 20
+
+##### Foot Note 20
+
+×
+
+Statement of Claim (Amendment No 1) at para 24; Plaintiff’s Written
+Submissions (“PWS”) at para 62; Plaintiff’s Reply Submissions at para 32.
+
+Summary determination
+
+8 Much of the dispute centred on the interpretation of the SSA – primarily,
+whether DXC was permitted under the SSA to unilaterally revise the services
+provided by Keppel, such that DXC could “return” Modules C and D to Keppel and
+only use and make payment for the use of Modules A and B for its Data Centre.
+21
+
+##### Foot Note 21
+
+×
+
+Defendant’s Written Submissions (“DWS”) at para 6; PWS at para 2.
+
+9 The action is currently set down for trial for 12 days in February 2024. At
+a case conference before me on 6 November 2023, I directed parties to state
+whether I needed to hear any evidence for the purpose of interpreting the SSA,
+and whether that issue could be decided summarily pursuant to O 14 r 12(1) of
+the Rules of Court (Cap 322, 2014 Rev Ed) (“ROC 2014”). Keppel agreed to the
+summary disposal, but DXC did not. 22
+
+##### Foot Note 22
+
+×
+
+Letter to court from TSMP Law Corporation (14 Nov 2023); Letter to court from
+Bird & Bird ATMD LLP (14 Nov 2023).
+
+10 I therefore ordered parties to file written submissions on the issue of the
+proper interpretation of the SSA, granting leave to include arguments why this
+issue cannot or should not be determined ahead of trial. 23
+
+##### Foot Note 23
+
+×
+
+Correspondence from courts (16 Nov 2023).
+
+However, neither party offered such arguments in their written submissions.
+
+11 Under O 14 r 12(1) of the ROC 2014, the court may determine any question of
+law or construction of any document where it appears to the court that such
+question is suitable for determination without a full trial of the action, and
+such determination will fully determine (subject to any possible appeal) the
+entire cause or matter or any claim or issue therein. Summary determination is
+suitable for points of law which do not require any evidence or may be
+determined on the basis of agreed or undisputed facts; factual disputes are
+not suitable for summary determination: The “Chem Orchid” and other appeals
+and another matter [2016] 2 SLR 50 at [60]. In deciding whether the discretion
+under O 14 r 12(1) should be exercised, the overriding consideration is
+whether summary determination on the facts of the case would fulfil the
+underlying purpose of O 14 r 12, which is to save time and costs for the
+parties: Manas Kumar Ghosh v MSI Ship Management Pte Ltd and others [2021] 4
+SLR 935 at [18].
+
+12 I exercised the court’s power under O 14 r 12(1) of the ROC 2014 to make a
+summary determination. 24
+
+##### Foot Note 24
+
+×
+
+Correspondence from courts (16 Nov 2023).
+
+The interpretation of the SSA was an issue suitable for summary determination.
+The issue did not involve any material factual dispute and no evidence was
+needed to be heard to resolve it. None of the witnesses called by the parties
+were involved in the negotiations leading to the formation or execution of the
+SSA in 2010. 25
+
+##### Foot Note 25
+
+×
+
+DWS at para 6.
+
+Further, the parties relied primarily on the text of the SSA in interpreting
+it and it is not their respective pleaded cases that the text bore a meaning
+different from that of its plain language. 26
+
+##### Foot Note 26
+
+×
+
+PWS at para 17.
+
+I also considered that summary determination of the issue would save time and
+costs for the parties – if the issue were to be determined in DXC’s favour,
+there would be no breach of the SSA and therefore no need for a trial; on the
+other hand, if the issue were to be determined in Keppel’s favour, the sole
+issue at trial would be that of Keppel’s (alleged) failure to mitigate its
+damages.
+
+Applicable law
+
+13 The relevant principles of contractual interpretation are set out in Zurich
+Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd
+[2008] 3 SLR(R) 1029 (“Zurich Insurance”) at [131]:
+
+(a) the aim of contractual interpretation is to ascertain the meaning which
+the contractual language would convey to a reasonable business person;
+
+(b) the interpretive exercise is one based on the whole contract. Excessive
+focus should not be placed on a particular word, sentence, or clause;
+
+(c) the court may consider the relevant context of a contract, which includes
+the legal, regulatory and factual matrix which constitutes the background in
+which it was drafted;
+
+(d) a construction which leads to unreasonable results is to be avoided; and
+
+(e) a more specific or detailed provision should override an inconsistent
+general provision.
+
+Nature of the SSA
+
+14 It is undisputed that the SSA was a standard form agreement that DXC used
+in its dealings with various counterparties when seeking the provision of
+services. 27
+
+##### Foot Note 27
+
+×
+
+Theydon-1 at para 11; Tung-1 at para 7.
+
+Thus, it appears that while the SOW and the Contract Pricing were specifically
+negotiated by parties, the body of the SSA was not. 28
+
+##### Foot Note 28
+
+×
+
+Tung-1 at para 13.
+
+15 Although the SSA is framed as a contract for services, it is in substance a
+fixed‑term contract for a custom-fitted space with services and utilities.
+This is evidenced by several clauses of the SSA and its exhibits.
+
+16 First, cl 1.3 of the SSA provides that the SSA “will have a term of five
+(5) years”, and “parties may agree in writing to renew [the SSA] for
+successive five (5) year terms”. 29
+
+##### Foot Note 29
+
+×
+
+Tung-1 at p 37.
+
+Similarly, the “Work Summary” at cl 1.2 of the SOW states that Keppel will
+provide the Data Centre space “according to the agreed specifications for a
+fixed price … for a period of 5 years (Initial Term) with an option to extend
+for a further 5 years”. 30
+
+##### Foot Note 30
+
+×
+
+Tung-1 at p 58.
+
+Clause 3.1 of the SOW (titled “Supplier Provided Services”) specifies the
+total area of the Data Centre (20,300 sq ft initially, later enlarged by
+consent to 20,500 sq ft) 31
+
+##### Foot Note 31
+
+×
+
+Tung-1 at para 15.
+
+and the technical specifications which Keppel was to design the Data Centre in
+accordance with (including circuitry, cooling and lighting requirements). 32
+
+##### Foot Note 32
+
+×
+
+Tung-1 at pp 59–61.
+
+17 The Data Centre space was to be provided in four modules – ie, Modules A to
+D – of 5000 sq ft each (the final one being 5300 sq ft), to be fitted out by
+Keppel over a period of 11 months (+/- three months at DXC’s discretion). 33
+
+##### Foot Note 33
+
+×
+
+Tung-1 at p 59.
+
+In addition, Keppel was to provide, at no additional cost, “Media Management
+Office space and Media Storage space totaling [sic] 538 sq ft” (the “Media
+Space”). 34
+
+##### Foot Note 34
+
+×
+
+Tung-1 at p 61.
+
+18 Second, the Contract Pricing sets out the MRC on a year-on-year basis
+across the five-year term of the SSA. 35
+
+##### Foot Note 35
+
+×
+
+Tung-1 at p 72.
+
+The MRC is not based on the individual modules, but on a monthly subscription
+based on each square foot used or occupied of the Data Centre. The MRC
+excludes the costs of the power consumed by DXC. 36
+
+##### Foot Note 36
+
+×
+
+Tung-1 at p 74.
+
+19 Third, cl 14 of the Contract Pricing provides, similar to cl 5.6 of the
+SSA, that in the event of suspension or termination of the SSA prior to the
+end of the term (other than for a material breach by Keppel), DXC must pay
+Keppel a sum – called a “Minimum Charge” – equivalent to 100% of the total
+charges which would have been payable to Keppel for the remainder of the
+initial five‑year term, and, if the SSA was renewed, 50% of the total charges
+which would have been payable for the remainder of the renewed term. 37
+
+##### Foot Note 37
+
+×
+
+Tung-1 at pp 41, 74.
+
+20 Thus, the clear implication from these provisions is that the SSA was meant
+to be a renewable fixed‑term contract for a period of five years, under which
+Keppel was obligated to provide a fixed amount of space and specified
+services. In exchange, Keppel was to be paid the MRC and accompanying charges
+for the entire fixed space for the initial five-year term and second five‑year
+term (if renewed), and in the event of premature termination, was guaranteed
+payment of the Minimum Charge, which was based on the MRC and accompanying
+charges for the entire fixed space.
+
+21 The provisions make it clear that DXC was contracting for use of the entire
+space in the Data Centre as a whole, and did not contemplate that DXC had the
+option of only using, and paying for, some and not all of the Modules during
+the initial or renewed terms of the SSA.
+
+22 This analysis is not affected by the subsequent amendments to the SSA in
+the Amendment Agreement dated 28 February 2017 (the “1st AA”) 38
+
+##### Foot Note 38
+
+×
+
+Tung-1 at pp 97–104.
+
+and the Amendment Agreement dated 27 March 2020 (the “2nd AA”) 39
+
+##### Foot Note 39
+
+×
+
+Tung-1 at pp 105–110.
+
+(collectively, the “AAs”). The AAs renewed or extended the SSA – first for
+five years commencing 1 March 2017, and then for five years up to 31 March
+2025 – and introduced amendments mainly to vary the Contract Pricing and
+increase the Minimum Charge payable by DXC (under cl 5.6 of the SSA) in
+respect of the renewed terms. 40
+
+##### Foot Note 40
+
+×
+
+Tung-1 at paras 16–22.
+
+23 I note that cl 18.1 of the SSA (as it originally appears) states that
+“[DXC] reserves the right to terminate [the SSA] or any Statement of Work
+hereunder without liability at any time, with or without cause, upon thirty
+(90) [sic] days prior written notice to [Keppel]”. 41
+
+##### Foot Note 41
+
+×
+
+Tung-1 at p 51.
+
+This appears to contradict the requirement under cl 14 of the Contract Pricing
+and cl 5.6 of the SSA that DXC pay Keppel the Minimum Charge in the event of
+termination or suspension of services (save for material breach by Keppel).
+However, the standard terms in the body of the SSA must be read in light of
+the specifically negotiated terms. A more specific or detailed contractual
+provision should override an inconsistent general provision: Zurich Insurance
+at [131]. Thus, the termination provision in cl 18.1 must be read subject to
+DXC’s obligation to pay the Minimum Charge as stipulated under cl 14 of the
+Contract Pricing and cl 5.6 of the SSA.
+
+24 In any event, this apparent inconsistency (as well as the typographical
+error in cl 18.1) was subsequently addressed. Clause 18.1 of the SSA was
+amended by the 2nd AA on 27 March 2020 to read “[s]ubject to Section 5.6
+(Minimum Charges), DXC reserves the right to terminate [the SSA] or any
+Statement of Work hereunder without liability at any time … by way of issuing
+to [Keppel] ninety (90) days’ prior written notice”. 42
+
+##### Foot Note 42
+
+×
+
+Tung-1 at para 22.
+
+Since the dispute began with the issuance of the 2021 PO and the 2021 CO on 13
+and 17 May 2021 respectively, 43
+
+##### Foot Note 43
+
+×
+
+Tung-1 at paras 34, 38; Theydon-1 at paras 43–44.
+
+the applicable version of the SSA includes the amended cl 18.1 which
+recognises DXC’s obligation to pay the Minimum Charge in the event it
+terminates or suspends the SSA.
+
+25 I highlight that DXC’s case is that the terms of the SSA have been varied,
+not that the SSA has been suspended or terminated. No Notice of Termination
+has been issued, and DXC is still making use of Modules A and B. 44
+
+##### Foot Note 44
+
+×
+
+DWS at para 61.
+
+26 In the circumstances, the real issue is whether DXC is entitled under the
+SSA (as amended by the AA) to unilaterally reduce the Data Centre to just
+Modules A and B, and to pay a reduced charge for the same.
+
+Main issues
+
+Change Order
+
+27 DXC argues that it is entitled, via a CO under the SSA, to unilaterally
+amend the SSA to reduce the size of the Data Centre or change the services
+Keppel is obliged to provide.
+
+28 This issue turns on the interpretation of the provisions in the SSA
+relating to COs, set out below: 45
+
+##### Foot Note 45
+
+×
+
+Tung-1 at pp 37–38, 43.
+
+2.3 “Change Order” means a written order in the form of Exhibit E Change Order
+Form that is signed by an authorized representative of [DXC], and that
+authorizes an addition, deletion or revision in the Services or an adjustment
+to the Maximum Cost or the time for performance of the Services.
+
+…
+
+7.1 [DXC] may request changes in the Services at any time prior to completion.
+All changes will be documented in a Change Order before the change is
+executed. If any such change results in [Keppel’s] request for additional
+compensation, such claim must be in writing and must be submitted to [DXC]
+within ten (10) days after [DXC’s] request for the change that gives rise to
+the claim. Any such notice will include a reasonably detailed statement of the
+reasons for [Keppel’s] proposed additional compensation. The parties will in
+good faith negotiate an equitable adjustment to the Maximum Cost.
+
+29 DXC argues that the issuance of a CO under cl 7.1 of the SSA permits it to
+make changes in the services provided by Keppel at any time prior to
+completion. 46
+
+##### Foot Note 46
+
+×
+
+DWS at para 22.
+
+DXC points out that cl 2.3 of the SSA expressly defines a CO as a document in
+the format set out in Exhibit E of the SSA and “signed by an authorised
+representative of [DXC]”. 47
+
+##### Foot Note 47
+
+×
+
+DWS at para 40.
+
+DXC submits that there is no requirement for a CO to be signed or otherwise
+acknowledged by Keppel – this was a deliberate decision made by parties, as
+evidenced by the fact that other clauses in the SSA (eg, cl 2.11) expressly
+required that other documents be signed by authorised representatives of both
+parties. 48
+
+##### Foot Note 48
+
+×
+
+DWS at para 41.
+
+30 DXC accepts that its reading of the SSA would result in it being able to
+freely vary the space provided by Keppel – eg, by requiring 20,500 sq ft of
+space one year, then 10,000 sq ft the following year, and back to 20,500 sq ft
+in the third year. 49
+
+##### Foot Note 49
+
+×
+
+DWS at para 51.
+
+However, DXC argues that this scenario is not commercially absurd since Keppel
+would be able to seek recourse by submitting a written request for additional
+compensation pursuant to cl 7.1 of the SSA. 50
+
+##### Foot Note 50
+
+×
+
+DWS at para 52.
+
+31 DXC’s arguments fail for several reasons.
+
+32 First, any power given to one party to unilaterally re-write the terms of a
+contract is an extraordinary one and must be expressed in the clearest of
+terms. The terms of the SSA do not expressly allow DXC to unilaterally change
+the services it had contracted for, and indeed, suggest the opposite.
+
+33 Clause 7.1 of the SSA expressly states that DXC may request changes in the
+services provided; it does not stipulate that Keppel is obliged to agree to
+DXC’s requested changes. The requirement under cl 2.3 of the SSA for a CO to
+be “signed by an authorized representative of [DXC]” only speaks to the
+validity of the CO – in other words, it is a necessary condition for an
+effective CO, but not a sufficient one. Indeed, Exhibit E of the SSA – the
+“Change Order Form” specifically referred to in cl 2.3 – requires the
+representatives of both DXC and Keppel to sign to indicate their acceptance of
+the proposed modifications to the SSA. This plainly requires Keppel to agree
+to the changes requested by DXC.
+
+34 DXC argues that in the event of conflict between Exhibit E and the
+provisions of the SSA, cl 22 of the SSA provides that the latter would
+prevail. 51
+
+##### Foot Note 51
+
+×
+
+DWS at para 49.
+
+However, cl 22 only applies where there is a clear contradiction between the
+exhibits of the SSA and its provisions. That was not the case here since the
+two could be read harmoniously.
+
+35 DXC refers to other clauses in the SSA – cll 2.11 and 3.3 – where a party’s
+acceptance is specifically provided for, and contrasts these with cl 7.1 which
+does not expressly refer to Keppel’s acceptance of a CO. 52
+
+##### Foot Note 52
+
+×
+
+DWS at paras 41–42.
+
+This does not advance DXC’s case. Those provisions deal with entirely
+different matters. Further, as explained above, the language of the provisions
+dealing with COs refers to Keppel’s acceptance of DXC’s request.
+
+36 Second, the additional compensation provided for by cl 7.1 of the SSA
+clearly contemplates a situation where the requested change results in Keppel
+incurring additional costs or liabilities not agreed in or contemplated by the
+SSA. This is fortified by the requirement in cl 7.1 for Keppel to submit “a
+reasonably detailed statement of the reasons for [Keppel’s] proposed
+additional compensation”. Clause 7.1 does not contemplate a situation where
+DXC requests a change that will result in less payment being made to Keppel.
+It would not make sense for Keppel to have to submit reasons for such a
+change.
+
+37 Nevertheless, I would not go so far as to say that Keppel has the right to
+reject any changes requested by DXC. A parallel may be drawn here to building
+and construction contracts, in which a contractor is generally obliged to
+carry out variations requested by the employer (subject to appropriate
+adjustments in compensation), unless the effect of the requested variation
+would be to change the scope of the contract such that the works as varied
+become fundamentally different from that contemplated by the parties at the
+time of contracting: see Chow Kok Fong, Law and Practice of Construction
+Contracts (Sweet & Maxwell, 5th Ed, 2018) at paras 5.145–5.146, citing Thorn v
+London Corp (1876) 1 App Cas 120. Similarly, it is arguable that there is an
+implied term in the SSA that Keppel may not unreasonably reject DXC’s
+requested changes in so far as they are within the context of the scope of the
+agreed services. However, DXC is not asserting any such implied term. In any
+event, it would not be unreasonable for Keppel to reject the request under the
+2021 CO to discontinue the use of Modules C and D. In the context of a
+fixed‑term contract for custom-fitted space and services for a fixed price,
+that would amount to a change in the scope of the SSA that would make the
+services provided fundamentally or materially different from that contemplated
+by the parties at the time of contracting.
+
+38 I hasten to add that much depends on the precise wording of the contract.
+In construction contracts, the power to order a variation often rests with the
+architect or engineer (who in turn acts on the employer’s instructions): see
+Law and Practice of Construction Contracts at para 5.011. In such cases, the
+contractor is generally obliged to carry out the variation unless it changes
+the scope of the contract such that the works as varied become fundamentally
+different from that contemplated at the time of contracting. However, in the
+present case, the SSA on its face requires both Keppel and DXC to agree to a
+change. Thus, the category of changes which Keppel is obliged to agree to may
+be narrower than that in such construction contracts. In any event, the exact
+delineation of this category is not pertinent to the present case; DXC’s
+request under the 2021 CO was clearly outside its bounds.
+
+39 Third, DXC’s ability to unilaterally vary the area of the Data Centre in
+the manner it purported to do would be inconsistent with cl 14 of the Contract
+Pricing and cl 5.6 of the SSA, which guarantees Keppel the Minimum Charge. As
+stated above at [20], Keppel is guaranteed the Minimum Charge if DXC suspends
+or terminates the SSA. If DXC’s interpretation is correct, it can simply avoid
+paying the Minimum Charge by reducing the Data Centre to only 1 sq ft of space
+instead of suspending or terminating the SSA. The parties clearly could not
+have intended such an outcome.
+
+40 Fourth, I agree with Keppel’s argument that DXC’s reading of the CO
+mechanism under the SSA would result in commercial absurdity. If DXC is
+correct, Keppel would be obliged to make the full space – ie, Modules A–D –
+available for the entire contractual period, even though DXC could potentially
+request to use only 1 sq ft of space at any point. 53
+
+##### Foot Note 53
+
+×
+
+PWS at para 35.
+
+41 Further, as stated above at [30], DXC accepts that its reading of the SSA
+would result in it being able to freely vary the space provided by Keppel –
+eg, by requiring 20,500 sq ft of space one year, 10,000 sq ft the following
+year, and back to 20,500 sq ft in the third year. DXC’s response is that this
+argument “ignores the nature of the industry in which the parties operate. The
+very nature of a data centre makes it extremely unlikely for there to be such
+to-ing and fro‑ing in terms of the space needed”. 54
+
+##### Foot Note 54
+
+×
+
+DWS at para 51.
+
+This argument must fail. Not only is there no evidential basis for this
+submission, DXC’s argument in fact supports and explains why the parties would
+agree upfront to a fixed‑term contract for a fixed space – DXC’s requirements
+were, on its own case, unlikely to change.
+
+42 DXC’s interpretation would also allow it to “game” the deal it struck with
+Keppel: should market rates for data centre services fall substantially, DXC
+would be able to avoid paying Keppel the fixed rates it had agreed by
+substantially reducing the space under the SSA and taking up space at lower
+rates with Keppel’s competitors; should the market rates rise, DXC would
+simply hold Keppel to the agreed bargain under the SSA.
+
+43 In addition, regardless of DXC’s unilateral reductions of the space used,
+Keppel would still be obligated under the SSA to continue providing DXC the
+Media Space free-of-charge.
+
+44 All these consequences of DXC’s interpretation make no commercial sense and
+a contractual interpretation resulting in them must be avoided: Zurich
+Insurance at [131]. The parties, which are both large commercial entities,
+were highly unlikely to have reached such a lop-sided deal.
+
+45 Therefore, the 2021 CO was not valid, had no effect, and did not result in
+any change to the SSA or the services provided under it. Consequently, the POs
+issued pursuant to the 2021 CO were invalid as well, since the attempted
+revision of the services provided was ineffective.
+
+Purchase Order
+
+46 In its submissions, DXC seems to acknowledge that the validity of the POs
+issued pursuant to the 2021 CO depends on the validity of the 2021 CO itself –
+DXC notes that “[t]he 2021 CO and the May 2021 PO must be read together”, such
+that the 2021 CO would contain the “deletion or revision of the Services”,
+which would be reflected in subsequent POs. 55
+
+##### Foot Note 55
+
+×
+
+DWS at paras 30–31.
+
+However, DXC also appears to argue that the PO mechanism was an alternative
+way, in addition to the CO mechanism, through which the SSA and the services
+provided may be varied. 56
+
+##### Foot Note 56
+
+×
+
+DWS at paras 19–21, 28.
+
+For the reasons below, I disagree with this argument.
+
+47 DXC relies on cl 1.4 of the SSA, which provides that “[Keppel] acknowledges
+and agrees that it will not commence any work for [DXC] or incur any related
+expenses or costs unless and until it has received [a PO] expressly
+authorizing such work”. 57
+
+##### Foot Note 57
+
+×
+
+DWS at para 19; Tung-1 at p 37.
+
+DXC argues that cl 1.4 made clear that Keppel’s obligation to perform the
+services and DXC’s obligation to pay for them were only triggered once DXC
+issued its PO. 58
+
+##### Foot Note 58
+
+×
+
+DWS at para 20.
+
+DXC contends that this is further supported by cll 3.1 and 3.2, which
+stipulate that Keppel shall perform the services described in the SOW upon
+execution of the SOW and receipt of a PO from DXC. 59
+
+##### Foot Note 59
+
+×
+
+DWS at paras 15–18.
+
+Hence, Keppel could not charge DXC for anything that is not set out in a PO.
+60
+
+##### Foot Note 60
+
+×
+
+DWS at para 21.
+
+DXC notes that this is in line with cl 5.2, which provides that Keppel will be
+paid for services for which it has received a PO. 61
+
+##### Foot Note 61
+
+×
+
+DWS at para 26.
+
+48 However, the provisions which DXC relies on must be read and understood
+subject to what the parties specifically agreed to in the SOW, as well as the
+purpose of a PO under the SSA. DXC’s position that the POs allow it to freely
+vary the services to be provided to Keppel does not cohere with the structure
+of the SSA as a fixed‑term contract with services and fees that were agreed
+upfront.
+
+49 Pertinently, it was not the function of the PO under the SSA to set out or
+vary the services to be provided by Keppel. The SOW is the only document
+mentioned which is to set out the services to be provided by Keppel – cl 1.1
+states that the services shall be described in the SOW; cl 3.1 states that
+Keppel will provide services described in the SOW; and cl 3.2 states that
+Keppel shall undertake to perform the services set out in a SOW upon the SOW’s
+execution with an accompanying PO. Further, the SSA specifically provided (at
+cl 7.1) that any amendments to the services were to be requested via a CO. The
+POs were not contemplated as an alternative mechanism through which the SSA
+could be varied.
+
+50 As the parties had agreed to a fixed‑term contract for a fixed space and
+services under the SOW, a PO was plainly not necessary to authorise the same –
+the parties were already in a binding agreement. In that regard, the reference
+in cl 1.4 of the SSA to Keppel acknowledging that it will not “commence any
+work for [DXC] or incur any related expenses or costs unless and until it has
+received a [PO]” 62
+
+##### Foot Note 62
+
+×
+
+Tung-1 at p 37.
+
+must be understood to mean that DXC will issue a PO consistent with the terms
+of the SSA (in particular, the SOW and the Contract Pricing) – ie, for data
+services for a fixed term of five years at the agreed rates. Such a reading is
+also consistent with cll 3.1 and 3.2 of the SSA. The PO does serve an
+important and useful purpose in that it specifies when the services under the
+SSA are to commence – in this case, the first PO was issued on 8 March 2011
+and specified that the start date was 15 June 2011. 63
+
+##### Foot Note 63
+
+×
+
+Theydon-1 at p 101.
+
+51 I add that there is nothing objectionable with DXC issuing POs on a yearly
+basis, so long as their terms are consistent with, and reflect, the parties’
+agreement under the SSA. DXC is not permitted to issue POs inconsistent with
+the terms of the SOW and Contract Pricing, and then rely on its own wrong by
+claiming that it is only bound by the terms of the PO.
+
+52 As an aside, I highlight that the parties’ conduct also indicated that they
+understood the POs to be a payment mechanism which had no impact on the
+provision of services by Keppel (save for the first PO on 8 March 2011 which
+initiated the provision of services). DXC was late to issue the POs on
+multiple occasions; yet Keppel did not cease to provide utilities and services
+to DXC in the periods between the expiry of a previous PO and the issuance of
+a subsequent PO, and DXC did not object to the provision of such services or
+claim that they were unauthorised.
+
+53 DXC’s interpretation of the PO mechanism – ie, allowing DXC to unilaterally
+vary the services provided – would also contradict other provisions of the SSA
+by rendering the CO mechanism and the Minimum Charge redundant. Further,
+similar to DXC’s interpretation of the CO mechanism, DXC’s interpretation of
+the PO mechanism would produce the absurd results noted above at [40], whereby
+DXC could, at will, increase or decrease the space it desired at any point
+during the term of the SSA, while Keppel is required to keep the entire agreed
+space available for DXC’s use. This is compounded by the fact that the SSA
+does not specify how often POs are to be issued. Yet, as Keppel has rightly
+argued, parties have not provided for the consequent costs or the allocation
+of risks arising from the reconfiguration of the Data Centre in such a
+situation. 64
+
+##### Foot Note 64
+
+×
+
+PWS at para 39b.
+
+54 I note DXC’s reliance on cl 2.9 of the SSA, which defines a PO as a written
+authorisation signed by an authorised representative of DXC and which is
+issued by DXC to authorise Keppel “to perform all or a portion of the
+Services”. 65
+
+##### Foot Note 65
+
+×
+
+DWS at para 28.
+
+This clause does not assist DXC. It must be read in light of the fact that the
+SSA contained standard terms which DXC used in securing the provision of
+services by its various business partners. That may well include contexts
+where POs for the performance of only a portion of the agreed services are
+acceptable. Here, as explained above at [50], in the context of the SSA, DXC
+had already authorised Keppel to provide the services in the SOW. Further, POs
+for part of the services are acceptable in the present case as well – DXC can
+issue different partial POs, as long as the entirety of them covers all the
+services set out in the SOW. It bears reiterating (as noted at [49] above)
+that the PO did not play a role in defining or amending the services to be
+provided; that was the function of the SOW and the CO mechanism respectively.
+Clause 2.9 is therefore not inconsistent with the fact that the POs issued by
+DXC must be consistent with its obligations under the SSA and SOW.
+
+Conclusion
+
+55 I therefore accept the interpretation of the SSA as advanced by Keppel. DXC
+was not permitted under the SSA to unilaterally revise the services to be
+provided by Keppel to exclude the use of Modules C and D. The 2021 CO was
+therefore invalid and DXC’s subsequent refusal to pay for Modules C and D
+amounted to a breach of the SSA.
+
+56 I will hear the parties separately on the appropriate relief. For the
+avoidance of doubt, the time to appeal this decision does not run until I have
+dealt with the entirety of Keppel’s claim.
+
+Hri Kumar Nair  
+Judge of the High Court  
+---  
+  
+Thio Shen Yi SC, Thara Rubini Gopalan, Goh Enchi Jeanne and Ang Kai Le (TSMP
+Law Corporation) for the plaintiff;
+
+Siraj Omar SC, Joelle Tan (Drew & Napier LLC) (instructed), Choo Yu Jin
+Jonathan, Lee Wei Han Shaun, Adly Rizal bin Said and Lieu Kah Yen (Bird & Bird
+ATMD LLP) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 12 Jan 2024 (10:21 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

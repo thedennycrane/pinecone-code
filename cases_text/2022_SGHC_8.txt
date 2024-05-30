@@ -1,0 +1,1161 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 8
+
+Originating Summons No 869 of 2021
+
+Between
+
+| Sai Wan Shipping Ltd  
+---|---  
+|  
+  
+… Plaintiff
+
+And
+
+| Landmark Line Co, Ltd  
+---|---  
+|  
+  
+… Defendant
+
+judgment
+
+[Arbitration] — [Award] — [Recourse against award] — [Setting aside] — [Breach
+of natural justice]
+
+[Arbitration] — [Award] — [Recourse against award] — [Tribunal’s powers] —
+[Peremptory orders]
+
+[Arbitration] — [Award] — [Recourse against award] — [Remission]
+
+[Arbitration] — [Award] — [Conduct of arbitration] — [Default of party]
+
+[Arbitration] — [Award] — [Conduct of arbitration] — [“Documents-only”]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Sai Wan Shipping Ltd
+
+  
+v
+
+  
+
+Landmark Line Co, Ltd
+
+[2022] SGHC 8
+
+General Division of the High Court — Originating Summons No 869 of 2021  
+Philip Jeyaretnam J  
+1 December 2021, 22 December 2021
+
+14 January 2022 Judgment reserved.
+
+Philip Jeyaretnam J:
+
+Introduction
+
+1 Justice hurried risks justice buried, while justice delayed may be justice
+denied. Both these admonitions highlight how judicious setting and enforcement
+of timelines relate to achieving a just outcome for parties. One tool an
+adjudicator has is the peremptory order – an order that fixes a deadline for
+the provision of a submission or other case document, a default in which
+carries a sanction.
+
+2 These proceedings concern an arbitrator’s final and peremptory order that
+the respondent serve its defence submissions by a specified date and hour,
+with the stipulated sanction that upon non-compliance they would be barred
+from advancing any positive case by way of defence or counterclaim and from
+adducing any positive evidence in the matter, and that it would then simply be
+for the claimant to prove its case.
+
+3 In deciding whether there was a breach of natural justice in either the
+making or enforcing of the peremptory order, it will be necessary to consider
+the powers that an arbitrator in an ad hoc arbitration seated in Singapore has
+to make and enforce such final and peremptory orders.
+
+Facts
+
+The parties
+
+4 The plaintiff is a Hong Kong incorporated company that was the charterer of
+a vessel owned by the defendant, a South Korean company. In this judgment, I
+will refer to the plaintiff as the Charterer and to the defendant as the
+Owner. In some, but not all, of the correspondence and other documents
+relating to the arbitration, these appellations appear in the plural. When
+citing them, I have left them in the plural as it is obvious to whom they
+refer.
+
+The charterparty
+
+5 The charterparty was on the New York Produce Exchange 1946 form, with
+amendments and additional clauses evidenced by a fixture recap. It contained
+an arbitration clause: 1
+
+##### Foot Note 1
+
+×
+
+Affidavit of Tanjore Sunilkumar Srinivas (dated 24 August 2021) (“1st
+Affidavit of Tanjore”) at p 68.
+
+Clause 56: Arbitration
+
+All disputes arising out of this contract which cannot be amicably resolved
+shall be referred to arbitration in SINGAPORE
+
+One arbitrator to be appointed by each party, and the third by the two so
+chosen. But if one party failing to appoint arbitrator within 7 days after
+another party has appointed one, then it will become sole arbitrator for the
+arbitration.
+
+The arbitrators and the umpire, if appointed, shall be the commercial men
+conversant with shipping knowledge, and the members of the London maritime
+arbitrators’ association or otherwise qualified by experience to deal with
+shipping disputes.
+
+6 The arbitration clause did not provide for any institution to administer the
+arbitration nor was there any choice of arbitration rules.
+
+7 The charterparty was performed and a dispute arose, primarily over unpaid
+hire, and the question of whether there was any period of off-hire.
+
+The arbitration
+
+8 The Owner appointed Mr Alan Oakley (“the arbitrator”) as its nominated
+arbitrator, and as the Charterer did not nominate any arbitrator, he became
+the sole arbitrator. The arbitrator was both a commercial man conversant with
+shipping knowledge and a full member of the London Maritime Arbitrators’
+Association. 2
+
+##### Foot Note 2
+
+×
+
+1st Affidavit of Tanjore at p 20, Second/Final arbitration award dated 27 May
+2021 at para 3.
+
+9 The Owner served claim submissions for an amount of US$248,338.24 and
+applied for an immediate interim award in the sum of US$48,658.74, which it
+said was indisputably due on the Charterer’s version of the final accounting
+for the charter. 3
+
+##### Foot Note 3
+
+×
+
+1st Affidavit of Tanjore at p 20, Second/Final arbitration award dated 27 May
+2021 at para 5.
+
+10 The arbitrator found that the Owner’s application succeeded and made a
+Partial/Final Arbitration Award on 13 May 2020 (the “first award”). 4
+
+##### Foot Note 4
+
+×
+
+1st Affidavit of Tanjore at p 21, Second/Final arbitration award dated 27 May
+2021 at para 6.
+
+The arbitrator noted in the first award that “[t]he Charterers were not
+represented and failed to participate in these proceedings. Neither party
+requested an oral hearing.” 5
+
+##### Foot Note 5
+
+×
+
+1st Affidavit of Tanjore at p 175, Partial/Final arbitration award dated 13
+May 2020 at para 5.
+
+11 Ten months later, in early March 2021, the firm Brown Marine Legal Limited
+(“Brown Marine”), who had represented the Owner in obtaining the first award,
+advised that they intended to pursue the balance of the claim and served
+further submissions on behalf of the Owner to recover the sum of
+US$199,679.50. These further submissions contained a request as follows: 6
+
+##### Foot Note 6
+
+×
+
+1st Affidavit of Tanjore at p 173.
+
+… Charterers are requested to serve Defence Submissions within 28 days of
+today’s date, ie on or before Wednesday 31st March 2021, failing which Owners
+will seek a further default award.
+
+12 Without inviting any submission from the Charterer on the time it would
+need to prepare and serve its defence submissions, the arbitrator emailed the
+Charterer on 4 March 2021 with his order that the Charterer provide its
+defence by 4.00pm London time on 31 March 2021, noting that: 7
+
+##### Foot Note 7
+
+×
+
+1st Affidavit of Tanjore at p 21, Second/Final arbitration award dated 27 May
+2021 at para 8.
+
+… If the Charterer fails to respond to this order, the Owners may apply for a
+short final and peremptory order which will include a severe sanction against
+the Charterer in the event that it fails to comply.
+
+13 The Charterer did not respond directly to this email, but its counsel from
+the Dubai law firm Fichte & Co (“Fichte”) corresponded with Brown Marine,
+requesting an extension of time until 9 April 2021. The arbitrator learned of
+this correspondence at least when he received an email on 1 April 2021 from
+Brown Marine asking that “the tribunal review this exchange and make whatever
+order it considers appropriate.” 8
+
+##### Foot Note 8
+
+×
+
+1st Affidavit of Tanjore at p 199.
+
+14 The arbitrator proceeded to issue what he described as a final and
+peremptory order on the same day, giving a deadline of “17:00 London time on
+Friday 9th April 2021” and warning: 9
+
+##### Foot Note 9
+
+×
+
+1st Affidavit of Tanjore at p 188.
+
+If the [Charterer] fail[s] to comply with this order, the sanction will be
+that they are barred from advancing any positive case by way of defence (or
+counterclaim) and from adducing any positive evidence in the matter and it
+will then simply be for the [Owner] to prove their case.
+
+15 I will refer to this order as the peremptory order.
+
+16 The Charterer failed to serve its defence submissions within the time
+stipulated. It only did so later the same day, under cover of an email from
+Fichte, apologising for the slight delay and explaining that it was due to
+“some trouble with the internet connection”. 10
+
+##### Foot Note 10
+
+×
+
+1st Affidavit of Tanjore at p 198.
+
+17 The next day, the arbitrator responded to this email stating that as the
+terms of his order were clear, he must abide by it and exclude the Charterer’s
+defence submissions unless the Owner was prepared to accept them into
+evidence. 11
+
+##### Foot Note 11
+
+×
+
+1st Affidavit of Tanjore at p 197.
+
+18 Two weeks later, on 24 April 2021, Brown Marine responded on behalf of the
+Owner that their decision was that the Charterer’s defence submissions should
+not be admitted into evidence. 12
+
+##### Foot Note 12
+
+×
+
+1st Affidavit of Tanjore at p 196.
+
+The arbitrator then emailed both counsel directing that the Charterer’s
+defence submissions had not been admitted into evidence and that he awaited
+the Owner’s evidence to prove its claim. 13
+
+##### Foot Note 13
+
+×
+
+1st Affidavit of Tanjore at pp 195–196.
+
+19 Fichte immediately objected, noting that the Owner had not identified any
+prejudice arising from the delay, and asked that the arbitrator exercise his
+discretion to allow the defence submissions into evidence. 14
+
+##### Foot Note 14
+
+×
+
+1st Affidavit of Tanjore at pp 194–195.
+
+20 The arbitrator responded within the hour, stating: 15
+
+##### Foot Note 15
+
+×
+
+1st Affidavit of Tanjore at p 194.
+
+I refer to your email of earlier today. However the respondents (and
+doubtless) their legal advisers… were aware of the severity of the final and
+peremptory order and the sanction for non compliance. Therefore the decision
+of the tribunal cannot have come as a surprise and will not be revisited.
+
+21 Thereafter, on 25 April 2021, the arbitrator invited the Owner to put in
+further evidence and submissions to prove its case, 16
+
+##### Foot Note 16
+
+×
+
+1st Affidavit of Tanjore at p 27, Second/Final arbitration award dated 27 May
+2021 at para 23.
+
+but did not allow the Charterer to respond to them. On 5 May 2021, Fichte
+renewed its protest and objection, complaining of “double standards” 17
+
+##### Foot Note 17
+
+×
+
+1st Affidavit of Tanjore at p207.
+
+. The arbitrator again referred to his duty to apply the sanction upon the
+failure to comply with the peremptory order and denied that there were any
+“double standards” even as he ended the email by saying that he would wait to
+hear from Brown Marine concerning when they would be ready to supply their
+missing evidence. 18
+
+##### Foot Note 18
+
+×
+
+1st Affidavit of Tanjore at p206.
+
+The arbitrator proceeded to make the Second/Final Arbitration Award dated 27
+May 2021 (the “second award”), without hearing witnesses and on a documents-
+only basis as requested by the Owner in an email of 24 April 2021. 19
+
+##### Foot Note 19
+
+×
+
+1st Affidavit of Tanjore at p 210.
+
+The parties’ cases
+
+22 Both parties referred to Soh Beng Tee & Co Pte Ltd v Fairmount Development
+Pte Ltd [2007] 3 SLR(R) 86 (“Soh Beng Tee”) for the applicable analytical
+framework. In Soh Beng Tee (at [29]), V K Rajah JA, giving the judgment of the
+Court of Appeal, affirmed that a party seeking to set aside an arbitration
+award on the basis of a breach of natural justice had to show:
+
+(a) which rule of natural justice had been breached;
+
+(b) how that rule had been breached;
+
+(c) in what way the breach was connected to the making of the award; and
+
+(d) how the breach prejudiced that party’s rights.
+
+23 The Charterer relied on the principles that parties must be given adequate
+notice and opportunity to be heard (often referred to as the “fair hearing
+rule”), and the principle that parties must be treated with equality (often
+referred to as the “equal treatment rule”). I will adopt these two expressions
+in this judgment.
+
+24 The Charterer contended 20
+
+##### Foot Note 20
+
+×
+
+Plaintiff’s Written Submissions dated 25 November 2021 at para 15.
+
+that as the arbitration was seated in Singapore, the UNCITRAL Model Law on
+International Commercial Arbitration (“the Model Law”) applied by virtue of
+the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“IAA”), and relied
+particularly on Article 18 of the Model Law which provides:
+
+Article 18. Equal treatment of parties
+
+The parties shall be treated with equality and each party shall be given a
+full opportunity of presenting his case.
+
+25 The Charterer broadly focused on the apparent unfairness of denying it the
+opportunity to defend the proceedings based on what it contended was a trivial
+delay. Its first point was that Brown Marine and Fichte had in fact agreed to
+an extension of time to the deadline originally set by the arbitrator, pushing
+it back to 9 April 2021, without any specification of the time. What follows
+from this is that there was no default of that original deadline. According to
+the Charterer, Brown Marine unfairly engineered the situation when it falsely
+stated that there had been no agreed extension. 21
+
+##### Foot Note 21
+
+×
+
+Plaintiff’s Written Submissions dated 25 November 2021 para 31.
+
+26 The Charterer’s second point was that it was the arbitrator who then
+specified “17:00 London time” as the deadline on 9 April 2021, when the
+extension had been agreed without any stipulated time of day, so that under
+the agreement (as understood by the Charterer) its defence submissions could
+be filed any time on 9 April 2021 (which they in fact were). 22
+
+##### Foot Note 22
+
+×
+
+Plaintiff’s Written Submissions dated 25 November 2021 at para 25.
+
+27 The Charterer’s third point was that when its defence submissions came in
+after the deadline of “17:00 London time” on 9 April 2021, the arbitrator did
+not inquire into the Charterer’s explanation that the delay was due to
+internet connectivity issues, nor into whether there was any prejudice to the
+Owner from what was a mere delay of less than six hours. 23
+
+##### Foot Note 23
+
+×
+
+Plaintiff’s Written Submissions dated 25 November 2021 at paras 35 and 41.
+
+The Charterer argued that the principle under Singaporean procedural law is
+that expressed in the decision of Wellmix Organics (International) Pte Ltd v
+Lau Yu Man [2006] 2 SLR(R) 117 (“Wellmix”), at [2], that because unless orders
+“are draconian in nature and effect… courts will enforce such orders only if
+the party breaches the order both intentionally and contumeliously or
+contumaciously…” 24
+
+##### Foot Note 24
+
+×
+
+Plaintiff’s Written Submissions dated 25 November 2021 at para 36.
+
+28 The Charterer’s fourth point was that the arbitrator should have reviewed
+his decision upon receiving Fichte’s email of 5 May 2021 and considered the
+explanation provided by Fichte and the absence of prejudice to the Owner. 25
+
+##### Foot Note 25
+
+×
+
+Plaintiff’s Written Submissions dated 25 November 2021 at paras 45 and 46.
+
+29 The Charterer made a further argument that the arbitrator had wrongly
+considered that he was clothed with powers under the Arbitration Act 1996 (c
+23) (UK) (“the UK Arbitration Act”), perhaps not keeping in mind that the
+arbitration was seated in Singapore. 26
+
+##### Foot Note 26
+
+×
+
+Plaintiff’s Written Submissions dated 25 November 2021 at paras 57 and 58.
+
+30 Additionally, building on Fichte’s complaint of “double standards”, the
+Charterer contended that there was a breach of the equal treatment rule,
+contrasting the expansive time afforded to the Owner with the restricted time
+allowed to the Charterer. 27
+
+##### Foot Note 27
+
+×
+
+Plaintiff’s Written Submissions dated 25 November 2021 at paras 64–66.
+
+Moreover, while the Owner was given time to put in additional submissions, the
+Charterer was not permitted to reply to them.
+
+31 The Charterer argued that the arbitrator’s refusal to admit its defence
+submissions led to the making of the second award. It relied on the
+arbitrator’s own statement that, as the Charterer bore the burden of proving
+claims for off-hire, its failure to adduce any evidence meant that it was not
+necessary for the Owner to prove its case. 28
+
+##### Foot Note 28
+
+×
+
+Plaintiff’s Written Submissions dated 25 November 2021 at para 69, in
+particular 69(h).
+
+To briefly explain, a charterer may defend a claim by an owner for hire by
+proving periods of off-hire, namely days on which the vessel could not be
+worked for reasons specified in the contract, such as deficiency of crew or
+breakdown of machinery.
+
+32 The Charterer repeated the same points to show prejudice, namely the
+arbitrator disregarding its case, including on bottom-fouling and cleaning, on
+deductions made to the final accounting and on the issue of off-hire. 29
+
+##### Foot Note 29
+
+×
+
+Plaintiff’s Written Submissions dated 25 November 2021 at para 71.
+
+33 The Owner’s case was that the arbitrator had power under Singapore law to
+make a peremptory order of the kind he did. The Owner relied on the decision
+in Yee Hong Pte Ltd v Powen Electrical Engineering Pte Ltd [2005] 3 SLR(R) 512
+(“Yee Hong”) where the court held, in relation to an arbitration under the
+Arbitration Act (Cap 10, 2002 Rev Ed) conducted under the Singapore Institute
+of Architects Arbitration Rules, that the arbitrator acted within his powers
+in making a peremptory order that failing the respondent making exchange of
+its witness statements within a specified period he would not consider them
+and would proceed to make his decision after the scheduled hearing without
+regard to them. 30
+
+##### Foot Note 30
+
+×
+
+Defendant’s Written Submissions dated 25 November 2021 at paras 63– 64.
+
+In Yee Hong at [25], the court described the “situation where in acting fairly
+to both parties, [the arbitrator] had to balance the consideration of
+progressing the reference against the need to afford [the respondent] a fair
+opportunity to test the case of the claimant and put forward its own defence”,
+noting at [26] that “an arbitrator plainly has a wide discretion in reaching
+his decisions as to what the duty of acting fairly demands in the
+circumstances of a given case”.
+
+34 The Owner also relied on the Court of Appeal decision in China Machine New
+Energy Corp v Jaguar Energy Guatemala LLC and another [2020] 1 SLR 695
+(“CMNC”) for the following propositions: 31
+
+##### Foot Note 31
+
+×
+
+Defendant’s Written Submissions dated 25 November 2021 at paras 60–61.
+
+(a) The threshold for a finding of breach of natural justice is a high one.
+
+(b) The parties’ right to be heard is impliedly limited by considerations of
+reasonableness and fairness.
+
+(c) The parties’ right to be heard does not mean a tribunal must sacrifice all
+efficiency to accommodate unreasonable procedural demands by a party.
+
+(d) Where there is a reasonable basis for the arbitrator’s decision not to
+grant an extension of time or the postponement of a hearing, the court should
+be reluctant to interfere.
+
+(e) A party need be given only a reasonable opportunity to present its case,
+with tribunals balancing that opportunity against efficiency.
+
+(f) Fairness of the procedure adopted must be judged against what parties
+agreed and expected, including by their contemporaneous communications with
+the tribunal. 32
+
+##### Foot Note 32
+
+×
+
+Defendant’s Written Submissions dated 25 November 2021 at para 61.
+
+35 The Owner broadly argued that the arbitrator had a reasonable basis to make
+the peremptory order. The Owner contended that not only was the time allowed
+for filing of the defence submissions sufficient, but also that the Charterer
+had not objected to the deadline imposed of “17:00 London Time” on 9 April
+2021 and understood that its submission was late. Moreover, the Charterer had
+known of the severe sanction for non-compliance for some five weeks
+beforehand. 33
+
+##### Foot Note 33
+
+×
+
+Defendant’s Written Submissions dated 25 November 2021 at para 79.
+
+According to the Owner, Fichte should have raised the difficulties with
+internet connectivity prior to the expiry of the deadline and before sending
+in its submissions some six hours late. 34
+
+##### Foot Note 34
+
+×
+
+Defendant’s Written Submissions dated 25 November 2021 at para 88.
+
+36 The Owner also relied on what it described as the Charterer’s “repeated
+delays in the entire arbitration proceedings”. 35
+
+##### Foot Note 35
+
+×
+
+Defendant’s Written Submissions dated 25 November 2021 at para 86.
+
+37 The Owner did not accept that the alleged breaches were connected to the
+making of the second award, contending that the second award was made on the
+basis of the Owner’s proving its case. 36
+
+##### Foot Note 36
+
+×
+
+Defendant’s Written submissions dated 25 November 2021 at para 100.
+
+38 Lastly, it argued that there was no evidence of prejudice. The Charterer
+had not put before the court its defence submissions that it furnished late to
+the arbitrator, and so there was no material upon which to judge that the
+outcome of the arbitration might have been different. 37
+
+##### Foot Note 37
+
+×
+
+Defendant’s Written Submissions dated 25 November 2021 at paras 107–108.
+
+Issues to be determined
+
+39 I will consider the issues in the following order:
+
+(a) what the powers of an ad hoc arbitrator are to make and enforce peremptory
+orders and how such powers should be exercised;
+
+(b) whether the arbitrator acted within his powers, and exercised them in
+accordance with the principles of natural justice; and
+
+(c) whether any breach of natural justice was connected to the making of the
+second award and caused prejudice to the Charterer.
+
+Issue 1: Powers of an ad hoc arbitrator to make and enforce peremptory orders
+and how such powers should be exercised
+
+40 The powers of an arbitrator derive from the arbitration agreement between
+the parties. The choice of seat may clothe the arbitrator with powers provided
+by a statute in force at the seat. The choice of arbitral rules to govern the
+arbitration may also clothe the arbitrator with powers provided under those
+chosen rules.
+
+41 The seat was Singapore, and it is obvious that the arbitrator was wrong to
+refer to and rely on powers to make peremptory orders under the UK Arbitration
+Act. It is not clear why he referred to the position under the UK Arbitration
+Act. I would presume in the arbitrator’s favour that this was simply a
+mistaken assumption on his part that probably flowed from his practice being
+principally in London-seated arbitrations. It does mean that the arbitrator
+adopted the wrong procedural law. If he did, and as a result he followed an
+arbitration procedure such as invoking a power to make a particular peremptory
+order on a basis or in a way not available to an arbitrator in a Singapore-
+seated arbitration, that would not be in accordance with the agreement of the
+parties and so would be amenable to challenge under Art 34(2)(a)(iv) of the
+Model Law.
+
+42 Continuing with the inquiry into what his powers in fact were, the next
+point is that there were no arbitral rules chosen by parties.
+
+43 The inquiry thus proceeds to consideration of what powers an arbitrator has
+in a Singapore-seated arbitration for which no arbitral rules have been
+agreed. For this, I turn to the IAA. Section 3 of the IAA gives the Model Law
+(other than Chapter VIII thereof, and all subject to the other provisions of
+the IAA) the force of law. Its English text is set out in the first schedule
+to the IAA. Accordingly, it is the Model Law to which the arbitrator should
+have looked before considering whether to make or enforce any peremptory
+orders.
+
+44 The phrase peremptory order is not to be found in the Model Law. Instead,
+reading Arts 23 and 25 together, the Model Law provides that where a
+respondent fails to communicate his statement of defence within the period of
+time agreed by the parties or determined by the arbitral tribunal, without
+showing sufficient cause, then the arbitral tribunal shall continue the
+proceedings without treating such failure in itself as an admission of the
+claimant’s allegation.
+
+45 Articles 23 and 25 read together break down into three elements:
+
+(a) The respondent has a period of time to communicate his statement of
+defence that depends on what is agreed by the parties, or if not, then as
+determined by the tribunal.
+
+(b) If he fails to do so, unless otherwise agreed by parties, the arbitrator
+must consider whether the party in default has shown sufficient cause for the
+failure; then
+
+(c) the arbitrator shall continue with proceedings without treating such
+failure as an admission of the claimant’s allegations.
+
+46 I would also observe that Art 25 does not mandate general peremptory or
+unless orders. It differs from the provisions for judgment in default of
+defence or for striking out of a defence and consequent judgment for non-
+compliance with discovery orders that one finds in court rules. It is those
+sorts of consequences that might be described as draconian and which were the
+subject of consideration by the court in Wellmix, a decision relied on by the
+Charterer as described at [27] above. Continuing with the proceedings in the
+absence of a defence but without any admission of the claim is a simple and
+necessary provision to enable claimants to obtain an arbitration award where
+the respondent does not participate in the proceedings. There is no
+requirement under Art 25 that the arbitrator first find that the order has
+been breached intentionally, contumeliously or contumaciously, although the
+defaulter’s conduct would be relevant to the inquiry into whether there was
+sufficient cause for the default.
+
+47 It would have been open to the arbitrator to raise with parties at an
+appropriate stage of the arbitration the possible adoption of arbitral rules,
+or indeed to construct a bespoke procedure for parties’ agreement. In this
+way, his powers could have been enlarged by agreement. This, however, did not
+happen. There does not seem to have been any procedural meeting at all, nor
+any general procedural timetable issued, nor any proposal made to parties of
+steps and timelines with any invitation to comment. Often, the first action of
+an arbitrator would be to convene a procedural meeting, even if only by
+telephone or other remote means, for the purpose of consulting parties on an
+appropriate procedure and timetable for the conduct of the arbitration. If
+anything, this is all the more important in an ad hoc arbitration where there
+are no arbitral rules chosen by parties.
+
+48 That consulting parties on procedure is expected, usual, and hardly
+onerous, is obvious. Whether not consulting parties breaches the fair hearing
+or the equal treatment rule is a further question.
+
+49 The first point to make is that what procedure is adopted and how long
+parties are to be given for each step does bear on the question of reasonable
+opportunity to present one’s case on the merits. Indeed, it has been said that
+“a sound procedural architecture is necessary if we are to transform a set of
+laws into a system of justice.” [emphasis in original]: per Sundaresh Menon,
+Chief Justice, “Gateway to Justice: The Centrality of Procedure in the Pursuit
+of Justice”, 36th Annual Lecture of the School of International Arbitration in
+Dispute Resolution (30 November 2021), at para 9.
+
+50 It follows from the relationship of procedure to the delivery of justice on
+the merits that giving parties a fair opportunity to present their case
+includes consulting them on procedural steps and timelines. As for the
+obligation of equal treatment, this applies both to how consultation must take
+place, as well as to the steps and timelines adopted following such
+consultation.
+
+51 Thus, at the first stage, before determining the period of time for
+communicating the statement of defence in the absence of agreement, an
+arbitrator must consult both parties, not just one of them. If for any reason
+an arbitrator does not consult both parties and simply fixes the period of
+time by himself, he must be open to reconsidering the time fixed upon request
+by either party, but especially the party bound by the timeline he has fixed
+unilaterally.
+
+52 At the second stage, when considering whether the party in default has
+shown sufficient cause for the failure to communicate the statement of defence
+within the period fixed, the arbitrator must hear both parties. If he gives
+both parties the reasonable opportunity to be heard on the question of
+sufficiency of cause, then it is for him to determine the sufficiency, or
+otherwise, of that cause.
+
+53 That sufficiency is a matter for the arbitrator to determine after hearing
+from parties is supported by the learned authors of Halsbury’s Laws of
+Singapore vol 1(2) (LexisNexis, 2021), who say at para 20.086 in relation to
+Art 25 of the Model Law:
+
+… In the case of a respondent, if he fails to serve his statement of defence,
+the tribunal may proceed with the arbitration and make an award on the
+evidence before it. The failure to serve the statement of defence is however
+not to be treated as an admission of the claim.
+
+…
+
+The power to proceed in default is exercisable if the tribunal is satisfied
+that the defaulter has not shown ‘sufficient cause’ for its failure. This
+requirement also carries with it the implication that the tribunal should give
+a reasonable opportunity for the defaulting party to explain its failure to
+comply. The sufficiency or insufficiency of the reasons is a matter to be
+determined by the tribunal and not the court.
+
+54 However, that the court does not determine the sufficiency of cause does
+not mean that the arbitrator’s decision on sufficiency is wholly immune from
+review. The proper approach a court should take to procedural decisions of a
+tribunal has been authoritatively stated by the Court of Appeal in CMNC at
+[98] and reiterated by it in CBS v CBP [2021] 1 SLR 935 at [51]. That approach
+is to ask whether “what the tribunal did (or decided not to do) falls within
+the range of what a reasonable and fair-minded tribunal in those circumstances
+might have done.”
+
+55 I now turn to assess what the arbitrator did against the backdrop of his
+procedural powers under the Model Law, asking myself whether what he did or
+decided not to do falls within the range of what a reasonable and fair-minded
+tribunal in those circumstances might have done.
+
+Issue 2: Whether the arbitrator acted within his powers, and exercised them in
+accordance with the principles of natural justice
+
+56 The first aspect to consider is how the period of time for communicating
+the defence submissions was fixed. The arbitrator took the period of time
+suggested by the Owner in its claim submissions provided on 3 March 2021 for
+the Charterer’s defence submissions and simply incorporated that in his order
+of 4 March 2021 with one tweak: stipulating a time on 31 March 2021, ie “16:00
+London time”. The arbitrator did not invite the Charterer’s input on the
+question of how much time it might need, whether before fixing that time nor
+in his order issued to the Charterer. Nor does the arbitrator appear to have
+even asked himself whether a period of 28 days would be sufficient in the
+circumstances, especially given that the Owner had taken ten months after the
+first award to provide its claim submissions and that, as he far as he would
+be aware, the Charterer was not necessarily expecting the service of the claim
+submissions at that time.
+
+57 I find that there was a breach of natural justice in not giving the
+Charterer any opportunity to provide input on the time needed to serve its
+defence submissions.
+
+58 The order made on 4 March 2021 was not itself a peremptory order. What it
+did was to warn the Charterer that if it did not serve its defence
+submissions, the Owner might “apply for a short final and peremptory order
+which will include a severe sanction against the Charterer in the event that
+it fails to comply”. Thus, it envisaged that if the Charterer failed to serve
+its defence submissions, there could then be an application by the Owner for a
+peremptory order. It must be read in favour of the arbitrator that at this
+point he had not decided that a short final and peremptory order would follow
+regardless of the reasons for non-compliance, nor that there would definitely
+be a severe sanction attached, notwithstanding that the tone of the order
+suggests to a fair-minded reader a degree of predetermination.
+
+59 In any event, the Charterer seems to have been able to appoint Fichte, and
+Fichte was able to put together a draft of its defence submissions by 31 March
+2021. At this point, apparently at “13:31 London time” on 31 March 2021 (about
+two and a half hours before the deadline), Fichte reached out to Brown Marine
+seeking a one-week extension until 9 April 2021, asking for a prompt reply so
+that they would not have to bother the tribunal.
+
+60 Brown Marine came back to say that they could only recommend agreement if
+it was on a final and peremptory basis and sought confirmation that this was
+the case. Fichte responded to give that confirmation, but for some reason
+Brown Marine appears to have misread this as a withdrawal of the request for
+an extension, and when “16:00 London time” came and went, they wrote the next
+day to the arbitrator, copying Fichte, informing the arbitrator that the
+defence submissions had not “materialised” and wrongly stating that the
+Charterer’s representatives had “decided they did not need” any extension of
+time and concluded that they looked forward to hearing from the arbitrator.
+Fichte replied to Brown Marine, copying the arbitrator, saying that they
+“believe there might have been a misunderstanding to our communication of
+yesterday, and … [were] under the impression we had indeed agreed a short
+extension until Friday 9 April.” These emails were not originally included in
+these proceedings but upon my enquiry concerning certain references made by
+the arbitrator on the face of the second award they were put into evidence by
+agreement. 38
+
+##### Foot Note 38
+
+×
+
+Letters to court dated 22 and 28 December 2021 from Robert Wang & Woo LLP and
+letter to court dated 29 December 2021 from Oon & Bazul LLP.
+
+Brown Marine then wrote to ask that the arbitrator review the exchange between
+it and Fichte and make whatever order he considered appropriate. 39
+
+##### Foot Note 39
+
+×
+
+1st Affidavit of Tanjore at p 199.
+
+61 The arbitrator did not invite any further input from Fichte, and proceeded
+within the day to make the peremptory order.
+
+62 There are five distinct difficulties in the arbitrator’s having taken this
+course of action:
+
+(a) After receiving the email from Brown Marine asking him to make whatever
+order he considered appropriate, he did not offer the Charterer any
+opportunity to be heard.
+
+(b) There is no evidence that he considered or made any decision on whether
+there was sufficient cause shown for the failure to serve the defence
+submissions by “16:00 London time” on 31 March 2021.
+
+(c) If he had considered sufficiency, he should have given consideration to at
+least three points that appear from the exchange of emails between Brown
+Marine and Fichte, namely:
+
+(i) Fichte believed that an extension of time had been agreed.
+
+(ii) Fichte had explained to Brown Marine that they had been recently
+instructed.
+
+(iii) Fichte had said that they needed more time to have the draft checked by
+the Charterer.
+
+(d) A review of the emails exchanged on 31 March 2021 shows that, in
+substance, Brown Marine and Fichte had agreed that the defence submissions did
+not have to be filed that day, although Brown Marine was seeking to impose a
+condition that it be final and peremptory (without specifying any sanction).
+This means that as of 1 April 2021 the Charterer had not yet failed to serve
+its defence submissions within the time agreed by parties. It would only be
+after 9 April 2021 that the Owner could apply for a peremptory order (and of
+course at that time the Charterer would still have been entitled to be heard).
+
+(e) Brown Marine had not made an express application for a peremptory order
+nor specified any desired sanction. It only asked for whatever order the
+arbitrator considered appropriate. It was the arbitrator who made the leap to
+a peremptory order.
+
+63 I pause here to observe that the arbitrator at para 10 of the second award
+stated that the Charterer had written to him on 1 April 2021 explaining that
+there was a misunderstanding. As confirmed by the Owner’s counsel, 40
+
+##### Foot Note 40
+
+×
+
+Defendant’s Further Written Submissions dated 22 December 2021 at para 3.
+
+this was a reference to an email 41
+
+##### Foot Note 41
+
+×
+
+1st Affidavit of Tanjore at p 189.
+
+on which the arbitrator was copied at 1:44pm just before he received at 1:48pm
+the email from Brown Marine asking that he review the email exchange and make
+whatever order he considered appropriate. The email was in fact addressed to
+Brown Marine and sought to clear up any misunderstanding by explaining to
+Brown Marine that Fichte’s reference to not needing any further extension was
+to an extension beyond 9 April 2021. It was not a submission to the arbitrator
+concerning the making of the peremptory order. It preceded Brown Marine’s
+email to the arbitrator sent at 1:48pm and hence the application such as it
+was. Brown Marine responded to it denying any misunderstanding at 4:37pm. It
+is obvious that these exchanges between Brown Marine and Fichte about whether
+an extension of time had been agreed could not obviate the need for there to
+be notice of what was sought and an opportunity to submit on whether what was
+sought should be given. Up until the peremptory order was made there was no
+specific notice concerning what was sought, and in particular the sanction
+sought, and no opportunity for Fichte to address the arbitrator on it,
+including on whether there was a default at all or, if there was one, whether
+there had been sufficient cause for it.
+
+64 In these circumstances, I make three separate and cumulative findings:
+
+(a) There was in fact an agreement in substance to extend time, and there was
+no failure to serve the defence submissions within the time period as
+extended. Consequently, there was no default of the original order, and so no
+basis for any order to be made premised on such default.
+
+(b) Even if there had been a default, the arbitrator failed to determine
+insufficiency of cause or, to put it more simply, that the default was not
+excusable. Thus, for this reason as well, there was no basis for any order to
+be made premised on a default without sufficient cause.
+
+(c) In any event, by failing to give the Charterer an opportunity to address
+him orally or in writing before making his peremptory order, including on the
+question of sufficiency of cause, the arbitrator acted in breach of natural
+justice.
+
+65 I then turn to the content of the peremptory order, namely its sanction.
+The sanction did not track the wording of Art 25 of the Model Law but instead
+barred the Charterer from raising any positive case by way of defence or
+counterclaim and from adducing any positive evidence in the matter. While on
+its face it seemed to leave open the possibility of the Charterer running a
+negative case, ie challenging the evidence of the Owner without providing its
+own contrary evidence, as things turned out the arbitrator accepted the
+Owner’s request to proceed on a documents only basis, and did not offer the
+Charterer the opportunity even to respond to the Owner’s additional evidence
+and submissions. The sanction imposed thus operated in practice not just as a
+bar to a positive defence but as an effective exclusion even of a negative
+defence. In all the circumstances, I find that the sanction imposed by the
+arbitrator exceeded his powers under Art 25 of the Model Law.
+
+66 Moving forward to 9 April 2021, the arbitrator again did not give the
+Charterer the opportunity to address him orally or in writing on the reasons
+for the short delay in communicating its defence submissions. That opportunity
+would have potentially included addressing him on the applicable procedural
+law, whether he had a discretion not to enforce the sanction, and the
+relevance of the absence of prejudice to the Owner arising from the short
+delay.
+
+67 The arbitrator appears to have believed that he had no discretion in the
+matter, and that the decision on whether to allow the late submission was
+entirely for the Owner to make. Thus, after receiving the Charterer’s defence
+submissions at 11:26pm on 9 April 2021, he wrote to parties at 10:39am the
+next morning stating: 42
+
+##### Foot Note 42
+
+×
+
+1st Affidavit of Tanjore at p 211.
+
+Given that the terms of the [peremptory] order were clear, I must abide by
+those terms and the submissions are now excluded unless the [Owner is]
+prepared to accept them into evidence.
+
+No doubt Brown Marine will let us know the [Owner’s] decision in this regard.
+
+68 It took Brown Marine fourteen days to take instructions on the Owner’s
+decision and respond to the arbitrator with it. Unsurprisingly, the Owner
+decided not to accept the defence submissions into evidence. 43
+
+##### Foot Note 43
+
+×
+
+1st Affidavit of Tanjore at p 210.
+
+69 I hold that the arbitrator breached natural justice in making his decision
+on 10 April 2021 without giving the Charterer the opportunity to be heard.
+Further, his view that he had no discretion in the matter and had to exclude
+the Charterer’s defence submissions unless the Owner agreed to their admission
+into evidence was wrong and did not accord with his powers under the Model
+Law. This error concerning his powers and how they should be exercised seems
+to have caused or contributed to his refusal to give the Charterer an
+opportunity to be heard. He perpetuated this error in his adamant assertions
+that he was bound to apply the sanction in his responses to Fichte’s repeated
+objections. Natural justice required that he consider the reasons for non-
+compliance and hear Fichte on the question whether he should apply the
+sanction notwithstanding those reasons.
+
+70 I have thus far assessed the arbitrator’s conduct by reference to the Model
+Law, and that is sufficient for this matter. However, even for a London-seated
+arbitration under the UK Arbitration Act, the arbitrator would be expected to
+seek input from both parties before issuing any order and would have to
+consider the reasons for any default. In this connection, The Chartered
+Institute of Arbitrators, or CIArb as it is commonly referred to, has issued a
+helpful set of guidelines titled “Practice Guideline 14: Guidelines for
+Arbitrators on how to approach an application for a Peremptory and ‘Unless’
+Orders and related matters” (“the Practice Guideline”). It explains how an
+arbitral tribunal seated in the UK should approach the issue of peremptory
+orders. Among the observations made in the practice guideline, two are
+relevant:
+
+2.2.1 A “peremptory order” cannot be made initially at the time of the first
+procedural order of the tribunal dealing with a particular procedural step.
+Section 41(5) contemplates three stages; namely (i) an order or direction made
+by the tribunal; (ii) a failure by a party to comply with that order or
+direction “without showing sufficient cause” and (c) that then, and only then,
+should the tribunal make a peremptory order.
+
+…
+
+2.2.3 The failure to comply must be without “sufficient cause”. … This may
+require an arbitrator to give an opportunity to the party in apparent default
+to explain the reasons for its non-compliance…”
+
+71 I conclude that the Charterer has succeeded in establishing that the
+peremptory order was made and enforced in breach of the fair hearing rule.
+
+72 While it is not necessary to my decision to consider the equal treatment
+rule, I also find that this was breached. The arbitrator heard the Owner but
+not the Charterer when fixing the original timeline for the defence
+submissions, and only gave the Charterer 28 days to file its defence
+submissions, when the Owner had taken ten months from the first award to
+communicate its claim submissions. How he handled timelines thereafter also
+did not demonstrate even-handedness between the parties.
+
+73 It may be that the arbitrator had already formed the view that the
+Charterer did not intend to participate in the second phase of the arbitration
+because it did not participate in the first phase. He should not have held
+onto this view once it became clear that the Charterer wished to participate,
+as shown by the appointment of Fichte. While it may not have been expressly
+explained to him why there was a difference of approach between the two
+phases, it should in any event have been obvious to him that the first phase
+and first award concerned an undisputed balance due to the Owner, while the
+second phase concerned claims that were very much disputed. Certainly, there
+was no reasonable basis on which to consider that the Charterer was seeking to
+delay proceedings in March and April of 2021 (although, to be fair to the
+arbitrator, he did not make any such finding, and it has only been in these
+proceedings that the Owner has argued that the Charterer’s non-participation
+in the first phase justifies an inference that they were deliberately delaying
+the second phase). 44
+
+##### Foot Note 44
+
+×
+
+Defendant’s Written Submissions dated 25 November 2021, at para 86.
+
+Issue 3: Whether any breach of natural justice was connected to the making of
+the award and caused prejudice to the Charterer
+
+74 It is obvious that the making of the peremptory order led to the arbitrator
+making the second award without receiving any evidence or submissions from the
+Charterer, not even in response to the Owner’s further and additional
+submissions and evidence. It is also obvious that had the arbitrator given the
+Charterer the opportunity to address him on whether there had as yet been any
+default, or whether any default was with sufficient cause, he might well have
+not made the peremptory order.
+
+75 The award on its face shows how the absence of submissions and evidence
+from the Charterer, all excluded by reason of the peremptory order, was
+connected to the making of the award: see in particular paras 26 to 42 of the
+second award.
+
+76 The Owner has contended that the Charterer’s failure to exhibit in these
+proceedings its defence submissions that were excluded by the arbitrator means
+that I am not able to find that their admission might have made a difference
+to the outcome. While the Charterer should have exhibited them for
+completeness, the absence from the record before me of those defence
+submissions does not lead to the inference that they were not material.
+Indeed, if they were obviously flimsy or immaterial one would imagine that the
+Owner would not have refused their admission into evidence when the arbitrator
+made it their decision and not his. I am fortified in my view that they were
+material by the evidence before me of Fichte repeatedly asking the arbitrator
+to reconsider their exclusion.
+
+77 Accordingly, I also find that the breach of natural justice prejudiced the
+Charterer’s rights.
+
+Conclusion
+
+78 The Owner invited me to remit this matter to the arbitrator under Art 34(4)
+of the Model Law as an alternative to setting aside. The Charterer did not
+agree to this course of action. I decline to exercise my power to remit. I do
+not exercise my discretion to remit because this is hardly a case of mere
+oversight in failing to give a party a reasonable opportunity to be heard on
+some aspect of a dispute. Rather, the peremptory order and the exclusion of
+the defence submissions seems to have been the product of a haste quite out of
+keeping with the time accorded to the Owner for its submissions. It is
+striking that not once did the arbitrator either ask for or consider input
+from the Charterer on the procedure to be adopted, the timetable to be
+imposed, reasons for any non-compliance or the content and application of any
+sanction. The Charterer’s lack of confidence in the arbitrator to decide the
+matter fairly if remitted is not without reasonable basis.
+
+79 In this case, hurry (demanded of one side but not the other) has indeed
+buried justice.
+
+80 I therefore grant an order setting aside the entire second award, pursuant
+to s 24(b) of the IAA and Art 34(2)(a)(ii) of the Model Law.
+
+81 I will hear parties on costs.
+
+Philip Jeyaretnam  
+Judge of the High Court|  
+---|---  
+  
+Ong Sing Huat, Kok Jia An Alwyn and Chia Kia Boon (Robert Wang & Woo LLP) for
+the plaintiff;
+
+Bazul Ashhab, Chan Cong Yen Lionel (Chen Congren) and Chang Guo En Nicholas
+Winarta Chandra (Oon & Bazul LLP) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 14 Jan 2022 (10:56 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

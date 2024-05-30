@@ -1,0 +1,2673 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2021] SGHC 266
+
+Suit No 814 of 2018
+
+Between
+
+| Tan Kian Seng  
+---|---  
+  
+… Plaintiff
+
+And
+
+| Venture Corporation Limited  
+---|---  
+  
+… Defendant
+
+judgment
+
+[Contract] — [Contractual terms] — [Breach] — [Damages]
+
+[Contract] — [Mistake]
+
+[Misrepresentation] — [Fraudulent] — [Remedies]
+
+[Misrepresentation] — [Negligent]
+
+[Employment Law] — [Contract of service] — [Breach]
+
+[Restitution] — [Unjust enrichment]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Tan Kian Seng
+
+  
+v
+
+  
+
+Venture Corporation Limited
+
+[2021] SGHC 266
+
+General Division of the High Court — Suit No 814 of 2018  
+Audrey Lim J  
+10–12 March, 18–21, 24, 28 May, 27 September, 26 October 2021
+
+25 November 2021 Judgment reserved
+
+Audrey Lim J:
+
+1 The plaintiff (“Tan”) commenced this Suit (“the Suit”) against the defendant
+(“Venture”), a public listed company, for breach of his employment contract
+pertaining to share benefits which he claims he is entitled to; alternatively,
+there were representations made by Venture to that effect. Venture denies
+Tan’s claims, and counterclaims essentially that Tan had defrauded it by
+making false representations to induce it to issue shares to Tan.
+
+Background
+
+2 Tan was employed by Venture since April 2001 and was its President
+(“President”) from 16 August 2011 to 31 January 2016. He became Advisor to the
+Chief Executive Officer (“Advisor”) for a three-year period from 1 February
+2016, but he ended his employment with Venture on 31 January 2017.
+
+3 Tan was eligible to participate in Venture’s share benefit schemes,
+particularly the Executives’ Share Option Scheme (“ESOS”) and the Restricted
+Share Plan (“RSP”) (collectively the “Share Schemes”), which are governed by
+the ESOS Rules and RSP Rules respectively. Although there are two versions of
+the ESOS Rules (2004 and 2015), parties agree that there is no material
+difference between them for the purposes of the Suit, and I will thus refer to
+the 2004 version. 1
+
+##### Foot Note 1
+
+×
+
+1AB 72–88; 138–159, 235–252; 12/3/21 NE 24.
+
+A Remuneration Committee (“RC”) comprising Venture’s directors administers the
+Share Schemes.
+
+4 Under the ESOS, the RC may grant to an employee (“the grantee”) an option,
+ie, the right to subscribe to shares granted to the employee pursuant to the
+ESOS (“share option”). The grantee who wishes to subscribe to the shares must
+accept the option within the stipulated time and exercise the option by
+submitting a Form of Exercise of Option (“Option Form”). Any unexercised
+option would lapse upon certain events under rules 7.2 and 7.3 of the ESOS
+Rules, but the RC may, pursuant to rule 7.3, determine that an option does not
+lapse upon those events. Under the RSP, the RC may grant an award of shares to
+a grantee (“share award”) which will only be released to him after the vesting
+period. To the extent that the share award is not yet released, it will lapse
+upon certain events under rule 6.2 or 6.3 of the RSP Rules, subject to the RC
+making a determination otherwise. 2
+
+##### Foot Note 2
+
+×
+
+10/3/21 NE 80–81; 12/3/21 NE 89–93 19/5/21 NE 54–55.
+
+I will refer to the share options and share awards collectively as “share
+benefits”.
+
+5 Before Tan stepped down as President, he was given the following share
+options (“Share Options”) and share awards (“Share Awards”) (collectively,
+“Share Benefits”):
+
+Grant No.| Share Options Grant Date| No. of Options| Expiry Date of Share
+Options  
+---|---|---|---  
+8| 14 September 2012| 50,000| 13 September 2017  
+9| 16 September 2013| 60,000| 15 September 2018  
+10| 3 April 2014| 60,000| 2 April 2019  
+G1| 16 June 2015| 60,000| 15 June 2020  
+  
+Grant | Share Awards Grant Date| No. of Shares| Release Schedule  
+---|---|---|---  
+RSP| 18 May 2012| 30,000| 18 May 2017  
+RSP| 15 May 2013| 20,000| 15 May 2018  
+RSP| 26 May 2014| 20,000| 26 May 2019  
+RSP| 5 June 2015| 20,000| 5 June 2020  
+  
+6 Tan claims that he retired and ceased to be employed by Venture when he
+stepped down as President and was then re-employed as Advisor. Upon cessation
+of his employment in January 2016, the Share Benefits lapsed by virtue of rule
+7.2(b) of ESOS Rules and rule 6.2(b) of RSP Rules; however the terms of his
+re-employment as Advisor contained in a document (“SB Letter”), which Tan
+claims supplements his contract as Advisor (“Advisor Contract”), provided for
+the restoration of his Share Benefits. 3
+
+##### Foot Note 3
+
+×
+
+10/3/21 NE 112; 12/3/21 NE 69–71; 20/5/21 NE 1–2.
+
+Venture claims Tan did not retire or cease employment when he ceased to be
+President but continued in Venture’s employ in the role of Advisor, and the
+Share Benefits continued to accrue to him. Venture also disputes that Tan can
+rely on the SB Letter. 4
+
+##### Foot Note 4
+
+×
+
+10/3/21 NE 69, 71–72, 99; 12/3/21 NE 68; 18/5/21 NE 16–17, 25, 27, 30, 37;
+19/5/21 NE 56, 58–59; Defence & Counterclaim (Amendment No. 1) (“Defence”) at
+[11(j)].
+
+7 On 20 January 2016, Wong Ngit Liong (“Wong”), Venture’s Chairman and Chief
+Executive Officer (“CEO”), handed Tan the Advisor Contract dated 20 January
+2016 signed by Wong. Tan claims that at the same time he was handed the SB
+Letter dated 20 January 2016 and which was signed by Sita Lim (“Sita”), the
+head (or “CHRO”) of the human resource department (“HR”). Venture claims that
+the SB Letter only came into existence in February 2016.
+
+8 The Advisor Contract states as follows: 5
+
+##### Foot Note 5
+
+×
+
+2AB 636–638.
+
+This is to confirm your retirement from the post of President of [Venture] as
+of 31 January 2016.
+
+As discussed, you are eligible and wish for re-employment after your said
+retirement.
+
+…
+
+Based on our several discussions, I would like to appoint you as Advisor to
+the CEO … This appointment is for a period of 3 years (with effect from 1 Feb
+2016) …
+
+The Advisor Contract further states that the terms and conditions are set out
+in an Addendum attached to it (“the Addendum”). The Addendum states that Tan
+“continue[s] to be eligible” to “share benefits” and is “[e]ligible to
+participate in … the [ESOS], subject to the terms and conditions of the …
+Scheme.”
+
+9 The SB Letter states as follows: 6
+
+##### Foot Note 6
+
+×
+
+2AB 639–640.
+
+We refer to the share options which have been granted to you under the [ESOS
+and RSP].
+
+We further refer to our discussions about your retirement from employment with
+[Venture] on 31 January 2016 and re-employment from 1 February 2016.
+
+The terms of the [ESOS] provide that unexercised share options shall lapse
+upon the retirement of the employee. Similarly, under the terms of the RSP,
+the Awards which have yet to vest and be settled, shall also lapse upon the
+employee’s retirement.
+
+The [RC] administering the [ESOS and RSP] may however determine otherwise and
+has assented to (i) permitting the share options granted to be exercised by
+you with the respective Exercise Periods (as defined in the terms of the
+[ESOS]); and (ii) the Awards vesting and being settled according to the
+Release Schedule (as defined in the terms of the [RSP]). This is however
+subject to your entering into the [Advisor Contract] dated 20 January 2016
+offered to you and this letter is supplemental to the terms of the [Advisor
+Contract]. This determination shall prevail even upon the cessation of the Re-
+employment contract except in the event of dismissal for misconduct. The
+unexercised share options granted and Awards made to you are attached as
+Appendix A.
+
+…
+
+[emphasis in original in bold; emphasis added in bold italics]
+
+The SB Letter sets out the Share Benefits (as per the tables at [5] above). I
+will refer to the paragraph on the RC’s determination as “Para 4 of the SB
+Letter”, the sentence in bold in that paragraph as the “Clause in the SB
+Letter”, and the RC’s determination in that Clause as the “Purported
+Determination”.
+
+10 On 1 August 2016, Tan tendered his resignation (“Resignation Notice”) as
+Advisor and left Venture on 31 January 2017. It is undisputed that this was a
+termination by him of his employment and not a “retirement”. 7
+
+##### Foot Note 7
+
+×
+
+10/3/21 NE 164–165.
+
+Tan then exercised the Share Option under Grant 8 for 50,000 shares in two
+tranches of 25,000 shares each around 28 September 2016 and 9 January 2017,
+and received the shares around 6 October 2016 and 16 January 2017
+respectively. 8
+
+##### Foot Note 8
+
+×
+
+Statement of Claim (Amendment No. 1) (“SOC”) at [19]; Tan’s AEIC at [57],
+[95]–[98]; Rosalind Lee’s AEIC at [26] and [32]; Table on ESOS Share Options
+and RSP Awards dated 24 May 2021 (“ESOS and RSP Table”); 10/3/21 NE 116;
+12/3/21 NE 3–4; 2AB 772–774, 779–781.
+
+On 23 January 2017, Tan was informed that the RC had decided not to allow him
+to retain the Share Benefits. Nevertheless, on 28 March 2017, Tan proceeded to
+exercise the Share Option for 25,000 of the 60,000 shares under Grant 9 but
+this was rejected by Venture. 9
+
+##### Foot Note 9
+
+×
+
+SOC at [20]; Tan’s AEIC at [61]–[62]; ESOS and RSP Table.
+
+Tan then commenced the Suit to claim the remaining Share Benefits.
+
+Plaintiff’s case
+
+11 Tan attested as follows. As President of Venture, Tan had oversight of all
+units/departments including HR, finance, legal (“Legal”) and corporate
+secretarial. He reported to Wong. One Angeline Khoo (“Angeline”) was head of
+Legal. Whilst Sita and Angeline officially reported to Tan as President, they
+principally took instructions from Wong; in particular, the CHRO reported
+directly to Wong regarding share benefits. 10
+
+##### Foot Note 10
+
+×
+
+Tan’s AEIC at [19]–[20].
+
+12 In September 2015, Wong and Tan discussed Tan’s re-employment as Advisor
+after his retirement. Wong assured Tan that his current terms of employment
+including his share benefits would not change and told Tan to speak to Sita
+about the share benefits. Tan then informed Sita that Wong had said that he
+could retain his share benefits upon his retirement and re-employment. Sita
+said that he would speak to Angeline on how to effect this. 11
+
+##### Foot Note 11
+
+×
+
+Tan’s AEIC at [47]–[48].
+
+13 On 20 January 2016, Tan met Wong and Sita at Venture’s conference room
+(“20/1/16 Meeting”). Tan was handed both the Advisor Contract and SB Letter as
+comprising his re-employment terms. Tan signed the Advisor Contract and
+returned it to Wong on 21 January 2016. He only signed the SB Letter in
+duplicate, and handed a copy to Sita, on 15 February 2016. 12
+
+##### Foot Note 12
+
+×
+
+Tan’s AEIC at [53], [56].
+
+14 After Tan exercised the Share Option under Grant 8 and received 50,000
+shares, Sita informed him on 23 January 2017 that his share entitlement had
+been discussed at an RC meeting and the RC was not in favour of allowing him
+to exercise the remaining Share Options or retain his entitlement to the
+unreleased Share Awards. Tan was upset as it contradicted the SB Letter. 13
+
+##### Foot Note 13
+
+×
+
+Tan’s AEIC at [61].
+
+When Tan attempted to exercise his Share Option under Grant 9 for 25,000
+shares, Sita informed him that Venture would reject this exercise and asked
+him to appeal to Wong. On 6 April 2017, Tan wrote to Sita for the 25,000
+shares to be issued to him and refuted the need to appeal as the RC had agreed
+to allow him to exercise the Share Options as per the SB Letter (“Tan’s 6/4/17
+Letter”). 14
+
+##### Foot Note 14
+
+×
+
+Tan’s AEIC at [62]–[63] and pp 675–677.
+
+15 Tan then met Wong and Koh Lee Boon (“Koh”) on 24 May 2017 (“24/5/17
+Meeting”). Koh is the RC Chairman and an independent non-executive director of
+Venture. Tan informed them that he had acted based on the SB Letter. Wong and
+Koh said that they would discuss the matter and give him a reply. On 24 July
+2017, Koh emailed Tan to state that at the 24/5/17 Meeting, he and Wong had
+concluded that Venture had no authority to vary the ESOS and RSP Rules, hence,
+it was unable to consider an appeal on Tan’s part that would breach the Rules
+(“Koh’s 24/7/17 Email”). Koh stated that Venture was prepared to receive a
+proposal from Tan that would not breach the Rules. 15
+
+##### Foot Note 15
+
+×
+
+Tan’s AEIC at [72] and p 733.
+
+On 18 August 2017, Tan emailed Koh to ask that his case be reconsidered
+(“Tan’s 18/8/17 Email”). On 8 September 2017, Wong emailed Tan to repeat
+Venture’s earlier position and that it was unable to consider his appeal as
+that would result in a breach of the ESOS and RSP Rules. 16
+
+##### Foot Note 16
+
+×
+
+Tan’s AEIC at [72], [74]–[75] and pp 734–735.
+
+16 Tan’s lawyers (“TRC”) then issued a letter of demand on 5 March 2018 to
+Venture (“Demand Letter”). On 13 April 2018, Venture’s then lawyers (“WongP”)
+replied to say that: (a) Tan received the SB Letter on 15 February 2016 and
+that it was falsely backdated to 20 January 2016; (b) the remaining Share
+Benefits lapsed when Tan tendered the Resignation Notice; (c) the RC had not
+made the Purported Determination; and (d) Tan had exercised the Share Option
+under Grant 8 by falsely representing to Venture that it had not lapsed. 17
+
+##### Foot Note 17
+
+×
+
+Tan’s AEIC at [77]–[78]; 3AB 829–833; 851–853.
+
+Defendant’s case
+
+17 Venture’s factual witnesses were Wong, Koh, Sita and Rosalind Lee who is
+the manager of HR (“Rosalind”). I will deal with Rosalind’s testimony in my
+findings and set out the testimony of the other witnesses here.
+
+Testimony of Wong and Koh
+
+18 Tan, as President of Venture, reported to Wong who is the Chairman of
+Venture’s board of directors and its CEO.
+
+19 Wong attested that around end 2015, he offered to re-employ Tan as Advisor.
+At the 20/1/16 Meeting, Wong handed Tan the Advisor Contact to define Tan’s
+role as Advisor and which included the terms and conditions of his continued
+employment. Tan accepted the offer by signing the Advisor Contract in Wong’s
+presence on 21 January 2016 and returning it to Wong. Tan’s re-employment
+terms as Advisor were contained in the Advisor Contract. At that time, the SB
+Letter did not exist and Tan did not mention it. 18
+
+##### Foot Note 18
+
+×
+
+Wong’s AEIC at [85]–[86], [88], [97], [110]–[113].
+
+20 On 23 February 2016, the RC met and Koh, Wong and Angeline (who was also
+the company secretary) were present (“23/2/16 RC Meeting”). Koh attested that
+the RC was updated on employees (including Tan) who had reached retirement age
+but continued in Venture’s employ and who would be permitted to enjoy their
+share benefits. That Tan continued to be entitled to his Share Benefits was
+reflected in the Advisor Contract. 19
+
+##### Foot Note 19
+
+×
+
+Koh’s AEIC at [22]–[25].
+
+21 Wong stated that when Tan tendered the Resignation Notice, his Share
+Benefits lapsed immediately under the ESOS and RSP Rules. On 23 January 2017,
+the RC deliberated on Tan’s entitlement to his Share Benefits (“23/1/17 RC
+Meeting”) and decided that share benefits granted to an employee would lapse
+on the date of his resignation notice. Koh stated that the RC did not exercise
+its discretion to make an exception in Tan’s case. 20
+
+##### Foot Note 20
+
+×
+
+Wong’s AEIC at [98]–[99]; Koh’s AEIC at [33]–[35].
+
+The RC and Venture had no power to determine that Tan could continue to be
+entitled to his Share Benefits even if he resigned, by virtue of rule 7.2(b)
+of the ESOS Rules and rule 6.2(b) of the RSP Rules. The ESOS and RSP Rules
+also provide that the Rules and the ESOS and RSP terms cannot be altered to a
+participant’s advantage except with shareholders’ prior approval. Hence, Tan
+would have known that his Share Benefits lapsed when he tendered the
+Resignation Notice. 21
+
+##### Foot Note 21
+
+×
+
+Koh’s AEIC at [26]–[32] and [57].
+
+22 Wong stated that after that meeting, Sita told Wong that he had informed
+Tan of the RC’s decision. Hence, Tan would have known then that the RC had
+regarded all his Share Benefits as lapsed at the date of the Resignation
+Notice. 22
+
+##### Foot Note 22
+
+×
+
+Wong’s AEIC at [100]–[102].
+
+23 Wong first found out about the SB Letter on 6 April 2017, when Sita handed
+him a note to explain Tan’s attempt to exercise his share options (“Sita’s
+Note”). Sita’s Note attached Tan’s 6/4/17 Letter and the SB Letter. 23
+
+##### Foot Note 23
+
+×
+
+Wong’s AEIC at [105]–[106]; 18/5/21 NE 145, 158.
+
+Koh first had sight of the SB Letter only around April 2017 when Wong showed
+it to him. Koh then approached other RC members who confirmed that they had
+never seen the SB Letter. Koh stated that the RC never made the Purported
+Determination as it would have been contrary to the ESOS and RSP Rules. 24
+
+##### Foot Note 24
+
+×
+
+Koh’s AEIC at [36]–[41]; 19/5/21 NE 138.
+
+24 Koh explained that the 24/5/17 Meeting was a result of Wong’s suggestion to
+Koh to meet Tan to find out more about the SB Letter and Tan’s request to
+exercise the Share Option under Grant 9. 25
+
+##### Foot Note 25
+
+×
+
+Koh’s AEIC at [49]–[51]; 19/5/21 NE 135–136.
+
+At the meeting, Tan requested to be allowed to exercise his unexercised Share
+Options. Wong and Koh informed Tan that Venture did not have the authority to
+vary the ESOS and RSP Rules and was unable to consider Tan’s appeal that would
+breach the Rules. Koh’s 24/7/17 Email subsequently noted what transpired at
+this meeting.
+
+25 Koh then received Tan’s 18/8/17 Email where Tan asked to be allowed to
+exercise his unexercised Share Options and to keep the 50,000 shares under
+Grant 8, but Tan did not ask for the Share Awards which had not vested when he
+resigned. Hence, Tan knew that the SB Letter had no effect and that he could
+not keep the Share Benefits which lapsed when he resigned. In August 2017, the
+RC and Wong discovered that Venture had issued Tan 50,000 shares pursuant to
+Tan’s exercise of the share option that should not have been done. 26
+
+##### Foot Note 26
+
+×
+
+Koh’s AEIC at [52]–[56]; Wong’s AEIC at [139]–[142].
+
+26 In May 2019, Venture terminated Angeline’s employment for her involvement
+in the preparation of the SB Letter. Angeline would have known that the RC did
+not make the Purported Determination as she was the company secretary who took
+minutes of all RC meetings. 27
+
+##### Foot Note 27
+
+×
+
+Wong’s AEIC at [154]–[155].
+
+Sita’s testimony
+
+27 Sita joined Venture as the CHRO on 1 September 2014. He reported to and
+took instructions from Tan when Tan was the President. 28
+
+##### Foot Note 28
+
+×
+
+Sita’s AEIC at [4], [19]–[22]; Wong’s AEIC at [57].
+
+28 In January 2016, Wong informed Sita that Tan would continue to work for
+Venture as Advisor to the CEO, and that Tan’s terms of employment would
+otherwise remain the same. Wong would prepare the letter regarding Tan’s re-
+employment (the Advisor Contract) and instructed Sita to prepare the Addendum
+to it which Sita did. 29
+
+##### Foot Note 29
+
+×
+
+Sita’s AEIC at [33]–[37].
+
+29 On 21 January 2016, Wong’s personal assistant handed Sita a copy of the
+Advisor Contract which had been signed by Wong and Tan. On 25 January 2016,
+Wong and Sita signed a spreadsheet which set out Tan’s entitlement to the
+Share Benefits (“PB1”). On 25 January 2016, after signing PB1, Sita asked
+Rosalind to prepare a letter to inform Tan of the share benefits that he would
+continue to be entitled to after 31 January 2016. As Tan was the first
+employee to work past retirement age who had been granted share awards under
+the RSP, Sita asked Rosalind to check with Angeline on the suitable language
+to address Tan’s Share Awards. 30
+
+##### Foot Note 30
+
+×
+
+Sita’s AEIC at [40]–[46]; Plaintiff’s Bundle of Documents (Disputed as to
+Authenticity by the Plaintiff) (“PB”) – PB 1.
+
+30 On 27 January 2016, Rosalind emailed a draft letter to Angeline on the
+restoration of Tan’s Share Benefits (“Rosalind’s Draft”) and asked Angeline to
+review the draft and to include and deal with Tan’s accrued Share Awards.
+Angeline emailed a revised draft to Rosalind on the same day (“Angeline’s
+Draft”). Both drafts were dated 25 January 2016 and the title of Angeline’s
+emails was “Tan Kian Seng_normal expiry date_”. 31
+
+##### Foot Note 31
+
+×
+
+Sita’s AEIC at [47]–[49] and exhibits SL-41 and SL-42; PB 4, 8.
+
+Angeline’s Draft was worded differently from Rosalind’s Draft, and was very
+similar to what would become the SB Letter. Pertinently, Angeline’s Draft
+included what was essentially Para 4 of the SB Letter, but without the Clause.
+Sita attested that this was the first time the phrasing of Para 4 of the SB
+Letter came about. Sita did not question Angeline on whether the RC had
+assented to the matters as reflected in Angeline’s Draft. This would have been
+within her knowledge given that she attended RC meetings and took minutes as
+the company secretary. 32
+
+##### Foot Note 32
+
+×
+
+21/5/21 NE 56; Sita’s AEIC at [55]–[56].
+
+31 Around 27 or 28 January 2016, Sita handed a copy of Angeline’s Draft to
+Tan. Tan asked Sita what would happen to his Share Benefits if he resigned as
+Advisor, as Angeline’s Draft did not deal with this. Sita said that they would
+lapse. Tan disagreed with this position and informed Sita that he should be
+allowed to keep his Share Benefits even if he left Venture completely as with
+past practice, and told Sita to check with Angeline on this position. Sita
+accepted Tan’s word as Tan had been with Venture for many years and in charge
+of HR. Tan was also a member of Venture’s Executive Committee which recommends
+to the RC on employees who should be granted share benefits. 33
+
+##### Foot Note 33
+
+×
+
+Sita’s AEIC at [13], [57]–[61]; 21/5/21 NE 8.
+
+32 Sita then told Angeline what Tan had said. Angeline replied that she would
+reply to him with a re-draft of the letter. When Sita did not hear from
+Angeline, he emailed Rosalind on 2 February 2016 to ask if the letter for Tan
+was ready (“Sita’s 2/2/16 Email”). In that email, Sita said, “Letter done?
+Don’t want to owe [Tan] on this.” 34
+
+##### Foot Note 34
+
+×
+
+Sita’s AEIC at [64]–[66] and exhibit SL-43; PB 31; 21/5/21 NE 14.
+
+Rosalind then informed Sita that Angeline had not replied with a revised
+draft. On 12 February 2016, Rosalind again informed Sita that Angeline had not
+given her a revised draft whereupon Sita called Angeline and informed her that
+to move matters forward, she could dictate the amendments to be made to
+Angeline’s Draft. Whilst on the phone, Angeline dictated the amendments,
+namely the addition of the Clause in the SB Letter, which Sita typed into
+Angeline’s Draft at Rosalind’s computer. 35
+
+##### Foot Note 35
+
+×
+
+Sita’s AEIC at [67]–[73]; 21/5/21 NE 14.
+
+33 On 12 February 2016, Sita finalised the SB Letter and backdated it to 20
+January 2016 to follow the date of the Advisor Contract. On Monday, 15
+February 2016, Sita signed two copies of the SB Letter, then called Tan to
+hand them to him whereupon Tan signed the two copies, dated them 15 February
+2016, and handed one copy to Sita. 36
+
+##### Foot Note 36
+
+×
+
+Sita’s AEIC at [75]–[79].
+
+34 At the 23/1/17 RC Meeting, Sita updated the RC on employees who had been
+allowed to continue to enjoy their share benefits in 2016 which included Tan.
+Tan’s Share Benefits had lapsed when he tendered the Resignation Notice. The
+RC decided that Tan should not be allowed to keep his unexercised Share
+Benefits. After that meeting, Wong told Sita to inform Tan of the RC’s
+decision. At that time, Sita did not inform the RC or Wong about the SB Letter
+or that Tan had exercised the Share Option for 50,000 shares. 37
+
+##### Foot Note 37
+
+×
+
+Sita’s AEIC at [84]–[89].
+
+35 Sita then called Tan to inform him that his Share Benefits had lapsed given
+his resignation. He also told Tan that if the SB Letter suggested otherwise,
+it was incorrect and he should not have given that document to Tan. Tan
+disagreed with Sita. On 28 March 2017, Tan tried to exercise his Share Option
+by submitting an Option Form. Sita brought the matter to Wong’s attention, but
+again did not inform him about the SB Letter. Sita then called Tan and
+apologised to him as he had made a gross mistake in giving him the SB Letter.
+He further told Tan that as his Share Benefits had lapsed, he should consider
+appealing to Wong or the RC. 38
+
+##### Foot Note 38
+
+×
+
+Sita’s AEIC at [90]–[96].
+
+36 On the same day Sita received Tan’s 6/4/17 Letter, he prepared Sita’s Note
+to inform Wong about the SB Letter. Sita also called Tan again to say that he
+had made a gross mistake in issuing the SB Letter and that Tan should ask the
+RC to allow him to keep the Share Benefits. He did not hear from Tan
+thereafter. 39
+
+##### Foot Note 39
+
+×
+
+Sita’s AEIC at [97]–[101], and pp 121–138.
+
+37 Essentially Sita had only created the SB Letter on 12 February 2016. He did
+not have the authority to make any representations contained in the SB Letter
+(in particular, the Clause in the SB Letter) – Tan knew of this as he was
+responsible for overseeing HR and also knew that Sita did not have authority
+to override the ESOS and RSP Rules. Sita admitted to his mistake in not having
+checked with Wong on the Clause in the SB Letter at the material time. 40
+
+##### Foot Note 40
+
+×
+
+Sita’s AEIC at [104]–[106]; 21/5/21 NE 31–32.
+
+Parties’ respective causes of action
+
+38 Tan claims that Venture has breached his re-employment contract (which
+comprised the Advisor Contract and SB Letter) by failing to confer on him the
+Share Benefits. The RC had made the Purported Determination that Tan would
+retain the Share Benefits accrued to him, before he stepped down as President,
+even on cessation of his re-employment as Advisor (save for a dismissal for
+misconduct). 41
+
+##### Foot Note 41
+
+×
+
+Tan’s AEIC at [38]; 10/3/21 NE 59.
+
+Alternatively, Venture (through Sita) had represented to Tan his entitlement
+to the Share Benefits by the Clause in the SB Letter and he was induced to
+enter into the re-employment contract based on this representation and duly
+signed the Advisor Contract and SB Letter. 42
+
+##### Foot Note 42
+
+×
+
+SOC at [25] read with [16].
+
+39 Venture claims that Tan’s re-employment was governed by the Advisor
+Contract alone and the SB Letter did not exist on 20 January 2016. Even if Tan
+received the SB Letter on 15 February 2016, it could not constitute further
+terms of his re-employment. All the terms of re-employment had been agreed
+between Wong and Tan and set out in the Advisor Contract. Tan did not give any
+consideration for the SB Letter as he commenced work as Advisor before
+accepting the SB Letter. Further, Sita had no authority to decide on Tan’s re-
+employment terms and Tan would have known that the RC had not made the
+Purported Determination. Hence, the SB Letter was void or voidable (including
+on the ground of mistake) and unenforceable and there were no representations
+from Venture that Tan could have relied on. 43
+
+##### Foot Note 43
+
+×
+
+Defence at [11]–[15]; Wong’s AEIC at [111]–[116], [120]–[121]; Koh’s AEIC at
+[43].
+
+40 Venture asserts that Tan had made false representations and defrauded it.
+By signing the SB Letter, Tan knowingly participated in the creation of a
+false document. By purporting to exercise the lapsed Share Options, Tan had
+falsely misrepresented that he was still entitled to them. Venture was thus
+induced by his representations into issuing 50,000 shares to him. It claims
+against Tan for fraudulent misrepresentation, breach of contract and unjust
+enrichment as Tan had benefitted from the issued shares, and also that Tan had
+breached his fiduciary duties and his duty to act in good faith and of
+fidelity. 44
+
+##### Foot Note 44
+
+×
+
+Defence at [40]–[50], [54]–[57]; Wong’s AEIC at [135]; Koh’s AEIC at
+[45]–[47].
+
+Preliminary issues
+
+41 I begin with some preliminary issues.
+
+42 Contrary to Tan’s claim that Legal and HR reported directly to Wong, I find
+that all the departments reported to Tan and was under his charge when he was
+Venture’s President. This was attested to by Wong, which I accept. As
+President, Tan was first among equals and the most senior executive just below
+Wong. 45
+
+##### Foot Note 45
+
+×
+
+Wong’s AEIC at [55]–[58]; 10/3/21 NE 37.
+
+Venture’s public announcement in 2011 of Tan’s appointment as President stated
+that Tan would have oversight of Venture’s corporate and administrative
+support services including HR. In court, Tan admitted on numerous occasions
+that, as President, the heads of HR and Legal in fact reported to him and he
+had oversight of the departments. 46
+
+##### Foot Note 46
+
+×
+
+1AB 175; 10/3/21 NE 16–18, 25, 30–31, 137, 146–147; 11/3/21 NE 111.
+
+Sita likewise stated that he reported to Tan whilst Tan was President, and
+this was reflected in his employment contract as CHRO which Tan signed. 47
+
+##### Foot Note 47
+
+×
+
+Sita’s AEIC at [19]–[22]; 1AB 265–268.
+
+43 Next, it is undisputed that the RC is responsible for administering the
+Share Schemes, including determining the share benefits to be conferred on an
+eligible employee; and that the CHRO or Sita had no such authority or power.
+Where any accrued share benefit of an employee lapses under the circumstances
+mentioned in the ESOS or RSP Rules, the RC has the discretion whether to
+preserve the benefit for the employee and it must exercise its powers within
+the confines of the Rules. 48
+
+##### Foot Note 48
+
+×
+
+Tan’s AEIC at [33]; 10/3/21 NE 50–51; 18/5/21 NE 66–68.
+
+Tan was familiar with, and knew that his entitlement to share benefits was
+subject to, the ESOS and RSP Rules. 49
+
+##### Foot Note 49
+
+×
+
+10/3/21 NE 12, 19–20, 43–56, 140; 11/3/21 NE 111–112.
+
+44 Finally, by a resolution dated 23 April 2015 (“the Resolution”), the RC had
+delegated its function to the CEO and CHRO jointly to review and exercise the
+RC’s discretion under rules 7.3(aa) and 7.3(bb) of the ESOS Rules in a case
+where an employee “ceases” to be employed by reason of: (a) ill health,
+injury, accident or disability; (b) redundancy; or (c) “retirement at or after
+[Venture’s] retirement age”. 50
+
+##### Foot Note 50
+
+×
+
+2AB 495–496; Koh’s AEIC at [57].
+
+Tan’s resignation from Venture (as Advisor) did not engage the Resolution, as
+it was not a cessation of employment in any of those circumstances. Tan
+“retired” after Venture’s retirement age when he stepped down as President;
+there was no further “retirement” as such when he ceased to be Advisor. Hence,
+the CEO and CHRO could not exercise their powers under the Resolution
+pertaining to the Share Options when Tan tendered the Resignation Notice. The
+Resolution also does not apply to share awards.
+
+Agreement between Wong and Tan on Tan’s re-employment as Advisor
+
+45 It is undisputed that there were discussions between Wong and Tan before 20
+January 2016, pertaining to Tan’s future after he stepped down as President.
+51
+
+##### Foot Note 51
+
+×
+
+Tan’s AEIC at [47]; Wong’s AEIC at [85]; 18/5/21 NE 5–6, 11, 103–104; 19/5/21
+NE 75–76.
+
+In this regard, I use the term “re-employ” and “re-employment” to describe Tan
+stepping down as President and assuming the role of Advisor. Whether Tan’s
+retirement as President on 31 January 2016 constituted a “cessation” of
+employment in Venture such as to engage the ESOS and RSP Rules (which provides
+for the automatic lapsing of accrued share benefits unless the RC determines
+otherwise) will be determined later.
+
+46 Tan agreed that his terms of employment, and re-employment as Advisor,
+could only be decided and were determined by Wong, even if the details were to
+be sorted out by someone else such as HR; and that Sita/CHRO had no authority
+to determine Tan’s re-employment terms including his benefits. As President,
+Tan was the most senior executive below Wong; and Tan agreed that from the
+time he was employed as general manager of Venture Malaysia in 2001 to his
+promotion as CFO and then President of Venture, Wong dealt with his employment
+terms. 52
+
+##### Foot Note 52
+
+×
+
+10/3/21 NE 10, 14–15, 113–114; 11/3/21 NE 22, 60–61; 2AB 666–668.
+
+Wong similarly attested that he hired Tan as Advisor and set out all the terms
+for this role in the Advisor Contract; and there was no delegation or the need
+for further negotiations with Sita who was then a relatively new employee and
+junior person in the corporate management rank. 53
+
+##### Foot Note 53
+
+×
+
+Wong’s AEIC at [90].
+
+47 Next, it is common ground that Wong agreed that Tan would retain his Share
+Benefits already accrued when Tan continued to be in Venture’s employ as
+Advisor. Wong explained that as Tan did not cease employment with Venture as
+he would continue in the role of Advisor, there was no change to Tan’s Share
+Benefits. The Addendum to the Advisor Contract which Wong showed to Tan in
+January 2016 set out Tan’s continuing entitlement to his accrued Share
+Benefits and Wong had informed Tan to obtain the details of these benefits
+from Sita as the records were kept with HR. 54
+
+##### Foot Note 54
+
+×
+
+Tan’s AEIC at [47(d)]–[48]; 11/3/21 NE 7–8, 93; 12/3/21 NE 70; 18/5/21 NE
+6–14.
+
+48 Importantly, Tan agreed that there was no discussion with Wong let alone
+any agreement by Wong, that Tan would retain the Share Benefits after his
+cessation of re-employment with Venture. 55
+
+##### Foot Note 55
+
+×
+
+11/3/21 NE 95.
+
+In his affidavit of evidence-in-chief (“AEIC”), Tan merely stated that Wong
+had told him that he would be allowed to retain his Share Benefits upon his
+retirement and re-employment (as Advisor). 56
+
+##### Foot Note 56
+
+×
+
+Tan’s AEIC at [48].
+
+Tan admitted that what was agreed with Wong upon his re-employment was that he
+would retain the same employment benefits as when he was President, and not
+that he would receive more or better benefits or that his Share Benefits would
+continue to accrue even after he ceased to be Advisor or to be employed by
+Venture completely. In effect, even as President, there was no term of
+employment that any outstanding share benefits would accrue even when Tan
+ceased to be in Venture’s employ completely. 57
+
+##### Foot Note 57
+
+×
+
+11/3/21 NE 95, 101–103.
+
+49 Tan admitted that he had separately informed Sita and Angeline that he
+wanted his Share Benefits to continue to accrue even after cessation of re-
+employment as Advisor, which was beyond what was agreed by Wong; and that he
+conveyed to Sita and Angeline a different message from his conversation with
+Wong. 58
+
+##### Foot Note 58
+
+×
+
+11/3/21 NE 95–96.
+
+In a summary judgment application for the Suit, Tan attested that after the
+negotiations with Wong on his re-employment, he told Sita that he wanted his
+re-employment contract to include a term for him to continue to exercise any
+unexercised Share Options and to receive any unvested Share Awards “even after
+the cessation of” his re-employment contract, but he did not inform Sita as to
+whether Wong had agreed to such a term. 59
+
+##### Foot Note 59
+
+×
+
+Tan’s affidavit dated 1 November 2018 at [31(b)] (Plaintiff’s Bundle of Cause
+Papers, Vol 1 (“BCP1”), Tab 2); 11/3/21 NE 97–99; 12/3/21 NE 103–104.
+
+50 In effect, Tan agreed that the term as encapsulated in the Clause in the SB
+Letter was never discussed between him and Wong or agreed to by Wong. 60
+
+##### Foot Note 60
+
+×
+
+12/3/21 NE 86–88.
+
+Whether Tan ceased employment on 31 January 2016
+
+51 I next deal with whether there was a cessation of employment for the
+purposes of engaging the ESOS and RSP Rules when Tan stepped down as
+President. It is undisputed that the retirement age in Venture is 62 years old
+and Tan reached that age in November 2015, but he did not then retire but
+remained as President until 31 January 2016. 61
+
+##### Foot Note 61
+
+×
+
+10/3/21 NE 70.
+
+52 Mr Rajah SC submits that there was a “cessation” of employment on 31
+January 2016; this is important to show that the SB Letter was given to Tan
+with the Advisor Contract to restore his accrued Share Benefits when he was
+re-employed (as per the agreement with Wong), as the Advisor Contract was
+silent on this and he would have lost his entitlement to the Share Benefits
+upon the cessation of employment. 62
+
+##### Foot Note 62
+
+×
+
+10/3/21 NE 72; 18/5/21 NE 66; 20/5/21 NE 1–2.
+
+If Tan did not cease employment when he changed roles from President to
+Advisor, the RC did not have to make a determination to restore his Share
+Benefits as they would not have lapsed.
+
+53 On balance, I find that Venture had in fact treated Tan as having ceased
+employment on 31 January 2016 when he stepped down as President, and he was
+then re-hired on 1 February 2016 as Advisor.
+
+54 First, Tan was given a new contract of re-employment, although his terms
+and benefits would remain the same as when he was President. The Advisor
+Contract was clear that Tan was “eligible and wish for re-employment” after
+his retirement. Wong’s explanation, that there is no cessation of employment
+if an employee is re-hired, 63
+
+##### Foot Note 63
+
+×
+
+18/5/21 NE 49.
+
+does not make sense – an employee would only have to be re-hired if he had
+first ceased to be hired.
+
+55 Second, Wong claimed that as Tan did not cease to work for Venture when he
+stepped down as President, his Share Benefits continued to accrue to him
+automatically without any action required on Venture’s or the RC’s part to
+restore them to him. Koh confirmed the same. 64
+
+##### Foot Note 64
+
+×
+
+18/5/21 NE 37–38, 52–53; 19/5/21 NE 106.
+
+But the evidence showed otherwise.
+
+56 A few days after the Advisor Contract was signed, Wong and Sita signed PB1
+to approve Tan’s Share Benefits be “restore[d]”. PB1 stated that Tan’s “reason
+for leaving” was his retirement. It also stated that his “official last day of
+employment” was 31 January 2016 and that this was an “event” under rule 7.3 of
+the ESOS Rules which must, in Tan’s case, be an event either under rule 7.3(b)
+as Tan “ceases” to be employed by Venture, or under rule 7.3(d) as “any other
+event approved by the [RC]”.
+
+57 In approving the restoration of Tan’s Share Benefits (upon Tan becoming
+Advisor), I find that Wong and Sita had partly relied on their authority under
+the Resolution (which pertained to share options), which is engaged only where
+an employee “ceases” to be in Venture’s employ (see [44] above). I disbelieve
+that Wong did not sign PB1 pursuant to the Resolution, or that he signed it
+because Tan wanted to know his outstanding share benefits and Sita needed
+Wong’s approval to release the information to Tan. As Tan was Venture’s
+President and HR reported to him, he could have checked directly with HR or
+Sita. Indeed, Wong admitted that it was unnecessary to obtain his approval to
+release the information to Tan, and that he signed PB1 to approve the Share
+Benefits to continue to accrue to Tan. 65
+
+##### Foot Note 65
+
+×
+
+18/5/21 NE 75–77, 80, 82, 91–92.
+
+Sita also attested that he had informed Wong that PB1 was to restore the Share
+Benefits, and that this process was followed for past cases where an employee
+retired and was re-employed. 66
+
+##### Foot Note 66
+
+×
+
+21/5/21 NE 32–35.
+
+58 Then, at the 23/2/16 RC Meeting, Sita updated the RC on employees who had
+“ceased” employment due to retirement but whose share benefits would be
+restored as they “had been rehired under the re-hiring plan for those aged 62
+and above”. Sita presented a table of these employees, which included Tan
+whose Share Benefits were mentioned and which were stated to have been
+“restored” with the “reason for restoration” being Tan’s “retirement”. These
+were recorded in the minutes of meeting under the heading “Exceptions granted
+under [Venture’s] share schemes”. Koh attested that the decision as recorded
+in the Minutes was pursuant to the Resolution. 67
+
+##### Foot Note 67
+
+×
+
+PB 122, 167; 19/5/21 NE 115.
+
+59 Sita further explained that he had at the material time treated all such
+“retirement” cases as a “cessation” of employment, which meant that any
+outstanding share benefits would automatically lapse; and his standard process
+was to prepare a share benefit restoration letter to enable the benefits to
+continue to accrue when the employee was re-hired. This was similar for two
+other employees, Edward Kow (“Kow”) and Han Jok Kwang (“Han”), who were also
+re-hired the day after they retired. 68
+
+##### Foot Note 68
+
+×
+
+20/5/21 NE 10–12, 56–57, 62.
+
+60 Hence, Venture had treated Tan’s retirement as President as a cessation of
+employment, and Tan then entered into a re-employment contract (the Advisor
+Contract) to be re-hired as Advisor. By virtue of rule 7.2 of the ESOS Rules
+and rule 6.2 of the RSP Rules, Tan’s Share Benefits had lapsed automatically
+and that was why Venture had to and did take a considered decision to restore
+them when Tan was re-employed as Advisor. That there was no break in the day
+of work when Tan changed roles is neutral.
+
+When the SB Letter was handed to Tan
+
+61 Next, Tan claims that the SB Letter was handed to him on 20 January 2016
+because: (a) the Advisor Contract and SB Letter constituted all his terms of
+re-employment; and (b) his claim for the Share Benefits is based on the Clause
+in the SB Letter. 69
+
+##### Foot Note 69
+
+×
+
+Tan’s AEIC at [56].
+
+I find on the totality of the evidence that the SB Letter did not exist then
+and that it was handed to Tan only on 15 February 2016.
+
+Tan’s evidence on how he obtained the SB Letter and what he did with it
+
+62 I turn first to Tan’s own evidence and conduct, which showed Tan to have
+been less than honest about how the SB Letter came to be handed to him.
+
+63 First, Tan was strangely silent, up until when he was cross-examined at
+trial, as to who had handed to him the SB Letter on 20 January 2016. This was
+not mentioned in his pleadings or further and better particulars – Tan had
+merely stated that it was the “Defendant” who had issued or provided the SB
+Letter to him on that day although it was signed by Sita. 70
+
+##### Foot Note 70
+
+×
+
+SOC at [12(a)]; Further and Better Particulars by Tan dated 7 June 2019 at
+Request 2(d) and Answer thereto; Reply & Defence to Counterclaim (Amendment
+No. 1) (“Reply”) at [4(a)] and [6].
+
+Tan stated in his AEIC that he was shown the SB Letter at the 20/1/16 Meeting
+without mentioning who had shown it to him then. In addressing Venture’s
+assertion that the SB Letter did not exist before 20 January 2016, Tan stated
+that he saw it before signing the Advisor Contract but did not further assert
+that Sita had given it to him on that day. 71
+
+##### Foot Note 71
+
+×
+
+Tan’s AEIC at [51], [56], [106]–[107].
+
+Likewise, Tan’s Opening Statement for the trial and his affidavits filed in
+summary judgment applications did not mention that Sita had handed him the SB
+Letter on 20 January 2016. 72
+
+##### Foot Note 72
+
+×
+
+Tan’s affidavit dated 1 November 2018 at [31] (BCP1 Tab 2); Tan’s affidavit
+dated 4 January 2019 at [11] (BCP1 Tab 6); Tan’s affidavit dated 4 December
+2018 at [10], [14]–[15] (BCP1 Tab 10).
+
+Whilst Tan stated in an affidavit that the SB Letter was “issued” by Sita on
+20 January 2016, he did not say that Sita had given it to him on that day. 73
+
+##### Foot Note 73
+
+×
+
+Tan’s affidavit dated 4 January 2019 at [13(c)] (BCP1 Tab 6).
+
+All these is despite the fact that Tan already knew by 13 April 2018 from
+WongP (see [16] above) of Venture’s position that the SB Letter was only
+handed to him in February 2016, and that Sita had attested in the summary
+judgment applications that it was created after Tan had signed the Advisor
+Contract. 74
+
+##### Foot Note 74
+
+×
+
+3AB 851–853; Tan’s affidavit dated 14 December 2018 at [14] and [15] (BCP1 Tab
+10); Sita’s affidavit dated 13 December 2018 at [14] (BCP1 Tab 4); Sita’s
+affidavit dated 1 November 2018 at [23]–[24] (BCP1 Tab 9).
+
+Indeed, TRC’s reply to WongP on 19 April 2018 did not state that the SB Letter
+was given to Tan on 20 January 2016 or by Sita. When queried on this omission
+in TRC’s letter, Tan could merely say that the letter was drafted by his
+lawyers. 75
+
+##### Foot Note 75
+
+×
+
+11/3/21 NE 53–54; 3AB 829–833, 851–853, 860–861.
+
+64 Even in Tan’s 6/4/17 Letter, Tan did not remind Sita that it was Sita who
+gave him the SB Letter, or that it was given to him on 20 January 2016, and
+which constituted Sita’s representation on Venture’s behalf regarding the
+Share Benefits. Again, during the 24/5/17 Meeting, subsequent correspondence
+between Tan and Wong/Koh in July to September 2017, and even in the Demand
+Letter in March 2018, Tan did not say that the SB Letter was handed to him by
+Sita or on 20 January 2016. 76
+
+##### Foot Note 76
+
+×
+
+Tan’s AEIC at [72]; 3AB 819–827.
+
+One would have thought that, to reinforce his rights under the SB Letter, Tan
+would have taken the opportunity to remind Wong that Tan had received the SB
+Letter with the Advisor Contract on 20 January 2016 and that Wong would have
+known of the SB Letter then because he, Tan and Sita were in the conference
+room together.
+
+65 It was only in cross-examination that Tan claimed Sita had handed him the
+SB Letter on 20 January 2016. 77
+
+##### Foot Note 77
+
+×
+
+11/3/21 NE 18.
+
+I inferred that Tan had kept silent on who had handed him the SB Letter on 20
+January 2016 because Sita only gave it to him on a later date; and that Tan
+did not raise the SB Letter at the 24/5/17 Meeting because he knew that Wong
+did not know of its existence on 20 January 2016.
+
+66 Second, Tan pleaded two versions of when the SB Letter was given to him. He
+first pleaded that it was on 20 January 2016, and some 18 months later he
+pleaded in the alternative that even if he received it on 15 February 2016, it
+would still constitute the terms of his re-employment. 78
+
+##### Foot Note 78
+
+×
+
+SOC at [12(a)] and [12(b)].
+
+Either Tan received the SB Letter on 20 January 2016 or on another date;
+because it was never his case that he could not recall when he received the SB
+Letter. He had consistently claimed to have received it on 20 January 2016,
+and he relied on it and the Advisor Contract as constituting all the terms of
+re-employment and to commence work as Advisor as he claimed to have obtained
+them together.
+
+67 Third, it was strange that Tan only signed the SB Letter, and returned it
+to Sita, on 15 February 2016, although he purportedly received it with the
+Advisor Contract on 20 January 2016. Tan claimed that he read both documents
+on 20 January and was happy with all the terms and conditions therein. 79
+
+##### Foot Note 79
+
+×
+
+11/3/21 NE 39.
+
+He was quick to sign and return the Advisor Contract the very next day but
+omitted to do the same with the SB Letter which he signed some three weeks
+later on 15 February and only because he was “reminded” by Sita (as he
+claimed). Tan could not satisfactorily explain why he did not even sign the SB
+Letter until 15 February 2016, merely claiming that he could not recall and it
+“[did not] strike [him] at that time”. This was despite Tan being very
+concerned about his accrued Share Benefits during negotiations with Wong on
+his re-employment, so much so that he had separate conversations with HR
+(Sita) and Legal (Angeline) pertaining to them, and he claimed that the
+Advisor Contract was “not complete” as it did not deal with the retention of
+his Share Benefits. 80
+
+##### Foot Note 80
+
+×
+
+11/3/21 NE 9, 40, 42–43; Tan’s AEIC at [58]; Tan’s affidavit dated 4 January
+2019 at [12(a)] (BCP1 Tab 6).
+
+I thus find that Tan signed the SB Letter only on 15 February 2016 because, as
+Sita attested, it was given to Tan on that date, and it did not exist on 20
+January 2016.
+
+68 In fact, Tan took inconsistent positions. In court, he claimed that Sita
+signed the SB Letter on 15 February 2016 (which cohered with Sita’s
+testimony). However, in an affidavit filed for a summary judgment application,
+he claimed to have received on 20 January 2016 a copy signed by Sita – by
+making this assertion, I find that Tan was attempting to give the impression
+that he had received the SB Letter on that day. 81
+
+##### Foot Note 81
+
+×
+
+11/3/21 NE 68–69; Tan’s affidavit dated 1 November 2018, at [31(b)] (BCP1 Tab
+2).
+
+Tan’s change of position in court supports my finding that the SB Letter was
+not in existence on 20 January 2016. It would have been odd for Sita to hand
+to Tan an unsigned copy of the SB Letter on 20 January 2016, if that was
+Venture’s offer (and representation) to Tan regarding the Share Benefits.
+
+Contents of SB Letter
+
+69 Next, the contents of the SB Letter suggest that it could not have been
+handed to Tan on 20 January 2016, as it set out a table showing his
+entitlement to the Share Benefits accrued “as of 25 January 2016”. I accept
+Sita’s explanation that the letter was created only after 25 January 2016,
+because on 20 January 2016 no one could have predicted Tan’s accrued share
+benefits on a future date, and that Tan could in the interim (between 20 and
+25 January) exercise part of his entitlement which would have made the table
+in the SB Letter inaccurate. 82
+
+##### Foot Note 82
+
+×
+
+Sita’s AEIC at [28]–[31].
+
+I thus accept that Sita had initiated the preparation of a document on 25
+January 2016 to set out Tan’s entitlement to his accrued Share Benefits, after
+he had obtained Wong’s approval on the same day via PB1 to restore them. This
+is corroborated by Rosalind who attested that she had extracted the
+information on Tan’s Share Benefits as she prepared the draft on 25 January
+2016. 83
+
+##### Foot Note 83
+
+×
+
+Rosalind’s AEIC at [12].
+
+Hence, Tan’s Share Benefits in the SB Letter were stated to be “as of 25
+January 2016”.
+
+Preparation of the SB Letter
+
+70 Venture’s employees also testified on the preparation of the SB Letter. I
+accept Sita’s explanation as to how it came about and that the final version
+was handed to Tan on 15 February 2016 (see [29]–[33] above). I find Sita to be
+an honest and a credible witness. He readily admitted that he was wrong to
+have issued the SB Letter with the Clause in the SB Letter; and he explained
+that he was then a fairly new employee in Venture and he trusted Angeline who
+had drafted the wording of Para 4 of the SB Letter and the Clause as she was
+the head of Legal and the company secretary who attended the RC meetings. 84
+
+##### Foot Note 84
+
+×
+
+20/5/21 NE 23–26; 21/5/21 NE 31–32; Sita’s AEIC at [56].
+
+I accept that the Clause in the SB Letter came about after Sita showed Tan an
+initial draft around 27 or 28 January 2016; and as Tan wanted to retain his
+Share Benefits even if he left Venture completely, the Clause was inserted to
+give effect to his directions. It is not disputed that Sita was not involved
+in the discussions between Wong and Tan on Tan’s re-employment terms. Sita had
+acted on Tan’s instructions because, even in January 2016, Tan was his boss.
+85
+
+##### Foot Note 85
+
+×
+
+Sita’s AEIC at [38]; 20/5/21 NE 70–71.
+
+71 Whilst I am cognisant that Sita is Venture’s employee, his testimony is
+supported by the documentary evidence. Various internal emails (particularly
+from HR and Legal), with the subject matter of the emails being “Tan Kian
+Seng”, showed that there were reiterations of drafts (of what would eventually
+be the SB Letter) even after 20 January 2016 and in early February 2016, and
+before the final version was signed by Tan. This included Sita’s 2/2/16 Email
+to ask Rosalind whether the SB Letter was ready because Sita “did not want to
+owe [Tan] on this” (see [30]–[32] above). I accept that these reiterations
+were done as a result of Sita’s conversations with Tan and with Angeline, and
+Sita wanted to close the loop on the matter. 86
+
+##### Foot Note 86
+
+×
+
+21/5/21 NE 52.
+
+There would have been no reason for Venture to produce reiterations of a draft
+SB Letter after 20 January 2016 pertaining to “Tan Kian Seng”, and for Sita’s
+2/2/16 Email, if Tan had received the SB Letter on 20 January 2016.
+
+72 Further, there was no evidence that Para 4 of the SB Letter, in its final
+form, existed before 20 January 2016. Instead, the first time the draft SB
+Letter came about, in a form very similar to what Tan signed (save that it did
+not contain the Clause), was in Angeline’s Draft (see [30] above).
+
+(a) Sita explained that the wording in Rosalind’s Draft was lifted from a
+template used for Kow, when he retired on 5 December 2015 and was re-employed
+the next day. 87
+
+##### Foot Note 87
+
+×
+
+21/5/21 NE 54–55; 2PB 15–17; PB 4–7 (also in Sita’s AEIC at Exhibit SL-41).
+
+On 6 December 2015, Venture issued Kow a letter (“Kow’s Letter”), to allow him
+to continue to exercise his unexpired share options which would have lapsed
+automatically when he retired but for his re-employment. The phrasing of Kow’s
+Letter was substantially the same as Rosalind’s Draft, except that the latter
+included Tan’s unreleased share awards under the RSP which Kow did not have.
+
+(b) Angeline’s Draft was worded substantially differently from Rosalind’s
+Draft, 88
+
+##### Foot Note 88
+
+×
+
+24/5/21 NE 46.
+
+and was similar to the final SB Letter except that it did not contain the
+Clause in the SB Letter. As Sita attested, the Clause was inserted after
+Angeline dictated it to him over the phone.
+
+(c) Subsequently, Sita used the final phrasing of Para 4 of the SB Letter (in
+Tan’s SB Letter) in a letter of 17 February 2016 to restore Han’s share
+options accrued when he retired on 31 March 2016 and was re-employed on 1
+April 2016 (“Han’s Letter”). 89
+
+##### Foot Note 89
+
+×
+
+21/5/21 NE 45, 58; 2PB 25–26.
+
+73 Rosalind corroborated Sita’s evidence on how the SB Letter came about and
+cohered with Sita’s evidence at [29] to [30] above as to what she did. She
+stated that around 27 January 2016, at Sita’s instructions, she printed two
+copies of Angeline’s Draft which Sita told her that he would sign and give to
+Tan, but later that day, Sita informed her that Tan had rejected Angeline’s
+Draft and further informed her that he would ask Angeline to send her a
+revised draft. 90
+
+##### Foot Note 90
+
+×
+
+Rosalind’s AEIC at [9]–[17].
+
+After Rosalind received Sita’s 2/2/16 Email, she told Sita that she had not
+received a revised draft from Angeline whereupon she saved a copy of
+Angeline’s Draft on her computer. The metadata of the document shows the
+creation of a version on 2 February 2016. 91
+
+##### Foot Note 91
+
+×
+
+Rosalind’s AEIC at [18]–[19]; PB 185.
+
+Rosalind then had another conversation with Sita on 12 February 2016 (see [32]
+above) and he informed her that the letter for Tan was long overdue. Sita then
+sat at her desk, called Angeline and amended the draft SB Letter there and
+then, and Rosalind then printed two copies and gave them to him. On 15
+February 2016, Sita handed to Rosalind a signed copy of the SB Letter. 92
+
+##### Foot Note 92
+
+×
+
+Rosalind’s AEIC at [20]–[23].
+
+The images of documents extracted from Venture’s computers showed a draft of
+the SB Letter was on 12 February modified and saved under “rosalind.lee”. 93
+
+##### Foot Note 93
+
+×
+
+Gino Bello’s first AEIC at exhibit GB-2 (Gino Bello’s report at [17(e)]); PB
+183–185.
+
+74 Likewise, whilst Rosalind is Venture’s employee, I find her to be a
+credible witness. Even if, as Mr Rajah SC suggests (and which I do not
+accept), that it was Rosalind who had amended Angeline’s Draft, 94
+
+##### Foot Note 94
+
+×
+
+21/5/21 NE 63.
+
+it is unlikely that she would have done so, or added the Clause in the SB
+Letter, on her own accord. More likely than not, it was Legal rather than HR
+who had given input on the wording of the SB Letter, including Para 4 of the
+SB Letter.
+
+75 Pertinently, Sita’s evidence as to how the final version of Tan’s SB Letter
+came about was corroborated by Tan who admitted to having a separate
+conversation with Sita and Angeline to extend his entitlement to his
+outstanding share benefits even after his cessation of re-employment with
+Venture, and which Tan admitted was never agreed to by Wong (see [48]–[50]
+above).
+
+Events after Tan was told that he could not keep the Share Benefits
+
+76 Next, Tan’s conduct after he was informed on 23 January 2017 that the RC
+would not allow him to keep his Share Benefits is telling. Despite knowing the
+RC’s decision, Tan did not at that time raise the matter with Wong or the RC
+although he claimed he had been wronged. Even when his attempt to exercise the
+Share Option under Grant 9 was rejected in March 2017, and Sita told Tan that
+he had made a gross mistake in issuing the SB Letter and that Tan should
+appeal to Wong, Tan did not approach Wong or the RC, but instead chose to
+write to Sita (via Tan’s 6/4/17 Letter). 95
+
+##### Foot Note 95
+
+×
+
+12/3/21 NE 14, 20, 26, 31–32.
+
+77 I disbelieve that Tan had acted in that manner because he had always dealt
+with Sita pertaining to his Share Benefits and he did not see the need to
+appeal. He knew how the ESOS and RSP Rules worked, that only Wong could decide
+on his terms of re-employment including share benefits and that Sita could not
+override Wong’s or the RC’s determination. He also knew that when Sita told
+him to appeal to Wong, Sita was communicating Wong’s message to him; that it
+was the RC (or where appropriate, its delegated authority) who had the
+discretion to decide whether share benefits that have lapsed could be
+restored; and that he could appeal to the RC on its decision. 96
+
+##### Foot Note 96
+
+×
+
+12/3/21 NE 21, 30–40.
+
+78 I agree with Mr Singh SC that Tan was reluctant to raise the matter
+directly with Wong or the RC, even to clarify his entitlement to the Share
+Benefits under the SB Letter, because he wanted to avoid surfacing the SB
+Letter with them. 97
+
+##### Foot Note 97
+
+×
+
+12/3/21 NE 28, 50.
+
+I inferred that this was because Tan knew that Wong did not know of the SB
+Letter as at 20 January 2016 (because it did not then exist and Tan knew that
+no such copy was handed to him on that date); knew that a draft of the SB
+Letter came about only after he had signed the Advisor Contract (see [31]
+above); and knew that the RC had never made the Purported Determination (see
+further at [80] to [81] below). I find that Tan had attempted to deal with
+Sita hoping that Sita/CHRO could resolve the matter, knowing that what was
+stated in the Clause in the SB Letter was never agreed with Wong as a term of
+his re-employment and he had on his own told Sita to include such a term.
+
+79 My above finding is reinforced by Tan’s conduct after the 24/5/17 Meeting.
+Apart from the email from Tan to Koh on 18 July 2017 that showed that Tan had
+mentioned the SB Letter to Koh and Wong at the 24/5/17 Meeting, Tan was
+careful not to raise the SB Letter in subsequent correspondence with them.
+Instead, on 4 August 2017 and in Tan’s 18/8/17 Email, Tan chose to rely on the
+fact that he was still Venture’s representative in China to appeal to Venture
+to reconsider its position on his Share Benefits. 98
+
+##### Foot Note 98
+
+×
+
+12/3/21 NE 50–53; 3AB 824–826; Tan’s AEIC at [40].
+
+Tan’s explanation that he was attempting to take a “conciliatory” approach by
+not mentioning the SB Letter and wanting to avoid legal proceedings is
+unconvincing – it is unclear why he could not have reminded Wong and Koh of
+the SB Letter as part of his conciliatory approach, if the basis of his
+entitlement to the Share Benefits rests on Para 4 of the SB Letter. By this
+time, he was already being advised by lawyers. 99
+
+##### Foot Note 99
+
+×
+
+12/3/21 NE 49–50, 53.
+
+Whether the RC had made the Purported Determination
+
+80 I next deal with whether the RC had made the Purported Determination. I
+accept Koh’s testimony that the RC itself did not, and that Koh and Wong did
+not know of the SB Letter until around April 2017. I also accept Sita’s
+testimony that the RC was not aware of the SB Letter or its contents when it
+was prepared for Tan to sign. 100
+
+##### Foot Note 100
+
+×
+
+20/5/21 NE 69, 72.
+
+At the 23/2/16 RC Meeting, the RC had only been updated of the CEO/CHRO’s
+approval to restore Tan’s accrued Share Benefits when he became Advisor (see
+[58] above). The Resolution was also not engaged when Tan ceased to be in
+Venture’s employ by reason of his Resignation Notice, and PB1 did not go so
+far as to approve Tan’s Share Benefits to accrue even after he resigned as
+Advisor and ceased employment with Venture completely.
+
+81 I further find that Tan knew that the RC did not make the Purported
+Determination and he also could not rely on the Resolution for this purpose.
+Tan had informed Sita that Wong said he could retain his share benefits upon
+retirement and re-employment (see [12] above). As Sita attested, when he
+handed to Tan Angeline’s Draft, he informed Tan that his Share Benefits would
+lapse when he resigned as Advisor. Hence, Tan knew at that time that the RC
+had not made any determination for Tan to retain his Share Benefits if he
+ceased to be Advisor and left Venture. Tan thus rejected Angeline’s Draft. As
+I had found, Tan then unilaterally instructed Sita to include a term in his
+re-employment contract for his Share Benefits to continue to accrue even after
+he ceased re-employment as Advisor. In effect, it was Tan who procured from
+his subordinates (Sita and Angeline) the insertion of a term as reflected in
+the Clause in the SB Letter, contrary to his agreement with Wong on his re-
+employment terms. That Tan knew, when he signed the SB Letter, that the RC had
+not made the Purported Determination, is reinforced by his subsequent conduct
+of attempting to deal with Sita (rather than with Wong or Koh) to resolve the
+matter; his reluctance to raise the SB Letter with Wong and Koh when he was
+told that he could not keep the accrued Share Benefits upon his resignation;
+and his reluctance to state (until late in the day) that it was Sita who had
+purportedly handed the SB Letter to him on 20 January 2016.
+
+Miscellaneous issues
+
+82 I deal with some miscellaneous issues raised in relation to when the SB
+Letter was handed to Tan.
+
+83 Whilst both parties had called digital forensics experts to opine on when
+the SB Letter could have first been created, I found their evidence unhelpful.
+Mr David Charles Rule (Tan’s expert) could not conclusively determine when the
+SB Letter was created, although he opined that a draft was prepared based on a
+template. 101
+
+##### Foot Note 101
+
+×
+
+David Charles Rule’s 1st AEIC at [6(c)], [6(d)] and [6(e)].
+
+Whilst Mr Gino Bello (Venture’s expert) opined that the first time a draft of
+an SB Letter (quite similar to the version that Tan signed) could have been
+created was on 27 January 2016, he agreed that if some other earlier drafts of
+an SB Letter were provided to him, it could have affected his conclusion. 102
+
+##### Foot Note 102
+
+×
+
+24/5/21 NE 32, 34, 82–84; PB 178–181.
+
+In any event, the experts could not opine positively that the SB Letter was
+created on or before 20 January 2016. In the absence of conclusive proof, my
+finding remains that the SB Letter did not exist as of 20 January 2016.
+
+84 Next, I address various arguments that Mr Rajah SC raised to show that the
+SB Letter must have been given to Tan on 20 January 2016 and constituted part
+and parcel of Tan’s terms of re-employment as Advisor.
+
+85 First, Mr Rajah SC submits that it made no sense for the SB Letter to state
+that the terms in Para 4 of the SB Letter was conditional on Tan entering into
+the Advisor Contract, if the SB Letter was only issued to Tan after 20 January
+2016. 103
+
+##### Foot Note 103
+
+×
+
+Plaintiff’s Closing Submissions dated 2 August 2021 (“PCS”) at [77(a)].
+
+Also, the SB Letter bore the same date as the Advisor Contract. I find these
+to be neutral. As Sita stated (and which I accept), the SB Letter was
+backdated. 104
+
+##### Foot Note 104
+
+×
+
+PCS at [81(c)].
+
+Pertinently, Tan only signed it on 15 February 2016. This is unlike Han who
+signed both his re-employment contract and Han’s Letter on the same day, which
+was also the date on which he was issued both documents.
+
+86 Second, Mr Rajah SC argues that the SB Letter was given to Tan together
+with the Advisor Contract as the former was intended to deal with Tan’s Share
+Benefits which the latter was silent on, similar to Kow’s and Han’s cases
+where they were issued re-employment contracts and separate share benefit
+letters. 105
+
+##### Foot Note 105
+
+×
+
+PCS at [80]–[82].
+
+Even if Venture issued a separate document to deal with Tan’s accrued Share
+Benefits upon his re-employment, it did not mean that it must have been given
+to Tan together with the Advisor Contract.
+
+87 I accept Wong’s position that the Addendum to the Advisor Contract (see [8]
+above), covered his agreement with Tan that Tan would retain his accrued Share
+Benefits when he became Advisor, 106
+
+##### Foot Note 106
+
+×
+
+18/5/21 NE 98–100, 104–106; Tan’s AEIC at [48].
+
+as the Addendum could be read in this manner. The Advisor Contract states that
+by signing the contract, Tan accepted “the terms and conditions as set out
+herein and in the Addendum”. Wong had acted on his agreement as he signed PB1
+shortly after Tan signed the Advisor Contract; and Sita followed through with
+an update at the 23/2/16 RC Meeting of the decision to restore Tan’s Share
+Benefits. Whilst it is arguable that Wong and Sita were not empowered under
+the Resolution to deal with share awards, Venture had adopted this position of
+restoring Tan’s Share Benefits by its conduct (via Wong’s agreement with Tan,
+by Wong signing PB1, and then an update to the RC which the RC did not
+dispute). Hence, it was not necessarily the case that the SB Letter must have
+been given to Tan with the Advisor Contract to supplement his re-employment
+terms pertaining to the Share Benefits. Even without the SB Letter, Venture
+has maintained that Tan’s Share Benefits continued to accrue to him when he
+became Advisor. On the contrary, the Clause in the SB Letter went beyond what
+Wong had agreed with Tan for his re-employment and was procured by Tan on his
+own volition without Wong’s knowledge or agreement.
+
+88 Further, if Tan had received the SB Letter on 20 January 2016 with the RC
+having made the determinations as in Para 4 of the SB Letter, it would have
+been unnecessary for Wong and Sita to subsequently and additionally sign PB1
+to restore Tan’s Share Benefits on his re-employment.
+
+89 Kow’s and Han’s cases do not support that Tan must have received the SB
+Letter together with the Advisor Contract. Kow’s Letter was issued to Kow in
+December 2015, after he had accepted the re-employment contract in November
+2015. 107
+
+##### Foot Note 107
+
+×
+
+2PB 1–14; 2PB 15–17; 20/5/21 NE 45–50.
+
+Pertinently, Kow’s Letter did not contain a term similar to the Clause in the
+SB Letter. As for Han, he had signed his re-employment contract and Han’s
+Letter on the same day, unlike Tan.
+
+90 Whilst Sita agreed with Mr Rajah SC that Kow’s Letter was “necessary” for
+Kow’s share options to be restored when he was re-employed, 108
+
+##### Foot Note 108
+
+×
+
+20/5/21 NE 49; PCS at [81].
+
+I find that Sita had misunderstood the effect of such a document. The
+restoration of an employee’s outstanding share benefits can only be done by
+the RC or its delegated authority (eg, by the Resolution), and a document such
+as Kow’s Letter or the SB Letter does not equate to such a determination made
+by the RC. As Sita explained, that Kow’s Letter was issued only after Kow had
+signed his re-employment letter did not affect the restoration of his
+outstanding share benefits. 109
+
+##### Foot Note 109
+
+×
+
+20/5/21 NE 50.
+
+However, such a document may represent Venture’s offer to confer to an
+employee a benefit pursuant to a determination that it has made. I will return
+to the issue of representation by the contents of the SB Letter later.
+
+91 Sita explained that he prepared a document such as Kow’s Letter, Han’s
+Letter or Tan’s SB Letter as a standard process when an employee is allowed to
+retain his accrued share benefits upon re-employment. 110
+
+##### Foot Note 110
+
+×
+
+20/5/21 NE 54–55, 62.
+
+His evidence taken as whole showed that he had a standard operating procedure,
+namely, that the share restoration would first be approved by the relevant
+authority, then he would prepare a document such as Kow’s Letter for the
+employee, and he would thereafter update the RC on any such restoration at an
+RC meeting.
+
+92 As for Han’s Letter, it does not show that Venture had in fact agreed to a
+term as in the Clause in the SB Letter. Sita had used the template from Tan’s
+SB Letter to prepare Han’s Letter (see [72] above) and thus Han’s Letter
+contained a clause similar to the Clause in the SB Letter. Sita admitted that
+this was a mistake as no determination as stated therein was made by the RC;
+hence, Han was issued a subsequent letter to correct the mistake and to
+supersede Han’s Letter, which Han accepted. 111
+
+##### Foot Note 111
+
+×
+
+2PB 27–28; 20/5/21 NE 63–64.
+
+Tan’s claims
+
+93 Having made the above factual findings, I turn then to Tan’s claims.
+
+Breach of contract
+
+94 Tan pleaded that both the Advisor Contract and SB Letter constituted his
+re-employment contract as he received them on 20 January 2016. Thus, Venture
+had breached his re-employment contract by failing to confer to him his
+remaining Share Benefits. 112
+
+##### Foot Note 112
+
+×
+
+SOC at [12(a)], [19]–[24].
+
+As I have found that the SB Letter was not given to Tan on 20 January 2016 or
+even before he commenced in his role as Advisor, his claim in this regard
+fails. Tan cannot rely on the Clause in the SB Letter to claim his Share
+Benefits when he tendered the Resignation Notice. Rule 7.2 of the ESOS Rules
+and rule 6.2 of the RSP Rules state that an employee is deemed to have ceased
+to be employed as of the date of notice of termination tendered by or given to
+him and any share option or award, to the extent unexercised or unreleased,
+would immediately lapse. This is reiterated in the Option Form such as the
+ones that Tan submitted when he exercised the Share Option under Grant 8 and
+which term Tan was cognisant of. 113
+
+##### Foot Note 113
+
+×
+
+2AB 772–774; 2AB 779–781; 12/3/21 NE 3–5; 27/9/21 NE 1–2.
+
+95 Tan pleaded alternatively that even if he received the SB Letter on 15
+February 2016, it constituted his contract of re-employment as Advisor; and
+that there was consideration given for the SB Letter as it was issued as part
+of a “single contemporaneous transaction” (citing Offshoreworks Global (L) Ltd
+v POSH Semco Pte Ltd [2021] 1 SLR 27 (“Offshoreworks”)). 114
+
+##### Foot Note 114
+
+×
+
+SOC at [12(b)]; Plaintiff’s Opening Statement at [18]; PCS at [137]–[139].
+
+Venture claims that the SB Letter is unenforceable as no consideration was
+provided for it. 115
+
+##### Foot Note 115
+
+×
+
+Defence at [13]; Defendant’s Closing Submissions dated 5 August 2021 (“DCS”)
+at [174]–[176].
+
+96 Even if Tan could maintain an alternative claim as such, I find that it
+fails. Tan started work as Advisor before he received the SB Letter and thus
+no consideration was given for the benefit (as per the Purported Determination
+and Clause in the SB Letter). In Offshoreworks, the Court of Appeal (at [40])
+held:
+
+… what is crucial is the nexus between the act said to be consideration and
+the promise, and that the later act must be causally linked to the earlier
+promise. Therefore, the court’s inquiry is whether, at the time of the earlier
+act, a later promise was contemplated or required. If so, that connects the
+earlier act to the subsequent promise and establishes that they are part of
+the same transaction … the courts look to the substance rather than the form
+of the transaction. Hence, what looks at first blush like past consideration
+will still pass legal muster if there is, in effect, a single
+(contemporaneous) transaction (the common understanding of the parties being
+that consideration would indeed be furnished at the time the promisor made his
+or her promise to the promisee) …
+
+97 There was no such nexus here. There was no contemplation by Venture or Tan
+of any other promise to Tan, when Tan signed the Advisor Contract and
+commenced work as Advisor, particularly that his Share Benefits would continue
+to accrue when he ceased to be Advisor or ceased employment with Venture
+completely. This is clear even from Tan’s evidence of what was agreed with
+Wong for Tan’s re-employment, and which agreement was finalised before Tan
+received the Advisor Contract. Indeed, there is no evidence that such a term
+(as per the Clause in the SB Letter) was a term of Tan’s contract even as
+President (see [48] above). When Tan signed the Advisor Contract, there was no
+contemplation of an additional document to be prepared to set out any other
+contractual term or promise pertaining to Tan’s Share Benefits. Wong stated
+that all the terms of Tan’s re-employment including the retention of his Share
+Benefits were encapsulated in the Advisor Contract and Addendum, and which I
+had accepted. I reiterate my findings at [87] above.
+
+98 Hence, even if Tan received the SB Letter after he started work as Advisor,
+it and particularly the Clause in the SB Letter would be unenforceable for
+lack of consideration. I reiterate that Kow’s and Han’s cases do not assist
+Tan. Kow’s Letter did not contain any term over and beyond what Venture had
+agreed to. Han’s Letter was superseded by another letter where Sita informed
+Han that the representation that his share benefits would continue to accrue
+on cessation of his re-employment was incorrect, and which Han had accepted.
+
+99 Likewise, the case of R1 International Pte Ltd v Lonstroff AG [2015] 1 SLR
+521 which Tan relies on, 116
+
+##### Foot Note 116
+
+×
+
+PCS at [105]–[108].
+
+does not assist him. The court found (at [59] and [63]) that both parties had
+contemplated that the basic terms of various email confirmations would be
+supplemented by a further set of standard terms; and that it was improbable
+given the size and scope of the subject matter of the contract that the
+parties would have expected to contract purely on the “bare bones” of the
+email confirmations. The court stated (at [51]) that whether a subsequent
+document could be incorporated as part of the contract can be ascertained by
+the parties’ objective intentions. But this is not the case here, as I have
+explained at [48], [87] and [97] above.
+
+Misrepresentation and negligent misstatement
+
+100 I turn to Tan’s alternative claims essentially under s 2(1) of the
+Misrepresentation Act (Cap 390, 1994 Rev Ed) (“Misrepresentation Act”) 117
+
+##### Foot Note 117
+
+×
+
+PCS at [158].
+
+and negligent misstatement. Tan claims that the Clause in the SB Letter and
+Purported Determination were Venture’s representation that his Share Benefits
+would continue to accrue even after he ceases to be Advisor (“the
+Representation”) and claims that he was induced by the Representation to enter
+into the re-employment contract. 118
+
+##### Foot Note 118
+
+×
+
+SOC at [16], [25], [27].
+
+101 Under s 2(1) of the Misrepresentation Act, the plaintiff has to show that
+the false representation made by the defendant has induced the plaintiff to
+enter into a contract with the defendant, and the plaintiff suffered a loss as
+a result thereof. As for the tort of negligent misstatement, the plaintiff
+must show the existence of a duty of care, and for such a duty of care to
+arise, it is necessary to show a special relationship between the parties
+(Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific
+Breweries (Singapore) Pte Ltd and another and another suit [2009] 4 SLR(R) 788
+at [215]).
+
+102 To reiterate, I found that Wong and the RC did not make the Representation
+at any time, and Tan knew this. Further, for there to be ostensible authority,
+there must be a representation by the principal (Venture) to Tan as to Sita’s
+authority (Tribune Investment Trust Inc v Soosan Trading Co Ltd [2000] 2
+SLR(R) 407 at [48]; Armagas Ltd v Mundogas SA [1986] 1 AC 717 at 777). Venture
+did not authorise Sita to represent to Tan that the Share Benefits would
+continue to accrue even after cessation of his re-employment as Advisor, nor
+represent to Tan that Sita had authority to make such representation. I also
+find that Tan would have known this and would have known that Sita had no such
+authority to do so. Tan agreed that Sita had no authority of his own to decide
+or inform Tan of what share benefits Tan was entitled to. Tan agreed that only
+Wong could determine his terms of re-employment. Tan claimed that he merely
+assumed that Sita was “probably verbally instructed” by Wong to issue the SB
+Letter containing the Representation, which I disbelieve. 119
+
+##### Foot Note 119
+
+×
+
+11/3/21 NE 60.
+
+As I had found, it was Tan who had procured from his subordinates (Sita and
+Angeline) the insertion of a term as reflected in the Clause in the SB Letter,
+and I reiterate my findings at [80] to [81] above. It must be remembered that
+Tan was Venture’s President, and he was familiar with the ESOS and RSP Rules
+and with the scope of authority and responsibilities of Sita/CHRO.
+
+103 Further, Tan knew that what was conveyed in the Clause in the SB Letter or
+the Representation was untrue, because it was Tan who had procured that
+representation by instructing his subordinates to insert such a term of
+benefit in the SB Letter. Hence, Tan could not be said to have relied on the
+representation of Venture or Sita in relation to the contents of the Clause in
+the SB Letter. It follows that Tan cannot be said to have been induced to
+enter into the re-employment contract by Venture’s representation.
+
+104 I also reject Tan’s alternative case that the Representation was intended
+by Venture to influence Tan into entering his re-employment contract as
+Advisor, 120
+
+##### Foot Note 120
+
+×
+
+SOC at [25(b)], [27(e)] and [27(g)].
+
+as I had found that Tan had started work as Advisor before he received the SB
+Letter. Mr Rajah SC concedes that if the SB Letter was not provided to Tan
+before he signed the Advisor Contract on 21 January 2016, Tan would not have
+been induced by the specific representations in the SB Letter. 121
+
+##### Foot Note 121
+
+×
+
+PCS at [140].
+
+Whilst he claims that Tan could nevertheless have been induced to enter into
+the Advisor Contract by Venture’s representations made prior to 20 January
+2016, there is no evidence of what other representations were made prior to
+this date to the effect that Tan’s Share Benefits would continue to accrue
+even when he ceases to be Advisor or to be employed by Venture completely.
+
+105 As such, Tan’s claims in misrepresentation and in negligent misstatement
+(which contains a similar requirement of reliance as in misrepresentation –
+see Panatron Pte Ltd and another v Lee Cheow Lee and another [2001] 2 SLR(R)
+435 (“Panatron”) at [22]) are not made out.
+
+Venture’s defence of mistake
+
+106 I deal here with Venture’s defence that the SB Letter was void for
+unilateral mistake or voidable on the ground of equitable unilateral mistake
+and should be rescinded. Venture also pleads that if the Option Forms
+constituted a contract in which the 50,000 shares pursuant to Grant 8 were
+issued to Tan, then it was also void or voidable on the same grounds. 122
+
+##### Foot Note 122
+
+×
+
+Defence at [15], [23] and [26]; DCS at [217]–[220].
+
+107 For a claim in unilateral mistake to succeed, it must be proved that: (a)
+one party has made a mistake; (b) the mistake is a sufficiently important or
+fundamental mistake as to a term; and (c) the non-mistaken party has actual
+knowledge of the mistaken party’s mistake. In a claim for equitable unilateral
+mistake, constructive knowledge with an element of impropriety (“sharp
+practice” or “unconscionable conduct”) as opposed to actual knowledge is
+sufficient. (See Broadley Construction Pte Ltd v Alacran Design Pte Ltd [2018]
+2 SLR 110 at [42] and [44].)
+
+108 On the facts, I find the SB Letter to be void on the ground of unilateral
+mistake. Sita had issued the SB Letter containing the Purported Determination,
+when the RC had not made the Purported Determination. This was a sufficiently
+important or fundamental mistake as to a term dealing with a Purported
+Determination made on Tan’s Share Benefits. Tan knew of this mistake, because
+he had instructed Sita to insert a term to enable him to retain his Share
+Benefits even when he ceased to be Advisor. He had conveyed to Sita and
+Angeline something different from what was agreed with Wong, and he knew that
+the CHRO/Sita had no authority of his own to come up with additional terms of
+his re-employment as Advisor (see Chwee Kin Keong and others v
+Digilandmall.com Pte Ltd [2005] 1 SLR(R) 502 at [35]). Thus, when he submitted
+the Option Forms for the Share Option under Grant 8, he knew he was not
+entitled to the shares, and Venture’s employees had relied on the Option Forms
+to release the shares to Tan in the mistaken belief that he was so entitled.
+
+109 Even if Tan did not have actual knowledge of Venture’s mistake, I find
+that a claim in equitable unilateral mistake is made out, as Tan would have
+had constructive knowledge and had acted unconscionably. He instructed Sita to
+add in a term to the SB Letter to retain his Share Benefits even when he
+ceased to be Advisor, well-knowing that this was never agreed with Wong. He
+did not bring to Venture’s attention that the Clause in the SB Letter was a
+mistake when he knew that what was contained therein was not correct. Instead,
+he took advantage of the mistake by exercising the Share Option under Grant 8.
+
+110 Tan claimed that Venture has lost its right to rescind the SB Letter
+because of undue delay or affirmation on its part. 123
+
+##### Foot Note 123
+
+×
+
+Reply at [4A] and [9A].
+
+Mr Rajah SC also submits that at the 24/5/17 Meeting, Koh and Wong did not
+inform Tan that he had no basis to claim the Share Benefits because the SB
+Letter was not authorised; instead they told Tan that Venture could not vary
+the ESOS and RSP Rules and asked him to consider other options. Mr Rajah SC
+submits that it was only in its pleadings that Venture alleged that Sita had
+acted on a frolic of his own in issuing the SB Letter. Hence, Venture’s
+defence in the Suit is an afterthought. 124
+
+##### Foot Note 124
+
+×
+
+PCS at [49]–[50], [133] and Annex A.
+
+111 I do not find there to be undue delay or affirmation on Venture’s part or
+that its defence is an afterthought. Wong and Koh only discovered the SB
+Letter in April 2017 from Sita’s Note, after Tan had obtained the 50,000
+shares under Grant 8. At that time, Wong and Koh were not fully aware of how
+the SB Letter had come about, and Koh then went to check with the RC members
+on whether they had ever seen the document. Shortly after, they had the
+24/5/17 Meeting to find out from Tan more about the SB Letter and his request
+to exercise the Share Option under Grant 9. At that meeting they informed Tan
+that Venture could not consider his appeal to retain his Share Benefits where
+it would breach the ESOS and RSP Rules and reiterated that position in
+subsequent correspondence.
+
+112 The correspondence between Wong/Koh and Tan showed that Venture attempted
+to resolve the matter amicably with Tan, but it did not mean that Venture had
+accepted Tan’s position in relation to the Clause in the SB Letter or the
+veracity of the SB Letter. On the contrary, Wong and Koh had consistently
+maintained that Venture could not accede to Tan’s request to keep his Share
+Benefits after they had lapsed by virtue of Tan’s resignation and where the RC
+had not made a determination otherwise. This position was maintained by
+Venture even in January 2017 and conveyed to Tan then (see [14], [21] and [34]
+above), even before Wong and Koh first knew of Tan’s SB Letter in April 2017.
+WongP’s letter in April 2018, in response to the Demand Letter, had given Tan
+notice that he was not entitled to the 50,000 shares under Grant 8 and which
+Venture would be entitled to seek redress. Hence, in the early stages when the
+SB Letter was surfaced to Wong and Koh, it cannot be said that they had
+sufficient knowledge to affirm the SB Letter (which in any event they did not)
+nor did they communicate as such to Tan.
+
+113 If at all, it is Tan who has been evasive and reluctant to reveal how the
+SB Letter, and particularly the Clause in the SB Letter, came about, although
+he was involved in procuring the final version of the SB Letter, whereas Wong
+and Koh were unaware of it until after the fact.
+
+Venture’s counterclaims
+
+114 I turn to Venture’s counterclaims.
+
+Breach of contract
+
+115 In response to Tan’s claim of breach of contract by Venture, Venture
+pleads that Tan was not entitled to exercise the lapsed Share Options and that
+his exercise by signing the Option Forms for the Share Option under Grant 8
+was a breach by Tan of his contract. Hence, Tan was not entitled to the 50,000
+shares. 125
+
+##### Foot Note 125
+
+×
+
+Defence at [11]–[12], [22]–[23], [45]–[47].
+
+Venture submits that the contract for the issuance of the 50,000 shares to Tan
+was “contained in and/or evidenced by the [Option Forms] that [Tan] signed
+when he purported to exercise the 50,000 lapsed share options”. Venture relies
+on the Option Forms as the contractual document or as evidencing the
+contractual terms pertaining to the 50,000 shares, and which Tan also pleads
+as the agreement between him and Venture. 126
+
+##### Foot Note 126
+
+×
+
+DCS at [235]; Reply at [19].
+
+116 I find that Tan’s entitlement to exercise any Share Options (which mode of
+exercise was by submitting an Option Form) was premised on the terms of his
+re-employment contract (the Advisor Contract) which set out his entitlement to
+the Share Benefits so long as he remained employed as Advisor. Nevertheless, I
+find that Venture had sufficiently pleaded reliance on the Advisor Contract as
+constituting Tan’s re-employment terms and pleaded that the SB Letter did not
+constitute any further terms of Tan’s re-employment.
+
+117 Given my earlier findings, particularly that the Share Benefits had lapsed
+by virtue of the Resignation Notice and that Tan could not rely on the SB
+Letter to show otherwise, Tan would have breached his re-employment contract
+when he exercised the Share Option for Grant 8. Even if the Option Forms
+constituted a separate agreement, Tan would have breached that agreement
+because he could not exercise the share options after tendering the
+Resignation Notice.
+
+Fraudulent misrepresentation
+
+118 Next, Venture claimed that Tan had defrauded it when he exercised the
+Share Option for Grant 8 and obtained 50,000 shares therein, knowing that his
+entitlement to the Share Benefits had lapsed by his resignation. 127
+
+##### Foot Note 127
+
+×
+
+Defence at [40]–[44]; DCS at [238].
+
+The elements of fraudulent misrepresentation are: (a) there must be a
+representation of fact; (b) the representation must be made with the intention
+that it should be acted on by the plaintiff; (c) the plaintiff had acted upon
+the false statement and suffered damage by so doing; and (d) the
+representation was made with the knowledge that it is false; it must be
+wilfully false, or at least made in the absence of any genuine belief that it
+is true: see Panatron at [14]. I find that the claim in fraudulent
+misrepresentation is made out.
+
+119 Tan knew that his entitlement to any share benefits was subject to the
+ESOS and RSP Rules. He had falsely misrepresented to Venture that he was
+entitled to exercise the Share Option for 50,000 shares under Grant 8 when he
+submitted the Option Forms, knowing that his Share Benefits had lapsed on
+tendering the Resignation Notice. The “Note” in the Option Form clearly stated
+rule 7.2(b) of the ESOS Rules and that any share option granted would lapse
+and cannot be exercised if the employee ceased to be employed by Venture with
+such cessation taking place when he gives notice of resignation. Based on my
+earlier findings, Tan could not rely on the Clause in the SB Letter, knowing
+that Venture never made the Representation and that it was he who had procured
+a term as found in that Clause. Hence, Tan could not have honestly or
+genuinely believed in the truth of his representation to Venture that he was
+entitled to exercise the Share Option under Grant 8.
+
+120 Mr Rajah SC submits that Venture did not issue the 50,000 shares in
+reliance on Tan’s representations as they did not play a real or substantial
+part in the mind of Venture’s employees when Venture issued the shares.
+Instead, Venture issued the shares after checking its own records that Tan was
+entitled to exercise the option. Rosalind attested that she had checked a
+spreadsheet pertaining to Tan’s share benefits to see if they existed and were
+valid before she forwarded the Option Forms to Sita to check and approve the
+Forms. 128
+
+##### Foot Note 128
+
+×
+
+PCS at [117], [188(c)]; 21/5/21 NE 65–66 and 68.
+
+121 A misrepresentation is actionable if it played a real and substantial part
+in the representee’s decision to enter the contract. In Panatron, the Court of
+Appeal held at [23] that:
+
+The misrepresentations need not be the sole inducement … so long as they had
+played a real and substantial part and operated in [the representees’] minds,
+no matter how strong or how many were the other matters which played their
+part in inducing them to act and invest in Panatron …
+
+Although the test for inducement only requires the representee to show that
+the misrepresentation was an (and not the) inducing cause, he has to prove
+that the misrepresentation was “actively present to his mind” (Alwie Handoyo v
+Tjong Very Sumito and another and another appeal [2013] 4 SLR 308 at [192]).
+The question of inducement is approached from the representor’s perspective,
+whilst the question of reliance is approached from the representee’s
+perspective (Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the
+estate of Ng Hock Seng, deceased) and another [2013] 3 SLR 801 (“Anna Wee”) at
+[43]).
+
+122 I find that Tan’s representation by submitting the Option Forms, played a
+real and substantial part in Venture’s decision to release the 50,000 shares
+to Tan and that Venture had relied on Tan’s misrepresentation in this regard.
+Venture’s employees would have relied on the Option Forms that Tan submitted,
+which Forms contained the “Note” (see [119] above) and a clause stating that
+the employee agrees to subscribe to the shares subject to the terms of
+Venture’s offer letter and the ESOS, and which Tan had signed off on.
+Venture’s employees would have been induced by Tan’s representation as such
+even if it was not the only inducing cause.
+
+123 Whilst Rosalind stated that she had checked a spreadsheet to verify
+whether Tan’s share benefits existed and were valid, it is unclear what
+spreadsheet she was referring to. If it was PB1 (as Sita attested that
+Rosalind prepared that spreadsheet), 129
+
+##### Foot Note 129
+
+×
+
+21/5/21 NE 32, 65, 68.
+
+it merely shows the share benefits that accrued to Tan when he was re-employed
+and no more. In fact, Tan agreed that Rosalind would have acted on the basis
+of his representations made in the Option Forms that he was entitled to
+exercise the share options. 130
+
+##### Foot Note 130
+
+×
+
+12/3/21 NE 9.
+
+Hence, Rosalind would have relied on Tan’s representation even if she had
+checked the spreadsheet.
+
+124 Further, whilst Rosalind stated (in cross-examination) that after she
+handed the Option Forms to Sita, Sita had to “check it and approve it”, it is
+unclear what Sita had checked against or whether he had to approve the Option
+Forms given that Mr Rajah SC did not raise this in Sita’s cross-examination.
+Likewise, more likely than not, Sita had relied on the Option Forms that Tan
+submitted, and with knowledge of the Clause in the SB Letter in mind (which
+Clause was procured by Tan). When Tan submitted the Option Forms for the
+50,000 shares, the veracity of the SB Letter was not yet in question because
+Wong/Koh did not then know of its existence and the RC had yet to meet and
+determine that Tan’s Share Benefits that had lapsed (by virtue of the
+Resignation Notice) would not be restored.
+
+125 Finally, I find that Venture had suffered damage when it released the
+50,000 shares to Tan. When an employee exercises a share option, Venture would
+have to obtain the shares from somewhere and at its cost. As Wong attested,
+Venture has been deprived of the 50,000 shares that Tan wrongfully took, and
+if they are returned, Venture would keep them in the treasury which it could
+use to award to other employees under the RSP. 131
+
+##### Foot Note 131
+
+×
+
+Wong’s AEIC at [134].
+
+Unjust enrichment
+
+126 Venture also claims restitution from Tan who has been unjustly enriched.
+Essentially Venture relies on mistake and failure of consideration as the
+unjust factors. 132
+
+##### Foot Note 132
+
+×
+
+Defence at [50]–[52] read with [12]–[30]; DCS at [257].
+
+In a claim for unjust enrichment, the following elements have to be satisfied:
+(a) the defendant has been benefitted or been enriched; (b) the enrichment was
+at the claimant’s expense; (c) the enrichment was unjust; and (d) there are no
+applicable defences (Anna Wee at [98]–[99]). Further, the Court of Appeal in
+Benzline Auto Pte Ltd v Supercars Lorinser Pte Ltd and another [2018] 1 SLR
+239 at [48] clarified that “consideration” or “basis” in the law of unjust
+enrichment refers to either: (a) the performance of a counter-promise, as
+distinguished from the counter-promise itself; or (b) a non-promissory
+contingent condition, ie, an expected event or state of affairs which neither
+party is responsible for bringing about. Hence, the inquiry of the unjust
+factor of failure of consideration or basis has two parts: first, what was the
+basis for the transfer in respect of which restitution is sought; and second,
+whether that basis has failed (Simpson Marine (SEA) Pte Ltd v Jiacipto
+Jiaravanon [2019] 1 SLR 696 at [48]–[49]).
+
+127 I find that Venture succeeds in its claim for unjust enrichment. Based on
+my earlier findings, Venture released the 50,000 shares under Grant 8 to Tan
+on the mistaken premise that Tan was entitled to them. Further, Tan’s
+entitlement to exercise his share option is premised on Tan not having
+resigned. When he tendered the Resignation Notice, the Share Benefits lapsed
+and Tan could not rely on the Clause in the SB Letter to show otherwise. I
+find also that there are no applicable defences that Tan can rely on. Contrary
+to Mr Rajah SC’s submission that Tan did not know that he was not entitled to
+his unexercised share options after he resigned, 133
+
+##### Foot Note 133
+
+×
+
+PCS at [199].
+
+I had found that Tan did know this.
+
+Summary of Venture’s counterclaims
+
+128 In the round, I find that Venture has made out a case for breach of
+contract, fraudulent misrepresentation, mistake and unjust enrichment. It is
+unnecessary for me to consider Venture’s claim under s 2(1) of the
+Misrepresentation Act or for Tan’s breaches of duties. Mr Singh SC submits
+that the loss suffered by Venture for a claim under s 2(1) of the
+Misrepresentation Act and for breaches of duty of good faith and fidelity are
+the same as the losses being claimed for breach of contract and fraudulent
+misrepresentation; and the damages it claims for Tan’s breach of fiduciary
+duties are essentially the same as those for its claim for unjust enrichment.
+134
+
+##### Foot Note 134
+
+×
+
+DCS at [268]–[270]; 27/9/21 NE 15, 18-–19.
+
+Remedies
+
+129 Venture claims that based on Tan’s breach of contract, fraudulent
+misrepresentation or mistake, Venture’s loss is the cost to Venture of buying
+the 50,000 shares at their prevailing market rate, less the price that Tan
+paid for them. Venture submits that the market price should be what it would
+have to pay to buy it at any time within 30 days of the court’s determination
+on the matter. As Tan has been unjustly enriched, Venture is also entitled to
+restitution of the benefits obtained by Tan, which further includes the
+profits of $74,035.30 that he made from selling 35,000 of the 50,000 shares.
+135
+
+##### Foot Note 135
+
+×
+
+DCS at [265]–[269]; Wong’s AEIC at [134]; 27/9/21 NE 15–17; Defendant’s
+Further Submisisons (21 October 2021) at [2].
+
+130 Mr Rajah SC submits that the date of assessment of damages in relation to
+fraudulent misrepresentation should be the market price at which Venture could
+have sold the shares at the time the shares were issued to Tan, less the price
+paid by Tan to Venture for them, citing Platt v Platt [1999] 2 BCLC 745
+(“Platt v Platt”). 136
+
+##### Foot Note 136
+
+×
+
+TRC’s letter dated 11 October 2021 at [10].
+
+Mr Ali (Tan’s counsel) agrees that if there is unjust enrichment, Venture is
+entitled to the profit that Tan made on selling off the 35,000 shares, but
+this should take into account what Tan had paid as taxes (of $18,087.20) on
+acquiring the 50,000 shares from Venture. 137
+
+##### Foot Note 137
+
+×
+
+27/9/21 NE 20, 27; TRC’s Letter dated 11 October 2021 at [5]–[6].
+
+Venture, submits that the taxes paid by Tan for the purchase of the 50,000
+shares should be disregarded. As restitution focuses on the benefit that Tan
+obtained, Venture should be entitled to the restitution of all the benefits he
+had obtained. 138
+
+##### Foot Note 138
+
+×
+
+Defendant’s Further Submissions dated 11 October 2021 at [4]–[5].
+
+Tan further confirmed that he still has 15,000 of the 50,000 shares issued to
+him and if Venture succeeds in its counterclaim, Tan will return the 15,000
+shares subject to Venture returning the amount Tan paid for those shares. 139
+
+##### Foot Note 139
+
+×
+
+TRC’s Letter dated 11 October 2021 at [4].
+
+131 The object of damages for breach of contract is to put the victim so far
+as money can do it, in the same situation as if the contract had been
+performed, and the victim is entitled to be compensated for the loss of his
+bargain. Alternatively, he can elect to recover reliance loss, to put him in a
+position as if the contract had never been entered into in the first place.
+Both measures of damages are compensatory and based on the victim’s loss. The
+purpose of damages for tortious misrepresentation is to put the victim into a
+position in which he would have been if the misrepresentation had not been
+made. In this regard, damages for fraudulent misrepresentation would include
+all losses flowing directly from the entry into the transaction, regardless of
+whether the loss is foreseeable and this would include all consequential
+losses suffered by the claimant. (See Turf Club Auto Emporium Pte Ltd and
+others v Yeo Boong Hua and others and another appeal [2018] 2 SLR 655 at
+[123]–[126]; Wishing Star Ltd v Jurong Town Corp [2008] 2 SLR(R) 909 at [21]
+and [28].)
+
+132 I deal first with whether the damages should take into account the tax
+that Tan paid for acquiring the 50,000 shares from Venture. In my view, this
+should be disregarded. In so far as the claim to set off the tax against
+damages to be awarded to Venture for breach of contract or misrepresentation,
+the object of damages is to compensate the victim and focuses on the victim’s
+loss. Further, the tax was not paid to Venture; if it was, then Venture would
+have to account for it in the damages awarded to it. In so far as the claim to
+set off the tax against Venture’s claim for unjust enrichment, it cannot be
+said to be a case of change of position, which in any event was not pleaded by
+Tan nor attested to by him for this purpose and which Mr Rajah SC has
+confirmed Tan is not relying on. 140
+
+##### Foot Note 140
+
+×
+
+Plaintiff’s Further Submissions dated 21 October 2021 at [10].
+
+Tan did not pay tax on the profits that he made by selling the 35,000 shares;
+rather, the tax was paid by Tan in acquiring the 50,000 shares and which he
+acquired based on his misrepresentation to Venture that he was entitled to
+them. In fact, Tan did not plead, nor rely on the fact that he had paid tax on
+the 50,000 shares, in relation to damages pertaining to any of Venture’s
+counterclaims. He had mentioned it only to support his claim that Venture had
+taken the position that he was entitled to the Share Benefits. 141
+
+##### Foot Note 141
+
+×
+
+Tan’s AEIC at [104].
+
+133 Next, Venture now claims in its further closing submissions that it had
+paid dividends on the 50,000 shares and should be compensated by Tan for this.
+142
+
+##### Foot Note 142
+
+×
+
+Mr Singh SC’s letter dated 21 October 2021 at [11].
+
+Venture did not plead nor attest to any such dividends, let alone the quantum
+of the dividends, that were paid. The payment of dividends by Venture is
+within Venture’s knowledge. As such I would disregard this submission.
+
+134 I turn to deal with the valuation date of the shares. The date of the
+transaction is the prima facie date of valuation, as the measure of the loss
+that is suffered, but this rule can be departed from to give effect to the
+overriding compensatory rule (see Smith New Court Securities Ltd v Citibank
+N.A. [1997] AC 254 at 284, in relation to a case for fraudulent
+misrepresentation). I accept that if damages were assessed based on the time
+when the wrongful act occurred, this may not adequately compensate Venture for
+the loss it has suffered if Venture had to subsequently acquire substitute
+shares from the market at the prevailing market rate. In Platt v Platt, the
+court preferred to value the shares at the transaction date given the
+evidential difficulties in using a later date and that the shares no longer
+existed. There is no such difficulty in the present case as Venture is a
+public-listed company whose share price is transparent.
+
+135 Here, had Tan not made the representations, Venture would have had the
+50,000 shares. The losses (including consequential losses) incurred by Venture
+would include the price it has to pay to acquire a similar number of shares in
+the market, provided this is what Venture intends to do or has to do. In such
+a situation, the prevailing market rate for the shares would be most
+appropriate to allow Venture to be fully compensated for its loss. But it is
+unclear that Venture intends or has to acquire replacement shares. Wong did
+not state that Venture will buy replacement shares, or even that Venture has
+to replace back into the company the shares transferred to Tan. 143
+
+##### Foot Note 143
+
+×
+
+Wong’s AEIC at [134].
+
+It is for Venture to prove what its loss is and the quantum of such loss and I
+find that it has not shown that the loss is the value of the shares at today’s
+market rate.
+
+136 Indeed, Mr Singh SC has now submitted that the court cannot order a
+transfer of the remaining 15,000 shares from Tan to Venture because this would
+contravene s 76(1A) of the Companies Act (Cap 50, 2006 Rev Ed) (“the CA”) as
+that section provides that, except where expressly provided by the CA, a
+company cannot acquire shares in the company. Mr Singh SC also submits that
+Venture cannot hold the shares as treasury shares save in the circumstances
+under ss 76B to 76G of the CA which he submits Venture does not fall within,
+and hence, any transfer of shares to Venture would render the shares valueless
+as it cannot use them as treasury shares. 144
+
+##### Foot Note 144
+
+×
+
+Mr Singh SC’s Letter dated 21 October 2021 at [4]–[8].
+
+By these submissions where Mr Singh SC is suggesting that a transfer of shares
+back to Venture would not be possible or feasible, it shows that Venture does
+not intend to acquire or would not be acquiring shares let alone from the
+market.
+
+137 Given the above, I thus accept Mr Rajah SC’s submission that the date of
+assessing damages of loss to Venture in relation to the shares should be at
+the market price at which Venture could have sold the shares at the time they
+were issued to Tan. I see no reason to depart from the transaction date for
+valuation (ie, the date when the 50,000 shares were transferred to Tan) in
+favour of the date on which I make the determination in the Suit. Even if
+Venture had succeeded on its claim for any breach of duties, this would not
+change how the damages (or any claim for equitable compensation as prayed for
+by Venture) would be assessed (see also [128] above). This is also given that
+I will in any event award Venture the profits that Tan had made from selling
+35,000 shares, namely $74,035.30 for its claim in unjust enrichment.
+
+138 Further, I do not see any impediment to making an order for Tan to return
+15,000 shares to Venture. There is no evidence that such an order would render
+the shares returned to Venture to be valueless. Section 76(8)(h) of the CA
+provides that nothing in s 76(1A) prohibits the purchase by a company of
+shares in the company pursuant to a court order. Section 76B(10) further
+provides that “Nothing in [sections 76B] to 76G shall be construed so as to
+limit or affect an order of the Court made under any section that requires a
+company to purchase or acquire its own shares.” Indeed, Wong attested that if
+Tan were to return the shares, Venture would keep them in the treasury until
+it is time to give them to other employees as share awards under the RSP.
+Pertinently, this is what Venture had pleaded and initially asked for, namely
+the return of the 50,000 shares and where any of them have been sold, that
+there should be an account of profits or damages on the shares that were sold.
+145
+
+##### Foot Note 145
+
+×
+
+Wong’s AEIC at [134]; Defence at para 7 of the reliefs.
+
+139 Given the above, I make the following orders:
+
+(a) Tan is to transfer 15,000 shares (which he has) to Venture within 30 days
+subject to Venture returning the amount that Tan paid for them. Venture had
+pleaded for the return of all or any of the shares and Tan had also agreed to
+do so in relation to any unsold shares. This would sufficiently compensate
+Venture for the loss of 15,000 (out of 50,000) shares that were wrongly
+transferred to Tan.
+
+(b) As for the remaining 35,000 shares that Tan no longer has, the damages are
+to be based on the market price of the shares at the time of release to Tan,
+after deducting the amount that he paid to Venture. I accept the valuation on
+the market price based on a table submitted by Mr Rajah SC on 11 October 2021,
+as the best evidence tendered to the court. 146
+
+##### Foot Note 146
+
+×
+
+TRC’s Letter dated 11 October 2021 at [14].
+
+As Tan exercised the share option for 50,000 shares in two tranches of 25,000
+shares each, I ascribe the following market price: 147
+
+##### Foot Note 147
+
+×
+
+AB 778 and AB 1128.
+
+(i) For 25,000 shares, at $9.40 per share (based on the market price at about
+7 October 2016, when Tan exercised the Share Option under Grant 8 in the first
+tranche). Tan had sold off all 25,000 shares (in November 2016) that he
+obtained in the first tranche (in October 2016), and these are the shares that
+can no longer be returned. 148
+
+##### Foot Note 148
+
+×
+
+Tan’s AEIC at [105].
+
+(ii) For another 10,000 shares, at $9.76 per share (based on the closing
+market price on around 16 January 2017, when Tan exercised the Share Option
+under Grant 8 in the second tranche).
+
+(c) Additionally, Tan is to pay Venture $74,035.30 being the profits he made
+on the sale of the 35,000 shares.
+
+(d) Where parties are unable to agree to the calculation of the quantum of
+damages, that they are at liberty to apply, within one month, to the court for
+directions.
+
+Conclusion
+
+140 In conclusion, I dismiss Tan’s claims against Venture, and I allow
+Venture’s counterclaims against Tan as above. I will hear parties on costs.
+
+Audrey Lim  
+Judge of the High Court|  
+---|---  
+  
+Chelva Retnam Rajah SC, Eusuff Ali s/o N B M Mohamed Kassim and Joseph Tham
+Chee Ming (Tan Rajah & Cheah) for the plaintiff;
+
+Davinder Singh s/o Amar Singh SC, Pardeep Singh Khosa, Stanley Tan Jun Hao and
+Jaspreet Singh Sachdev (Davinder Singh Chambers LLC) for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 26 Nov 2021 (12:16 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+

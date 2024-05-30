@@ -1,0 +1,3076 @@
+Judgment Download PDF PDF X Close Window Judgments Homepage
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+\--In the GENERAL DIVISION OF
+
+  
+
+THE high court of the republic of singapore
+
+[2022] SGHC 213
+
+Suit No 57 of 2020
+
+Between
+
+| Kuvera Resources Pte Ltd  
+---|---  
+  
+… Plaintiff
+
+And
+
+| JPMorgan Chase Bank, NA  
+---|---  
+  
+… Defendant
+
+grounds of decision
+
+[Banking — Letters of credit — Confirming bank — Sanctions clause — Whether
+sanctions clause incorporated in a confirmed letter of credit]
+
+[Banking — Letters of credit — Confirming bank — Sanctions clause — Whether
+sanctions clause valid and enforceable — Whether sanctions clause
+fundamentally inconsistent with the commercial purpose of a confirmation —
+Examination of terms of letter of credit according to applicable the Uniform
+Customs and Practice for Documentary Credits, 2007 Revision]
+
+[Banking — Letters of credit — Confirming bank — Sanctions clause — Whether
+sanctions clause valid and enforceable — Whether sanctions clause unworkable]
+
+[Banking — Letters of credit — Confirming bank — Sanctions clause — Whether
+sanctions clause valid and enforceable — Whether sanctions clause is non-
+documentary condition]
+
+* * *
+
+This judgment is subject to final editorial corrections approved by the court
+and/or redaction pursuant to the publisher’s duty in compliance with the law,
+for publication in LawNet and/or the Singapore Law Reports.  
+---  
+  
+Kuvera Resources Pte Ltd
+
+  
+v
+
+  
+
+JPMorgan Chase Bank, NA
+
+[2022] SGHC 213
+
+General Division of the High Court — Suit No 57 of 2020  
+Vinodh Coomaraswamy J  
+19–22, 26–28 October 2021, 28 February 2022
+
+31 October 2022
+
+Vinodh Coomaraswamy J:
+
+Introduction
+
+1 The plaintiff brings this action to recover from the defendant the principal
+sum of US$2.42m, alternatively US$0.22m, as damages for breach of contract. 1
+
+##### Foot Note 1
+
+×
+
+Statement of Claim (Amendment No. 2) filed on 28 October 2021 (“SOC”) at p 10,
+prayers (A), (B) and (B2).
+
+The plaintiff’s case is that the defendant was in breach of contract when it
+refused to pay the plaintiff against a complying presentation of documents
+under a confirmed letter of credit. The defendant accepts that the plaintiff
+made a complying presentation of documents. The defendant’s defence is that
+the terms of its confirmation entitled it to refuse to pay the plaintiff.
+
+2 The cornerstone of the defendant’s case is a clause which appears in the
+defendant’s confirmations. 2
+
+##### Foot Note 2
+
+×
+
+1AB638 and 2AB867.
+
+The clause provides, in summary and for present purposes, that the defendant
+is not liable for any failure to pay against a complying presentation of
+documents if the documents involve a vessel subject to the sanctions laws and
+regulations of the United States of America (“US”). I shall refer to this
+clause as “the Sanctions Clause”. The full text of the Sanctions Clause
+provides as follows: 3
+
+##### Foot Note 3
+
+×
+
+1AB630 and 2AB867.
+
+[The defendant] must comply with all sanctions, embargo and other laws and
+regulations of the U.S. and of other applicable jurisdictions to the extent
+they do not conflict with such U.S. laws and regulations (“applicable
+restrictions”). Should documents be presented involving any country, entity,
+vessel or individual listed in or otherwise subject to any applicable
+restriction, we shall not be liable for any delay or failure to pay, process
+or return such documents or for any related disclosure of information.
+
+3 The parties’ opposing submissions on the Sanctions Clause define the central
+issue in this action. The plaintiff’s submission is that the Sanctions Clause:
+(a) is not a term of its contract with the defendant; alternatively (b) is
+fundamentally inconsistent with the commercial purpose of a confirmed letter
+of credit or is so broad as to be unworkable; and therefore (c) ought not to
+be construed so as to detract from the defendant’s fundamental obligation to
+pay against a complying presentation. 4
+
+##### Foot Note 4
+
+×
+
+Plaintiff’s Closing Submissions at paras 230 and 269.
+
+The defendant’s submission is that the Sanctions Clause: (a) is indeed a term
+of its contract with the plaintiff; (b) is neither fundamentally inconsistent
+with the commercial purpose of a confirmed letter of credit nor so broad as to
+be unworkable; and (c) does, on the facts of this case, permit the defendant
+to refuse to pay the plaintiff against a complying presentation. 5
+
+##### Foot Note 5
+
+×
+
+Defendant’s Closing Submissions at paras 136 and 148–149; Defendant’s Reply
+Submissions at para 44; Certified Transcript, 21 October 2021, pp 91:7–25,
+126:20-127:11 and 128:3–16.
+
+4 Having heard the parties’ submissions, I have dismissed the plaintiff’s
+action with costs.
+
+5 The plaintiff has appealed against my decision. I now give the reasons for
+my decision.
+
+Factual background
+
+The parties
+
+6 The plaintiff is a company incorporated in Singapore. It is in the business
+of trading coal exported from Indonesia. 6
+
+##### Foot Note 6
+
+×
+
+SOC at para 1; Plaintiff’s Closing Submissions at para 14.
+
+7 The defendant is a national banking association chartered under the laws of
+the US. 7
+
+##### Foot Note 7
+
+×
+
+Alisha Burke’s AEIC at para 5.
+
+It has its head office in New York 8
+
+##### Foot Note 8
+
+×
+
+SOC at para 2.
+
+and operates worldwide through a large network of branches. One of those
+branches is in Singapore. 9
+
+##### Foot Note 9
+
+×
+
+Defendant’s Bundle of Documents for Trial dated 13 October 2021 (“DBOD”), Tab
+3, pp 6–9; Defence (Amendment No. 3) filed on 23 July 2021 (“Defence”) at para
+2 (SDB at p 62).
+
+It was the defendant’s Singapore branch which confirmed the two letters of
+credit.
+
+The letters of credit and the confirmations
+
+8 I now set out the circumstances in which the letters of credit came to be
+issued and confirmed.
+
+9 In July 2019, a company in Indonesia contracted to sell 35,000 metric tonnes
+of coal, plus or minus 10%, to a company in Dubai for delivery in Pakistan.
+The price of the coal was US$2.35m, plus or minus 10%. 10
+
+##### Foot Note 10
+
+×
+
+Plaintiff’s Closing Submissions, paras 15–16; 1AB119–147.
+
+The contract obliged the seller to deliver the coal to the buyer in two
+parcels. The contract also obliged the buyer to pay for each parcel by a
+confirmed, irrevocable, non-transferable and workable letter of credit payable
+at sight. 11
+
+##### Foot Note 11
+
+×
+
+1AB123, cl 10.
+
+10 The plaintiff advanced funds to the seller to enable it to purchase the
+coal which it was on-selling to the buyer. 12
+
+##### Foot Note 12
+
+×
+
+1AB134, cl 27(i).
+
+The contract for the sale of the coal 13
+
+##### Foot Note 13
+
+×
+
+1AB119.
+
+was therefore structured to give the plaintiff a form of security for its
+advance. Thus, the contract was a tripartite contract between the buyer, the
+seller and the plaintiff. This was no doubt so that the plaintiff would have a
+direct cause of action against the buyer for a breach of the contract.
+Further, the contract expressly obliged the buyer: (a) to pay for the coal by
+two letters of credit to be issued in precisely the same terms as two draft
+letters of credit attached to the contract; 14
+
+##### Foot Note 14
+
+×
+
+1AB123, cl 10.1.
+
+(b) to name the plaintiff (rather than the seller) as the beneficiary in both
+letters of credit; 15
+
+##### Foot Note 15
+
+×
+
+1AB137 and 1AB142.
+
+(c) to procure that a major or international bank in Singapore confirmed both
+letters of credit; 16
+
+##### Foot Note 16
+
+×
+
+1AB123, cl 10.7.
+
+and (d) to procure that both letters of credit were issued subject to the
+Uniform Customs and Practice for Documentary Credits, 2007 Revision (“the
+UCP600”) issued by the International Chamber of Commerce (“the ICC”). 17
+
+##### Foot Note 17
+
+×
+
+SOC at para 8; Defence at para 8 (SDB at p 64); 1AB124, cl 10.11.
+
+11 The buyer duly procured a bank in Dubai to issue the two letters of credit
+in favour of the plaintiff. As stipulated in the contract, both letters of
+credit were issued expressly subject to the UCP600. 18
+
+##### Foot Note 18
+
+×
+
+SOC at para 8; Defence at para 8 (SDB at p 64).
+
+The first letter of credit was issued in August 2019 for US$0.7m, plus or
+minus 10%. The second letter of credit was issued in September 2019 for
+US$1.65m, plus or minus 10%. 19
+
+##### Foot Note 19
+
+×
+
+Lim Geok Lian’s AEIC at para 26.
+
+Save for the value and the date of issuance, the two letters of credit are
+identical in all material respects.
+
+12 The issuing bank asked the defendant to act as the advising bank for both
+letters of credit. It also permitted the defendant to act as the nominated
+bank for both letters of credit. 20
+
+##### Foot Note 20
+
+×
+
+Lim Geok Lian’s AEIC at para 28.
+
+The defendant duly advised both letters of credit to the plaintiff. 21
+
+##### Foot Note 21
+
+×
+
+Defence at paras 7 and 10–11 (SDB at pp 63–65).
+
+Both of the defendant’s advices to the plaintiff contained the Sanctions
+Clause. 22
+
+##### Foot Note 22
+
+×
+
+1AB262.
+
+13 In September 2019, the defendant added its confirmation to both letters of
+credit. 23
+
+##### Foot Note 23
+
+×
+
+Lim Geok Lian’s AEIC at paras 30 and 32.
+
+Both of the defendant’s confirmations contained the Sanctions Clause. 24
+
+##### Foot Note 24
+
+×
+
+1AB630 and 2AB867.
+
+14 Both letters of credit were amended a number of times, both before and
+after the defendant confirmed them. The defendant duly advised all of these
+amendments to the plaintiff 25
+
+##### Foot Note 25
+
+×
+
+Lim Geok Lian’s AEIC at paras 29 and 31.
+
+and added its confirmation to them when necessary. All of the defendant’s
+advices and confirmations of these amendments also contained the Sanctions
+Clause. 26
+
+##### Foot Note 26
+
+×
+
+Defence at paras 10–11 (SDB, pp 64–65); Reply (Amendment No. 3) filed on 6
+August 2021 (“Reply”) at paras 8–9 (SDB, pp 100–101); Lim Geok Lian’s AEIC at
+paras 13 and 28–33; 1AB638 and 2AB868; see also 1AB342, 1AB552, 1AB630,
+1AB635, 2AB810, 2AB834, 2AB917, 2AB943, 2AB984, 2AB1093 and 2AB1097; 2AB919,
+2AB956 and 2AB992.
+
+15 The Sanctions Clause is a bespoke clause which the defendant invariably
+includes when it advises or confirms a letter of credit. 27
+
+##### Foot Note 27
+
+×
+
+1AB262, 1AB341, 1AB552, 1AB630, 1AB635, 1AB638, 2AB802, 2AB834, 2AB867,
+2AB920, 2AB943, 2AB956, 2AB982, 2AB992, 2AB1091, 2AB1097; Lim Geok Lian’s AEIC
+at paras 13 and 33; Certified Transcript, 21 October 2021, p 91:7–25; p
+126:20–127:11; p 128:3–16.
+
+There is no provision in the UCP600 which covers the subject-matter of the
+Sanctions Clause. There is equally no such provision in the draft letters of
+credit attached to the contract for the sale of the coal or in the letters of
+credit as issued.
+
+The plaintiff’s complying presentation
+
+16 In late November 2019, the plaintiff made a presentation of documents to
+the defendant under the letters of credit. 28
+
+##### Foot Note 28
+
+×
+
+SOC at para 13; Defence at para 21 (SDB at p 67).
+
+It made this presentation through a presenting bank. This first presentation
+of documents was discrepant. A day later, the defendant rejected the
+presentation. 29
+
+##### Foot Note 29
+
+×
+
+Defence at para 21 (SDB at p 67).
+
+The defendant does not suggest that the plaintiff was in breach of contract in
+doing so.
+
+17 One day after the rejection, the plaintiff made a second presentation of
+documents to the defendant under the letters of credit. 30
+
+##### Foot Note 30
+
+×
+
+Defence at para 21 (SDB at p 67).
+
+The defendant accepts that this second presentation was a complying
+presentation within the meaning of the UCP600. 31
+
+##### Foot Note 31
+
+×
+
+Defence at para 21 (SDB at p 67); Opening Statement at para 13.
+
+The defendant therefore also accepts that, but for the Sanctions Clause, this
+presentation would have obliged the defendant pay the plaintiff against the
+documents. 32
+
+##### Foot Note 32
+
+×
+
+Defence at paras 21–23, 31 and 37.
+
+18 The face value of the drafts which the plaintiff presented to the defendant
+was US$2.42m. 33
+
+##### Foot Note 33
+
+×
+
+SOC at para 15.
+
+This is the principal sum which the plaintiff claims from the defendant as
+damages for breach of contract.
+
+The defendant’s sanctions screening
+
+19 After the defendant had determined that the plaintiff’s presentation was a
+complying presentation, it sent the documents for sanctions screening.
+Sanctions screening is one of the defendant’s standard post-presentation
+procedures. 34
+
+##### Foot Note 34
+
+×
+
+Lim Geok Lian’s AEIC at para 18.
+
+The purpose of sanctions screening is to ensure that the defendant complies
+with US sanctions laws and regulations. 35
+
+##### Foot Note 35
+
+×
+
+Defendant’s Closing Submissions at para 21; Lim Geok Lian’s AEIC at para 36;
+Chong Lip Fah’s AEIC at para 26.
+
+I describe those laws and regulations in more detail below.
+
+20 The coal in the sale contract was shipped on a vessel known as “Omnia”. The
+defendant’s sanctions screening revealed that the Omnia was an exact match for
+a vessel known as “Lady Mona”. The defendant had determined – once in June
+2015 36
+
+##### Foot Note 36
+
+×
+
+Alisha Burke’s AEIC at para 57.
+
+and once again as recently as August 2019 37
+
+##### Foot Note 37
+
+×
+
+Alisha Burke’s AEIC at paras 78 and 80.
+
+– that Lady Mona fell within the scope of US sanctions on Syria because it was
+likely to be beneficially owned by a Syrian entity. 38
+
+##### Foot Note 38
+
+×
+
+Defence at paras 24 and 30 (SDB at pp 68 and 71); Chong Lip Fah’s AEIC at para
+27; Alisha Burke’s AEIC at paras 52–80.
+
+The defendant made these determinations in the course of its continuing
+procedures for ensuring that it complies with US sanctions laws and
+regulations.
+
+21 In early December 2019, the defendant informed the presenting bank that the
+defendant was unable to accommodate the plaintiff’s presentation of the
+documents because the transaction did not comply with applicable US sanctions
+laws or with policies designed to promote compliance with those laws. 39
+
+##### Foot Note 39
+
+×
+
+Defence at para 32 (SDB at pp 72–73); Law Hiu Tsing Cynthia’s AEIC at paras
+38–49; Lim Geok Lian’s AEIC at para 42.
+
+At the same time, the defendant also informed the plaintiff directly that the
+defendant could not obtain internal approvals to pay the plaintiff against the
+complying presentation. 40
+
+##### Foot Note 40
+
+×
+
+Defence at para 33 (SDB at p 73).
+
+In early December 2019, the defendant returned the plaintiff’s documents to
+the presenting bank. 41
+
+##### Foot Note 41
+
+×
+
+Defence at para 34 (SDB at p 73); 4AB2384–2385; Lim Geok Lian’s AEIC at paras
+43–45; Chong Lip Fah’s AEIC at para 40; 5AB2674–2675; Certified Transcript, 19
+October 2021, p 94:16–19.
+
+The defendant did not make any determination at any time that the plaintiff’s
+second presentation was a non-complying presentation. Indeed, the defendant’s
+determination was quite the opposite: that it was a complying presentation
+which the defendant could nonetheless not pay against because the transaction
+did not comply with applicable US sanctions laws or with policies designed to
+promote compliance with those laws. Article 16 of the UCP600 and its
+requirements are therefore of no application.
+
+22 The letters of credit expired at the end of December 2019. 42
+
+##### Foot Note 42
+
+×
+
+Defendant’s Closing Submissions at para 49.
+
+The plaintiff began efforts to secure payment direct from the buyer. In
+January 2020, the plaintiff entered into negotiations with the issuing bank
+and the buyer. The outcome of these negotiations was a written Memorandum of
+Understanding. In February 2020, pursuant to the Memorandum of Understanding,
+the buyer paid US$2.2m to the plaintiff in exchange for the plaintiff’s
+documents. 43
+
+##### Foot Note 43
+
+×
+
+Defendant’s Closing Submissions at para 56; 5AB2935–2940; 5AB2963.
+
+23 It is part of the defendant’s case in this action that – even if it is in
+breach of contract for failing to honour its confirmations – the plaintiff
+fully mitigated any loss that may have been caused by the breach when it
+received US$2.2m directly from the buyer in February 2020. That sum of US$2.2m
+is not, of course, the entire sum of US$2.42m which the plaintiff claims in
+this action. But the defendant submits that the difference of US$0.22m is not
+a loss caused by any breach of contract on the defendant’s part because it
+arises largely from a deficiency in the quality of the coal. 44
+
+##### Foot Note 44
+
+×
+
+Defendant’s Closing Submissions at para 61.
+
+24 This aspect of the defendant’s case is relevant only to the issue of
+damages. As I have found that the defendant is not in breach of contract at
+all, I need not and do not deal with damages.
+
+Issues
+
+25 The parties accept that each of the defendant’s confirmations gave rise to
+a contract between the plaintiff and the defendant. They also accept that
+those contracts are governed by Singapore law. 45
+
+##### Foot Note 45
+
+×
+
+Plaintiff’s Opening Statement at paras 20–30; Defendant’s Closing Submissions
+at para 172.
+
+26 There are three broad issues of Singapore law which I must decide in order
+to resolve the parties’ dispute: 46
+
+##### Foot Note 46
+
+×
+
+Defendant’s Closing Submissions at para 3.
+
+(a) Whether the Sanctions Clause was a term of the defendant’s confirmations.
+47
+
+##### Foot Note 47
+
+×
+
+Plaintiff’s Opening Statement at para 12.
+
+(b) Whether the Sanctions Clause is valid and enforceable. 48
+
+##### Foot Note 48
+
+×
+
+Plaintiff’s Opening Statement at para 19.
+
+(c) Whether, on the facts of this case, the Sanctions Clause entitled the
+defendant to refuse to pay the plaintiff against a complying presentation. 49
+
+##### Foot Note 49
+
+×
+
+Plaintiff’s Opening Statement at para 31.
+
+27 A summary of my findings of fact and holdings of law on these issues is as
+follows:--
+
+(a) The Sanctions Clause is a term of the contract between the plaintiff and
+the defendant. There was no legal impediment to the defendant incorporating
+the Sanction Clause as a term of its confirmations even though it did not
+appear in the letters of credit. Further, there was no need for the plaintiff
+to accept the Sanctions Clause or for the defendant to supply consideration
+for it in order for it to be incorporated into the confirmations. Finally, on
+the facts, the defendant included the Sanctions Clause in the advices by which
+it added its confirmations to the letters of credit.
+
+(b) The Sanctions Clause is valid and enforceable. The Sanctions Clause is not
+fundamentally inconsistent with the commercial purpose of a confirmed letter
+of credit because it leaves the issuing bank’s separate payment obligation to
+the beneficiary under the letter of credit entirely unaffected. Equally, the
+phrase “…all sanctions … laws and regulations of the U.S and of other
+applicable jurisdictions to the extent that they do not conflict with such U.S
+laws and regulations…” is not so wide as to render the confirmation
+unworkable. On the facts, that form of words points to the sanctions laws and
+regulations of only two jurisdictions: the US and Singapore.
+
+(c) The Sanctions Clause did, on the facts of this case, operate to permit the
+defendant to refuse to pay the plaintiff against a complying presentation. The
+uncontradicted and unchallenged evidence of the defendant’s expert witness on
+US sanctions law establishes on the balance of probabilities that paying the
+plaintiff would have exposed the defendant to a penalty for breaching US
+sanctions laws and regulations as those laws and regulations are published,
+interpreted, applied and enforced.
+
+28 Logically anterior to the three broad issues which I have identified at
+[25] above is a deeper analysis of the contract between the plaintiff and the
+defendant. Two issues in particular require deeper analysis: (a) first, the
+legal nature of a letter of credit transaction; and (b) second, how the
+plaintiff’s contract with the defendant was formed.
+
+29 I therefore begin by analysing these two anterior issues before analysing
+the three broad issues set out at [25] above in turn.
+
+The contract between the plaintiff and the defendant
+
+The commercial purpose of a letter of credit
+
+30 The analysis of the legal nature of a letter of credit transaction is
+driven by its commercial purpose.
+
+31 The commercial purpose of a letter of credit is to serve as a payment
+mechanism. But it is not merely a payment mechanism. It is a payment mechanism
+which has played and continues to play a critical role in facilitating trade,
+typically the international sale of goods.
+
+32 A letter of credit facilitates the international sale of goods primarily by
+offering assurance to a seller that it will be paid and offering a measure of
+assurance to a buyer that it will get what it has paid for. This bilateral
+assurance is necessary commercially because the international sale of goods
+involves a buyer and a seller in different jurisdictions who will very often
+be dealing with each other for the first time. Each of them will therefore
+have little reason to trust the other to perform its obligations under their
+contract. The letter of credit interposes a trustworthy and a creditworthy
+paymaster between the buyer and the seller in the form of a bank.
+
+33 There is another way in which a letter of credit facilitates the
+international sale of goods. Where a seller of goods requires financing to
+purchase the goods which it has contracted to sell on to the buyer – as in the
+present case – the seller can use the assurance of payment which a letter of
+credit provides as security, or at the very least as a form of comfort, to
+raise the necessary financing.
+
+A letter of credit transaction comprises five contracts
+
+34 The critical role that the letter of credit plays in facilitating the
+international sale of goods means that it is of fundamental commercial
+importance that the rights and obligations created by a letter of credit
+operate in a manner which is predictable, stable and reliable. To meet these
+commercial expectations, the law treats a letter of credit not as a single
+contract but as a compound transaction comprising up to five interconnected
+contracts (see Michael Brindle and Raymond Cox, Law of Bank Payments (Sweet &
+Maxwell, 5th Ed, 2018) at para 7-030).
+
+35 The first of these five contracts is between the buyer and the seller of
+the goods. It is typically in this contract that buyer and seller agree to use
+a letter of credit as their payment mechanism. The buyer will be the applicant
+for the letter of credit; the seller will be the beneficiary.
+
+36 The second contract is between the applicant and the issuing bank. This
+contract governs: (a) the issuing bank’s obligation to issue a letter of
+credit by which it undertakes to pay the beneficiary against a complying
+presentation; and (b) the applicant’s obligation to repay the issuing bank any
+sums which the bank pays the beneficiary.
+
+37 The third contract is between the issuing bank and the beneficiary. This
+contract governs the obligation which the issuing bank owes to the beneficiary
+to pay the beneficiary against a complying presentation. It is this contract
+which is the defining feature of a letter of credit, and which therefore lies
+at its legal and commercial core. It is therefore only this contract which
+should properly be called “the letter of credit”.
+
+38 The fourth contract is between the confirming bank and the beneficiary.
+This contract governs the obligation which the confirming bank owes to the
+beneficiary to pay the beneficiary against a complying presentation. This
+contract is referred to as the “confirmation”.
+
+39 The fifth contract is between the issuing bank and the confirming bank.
+This contract governs the issuing bank’s obligation to reimburse the
+confirming bank once the confirming bank has paid the beneficiary against a
+complying presentation.
+
+40 An applicant, a beneficiary and an issuing bank are essential in every
+letter of credit. The first three contracts are therefore always present in
+every letter of credit transaction. A confirming bank is not essential in a
+letter of credit transaction but is frequently used for commercial convenience
+and utility. The fourth and fifth contracts are therefore present only if the
+parties have agreed to use a confirming bank.
+
+41 The dispute between the parties in this action arises out of the fourth
+contract (the confirmation) and involves its interaction with the third
+contract (the letter of credit).
+
+Each contract is separate and autonomous
+
+42 To ensure that the rights and obligations created by a letter of credit
+transaction operate in a manner which is predictable, stable and reliable, the
+law treats each of these five contracts as being separate from and autonomous
+of the other four contracts (see United City Merchants (Investments) Ltd v
+Royal Bank of Canada [1983] 1 AC 168 at 182–183; Kredietbank NV v Sinotani
+Pacific Pte Ltd (Agricultural Bank of China, third party) [1991] 1 SLR(R) 274
+at [18]; Brody, White and Co Inc v Chemet Handel Trading (S) Pte Ltd [1992] 3
+SLR(R) 146 at [19]).
+
+43 Each contract is separate from the other contracts in that each is a
+contract formed between a different combination of two of the three or four
+parties who may be involved in a letter of credit transaction, and between
+only those two parties. Each contract is autonomous of the other contracts in
+that each is a self-contained contract which operates independently of the
+others, ie in accordance only with its own terms and conditions and, unless
+otherwise expressly agreed, regardless of the terms of any of the other four
+contracts and regardless of the performance, breach or discharge of any of
+those contracts.
+
+44 A confirming bank’s contract with a beneficiary under its confirmation is
+therefore separate from the issuing bank’s contract with the beneficiary under
+the letter of credit. Article 8 of UCP600 makes this clear. It expressly
+imposes on a confirming bank an obligation to honour its confirmation which is
+additional to the issuing bank’s obligation under Art 7 of the UCP600 to
+honour the letter of credit:
+
+UCP 600 – Article 2
+
+Definitions
+
+For the purpose of these rules:
+
+…
+
+Confirmation means a definite undertaking of the confirming bank, in addition
+to that of the issuing bank, to honour or negotiate a complying presentation.
+
+[emphasis added]
+
+45 A confirming bank’s contract with a beneficiary is not only separate from
+but also autonomous of the issuing bank’s contract with the beneficiary. As
+the authors point out in James E. Byrne et al, UCP600: An Analytical
+Commentary (Institute of International Banking Law & Practice, 2010) (“UCP600
+Commentary”) at p 394:
+
+12\. In Addition to the Issuer’s Undertaking. UCP600 Article 8(b) notes that
+the time at which the confirmer is bound is as of the time that it “adds it[s]
+confirmation to the credit.” This oblique reference reinforces the more
+complete statement in the definition of “Confirmation” in UCP600 Article 2
+(Definitions) ¶ 6 that the confirmer’s undertaking is in addition to that of
+the issuer. This notion is important for LC jurisprudence, signaling that the
+obligation of the confirmer is separate and independent from that of the
+issuer.
+
+[emphasis added]
+
+46 Thus, a beneficiary under a confirmed letter of credit has a contractual
+right either to seek payment from the issuing bank under the letter of credit
+or from the confirming bank under the confirmation.
+
+47 The plaintiff’s director, Mr Arjan Bhisham Chotrani (“Mr Chotrani”), was
+its only witness at trial. Mr Chotrani. Mr Chotrani accepted all of these
+preceding points in cross-examination. 50
+
+##### Foot Note 50
+
+×
+
+Certified Transcript, 19 October 2021, pp 14:6–15:6.
+
+48 It is, of course, theoretically possible for the parties expressly to agree
+that the confirmation should not, in some respect, be separate from or
+autonomous of the other contracts. But any such agreement would in practical
+terms be very unlikely, given the commercial purpose of a letter of credit and
+of a confirmation. In any event, there is no suggestion that there was any
+such agreement between this plaintiff and this defendant.
+
+49 I therefore accept the defendant’s submission that the defendant’s contract
+with the plaintiff under the confirmation is separate from and autonomous of
+the issuing bank’s contract with the plaintiff under the letter of credit.
+
+Contract formation
+
+50 The second anterior issue is how the plaintiff’s contract with the
+defendant was formed.
+
+51 For a confirmed letter of credit to fulfil its commercial purpose as a
+predictable, stable and reliable payment mechanism, it is essential that an
+issuing and a confirming bank are obliged to pay the beneficiary against a
+complying presentation. It is mercantile usage and banking custom that the
+bank is obliged to do so. The difficulty lies in explaining how the law
+obliges the bank to do so. The specific difficulty lies in explaining how the
+contract between the bank and the beneficiary is formed even if, as is
+typically the case, the beneficiary does not accept the bank’s offer to pay
+and does not supply consideration for the bank’s promise to pay.
+
+52 This difficulty does not arise when analysing contract formation for the
+other three contracts in a letter of credit transaction. Those contracts are
+classic bilateral contracts. Each is formed when offer, acceptance and
+consideration combine. The letter of credit and the confirmation, on the other
+hand, appear to bind the bank in law without any need for the beneficiary to
+accept the bank’s offer and without any need for the beneficiary to provide
+any consideration to the bank for its promise.
+
+53 One explanation is that the law obliges the bank to pay the beneficiary as
+a sui generis legal obligation (see Peter Ellinger and Dora Neo, The Law and
+Practice of Documentary Letters of Credit (Hart Publishing, 2010) (“Ellinger &
+Neo”) at p 111). Contract law simply declines to interfere with established
+mercantile usage and banking custom, given that an elaborate commercial system
+has been built upon it (see Hamzeh Malas & Sons v British Imex Industries Ltd
+[1958] 2 QB 127 at 129).
+
+54 But if the law were to leave the bank’s obligation to pay a beneficiary as
+a sui generis legal obligation, that would be to allow it to operate entirely
+outside the law of contract. The bank’s and the beneficiary’s legal rights and
+obligations would depend on mercantile usage and banking custom which may vary
+from place to place or over time. The nature and scope of those rights and
+obligations would not predictable, stable or reliable. To address this
+difficulty, several alternative explanations have been suggested to bring the
+bank’s obligation to pay a beneficiary within the law of contract.
+
+55 One explanation that has been suggested is that the applicant, when it asks
+the issuing bank to issue the letter of credit, supplies consideration at that
+time not only on its own behalf to support its contract with the issuing bank
+(the second contract (see [36] above)) but also as agent for the beneficiary
+to support the beneficiary’s separate contract with the bank (the third
+contract (see [37] above)). But, as Ellinger & Neo point out quite correctly,
+this explanation is not consistent with the intention of the parties. It is
+artificial to say that it is the objectively ascertainable intention of the
+applicant and the beneficiary – when they agree to use a letter of credit as
+the payment mechanism under their contract – that the applicant should then
+act as the beneficiary’s agent when dealing with the issuing bank.
+
+56 Another suggested explanation is that the Contracts (Rights of Third
+Parties) Act 2001 (2020 Rev Ed) (“CRTPA”) operates to extend the contractual
+benefit of the bank’s payment undertaking to the beneficiary. But the
+existence of a legal obligation owed by an issuing bank directly to a
+beneficiary under a letter of credit was established long before the CRTPA was
+enacted in Singapore, and long before its legislative equivalents were enacted
+in other jurisdictions. Furthermore, Art 4(a) of the UCP600 operates to
+exclude the CRTPA by expressly providing that a beneficiary cannot avail
+itself of the contracts between banks or between the applicant and the issuing
+bank. Yet the entire premise of the UCP600 is that an issuing and a confirming
+bank are obliged to pay a beneficiary against a complying presentation.
+
+57 Yet another suggested explanation is that a bank makes an offer of a
+unilateral contract to the beneficiary when it issues or confirms a letter of
+credit. The contractual rules applicable to unilateral contracts then operate
+to locate both acceptance and consideration in the beneficiary’s act of making
+a complying presentation under the letter of credit (see Raiffeisen
+Zentralbank Osterreich AG v China Marine Bunker (Petrochina) Co Ltd [2006]
+EWHC 212 (Comm) at [31]).
+
+58 The unilateral contract explanation is the most satisfactory explanation of
+all of the explanations that have been suggested. But even this explanation is
+not complete. Three well-established principles of contract formation pose
+difficulties when applied to a letter of credit transaction. First, an offer
+must be received by the offeree before it can be accepted so as to form a
+contract (see Henthorn v Fraser [1892] 2 Ch 27 at 37). Second, an offeror may
+revoke its offer at any time before the offeree accepts it (see Robophone
+Facilities Ltd v Blank [1966] 1 WLR 1428 at 1432D). Third, an offer of a
+unilateral contract is revocable at any time before the offeree commences
+performance in reliance on the offer (see Errington v Errington and Woods
+[1952] 1 KB 290 at 295).
+
+59 These well-established principles of contract formation pose difficulties
+in a letter of credit transaction because they contradict principles which are
+equally well-established in mercantile usage and banking custom. Thus, it is
+well-established that an issuing or a confirming bank’s offer to pay a
+beneficiary is irrevocable once it has made the offer, even if there is no
+indication to that effect in the offer itself (see Art 3 of the UCP600). The
+offer is irrevocable even if it is not in fact received by the beneficiary and
+even if the beneficiary has not commenced performance.
+
+60 Looking specifically at the position of a confirming bank, the effect of a
+confirmation is as follows (see Benjamin’s Sale of Goods (Michael Bridge gen
+ed) (Sweet & Maxwell, 11th Ed, 2021) at para 23-073):
+
+Time at which credits and amendments binding on the banks
+
+… The confirming bank is bound under the original credit “as of the time it
+adds its confirmation to the credit” … It does not, however, specify precisely
+when … a confirmation is considered to have been added. … International
+banking practice, therefore, considers the simple sending or transmitting of
+an advice of … confirmation … to constitute a legally binding, irrevocable
+unilateral offer.
+
+…
+
+… A confirmation would be “added” as at the time of sending or transmission of
+the advice of the credit including the confirmation to the beneficiary.
+Nothing in the term “add” imports that the advice should have to be received
+by the beneficiary. …
+
+…
+
+It is suggested, therefore, that … confirming banks are bound from the moment
+that the advice communicating the … confirming of a credit … is sent or
+transmitted by the relevant bank. As a matter of legal analysis, at that point
+the bank is bound by an irrevocable unilateral offer. There is no need for
+communication to or acceptance by the beneficiary. Nor is there any
+requirement for the beneficiary to provide consideration in return for the
+banks’ promises, which would be impossible prior to receipt of the relevant
+advice. This of course is incompatible with the principles of orthodox
+contract law, but documentary credits constitute a sui generis exception to
+such principles, based on internationally recognised mercantile usage.
+
+[emphasis added]
+
+61 In my view, the most satisfactory and complete contractual explanation for
+the binding force of a letter of credit and a confirmation (at least in a
+common law system) is that each of them functions in law as an offer of a
+unilateral contract subject to one, and only one, sui generis exception. That
+exception is that an issuing or confirming bank has a contractual obligation
+to the beneficiary not to revoke its offer, without any need for the
+beneficiary to receive, accept or supply consideration for the irrevocability
+of the offer. The offer is contractually irrevocable by reason of an accretion
+of judicial decision which has given contractual force to well-established
+principles of mercantile usage and banking custom.
+
+62 In that sense – and only in that sense – are the letter of credit and the
+confirmation sui generis. In all other senses, each is to be analysed as an
+offer of an orthodox unilateral contract. This has three consequences.
+
+63 First, an issuing or confirming bank is at liberty to make its offer on
+terms. These terms can include an expiry date after which the offer will
+expire. Once that date has passed, on ordinary contractual principles, the
+beneficiary can no longer accept the offer. The bank can also incorporate
+terms into its offer by reference, eg by making its letter of credit or
+confirmation subject to the UCP600 (see Kredietbank NV v Sinotani Pacific Pte
+Ltd (Agricultural Bank of China, third party) [1999] 1 SLR(R) 274 at [17]).
+
+64 Second, at the time a bank issues or confirms a letter of credit, the only
+contractual content of the bank’s act is its obligation to the beneficiary not
+to revoke its offer. This includes by implication an obligation not to alter
+the terms of its offer. That would amount to revoking the existing offer and
+making a new offer on the altered terms. Further, this means that the
+beneficiary owes no obligations whatsoever to the bank. The beneficiary is
+thus in the same position as the holder of an option, save only that it need
+not have supplied any consideration to the bank for the option and, indeed,
+need not even know about the option.
+
+65 Third, the bank’s unilateral contract with the beneficiary is formed when,
+and only when, the beneficiary makes a complying presentation to the bank. It
+is only at that point that the beneficiary accepts the bank’s offer of a
+unilateral contract and supplies consideration for the bank’s promise to pay
+against a complying presentation. Until that point, there is no contract in
+existence. All that exists is the irrevocable offer of a unilateral contract.
+Despite this being the true position in law, I refer for convenience on
+occasion (see eg [34] above) to the relationship between a bank and a
+beneficiary as a contract from the moment the bank issues or confirms a letter
+of credit.
+
+66 Applying this analysis to the facts of this case, the defendant made an
+irrevocable offer of a unilateral contract to the plaintiff in September 2019
+when it added its confirmation to each letter of credit. Each of those offers
+was separate from and autonomous of the offers of a unilateral contract which
+the issuing bank had made to the plaintiff in August and September 2019 when
+it had issued the letters of credit. Therefore, the contract which was to
+arise from the defendant’s offer was likewise separate from and autonomous of
+the contract which was to arise from the issuing bank’s offer.
+
+67 This is the fundamental point at the heart of the parties’ dispute, and one
+which the plaintiff has failed to grasp.
+
+The Sanctions Clause was a term of the defendant’s confirmations
+
+The plaintiff’s submissions
+
+68 Having analysed and determined the anterior issues identified at [28]
+above, I now turn to analyse and determine the three broad issues identified
+at [25] above. The first broad issue I must determine is whether the Sanctions
+Clause was a term of the defendant’s confirmations.
+
+69 The plaintiff submits that the Sanctions Clause was not a term of the
+defendant’s confirmations for three reasons. First, the Sanctions Clause was
+not a term of the letters of credit and therefore cannot be a term of the
+confirmation. 51
+
+##### Foot Note 51
+
+×
+
+Reply at para 13; Plaintiff’s Closing Submissions at para 133(b).
+
+Second, the defendant failed to draw the Sanctions Clause to the plaintiff’s
+attention. 52
+
+##### Foot Note 52
+
+×
+
+Plaintiff’s Closing Submissions at paras 48, 133(c) and 266(a)–(g).
+
+Third, the Sanctions Clause was not itself the subject of any offer,
+acceptance or consideration. 53
+
+##### Foot Note 53
+
+×
+
+Plaintiff’s Closing Submissions at para 273.
+
+70 I reject all of the plaintiff’s submissions. I deal with them now in turn.
+
+The Sanctions Clause did not need to be a term of the letters of credit
+
+71 The plaintiff’s first submission is that the Sanctions Clause was not a
+term of the defendant’s confirmations because it was not a term of the letters
+of credit. 54
+
+##### Foot Note 54
+
+×
+
+Reply at para 13; Plaintiff’s Closing Submissions at para 133(b).
+
+The substance of the submission is that a confirming bank is obliged, as a
+matter of law, to confirm a letter of credit in precisely the same terms as
+the issuing bank has issued it, without any additions, alterations or
+omissions. 55
+
+##### Foot Note 55
+
+×
+
+Reply at para 13; Plaintiff’s Closing Submissions at para 133(b).
+
+72 As authority for this submission, the plaintiff cites the following
+passages from Ellinger & Neo (at pp 11, 36 and 113):
+
+… The [confirming bank] advises the beneficiary that letter of credit is
+confirmed by him. … [The confirming bank’s] duties are defined in article 8 of
+UCP 600, under which the confirming bank’s undertaking is to be understood in
+the same manner as the issuer’s. …
+
+…
+
+The undertaking and duties of a confirming bank mirror the issuer’s, except
+that the confirming bank is bound as of the time it adds its confirmation and
+not from the time of the issuing of the credit. …
+
+…
+
+… the confirming bank’s obligations to the beneficiary will generally be the
+same as the issuing bank’s obligations towards the beneficiary. That is the
+purpose of confirmation: the beneficiary can look to the confirming bank as an
+alternate paymaster under the credit. …
+
+[emphasis added]
+
+73 The plaintiff’s reliance on Ellinger & Neo is misconceived for two reasons.
+
+74 First, Ellinger & Neo is not making the normative statement that a
+confirmation must be in precisely the same terms as the letter of credit being
+confirmed. Ellinger & Neo is merely making the descriptive statement that a
+confirmation is generally in the same terms as the letter of credit. That
+statement is entirely uncontroversial. The confirmation is, after all, a
+derivative of the letter of credit.
+
+75 Second, in so far as Ellinger & Neo says that the undertaking and duties of
+a confirming bank under its confirmation mirror those of the issuing bank
+under its letter of credit, it is simply making the uncontroversial point that
+the content of Arts 7(a) to (c) of UCP600 (which set out the undertaking and
+duties of an issuing bank to a beneficiary) mirror the content of Arts 8(a) to
+(c) of UCP600 (which set out the undertaking and duties of a confirming bank
+to a beneficiary). Ellinger & Neo is not making any normative point about the
+content of a confirming bank’s undertakings and duties outside the context of
+these articles of the UCP600.
+
+76 As further authority for this submission, the plaintiff cites the following
+dictum of GP Selvam J in Agritrade International Pte Ltd v Industrial and
+Commercial Bank of China [1998] 1 SLR(R) 322 (“Agritrade International”) (at
+[20]–[21]):
+
+A meta-principle
+
+20 I shall now outline an important meta-principle of law governing letters of
+credit. Banks’ letters of credit were designed to operate within a narrow
+sphere. It is that banks and beneficiaries do not have any obligations or
+rights outside the four corners of the terms of the credit. The direct effect
+of this is that banks turn a blind eye to the underlying contract and the
+substance of the transaction even though there may be a reference to the
+underlying transaction. Thus the law erects a wall of separation between the
+credit contract and the sale contract. It is done to facilitate the smooth
+operation of international trade.
+
+…
+
+21 A necessary corollary of the above two articles [ie, Arts 3 and 4 of the
+UCP (1985 Revision)] is that the contractual relationship between the issuing
+bank and the applicant for the credit cannot affect the relationship between
+the issuing bank and the beneficiary and his assignee.
+
+[emphasis added]
+
+77 GP Selvam J’s dictum is not authority for the plaintiff’s submission. The
+proposition that the plaintiff derives from this dictum is that the rights and
+obligations of any bank involved in a letter of credit transaction are only
+those rights and obligations found within the four corners of the letter of
+credit. But the letter of credit in Agritrade International was an unconfirmed
+letter of credit. GP Selvam J’s dictum was not intended to and does not
+address the position of a confirming bank in a letter of credit transaction.
+His dictum merely restates the meta-principle that the contract between the
+beneficiary and the issuing bank under a letter of credit is entirely separate
+from the contract between the beneficiary and the applicant. That statement
+too is entirely uncontroversial.
+
+78 Indeed, if I were to extend GP Selvam J’s dictum beyond the position of an
+issuing bank to address the position of a confirming bank, it would support
+the defendant’s case rather than the plaintiff’s. In the light of my analysis
+at [30]–[66] above, the proposition as extended would be that the law equally
+erects a wall of separation between the letter of credit and the confirmation
+in order to facilitate the smooth operation of international trade. Therefore,
+the contractual relationship between the beneficiary and the issuing bank
+cannot affect the contractual relationship between the beneficiary and the
+confirming bank. This is a proposition which I accept to be correct in law. It
+flows from the analysis at [42]–[49] above.
+
+79 The plaintiff’s submission is therefore fundamentally misconceived. It
+rests on the false premise that a confirmed letter of credit is a single
+contract between multiple parties. If that were true, that would mean that a
+bank asked to confirm a letter of credit always has and only has a binary
+choice. It can confirm the letter of credit, in which case it adopts the terms
+of the letter of credit in their entirety – and no other terms – to govern its
+obligation to the beneficiary. Or, if it is unwilling or unable to adopt those
+terms in their entirety, it must decline to confirm the letter of credit at
+all.
+
+80 That is not the position in law. The position is that a confirmed letter of
+credit transaction comprises multiple contracts, each of which is separate
+from and autonomous of all the other contracts (see [42]–[49] above). When an
+issuing bank advises a letter of credit to a beneficiary, it makes an offer of
+a unilateral contract to the beneficiary. When a confirming bank adds its
+confirmation to the letter of credit, it makes a separate offer of a separate
+unilateral contract to the beneficiary. That separate offer may adopt in their
+entirety the terms of the issuing bank’s offer. Indeed, it may very often do
+so. But there is no legal rule that it must do so.
+
+81 That is also not the position as a matter of mercantile usage and banking
+custom. The UCP600 Commentary makes this point as follows (at pp 397 and 414):
+
+17\. The Undertaking of a Confirming Bank.
+
+…
+
+c. Although UCP600 Article 8 is structured to parallel the undertaking of the
+issuer as stated in UCP 600 Article 7, the undertaking of a confirmer need not
+exactly parallel that of the issuer. The confirmer, for example, may add its
+undertaking for a lesser time, a lesser amount, or otherwise modify it. …
+
+…
+
+37\. Further Qualifications to the Confirmer’s Undertaking. As stated in
+addition to the conditions stated and unstated in UCP600 Article 8, a
+confirmer may condition or otherwise limit its undertaking in other respects.
+If the additional condition is express and unambiguous, it should be enforced
+unless it disaffirms any definite liability by the purported confirmer. UCP600
+Article 1 (Application of UCP) indicates that each article of UCP600 is
+binding “unless expressly modified or excluded in the credit”. The
+confirmation may, for example, limit the undertaking of the confirmer to a
+lesser amount, a lesser time, refuse to allow it to be automatically revolved,
+and require certain additional documents. It can also exclude certain types of
+risk, e.g. issuer insolvency, but not country or currency risks, which are to
+be otherwise covered by insurance. Such modifications are consistent with the
+nature of a confirmation. Were the confirmer, however, to advise its
+confirmation and indicate that its obligation is subject to it having been
+reimbursed by the issuer, that undertaking would be fundamentally inconsistent
+with the nature of a confirmation. While UCP600 can be modified by the terms
+of the confirmation, any attempt to alter the fundamental character of the
+letter of credit undertaking of the confirmer raises serious difficulties and,
+unless it is unambiguous that it is not a confirmation of a letter of credit,
+should be construed against the confirmer.
+
+[emphasis added]
+
+82 There is therefore no legal impediment to a confirming bank adding a term
+to its confirmation of a letter of credit which is not found in the letter of
+credit itself. That is so even if, in reality, there are undoubtedly very real
+commercial and even reputational constraints which will operate on banks to
+limit any such variance. This is subject only to one qualification: the term
+cannot be fundamentally inconsistent with the commercial purpose of a
+confirmation. I deal with this qualification at [102]–[107] below.
+
+The Sanctions Clause was drawn to the plaintiff’s attention
+
+83 The plaintiff’s second submission is that the Sanctions Clause was not a
+term of the confirmations because the defendant failed to draw the Sanctions
+Clause to the plaintiff’s attention. 56
+
+##### Foot Note 56
+
+×
+
+Plaintiff’s Closing Submissions at paras 48, 133(c) and 266(a)–(g).
+
+I reject the plaintiff’s submissions for three reasons.
+
+84 First, the defendant set the Sanctions Clause out expressly in its
+confirmations of the letter of credit. It was these confirmations which set
+out the terms of the defendant’s offer of a unilateral contract to the
+plaintiff. The defendant made it objectively and abundantly clear in the
+confirmations that the Sanctions Clause was a term of those two offers.
+Further, the defendant set the Sanctions Clause out expressly in all of its
+advices to the plaintiff of the post-confirmation amendments to the letters of
+credit. In other words, even if it could be argued that the defendant made a
+fresh offer of a unilateral contract to the plaintiff every time it advised
+the plaintiff of an amendment to the letter of credit, the Sanctions Clause
+formed a term also of those fresh offers.
+
+85 Mr Chotrani confirmed that he received and read all of these advices and
+confirmations at or about the time the defendant issued them. He accepted that
+he had therefore seen the Sanctions Clause at or about that time. He also
+confirmed that he understood the effect of the Sanctions Clause to be simply
+what it says on its face: that the defendant would not liable for any failure
+to pay the plaintiff against a complying presentation of documents if the
+documents involve a vessel subject to the sanctions laws and regulations of
+the US. 57
+
+##### Foot Note 57
+
+×
+
+Certified Transcript, 19 October 2021, pp 25:20–26:5; p 29:5–8; p 29:15–19; pp
+31:2–32:1; pp 32:20–33:13; p 37:7–13; p 39:4–7; pp 39:12–40:8.
+
+86 It is true that a longer version of the Sanctions Clause – containing the
+words which I have italicised below – appears in three of the advices 58
+
+##### Foot Note 58
+
+×
+
+2AB919, 2AB956 and 2AB992.
+
+which the defendant issued to the plaintiff in October 2019 when effecting
+amendments to the letters of credit:
+
+[The defendant] must comply with all sanctions, embargo and other laws and
+regulations of the U.S. and of other applicable jurisdictions to the extent
+they do not conflict with such U.S. laws and regulations (“Applicable
+Restrictions”). Should documents be presented involving any country, entity,
+vessel or individual listed in or otherwise subject to any Applicable
+Restriction, we reserve the right not to effect payment under or in connection
+with the [letter of credit] and not to handle or process the presented
+documents even if we have added confirmation to, or have agreed to honour or
+negotiate, the [letter of credit] and we shall not be liable for any delay or
+failure to pay, process or return such documents or for any related disclosure
+of information.
+
+[Emphasis added]
+
+But neither party suggests that these italicised words appearing only in three
+post-confirmation amendment advices are material in any way to the resolution
+of their dispute.
+
+87 I therefore hold that the defendant made it objectively and abundantly
+clear that the Sanctions Clause formed a term of its offer of a unilateral
+contract to the plaintiff from the time the defendant confirmed the letters of
+credit in September 2019 until the time the plaintiff made its complying
+presentations under the confirmations in November 2019.
+
+88 Second, the defendant drew the plaintiff’s attention sufficiently to the
+Sanctions Clause. The content of the Sanctions Clause was not objectively
+unusual, onerous or obscure. The defendant did not in any objective sense
+conceal or “camouflage” the Sanctions Clause in the confirmations, as the
+plaintiff alleges. 59
+
+##### Foot Note 59
+
+×
+
+Defendant’s Closing Submissions at para 266(c).
+
+The Sanctions Clause was printed in the confirmations with the same prominence
+as all the other terms of the confirmations.
+
+89 My findings as to the objective nature of the Sanctions Clause are
+supported by Mr Chotrani’s own evidence in three respects. First, he
+acknowledged that the plaintiff’s own bank included a “standard” sanctions
+clause in its covering letter to the plaintiff enclosing the advised second
+letter of credit. 60
+
+##### Foot Note 60
+
+×
+
+Certified Transcript, 19 October 2021, p 42:4–24.
+
+Second, he conceded that he understood the Sanctions Clause to mean exactly
+what it said: that the defendant would not be liable for any failure to pay if
+the transaction involved a vessel subject to US sanctions. 61
+
+##### Foot Note 61
+
+×
+
+Certified Transcript, 19 October 2021, pp 22:24–26:13, pp 28:15–29:8, pp
+32:2–33:8, p 33:9–16, pp 39:12–40:8.
+
+Finally, he conceded that he saw the Sanctions Clause at the time he received
+and read the confirmations and advices.
+
+90 For all these reasons, I hold that the defendant was under no obligation to
+draw the Sanctions Clause specifically to the plaintiff’s attention or to give
+the text of the Sanctions Clause any additional prominence in its
+confirmations in order to incorporate the Sanctions Clause as a term of its
+offers.
+
+91 Third, the plaintiff submits that the Sanctions Clause is not a term of the
+defendant’s confirmations because the only contractually “operative” 62
+
+##### Foot Note 62
+
+×
+
+Plaintiff’s Closing Submissions at paras 52, 54 and 169.
+
+part of the confirmations was the first paragraph. 63
+
+##### Foot Note 63
+
+×
+
+Plaintiff’s Closing Submissions at paras 52–54 and 64–66; Certified
+Transcript, 19 October 2021, pp 30:6–16, 32:2–33:5, 39:20–40:8.
+
+The basis for this submission is that it is only in the first paragraph that
+the defendant expressly confirmed that it would pay the plaintiff against a
+complying presentation. The plaintiff characterises the remainder of the
+defendant’s confirmations as mere “verbiage, 64
+
+##### Foot Note 64
+
+×
+
+Plaintiff’s Closing Submissions at paras 52, 54 and 169.
+
+which I assume to be a submission that it was without contractual force.
+
+92 I reject the plaintiff’s submission. In objective terms, the entirety of
+the text of the confirmations constituted the defendant’s offer of a
+unilateral contract to the plaintiff. The Sanctions Clause was included in the
+confirmations as an express term of the defendant’s offer. If Mr Chotrani
+chose to disregard the terms of the defendant’s offer beyond its first
+paragraph, his conduct is objectively unreasonable, and he did so at his own
+peril. His subjective, and in any event erroneous, view of what were the
+operative terms of the defendant’s offer is no basis in law for the
+plaintiff’s submission that the Sanctions Clause is not an operative term of
+the confirmations. The Sanctions Clause is just as much an express term of the
+defendant’s offer to the plaintiff as the defendant’s express undertaking in
+the first paragraph of the confirmations.
+
+The Sanctions Clause did not need to be the subject of any offer, acceptance
+or consideration
+
+93 The plaintiff’s third submission is that the Sanctions Clause was not a
+term of the defendant’s confirmations because the Sanctions Clause was not
+itself the subject of any offer, acceptance or consideration. 65
+
+##### Foot Note 65
+
+×
+
+Plaintiff’s Closing Submissions at para 273.
+
+In the plaintiff’s own words, the Sanctions Clause could become a term of the
+confirmations only if it was “specifically negotiated and bargained for and
+expressly agreed to by the parties”. 66
+
+##### Foot Note 66
+
+×
+
+Plaintiff’s Closing Submissions at para 209.
+
+94 I reject the plaintiff’s submission. The submission frames the Sanctions
+Clause as a variation of an existing contract. That is not the correct
+position in law. As I have established, each of the defendant’s two
+confirmations was in law an offer of a unilateral contract, separate from and
+autonomous of the letter of credit being confirmed. The confirmation was not a
+variation of the letter of credit. Nor is the Sanctions Clause a variation of
+the confirmations.
+
+95 The confirmations expressly set out the text of the Sanctions Clause. It
+was thereby a term of the defendant’s offer from the time the defendant made
+the offer. There was no need for the plaintiff to offer the Sanctions Clause
+separately, for the defendant to accept the Sanctions Clause separately or for
+the defendant to supply consideration for the Sanctions Clause separately. The
+Sanctions Clause simply existed from the time the defendant confirmed the
+letter of credit as a term of the defendant’s offer, together with all of the
+other terms of the offer. If and when the plaintiff made a complying
+presentation to the defendant, a unilateral contract would come into existence
+on all of those terms. Those terms would include the Sanctions Clause.
+
+96 This analysis of a confirmation does not put a beneficiary in an invidious
+or uncommercial position. In accordance with ordinary contractual principles,
+a beneficiary comes under no obligation to the confirming bank by virtue of
+the confirmation. It is therefore open to the beneficiary: (a) to consider the
+terms of the confirmation; (b) to compare those terms to terms which are
+customary or available from other banks; and (c) to compare those terms to the
+terms of the letter of credit. Having made that comparison, it is open to the
+beneficiary to do any one of the following: (a) to accept the confirming
+bank’s offer; (b) to bargain with the confirming bank for a fresh offer on
+improved terms; (c) to reject the confirming bank’s offer and to bargain with
+the applicant and the issuing bank to permit a different bank to confirm the
+letter of credit on improved terms; or (c) to ignore the confirmation and
+accept the issuing bank’s offer. If the beneficiary chooses to accept the
+confirming bank’s offer, it makes a presentation to the confirming bank. If
+the presentation is a complying presentation, a unilateral contract is formed
+between the beneficiary and the confirming bank. If the remaining terms of the
+confirmation are satisfied, the confirming bank becomes contractually obliged
+to pay the beneficiary against the presentation.
+
+97 For the foregoing reasons, there is no need in law – and indeed there is no
+opportunity in fact – for a beneficiary to accept expressly one out of the
+many terms of a confirming bank’s offer or to provide consideration for that
+term.
+
+Conclusion
+
+98 In conclusion, I hold that the Sanctions Clause was duly incorporated, on
+the law and on the facts, as a contractual term of both of the defendant’s
+confirmations. The defendant was at liberty to introduce the Sanctions Clause
+as a term of its confirmations even though that clause was not found in the
+letter of credit itself. The defendant made the Sanctions Clause manifest in
+the defendant’s confirmations with the necessary prominence. The Sanctions
+Clause thereafter operated as a term of the defendant’s offer of a unilateral
+contract, not as variation either of the letter of credit or of the
+confirmations.
+
+The Sanctions Clause is valid and enforceable
+
+99 The second broad issue I must determine is whether the Sanctions Clause is
+valid and enforceable. I take this as the plaintiff’s submission that the
+Sanctions Clause ought not to be construed so as to detract from the
+defendant’s fundamental obligation to pay against a complying presentation.
+
+100 The plaintiff submits that the Sanctions Clause is not valid or
+enforceable for any one of four reasons:
+
+(a) First, the Sanctions Clause is fundamentally inconsistent with the
+commercial purpose of the confirmations. 67
+
+##### Foot Note 67
+
+×
+
+Plaintiff’s Closing Submissions at paras 266(f) and 266(g).
+
+(b) Second, the Sanctions Clause confers on the defendant a high level of
+discretion in deciding whether to pay against a complying presentation. 68
+
+##### Foot Note 68
+
+×
+
+Plaintiff’s Closing Submissions at paras 124, 133(b), 252, 276(c) and 519.
+
+(c) Third, the Sanctions Clause is a “non-documentary condition” and should
+therefore be disregarded as it is inconsistent with the documentary nature of
+a letter of credit transaction. 69
+
+##### Foot Note 69
+
+×
+
+Plaintiff’s Closing Submissions at paras 278 and 280–281.
+
+(d) Finally, the Sanctions Clause is worded so broadly as to be unworkable. 70
+
+##### Foot Note 70
+
+×
+
+Plaintiff’s Opening Statement at para 19.
+
+101 I reject all four of the plaintiff’s submissions.
+
+The Sanctions Clause is not fundamentally inconsistent with the commercial
+purpose of the confirmations
+
+102 The plaintiff’s first submission is that the Sanctions Clause is not valid
+or enforceable because it is fundamentally inconsistent with the commercial
+purpose of a confirmation. 71
+
+##### Foot Note 71
+
+×
+
+Plaintiff’s Closing Submissions at paras 266(f) and 266(g).
+
+103 The commercial purpose of a confirmation is to give the beneficiary an
+alternate paymaster to which it can look to for payment, in addition to the
+issuing bank. I accept that a confirming bank cannot add a term to its
+confirmation which is fundamentally inconsistent with this commercial purpose.
+This constraint is suggested by the italicised words in the passage from para
+37 of the UCP600 Commentary which I have quoted at [81] above.
+
+104 In my view, a term is fundamentally inconsistent with the commercial
+purpose of a confirmation only if the effect of the term is directly
+contradictory to that purpose, ie if it renders a confirmed letter of credit
+no different in substance from an unconfirmed letter of credit. Thus, for
+example, a confirming bank cannot include a term in its confirmation which
+entitles it not to pay the beneficiary against a complying presentation unless
+and until the issuing bank reimburses the confirming bank. A term to this
+effect is directly contradictory to the confirming bank’s status as an
+alternate paymaster. The intended contractual purpose of a confirming bank
+becomes completely illusory. A term to this effect is therefore fundamentally
+inconsistent with the commercial purpose of a confirmation.
+
+105 As the authors of the UCP600 Commentary put it (at p 397):
+
+17\. The Undertaking of a Confirming Bank.
+
+…
+
+c. … There is, however, a limit beyond which the confirmer may not pass,
+namely it cannot confirm a credit while refusing to make payment unless it is
+reimbursed by the issuer. Such an undertaking is a contradiction in terms and
+the qualification should not be given effect where the undertaking purports to
+be a confirmation.
+
+…
+
+106 The Sanctions Clause does not contradict the fundamental commercial
+purpose of a confirmation. Even with the Sanctions Clause incorporated as a
+term of the defendant’s confirmations, the confirmations continued to give the
+plaintiff rights against the defendant which were in substance additional to
+the plaintiff’s rights against the issuing bank. The defendant remained in
+substance an alternate paymaster to the issuing bank.
+
+107 I therefore hold that the Sanctions Clause is not invalid or unenforceable
+on the ground that it is fundamentally inconsistent with the commercial
+purpose of a confirmed letter of credit.
+
+The Sanctions Clause does not confer a high level of discretion
+
+108 The plaintiff’s second submission is that the Sanctions Clause is invalid
+or unenforceable because it confers on the defendant a high level of
+discretion in deciding whether to pay against a complying presentation based
+on its internal sanctions policy. 72
+
+##### Foot Note 72
+
+×
+
+Plaintiff’s Closing Submissions at paras 124, 133(b), 252, 276(c) and 519.
+
+This level of discretion, the plaintiff submits, amounts to rendering illusory
+the irrevocable nature of the confirmation. 73
+
+##### Foot Note 73
+
+×
+
+Plaintiff’s Closing Submissions at paras 252 and 523.
+
+Narrow and wide sanctions clauses
+
+109 It is a legal and regulatory reality that a bank is obliged to comply with
+the general law. A given jurisdiction’s general law includes its sanctions
+laws and regulations. A bank’s obligation to comply with applicable laws and
+regulations can affect its ability to perform its contractual obligations.
+These obligations can include those which arise from a letter of credit or a
+confirmation. A bank which operates in multiple jurisdictions thereby subjects
+itself to multiple applicable sanctions laws and regulations which may have
+cumulative, overlapping or even contradictory effect.
+
+110 The ICC recognises this legal and regulatory reality. In an ICC paper
+titled “The Use of Sanctions Clauses in Trade Finance-Related Instruments
+Subject To ICC Rules, Including Documentary and Standby Letters of Credit,
+Documentary Collections and Demand Guarantees” (“the ICC Guidance Paper”). 74
+
+##### Foot Note 74
+
+×
+
+Plaintiff’s Closing Submissions at paras 275–276; Plaintiff’s Supplementary
+Bundle of Authorities dated 31 December 2021, Tab 20.
+
+the ICC says (at para 1.3):
+
+1.3 Sanctions may restrict a bank’s ability to perform its role under ICC
+rules. International banks may be confronted with different sanctions regimes
+imposed in the multiple jurisdictions in which they operate. As a result,
+those banks may be subject to conflicting regulatory requirements, and
+consequently be amenable to formulating internal policies to mitigate the
+resulting legal risks. Some banks have chosen to control these legal risks by
+use of sanctions clauses.
+
+111 To avoid breaching an applicable jurisdiction’s sanctions laws and
+regulations by performing a contractual obligation, a bank may incorporate a
+clause in its letters of credit and in its confirmations permitting it to
+refuse to pay against a complying presentation if doing so would breach an
+applicable jurisdiction’s sanctions laws and regulations. I shall call this
+type of sanctions clause a “narrow sanctions clause”. The ICC Guidance Paper
+expressly acknowledges that banks use narrow sanctions clauses (at para 2.1):
+
+2.1 Concerned about the implications of sanctions for their own obligations
+under trade-related transactions, and seeking to notify their counterparties,
+whether correspondent banks or beneficiaries, banks sometimes include so-
+called “sanctions clauses” in transaction documents.
+
+112 To eliminate any possibility of breaching an applicable jurisdiction’s
+sanctions laws and regulations by performing a contractual obligation, a bank
+may be tempted to go beyond a narrow sanctions clause and incorporate what I
+shall call a “wide sanctions clause”. A wide sanctions clause entitles the
+bank to refuse to pay against a complying presentation simply because doing so
+may breach the bank’s own internal sanctions policy, regardless of whether it
+would breach any applicable sanctions laws and regulations.
+
+113 A wide sanctions clause is clearly capable of introducing wholly
+undesirable uncertainty into the operation of a letter of credit or a
+confirmation. A bank’s internal sanctions policy is, by definition, internal.
+Unlike an applicable jurisdiction’s sanctions laws and regulations, an
+applicant and a beneficiary will not know, and indeed cannot know, a bank’s
+internal sanctions policy. The level of discretion that a wide sanctions
+clause affords to a bank to decline payment might well amount in substance to
+rendering a letter of credit or a confirmation de facto revocable even if it
+remains de jure and on its face irrevocable. Further, to the extent that even
+a nominated bank will not know and cannot know an issuing bank’s internal
+sanctions policy, a wide sanctions clause can introduce banking uncertainty as
+against the nominated bank. The ICC Guidance Paper makes this entirely valid
+point at paras 2.4 and 2.5:
+
+2.4 If the sanctions clauses in … letters of credit … allow the issuer a level
+of discretion as to whether or not to honour beyond the statutory or
+regulatory requirements applicable to that issuer, they bring into question
+the irrevocable and documentary nature of the letter of credit or guarantee. …
+
+2.5 Where sanctions clauses that refer to banks’ internal policy requirements
+appear in the letter of credit … the nominated bank is in a difficult position
+as it is not aware of the internal sanctions policy that the issuing bank
+might elect to apply. … As a result, a nominated bank’s risk assessment is
+likely not only to include the issuing bank and the country risk, but also the
+assessment of the likelihood of a prohibited reimbursement due to sanctions
+regulations or an internal, sanctions-related policy. This may result in
+increased costs, delays and potential disputes.
+
+114 The plaintiff submits that the ICC Guidance Paper “condemns” the use of
+sanctions clauses. 75
+
+##### Foot Note 75
+
+×
+
+Plaintiff’s Closing Submissions at paras 274–277.
+
+That is not correct. In fact, the Guidance Paper notes the use of narrow
+sanctions clauses (see [111] above) without condemning them. And, in so far as
+the ICC Guidance Paper deprecates the use of narrow sanctions clauses, it does
+so not because they render a letter of credit or a confirmation de facto
+revocable. It does so only because they are in the authors’ view unnecessary
+in that they do no more than state the obvious, ie that a bank is entitled not
+to pay against a complying presentation if that would put it in breach of the
+general law. The authors’ concern is that including a narrow sanctions clause,
+given that it is unnecessary, may cause confusion or may even expose the bank
+to legal liability (at paras 1.4 and 2.2):
+
+1.4 Sanctions laws and regulations to which a bank engaged in a trade finance-
+related instrument is subject may include those of its country of operation,
+its country of incorporation or registration, the country of the currency or
+the place of payment, and any other jurisdiction whose laws govern the
+transaction. Where they are determined to be applicable to the instrument,
+sanctions laws and regulations are generally considered as being mandatory and
+thus may override the ICC rules applicable to that instrument and, more
+generally, the contractual terms of the instrument. If these are the only
+sanctions laws and regulations applicable to the parties, adding a clause in a
+trade finance-related instrument stating the bank’s commitment to respect such
+sanctions law or regulation applicable to it by law may be unnecessary and
+lead to confusion. In some circumstances, banks may even face legal liability
+in some countries if mandatory laws prohibit the use of such clauses on
+grounds of discrimination …
+
+…
+
+2.2 There is no standard for these clauses and they vary considerably in their
+scope. Where they simply state: “[The bank] is under a statutory duty to
+comply with sanctions laws and regulation mandatorily applicable to [it]”,
+they are merely informational and do not extend beyond applicable laws and
+regulation.
+
+115 As for wide sanctions clauses, it is true that the ICC Guidance Paper
+expresses greater concern about their use. But even then, it does not condemn
+wide sanctions clauses. It merely recommends against their use (see para 4.1):
+
+4.1 It is recommended that banks should refrain from issuing trade finance-
+related instruments that include sanctions clauses that purport to impose
+restrictions beyond, or conflict with, the applicable statutory or regulatory
+requirements. …
+
+116 The question which now arises is whether, and to what extent, the ICC
+Guidance Paper affects the contractual force to be given to the Sanctions
+Clause.
+
+The Sanctions Clause is a narrow sanctions clause
+
+117 The defendant’s Sanctions Clause, in so far as it is relevant for present
+purposes, entitles the defendant not to pay the plaintiff against a complying
+presentation if the documents presented involve a vessel subject to US
+sanctions laws and regulations. In my view, this is a narrow sanctions clause.
+It is clear beyond doubt that, as a US bank, the defendant is subject to US
+laws and regulations, including US sanctions laws and regulations. The content
+of the Sanctions Clause does not go beyond the statutory or regulatory
+obligations imposed on the defendant by US sanctions laws and regulations. The
+clause does not amount in substance to giving the defendant a discretion
+whether to pay against a complying presentation which renders its confirmation
+de facto revocable.
+
+118 Furthermore, in so far as the defendant did in fact rely on its internal
+sanctions policy when it carried out the sanctions screening, it did so merely
+to ascertain whether the documents presented involved a vessel subject to US
+sanctions laws and regulations. Put another way, the defendant did not rely on
+its sanctions policy to go beyond the content of US sanctions laws and
+regulations. Instead, it relied on its sanctions policy merely for the
+procedure which it used to identify whether the vessel carrying the coal sold
+to the buyer came within the content of US sanctions laws and regulations.
+
+119 I therefore hold that the Sanctions Clause is not invalid or unenforceable
+on the ground that it confers a discretion on the defendant which makes the
+defendant’s confirmation de facto revocable.
+
+The Sanctions Clause is not a non-documentary condition
+
+120 The plaintiff’s third submission is that the Sanctions Clause is a “non-
+documentary condition” and is therefore invalid or unenforceable as being
+inconsistent with the documentary nature of a letter of credit transaction. 76
+
+##### Foot Note 76
+
+×
+
+Plaintiff’s Closing Submissions at paras 278 and 280–281.
+
+121 A non-documentary condition is a term of a letter of credit or of a
+confirmation which does not relate to the presentation of a document. The
+plaintiff’s submission is that the Sanctions Clause is a non-documentary
+condition because it is a term of the defendant’s confirmation which does not
+require the beneficiary to tender a stipulated document in order to make a
+complying presentation. It is true that the Sanctions Clause does not require
+the plaintiff to tender a document. But the plaintiff’s submission that the
+Sanctions Clause is on that ground a non-documentary condition is based on a
+fundamental misunderstanding of the scope and purpose of the rule against non-
+documentary conditions.
+
+122 For a letter of credit transaction to fulfil its commercial purpose as a
+payment mechanism, it is essential: (a) that the beneficiary know with
+certainty what it must do to secure payment from the issuing or confirming
+bank; and (b) that the issuing and confirming banks know with equal certainty
+when they are obliged to pay the beneficiary. It is for that reason that the
+governing principle as between the banks and both the applicant and the
+beneficiary is that banks deal with documents, not with goods, services or the
+performance of any obligations to which the documents may relate (see Art 5 of
+the UCP600). Furthermore, Art 16 of the UCP600 obliges banks to examine only
+the documents which the beneficiary presents to determine whether the
+beneficiary has made a complying presentation. In this way, the issuing bank
+(together with the letter of credit) and the confirming bank (together with
+its confirmation) are insulated legally and commercially from any dispute
+between applicant and beneficiary under their contract or between one or both
+of them and a third party such as an insurer or a shipper. The rule against
+non-documentary conditions exists because these conditions create a high risk
+of puncturing that insulation and undermining the certainty which all parties
+require.
+
+123 The Sanctions Clause does not come within the scope of the rule
+prohibiting non-documentary conditions and does not engage the purpose of that
+rule. The Sanctions Clause does not govern what the plaintiff must do in order
+to make a complying presentation under the letter of credit or under the
+confirmation. Indeed, it is not in dispute that the plaintiff did make a
+complying presentation in November 2019, at least on the second attempt. The
+Sanctions Clause therefore creates no uncertainty about what sort of
+presentation entitles the plaintiff to be paid and obliges the defendant to
+pay. The Sanctions Clause operates post-presentation to permit the defendant
+not to pay the plaintiff against a complying presentation if the documents
+involve a vessel subject to the sanctions laws and regulations of the United
+States of America. That is a condition of payment, but is not a non-
+documentary condition of payment in the sense that that term is used as a term
+of art.
+
+124 I therefore hold that the Sanctions Clause is not invalid or unenforceable
+on the ground that it is a non-documentary condition.
+
+The Sanctions Clause is not unworkable
+
+125 The plaintiff’s final submission is that the Sanctions Clause is worded so
+broadly as to be unworkable. 77
+
+##### Foot Note 77
+
+×
+
+Plaintiff’s Opening Statement at para 19.
+
+That is because the phrase “…all sanctions … laws and regulations of the U.S
+and of other applicable jurisdictions to the extent that they do not conflict
+with such U.S laws and regulations…” makes the laws of every jurisdiction in
+the world applicable to permit the defendant not to pay against a complying
+presentation, excluding only those that conflict with US sanctions laws and
+regulations. 78
+
+##### Foot Note 78
+
+×
+
+Plaintiff’s Opening Statement at para 19.
+
+126 I reject this submission for two reasons.
+
+127 First, the plaintiff appears to think that this phrase sets out the
+governing law of the confirmations. It does not. This phrase serves to
+delineate the sanctions laws and regulations with which the defendant is
+obliged to comply when it issues a letter of credit or confirms a letter of
+credit. This phrase does not make any of those laws, let alone all of them,
+the governing law of the confirmations. There is no dispute that the governing
+law of the confirmations is Singapore law. 79
+
+##### Foot Note 79
+
+×
+
+Plaintiff’s Opening Statement at paras 20–30; Defendant’s Closing Submissions
+at para 172.
+
+128 Second, this submission gives no meaning to the word “applicable” in this
+phrase. The plaintiff submits that, on the facts of this case, there are four
+possible sanctions laws and regulations involved: Dubai, where the issuing
+bank is located; (b) Indonesia, where the coal was loaded; (c) Pakistan, where
+the coal was delivered; and (d) Singapore, where the plaintiff and the
+defendant are located. 80
+
+##### Foot Note 80
+
+×
+
+Plaintiff’s Closing Submissions at para 119.
+
+This argument is misconceived. In interpreting this phrase in the Sanctions
+Clause, I must bear in mind the commercial purpose of the clause (see MCH
+International Pte Ltd and others v YG Group Pte Ltd and others and other
+appeals [2019] 2 SLR 837 at [26]). The commercial purpose of the clause is to
+address an extra-contractual legal and regulatory compliance risk which the
+defendant undertakes when confirming a letter of credit. That risk is
+multiplied for the defendant for two reasons. First, because it is
+incorporated and has its head office in a jurisdiction which has a long and
+growing suite of sanctions laws and regulations. Second, because of the number
+of jurisdictions worldwide in which the defendant operates. As such, the
+phrase “other applicable jurisdictions” must mean the sanctions laws other
+than US sanctions laws which are applicable to the branch of the defendant
+which issues or confirms a letter of credit.
+
+129 That narrows the applicable sanctions laws regulations in any given case
+to those of a finite number of readily ascertainable jurisdictions. In this
+case, there are only two applicable sanctions laws: (a) US sanctions laws and
+regulations, because the defendant is a bank incorporated and regulated in the
+US; and (b) Singapore sanctions laws and regulations, because it is the
+defendant’s Singapore branch which confirmed the letters of credit. On no
+reasonable interpretation of the Sanctions Clause are the sanctions laws and
+regulations of Dubai, Indonesia or Pakistan within the scope of the clause on
+the facts of this case.
+
+130 I therefore hold that the Sanctions Clause is not unworkably wide by
+reason of the phrase “…all sanctions … laws and regulations of the U.S and of
+other applicable jurisdictions to the extent that they do not conflict with
+such U.S laws and regulations…”.
+
+The Sanctions Clause entitles the defendant to refuse to pay the plaintiff
+
+131 I have found thus far that the Sanctions Clause is not only a term of the
+defendant’s confirmations but is a valid and enforceable term of the
+confirmations.
+
+132 The final broad issue I must determine is whether, on the facts of this
+case, the Sanctions Clause entitled the defendant to refuse to pay the
+plaintiff against its complying presentation. I have determined this issue in
+favour of the defendant for three reasons: (a) the defendant’s Singapore
+branch is not a legal entity distinct from its US branches; (b) the defendant
+is subject to US sanctions laws and regulations in relation to its operations
+worldwide including through its Singapore branch; and (c) paying the plaintiff
+would have exposed the defendant to a penalty for breaching US sanctions laws
+and regulations as those laws and regulations are published, interpreted,
+applied and enforced.
+
+133 I now set out my reasons for coming to these conclusions.
+
+The defendant is a single legal entity worldwide
+
+134 The Sanctions Clause comprises two sentences. The first sentence states
+that the defendant is obliged to comply with US sanctions laws and
+regulations. The second sentence, for present purposes, entitles the defendant
+to refuse to pay the plaintiff against a complying presentation if the
+documents involve a vessel subject to US sanctions laws and regulations.
+
+135 The first sentence of the Sanctions Clause is merely a statement. It
+grants no rights and imposes no obligations. It has no contractual content. It
+is only the second sentence of the Sanctions Clause which grants the defendant
+an entitlement. It is only the second sentence which has contractual content.
+
+136 As the Sanctions Clause is drafted, the first sentence is not expressed to
+be a condition precedent to the defendant’s entitlement under the second
+sentence. Whether the defendant is in fact obliged to comply with US sanctions
+laws and regulations therefore has no contractual bearing on whether the
+defendant is entitled to refuse to pay the plaintiff against a complying
+presentation. It is not a condition precedent to relying on that contractual
+entitlement that the defendant prove that the statement which the first
+sentence makes is true. The plaintiff has nevertheless taken the point that
+that statement is not true, and the defendant has responded to it. I therefore
+begin with an analysis of this point.
+
+137 The plaintiff’s submission on this point is as follows. The defendant is
+the Singapore branch of a bank incorporated and regulated in the US. There is
+therefore a legal distinction between the defendant’s Singapore branch and the
+defendant’s US branches. Only the defendant’s US branches have an obligation
+to comply with US sanctions laws and regulations. The defendant, being the
+defendant’s Singapore branch, has no such obligation. The first sentence of
+the Sanctions Clause is therefore untrue in respect of the defendant’s
+Singapore branch.
+
+138 To the extent that this point is relevant at all, I reject the plaintiff’s
+submission on it. I accept instead the defendant’s submission that a branch of
+a bank – just like the branch of a foreign corporation carrying on any other
+business – is not a legal entity separate from the foreign corporation itself.
+The head office of a foreign corporation in its place of incorporation and all
+of its branches worldwide are simply geographically distributed manifestations
+of a single legal entity (see TMT Co Ltd v The Royal Bank of Scotland plc
+(trading as RBS Greenwich Futures) and others [2018] 3 SLR 70 at [53]). 81
+
+##### Foot Note 81
+
+×
+
+Defendant’s Closing Submissions at para 131.
+
+139 The plaintiff cites Art 3 of the UCP600 in support of its submission on
+this point. Article 3 provides that branches of a bank in different countries
+are considered to be separate banks. The plaintiff argues that the effect of
+Art 3 is that the defendant’s Singapore branch is a legal entity distinct from
+its US branches for the purposes of the Sanctions Clause. It is therefore
+obliged to comply only with Singapore law and has no obligation to comply with
+US law, including US sanctions laws and regulations. 82
+
+##### Foot Note 82
+
+×
+
+Plaintiff’s Opening Statement at paras 24–25 and 27; Plaintiff’s Closing
+Submissions at paras 23–32.
+
+140 Article 3 of the UCP600 does not support the plaintiff’s submission.
+Article 3 merely prescribes that, for the purposes of a letter of credit
+transaction, the branches of a bank in different countries are to be
+considered separate banks (see UCP600 Commentary at p 241). The effect of
+Article 3 is purely contractual: it is a legal fiction which takes effect only
+as a term of a contract which is subject to the UCP600. Further, it applies
+only to rights and obligations which arise under the contract. Article 3 has
+no application to questions of status or to obligations which arise under the
+general law. Article 3 does not – and indeed cannot – prescribe as a matter of
+general law that the branches of a bank in a particular country have for all
+purposes the status of a legal entity which is separate from the bank’s
+branches in every other country.
+
+141 The plaintiff also relies for this submission on the fact that: (a) the
+defendant is registered in Singapore as a foreign company under the Companies
+Act 1967 (2020 Rev Ed); and (b) the defendant’s branches in Singapore are
+licensed and regulated collectively as a “bank in Singapore” under the Banking
+Act 1970 (2020 Rev Ed). 83
+
+##### Foot Note 83
+
+×
+
+Plaintiff’s Closing Submissions at paras 25 to 28.
+
+But the only effect of these provisions is to require a foreign corporation
+which intends to carry on business as a bank in Singapore to do so in
+compliance with both Singapore’s company law and Singapore’s banking law. It
+is misconceived to argue that these provisions give a foreign bank’s Singapore
+branch the status of a legal entity separate from the foreign bank’s branches
+in every other jurisdiction. It is even more misconceived to argue that these
+provisions somehow insulate a foreign corporation carrying on business in
+Singapore as a bank from the law of every other jurisdiction in respect of its
+activities in Singapore.
+
+142 I therefore hold that the defendant’s branches outside the US, including
+its Singapore branch, and its US branches are a single legal entity. I hold
+also that the fact that the defendant’s Singapore branch is licensed and
+regulated in Singapore does not insulate the defendant’s activities through
+its Singapore branch from being subject to a law other than Singapore law.
+
+The defendant is subject to US sanctions laws
+
+143 The next question which arises is whether US sanctions laws and
+regulations are intended to apply to the defendant’s activities though its
+branches in Singapore. This is a question of US law, ie foreign law.
+
+Proof of foreign law
+
+144 The principles relating to proof of foreign law are not disputed, and can
+be briefly stated:
+
+(a) The content of foreign law is a question of fact which must be proved (see
+Malayan Banking Bhd v Bakri Navigation Co Ltd and another [2020] 2 SLR 167 at
+[59]). That is because the court lacks knowledge of foreign law and must be
+informed of its content by the evidence of witnesses. The court cannot simply
+take judicial notice of foreign law (see EFT Holdings, Inc and another v
+Marinteknik Shipbuilders (S) Pte Ltd and another [2014] 1 SLR 860 at [57]), at
+least not in the absence of a statutory basis for doing so.
+
+(b) The party asserting foreign law bears the burden of proving it as an issue
+of fact (see Star Cruise Services Ltd v Overseas Union Bank Ltd [1999] 2
+SLR(R) 183 at [77]).
+
+(c) Foreign law can be proved either by directly adducing raw sources of
+foreign law in evidence where permitted by statute (see ss 39(b), 39(c), 40,
+59(1)(b), 80(1)(c) and 80(2) of the Evidence Act 1893 (2020 Rev Ed)) or by
+adducing the opinion of an expert in the foreign law (see Pacific Recreation
+Pte Ltd v S Y Technology Inc and another appeal [2008] 2 SLR(R) 491 (“Pacific
+Recreation”) at [54]).
+
+(d) The court is not obliged to accord raw sources of foreign law any
+evidentiary weight. This is because the content of the raw source, approached
+on its own, may mislead persons not familiar with that system of law (see
+Pacific Recreation at [60] and [78]).
+
+(e) As such, raw sources of foreign law should be accompanied by expert
+evidence on the foreign law. Expert evidence may be especially helpful where,
+for instance, the foreign legislation has no equivalent in our own
+legislation, or where the issue is of great complexity or is the subject of
+controversy in the foreign jurisdiction (see Pacific Recreation at [60]).
+
+(f) Where expert evidence of the foreign law is uncontradicted, the court will
+normally be reluctant to reject it. In any event, the court is not entitled to
+do so based on its own research. A court will normally accept uncontradicted
+expert evidence unless it is, for example, obviously false, obscure,
+extravagant, lacking in obvious objectivity and impartiality or patently
+absurd (see Re Gerald Martin Smith Serious Fraud Office and another v
+Litigation Capital Ltd (a company incorporated in the Marshall Islands) and
+others [2021] EWHC 1272 (Comm) at [512]).
+
+The expert evidence of US law
+
+145 The plaintiff chose not to call an expert witness on US sanctions laws and
+regulations. The sole expert witness on US sanctions laws and regulations was
+therefore the defendant’s expert, Mr Brian James Egan (“Mr Egan”).
+
+146 Mr Egan is an attorney at law admitted to practice in the District of
+Columbia. He was a partner in the US law firm Steptoe & Johnson LLP at the
+time of his report. By the time of the trial in October 2021, he had left
+Steptoe & Johnson LLP to join the US law firm Skadden, Arps, Slate, Meagher &
+Flom LLP.
+
+147 Mr Egan has considerable expertise in public international law and in US
+law relating to economic sanctions, export controls and national security. Mr
+Egan also has experience working in the US Department of the Treasury. 84
+
+##### Foot Note 84
+
+×
+
+Brian Egan’s AEIC at pp 4–5.
+
+That is the arm of the US government which implements, administers and
+enforces US sanctions laws and regulations. It carries out this function
+through a division known as the Office of Foreign Assets Control (“OFAC”). 85
+
+##### Foot Note 85
+
+×
+
+Brian Egan’s Expert Report at para 4(a).
+
+148 Mr Egan’s expert evidence is set out in his affidavit of evidence in chief
+and supplementary affidavit of evidence in chief. At trial, Mr Egan
+supplemented his affidavits with oral evidence in chief, given with leave. I
+also put some questions to Mr Egan in the course of his oral evidence in
+chief, without objection from either party.
+
+149 The substance and content of Mr Egan’s expert evidence is uncontradicted
+and unchallenged. The plaintiff did put written questions to Mr Egan before
+trial. The written questions which the plaintiff chose to put to Mr Egan did
+not in any way touch on the substance or the content of his expert evidence.
+The questions went instead solely to his credibility. They related principally
+to: (a) Mr Egan’s terms of reference and the circumstances in which he had
+produced his expert report; (b) any prior connection Mr Egan might have with
+the defendant; and (c) the remuneration which Mr Egan’s firm had already
+received and was going to receive for his expert opinion. None of the answers
+which Mr Egan gave to these questions affected his credibility in the
+slightest.
+
+150 At trial, the plaintiff elected not to put any questions by way of viva
+voce cross-examination to Mr Egan at all, 86
+
+##### Foot Note 86
+
+×
+
+Certified Transcript, 28 October 2021, p 29:11–14.
+
+whether in relation to his affidavits of evidence in chief, in relation to his
+oral evidence in chief or in relation to the answers he gave at trial to my
+questions to him.
+
+151 I accept Mr Egan’s evidence in its entirety. I make my findings on US law
+entirely in accordance with his evidence. I do so not just because the
+substance and content of his evidence is uncontradicted and unchallenged. I do
+so also because I found him to be a thorough, knowledgeable, credible and
+impartial witness. His evidence was accordingly of great assistance on the
+issues of fact about the content of US sanctions laws and regulations and how
+those laws and regulations are published, interpreted, applied and enforced.
+
+152 All statements about US sanctions laws and regulations in the remainder of
+this judgment amount to my findings of fact arising from my decision to accept
+Mr Egan’s evidence in its entirety.
+
+The implementation of US sanctions against Syria
+
+153 The US government maintains a suite of sanctions against many countries.
+These sanctions are imposed either by an order issued by the executive of the
+US federal government or by a statute passed by the legislature of the US
+federal government. But these orders and statutes impose sanctions only in
+broad terms. The detailed content of US sanctions, regardless of who imposes
+them, is implemented through comprehensive regulations published by OFAC.
+These regulations also set out the procedures by which OFAC investigates and,
+if warranted, imposes civil penalties for any breach of US sanctions. 87
+
+##### Foot Note 87
+
+×
+
+Brian Egan’s Expert Report at paras 9 and 11.
+
+154 The content of US sanctions against Syria is set out in Executive Order
+13582 (August 17, 2011) issued by the US President and the Syrian Sanctions
+Regulations 31 CFR (US) § 542 (2014) (“SySR”) issued by OFAC. 88
+
+##### Foot Note 88
+
+×
+
+Defence (Amendment No. 3) at paras 24–30; Brian Egan’s Expert Report at paras
+15–31.
+
+The persons obliged to comply with US sanctions against Syria
+
+155 The SySR applies only to a “US person”. Section 319 of the SySR defines a
+US person as, inter alia, any “entity organised under the laws of the United
+States or any jurisdiction within the United States (including foreign
+branches)”. 89
+
+##### Foot Note 89
+
+×
+
+Brian Egan’s Expert Report at para 26; Defendant’s Bundle of Authorities
+(“DBOA”), Tab 1, p 17. See also Executive Order 13582 at Section 8(c) (DBOA,
+Tab 2, p 38).
+
+Therefore, the defendant and all of its branches worldwide is a “US person”
+within the meaning of the SySR. 90
+
+##### Foot Note 90
+
+×
+
+Brian Egan’s Expert Report at paras 7, 26 and 32–35.
+
+This includes the defendant’s Singapore branch.
+
+156 OFAC may exempt a US person from the SySR or authorise a US person to
+participate in transactions despite the sanctions. 91
+
+##### Foot Note 91
+
+×
+
+Brian Egan’s Expert Report at paras 28–29.
+
+The defendant did not at any time have a relevant exemption or authorisation
+from OFAC.
+
+157 On the basis of Mr Egan’s evidence, I accept that the SySR requires the
+defendant’s Singapore branch to comply with the US sanctions programme against
+Syria, even in respect of its activities in Singapore, even with persons with
+no connections to the US, and even in respect of activities which are governed
+only by Singapore law as a matter of private law. I have already rejected the
+plaintiff’s misconceived submission (see [141] above) that the defendant’s
+Singapore branch – as a foreign corporation carrying on business as a bank in
+Singapore licensed and regulated under Singapore law – is entitled to do so
+only in compliance with Singapore law and therefore without regard for US law.
+
+158 For the foregoing reasons, in so far as there is any contractual content
+to the first sentence of the Sanctions Clause whatsoever, I am satisfied that
+the statement which that sentence makes is true: the defendant is obliged as a
+matter of US law to comply with US sanctions laws and regulations.
+
+Paying the plaintiff would have breached US sanctions
+
+159 The next issue I must determine is whether the defendant can avail itself
+of the benefit of the Sanctions Clause. Each party frames the defendant’s
+burden on this issue in fundamentally different terms. The plaintiff submits
+that the defendant must prove on the balance of probabilities that Omnia was
+in fact owned by a Syrian entity at the material time. 92
+
+##### Foot Note 92
+
+×
+
+Plaintiff’s Opening Statement at para 36; Plaintiff’s Closing Submissions at
+para 283.
+
+The defendant submits that it suffices for it to prove that OFAC would have
+held that paying the plaintiff against its complying presentation would be a
+breach of the SySR. 93
+
+##### Foot Note 93
+
+×
+
+Defendant’s Closing Submissions at para 199.
+
+160 On the proper interpretation of the Sanctions Clause, I accept that the
+defendant’s framing of the factual question is correct. To analyse that
+factual question, I begin by summarising the content of the US sanctions
+against Syria. Once again, the summary which follows is taken from Mr Egan’s
+evidence and represents my findings of fact.
+
+The content of US sanctions against Syria
+
+161 The SySR prohibits US persons from being involved, directly or indirectly,
+in several broad categories of transactions and related activities with
+respect to Syria, the Government of Syria, and specific persons who are
+blocked under US sanctions on Syria. 94
+
+##### Foot Note 94
+
+×
+
+Brian Egan’s Expert Report at para 25; DBOA, Tab 1, pp 8–10 and 13.
+
+162 Section 207 of the SySR prohibits a US person, wherever located, from
+supplying services directly or indirectly to Syria. 95
+
+##### Foot Note 95
+
+×
+
+Brian Egan’s Expert Report at para 25(c); paras 55–56.
+
+The term “services” includes financial services. Supplying services to Syria
+includes rendering services anywhere in the world where “the benefit of such
+services is…received in Syria”. 96
+
+##### Foot Note 96
+
+×
+
+Brian Egan’s Expert Report at para 25(c); para 55.
+
+163 Section 210 of the SySR prohibits a US person from financing, facilitating
+or guaranteeing a transaction by a foreign person where that transaction, if
+undertaken by a US person, would be prohibited by the SySR. 97
+
+##### Foot Note 97
+
+×
+
+Brian Egan’s Expert Report at para 25(e) and para 56.
+
+164 A confirming bank who pays a beneficiary against a complying presentation
+of documents, where the documents relate to goods which are or were carried on
+a vessel owned by a Syrian entity, breaches the SySR because it thereby
+supplies financial services either directly or indirectly where the benefit of
+the financial services is received in Syria. 98
+
+##### Foot Note 98
+
+×
+
+Brian Egan’s Expert Report at para 55.
+
+The rules relating to contractual interpretation
+
+165 I now turn to the proper interpretation of the Sanctions Clause. The
+applicable principles of contractual interpretation are not disputed and can
+be briefly restated:
+
+(a) The purpose of contractual interpretation is to give effect to the
+objectively ascertained intention of the contracting parties as it emerges
+from the relevant contractual language read in context (see Yap Son On v Ding
+Pei Zhen [2017] 1 SLR 219 at [30]).
+
+(b) The starting position is to consider the relevant text of the contractual
+term (see Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd [2015]
+5 SLR 1187 (“Y.E.S. F&B Group”) at [32]).
+
+(c) In determining whether the text of the term is plain and unambiguous, the
+court can consider the context in which it was used. However, the context must
+be clear, obvious and known to both parties. Accordingly, the subjective
+intention of the parties is irrelevant (see Y.E.S. F&B Group at [33], [39] and
+[74]).
+
+(d) Where the text is plain and unambiguous, the court ought to give effect to
+that meaning since it will usually not lead to an absurd result (see Y.E.S.
+F&B Group at [31]).
+
+(e) It is only where, in light of extrinsic material which is evidence of its
+context, the plain language of the term becomes absurd or ambiguous (ie, it
+takes on another plausible meaning) that the court will be entitled to put an
+interpretation on the term in question which is different from that demanded
+by its plain language (Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior
+Design & Construction Pte Ltd [2008] 3 SLR(R) 1029 at [130]).
+
+Interpreting the Sanctions Clause
+
+166 I now apply these principles to the Sanctions Clause.
+
+167 The Sanctions Clause entitles the defendant to refuse to pay the plaintiff
+against a complying presentation if the documents involve a vessel subject to
+“any applicable restriction”. The first sentence of the Sanctions Clause
+defines “applicable restrictions” to mean, on the facts of this case, “all
+sanctions…laws and regulations of the U.S.”.
+
+168 The question which arises is this: what is the scope of the phrase “all
+sanctions…laws and regulations of the U.S.”? The SySR and the executive order
+under which it has been published are clearly within the scope of the phrase.
+But I must also have regard to the commercial purpose of the Sanctions Clause.
+That purpose is to mitigate or eliminate the regulatory, reputational and
+financial risk that bank faces if it breaches US sanctions laws and
+regulations or is found by OFAC to have breached US sanctions laws and
+regulations.
+
+169 I therefore accept the defendant’s submission 99
+
+##### Foot Note 99
+
+×
+
+Certified Transcript, 28 February 2022, p 60:6–26.
+
+that the scope of the phrase “all sanctions…laws and regulations of the U.S.”
+– read in context and in light of the commercial purpose of the Sanctions
+Clause – must include the entire regulatory superstructure and infrastructure
+of the US sanctions laws and regulations. On the facts of this case, the
+phrase must therefore include not only the SySR which implements the content
+of US sanctions on Syria but also OFAC’s guidelines on the standards it
+expects US persons to adhere to in order to avoid breaching US sanctions and
+OFAC’s approach to investigating and penalising breaches of US sanctions, as
+summarised at [171]–[182] below.
+
+170 Therefore, I hold that the defendant can avail itself of the benefit of
+the Sanctions Clause if the defendant can prove that OFAC would have found
+that the defendant’s act of paying the plaintiff against its complying
+presentation would be a breach the SySR.
+
+OFAC’s approach to investigating and penalising breaches of the SySR
+
+171 I must now consider OFAC’s approach to investigating and penalising
+breaches of the SySR. That approach must also be seen in light of OFAC’s
+expectations of the conduct of US persons in order to avoid any such breach.
+The position can be summarised as follows, again from Mr Egan’s evidence. 100
+
+##### Foot Note 100
+
+×
+
+Brian Egan’s Expert Report at paras 6 and 25.
+
+172 OFAC has very wide powers to investigate what it calls “apparent
+violations” of the SySR. These powers include the power to issue subpoenas to
+gather evidence. 101
+
+##### Foot Note 101
+
+×
+
+Certified Transcript, 28 October 2021, pp 6:2–17.
+
+173 If, as a result of OFAC’s investigations, it forms the view that a US
+person has committed a wilful breach of US sanctions, it is empowered to refer
+the breach to the US Department of Justice for further investigation through
+the US Federal Bureau of Investigation. If warranted, the Department of
+Justice will then prosecute the US person for a criminal breach of the
+sanctions in federal court. 102
+
+##### Foot Note 102
+
+×
+
+Brian Egan’s Expert Report at paras 9, 11 and 62; Certified Transcript, 28
+October 2021, pp 3:18–4:14.
+
+174 Having said that, OFAC deals with most breaches of US sanctions by
+exercising its power to impose a civil penalty. The first step towards
+imposing a civil penalty is for OFAC to issue what it calls a “pre-penalty
+notice” to the US person suspected of the breach. The pre-penalty notice will
+set out: (a) why OFAC considers that the US person has breached the sanctions;
+and (b) the civil penalty which OFAC proposes to impose on the US person for
+the breach.
+
+175 The US person can respond to the pre-penalty notice by providing
+exculpatory or mitigating information to OFAC in an effort to persuade it
+either: (a) to withdraw the pre-penalty notice altogether; or (b) to reduce
+the proposed penalty. If OFAC considers that the US person’s response does not
+warrant withdrawal of the pre-penalty notice, it will issue what is called a
+final penalty notice. This notice will set out OFAC’s determination that the
+US person is in breach of US sanctions and fix the civil penalty payable for
+the breach. 103
+
+##### Foot Note 103
+
+×
+
+Certified Transcript, 28 October 2021, pp 6:16–7:10.
+
+Liability for a civil penalty is strict. A US person can be liable to suffer a
+civil penalty even if that US person breached US sanctions without any fault
+whatsoever.
+
+176 A pre-penalty notice signals OFAC’s view that the US person has in fact
+breached US sanctions and that the breach warrants the issue of a final
+penalty notice. Therefore, any US person who is the subject of an OFAC
+investigation into an apparent violation will attempt to forestall even a pre-
+penalty notice from being issued. It will do this by co-operating from the
+earliest stages with OFAC’s investigation and by volunteering evidence. 104
+
+##### Foot Note 104
+
+×
+
+Certified Transcript, 28 October 2021, pp 9:14–10:5.
+
+177 A US person who is subject to a final penalty notice has a right to
+challenge OFAC’s determination in the federal courts. A challenge to a final
+penalty notice is very likely to fail. That is because the challenge takes
+place under US federal administrative law. The approach on a challenge is that
+the federal court gives great deference to OFAC, as the administrator of the
+US sanctions programme, to state authoritatively the US Government’s position
+on the interpretation of its regulations unless the interpretation is
+manifestly unreasonable, arbitrary or capricious. 105
+
+##### Foot Note 105
+
+×
+
+Brian Egan’s Expert Report at para 11; Certified Transcript, 28 October 2021,
+pp 7:11–8:9.
+
+178 OFAC also issues guidance on the standards of due diligence it expects US
+persons to adhere to in order to identify sanctioned entities and to avoid
+breaching US sanctions. 106
+
+##### Foot Note 106
+
+×
+
+Brian Egan’s Expert Report at paras 45–52.
+
+Under these guidelines, OFAC expects a US person to conduct due diligence on
+its customers, supply chain, intermediaries, and counterparties. The guidance
+also identifies common causes of sanctions breaches, including improper or
+incomplete due diligence checks and inadequate awareness or knowledge of US
+sanctions law and OFAC regulations.
+
+179 Mr Egan provides two illustrations of OFAC’s approach to enforcing US
+sanctions. In 2020, OFAC took enforcement action against the Deutsche Bank
+Trust Company (“Deutsche Bank”). Deutsche Bank failed to take steps of its own
+to ensure that a sanctioned entity was not involved in a particular
+transaction despite several red flags giving the bank reason to know that the
+sanctioned entity continued to be involved in the transaction. On that basis,
+OFAC imposed a civil penalty on Deutsche Bank for breach of US sanctions.
+
+180 In 2018, in a case against the defendant unrelated to this action, OFAC
+imposed a civil penalty of US$5m on the defendant. In describing the
+defendant’s breaches of US sanctions in that case, OFAC identified one of the
+key aggravating factors as the defendant’s failure to take heed of several red
+flags and other warning signs that entities subject to sanctions were
+participating in transactions which the defendant processed.
+
+181 In the specific context of the shipping industry, OFAC has published
+several advisories placing US persons on notice of deceptive shipping
+practices undertaken to evade US sanctions. These practices include changing
+the name of a vessel, changing its ownership and using layered ownership
+structures to mask the fact that the true ultimate or beneficial ownership of
+the vessel is a sanctioned entity. OFAC specifically identifies the changing
+of the name of a vessel as a common practice of vessels owned by Syrian
+entities in order to evade sanctions.
+
+182 In my view, the entire regulatory infrastructure and superstructure which
+I have just described comes within the meaning of the phrase “sanctions … laws
+and regulations of the US”. All of this is therefore within the scope of the
+phrase “applicable restriction” in the second sentence of the Sanctions
+Clause.
+
+The defendant’s risk-based approach to sanctions compliance
+
+183 The regulatory, reputational and financial risk of being subject to an
+OFAC investigation of even an apparent violation of US sanctions – let alone
+being the subject of a pre-penalty notice – coupled with OFAC’s expectations
+of the due diligence to be conducted by US persons to avoid any breach of US
+sanctions means that US persons are highly incentivised to exercise due
+diligence whenever engaging in transactions which carry a risk of breaching US
+sanctions. This incentive also explains why a US person may prefer to err on
+the side of caution and decline to participate in a transaction despite the
+risk of its due diligence flagging a false positive. This was clear from the
+responses of Ms Alisha T. Burke (“Ms Burke”) to the questions which I put to
+her. Ms Burke heads the Governance and Oversight team within the defendant’s
+Sanctions Compliance department: 107
+
+##### Foot Note 107
+
+×
+
+Certified Transcript, 27 October 2021, pp 33:17–34:6 and 35:12–18.
+
+Court: … Are you saying that an entity or a vessel could be included on your
+master list if the risk to the bank was less than 50 per cent of a violation
+of US sanctions?
+
+A: … if we have a sanctions nexus found in our evidence, we will add the
+entity to the list if we find supporting documentation.
+
+Court: In that sense, is it correct that you would prefer a false positive to
+a false negative? You would prefer the risks associated with a false positive
+to the risks associated with a false negative?
+
+A: Yes.
+
+184 When asked about the approach to analysing Omnia’s ownership status and
+how high the risk was that it had a Syrian nexus, Ms Burke testified that the
+defendant’s approach was not to associate a “risk score” with its analysis or
+to view the assessment from a “percentage perspective”. Instead, the
+defendant’s approach is to ask whether – having regard to its obligations
+under US sanctions laws and regulations and informed by OFAC’s sanctions
+compliance guidance and approach to enforcement action – the defendant’s
+documentation and research supports a sufficient risk of a Syrian nexus. 108
+
+##### Foot Note 108
+
+×
+
+Alisha Burke’s AEIC at paras 14 and 16; Certified Transcript, 27 October 2021,
+pp 30:15–33:25 and 34:19–24.
+
+185 As Ms Burke herself candidly accepted in response to a question from me,
+the defendant took a risk-based decision in December 2019, following the
+plaintiff’s complying presentation, that it would rather be sued by the
+plaintiff for failing to pay against a complying presentation than to be found
+by OFAC to have breached US sanctions. 109
+
+##### Foot Note 109
+
+×
+
+Certified Transcript, 27 October 2021, p 42:11–16.
+
+Although this puts the bank’s risk analysis in the starkest of terms, it is
+nevertheless a wholly accurate reflection of the position in which US banks
+find themselves as a result of their obligation to comply with US sanctions. I
+find this to be a rational and contractually justified approach.
+
+The defendant was entitled to refuse to pay the plaintiff
+
+186 I accept Mr Egan’s expert evidence that OFAC would have found the
+defendant to have breached the SySR if the defendant paid the plaintiff
+against its complying presentation.
+
+187 To explain why, I begin by finding as a fact that Omnia was beneficially
+and ultimately owned in 2015 by an entity known as Ali Samin Group, a Syrian
+entity carrying on business in Syria. 110
+
+##### Foot Note 110
+
+×
+
+Alisha Burke’s AEIC at para 54.
+
+The defendant secured that information as a result of its due diligence in
+2015.
+
+188 I find further that OFAC would have taken the view that Omnia continued to
+be beneficially and ultimately owned by a Syrian entity in 2019 and therefore
+continued to be subject to US sanctions. It would have taken that view because
+of a number of red flags discovered by the defendant when it conducted due
+diligence on Omnia again in August 2019: 111
+
+##### Foot Note 111
+
+×
+
+Alisha Burke’s AEIC at paras 77–78.
+
+(a) The vessel had changed its name to Omnia in February 2019.
+
+(b) At the same time, it changed its registered owner and reported its
+beneficial owner as “unknown owners” in place of the Ali Samin Group. 112
+
+##### Foot Note 112
+
+×
+
+Alisha Burke’s AEIC at paras 74(c)–(e).
+
+(c) The new registered owner of Omnia was reported to be Omnia Maritime
+Limited, an entity incorporated in Barbados. But there was very limited
+information in the public domain on Omnia Maritime Ltd. 113
+
+##### Foot Note 113
+
+×
+
+Alisha Burke’s AEIC at paras 74(f)–(g); 1AB459.
+
+(d) The technical manager of the Omnia was reported to be Serenity Ship
+Management JTL, an entity incorporated in the United Arab Emirates. But the
+beneficial owner of Serenity Ship Management JTL was also reported as
+“unknown”.
+
+(e) The defendant’s searches on publicly available sources suggested that
+Omnia continued to have links to Syria. 114
+
+##### Foot Note 114
+
+×
+
+Alisha Burke’s AEIC at paras 74(i)–(k).
+
+189 Consistently with OFAC’s guidance and past enforcement action (see [178]
+to [181] above), OFAC would see the results of the defendant’s due diligence
+as suggesting that the change of the vessel’s name and the change of its
+registered owner were simply intended to mask the vessel’s continuing Syrian
+ownership. Further, the lack of information about the beneficial ownership of
+the vessel and of the ship management company would be seen as suggesting that
+the registered owner was a shell company and that the beneficial owners of the
+vessel were using multiple ownership layers in order to disguise Syrian
+beneficial ownership and evade US sanctions on Syria.
+
+190 In my view, the due diligence which the defendant conducted on Omnia in
+2015 and again in August 2019, its decision in August 2019 to continue to
+treat Omnia as having a Syrian nexus and its refusal to pay the plaintiff in a
+transaction relating to goods carried on Omnia after applying its risk-based
+assessment are all entirely consistent with OFAC’s expectations of the steps a
+US person must take in order to comply with the SySR.
+
+191 I am satisfied that OFAC would have regarded the red flags which the
+defendant discovered as a result of carrying out the expected due diligence as
+pointing towards continued Syrian beneficial ownership of Omnia. It follows
+that I am satisfied that OFAC would have considered the defendant to be in
+breach of the SySR if it had paid the plaintiff against its complying
+presentation. Indeed, OFAC confirmed that this would have been its position in
+formal guidance which it gave to the defendant in June 2020 for the purposes
+of this litigation. 115
+
+##### Foot Note 115
+
+×
+
+Defendant’s Closing Submissions at paras 67–69; Brian Egan’s Expert Report at
+paras 63–67.
+
+Omnia continued to be owned by a Syrian entity
+
+192 In any event, to the extent that it is the plaintiff’s framing which is
+correct, I am also prepared to find that the red flags I have identified above
+are sufficient circumstantial evidence to discharge the defendant’s burden of
+proving on the balance of probabilities that Omnia was in fact owned by a
+Syrian entity at the material time.
+
+193 I am therefore satisfied that paying the plaintiff would have violated s
+207 of the SySR in that it would have amounted to the defendant indirectly
+providing financial services to Syria. 116
+
+##### Foot Note 116
+
+×
+
+Brian Egan’s Expert Report at para 55.
+
+I am also satisfied that paying the plaintiff would have violated s 210 of the
+SySR in that the defendant would have been financing or facilitating a
+transaction involving activities undertaken by non-US persons where such
+activities if undertaken by a US person would violate the SySR. 117
+
+##### Foot Note 117
+
+×
+
+Brian Egan’s Expert Report at para 56.
+
+Conclusion
+
+194 Considering the evidence in totality, I am satisfied that, if the
+defendant had paid the plaintiff against its complying presentation, OFAC
+would have held that doing so was a breach of the SySR. In any event, I am
+also independently satisfied that paying the plaintiff would have been a
+breach of the SySR. The defendant is therefore entitled to rely on the
+Sanctions Clause as a complete defence to the plaintiff’s claim.
+
+Conclusion
+
+195 For all the foregoing reasons, I have dismissed the plaintiff’s claim in
+its entirety with costs. The defendant is entitled to recover its costs in
+full as between party and party, with such costs to be assessed on the
+standard basis. The defendant is entitled to its costs in full as between
+party and party because it has been wholly successful in this action. There
+are no grounds on which to deprive the defendant of any part of its costs.
+Equally, there are no grounds on which to make an issue-based order for costs,
+ie for awarding to the defendant the costs of some of the issues in this
+action and awarding to the plaintiff the costs of some of the other issues.
+The defendant’s costs are to be assessed on the standard basis because there
+are no grounds on which to make an award of indemnity costs against the
+plaintiff.
+
+196 I have therefore fixed the costs which the plaintiff must pay the
+defendant on the standard basis at $200,000 plus the defendant’s
+disbursements, such disbursements to be agreed by the parties or fixed by the
+court.
+
+A coda on costs
+
+197 Following my decision in this matter awarding costs to the defendant, the
+plaintiff paid the defendant in full the costs of $200,000. But the parties
+were unable to agree on disbursements. It therefore became necessary for me to
+fix the disbursements. I now do so.
+
+198 When assessing costs on the standard basis, the burden rests on the
+receiving party – in this case the defendant – to show that each item of costs
+which it claims was reasonably incurred and is reasonable in amount.
+
+199 The defendant claims total disbursements of $135,474.13. The plaintiff
+challenges only four items of these disbursements. The four items are:
+
+(a) $89,362.03, being the equivalent of US$64,343.16, which are the fees which
+the defendant has paid to Mr Egan for his expert evidence;
+
+(b) $22,617.15 being disbursements such as filing fees, service fees, printing
+charges, binding charges and other items;
+
+(c) $17,419.73 being transcription fees for the trial including the oral
+closing submissions; and
+
+(d) $4,182.47 being oath, attendance and transport fees for the swearing or
+affirmation of the defendant’s affidavits.
+
+200 The plaintiff challenges these four items either on principle, on quantum
+or both. I deal with these items in turn.
+
+Mr Egan’s fees
+
+201 The defendant claims $89,362.03 for Mr Egan’s fees. The defendant supports
+this claim with six invoices which Mr Egan rendered to the defendant for work
+done from February to October 2021. The defendant submits that Mr Egan’s fees
+are recoverable in full because they were reasonably incurred and are
+reasonable in amount. To support the latter point, the defendant relies on the
+amount of research and other work that Mr Egan had to do to produce his
+affidavit of evidence in chief and supplementary affidavit of evidence in
+chief and to prepare for and give his oral evidence in chief at trial.
+
+202 The plaintiff accepts that Mr Egan’s fees were reasonably incurred, and
+that the defendant is therefore entitled in principle to recover his fees.
+However, the plaintiff submits that the defendant has failed to discharge its
+burden of showing that Mr Egan’s fees are reasonable in amount. The
+defendant’s submission is that US$14,000, being 14 hours at a rate of US$1,000
+per hour, would be a reasonable amount for Mr Egan’s fees.
+
+203 Other than in a general qualitative sense, the defendant has not produced
+any evidence to satisfy me that Mr Egan’s fees are reasonable in amount. Mr
+Egan’s invoices are not detailed invoices. They are merely summary invoices
+and are described as such. Each invoice simply set out in three lines: (a) a
+lump sum fee for Mr Egan’s services during a specified period; (b) any
+discount that Mr Egan has applied to those fees; and (c) a lump sum for his
+disbursements over the same period. The invoices do not provide any quantified
+breakdown of the lump sums, whether for fees or for disbursements. The
+invoices do not set out a narrative describing the work which Mr Egan has done
+to justify the lump sum invoiced. The defendant has not produced Mr Egan’s
+timesheets. The defendant has not even produced any evidence of Mr Egan’s
+hourly rate or of what would be a reasonable hourly rate for a practitioner of
+Mr Egan’s seniority and expertise. I would have expected the defendant to do
+at least some of these things to discharge its burden. In effect, the
+defendant is seeking to recover Mr Egan’s fees on the indemnity basis: as
+though the burden were on the plaintiff to show that Mr Egan’s fees are
+unreasonable in amount.
+
+204 I therefore accept the plaintiff’s submission that the defendant has
+failed to discharge its burden of proving that the sum claimed for Mr Egan’s
+fees is reasonable in amount. This item of disbursement cannot therefore be
+allowed in full. Having said that, I consider that the plaintiff’s figure of
+US$14,000 is a derisory underestimate of what would be a reasonable amount for
+the work that Mr Egan did. I have no doubt that Mr Egan did far more than 14
+hours work in this matter and that it was reasonable for him to do so. He had
+to do all of the following: (a) review the documents disclosed in discovery;
+(b) conduct legal research into US sanctions laws and regulations and the role
+of OFAC in administering those sanctions, both generally and as they apply to
+US sanctions against Syria and to banks; (c) draft and revise his two
+affidavits; (d) prepare to give his oral evidence at trial; (e) give his oral
+evidence at trial and respond to my questions. Further, Mr Egan’s evidence was
+of considerable assistance to me. I have found his evidence to be correct in
+its entirety. That finding of fact has had a decisive effect on the outcome of
+this action.
+
+205 The question then is what a reasonable amount for Mr Egan’s fees would be.
+The defendant has failed to address in any quantitative or objectively
+verifiable manner its burden to establish that the sum that Mr Egan has
+invoiced is reasonable. It is therefore impossible to deconstruct the
+defendant’s claim for his fees in any quantitative or objective manner in
+order to assess its reasonableness and to arrive at a figure for his fees
+which is reasonable. I therefore have no alternative but to make a broad-brush
+assessment of what would be a reasonable amount of fees for the defendant to
+have incurred in engaging Mr Egan.
+
+206 In my view, that reasonable amount is $60,000. That figure is the
+equivalent of US$43,200, applying the implied exchange rate that the defendant
+has used. In effect, I consider a deduction of roughly one-third from the sum
+that the defendant has claimed to be sufficient to account for the defendant’s
+failure to discharge its burden of proving that $89,362.03 is a reasonable
+amount for Mr Egan’s fees. That discount reflects my finding that the
+defendant is attempting, in effect, to recover Mr Egan’s fees on the indemnity
+basis even though my award of costs to the defendant was on the standard
+basis.
+
+Printing and binding charges
+
+207 The defendant claims a total of $22,617.15 for filing fees, service fees,
+printing charges and binding charges. Out of this item, the plaintiff
+challenges only the claim for printing and binding charges, and even then only
+on quantum. The plaintiff’s challenge, in summary, is that the defendant
+printed and bound many more copies of the documents in this matter than were
+reasonably necessary. These documents include the affidavits of evidence in
+chief of the witnesses on both sides, the bundles of documents, the bundles of
+authorities and the written submissions.
+
+208 I reject the plaintiff’s submission. The defendant is a large,
+sophisticated multinational corporation. Although the amount claimed in this
+action is not of significant monetary value to the defendant, the outcome of
+this action had significant non-monetary value for the defendant for two
+reasons. First, it was a test case on the validity and enforceability of the
+Sanctions Clause. Second, a finding that the defendant was in breach of
+contract for failing to pay the plaintiff against a complying presentation
+carried reputational consequences for the defendant in Singapore and
+internationally in the market for trade financing. The defendant’s interest in
+this action was therefore substantial and extended beyond Singapore. All of
+this means that it was perfectly reasonable for the defendant’s internal and
+external legal advisers, not just in Singapore but also in New York, to
+monitor this action closely. That would have required multiple physical sets
+of documents to be prepared. Further, two of the defendant’s witnesses gave
+evidence remotely, by video link from different locations. That would have
+required the defendant to give those witnesses not only a physical copy of
+their own affidavit of evidence in chief but also of the entire set of trial
+bundles for the cross-examination.
+
+209 For the foregoing reasons, I find that the defendant did not print more
+sets of these documents than were reasonably necessary. The defendant is
+entitled to recover the printing and binding charges in full.
+
+Transcription costs
+
+210 The defendant claims $17,419.73 for the costs of real-time transcription
+at trial and 24-hour transcription for the closing submissions. The plaintiff
+challenges this item both on principle and on quantum.
+
+211 The relevant facts are as follows. Before trial, the plaintiff and the
+defendant discussed the type of transcription services to be engaged for
+trial. The defendant proposed that the parties pay for real-time
+transcription. The plaintiff counter proposed that the parties pay for
+transcription with a delay of 14 working days. The plaintiff also offered to
+share the costs for 14-day transcription. The parties could not agree. The
+defendant therefore told the plaintiff that each side should engage its
+preferred type of transcription and bear its own costs of doing so.
+
+212 The plaintiff’s submission on principle is as follows. When the defendant
+told the plaintiff pre-trial that each party should bear its own costs for
+engaging its preferred type of transcription, that amounted to the defendant’
+agreement that it would not seek to recover transcription costs from the
+plaintiff under a post-judgment award of costs. Having agreed to bear its own
+costs of transcription, the defendant cannot now recover any sum from the
+plaintiff for transcription costs as party and party costs.
+
+213 I do not accept the plaintiff’s submission on principle. When the
+defendant said that each party should bear its own costs for engaging its
+preferred type of transcription, that was in the context of a discussion about
+the arrangements for paying the transcription costs in the first instance,
+before judgment and as a matter of contract with the service provider. The
+discussion was not about either party’s right to recover transcription costs
+under a post-judgment award of costs as between party and party. The defendant
+perhaps ought to have made this explicit by saying expressly that it reserved
+the right, if it were to succeed at trial, to recover its transcription costs
+from the plaintiff. But saying that pre-trial in the context of the discussion
+which was then ongoing between the parties was unnecessary. The fact remains
+that the parties were not then discussing the recovery of transcription costs
+as between party and party.
+
+214 The plaintiff’s alternative submission is that the defendant should
+recover only $2,392.06 towards its transcription costs. That submission
+proceeds as follows. The defendant has failed to discharge its burden of
+showing that the transcription costs it seeks to recover from the plaintiff
+are reasonable in amount, given that the cost of real-time transcription is
+more than four times the cost of 14-day transcription. Further, the plaintiff
+made a pre-trial offer to the defendant to share the costs for 14-day
+transcription. The defendant should therefore recover only 50% of the costs of
+14-day transcription for this item of disbursements. That sum is $2,392.06.
+
+215 I accept the plaintiff’s submission on quantum. In my view, this was not a
+dispute in which it was reasonable to engage real-time transcription for
+trial. I say that for five reasons. First, this was not a fact-sensitive
+dispute where the witnesses were to be subjected to searching cross-
+examination in minute detail. In a dispute of that nature, it may be necessary
+for counsel cross-examining a witness to demonstrate beyond argument and in
+real time that a witness has changed his evidence or is guilty of recent
+invention. And it is may equally be necessary for counsel calling a witness to
+have immediate access to a verbatim transcript for re-examination. Second,
+this was not a dispute where it was essential to challenge the evidence of one
+witness with a verbatim record of the evidence of another witness given on the
+same day or just a few days earlier. Third, this was not a dispute with
+witnesses giving evidence by a fragile video link from a remote location where
+a real-time transcript may be necessary to compensate for anticipated
+technical difficulties with the audio. Fourth, this was not a dispute where
+there was any urgency or some other factor warranting the court proceeding
+straight from the close of the defence case to oral closing submissions.
+Finally, this was not a case where – in the absence of any of these factors –
+the parties agreed that real-time transcription was reasonably necessary. The
+trial of this dispute, certainly on liability, proceeded largely on undisputed
+facts and questions of law. The parties sought and were given over two months
+after trial to file their written submissions. The plaintiff took the position
+at the outset that real-time transcription was not reasonable and maintains
+that objection now. I therefore accept that the cost of 14-day transcription
+is the measure of the reasonable sum that the defendant should be able to
+recover from the plaintiff for transcription costs. The plaintiff has
+estimated this figure to be $4,784.11. The defendant has not provided an
+alternative figure. I therefore accept the plaintiff’s figure of $4,784.11 as
+a reasonable amount for the transcription costs of this action.
+
+216 The plaintiff, however, goes on to submit that the defendant should be
+entitled to recover only 50% of this figure. The basis of this submission is
+the plaintiff’s pre-trial offer to bear 50% of the cost of 14-day
+transcription. I do not accept this submission. Once again, the plaintiff is
+confusing a pre-trial agreement on how to share the costs of transcription in
+the first instance with a post-judgment entitlement to costs as between party
+and party under an award of costs. The defendant succeeded entirely in the
+trial. It is entitled to recover from the plaintiff the entire sum that it
+should reasonably have incurred for transcription services.
+
+217 The defendant is therefore entitled to recover $4,784.11 from the
+plaintiff towards the transcription costs it incurred at trial. The remainder
+of the transcription charges which the defendant incurred were unreasonably
+incurred and are irrecoverable.
+
+Oath, attendance and transport fees
+
+218 The defendant claims $4,182.47 for oath, attendance and transport fees for
+the swearing or affirmation of the defendant’s affidavits. The plaintiff
+accepts that the defendant is entitled to recover oath fees but submits that
+the defendant is not entitled to recover attendance or transport fees.
+
+219 It appears that the attendance and transport fees in question are for a
+commissioner for oaths to come either to the defendant’s solicitors’ office or
+to the defendant’s own office for the deponents of the defendant’s affidavits
+to swear or affirm their affidavits there rather than at the office of the
+commissioner for oaths. This is undoubtedly a convenience for the defendant,
+for the deponents of its affidavits and for its solicitors. But I accept that
+the costs associated with this convenience is an element of solicitor and
+client costs, and are not recoverable as between party and party.
+
+220 The defendant has not supplied a breakdown to show how much of the
+$4,182.47 claimed is attributable only to oath fees and how much is
+attributable to attendance and transport fees. Once again, therefore, I find
+that I must take a broad-brush approach. Applying that broad brush, I hold
+that the defendant is entitled to recover only 50% of this sum from the
+plaintiff. Rounded off, that amounts to $2,200. The remaining $1,982.47 is
+irrecoverable.
+
+Conclusion on costs
+
+221 For the foregoing reasons, I hold that the defendant is entitled to
+recover the disputed items of disbursements from the plaintiff as follows:
+
+(a) Mr Egan’s fees: only $60,000.
+
+(b) Transcription fees: $4,784.11.
+
+(c) Printing and binding fees: in full as claimed.
+
+(d) Oath, attendance and transport fees: $2,200.
+
+Vinodh Coomaraswamy
+
+Judge of the High Court
+
+Mahmood Gaznavi s/o Bashir Muhammad and Rezza Gaznavi (Mahmood Gaznavi
+Chambers LLC) for the plaintiff;
+
+Chia Voon Jiet, Charlene Wong Su-Yi and Grace Lim Rui Si (Drew & Napier LLC)
+for the defendant.
+
+![Back to Top](/gd/images/gd-dashboard/icon-1-1-1.svg)
+
+This judgment text has undergone conversion so that it is mobile and web-
+friendly. This may have created formatting or alignment issues. Please refer
+to the PDF copy for a print-friendly version.
+
+Version No 1: 01 Nov 2022 (11:17 hrs)
+
+  * ©  SUPREME COURT 
+  * ![Mail](/gd/Content/themes/supct/ic-mail.png)SUBSCRIBE TO SUPREME COURT 
+
+  * REPORT VULNERABILITY
+  * TERMS OF USE
+  * PRIVACY STATEMENT
+  * SUPPORTED BROWSERS
+
+Last updated: 16 Jan 2024
+
+![](/gd/images/gd-dashboard/powered-by.png)
+
