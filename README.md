@@ -1,5 +1,5 @@
 # Purpose of Project
-Client wanted to build a quick MVP of a law search engine that allows lawyers to easily find cases. The current search engine (lawnet) had very limited customizability, UI-friendliness, and UX. The main thing this project validated is the search algorithm (Vector Search)
+Client wanted to build a quick MVP of a law search engine that allows lawyers to easily find cases. The current search engine (lawnet) had limited customizability, UI-friendliness, and UX. The main purpose of this project is to validate the core search logic (Vector Search)
 
 
 # Explanation of Vector Database and Search Algo
@@ -24,14 +24,15 @@ For testing, we used the text-embedding-3-small from OpenAI because it was cost-
 # Meta-Data Considerations
 We spent a significant amount of time experimenting on the best approach for the law search problem. The following were our learnings by the end of the project
 
-1) Using raw html text for vector search is sufficient
+### Using raw html text for vector search is sufficient
+
 We went back and forth multiple times on the best way to index the Vector Database. The best approach was to simply ingest the raw case text data.
 
 We attempted to partition the cases by section header...this didn't work because the data wasn't in a standard format. After hiring VAs to clean the data...the results were mediocore. The problem was across the +8K cases, there were 20-50 different formats, with some not following any strict rule. This meant in the long-term, it would be tough to ingest cases in the standardized format (not scalable)
 
 Another key relealization during client's alpha testing was that the lawyers didn't look at the actual text. Rather, the clicked on the case that came up and viewed the full thing. The lawyers also mentioned that the cases returned were good and useful for their work. As a result, at the end, it was concluded the best approach is to ingest the HTML files raw without displaying the text retrieved to the user.
 
-2) Sticking to simple filters
+### Sticking to simple filters
 As mentioned above, one of the core problems with the Singaporean cases was that they were not in a standardized format. After having the VAs help us clean the text, the results were subpar. So at the end, the client believed that using simple filters (year, type of case, court type) were the best option for the MVP. All 3 filters can found by the name of the HTML file (and the url while scraping). Some of the other filters that seemed important were validated to be unimportant during user testing (coram name, lawyer name, law firm)
 
 
